@@ -1322,6 +1322,324 @@
      "note": "分析哲学的关键转折点"
     }
    ]
+  },
+  {
+   "id": "gr-20c-merleau-ponty",
+   "name": "梅洛-庞蒂",
+   "latin": "Maurice Merleau-Ponty",
+   "birth_year": 1908,
+   "death_year": 1961,
+   "birth_display": "1908年",
+   "death_display": "1961年",
+   "birth_note": "生于法国罗什福尔；据其生平材料，父为海军军官。",
+   "death_note": "1961年卒于巴黎，猝死于书桌前；《可见的与不可见的》未完成。",
+   "era": "法国现象学与战后存在主义。梅洛-庞蒂在巴黎高师与萨特、波伏瓦同学，受胡塞尔与海德格尔影响；他任《现代》杂志编辑，后与萨特因政治分歧决裂。",
+   "school": "现象学（身体现象学）",
+   "core_questions": [
+    "知觉如何先于主客二分而构成意义？",
+    "身体在认识与世界关系中处于什么位置？",
+    "自由与处境如何共在？"
+   ],
+   "arguments": [
+    {
+     "claim": "身体不是客体，而是“在世存在的媒介”",
+     "premises": [
+      "我们从不以“纯粹意识”面对世界，而总是通过身体去感知。",
+      "身体的技能（如盲人用手杖探路）把工具纳入自身，扩展了知觉的边界。"
+     ],
+     "inference": "若知觉总经由身体图式（schéma corporel）组织，则身体不是被认识的客体之一，而是使对象得以显现的条件。",
+     "conclusion": "身体是主体与世界的“交界”，主客二分是派生的抽象。",
+     "kind": "原文"
+    },
+    {
+     "claim": "知觉的原初性：世界先于判断被给予",
+     "premises": [
+      "科学的前提是前科学的“生活世界”。",
+      "格式塔心理学表明知觉整体先于部分。"
+     ],
+     "inference": "若知觉有其自身的结构而非由判断构成，则意义并非全由意识构造，而是在身体与世界的交互中生成。",
+     "conclusion": "须回到“知觉场”描述意义的诞生，而非从反思出发重建。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《知觉现象学》",
+     "edition": "中译参姜志辉译，商务印书馆；法文以 Gallimard 版为准",
+     "note": "1945；身体图式、知觉场、自由与处境"
+    },
+    {
+     "title": "《行为的结构》《可见的与不可见的》",
+     "edition": "《行为的结构》中译参商务印书馆；《可见的与不可见的》中译参商务印书馆",
+     "note": "1942；1964（遗著）"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "胡塞尔",
+     "id": "gr-20c-husserl",
+     "note": "现象学方法；晚期“生活世界”概念"
+    },
+    {
+     "name": "海德格尔",
+     "id": "gr-20c-heidegger",
+     "note": "在世存在的结构"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "身体现象学与认知科学",
+     "id": null,
+     "note": "具身认知（embodied cognition）的理论资源"
+    },
+    {
+     "name": "福柯与后结构主义（部分）",
+     "id": null,
+     "note": "身体作为权力与知识的场所"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "萨特",
+     "view": "以“身体”取代“意识”仍是一种描述，未说明自由如何可能；二者对历史行动的看法亦有分歧。",
+     "response": "梅洛-庞蒂的回应是：自由不是无处境的任意，而是“处境中的自由”；身体正是自由得以落实的位置。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-merleau-ponty",
+      "sep-sartre"
+     ]
+    },
+    {
+     "critic": "结构主义（如列维-斯特劳斯）",
+     "view": "以知觉与身体为中心仍是“人本主义”，忽略语言与结构的构成作用。",
+     "response": "梅洛-庞蒂晚期的回应是：语言与身体并非对立，言语本身是身体化的表达（“言语的身体”）。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-merleau-ponty",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "梅洛-庞蒂否认意识的作用",
+     "why": "他用身体取代“纯粹意识”的优先地位，但知觉仍是意识性的；被否定的是“无身体的反思主体”。"
+    },
+    {
+     "claim": "身体现象学只是心理学描述",
+     "why": "其目标是存在论：说明世界如何通过身体被给予，而非罗列身体经验。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>梅洛-庞蒂：身体作为在世的中介</text><defs><marker id='aMP' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='220' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='150' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>身体图式</text><text x='150' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>技能与习惯的整合</text><rect x='500' y='56' width='220' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='610' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>知觉场</text><text x='610' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>整体先于部分</text><line x1='260' y1='84' x2='330' y2='84' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='500' y1='84' x2='430' y2='84' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='300' y='148' width='160' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='171' text-anchor='middle' font-size='12' fill='#1c3a5c'>身体＝中介</text><text x='380' y='190' text-anchor='middle' font-size='10' fill='#1e2d3d'>非客体</text><line x1='380' y1='122' x2='380' y2='146' stroke='#4a7ba6' marker-end='url(#aMP)'/><line x1='380' y1='204' x2='380' y2='240' stroke='#4a7ba6' marker-end='url(#aMP)'/><rect x='160' y='244' width='440' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='267' text-anchor='middle' font-size='12' fill='#1c3a5c'>结论：意义在身体与世界的交互中生成</text><text x='380' y='286' text-anchor='middle' font-size='10' fill='#1e2d3d'>主客二分是派生的抽象</text><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文立场，图示为重构</text></svg>",
+   "svg_caption": "梅洛-庞蒂：身体图式、知觉场与在世存在（示意图）",
+   "sources": [
+    "sep-merleau-ponty",
+    "sep-sartre",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "梅洛-庞蒂以“身体”取代“纯粹意识”的优先地位：我们从不以无身体的反思面对世界，而总是通过身体图式去感知；知觉有其自身的结构，意义在身体与世界的交互中生成，故主客二分是派生的抽象。其晚期以“肉”（chair）说明可见者与不可见者的交织。",
+    "system": [
+     {
+      "name": "身体图式",
+      "content": "身体不是客体，而是组织知觉、技能与习惯的整体结构，是在世存在的媒介。"
+     },
+     {
+      "name": "知觉原初性",
+      "content": "科学以“生活世界”为前提；知觉整体先于部分，意义非全由判断构成。"
+     },
+     {
+      "name": "处境中的自由",
+      "content": "自由不是无处境的选择，而是在既定处境中的筹划与承担。"
+     },
+     {
+      "name": "肉（chair）",
+      "content": "可见者与不可见者相互交织；“肉”是存在的基本质料（晚期）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "战前与战时（1930—1945）",
+      "change": "《行为的结构》（1942）、《知觉现象学》（1945）。"
+     },
+     {
+      "period": "战后（1945—1961）",
+      "change": "任《现代》编辑；与萨特决裂；《辩证法的历险》（1955）、《可见的与不可见的》（遗著）。"
+     }
+    ],
+    "reception": "身体现象学成为“具身认知”的理论资源；其与萨特的分歧是法国存在主义内部的重要论辩；福柯、德勒兹等部分继承其身体问题。"
+   },
+   "works_detail": [
+    {
+     "title": "《知觉现象学》",
+     "structure": "导论（传统偏见与现象学）、身体、被感知的世界、自由四部分。",
+     "core_thesis": "身体是中介；知觉原初性；处境中的自由。",
+     "editions": "姜志辉译商务印书馆；法文以 Gallimard 版为准",
+     "note": "身体图式见第一部分；自由见第四部分"
+    }
+   ]
+  },
+  {
+   "id": "gr-20c-beauvoir",
+   "name": "波伏瓦",
+   "latin": "Simone de Beauvoir",
+   "birth_year": 1908,
+   "death_year": 1986,
+   "birth_display": "1908年",
+   "death_display": "1986年",
+   "birth_note": "生于巴黎；据其自传《端方淑女》等材料，父为律师。",
+   "death_note": "1986年卒于巴黎；与萨特合葬于蒙帕纳斯公墓。",
+   "era": "法国存在主义与第二波女性主义。波伏瓦在巴黎高师与萨特相识，终身伴侣；她以《第二性》把存在主义方法用于性别分析，成为第二波女性主义的思想奠基者。",
+   "school": "存在主义（女性主义）",
+   "core_questions": [
+    "“女人”是被造成的还是天生的？",
+    "他者如何被建构为“第二性”？",
+    "存在主义自由如何与性别压迫相容？"
+   ],
+   "arguments": [
+    {
+     "claim": "女人不是天生的，而是被造成的",
+     "premises": [
+      "生理性别不决定社会角色。",
+      "教育、习俗与制度把女性塑造成“他者”。"
+     ],
+     "inference": "若“女性气质”是社会建构的，则不存在固定的“女性本质”；所谓“第二性”是相对于男性这一“绝对”而被定义的。",
+     "conclusion": "性别角色是可变的，解放须改变造成它的社会条件。",
+     "kind": "原文"
+    },
+    {
+     "claim": "他者化：女性被构造成相对于男性的客体",
+     "premises": [
+      "主体总倾向于把他人对象化以确立自身。",
+      "历史上男性被默认为“人”，女性则以“相对于男人的他者”被定义。"
+     ],
+     "inference": "若他者化是压迫的认识论机制，则女性的处境不仅是分配问题，更是被剥夺主体地位的问题。",
+     "conclusion": "解放须同时是认识论的（拒绝他者化）与社会的（改变制度）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《第二性》",
+     "edition": "中译参郑克鲁译，上海译文出版社；法文以 Gallimard 版为准",
+     "note": "1949；两卷：事实与神话、实际经验"
+    },
+    {
+     "title": "《端方淑女》《名士风流》",
+     "edition": "《名士风流》中译参上海译文出版社",
+     "note": "1958 自传；1954 龚古尔奖小说"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "萨特",
+     "id": "gr-20c-sartre",
+     "note": "存在先于本质与自欺的分析"
+    },
+    {
+     "name": "黑格尔（主奴辩证法）与马克思",
+     "id": null,
+     "note": "他者化与压迫的结构分析"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "第二波女性主义",
+     "id": null,
+     "note": "《第二性》被视为其思想奠基"
+    },
+    {
+     "name": "巴特勒与性别研究",
+     "id": null,
+     "note": "“被造成”一语被发展为性别操演理论"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后来的女性主义者（如巴特勒）",
+     "view": "以“被造成”解释性别仍预设一个先在的“身体”，未彻底取消“性别”的自然基础。",
+     "response": "波伏瓦式的回应是：她的目标是揭示社会条件的构成作用，而非否认身体；关键是身体的意义如何被社会重写。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-beauvoir",
+      "book-copleston-history"
+     ]
+    },
+    {
+     "critic": "同时代批评者",
+     "view": "以存在主义“自由”解释女性处境，可能低估结构性压迫的强制性。",
+     "response": "波伏瓦的回应是：自由总在处境中行使，“处境中的自由”正是《第二性》的分析框架。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-beauvoir",
+      "sep-sartre"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "波伏瓦主张女人应当像男人",
+     "why": "她批判的是“男性＝人”的默认设定，主张女性成为主体，而非模仿男性。"
+    },
+    {
+     "claim": "《第二性》只是社会学调查",
+     "why": "它以存在主义本体论为框架，分析“他者化”的认识论机制，兼具哲学与历史维度。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>波伏瓦：他者化与被造成的性别</text><defs><marker id='aBV' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>生理不等于角色</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>无固定女性本质</text><rect x='490' y='56' width='230' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>男性＝默认的“人”</text><text x='605' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>女性被定义为他者</text><line x1='155' y1='112' x2='320' y2='150' stroke='#4a7ba6' marker-end='url(#aBV)'/><line x1='605' y1='112' x2='440' y2='150' stroke='#4a7ba6' marker-end='url(#aBV)'/><rect x='250' y='154' width='260' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='177' text-anchor='middle' font-size='12' fill='#1c3a5c'>故“女人不是天生的，</text><text x='380' y='196' text-anchor='middle' font-size='12' fill='#1c3a5c'>而是被造成的”</text><line x1='380' y1='210' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aBV)'/><rect x='150' y='252' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='275' text-anchor='middle' font-size='12' fill='#1c3a5c'>结论：解放须改变造成性别角色的社会条件</text><text x='380' y='294' text-anchor='middle' font-size='10' fill='#1e2d3d'>同时拒绝认识论上的他者化</text><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：核心命题为原文，链条为重构</text></svg>",
+   "svg_caption": "波伏瓦：他者化与“被造成的性别”（示意图）",
+   "sources": [
+    "sep-beauvoir",
+    "sep-sartre",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "波伏瓦以“女人不是天生的，而是被造成的”为核心命题，把存在主义方法用于性别分析：生理性别不决定社会角色，教育、习俗与制度把女性塑造成相对于男性的“他者”。她由此说明压迫不仅是分配问题，更是被剥夺主体地位的认识论问题，解放须同时改变制度与拒绝他者化。",
+    "system": [
+     {
+      "name": "被造成的性别",
+      "content": "生理不等于角色；“女性气质”是社会建构的，故无固定女性本质。"
+     },
+     {
+      "name": "他者化",
+      "content": "男性被默认为“人”，女性以“相对于男人的他者”被定义；这是压迫的认识论机制。"
+     },
+     {
+      "name": "处境中的自由",
+      "content": "自由总在处境中行使；女性处境既是限制也是筹划的起点。"
+     },
+     {
+      "name": "解放的双重任务",
+      "content": "改变造成角色的社会条件，同时拒绝把他者化的眼光内化。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "战前与教学（1929—1943）",
+      "change": "通过教师资格考试，与萨特结识；在中学任教。"
+     },
+     {
+      "period": "战后（1943—1986）",
+      "change": "《第二性》（1949）、《名士风流》（1954，龚古尔奖）、《端方淑女》（1958）；参与女性主义运动。"
+     }
+    ],
+    "reception": "《第二性》被视为第二波女性主义的思想奠基；“被造成”一语被巴特勒发展为性别操演理论；其自传与小说影响法国文学。"
+   },
+   "works_detail": [
+    {
+     "title": "《第二性》",
+     "structure": "两卷：第一卷“事实与神话”（命运、历史、神话），第二卷“实际经验”（成长、处境、解放）。",
+     "core_thesis": "女人不是天生的而是被造成的；他者化；处境中的自由。",
+     "editions": "郑克鲁译上海译文出版社；法文以 Gallimard 版为准",
+     "note": "第二卷“神话”部分论“他者”的建构"
+    }
+   ]
   }
  ],
  "concepts": [

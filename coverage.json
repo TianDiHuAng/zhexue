@@ -1,14 +1,14 @@
 {
  "generated": "2026-11-22",
  "totals": {
-  "entries": 370,
+  "entries": 372,
   "by_level": {
-   "L2": 318,
+   "L2": 320,
    "L1": 52
   },
   "doctrine": {
-   "total": 111,
-   "detail": 111,
+   "total": 113,
+   "detail": 113,
    "auto": 0
   },
   "needs_verification": 52,
@@ -83,10 +83,10 @@
    "unit_id": "gr-20c",
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
-   "philosophers": 8,
+   "philosophers": 10,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 0"
+   "philosophers_slot": "8 上限，余 -2"
   },
   {
    "unit_id": "gr-ancient",
@@ -1846,6 +1846,28 @@
    "level": "L2",
    "sources": 4,
    "verified_sources": 4,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-20c-merleau-ponty",
+   "type": "philosopher",
+   "title": "梅洛-庞蒂",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-20c-beauvoir",
+   "type": "philosopher",
+   "title": "波伏瓦",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-22"
   },
