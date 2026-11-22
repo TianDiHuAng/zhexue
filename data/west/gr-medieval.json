@@ -1,0 +1,1097 @@
+{
+ "unit_id": "gr-medieval",
+ "region": "west",
+ "title": "中世纪经院哲学",
+ "period": "354—1400",
+ "start_year": 354,
+ "end_year": 1400,
+ "summary": "西罗马灭亡后，拉丁欧洲的学术在修道院与主教座堂学校中延续；12 世纪起大学制度、阿拉伯哲学译本与亚里士多德全集的传入改变了问题格局。信仰与理性的关系贯穿全期：奥古斯丁以内在转向与恩典学说奠定框架，波爱修把共相问题与逻辑学交给拉丁世界；11 世纪以后，安瑟尔谟以论证回应信仰，阿伯拉尔以辩证法审查权威；13 世纪亚里士多德主义被阿奎那系统吸收，司各脱与奥卡姆又从意志、个体与简约原则反推其体系。",
+ "threads": [
+  "信仰与理性：从“信以致理解”到“哲学与神学各有其方法”，再到唯名论对二者关系的重估",
+  "共相之争：波爱修提出问题，12 世纪概念论与 14 世纪唯名论逐步取消共相的独立实在",
+  "存在的神学：波爱修的 esse 与 quod est、阿奎那的 actus essendi、司各脱的一义性构成一条独立问题线",
+  "意志与自由：恩典与自由意志、预知与自由、意志与理智的优先之争反复出现",
+  "权力与制度：从《上帝之城》到《论僭越的统治》，教会与世俗权力的界限被反复论证"
+ ],
+ "philosophers": [
+  {
+   "id": "gr-medieval-augustine",
+   "name": "奥古斯丁",
+   "latin": "Aurelius Augustinus (Augustine of Hippo)",
+   "birth_year": 354,
+   "death_year": 430,
+   "birth_display": "354年",
+   "death_display": "430年",
+   "birth_note": "354 年生于北非塔加斯特（今阿尔及利亚苏克阿赫拉斯），据其《忏悔录》与 Possidius《奥古斯丁传》。",
+   "death_note": "430 年汪达尔人围攻希波期间病卒，通行记载为 8 月 28 日。",
+   "era": "罗马帝国基督教化之后的北非。摩尼教、新柏拉图主义与米兰的安布罗斯的解经共同塑造其思想转向；410 年罗马被劫后异教对基督教的责难，构成《上帝之城》的直接背景。",
+   "school": "教父哲学（拉丁教父；后世称奥古斯丁主义）",
+   "core_questions": [
+    "人如何认识上帝：向外观察万物，还是向内审视心灵？",
+    "意志既知善何以仍作恶？恩典与自由意志如何并存？",
+    "时间是什么？过去与未来如何存在于当下？"
+   ],
+   "arguments": [
+    {
+     "claim": "内在转向：真理不在外物而在内在的人之中",
+     "premises": [
+      "人按肉体与感官向外寻求善，所得之物皆可变、会消失。",
+      "心灵能对可变之物作出“应当如此”的判断，故判断的尺度高于所判断者。"
+     ],
+     "inference": "既然心灵能判断可变事物，则该尺度必高于心灵而又为心灵所接触；因此须由外物返回自身，再向上超过自身去接近那不变之光。",
+     "conclusion": "认识上帝的道路是内在的：不要向外走，返回你自身。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "时间不是物体的运动，而是心灵的延展（distentio animi）",
+     "premises": [
+      "人们以天体运动度量时间，但若天体停止而陶轮仍转，仍可用转动计时，可见时间不是天体运动。",
+      "过去已不在、未来尚未在，只有现在存在，而我们确实在当下度量过去与未来。"
+     ],
+     "inference": "若过去与未来都不存在，则被度量的只能是心灵当下的活动：记忆保存过去的印象，期待指向未来，注意把握现在，三者同存于一心。",
+     "conclusion": "时间是心灵的延展；与其说三段时间，不如说过去的现在、现在的现在、将来的现在。",
+     "kind": "原文"
+    },
+    {
+     "claim": "恩典先于并医治自由意志",
+     "premises": [
+      "意志自由使人能选择，但堕落之后意志被无知与困难所困，不能持久向善。",
+      "人若仅凭自身能力即可恒久行善，则基督的恩典便非必需。"
+     ],
+     "inference": "若恩典只是对已有能力的补充，则得救的根据便在人的意志；而经验表明意志不能自持于善，故恩典须先在意志中造成“愿意”，再由意志自由地行善。",
+     "conclusion": "恩典先行，自由意志被更新而真实地行善，二者不相互取消。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "两座城：两种爱造就两种社会",
+     "premises": [
+      "人由两种爱被区分：爱自己以至于轻视上帝，或爱上帝以至于轻视自己。",
+      "地上之城由前者构成，上帝之城由后者构成，二者在历史中交错混合。"
+     ],
+     "inference": "若一个“城”由共同所爱之物联结，则爱的对象不同便构成两个不同的城，其纷争根源于爱的秩序，而非仅在于制度差异。",
+     "conclusion": "罗马之陷落不证明基督教之罪；历史的判准在爱的秩序，不在帝国的兴衰。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《忏悔录》（Confessiones）",
+     "edition": "Pusey 英译（New Advent 全文）；中译参周士良译《忏悔录》，商务印书馆",
+     "note": "十三卷，约 397—400 年成书；卷十为记忆分析，卷十一为时间分析"
+    },
+    {
+     "title": "《上帝之城》（De civitate Dei）",
+     "edition": "Dods 英译（New Advent 全文）；中译参吴飞译《上帝之城》，上海三联书店",
+     "note": "二十二卷，413—426 年陆续写成；卷十四论两种爱与两座城"
+    },
+    {
+     "title": "《论自由意志》《论恩典与自由意志》",
+     "edition": "拉丁文见《拉丁教父集》卷 32 与卷 44；英译见《教父文集》丛书（版次待核）",
+     "note": "前者为早期著作（约 388—395），后者为晚年反佩拉纠著作（426—427）"
+    }
+   ],
+   "influenced_by": [
+    {"name": "新柏拉图主义（普罗提诺一系）", "id": null, "note": "《忏悔录》卷七记其在米兰读到“柏拉图派著作”，由此解决恶与不变之善的问题"},
+    {"name": "安布罗斯与寓意解经传统", "id": null, "note": "《忏悔录》卷五至卷六记其受安布罗斯“字面与寓意并重”的解经影响"},
+    {"name": "西塞罗《荷尔顿西乌斯》", "id": null, "note": "《忏悔录》卷三称该书“唤起其对智慧本身的爱”"}
+   ],
+   "influenced": [
+    {"name": "安瑟尔谟", "id": "gr-medieval-anselm", "note": "“信仰寻求理解”的纲领与内在转向的语式直接承自奥古斯丁"},
+    {"name": "托马斯·阿奎那", "id": "gr-medieval-aquinas", "note": "恩典与自由意志的协调、意志的次序问题被重新处理"},
+    {"name": "波爱修", "id": "gr-medieval-boethius", "note": "《哲学的慰藉》论幸福与至善时沿用奥古斯丁式的内在进路"},
+    {"name": "路德与宗教改革", "id": null, "note": "恩典与意志之争在 16 世纪以更激烈的方式重现"}
+   ],
+   "criticisms": [
+    {
+     "critic": "佩拉纠派（如朱利安）",
+     "view": "若恩典是内在的、先在的恩赐，则人的努力与道德责任被架空；若上帝预定，则惩罚不义之人便不合理。",
+     "response": "奥古斯丁的回应：恩典不取消意志，而是医治并释放意志；预定不使人免于劝勉，因为劝勉本身正是恩典施行的方式之一。",
+     "kind": "后人解读",
+     "sources": ["sep-augustine", "book-gilson-medieval"]
+    },
+    {
+     "critic": "托马斯·阿奎那（对奥古斯丁式意志观的修正）",
+     "view": "若意志在本性上必然欲求普遍的善，则堕落意志的“无能”不必以恩典的内在推动来解释，用习性与德性的缺陷即可说明。",
+     "response": "奥古斯丁式回应：习性与德性只能解释倾向的强弱，不能解释意志为何在明知善时仍不选择善；缺口正在意志的转向本身。",
+     "kind": "后人解读",
+     "sources": ["sep-aquinas", "sep-augustine"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "奥古斯丁主张信仰就是盲从，与理性对立",
+     "why": "他的公式是“信以致理解”：信仰提供理解的出发点，理解又反过来深化信仰；《论三位一体》与《忏悔录》卷十都在做艰难的理性探究。把“先信”读成“反对理性”，会错失其认识次序的论证。"
+    },
+    {
+     "claim": "“上帝之城”指教会，“地上之城”指国家",
+     "why": "二者在历史中交错混合，其区分标准是爱的对象而非制度归属；可见的教会成员未必属于上帝之城，帝国官吏也可能是上帝之城的成员。"
+    }
+   ],
+   "quotes": [
+    {"text": "时间究竟是什么？没有人问我，我倒清楚；有人问我，我便茫然不解", "source_id": "na-confessions", "locator": "《忏悔录》卷十一 第 14 章", "kind": "原文"},
+    {"text": "你为自己造了我们，我们的心若不安息在你怀中，便不会安宁", "source_id": "na-confessions", "locator": "《忏悔录》卷一 第 1 章", "kind": "原文"},
+    {"text": "两种爱造就两座城：爱自己以至轻视上帝，造就地上之城", "source_id": "na-cityofgod", "locator": "《上帝之城》卷十四 第 28 章", "kind": "原文"}
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>奥古斯丁：内在转向与时间的延展</text><defs><marker id='arm1' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='60' y='52' width='640' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='74' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提一：向外寻求所得皆可变</text><text x='380' y='94' text-anchor='middle' font-size='10' fill='#1e2d3d'>感官之物生灭不定，不能提供不变的尺度</text><line x1='380' y1='104' x2='380' y2='136' stroke='#4a7ba6' marker-end='url(#arm1)'/><rect x='60' y='140' width='640' height='52' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='162' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提二：心灵能判断可变之物</text><text x='380' y='182' text-anchor='middle' font-size='10' fill='#1e2d3d'>判断的尺度高于所判断者，却为心灵所接触</text><line x1='380' y1='192' x2='380' y2='224' stroke='#4a7ba6' marker-end='url(#arm1)'/><rect x='60' y='228' width='640' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='250' text-anchor='middle' font-size='13' fill='#1c3a5c'>推理：返回内在的人，再向上超过自身</text><text x='380' y='270' text-anchor='middle' font-size='10' fill='#1e2d3d'>真理居于内在的人之中，不在外物之中</text><line x1='380' y1='280' x2='380' y2='308' stroke='#4a7ba6' marker-end='url(#arm1)'/><rect x='120' y='312' width='520' height='44' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='339' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：内在转向；时间是心灵的延展</text><text x='380' y='378' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：时间分析见《忏悔录》卷十一，“延展”为通行译法</text></svg>",
+   "svg_caption": "奥古斯丁：内在转向与“时间是心灵延展”的推论（重构示意图）",
+   "sources": ["sep-augustine", "iep-augustine", "na-confessions", "na-cityofgod"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-boethius",
+   "name": "波爱修",
+   "latin": "Anicius Manlius Severinus Boethius",
+   "birth_year": 477,
+   "death_year": 524,
+   "birth_display": "约477年",
+   "death_display": "约524年",
+   "birth_note": "生年约 477 年（一说 475 或 480 年），据其仕宦年代与家族记载推定。",
+   "death_note": "约 524 年被处死（一说 525 年），罪名是与东罗马通敌谋叛。",
+   "era": "东哥特王国治下的意大利。罗马元老贵族在蛮族宫廷中维持拉丁学术，波爱修计划把柏拉图与亚里士多德全部著作译为拉丁文并加以会通，实际只完成部分逻辑学著作与注疏。",
+   "school": "拉丁教父学术的殿军与早期经院哲学的先声",
+   "core_questions": [
+    "属与种是存在于事物之中，还是仅在思想之中？",
+    "若上帝预知一切，人的自由选择是否还有意义？",
+    "至善与幸福是什么？命运的无常如何承受？"
+   ],
+   "arguments": [
+    {
+     "claim": "共相实存于可感事物之中，被理解于心灵之中",
+     "premises": [
+      "若属与种不存在于事物之中，则众多个体之间的相似便无所以然。",
+      "然而我们思考“人”时，所思的不是某一个别的人，而是抽去个别性之后的形式。"
+     ],
+     "inference": "故须区分两种存在方式：共相在可感事物中作为形式而 subsist，在心灵中被抽象地理解；它既不是分离的实体，也不是空洞的声音。",
+     "conclusion": "共相 subsist 于事物、被理解于心灵：这是最早的成体系折中方案。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“存在（esse）”与“是何（quod est）”必须区分",
+     "premises": [
+      "若“存在”本身就是善的、大的，则万物皆因其存在而同等为善、为大，差别无从说明。",
+      "受造物“是某物”靠的是它所分有的形式，而“存在”本身不是某一种形式。"
+     ],
+     "inference": "既然“是这”“是那”由形式决定，而存在不被任何形式限定，则二者不能等同：esse 是使某物存在的根据，quod est 是被形式规定的这个某物。",
+     "conclusion": "存在与“是何”不同；这一区分经其神学短论传至中世纪。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "上帝的预知不取消自由（《哲学的慰藉》卷五）",
+     "premises": [
+      "必然性有两种：单纯必然（如人必死）与条件必然（如“你看见某人在走”，则他在走）。",
+      "上帝的预知属于永恒的当下，并不像我们的预知那样在时间上先于事件。"
+     ],
+     "inference": "若上帝的看是永恒现在的看，则被看者的行为并未因被看而受强迫；故预知只构成条件必然，不取消选择的自由。",
+     "conclusion": "预知与自由相容；自由意志是理性造物能受赏罚的根据。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《哲学的慰藉》（De consolatione philosophiae）",
+     "edition": "Loeb Classical Library 拉丁文英文对照本（Stewart 与 Rand 校译）；中译参商务印书馆“汉译世界学术名著”本（具体版次待核）",
+     "note": "五卷，散文与韵文交错；卷五论预知与自由"
+    },
+    {
+     "title": "《波菲利〈导论〉注释》（In Porphyrii Isagogen）",
+     "edition": "拉丁文见《拉丁教父集》卷 64；英译见 Loeb 版波爱修卷及 Spade 编译本",
+     "note": "有两稿，共相问题的系统表述见第二稿"
+    },
+    {
+     "title": "《论七种学科》《论三位一体》等神学短论",
+     "edition": "拉丁文见《拉丁教父集》卷 63—64；英译参 Loeb 版波爱修卷",
+     "note": "短论第五篇（ Contra Eutychen ）论“存在”与“是何”的区分"
+    }
+   ],
+   "influenced_by": [
+    {"name": "亚里士多德（《范畴篇》《解释篇》）", "id": null, "note": "其拉丁译注是拉丁世界理解亚里士多德逻辑学的最早通道"},
+    {"name": "新柏拉图主义（普罗克洛斯一系）", "id": null, "note": "《哲学的慰藉》的至善、天意与流溢结构取自普罗克洛斯与普罗提诺"}
+   ],
+   "influenced": [
+    {"name": "托马斯·阿奎那", "id": "gr-medieval-aquinas", "note": "esse 与 quod est 的区分被改造为“存在（actus essendi）”与本质的实在区分"},
+    {"name": "阿伯拉尔", "id": "gr-medieval-abelard", "note": "《是与否》的方法与共相讨论直接沿用波爱修译注所定的术语"},
+    {"name": "奥卡姆的威廉", "id": "gr-medieval-ockham", "note": "以“共相只是心智中的概念”推进其反实在论方向"},
+    {"name": "但丁与中世纪文学", "id": null, "note": "《神曲·天堂篇》把波爱修列为天堂的智慧之光"}
+   ],
+   "criticisms": [
+    {
+     "critic": "阿伯拉尔及 12 世纪概念论者",
+     "view": "若共相既 subsist 于可感事物之中又被理解于心灵，则同一形式被分割到各个个体中，说法自相矛盾。",
+     "response": "波爱修式回应：形式在个体中并未被分割，正如同一张脸在数面镜中被分有而不因此碎裂；抽象只是心灵注意方式的转变。",
+     "kind": "后人解读",
+     "sources": ["sep-boethius", "sep-universals-medieval"]
+    },
+    {
+     "critic": "托马斯·阿奎那",
+     "view": "以“条件必然”解释预知虽有启发，但尚未说明永恒与时间的关系如何成立，须以“永恒即无先后地拥有无限生命之整体”的界定补足。",
+     "response": "波爱修一系的回应：这一界定正是波爱修在卷五所给出的定义，阿奎那的表述是其展开而非推翻。",
+     "kind": "后人解读",
+     "sources": ["sep-aquinas", "sep-boethius"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《哲学的慰藉》是基督教护教著作",
+     "why": "该书通篇只以哲学女神为对话者，论至善、天意与命运，未提基督与教会；学界对其写作意图（纯哲学的安慰，还是隐含神学）长期有争论，不能简单归为护教文。"
+    },
+    {
+     "claim": "波爱修只是“过渡人物”，其思想无独创性",
+     "why": "他确立了拉丁世界的逻辑学术语与共相问题的提问方式，并提出 esse 与 quod est 的区分；把“过渡”当作“无贡献”，会抹去 12 世纪以前拉丁哲学的实际内容。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>波爱修：共相的存在方式与 esse</text><defs><marker id='arm2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='48' y='56' width='208' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='152' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>问题：属种何在</text><text x='152' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>波菲利三问，未作答</text><rect x='504' y='56' width='208' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='608' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>两条退路不通</text><text x='608' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>分离实体／空洞声音</text><line x1='256' y1='86' x2='330' y2='86' stroke='#4a7ba6' marker-end='url(#arm2)'/><line x1='504' y1='86' x2='430' y2='86' stroke='#4a7ba6' marker-end='url(#arm2)'/><rect x='334' y='56' width='92' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='80' text-anchor='middle' font-size='12' fill='#1c3a5c'>区分</text><text x='380' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>两种存在方式</text><line x1='380' y1='116' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#arm2)'/><rect x='180' y='160' width='400' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='184' text-anchor='middle' font-size='13' fill='#1c3a5c'>在事物中 subsist，在心灵中被理解</text><text x='380' y='206' text-anchor='middle' font-size='10' fill='#1e2d3d'>由此再分：esse 与 quod est 不是一回事</text><line x1='380' y1='222' x2='380' y2='258' stroke='#4a7ba6' marker-end='url(#arm2)'/><rect x='110' y='262' width='540' height='62' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='286' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：共相折中；存在不同于“是何”</text><text x='380' y='308' text-anchor='middle' font-size='10' fill='#1e2d3d'>“存在”不被形式限定，“是何”由形式规定</text><text x='380' y='356' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：《哲学的慰藉》未提基督，其性质学界仍有讨论</text></svg>",
+   "svg_caption": "波爱修：共相问题的折中方案与 esse/quod est 的区分（重构示意图）",
+   "sources": ["sep-boethius", "sep-universals-medieval", "book-gilson-medieval"],
+   "needs_verification": true,
+   "pending_notes": "《哲学的慰藉》的宗教性质（是否隐含基督教立场）与《导论》注释两稿的成书年代，学界均有讨论；本页按“共相折中方案”处理，不判定其宗教归属。"
+  },
+  {
+   "id": "gr-medieval-anselm",
+   "name": "安瑟尔谟",
+   "latin": "Anselm of Canterbury (Anselmus)",
+   "birth_year": 1033,
+   "death_year": 1109,
+   "birth_display": "1033年",
+   "death_display": "1109年",
+   "birth_note": "1033 年生于皮埃蒙特奥斯塔（Aosta），据其传记作者 Eadmer 的记述。",
+   "death_note": "1109 年 4 月 21 日卒于坎特伯雷，葬于该地主教座堂。",
+   "era": "诺曼征服之后的英格兰教会。修道院学校（贝克修道院）取代主教座堂学校成为学术中心；他先后任贝克修道院院长与坎特伯雷大主教，任内与王权就主教叙任权长期争执，两度流亡。",
+   "school": "本笃会修道院学派（后世称安瑟尔谟主义）",
+   "core_questions": [
+    "能否仅由一个概念推出上帝存在？",
+    "信仰与理解孰先？为何信徒仍须论证？",
+    "上帝为何成人？赎价是向谁支付的？"
+   ],
+   "arguments": [
+    {
+     "claim": "本体论论证：可设想无与伦比之大者必然存在",
+     "premises": [
+      "“上帝”被理解为“可设想无与伦比之大者”（id quo maius cogitari nequit）。",
+      "即使否认上帝存在的愚人，心中也拥有这个概念，因为他听懂了这句话。"
+     ],
+     "inference": "若它只在心中存在，则还可设想一个既在心中又在现实中的更大者，这与“无与伦比之大者”的定义矛盾；故它不能只在心中存在。",
+     "conclusion": "可设想无与伦比之大者必然在现实中存在（《宣讲》第 2 章）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“不能设想其不存在”是更高的完满",
+     "premises": [
+      "凡可设想为不存在者，就不是无与伦比之大者。",
+      "无与伦比之大者若能设想为不存在，则与其概念矛盾。"
+     ],
+     "inference": "故它不能不被设想为存在；存在属于其必然性，而不是附加于其上的偶然事实。",
+     "conclusion": "上帝的存在是必然的：设想其不存在即为不可能（《宣讲》第 3 章）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "信仰寻求理解（fides quaerens intellectum）",
+     "premises": [
+      "基督教的信条由启示给出，人不能凭理性先行发现其全部内容。",
+      "然而信徒被要求去理解所信之事，因为理性是上帝赐予受造者的能力。"
+     ],
+     "inference": "若信与知以同一真理为对象，则信提供待理解的内容，理解则展示其内在的必然性；故先信后懂是方法上的次序，不是真理上的分裂。",
+     "conclusion": "先信仰以便理解：信不是理解的替代，而是理解的起点与尺度。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《宣讲》（Proslogion）",
+     "edition": "拉丁文校勘本见 Schmitt 编《安瑟尔谟全集》；英译参 Hopkins 与 Richardson 译本；中译选本版次待核",
+     "note": "原名《信仰寻求理解》；第 2—4 章为论证，其后论上帝的属性"
+    },
+    {
+     "title": "《独白》（Monologion）",
+     "edition": "同上 Schmitt 校本；英译见同一译本集（版次待核）",
+     "note": "由善、大、存在的等级推至至善至大者，属“由效果上行”的进路"
+    },
+    {
+     "title": "《上帝何以成人》（Cur Deus homo）",
+     "edition": "拉丁文见 Schmitt 校本卷二；英译参 Southern 译本与 Hopkins 译本",
+     "note": "以“满足说”解释道成肉身与赎价，取代此前的“赎金付给魔鬼”说"
+    },
+    {
+     "title": "《论语法家》《论真理》《论自由选择》",
+     "edition": "拉丁文见 Schmitt 校本卷一；英译参 Hopkins 与 Richardson 译本",
+     "note": "《论语法家》讨论指称与共相，是研究其逻辑立场的主要文本"
+    }
+   ],
+   "influenced_by": [
+    {"name": "奥古斯丁", "id": "gr-medieval-augustine", "note": "“信以致理解”与内在转向的语式直接承之"},
+    {"name": "波爱修", "id": "gr-medieval-boethius", "note": "逻辑学术语与“至善—幸福”的框架经其译注传入修道院学校"}
+   ],
+   "influenced": [
+    {"name": "托马斯·阿奎那", "id": "gr-medieval-aquinas", "note": "拒绝以本体论论证为证明而另立五路，但保留“上帝即至高善”的框架"},
+    {"name": "邓斯·司各脱", "id": "gr-medieval-duns-scotus", "note": "以“无限存在者”重述本体论论证，其完满概念与安瑟尔谟相接"},
+    {"name": "笛卡尔与莱布尼茨", "id": null, "note": "近代本体论论证的诸版本以《宣讲》第 2 章为原型"},
+    {"name": "卡尔·巴特与新教神学", "id": null, "note": "巴特以“信仰寻求理解”对抗自然神学，重新激活安瑟尔谟的纲领"}
+   ],
+   "criticisms": [
+    {
+     "critic": "高尼罗（Gaunilo of Marmoutiers）",
+     "view": "若这一推理成立，则必有一座“无与伦比的岛”存在于现实中；而由概念推出现实存在显然是谬误（《为愚人辩》）。",
+     "response": "安瑟尔谟的回应：论证只适用于“无与伦比之大者”这一唯一可设想而无以复加者；任何受造物（岛或别的有限物）都可以设想更伟大者，故不适用该推理（《答高尼罗》）。",
+     "kind": "原文",
+     "sources": ["sep-anselm", "book-gilson-medieval"]
+    },
+    {
+     "critic": "托马斯·阿奎那",
+     "view": "由概念分析只能得出“上帝”一词在我们的理解中的含义，不能得出其在现实中的存在；除非已知其本质，否则不能把存在加于该概念（《神学大全》I q.2 a.1）。",
+     "response": "安瑟尔谟式回应：论证的前提不是任意定义，而是“可设想无与伦比之大者”这一为信者与不信者共用的意向对象；否认者仍须说明其所否认者是什么。",
+     "kind": "后人解读",
+     "sources": ["sep-anselm", "sep-aquinas", "na-summa"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "本体论论证是“因为我想得到上帝，所以上帝存在”",
+     "why": "论证的起点不是心理事实，而是“无与伦比之大者”这一概念的内在一致性；其力量取决于“存在是完满性”这一前提，而不取决于是否真有人在想象。"
+    },
+    {
+     "claim": "“信仰寻求理解”意味着先放弃理性",
+     "why": "《宣讲》通篇是推理，序言说明他把论证作为默想呈给上帝；他反对的是以理解取代信仰或反之，而不是取消理性。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>安瑟尔谟：由概念到存在的推论</text><defs><marker id='arm3' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='48' y='56' width='208' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='152' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提一：概念在心中</text><text x='152' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>愚人也听懂“无与伦比之大者”</text><rect x='504' y='56' width='208' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='608' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>反设：只在心中</text><text x='608' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>则可设想更伟大者在现实</text><line x1='256' y1='86' x2='330' y2='86' stroke='#4a7ba6' marker-end='url(#arm3)'/><line x1='504' y1='86' x2='430' y2='86' stroke='#4a7ba6' marker-end='url(#arm3)'/><rect x='334' y='56' width='92' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='80' text-anchor='middle' font-size='12' fill='#1c3a5c'>矛盾</text><text x='380' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>与定义冲突</text><line x1='380' y1='116' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#arm3)'/><rect x='180' y='160' width='400' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='184' text-anchor='middle' font-size='13' fill='#1c3a5c'>故不能只在心中存在</text><text x='380' y='206' text-anchor='middle' font-size='10' fill='#1e2d3d'>第 3 章再进一步：不能设想其不存在</text><line x1='380' y1='222' x2='380' y2='258' stroke='#4a7ba6' marker-end='url(#arm3)'/><rect x='110' y='262' width='540' height='62' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='286' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：其存在是必然的，非偶然事实</text><text x='380' y='308' text-anchor='middle' font-size='10' fill='#1e2d3d'>高尼罗以“迷失岛”反驳，安瑟尔谟答以唯一性条件</text><text x='380' y='356' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：论证的文字见《宣讲》第 2—3 章，本图为结构重构</text></svg>",
+   "svg_caption": "安瑟尔谟：由“无与伦比之大者”到其必然存在的论证结构（重构示意图）",
+   "sources": ["sep-anselm", "sep-universals-medieval", "book-gilson-medieval"],
+   "needs_verification": true,
+   "pending_notes": "《宣讲》《独白》暂无已通过核验的原典在线来源（sources.json 中只有《忏悔录》《上帝之城》《神学大全》三部原典 verified），故本页未收直引；引文待补原典来源。"
+  },
+  {
+   "id": "gr-medieval-abelard",
+   "name": "阿伯拉尔",
+   "latin": "Peter Abelard (Petrus Abaelardus)",
+   "birth_year": 1079,
+   "death_year": 1142,
+   "birth_display": "1079年",
+   "death_display": "1142年",
+   "birth_note": "1079 年生于南特附近勒帕莱（Le Pallet），据其《我的苦难史》自述。",
+   "death_note": "1142 年 4 月 21 日卒于索恩河畔沙隆的圣马塞尔修道院。",
+   "era": "12 世纪的法国。城市学校与游学教师兴起，辩证法成为神学工具；他先后在巴黎等地讲学，因《论三位一体》受谴责，晚年隐居于克吕尼一系的修道院。",
+   "school": "辩证神学（城市学派；后世归入概念论）",
+   "core_questions": [
+    "共相若既非实物也非空名，它到底是什么？",
+    "罪的判准是行为还是意图？",
+    "权威典籍互相矛盾时，如何求得真理？"
+   ],
+   "arguments": [
+    {
+     "claim": "共相是谓词性的概念（sermo）：有客观依据而无独立实体",
+     "premises": [
+      "若共相是实在的物，则“人”既在苏格拉底之中又在柏拉图之中，同一物将分裂于多处。",
+      "若共相只是声音（vox），则“苏格拉底是人”与“苏格拉底是石头”在逻辑上无从区别。"
+     ],
+     "inference": "共相须同时满足“可述说多个个体”与“不因此被分割”两个条件；只有作为心灵由个体相似性形成的共同概念，它才两者兼得。",
+     "conclusion": "共相是概念（谓词）：有客观依据（个体的相似），无独立实体。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "罪在于意图（consensus），不在行为的外形",
+     "premises": [
+      "同一行为（如处死罪犯与谋杀无辜者）在不同意图下或为义或为罪。",
+      "若行为本身即罪，则依法行刑者与谋杀者同罪，显然不合。"
+     ],
+     "inference": "既然行为的外表可以相同而道德性质不同，则判准必在行为所由出的意图；行为只是意图的显现。",
+     "conclusion": "杀人与杀人罪不同：罪是轻视上帝、同意于不当之意图。",
+     "kind": "原文"
+    },
+    {
+     "claim": "《是与否》的辩证方法：由矛盾求真理",
+     "premises": [
+      "教父与圣经文本在诸多论题上表面互相抵触，他汇集一百五十余个论题的正反引文。",
+      "若回避矛盾，则读者只能任选其一，或把权威当作无矛盾的偶像。"
+     ],
+     "inference": "把正反引文并列，迫使读者考察词义、语境与作者意图的差异；在辨析中，表面矛盾或消解，或暴露为真正的问题。",
+     "conclusion": "辩证的追问是通往真理的合法工具，权威须被理解而非仅被重复。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《是与否》（Sic et Non）",
+     "edition": "拉丁文见《拉丁教父集》卷 178；英译参 Throop 译本（版次待核）",
+     "note": "序言列出解释矛盾的若干规则，是其方法论纲领"
+    },
+    {
+     "title": "《伦理学，或认识你自己》（Ethica seu Scito te ipsum）",
+     "edition": "拉丁文见《拉丁教父集》卷 178；英译参 Spade 编《Ethical Writings》",
+     "note": "意图伦理的主要文本，论罪、意图与同意"
+    },
+    {
+     "title": "《我的苦难史》（Historia calamitatum）与书信",
+     "edition": "拉丁文见《拉丁教父集》卷 178；英译参 Radice 译本《The Letters of Abelard and Heloise》",
+     "note": "自传性书信，与爱洛依丝往返的书信涉及罪与救赎的讨论"
+    },
+    {
+     "title": "《基督教神学》（Theologia christiana）",
+     "edition": "拉丁文见《拉丁教父集》卷 178；英译见 Bell 与 Cottrell 译本（版次待核）",
+     "note": "因三位一体的表述于 1121 年苏瓦松会议受谴责"
+    }
+   ],
+   "influenced_by": [
+    {"name": "波爱修", "id": "gr-medieval-boethius", "note": "共相问题的术语与《导论》注释所定的问题框架"},
+    {"name": "亚里士多德逻辑学（经波爱修译注）", "id": null, "note": "《范畴篇》《解释篇》的辩证法工具是其教学的基础"},
+    {"name": "安瑟尔谟", "id": "gr-medieval-anselm", "note": "早年受其“信以求理解”影响，后转而强调辩证的优先"}
+   ],
+   "influenced": [
+    {"name": "奥卡姆的威廉", "id": "gr-medieval-ockham", "note": "把“共相是心智概念”推进为彻底的唯名论"},
+    {"name": "托马斯·阿奎那", "id": "gr-medieval-aquinas", "note": "《神学大全》的 quaestio 体例与“正反两难—解答”结构承《是与否》"},
+    {"name": "中世纪大学的辩证法教学", "id": null, "note": "quaestio disputata 成为经院教学的标准形式"},
+    {"name": "爱洛依丝", "id": null, "note": "书信中以“意图”追问其伦理立场，并参与其神学讨论"}
+   ],
+   "criticisms": [
+    {
+     "critic": "圣伯尔纳（Bernard of Clairvaux）",
+     "view": "以辩证之法处理三位一体与恩典，等于用人的推理裁量信仰；其次序被颠倒（1121 年苏瓦松会议、1140 年桑斯会议皆谴责其主张）。",
+     "response": "阿伯拉尔式回应：辩证不裁决信条，只澄清语词；若不许提问，则正统与异端的区别亦无从说明。",
+     "kind": "后人解读",
+     "sources": ["sep-abelard", "book-gilson-medieval"]
+    },
+    {
+     "critic": "唯实论者（如香浦的威廉一系）",
+     "view": "若共相只是概念，则“人”这一共同本性便无实在根据，物种的稳定性与定义的真理性都失去依托。",
+     "response": "阿伯拉尔回应：概念的客观依据在于上帝创世时置入个体的共同相似性，故不必设定分离的共相实在。",
+     "kind": "后人解读",
+     "sources": ["sep-universals-medieval", "sep-abelard"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "阿伯拉尔是唯名论者，主张共相只是空名",
+     "why": "他自己否认共相只是声音（vox），而区分“声音”与“有意义的谓词（sermo）”；12 世纪的概念论与 14 世纪的唯名论在“概念有无客观依据”上并不相同。"
+    },
+    {
+     "claim": "他与爱洛依丝的故事只是轶事，与哲学无关",
+     "why": "《我的苦难史》与两人往返的书信讨论同意、罪与救赎；爱洛依丝以“若意图纯洁，行为是否仍有罪”追问，是理解其意图伦理的重要语境。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>阿伯拉尔：正反并列与意图判准</text><defs><marker id='arm4' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='210' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>正：权威引文 A</text><text x='145' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>“凡不出于信心的都是罪”</text><rect x='510' y='56' width='210' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='615' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>反：权威引文 B</text><text x='615' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>同一论题下的相反表述</text><line x1='250' y1='86' x2='330' y2='86' stroke='#4a7ba6' marker-end='url(#arm4)'/><line x1='510' y1='86' x2='430' y2='86' stroke='#4a7ba6' marker-end='url(#arm4)'/><rect x='334' y='56' width='92' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='80' text-anchor='middle' font-size='12' fill='#1c3a5c'>辨析</text><text x='380' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>词义·语境·意图</text><line x1='380' y1='116' x2='380' y2='152' stroke='#4a7ba6' marker-end='url(#arm4)'/><rect x='140' y='156' width='480' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='180' text-anchor='middle' font-size='13' fill='#1c3a5c'>共相：既非实物，亦非空名</text><text x='380' y='202' text-anchor='middle' font-size='10' fill='#1e2d3d'>相似性为据，概念为述说方式</text><line x1='380' y1='216' x2='380' y2='250' stroke='#4a7ba6' marker-end='url(#arm4)'/><rect x='96' y='254' width='568' height='66' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='278' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论一：罪在意图，不在行为外形</text><text x='380' y='300' text-anchor='middle' font-size='10' fill='#1e2d3d'>“杀人与杀人罪不同”（《伦理学》第 4 章）</text><text x='380' y='356' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：《是与否》汇集一百五十余论题，本图为结构示意</text></svg>",
+   "svg_caption": "阿伯拉尔：正反并列的辩证结构与意图判准（重构示意图）",
+   "sources": ["sep-abelard", "sep-universals-medieval", "book-gilson-medieval"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-aquinas",
+   "name": "托马斯·阿奎那",
+   "latin": "Thomas Aquinas",
+   "birth_year": 1225,
+   "death_year": 1274,
+   "birth_display": "1225年",
+   "death_display": "1274年",
+   "birth_note": "约 1225 年生于那不勒斯王国罗卡塞卡（Roccasecca）的伦巴第贵族家庭（生年有 1224／1225 两说，取通行 1225）。",
+   "death_note": "1274 年 3 月 7 日卒于福萨诺瓦的西多会修道院，时在赴里昂公会议途中。",
+   "era": "亚里士多德全集经阿拉伯译本与注释进入拉丁世界。巴黎大学与托钵修会的学术竞争激烈，他既回应阿威罗伊主义的哲学主张，也回应保守神学家对“新亚里士多德”的敌意，并在巴黎与意大利之间往返执教。",
+   "school": "经院哲学（多明我会；后世称托马斯主义）",
+   "core_questions": [
+    "哲学理性与启示信仰能否在同一体系中并存？",
+    "上帝的存在能否被证明？怎样证明才算有效？",
+    "人的最终幸福是什么？法律与德性如何引导人趋向它？"
+   ],
+   "arguments": [
+    {
+     "claim": "五路证明：由经验事实回溯至第一因",
+     "premises": [
+      "世界中存在运动，凡被推动者皆由他者推动，而无穷后退不可能。",
+      "可感事物有生灭、有因果序列；有偶然者必有必然者为其根据；事物有完满程度之别，则有至善至真者。",
+      "自然界的无理性者朝向目的而行，须有智慧者引导。"
+     ],
+     "inference": "由运动、因果、偶然、等级与目的这五类可观察事实出发，若拒绝无穷后退，则须设定不被推动的推动者、第一因、必然存在者、至善者与智慧引导者。",
+     "conclusion": "这五条路径的终点，就是众人所称的上帝（《神学大全》I q.2 a.3）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "本质与存在在受造物中实在有别，存在是“存在的活动”（actus essendi）",
+     "premises": [
+      "我们能知道一物是什么（其本质），却不能由本质推知它存在。",
+      "若存在属于本质，则凡本质不矛盾者皆必然存在，而经验并非如此。"
+     ],
+     "inference": "既然本质不蕴含存在，则受造物的存在须由他者赋予；存在不是本质的一项属性，而是使本质现实化的活动。",
+     "conclusion": "在受造物中本质与存在实在有别；唯在上帝那里本质即其存在。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "自然法是永恒法在理性造物中的分有（lex naturalis）",
+     "premises": [
+      "一切法律都由永恒法派生，永恒法是上帝对受造秩序的理型。",
+      "人作为理性造物，以其理性与意志参与永恒法，这种参与就是自然法。"
+     ],
+     "inference": "若人凭理性可辨识“趋善避恶”的基本实践原则，则这些原则不是约定的，而是永恒法在人心中的印迹，具体德性与规范由之推出。",
+     "conclusion": "自然法是人皆可辨的道德原则；违背它的人法不具法律的效力（《神学大全》I-II q.91—94）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "幸福在于对上帝本质的直观，而非任何受造之善",
+     "premises": [
+      "人的意志欲求普遍的善，任何有限的善都不能使其安息。",
+      "人的理智欲求认识一切，而在今生只能逐步认识受造物。"
+     ],
+     "inference": "若意志与理智的欲求都以无限者为最终对象，则幸福必在于对第一因的本质直观；此境在今生不可得，须赖恩典。",
+     "conclusion": "终极幸福是荣福直观；德性与法律是趋向它的路途，而非幸福本身。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《神学大全》（Summa theologiae）",
+     "edition": "拉丁文见 Leonina 版；英译参 English Dominican Province 译本（New Advent 全文）；中译见中华道明会与碧岳学社译本（版次待核）",
+     "note": "三部分，未完成；I q.2 论上帝存在，I-II q.90—97 论法律"
+    },
+    {
+     "title": "《驳异大全》（Summa contra Gentiles）",
+     "edition": "拉丁文见 Leonina 版卷 13—15；英译参 Pegis 等译本（版次待核）",
+     "note": "以理性论证面向非信徒的护教著作；卷一第 7 章论信仰与哲学不相冲突"
+    },
+    {
+     "title": "《论存在者与本质》（De ente et essentia）",
+     "edition": "拉丁文见 Leonina 版卷 43；英译参 Maurer 译本",
+     "note": "本质与存在区分的简明表述，为早期著作"
+    },
+    {
+     "title": "《论真理》问题集（Quaestiones disputatae de veritate）",
+     "edition": "拉丁文见 Leonina 版卷 22；英译参 McGlynn 译本",
+     "note": "论真理、心灵与意志的详细讨论"
+    }
+   ],
+   "influenced_by": [
+    {"name": "亚里士多德（经阿拉伯译本与注释传入）", "id": null, "note": "四因、实体、潜能现实与伦理学框架被系统吸收"},
+    {"name": "奥古斯丁", "id": "gr-medieval-augustine", "note": "恩典、内在转向与意志的次序问题"},
+    {"name": "波爱修", "id": "gr-medieval-boethius", "note": "esse 与 quod est 的区分被改造为存在的活动"},
+    {"name": "阿维森纳与阿威罗伊", "id": null, "note": "阿拉伯注释传统既是其资源，也是其《驳异大全》的论辩对象"}
+   ],
+   "influenced": [
+    {"name": "邓斯·司各脱", "id": "gr-medieval-duns-scotus", "note": "批评其本质—存在区分与理智优先，另立一义性与意志优先"},
+    {"name": "奥卡姆的威廉", "id": "gr-medieval-ockham", "note": "以唯名论拆解其实在论的共相与形式层级"},
+    {"name": "近代托马斯主义", "id": null, "note": "19 世纪以后经教会通谕复兴，成为天主教哲学的官方路线"},
+    {"name": "天主教社会训导", "id": null, "note": "自然法理论被用于论私有财产、正义战争与社会秩序"}
+   ],
+   "criticisms": [
+    {
+     "critic": "邓斯·司各脱",
+     "view": "若存在不是本质的属性，则“本质与存在的实在区分”会使存在成为附加物；且若“存在”对上帝与受造物意义不同，关于上帝的推论便失去共同基础。",
+     "response": "托马斯式回应：受造物的存在确由上帝赋予，但存在不是附加的偶性，而是使本质现实化的活动；关于上帝的言说依类比成立，不必以单义为前提。",
+     "kind": "后人解读",
+     "sources": ["sep-duns-scotus", "sep-aquinas", "na-summa"]
+    },
+    {
+     "critic": "阿威罗伊主义者与保守神学家（1277 年谴责）",
+     "view": "前者主张哲学结论（世界永恒、统一理智）与启示冲突时应从哲学；后者主张在信仰范围内引入亚里士多德必致异端。",
+     "response": "阿奎那的回应：哲学与神学因方法不同而各有领域，真理不会互相冲突；他既拒绝“双重真理”，也拒绝以哲学吞并信仰。",
+     "kind": "后人解读",
+     "sources": ["sep-aquinas", "book-gilson-medieval"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "五路是严格证明，故不信者理当被说服",
+     "why": "他明言这些路径的结论是“众人所称的上帝”，且论证依赖感官经验与因果原则；对不接受这些前提者，论证不构成强制力。"
+    },
+    {
+     "claim": "托马斯主义主张哲学是神学的婢女，因而压制理性",
+     "why": "他把哲学视为有独立方法的学科（《神学大全》I q.1 论神学与诸学科的关系），并以理性论证回应异教与犹太教对手；“婢女”之喻出自中世纪学科分类，不是其压制理性的主张。"
+    }
+   ],
+   "quotes": [
+    {"text": "由此推至一个不被推动的第一推动者，这就是众人所称的上帝", "source_id": "na-summa", "locator": "《神学大全》I q.2 a.3（第一路结论，中译为通行译法）", "kind": "原文"},
+    {"text": "自然法是理性造物所分有的永恒法", "source_id": "na-summa", "locator": "《神学大全》I-II q.91 a.2", "kind": "原文"}
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>阿奎那：五路证明与自然法的位置</text><defs><marker id='arm5' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='18' y='54' width='132' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='84' y='78' text-anchor='middle' font-size='12' fill='#1e2d3d'>运动</text><text x='84' y='97' text-anchor='middle' font-size='10' fill='#1e2d3d'>被动者须有推动</text><rect x='166' y='54' width='132' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='232' y='78' text-anchor='middle' font-size='12' fill='#1e2d3d'>因果</text><text x='232' y='97' text-anchor='middle' font-size='10' fill='#1e2d3d'>动力因不能无穷</text><rect x='314' y='54' width='132' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='78' text-anchor='middle' font-size='12' fill='#1e2d3d'>偶然与必然</text><text x='380' y='97' text-anchor='middle' font-size='10' fill='#1e2d3d'>偶在者须有根据</text><rect x='462' y='54' width='132' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='528' y='78' text-anchor='middle' font-size='12' fill='#1e2d3d'>完满等级</text><text x='528' y='97' text-anchor='middle' font-size='10' fill='#1e2d3d'>至善为诸善之因</text><rect x='610' y='54' width='132' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='676' y='78' text-anchor='middle' font-size='12' fill='#1e2d3d'>目的</text><text x='676' y='97' text-anchor='middle' font-size='10' fill='#1e2d3d'>无理性者向目的</text><line x1='84' y1='108' x2='336' y2='142' stroke='#4a7ba6' marker-end='url(#arm5)'/><line x1='232' y1='108' x2='362' y2='142' stroke='#4a7ba6' marker-end='url(#arm5)'/><line x1='380' y1='108' x2='380' y2='142' stroke='#4a7ba6' marker-end='url(#arm5)'/><line x1='528' y1='108' x2='398' y2='142' stroke='#4a7ba6' marker-end='url(#arm5)'/><line x1='676' y1='108' x2='424' y2='142' stroke='#4a7ba6' marker-end='url(#arm5)'/><rect x='232' y='146' width='296' height='52' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='168' text-anchor='middle' font-size='13' fill='#1c3a5c'>共同的推理步骤</text><text x='380' y='188' text-anchor='middle' font-size='10' fill='#1e2d3d'>拒绝无穷后退，故须有终止项</text><line x1='380' y1='198' x2='380' y2='228' stroke='#4a7ba6' marker-end='url(#arm5)'/><rect x='150' y='232' width='460' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='254' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：第一推动者·第一因·必然者</text><text x='380' y='274' text-anchor='middle' font-size='10' fill='#1e2d3d'>至善者与智慧引导者，“即众人所称的上帝”</text><rect x='150' y='296' width='460' height='46' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='318' text-anchor='middle' font-size='12' fill='#1c3a5c'>自然法：永恒法在理性造物中的分有</text><text x='380' y='334' text-anchor='middle' font-size='10' fill='#1e2d3d'>人法违背自然法即失其效力</text><text x='380' y='372' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：五路结构见《神学大全》I q.2 a.3，图为归纳</text></svg>",
+   "svg_caption": "阿奎那：五路证明的公共推理步骤与自然法的位置（重构示意图）",
+   "sources": ["sep-aquinas", "iep-aquinas", "na-summa", "paper-s11466-007-0037-8", "book-gilson-medieval"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-duns-scotus",
+   "name": "邓斯·司各脱",
+   "latin": "John Duns Scotus",
+   "birth_year": 1266,
+   "death_year": 1308,
+   "birth_display": "约1266年",
+   "death_display": "1308年",
+   "birth_note": "约 1266 年生于苏格兰邓斯（Duns），生年据其入方济各会与受职年代推定（有 1265／1266 两说）。",
+   "death_note": "1308 年 11 月 8 日卒于科隆，葬于该地方济各会教堂。",
+   "era": "巴黎大学的方济各会与多明我会之争。亚里士多德主义已被吸收，争论转向意志与理智的优先、存在的单义性与个体化原理；他于 1302 年起在巴黎讲授《箴言四书》，后转至科隆。",
+   "school": "方济各会经院哲学（后世称司各脱主义）",
+   "core_questions": [
+    "意志与理智何者更高？人的自由如何说明？",
+    "个体为何是“这一个”，而非仅是共同本性的一个例子？",
+    "“存在”能否以同一意义用于上帝与受造物？"
+   ],
+   "arguments": [
+    {
+     "claim": "意志在活动次序上优先于理智",
+     "premises": [
+      "理智按其本性被其对象（可理解者）所规定，见到证据便不能不信。",
+      "意志在对象呈现之后仍能自定：它可以使理智转向、停止或继续考察。"
+     ],
+     "inference": "若能力的高下在于其活动是否受他物规定，则意志比理智更自由、更完满；而爱作为意志的活动，以无限善本身为对象，高于认识。",
+     "conclusion": "意志在活动上优先；自由属于意志，不属于理智的判断。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "此性（haecceitas）：个体化原则是形式的“这一性”",
+     "premises": [
+      "苏格拉底与柏拉图共有“人性”，而二者不同，故差异须有积极的根据。",
+      "若个体化靠质料，则质料本身须先被个体化，陷入循环。"
+     ],
+     "inference": "须设定一种在共同本性之上附加的、积极的终极实在性，它使本性成为不可再分于此个体的“这一个”。",
+     "conclusion": "个体化原则是此性；个体比共同本性更完满，是形而上学的终极单位。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "存在的一义性（univocatio entis）",
+     "premises": [
+      "若“存在”用于上帝与受造物时意义完全不同，则关于上帝的任何推论都只是同名异义，无法由受造物推及上帝。",
+      "而我们确能形成“存在”这一不为有限性所限的概念，并以此比较无限者与有限者。"
+     ],
+     "inference": "要使神学陈述与证明成立，“存在”须在肯定意义上同一，其差异只在于“无限”与“有限”的样式。",
+     "conclusion": "存在是一义的；由此上帝可被把握为“无限存在者”。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《牛津评注》（Ordinatio）",
+     "edition": "拉丁文见梵蒂冈版《司各脱全集》（Opera omnia, Civitas Vaticana）；英译参 Wolter 编译本",
+     "note": "《箴言四书》评注的修订本，形而上学与意志论的主要文本"
+    },
+    {
+     "title": "《论第一原理》（De primo principio）",
+     "edition": "拉丁文与英译对照见 Wolter 译《A Treatise on God as First Principle》",
+     "note": "以“三重的首要性”论证无限存在者"
+    },
+    {
+     "title": "《巴黎报告》（Reportatio Parisiensis）",
+     "edition": "拉丁文见梵蒂冈版全集相关卷；英译零散（版次待核）",
+     "note": "巴黎讲授记录，理智与意志之争的详细讨论见其中"
+    }
+   ],
+   "influenced_by": [
+    {"name": "亚里士多德", "id": null, "note": "实体、潜能现实与四因的框架被保留，但以“无限存在”重新规定其顶点"},
+    {"name": "奥古斯丁", "id": "gr-medieval-augustine", "note": "意志与爱的优先、内在转向的取向"},
+    {"name": "阿维森纳", "id": null, "note": "存在与本质的区分及“存在者”概念的讨论是其出发点"}
+   ],
+   "influenced": [
+    {"name": "奥卡姆的威廉", "id": "gr-medieval-ockham", "note": "受其训练而走向更彻底的简约化与唯名论"},
+    {"name": "17 世纪的司各脱主义", "id": null, "note": "耶稣会与方济各会的教学传统中长期与托马斯主义并立"},
+    {"name": "海德格尔", "id": null, "note": "早期论文《邓斯·司各脱的范畴与意义学说》以其语法与形而上学术语为对象"}
+   ],
+   "criticisms": [
+    {
+     "critic": "托马斯·阿奎那及其学派",
+     "view": "若意志高于理智，则人的至福不在直观而在爱，这与“至福在于认识上帝”不合；意志的自我决定也会削弱理性对行为的规范。",
+     "response": "司各脱式回应：至福包含爱与认识，但使此境完满的是爱，因为爱不能被对象强迫；理性的规范作用不因意志优先而被取消。",
+     "kind": "后人解读",
+     "sources": ["sep-duns-scotus", "sep-aquinas"]
+    },
+    {
+     "critic": "奥卡姆的威廉",
+     "view": "设定“此性”这一积极的个体化形式，等于把共相式的实体又引入个体；以单一实体及其存在即可说明个体，无须额外的形式。",
+     "response": "司各脱式回应：若个体性不由某种积极因素说明，则个体成为不可解释的偶然；此性正是为使个体可被理解所必需。",
+     "kind": "后人解读",
+     "sources": ["sep-ockham", "sep-universals-medieval"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "司各脱是唯名论者",
+     "why": "他坚持共同本性有实在根据（natura communis），并以此性解释个体化；通常把他列为温和实在论者，与奥卡姆“共相只是心智概念”的立场有别。"
+    },
+    {
+     "claim": "“此性”是一种神秘而不可言说的直觉",
+     "why": "它是形式秩序中的终极实在性，属于可分析的形而上学结构；其难处在于“共同本性”与“个体差异”如何在同一实体中共存，而非不可言说。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>司各脱：意志优先、此性与一义性</text><defs><marker id='arm6' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='54' width='316' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='198' y='78' text-anchor='middle' font-size='12' fill='#1e2d3d'>理智：被对象规定</text><text x='198' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>见证据即不能不信</text><rect x='404' y='54' width='316' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='562' y='78' text-anchor='middle' font-size='12' fill='#1e2d3d'>意志：自我决定</text><text x='562' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>可使理智停止或转向</text><line x1='198' y1='114' x2='300' y2='148' stroke='#4a7ba6' marker-end='url(#arm6)'/><line x1='562' y1='114' x2='460' y2='148' stroke='#4a7ba6' marker-end='url(#arm6)'/><rect x='240' y='152' width='280' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='175' text-anchor='middle' font-size='13' fill='#1c3a5c'>比较：自由在何处</text><text x='380' y='195' text-anchor='middle' font-size='10' fill='#1e2d3d'>爱高于认识，故意志优先</text><line x1='380' y1='206' x2='380' y2='238' stroke='#4a7ba6' marker-end='url(#arm6)'/><rect x='60' y='242' width='300' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='210' y='264' text-anchor='middle' font-size='12' fill='#1e2d3d'>此性：个体化的终极实在</text><text x='210' y='285' text-anchor='middle' font-size='10' fill='#1e2d3d'>个体比共同本性更完满</text><rect x='400' y='242' width='300' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='550' y='264' text-anchor='middle' font-size='12' fill='#1e2d3d'>存在一义：无限与有限</text><text x='550' y='285' text-anchor='middle' font-size='10' fill='#1e2d3d'>同一意义，样式不同</text><text x='380' y='330' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两路论证分属意志论与形而上学，本图并列</text><text x='380' y='362' text-anchor='middle' font-size='10' fill='#1e2d3d'>“无限存在者”由此成为上帝之名的核心</text></svg>",
+   "svg_caption": "司各脱：意志与理智的比较及其两个形而上学支点（重构示意图）",
+   "sources": ["sep-duns-scotus", "sep-aquinas", "sep-universals-medieval"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-ockham",
+   "name": "奥卡姆的威廉",
+   "latin": "William of Ockham",
+   "birth_year": 1287,
+   "death_year": 1347,
+   "birth_display": "约1287年",
+   "death_display": "约1347年",
+   "birth_note": "约 1287 年生于英格兰萨里郡奥卡姆（Ockham），生年据其入方济各会与就学年代推定。",
+   "death_note": "约 1347 年（一说 1349 年，黑死病期间）卒于慕尼黑。",
+   "era": "14 世纪的大学神学与教廷冲突。方济各会的“守贫之争”使他卷入与教皇约翰二十二世的政治论战，1328 年逃出阿维尼翁，晚年居于巴伐利亚的路德维希宫廷，写作政教两权之辩。",
+   "school": "唯名论（via moderna）",
+   "core_questions": [
+    "共相若只是心智中的概念，科学的必然性从何而来？",
+    "神的全能是否要求我们放弃对世界必然秩序的强主张？",
+    "教会权力与世俗权力的界限在哪里？"
+   ],
+   "arguments": [
+    {
+     "claim": "共相只是心智中的概念，不是实在之物",
+     "premises": [
+      "凡真实存在者都是单一的个体，世界中找不到“人”这一共同物。",
+      "我们确实能以“人”述说多个个体，而这种述说依赖心智形成的概念。"
+     ],
+     "inference": "既然只有个体存在，而普遍述说又确实发生，则普遍性必属于心智的意向活动，而不属于事物本身。",
+     "conclusion": "共相是心智中的概念（以个体间的自然相似为依据），不是事物之中或之外的实体。",
+     "kind": "原文"
+    },
+    {
+     "claim": "勿设多余者：没有必要就不增设存在者",
+     "premises": [
+      "解释同一现象时，若两种方案的解释力相同，则设定较少实体者更可取。",
+      "许多被设为实在的“形式”“物种”“隐秘性质”，其解释力可由个体与概念承担。"
+     ],
+     "inference": "既然多余设定不增加解释力而增加理论负担，则应以最少的设定解释现象，此规则适用于形而上学的实体清单。",
+     "conclusion": "“没有必要不设多余者”；剃刀是节约原则，不是否认一切的怀疑论。",
+     "kind": "原文"
+    },
+    {
+     "claim": "教会权力与世俗权力分立，教皇无权干预世俗事务",
+     "premises": [
+      "基督曾拒绝为人分家产，并说自己的国不属此世。",
+      "若教皇拥有世俗的普遍管辖权，则信徒的自由与世俗政权的合法性都被吞并。"
+     ],
+     "inference": "权力的正当性来自其职分的目的：教会的职分是属灵的教导与圣事，世俗政权的职分是维护财产与和平；越出职分即僭越。",
+     "conclusion": "教皇的“全权”主张是僭越；两权应分立而各有其限。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《箴言四书评注》（Ordinatio）",
+     "edition": "拉丁文见 Opera theologica（St. Bonaventure 版）；英译参 Spade 编《The Cambridge Companion to Ockham》选段",
+     "note": "共相、直观认识与神能学说的主要文本"
+    },
+    {
+     "title": "《逻辑大全》（Summa logicae）",
+     "edition": "拉丁文见 Opera philosophica 卷一（St. Bonaventure 版）；英译参 Loux 译《Ockham's Theory of Terms》",
+     "note": "词项逻辑与“意项”理论，是其唯名论的技术基础"
+    },
+    {
+     "title": "《论僭越的统治》（Breviloquium de principatu tyrannico）",
+     "edition": "拉丁文见 Opera politica 卷四（Manchester University Press）；英译参 McGrade 与 Kilcullen 译本",
+     "note": "中译名尚不统一（又译《暴政简论》）；政教两权论战的核心文本"
+    },
+    {
+     "title": "《九十天著作》（Opus nonaginta dierum）",
+     "edition": "拉丁文见 Opera politica 卷一至卷二；英译参 McGrade 编译本",
+     "note": "为方济各会守贫立场辩护，逐条反驳教皇通谕"
+    }
+   ],
+   "influenced_by": [
+    {"name": "邓斯·司各脱", "id": "gr-medieval-duns-scotus", "note": "在牛津受司各脱派训练，接受其个体性与神之自由的取向，但反对其实在论"},
+    {"name": "亚里士多德逻辑学", "id": null, "note": "《范畴篇》《解释篇》的词项分析是其逻辑著作的骨架"},
+    {"name": "阿伯拉尔", "id": "gr-medieval-abelard", "note": "共相讨论中“概念有客观依据”的思路可视为其前身"}
+   ],
+   "influenced": [
+    {"name": "马丁·路德", "id": null, "note": "受唯名论教育，学界对其“唯独信心”与唯名论的关系有讨论"},
+    {"name": "近代经验论与唯名论传统", "id": null, "note": "“只有个体存在”的立场经霍布斯、洛克一系被重新表述"},
+    {"name": "现代形而上学中的“奥卡姆剃刀”", "id": null, "note": "作为本体论节约原则被分析哲学广泛援引"},
+    {"name": "政教分离论", "id": null, "note": "两权分立的论证被后世用于限制教权与王权"}
+   ],
+   "criticisms": [
+    {
+     "critic": "托马斯主义者（14 世纪多明我会一系）",
+     "view": "若共相只是心智概念，则科学对象不再是必然的，神学的类比言说也失去基础；其“神的绝对能力”论更使受造秩序成为偶然。",
+     "response": "奥卡姆式回应：科学以命题之间的必然联系为对象，不需要共相的实在；受造秩序的稳定由上帝所立的既定秩序保证。",
+     "kind": "后人解读",
+     "sources": ["sep-ockham", "sep-aquinas"]
+    },
+    {
+     "critic": "司各脱派与唯实论者",
+     "view": "否认共同本性，使“人”这一谓词失去实在根据，个体间的相似沦为纯粹约定。",
+     "response": "奥卡姆回应：概念以个体间的自然相似为基础；普遍性属于述说方式，不属于存在方式。",
+     "kind": "后人解读",
+     "sources": ["sep-ockham", "sep-universals-medieval"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "奥卡姆剃刀的意思是“最简单的理论总是真的”",
+     "why": "原文是“没有必要不设多余者”，是一条节约设定的方法规则，不是以简单性作为真理判准；他也不主张取消一切不可观察者，只反对无解释力的多余实体。"
+    },
+    {
+     "claim": "奥卡姆是反宗教的怀疑论者，近代科学式经验论的先驱",
+     "why": "他是方济各会士，其唯名论服务于神的全能；他对直观认识的强调与近代经验论有相似处，但问题语境与目标不同。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>奥卡姆：个体、概念与剃刀</text><defs><marker id='arm7' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='48' y='56' width='208' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='152' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>观察一：只有个体</text><text x='152' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>世界中无共同物</text><rect x='504' y='56' width='208' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='608' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>观察二：普遍述说</text><text x='608' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>“人”可述说多个个体</text><line x1='256' y1='86' x2='330' y2='86' stroke='#4a7ba6' marker-end='url(#arm7)'/><line x1='504' y1='86' x2='430' y2='86' stroke='#4a7ba6' marker-end='url(#arm7)'/><rect x='334' y='56' width='92' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='80' text-anchor='middle' font-size='12' fill='#1c3a5c'>定位</text><text x='380' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>在心智</text><line x1='380' y1='116' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#arm7)'/><rect x='180' y='160' width='400' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='184' text-anchor='middle' font-size='13' fill='#1c3a5c'>故普遍性属述说方式，不属存在</text><text x='380' y='206' text-anchor='middle' font-size='10' fill='#1e2d3d'>概念以自然相似为依据</text><line x1='380' y1='222' x2='380' y2='258' stroke='#4a7ba6' marker-end='url(#arm7)'/><rect x='110' y='262' width='540' height='62' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='286' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：共相是概念；没有必要不设多余者</text><text x='380' y='308' text-anchor='middle' font-size='10' fill='#1e2d3d'>由此再推：教权与治权各守其职</text><text x='380' y='356' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：“剃刀”原文为“没有必要不设多余者”，非“简单即真”</text></svg>",
+   "svg_caption": "奥卡姆：由个体存在与普遍述说推出唯名论，并导出两权分立（重构示意图）",
+   "sources": ["sep-ockham", "sep-universals-medieval", "book-gilson-medieval"],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "concepts": [
+  {
+   "id": "gr-medieval-faith-reason",
+   "term": "信仰与理性",
+   "term_latin": "fides et ratio",
+   "definition": "关于启示信仰与哲学理性之关系的总问题：二者是同一真理的两条通路、互为工具，还是各有领域而可能冲突。",
+   "usages": [
+    {"name": "奥古斯丁", "id": "gr-medieval-augustine", "usage": "信以致理解：先以信仰接受启示，再以理性探入其内容；理性不是信仰的替代，而是被信仰引导的寻求。"},
+    {"name": "安瑟尔谟", "id": "gr-medieval-anselm", "usage": "“信仰寻求理解”：论证被当作信仰的自我展开，故其证明以信徒的默想为语境，而非以说服不信者为目的。"},
+    {"name": "阿伯拉尔", "id": "gr-medieval-abelard", "usage": "以辩证法审查权威文本，理性是辨析信仰语言的必要工具，回避矛盾等于放弃理解。"},
+    {"name": "托马斯·阿奎那", "id": "gr-medieval-aquinas", "usage": "哲学与神学因方法不同而分立：哲学由感官经验出发，神学由启示出发，二者不冲突，神学以哲学为工具。"}
+   ],
+   "related": ["gr-medieval-proofs-god", "gr-medieval-analogy", "gr-medieval-double-truth"],
+   "example": {"text": "《宣讲》原序说明该书题名的用意：作者把论证写下来，是为使“信的人因理解而喜乐”，而不是要把信仰还原为推理。", "figure": "安瑟尔谟", "locator": "《宣讲》序言"},
+   "sources": ["sep-anselm", "sep-aquinas", "sep-augustine"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-grace",
+   "term": "恩典",
+   "term_latin": "gratia（grace）",
+   "definition": "上帝无偿赐予人的内在帮助，使人得以行善并获得拯救；争论集中在其与自由意志、功德的关系上。",
+   "usages": [
+    {"name": "奥古斯丁", "id": "gr-medieval-augustine", "usage": "恩典是先在的、医治性的：它使堕落的意志恢复“愿意”的能力，故一切善行的开端都归于恩典而非人自身。"},
+    {"name": "托马斯·阿奎那", "id": "gr-medieval-aquinas", "usage": "恩典分为使受造者悦纳的圣化恩典与为他人之益的神恩；前者以爱德为形式，成全而不取消自由意志。"}
+   ],
+   "related": ["gr-medieval-free-will", "gr-medieval-faith-reason"],
+   "example": {"text": "阿奎那区分“运作的恩典”与“合作的恩典”：前者使意志由不愿转为愿意，后者与已经愿意的意志一同行善。", "figure": "托马斯·阿奎那", "locator": "《神学大全》I-II q.111 a.2"},
+   "sources": ["sep-augustine", "sep-aquinas", "na-summa"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-universals",
+   "term": "共相",
+   "term_latin": "universalia（universals）",
+   "definition": "可述说多个个体的普遍者（属与种），其存在方式——是实在、是名称，还是心智概念——构成中世纪形而上学的主线。",
+   "usages": [
+    {"name": "安瑟尔谟", "id": "gr-medieval-anselm", "usage": "共相有实在地位，个体因分有共同本性而是其所是；若共相只是名称，定义与必然命题便失去对象。"},
+    {"name": "波爱修", "id": "gr-medieval-boethius", "usage": "共相在可感事物中作为形式而 subsist，在心灵中被抽象地理解：同一共相有两种存在方式。"},
+    {"name": "阿伯拉尔", "id": "gr-medieval-abelard", "usage": "共相是有意义的谓词，由个体间的相似性形成；既非实物，也非空洞的声音。"},
+    {"name": "奥卡姆的威廉", "id": "gr-medieval-ockham", "usage": "共相只是心智中的概念，存在者只有个体；普遍性属于述说，不属于世界。"}
+   ],
+   "related": ["gr-medieval-essence-existence", "gr-medieval-analogy"],
+   "example": {"text": "波菲利在《导论》中只提出三个问题而不作答：属与种是 subsist 于事物之中，还是仅由心智把握？若有，是否有形体？是否与可感事物分离？波爱修以注释回应。", "figure": "波爱修", "locator": "《波菲利〈导论〉注释》第二稿"},
+   "sources": ["sep-universals-medieval", "sep-boethius", "sep-ockham", "sep-abelard"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-essence-existence",
+   "term": "本质与存在",
+   "term_latin": "essentia et esse",
+   "definition": "“是什么”（本质）与“是否存在”（存在）的区分；中世纪用以说明受造物的偶然性与上帝的单纯性。",
+   "usages": [
+    {"name": "波爱修", "id": "gr-medieval-boethius", "usage": "区分“存在（esse）”与“是何（quod est）”：前者使某物存在，后者是被形式规定的这个某物。"},
+    {"name": "托马斯·阿奎那", "id": "gr-medieval-aquinas", "usage": "在受造物中本质与存在实在有别，存在是使本质现实化的活动；唯在上帝那里本质即其存在。"},
+    {"name": "邓斯·司各脱", "id": "gr-medieval-duns-scotus", "usage": "否认二者有实在的区分：存在不是附加于本质的活动，而是每一存在者的终极实在性，故“存在”须一义地述说。"}
+   ],
+   "related": ["gr-medieval-universals", "gr-medieval-analogy"],
+   "example": {"text": "阿奎那的论证方式是：我们能了解“人”是什么（理性动物），却不能由此知道人是否存在；故本质的考察与存在的断定是两回事。", "figure": "托马斯·阿奎那", "locator": "《论存在者与本质》第 4 章"},
+   "sources": ["sep-aquinas", "na-summa", "paper-s11466-007-0037-8", "sep-boethius"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-proofs-god",
+   "term": "上帝存在的证明",
+   "term_latin": "demonstratio Dei",
+   "definition": "以理性论证上帝存在的诸种进路：由概念（本体论论证）、由经验世界（五路）、由完满性与目的秩序等。",
+   "usages": [
+    {"name": "安瑟尔谟", "id": "gr-medieval-anselm", "usage": "由“可设想无与伦比之大者”的概念推出其现实存在：若只在心中，则可设想更伟大者，与定义矛盾。"},
+    {"name": "邓斯·司各脱", "id": "gr-medieval-duns-scotus", "usage": "以“无限存在者”重述本体论论证：由可设想的存在者逐级推至无限者，再论证其现实存在。"},
+    {"name": "托马斯·阿奎那", "id": "gr-medieval-aquinas", "usage": "拒绝由概念直接推出存在，改由感官经验事实（运动、因果、偶然、等级、目的）回溯至第一因，是为五路。"}
+   ],
+   "related": ["gr-medieval-faith-reason", "gr-medieval-analogy"],
+   "example": {"text": "高尼罗以“迷失岛”反驳：若由“无与伦比之岛”的概念可推出该岛存在，则任何被设想为最完满的东西都能被推为存在；安瑟尔谟答以该论证只适用于无以复加者。", "figure": "高尼罗（见安瑟尔谟《答高尼罗》）", "locator": "《为愚人辩》第 6 章；《答高尼罗》第 3 章"},
+   "sources": ["sep-anselm", "sep-aquinas", "na-summa"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-free-will",
+   "term": "意志自由",
+   "term_latin": "liberum arbitrium",
+   "definition": "意志自我决定的能力，及其与恩典、神之预知和全能的关系；争论集中于自由是否须以恩典为前提、意志与理智何者优先。",
+   "usages": [
+    {"name": "奥古斯丁", "id": "gr-medieval-augustine", "usage": "自由意志是选择的能力，但堕落之后仍自由却不能持久向善；真正的自由须由恩典治愈。"},
+    {"name": "波爱修", "id": "gr-medieval-boethius", "usage": "自由意志是理性造物受赏罚的根据；上帝的永恒当下之预知只构成条件必然，不取消选择。"},
+    {"name": "托马斯·阿奎那", "id": "gr-medieval-aquinas", "usage": "意志必然欲求普遍的善，对具体善则自由选择；自由是理性欲求的活动，与必然性并不冲突。"},
+    {"name": "邓斯·司各脱", "id": "gr-medieval-duns-scotus", "usage": "意志在本性上高于理智，能自我决定，甚至在同一处境下作出相反选择，自由即这种双向能力。"}
+   ],
+   "related": ["gr-medieval-grace", "gr-medieval-faith-reason"],
+   "example": {"text": "《哲学的慰藉》卷五的类比：我们看见某人行走，这一“看见”并不使他在行走；上帝的永恒直观与此类似，只构成条件必然。", "figure": "波爱修", "locator": "《哲学的慰藉》卷五 第 4 章"},
+   "sources": ["sep-boethius", "sep-augustine", "sep-duns-scotus", "na-summa"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-double-truth",
+   "term": "双重真理",
+   "term_latin": "duplex veritas",
+   "definition": "认为同一命题在哲学与启示中可分别为真与假的立场；13 世纪巴黎大学争论中作为指控用语出现，双方当事人皆否认该说。",
+   "usages": [
+    {"name": "托马斯·阿奎那", "id": "gr-medieval-aquinas", "usage": "否认双重真理：哲学与神学的真理同出一源，冲突只能是表面的，故须以论证消解而非以领域划分回避。"},
+    {"name": "安瑟尔谟", "id": "gr-medieval-anselm", "usage": "以“信以求知”拒绝分裂：同一真理不能在信仰为真而在哲学为假，故理性论证须与信条一致。"},
+    {"name": "奥卡姆的威廉", "id": "gr-medieval-ockham", "usage": "以神的绝对能力与既定秩序之分，说明某些命题哲学不可证而信仰须信，但不承认二者同时一真一假。"}
+   ],
+   "related": ["gr-medieval-faith-reason", "gr-medieval-analogy"],
+   "example": {"text": "1277 年巴黎主教坦皮耶的谴责条款中，若干命题被指为阿威罗伊派的“双重真理”主张；阿奎那在《驳异大全》卷一开篇即论证：与信仰相反的哲学结论不可能是证明。", "figure": "托马斯·阿奎那", "locator": "《驳异大全》卷一 第 7 章"},
+   "sources": ["sep-aquinas", "sep-ockham", "book-gilson-medieval"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-analogy",
+   "term": "类比",
+   "term_latin": "analogia entis",
+   "definition": "关于上帝之名（善、智慧、存在）的语言理论：既非单义亦非纯同名异义，而是按比例相似地述说。",
+   "usages": [
+    {"name": "托马斯·阿奎那", "id": "gr-medieval-aquinas", "usage": "上帝之名依类比述说：受造物的善与上帝的善有比例的相似，故语言既不取消上帝的超绝，也不落空。"},
+    {"name": "邓斯·司各脱", "id": "gr-medieval-duns-scotus", "usage": "反对以类比为神学的基础：若“存在”只是类比，推论便无从出发，故须先有一义性，再以“无限”限定之。"},
+    {"name": "奥卡姆的威廉", "id": "gr-medieval-ockham", "usage": "认为类比只是语词间的松散相似，不能承担证明功能；神学命题的真依赖信仰，而非类比推理。"}
+   ],
+   "related": ["gr-medieval-faith-reason", "gr-medieval-proofs-god", "gr-medieval-essence-existence"],
+   "example": {"text": "阿奎那举例：“健康的”用于身体、食物与脸色时并非同一意义，却都指向健康这一中心；上帝之名与受造物之德性的关系与此类似，但相似的方向是受造物向上帝。", "figure": "托马斯·阿奎那", "locator": "《神学大全》I q.13 a.5"},
+   "sources": ["sep-aquinas", "sep-duns-scotus", "na-summa"],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "debates": [
+  {
+   "id": "gr-medieval-universals-debate",
+   "title": "共相是实在还是名称",
+   "question": "属与种（如“人”“动物”）是存在于个体之外的实在，还是仅存在于语言与思想之中？",
+   "positions": [
+    {
+     "holder": "安瑟尔谟（实在论一系）",
+     "id": "gr-medieval-anselm",
+     "stance": "共相有实在地位，个体因分有共同本性而是其所是",
+     "reasons": [
+      "若共相只是名称，则“人”这一共同本性无所指，定义与必然命题失去对象。",
+      "真理须以不变者为对象，个体可生灭，故共同本性须有实在地位。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "阿伯拉尔",
+     "id": "gr-medieval-abelard",
+     "stance": "概念论：共相是谓词性的概念，有客观依据而无独立实在",
+     "reasons": [
+      "共相须可述说多个个体而不被分割，故不能是物；又不能只是声音，故须是概念。",
+      "其客观依据是个体间的相似性，由上帝创世所立，故不必另设分离的共相。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "奥卡姆的威廉",
+     "id": "gr-medieval-ockham",
+     "stance": "唯名论：共相只是心智中的概念，存在者只有个体",
+     "reasons": [
+      "凡真实存在者皆为单一物，世界中并无“共同本性”这一项。",
+      "普遍述说由心智的意项完成，故普遍性属述说方式而非存在方式。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点是普遍述说的客观依据何在：实在论以共相承担，概念论以个体相似性承担，唯名论以心智活动承担；三种方案在“科学命题的必然性”与“神学语言的有效性”上付出的代价不同。",
+   "status": "无定论",
+   "status_note": "争论自波菲利提出、经波爱修引入拉丁世界，至 14 世纪仍在大学中延续；奥卡姆之后唯名论与唯实论长期并立，近代早期的普遍项之争可视其延续，学界一般不认为已有定论。",
+   "sources": ["sep-universals-medieval", "sep-boethius", "sep-ockham", "sep-abelard"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-ontological-argument",
+   "title": "上帝存在的本体论论证是否成立",
+   "question": "能否仅由“上帝”这一概念的分析，推出上帝在现实中的存在？",
+   "positions": [
+    {
+     "holder": "安瑟尔谟",
+     "id": "gr-medieval-anselm",
+     "stance": "成立：可设想无与伦比之大者必然存在",
+     "reasons": [
+      "若不承认其现实存在，则可设想一个更伟大者，与定义矛盾。",
+      "其不存在不可设想，故其存在是必然的，而非偶然事实。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "高尼罗（本单元之外）",
+     "id": null,
+     "stance": "不成立：同一推理可证“无与伦比之岛”存在",
+     "reasons": [
+      "由概念中的完满推出现实存在，是把“心中的存在”与“现实的存在”混为一谈。",
+      "若推理有效，则任何被设想为最完满的受造物都可被推出存在，显然荒谬。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "托马斯·阿奎那",
+     "id": "gr-medieval-aquinas",
+     "stance": "作为证明不成立，须由经验事实另立五路",
+     "reasons": [
+      "由“上帝”之名所能知的只是其意义，不能由意义推出存在。",
+      "除非已知其本质，否则不能把存在加于该概念，故须由效果回溯至原因。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“存在是否为一种完满性、概念分析能否跨越到现实”：安瑟尔谟以存在为完满性之一，高尼罗质疑其跨越，阿奎那则改换论证的起点而非只否定结论。",
+   "status": "无定论",
+   "status_note": "中世纪内部即有高尼罗与阿奎那两种反对；近代笛卡尔、莱布尼茨重述该论证，康德以“存在不是实在的谓词”批评，20 世纪又有模态版本，学界至今并立。",
+   "sources": ["sep-anselm", "sep-aquinas", "na-summa"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-will-intellect",
+   "title": "意志与理智孰为优先",
+   "question": "在人之中，意志与理智哪一个更高、哪一个更根本地规定人的自由与至福？",
+   "positions": [
+    {
+     "holder": "托马斯·阿奎那",
+     "id": "gr-medieval-aquinas",
+     "stance": "就对象的高贵而言，理智高于意志",
+     "reasons": [
+      "理智的对象是普遍的存在与真，意志的对象是善，而真高于善、存在高于欲求。",
+      "意志的活动须由理智所呈现的对象推动，故理智在次序上先在。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "邓斯·司各脱",
+     "id": "gr-medieval-duns-scotus",
+     "stance": "就活动与自由而言，意志高于理智",
+     "reasons": [
+      "意志能自我决定，甚至在同一对象呈现时停止或继续理智的考察，故不受对象规定。",
+      "爱作为意志的活动以无限善为对象，比认识更完满。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "奥卡姆的威廉（延伸）",
+     "id": "gr-medieval-ockham",
+     "stance": "意志的自由更为彻底，不受理智判断的必然约束",
+     "reasons": [
+      "意志可违背理智的判断而选择，故自由不取决于认识的真伪。",
+      "由此神的自由亦不受其所立秩序的限制，须区分绝对能力与既定秩序。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点在“优先”指什么：若指对象的高贵，则理智优先；若指活动与自由，则意志优先。双方对“自由”的定义不同，结论因而难以直接对撞。",
+   "status": "无定论",
+   "status_note": "13—14 世纪方济各会与多明我会各执一说；近代以不同方式重述意志与认识的关系，学界一般认为这是关于“自由如何定义”的分歧，而非单一论题。",
+   "sources": ["sep-aquinas", "sep-duns-scotus", "sep-ockham"],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ]
+}

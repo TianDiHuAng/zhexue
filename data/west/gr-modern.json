@@ -1,0 +1,1623 @@
+{
+ "unit_id": "gr-modern",
+ "region": "west",
+ "title": "近代理性论与经验论",
+ "period": "1400—1780",
+ "start_year": 1400,
+ "end_year": 1780,
+ "summary": "文艺复兴之后的欧洲，地理与天文的发现扩大了可观察世界的边界，宗教战争与印刷术则动摇了单一权威的可信度。哲学的重心因此从「世界是什么」转向「我们凭什么知道世界」：方法、主体与知识的界限成为首要问题。理性论者相信知识的骨架在心灵自身之中，经验论者则把心灵还原为接受与整理材料的场所；两条路线在天赋观念、因果必然性与心身关系三处正面相撞，其后果一直延续到康德的批判哲学。",
+ "threads": [
+  "方法先行：培根以归纳、笛卡尔以普遍怀疑重订获取知识的程序",
+  "观念的来源：天赋观念与白板之争贯穿整个时期",
+  "因果与必然：从充足理由律到休谟的习惯论，因果性的根据被重新追问",
+  "心身关系：实体二元论、偶因论、平行论与预定和谐四种方案并存",
+  "知识的界限：从独断的体系建构走向对认识能力的自我审查"
+ ],
+ "philosophers": [
+  {
+   "id": "gr-modern-bacon",
+   "name": "培根",
+   "latin": "Francis Bacon",
+   "birth_year": 1561,
+   "death_year": 1626,
+   "birth_display": "1561年",
+   "death_display": "1626年",
+   "birth_note": "据其书信与《培根全集》（Spedding 编）中的自述材料，生于 1561 年 1 月 22 日，伦敦。",
+   "death_note": "1626 年 4 月于伦敦附近的海格特去世，死因据早期传记记为实验受寒致病（通说）。",
+   "era": "伊丽莎白一世末年至詹姆斯一世时期。培根出身掌玺大臣之家，长期任律师、议员与法官，1618 年任大法官，1621 年因受贿指控去职。其时哥白尼天文学、航海与解剖学已在扩张知识边界，学院却仍以亚里士多德三段论为推理范式，故他的问题是：如何为能增产知识的方法重建规则。",
+   "school": "英国经验论（近代归纳法奠基者）",
+   "core_questions": [
+    "旧逻辑为何不能产生新知识，方法应当如何重写？",
+    "人心有哪些系统性的致错倾向，如何先行清除？",
+    "归纳要经过哪些程序才能从个别事例上升到公理？"
+   ],
+   "arguments": [
+    {
+     "claim": "知识的目的是增强人类能力，故须以「新工具」取代旧逻辑",
+     "premises": [
+      "亚里士多德式三段论只能整理已被接受的前提，不能生出原先没有的命题。",
+      "航海、冶金、解剖等实际技艺的进展来自观察与实验的积累，而非从公理演绎。"
+     ],
+     "inference": "若旧逻辑的功用在于使人心从既定前提中导出结论，而新知识只能由对自然的具体观察生成，则方法的任务就不是校正推论形式，而是安排观察、比较与排除的程序。",
+     "conclusion": "须以归纳的「新工具」取代作为发现方法的旧工具。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "人心有四类假象，须先标识并清除才能读自然之书",
+     "premises": [
+      "种族假象：人的感官与理解以人的尺度度量事物，倾向于以目的论解释自然。",
+      "洞穴假象来自各人的气质、教育与阅读；市场假象来自语词按流俗用法通行；剧场假象来自既成哲学体系被当作世界本身。"
+     ],
+     "inference": "若错误主要不生于推理形式，而生于心智固有的倾向、个人习性与语言的误导，则必须先有一部关于假象的学说来定位这些系统性偏差，观察记录才可能可靠。",
+     "conclusion": "方法的第一步是诊断并清除四类假象。",
+     "kind": "原文"
+    },
+    {
+     "claim": "归纳须以「判例表」为可操作的程序",
+     "premises": [
+      "要发现某一性质的形式，须先把有关的例证按三种方式列成表：本质表或在场表、差异表或邻近中的缺席表、程度表或比较表。",
+      "三表并列之后，方可排除那些并非随该性质共变的东西，得到第一次收获（vindemiatio prima）。"
+     ],
+     "inference": "若形式的发现依赖对例证的编排而非偶然的灵感，则归纳就必须有可以逐条执行的表格程序；排除法的作用在于剔除偶性，使剩下的候选者成为继续检验的假设。",
+     "conclusion": "归纳是一套制表与排除的技术，而非对事例的简单枚举。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《新工具》（Novum Organum）",
+     "edition": "1620 年伦敦初版，拉丁文；参 Spedding、Ellis、Heath 编《培根全集》（The Works of Francis Bacon, 1857—1874）；中译以许宝骙译《新工具》，商务印书馆为通行本",
+     "note": "两卷，第一卷为格言体（含四假象），第二卷论归纳与判例表"
+    },
+    {
+     "title": "《学术的进展》（The Advancement of Learning）",
+     "edition": "1605 年英文初版；1623 年扩写为拉丁文《论科学的增进》（De Dignitate et Augmentis Scientiarum）；中译参刘运同译本，上海人民出版社",
+     "note": "按记忆、想象、理性三分学问，是「知识即力量」纲领的展开"
+    },
+    {
+     "title": "《新大西岛》（New Atlantis）",
+     "edition": "1626 年首次刊行于《新大西岛》合集（伦敦），未完成；中译参何新译本",
+     "note": "以「所罗门之宫」描绘有组织的集体研究机构"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "经院亚里士多德主义（作为批判对象）",
+     "id": null,
+     "note": "培根以三段论与目的因的解释为方法论的起点，其「新工具」之名为对《工具论》的取代"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "皇家学会的实验哲学",
+     "id": null,
+     "note": "17 世纪 60 年代皇家学会的「收集事实、记录实验」纲领常被称为培根式纲领"
+    },
+    {
+     "name": "穆勒的归纳方法",
+     "id": null,
+     "note": "后世把培根视为归纳逻辑的象征，「穆勒五法」是这一纲领的系统化"
+    },
+    {
+     "name": "笛卡尔（方法论的对照者，见本单元另页）",
+     "id": null,
+     "note": "同一时期两条相反的方法路线：一为观察归纳，一为怀疑与演绎"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后世科学史与科学哲学研究",
+     "view": "培根低估了数学与假设—演绎的作用：他未接受哥白尼体系，对开普勒、伽利略的成果反应冷淡，其归纳纲领难以说明理论建构如何可能。",
+     "response": "一种辩护是：他的目标是纠正过早概括与语词空转，而非否认理论；《新工具》把「第一次收获」只当作中途驿站，仍要求继续实验检验。",
+     "kind": "后人解读",
+     "sources": [
+      "book-copleston-history",
+      "book-kuhn-ssr"
+     ]
+    },
+    {
+     "critic": "唯理论者（以笛卡尔为代表）",
+     "view": "感觉经验的累积只能给出或然与事例，不能给出普遍必然的知识；若无理性自身的秩序，归纳永远停在「迄今如此」。",
+     "response": "培根式的回应是：普遍必然性若脱离对自然的实际分解，就只是语词上的确定性；知识的确定性应当以能增产、能接受检验为标准，而非以先天演绎为标准。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-descartes",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "培根提出「知识就是力量」，并把科学的目的定为征服自然",
+     "why": "该语见于 1597 年《宗教沉思录》中的拉丁文断片（ipsa scientia potestas est），本义是知识本身即具有力量；把它读作技术支配自然的口号，是后世的概括。培根本人的表述更强调「解释自然」须服从自然的记录与检验。"
+    },
+    {
+     "claim": "四假象是四种逻辑谬误的分类",
+     "why": "假象不是推理形式的错误，而是感知与语言的系统性偏差：种族（以人的尺度度量）、洞穴（个人习性）、市场（语词误导）、剧场（体系成见）。培根把它们称作「人心的偶像」，要用方法校正，而非用规则纠错。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>培根：假象—判例表—归纳（示意）</text><defs><marker id='ar1' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='34' y='62' width='206' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='137' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>问题：三段论不产新知</text><text x='137' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>只能整理既定前提</text><rect x='277' y='62' width='206' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>诊断：四假象</text><text x='380' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>种族·洞穴·市场·剧场</text><rect x='520' y='62' width='206' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='623' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>程序：判例三表</text><text x='623' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>在场·缺席·程度</text><line x1='137' y1='122' x2='300' y2='168' stroke='#4a7ba6' marker-end='url(#ar1)'/><line x1='380' y1='122' x2='380' y2='168' stroke='#4a7ba6' marker-end='url(#ar1)'/><line x1='623' y1='122' x2='460' y2='168' stroke='#4a7ba6' marker-end='url(#ar1)'/><rect x='210' y='172' width='340' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='196' text-anchor='middle' font-size='13' fill='#1c3a5c'>排除偶性，得第一次收获</text><text x='380' y='217' text-anchor='middle' font-size='10' fill='#1e2d3d'>归纳是可执行的表格程序</text><line x1='380' y1='232' x2='380' y2='272' stroke='#4a7ba6' marker-end='url(#ar1)'/><rect x='150' y='276' width='460' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='300' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：方法须重写为解释自然的程序</text><text x='380' y='320' text-anchor='middle' font-size='10' fill='#1e2d3d'>目的因被排除出自然哲学</text><text x='380' y='358' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：《新工具》第一卷论假象，第二卷论判例表</text></svg>",
+   "svg_caption": "培根：从旧逻辑的缺陷到四假象、判例表与归纳（重构示意图）",
+   "sources": [
+    "book-copleston-history",
+    "book-kuhn-ssr"
+   ],
+   "needs_verification": true,
+   "pending_notes": "sources.json 中无培根专属词条（sep-bacon 未收录，IEP 无培根条目），亦无培根原典译本，故 quotes 留空；本页依据 Copleston《哲学史》第三卷与 Kuhn 对培根式归纳纲领的讨论，四假象与判例表的具体格言编号（通说为《新工具》I.39—44 论假象、II.11 起论三表）尚待核对原文。"
+  },
+  {
+   "id": "gr-modern-descartes",
+   "name": "笛卡尔",
+   "latin": "René Descartes",
+   "birth_year": 1596,
+   "death_year": 1650,
+   "birth_display": "1596年",
+   "death_display": "1650年",
+   "birth_note": "据 17 世纪传记（Adrien Baillet 等）与书信，生于 1596 年 3 月 31 日于图赖讷的拉海。",
+   "death_note": "1650 年 2 月 11 日卒于斯德哥尔摩（通说）。",
+   "era": "三十年战争与科学革命并行之际。笛卡尔受耶稣会拉弗莱什公学教育，曾从军游历，长期居荷兰写作。伽利略受审（1633）使他放弃出版《论世界》，改以方法论与形而上学著作面向公众；其问题是：在一切权威与感官都可疑的条件下，知识如何找到一个不可动摇的起点。",
+   "school": "唯理论（大陆理性论）",
+   "core_questions": [
+    "在普遍怀疑之后，还有什么不可怀疑？",
+    "清楚分明的知觉为何可以作为真理的标准？",
+    "心灵与身体是两种实体，它们如何相互作用？"
+   ],
+   "arguments": [
+    {
+     "claim": "「我思」是不可再被怀疑的起点",
+     "premises": [
+      "感官有时欺骗我们，故凡曾受骗的感官报告都可疑。",
+      "梦境与醒时经验无法由当下经验本身区分，故可设想一切外部知觉皆梦；更可设想一位恶魔使我在数学判断上也出错。"
+     ],
+     "inference": "若我怀疑一切，则怀疑这一活动正在进行；怀疑是一种思想，而思想必有一个正在思想的东西。即便恶魔欺骗我，只要我被欺骗，我就存在。",
+     "conclusion": "「我在」在每一次怀疑中被直接把握。",
+     "kind": "原文"
+    },
+    {
+     "claim": "清楚分明的知觉是真理的标准",
+     "premises": [
+      "「我在」之所以确定，不在于推论形式，而在于它被清楚地、分明地看到，不容怀疑。",
+      "凡能被同样清楚地、分明地知觉的命题，若同时被怀疑便会产生矛盾。"
+     ],
+     "inference": "既然确定性来自知觉的方式而非来自对象，则可以把这一方式提升为一般规则：凡清楚分明地被知觉者皆真；规则本身的有效性随后由神的诚实性来保证。",
+     "conclusion": "清楚分明（clara et distincta perceptio）成为判定真假的尺度。",
+     "kind": "原文"
+    },
+    {
+     "claim": "由心中「无限完满者」的观念可推出上帝存在",
+     "premises": [
+      "我心中有一个关于无限、完满、必然存在的存在的观念，而我自己是有限、可怀疑的。",
+      "原因的实在性不能少于结果的实在性：一个有限而可怀疑的心灵不能凭自身产生无限完满者的观念。"
+     ],
+     "inference": "观念必有其原因，且其客观实在性须由更高的原因支撑；既然我不能是这一观念的原因，则必有一个现实存在的无限完满者把它置于我心中。",
+     "conclusion": "上帝存在（第三沉思的观念论证）；第五沉思另以存在不能与上帝的本质分离再证一次。",
+     "kind": "原文"
+    },
+    {
+     "claim": "心灵与身体是两种实体，却在松果体中相互作用",
+     "premises": [
+      "我能清楚地、分明地设想自己作为思想者而不带任何广延属性，故心灵的本性在于思想。",
+      "身体的本性在于广延与可分，而身体不能思想。"
+     ],
+     "inference": "凡能被清楚分明地设想为彼此分离者，至少可被神设为分离存在，故心灵与身体是两种实体；但经验又显示身体受伤时我心感痛、我决意时身体动作，故二者必有一交感之处。",
+     "conclusion": "实体二元论加松果体交感说（《第六沉思》；《论灵魂的激情》I.31—32）。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《第一哲学沉思集》（Meditationes de prima philosophia）",
+     "edition": "拉丁文本 1641 年巴黎初版，1642 年阿姆斯特丹增订本附七组反驳与答辩；法译本 1647；中译参庞景仁译《第一哲学沉思集》，商务印书馆",
+     "note": "六个沉思，附有当时学者（霍布斯、阿尔诺、伽森狄等）的反驳与笛卡尔的答辩"
+    },
+    {
+     "title": "《谈谈方法》（Discours de la méthode）",
+     "edition": "1637 年莱顿初版，法文，与《折光学》《气象学》《几何学》合刊；中译参王太庆译《谈谈方法》，商务印书馆",
+     "note": "第四部分以法文给出「Je pense, donc je suis」，早于拉丁文的《沉思集》"
+    },
+    {
+     "title": "《哲学原理》（Principia philosophiae）",
+     "edition": "1644 年阿姆斯特丹初版，拉丁文；法译本 1647；中译可参商务印书馆汉译世界学术名著本（译者与版次待核）",
+     "note": "四部分，第一部分以「原理」体例重述形而上学，含清楚分明说的正式表述"
+    },
+    {
+     "title": "《论灵魂的激情》（Les Passions de l'âme）",
+     "edition": "1649 年巴黎与阿姆斯特丹初版，法文；中译参《论灵魂的激情》商务印书馆本（译者版次待核）",
+     "note": "第一编论激情的一般本性，含松果体为身心交感之处的主张"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "培根（方法路线的对照者）",
+     "id": "gr-modern-bacon",
+     "note": "同时代人，笛卡尔走怀疑与演绎之路，与培根的观察归纳纲领相反"
+    },
+    {
+     "name": "晚期经院哲学与耶稣会教科书传统",
+     "id": null,
+     "note": "其术语（实体、样态、实在性等级）取自经院哲学，而用法被重新规定"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "斯宾诺莎（见本单元另页）",
+     "id": null,
+     "note": "以几何学方法重写笛卡尔的实体学说，并取消其实体二元论"
+    },
+    {
+     "name": "莱布尼茨（见本单元另页）",
+     "id": null,
+     "note": "继承机械论与「清楚分明」的诉求，以单子论替代二元论"
+    },
+    {
+     "name": "伊丽莎白公主（通信者与批评者）",
+     "id": null,
+     "note": "1643 年起的往来书信，是心身交感说最早的持续质疑"
+    },
+    {
+     "name": "康德",
+     "id": null,
+     "note": "「我思」被改造为先验统觉；笛卡尔的怀疑被读作有问题的观念实在论"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "伊丽莎白公主",
+     "view": "若心灵是无广延的思想实体，它如何推动身体？推动须有接触与广延，而按你的定义心灵没有广延，交感说因此无法说明。",
+     "response": "笛卡尔的回应是：不能用想象与广延模型去把握灵魂与身体的合一；这种合一在日常经验中被直接感到，只是不能由几何学方式说明。",
+     "kind": "原文",
+     "sources": [
+      "sep-descartes",
+      "iep-descartes"
+     ]
+    },
+    {
+     "critic": "霍布斯（第三组反驳）",
+     "view": "「我思故我在」依赖「思想需要思想者」这一未证明的前提；把「我」当作思想实体，是从活动的进行跳到了实体的存在。",
+     "response": "笛卡尔的回应是：他并不从思想推出一个实体，而是在每一刻直接把握到正在思想的存在者；「实体」一词只在说明这个存在者时使用。",
+     "kind": "原文",
+     "sources": [
+      "sep-descartes",
+      "iep-descartes"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "「我思故我在」是一个三段论",
+     "why": "笛卡尔在答辩中明确否认它是推论：大前提「凡思想者存在」反而要由「我在」的直观来支持。它是每一次怀疑中直接自明的直观，而三段论只会把它变成依赖前提的结论。"
+    },
+    {
+     "claim": "普遍怀疑使笛卡尔成为怀疑论者",
+     "why": "怀疑是方法上的悬置，目的在于找到不可怀疑者；「我思」终止了怀疑，随后以上帝的诚实性保证清楚分明的知觉，其结论是反怀疑论的。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "我在，我存在——这一命题只要被说出或被想到，就必然为真。",
+     "source_id": "emt-descartes",
+     "locator": "《第一哲学沉思集》第二沉思",
+     "kind": "原文"
+    },
+    {
+     "text": "那么我究竟是什么呢？一个在思想的东西。",
+     "source_id": "emt-descartes",
+     "locator": "《第一哲学沉思集》第二沉思",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>笛卡尔：怀疑—我思—清楚分明（示意）</text><defs><marker id='ar2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='34' y='62' width='206' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='137' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>怀疑：感官会欺人</text><text x='137' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>梦论证与恶魔假设</text><rect x='277' y='62' width='206' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>怀疑活动本身</text><text x='380' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>必有正在思想者</text><rect x='520' y='62' width='206' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='623' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>清楚分明</text><text x='623' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>clara et distincta</text><line x1='137' y1='122' x2='300' y2='168' stroke='#4a7ba6' marker-end='url(#ar2)'/><line x1='380' y1='122' x2='380' y2='168' stroke='#4a7ba6' marker-end='url(#ar2)'/><line x1='623' y1='122' x2='460' y2='168' stroke='#4a7ba6' marker-end='url(#ar2)'/><rect x='210' y='172' width='340' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='196' text-anchor='middle' font-size='13' fill='#1c3a5c'>我思故我在：不可再疑</text><text x='380' y='217' text-anchor='middle' font-size='10' fill='#1e2d3d'>确定性来自知觉方式</text><line x1='380' y1='232' x2='380' y2='272' stroke='#4a7ba6' marker-end='url(#ar2)'/><rect x='150' y='276' width='460' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='300' text-anchor='middle' font-size='13' fill='#1c3a5c'>上帝保证 → 外界实在与心物二元</text><text x='380' y='320' text-anchor='middle' font-size='10' fill='#1e2d3d'>身心交感留待松果体说明</text><text x='380' y='358' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：《第一哲学沉思集》第二、三、六沉思；《谈谈方法》第四部分</text></svg>",
+   "svg_caption": "笛卡尔：从普遍怀疑到我思、清楚分明与上帝（重构示意图）",
+   "sources": [
+    "sep-descartes",
+    "iep-descartes",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-spinoza",
+   "name": "斯宾诺莎",
+   "latin": "Baruch（Benedictus）de Spinoza",
+   "birth_year": 1632,
+   "death_year": 1677,
+   "birth_display": "1632年",
+   "death_display": "1677年",
+   "birth_note": "据 17—18 世纪传记（Colerus 等）与社群档案，生于 1632 年 11 月 24 日于阿姆斯特丹葡萄牙犹太商人家庭。",
+   "death_note": "1677 年 2 月 21 日卒于海牙，肺病（通说）；生前仅《笛卡尔哲学原理》与《神学政治论》署名刊行。",
+   "era": "荷兰黄金时代。阿姆斯特丹是贸易与出版中心，也是犹太流亡社群与加尔文宗当局并存的城邦；斯宾诺莎因异端观点于 1656 年被犹太社群除籍（cherem），此后以磨镜片为生，拒绝海德堡大学教职以保持思想自由。其问题是如何用几何学的严格性重建形而上学与伦理学。",
+   "school": "唯理论（实体一元论／泛神论体系）",
+   "core_questions": [
+    "若只有一个实体，神、自然与人处于何种关系？",
+    "在普遍必然性之下，人的自由与德性还剩下什么？",
+    "心灵与身体若不是两种实体，它们的对应如何说明？"
+   ],
+   "arguments": [
+    {
+     "claim": "只有一个实体，即神或自然",
+     "premises": [
+      "实体是「在自身内并通过自身而被认识」者（第一部分定义三），其概念不需他物的概念。",
+      "两个实体若共有同一属性便不能相互区别；而实体必有属性，属性表达其本质。",
+      "凡存在者或在自身内（实体），或在他物内（样态）；有限事物皆相互限制、彼此产生。"
+     ],
+     "inference": "若实体不能由他物产生（否则便不是自因的），而一切有限事物都依赖他物，则能自因存在者只能有一个；多数的「实体」会相互限制，从而是样态而非实体。故思想与广延不是两个实体，而是同一实体的两个属性。",
+     "conclusion": "神即自然（deus sive natura），万物皆其样态。",
+     "kind": "原文"
+    },
+    {
+     "claim": "观念的秩序与事物的秩序是同一秩序",
+     "premises": [
+      "思想与广延是同一实体的两个属性，各自完整地表达同一本质。",
+      "一个属性不能产生另一属性的样态：广延不能产生思想，思想也不能产生广延。"
+     ],
+     "inference": "若因果只在同一属性内部发生，则身体的每一变化在广延属性中有其原因，而与之相应的观念在思想属性中有其原因；两个序列结构相同而互不因果。",
+     "conclusion": "心身关系是同一实体的两种描述之间的平行（第二部分命题七）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "每一事物都努力保持自身存在（conatus）",
+     "premises": [
+      "个别事物是神的力量在某一确定样式中的表达。",
+      "若无外在原因取消它，事物不会自行趋向毁灭；毁灭只能来自外因。"
+     ],
+     "inference": "既然事物的存在不由它自己设定，而是被保持在存在之中，则它的现实活动必然表现为对自身存在的持续维持；这一努力就是它的现实本质。",
+     "conclusion": "conatus 是欲望与一切情感的基础（第三部分命题六至九）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "自由是依自身本性的必然性而行动，而非意志的自由选择",
+     "premises": [
+      "意志不是无原因的官能：每一意愿都有其原因，故不存在绝对自由的意志（第二部分命题四十八）。",
+      "知识分三等：由感官与传闻而来的意见或想象、由共同概念而来的理性、由神之属性的形式本质而来的直观知识（第二部分命题四十附释二）。"
+     ],
+     "inference": "受情欲支配者只把握自身处境的片段，故以为自己是自由的；当他以理性与直观认识万物由神性必然流出，其行动仍出于必然，但出于自身本性而非外因。",
+     "conclusion": "自由即依自身本性的必然性行动；「自由是对必然的认识」一语是后人概括，并非《伦理学》原文。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《伦理学》（Ethica ordine geometrico demonstrata）",
+     "edition": "1677 年阿姆斯特丹遗著全集（Opera Posthuma）拉丁文本；中译参贺麟译《伦理学》，商务印书馆",
+     "note": "五部分，以定义、公理、命题、证明、附释的几何学体例写成"
+    },
+    {
+     "title": "《神学政治论》（Tractatus theologico-politicus）",
+     "edition": "1670 年阿姆斯特丹匿名出版（伪造出版地汉堡）；中译参温锡增译《神学政治论》，商务印书馆",
+     "note": "以历史—语文学方法解经，主张思想与信仰自由"
+    },
+    {
+     "title": "《知性改进论》（Tractatus de intellectus emendatione）",
+     "edition": "未完成，1677 年收入《遗著全集》；中译参贺麟译《知性改进论》，商务印书馆",
+     "note": "论知识的种类与方法的起点"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "笛卡尔",
+     "id": "gr-modern-descartes",
+     "note": "继承其机械论与「清楚分明」标准，却取消实体二元论与意志自由"
+    },
+    {
+     "name": "中世纪犹太与经院哲学（迈蒙尼德、克雷斯卡斯等）",
+     "id": null,
+     "note": "神与自然、预言与律法的讨论构成其问题背景"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "莱布尼茨（见本单元另页）",
+     "id": null,
+     "note": "以单子论回应斯宾诺莎的一元论，同时批评其取消目的因"
+    },
+    {
+     "name": "德国浪漫派与歌德",
+     "id": null,
+     "note": "「神即自然」被读作与自然亲和的形而上学"
+    },
+    {
+     "name": "现代斯宾诺莎主义研究（如 Curley 等）",
+     "id": null,
+     "note": "20 世纪后期重新讨论其必然性学说与政治理论"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "莱布尼茨",
+     "view": "斯宾诺莎取消目的因与神的理智，使一切皆必然，于是善恶、奖惩与人的努力都失去意义；而且「一切皆必然」难以说明现象的多样性与个体的能动性来自何处。",
+     "response": "斯宾诺莎式回应是：善恶不是事物本身的属性，而是相对于我们的有用性（第四部分序言）；必然性不取消能动性，conatus 与理性认识正是人的主动性所在。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-leibniz",
+      "sep-spinoza"
+     ]
+    },
+    {
+     "critic": "当时的正统神学家（1656 年除籍令与随后的「无神论」指控）",
+     "view": "神即自然取消了超越的、有人格与意志的神，因此是无神论；这样的学说会瓦解宗教与道德的基础。",
+     "response": "斯宾诺莎式回应是：他并未否认神，而是否认神有人格、有目的、有情绪；把神等同于实体与必然性，是对神之无限性的严格化，而非取消。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-spinoza",
+      "iep-spinoza"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "「自由是对必然的认识」是斯宾诺莎的原话",
+     "why": "此语是后人对《伦理学》第五部分自由人学说的概括（恩格斯的表述使其广为流行）；《伦理学》的原文说法是对神的理智的爱与依自身本性的行动。引用时须标为后人概括。"
+    },
+    {
+     "claim": "斯宾诺莎的实体就是物质",
+     "why": "实体不是物质：广延只是它的一个属性，思想同样是属性且与之平行。把 deus sive natura 读成唯物论，会漏掉属性平行论这一核心。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>斯宾诺莎：实体—属性—样态（示意）</text><defs><marker id='ar3' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='60' y='58' width='200' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='160' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>定义与公理</text><text x='160' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>自因·属性·样态</text><rect x='500' y='58' width='200' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='600' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>多者相互限制</text><text x='600' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>故非实体</text><line x1='260' y1='86' x2='330' y2='86' stroke='#4a7ba6' marker-end='url(#ar3)'/><line x1='500' y1='86' x2='430' y2='86' stroke='#4a7ba6' marker-end='url(#ar3)'/><rect x='334' y='60' width='92' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>唯一实体</text><text x='380' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>神即自然</text><line x1='380' y1='116' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#ar3)'/><rect x='230' y='160' width='300' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='184' text-anchor='middle' font-size='13' fill='#1c3a5c'>两个属性：思想与广延</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>同一秩序，互不因果（平行）</text><line x1='380' y1='220' x2='380' y2='258' stroke='#4a7ba6' marker-end='url(#ar3)'/><rect x='180' y='262' width='400' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='286' text-anchor='middle' font-size='13' fill='#1c3a5c'>样态：conatus 即现实本质</text><text x='380' y='306' text-anchor='middle' font-size='10' fill='#1e2d3d'>自由＝依自身本性而行</text><text x='380' y='356' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：《伦理学》第一部分定义三、第二部分命题七、第三部分命题六</text></svg>",
+   "svg_caption": "斯宾诺莎：从实体到属性与样态的结构（重构示意图）",
+   "sources": [
+    "sep-spinoza",
+    "iep-spinoza"
+   ],
+   "needs_verification": true,
+   "pending_notes": "sources.json 中无斯宾诺莎原典译本（无 emt-spinoza），故 quotes 留空；《伦理学》各部分命题编号依 SEP 与 IEP 的通行描述标注，「自由是对必然的认识」一语的归属已在论点与常见误解中注明为后人概括，原文措辞待核。"
+  },
+  {
+   "id": "gr-modern-leibniz",
+   "name": "莱布尼茨",
+   "latin": "Gottfried Wilhelm Leibniz",
+   "birth_year": 1646,
+   "death_year": 1716,
+   "birth_display": "1646年",
+   "death_display": "1716年",
+   "birth_note": "据其自传性材料与汉诺威宫廷档案，生于 1646 年 7 月 1 日于莱比锡。",
+   "death_note": "1716 年 11 月 14 日卒于汉诺威（通说）。",
+   "era": "路易十四时代的欧洲。莱布尼茨受法学与数学训练，长期任汉诺威公爵府顾问与图书馆长，与牛顿就微积分发明权争执，与克拉克通信论战。他同时面对机械论自然观的胜利与神义论问题（恶的存在如何与至善全能的神相容），故其体系要在机械论与目的论之间搭桥。",
+   "school": "唯理论（单子论／前定和谐体系）",
+   "core_questions": [
+    "万物由何种最终单元构成，这些单元如何相互关联？",
+    "任何事实为何如此而非别样，其充足理由何在？",
+    "若神全善全能，恶的存在如何被说明？"
+   ],
+   "arguments": [
+    {
+     "claim": "构成万物的最终单元是没有部分的「单子」",
+     "premises": [
+      "凡有部分者皆可分割，而分割必终止于不可分者，否则复合物没有构成单元。",
+      "不可分者不能有广延或形状，因为凡有广延者皆可无限分割。"
+     ],
+     "inference": "若单子没有部分，则一个部分无法影响另一个部分；凡是表面上的相互作用，只能是内部状态之间预先安排好的对应。",
+     "conclusion": "单子无窗（point de fenêtres），世界由无数知觉着的单纯实体构成。",
+     "kind": "原文"
+    },
+    {
+     "claim": "身心之间的对应由神预先安排的和谐保证",
+     "premises": [
+      "身体依机械规律运动，心灵依欲求与知觉变化，二者不能相互推动。",
+      "然而经验显示意志与身体动作恒常相应，如同两座始终指向同一时刻的钟。"
+     ],
+     "inference": "若两条因果链不能相交，则其对应只能有三种解释：相互影响（已排除）、偶因论（须每一步神迹）、或一开始就被安排好的同步。第三种最省神迹，也最符合神的智慧。",
+     "conclusion": "预定和谐：身心如两台由同一工匠校准的钟。",
+     "kind": "原文"
+    },
+    {
+     "claim": "任何事实都有其为何如此而非别样的充足理由",
+     "premises": [
+      "分析命题的理由在矛盾律中；而偶然事物的存在不能由其概念分析得出。",
+      "若一个事实没有充足理由，则它的存在与不存在同样可被接受，理性将无法区分真伪。"
+     ],
+     "inference": "偶然事物的充足理由不能在同序列的其他偶然事物中无限后退，否则等于没有给出理由；故须终止于一个其理由在自身之中的必然存在者。",
+     "conclusion": "充足理由律既支撑事实真理，也导向必然存在者（神）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "被造世界是所有可能世界中最好的",
+     "premises": [
+      "神在创造之前于理智中观照无限多可能世界，并按善的原则选择。",
+      "恶可分为形而上学的限制、物理的痛苦与道德的罪；它们或是必然的缺陷，或是达成更大善的条件。"
+     ],
+     "inference": "若神全能且至善，则他不会选择一个较劣的世界；故现实世界的「最好」不在于没有恶，而在于整体秩序的最优。",
+     "conclusion": "神正论：恶的存在与神的善相容。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《单子论》（Monadologie）",
+     "edition": "1714 年为欧根亲王所写的法文纲要，首次刊行于 1846 年（Erdmann 编）；中译可参《单子论》中译本（商务印书馆，译者版次待核）",
+     "note": "九十节，单子、知觉、前定和谐、充足理由与最好世界的浓缩表述"
+    },
+    {
+     "title": "《神正论》（Essais de Théodicée）",
+     "edition": "1710 年阿姆斯特丹初版，法文；中译参段德智译《神正论》，商务印书馆",
+     "note": "论神的善与恶的许可，回应培尔（Bayle）的质疑"
+    },
+    {
+     "title": "《人类理解新论》（Nouveaux essais sur l'entendement humain）",
+     "edition": "写于 1704 年，1765 年由 Raspe 首次刊行；中译参陈修斋译《人类理智新论》，商务印书馆",
+     "note": "以对话体逐章回应洛克的《人类理解论》，含大理石纹路的比喻"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "笛卡尔",
+     "id": "gr-modern-descartes",
+     "note": "接受机械论与清楚分明的诉求，但以单子替代二元实体"
+    },
+    {
+     "name": "斯宾诺莎",
+     "id": "gr-modern-spinoza",
+     "note": "以单子论与目的论回应其一元论与必然性体系，并批评其取消目的因"
+    },
+    {
+     "name": "洛克（《人类理解新论》的对话对象）",
+     "id": null,
+     "note": "白板说与天赋观念之争的直接对手，见本单元洛克页"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "沃尔夫与德国学院哲学",
+     "id": null,
+     "note": "体系化后成为 18 世纪德国大学的教科书哲学，也是康德批判的对象"
+    },
+    {
+     "name": "康德",
+     "id": null,
+     "note": "「二律背反」与「可能世界」的框架部分承自莱布尼茨—沃尔夫体系"
+    },
+    {
+     "name": "现代模态形而上学",
+     "id": null,
+     "note": "可能世界语义学借用了其术语，但用法已大不相同"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "伏尔泰（《老实人》，1759）",
+     "view": "以「一切皆好」的乐观主义讽刺莱布尼茨：里斯本大地震与战争使人难以相信这是最好的世界。",
+     "response": "莱布尼茨式的回应是：其论题是「所有可能世界中最好的」，不是「现存世界没有恶」；比较对象不是更坏的现实，而是其他可能秩序。",
+     "kind": "后人解读",
+     "sources": [
+      "book-copleston-history",
+      "sep-leibniz"
+     ]
+    },
+    {
+     "critic": "克拉克（1715—1716 年通信论战）",
+     "view": "若神的意志总被充足理由决定，则神的自由与道德责任如何保留？充足理由律会使创造成为必然，而非自由选择。",
+     "response": "莱布尼茨的回应是：神的意志受「至善」这一道德动机的倾向，而非形而上学的强制；被至善所倾向的选择仍是自由的，因为它自发且出于理智。",
+     "kind": "原文",
+     "sources": [
+      "sep-leibniz",
+      "iep-leibniz"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "单子就是物理学上的原子",
+     "why": "单子没有广延、形状与部分，其不可分不是因为坚硬，而是因为它不在空间中。原子论以广延的最小块解释万物，恰是莱布尼茨要反对的。"
+    },
+    {
+     "claim": "「最好的世界」是一句盲目乐观的口号",
+     "why": "它是有条件的论断：在神可创造的可能世界中取最优，且允许恶作为整体秩序的条件。把它读成「现实中的恶都是好事」，正是伏尔泰讽刺的对象，而非原意。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "单子没有可供事物出入的窗子。",
+     "source_id": "emt-leibniz",
+     "locator": "《单子论》第 7 节",
+     "kind": "原文"
+    },
+    {
+     "text": "任何事实若非有其为何如此而非别样的充足理由，便不能是真的、实在的。",
+     "source_id": "emt-leibniz",
+     "locator": "《单子论》第 32 节",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>莱布尼茨：单子—和谐—充足理由（示意）</text><defs><marker id='ar4' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='34' y='62' width='206' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='137' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>有部分者皆可分</text><text x='137' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>分割止于不可分者</text><rect x='277' y='62' width='206' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>单子无广延</text><text x='380' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>故非物质、无部分</text><rect x='520' y='62' width='206' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='623' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>无部分则无窗</text><text x='623' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>不能相互影响</text><line x1='137' y1='122' x2='300' y2='168' stroke='#4a7ba6' marker-end='url(#ar4)'/><line x1='380' y1='122' x2='380' y2='168' stroke='#4a7ba6' marker-end='url(#ar4)'/><line x1='623' y1='122' x2='460' y2='168' stroke='#4a7ba6' marker-end='url(#ar4)'/><rect x='200' y='172' width='360' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='196' text-anchor='middle' font-size='13' fill='#1c3a5c'>两座钟：预定和谐而非交感</text><text x='380' y='217' text-anchor='middle' font-size='10' fill='#1e2d3d'>偶因论须每一步神迹，此案一次校准</text><line x1='380' y1='232' x2='380' y2='272' stroke='#4a7ba6' marker-end='url(#ar4)'/><rect x='150' y='276' width='460' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='300' text-anchor='middle' font-size='13' fill='#1c3a5c'>充足理由 → 必然存在者 → 最好世界</text><text x='380' y='320' text-anchor='middle' font-size='10' fill='#1e2d3d'>恶与神的善相容（神正论）</text><text x='380' y='358' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：《单子论》第 7 节无窗、第 32 节充足理由、第 53—55 节最好世界</text></svg>",
+   "svg_caption": "莱布尼茨：从单子的不可分到预定和谐与最好世界（重构示意图）",
+   "sources": [
+    "sep-leibniz",
+    "iep-leibniz"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-locke",
+   "name": "洛克",
+   "latin": "John Locke",
+   "birth_year": 1632,
+   "death_year": 1704,
+   "birth_display": "1632年",
+   "death_display": "1704年",
+   "birth_note": "据其日记与早期传记，生于 1632 年 8 月 29 日于萨默塞特郡的灵顿。",
+   "death_note": "1704 年 10 月 28 日卒于埃塞克斯郡奥茨的马斯汉姆宅（通说）。",
+   "era": "英国内战、共和、复辟与光荣革命相继的世纪。洛克出身清教徒律师家庭，受牛津的医学与实验科学训练，曾任沙夫茨伯里伯爵的秘书与医师，1683 年随其流亡荷兰，1689 年回国。其问题既包括知识从何而来，也包括政治权力凭什么正当。",
+   "school": "英国经验论",
+   "core_questions": [
+    "人心中的观念从哪里来，是否有天赋的观念？",
+    "物体的性质中哪些属于物体本身，哪些只存在于知觉中？",
+    "人格的同一性依据什么，政治权力凭什么正当？"
+   ],
+   "arguments": [
+    {
+     "claim": "人心中没有天赋的思辨原则",
+     "premises": [
+      "若观念是天赋的，则凡有心灵者都会实际知道它并同意它。",
+      "但儿童与未受教育者对同一律、矛盾律等所谓「天赋原则」并不知晓；即便知晓，也须先有观念才能同意命题。"
+     ],
+     "inference": "「普遍同意」不能证明天赋：被认为普遍同意的道德与数学命题其实并非人人同意；而天赋说还要解释为何神印入的观念需由教育来显露，这已是多余的假设。",
+     "conclusion": "心灵如白纸（white paper），观念须由经验写入。",
+     "kind": "原文"
+    },
+    {
+     "claim": "一切观念来自感觉与反省",
+     "premises": [
+      "简单观念是心灵被动接受的最小单位，如色、声、硬、痛。",
+      "心灵在接受这些材料之后，能对之复合、比较、抽象而形成复杂观念；反省则是心灵对自身活动的知觉。"
+     ],
+     "inference": "若复杂观念皆由简单观念构成，而简单观念只能由外部感觉或内部反省提供，则没有第三种来源；凡不能还原为二者的说法都可疑。",
+     "conclusion": "感觉与反省是观念的两个且仅有的来源。",
+     "kind": "原文"
+    },
+    {
+     "claim": "物体确有第一性质，第二性质只是产生观念的能力",
+     "premises": [
+      "第一性质（凝固性、广延、形状、运动、数目）与物体不可分离，无论是否被感知都在物体之中。",
+      "色、声、味随感官与处境而变：同一盆水对一只手觉热、对另一只手觉温。"
+     ],
+     "inference": "若同一物体在同一时刻能在不同感官中产生相反的观念，则该观念不在物体中而只在知觉者中；故第二性质是物体借第一性质在我们心中产生观念的「能力」。",
+     "conclusion": "第二性质是能力而非相似物，观念不与物体相似。",
+     "kind": "原文"
+    },
+    {
+     "claim": "人格同一性在于意识的连续性，而非同一实体",
+     "premises": [
+      "「人」在法律与道德上指能受赏罚的主体；赏罚的正当性要求行为者与受罚者是同一人格。",
+      "我们无法知道自己是否与昨日同一物质实体（身体物质不断更换），但能记得自己过去的行动与思想。"
+     ],
+     "inference": "既然同一性要用于归属责任，则凡意识能回溯到的行动即属于同一人格，无论其承载的实体如何；意识中断之处，人格的连续也在此断裂。",
+     "conclusion": "人格同一性由意识与记忆的延伸构成（记忆说）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "政府的正当性来自受托者的同意，破坏信托的权力可被抵抗",
+     "premises": [
+      "自然状态中人人自由平等，但缺乏公共裁判，故为保护生命、自由与财产而交出部分权力。",
+      "立法权是受托的（fiduciary）权力，其目的限于公共善；当它侵犯财产、破坏信托时，人民保留最终判断权。"
+     ],
+     "inference": "若权力来自委托，则越出委托目的的权力便失去正当性；此时抵抗不是叛乱，而是恢复被破坏的秩序（「诉诸上天」）。",
+     "conclusion": "同意、信托与抵抗权构成政府合法性的条件。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《人类理解论》（An Essay concerning Human Understanding）",
+     "edition": "1690 年伦敦初版（Thomas Basset），第四版 1700 为通行本；中译参关文运译《人类理解论》，商务印书馆",
+     "note": "四卷；第一卷反驳天赋观念，第二卷论观念，第三卷论语言，第四卷论知识与或然性"
+    },
+    {
+     "title": "《政府论两篇》（Two Treatises of Government）",
+     "edition": "1690 年伦敦匿名出版；中译参叶启芳、瞿菊农译《政府论》，商务印书馆",
+     "note": "上篇驳菲尔默的父权论，下篇论自然状态、财产、同意与抵抗权"
+    },
+    {
+     "title": "《论宗教宽容》（Epistola de Tolerantia）",
+     "edition": "1689 年拉丁文匿名出版（Gouda）；英译同年；中译参吴云贵译《论宗教宽容》，商务印书馆",
+     "note": "主张政教分限，信仰之事不容官吏强制"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "培根",
+     "id": "gr-modern-bacon",
+     "note": "承其经验与归纳的取向，把「方法」转为对观念来源的分析"
+    },
+    {
+     "name": "笛卡尔",
+     "id": "gr-modern-descartes",
+     "note": "以天赋观念说为主要的批判对象，同时接受机械论的自然哲学"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "贝克莱（见本单元另页）",
+     "id": null,
+     "note": "把洛克的第二性质学说推到底，取消物质实体"
+    },
+    {
+     "name": "休谟（见本单元另页）",
+     "id": null,
+     "note": "承其观念来源说，进一步取消实体与必然联系的印象来源"
+    },
+    {
+     "name": "卢梭与近代政治思想",
+     "id": null,
+     "note": "自然权利、同意与抵抗权的语汇经洛克进入近代政治理论"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "贝克莱",
+     "view": "洛克设定了「不可知的物质实体」作为观念的外部支撑；但观念只能与观念相似，我们无法证明有一个与观念全然不同的物质基质存在。",
+     "response": "洛克式的回应是：他本已承认我们不知道基质是什么，只说必须有某种支撑；故其主张是「某物存在」，而非「我们知道它是什么」。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-berkeley",
+      "sep-locke"
+     ]
+    },
+    {
+     "critic": "莱布尼茨",
+     "view": "心灵不是白纸：若心灵没有任何内容与倾向，它如何从感官材料中形成必然真理？感觉只给出个别事例，不能给出普遍必然性。",
+     "response": "洛克的回应是：普遍命题的真理性靠观念之间的契合，而不是靠天赋；至于必然性的来源，他更愿意承认人类知识的界限（第四卷），而非设定天赋观念。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-leibniz",
+      "sep-locke"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "洛克主张心灵在认识中完全被动",
+     "why": "白纸说的是观念的来源，而非全部心理活动：心灵能反省、比较、抽象与组合。洛克把理解视为有官能的活动，只是这些官能不能自造简单观念。"
+    },
+    {
+     "claim": "洛克否认一切非经验的东西，只讲感官经验",
+     "why": "他否认的是天赋观念，而非自然法或理性的可靠性；《政府论》中的自然权利恰恰不依赖成文约定，而依赖神所立的自然法。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "我们不妨设想心灵如一张白纸，上面没有一切标记，没有一切观念。",
+     "source_id": "emt-locke",
+     "locator": "《人类理解论》II.1.2",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>洛克：白板—两个来源—观念（示意）</text><defs><marker id='ar5' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='34' y='62' width='206' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='137' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>儿童不知矛盾律</text><text x='137' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>「普遍同意」不成立</text><rect x='277' y='62' width='206' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>同意须先有观念</text><text x='380' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>故无可用的天赋原则</text><rect x='520' y='62' width='206' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='623' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>白纸（white paper）</text><text x='623' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>无字迹可读</text><line x1='137' y1='122' x2='300' y2='168' stroke='#4a7ba6' marker-end='url(#ar5)'/><line x1='380' y1='122' x2='380' y2='168' stroke='#4a7ba6' marker-end='url(#ar5)'/><line x1='623' y1='122' x2='460' y2='168' stroke='#4a7ba6' marker-end='url(#ar5)'/><rect x='210' y='172' width='340' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='196' text-anchor='middle' font-size='13' fill='#1c3a5c'>感觉与反省：两个来源</text><text x='380' y='217' text-anchor='middle' font-size='10' fill='#1e2d3d'>简单观念 → 复杂观念</text><line x1='380' y1='232' x2='380' y2='272' stroke='#4a7ba6' marker-end='url(#ar5)'/><rect x='150' y='276' width='460' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='300' text-anchor='middle' font-size='13' fill='#1c3a5c'>知识限于观念间的契合与不合</text><text x='380' y='320' text-anchor='middle' font-size='10' fill='#1e2d3d'>实体基质不可知，只知其名义本质</text><text x='380' y='358' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：《人类理解论》I.2—3、II.1、II.8、II.27</text></svg>",
+   "svg_caption": "洛克：白板说与观念的两个来源（重构示意图）",
+   "sources": [
+    "sep-locke",
+    "iep-locke"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-berkeley",
+   "name": "贝克莱",
+   "latin": "George Berkeley",
+   "birth_year": 1685,
+   "death_year": 1753,
+   "birth_display": "1685年",
+   "death_display": "1753年",
+   "birth_note": "据其生平材料，生于 1685 年 3 月 12 日于爱尔兰基尔肯尼附近的迪塞尔城堡。",
+   "death_note": "1753 年 1 月 14 日卒于牛津（通说）。",
+   "era": "牛顿力学确立之后的英伦。贝克莱在都柏林三一学院受教育，后任百慕大传教计划的主持者、爱尔兰克罗因主教。他关心的不是自然规律的发现，而是机械论与物质实体观念如何悄悄取代了神与心灵的位置；其问题因此是：若一切知识都来自观念，物质实体还剩什么地位。",
+   "school": "英国经验论（唯心论／非唯物论）",
+   "core_questions": [
+    "可感事物的存在方式是什么？",
+    "抽象的一般观念是否可能？",
+    "取消物质实体之后，如何避免唯我论？"
+   ],
+   "arguments": [
+    {
+     "claim": "可感事物的存在就是被感知",
+     "premises": [
+      "我们直接知觉到的只是观念：色、声、形、硬都是感觉内容。",
+      "观念的存在方式是被知觉：一个「未被知觉的色」在语词上仍成立，但在思想上不可设想。"
+     ],
+     "inference": "若可感对象除了可感性质之外别无他物，而可感性质就是观念，则「存在」对它们而言只能是「被感知」；说它「在知觉之外存在」，等于要求一个不可知觉者被知觉。",
+     "conclusion": "esse est percipi（《人类知识原理》第 3 节）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "洛克式的抽象一般观念不可能",
+     "premises": [
+      "洛克说人心可以从个别观念中抽去特殊的规定，形成一般的三角形观念。",
+      "但任何被设想的三角形必是锐角、钝角或直角之一；一个既非锐角亦非钝角亦非直角的三角形不可设想。"
+     ],
+     "inference": "若抽象的一般观念无法在心灵中实际呈现，则「以抽象观念解释普遍性」的说明失败；普遍性应归于符号的代表作用（一个观念代表同类其他观念）。",
+     "conclusion": "普遍性来自符号的代表作用，而非抽象对象。",
+     "kind": "原文"
+    },
+    {
+     "claim": "由观念的秩序可推出神的存在",
+     "premises": [
+      "我所感知的观念不由我的意志产生：闭眼则色消失，睁眼则复现，说明有外在于我的原因。",
+      "观念只能由精神产生：观念本身没有能力，不能作为另一个观念的主动原因。"
+     ],
+     "inference": "若感官观念有一个不由我控制、比我更有力且恒常有序的原因，则该原因只能是另一个精神；其秩序之广大与恒定指向一位无限的精神。",
+     "conclusion": "神在心中激起观念，故世界不因无人感知而消失。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《人类知识原理》（A Treatise concerning the Principles of Human Knowledge）",
+     "edition": "1710 年都柏林初版；中译参关文运译《人类知识原理》，商务印书馆",
+     "note": "正文加导论；导论论抽象观念，正文第 1—33 节论存在即被感知与神"
+    },
+    {
+     "title": "《希拉斯与斐洛诺斯的三篇对话》（Three Dialogues between Hylas and Philonous）",
+     "edition": "1713 年伦敦初版；中译可参商务印书馆汉译世界学术名著本（译者与版次待核）",
+     "note": "以对话体重述《原理》的论证，反驳物质实体的常识拥护者"
+    },
+    {
+     "title": "《视觉新论》（An Essay towards a New Theory of Vision）",
+     "edition": "1709 年都柏林初版；中译可参商务印书馆汉译世界学术名著本（译者与版次待核）",
+     "note": "论视觉与触觉的异质，距离与大小并非直接可见"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "洛克",
+     "id": "gr-modern-locke",
+     "note": "承其观念来源说与第二性质学说，并推至取消物质实体"
+    },
+    {
+     "name": "笛卡尔与马勒伯朗士",
+     "id": "gr-modern-descartes",
+     "note": "「观念只能由精神产生」的论法与偶因论对神的作用的强调，为其所借重"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "休谟（见本单元另页）",
+     "id": null,
+     "note": "称贝克莱的论证无可反驳，却不由之产生信念"
+    },
+    {
+     "name": "康德",
+     "id": null,
+     "note": "把贝克莱式的唯心论列为「独断唯心论」，以先验唯心论回应"
+    },
+    {
+     "name": "20 世纪的现象主义与知觉哲学",
+     "id": null,
+     "note": "「存在即被感知」被重述为关于可感性质与知觉的语义论题"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "常识实在论者（如约翰逊博士以踢石头作反驳）",
+     "view": "若存在即被感知，则无人看见的树便不存在；这与最确定的常识相冲突。",
+     "response": "贝克莱的回应是：树并未消失，因为它仍被无限的精神所感知；他否认的是无心灵的「物质实体」，不是可感世界的实在性。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-berkeley",
+      "iep-berkeley"
+     ]
+    },
+    {
+     "critic": "休谟",
+     "view": "贝克莱的论证无法被反驳，但它不产生信念：日常实践仍预设独立对象；把实体与因果还原为观念之后，独断唯心论与独断唯物论同样缺乏根据。",
+     "response": "贝克莱式的回应是：其结论不是怀疑论，而是把实在性放到知觉与神意之中；「不产生信念」是心理描述，并不构成反驳。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-hume",
+      "sep-berkeley"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "贝克莱否认外部世界存在",
+     "why": "他否认的是无心灵的「物质实体」，而非可感事物；桌子仍在，只是它的存在由被感知（包括被神感知）构成。把两者混同，才会觉得他取消了世界。"
+    },
+    {
+     "claim": "「存在即被感知」适用于一切存在者",
+     "why": "该原则只适用于观念；感知者（心灵、精神）的存在方式是「感知」，它不被感知，却是感知活动的主体。忽略这一区分，就会把贝克莱读成唯我论。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "可感事物的存在就是被感知（esse est percipi）。",
+     "source_id": "emt-berkeley",
+     "locator": "《人类知识原理》第 3 节",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>贝克莱：观念—被感知—精神（示意）</text><defs><marker id='ar6' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='34' y='62' width='206' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='137' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>直接所知只是观念</text><text x='137' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>色声形硬皆感觉内容</text><rect x='277' y='62' width='206' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>观念的存在即被感知</text><text x='380' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>未被知觉者不可思</text><rect x='520' y='62' width='206' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='623' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>抽象一般观念</text><text x='623' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>不可设想的三角形</text><line x1='137' y1='122' x2='300' y2='168' stroke='#4a7ba6' marker-end='url(#ar6)'/><line x1='380' y1='122' x2='380' y2='168' stroke='#4a7ba6' marker-end='url(#ar6)'/><line x1='623' y1='122' x2='460' y2='168' stroke='#4a7ba6' marker-end='url(#ar6)'/><rect x='200' y='172' width='360' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='196' text-anchor='middle' font-size='13' fill='#1c3a5c'>物质实体被取消，可感世界仍实在</text><text x='380' y='217' text-anchor='middle' font-size='10' fill='#1e2d3d'>普遍性归于符号的代表作用</text><line x1='380' y1='232' x2='380' y2='272' stroke='#4a7ba6' marker-end='url(#ar6)'/><rect x='150' y='276' width='460' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='300' text-anchor='middle' font-size='13' fill='#1c3a5c'>神在心中激起有序观念 → 非唯我论</text><text x='380' y='320' text-anchor='middle' font-size='10' fill='#1e2d3d'>精神是感知者，不以被感知而存在</text><text x='380' y='358' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：《人类知识原理》第 1—3、29—33 节；导论第 6—25 节</text></svg>",
+   "svg_caption": "贝克莱：观念的存在方式与神的保证（重构示意图）",
+   "sources": [
+    "sep-berkeley",
+    "iep-berkeley"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-hume",
+   "name": "休谟",
+   "latin": "David Hume",
+   "birth_year": 1711,
+   "death_year": 1776,
+   "birth_display": "1711年",
+   "death_display": "1776年",
+   "birth_note": "据其自传《我的一生》与爱丁堡档案，生于 1711 年 4 月 26 日（旧历）于爱丁堡。",
+   "death_note": "1776 年 8 月 25 日卒于爱丁堡（通说）。",
+   "era": "苏格兰启蒙运动与英国商业社会的兴起。休谟在爱丁堡与法国拉弗莱什写作，曾任大使馆秘书与图书馆长，晚年以《英国史》成名。其问题是：在牛顿式的经验世界里，人凭什么相信自己关于因果、自我与道德的判断；他因此把「人性的科学」当作一切科学的基底。",
+   "school": "英国经验论（温和怀疑论／情感主义伦理学）",
+   "core_questions": [
+    "印象与观念的关系如何界定观念的意义？",
+    "因果推理的根据是理性还是习惯？",
+    "从「是」到「应当」的过渡如何可能？"
+   ],
+   "arguments": [
+    {
+     "claim": "一切简单观念都来自相应的印象",
+     "premises": [
+      "知觉分为印象与观念：印象是强烈、生动的当下感觉与情感，观念是它们在思维中的较弱副本。",
+      "复杂观念可以分解：如「金山」可还原为「金」与「山」的印象组合。"
+     ],
+     "inference": "若观念是印象的副本，则任何有意义的观念都须能追溯至印象；不能追溯者（如经院式的「实体」「必然联系」）须重新解释其来源。",
+     "conclusion": "观念的意义以其印象来源为尺度（《人性论》I.1.1）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "因果推理的根据是习惯，而非理性",
+     "premises": [
+      "我们观察到的只是事件的恒常会合与时间上的先后，从未知觉到任何「必然联系」的印象。",
+      "理性只能作演绎（观念间的关系）与或然推断，而或然推断须预设「未来与过去相似」。"
+     ],
+     "inference": "既然必然联系的观念没有印象来源，它只能来自心灵在反复观察后形成的倾向：见到相似原因便期待相似结果；这一倾向即习惯，而非对必然性的理性洞见。",
+     "conclusion": "因果必然性是心灵的决定被投射到对象上（《人性论》I.3.6、I.3.14）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "归纳的有效性不能被理性证明",
+     "premises": [
+      "证明归纳须用「自然过程会继续一致」这一原则。",
+      "该原则本身只能由过去的恒常会合来支持，于是循环：用归纳证明归纳。"
+     ],
+     "inference": "若一切归纳推理都要预设自然齐一性，而自然齐一性只能由经验支持，则归纳的理性根据无法非循环地给出；但人仍会依习惯作归纳。",
+     "conclusion": "归纳是自然信念，不是可辩护的推理形式（《人类理解研究》第四节）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "从「是」推不出「应当」，这一过渡须加说明",
+     "premises": [
+      "道德推理中常见从「神是……」「人是……」的描述直接转到「应当……」的规范。",
+      "描述性命题只断言事实关系，规范性命题断言义务与价值，二者概念不同。"
+     ],
+     "inference": "若结论中出现前提所无的概念（应当），则推论不合法，除非另给连接原则；故一切道德体系都须交代这一过渡如何可能。",
+     "conclusion": "事实与规范之间有逻辑鸿沟（《人性论》III.1.1）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《人性论》（A Treatise of Human Nature）",
+     "edition": "1739—1740 年伦敦匿名出版（John Noon 与 Thomas Longman 分卷）；中译参关文运译《人性论》，商务印书馆",
+     "note": "三卷：论知性、论情感、论道德；「在印行后即被忽视」为其自述"
+    },
+    {
+     "title": "《人类理解研究》（An Enquiry concerning Human Understanding）",
+     "edition": "1748 年初版（题为 Philosophical Essays concerning Human Understanding），1758 年改题；中译参关文运译《人类理解研究》，商务印书馆",
+     "note": "《人性论》第一卷的改写，因果与归纳的讨论见第四、五节"
+    },
+    {
+     "title": "《道德原则研究》（An Enquiry concerning the Principles of Morals）",
+     "edition": "1751 年伦敦初版；中译参曾晓平译《道德原则研究》，商务印书馆",
+     "note": "以效用与仁爱说明道德赞许，其自评为诸作中最佳"
+    },
+    {
+     "title": "《英国史》（The History of England）",
+     "edition": "1754—1762 年分卷出版（爱丁堡与伦敦），六卷；19 世纪有多种通行本",
+     "note": "从恺撒入侵写到 1688 年革命，为 18 世纪畅销史书"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "洛克",
+     "id": "gr-modern-locke",
+     "note": "承其观念来源说，把「观念必有来源」用作批判实体与必然联系的工具"
+    },
+    {
+     "name": "贝克莱",
+     "id": "gr-modern-berkeley",
+     "note": "其唯心论被休谟视为无可反驳，却不由之产生信念"
+    },
+    {
+     "name": "哈奇森与道德感学派",
+     "id": null,
+     "note": "道德赞许源于情感而非理性的思路，来自沙夫茨伯里与哈奇森"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "康德",
+     "id": null,
+     "note": "自述被休谟的因果问题「从独断的迷梦唤醒」，以先天范畴回应"
+    },
+    {
+     "name": "边沁与密尔",
+     "id": null,
+     "note": "效用与情感主义伦理学的线索被功利主义承接"
+    },
+    {
+     "name": "逻辑实证主义",
+     "id": null,
+     "note": "以「观念须可追溯至印象」重述为意义的可证实性要求"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "康德",
+     "view": "若因果只是习惯，则数学与自然科学的必然性无从说明；因果性是知性的先天范畴，是经验之所以可能的条件，而非心理联想。",
+     "response": "休谟式的回应是：他并不否认我们作因果判断，只否认这些判断能由理性证明；先天的因果范畴若要说明其客观有效性，仍须回答「必然联系的印象从何而来」。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-kant",
+      "sep-hume"
+     ]
+    },
+    {
+     "critic": "常识实在论（里德等）",
+     "view": "把因果信念归为习惯，等于说人的理性在最重要的事情上受制于非理性的本能；但常识的信念本身即是我们无法也不应放弃的理性根据。",
+     "response": "休谟的回应是：他承认这些信念不可放弃，并以此主张「温和怀疑论」——哲学纠正独断，而自然纠正哲学的过度。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-hume",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "休谟否认因果存在",
+     "why": "他否认的是「必然联系」可作为理性认识的对象；因果信念作为自然倾向仍然真实存在，并支配生活与实验。把他说成取消因果，会把他的怀疑论读成虚无主义。"
+    },
+    {
+     "claim": "休谟是彻底怀疑论者，主张什么都不该相信",
+     "why": "他自陈「温和怀疑论」：怀疑只在思辨中成立，一经行动即被自然信念取代；他也以此批评过度的形而上学独断，而非提倡普遍悬置判断。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "一切由经验而来的推断，都以「未来与过去相似」这一前提为基础。",
+     "source_id": "emt-hume",
+     "locator": "《人类理解研究》第四节",
+     "kind": "原文"
+    },
+    {
+     "text": "因果的必然性只存在于心中，而不存在于对象之中。",
+     "source_id": "emt-hume",
+     "locator": "《人类理解研究》第七节",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>休谟：印象—会合—习惯—因果（示意）</text><defs><marker id='ar7' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='34' y='62' width='206' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='137' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>印象：强烈生动</text><text x='137' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>观念：较弱副本</text><rect x='277' y='62' width='206' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>只见恒常会合</text><text x='380' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>从无必然联系印象</text><rect x='520' y='62' width='206' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='623' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>归纳预设自然齐一</text><text x='623' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>以归纳证归纳＝循环</text><line x1='137' y1='122' x2='300' y2='168' stroke='#4a7ba6' marker-end='url(#ar7)'/><line x1='380' y1='122' x2='380' y2='168' stroke='#4a7ba6' marker-end='url(#ar7)'/><line x1='623' y1='122' x2='460' y2='168' stroke='#4a7ba6' marker-end='url(#ar7)'/><rect x='200' y='172' width='360' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='196' text-anchor='middle' font-size='13' fill='#1c3a5c'>习惯：相似原因 → 期待相似结果</text><text x='380' y='217' text-anchor='middle' font-size='10' fill='#1e2d3d'>必然性被投射到对象上</text><line x1='380' y1='232' x2='380' y2='272' stroke='#4a7ba6' marker-end='url(#ar7)'/><rect x='150' y='276' width='460' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='300' text-anchor='middle' font-size='13' fill='#1c3a5c'>因果归于心灵倾向；「是」不等于「应当」</text><text x='380' y='320' text-anchor='middle' font-size='10' fill='#1e2d3d'>道德区分来自情感而非理性</text><text x='380' y='358' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：《人性论》I.1.1、I.3.6、III.1.1；《人类理解研究》第四节</text></svg>",
+   "svg_caption": "休谟：从印象到习惯与因果信念（重构示意图）",
+   "sources": [
+    "sep-hume",
+    "iep-hume",
+    "sep-kant"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "concepts": [
+  {
+   "id": "gr-modern-idea",
+   "term": "观念",
+   "term_latin": "idea（观念／表象）",
+   "definition": "心灵所直接把握的内容，泛指感觉、记忆、想象与概念。近代哲学把它当作知识分析的最小单位，各家对它的来源与范围规定不同。",
+   "usages": [
+    {
+     "name": "笛卡尔",
+     "id": "gr-modern-descartes",
+     "usage": "观念是思想的内容，按来源分三类：天赋的、外来的与我自己造成的；天赋观念使「我思」与「无限完满者」成为可分析的对象。"
+    },
+    {
+     "name": "洛克",
+     "id": "gr-modern-locke",
+     "usage": "观念是经验写入心灵的素材，分简单与复杂：简单观念由感觉与反省被动接受，复杂观念由心灵主动复合而成。"
+    },
+    {
+     "name": "贝克莱",
+     "id": "gr-modern-berkeley",
+     "usage": "观念就是可感对象本身，此外无物；物质的「实体」若指一个不可感知的支撑者，便是无意义的语词。"
+    },
+    {
+     "name": "休谟",
+     "id": "gr-modern-hume",
+     "usage": "观念是印象的较弱副本，其意义须由印象来源衡量；凡找不到印象的观念都须重新解释。"
+    }
+   ],
+   "related": [],
+   "example": {
+    "text": "笛卡尔以蜡块为例：刚从蜂房取出的蜡有蜜味、花香、特定形状与硬度，靠近火后这些性质尽失，可是我们仍判断它是同一块蜡；这说明把握蜡靠的不是感官，而是心灵对观念的领会。",
+    "figure": "笛卡尔",
+    "locator": "《第一哲学沉思集》第二沉思"
+   },
+   "sources": [
+    "sep-descartes",
+    "sep-locke",
+    "sep-hume"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-innate-ideas",
+   "term": "天赋观念",
+   "term_latin": "ideae innatae（innate ideas）",
+   "definition": "指并非由后天经验写入、而由心灵自身本有的观念或认识倾向。理性论者用它解释必然真理的可能，经验论者则要求证明其实际存在。",
+   "usages": [
+    {
+     "name": "笛卡尔",
+     "id": "gr-modern-descartes",
+     "usage": "天赋的是观念的萌芽或能力，如「我在」「无限完满者」与数学的基本原理；它们在怀疑中被发现，而非由感官传入。"
+    },
+    {
+     "name": "莱布尼茨",
+     "id": "gr-modern-leibniz",
+     "usage": "天赋如同大理石的纹路：感觉材料只是触发与雕琢，心灵的结构先于经验而存在，故必然真理不来自感觉的积累。"
+    },
+    {
+     "name": "洛克",
+     "id": "gr-modern-locke",
+     "usage": "否认有任何天赋原则：若观念天赋，则儿童也应知道并同意；而他们要经教导才知晓，说明观念来自经验。"
+    }
+   ],
+   "related": [
+    "gr-modern-idea"
+   ],
+   "example": {
+    "text": "莱布尼茨以雕像的大理石作比：同一块石料可以雕成赫拉克勒斯或别的形象，纹路所偏爱的形象就是「天赋」；要使它成形，仍需工匠的凿刻，即感觉经验的触发。",
+    "figure": "莱布尼茨",
+    "locator": "《人类理解新论》序言"
+   },
+   "sources": [
+    "sep-descartes",
+    "sep-leibniz",
+    "iep-locke"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-blank-slate",
+   "term": "白板",
+   "term_latin": "tabula rasa（white paper）",
+   "definition": "洛克用以比喻心灵的初始状态：其中没有任何标记或观念，一切内容须由经验写入。它是天赋观念说的对立表述，而非否认心灵有活动能力。",
+   "usages": [
+    {
+     "name": "洛克",
+     "id": "gr-modern-locke",
+     "usage": "心灵如一张白纸，其上「没有一切标记，没有一切观念」；感觉与反省是唯一的书写者，故无天赋原则。"
+    },
+    {
+     "name": "莱布尼茨",
+     "id": "gr-modern-leibniz",
+     "usage": "反对白板：若心灵真无任何倾向，则感觉的个别事例无法生出普遍必然的真理；故宁取大理石有纹路之说。"
+    },
+    {
+     "name": "休谟",
+     "id": "gr-modern-hume",
+     "usage": "在发生学上接受经验在先，却以印象—观念的机制取代「白纸」的比喻：心灵有固定的联想机制，而非纯然受纳的板面。"
+    }
+   ],
+   "related": [
+    "gr-modern-innate-ideas",
+    "gr-modern-idea"
+   ],
+   "example": {
+    "text": "洛克说，婴儿最初对光与色只有模糊之感，须经反复的感觉与反省，才逐渐有了「白」「甜」「同」「异」等观念；观念进入心灵的这种先后次序，正是它们来自经验而非天赋的迹象。",
+    "figure": "洛克",
+    "locator": "《人类理解论》II.1.6—8"
+   },
+   "sources": [
+    "sep-locke",
+    "iep-locke",
+    "sep-leibniz"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-cogito",
+   "term": "我思",
+   "term_latin": "cogito（我思／思维活动）",
+   "definition": "笛卡尔在普遍怀疑之后把握到的不可怀疑者：怀疑、理解、意愿等一切思想活动都表明有一个正在思想的存在者，故「我思」与「我在」同时被把握。",
+   "usages": [
+    {
+     "name": "笛卡尔",
+     "id": "gr-modern-descartes",
+     "usage": "「我思」不是推论的前提，而是每一刻怀疑中直接自明的事实；由此得出思想者存在的确定性，并作为清楚分明标准的范例。"
+    },
+    {
+     "name": "斯宾诺莎",
+     "id": "gr-modern-spinoza",
+     "usage": "不承认「我」是实体：思想只是神的一个属性，「我思」是某一思想样态，其确定性来自观念的真观念，而非一个孤立的主体。"
+    },
+    {
+     "name": "休谟",
+     "id": "gr-modern-hume",
+     "usage": "否认有一个恒常的「我」：内省所见的只是一束不断更替的知觉，找不到离开知觉而存在的思想实体。"
+    }
+   ],
+   "related": [
+    "gr-modern-idea"
+   ],
+   "example": {
+    "text": "笛卡尔说：若有人怀疑自己是否存在，则他怀疑这件事本身已经证明他存在；即便梦中一切皆假，怀疑者仍在怀疑。",
+    "figure": "笛卡尔",
+    "locator": "《第一哲学沉思集》第二沉思"
+   },
+   "sources": [
+    "sep-descartes",
+    "iep-descartes",
+    "sep-hume"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-substance",
+   "term": "实体",
+   "term_latin": "substantia（substance）",
+   "definition": "在自身之中存在、不依赖他物而存在的东西；它是属性的承载者。近代各家的分歧在于：实体是一还是多、是物质还是精神、我们能否认识它。",
+   "usages": [
+    {
+     "name": "笛卡尔",
+     "id": "gr-modern-descartes",
+     "usage": "实体有两种：思想实体与广延实体，二者各自独立，只依赖神的持续创造；人由两者复合而成。"
+    },
+    {
+     "name": "斯宾诺莎",
+     "id": "gr-modern-spinoza",
+     "usage": "实体只有一个，即神或自然；思想与广延不是实体而是属性，个别事物只是样态。"
+    },
+    {
+     "name": "洛克",
+     "id": "gr-modern-locke",
+     "usage": "实体是我们设想的「基质」，用以支撑那些恒常共存的性质；但我们只知道它的名义本质，不知道它本身是什么。"
+    },
+    {
+     "name": "贝克莱",
+     "id": "gr-modern-berkeley",
+     "usage": "否认物质实体：既然只有观念与精神，所谓「物质的支撑者」只是一个无内容的语词；实体只保留为心灵或精神。"
+    }
+   ],
+   "related": [
+    "gr-modern-idea",
+    "gr-modern-cogito"
+   ],
+   "example": {
+    "text": "洛克提到那位说「支撑偶性者是某种我不知道的东西」的印度哲人：这恰好说明实体观念只指示一个被设想的基质，我们并不知道它本身是什么。",
+    "figure": "洛克",
+    "locator": "《人类理解论》II.13.19、II.23.2"
+   },
+   "sources": [
+    "sep-spinoza",
+    "sep-locke",
+    "sep-berkeley"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-impression",
+   "term": "印象",
+   "term_latin": "impression（印象）",
+   "definition": "休谟用语：当下感觉、情感与情绪中强烈而生动的知觉，是观念的原型。它承担了「一切有意义的观念须有来源」这一检验功能。",
+   "usages": [
+    {
+     "name": "休谟",
+     "id": "gr-modern-hume",
+     "usage": "印象是强烈生动的直接知觉，观念是其较弱副本；凡不能追溯到印象的观念，其意义便可疑，因果必然性正因此被追问来源。"
+    },
+    {
+     "name": "莱布尼茨",
+     "id": "gr-modern-leibniz",
+     "usage": "不用「印象」而用知觉与欲求：单子的状态由内部展开，无需外来印记；所谓感官影响只是前定和谐中的伴随。"
+    }
+   ],
+   "related": [
+    "gr-modern-idea"
+   ],
+   "example": {
+    "text": "休谟让人比较「感到过热之痛」与事后回忆这份痛：两者内容相似，但前者强烈生动得多；他由此把印象当作观念的原型与检验尺度。",
+    "figure": "休谟",
+    "locator": "《人类理解研究》第二节"
+   },
+   "sources": [
+    "sep-hume",
+    "iep-hume",
+    "sep-leibniz"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-causation",
+   "term": "因果",
+   "term_latin": "causa / causation（因果性）",
+   "definition": "指事物之间的产生与被产生关系，或事件之间的必然联结。近代争论的核心是：这种联结是被认识到的客观关系，还是心灵在习惯中形成的期待。",
+   "usages": [
+    {
+     "name": "笛卡尔",
+     "id": "gr-modern-descartes",
+     "usage": "因果被用于由果溯因：原因的实在性不能少于结果，故由心中完满者的观念可上溯到神；机械论只问推动因。"
+    },
+    {
+     "name": "斯宾诺莎",
+     "id": "gr-modern-spinoza",
+     "usage": "因果即必然的衍生：一切由神性必然流出，无偶然也无目的因；所谓目的只是人的想象。"
+    },
+    {
+     "name": "莱布尼茨",
+     "id": "gr-modern-leibniz",
+     "usage": "以充足理由律取代单纯推动因：任何事实都须有其为何如此的理由，最终理由在必然存在者之中。"
+    },
+    {
+     "name": "休谟",
+     "id": "gr-modern-hume",
+     "usage": "我们只知觉到恒常会合，从未知觉到必然联系；因果观念来自反复观察后的习惯性期待，而非理性洞见。"
+    }
+   ],
+   "related": [
+    "gr-modern-impression",
+    "gr-modern-substance"
+   ],
+   "example": {
+    "text": "休谟让读者设想一个从未见过弹子相撞的人：他看第一颗球滚向第二颗，无法先天地推出第二颗会动；只有经过多次观察，他才形成「撞则动」的期待。",
+    "figure": "休谟",
+    "locator": "《人类理解研究》第四节"
+   },
+   "sources": [
+    "sep-hume",
+    "sep-leibniz",
+    "iep-hume"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-mind-body",
+   "term": "心身关系",
+   "term_latin": "mind–body relation（commercium mentis et corporis）",
+   "definition": "指心灵（思想、意识）与身体（广延、运动）之间的关系。近代哲学家在承认二者性质不同的前提下，各自提出交感、偶因、平行或预定和谐等方案。",
+   "usages": [
+    {
+     "name": "笛卡尔",
+     "id": "gr-modern-descartes",
+     "usage": "心灵与身体是两种实体，却在大脑的松果体中相互推动；灵魂在那里接受身体的消息并发出运动。"
+    },
+    {
+     "name": "斯宾诺莎",
+     "id": "gr-modern-spinoza",
+     "usage": "不是两个东西的相互作用，而是同一实体的两个属性的平行：观念的次序与事物的次序同一，故无所谓交感。"
+    },
+    {
+     "name": "莱布尼茨",
+     "id": "gr-modern-leibniz",
+     "usage": "单子无窗，身心不能相互影响；二者的对应由神在创造时一次校准，即预定和谐。"
+    },
+    {
+     "name": "贝克莱",
+     "id": "gr-modern-berkeley",
+     "usage": "取消了物质实体之后，问题转为精神与观念的关系：身体只是观念的系统，观念由神在心灵中激起。"
+    }
+   ],
+   "related": [
+    "gr-modern-substance",
+    "gr-modern-causation"
+   ],
+   "example": {
+    "text": "伊丽莎白公主在致笛卡尔的信中追问：一个不占空间的东西如何能推动身体？她指出推动须有接触，而按笛卡尔的定义，心灵既无广延便无从接触。",
+    "figure": "伊丽莎白公主（质疑笛卡尔）",
+    "locator": "1643 年 5 月 6 日致笛卡尔书"
+   },
+   "sources": [
+    "sep-descartes",
+    "sep-spinoza",
+    "sep-leibniz"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-contract",
+   "term": "契约",
+   "term_latin": "contractus / compact（社会契约）",
+   "definition": "指政治权力由人们的同意或相互承诺而成立的学说。近代用它取代神授权力观，争论在于同意的形式、范围与违约后的救济。",
+   "usages": [
+    {
+     "name": "洛克",
+     "id": "gr-modern-locke",
+     "usage": "契约是信托：人们为保护生命、自由与财产而授权立法，权力越出这一目的即失去正当性，人民可诉诸上天。"
+    },
+    {
+     "name": "斯宾诺莎",
+     "id": "gr-modern-spinoza",
+     "usage": "权利即能力：个人把力量让渡给共同体以获安全，契约的效力取决于它是否实际增强共同的力量，民主政体最合乎自然权利。"
+    },
+    {
+     "name": "休谟",
+     "id": "gr-modern-hume",
+     "usage": "批评契约论的历史解释：政府多起源于征服与习惯，人们的服从出于对秩序效用的感受，而非原初的承诺；「原始契约」只是虚构。"
+    }
+   ],
+   "related": [],
+   "example": {
+    "text": "洛克设想：当立法者试图夺取人民的财产、以专断意志取代既定法律时，他们便把自己置于与人民的战争状态，人民由此不再有服从的义务；他把最终裁决诉诸上天。",
+    "figure": "洛克",
+    "locator": "《政府论》下篇第 222 节（并参第 168 节）"
+   },
+   "sources": [
+    "sep-locke",
+    "sep-hume",
+    "iep-locke"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "debates": [
+  {
+   "id": "gr-modern-innate-controversy",
+   "title": "天赋观念是否存在",
+   "question": "心灵是否本有一些不来自经验的概念与原则，还是全部观念都由感觉与反省写入？",
+   "positions": [
+    {
+     "holder": "笛卡尔",
+     "id": "gr-modern-descartes",
+     "stance": "有天赋观念（作为倾向与萌芽）",
+     "reasons": [
+      "「我在」与「无限完满者」的观念不能在感官中找到来源，却在普遍怀疑之后仍被把握。",
+      "数学的基本原理具有不容经验反驳的确定性，说明其根据在心灵自身。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "莱布尼茨",
+     "id": "gr-modern-leibniz",
+     "stance": "天赋如大理石的纹路，须由经验触发",
+     "reasons": [
+      "感觉只提供个别事例，不能产生普遍必然的真理，故必然性的根据须在心灵之中。",
+      "但天赋不是现成的清晰观念：它像石料的纹路，需要工匠的凿刻（经验的触发）才成形。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "洛克",
+     "id": "gr-modern-locke",
+     "stance": "没有天赋观念，心灵是白板",
+     "reasons": [
+      "若观念天赋，则儿童与未受教育者应当知道并同意，但事实上他们并不知道。",
+      "同意一个命题须先有其中的观念，故「天赋原则」说不能解释观念如何进入心灵，只是多余的假设。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "争点有两层：一是「天赋」指现成的清晰观念，还是指心灵的倾向与能力；二是必然真理的来源若不来自经验，是否只能来自天赋。洛克攻的是前者，莱布尼茨守的是后者。",
+   "status": "无定论",
+   "status_note": "18 世纪后，「现成天赋观念」说基本退场，但「心灵有先天结构」的思路经康德以先验范畴重建；现代语言学与认知科学的「先天能力」讨论仍在延续这一问题的另一种形式。",
+   "sources": [
+    "sep-descartes",
+    "sep-leibniz",
+    "sep-locke"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-causal-necessity",
+   "title": "因果必然性是否有理性根据",
+   "question": "我们说甲必然引起乙，这个「必然」是事物间可被认识的联结，还是心灵习惯的投射？",
+   "positions": [
+    {
+     "holder": "休谟",
+     "id": "gr-modern-hume",
+     "stance": "必然性来自习惯，理性无法证明",
+     "reasons": [
+      "我们只知觉到恒常会合与先后，从未有「必然联系」的印象，故其观念无印象来源。",
+      "归纳须预设自然齐一，而自然齐一只能由归纳支持，故理性证明必陷入循环。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "莱布尼茨（理性论一方）",
+     "id": "gr-modern-leibniz",
+     "stance": "因果须有充足理由，理由链条终止于必然存在者",
+     "reasons": [
+      "任何事实若没有为何如此的理由，理性便无法区分真伪，故充足理由律是事实真理的条件。",
+      "偶然事物的理由不能在偶然序列中无限后退，故必有一个理由在自身之中的存在者。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "常识实在论（里德等，本单元外）",
+     "stance": "因果信念是理性的原始原则，不可还原为习惯",
+     "reasons": [
+      "因果信念与感官信念同为人类理性的构成部分，怀疑它会使一切知识与行动同时瓦解。",
+      "把必然性归为心理倾向，无法说明我们为何能成功干预自然并预测结果。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点是「必然性」的所在：在事物之间的关系里（理性论）、在神的安排里（莱布尼茨）、还是在认识者的心理机制里（休谟）。三方对「证明」的标准也不同：演绎的、充足理由的、经验可追溯的。",
+   "status": "无定论",
+   "status_note": "康德的先验范畴方案、20 世纪的因果实在论与反事实条件分析，都是对休谟问题的不同回应；至今没有公认的解决，但「因果判断须有经验依据」已成为共同前提。",
+   "sources": [
+    "sep-hume",
+    "sep-leibniz",
+    "iep-hume"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-mind-body-interaction",
+   "title": "心身如何相互作用",
+   "question": "若心灵与身体性质不同，意志如何引起身体运动，身体刺激又如何产生感觉？",
+   "positions": [
+    {
+     "holder": "笛卡尔",
+     "id": "gr-modern-descartes",
+     "stance": "两种实体在松果体中交感",
+     "reasons": [
+      "心灵的本性是思想，身体的本性是广延，二者可被清楚分明地设想为分离。",
+      "但经验显示意志与身体动作相应，故须设一个接触点：大脑中央的松果体。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "马勒伯朗士（偶因论，本单元外）",
+     "stance": "身心互不因果，一切由神随时作为",
+     "reasons": [
+      "受造物没有真正的因果能力，只有神才是唯一的原因。",
+      "意志与身体动作的固定相应只是「 occasions」：神在每一场合依其一般意志产生结果。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "斯宾诺莎",
+     "id": "gr-modern-spinoza",
+     "stance": "心身是同一实体的两个属性，平行而不交感",
+     "reasons": [
+      "思想与广延是同一实体的两个属性，一个属性不能产生另一属性的样态。",
+      "观念的秩序与事物的秩序同一，故对应无须相互作用即可成立。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "莱布尼茨",
+     "id": "gr-modern-leibniz",
+     "stance": "预定和谐：一次校准，永久同步",
+     "reasons": [
+      "单子无窗，不能相互影响，故身心不能彼此推动。",
+      "两座钟同时指向同一时刻，可解释为相互影响、旁人不断校准，或制造时已校准；第三说最省神迹。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点是「交感」是否必要：笛卡尔保留真实的相互推动，代价是难以说明无广延者如何接触；其余三方各自放弃交感，改以神的作为（偶因论）、属性的平行（斯宾诺莎）或预先安排（莱布尼茨）来解释对应。",
+   "status": "无定论",
+   "status_note": "笛卡尔的交感说在 17 世纪末即被偶因论与预定和谐取代；20 世纪的心身问题以「心因性因果」与随附性等新形式重提同一难题，仍无公认方案。",
+   "sources": [
+    "sep-descartes",
+    "sep-spinoza",
+    "sep-leibniz"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ]
+}

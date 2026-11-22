@@ -1,0 +1,179 @@
+/* 镜花水月 · 中外哲学思想脉络库 — 站点样式
+   配色：月光水色系（深夜蓝 × 月光银 × 雾蓝灰），沿用历史脉络库的变量名，
+   并补齐深色模式（只改变量值，不改结构）。 */
+:root {
+  /* —— 沿用旧样板页的八个核心变量 —— */
+  --ink: #1e2d3d;
+  --paper: #f0f5fa;
+  --card: #f8fbfe;
+  --navy: #1c3a5c;
+  --red: #4a7ba6;
+  --gold: #5b8db8;
+  --line: #c5d8e8;
+  --muted: #5b7a96;
+  /* —— 派生变量（深色模式只需覆盖这一组） —— */
+  --hdr1: #1a2f45;
+  --hdr2: #2a4a6e;
+  --hdr-fg: #dce8f4;
+  --nav-fg: #a8c4dc;
+  --th-bg: #e4edf5;
+  --quote-bg: #eef4fa;
+  --quote-fg: #3a5a7e;
+  --fig-bg: #ffffff;
+  --tag-bg: #dbe8f3;
+  --tag-fg: #3a6a8e;
+  --warn-bg: #e8f0f8;
+  --soft: #dce8f4;
+  --ok: #3a7a5c;
+  --bad: #8c3a3a;
+  --blk: #5b7a96;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ink: #d6e3ef;
+    --paper: #0c1721;
+    --card: #12212d;
+    --navy: #a8cbe8;
+    --red: #7fb0d6;
+    --gold: #6f9dc4;
+    --line: #274054;
+    --muted: #8ba9c2;
+    --hdr1: #08131d;
+    --hdr2: #14283a;
+    --hdr-fg: #d6e3ef;
+    --nav-fg: #9dbdd8;
+    --th-bg: #16303f;
+    --quote-bg: #112433;
+    --quote-fg: #bcd4e8;
+    --fig-bg: #0f2030;
+    --tag-bg: #1a3247;
+    --tag-fg: #9cc4e2;
+    --warn-bg: #112838;
+    --soft: #16303f;
+    --ok: #6fbb95;
+    --bad: #d08a8a;
+    --blk: #8ba9c2;
+  }
+}
+:root[data-theme="dark"] {
+  --ink: #d6e3ef;
+  --paper: #0c1721;
+  --card: #12212d;
+  --navy: #a8cbe8;
+  --red: #7fb0d6;
+  --gold: #6f9dc4;
+  --line: #274054;
+  --muted: #8ba9c2;
+  --hdr1: #08131d;
+  --hdr2: #14283a;
+  --hdr-fg: #d6e3ef;
+  --nav-fg: #9dbdd8;
+  --th-bg: #16303f;
+  --quote-bg: #112433;
+  --quote-fg: #bcd4e8;
+  --fig-bg: #0f2030;
+  --tag-bg: #1a3247;
+  --tag-fg: #9cc4e2;
+  --warn-bg: #112838;
+  --soft: #16303f;
+  --ok: #6fbb95;
+  --bad: #d08a8a;
+  --blk: #8ba9c2;
+}
+
+* { box-sizing: border-box; }
+html { font-size: 16px; }
+body {
+  margin: 0; color: var(--ink); background: var(--paper);
+  font-family: "Source Han Serif SC", "Noto Serif CJK SC", "Songti SC", "SimSun", Georgia, serif;
+  line-height: 1.78; -webkit-text-size-adjust: 100%;
+}
+header.site {
+  background: linear-gradient(135deg, var(--hdr1) 0%, var(--hdr2) 100%);
+  color: var(--hdr-fg); padding: 16px 24px 12px;
+  display: flex; flex-direction: column; align-items: center; gap: 8px;
+}
+header.site .brand { font-size: 1.35rem; font-weight: 700; letter-spacing: 3px; text-align: center; }
+header.site .brand a { color: inherit; text-decoration: none; }
+header.site .brand-sub {
+  font-size: .8rem; font-weight: 400; opacity: .7; margin-left: 10px; letter-spacing: 1px;
+}
+header.site nav {
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 4px 14px;
+  max-width: 980px;
+}
+header.site nav a {
+  color: var(--nav-fg); text-decoration: none; font-size: .92rem;
+  padding: 2px 6px; border-radius: 4px;
+}
+header.site nav a:hover, header.site nav a.on { color: var(--hdr-fg); background: rgba(255, 255, 255, .1); }
+main { max-width: 900px; margin: 0 auto; padding: 26px 20px 70px; }
+h1 { font-size: 1.62rem; margin: .2em 0 .5em; color: var(--navy); line-height: 1.45; }
+h2 {
+  font-size: 1.22rem; margin: 1.9em 0 .55em; color: var(--navy);
+  border-bottom: 2px solid var(--line); padding-bottom: 4px;
+}
+h3 { font-size: 1.04rem; margin: 1.25em 0 .4em; color: var(--red); }
+h4 { font-size: .98rem; margin: 1em 0 .3em; color: var(--navy); }
+a { color: var(--navy); }
+a:hover { color: var(--red); }
+.crumb { font-size: .85rem; color: var(--muted); margin-bottom: 10px; }
+.crumb a { color: var(--muted); }
+.meta { color: var(--muted); font-size: .9rem; }
+.card {
+  background: var(--card); border: 1px solid var(--line); border-radius: 8px;
+  padding: 14px 18px; margin: 12px 0;
+}
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 12px; }
+.grid .card h3 { margin-top: 0; }
+table { border-collapse: collapse; width: 100%; margin: 14px 0; background: var(--card); font-size: .93rem; }
+th, td { border: 1px solid var(--line); padding: 7px 10px; text-align: left; vertical-align: top; }
+th { background: var(--th-bg); color: var(--navy); font-weight: 700; }
+td.year { white-space: nowrap; font-weight: 700; color: var(--red); width: 104px; }
+ul.tight, ol.tight { margin: .3em 0; padding-left: 1.4em; }
+ul.tight li, ol.tight li { margin: .28em 0; }
+.tag {
+  display: inline-block; font-size: .76rem; padding: 1px 8px; border-radius: 10px;
+  background: var(--tag-bg); color: var(--tag-fg); margin-left: 6px; vertical-align: middle;
+}
+.tag.yuanwen { background: var(--soft); color: var(--navy); }
+.tag.houshu { background: var(--tag-bg); color: var(--tag-fg); font-style: italic; }
+.tag.warn { background: var(--warn-bg); color: var(--red); }
+figure {
+  margin: 18px 0; background: var(--fig-bg); border: 1px solid var(--line);
+  border-radius: 8px; padding: 10px;
+}
+figure svg { width: 100%; height: auto; display: block; }
+figcaption { text-align: center; color: var(--muted); font-size: .85rem; padding-top: 6px; }
+blockquote {
+  margin: .6em 0; padding: 6px 14px; border-left: 3px solid var(--gold);
+  background: var(--quote-bg); color: var(--quote-fg);
+}
+blockquote cite { display: block; font-style: normal; font-size: .82rem; color: var(--muted); margin-top: 2px; }
+.src-list { font-size: .87rem; color: var(--muted); padding-left: 1.2em; }
+.src-list li { margin: .35em 0; }
+.pending { background: var(--warn-bg); border: 1px dashed var(--gold); border-radius: 6px; padding: 10px 14px; }
+.pending p { margin: .3em 0; }
+.ok { color: var(--ok); } .bad { color: var(--bad); } .blk { color: var(--blk); }
+footer.site {
+  border-top: 1px solid var(--line); color: var(--muted); font-size: .82rem;
+  text-align: center; padding: 18px;
+}
+.footer-brand { font-weight: 700; letter-spacing: 2px; color: var(--navy); }
+.tl { border-left: 3px solid var(--navy); margin: 10px 0 10px 6px; padding-left: 18px; }
+.tl .tl-item { margin: 8px 0; }
+.tl .tl-year { font-weight: 700; color: var(--red); margin-right: 8px; }
+.tl .tl-unit { color: var(--muted); font-size: .85rem; margin-right: 8px; }
+.kv { margin: 5px 0; }
+.kv b { color: var(--navy); }
+.arg { border-left: 3px solid var(--line); padding-left: 14px; margin: 12px 0; }
+.arg .step { font-size: .8rem; letter-spacing: 1px; color: var(--red); font-weight: 700; }
+.q { margin: 10px 0; }
+.stat { display: flex; flex-wrap: wrap; gap: 10px; margin: 14px 0; }
+.stat .card { flex: 1 1 140px; text-align: center; margin: 0; }
+.stat .n { font-size: 1.6rem; font-weight: 700; color: var(--navy); display: block; line-height: 1.2; }
+.stat .l { font-size: .82rem; color: var(--muted); }
+.filter-note { font-size: .85rem; color: var(--muted); }
+.alpha { font-size: .88rem; line-height: 2.2; }
+.alpha a { display: inline-block; margin-right: 10px; }
+@media print { header.site, footer.site { display: none; } }

@@ -1,0 +1,1080 @@
+{
+ "unit_id": "cn-songming",
+ "region": "china",
+ "title": "宋明理学与心学",
+ "period": "960—1644",
+ "start_year": 960,
+ "end_year": 1644,
+ "summary": "北宋立国之后，士大夫面对的是一套已经佛教、道教化了的心性话语：佛老能讲生死与心性，儒学却多被看作经世文牍。于是从庆历到熙宁，一批儒者重新以《易》《中庸》《大学》为据，为伦理秩序寻找形而上的根据，遂有太极、太虚、理气、心性之说的兴起。《四书》的地位在此过程中被确立，道统谱系被构造出来。南宋的朱陆之争、明代王守仁的致良知与晚明刘宗周的修正，都是同一组问题的不同解法。",
+ "threads": [
+  "形上根据的重建：从“无极而太极”“太虚即气”到“理气”，儒学如何为伦常提供宇宙论依据",
+  "工夫入手处的分歧：格物穷理与发明本心、道问学与尊德性，孰为先",
+  "心与理的关系：性即理与心即理两条路线及其在明代的展开",
+  "经典与正统：《四书》的成立、道统谱系的建构，以及“异端”的划定"
+ ],
+ "philosophers": [
+  {
+   "id": "cn-songming-zhou-dunyi",
+   "name": "周敦颐",
+   "latin": "Zhou Dunyi (Zhou Maoshu)",
+   "birth_year": 1017,
+   "death_year": 1073,
+   "birth_display": "1017年",
+   "death_display": "1073年",
+   "birth_note": "据《宋史·道学传》与度正《周子年谱》，生卒为通行说法。",
+   "death_note": "同上；卒年无异说，月日有异文。",
+   "era": "北宋仁宗至神宗时期。庆历以后士大夫以“道”自任，佛老之说盛行于士人之间；周敦颐长期任州县官与提点刑狱，二程少年曾从其问学。其学在北宋并不显，至南宋经朱熹、张栻表章而大显。",
+   "school": "理学（濂学）",
+   "core_questions": [
+    "宇宙的生成与人的德性之间如何贯通？",
+    "圣人是否可学而至，其根据在哪里？",
+    "面对佛老的心性之学，儒家凭什么讲“性与天道”？"
+   ],
+   "arguments": [
+    {
+     "claim": "太极不是阴阳之外的一物，而是阴阳动静之所以然",
+     "premises": [
+      "《太极图说》首句作“无极而太极”，既言太极又冠以无极，说明太极不落在形器一边。",
+      "同篇说“太极动而生阳，动极而静，静而生阴”，阴阳由太极之动静而出，太极并不在阴阳之外。"
+     ],
+     "inference": "若太极是阴阳之外的另一物，则阴阳之动静须另有推动者，如此追溯将无穷；故太极只能理解为阴阳动静之所以然，其自身无形象方所，故曰“无极”。",
+     "conclusion": "太极是气化流行的所以然之理，不是先于万物的一个实体。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "诚是圣人之本，几是善恶所由分之微",
+     "premises": [
+      "《通书》说“诚者，圣人之本”，又说“诚，五常之本，百行之源也”。",
+      "《通书》以“几”为动而未形、有无之间者，并说“几善恶”。"
+     ],
+     "inference": "诚是未发之体，寂然不动而万理具足；几是心之乍动、善恶由此而分之处。工夫若只在已发之后补救，则已落第二义，故须在几微处用力。",
+     "conclusion": "圣学工夫在于主静立极与慎动于几，诚与几构成体用两端。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《太极图说》",
+     "edition": "《周敦颐集》中华书局点校本（陈克明校点）；单篇亦见《近思录》卷一",
+     "note": "约二百五十字，附《太极图》；首句“无极而太极”在宋刻本与朱熹定本之间有异文讨论"
+    },
+    {
+     "title": "《通书》",
+     "edition": "《周敦颐集》中华书局点校本；四库本作《周子通书》",
+     "note": "四十章，又称《易通》，以《易》与《中庸》为骨干"
+    }
+   ],
+   "influenced_by": [
+    {"name": "《易传》与《中庸》的传统", "id": null, "note": "以“太极”“诚”为核心范畴，取资于《系辞》与《中庸》"},
+    {"name": "陈抟一系的图式传授（传统说法）", "id": null, "note": "南宋以后追述的传授谱系（陈抟—穆修—周敦颐），可信度学界有讨论"}
+   ],
+   "influenced": [
+    {"name": "程颢", "id": "cn-songming-cheng-hao", "note": "二程少年曾受学于周敦颐，然二程语录罕言太极图式"},
+    {"name": "朱熹", "id": "cn-songming-zhu-xi", "note": "作《太极图说解》，确立周敦颐为理学开山的地位"}
+   ],
+   "criticisms": [
+    {
+     "critic": "陆九渊",
+     "view": "“无极”二字不见于《易》与《中庸》，近于老氏“有生于无”，是在太极之上更添一重。",
+     "response": "朱熹的回应是：“无极”形容太极无方所、无形状，正为破人把太极当作一物之见，与老氏以无生有不同；“不言无极，则太极同于一物”。",
+     "kind": "后人解读",
+     "sources": ["sep-zhu-xi", "ws-taijitushuo"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“无极而太极”是说世界从“无”中产生",
+     "why": "这是把“无极”读作时间在先的虚无。朱熹的解释是“无极”形容太极无形无象，并非在太极之先另有一个“无”。陆九渊正是就此句讥其近于老子，双方争的是这句的读法，而不是宇宙是否从无开始。"
+    },
+    {
+     "claim": "周敦颐的学说全出自道教，不属儒学",
+     "why": "《太极图》的图式确有道教渊源之说（南宋以后追述的陈抟传授谱系），但《太极图说》的义理骨架是《易》的阴阳变化与《中庸》的“诚”，其主静、诚几皆归向儒家成德之学。图式来源与义理归属是两个问题。"
+    }
+   ],
+   "quotes": [
+    {"text": "无极而太极", "source_id": "ws-taijitushuo", "locator": "《太极图说》", "kind": "原文"},
+    {"text": "诚者，圣人之本", "source_id": "ct-tongshu", "locator": "《通书·诚上》", "kind": "原文"}
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>周敦颐：从无极太极到诚与几（示意）</text><defs><marker id='arA1' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='190' y='52' width='380' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='76' text-anchor='middle' font-size='13' fill='#1e2d3d'>无极而太极</text><text x='380' y='96' text-anchor='middle' font-size='11' fill='#1e2d3d'>无形而有理，不落形器一边</text><line x1='380' y1='106' x2='380' y2='128' stroke='#4a7ba6' marker-end='url(#arA1)'/><rect x='190' y='130' width='380' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='154' text-anchor='middle' font-size='13' fill='#1e2d3d'>太极动而生阳，静而生阴</text><text x='380' y='174' text-anchor='middle' font-size='11' fill='#1e2d3d'>动静互为其根，阴阳分而两仪立</text><line x1='380' y1='184' x2='380' y2='206' stroke='#4a7ba6' marker-end='url(#arA1)'/><rect x='190' y='208' width='380' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='232' text-anchor='middle' font-size='13' fill='#1e2d3d'>五行万物，人得其秀而最灵</text><text x='380' y='252' text-anchor='middle' font-size='11' fill='#1e2d3d'>气化形生，仁义礼智由此具于性</text><line x1='380' y1='262' x2='380' y2='284' stroke='#4a7ba6' marker-end='url(#arA1)'/><rect x='190' y='286' width='380' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='310' text-anchor='middle' font-size='13' fill='#1c3a5c'>诚者圣人之本；几善恶</text><text x='380' y='330' text-anchor='middle' font-size='11' fill='#1e2d3d'>工夫在几微处，故曰主静立极</text><text x='380' y='362' text-anchor='middle' font-size='11' fill='#4a7ba6'>注：以“无极”为形容之辞，是朱熹的读法；陆九渊谓其近于老氏，两说并存</text><text x='380' y='384' text-anchor='middle' font-size='10' fill='#1e2d3d'>来源：ws-taijitushuo / ct-tongshu</text></svg>",
+   "svg_caption": "周敦颐：太极—阴阳—五行—诚几的推演次序（重构示意图）",
+   "sources": ["ws-taijitushuo", "ct-tongshu", "sep-chinese-metaphysics", "book-chan-sourcebook"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-zhang-zai",
+   "name": "张载",
+   "latin": "Zhang Zai (Hengqu)",
+   "birth_year": 1020,
+   "death_year": 1077,
+   "birth_display": "1020年",
+   "death_display": "1077年",
+   "birth_note": "据《宋史·张载传》与吕大临《横渠先生行状》，生卒为通行说法。",
+   "death_note": "同上；卒于临潼道中，年五十八。",
+   "era": "北宋仁宗至神宗时期。张载讲学横渠，与二程为中表而往复论学；神宗时曾入朝议礼，与王安石新政不合，退而著书。其学以气立本，兼重礼教、井田等制度设计，门人称关学。",
+   "school": "理学（关学）",
+   "core_questions": [
+    "虚空与气是什么关系，天地之间是否有“无”？",
+    "人的善恶差异从何而来，如何变化气质？",
+    "人与万物同出一源，这种同源如何在伦理上落实？"
+   ],
+   "arguments": [
+    {
+     "claim": "太虚即气，虚空不是绝对的空无",
+     "premises": [
+      "《正蒙·太和》说“太虚无形，气之本体，其聚其散，变化之客形尔”。",
+      "同篇又说“知太虚即气，则无无”。"
+     ],
+     "inference": "若太虚是绝对的虚无，则气之聚散将无所从来、无所复归；然可见者唯聚散：聚则为物，散则复归太虚。故太虚只是气之本然状态，不是与气相对的“无”。",
+     "conclusion": "气无生灭，只有聚散；佛老所谓空、无，是把散而未聚的状态误认作虚无。",
+     "kind": "原文"
+    },
+    {
+     "claim": "性有天地之性与气质之性两层，恶出于气质之偏",
+     "premises": [
+      "《正蒙·诚明》说“形而后有气质之性，善反之则天地之性存焉”。",
+      "又说人之刚柔、缓急、才与不才，皆由所禀之气有偏。"
+     ],
+     "inference": "性之名义指天地之性，其本身无不善；而人既已成形，则气有偏全，善恶之别由此而起。故恶不出于性之本体，而出于气质之偏。",
+     "conclusion": "修养在于变化气质、反于天地之性，性善与气质之偏可以并存而不矛盾。",
+     "kind": "原文"
+    },
+    {
+     "claim": "民胞物与：伦理关切有宇宙论的根据",
+     "premises": [
+      "《西铭》开篇说“乾称父，坤称母，予兹藐焉，乃混然中处”。",
+      "又说“民吾同胞，物吾与也”。"
+     ],
+     "inference": "人与万物同出于天地之气，则人伦的亲疏与万物的取用都不是任意约定，而有其同源的分位；由同源推出关切，由分位推出差等。",
+     "conclusion": "仁不是主观的博爱情绪，而是对同源关系的承认，故可讲民胞物与而不废差等。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《正蒙》",
+     "edition": "《张载集》中华书局点校本（章锡琛点校，1978），十七篇",
+     "note": "门人编次，苏昞序；《西铭》原为《乾称篇》首段，后别出单行"
+    },
+    {
+     "title": "《西铭》",
+     "edition": "见《张载集》；《近思录》卷一亦录，二程门人多有解说",
+     "note": "原名《订顽》，程颐改题《西铭》；“理一而分殊”之辨即由此出"
+    }
+   ],
+   "influenced_by": [
+    {"name": "《易传》与《中庸》", "id": null, "note": "以阴阳聚散言天道，以“诚”言性"},
+    {"name": "范仲淹（师友之谊）", "id": null, "note": "青年时受其劝读《中庸》，事见《宋史》本传"}
+   ],
+   "influenced": [
+    {"name": "程颐", "id": "cn-songming-cheng-yi", "note": "与张载往复论学，然评其“清虚一大”之说“恐未安”"},
+    {"name": "朱熹", "id": "cn-songming-zhu-xi", "note": "采其气质之性说，而以其气本论未及所以然之理，补以理在气先"},
+    {"name": "王夫之（下一单元）", "id": null, "note": "明清之际的气本论承其“太虚即气”而加以推衍"}
+   ],
+   "criticisms": [
+    {
+     "critic": "程颐",
+     "view": "“立清虚一大为万物之源，恐未安”，认为以气的清虚者为万物之源，仍落在形而下，未能指出所以然之理。",
+     "response": "张载一系的回应是：太虚不是与万物相对的“清虚之一物”，而是气之本然；理不在气外，故不必于气之上别立一源。朱熹则折中，取其气质之性而补以理在气先。",
+     "kind": "后人解读",
+     "sources": ["sep-zhu-xi", "sep-chinese-metaphysics"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“太虚即气”就是现代意义上的唯物主义",
+     "why": "张载以气言天道，确有反对把“无”实体化的意思；但他同时讲“神”“天德”“心统性情”，气之上并不排斥神化与价值的一面。用唯物与唯心的二分套用，会抹去太虚兼含神化之义。"
+    },
+    {
+     "claim": "“民胞物与”等于墨家兼爱",
+     "why": "《西铭》在“民吾同胞”之后仍讲“大君者，吾父母宗子；其大臣，宗子之家相”，差等分明。张载主张的是同源而有分位的爱；二程门人亦有“《西铭》明理一而分殊”的辨析，正与墨家取消亲疏之别相区别。"
+    }
+   ],
+   "quotes": [
+    {"text": "太虚无形，气之本体，其聚其散，变化之客形尔", "source_id": "ws-zhengmeng", "locator": "《正蒙·太和篇》", "kind": "原文"},
+    {"text": "民吾同胞，物吾与也", "source_id": "ws-zhengmeng", "locator": "《正蒙·乾称篇》（《西铭》）", "kind": "原文"}
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>张载：太虚即气与两重性（示意）</text><defs><marker id='arB1' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='60' width='300' height='64' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='190' y='86' text-anchor='middle' font-size='14' fill='#1c3a5c'>太虚即气</text><text x='190' y='108' text-anchor='middle' font-size='11' fill='#1e2d3d'>太虚无形，气之本体；聚散为客形</text><rect x='420' y='60' width='300' height='64' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='570' y='86' text-anchor='middle' font-size='14' fill='#1c3a5c'>天地之性与气质之性</text><text x='570' y='108' text-anchor='middle' font-size='11' fill='#1e2d3d'>形而后有气质之性，善反之则存</text><line x1='190' y1='124' x2='300' y2='168' stroke='#4a7ba6' marker-end='url(#arB1)'/><line x1='570' y1='124' x2='460' y2='168' stroke='#4a7ba6' marker-end='url(#arB1)'/><rect x='200' y='170' width='360' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='194' text-anchor='middle' font-size='13' fill='#1c3a5c'>气无生灭，唯聚散；恶出于气之偏</text><text x='380' y='214' text-anchor='middle' font-size='11' fill='#1e2d3d'>故“知太虚即气，则无无”</text><line x1='380' y1='228' x2='380' y2='266' stroke='#4a7ba6' marker-end='url(#arB1)'/><rect x='140' y='270' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='294' text-anchor='middle' font-size='14' fill='#1c3a5c'>变化气质以复天地之性</text><text x='380' y='314' text-anchor='middle' font-size='11' fill='#1e2d3d'>同源而有分位，故曰民胞物与</text><text x='380' y='358' text-anchor='middle' font-size='11' fill='#4a7ba6'>注：太虚非绝对虚无，故此说与“无中生有”相反</text><text x='380' y='382' text-anchor='middle' font-size='10' fill='#1e2d3d'>来源：ws-zhengmeng / sep-chinese-metaphysics</text></svg>",
+   "svg_caption": "张载：太虚即气与天地之性、气质之性的结构（重构示意图）",
+   "sources": ["ws-zhengmeng", "sep-chinese-metaphysics", "book-chan-sourcebook"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-cheng-hao",
+   "name": "程颢",
+   "latin": "Cheng Hao (Mingdao)",
+   "birth_year": 1032,
+   "death_year": 1085,
+   "birth_display": "1032年",
+   "death_display": "1085年",
+   "birth_note": "据《宋史·道学传》与《二程集》所附年谱，生卒为通行说法。",
+   "death_note": "同上；卒年五十四。",
+   "era": "北宋仁宗至神宗时期。与弟程颐同受学于周敦颐，后讲学洛阳；熙宁间因反对新法去官，长期居洛讲学，与司马光等往还。其学以仁为宗，气象宽和，门人称其“如坐春风”。",
+   "school": "理学（洛学）",
+   "core_questions": [
+    "仁究竟是什么，如何“识”得？",
+    "心与物、内与外是否两截？",
+    "圣人之情与常人之情有何不同？"
+   ],
+   "arguments": [
+    {
+     "claim": "仁是浑然与物同体的感通之全体",
+     "premises": [
+      "《识仁篇》说“仁者浑然与物同体，义礼知信皆仁也”。",
+      "同篇说工夫只在“识得此理，以诚敬存之而已”。"
+     ],
+     "inference": "若仁只是四德之一，则义礼知信各自为目，心便被分成数块，须逐项补缀；若仁是与他者感通无隔的整体，则四德只是此体在不同场合的条理。故入手处不在逐条求合，而在先识得这个整体。",
+     "conclusion": "仁是感通之全体，四德为其条理；工夫以识仁与诚敬存之为要。",
+     "kind": "原文"
+    },
+    {
+     "claim": "定性不是绝物，而是去除内外二分之执",
+     "premises": [
+      "《定性书》说“所谓定者，动亦定，静亦定，无将迎，无内外”。",
+      "又批评“规规于外诱之除”是把外物当作外、把心当作内。"
+     ],
+     "inference": "若定须屏除外物而得，则定依赖于外物之有无，遇事即失；且以“外诱”为外，已预设心物两截。故真正的定不随动静而变，其工夫在明内外之一本。",
+     "conclusion": "定性是应事时心自定，不是绝物静坐；圣人之情顺万事而无情。",
+     "kind": "原文"
+    },
+    {
+     "claim": "工夫在存养，不在防检穷索",
+     "premises": [
+      "《识仁篇》说“不须防检，不须穷索”，理由是“心苟不懈，何防之有”。",
+      "又说“义礼知信皆仁”，故存此心即存众德。"
+     ],
+     "inference": "防检穷索是以心为不可信而外加约束，其前提是心与理为二；若理即此心之理，则工夫只是存养此已识之理，防检穷索反成增扰。",
+     "conclusion": "先识仁，再以诚敬存养，而不是以条目约束求合。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《识仁篇》",
+     "edition": "见《二程集》《河南程氏遗书》卷二上（中华书局点校本，王孝鱼点校）",
+     "note": "吕大临所记，非程颢手著；篇题为后人所加"
+    },
+    {
+     "title": "《定性书》（答横渠张子厚先生书）",
+     "edition": "见《二程集》《河南程氏文集》卷二",
+     "note": "答张载问“定性未能不动”之书，为程颢论心物一本的代表作"
+    }
+   ],
+   "influenced_by": [
+    {"name": "周敦颐", "id": "cn-songming-zhou-dunyi", "note": "二程少年曾从其问学，事见《宋史·道学传》"},
+    {"name": "《易传》与《中庸》", "id": null, "note": "以“生生”言仁体，以“诚”言存养"}
+   ],
+   "influenced": [
+    {"name": "程颐", "id": "cn-songming-cheng-yi", "note": "兄弟相为师友，然程颐主教人严整，与乃兄气象不同"},
+    {"name": "王守仁", "id": "cn-songming-wang-yangming", "note": "《大学问》以“大人者以天地万物为一体”承其同体之旨"},
+    {"name": "朱熹", "id": "cn-songming-zhu-xi", "note": "编《近思录》录其语，然评其说“浑沦”“太高”，须以伊川之密补之"}
+   ],
+   "criticisms": [
+    {
+     "critic": "朱熹",
+     "view": "明道说话浑沦、太高，学者未识得仁而径言同体，易成空谈；须以“涵养须用敬，进学则在致知”的细密工夫补之。",
+     "response": "程颢一系的回应是：以诚敬存之并非废除工夫，而是反对以心为不可信的外铄式防检；先识仁体，敬才有所施之处，否则敬只是把捉。",
+     "kind": "后人解读",
+     "sources": ["sep-zhu-xi", "book-chan-sourcebook"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“仁者浑然与物同体”是一种神秘合一的体验",
+     "why": "程颢所讲是感通无隔与理一：仁是与他者痛痒相关的条理，不是消融自我、混同彼此的境界体验。其《定性书》恰恰反对绝物，而主张“顺万事而无情”。"
+    },
+    {
+     "claim": "程颢与程颐的学风完全对立，分属两派",
+     "why": "二人同以天理为宗，同尊《易》《中庸》；差异在入手处——大程重识仁与一本，小程重居敬穷理的渐进。后世（尤其朱熹）把二人分为两路，是对既有语录材料的系统化安排，并非兄弟自述的门户之分。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>程颢：识仁—同体—诚敬（示意）</text><defs><marker id='arA2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='190' y='52' width='380' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='76' text-anchor='middle' font-size='13' fill='#1e2d3d'>仁者浑然与物同体</text><text x='380' y='96' text-anchor='middle' font-size='11' fill='#1e2d3d'>义礼知信皆仁也，非四德并列</text><line x1='380' y1='106' x2='380' y2='128' stroke='#4a7ba6' marker-end='url(#arA2)'/><rect x='190' y='130' width='380' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='154' text-anchor='middle' font-size='13' fill='#1e2d3d'>先识此理，以诚敬存之</text><text x='380' y='174' text-anchor='middle' font-size='11' fill='#1e2d3d'>不须防检，不须穷索</text><line x1='380' y1='184' x2='380' y2='206' stroke='#4a7ba6' marker-end='url(#arA2)'/><rect x='190' y='208' width='380' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='232' text-anchor='middle' font-size='13' fill='#1e2d3d'>定性：动亦定，静亦定</text><text x='380' y='252' text-anchor='middle' font-size='11' fill='#1e2d3d'>无将迎，无内外，不以物为外</text><line x1='380' y1='262' x2='380' y2='284' stroke='#4a7ba6' marker-end='url(#arA2)'/><rect x='190' y='286' width='380' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='310' text-anchor='middle' font-size='13' fill='#1c3a5c'>一本：不以内外为二本</text><text x='380' y='330' text-anchor='middle' font-size='11' fill='#1e2d3d'>圣人之情，顺万事而无情</text><text x='380' y='362' text-anchor='middle' font-size='11' fill='#4a7ba6'>注：“识仁”非境界体验，“不须防检”针对的是外铄式的强制工夫</text><text x='380' y='384' text-anchor='middle' font-size='10' fill='#1e2d3d'>来源：ws-jinsilu / sep-chinese-metaphysics</text></svg>",
+   "svg_caption": "程颢：由识仁到定性的一本之路（重构示意图）",
+   "sources": ["ws-jinsilu", "sep-chinese-metaphysics", "book-chan-sourcebook"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-cheng-yi",
+   "name": "程颐",
+   "latin": "Cheng Yi (Yichuan)",
+   "birth_year": 1033,
+   "death_year": 1107,
+   "birth_display": "1033年",
+   "death_display": "1107年",
+   "birth_note": "据《宋史·道学传》与《伊川先生年谱》，生卒为通行说法。",
+   "death_note": "同上；卒于洛阳，年七十五。",
+   "era": "北宋仁宗至徽宗时期。哲宗时以布衣入侍讲筵，元祐党争中屡遭贬斥，晚年编定《伊川易传》，讲学洛中。其学以理为宗，教人严整，杨时“程门立雪”事即出其门下。",
+   "school": "理学（洛学）",
+   "core_questions": [
+    "性是什么，性之善恶如何解释？",
+    "格物何以能致知，其进程如何？",
+    "敬与学的关系如何安排？"
+   ],
+   "arguments": [
+    {
+     "claim": "性即理，故性无不善，恶归才与气禀",
+     "premises": [
+      "《二程遗书》卷二十二上记“性即理也，所谓理，性是也”。",
+      "同卷又说“天下之理，原其所自，未有不善”。"
+     ],
+     "inference": "性之名义若指气禀，则善恶同出于性，教化便无根据；若性指人之所以为人之理，则理无不善。故善恶之别当归于才与气禀，而不归于性。",
+     "conclusion": "性即理而性善；恶出于才与气禀之偏，故须变化气质。",
+     "kind": "原文"
+    },
+    {
+     "claim": "涵养须用敬，进学则在致知，二者互为条件",
+     "premises": [
+      "《二程遗书》卷十八说“涵养须用敬，进学则在致知”。",
+      "又以“主一之谓敬”“无适之谓一”解敬。"
+     ],
+     "inference": "心无主则散，散则虽欲穷理而不能入，故先以敬收敛此心使有主；心既有主，则即物穷理方能真实见理，而非以意见为理。二者互为条件，不是先后两截。",
+     "conclusion": "工夫分两轮：敬以持心，学以明理，缺一则偏。",
+     "kind": "原文"
+    },
+    {
+     "claim": "格物穷理是渐进的积累，贯通是积累之果",
+     "premises": [
+      "《二程遗书》卷二十五说“格犹穷也，物犹理也，犹曰穷其理而已也”。",
+      "卷十八又说“今日格一件，明日格一件，积习既多，然后脱然自有贯通处”。"
+     ],
+     "inference": "理散在万事，非一处可尽，故格物只能即事即物而穷之；积累既久，众理自相贯通。此时之“脱然”是积累的结果，不是凭空的顿悟。",
+     "conclusion": "格物致知是以积累为条件的贯通之学，反对废学而言悟。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《伊川易传》（周易程氏传）",
+     "edition": "《二程集》，中华书局点校本（王孝鱼点校），四卷",
+     "note": "以义理解《易》，为宋代易学义理派的代表作；晚年编定"
+    },
+    {
+     "title": "《二程遗书》",
+     "edition": "《二程集》，中华书局点校本；朱熹编定《程氏遗书》二十五卷",
+     "note": "门人所记语录；卷二上为吕大临所记“二先生语”，部分条目归属二程有争议"
+    }
+   ],
+   "influenced_by": [
+    {"name": "周敦颐", "id": "cn-songming-zhou-dunyi", "note": "二程少年曾从其问学"},
+    {"name": "《易》与《大学》《中庸》", "id": null, "note": "以《易》言理，以《大学》言格物致知"}
+   ],
+   "influenced": [
+    {"name": "朱熹", "id": "cn-songming-zhu-xi", "note": "承其性即理、格物穷理与居敬之说而集其成"},
+    {"name": "陆九渊", "id": "cn-songming-lu-jiuyuan", "note": "以“支离”批评格物一路，构成朱陆之辩的一端"}
+   ],
+   "criticisms": [
+    {
+     "critic": "陆九渊",
+     "view": "格物致知若逐物而穷，则铢积寸累，终不能发明本心，其病在支离。",
+     "response": "程朱一系的回应是：所格之物即此心之理，非外物之知识；不于事上磨炼而言心，易以意见为本心。“支离”之讥把格物误认为纯粹的见闻积累。",
+     "kind": "后人解读",
+     "sources": ["sep-zhu-xi", "book-chan-sourcebook"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“饿死事小，失节事大”是程颐为压迫寡妇而立的普遍教条",
+     "why": "此语见《二程遗书》卷二十二下，原为答人问“孀妇于理似不可取（娶）”的问答，属特定礼法讨论；后世把它抽离语境，制度化为普遍的贞节论，并用以责难再嫁之妇，与原文的问答性质已有距离。"
+    },
+    {
+     "claim": "“存天理，灭人欲”要求消灭一切感性欲望",
+     "why": "程朱所谓人欲是与天理相对而言的徇私而过分之欲，非饥食渴饮之常；朱熹曾以“饮食者，天理也；要求美味，人欲也”区分二者。故其说针对的是无节制的私求，而非取消生理需求。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>程颐：性即理与居敬穷理（示意）</text><defs><marker id='arB2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='34' y='52' width='196' height='68' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='132' y='76' text-anchor='middle' font-size='13' fill='#1c3a5c'>性即理</text><text x='132' y='96' text-anchor='middle' font-size='11' fill='#1e2d3d'>性即是理，故无不善</text><text x='132' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>恶归才与气禀</text><rect x='282' y='52' width='196' height='68' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='76' text-anchor='middle' font-size='13' fill='#1c3a5c'>涵养须用敬</text><text x='380' y='96' text-anchor='middle' font-size='11' fill='#1e2d3d'>主一无适，敬以持心</text><text x='380' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>心无主则散</text><rect x='530' y='52' width='196' height='68' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='628' y='76' text-anchor='middle' font-size='13' fill='#1c3a5c'>进学则在致知</text><text x='628' y='96' text-anchor='middle' font-size='11' fill='#1e2d3d'>格犹穷也，物犹理也</text><text x='628' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>今日格一件，明日格一件</text><line x1='132' y1='120' x2='250' y2='156' stroke='#4a7ba6' marker-end='url(#arB2)'/><line x1='628' y1='120' x2='510' y2='156' stroke='#4a7ba6' marker-end='url(#arB2)'/><line x1='380' y1='120' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#arB2)'/><rect x='150' y='158' width='460' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='182' text-anchor='middle' font-size='14' fill='#1c3a5c'>敬以持心，学以明理，互为条件</text><text x='380' y='202' text-anchor='middle' font-size='11' fill='#1e2d3d'>非先后两截：无敬则穷理为意见，无理则敬为把捉</text><line x1='380' y1='218' x2='380' y2='240' stroke='#4a7ba6' marker-end='url(#arB2)'/><rect x='120' y='244' width='520' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='268' text-anchor='middle' font-size='14' fill='#1c3a5c'>积习既多，脱然自有贯通处</text><text x='380' y='288' text-anchor='middle' font-size='11' fill='#1e2d3d'>贯通是积累之果，非废学之悟</text><text x='380' y='330' text-anchor='middle' font-size='11' fill='#4a7ba6'>注：性善与“恶归才”是同一命题的两面，不可拆开单看</text><text x='380' y='352' text-anchor='middle' font-size='10' fill='#1e2d3d'>来源：ws-jinsilu / sep-zhu-xi / sep-chinese-metaphysics</text></svg>",
+   "svg_caption": "程颐：性即理、居敬与穷理的双轮结构（重构示意图）",
+   "sources": ["ws-jinsilu", "sep-zhu-xi", "sep-chinese-metaphysics"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-zhu-xi",
+   "name": "朱熹",
+   "latin": "Zhu Xi (Zhuzi)",
+   "birth_year": 1130,
+   "death_year": 1200,
+   "birth_display": "1130年",
+   "death_display": "1200年",
+   "birth_note": "据《宋史·道学传》与王懋竑《朱子年谱》，生卒为通行说法。",
+   "death_note": "同上；卒于庆元党禁中，年七十一。",
+   "era": "南宋高宗至宁宗时期。宋室南渡后，二程之学经杨时、罗从彦、李侗一系传于东南；朱熹受学李侗，历仕地方，晚遭庆元党禁，其学被斥为伪学，身后追尊。所定《四书章句集注》自元明成为科举程式。",
+   "school": "理学（闽学／程朱理学）",
+   "core_questions": [
+    "理与气是什么关系，二者可有先后？",
+    "格物何以能一旦豁然贯通？",
+    "道统的谱系凭什么成立，经典当以何书为据？"
+   ],
+   "arguments": [
+    {
+     "claim": "理气不离不杂：理是气之所以然，不是气的一种属性",
+     "premises": [
+      "《朱子语类》卷一：“天下未有无理之气，亦未有无气之理。”",
+      "同卷又说“理未尝离乎气”，而“理与气本无先后之可言”。"
+     ],
+     "inference": "就实然存在看，理与气未尝相离，故不可说先有一理后生气；就所以然看，气之所以能如此必有其理，理不是气之属性。既不离，故非二物；既不杂，故不可以气代理解。",
+     "conclusion": "理气不离不杂：理为形上之所以然，气为形下之材质，二者非同一层，亦非两截。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "“理先气后”的“先”是说明次序上的优先，非时间在先",
+     "premises": [
+      "《朱子语类》卷一：“理与气本无先后之可言，但推上去时，却如理在先、气在后相似。”",
+      "同卷又说“未有天地之先，毕竟也只是理”。"
+     ],
+     "inference": "若“先”指时间，则未有天地之先只有理而无气，理将成为悬空之物，与“理未尝离乎气”自相矛盾；故“先”只能指说明上的优先：必先有所以然之理，方有如是之气。",
+     "conclusion": "朱熹的理先气后应理解为本体论或逻辑上的优先，非时间上的在先；此读法在现代研究中仍有争论。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "格物致知：即物穷理，积累而至豁然贯通",
+     "premises": [
+      "《大学章句》补传说“所谓致知在格物者，言欲致吾之知，在即物而穷其理也”。",
+      "又说“至于用力之久，而一旦豁然贯通焉，则众物之表里精粗无不到，而吾心之全体大用无不明矣”。"
+     ],
+     "inference": "人心之知有所不尽，因理散在事物而未穷，故须即物而穷其理；所穷之理积累既多，则众理自相贯通，此时心之全体无不明。豁然贯通是积累之果，不是凭空的顿悟。",
+     "conclusion": "格物是穷理的过程，致知是其结果；工夫在即物，效验在贯通。",
+     "kind": "原文"
+    },
+    {
+     "claim": "道统是心法相授的谱系，其载体是《四书》",
+     "premises": [
+      "《中庸章句序》以“允执厥中”为尧舜禹相传之要，谓“道统之传有自来矣”。",
+      "又以曾子、子思、孟子承接孔门传心之法，至孟子而失其传。"
+     ],
+     "inference": "若道之传在于人心之中，则道统不是制度与血统的延续，而是心法相授的谱系；由此可判定汉唐诸儒未能接续，而北宋周、张、二程上承孟子。",
+     "conclusion": "道统论为程朱之学提供经典与师承的双重正统性，《四书》即其文献载体。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《四书章句集注》",
+     "edition": "中华书局点校本（1983）；《大学章句》《中庸章句》《论语集注》《孟子集注》合刊",
+     "note": "元代以后为科举程式；《大学》分经传并补“格物致知”传，出于朱熹之手"
+    },
+    {
+     "title": "《朱子语类》",
+     "edition": "中华书局点校本（王星贤点校，1986），黎靖德编，一百四十卷",
+     "note": "门人记录的分类汇编，非朱熹手定；成书于南宋末，卷一说理气最集中"
+    },
+    {
+     "title": "《晦庵先生朱文公文集》",
+     "edition": "《朱子全书》本，上海古籍出版社、安徽教育出版社，2002",
+     "note": "书信与杂著；《中庸章句序》《大学章句序》均见于此"
+    }
+   ],
+   "influenced_by": [
+    {"name": "李侗（延平）", "id": null, "note": "受学于李侗，李侗教以默坐澄心、体认天理，朱熹后来自有修正"},
+    {"name": "程颐", "id": "cn-songming-cheng-yi", "note": "承其性即理、格物穷理与居敬之说"}
+   ],
+   "influenced": [
+    {"name": "王守仁", "id": "cn-songming-wang-yangming", "note": "由朱子学入而反，另立致良知，并编《朱子晚年定论》以自证"},
+    {"name": "刘宗周", "id": "cn-songming-liu-zongzhou", "note": "早年治朱学，晚年以气一元论反对理先气后"}
+   ],
+   "criticisms": [
+    {
+     "critic": "陆九渊",
+     "view": "其学支离，于道问学处用功过多而尊德性不足；《太极图说》之“无极”近于老氏。",
+     "response": "朱熹的回应是：尊德性若无道问学，则所谓本心只是意见；格物所穷即此心之理，非逐外物。无极之说则为破“太极同于一物”之弊。",
+     "kind": "后人解读",
+     "sources": ["sep-zhu-xi", "ws-taijitushuo"]
+    },
+    {
+     "critic": "陈亮、叶适一系（事功之学）",
+     "view": "以性命道德为论，而于富国强兵、制度事功处疏阔，其学无补于天下之实。",
+     "response": "朱熹一系的回应是：事功须有本，义利之辨正在此处；若以功效为准，则无所不为，故须先明天理人欲之辨。",
+     "kind": "后人解读",
+     "sources": ["sep-zhu-xi", "book-chan-sourcebook"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“理在气先”是说先有一个观念世界，然后才有物质世界",
+     "why": "“先”是说明次序上的优先（须先说所以然之理），非时间上的在先。《语类》明说“理与气本无先后之可言”，又说“推上去时”方“如理在先”。把“先”读作时间在先，是把本体论的优先误作宇宙论的先后，这也是现代研究争论的焦点。"
+    },
+    {
+     "claim": "“存天理，灭人欲”要求取消一切感性欲望",
+     "why": "朱熹所谓人欲指徇私而失节之欲；他以“饮食者，天理也；要求美味，人欲也”为例，说明常欲属天理，过分之求才是人欲。故其说要消灭的不是欲望本身，而是无节制的私求。"
+    }
+   ],
+   "quotes": [
+    {"text": "天下未有无理之气，亦未有无气之理", "source_id": "ct-zhuzi-yulei", "locator": "《朱子语类》卷一", "kind": "原文"},
+    {"text": "理与气本无先后之可言", "source_id": "ct-zhuzi-yulei", "locator": "《朱子语类》卷一", "kind": "原文"}
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>朱熹：理气不离不杂与“先”的读法（示意）</text><defs><marker id='arB3' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='34' y='52' width='196' height='68' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='132' y='76' text-anchor='middle' font-size='13' fill='#1c3a5c'>理：气之所以然</text><text x='132' y='96' text-anchor='middle' font-size='11' fill='#1e2d3d'>无情意、无计度、无造作</text><text x='132' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>形而上者</text><rect x='282' y='52' width='196' height='68' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='76' text-anchor='middle' font-size='13' fill='#1c3a5c'>气：理的挂搭处</text><text x='380' y='96' text-anchor='middle' font-size='11' fill='#1e2d3d'>聚散、动静、成物</text><text x='380' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>形而下者</text><rect x='530' y='52' width='196' height='68' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='628' y='76' text-anchor='middle' font-size='13' fill='#1c3a5c'>不离不杂</text><text x='628' y='96' text-anchor='middle' font-size='11' fill='#1e2d3d'>无无理之气，无无气之理</text><text x='628' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>非二物，亦非一物</text><line x1='132' y1='120' x2='250' y2='156' stroke='#4a7ba6' marker-end='url(#arB3)'/><line x1='628' y1='120' x2='510' y2='156' stroke='#4a7ba6' marker-end='url(#arB3)'/><line x1='380' y1='120' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#arB3)'/><rect x='150' y='158' width='460' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='182' text-anchor='middle' font-size='14' fill='#1c3a5c'>存在上不离；说明次序上须先说理</text><text x='380' y='202' text-anchor='middle' font-size='11' fill='#1e2d3d'>“推上去时，却如理在先、气在后相似”</text><line x1='380' y1='218' x2='380' y2='240' stroke='#4a7ba6' marker-end='url(#arB3)'/><rect x='120' y='244' width='520' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='268' text-anchor='middle' font-size='14' fill='#1c3a5c'>“理先气后”＝逻辑优先，非时间在先</text><text x='380' y='288' text-anchor='middle' font-size='11' fill='#1e2d3d'>若读作时间在先，则理成悬空之物，与“未尝离乎气”相违</text><text x='380' y='330' text-anchor='middle' font-size='11' fill='#4a7ba6'>注：由此推出格物致知——即物穷理，积久而至豁然贯通</text><text x='380' y='352' text-anchor='middle' font-size='10' fill='#1e2d3d'>来源：ct-zhuzi-yulei / sep-zhu-xi</text></svg>",
+   "svg_caption": "朱熹：理气关系与“理先气后”的两种读法（重构示意图）",
+   "sources": ["ct-zhuzi-yulei", "sep-zhu-xi", "sep-chinese-metaphysics", "book-chan-sourcebook"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-lu-jiuyuan",
+   "name": "陆九渊",
+   "latin": "Lu Jiuyuan (Xiangshan)",
+   "birth_year": 1139,
+   "death_year": 1193,
+   "birth_display": "1139年",
+   "death_display": "1193年",
+   "birth_note": "据《宋史·儒林传》与《陆九渊集》所附年谱，生卒为通行说法。",
+   "death_note": "同上；卒于荆门军任上，年五十四。",
+   "era": "南宋高宗至光宗时期。与朱熹同时，讲学象山精舍，门人甚众；1175 年鹅湖之会与朱熹争为学之方，1188 年又因《太极图说》首句与朱熹书信往复。其学以心为宗，主张先立乎其大者。",
+   "school": "心学（象山学派）",
+   "core_questions": [
+    "理在何处，求理应当向外还是向内？",
+    "为学之方应先立本还是先博览？",
+    "经典与本病是什么关系？"
+   ],
+   "arguments": [
+    {
+     "claim": "心即理：心与理不容有二",
+     "premises": [
+      "《与李宰》说“心，一心也；理，一理也。至当归一，精义无二，此心此理，实不容有二”。",
+      "又说“宇宙便是吾心，吾心即是宇宙”。"
+     ],
+     "inference": "若理在心外，则心之所知与物之理终为两事，求理便成外索，所得只是意见；然人于日用间知是非、知恻隐，此知不待外求而有条理，可见理即此心之条理。",
+     "conclusion": "心与理不二，故求理不必外索，只须发明此心。",
+     "kind": "原文"
+    },
+    {
+     "claim": "为学须先立乎其大者",
+     "premises": [
+      "《与邵叔谊》说“先立乎其大者”，又谓大者既立则小者不能夺。",
+      "鹅湖之会诗云“易简工夫终久大，支离事业竟浮沉”。"
+     ],
+     "inference": "本心既为理之所在，则工夫的关键在先确立这个本，而非先积累见闻。若不立本而务博览，则知识愈多而主宰愈乱，反为意见所蔽；本立之后，读书考古皆为此心之助。",
+     "conclusion": "为学以发明本心为主、读书为副，此谓易简，非谓废学。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“无极”二字于义无取，太极不当以无言",
+     "premises": [
+      "《与朱元晦》书问：“《易》之《大传》曰易有太极，圣人言有，今乃言无，何也？”",
+      "又谓“极”字训“中”，太极即中，不必更言无极。"
+     ],
+     "inference": "若太极之上更立无极，则是以无为太极之本，近于老氏有生于无；而《易》只言有，太极即理，理不可以有无言之。故无极二字于义无取。",
+     "conclusion": "《太极图说》首句当去“无极”，或以之为形容之词则失其本旨。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《象山先生全集》（《陆九渊集》）",
+     "edition": "中华书局点校本（钟哲点校，1980），三十六卷",
+     "note": "书信与语录分卷；《与朱元晦》诸书见卷二，语录为门人所记"
+    }
+   ],
+   "influenced_by": [
+    {"name": "孟子", "id": null, "note": "陆九渊自述“因读《孟子》而自得之”，以先立乎其大者承孟子一路"},
+    {"name": "程颐（反面）", "id": "cn-songming-cheng-yi", "note": "由其格物积累之说反激而出，遂以“支离”为其所讥"}
+   ],
+   "influenced": [
+    {"name": "王守仁", "id": "cn-songming-wang-yangming", "note": "承心即理一路，提出致良知；晚年为《象山文集》作序表章之"}
+   ],
+   "criticisms": [
+    {
+     "critic": "朱熹",
+     "view": "心即理只说一个心便都了，其弊近禅；不读书、不穷理而径言本心，易以意见为心。",
+     "response": "陆九渊的回应是：其学非废读书，“学苟知本，六经皆我注脚”；所反对者是以读书代立本，非反对读书本身。",
+     "kind": "后人解读",
+     "sources": ["sep-zhu-xi", "book-chan-sourcebook"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“心即理”是主观唯心论，各人之心便是各人之理",
+     "why": "陆九渊的心是同心、同此心同此理的普遍之心，故有“东海西海，心同理同”之说；其判准不是个人喜好，而是本心之是非。把它读作“我怎么想就怎么有理”，恰是其学所反对的意见。"
+    },
+    {
+     "claim": "鹅湖之会是一场决出胜负的辩论",
+     "why": "1175 年鹅湖之会由吕祖谦邀约，双方各赋诗表明为学之方，并未达成一致，也没有裁定胜负；此后书信往复不断，1188 年又起无极太极之辩。把它写成朱学或陆学一方胜出，都超出史料。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>陆九渊：心即理与发明本心（示意）</text><defs><marker id='arB4' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='34' y='52' width='196' height='68' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='132' y='76' text-anchor='middle' font-size='13' fill='#1c3a5c'>心，一心也</text><text x='132' y='96' text-anchor='middle' font-size='11' fill='#1e2d3d'>理，一理也，不容有二</text><text x='132' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>宇宙便是吾心</text><rect x='282' y='52' width='196' height='68' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='76' text-anchor='middle' font-size='13' fill='#1c3a5c'>若理在心外</text><text x='380' y='96' text-anchor='middle' font-size='11' fill='#1e2d3d'>求理即为外索</text><text x='380' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>所得者只是意见</text><rect x='530' y='52' width='196' height='68' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='628' y='76' text-anchor='middle' font-size='13' fill='#1c3a5c'>先立乎其大者</text><text x='628' y='96' text-anchor='middle' font-size='11' fill='#1e2d3d'>大者既立，小者不能夺</text><text x='628' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>易简工夫终久大</text><line x1='132' y1='120' x2='250' y2='156' stroke='#4a7ba6' marker-end='url(#arB4)'/><line x1='628' y1='120' x2='510' y2='156' stroke='#4a7ba6' marker-end='url(#arB4)'/><line x1='380' y1='120' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#arB4)'/><rect x='150' y='158' width='460' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='182' text-anchor='middle' font-size='14' fill='#1c3a5c'>本心自有条理，工夫在去蔽不在增知</text><text x='380' y='202' text-anchor='middle' font-size='11' fill='#1e2d3d'>不立本而务博览，则主宰乱而意见多</text><line x1='380' y1='218' x2='380' y2='240' stroke='#4a7ba6' marker-end='url(#arB4)'/><rect x='120' y='244' width='520' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='268' text-anchor='middle' font-size='14' fill='#1c3a5c'>发明本心为主，读书为副</text><text x='380' y='288' text-anchor='middle' font-size='11' fill='#1e2d3d'>“学苟知本，六经皆我注脚”</text><text x='380' y='330' text-anchor='middle' font-size='11' fill='#4a7ba6'>注：鹅湖之会（1175）争为学之方而未定胜负；1188 年又起无极太极之辩</text><text x='380' y='352' text-anchor='middle' font-size='10' fill='#1e2d3d'>来源：sep-zhu-xi / book-chan-sourcebook</text></svg>",
+   "svg_caption": "陆九渊：心即理与先立其大的工夫路线（重构示意图）",
+   "sources": ["sep-zhu-xi", "book-chan-sourcebook", "sep-chinese-metaphysics"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-wang-yangming",
+   "name": "王守仁",
+   "latin": "Wang Shouren (Wang Yangming)",
+   "birth_year": 1472,
+   "death_year": 1529,
+   "birth_display": "1472年",
+   "death_display": "1529年",
+   "birth_note": "据《明史》本传与钱德洪等编《阳明年谱》，生卒为通行说法。",
+   "death_note": "同上；卒于南安舟中，年五十七。",
+   "era": "明中期。正德、嘉靖间宦官专权、边患与民变并起；王守仁历官南赣巡抚，平宸濠之乱，晚年讲学于越中。其学由朱子格物之途入而屡困，龙场悟“圣人之道，吾性自足”，遂有知行合一、致良知之教。",
+   "school": "心学（阳明学派）",
+   "core_questions": [
+    "知与行究竟是两件事还是一件事？",
+    "是非的标准在哪里，良知凭什么成为准则？",
+    "“心外无物”是什么意思？"
+   ],
+   "arguments": [
+    {
+     "claim": "知行本体合一，分说只为救病",
+     "premises": [
+      "《传习录》上说“知是行的主意，行是知的功夫；知是行之始，行是知之成”。",
+      "又说“知而不行，只是未知”。"
+     ],
+     "inference": "若知与行是两件事，则可有真知而不行；然人若真知孝之当孝，则已孝矣，其不孝者只是未知孝，非知而不行。故知行之别只在工夫的两面，不在两事。",
+     "conclusion": "知行本体合一；分说只是为救悬空思索与冥行妄作之病。",
+     "kind": "原文"
+    },
+    {
+     "claim": "致良知即格物：是非的准则在良知",
+     "premises": [
+      "《传习录》中说“良知者，心之本体”，又谓“良知即是天理”。",
+      "《传习录》下说“尔那一点良知，是尔自家的准则”。"
+     ],
+     "inference": "若理在外物，则格物为逐物，是非取决于外；然人于当下知善知恶，此知不待学虑且不可欺，即此便是天理之呈现。故格物不是向外求理，而是致此良知于事事物物，使事皆得其正。",
+     "conclusion": "致良知即格物：工夫在事上正其不正以归于正，而非外求知识。",
+     "kind": "原文"
+    },
+    {
+     "claim": "四句教是致良知的完整表述，而非四个孤立命题",
+     "premises": [
+      "《传习录》下载四句教：“无善无恶心之体，有善有恶意之动，知善知恶是良知，为善去恶是格物。”",
+      "天泉证道时王畿主四无，钱德洪主四有，王守仁两存之而各有叮咛。"
+     ],
+     "inference": "心体超乎善恶之对待，故说无善无恶；意动而后有善恶可指，故说有善有恶意之动；良知自知善恶而不待外求，故工夫即在依良知为善去恶。四句由体而用、由知而行，构成一个整体。",
+     "conclusion": "四句教是心体—意动—良知—格物的次第，其首句即王门后学分歧之所起。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《传习录》",
+     "edition": "陈荣捷《王阳明传习录详注集评》（学生书局）；《王阳明全集》上海古籍出版社（吴光等编校，1992）",
+     "note": "门人徐爱、陆澄、薛侃等记录，分上中下三卷；中卷含《答顾东桥书》《答罗整庵少宰书》等论学书信"
+    },
+    {
+     "title": "《大学问》",
+     "edition": "《王阳明全集》卷二十六",
+     "note": "嘉靖三年为门人讲《大学》的问答，邹守益录；“以天地万物为一体”之说见于此"
+    }
+   ],
+   "influenced_by": [
+    {"name": "陆九渊", "id": "cn-songming-lu-jiuyuan", "note": "承其心即理一路，晚年为《象山文集》作序表章之"},
+    {"name": "孟子", "id": null, "note": "以“良知”本于孟子“良知良能”，《传习录》中屡引之"}
+   ],
+   "influenced": [
+    {"name": "刘宗周", "id": "cn-songming-liu-zongzhou", "note": "由王学入而修正其“意为心之所发”，主诚意慎独"},
+    {"name": "王畿与王门后学", "id": null, "note": "四句教首句引出四无说，为晚明王学分化之源"}
+   ],
+   "criticisms": [
+    {
+     "critic": "罗钦顺",
+     "view": "以致良知为局于内而遗其外，把格物解作正心，遂使学不须讲求；又讥《朱子晚年定论》为编选失实。",
+     "response": "王守仁的回应（《答罗整庵少宰书》）是：格物之物即意之所在，故正心与格物非二事；所谓遗外者，是把外当作与心无关之物，而实则无心外之物。",
+     "kind": "后人解读",
+     "sources": ["sep-wang-yangming", "book-chan-sourcebook"]
+    },
+    {
+     "critic": "刘宗周",
+     "view": "王门后学以现成良知自足，遂至情识而肆、虚玄而荡；其病根在把意看作心之所发，故只在念起之后为善去恶。",
+     "response": "阳明学一系的回应是：良知非现成可恃之物，致之之功即在事上磨炼；无善无恶是说心体，不是说意动之后无可不可，四句教中为善去恶正是工夫所在。",
+     "kind": "后人解读",
+     "sources": ["sep-wang-yangming", "sep-qing-philosophy"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“心外无物”否认花树等外物的独立存在",
+     "why": "《传习录》下岩中花树条说“你未看此花时，此花与汝心同归于寂；你来看此花时，则此花颜色一时明白起来”。寂指意义与感应的未起，不是否认花树自在。阳明又以“意之所在便是物”界定物，故心外无物所讲是意义世界的构成，非宇宙论上的唯心论。"
+    },
+    {
+     "claim": "“知行合一”是说只要有想法就等于做到了",
+     "why": "阳明恰以“知而不行，只是未知”反对这种读法：知行合一所要确立的是真知必能行、不行则知不真；其用力处仍在行，故说“行是知的功夫”。把它读作取消实行，与原文相反。"
+    }
+   ],
+   "quotes": [
+    {"text": "知是行的主意，行是知的功夫", "source_id": "ct-chuanxilu", "locator": "《传习录》上（徐爱录）", "kind": "原文"},
+    {"text": "无善无恶心之体，有善有恶意之动，知善知恶是良知，为善去恶是格物", "source_id": "ct-chuanxilu", "locator": "《传习录》下", "kind": "原文"},
+    {"text": "你未看此花时，此花与汝心同归于寂", "source_id": "ct-chuanxilu", "locator": "《传习录》下（岩中花树）", "kind": "原文"}
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>王守仁：四句教与致良知（示意）</text><defs><marker id='arA3' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='190' y='52' width='380' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='76' text-anchor='middle' font-size='13' fill='#1e2d3d'>无善无恶心之体</text><text x='380' y='96' text-anchor='middle' font-size='11' fill='#1e2d3d'>心体超乎善恶之对待</text><line x1='380' y1='106' x2='380' y2='128' stroke='#4a7ba6' marker-end='url(#arA3)'/><rect x='190' y='130' width='380' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='154' text-anchor='middle' font-size='13' fill='#1e2d3d'>有善有恶意之动</text><text x='380' y='174' text-anchor='middle' font-size='11' fill='#1e2d3d'>意动而后善恶可指</text><line x1='380' y1='184' x2='380' y2='206' stroke='#4a7ba6' marker-end='url(#arA3)'/><rect x='190' y='208' width='380' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='232' text-anchor='middle' font-size='13' fill='#1e2d3d'>知善知恶是良知</text><text x='380' y='252' text-anchor='middle' font-size='11' fill='#1e2d3d'>良知即天理，自为准则</text><line x1='380' y1='262' x2='380' y2='284' stroke='#4a7ba6' marker-end='url(#arA3)'/><rect x='190' y='286' width='380' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='310' text-anchor='middle' font-size='13' fill='#1c3a5c'>为善去恶是格物</text><text x='380' y='330' text-anchor='middle' font-size='11' fill='#1e2d3d'>致良知于事事物物，即知行合一</text><text x='380' y='362' text-anchor='middle' font-size='11' fill='#4a7ba6'>注：首句引出王畿“四无”与钱德洪“四有”之争，天泉证道两存之</text><text x='380' y='384' text-anchor='middle' font-size='10' fill='#1e2d3d'>来源：ct-chuanxilu / sep-wang-yangming</text></svg>",
+   "svg_caption": "王守仁：四句教的次第与致良知的工夫面（重构示意图）",
+   "sources": ["ct-chuanxilu", "sep-wang-yangming", "sep-chinese-metaphysics", "book-chan-sourcebook"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-liu-zongzhou",
+   "name": "刘宗周",
+   "latin": "Liu Zongzhou (Niantai)",
+   "birth_year": 1578,
+   "death_year": 1645,
+   "birth_display": "1578年",
+   "death_display": "1645年",
+   "birth_note": "据《明史》本传与《刘子全书》所附年谱，生卒为通行说法。",
+   "death_note": "同上；南京失守后绝食而卒，年六十八。",
+   "era": "晚明至明亡。东林、复社讲学之风与党争并盛，王学末流渐流于玄虚；刘宗周历官至左都御史，屡忤权贵，明亡绝食殉节。其学由王学入而欲救其弊，主诚意慎独，晚年以气一元论修正程朱理气之说。",
+   "school": "理学（蕺山学派）",
+   "core_questions": [
+    "意是心之所发还是心之所存？",
+    "理与气究竟谁在先？",
+    "过恶如何辨识与对治？"
+   ],
+   "arguments": [
+    {
+     "claim": "意为心之所存，非心之所发，故诚意即慎独",
+     "premises": [
+      "《学言》说“意者，心之所存，非所发也”，又谓“意者，心之所以为心也”。",
+      "《大学》以诚意为八条目之要；若意只是已发之念，则诚意落在念起之后补救。"
+     ],
+     "inference": "若意是已发之念，则善恶已形，工夫只能事后择拣而其根未治；若意是心之所存、好善恶恶之定向，则诚意即在根上用力，善恶之几才有所主。故慎独不是独处时的检点，而是于意根上自审。",
+     "conclusion": "诚意即慎独，工夫在未发之意根，不在已发之念；此说修正阳明“有善有恶意之动”。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "理在气中，离气无理",
+     "premises": [
+      "《学言》说“盈天地间，一气而已矣”。",
+      "又说“理即是气之理，断然不在气先，不在气外”。"
+     ],
+     "inference": "若理在气先，则理为离气独存之物；而朱熹自己亦承认“理未尝离乎气”，则其“先”只能是说明上的权说。若理只是气之条理，则不必于气上别立一源，宇宙论与工夫论都可省去一层悬空。",
+     "conclusion": "理是气之条理，在气中而不在气先；此说针对程朱理先气后，亦与张载气本论相接。",
+     "kind": "原文"
+    },
+    {
+     "claim": "改过须有可案之谱，诚意才不至于虚谈",
+     "premises": [
+      "《人谱》立纪过格，分微过、隐过、显过、大过、丛过、成过六类，逐条附以证案。",
+      "其序谓人未有生而圣人者，故须谱以自省。"
+     ],
+     "inference": "若只说诚意，学者无从下手；过恶既分层次，则自省便有可操作的对象：先察微过、隐过，再及显过，久之则意根自清。",
+     "conclusion": "工夫须落到可辨识、可逐日记录的自省条目上。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《人谱》",
+     "edition": "《刘宗周全集》第六册，浙江古籍出版社（吴光主编，2007）",
+     "note": "附《人谱类记》；以纪过格为特色，为晚明省过之书的代表"
+    },
+    {
+     "title": "《学言》",
+     "edition": "《刘宗周全集》第二册（同上）；又见《刘子全书》卷十至卷十二",
+     "note": "语录体札记，为其诚意慎独说与气一元论的主要文本"
+    }
+   ],
+   "influenced_by": [
+    {"name": "王守仁", "id": "cn-songming-wang-yangming", "note": "由王学入，然不满其“意为心之所发”与王门末流"},
+    {"name": "朱熹", "id": "cn-songming-zhu-xi", "note": "早年治朱学，晚年以气一元论修正其理先气后之说"}
+   ],
+   "influenced": [
+    {"name": "黄宗羲（下一单元）", "id": null, "note": "其弟子，编《明儒学案》以蕺山为明代学术的殿军"}
+   ],
+   "criticisms": [
+    {
+     "critic": "王门后学（周汝登一系）",
+     "view": "“意为心之所存”把阳明的无善无恶心体又拉回善恶之辨，是于本体上添一层意思；慎独之说亦近于把持。",
+     "response": "刘宗周的回应是：正因意有好善恶恶之几，才须慎独；无善无恶若说得过当，便流为情识而肆、虚玄而荡，明末之弊即在于此。",
+     "kind": "后人解读",
+     "sources": ["sep-wang-yangming", "sep-qing-philosophy"]
+    },
+    {
+     "critic": "清初程朱学者（如陆陇其等）",
+     "view": "其学出于王门，虽攻王学之弊，而“意为心之所存”仍属心学一路，与程朱“性即理”不合。",
+     "response": "蕺山一系的回应是：诚意慎独正所以要救王学之偏；其气一元论虽与程朱立异，然工夫的严整恰是针对晚明玄虚之病。",
+     "kind": "后人解读",
+     "sources": ["sep-qing-philosophy", "sep-chinese-metaphysics"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "刘宗周只是阳明学的忠实继承者",
+     "why": "他在工夫入手处与阳明相反：阳明以意为心之所发，故工夫在为善去恶；刘宗周以意为心之所存，故工夫在诚意慎独。他又以气一元论反对理先气后，与程朱、阳明皆有距离。"
+    },
+    {
+     "claim": "“气一元论”等于否认理的实在性",
+     "why": "刘宗周说“理即是气之理”，是反对理离气而独存，不是取消理；气之条理即理，故其说仍保留规范性的理，只是不许它悬空在气先。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>刘宗周：意为心之所存与诚意慎独（示意）</text><defs><marker id='arA4' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='190' y='52' width='380' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='76' text-anchor='middle' font-size='13' fill='#1e2d3d'>意为心之所存，非心之所发</text><text x='380' y='96' text-anchor='middle' font-size='11' fill='#1e2d3d'>意者，心之所以为心</text><line x1='380' y1='106' x2='380' y2='128' stroke='#4a7ba6' marker-end='url(#arA4)'/><rect x='190' y='130' width='380' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='154' text-anchor='middle' font-size='13' fill='#1e2d3d'>诚意即慎独</text><text x='380' y='174' text-anchor='middle' font-size='11' fill='#1e2d3d'>于意根上自审，非独处检点</text><line x1='380' y1='184' x2='380' y2='206' stroke='#4a7ba6' marker-end='url(#arA4)'/><rect x='190' y='208' width='380' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='232' text-anchor='middle' font-size='13' fill='#1e2d3d'>《人谱》纪过格</text><text x='380' y='252' text-anchor='middle' font-size='11' fill='#1e2d3d'>微过、隐过、显过、大过、丛过、成过</text><line x1='380' y1='262' x2='380' y2='284' stroke='#4a7ba6' marker-end='url(#arA4)'/><rect x='190' y='286' width='380' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='310' text-anchor='middle' font-size='13' fill='#1c3a5c'>理在气中：理即是气之理</text><text x='380' y='330' text-anchor='middle' font-size='11' fill='#1e2d3d'>不在气先，不在气外</text><text x='380' y='362' text-anchor='middle' font-size='11' fill='#4a7ba6'>注：上二节修正阳明，末节针对程朱；两条线在蕺山处合为一种严整的工夫论</text><text x='380' y='384' text-anchor='middle' font-size='10' fill='#1e2d3d'>来源：sep-qing-philosophy / sep-chinese-metaphysics</text></svg>",
+   "svg_caption": "刘宗周：意根、慎独与气一元论的三重修正（重构示意图）",
+   "sources": ["sep-qing-philosophy", "sep-chinese-metaphysics", "sep-wang-yangming"],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "concepts": [
+  {
+   "id": "cn-songming-li-qi",
+   "term": "理气",
+   "term_latin": "li-qi（principle and vital force）",
+   "definition": "理与气的关系问题：理是事物的所以然与规范，气是构成万物的材质与动力；宋明理学以此说明世界的秩序与变化如何并存。",
+   "usages": [
+    {"name": "张载", "id": "cn-songming-zhang-zai", "usage": "以“太虚即气”立论，气之聚散即万物始终，理不在气外别为一物；此说为后来理在气中一路所本。"},
+    {"name": "朱熹", "id": "cn-songming-zhu-xi", "usage": "理气不离不杂：无理则气无所依，无气则理无所挂搭；就说明次序说理在先，就实然存在说二者未尝相离。"},
+    {"name": "刘宗周", "id": "cn-songming-liu-zongzhou", "usage": "“盈天地间，一气而已”，理只是气之条理，断然不在气先、不在气外，由此反对朱熹的理先气后。"}
+   ],
+   "related": ["cn-songming-taiji", "cn-songming-taixu"],
+   "example": {"text": "朱熹答门人问理与气，先说“天下未有无理之气，亦未有无气之理”，再补一句“但推上去时，却如理在先、气在后相似”，一句之内兼含不离与优先两层。", "figure": "朱熹", "locator": "《朱子语类》卷一"},
+   "sources": ["sep-chinese-metaphysics", "sep-zhu-xi", "ws-zhengmeng"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-taiji",
+   "term": "太极",
+   "term_latin": "taiji（the supreme ultimate）",
+   "definition": "《易·系辞》“易有太极”之太极；理学用以指阴阳未分而动静之理所寓者。周敦颐以“无极而太极”言之，朱熹以理解之，陆九渊则反对无极之说。",
+   "usages": [
+    {"name": "周敦颐", "id": "cn-songming-zhou-dunyi", "usage": "太极动而生阳、静而生阴，五行万物由之而出；无极形容其无形象，非在太极之上另立一“无”。"},
+    {"name": "朱熹", "id": "cn-songming-zhu-xi", "usage": "“太极只是一个理字”，太极即理之总名，阴阳五行皆此理之流行，故《太极图说》与理气之说相通。"},
+    {"name": "陆九渊", "id": "cn-songming-lu-jiuyuan", "usage": "《易》只言易有太极，太极即中即理，不当更言无极；于太极之上加无，是引老氏之说入儒。"}
+   ],
+   "related": ["cn-songming-li-qi"],
+   "example": {"text": "鹅湖会后十余年，陆九渊与朱熹往复论《太极图说》首句，陆问“圣人言有，今乃言无，何也”，朱熹答以无极正是形容太极无形，此即无极太极之辩。", "figure": "陆九渊", "locator": "《陆九渊集》卷二《与朱元晦》"},
+   "sources": ["ws-taijitushuo", "sep-zhu-xi", "sep-chinese-metaphysics"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-taixu",
+   "term": "太虚",
+   "term_latin": "taixu（the great void）",
+   "definition": "张载用以指气之本然状态：无形而无不存在，聚则为万物，散则复归太虚；不是与气相对的绝对虚无。",
+   "usages": [
+    {"name": "张载", "id": "cn-songming-zhang-zai", "usage": "“太虚无形，气之本体”，聚散只是客形，故“知太虚即气，则无无”；佛老之空无是把散而未聚误作虚无。"},
+    {"name": "朱熹", "id": "cn-songming-zhu-xi", "usage": "取太虚即气以破无之说，然谓其只说著气之聚散而未及气之所以然，故须以理补之，理在气先。"}
+   ],
+   "related": ["cn-songming-li-qi", "cn-songming-taiji"],
+   "example": {"text": "张载以“虚空即气”驳“虚能生气”之说：若虚空能生气，则气从无来；实则气自有聚散，散而未聚即所谓太虚。", "figure": "张载", "locator": "《正蒙·太和篇》"},
+   "sources": ["ws-zhengmeng", "sep-chinese-metaphysics", "book-chan-sourcebook"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-xing-ji-li",
+   "term": "性即理",
+   "term_latin": "xing ji li（nature is principle）",
+   "definition": "程颐提出、朱熹继承的命题：人之所以为人之性即是天理，故性无不善；恶出于才与气禀之偏。与陆王“心即理”相对。",
+   "usages": [
+    {"name": "程颐", "id": "cn-songming-cheng-yi", "usage": "“性即理也，所谓理，性是也”，性指人所受之理，故性善；有善有不善者，才也。"},
+    {"name": "朱熹", "id": "cn-songming-zhu-xi", "usage": "性即理而心统性情：性为理，情为性之发，心兼摄二者；故工夫在变化气质与居敬穷理。"},
+    {"name": "王守仁", "id": "cn-songming-wang-yangming", "usage": "不以此为究竟：理若只在性而不在事，则格物成逐物，故转言心即理，以良知为天理之呈现。"}
+   ],
+   "related": ["cn-songming-li-qi"],
+   "example": {"text": "程颐答门人问性之善恶，以“性即理”一语断之：性既是理，则不容有不善；人之不善乃才与气禀使之，故须学以变化。", "figure": "程颐", "locator": "《二程遗书》卷二十二上"},
+   "sources": ["sep-zhu-xi", "sep-chinese-metaphysics", "book-chan-sourcebook"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-xin-ji-li",
+   "term": "心即理",
+   "term_latin": "xin ji li（mind is principle）",
+   "definition": "陆九渊提出、王守仁继承并深化的命题：心与理不二，理即此心之条理，故求理不必外索，工夫在发明本心与致良知。",
+   "usages": [
+    {"name": "陆九渊", "id": "cn-songming-lu-jiuyuan", "usage": "“心，一心也；理，一理也……此心此理，实不容有二”，故为学先立乎其大者，读书为副。"},
+    {"name": "王守仁", "id": "cn-songming-wang-yangming", "usage": "以良知说心即理：“良知即是天理”，格物即致良知于事事物物，非向外求理。"},
+    {"name": "朱熹", "id": "cn-songming-zhu-xi", "usage": "反对此说：心能具理而非即是理，若只说一个心便都了，则读书穷理皆可废，其弊近禅。"}
+   ],
+   "related": ["cn-songming-xing-ji-li", "cn-songming-li-qi"],
+   "example": {"text": "鹅湖之会陆九渊赋诗“易简工夫终久大，支离事业竟浮沉”，以易简自道其先立其大之方，而以支离讥朱熹的格物积累。", "figure": "陆九渊", "locator": "《陆九渊集》卷二十五《鹅湖和教授兄韵》"},
+   "sources": ["sep-wang-yangming", "book-chan-sourcebook", "sep-zhu-xi"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-ge-wu",
+   "term": "格物致知",
+   "term_latin": "gewu zhizhi（investigating things and extending knowledge）",
+   "definition": "《大学》八条目之一。程颐、朱熹解“格”为“穷”，即物而穷其理，积久贯通；王守仁解“格”为“正”，格物即正其事以归之于良知。",
+   "usages": [
+    {"name": "程颐", "id": "cn-songming-cheng-yi", "usage": "“格犹穷也，物犹理也”，格物即穷理；今日格一件、明日格一件，积习既多则脱然贯通。"},
+    {"name": "朱熹", "id": "cn-songming-zhu-xi", "usage": "《大学章句》补传以即物穷理释之，用力之久而一旦豁然贯通，众物表里精粗无不到。"},
+    {"name": "王守仁", "id": "cn-songming-wang-yangming", "usage": "“格者，正也”，格物即正其不正以归于正；物为意之所在，故格物不是逐外物，而是致良知于事。"}
+   ],
+   "related": ["cn-songming-xing-ji-li", "cn-songming-xin-ji-li"],
+   "example": {"text": "王守仁早年依朱子之说去格亭前竹子的理，沉思七日而病，遂疑“物理吾心终判为二”，此为其转向心即理的契机。", "figure": "王守仁", "locator": "《传习录》下"},
+   "sources": ["sep-zhu-xi", "sep-wang-yangming", "book-chan-sourcebook"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-zhi-xing",
+   "term": "知行合一",
+   "term_latin": "zhixing heyi（unity of knowledge and action）",
+   "definition": "王守仁的工夫命题：知与行是同一工夫的两面，真知必能行，不行只是未知；与朱熹“论先后，知为先”相对。",
+   "usages": [
+    {"name": "王守仁", "id": "cn-songming-wang-yangming", "usage": "“知是行的主意，行是知的功夫；知是行之始，行是知之成”，故“知而不行，只是未知”。"},
+    {"name": "朱熹", "id": "cn-songming-zhu-xi", "usage": "“论先后，知为先；论轻重，行为重”，先知后行而非合一；知而未行只是知未至，故须践履以实之。"}
+   ],
+   "related": ["cn-songming-ge-wu"],
+   "example": {"text": "徐爱问：今人尽有知得父当孝、兄当弟者，却不能孝、不能弟，便是知与行分明是两件。王守仁答：此已被私欲隔断，不是知行的本体了。", "figure": "王守仁", "locator": "《传习录》上（徐爱录）"},
+   "sources": ["sep-wang-yangming", "sep-zhu-xi", "ct-chuanxilu"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-zhi-liangzhi",
+   "term": "致良知",
+   "term_latin": "zhi liangzhi（extending the innate moral knowledge）",
+   "definition": "王守仁晚年揭示的宗旨：良知是心之本体、是非的准则，致良知即把良知推致于事事物物，使事得其正；亦即其格物之说。",
+   "usages": [
+    {"name": "王守仁", "id": "cn-songming-wang-yangming", "usage": "“良知者，心之本体”，“尔那一点良知，是尔自家的准则”，致之即在事上为善去恶。"},
+    {"name": "刘宗周", "id": "cn-songming-liu-zongzhou", "usage": "承良知之说而以意为心之所存，主张诚意慎独先于致良知，防其流为现成良知而废工夫。"}
+   ],
+   "related": ["cn-songming-xin-ji-li", "cn-songming-ge-wu", "cn-songming-zhi-xing"],
+   "example": {"text": "天泉证道时王畿以四无说良知本体，钱德洪以四有说工夫，王守仁谓二者相取为用而各有所未尽，此即致良知内部的歧解。", "figure": "王守仁", "locator": "《传习录》下"},
+   "sources": ["sep-wang-yangming", "sep-chinese-metaphysics", "sep-qing-philosophy"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-tianli-renyu",
+   "term": "天理人欲",
+   "term_latin": "tianli renyu（heavenly principle and human desire）",
+   "definition": "理学区分道德原则与私欲的框架：天理指当然之则及其所以然，人欲指徇私而失节之求；界线在于是否过分、是否徇私。",
+   "usages": [
+    {"name": "张载", "id": "cn-songming-zhang-zai", "usage": "以上达反天理、下达徇人欲为两种生命方向，天理人欲之分即向上与向下之别。"},
+    {"name": "朱熹", "id": "cn-songming-zhu-xi", "usage": "其分在公私与节文：饮食是天理，要求美味便是人欲；故存天理灭人欲是去其过分之私，非绝欲。"},
+    {"name": "王守仁", "id": "cn-songming-wang-yangming", "usage": "天理即良知，去得一分人欲便复得一分天理；故其灭人欲落实为去其心之不正，不在事上禁绝。"}
+   ],
+   "related": ["cn-songming-xing-ji-li", "cn-songming-zhi-liangzhi"],
+   "example": {"text": "朱熹答门人问饮食之间孰为天理孰为人欲，答曰“饮食者，天理也；要求美味，人欲也”，以此说明二者之分在节与不节。", "figure": "朱熹", "locator": "《朱子语类》卷十三"},
+   "sources": ["sep-zhu-xi", "ws-zhengmeng", "sep-chinese-metaphysics"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-daotong",
+   "term": "道统",
+   "term_latin": "daotong（the transmission of the way）",
+   "definition": "宋代儒学建构的传道谱系：以尧舜禹“允执厥中”为始，经孔曾思孟而下，至北宋周张二程复续；其功能是为程朱之学提供经典与师承的正统性。",
+   "usages": [
+    {"name": "朱熹", "id": "cn-songming-zhu-xi", "usage": "《中庸章句序》以允执厥中为道统所传之心法，谓孟子之后失传，至二程始续；《四书》即其文献载体。"},
+    {"name": "王守仁", "id": "cn-songming-wang-yangming", "usage": "不以谱系自外：编《朱子晚年定论》以证己说与朱子同归，谓道在良知，人人可自得，不必以师承为凭。"}
+   ],
+   "related": ["cn-songming-xing-ji-li", "cn-songming-tianli-renyu"],
+   "example": {"text": "朱熹在《中庸章句序》中把“人心惟危，道心惟微，允执厥中”定为尧舜禹相传之要，并以异端对举，说明道统说同时是一套判教的装置。", "figure": "朱熹", "locator": "《中庸章句序》"},
+   "sources": ["sep-zhu-xi", "ws-jinsilu", "book-chan-sourcebook"],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "debates": [
+  {
+   "id": "cn-songming-zhu-lu",
+   "title": "尊德性还是道问学：朱陆之辩",
+   "question": "为学之方应当先立本心（尊德性），还是先格物博览（道问学）？",
+   "positions": [
+    {
+     "holder": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "stance": "道问学以成尊德性",
+     "reasons": [
+      "尊德性须以道问学为实，不然所谓本心只是意见；故格物穷理、读书考古不可废。",
+      "《大学》以格物致知为始，教人即物而穷其理，积久自有贯通。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "陆九渊",
+     "id": "cn-songming-lu-jiuyuan",
+     "stance": "先立乎其大者",
+     "reasons": [
+      "心即理，理不待外求；不立本而务博览，则知识愈多而主宰愈乱，故云“易简工夫终久大，支离事业竟浮沉”。",
+      "“学苟知本，六经皆我注脚”，读书须以本心为主，否则六经反成负担。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "所争不只是方法次序，而是理在何处：若理散在事物，则工夫必由外而内；若理即此心，则工夫只须去蔽。由此又引出《太极图说》首句“无极”的读法之争。",
+   "status": "无定论",
+   "status_note": "鹅湖之会（1175）双方各赋诗言志而未合，此后书信往复；1188 年又起无极太极之辩。元代以后朱学成为科举程式，陆学在明代经王守仁而复兴，两系并行至清。",
+   "sources": ["sep-zhu-xi", "ws-taijitushuo", "book-chan-sourcebook"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-li-qi-xianhou",
+   "title": "理在气先还是理在气中",
+   "question": "理是先于气而独存，还是只在气之中而为气之条理？",
+   "positions": [
+    {
+     "holder": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "stance": "理先气后，但“先”是逻辑优先",
+     "reasons": [
+      "“天下未有无理之气，亦未有无气之理”，就存在言不离；然“推上去时，却如理在先”，气之所以然者是理。",
+      "若理不先，则气之动静无所依据，故说“未有天地之先，毕竟也只是理”。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "张载",
+     "id": "cn-songming-zhang-zai",
+     "stance": "太虚即气，不于气上别立一源",
+     "reasons": [
+      "“太虚无形，气之本体”，聚散只是客形；虚空中无无，故不须于气上别立一源。",
+      "善恶由气之偏，不由理之先在；性之两层皆就气上说。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "刘宗周",
+     "id": "cn-songming-liu-zongzhou",
+     "stance": "理在气中，断然不在气先",
+     "reasons": [
+      "“盈天地间，一气而已”，“理即是气之理”，不在气先亦不在气外。",
+      "朱熹自己承认“理未尝离乎气”，则其“先”只能是权说，不应当作实有。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "争的是“先”字的用法：若先指时间，则理成悬空之物，与“理未尝离乎气”自相矛盾；若指说明次序，则两方距离缩小。故实质是理是否有独立于气的实在性。",
+   "status": "无定论",
+   "status_note": "朱熹本人兼说本无先后与推上去时如理在先，故其“先”究竟何指，历代注家与今人研究均有争论；现代多数学者读作逻辑或本体论上的优先，而气本论一线（张载、罗钦顺、刘宗周以至王夫之）始终主张理在气中。",
+   "sources": ["sep-chinese-metaphysics", "sep-zhu-xi", "ws-zhengmeng"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-zhi-xing-xianhou",
+   "title": "知先行后还是知行合一",
+   "question": "知与行是先后两件事，还是同一工夫的两面？",
+   "positions": [
+    {
+     "holder": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "stance": "知先行后，行重知轻",
+     "reasons": [
+      "“论先后，知为先；论轻重，行为重”：不知则行无所向，故知在先。",
+      "知而未行只是知未至，故须践履以实之，二者虽分先后而相须。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "王守仁",
+     "id": "cn-songming-wang-yangming",
+     "stance": "知行本体合一",
+     "reasons": [
+      "“知是行的主意，行是知的功夫；知是行之始，行是知之成”，合一非以知代行。",
+      "“知而不行，只是未知”：真知必能行，分知行为二将使人以思索自足。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在于“知”指什么：朱熹的知是知得道理，可由讲习而得，故可先；王守仁的知是真切之知，与行同体，故不可分。所指不同，两说未必直接冲突。",
+   "status": "无定论",
+   "status_note": "朱学在元明清为科举程式，知行分先后之说影响最广；阳明之说经刘宗周、王夫之（知行相资）等修正而继续流衍。现代研究多认为二者对知的规定不同，未必构成同一命题的正反。",
+   "sources": ["sep-zhu-xi", "sep-wang-yangming", "ct-chuanxilu"],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ]
+}

@@ -1,0 +1,1492 @@
+{
+ "unit_id": "gr-ancient",
+ "region": "west",
+ "title": "古希腊哲学",
+ "period": "前585—前322",
+ "start_year": -585,
+ "end_year": -322,
+ "summary": "从米利都的自然探究到亚里士多德的体系，希腊哲学在不到三百年间把“万物由何而来”“什么是真正的存在”“人应当如何生活”这三类问题确立为独立的研究领域。城邦民主的论辩文化使论证本身成为公共事务，修辞术与辩证术的竞争又逼出了对“知识”与“意见”的严格区分。希腊哲学之所以成为后世反复回溯的起点，不只因为它提出问题，更因为它第一次把“给出理由”当作回答问题的必要条件。",
+ "threads": [
+  "本原之争：从水、气、数、火到原子与虚空，抽象程度不断提高",
+  "存在与生成：巴门尼德把“变”判为幻象，迫使后来者重新解释运动与多样性",
+  "从宇宙到人事：智者运动把注意力转向人，苏格拉底把哲学问题改写为“人应当如何生活”"
+ ],
+ "philosophers": [
+  {
+   "id": "gr-ancient-pythagoras",
+   "name": "毕达哥拉斯",
+   "latin": "Pythagoras of Samos",
+   "birth_year": -570,
+   "death_year": -495,
+   "birth_display": "约前570年",
+   "death_display": "约前495年",
+   "birth_note": "生卒为后世推定（约前570—前495），本人无著作传世，事迹多出自晚出的传记传统。",
+   "death_note": "同上，具体卒年不可考；其学派在南意大利克罗顿延续数代。",
+   "era": "公元前6世纪后半叶。毕达哥拉斯生于萨摩斯，后移居南意大利克罗顿，建立兼具宗教团体与学术共同体性质的学派。其时希腊殖民城邦与东方文明接触频繁，数学与天文知识开始被用于解释世界。",
+   "school": "毕达哥拉斯学派",
+   "core_questions": [
+    "万物的本原能否用非感性的东西（数、比例）来说明？",
+    "灵魂是什么，它是否不朽并可以转生？",
+    "宇宙的秩序（kosmos）是否可以用和谐的比例来表达？"
+   ],
+   "arguments": [
+    {
+     "claim": "数是万物的本原",
+     "premises": [
+      "音乐的音程可由弦长的整数比说明（八度 2:1、五度 3:2、四度 4:3）。",
+      "天体的运行、几何图形的性质也可还原为数与比例。"
+     ],
+     "inference": "若在听觉、视觉与天象这些彼此独立的领域里，秩序都能由数比来表达，则数不是事物的属性之一，而是使事物成其为有序整体的根据。",
+     "conclusion": "数是本原：万物“摹仿”数而存在，秩序即比例。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "灵魂不朽且可转生",
+     "premises": [
+      "灵魂与身体有别，身体是灵魂暂时的居所。",
+      "灵魂通过“净化”（音乐、数学、禁欲）可以摆脱轮回。"
+     ],
+     "inference": "若灵魂会随身体消亡，则净化的修行便无意义；而学派以修行为核心实践，故须设定灵魂的持续性。",
+     "conclusion": "灵魂不朽、轮回转生，哲学的生活即是净化。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "无本人著作传世（学派著述与后世记述）",
+     "edition": "第欧根尼·拉尔修《名哲言行录》卷八；扬布里柯《毕达哥拉斯传》；亚里士多德《形而上学》A 卷中的记述可作为较早的间接材料",
+     "note": "所有“原话”均为后世转述，须与学派传统区分"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "米利都学派与埃及、巴比伦的数学天文传统",
+     "id": null,
+     "note": "具体传播路径不可考，属背景性影响"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "柏拉图",
+     "id": "gr-ancient-plato",
+     "note": "理念论与灵魂学说被认为受毕达哥拉斯学派影响"
+    },
+    {
+     "name": "新柏拉图主义（普罗提诺）",
+     "id": null,
+     "note": "数、太一与流溢的结构可追溯到毕达哥拉斯学派"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "亚里士多德",
+     "view": "把数当作本原无法说明运动与生成：数本身不动，如何产生运动的事物？",
+     "response": "学派的回应可重构为：数不是静止的对象，而是比例与和谐，运动事物的秩序正由这种比例构成。",
+     "kind": "后人解读",
+     "sources": [
+      "mit-aristotle-metaphysics",
+      "sep-pythagoras"
+     ]
+    },
+    {
+     "critic": "现代史学（如 W. Burkert 等）",
+     "view": "现存毕达哥拉斯传记多成于数百年后，其中的奇迹故事与教条不宜直接当作史实。",
+     "response": "研究者的处理方式是：把“数的本原说”与“灵魂转生说”分开评估，并区分毕达哥拉斯本人与早期学派成员的贡献。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-pythagoras",
+      "book-guthrie-greek"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "毕达哥拉斯发现了勾股定理并因此献祭",
+     "why": "勾股关系的知识在巴比伦泥板上已出现；希腊传统中“毕达哥拉斯定理”的归属与献祭故事都出自晚出记述，不能当作确证。"
+    },
+    {
+     "claim": "毕达哥拉斯学派是一个数学研究机构",
+     "why": "它同时是宗教团体，包含饮食禁忌、轮回信仰与共同生活规范；数学研究与灵魂净化在学派内部是同一件事的两面。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "万物皆数",
+     "source_id": "mit-aristotle-metaphysics",
+     "locator": "亚里士多德《形而上学》A.5 985b 对毕达哥拉斯学派的记述（中文为通行译法）",
+     "kind": "后人解读"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>毕达哥拉斯：数—比例—秩序（示意）</text><defs><marker id='ar8' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='62' width='196' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='138' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>观察：音程可数比化</text><text x='138' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>八度 2:1，五度 3:2</text><rect x='282' y='62' width='196' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>观察：天体运行有序</text><text x='380' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>“天体的和谐”</text><rect x='524' y='62' width='196' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='622' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>观察：几何比例</text><text x='622' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>相似形与整数比</text><line x1='138' y1='122' x2='330' y2='168' stroke='#4a7ba6' marker-end='url(#ar8)'/><line x1='622' y1='122' x2='430' y2='168' stroke='#4a7ba6' marker-end='url(#ar8)'/><line x1='380' y1='122' x2='380' y2='168' stroke='#4a7ba6' marker-end='url(#ar8)'/><rect x='230' y='172' width='300' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='196' text-anchor='middle' font-size='13' fill='#1c3a5c'>推理：秩序即比例</text><text x='380' y='217' text-anchor='middle' font-size='10' fill='#1e2d3d'>数非属性，而是成其为整体的根据</text><line x1='380' y1='232' x2='380' y2='270' stroke='#4a7ba6' marker-end='url(#ar8)'/><rect x='150' y='274' width='460' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='298' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：数是本原，灵魂以净化为务</text><text x='380' y='318' text-anchor='middle' font-size='10' fill='#1e2d3d'>“万物皆数”见于亚里士多德的记述，非本人原话</text><text x='380' y='358' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：三条观察均为学派内部论证的合理重构</text></svg>",
+   "svg_caption": "毕达哥拉斯：从可观察的比例到“数为本原”的推论（重构示意图）",
+   "sources": [
+    "sep-pythagoras",
+    "book-guthrie-greek",
+    "mit-aristotle-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "毕达哥拉斯本人与早期学派成员的学说归属：现存材料多为公元前4世纪以后追述，具体哪一主张出自本人难以确证；本页按“学派主张”处理，并区分本人与学派。"
+  },
+  {
+   "id": "gr-ancient-heraclitus",
+   "name": "赫拉克利特",
+   "latin": "Heraclitus of Ephesus",
+   "birth_year": -535,
+   "death_year": -475,
+   "birth_display": "约前535年",
+   "death_display": "约前475年",
+   "birth_note": "生卒依第欧根尼·拉尔修所记“鼎盛年约前504—前501”推定为约前535—前475。",
+   "death_note": "同上，具体年不可考。",
+   "era": "公元前6世纪末至前5世纪初。以弗所的贵族出身，经历波斯统治下的城邦政治；其著作以箴言体写成，语言晦涩，古代即被称为“晦涩者”。",
+   "school": "爱菲斯学派（通常归入前苏格拉底自然哲学家）",
+   "core_questions": [
+    "万物皆变，变化之中有没有不变的法则？",
+    "对立（生与死、昼与夜、冷与热）之间的关系是什么？",
+    "多数人为何不能理解那支配一切的法则？"
+   ],
+   "arguments": [
+    {
+     "claim": "万物流变，无物常驻",
+     "premises": [
+      "“人不能两次踏进同一条河流”（见于柏拉图《克拉底鲁》等转述）。",
+      "火的本原说：火以燃烧与熄灭的方式存在，其存在方式即是转化。"
+     ],
+     "inference": "若事物在每一刻都已不同，则把它当作固定不变的实体来把握，必然错失其存在方式；描述它需要的是转化的秩序，而非静止的定义。",
+     "conclusion": "实在的本质是过程而非实体；稳定只出现在变化的法度中。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "逻各斯是万物共有的法度",
+     "premises": [
+      "逻各斯“永恒存在”，但“人们在听到它以前和听到它以后都不理解它”。",
+      "万物依逻各斯而生，正如城邦依法律而治。"
+     ],
+     "inference": "若变化本身有可理解的秩序，则该秩序必须对一切人共同有效；而多数人各自做梦般地按私见行事，故虽有逻各斯而不识。",
+     "conclusion": "智慧在于承认那“共有”的法度并依之而言行，而非沉溺于私人的意见。",
+     "kind": "原文"
+    },
+    {
+     "claim": "对立统一：战争是万物之父",
+     "premises": [
+      "生与死、醒与睡、少与老相互转化，“在变中静止”。",
+      "弓与琴的张力（palintonos）使它们成其为弓与琴。"
+     ],
+     "inference": "若对立面的紧张是事物成其为自身的方式，则和谐不是取消对立，而是对立的恰当配置。",
+     "conclusion": "冲突与差别不是秩序的缺陷，而是秩序的构成方式。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论自然》（残篇）",
+     "edition": "Diels-Kranz 残篇编号（DK 22 B）；中译可参北京大学哲学系编译《古希腊罗马哲学》，商务印书馆",
+     "note": "仅存一百余条残篇，多由后世著作引用保存，编号与归属有讨论"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "米利都学派（泰勒斯、阿那克西曼德）",
+     "id": null,
+     "note": "承其本原探究，但以过程取代实体"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "柏拉图（经克拉底鲁一系）",
+     "id": "gr-ancient-plato",
+     "note": "《克拉底鲁》与《泰阿泰德》中的流变说讨论"
+    },
+    {
+     "name": "黑格尔",
+     "id": null,
+     "note": "把赫拉克利特的辩证法视为其逻辑学的先驱"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "亚里士多德",
+     "view": "若万物皆流，则矛盾律失效，任何确定的知识与言说都不可能（《形而上学》Γ 卷）。",
+     "response": "赫拉克利特式的回应可重构为：流变不排斥法度，逻各斯正是变化的秩序；谓词的变化不等于同一事物同时具有矛盾属性。",
+     "kind": "后人解读",
+     "sources": [
+      "mit-aristotle-metaphysics",
+      "sep-heraclitus"
+     ]
+    },
+    {
+     "critic": "柏拉图（笔下的赫拉克利特派）",
+     "view": "若一切皆变，则连“这是什么”都无法回答，知识将无对象。",
+     "response": "回应是：可感事物的流变恰说明知识需要另一类对象（理念），这反而支持了柏拉图自己的结论。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-heraclitus",
+      "sep-plato"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "赫拉克利特说“一切皆流”，故否认任何稳定性",
+     "why": "他强调的是变化的法度（逻各斯）与对立面的统一；稳定以“秩序”而非“静止实体”的方式被保留。把他说成彻底的相对主义者，与他关于逻各斯的论述不合。"
+    },
+    {
+     "claim": "“人不能两次踏进同一条河流”是他的原话",
+     "why": "该句见于柏拉图《克拉底鲁》与后世记述，并非今存残篇的直引；其弟子克拉底鲁更被记作“一次也不能踏入”，二者须区分。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>赫拉克利特：流变—对立—逻各斯（示意）</text><defs><marker id='ar9' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='60' y='60' width='200' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='160' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>现象：一切在转化</text><text x='160' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>火之燃烧与熄灭</text><rect x='500' y='60' width='200' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='600' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>现象：对立并存</text><text x='600' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>弓与琴的张力</text><line x1='260' y1='89' x2='336' y2='89' stroke='#4a7ba6' marker-end='url(#ar9)'/><line x1='500' y1='89' x2='424' y2='89' stroke='#4a7ba6' marker-end='url(#ar9)'/><rect x='340' y='62' width='84' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='382' y='86' text-anchor='middle' font-size='12' fill='#1c3a5c'>法度</text><text x='382' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>逻各斯</text><line x1='380' y1='120' x2='380' y2='164' stroke='#4a7ba6' marker-end='url(#ar9)'/><rect x='216' y='168' width='328' height='64' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='192' text-anchor='middle' font-size='13' fill='#1c3a5c'>推理：变化若有可理解的秩序</text><text x='380' y='214' text-anchor='middle' font-size='10' fill='#1e2d3d'>则该秩序对一切人共同有效，却常被私见遮蔽</text><line x1='380' y1='236' x2='380' y2='274' stroke='#4a7ba6' marker-end='url(#ar9)'/><rect x='140' y='278' width='480' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='302' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：智慧在于听从共有之法度</text><text x='380' y='321' text-anchor='middle' font-size='10' fill='#1e2d3d'>对立不是缺陷，而是秩序的构成方式</text><text x='380' y='358' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：残篇多为转述保存，“两次踏入同一条河”非直引</text></svg>",
+   "svg_caption": "赫拉克利特：流变、对立与逻各斯的关系（重构示意图）",
+   "sources": [
+    "sep-heraclitus",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-parmenides",
+   "name": "巴门尼德",
+   "latin": "Parmenides of Elea",
+   "birth_year": -515,
+   "death_year": -450,
+   "birth_display": "约前515年",
+   "death_display": "约前450年",
+   "birth_note": "生卒为推定；柏拉图《巴门尼德篇》记其与苏格拉底会面，年代上存在困难，学界一般认为该场景为文学虚构。",
+   "death_note": "同上，具体卒年不可确考，取学界通行推定。",
+   "era": "公元前5世纪前半叶。爱利亚（Elea）为南意大利希腊殖民城邦。巴门尼德以六音步诗体写作，其《论自然》序诗以女神启示的形式提出“真理之路”与“意见之路”的分野。",
+   "school": "爱利亚学派",
+   "core_questions": [
+    "“存在”是什么意思？它能否生成或消灭？",
+    "思维与存在是什么关系？",
+    "感官所报告的多样与变化，是否具有真理性？"
+   ],
+   "arguments": [
+    {
+     "claim": "存在者存在，它不生不灭、不动、完整",
+     "premises": [
+      "“存在者存在，不存在者不存在”，此外无第三条路可思。",
+      "若它生成，则或从存在者生成（已存在，无需生成），或从不存在者生成（无物可生成）。"
+     ],
+     "inference": "生成、消灭、运动都以“从无到有”或“从有到无”为前提；而“不存在者”既不可思想也不可指称，故这些过程不能加于存在者。",
+     "conclusion": "存在是一、连续、不动、完满的球体状整体；生成与变化属于“意见”而非真理。",
+     "kind": "原文"
+    },
+    {
+     "claim": "思维与存在同一",
+     "premises": [
+      "“能被思想与被存在是同一件事”。",
+      "凡被思想者必是某种东西；而“无”不能被思想。"
+     ],
+     "inference": "思想总以“是某物”为对象，故思想的范围与存在的范围重合；不能思想“非存在”，正如不能指称它。",
+     "conclusion": "存在的结构即思想的结构；这为后来的本体论与逻辑学确立了基本前提。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论自然》（残篇）",
+     "edition": "Diels-Kranz 残篇（DK 28 B）；英译参 Perseus / Kirk-Raven-Schofield《前苏格拉底哲学家》",
+     "note": "约一百六十行残篇，含序诗、真理之路与意见之路三部分"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "色诺芬尼（传统谱系）",
+     "id": null,
+     "note": "爱利亚学派的先驱，一神论与对荷马神观的批评；师承关系有讨论"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "芝诺（爱利亚的芝诺）",
+     "id": null,
+     "note": "以悖论捍卫“一”与“不动”"
+    },
+    {
+     "name": "柏拉图",
+     "id": "gr-ancient-plato",
+     "note": "理念论的可理知世界与《巴门尼德篇》的自我批评"
+    },
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "note": "以“存在有多种意义”回应巴门尼德的一元论"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "亚里士多德",
+     "view": "“存在”有多种意义（实体、性质、数量、潜能与现实），“存在者”并非只有一种意义，故巴门尼德的推论建立在歧义之上。",
+     "response": "巴门尼德式的回应可重构为：若“存在”只是同名异义，则不同意义之间仍需一个统一的可理解性，否则话语无法指向任何确定的东西。",
+     "kind": "后人解读",
+     "sources": [
+      "mit-aristotle-metaphysics",
+      "sep-parmenides"
+     ]
+    },
+    {
+     "critic": "柏拉图（《巴门尼德篇》中的自我批评）",
+     "view": "若“一”绝对地是一，则它既不能与“存在”结合，也无法被认识、被言说；理念的分离也会带来无穷后退。",
+     "response": "对话中的巴门尼德并未给出最终答复，而是让少年苏格拉底进行“体操式”训练；这被视为柏拉图对自身理念论的难题化处理。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-parmenides",
+      "sep-plato"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "巴门尼德否认世界的存在，是“唯心主义者”",
+     "why": "他并不否认现象，而是主张现象不具真理性：变化属于“意见之路”。把他的立场套入近代“唯心/唯物”分类，会错失其问题（“存在”作为思想的对象如何可能）。"
+    },
+    {
+     "claim": "“思维与存在同一”是说“想到的就是存在的”",
+     "why": "其原意是：思想必有对象，而对象必是“是某物”者；因此不可能思想“无”。这不是说主观观念创造实在。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>巴门尼德：两条路与“存在”的推论（示意）</text><defs><marker id='ar10' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='60' y='58' width='200' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='160' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>真理之路</text><text x='160' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>“它是”，不可非是</text><rect x='500' y='58' width='200' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='600' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>意见之路</text><text x='600' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>生成、消灭、运动</text><line x1='260' y1='86' x2='336' y2='86' stroke='#4a7ba6' marker-end='url(#ar10)'/><line x1='500' y1='86' x2='424' y2='86' stroke='#4a7ba6' marker-end='url(#ar10)'/><rect x='340' y='60' width='84' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='382' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>检验</text><text x='382' y='100' text-anchor='middle' font-size='10' fill='#1e2d3d'>可否思想</text><line x1='380' y1='116' x2='380' y2='158' stroke='#4a7ba6' marker-end='url(#ar10)'/><rect x='196' y='162' width='368' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='186' text-anchor='middle' font-size='13' fill='#1c3a5c'>前提：“无”不可思、不可指称</text><text x='380' y='207' text-anchor='middle' font-size='10' fill='#1e2d3d'>生成须以“无”为前提，故不成立</text><line x1='380' y1='228' x2='380' y2='266' stroke='#4a7ba6' marker-end='url(#ar10)'/><rect x='130' y='270' width='500' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='294' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：存在是一、不动、完整；变属意见</text><text x='380' y='313' text-anchor='middle' font-size='10' fill='#1e2d3d'>由此逼出后世对“多”与“运动”的重新解释</text><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：结论为残篇所明言，“检验”一步为重构</text></svg>",
+   "svg_caption": "巴门尼德：真理之路与意见之路的划分（重构示意图）",
+   "sources": [
+    "sep-parmenides",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-democritus",
+   "name": "德谟克利特",
+   "latin": "Democritus of Abdera",
+   "birth_year": -460,
+   "death_year": -370,
+   "birth_display": "约前460年",
+   "death_display": "约前370年",
+   "birth_note": "生卒为推定（约前460—前370），古代记载其寿命极长。",
+   "death_note": "同上，具体卒年不可确考，取学界通行推定。",
+   "era": "公元前5世纪中至前4世纪初。德谟克利特游历埃及、波斯等地，著述极富（伦理、物理、数学、音乐），今仅存残篇与他人转述。",
+   "school": "原子论",
+   "core_questions": [
+    "若存在不可分，则多与运动如何可能？",
+    "感官所报告的性质（色、味、冷热）是否属于事物本身？",
+    "人应当如何生活才能获得安宁？"
+   ],
+   "arguments": [
+    {
+     "claim": "本原是原子与虚空",
+     "premises": [
+      "巴门尼德已证明：无不能生有，故生成只能是已有者的组合与分离。",
+      "若可分至无穷，则无物可成（无穷分割使任何大小都不成立）。"
+     ],
+     "inference": "要使“多”与“运动”可能而不违反“无不能生有”，须设定不可分的充实微粒（原子）与它们运动于其中的空隙（虚空）。",
+     "conclusion": "万物由形状、大小、排列不同的原子在虚空中结合而成；生成即组合，消灭即分离。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "性质是约定的，只有原子与虚空是实在的",
+     "premises": [
+      "“颜色是约定的，甜是约定的，苦是约定的；实际上只有原子与虚空”。",
+      "感官随身体状态与通道形状而变化，同一物对不同生物显得不同。"
+     ],
+     "inference": "若同一对象在不同观察者处呈现不同性质，则这些性质不能归于对象本身，只能归于观察者与对象之间的相互作用。",
+     "conclusion": "第一性质（形状、大小、运动）属于事物，第二性质（色、味等）依赖于感知者。",
+     "kind": "原文"
+    },
+    {
+     "claim": "幸福（euthymia）在于灵魂的安宁",
+     "premises": [
+      "快乐有真假：肉体的快乐短暂且伴随痛苦，灵魂的愉快则稳定。",
+      "“适度”使快乐持久，过度则转为痛苦。"
+     ],
+     "inference": "若快乐的量取决于是否过度，则幸福不在于快乐的总量，而在于对欲望的节度与判断的清明。",
+     "conclusion": "好的生活是“愉快而不激动”的状态，靠节制与明智的判断达成。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "残篇与伦理格言",
+     "edition": "Diels-Kranz 残篇（DK 68 B）；英译见 Kahn《The Art and Thought of Heraclitus》同类体例的残篇集，或 Taylor《The Atomists》",
+     "note": "无完整著作传世，伦理残篇与自然哲学残篇须分别评估其可靠性"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "留基伯",
+     "id": null,
+     "note": "原子论的最初提出者，与德谟克利特并称"
+    },
+    {
+     "name": "巴门尼德与芝诺",
+     "id": "gr-ancient-parmenides",
+     "note": "以原子与虚空回应“一”与“不动”的挑战"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "伊壁鸠鲁",
+     "id": null,
+     "note": "继承原子论并加入“偏斜”以说明自由"
+    },
+    {
+     "name": "近代机械论（伽桑狄、牛顿力学中的原子论倾向）",
+     "id": null,
+     "note": "作为“微粒哲学”的古代源头被反复援引"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "亚里士多德",
+     "view": "原子论无法说明事物的“为何”（目的因）与“形式”：仅凭形状与排列不能解释生成的目的与种类的稳定。",
+     "response": "原子论一系的回应可重构为：目的与形式是观察者因无知而加上的解释，真正的说明只需机制；这一立场在近代机械论中被重新提出。",
+     "kind": "后人解读",
+     "sources": [
+      "mit-aristotle-metaphysics",
+      "sep-democritus"
+     ]
+    },
+    {
+     "critic": "柏拉图",
+     "view": "若只有原子与虚空，则数学对象与价值无从安立；感官世界之外须有可理知的对象。",
+     "response": "德谟克利特式的回应是：数学对象可作为原子组合的秩序来理解，价值则可由灵魂的安宁来界定，不必另设一类存在。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-democritus",
+      "sep-plato"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "德谟克利特是“唯物主义者”，故否认一切价值",
+     "why": "他把伦理当作严肃问题，留下大量关于节制、友谊与灵魂安宁的格言；其“唯物”只涉及本原论，不等于取消价值讨论。"
+    },
+    {
+     "claim": "原子论是近代科学实验的产物",
+     "why": "它是为解决巴门尼德留下的理论困难而提出的形而上学方案，其“原子”不是实验对象，而是论证所需的本原。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>德谟克利特：从“无不能生有”到原子与虚空</text><defs><marker id='ar11' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='44' y='60' width='212' height='62' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='150' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提一：无不能生有</text><text x='150' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>生成只能是组合与分离</text><rect x='504' y='60' width='212' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='610' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提二：不可无穷分割</text><text x='610' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>否则无物可成</text><line x1='256' y1='91' x2='338' y2='91' stroke='#4a7ba6' marker-end='url(#ar11)'/><line x1='504' y1='91' x2='422' y2='91' stroke='#4a7ba6' marker-end='url(#ar11)'/><rect x='342' y='62' width='76' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='86' text-anchor='middle' font-size='12' fill='#1c3a5c'>须有</text><text x='380' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>不可分者</text><line x1='380' y1='122' x2='380' y2='162' stroke='#4a7ba6' marker-end='url(#ar11)'/><rect x='170' y='166' width='420' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='190' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：原子（充实）＋虚空（空隙）</text><text x='380' y='211' text-anchor='middle' font-size='10' fill='#1e2d3d'>运动发生于虚空，多由排列与形状而成</text><line x1='380' y1='232' x2='380' y2='268' stroke='#4a7ba6' marker-end='url(#ar11)'/><rect x='96' y='272' width='256' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='224' y='294' text-anchor='middle' font-size='12' fill='#1e2d3d'>认识论：性质属约定</text><text x='224' y='313' text-anchor='middle' font-size='10' fill='#1e2d3d'>色、味依感知者而变</text><rect x='408' y='272' width='256' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='536' y='294' text-anchor='middle' font-size='12' fill='#1e2d3d'>伦理学：灵魂的安宁</text><text x='536' y='313' text-anchor='middle' font-size='10' fill='#1e2d3d'>节度使快乐持久</text><text x='380' y='356' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：“原子”一词为后世命名，德谟克利特用“不可分者”</text></svg>",
+   "svg_caption": "德谟克利特：原子与虚空的本原论及其两个推论（重构示意图）",
+   "sources": [
+    "sep-democritus",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-protagoras",
+   "name": "普罗塔戈拉",
+   "latin": "Protagoras of Abdera",
+   "birth_year": -490,
+   "death_year": -420,
+   "birth_display": "约前490年",
+   "death_display": "约前420年",
+   "birth_note": "生卒为推定（约前490—前420）；柏拉图《普罗塔戈拉篇》记其与苏格拉底对话，属文学性重构。",
+   "death_note": "同上，具体卒年不可确考，取学界通行推定。",
+   "era": "公元前5世纪后半叶。伯里克利时代的雅典，民主政治与法庭论辩使修辞与说服术成为急需的技能；智者以教授“政治技艺”为业，收费授徒，普罗塔戈拉是其中最著名者。",
+   "school": "智者派",
+   "core_questions": [
+    "真理是相对于人的，还是独立于人的？",
+    "德性（arete）能否被教授？",
+    "在意见分歧时，什么使一个主张更可取？"
+   ],
+   "arguments": [
+    {
+     "claim": "人是万物的尺度",
+     "premises": [
+      "同一风吹来，有人觉得冷，有人觉得不冷。",
+      "事物的显现随感知者的状态而变，没有独立的通道去核对“本身如何”。"
+     ],
+     "inference": "若一切显现都相对于感知与判断者，则“是什么”只能相对于某人而成立；不存在一个脱离所有视角的裁决点。",
+     "conclusion": "真理是相对于人的（度量关系），故争论的目标不是发现唯一真理，而是使较好的意见取代较坏的意见。",
+     "kind": "原文"
+    },
+    {
+     "claim": "德性是可以通过教导获得的",
+     "premises": [
+      "城邦中凡涉及技艺之事（如造船）只请专家发言，涉及治理则人人可发言，说明政治德性被认为人人可具备。",
+      "惩罚的合理性在于“预防与矫正”，而非报复过去，故恶可通过教化改变。"
+     ],
+     "inference": "若德性不可教，则惩罚与教育都不合理；而城邦制度与实践都以可教为前提。",
+     "conclusion": "德性是可教的，教师的作用是使人成为更好的公民。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "残篇与柏拉图对话中的转述",
+     "edition": "Diels-Kranz 残篇（DK 80 B）；柏拉图《普罗塔戈拉篇》《泰阿泰德篇》为最重要转述来源",
+     "note": "本人著作仅存残句；对话中的长篇发言是柏拉图的文学重构，须区分"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "赫拉克利特（流变说）",
+     "id": "gr-ancient-heraclitus",
+     "note": "古代记载称其受流变说影响，具体程度有讨论"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "苏格拉底",
+     "id": "gr-ancient-socrates",
+     "note": "以诘问法回应智者，问题意识部分来自智者运动"
+    },
+    {
+     "name": "近代相对主义与实用主义（被反复援引）",
+     "id": null,
+     "note": "“人是尺度”常被用作相对主义的古代源头"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "柏拉图",
+     "view": "若一切相对于人，则“人是尺度”这一命题本身也只是相对于普罗塔戈拉为真，无法作为普遍主张；且它会取消知识与意见的区分。",
+     "response": "智者一系的回应可重构为：知识不必是脱离视角的，较可取的意见（更有利于城邦的判断）本身就是可教、可改进了的知识。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-protagoras",
+      "sep-plato"
+     ]
+    },
+    {
+     "critic": "亚里士多德",
+     "view": "把“显得如何”当作“如何”，等于取消矛盾律，使一切论辩失去意义。",
+     "response": "回应是：普罗塔戈拉并不主张所有意见等价，他自称能把较弱的主张说成较强的，意味着存在优劣之别。",
+     "kind": "后人解读",
+     "sources": [
+      "mit-aristotle-metaphysics",
+      "sep-protagoras"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“人是万物的尺度”是说人类中心主义",
+     "why": "原文的“人”多被理解为个别的人（anthropos），句子讲的是认识相对于感知者，而非人类在宇宙中的中心地位。"
+    },
+    {
+     "claim": "智者都是不讲真理的诡辩家",
+     "why": "“诡辩家”这一贬义来自柏拉图的论战性描述。智者实际从事的是修辞、论辩与公民教育，其“相对”立场有其认识论理由，不能仅以贬称打发。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>普罗塔戈拉：尺度、意见与可教性（示意）</text><defs><marker id='ar12' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='60' y='60' width='196' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='158' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>观察：同风冷暖异感</text><text x='158' y='104' text-anchor='middle' font-size='10' fill='#1e2d3d'>显现随感知者而变</text><rect x='504' y='60' width='196' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='602' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>观察：实践以可教为前提</text><text x='602' y='104' text-anchor='middle' font-size='10' fill='#1e2d3d'>惩罚意在矫正而非报复</text><line x1='256' y1='89' x2='338' y2='89' stroke='#4a7ba6' marker-end='url(#ar12)'/><line x1='504' y1='89' x2='422' y2='89' stroke='#4a7ba6' marker-end='url(#ar12)'/><rect x='342' y='60' width='76' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='84' text-anchor='middle' font-size='12' fill='#1c3a5c'>尺度</text><text x='380' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>人（anthropos）</text><line x1='380' y1='120' x2='380' y2='160' stroke='#4a7ba6' marker-end='url(#ar12)'/><rect x='188' y='164' width='384' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='188' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论一：真理相对于判断者</text><text x='380' y='209' text-anchor='middle' font-size='10' fill='#1e2d3d'>故争论在比较意见之优劣，而非求唯一真理</text><line x1='380' y1='230' x2='380' y2='266' stroke='#4a7ba6' marker-end='url(#ar12)'/><rect x='150' y='270' width='460' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='294' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论二：德性可教，教育是使意见变好</text><text x='380' y='313' text-anchor='middle' font-size='10' fill='#1e2d3d'>此结论由对话转述重构，本人残篇未直陈</text><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：《普罗塔戈拉篇》为柏拉图的文学重构，非逐字记录</text></svg>",
+   "svg_caption": "普罗塔戈拉：尺度说与德性可教的两个推论（重构示意图）",
+   "sources": [
+    "sep-protagoras",
+    "iep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": true,
+   "pending_notes": "普罗塔戈拉本人主张与柏拉图对话中长篇发言的界限：其著作仅存残句，多数“观点”来自柏拉图与塞克斯都·恩披里柯的转述，转述的忠实度有讨论。"
+  },
+  {
+   "id": "gr-ancient-socrates",
+   "name": "苏格拉底",
+   "latin": "Socrates",
+   "birth_year": -469,
+   "death_year": -399,
+   "birth_display": "前469年",
+   "death_display": "前399年",
+   "birth_note": "据柏拉图《申辩》与第欧根尼·拉尔修，前469年生于雅典。",
+   "death_note": "前399年受审后被判死刑，饮毒芹而死。",
+   "era": "雅典由盛转衰之际：伯罗奔尼撒战争（前431—前404）与三十僭主之乱后，城邦对智者的怀疑加剧。苏格拉底终身未著书，以在广场与人对话为业，最终以“不敬神”与“败坏青年”之罪被处死。",
+   "school": "苏格拉底（未立学派；其弟子分出资学派、麦加拉派与柏拉图学园）",
+   "core_questions": [
+    "“什么是X”这类问题如何回答才算真正的回答？",
+    "德性是不是知识？若是，恶何以发生？",
+    "人应当如何照料自己的灵魂？"
+   ],
+   "arguments": [
+    {
+     "claim": "诘问法（elenchus）：以对方的前提推出矛盾",
+     "premises": [
+      "对话者往往能举出德性的例子，却不能给出定义。",
+      "若一个定义成立，它必须覆盖全部事例且不覆盖反面事例。"
+     ],
+     "inference": "通过追问，使对方看到自己的定义与所承认的其他信念冲突；承认无知，才可能重新开始寻求。",
+     "conclusion": "哲学讨论的第一步不是提出主张，而是检验主张；知道自己不知道，是求知的起点。",
+     "kind": "原文"
+    },
+    {
+     "claim": "德性是知识，无人自愿作恶",
+     "premises": [
+      "人皆欲求善（对自己好者）。",
+      "作恶者或是错认了善，或是无力达成所认之善。"
+     ],
+     "inference": "若作恶总是出于对善的误认，则正确的认识（知识）足以使行为向善；故德性即关于何为善的知识。",
+     "conclusion": "恶是知识的缺失（无知），可教的是知识，故德性可教。",
+     "kind": "原文"
+    },
+    {
+     "claim": "灵魂的照料优先于身体与财产",
+     "premises": [
+      "“未经省察的人生不值得过”。",
+      "财富、名誉与身体皆可被剥夺，而灵魂的善恶决定人之为人。"
+     ],
+     "inference": "若使人之为人的东西在于灵魂的状态，则其好坏比外在之物的得失更为根本；故首要的操持对象是灵魂。",
+     "conclusion": "哲学的生活（省察与自我认识）是最高意义上的“照料自己”。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "无著作传世（见柏拉图早期对话、色诺芬《回忆苏格拉底》、阿里斯托芬《云》）",
+     "edition": "柏拉图《申辩》《欧悌甫戎》《克里同》；色诺芬《回忆苏格拉底》Loeb 版；中译参王太庆《柏拉图对话集》，商务印书馆",
+     "note": "三类材料（柏拉图、色诺芬、阿里斯托芬）形象差异显著，“历史上的苏格拉底”问题至今无定论"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "智者运动（问题意识的来源）",
+     "id": "gr-ancient-protagoras",
+     "note": "与智者共享“德性是否可教”的问题，但反对其相对主义"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "柏拉图",
+     "id": "gr-ancient-plato",
+     "note": "全部对话以苏格拉底为主要发言者"
+    },
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "note": "经柏拉图学园间接承其问题"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "雅典陪审团（据《申辩》）",
+     "view": "苏格拉底“败坏青年”“不敬城邦所敬之神”，且以诘问使人在公共事务上失去确信。",
+     "response": "苏格拉底的回应是：他所做的只是指出对方自以为知而实不知；若这就是败坏，那败坏者恰是那些以不知为知的人。",
+     "kind": "原文",
+     "sources": [
+      "mit-plato-apology",
+      "sep-socrates"
+     ]
+    },
+    {
+     "critic": "亚里士多德（对“无人自愿作恶”的批评）",
+     "view": "若德性只是知识，则忽视了习惯与情感的作用；实际存在“知道何为善却不行”的情形（不能自制）。",
+     "response": "苏格拉底一系的回应是：所谓“知道”若只是口头同意，并非真知；真知包含在行动中，故不能自制者其实未真知。",
+     "kind": "后人解读",
+     "sources": [
+      "mit-aristotle-nicomachean",
+      "sep-socrates"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "苏格拉底说“我唯一知道的就是我一无所知”",
+     "why": "《申辩》中他说的是：自己不比别人更有知，只是不把不知当作知。传播中的“唯一知道我一无所知”是简化与改写，不能作为直引。"
+    },
+    {
+     "claim": "苏格拉底是柏拉图的代言人，理念论是他的主张",
+     "why": "理念论主要见于柏拉图的中期对话；学界一般把早期对话（如《申辩》《欧悌甫戎》）中的诘问式苏格拉底与中期以后作为“代言人”的苏格拉底区分开。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "未经省察的人生不值得过",
+     "source_id": "mit-plato-apology",
+     "locator": "柏拉图《申辩》38a（中文为通行译法）",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>苏格拉底：诘问法的结构（示意）</text><defs><marker id='ar13' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='56' y='58' width='200' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='156' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>问：什么是德性</text><text x='156' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>对方给出例子或定义</text><line x1='256' y1='87' x2='304' y2='87' stroke='#4a7ba6' marker-end='url(#ar13)'/><rect x='308' y='58' width='220' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='418' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>反例：定义覆盖了反面</text><text x='418' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>或与对方其他信念冲突</text><line x1='528' y1='87' x2='576' y2='87' stroke='#4a7ba6' marker-end='url(#ar13)'/><rect x='580' y='58' width='132' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='646' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>承认不知</text><text x='646' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>aporia</text><line x1='380' y1='116' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#ar13)'/><rect x='196' y='160' width='368' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='184' text-anchor='middle' font-size='13' fill='#1c3a5c'>推理：作恶出于对善的误认</text><text x='380' y='205' text-anchor='middle' font-size='10' fill='#1e2d3d'>故纠正认识即可纠正行为</text><line x1='380' y1='226' x2='380' y2='264' stroke='#4a7ba6' marker-end='url(#ar13)'/><rect x='140' y='268' width='480' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='292' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：德性即知识；照料灵魂为先</text><text x='380' y='311' text-anchor='middle' font-size='10' fill='#1e2d3d'>“无人自愿作恶”是这一结论的推论</text><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：诘问流程据早期对话归纳，非苏格拉底自述的方法论</text></svg>",
+   "svg_caption": "苏格拉底：诘问法的步骤与“德性即知识”的推论（重构示意图）",
+   "sources": [
+    "sep-socrates",
+    "mit-plato-apology",
+    "iep-plato"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“历史上的苏格拉底”问题：柏拉图、色诺芬与阿里斯托芬三类材料中的形象不一致，本页取柏拉图早期对话为主的解释，苏格拉底本人主张的边界仍有讨论。"
+  },
+  {
+   "id": "gr-ancient-plato",
+   "name": "柏拉图",
+   "latin": "Plato",
+   "birth_year": -427,
+   "death_year": -347,
+   "birth_display": "前427年",
+   "death_display": "前347年",
+   "birth_note": "据第欧根尼·拉尔修及雅典年表，生于前427年，出身雅典贵族家庭。",
+   "death_note": "前347年卒于雅典，学园由其甥斯彪西波主持。",
+   "era": "伯罗奔尼撒战争后的雅典。苏格拉底之死使柏拉图对民主政体抱持深刻怀疑；他游历埃及、南意大利，接触毕达哥拉斯学派，约前387年在雅典创办学园（Academy），前后四十余年以对话体写作。",
+   "school": "柏拉图主义",
+   "core_questions": [
+    "可变的感觉世界之外，是否存在不变的对象使知识可能？",
+    "理念与具体事物是什么关系？",
+    "正义是什么，正义的人与正义的城邦如何可能？"
+   ],
+   "arguments": [
+    {
+     "claim": "知识必须有不变的对象，故须设定理念",
+     "premises": [
+      "知识不同于意见：知识不可错，意见可能错。",
+      "可感事物始终在变（美的事物会变丑、相等的事物会变得不相等）。"
+     ],
+     "inference": "若知识的对象会变，则关于它的判断随时可被推翻，便不成其为知识；故知识必以不变者为对象，此即理念（eidos）。",
+     "conclusion": "存在两类对象：可感事物（意见的对象）与理念（知识的对象）；理念是事物的“是什么”。",
+     "kind": "原文"
+    },
+    {
+     "claim": "洞穴之喻：教育是转向，不是灌注",
+     "premises": [
+      "被缚的囚徒只见墙上的影子，并以影子为真。",
+      "有人被解开、转身、走出洞穴，初见实物时反而目眩。"
+     ],
+     "inference": "若认识的关键在于所朝向的方向，则教育不是把知识放进灵魂，而是使整个灵魂转向光；转向过程必然伴随不适与抵抗。",
+     "conclusion": "教育是灵魂的转向；哲学家的责任是回到洞穴，即使不被理解。",
+     "kind": "原文"
+    },
+    {
+     "claim": "灵魂三分与正义",
+     "premises": [
+      "灵魂有理性、激情、欲望三部分，各有其功能。",
+      "城邦有统治者、护卫者、生产者三个阶层，各司其职。"
+     ],
+     "inference": "若正义是“各部分各做自己分内的事而不越位”，则灵魂的正义在于理性统摄、激情辅助、欲望服从；城邦的正义同构。",
+     "conclusion": "正义是内部秩序的正确安排，而非外在行为的合规；因此正义的人幸福，不义者虽得利而灵魂失序。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《理想国》（Politeia）",
+     "edition": "Perseus 希腊文与 Jowett 英译对照本；中译参郭斌和、张竹明译《理想国》，商务印书馆",
+     "note": "十卷；洞穴之喻见卷七 514a 起，线段之喻见 509d 起"
+    },
+    {
+     "title": "《申辩》《斐多》《巴门尼德篇》《泰阿泰德篇》",
+     "edition": "Loeb Classical Library 希腊文英文对照；中译参王太庆《柏拉图对话集》，商务印书馆",
+     "note": "早期、中期、晚期对话的风格与学说差异是柏拉图研究的基本问题"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "苏格拉底",
+     "id": "gr-ancient-socrates",
+     "note": "对话体与诘问法直接承之；理念论是否苏格拉底已有，学界有争议"
+    },
+    {
+     "name": "巴门尼德",
+     "id": "gr-ancient-parmenides",
+     "note": "不变的对象与“存在”的问题框架"
+    },
+    {
+     "name": "毕达哥拉斯学派",
+     "id": "gr-ancient-pythagoras",
+     "note": "灵魂不朽、数学与净化的观念"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "note": "学园弟子，后以“分离”批评理念论"
+    },
+    {
+     "name": "新柏拉图主义（普罗提诺）",
+     "id": null,
+     "note": "太一—理智—灵魂的层级结构由柏拉图文本发展而来"
+    },
+    {
+     "name": "基督教神学（奥古斯丁）",
+     "id": null,
+     "note": "理念、灵魂与善的秩序被纳入神学体系"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "亚里士多德",
+     "view": "把理念与事物分离，无法解释事物的运动与生成；理念若与事物同类，则不过是多设了一批同名事物（“第三人”论证）。",
+     "response": "柏拉图学园的回应可重构为：理念不是另一批事物，而是事物之所以如此的根据；分离是为保证知识的对象不变，代价是解释分有（methexis）的困难。",
+     "kind": "后人解读",
+     "sources": [
+      "mit-aristotle-metaphysics",
+      "sep-plato"
+     ]
+    },
+    {
+     "critic": "波普尔（现代）",
+     "view": "《理想国》的“哲学王”与阶层固化构成极权主义的原型。",
+     "response": "学界的反驳意见指出：柏拉图的城邦设想以“灵魂秩序”为模型，且他批评的是当时雅典的派系政治；把它等同于现代极权国家，忽略了制度语境与“哲学王须受严格教育”的条件。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-plato",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "理念是存在于另一个世界的“抽象概念”",
+     "why": "理念（eidos）在柏拉图那里是使事物成其为事物的“什么”，具有存在论地位而非心理概念；但它是否“分离存在”以及如何“分有”，是古代就未解决的难题。"
+    },
+    {
+     "claim": "《理想国》是政治蓝图，主张废除家庭与私有财产",
+     "why": "废除私产与公妻限于护卫者阶层，目的是消除统治者的私利；生产者阶层仍保有家庭与财产。把它当作普遍社会方案，是过度推广。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "教育不是把知识灌进灵魂，而是使灵魂转向",
+     "source_id": "mit-plato-republic",
+     "locator": "《理想国》卷七 518b—d（大意，中文为通行译法）",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>柏拉图：知识—理念—洞穴（示意）</text><defs><marker id='ar14' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='58' width='200' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='140' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提：可感者常变</text><text x='140' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>美的事物会变丑</text><rect x='280' y='58' width='200' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提：知识不可错</text><text x='380' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>意见则可能错</text><rect x='520' y='58' width='200' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='620' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>故须不变之对象</text><text x='620' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>理念（eidos）</text><line x1='240' y1='88' x2='276' y2='88' stroke='#4a7ba6' marker-end='url(#ar14)'/><line x1='480' y1='88' x2='516' y2='88' stroke='#4a7ba6' marker-end='url(#ar14)'/><line x1='380' y1='118' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#ar14)'/><rect x='212' y='160' width='336' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='184' text-anchor='middle' font-size='13' fill='#1c3a5c'>洞穴：教育即灵魂转向</text><text x='380' y='205' text-anchor='middle' font-size='10' fill='#1e2d3d'>影子→实物→火光→洞外之太阳</text><line x1='380' y1='226' x2='380' y2='262' stroke='#4a7ba6' marker-end='url(#ar14)'/><rect x='84' y='266' width='260' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='214' y='289' text-anchor='middle' font-size='12' fill='#1e2d3d'>灵魂三分：理性·激情·欲望</text><text x='214' y='308' text-anchor='middle' font-size='10' fill='#1e2d3d'>正义＝各安其位</text><rect x='416' y='266' width='260' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='546' y='289' text-anchor='middle' font-size='12' fill='#1e2d3d'>城邦同构：三阶层</text><text x='546' y='308' text-anchor='middle' font-size='10' fill='#1e2d3d'>哲学王须受教育而后治</text><text x='380' y='358' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：上节为原文推论，“灵魂三分—城邦同构”一节含后人归纳</text></svg>",
+   "svg_caption": "柏拉图：知识对象、洞穴转向与灵魂秩序（重构示意图）",
+   "sources": [
+    "sep-plato",
+    "mit-plato-republic",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-aristotle",
+   "name": "亚里士多德",
+   "latin": "Aristotle of Stagira",
+   "birth_year": -384,
+   "death_year": -322,
+   "birth_display": "前384年",
+   "death_display": "前322年",
+   "birth_note": "据第欧根尼·拉尔修与阿拉伯传记传统，生于色雷斯斯塔基拉；父为马其顿王医官。",
+   "death_note": "前322年卒于优卑亚岛卡尔基斯；前323年雅典反马其顿风潮起，他避走以免“雅典人第二次对哲学犯罪”。",
+   "era": "马其顿崛起与城邦自主终结的时代。亚里士多德在柏拉图学园学习二十年，后任亚历山大大帝之师，约前335年在雅典创吕克昂（Lykeion），以共同研究、分科讲授的方式组织学术工作。",
+   "school": "逍遥学派（吕克昂）",
+   "core_questions": [
+    "存在者作为存在者，有哪些意义与原因？",
+    "事物的“是什么”（形式）能否与事物分离？",
+    "人的好生活是什么，德性如何养成？"
+   ],
+   "arguments": [
+    {
+     "claim": "四因说：说明一物须给出四种原因",
+     "premises": [
+      "对“为什么”的回答有多种：为什么是雕像（材料）、为什么成形（形式）、谁做的（动力）、为了什么（目的）。",
+      "任一回答单独都不完整：只说材料不说明形状，只说目的不说明何以能实现。"
+     ],
+     "inference": "若“为什么”的问题本身包含多重含义，则完整的说明须同时给出质料因、形式因、动力因、目的因；目的因在自然事物中表现为其成熟状态。",
+     "conclusion": "自然哲学的任务是给出四因的完整说明；偶然与必然不足以解释有秩序的自然过程。",
+     "kind": "原文"
+    },
+    {
+     "claim": "形式内在于事物，不与之分离",
+     "premises": [
+      "具体实体（tode ti）是形式与质料的复合物。",
+      "若形式与事物分离，则无法解释事物的生成与运动：分离的形式不动，如何使事物动？"
+     ],
+     "inference": "要被认识的对象必须是“这个”事物的“什么”；若“什么”存在于事物之外，则事物本身不可理解，而分有的机制也无法说明。",
+     "conclusion": "形式在事物之中（作为现实性），理念论的分离是多余的；但“无质料的形式”（神）作为纯现实性仍被保留。",
+     "kind": "原文"
+    },
+    {
+     "claim": "德性是习惯养成的品质，幸福是合德性的活动",
+     "premises": [
+      "德性分为理智德性（由教导而生）与伦理德性（由习惯养成）。",
+      "“我们由于做公正的事而成为公正的人”，如习琴者由弹琴而善弹。"
+     ],
+     "inference": "若德性是可称赞的品质，而品质由同类活动养成，则德性不是天生的，也不是单纯的知识，而是在实践中反复塑成的稳定倾向。",
+     "conclusion": "伦理德性是“中道”的品质，幸福是灵魂合乎德性的现实活动，而非快乐、财富或荣誉。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《形而上学》",
+     "edition": "Perseus 希腊文与 Ross 英译；中译参吴寿彭译《形而上学》，商务印书馆",
+     "note": "十四卷，由编纂者编次而成，非统一写定的著作；Γ 卷为矛盾律的论证，A 卷为早期哲学史"
+    },
+    {
+     "title": "《尼各马可伦理学》",
+     "edition": "Perseus 希腊文与 Rackham 英译（Loeb）；中译参廖申白译注本，商务印书馆",
+     "note": "十卷；德性与中道见卷二，幸福见卷一与卷十"
+    },
+    {
+     "title": "《政治学》《范畴篇》《后分析篇》",
+     "edition": "Loeb Classical Library；中译参吴寿彭译《政治学》，商务印书馆",
+     "note": "《范畴篇》论存在者的十范畴；《后分析篇》论证明性知识的结构"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "柏拉图",
+     "id": "gr-ancient-plato",
+     "note": "学园二十年，承其问题而反其分离说"
+    },
+    {
+     "name": "德谟克利特与自然哲学传统",
+     "id": "gr-ancient-democritus",
+     "note": "在《物理学》《论生成与消灭》中反复回应原子论"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "托马斯·阿奎那",
+     "id": null,
+     "note": "以亚里士多德哲学为神学的哲学基础"
+    },
+    {
+     "name": "阿维森纳与阿威罗伊",
+     "id": null,
+     "note": "阿拉伯世界的亚里士多德注释传统"
+    },
+    {
+     "name": "近代科学（经伽利略、牛顿批判而转化）",
+     "id": null,
+     "note": "四因说与目的论自然观被机械论取代，但其逻辑学与实体论延续"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "近代科学（伽利略、笛卡尔）",
+     "view": "目的因与“自然厌恶真空”式的解释不构成真正的说明；应以数学化的运动规律取代目的论。",
+     "response": "亚里士多德式的回应是：目的因回答的是“这一过程为何如此有序”，与动力机制不在同一层面；用机制取代目的，等于取消了一类问题而非回答了它。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-aristotle",
+      "book-copleston-history"
+     ]
+    },
+    {
+     "critic": "弗雷格与现代逻辑学家",
+     "view": "亚里士多德的三段论只是谓词逻辑的一个片段，无法处理关系推理与多重量化。",
+     "response": "逻辑史研究的回应是：三段论在其领域内是完备的，且“形式”概念的提出本身是逻辑学的开端；以现代逻辑的标准回溯评判，须区分“不够普遍”与“错误”。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-aristotle",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "亚里士多德主张“重物落得快”",
+     "why": "《论天》中的相关论述以其物理学（自然位置与介质阻力）为前提；把它抽出来当作自由落体的断言，忽略了其理论语境。伽利略的批评针对的是这一体系，而非一句孤立命题。"
+    },
+    {
+     "claim": "亚里士多德是“经验主义者”，反对理性",
+     "why": "他认为知识始于感觉经验，但科学知识（episteme）须由必然前提经证明而得；感觉提供起点，理性把握形式与必然。二者不是对立关系。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "人天生是政治的动物",
+     "source_id": "mit-aristotle-politics",
+     "locator": "《政治学》I.2 1253a（中文为通行译法）",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>亚里士多德：四因与德性（示意）</text><defs><marker id='ar15' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='48' y='58' width='160' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='128' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>质料因</text><text x='128' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>铜</text><rect x='220' y='58' width='160' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='300' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>形式因</text><text x='300' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>雕像之形</text><rect x='392' y='58' width='160' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='472' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>动力因</text><text x='472' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>雕刻者</text><rect x='564' y='58' width='160' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='644' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>目的因</text><text x='644' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>敬神/观赏</text><line x1='214' y1='112' x2='318' y2='150' stroke='#4a7ba6' marker-end='url(#ar15)'/><line x1='546' y1='112' x2='442' y2='150' stroke='#4a7ba6' marker-end='url(#ar15)'/><rect x='256' y='154' width='248' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='177' text-anchor='middle' font-size='13' fill='#1c3a5c'>完整的“为什么”</text><text x='380' y='196' text-anchor='middle' font-size='10' fill='#1e2d3d'>缺一则说明不完整</text><line x1='380' y1='208' x2='380' y2='244' stroke='#4a7ba6' marker-end='url(#ar15)'/><rect x='196' y='248' width='368' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='271' text-anchor='middle' font-size='13' fill='#1c3a5c'>德性：由同类活动养成的品质</text><text x='380' y='292' text-anchor='middle' font-size='10' fill='#1e2d3d'>“我们由于做公正的事而成为公正的人”</text><rect x='150' y='322' width='460' height='46' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='344' text-anchor='middle' font-size='12' fill='#1c3a5c'>幸福：灵魂合乎德性的现实活动</text><text x='380' y='361' text-anchor='middle' font-size='10' fill='#1e2d3d'>非快乐、非财富、非荣誉</text></svg>",
+   "svg_caption": "亚里士多德：四因说与德性—幸福的推论（重构示意图）",
+   "sources": [
+    "sep-aristotle",
+    "mit-aristotle-metaphysics",
+    "mit-aristotle-nicomachean"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "concepts": [
+  {
+   "id": "gr-ancient-arche",
+   "term": "本原",
+   "term_latin": "archē（principle / origin）",
+   "definition": "万物由之而来、由之而成、最终又复归于它的东西；既是时间上的开端，也是结构上的根据。前苏格拉底哲学的中心问题即“本原是什么”。",
+   "usages": [
+    {
+     "name": "赫拉克利特",
+     "id": "gr-ancient-heraclitus",
+     "usage": "本原是火，但火的意义在于“按尺度燃烧与熄灭”的过程，本原因此带有法度（逻各斯）的含义。"
+    },
+    {
+     "name": "德谟克利特",
+     "id": "gr-ancient-democritus",
+     "usage": "本原不再是某一种元素，而是原子与虚空：数目无限、形状各异的不可分者。"
+    },
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "把“本原”转为“原因”：不再问万物由何而来，而问说明一物需几种原因（四因）。"
+    }
+   ],
+   "related": [
+    "gr-ancient-logos",
+    "gr-ancient-four-causes"
+   ],
+   "example": {
+    "text": "泰勒斯说本原是水，亚里士多德推测其理由之一是一切养分皆湿、热本身由湿而生——这一推测本身说明“本原”的论证方式已从神话叙事转为理由陈述。",
+    "figure": "亚里士多德（记述泰勒斯）",
+    "locator": "《形而上学》A.3 983b"
+   },
+   "sources": [
+    "sep-presocratics",
+    "mit-aristotle-metaphysics",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-logos",
+   "term": "逻各斯",
+   "term_latin": "logos（account / reason / law）",
+   "definition": "既指言说、说明与理由，也指事物内在的秩序与法度；赫拉克利特用它指万物共有的运行法则，后世引申为理性。",
+   "usages": [
+    {
+     "name": "赫拉克利特",
+     "id": "gr-ancient-heraclitus",
+     "usage": "逻各斯是万物依之而生的法度，永恒存在而对多数人隐蔽；听懂它即等于听懂“一切是一”。"
+    },
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "逻各斯转为“定义”与“理性说明”：人的特殊功能在于拥有逻各斯，故德性须合乎逻各斯。"
+    }
+   ],
+   "related": [
+    "gr-ancient-arche",
+    "gr-ancient-arete"
+   ],
+   "example": {
+    "text": "赫拉克利特说，若听从逻各斯而非听从他本人，就应当承认“一切是一”；这句话把“听谁说”与“听什么道理”区分开来。",
+    "figure": "赫拉克利特",
+    "locator": "DK 22 B50"
+   },
+   "sources": [
+    "sep-heraclitus",
+    "sep-aristotle"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-being",
+   "term": "存在",
+   "term_latin": "to on / einai（being）",
+   "definition": "希腊哲学的核心范畴：既指“有”而非“无”，也指某物“是什么”。巴门尼德把它作为唯一不变的对象，亚里士多德则区分其多种意义。",
+   "usages": [
+    {
+     "name": "巴门尼德",
+     "id": "gr-ancient-parmenides",
+     "usage": "存在是一、不生不灭、不动；生成与多属于“意见”，因为“无”不可思。"
+    },
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "“存在”有多种意义（实体、性质、数量、潜能与现实），以实体为中心而有所指；由此化解巴门尼德的一元论。"
+    }
+   ],
+   "related": [
+    "gr-ancient-form",
+    "gr-ancient-arche"
+   ],
+   "example": {
+    "text": "亚里士多德举例：我们说“健康的”既指身体的状态，也指保持健康的行为，还指健康的脸色——它们都指向同一中心（健康），同理“存在”的多种意义都指向实体。",
+    "figure": "亚里士多德",
+    "locator": "《形而上学》Γ.2 1003a"
+   },
+   "sources": [
+    "sep-parmenides",
+    "mit-aristotle-metaphysics",
+    "sep-aristotle"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-form",
+   "term": "理念／形式",
+   "term_latin": "eidos / idea（form）",
+   "definition": "使一物成其为该物的“什么”；在柏拉图那里作为分离存在的可知对象，在亚里士多德那里内在于具体事物而作为其现实性。",
+   "usages": [
+    {
+     "name": "柏拉图",
+     "id": "gr-ancient-plato",
+     "usage": "理念与可感事物分离，是知识的对象；事物因“分有”理念而成为该物。"
+    },
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "形式在事物之中，与质料复合为具体实体；分离的形式只作为“纯现实性”的神被保留。"
+    }
+   ],
+   "related": [
+    "gr-ancient-being",
+    "gr-ancient-four-causes"
+   ],
+   "example": {
+    "text": "《巴门尼德篇》中少年苏格拉底被追问：美本身与美的事物如何“分有”？若分有是占有整体，则理念将被分割；若只是同名，则分有无所说明。",
+    "figure": "柏拉图",
+    "locator": "《巴门尼德篇》130e—131e"
+   },
+   "sources": [
+    "sep-plato",
+    "sep-aristotle",
+    "mit-aristotle-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-four-causes",
+   "term": "四因",
+   "term_latin": "aitiai（four causes）",
+   "definition": "亚里士多德用以回答“为什么”的四种原因：质料因、形式因、动力因、目的因。它把“由什么构成”“是什么”“由谁推动”“为了什么”区分为不同层面的说明。",
+   "usages": [
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "四因是完整说明的必要组成；自然事物的目的因即其成熟形态（如橡子之成为橡树）。"
+    },
+    {
+     "name": "近代机械论者（对照）",
+     "id": null,
+     "usage": "只承认动力因（机制），把目的因排除在科学说明之外；这一转变构成古代与近代自然观的分界。"
+    }
+   ],
+   "related": [
+    "gr-ancient-form",
+    "gr-ancient-arche"
+   ],
+   "example": {
+    "text": "亚里士多德以“为什么下雨”为例：质料因是水汽，动力因是冷却，形式因是水的形态，目的因是使万物生长——但他也指出此类必然过程未必有目的，须区别对待。",
+    "figure": "亚里士多德",
+    "locator": "《物理学》II.8 198b"
+   },
+   "sources": [
+    "sep-aristotle",
+    "mit-aristotle-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-dynamis",
+   "term": "潜能与现实",
+   "term_latin": "dynamis / energeia（potentiality / actuality）",
+   "definition": "亚里士多德用以解释变化的一对范畴：潜能是尚未实现但可实现的能力，现实是已实现的状态；变化即由潜能到现实的过程。",
+   "usages": [
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "质料是潜能、形式是现实；灵魂是身体的现实（entelecheia），故灵魂与身体不是两个东西。"
+    },
+    {
+     "name": "德谟克利特（对照）",
+     "id": "gr-ancient-democritus",
+     "usage": "以原子的排列与运动说明变化，不需要“潜能”这一范畴；这正是亚里士多德批评机械论的要害。"
+    }
+   ],
+   "related": [
+    "gr-ancient-form",
+    "gr-ancient-four-causes"
+   ],
+   "example": {
+    "text": "亚里士多德说：种子是潜在地的树，正在看的眼睛是现实地看；潜能与现实的区分使“变化”不必依赖“无中生有”也能被说明。",
+    "figure": "亚里士多德",
+    "locator": "《形而上学》Θ 卷 1048a 起"
+   },
+   "sources": [
+    "sep-aristotle",
+    "mit-aristotle-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-arete",
+   "term": "德性",
+   "term_latin": "aretē（excellence / virtue）",
+   "definition": "事物发挥其固有功能的卓越状态；用于人时指品格的卓越，希腊人视之为可称赞、可教养的品质，而非仅是服从规则。",
+   "usages": [
+    {
+     "name": "苏格拉底",
+     "id": "gr-ancient-socrates",
+     "usage": "德性即知识：知道何为善即会行善，故德性可教，恶出于无知。"
+    },
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "德性是由习惯养成的稳定品质，处于过度与不足之间的中道，须以实践智慧来把握具体分寸。"
+    },
+    {
+     "name": "普罗塔戈拉",
+     "id": "gr-ancient-protagoras",
+     "usage": "德性（政治德性）可教，教师教人成为好公民；此说与苏格拉底的“德性即知识”在前提与目标上都不同。"
+    }
+   ],
+   "related": [
+    "gr-ancient-eudaimonia",
+    "gr-ancient-logos"
+   ],
+   "example": {
+    "text": "亚里士多德论勇敢：怯懦是不足、鲁莽是过度，勇敢是两者之间的中道；但中道不是算术平均，须依处境与对象由实践智慧判定。",
+    "figure": "亚里士多德",
+    "locator": "《尼各马可伦理学》II.6—7"
+   },
+   "sources": [
+    "mit-aristotle-nicomachean",
+    "sep-aristotle",
+    "sep-socrates"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-eudaimonia",
+   "term": "幸福",
+   "term_latin": "eudaimonia（flourishing）",
+   "definition": "人的茁壮与兴盛，通常译为“幸福”，但含义不是主观快感，而是一生合乎德性的活动所构成的整体好生活。",
+   "usages": [
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "幸福是灵魂合乎德性的现实活动，须终其一生；外在善（健康、财富、朋友）是条件而非本质。"
+    },
+    {
+     "name": "德谟克利特",
+     "id": "gr-ancient-democritus",
+     "usage": "幸福是灵魂的安宁（euthymia），靠节度与清明判断达成，与外在境遇关系较小。"
+    }
+   ],
+   "related": [
+    "gr-ancient-arete",
+    "gr-ancient-justice"
+   ],
+   "example": {
+    "text": "亚里士多德说，一只燕子或一天不能造成春天，一日之善也不能使人幸福——幸福以完整的一生为尺度。",
+    "figure": "亚里士多德",
+    "locator": "《尼各马可伦理学》I.7 1098a"
+   },
+   "sources": [
+    "mit-aristotle-nicomachean",
+    "sep-aristotle",
+    "sep-democritus"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-psyche",
+   "term": "灵魂",
+   "term_latin": "psychē（soul）",
+   "definition": "生命的原则：使有生命者成其为有生命者；在不同哲学家那里，它或是不朽的独立实体（毕达哥拉斯、柏拉图），或是有机体的形式（亚里士多德）。",
+   "usages": [
+    {
+     "name": "柏拉图",
+     "id": "gr-ancient-plato",
+     "usage": "灵魂不朽且先于身体存在，由理性、激情、欲望三部分组成；认识是灵魂对理念的回忆。"
+    },
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "灵魂是自然有机体的形式与现实，不能与身体分离；营养、感觉、理性是灵魂的不同层级功能。"
+    },
+    {
+     "name": "毕达哥拉斯",
+     "id": "gr-ancient-pythagoras",
+     "usage": "灵魂不朽并轮回转生，哲学与音乐是使其净化的修行。"
+    }
+   ],
+   "related": [
+    "gr-ancient-form",
+    "gr-ancient-arete"
+   ],
+   "example": {
+    "text": "亚里士多德说：若眼睛是一个独立生命，视觉就是它的灵魂；同理，灵魂是身体的功能实现，而非住在身体里的另一个人。",
+    "figure": "亚里士多德",
+    "locator": "《论灵魂》II.1 412b"
+   },
+   "sources": [
+    "sep-aristotle",
+    "sep-plato",
+    "sep-pythagoras"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-justice",
+   "term": "正义",
+   "term_latin": "dikaiosynē（justice）",
+   "definition": "给每个人其所应得，并使各部分各安其位的秩序；在柏拉图那里是灵魂与城邦的内在秩序，在亚里士多德那里分为分配正义与矫正正义。",
+   "usages": [
+    {
+     "name": "柏拉图",
+     "id": "gr-ancient-plato",
+     "usage": "正义是“各做各的事而不越位”：灵魂中理性统摄、激情辅助、欲望服从；城邦中三阶层各司其职。"
+    },
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "正义是政治德性：分配正义按比例（几何比例）分配，矫正正义按算术比例恢复均等。"
+    }
+   ],
+   "related": [
+    "gr-ancient-arete",
+    "gr-ancient-eudaimonia"
+   ],
+   "example": {
+    "text": "《理想国》中色拉叙马霍斯主张“正义是强者的利益”，苏格拉底以“技艺为其对象之善服务”反驳：医生为病人之健康，而非为自己之利益。",
+    "figure": "柏拉图",
+    "locator": "《理想国》卷一 338c—341c"
+   },
+   "sources": [
+    "mit-plato-republic",
+    "sep-plato",
+    "sep-aristotle"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "debates": [
+  {
+   "id": "gr-ancient-flux-vs-being",
+   "title": "流变还是不变：赫拉克利特与巴门尼德",
+   "question": "实在的本质是永恒的变化，还是唯一不动的存在？感官所报告的运动是真实的吗？",
+   "positions": [
+    {
+     "holder": "赫拉克利特",
+     "id": "gr-ancient-heraclitus",
+     "stance": "万物流变，但变化有法度",
+     "reasons": [
+      "同一条河不断更新，人不能两次踏入；火的存在方式就是转化的过程。",
+      "变化依逻各斯而行，对立面的紧张构成事物的秩序。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "巴门尼德",
+     "id": "gr-ancient-parmenides",
+     "stance": "存在不动，变化属意见",
+     "reasons": [
+      "“无”不可思想、不可指称，故生成与消灭不可能。",
+      "能被思想者必是“是某物”者，故思想与存在同一，存在必是一、连续、完整。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "德谟克利特（综合方案）",
+     "id": "gr-ancient-democritus",
+     "stance": "存在者不动，运动在虚空中发生",
+     "reasons": [
+      "原子本身不生不灭、不可分，符合巴门尼德对“存在”的要求。",
+      "运动与多由原子的排列与虚空中的位移说明，故不必承认“无中生有”。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点在“变化是否必须以‘无’为前提”：巴门尼德把生成理解为从无到有，故否定之；德谟克利特则把生成理解为已有者的组合，从而保留变化而不违反其前提。",
+   "status": "已有定论（在其问题框架内）",
+   "status_note": "古代即由原子论提供了兼容方案，亚里士多德又以潜能与现实重新解释变化；但“变化的形而上学地位”作为哲学问题一直延续到近代（如康德的二律背反）。学界一般认为巴门尼德的论证有效但前提过强。",
+   "sources": [
+    "sep-parmenides",
+    "sep-heraclitus",
+    "sep-democritus"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-forms-separate",
+   "title": "理念是否分离存在：柏拉图与亚里士多德",
+   "question": "使事物成其为事物的“形式”，是存在于事物之外的独立对象，还是内在于事物之中？",
+   "positions": [
+    {
+     "holder": "柏拉图",
+     "id": "gr-ancient-plato",
+     "stance": "理念分离存在，是知识的对象",
+     "reasons": [
+      "知识须以不变者为对象，而可感事物常变，故须另设可知对象。",
+      "多数事物同名（都叫“美”），必有一个“美本身”使它们得名。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "stance": "形式内在于事物",
+     "reasons": [
+      "分离的形式无法说明运动：不动者如何使事物动？",
+      "“第三人”论证：若理念与事物同名，则需第三个理念来解释二者的同名，无穷后退。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点是“知识的不变对象”与“变化的可解释性”能否兼得：柏拉图以分离保证前者，亚里士多德以内在形式保证后者，代价是知识对象的普遍性须另行说明。",
+   "status": "无定论",
+   "status_note": "古代学园内部即有争论，中期柏拉图主义与新柏拉图主义以不同方式重建分离说；中世纪共相之争是这一问题的延续。现代研究多认为亚里士多德的批评对柏拉图晚期对话未必完全适用。",
+   "sources": [
+    "sep-plato",
+    "sep-aristotle",
+    "mit-aristotle-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-virtue-teachable",
+   "title": "德性是否可教",
+   "question": "德性是可以通过教导获得的知识，还是只能由习惯、天性或神赐而来？",
+   "positions": [
+    {
+     "holder": "普罗塔戈拉",
+     "id": "gr-ancient-protagoras",
+     "stance": "可教（政治德性人人可学）",
+     "reasons": [
+      "城邦在治理之事上允许人人发言，说明政治德性被认为人人可具备。",
+      "惩罚的合理性在于矫正与预防，故恶可通过教化改变。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "苏格拉底",
+     "id": "gr-ancient-socrates",
+     "stance": "德性是知识，故可教——但无人真正拥有这种知识",
+     "reasons": [
+      "若德性即关于善的知识，则它与其他知识一样可教。",
+      "然而诘问表明无人能给出德性的定义，故“可教”与“尚未有人教成”并存。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "stance": "伦理德性由习惯养成，非仅由教导",
+     "reasons": [
+      "理智德性由教导而生，伦理德性由习惯养成：“我们由于做公正的事而成为公正的人”。",
+      "德性须在实践中反复塑成，故单靠听课不能使人善。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“教”指什么：若指传授命题性知识，则德性不可教；若指养成品质的实践训练，则可教。三方对“德性是什么”的答案不同，故对“可教性”的判断随之不同。",
+   "status": "无定论",
+   "status_note": "《普罗塔戈拉篇》《美诺篇》均以疑难收尾；亚里士多德以“理智德性/伦理德性”的区分为问题提供了分流方案，但“德性教育如何可能”至今仍是道德哲学与教育哲学的问题。",
+   "sources": [
+    "sep-socrates",
+    "sep-protagoras",
+    "mit-aristotle-nicomachean"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ]
+}
