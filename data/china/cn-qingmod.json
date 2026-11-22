@@ -1753,6 +1753,73 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-kaoju",
+   "term": "考据",
+   "term_latin": "kaoju（textual criticism）",
+   "definition": "清代学术的基本方法：以版本、校勘、音韵、训诂、辑佚与金石等实证手段重建文本，主张“由字通词、由词通道”。",
+   "usages": [
+    {
+     "name": "顾炎武",
+     "id": "cn-qingmod-gu-yanwu",
+     "usage": "以本证、旁证、音韵与金石材料重建经典文本，开考据学先河。"
+    },
+    {
+     "name": "戴震",
+     "id": "cn-qingmod-dai-zhen",
+     "usage": "由考据入义理，主张义理须建立在字词训诂的实证之上，反对凿空立说。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-jingshi-zhizhiyong",
+    "cn-qingmod-li-cun-yu-yu"
+   ],
+   "example": {
+    "text": "戴震《孟子字义疏证》先考“理”字在经籍中的用法，再据此批评程朱以“理”为“如有物焉得于天”的理解，即“由字通词、由词通道”的示范。",
+    "figure": "戴震",
+    "locator": "《孟子字义疏证》卷上"
+   },
+   "sources": [
+    "ct-rizhilu",
+    "ws-mengzi-ziyi",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-tiyong-fan",
+   "term": "体用",
+   "term_latin": "ti-yong（substance and function）",
+   "definition": "中国哲学的核心范畴之一：体指本体、根本，用指作用、功能；近代“中体西用”之争即围绕体用能否二分而展开。",
+   "usages": [
+    {
+     "name": "严复",
+     "id": "cn-qingmod-yan-fu",
+     "usage": "以“牛体马用”之喻批评中体西用：体与用须一致，不能以旧体配新用。"
+    },
+    {
+     "name": "张之洞（对照，非本单元）",
+     "id": null,
+     "usage": "主张“中学为体、西学为用”，认为旧体可容纳新用；此为严复批评的对象。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-kaoju",
+    "cn-qingmod-jingshi-zhizhiyong"
+   ],
+   "example": {
+    "text": "严复说“有牛之体，则有负重之用；有马之体，则有致远之用”，故“中学为体、西学为用”如“牛体马用”，在逻辑上不能成立。",
+    "figure": "严复",
+    "locator": "《与〈外交报〉主人书》"
+   },
+   "sources": [
+    "sep-qing-philosophy",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

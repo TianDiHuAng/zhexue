@@ -1486,6 +1486,72 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-wuqingyouxing",
+   "term": "无情有性",
+   "term_latin": "insentient beings possess Buddha-nature",
+   "definition": "湛然提出的天台命题：草木瓦石等无情之物亦具佛性。其论证依据是“色心不二”，故佛性不只限于有情众生。",
+   "usages": [
+    {
+     "name": "湛然",
+     "id": "cn-suitang-zhanran",
+     "usage": "以“色心不二”立论：万法是真如（不变），真如是万法（随缘），故无情亦有性。"
+    },
+    {
+     "name": "法藏（对照）",
+     "id": "cn-suitang-fazang",
+     "usage": "华严以“事事无碍”说明万物互摄，但其“情与无情”的界线未如天台那样被明确取消。"
+    }
+   ],
+   "related": [
+    "cn-suitang-foxing",
+    "cn-suitang-yiniansanqian"
+   ],
+   "example": {
+    "text": "湛然《金刚錍》设问：若无情无性，则“一念三千”中“三千”既含国土世间（无情），何以能全体具于一心？故必承认无情有性。",
+    "figure": "湛然",
+    "locator": "《金刚錍》"
+   },
+   "sources": [
+    "ws-mohezhiguan",
+    "sep-madhyamaka"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-zhuanyi",
+   "term": "转依",
+   "term_latin": "āśraya-parāvṛtti",
+   "definition": "唯识学的修行目标：转舍遍计所执的依他起（染），转得圆成实（净），即依止（āśraya）的转变。",
+   "usages": [
+    {
+     "name": "玄奘",
+     "id": "cn-suitang-xuanzang",
+     "usage": "转依须经五位（资粮、加行、通达、修习、究竟），最终转识成智。"
+    },
+    {
+     "name": "窥基",
+     "id": "cn-suitang-kuiji",
+     "usage": "以“转识成智”四智（大圆镜、平等性、妙观察、成所作）说明转依的具体内容。"
+    }
+   ],
+   "related": [
+    "cn-suitang-weishi",
+    "cn-suitang-foxing"
+   ],
+   "example": {
+    "text": "《成唯识论》说“转依”是“转舍二障（烦恼障、所知障）、转得二果（涅槃、菩提）”，故修行不是消灭识，而是转变其依止。",
+    "figure": "玄奘",
+    "locator": "《成唯识论》卷九"
+   },
+   "sources": [
+    "ws-chengweishi",
+    "sep-yogacara"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

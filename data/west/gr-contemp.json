@@ -1592,6 +1592,39 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-recognition",
+   "term": "承认",
+   "term_latin": "Anerkennung（recognition）",
+   "definition": "主体或群体只有在被他者承认时才获得完整的自我关系；此概念源于黑格尔主奴辩证法，经霍耐特发展为承认理论（爱、法权、团结三领域）。",
+   "usages": [
+    {
+     "name": "哈贝马斯",
+     "id": "gr-contemp-habermas",
+     "usage": "以交往理性说明承认的条件：承认须基于可辩护的规范，而非单纯的权力关系。"
+    },
+    {
+     "name": "罗蒂（对照）",
+     "id": "gr-contemp-rorty",
+     "usage": "不诉诸规范基础，而以“减少残酷”与同情扩展来说明“我们”的扩大，可视为承认的另一种表述。"
+    }
+   ],
+   "related": [
+    "gr-contemp-discourse",
+    "gr-contemp-postmetaphysical"
+   ],
+   "example": {
+    "text": "霍耐特以“为承认而斗争”解释社会冲突：许多冲突不是分配问题，而是被蔑视、不被承认的经验。",
+    "figure": "霍耐特（承黑格尔与哈贝马斯）",
+    "locator": "《为承认而斗争》"
+   },
+   "sources": [
+    "sep-habermas",
+    "sep-rawls"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

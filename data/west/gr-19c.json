@@ -1535,6 +1535,73 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-19c-histmat",
+   "term": "历史唯物主义",
+   "term_latin": "historical materialism",
+   "definition": "马克思与恩格斯的历史理论：物质生产是社会生活的基础，生产力与生产关系的矛盾推动社会形态更替，社会存在决定意识。",
+   "usages": [
+    {
+     "name": "马克思",
+     "id": "gr-19c-marx",
+     "usage": "以“生产力—生产关系”的矛盾说明历史更替；社会存在决定意识，而非相反。"
+    },
+    {
+     "name": "恩格斯",
+     "id": "gr-19c-engels",
+     "usage": "补充说明上层建筑有相对独立性与反作用，经济因素“归根到底”起决定作用而非唯一因素。"
+    }
+   ],
+   "related": [
+    "gr-19c-alienation",
+    "gr-19c-utility"
+   ],
+   "example": {
+    "text": "马克思在《〈政治经济学批判〉序言》中说：“不是人们的意识决定人们的存在，相反，是人们的社会存在决定人们的意识。”",
+    "figure": "马克思",
+    "locator": "《政治经济学批判》序言"
+   },
+   "sources": [
+    "sep-marx",
+    "sep-engels",
+    "marx-chinese"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-19c-ubermensch",
+   "term": "超人",
+   "term_latin": "Übermensch",
+   "definition": "尼采用语：不是生物学意义上的强者，而是能创造价值、承担大地意义、不再以彼岸为依托的人；其对立面是“末人”。",
+   "usages": [
+    {
+     "name": "尼采",
+     "id": "gr-19c-nietzsche",
+     "usage": "超人是价值重估的承担者，能以“命运之爱”肯定生命，而非逃避到宗教或形而上学。"
+    },
+    {
+     "name": "叔本华（对照）",
+     "id": "gr-19c-schopenhauer",
+     "usage": "以“意志之否定”为解脱，尼采批评这一取向为对生命的否定，故以超人取代之。"
+    }
+   ],
+   "related": [
+    "gr-19c-power-will",
+    "gr-19c-nihilism"
+   ],
+   "example": {
+    "text": "《查拉图斯特拉如是说》以“末人”对照“超人”：末人只求舒适与安全，超人则承担创造价值的危险。",
+    "figure": "尼采",
+    "locator": "《查拉图斯特拉如是说》序言"
+   },
+   "sources": [
+    "sep-nietzsche",
+    "iep-nietzsche"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

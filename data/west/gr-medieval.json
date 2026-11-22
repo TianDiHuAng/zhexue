@@ -1957,6 +1957,39 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-intellect-will",
+   "term": "意志与理智",
+   "term_latin": "voluntas et intellectus",
+   "definition": "中世纪的核心论题：意志与理智孰为优先？托马斯主张理智高于意志（理智把握目的），司各脱主张意志高于理智（意志自我规定）。",
+   "usages": [
+    {
+     "name": "托马斯·阿奎那",
+     "id": "gr-medieval-aquinas",
+     "usage": "理智高于意志：意志趋向由理智所把握的善，故理智是更高的能力。"
+    },
+    {
+     "name": "邓斯·司各脱",
+     "id": "gr-medieval-duns-scotus",
+     "usage": "意志高于理智：意志不被理智必然决定，故自由是意志的自我规定。"
+    }
+   ],
+   "related": [
+    "gr-medieval-free-will",
+    "gr-medieval-haecceitas"
+   ],
+   "example": {
+    "text": "司各脱设想：同一对象同时被理智把握为善与恶，意志仍可选择；这说明意志不被理智必然决定，故高于理智。",
+    "figure": "邓斯·司各脱",
+    "locator": "《牛津评注》II d.25"
+   },
+   "sources": [
+    "sep-aquinas",
+    "sep-duns-scotus"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

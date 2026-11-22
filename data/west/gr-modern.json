@@ -1978,6 +1978,39 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-secondary-quality",
+   "term": "第二性质",
+   "term_latin": "secondary qualities",
+   "definition": "洛克区分：第一性质（形状、广延、运动）属于物体本身；第二性质（色、声、香、味）是物体借第一性质在我们心中产生观念的能力，依感知者而变。",
+   "usages": [
+    {
+     "name": "洛克",
+     "id": "gr-modern-locke",
+     "usage": "第二性质不是物体本身的属性，而是产生感觉的能力；故同一物在不同感知者处显现不同。"
+    },
+    {
+     "name": "贝克莱",
+     "id": "gr-modern-berkeley",
+     "usage": "进一步取消第一/第二性质的区分：既然第二性质依心而变，第一性质（如大小、运动）同样依感知而变，故无独立物质实体。"
+    }
+   ],
+   "related": [
+    "gr-modern-blank-slate",
+    "gr-modern-idea"
+   ],
+   "example": {
+    "text": "洛克以火为例：火的“热”不在火中，而在火的第一性质作用于我们感官时产生观念的能力中；同一火对远者温、近者灼。",
+    "figure": "洛克",
+    "locator": "《人类理解论》II.8"
+   },
+   "sources": [
+    "emt-locke",
+    "sep-locke"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

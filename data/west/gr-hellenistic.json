@@ -1526,6 +1526,72 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-pronoia",
+   "term": "天佑",
+   "term_latin": "pronoia（providence）",
+   "definition": "斯多亚派概念：宇宙的逻各斯以理性安排万物，使整体趋向善与秩序；人的德性在于理解并顺应这一安排。",
+   "usages": [
+    {
+     "name": "芝诺（季蒂昂）",
+     "id": "gr-hellenistic-zeno",
+     "usage": "天佑即宇宙理性的安排，一切事件依因果必然趋向整体之善。"
+    },
+    {
+     "name": "塞涅卡",
+     "id": "gr-hellenistic-seneca",
+     "usage": "以天佑说明逆境亦是锻炼：神如严父，以考验使善人坚强。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-fate",
+    "gr-hellenistic-natural-law"
+   ],
+   "example": {
+    "text": "塞涅卡说，若天佑安排一切，则人所遇的困厄不是惩罚而是训练；“命运领着愿意者走，拖着不愿者走”。",
+    "figure": "塞涅卡",
+    "locator": "《道德书简》107；《论天佑》"
+   },
+   "sources": [
+    "sep-stoicism",
+    "iep-stoicism"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-spermatikos",
+   "term": "种子理性",
+   "term_latin": "logos spermatikos",
+   "definition": "斯多亚派概念：宇宙逻各斯中孕育万物的“种子性理性”，万物依各自种子理性生长；人的理性是宇宙理性的一部分。",
+   "usages": [
+    {
+     "name": "芝诺（季蒂昂）",
+     "id": "gr-hellenistic-zeno",
+     "usage": "宇宙逻各斯含一切种子理性，万物依之生长，人的理性分有之。"
+    },
+    {
+     "name": "普罗提诺（对照）",
+     "id": "gr-hellenistic-plotinus",
+     "usage": "以“流溢”与“理性原理”（logoi）说明万物成形，与斯多亚的种子理性有可比之处但框架不同。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-pronoia",
+    "gr-hellenistic-fate"
+   ],
+   "example": {
+    "text": "斯多亚派以“种子”说明事物的自然生长：橡子含长成橡树的种子理性，人含长成理性存在者的种子理性。",
+    "figure": "芝诺（季蒂昂）",
+    "locator": "见第欧根尼·拉尔修卷七所记斯多亚学说"
+   },
+   "sources": [
+    "sep-stoicism",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

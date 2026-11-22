@@ -1610,6 +1610,40 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-yuanqi",
+   "term": "元气",
+   "term_latin": "yuanqi（primordial qi）",
+   "definition": "汉代宇宙论的核心概念：未分化的本始之气，万物由之分化生成；王符等以之作为宇宙论本原，区别于董仲舒的“天”。",
+   "usages": [
+    {
+     "name": "王符",
+     "id": "cn-lianghan-wang-fu",
+     "usage": "以“元气”为本原，万物由元气分化而生；“人道曰为”则强调人可在元气之上有所作为。"
+    },
+    {
+     "name": "王充",
+     "id": "cn-lianghan-wang-chong",
+     "usage": "以“气”解释自然生灭，但更强调“气自然”而无意志，故不以元气为有目的的本原。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-qi",
+    "cn-lianghan-tianren"
+   ],
+   "example": {
+    "text": "王符《潜夫论·本训》说“元气窈冥，未有形兆”，万物由之“翻然自化”，此说以气代替人格化的天作为本原。",
+    "figure": "王符",
+    "locator": "《潜夫论·本训》"
+   },
+   "sources": [
+    "ws-qianfulun",
+    "ct-lunheng",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

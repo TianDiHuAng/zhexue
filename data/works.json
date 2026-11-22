@@ -1192,6 +1192,501 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "work-xunzi",
+   "title": "《荀子》",
+   "title_original": "荀子（Xunzi）",
+   "tradition": "china",
+   "date_display": "约前3世纪",
+   "structure": "三十二篇；《劝学》《天论》《解蔽》《正名》《性恶》《礼论》《乐论》为核心；《成相》《赋》文体特殊，《大略》以下或出弟子记录。",
+   "core_arguments": [
+    "性恶：顺性则争，故善者伪也",
+    "天人之分：天行有常，制天命而用之",
+    "化性起伪：礼义由圣人积思虑而生"
+   ],
+   "key_points": [
+    {
+     "locator": "《劝学》",
+     "point": "“学不可以已”；积善成德"
+    },
+    {
+     "locator": "《天论》",
+     "point": "“天行有常，不为尧存，不为桀亡”"
+    },
+    {
+     "locator": "《解蔽》",
+     "point": "“凡人之患，蔽于一曲而暗于大理”"
+    },
+    {
+     "locator": "《性恶》",
+     "point": "“人之性恶，其善者伪也”"
+    }
+   ],
+   "editions": [
+    "王先谦《荀子集解》中华书局",
+    "李涤生《荀子集释》台湾学生书局"
+   ],
+   "related_people": [
+    "cn-xianqin-xunzi",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "荀子不是儒家",
+     "why": "他自居孔门、特重礼乐师法；因性恶说被宋以后排出道统，但那是道统论的判断。"
+    },
+    {
+     "claim": "性恶说认为人无可救药",
+     "why": "性恶恰是教化必要性的前提；荀子主张“涂之人可以为禹”。"
+    }
+   ],
+   "sources": [
+    "ct-xunzi",
+    "sep-xunzi"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "work-politics",
+   "title": "《政治学》",
+   "title_original": "Πολιτικά（Politics）",
+   "tradition": "west",
+   "date_display": "约前335年",
+   "structure": "八卷；卷一论城邦与家庭，卷二评述理想政体，卷三论公民与政体分类，卷四—六论现实政体与变革，卷七—八论理想城邦与教育。",
+   "core_arguments": [
+    "人天生是政治的动物：城邦先于个人在本性上",
+    "政体分类：以统治者人数与是否顾全公共福利为标准",
+    "中产阶级最稳定：贫富两极易致政体倾覆"
+   ],
+   "key_points": [
+    {
+     "locator": "I.2 1253a",
+     "point": "“人天生是政治的动物”"
+    },
+    {
+     "locator": "III.7",
+     "point": "政体的三种正确形态与三种变态"
+    },
+    {
+     "locator": "IV.11",
+     "point": "中产阶级为最稳定的政体基础"
+    },
+    {
+     "locator": "VII—VIII",
+     "point": "理想城邦与公民教育"
+    }
+   ],
+   "editions": [
+    "吴寿彭译《政治学》商务印书馆",
+    "Jowett 英译（MIT Classics）"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "亚里士多德主张民主制",
+     "why": "他把多数人统治的“民主制”列为变态政体之一，主张的是以中产阶级为基础的“共和制”（polity）。"
+    },
+    {
+     "claim": "政治学与伦理学无关",
+     "why": "二者同属实践哲学：伦理学论个人善，政治学论城邦善，后者是前者的完成。"
+    }
+   ],
+   "sources": [
+    "mit-aristotle-politics",
+    "sep-aristotle"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "work-discourse-method",
+   "title": "《谈谈方法》",
+   "title_original": "Discours de la méthode",
+   "tradition": "west",
+   "date_display": "1637年",
+   "structure": "六部分：论方法、主要规则、道德、上帝与灵魂的证明、物理问题、进一步研究之必要；附《折光学》《气象学》《几何学》三篇。",
+   "core_arguments": [
+    "四条方法规则：只接受清晰分明者、分解问题、由简至繁、全面复查",
+    "以“我思”为不可怀疑的起点",
+    "暂守“临时道德”以在重建期间行动"
+   ],
+   "key_points": [
+    {
+     "locator": "第二部分",
+     "point": "四条方法规则"
+    },
+    {
+     "locator": "第四部分",
+     "point": "“我思故我在”"
+    },
+    {
+     "locator": "第三部分",
+     "point": "临时道德三条"
+    },
+    {
+     "locator": "附录《几何学》",
+     "point": "解析几何的奠基"
+    }
+   ],
+   "editions": [
+    "王太庆译《谈谈方法》商务印书馆",
+    "法文本以 Adam & Tannery 为准"
+   ],
+   "related_people": [
+    "gr-modern-descartes",
+    "gr-modern-hume"
+   ],
+   "misreadings": [
+    {
+     "claim": "“我思故我在”是三段论",
+     "why": "笛卡尔明确说它不是推论，而是每次怀疑时直接被把握的直观。"
+    },
+    {
+     "claim": "《谈谈方法》是完整的形而上学",
+     "why": "它是方法导论，形而上学详见《第一哲学沉思集》。"
+    }
+   ],
+   "sources": [
+    "emt-descartes",
+    "sep-descartes"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "work-shorter-logic",
+   "title": "《小逻辑》",
+   "title_original": "Enzyklopädie der philosophischen Wissenschaften I（小逻辑）",
+   "tradition": "west",
+   "date_display": "1817年（1830年增订）",
+   "structure": "三部分：存在论、本质论、概念论；以“思想对客观性的态度”为导论，逐范畴推演。",
+   "core_arguments": [
+    "逻辑学与形而上学同一：范畴是存在自身的规定",
+    "存在—无—变：开端的辩证法",
+    "概念论：主观概念、客体、理念"
+   ],
+   "key_points": [
+    {
+     "locator": "导论 §19—§83",
+     "point": "思想对客观性的三种态度"
+    },
+    {
+     "locator": "存在论",
+     "point": "存在、无、变；质、量、度"
+    },
+    {
+     "locator": "本质论",
+     "point": "同一、差别、根据；现象与现实"
+    },
+    {
+     "locator": "概念论",
+     "point": "主观概念、客体、绝对理念"
+    }
+   ],
+   "editions": [
+    "贺麟译《小逻辑》商务印书馆",
+    "德文以 GW 20（Meiner）为准"
+   ],
+   "related_people": [
+    "gr-german-hegel",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "《小逻辑》是《逻辑学》的节本",
+     "why": "它是《哲学全书》第一部，为教学纲要用，但结构与论证独立成体系，不只是节本。"
+    },
+    {
+     "claim": "辩证法即正反合三步",
+     "why": "“正反合”为后世概括，黑格尔极少使用该术语。"
+    }
+   ],
+   "sources": [
+    "sep-hegel",
+    "iep-hegel"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "work-consolation",
+   "title": "《哲学的慰藉》",
+   "title_original": "De Consolatione Philosophiae",
+   "tradition": "west",
+   "date_display": "约524年",
+   "structure": "五卷，散文与韵文交替；卷一卷二论命运与外物，卷三论真福，卷四论恶与天佑，卷五论自由意志与上帝预知。",
+   "core_arguments": [
+    "幸福不在财富、荣誉与权力，而在对至善的把握",
+    "命运之轮：外物无常，德性不移",
+    "上帝永恒预知不取消人的自由"
+   ],
+   "key_points": [
+    {
+     "locator": "卷二",
+     "point": "命运之轮与无常"
+    },
+    {
+     "locator": "卷三",
+     "point": "真福在于至善（上帝）"
+    },
+    {
+     "locator": "卷四",
+     "point": "恶是善的缺失；天佑引导一切"
+    },
+    {
+     "locator": "卷五",
+     "point": "永恒与时间之别：预知不取消自由"
+    }
+   ],
+   "editions": [
+    "中译参《哲学的慰藉》商务印书馆",
+    "Loeb Classical Library"
+   ],
+   "related_people": [
+    "gr-medieval-boethius",
+    "gr-medieval-augustine"
+   ],
+   "misreadings": [
+    {
+     "claim": "《慰藉》是基督教护教书",
+     "why": "通篇未提基督与教会，其宗教性质（纯哲学安慰 vs 隐含神学）学界长期有争论。"
+    },
+    {
+     "claim": "命运之轮是宿命论",
+     "why": "它强调外物无常，劝人转向内在的善，而非否定人的努力。"
+    }
+   ],
+   "sources": [
+    "sep-boethius",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《慰藉》的宗教性质与《波菲利〈导论〉注释》两稿年代均有讨论。"
+  },
+  {
+   "id": "work-on-liberty",
+   "title": "《论自由》",
+   "title_original": "On Liberty",
+   "tradition": "west",
+   "date_display": "1859年",
+   "structure": "五章：思想与讨论的自由、个性、社会对个人的权威限度、原则的应用。",
+   "core_arguments": [
+    "伤害原则：干预自由的唯一理由是防止伤害他人",
+    "思想自由是检验真理的条件",
+    "个性是社会发展与创造力的源泉"
+   ],
+   "key_points": [
+    {
+     "locator": "第二章",
+     "point": "思想与言论自由：压制意见的三种情形"
+    },
+    {
+     "locator": "第三章",
+     "point": "个性作为进步的元素"
+    },
+    {
+     "locator": "第四章",
+     "point": "社会对个人的权威限度"
+    },
+    {
+     "locator": "第五章",
+     "point": "原则的应用与例外"
+    }
+   ],
+   "editions": [
+    "许宝骙译《论自由》商务印书馆",
+    "英文本以 Cambridge Texts 版为准"
+   ],
+   "related_people": [
+    "gr-19c-mill",
+    "gr-modern-locke"
+   ],
+   "misreadings": [
+    {
+     "claim": "伤害原则主张政府什么都不管",
+     "why": "它限制的是以强制防止自我伤害，不排斥公共教育、济贫与对他人伤害的规制。"
+    },
+    {
+     "claim": "密尔主张无限自由",
+     "why": "自由以不伤害他人为界；他同时强调教育与个性发展的社会条件。"
+    }
+   ],
+   "sources": [
+    "sep-mill",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "work-ennreads",
+   "title": "《九章集》",
+   "title_original": "Ἐννεάδες（Enneads）",
+   "tradition": "west",
+   "date_display": "约250—270年讲说；波菲利约300年编订",
+   "structure": "六集五十四篇，由波菲利按主题编次：伦理与美学、自然哲学、宇宙论、灵魂、理智、太一。",
+   "core_arguments": [
+    "太一超越存在与思想，万物由之流溢",
+    "灵魂的使命是回归（epistrophē）本源",
+    "物质是匮乏的极点，恶是善的缺失"
+   ],
+   "key_points": [
+    {
+     "locator": "I.6",
+     "point": "论美：美是向太一的上升"
+    },
+    {
+     "locator": "V.1",
+     "point": "三个原初本体：太一、理智、灵魂"
+    },
+    {
+     "locator": "V.3.17",
+     "point": "太一不可言说，只能在“合一”中被把握"
+    },
+    {
+     "locator": "VI.9",
+     "point": "论太一与灵魂的合一"
+    }
+   ],
+   "editions": [
+    "石敏敏译《九章集》中国社会科学出版社",
+    "Armstrong 希英对照 Loeb 版"
+   ],
+   "related_people": [
+    "gr-hellenistic-plotinus",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "流溢是时间中的创世",
+     "why": "普罗提诺强调流溢是永恒的、非时间性的依存关系。"
+    },
+    {
+     "claim": "太一就是基督教的神",
+     "why": "太一无人格、无意志、不干预历史；中世纪神学借用其结构而作根本改造。"
+    }
+   ],
+   "sources": [
+    "sep-plotinus",
+    "iep-plotinus"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "work-two-treatises",
+   "title": "《政府论》两篇",
+   "title_original": "Two Treatises of Government",
+   "tradition": "west",
+   "date_display": "1690年（1689年登记）",
+   "structure": "上篇驳菲尔麦的君权神授说；下篇论政府的真正起源、范围与目的（自然状态、契约、财产、暴政与抵抗权）。",
+   "core_arguments": [
+    "自然状态与自然法：人天生自由平等，受理性之法约束",
+    "财产权来自劳动：劳动使共有之物成为私产",
+    "政府基于同意；违反信托时人民有抵抗权"
+   ],
+   "key_points": [
+    {
+     "locator": "下篇第二章",
+     "point": "自然状态与自然法"
+    },
+    {
+     "locator": "下篇第五章",
+     "point": "劳动创造财产权"
+    },
+    {
+     "locator": "下篇第八章",
+     "point": "政治社会的起源在于同意"
+    },
+    {
+     "locator": "下篇第十九章",
+     "point": "暴政与抵抗权"
+    }
+   ],
+   "editions": [
+    "中译参《政府论》商务印书馆（上下篇）",
+    "英文本以 Laslett 校订本（Cambridge）为准"
+   ],
+   "related_people": [
+    "gr-modern-locke",
+    "gr-contemp-rawls"
+   ],
+   "misreadings": [
+    {
+     "claim": "洛克主张绝对私有制",
+     "why": "财产权受自然法限制：“留有足够且同样好的东西给他人”（proviso）。"
+    },
+    {
+     "claim": "洛克的理论是民主理论",
+     "why": "他主张的是有产者的代议制与抵抗权，选举权范围有限，与现代普选民主不同。"
+    }
+   ],
+   "sources": [
+    "sep-locke",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "work-monadology",
+   "title": "《单子论》",
+   "title_original": "Monadologie",
+   "tradition": "west",
+   "date_display": "1714年",
+   "structure": "九十节的纲要；从单子的定义、知觉与欲求，到预定和谐、最好的世界与上帝。",
+   "core_arguments": [
+    "单子无窗、不可分、有知觉，按内在原则自行展开",
+    "预定和谐：单子不相互作用而由上帝预先安排协调",
+    "充足理由律：一切皆有理由；上帝选择最好的可能世界"
+   ],
+   "key_points": [
+    {
+     "locator": "§1—§3",
+     "point": "单子的定义：单纯、无部分"
+    },
+    {
+     "locator": "§7",
+     "point": "单子无窗（no windows）"
+    },
+    {
+     "locator": "§32",
+     "point": "充足理由律"
+    },
+    {
+     "locator": "§53—§55",
+     "point": "可能世界与最好的世界"
+    }
+   ],
+   "editions": [
+    "陈修斋译《莱布尼茨哲学著作选》商务印书馆",
+    "J. Bennett 改编本（Early Modern Texts）"
+   ],
+   "related_people": [
+    "gr-modern-leibniz",
+    "gr-modern-spinoza"
+   ],
+   "misreadings": [
+    {
+     "claim": "单子是有意识的小灵魂",
+     "why": "单子的知觉有层级，多数是“微知觉”（无意识）；只有理性单子（人）有统觉。"
+    },
+    {
+     "claim": "“最好的世界”是盲目乐观",
+     "why": "它是神义论论证：在逻辑可能的范围内由充足理由选出，并非否认恶的存在。"
+    }
+   ],
+   "sources": [
+    "emt-leibniz",
+    "sep-leibniz"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

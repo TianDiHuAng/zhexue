@@ -1621,6 +1621,39 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-family-resemblance",
+   "term": "家族相似",
+   "term_latin": "Familienähnlichkeit",
+   "definition": "维特根斯坦后期概念：语词所指的诸多个例之间没有贯穿一切的共同本质，只有彼此交错的相似网络（如“游戏”）。",
+   "usages": [
+    {
+     "name": "维特根斯坦",
+     "id": "gr-20c-wittgenstein",
+     "usage": "以“游戏”为例说明：棋类、球类、纸牌之间只有家族相似，无共同本质；故意义由用法决定。"
+    },
+    {
+     "name": "弗雷格（对照）",
+     "id": "gr-20c-frege",
+     "usage": "以概念（Begriff）的确定外延为前提，与“家族相似”的开放性形成对照。"
+    }
+   ],
+   "related": [
+    "gr-20c-language-game",
+    "gr-20c-sense-reference"
+   ],
+   "example": {
+    "text": "维特根斯坦问：什么是一切游戏共同的东西？答：不要想，而要看——它们之间是重叠交错的相似，如家族成员的面貌。",
+    "figure": "维特根斯坦",
+    "locator": "《哲学研究》§66—67"
+   },
+   "sources": [
+    "sep-wittgenstein",
+    "book-wittgenstein-pi"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

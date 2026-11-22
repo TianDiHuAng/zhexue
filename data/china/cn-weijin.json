@@ -1684,6 +1684,39 @@
    ],
    "needs_verification": true,
    "pending_notes": "《四本论》原文已佚，四家的具体归属主要依《世说新语》刘孝标注与后世记述，各家立场的确切表述有讨论。"
+  },
+  {
+   "id": "cn-weijin-shengren-youqing",
+   "term": "圣人有情",
+   "term_latin": "the sage has emotions",
+   "definition": "魏晋玄学的论题：圣人是否有喜怒哀乐？何晏主“圣人无情”，王弼主“圣人有情而不为情所累”，后者成为主流。",
+   "usages": [
+    {
+     "name": "王弼",
+     "id": "cn-weijin-wangbi",
+     "usage": "圣人“应物而无累于物”：有情而不被情所困，故高于无情者。"
+    },
+    {
+     "name": "何晏",
+     "id": "cn-weijin-heyan",
+     "usage": "圣人无情：圣人以理胜情，故无喜怒哀乐之动。"
+    }
+   ],
+   "related": [
+    "cn-weijin-youwu",
+    "cn-weijin-caixing"
+   ],
+   "example": {
+    "text": "王弼答荀融问：圣人“茂于人者神明也，同于人者五情也”；神明茂故能“体冲和以通无”，五情同故不能“应物而无累”。",
+    "figure": "王弼",
+    "locator": "何劭《王弼传》所记"
+   },
+   "sources": [
+    "ws-shishuoxinyu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

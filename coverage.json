@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-22",
  "totals": {
-  "entries": 345,
+  "entries": 370,
   "by_level": {
-   "L2": 295,
-   "L1": 50
+   "L2": 318,
+   "L1": 52
   },
   "doctrine": {
    "total": 111,
    "detail": 111,
    "auto": 0
   },
-  "needs_verification": 50,
+  "needs_verification": 52,
   "sources": 214,
   "sources_verified": 198
  },
@@ -21,7 +21,7 @@
    "title": "两汉经学与气论",
    "region": "china",
    "philosophers": 8,
-   "concepts": 9,
+   "concepts": 10,
    "debates": 3,
    "philosophers_slot": "8 上限，余 0"
   },
@@ -30,7 +30,7 @@
    "title": "清代与近代转型",
    "region": "china",
    "philosophers": 8,
-   "concepts": 8,
+   "concepts": 10,
    "debates": 3,
    "philosophers_slot": "8 上限，余 0"
   },
@@ -48,7 +48,7 @@
    "title": "隋唐佛学",
    "region": "china",
    "philosophers": 8,
-   "concepts": 8,
+   "concepts": 10,
    "debates": 3,
    "philosophers_slot": "8 上限，余 0"
   },
@@ -57,7 +57,7 @@
    "title": "魏晋玄学",
    "region": "china",
    "philosophers": 8,
-   "concepts": 9,
+   "concepts": 10,
    "debates": 3,
    "philosophers_slot": "8 上限，余 0"
   },
@@ -75,7 +75,7 @@
    "title": "19世纪哲学",
    "region": "west",
    "philosophers": 8,
-   "concepts": 8,
+   "concepts": 10,
    "debates": 3,
    "philosophers_slot": "8 上限，余 0"
   },
@@ -84,7 +84,7 @@
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
    "philosophers": 8,
-   "concepts": 9,
+   "concepts": 10,
    "debates": 3,
    "philosophers_slot": "8 上限，余 0"
   },
@@ -102,7 +102,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 8,
-   "concepts": 9,
+   "concepts": 10,
    "debates": 3,
    "philosophers_slot": "8 上限，余 0"
   },
@@ -120,7 +120,7 @@
    "title": "希腊化与罗马哲学",
    "region": "west",
    "philosophers": 8,
-   "concepts": 8,
+   "concepts": 10,
    "debates": 3,
    "philosophers_slot": "8 上限，余 0"
   },
@@ -129,7 +129,7 @@
    "title": "中世纪经院哲学",
    "region": "west",
    "philosophers": 8,
-   "concepts": 9,
+   "concepts": 10,
    "debates": 3,
    "philosophers_slot": "8 上限，余 0"
   },
@@ -138,7 +138,7 @@
    "title": "近代理性论与经验论",
    "region": "west",
    "philosophers": 8,
-   "concepts": 9,
+   "concepts": 10,
    "debates": 3,
    "philosophers_slot": "8 上限，余 0"
   }
@@ -328,6 +328,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "cn-lianghan-yuanqi",
+   "type": "concept",
+   "title": "元气",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-22"
   },
@@ -537,6 +548,28 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "cn-qingmod-kaoju",
+   "type": "concept",
+   "title": "考据",
+   "container": "cn-qingmod",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "cn-qingmod-tiyong-fan",
+   "type": "concept",
+   "title": "体用",
+   "container": "cn-qingmod",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": false,
    "updated": "2026-11-22"
   },
@@ -981,6 +1014,28 @@
    "updated": "2026-11-22"
   },
   {
+   "id": "cn-suitang-wuqingyouxing",
+   "type": "concept",
+   "title": "无情有性",
+   "container": "cn-suitang",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "cn-suitang-zhuanyi",
+   "type": "concept",
+   "title": "转依",
+   "container": "cn-suitang",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
    "id": "cn-suitang-dunjian",
    "type": "debate",
    "title": "顿悟与渐修",
@@ -1198,6 +1253,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "cn-weijin-shengren-youqing",
+   "type": "concept",
+   "title": "圣人有情",
+   "container": "cn-weijin",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
    "updated": "2026-11-22"
   },
   {
@@ -1641,6 +1707,28 @@
    "updated": "2026-11-22"
   },
   {
+   "id": "gr-19c-histmat",
+   "type": "concept",
+   "title": "历史唯物主义",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-19c-ubermensch",
+   "type": "concept",
+   "title": "超人",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
    "id": "gr-19c-free-will",
    "type": "debate",
    "title": "自由意志与决定论是否相容",
@@ -1853,6 +1941,17 @@
    "id": "gr-20c-existence-essence",
    "type": "concept",
    "title": "存在先于本质",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-20c-family-resemblance",
+   "type": "concept",
+   "title": "家族相似",
    "container": "gr-20c",
    "level": "L2",
    "sources": 2,
@@ -2312,6 +2411,17 @@
    "updated": "2026-11-22"
   },
   {
+   "id": "gr-contemp-recognition",
+   "type": "concept",
+   "title": "承认",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
    "id": "gr-contemp-justice-criterion",
    "type": "debate",
    "title": "分配正义应以什么为标准",
@@ -2730,6 +2840,28 @@
    "updated": "2026-11-22"
   },
   {
+   "id": "gr-hellenistic-pronoia",
+   "type": "concept",
+   "title": "天佑",
+   "container": "gr-hellenistic",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-hellenistic-spermatikos",
+   "type": "concept",
+   "title": "种子理性",
+   "container": "gr-hellenistic",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
    "id": "gr-hellenistic-knowledge",
    "type": "debate",
    "title": "知识是否可能：学园派与斯多亚派",
@@ -2942,6 +3074,17 @@
    "id": "gr-medieval-haecceitas",
    "type": "concept",
    "title": "此性",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-medieval-intellect-will",
+   "type": "concept",
+   "title": "意志与理智",
    "container": "gr-medieval",
    "level": "L2",
    "sources": 2,
@@ -3166,6 +3309,17 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-modern-secondary-quality",
+   "type": "concept",
+   "title": "第二性质",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": false,
    "updated": "2026-11-22"
   },
@@ -3434,6 +3588,105 @@
    "updated": "2026-11-22"
   },
   {
+   "id": "work-xunzi",
+   "type": "work",
+   "title": "《荀子》",
+   "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "work-politics",
+   "type": "work",
+   "title": "《政治学》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "work-discourse-method",
+   "type": "work",
+   "title": "《谈谈方法》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "work-shorter-logic",
+   "type": "work",
+   "title": "《小逻辑》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "work-consolation",
+   "type": "work",
+   "title": "《哲学的慰藉》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "work-on-liberty",
+   "type": "work",
+   "title": "《论自由》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "work-ennreads",
+   "type": "work",
+   "title": "《九章集》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "work-two-treatises",
+   "type": "work",
+   "title": "《政府论》两篇",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "work-monadology",
+   "type": "work",
+   "title": "《单子论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
    "id": "cmp-cosmology",
    "type": "comparative",
    "title": "生成还是创造：中西宇宙论的两种语法",
@@ -3464,6 +3717,28 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "cmp-ethics",
+   "type": "comparative",
+   "title": "德性、义务与关系：中西伦理学的三种提问",
+   "container": "comparative",
+   "level": "L2",
+   "sources": 5,
+   "verified_sources": 5,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "cmp-logic",
+   "type": "comparative",
+   "title": "名实与指称：中西“正名”问题的两种走向",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
    "updated": "2026-11-22"
   },
   {
