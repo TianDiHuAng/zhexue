@@ -1,0 +1,1418 @@
+{
+ "unit_id": "cn-qingmod",
+ "region": "china",
+ "title": "清代与近代转型",
+ "period": "1644—1949",
+ "start_year": 1644,
+ "end_year": 1949,
+ "summary": "明清之际，天崩地解：明亡于农民军与满洲铁骑，遗民学者追问“天下之亡”何以发生，遂把批评指向君主制度、空谈心性与科举学风。清中叶考据学大兴，戴震由字义入义理，重提理欲之辨。晚清以降，西力东渐，《天演论》与公羊学同时进入士人视野，改制、孔教、大同之议起，哲学写作的语汇与制度想象一并改变。",
+ "threads": [
+  "理与气：理是气的条理还是气外别有一理，决定“天理”能否作为独立的规范来源",
+  "天下与君：从“天下为主，君为客”到“亡天下”之辨，政治批评的尺度在转移",
+  "理与欲：把理收回人情之中，还是以理制欲，构成清代义理之学的分水岭",
+  "经世与考据：学问是明道救世还是通经明故，方法之争连着学风与政教",
+  "中西与体用：天演、公羊三世与孔教之议，近代转型中“学”与“教”的重构"
+ ],
+ "philosophers": [
+  {
+   "id": "cn-qingmod-wang-fuzhi",
+   "name": "王夫之",
+   "latin": "Wang Fuzhi (Chuanshan)",
+   "birth_year": 1619,
+   "death_year": 1692,
+   "birth_display": "1619年",
+   "death_display": "1692年",
+   "birth_note": "据《船山全书》所附年谱及《清史稿·儒林传》，生明万历四十七年（1619）。",
+   "death_note": "卒于清康熙三十一年（1692），年谱系于正月，通行作1692年。",
+   "era": "明清之际。王夫之亲历明亡与南明抗清，晚年隐居湘西石船山，闭户著书四十余年，不仕清廷。其学以张载为宗，兼治《易》《春秋》，所面对的问题是：一套已经失效的理学话语，如何重新落到“事”与“势”上。",
+   "school": "气学（明清之际儒家，宗张载）",
+   "core_questions": [
+    "理若不在气外，天理凭什么仍有约束力？",
+    "知与行孰先孰后，二者如何相资为用？",
+    "道在器先还是在器之中，历史之变有无常道？"
+   ],
+   "arguments": [
+    {
+     "claim": "理在气中，气外无理",
+     "premises": [
+      "太虚即气，气之聚散而成万物，气之外别无实物。",
+      "气的动静聚散自有其条理，此条理即是理，不是另有一物主宰乎气。"
+     ],
+     "inference": "若理是气外独立之物，则理与气为二，理便不能说明气之何以如此；只有把理理解为气自身的条理，才能解释同一气化之中为何有常有变、有则有乱。",
+     "conclusion": "理是气的条理，离气无理，天理不外于事物。",
+     "kind": "原文"
+    },
+    {
+     "claim": "知行相资以为用，行可兼知而知不可兼行",
+     "premises": [
+      "《尚书》有“知之非艰，行之惟艰”之说，王夫之《尚书引义》辨其失，谓先儒分知行为两截。",
+      "知必待行而验，行不待知而始有，故行可统摄知，而知不能统摄行。"
+     ],
+     "inference": "若以知为先、行为后，则未行之前人已可自命有知，学问便流为口耳之谈；反之，行中必含知，行之力处正是知之实。",
+     "conclusion": "知行互为用，而行为知之所依。",
+     "kind": "原文"
+    },
+    {
+     "claim": "无其器则无其道",
+     "premises": [
+      "道之名由器而立，离器则无所谓道。",
+      "古今之器不同，故其道亦不得不异，未有器已变而道可固守者。"
+     ],
+     "inference": "若道可以离器独存，则三代以后之天下仍可尽用三代之制；而历史上制度随器而变的事实，恰说明道随器显而非器随道立。",
+     "conclusion": "道在器中，器变则道亦变，故不可执古以绳今。",
+     "kind": "原文"
+    },
+    {
+     "claim": "理势相成：历史之变有理可循而非无定",
+     "premises": [
+      "历史之势由众人之私相激而成，非一人之力所能造。",
+      "势之相激处自有其不得不然，此不得不然即是理。"
+     ],
+     "inference": "史家若只记成败而无见于势中之理，则褒贬失据；若只言理而不察势，则理成空言。故须即势以见理，即理以论势。",
+     "conclusion": "读史当于势中求理，理势相成而后有公论。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《读通鉴论》",
+     "edition": "王孝鱼点校，中华书局，1975；另见《船山全书》第十册，岳麓书社",
+     "note": "史论，借历代治乱申理势之说，非编年史"
+    },
+    {
+     "title": "《张子正蒙注》",
+     "edition": "《船山全书》第十二册，岳麓书社，1992；中华书局另有章锡琛校点本",
+     "note": "以注张载《正蒙》建立气本论"
+    },
+    {
+     "title": "《周易外传》《尚书引义》",
+     "edition": "《船山全书》第一、二册，岳麓书社，1988—1996",
+     "note": "道器论与知行论的主要出处"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "张载",
+     "id": null,
+     "note": "《正蒙》之气论为船山所本，其注自称“希张横渠之正学”"
+    },
+    {
+     "name": "《周易》经传",
+     "id": null,
+     "note": "以易之变易言气化，道器之辨由此出"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "谭嗣同",
+     "id": "cn-qingmod-tan-sitong",
+     "note": "《仁学》言器变则道不得独不变，用语近船山"
+    },
+    {
+     "name": "曾国藩、邓显鹤（刊刻《船山遗书》）",
+     "id": null,
+     "note": "道光间船山遗书始得刊行，晚清士人由是读其书"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "宗程朱一系的清儒（如唐鉴、罗泽南）",
+     "view": "以气为理，则理失其超越性，等于把“所以然”混同于“所当然”，近于告子“生之谓性”一路，道德法则便无由上出。",
+     "response": "船山的回应路数：理非别有一物，只是气之条理；正因理在气中，才可说明气化何以有常有则、人何以能知天之理而不假外求。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-qing-philosophy",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "王夫之是“唯物主义者”，其“气”即近代意义上的物质",
+     "why": "气在其体系中兼指实在、生机与条理，不是惰性的物质实体；用唯物与唯心的两分套读，会把他对理之规范性的处理读漏，也无法解释他仍以“天理”论人伦。"
+    }
+   ],
+   "quotes": [],
+   "sources": [
+    "sep-qing-philosophy",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>王夫之：理气、知行与道器（示意）</text><defs><marker id='ar' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='64' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='88' text-anchor='middle' font-size='13' fill='#1e2d3d'>太虚即气</text><text x='145' y='108' text-anchor='middle' font-size='11' fill='#1e2d3d'>气有聚散而无生灭</text><line x1='145' y1='120' x2='145' y2='148' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='40' y='150' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='174' text-anchor='middle' font-size='13' fill='#1e2d3d'>气之条理即理</text><text x='145' y='194' text-anchor='middle' font-size='11' fill='#1e2d3d'>理在气中，离气无理</text><line x1='145' y1='206' x2='145' y2='234' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='40' y='236' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='260' text-anchor='middle' font-size='13' fill='#1e2d3d'>无其器则无其道</text><text x='145' y='280' text-anchor='middle' font-size='11' fill='#1e2d3d'>道随器变，不可执古</text><rect x='510' y='64' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='615' y='88' text-anchor='middle' font-size='13' fill='#1e2d3d'>行：知之实</text><text x='615' y='108' text-anchor='middle' font-size='11' fill='#1e2d3d'>行可兼知</text><line x1='615' y1='120' x2='615' y2='148' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='510' y='150' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='615' y='174' text-anchor='middle' font-size='13' fill='#1e2d3d'>知：行之导</text><text x='615' y='194' text-anchor='middle' font-size='11' fill='#1e2d3d'>知不可兼行</text><line x1='615' y1='206' x2='615' y2='234' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='510' y='236' width='210' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='615' y='260' text-anchor='middle' font-size='13' fill='#1e2d3d'>知行相资以为用</text><text x='615' y='280' text-anchor='middle' font-size='11' fill='#1e2d3d'>行统知而知识行</text><rect x='270' y='306' width='220' height='52' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='330' text-anchor='middle' font-size='13' fill='#1e2d3d'>即势以求理</text><text x='380' y='350' text-anchor='middle' font-size='11' fill='#1e2d3d'>理势相成，史有公论</text><line x1='250' y1='264' x2='312' y2='304' stroke='#4a7ba6' marker-end='url(#ar)'/><line x1='510' y1='264' x2='448' y2='304' stroke='#4a7ba6' marker-end='url(#ar)'/><text x='380' y='386' text-anchor='middle' font-size='11' fill='#1e2d3d'>左：本体论一路；右：工夫论一路；二者同归于“理在事中”</text></svg>",
+   "svg_caption": "王夫之的核心问题与论证走向（示意）"
+  },
+  {
+   "id": "cn-qingmod-huang-zongxi",
+   "name": "黄宗羲",
+   "latin": "Huang Zongxi (Li Zhou)",
+   "birth_year": 1610,
+   "death_year": 1695,
+   "birth_display": "1610年",
+   "death_display": "1695年",
+   "birth_note": "据《黄宗羲全集》所附年谱及全祖望《梨洲先生神道碑文》，生明万历三十八年（1610）。",
+   "death_note": "卒于清康熙三十四年（1695），年谱系于七月，通行作1695年。",
+   "era": "明清之际。父黄尊素死于阉党之狱，宗羲亲历党祸与明亡，曾起兵浙东抗清，败后讲学著述。其学出刘宗周之门，而把“慎独”一路的内向工夫转为对制度与学术史的清理，故其书多论君职、学校、田制与学派源流。",
+   "school": "儒家（浙东学派，师承刘宗周）",
+   "core_questions": [
+    "君主与天下万民之间是什么关系，制度凭什么正当？",
+    "学校能否成为议政与养士的公共空间？",
+    "学术史当如何写，才能既不埋没各家宗旨又不流为门户？"
+   ],
+   "arguments": [
+    {
+     "claim": "天下为主，君为客",
+     "premises": [
+      "后世人君以天下为产业，视天下之利尽归于己、天下之害尽归于人。",
+      "古之人君以天下为主、己为客，其勤劳乃在“不以一己之利为利，而使天下受其利”。"
+     ],
+     "inference": "若君把天下当作私产，则其兴亡只是“一姓之兴亡”，与万民之忧乐无关；只有把天下置于君之上，治乱的标准才有落处，君职的正当性也才可以被追问。",
+     "conclusion": "天下为主，君为客；治乱在万民之忧乐，不在一姓之兴亡。",
+     "kind": "原文"
+    },
+    {
+     "claim": "有治法而后有治人",
+     "premises": [
+      "“非法之法”即一家之法，虽存不足以禁奸，反足以束缚贤者。",
+      "法之善者为天下而设，非为一姓而设。"
+     ],
+     "inference": "若只求贤人而不改法度，则贤者受制于坏法而无所施为；反之，法度既为天下而设，人始有可为之余地。故法度先于人的施行条件。",
+     "conclusion": "当先立天下之法，而后治人有所凭借。",
+     "kind": "原文"
+    },
+    {
+     "claim": "工商皆本，本末不当以行业定",
+     "premises": [
+      "世儒以工商为末，而赋税、转输、器用皆待工商而成。",
+      "抑工商则民无所就业，国家亦失其用。"
+     ],
+     "inference": "若以农为本而尽抑工商，则衣食之源与器用之路俱塞，所谓“本”亦不能独存，故本末之分不当以行业定。",
+     "conclusion": "工商与农并为本业，不当以本末相抑。",
+     "kind": "原文"
+    },
+    {
+     "claim": "学案体：学术史以分源别派、辨其宗旨为方法",
+     "premises": [
+      "各家之学有其实得处，亦有其实失处，非可一概褒贬。",
+      "故纂辑其语录、著述，各标宗旨，使读者自见其异同。"
+     ],
+     "inference": "若以己意裁断前人，则学术史沦为门户之书；若只录言行而不辨宗旨，则流为传记。二者都不能使后人识其“所以为学”，故须以宗旨为纲、以源流为序。",
+     "conclusion": "学术史的任务是分源别派、辨其宗旨，使各家自显而非由史家代断。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《明夷待访录》",
+     "edition": "《黄宗羲全集》第一册，浙江古籍出版社，1985；中华书局另有重印点校本",
+     "note": "成书于康熙初，含《原君》《原臣》《原法》《学校》等篇"
+    },
+    {
+     "title": "《明儒学案》",
+     "edition": "沈芝盈点校，中华书局，1985（上下册）",
+     "note": "以学案体分述明代各派，为中文世界首部断代学术史"
+    },
+    {
+     "title": "《宋元学案》",
+     "edition": "全祖望续修，陈金生、梁运华点校，中华书局，1986",
+     "note": "黄氏草创，全祖望续成，非一人之书"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "刘宗周",
+     "id": null,
+     "note": "师事蕺山，承慎独诚意之学"
+    },
+    {
+     "name": "明代东林、复社的议政传统",
+     "id": null,
+     "note": "党祸经验使其重视学校与公论"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "康有为",
+     "id": "cn-qingmod-kang-youwei",
+     "note": "清末维新者重刊《明夷待访录》以言民权，梁启超记其事"
+    },
+    {
+     "name": "谭嗣同",
+     "id": "cn-qingmod-tan-sitong",
+     "note": "《仁学》斥君主为“独夫”，语脉近《原君》"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "现代研究者（关于“民本”与“民主”之别的讨论）",
+     "view": "《原君》所争者为君职的正当性，其制度构想仍限于学校、方镇、田制，未及权力分立与代议机关，故不宜径称为民主思想。",
+     "response": "黄氏自陈其书“为天下，非为君”，价值主体是万民之忧乐；制度条目未备，不等于问题未提出，其追问已把君主置于可被问责的位置。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-qing-philosophy",
+      "iep-chinese-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "黄宗羲提出了君主立宪或民主制度",
+     "why": "他以“天下”“万民”为价值主体，批评君之私天下，但制度设想仍在三代之制与明制之间（学校、方镇、田制），没有代议机关与权力分立的构造；以近代民主制回读，会把他对君职的追问误认作制度设计。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "天下为主，君为客",
+     "source_id": "ws-mingyi",
+     "locator": "《明夷待访录·原君》",
+     "kind": "原文"
+    },
+    {
+     "text": "天下之治乱，不在一姓之兴亡，而在万民之忧乐",
+     "source_id": "ws-mingyi",
+     "locator": "《明夷待访录·原臣》",
+     "kind": "原文"
+    }
+   ],
+   "sources": [
+    "ws-mingyi",
+    "sep-qing-philosophy",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>黄宗羲：从君职到制度（示意）</text><defs><marker id='ar' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='74' width='200' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='130' y='98' text-anchor='middle' font-size='13' fill='#1e2d3d'>天下：万民之忧乐</text><text x='130' y='118' text-anchor='middle' font-size='11' fill='#1e2d3d'>非一姓之兴亡</text><line x1='230' y1='103' x2='276' y2='103' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='280' y='74' width='200' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='98' text-anchor='middle' font-size='13' fill='#1e2d3d'>君：受天下所托</text><text x='380' y='118' text-anchor='middle' font-size='11' fill='#1e2d3d'>以天下为产业则失职</text><line x1='480' y1='103' x2='526' y2='103' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='530' y='74' width='200' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='630' y='98' text-anchor='middle' font-size='13' fill='#1e2d3d'>天下为主，君为客</text><text x='630' y='118' text-anchor='middle' font-size='11' fill='#1e2d3d'>治乱在万民之忧乐</text><rect x='30' y='200' width='200' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='130' y='224' text-anchor='middle' font-size='13' fill='#1e2d3d'>一家之法</text><text x='130' y='244' text-anchor='middle' font-size='11' fill='#1e2d3d'>非法之法不足禁奸</text><line x1='230' y1='229' x2='276' y2='229' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='280' y='200' width='200' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='224' text-anchor='middle' font-size='13' fill='#1e2d3d'>有治法而后有治人</text><text x='380' y='244' text-anchor='middle' font-size='11' fill='#1e2d3d'>法为天下而设</text><line x1='480' y1='229' x2='526' y2='229' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='530' y='200' width='200' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='630' y='224' text-anchor='middle' font-size='13' fill='#1e2d3d'>学校议政</text><text x='630' y='244' text-anchor='middle' font-size='11' fill='#1e2d3d'>养士与公论之所</text><text x='380' y='330' text-anchor='middle' font-size='11' fill='#1e2d3d'>两层相扣：法度与公论皆以“天下”为价值主体</text><text x='380' y='356' text-anchor='middle' font-size='11' fill='#1e2d3d'>故君可被问责，而治乱之准不在王朝兴亡</text></svg>",
+   "svg_caption": "黄宗羲由君职追问而及于法度与学校（示意）"
+  },
+  {
+   "id": "cn-qingmod-gu-yanwu",
+   "name": "顾炎武",
+   "latin": "Gu Yanwu (Tinglin)",
+   "birth_year": 1613,
+   "death_year": 1682,
+   "birth_display": "1613年",
+   "death_display": "1682年",
+   "birth_note": "据张穆《顾亭林先生年谱》及《清史稿·儒林传》，生明万历四十一年（1613）。",
+   "death_note": "卒于清康熙二十一年（1682）正月，张穆年谱系于初九，通行作1682年。",
+   "era": "明清之际。昆山人，明亡后曾与归庄等结社抗清，后北游二十五年，往来鲁、燕、秦、晋之间，随地考察、访求金石碑版。他不认清廷之合法，却以“天下”而非“一姓”为念，故其学重在制度、地理、音韵与文献的实证。",
+   "school": "儒家（清初实学一路，后世视为朴学先导）",
+   "core_questions": [
+    "“亡国”与“亡天下”如何区分，士人当为谁负责？",
+    "学问怎样才算有用，通经与救世是什么关系？",
+    "考据能否成为义理的基础而非其替代？"
+   ],
+   "arguments": [
+    {
+     "claim": "亡国与亡天下不同",
+     "premises": [
+      "易姓改号谓之亡国；仁义充塞而至于率兽食人、人将相食，谓之亡天下。",
+      "保国者，其君其臣肉食者谋之；保天下者，匹夫之贱与有责焉。"
+     ],
+     "inference": "若把王朝更替当作天下之亡，则责任尽在君臣，匹夫可以自外；而天下之亡在于人伦与生民之相残，凡有血气者皆在其中，故责任无从推卸。",
+     "conclusion": "亡国是一姓之事，亡天下是人人之事；士庶皆有保天下之责。",
+     "kind": "原文"
+    },
+    {
+     "claim": "经世致用：学以明道救世",
+     "premises": [
+      "《日知录》自述“君子之为学，以明道也，以救世也”。",
+      "明末学风以明心见性之空言代替修己治人之实学，其弊至于“股肱惰而万事荒”。"
+     ],
+     "inference": "若学问只在心性上自证，则无与于天下之利害；而经史、制度、地理、音韵的考求，正是使“明道”落实为可施之政教的手段，故学问不可不与事相接。",
+     "conclusion": "为学之的在于明道救世，考据是通经致用的门径。",
+     "kind": "原文"
+    },
+    {
+     "claim": "考据当“采铜于山”",
+     "premises": [
+      "后人纂辑类书、汇纂成说，如买旧钱充铸，其质已薄。",
+      "顾氏自述《日知录》积三十余年，以“采铜于山”自喻其法。"
+     ],
+     "inference": "若以二手成说为据，则讹误相沿而无由校正；只有回到原始文献与实物（金石、碑版、方志），以本证、旁证互勘，才能立可信之断。",
+     "conclusion": "考据须以原始材料为本，方法服务于求真而非炫博。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "寓封建之意于郡县之中",
+     "premises": [
+      "郡县之失在于“束之于法令”，封建之失在于“专于一方”。",
+      "若于郡县之中假守令以久任、辟召、自辟属吏之权，则可收封建之利而去其害。"
+     ],
+     "inference": "制度之弊不在名目而在权之过与不及；以久任与自辟属吏补郡县之短，可使守令与地方休戚相关，而不至复封建割据之祸。",
+     "conclusion": "当以封建之意救郡县之弊，而非复古封建。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《日知录》",
+     "edition": "黄汝成《日知录集释》，栾保群、吕宗力校点，上海古籍出版社，2006",
+     "note": "三十二卷，读书札记体，经义、治道、史事、地理、艺文皆在其中"
+    },
+    {
+     "title": "《天下郡国利病书》",
+     "edition": "上海古籍出版社影印本，2012（据四部丛刊三编本）",
+     "note": "辑录方志、奏议中关于地方利病之材料，未及定稿"
+    },
+    {
+     "title": "《亭林诗文集》",
+     "edition": "华忱之点校，中华书局，1959",
+     "note": "《与友人论学书》《与人书》等文在此"
+    },
+    {
+     "title": "《音学五书》",
+     "edition": "中华书局，1982（影印观稼楼本）",
+     "note": "古音研究，为清代音韵学奠基之作"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "《周易》《诗经》经传",
+     "id": null,
+     "note": "以经证经，本证之法由此立"
+    },
+    {
+     "name": "宋代金石文献之学（欧阳修《集古录》、郑樵《通志》）",
+     "id": null,
+     "note": "顾氏广求碑版，承其方法而加严密"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "戴震",
+     "id": "cn-qingmod-dai-zhen",
+     "note": "皖派考据由音韵、字义入义理，方法上承亭林"
+    },
+    {
+     "name": "乾嘉考据学（惠栋、钱大昕一系）",
+     "id": null,
+     "note": "以经史考证为专业，方法承之而问题意识渐窄"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "晚清今文家（康有为《新学伪经考》一系）",
+     "view": "以小学治经、以考据明故，终究“破碎大道”：辨伪考异愈密，而经世之志愈疏；且所据之古文经本身即有问题。",
+     "response": "亭林的路数是读经必先通其文义，通经正为致用；他自述以“明道”“救世”为学的，考据只是门径，非以考据为归宿。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-qing-philosophy",
+      "iep-chinese-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "顾炎武是纯粹的考据学家，乾嘉朴学的开山",
+     "why": "他本人以“明道救世”为纲，考证是通经的手段；《日知录》中大量条目（如卷十三论风俗与正始）是政教批评而非名物考订。把《日知录》只读作札记汇编，会漏掉其问题意识，也会误判他与乾嘉学者的距离。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "有亡国，有亡天下。亡国与亡天下奚辨？",
+     "source_id": "ct-rizhilu",
+     "locator": "《日知录》卷十三·正始",
+     "kind": "原文"
+    },
+    {
+     "text": "保天下者，匹夫之贱与有责焉耳矣",
+     "source_id": "ct-rizhilu",
+     "locator": "《日知录》卷十三·正始",
+     "kind": "原文"
+    }
+   ],
+   "sources": [
+    "ct-rizhilu",
+    "sep-qing-philosophy",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>顾炎武：亡国与亡天下（示意）</text><defs><marker id='ar' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='50' y='84' width='210' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='108' text-anchor='middle' font-size='13' fill='#1e2d3d'>亡国：易姓改号</text><text x='155' y='128' text-anchor='middle' font-size='11' fill='#1e2d3d'>君臣肉食者谋之</text><rect x='500' y='84' width='215' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='607' y='108' text-anchor='middle' font-size='13' fill='#1e2d3d'>亡天下：仁义充塞</text><text x='607' y='128' text-anchor='middle' font-size='11' fill='#1e2d3d'>人将相食</text><line x1='260' y1='114' x2='302' y2='192' stroke='#4a7ba6' marker-end='url(#ar)'/><line x1='500' y1='114' x2='458' y2='192' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='270' y='196' width='220' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='220' text-anchor='middle' font-size='13' fill='#1e2d3d'>匹夫之贱与有责</text><text x='380' y='240' text-anchor='middle' font-size='11' fill='#1e2d3d'>保天下者，人人之事</text><line x1='380' y1='256' x2='380' y2='286' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='250' y='288' width='260' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='312' text-anchor='middle' font-size='13' fill='#1e2d3d'>经世致用：明道救世</text><text x='380' y='332' text-anchor='middle' font-size='11' fill='#1e2d3d'>考据为通经之门</text><text x='380' y='372' text-anchor='middle' font-size='11' fill='#1e2d3d'>分判的效用：把责任从一姓移向人伦与生民</text></svg>",
+   "svg_caption": "顾炎武“亡国/亡天下”分判的推演（示意）"
+  },
+  {
+   "id": "cn-qingmod-dai-zhen",
+   "name": "戴震",
+   "latin": "Dai Zhen (Dongyuan)",
+   "birth_year": 1724,
+   "death_year": 1777,
+   "birth_display": "1724年",
+   "death_display": "1777年",
+   "birth_note": "据段玉裁《戴东原先生年谱》，生雍正元年十二月，公历入1724年，通行作1724年。",
+   "death_note": "据段玉裁年谱，卒于乾隆四十二年（1777）五月，通行作1777年。",
+   "era": "清中叶。戴震出身徽州商人家庭，少从婺源江永治礼学、音韵、历算，中年困于科场与生计，晚年入四库馆任纂修。其时考据学极盛而义理之学衰，他要做的是以字义训诂为入路重建“理”的义涵，故其书题为《孟子字义疏证》。",
+   "school": "儒家（皖派考据学，义理上自成一系）",
+   "core_questions": [
+    "“理”在字义上究竟指什么，程朱的用法是否偏离了六经孔孟？",
+    "血气心知之性是否足以成为道德的基础？",
+    "以理责人何以会变成以势压人？"
+   ],
+   "arguments": [
+    {
+     "claim": "理存于欲，离情欲则无理",
+     "premises": [
+      "人生而有血气心知，有声色臭味之欲、喜怒哀乐之情，此即性之实体。",
+      "理非别有一物，只是情之“无过无不及”、欲之“不爽失”。"
+     ],
+     "inference": "若理在情欲之外，则理成为与人性无关的外加之物，人只能被迫服从；只有把理理解为情欲的恰当条理，理才既可欲又可学，道德批评也才有可共认的尺度。",
+     "conclusion": "理存于欲，离情欲无理；理是欲之节而非欲之敌。",
+     "kind": "原文"
+    },
+    {
+     "claim": "血气心知：知由审察而进于必然",
+     "premises": [
+      "血气心知是性之实体，心知之“精爽”可以进于“神明”。",
+      "“由血气之自然，而审察之以知其必然，是之谓理义。”"
+     ],
+     "inference": "若理义出于天而与心知无关，则学无所用；而心知能由自然而审察其必然，正说明理义是心知在其自然上用力所得的结果，故可学而能。",
+     "conclusion": "理义由血气心知的审察而来，非天降而不可学。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以意见为理，则理成杀人之具",
+     "premises": [
+      "在上者以“理”自处，把一己之意见当作理，责卑者、幼者、贱者以从己。",
+      "“人死于法，犹有怜之者；死于理，其谁怜之。”"
+     ],
+     "inference": "若理被等同于在上者的意见，则批评无从发生，因为凡不合者皆被判为“无理”；此时理不再是可公共检验的尺度，而是权力的别名。",
+     "conclusion": "以意见为理，理便成杀人之具，故须先正“理”之字义。",
+     "kind": "原文"
+    },
+    {
+     "claim": "理是分理、条理，非超乎事物的实体",
+     "premises": [
+      "理字本义为肌理、条理，即事物可区分的条贯。",
+      "“理者，察之而几微必区以别之名也。”"
+     ],
+     "inference": "若理为事物之分际，则求理即在察事物之别；这与“理在气先”“理在事外”的用法正好相反，也解释了宋儒言理何以易落入“如有物焉得于天”的设想。",
+     "conclusion": "理是分理、条理，故不可离事物而求理。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《孟子字义疏证》",
+     "edition": "何文光整理，中华书局，1982；另见《戴震全书》第六册，黄山书社，1995",
+     "note": "三卷，以疏证《孟子》字义的方式重构理、天道、性、才、仁义礼智等范畴"
+    },
+    {
+     "title": "《原善》",
+     "edition": "《戴震全书》第六册，黄山书社，1995；中华书局《孟子字义疏证》本附收",
+     "note": "三卷，与《疏证》互为表里"
+    },
+    {
+     "title": "《戴震文集》",
+     "edition": "赵玉新点校，中华书局，1980；另据《四部丛刊》影印经韵楼本",
+     "note": "收《与某书》《答彭进士允初书》等论理之作"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "江永",
+     "id": null,
+     "note": "皖派礼学、音韵、历算之师承"
+    },
+    {
+     "name": "《孟子》与《礼记》礼学",
+     "id": null,
+     "note": "以礼言理，重视节文与度量分界"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "凌廷堪、焦循",
+     "id": null,
+     "note": "以礼代理、以算言性，皆承其字义入路"
+    },
+    {
+     "name": "章太炎",
+     "id": null,
+     "note": "《释戴》一文承其反理学之旨（本单元外）"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "方东树（《汉学商兑》）",
+     "view": "以“理存乎欲”为认欲为理，将使善恶无别；且诟斥程朱而自居于正人心之地，实为畔道。",
+     "response": "戴震的答辩思路：理是“情之不爽失”，以无私为断，故不纵欲；所反对者是“以意见为理”的权势化用法，而非节欲本身。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-mengzi-ziyi",
+      "sep-qing-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "戴震主张纵欲，是感觉主义或功利主义者",
+     "why": "他以“无过情无不及情”为理，欲须得其节、情须得其平；《疏证》反复讲“以我之情絜人之情”，落点在公共的可通性。把他读成欲望的辩护人，正与他所批评的“任其情”同调。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "人死于法，犹有怜之者；死于理，其谁怜之",
+     "source_id": "ws-mengzi-ziyi",
+     "locator": "《孟子字义疏证》卷上·理",
+     "kind": "原文"
+    },
+    {
+     "text": "理也者，情之不爽失也",
+     "source_id": "ws-mengzi-ziyi",
+     "locator": "《孟子字义疏证》卷上·理",
+     "kind": "原文"
+    }
+   ],
+   "sources": [
+    "ws-mengzi-ziyi",
+    "sep-qing-philosophy",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>戴震：从血气心知到以理杀人（示意）</text><defs><marker id='ar' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='270' y='58' width='220' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='82' text-anchor='middle' font-size='13' fill='#1e2d3d'>血气心知：性之实体</text><text x='380' y='102' text-anchor='middle' font-size='11' fill='#1e2d3d'>有声色臭味之欲</text><line x1='380' y1='112' x2='380' y2='138' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='270' y='140' width='220' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='164' text-anchor='middle' font-size='13' fill='#1e2d3d'>情欲得其节</text><text x='380' y='184' text-anchor='middle' font-size='11' fill='#1e2d3d'>无过无不及</text><line x1='380' y1='194' x2='380' y2='220' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='270' y='222' width='220' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='246' text-anchor='middle' font-size='13' fill='#1e2d3d'>理：情之不爽失</text><text x='380' y='266' text-anchor='middle' font-size='11' fill='#1e2d3d'>理存于欲</text><line x1='380' y1='276' x2='380' y2='302' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='270' y='304' width='220' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='328' text-anchor='middle' font-size='13' fill='#1e2d3d'>以意见为理</text><text x='380' y='348' text-anchor='middle' font-size='11' fill='#1e2d3d'>则理成杀人之具</text><rect x='30' y='140' width='200' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='130' y='164' text-anchor='middle' font-size='13' fill='#1e2d3d'>字义：理即分理</text><text x='130' y='184' text-anchor='middle' font-size='11' fill='#1e2d3d'>察几微必区以别</text><line x1='230' y1='167' x2='266' y2='167' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='530' y='140' width='200' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='630' y='164' text-anchor='middle' font-size='13' fill='#1e2d3d'>反诘：死于理者</text><text x='630' y='184' text-anchor='middle' font-size='11' fill='#1e2d3d'>其谁怜之</text><line x1='530' y1='167' x2='494' y2='167' stroke='#4a7ba6' marker-end='url(#ar)'/><text x='380' y='384' text-anchor='middle' font-size='11' fill='#1e2d3d'>训诂入路：先正字义，再论理之为物</text></svg>",
+   "svg_caption": "戴震理欲论的推演路径（示意）"
+  },
+  {
+   "id": "cn-qingmod-kang-youwei",
+   "name": "康有为",
+   "latin": "Kang Youwei (Changsu)",
+   "birth_year": 1858,
+   "death_year": 1927,
+   "birth_display": "1858年",
+   "death_display": "1927年",
+   "birth_note": "据《康南海自编年谱》，生咸丰八年（1858）二月，公历1858年3月19日；取通行说法。",
+   "death_note": "据通行年谱，卒于1927年3月31日（丁卯二月廿八）于青岛；取通行说法。",
+   "era": "晚清至民国初年。康有为亲历中法、甲午两役，1895年发动公车上书，1898年主持戊戌变法，失败后流亡十六年，遍游欧美，1913年归国后倡孔教、参与复辟。其学以今文经学为骨、以“孔子改制”为方法，要把经学转为变法与立教的根据。",
+   "school": "今文经学（公羊学一系，晚清维新派）",
+   "core_questions": [
+    "孔子是史家还是改制立教的“素王”？",
+    "历史是否按三世次第可推，变法能否躐等？",
+    "列国竞争之世，中国凭什么立“教”以自存？"
+   ],
+   "arguments": [
+    {
+     "claim": "公羊三世：据乱—升平—太平",
+     "premises": [
+      "公羊家以《春秋》“所见异辞、所闻异辞、所传闻异辞”分三世。",
+      "孔子借鲁史寄其义，三世即治法之次第：由据乱而升平，由升平而太平。"
+     ],
+     "inference": "若三世只是史家书法之别，则《春秋》之义无从施于当世；只有把三世读作治法递进的阶序，才能说明制度何以须变、变至何处为止。",
+     "conclusion": "历史有三世之序，变法即由据乱进于升平、以太平为归。",
+     "kind": "原文"
+    },
+    {
+     "claim": "托古改制：六经为孔子所作",
+     "premises": [
+      "六经为孔子所作，非孔子删述旧文。",
+      "孔子托尧舜之事以立新制，所谓托古者，借古以行其改革。"
+     ],
+     "inference": "若六经只是史料，则孔子为史家、儒学只是记述；若六经为孔子自立法度之作，则经学即是改制之学，变法便有其经典依据。",
+     "conclusion": "六经为孔子托古改制之书，故变法即行孔子之道。",
+     "kind": "原文"
+    },
+    {
+     "claim": "立孔教以维系群之魂",
+     "premises": [
+      "列国相竞，其强在“群”，群之合在“教”与“魂”。",
+      "中国之教以孔子为宗，然历代仅以之为学，未以之为教。"
+     ],
+     "inference": "若民无共奉之教，则群散而无所统属，虽有政令不能固结人心；故须以孔教为国教，使教化有制度之依托。",
+     "conclusion": "当立孔教为国教，以教统群、以群立国。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "大同：去九界而至太平",
+     "premises": [
+      "人世之苦生于“界”：国界、级界、种界、形界、家界、业界、乱界、类界、苦界。",
+      "去其界则人得其所，是为太平世。"
+     ],
+     "inference": "若苦由界限而立，则救苦不在个别施惠，而在逐层破除界限；界限既破，竞争与压迫的结构便无从附着。",
+     "conclusion": "大同之世以去界为方法，非以仁政补苴一时。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《大同书》",
+     "edition": "《康有为全集》第七集，中国人民大学出版社，2007；另有中华书局1956年单行本",
+     "note": "成书历数十年，生前仅部分刊布（1913年《不忍》杂志）"
+    },
+    {
+     "title": "《新学伪经考》",
+     "edition": "中华书局，1956（标点本）；《康有为全集》第一集",
+     "note": "辨古文经为刘歆伪造，为托古改制说清除经学障碍"
+    },
+    {
+     "title": "《孔子改制考》",
+     "edition": "中华书局，1958（标点本）；《康有为全集》第三集",
+     "note": "以孔子为改制立教之素王"
+    },
+    {
+     "title": "《康有为全集》",
+     "edition": "姜义华、张荣华编校，中国人民大学出版社，2007（十三册）",
+     "note": "含《春秋董氏学》《论语注》与讲学记录"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "廖平",
+     "id": null,
+     "note": "今文经学“素王改制”之说，康氏承而推衍，为学界通说"
+    },
+    {
+     "name": "何休《春秋公羊解诂》",
+     "id": null,
+     "note": "三世、张三世之义所本"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "梁启超",
+     "id": null,
+     "note": "万木草堂弟子，三世说与孔教论由康出而有所修正"
+    },
+    {
+     "name": "谭嗣同",
+     "id": "cn-qingmod-tan-sitong",
+     "note": "自称私淑，取三世与大同之说"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "章太炎一系（古文经学与国粹派）",
+     "view": "六经为古史，孔子是古良史而非教主；以托古改制裁量经义，是先有变法之见而后造经说；以宗教立教，适足以束缚学术之自由。",
+     "response": "康有为的回应路数：经之所以为经在其义与制，非在其记事；立教非以神道设教，而是取孔子教化为公共精神之凝聚，与诸学并行不废。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-qing-philosophy",
+      "iep-chinese-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《大同书》是康有为预备施行的政治纲领，等同于空想社会主义方案",
+     "why": "他长期未敢以示人，生前只刊布部分；书中以去九界作原理推演，且明言须待太平世，与百日维新所行的升平世制度（君主立宪、孔教）分属不同阶段。当作即时纲领，会看不出他“三世不可躐等”的自我限制。"
+    }
+   ],
+   "quotes": [],
+   "sources": [
+    "sep-qing-philosophy",
+    "iep-chinese-philosophy",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>康有为：三世、托古与大同（示意）</text><defs><marker id='ar' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='84' width='200' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='130' y='108' text-anchor='middle' font-size='13' fill='#1e2d3d'>据乱世：小康</text><text x='130' y='128' text-anchor='middle' font-size='11' fill='#1e2d3d'>竞争未息，界未破</text><line x1='230' y1='113' x2='276' y2='113' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='280' y='84' width='200' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='108' text-anchor='middle' font-size='13' fill='#1e2d3d'>升平世：君主立宪</text><text x='380' y='128' text-anchor='middle' font-size='11' fill='#1e2d3d'>去其太甚之界</text><line x1='480' y1='113' x2='526' y2='113' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='530' y='84' width='200' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='630' y='108' text-anchor='middle' font-size='13' fill='#1e2d3d'>太平世：大同</text><text x='630' y='128' text-anchor='middle' font-size='11' fill='#1e2d3d'>去九界，天下为公</text><rect x='40' y='250' width='210' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='274' text-anchor='middle' font-size='13' fill='#1e2d3d'>托古改制</text><text x='145' y='294' text-anchor='middle' font-size='11' fill='#1e2d3d'>六经为孔子所作</text><line x1='145' y1='250' x2='128' y2='146' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='510' y='250' width='215' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='617' y='274' text-anchor='middle' font-size='13' fill='#1e2d3d'>大同：公养公教公恤</text><text x='617' y='294' text-anchor='middle' font-size='11' fill='#1e2d3d'>国界、家界皆去</text><line x1='617' y1='250' x2='630' y2='146' stroke='#4a7ba6' marker-end='url(#ar)'/><text x='380' y='348' text-anchor='middle' font-size='11' fill='#1e2d3d'>孔子改制立其据，三世次第定其序</text><text x='380' y='374' text-anchor='middle' font-size='11' fill='#1e2d3d'>故变法非弃经，乃行经</text></svg>",
+   "svg_caption": "康有为三世说与托古改制的结构（示意）"
+  },
+  {
+   "id": "cn-qingmod-tan-sitong",
+   "name": "谭嗣同",
+   "latin": "Tan Sitong (Zhuangfei)",
+   "birth_year": 1865,
+   "death_year": 1898,
+   "birth_display": "1865年",
+   "death_display": "1898年",
+   "birth_note": "据《谭嗣同全集》所附年谱，生同治四年（1865），公历1865年3月10日；取通行说法。",
+   "death_note": "1898年9月28日（光绪二十四年八月十三）就义于北京菜市口，为戊戌六君子之一。",
+   "era": "晚清。父为湖北巡抚，谭氏少从欧阳中鹄、刘人熙问学，遍游南北；甲午后弃旧学而求新学，与康有为、梁启超相结。1898年以军机章京参预新政，政变作而被杀，年三十三。《仁学》成于1896至1897年间，是其思想的唯一系统表述。",
+   "school": "儒家（晚清维新一系，兼采佛学、西学与墨学）",
+   "core_questions": [
+    "名教与三纲凭什么约束人，其根据是天理还是势？",
+    "仁与西学所谓的以太、电是何关系？",
+    "个体如何在重重网罗中重获“通”？"
+   ],
+   "arguments": [
+    {
+     "claim": "仁以通为第一义",
+     "premises": [
+      "《仁学·界说》立“仁以通为第一义”，以以太、电、心力为“所以通之具”。",
+      "不通则妄生分别，由分别而有隔、有争、有杀。"
+     ],
+     "inference": "若仁只是一德，则其行否系于个人修养；而以通言仁，则仁成为破除隔阂的力量，其验在于人我、上下、男女之间是否相隔。",
+     "conclusion": "仁的本义是通，通之具即以太、电、心力。",
+     "kind": "原文"
+    },
+    {
+     "claim": "冲决网罗，破名教之隔",
+     "premises": [
+      "网罗重重，有利禄、俗学、群学、君统、天理、佛法诸网罗。",
+      "名教之设，君以名桎臣，父以名压子，三纲由是而立。"
+     ],
+     "inference": "若名教的根据只是上以制下的势，则其所谓天理不过是势的饰词；要复仁之通，须先破此层层束缚，否则任何改革都只在网罗之内腾挪。",
+     "conclusion": "当冲决网罗，破名教之隔，而后仁可得而通。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以太与仁的结合：具与理分属两层",
+     "premises": [
+      "西学言以太为传光、传力之媒介，遍满虚空而无微不入。",
+      "心力之相感、慈悲之相通，其用与以太之传递相似。"
+     ],
+     "inference": "若为仁找一个可公共讨论的载体，则以太之说可与仁相即；然以太是所以通之具，仁是所以通之理，二者非同一层次，故可相喻而不可相代。",
+     "conclusion": "以太是仁之具，仁是以太之理；二者结合而不相等。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "反静主动，以力行事",
+     "premises": [
+      "主静之说使人厌事、逃世，于救世无功。",
+      "西人以动而强，中国以静而弱，动静之别见乎强弱。"
+     ],
+     "inference": "若以静为工夫之极，则士人于事变无所措手；而以动为用，则学问须验于行事与器械之改良，故工夫论须由静转为主动。",
+     "conclusion": "当以动代静，以力行事。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《仁学》",
+     "edition": "蔡尚思、方行编《谭嗣同全集》（增订本），中华书局，1981",
+     "note": "五十篇，分《界说》《自叙》及各篇，成于1896至1897年间，生前未刊"
+    },
+    {
+     "title": "《谭嗣同全集》",
+     "edition": "蔡尚思、方行编，中华书局，1981（增订本，上下册）",
+     "note": "收诗文、书信与《仁学》各本异文"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "康有为",
+     "id": "cn-qingmod-kang-youwei",
+     "note": "自称私淑弟子，三世与大同之说取自康氏"
+    },
+    {
+     "name": "王夫之",
+     "id": "cn-qingmod-wang-fuzhi",
+     "note": "器变则道不得独不变之论近船山，《仁学》屡引其说"
+    },
+    {
+     "name": "华严与唯识学、墨学",
+     "id": null,
+     "note": "以佛家心力与墨家兼爱充实仁说"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "梁启超",
+     "id": null,
+     "note": "《仁学》由梁氏刊布并作序，影响晚清思想界"
+    },
+    {
+     "name": "熊十力",
+     "id": null,
+     "note": "由《仁学》入佛学，后转而批评其以以太言仁"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "熊十力（及现代本体论一路的批评者）",
+     "view": "以“以太”说仁，是把本体降为物理假说；假说一被推翻，仁便失其所依，且冲决之说过重破坏而少建设。",
+     "response": "谭的用法是借喻而非归约：他明言以太是所以通之具，仁仍是价值与本体之源；假说可换，而通之为理不随物理学说而废。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-renxue",
+      "paper-s11712-019-09658-3"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "谭嗣同以西方科学取代哲学，其“仁”只是物理概念的附会",
+     "why": "《仁学·界说》把以太、电、心力并列为所以通之具，具与理分属两层；他借西学语汇是要给仁一个可公共讨论的表述，而非把仁还原为物理。以科学主义读之，会看不见其佛学背景与名教批判的主线。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "仁以通为第一义",
+     "source_id": "ws-renxue",
+     "locator": "《仁学·界说》",
+     "kind": "原文"
+    },
+    {
+     "text": "以太也，电也，心力也，皆指出所以通之具",
+     "source_id": "ws-renxue",
+     "locator": "《仁学·界说》",
+     "kind": "原文"
+    }
+   ],
+   "sources": [
+    "ws-renxue",
+    "sep-qing-philosophy",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>谭嗣同：以太、仁与冲决网罗（示意）</text><defs><marker id='ar' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='270' y='58' width='220' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='82' text-anchor='middle' font-size='13' fill='#1e2d3d'>以太、电、心力</text><text x='380' y='102' text-anchor='middle' font-size='11' fill='#1e2d3d'>皆所以通之具</text><line x1='380' y1='114' x2='380' y2='140' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='270' y='142' width='220' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='166' text-anchor='middle' font-size='13' fill='#1e2d3d'>仁以通为第一义</text><text x='380' y='186' text-anchor='middle' font-size='11' fill='#1e2d3d'>通则人我不隔</text><line x1='380' y1='198' x2='380' y2='224' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='270' y='226' width='220' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='250' text-anchor='middle' font-size='13' fill='#1e2d3d'>名教三纲：以名制下</text><text x='380' y='270' text-anchor='middle' font-size='11' fill='#1e2d3d'>上以制其下</text><line x1='380' y1='282' x2='380' y2='306' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='270' y='308' width='220' height='50' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='332' text-anchor='middle' font-size='13' fill='#1e2d3d'>冲决网罗</text><text x='380' y='352' text-anchor='middle' font-size='11' fill='#1e2d3d'>去隔而后仁通</text><rect x='30' y='142' width='200' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='130' y='166' text-anchor='middle' font-size='13' fill='#1e2d3d'>佛学：心力相感</text><text x='130' y='186' text-anchor='middle' font-size='11' fill='#1e2d3d'>慈悲相通</text><line x1='230' y1='170' x2='266' y2='170' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='530' y='142' width='200' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='630' y='166' text-anchor='middle' font-size='13' fill='#1e2d3d'>西学：以太传力</text><text x='630' y='186' text-anchor='middle' font-size='11' fill='#1e2d3d'>无微不入</text><line x1='530' y1='170' x2='494' y2='170' stroke='#4a7ba6' marker-end='url(#ar)'/><text x='380' y='384' text-anchor='middle' font-size='11' fill='#1e2d3d'>具与理分两层：假说可换，通之为理不废</text></svg>",
+   "svg_caption": "谭嗣同由“通”到“冲决”的论证（示意）"
+  },
+  {
+   "id": "cn-qingmod-yan-fu",
+   "name": "严复",
+   "latin": "Yan Fu (Jidao)",
+   "birth_year": 1854,
+   "death_year": 1921,
+   "birth_display": "1854年",
+   "death_display": "1921年",
+   "birth_note": "据王栻《严复年谱》，生咸丰三年十二月，公历入1854年1月；通行作1854年。",
+   "death_note": "卒于1921年10月27日（民国十年九月廿七）于福州，据王栻《严复年谱》。",
+   "era": "晚清至民国初年。严复以福州船政学堂出身赴英留学（1877—1879），归国后任北洋水师学堂总办，甲午后以译书为业，译《天演论》《原富》《群学肄言》《法意》《穆勒名学》等。他是近代中国第一代系统译介西方哲学与逻辑学的人，其按语往往比译文更见己见。",
+   "school": "西学译介（经验论与演化论一路，晚清启蒙思潮）",
+   "core_questions": [
+    "进化是否可以作为伦理与政治的标准？",
+    "逻辑（名学）为何是一切学问的方法前提？",
+    "“中学为体、西学为用”在义理上能否成立？"
+   ],
+   "arguments": [
+    {
+     "claim": "体用不可二分",
+     "premises": [
+      "体与用是就同一物而言：有牛之体，则有负重之用；有马之体，则有致远之用。",
+      "未闻以牛之体而求马之用者。"
+     ],
+     "inference": "若中学为体、西学为用，则等于以牛体而求马用，二者不相属；器物、政制、学术与其所本的体是同一套东西的不同方面，不能择取而拼接。",
+     "conclusion": "体用一物，中西不可各取一体一用而拼合。",
+     "kind": "原文"
+    },
+    {
+     "claim": "天演：物竞天择，适者生存",
+     "premises": [
+      "生物之繁育过其所能养，故有争；争则优者存而劣者汰。",
+      "此理通于群与国：群之强弱在其能否合群与进化。"
+     ],
+     "inference": "若以天演观国族之竞争，则存亡不系于道德之高下而系于适应之力；故救亡须改其群之组织与学问，而非仅恃旧德。",
+     "conclusion": "天演之理通于群学，救亡在改良群之组织与知能。",
+     "kind": "原文"
+    },
+    {
+     "claim": "名学为一切法之法",
+     "premises": [
+      "穆勒以逻辑为致知之术，凡学之立皆待其法。",
+      "中国旧学有训诂、辞章而无名学，故论辩多无据之遁辞。"
+     ],
+     "inference": "若方法的规则不立，则无论所治为何学，所得皆不可检验；故译介名学当先于译介具体科学。",
+     "conclusion": "逻辑是诸学的方法前提，当先立名学。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "天演不等于伦理标准",
+     "premises": [
+      "赫胥黎以“伦理之天行”对抗“任天为治”的斯宾塞主义。",
+      "严复于译序与按语中输扬斯宾塞，又赞赫胥黎之持人力以抗天行。"
+     ],
+     "inference": "若把适者生存直接当作应当，则弱肉强食即为道德；而严复一面以天演警世，一面主张合群、进种须有人事之力，说明他并未把天演当作规范。",
+     "conclusion": "天演说明处境，不提供应当；伦理须由人力与群道另立。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《天演论》（译赫胥黎）",
+     "edition": "《严复集》第五册，中华书局，1986；商务印书馆汉译世界学术名著本，1981",
+     "note": "1898年慎始基斋刻本；附大量按语，非忠实译本"
+    },
+    {
+     "title": "《穆勒名学》（译穆勒）",
+     "edition": "商务印书馆，1981（标点本，仅译原书部甲及部乙部分）",
+     "note": "未完译本，为近代逻辑学系统输入之始"
+    },
+    {
+     "title": "《群学肄言》《原富》《法意》",
+     "edition": "商务印书馆汉译世界学术名著丛书各单行本",
+     "note": "分译斯宾塞、亚当·斯密、孟德斯鸠"
+    },
+    {
+     "title": "《严复集》",
+     "edition": "王栻主编，中华书局，1986（五册）",
+     "note": "收《原强》《救亡决论》《与〈外交报〉主人书》等"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "赫胥黎、斯宾塞、穆勒",
+     "id": null,
+     "note": "进化论、群学与逻辑学的主要来源"
+    },
+    {
+     "name": "吴汝纶",
+     "id": null,
+     "note": "桐城派古文家，为《天演论》作序，助其文体之重塑"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "梁启超",
+     "id": null,
+     "note": "《新民说》采其群学与天演语汇"
+    },
+    {
+     "name": "胡适",
+     "id": null,
+     "note": "自述少年读《天演论》而以“适”为名"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "译本比勘的研究者",
+     "view": "《天演论》以赫胥黎之书说斯宾塞之意，按语与改窜处多，把赫胥黎“以伦理制天行”的旨趣读成任天为治，与原书不合。",
+     "response": "严复自陈译书为达恉，按语明标己意；他选赫胥黎之书而注入斯宾塞之论，正因为所要警醒的是不变则亡的时局，而非译本的语文学忠实。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-qing-philosophy",
+      "paper-s11712-019-09658-3"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "严复是全盘西化论者，主张尽弃中学",
+     "why": "他批评中体西用是为说明体用不可割裂，而非主张弃中学；晚年倡读经、反对新文化运动对传统的轻弃，主张以西学为方法重构中学。把他读成反传统主义者，会看不出他与五四一系的距离。"
+    }
+   ],
+   "quotes": [],
+   "sources": [
+    "sep-qing-philosophy",
+    "iep-chinese-philosophy",
+    "book-chan-sourcebook",
+    "paper-s11712-019-09658-3"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>严复：体用之辨与天演群学（示意）</text><defs><marker id='ar' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='66' width='205' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='132' y='90' text-anchor='middle' font-size='13' fill='#1e2d3d'>体用就一物而言</text><text x='132' y='110' text-anchor='middle' font-size='11' fill='#1e2d3d'>牛体牛用，马体马用</text><line x1='235' y1='95' x2='281' y2='95' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='285' y='66' width='195' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='382' y='90' text-anchor='middle' font-size='13' fill='#1e2d3d'>中学为体，西学为用</text><text x='382' y='110' text-anchor='middle' font-size='11' fill='#1e2d3d'>如以牛体求马用</text><line x1='480' y1='95' x2='526' y2='95' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='530' y='66' width='200' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='630' y='90' text-anchor='middle' font-size='13' fill='#1e2d3d'>体用不可二分</text><text x='630' y='110' text-anchor='middle' font-size='11' fill='#1e2d3d'>拼合则法无所附</text><rect x='30' y='176' width='205' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='132' y='200' text-anchor='middle' font-size='13' fill='#1e2d3d'>天演：物竞天择</text><text x='132' y='220' text-anchor='middle' font-size='11' fill='#1e2d3d'>争存于群与群之间</text><line x1='235' y1='205' x2='281' y2='205' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='285' y='176' width='195' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='382' y='200' text-anchor='middle' font-size='13' fill='#1e2d3d'>群学：合群进种</text><text x='382' y='220' text-anchor='middle' font-size='11' fill='#1e2d3d'>改良群之知能</text><line x1='480' y1='205' x2='526' y2='205' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='530' y='176' width='200' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='630' y='200' text-anchor='middle' font-size='13' fill='#1e2d3d'>救亡在变其群</text><text x='630' y='220' text-anchor='middle' font-size='11' fill='#1e2d3d'>非仅恃旧德</text><rect x='230' y='274' width='300' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='298' text-anchor='middle' font-size='13' fill='#1e2d3d'>名学为一切法之法</text><text x='380' y='318' text-anchor='middle' font-size='11' fill='#1e2d3d'>逻辑先于具体科学</text><text x='380' y='372' text-anchor='middle' font-size='11' fill='#1e2d3d'>同一条思路：方法先立，体用不二</text></svg>",
+   "svg_caption": "严复体用论与天演、名学的两路（示意）"
+  }
+ ],
+ "concepts": [
+  {
+   "id": "cn-qingmod-jingshi-zhizhiyong",
+   "term": "经世致用",
+   "term_latin": "jingshi zhiyong（statecraft and practical application）",
+   "definition": "以解决当世政教与生民的实际问题为学问的归宿，主张通经、考史与制度研究须落到可施行的治理与教化上，反对以空谈心性自足。",
+   "usages": [
+    {
+     "name": "顾炎武",
+     "id": "cn-qingmod-gu-yanwu",
+     "usage": "以“明道救世”为学之的，主张以修己治人之实学代替明心见性之空言，考据是通经致用的门径而非归宿。"
+    },
+    {
+     "name": "黄宗羲",
+     "id": "cn-qingmod-huang-zongxi",
+     "usage": "把经世落到制度上：《明夷待访录》论君职、学校、田制、财计，以“天下之法”为经世的框架，而非个人事功。"
+    },
+    {
+     "name": "康有为",
+     "id": "cn-qingmod-kang-youwei",
+     "usage": "经世转为变法纲领：以公羊三世为历史阶序、以托古改制为方法，使经学直接充当变法的依据与动员。"
+    },
+    {
+     "name": "王夫之",
+     "id": "cn-qingmod-wang-fuzhi",
+     "usage": "经世表现为史论：于《读通鉴论》中即势以求理，以历代治乱之迹论断当世之得失，学问之用于是落在“知势”。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-tianxia-weizhu",
+    "cn-qingmod-gongyang-sanshi"
+   ],
+   "example": {
+    "text": "顾炎武北游时每到一地即呼老兵退卒询问地形与往事，以实地所得校正方志之误，《天下郡国利病书》即由这类札录积累而成，其条目多直指赋役、河渠、兵防之利病。",
+    "figure": "顾炎武",
+    "locator": "《亭林文集·与友人论学书》并见《天下郡国利病书》序"
+   },
+   "sources": [
+    "ct-rizhilu",
+    "ws-mingyi",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-qibenlun",
+   "term": "气本论",
+   "term_latin": "qibenlun（qi-monism / vital-force ontology）",
+   "definition": "以“气”为宇宙的终极实在，认为理、道、性皆气之条理或属性，不存在先于气而独立存在的理世界。",
+   "usages": [
+    {
+     "name": "王夫之",
+     "id": "cn-qingmod-wang-fuzhi",
+     "usage": "太虚即气，气有聚散而无生灭；理是气之条理，故“理在气中”，离气则无所谓理。"
+    },
+    {
+     "name": "戴震",
+     "id": "cn-qingmod-dai-zhen",
+     "usage": "以“气化流行，生生不息”言天道，理即气化之分理条贯，故求理即在察事物之别而不在别求一本体。"
+    },
+    {
+     "name": "谭嗣同",
+     "id": "cn-qingmod-tan-sitong",
+     "usage": "以“以太”为充塞虚空、无微不入之媒介，视之为气的近代替身，但以太只作“通之具”，不承担本体之名。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-li-cun-yu-yu",
+    "cn-qingmod-xueqi-xinzhi"
+   ],
+   "example": {
+    "text": "张载《正蒙》言“太虚不能无气”，王夫之注之曰气有聚散而无生灭，用以驳“理在气先”之说——此概念的具体用法在于解释“虚空”为何不是空无，而是气的本然状态。",
+    "figure": "王夫之",
+    "locator": "《张子正蒙注·太和篇》"
+   },
+   "sources": [
+    "sep-qing-philosophy",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-li-cun-yu-yu",
+   "term": "理存于欲",
+   "term_latin": "li cun yu yu（principle resides in desire）",
+   "definition": "主张“理”不是与情欲对立的独立规范，而是情欲得其节、无所偏失时的条理；因此不能在人情之外另立一个“天理”来责人。",
+   "usages": [
+    {
+     "name": "戴震",
+     "id": "cn-qingmod-dai-zhen",
+     "usage": "理是“情之不爽失”，以我之情絜人之情而使之平，故理在欲中；以意见为理者，则理遂成杀人之具。"
+    },
+    {
+     "name": "王夫之",
+     "id": "cn-qingmod-wang-fuzhi",
+     "usage": "天理寓于人欲：“人欲之各得，即天理之大同”，理欲非二，唯在使之各得其所，故不以赴欲为功。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-xueqi-xinzhi",
+    "cn-qingmod-qibenlun"
+   ],
+   "example": {
+    "text": "戴震举尊者以理责卑、长者以理责幼的情形：责者自居有理，受责者无辞可辩，故他说“死于理”者无人怜之——理一旦离开可通之情，便成权势的语言。",
+    "figure": "戴震",
+    "locator": "《孟子字义疏证》卷上·理"
+   },
+   "sources": [
+    "ws-mengzi-ziyi",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-xueqi-xinzhi",
+   "term": "血气心知",
+   "term_latin": "xueqi xinzhi（blood-and-qi and the knowing mind）",
+   "definition": "戴震用以界说人性的两个层面：血气指形体与感官欲求，心知指心之知觉与辨察能力；二者合而为性之实体，理义由心知之审察而生成。",
+   "usages": [
+    {
+     "name": "戴震",
+     "id": "cn-qingmod-dai-zhen",
+     "usage": "血气心知即性之实体，心知由“精爽”进于“神明”，故理义非天降，而是心知在自然上审察其必然所得。"
+    },
+    {
+     "name": "王夫之",
+     "id": "cn-qingmod-wang-fuzhi",
+     "usage": "形、神、物三相遇而知觉乃发：血气属形，心知属神，二者相须而不相等，心能统血气而不能废血气。"
+    },
+    {
+     "name": "严复",
+     "id": "cn-qingmod-yan-fu",
+     "usage": "以经验论解心知：知识起于官体之接物，由阅历积累而进化，故智力可教可学，非天授之良知。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-li-cun-yu-yu",
+    "cn-qingmod-qibenlun"
+   ],
+   "example": {
+    "text": "戴震辨“才”与“性”：人的血气强弱、心知敏钝各各不同，此为才；而“心知能审察乎必然”为性之同然，故教化可行，不齐者可以使之齐。",
+    "figure": "戴震",
+    "locator": "《孟子字义疏证》卷下·才"
+   },
+   "sources": [
+    "ws-mengzi-ziyi",
+    "sep-qing-philosophy",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-tianxia-weizhu",
+   "term": "天下为主",
+   "term_latin": "tianxia wei zhu（the realm as subject, the ruler as guest）",
+   "definition": "以“天下”即万民及其公共事务为政治的价值主体，君主只是受天下所托的职守者；判断治乱的标准在万民之忧乐，不在王朝的兴亡。",
+   "usages": [
+    {
+     "name": "黄宗羲",
+     "id": "cn-qingmod-huang-zongxi",
+     "usage": "君为客、天下为主：后世人君以天下为产业，故“天下之治乱，不在一姓之兴亡，而在万民之忧乐”。"
+    },
+    {
+     "name": "顾炎武",
+     "id": "cn-qingmod-gu-yanwu",
+     "usage": "以“亡国”与“亡天下”分判：一姓之亡为亡国，人伦相残、生民相食为亡天下，保天下者匹夫有责。"
+    },
+    {
+     "name": "王夫之",
+     "id": "cn-qingmod-wang-fuzhi",
+     "usage": "以“天下非一姓之私”论治乱：史家当循天下之公以断得失，不以一朝之利害为准。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-jingshi-zhizhiyong",
+    "cn-qingmod-datong"
+   ],
+   "example": {
+    "text": "黄宗羲论人君未得天下时“屠毒天下之肝脑”，既得之后又“敲剥天下之骨髓”，以此为“天下为主”的反证——概念的力量在于把君主的合法性放回被治者的处境中衡量。",
+    "figure": "黄宗羲",
+    "locator": "《明夷待访录·原君》"
+   },
+   "sources": [
+    "ws-mingyi",
+    "ct-rizhilu",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-gongyang-sanshi",
+   "term": "公羊三世",
+   "term_latin": "gongyang sanshi（the three ages of the Gongyang tradition）",
+   "definition": "公羊学以《春秋》“所见、所闻、所传闻”之别分历史为据乱、升平、太平三世；晚清今文家把它转读为制度递进的阶序，作为变法的历史依据。",
+   "usages": [
+    {
+     "name": "康有为",
+     "id": "cn-qingmod-kang-youwei",
+     "usage": "三世为治法之次第：由据乱而升平（君主立宪），由升平而太平（大同），故变法不可躐等而不可不革。"
+    },
+    {
+     "name": "严复",
+     "id": "cn-qingmod-yan-fu",
+     "usage": "以天演之“渐”衡之：社会之变由积渐而成，三世可作观察之序，却不可据以约定某阶段之期而待其自至，改制须验于群力与实况。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-datong",
+    "cn-qingmod-jingshi-zhizhiyong"
+   ],
+   "example": {
+    "text": "康有为《论语注》以三世说解“其或继周者，虽百世可知”，把孔子的“百世可知”读作三世可推，经义与变法纲领由是相接，注经遂兼有立法之用。",
+    "figure": "康有为",
+    "locator": "《论语注》卷二（《康有为全集》第三集）"
+   },
+   "sources": [
+    "sep-qing-philosophy",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-datong",
+   "term": "大同",
+   "term_latin": "datong（Great Unity / Grand Concord）",
+   "definition": "《礼记·礼运》所描述的“天下为公”之世；晚清以后被用作超越国界、阶级、家族诸界限的社会理想，与公羊学的“太平世”相配。",
+   "usages": [
+    {
+     "name": "康有为",
+     "id": "cn-qingmod-kang-youwei",
+     "usage": "以“去九界”为方法的大同：破国界、级界、种界、形界、家界、业界等，公养、公教、公恤，乃至无国家、无家族。"
+    },
+    {
+     "name": "谭嗣同",
+     "id": "cn-qingmod-tan-sitong",
+     "usage": "以“仁通”为大同的形上前提：破名教之隔、通人我上下男女，则“不独亲其亲”不待制度安排而可行。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-gongyang-sanshi",
+    "cn-qingmod-tianxia-weizhu"
+   ],
+   "example": {
+    "text": "《礼运》述“大道之行也，天下为公，选贤与能，讲信修睦”，康有为取此以名其书；但他设想的大同已不止于选贤，而要求取消国家与家族本身。",
+    "figure": "康有为",
+    "locator": "《礼记·礼运》（康氏《大同书》题名所本）"
+   },
+   "sources": [
+    "ct-liji",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-tianyan",
+   "term": "天演",
+   "term_latin": "tianyan（evolution / natural selection）",
+   "definition": "严复对“evolution”的译语，兼取“物竞天择、适者生存”之义；在晚清语境中它既是生物学说，也是用来解释国族竞争与制度优劣的历史观。",
+   "usages": [
+    {
+     "name": "严复",
+     "id": "cn-qingmod-yan-fu",
+     "usage": "天演为群学之基：争存在群与群之间，故救亡在合群、进种、改良知能；天演说明处境而不提供应当。"
+    },
+    {
+     "name": "康有为",
+     "id": "cn-qingmod-kang-youwei",
+     "usage": "天演为三世递进的动力说明：竞争促成合群，而太平世终须超越“优胜劣败”的据乱状态。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-gongyang-sanshi",
+    "cn-qingmod-datong"
+   ],
+   "example": {
+    "text": "严复译《天演论》于导言各篇后附长按语，把赫胥黎的“伦理之天行”与斯宾塞的“任天为治”并列而论，读者由是知“天演”一词在中文里同时背负科学与政论两重含义。",
+    "figure": "严复",
+    "locator": "《天演论·导言》按语"
+   },
+   "sources": [
+    "sep-qing-philosophy",
+    "iep-chinese-philosophy",
+    "paper-s11712-019-09658-3"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "debates": [
+  {
+   "id": "cn-qingmod-li-yu",
+   "title": "理与欲之争",
+   "question": "“理”是与情欲对立的独立规范，还是情欲得其节时的条理？这决定道德批评凭什么成立。",
+   "positions": [
+    {
+     "holder": "戴震",
+     "id": "cn-qingmod-dai-zhen",
+     "stance": "理存于欲",
+     "reasons": [
+      "血气心知即性之实体，理是情之“不爽失”，离情欲则无所谓理。",
+      "以意见为理者，责卑幼贱者以从己，遂有“死于理”而无人怜之者。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "朱熹一系（程朱传统）",
+     "id": null,
+     "stance": "存天理，灭人欲",
+     "reasons": [
+      "性即理，天理为形而上之当然；人欲出于形气之私，二者相对而立。",
+      "必以克己工夫使道心为主、人心听命，然后天理流行。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "王夫之",
+     "id": "cn-qingmod-wang-fuzhi",
+     "stance": "天理寓于人欲",
+     "reasons": [
+      "“人欲之各得，即天理之大同”，理欲非二，不当以灭欲为功。",
+      "礼乐刑政之设，正在使欲各得其节，而非以理禁欲。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "争的是“理”的所指：程朱以理为形上当然、欲为形气之私，戴震以理为情欲的恰当条理，王夫之则以“各得”为天理——三家对理与欲的层次划分不同，结论便不易直接对反。",
+   "status": "无定论",
+   "status_note": "清代以来戴震说在学界影响渐大，程朱传统仍在礼学与教化实践中延续；现代研究多认为理、欲两词在宋明清各家的用法并不一致，须先辨其所指，才谈得上孰是孰非。",
+   "sources": [
+    "ws-mengzi-ziyi",
+    "sep-qing-philosophy",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-tiyong",
+   "title": "中体西用是否可行",
+   "question": "“中学为体、西学为用”在义理上能否成立，还是体用本不可二分？",
+   "positions": [
+    {
+     "holder": "张之洞一系（《劝学篇》）",
+     "id": null,
+     "stance": "中体西用",
+     "reasons": [
+      "旧学为体、新学为用：以中国经史伦常立其本，以西方器物、工艺、算学致其用。",
+      "体用可分而相济，故学堂、铁路、枪炮可采西法，而纲常名教不可移易。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "严复",
+     "id": "cn-qingmod-yan-fu",
+     "stance": "体用不可二分",
+     "reasons": [
+      "体用就一物而言：牛之体有负重之用，马之体有致远之用，未闻以牛体求马用。",
+      "政制、学术、器物与其所本之体同出一源，择取其一而弃其一，则所采之法无所附丽。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "争的是“体用”是同一物的两个方面，还是可以分属两套文明的两个层级：若体用一物，则“西学为用”必牵动“中学为体”；若体用可分，则采西法可以不伤名教。",
+   "status": "学界主流意见",
+   "status_note": "学界一般认为严复的批评在逻辑上难以回避，但“中体西用”作为晚清改革的过渡话语，其历史功能与理论一致性宜分开评价；也有研究指出张之洞所谓“体”偏重政教秩序而非形上本体。",
+   "sources": [
+    "sep-qing-philosophy",
+    "iep-chinese-philosophy",
+    "paper-s11712-019-09658-3"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-kongjiao",
+   "title": "孔教是否当立",
+   "question": "孔子之教应否立为国教、以制度形式维系？立教是护持教化，还是以宗教束缚学术？",
+   "positions": [
+    {
+     "holder": "康有为",
+     "id": "cn-qingmod-kang-youwei",
+     "stance": "当立孔教为国教",
+     "reasons": [
+      "列国相竞，其强在群，群之合在教；中国有孔子之教而无教之制，故人心散而无统。",
+      "立教非以神道设教，乃取孔子教化为公共精神之凝聚，可与诸学并行不废。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "《新青年》一系（陈独秀等）",
+     "id": null,
+     "stance": "不当立教",
+     "reasons": [
+      "以孔教为国教，是以一套等级伦常定于一尊，与共和政体下的信仰自由与思想解放相冲突。",
+      "孔学之失在定于一尊而抑异说，立教将使学术复受教权之约束。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "章太炎一系（国粹派、古文经学）",
+     "id": null,
+     "stance": "孔子是良史而非教主",
+     "reasons": [
+      "六经为古史，孔子订六经而有功于文献，非托古改制之素王。",
+      "以宗教视孔子，适足以诬孔，且宗教信仰与学术征实相妨。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "争的是“教”的性质：康有为的教是公共教化与国族凝聚的制度，反对者的教则是教权与独断；三方对孔学的评价（改制之法、等级伦常、古史文献）所指不同。",
+   "status": "无定论",
+   "status_note": "1913年孔教会上书、1916至1917年国会两次审议定孔教为国教均未成立；新文化运动后孔教运动式微，但儒学是否具有宗教性的讨论在学界延续至今。",
+   "sources": [
+    "sep-qing-philosophy",
+    "iep-chinese-philosophy",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ]
+}
