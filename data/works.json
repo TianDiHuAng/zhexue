@@ -55,290 +55,66 @@
     "sep-confucius"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "sort_year": -400
   },
   {
-   "id": "work-daodejing",
-   "title": "《老子》（道德经）",
-   "title_original": "道德經（Daodejing）",
+   "id": "work-mozi",
+   "title": "《墨子》",
+   "title_original": "墨子（Mozi）",
    "tradition": "china",
-   "date_display": "成书年代有争议（春秋末说／战国中晚期说），通行本八十一章",
-   "structure": "分《道经》《德经》两篇（帛书本为“德经”在前），八十一章，韵文与格言混合；郭店楚简本、马王堆帛书本与王弼通行本章序、文字均有差异。",
+   "date_display": "战国前期（前5—前3世纪，含后期墨家之作）",
+   "structure": "今本五十三篇。分五组：墨论（尚贤、尚同、兼爱、非攻、节用、节葬、天志、明鬼、非乐、非命）、墨语、墨经（经上下、经说上下、大取、小取）、墨守（守城技术）、墨论杂篇。",
    "core_arguments": [
-    "道不可名：可道之道非常道，只能“强为之名”（第一章、第二十五章）",
-    "反者道之动：物极必反，故柔弱胜刚强（第四十章、第七十八章）",
-    "无为而治：法令滋彰则盗贼多有，统治者少干预则民自化（第五十七章）"
+    "兼相爱、交相利：乱起于不相爱，故当视人之家若其家（《兼爱中》）",
+    "三表法：以上古圣王之事、百姓耳目之实、国家人民之利检验学说（《非命上》）",
+    "非攻：攻战在利害上不利、在名实上不义（《非攻上》）"
    ],
    "key_points": [
     {
-     "locator": "第一章",
-     "point": "“道可道，非常道”——道与言说的关系"
+     "locator": "《兼爱中》",
+     "point": "“兼相爱，交相利”的总纲"
     },
     {
-     "locator": "第二十五章",
-     "point": "“人法地，地法天，天法道，道法自然”"
+     "locator": "《非命上》",
+     "point": "三表法：本、原、用"
     },
     {
-     "locator": "第四十章",
-     "point": "“反者道之动，弱者道之用”"
+     "locator": "《非攻上》",
+     "point": "“杀一人谓之不义…今至大为攻国，则弗知非”"
     },
     {
-     "locator": "第八十章",
-     "point": "“小国寡民”——治理理想的争议文本"
+     "locator": "《经上》",
+     "point": "后期墨家的名、辞、说与几何、光学条目"
     }
    ],
    "editions": [
-    "王弼注，楼宇烈《王弼集校释》，中华书局（通行本的基础）",
-    "陈鼓应《老子今注今译》，商务印书馆",
-    "高明《帛书老子校注》，中华书局（出土本对照）"
+    "孙诒让《墨子间诂》，中华书局（新编诸子集成本）",
+    "吴毓江《墨子校注》，中华书局",
+    "英译见 Ian Johnston, *The Mozi*, Chinese University Press"
    ],
    "related_people": [
-    "cn-xianqin-laozi",
-    "cn-xianqin-zhuangzi"
-   ],
-   "misreadings": [
-    {
-     "claim": "《老子》是老子一人一时所作",
-     "why": "文本有层累迹象（用语、文体与思想深度不一），学界多认为成书经战国时期的编纂；“老子其人”与“其书”须分开讨论。"
-    },
-    {
-     "claim": "“无为”即什么都不做",
-     "why": "原文常与“无不为”并举，“为无为”本身是一种作为方式：去除强制性的干预。"
-    }
-   ],
-   "sources": [
-    "ct-daodejing",
-    "sep-laozi"
-   ],
-   "needs_verification": true,
-   "pending_notes": "作者与成书年代：传统说为春秋末老聃，学界另有战国中晚期成书说与文本层累说；郭店简本（约前300年）的发现使年代上限提前，但不足以判定作者。"
-  },
-  {
-   "id": "work-zhuangzi",
-   "title": "《庄子》",
-   "title_original": "莊子（Zhuangzi）",
-   "tradition": "china",
-   "date_display": "约前4—前3世纪（内篇），外杂篇多出后学",
-   "structure": "今本三十三篇：内篇七、外篇十五、杂篇十一（郭象编定）。内篇多归庄子，外杂篇文体与思想不一，可能出自不同作者。",
-   "core_arguments": [
-    "齐物：是非之分出于“成心”，从道观之则物无贵贱（《齐物论》）",
-    "逍遥：有待则不得自由，至人无己、神人无功、圣人无名（《逍遥游》）",
-    "物化：梦觉之辨显示物我界限非终极事实（《齐物论》末章）"
-   ],
-   "key_points": [
-    {
-     "locator": "《逍遥游》",
-     "point": "大鹏与蜩鸠：小大之辩与“无待”"
-    },
-    {
-     "locator": "《齐物论》",
-     "point": "“天地与我并生，而万物与我为一”；“吾丧我”"
-    },
-    {
-     "locator": "《养生主》",
-     "point": "庖丁解牛：“依乎天理”“以无厚入有间”"
-    },
-    {
-     "locator": "《知北游》",
-     "point": "“道在蝼蚁”“道在屎溺”——道无所不在"
-    }
-   ],
-   "editions": [
-    "郭庆藩《庄子集释》，中华书局（新编诸子集成本）",
-    "陈鼓应《庄子今注今译》，中华书局",
-    "王先谦《庄子集解》，中华书局"
-   ],
-   "related_people": [
-    "cn-xianqin-zhuangzi",
-    "cn-xianqin-laozi",
-    "cn-weijin-guoxiang"
-   ],
-   "misreadings": [
-    {
-     "claim": "《庄子》三十三篇都是庄子所作",
-     "why": "内篇归庄子为较通行的看法，外杂篇多出后学；苏轼已疑《盗跖》《渔父》等篇，分篇归属至今有讨论。"
-    },
-    {
-     "claim": "齐物论主张“什么都一样、没有是非”",
-     "why": "所疑的是以某一立场自任为唯一标准的“成心”；庄子仍区分“道”与“小成”，并主张“照之于天”。"
-    }
-   ],
-   "sources": [
-    "ct-zhuangzi",
-    "sep-zhuangzi"
-   ],
-   "needs_verification": true,
-   "pending_notes": "内篇与外杂篇的作者分层：内七篇为庄子所作的通行看法并非定论；外杂篇各篇的年代与学派归属仍有讨论。"
-  },
-  {
-   "id": "work-mengzi",
-   "title": "《孟子》",
-   "title_original": "孟子（Mencius）",
-   "tradition": "china",
-   "date_display": "约前3世纪成书；宋代列入四书",
-   "structure": "七篇（梁惠王、公孙丑、滕文公、离娄、万章、告子、尽心），每篇分上下；长篇论辩与对话并存，文体较《论语》系统。",
-   "core_arguments": [
-    "性善：四端为善之萌芽，成德在于扩充（《公孙丑上》《告子上》）",
-    "仁政：有恒产者有恒心，先制民之产而后教化（《梁惠王上》）",
-    "义利之辨：不可“曰利”，以义为政治第一原则（《梁惠王上》）"
-   ],
-   "key_points": [
-    {
-     "locator": "《公孙丑上》",
-     "point": "“乍见孺子将入于井”——四端说的核心论证"
-    },
-    {
-     "locator": "《告子上》",
-     "point": "牛山之木喻；性与才的区分"
-    },
-    {
-     "locator": "《梁惠王上》",
-     "point": "“何必曰利”；五亩之宅、百亩之田"
-    },
-    {
-     "locator": "《尽心下》",
-     "point": "“民为贵，社稷次之，君为轻”"
-    }
-   ],
-   "editions": [
-    "杨伯峻《孟子译注》，中华书局",
-    "朱熹《四书章句集注》，中华书局",
-    "焦循《孟子正义》，中华书局"
-   ],
-   "related_people": [
-    "cn-xianqin-mengzi",
+    "cn-xianqin-mozi",
     "cn-xianqin-kongzi",
-    "cn-xianqin-xunzi"
+    "cn-xianqin-mengzi"
    ],
    "misreadings": [
     {
-     "claim": "孟子说人天生就是善人",
-     "why": "他讲的是“端”（萌芽），须“扩而充之”；也承认环境可使“失其本心”。"
+     "claim": "《墨子》全是墨翟一人所作",
+     "why": "《墨经》六篇为后期墨家辩学，《备城门》以下为守城技术，作者与年代分层明显。"
     },
     {
-     "claim": "“民为贵”是现代民主思想",
-     "why": "它是关于统治正当性的判断，不含权力由民授予的程序安排。"
+     "claim": "墨家主张“兼爱”即爱一切人同等",
+     "why": "“兼”相对于“别”（区分人我而厚薄之）而言，重点是不以人我之别作为损人的理由。"
     }
    ],
    "sources": [
-    "ct-mengzi",
-    "sep-mencius"
-   ],
-   "needs_verification": false,
-   "pending_notes": ""
-  },
-  {
-   "id": "work-chuanxilu",
-   "title": "《传习录》",
-   "title_original": "傳習錄（Instructions for Practical Living）",
-   "tradition": "china",
-   "date_display": "明嘉靖年间编定（约1550年代），三卷",
-   "structure": "上卷（徐爱等录，论知行合一、格物）、中卷（书信，含《答顾东桥书》《答聂文蔚》）、下卷（陈九川等录，含四句教）。",
-   "core_arguments": [
-    "心即理：理不在心外，故格物是正心之工夫（上卷）",
-    "知行合一：知而不行只是未知（上卷）",
-    "致良知：扩充本有的良知于事事物物（中卷《答聂文蔚》）"
-   ],
-   "key_points": [
-    {
-     "locator": "上卷·徐爱录",
-     "point": "“知是行之始，行是知之成”"
-    },
-    {
-     "locator": "中卷《答顾东桥书》",
-     "point": "格物致知的重新解释"
-    },
-    {
-     "locator": "下卷·黄直录",
-     "point": "四句教：无善无恶心之体，有善有恶意之动"
-    },
-    {
-     "locator": "下卷·黄省曾录",
-     "point": "“岩中花树”——心与物的关系"
-    }
-   ],
-   "editions": [
-    "陈荣捷《王阳明传习录详注集评》，台湾学生书局",
-    "邓艾民《传习录注疏》，上海古籍出版社",
-    "《王阳明全集》，上海古籍出版社"
-   ],
-   "related_people": [
-    "cn-songming-wang-yangming",
-    "cn-songming-lu-jiuyuan",
-    "cn-songming-zhu-xi"
-   ],
-   "misreadings": [
-    {
-     "claim": "知行合一是说“知道了自然会做”",
-     "why": "王守仁的意思是：真知必含行动，不行动即未真知；这是对“知先行后”的批评，不是对因果的乐观断言。"
-    },
-    {
-     "claim": "四句教是王守仁的定论",
-     "why": "四句教出自钱德洪、王畿所记，王门后学对其解释（“四有”与“四无”）分歧极大。"
-    }
-   ],
-   "sources": [
-    "ct-chuanxilu",
-    "sep-wang-yangming"
-   ],
-   "needs_verification": false,
-   "pending_notes": ""
-  },
-  {
-   "id": "work-tanjing",
-   "title": "《六祖坛经》",
-   "title_original": "六祖壇經（Platform Sutra）",
-   "tradition": "china",
-   "date_display": "敦煌本约9世纪；宗宝本1290年代",
-   "structure": "十品（行由、般若、疑问、定慧、坐禅、忏悔、机缘、顿渐、宣诏、付嘱）；敦煌本不分品且篇幅较短，宗宝本增衍较多。",
-   "core_arguments": [
-    "自性本自清净，见性成佛（《行由品》）",
-    "顿悟：法无顿渐，人有利钝（《顿渐品》）",
-    "不立文字而仍用文字：以“无念、无相、无住”为纲（《定慧品》）"
-   ],
-   "key_points": [
-    {
-     "locator": "《行由品》",
-     "point": "“菩提本无树”偈与衣钵传承"
-    },
-    {
-     "locator": "《般若品》",
-     "point": "“摩诃般若波罗蜜”的通俗解释"
-    },
-    {
-     "locator": "《定慧品》",
-     "point": "定慧一体；无念为宗"
-    },
-    {
-     "locator": "《顿渐品》",
-     "point": "南北顿渐之分"
-    }
-   ],
-   "editions": [
-    "郭朋《坛经校释》，中华书局（以敦煌本为底本）",
-    "宗宝本见《大正藏》第48册",
-    "杨曾文《敦煌新本六祖坛经》，上海古籍出版社"
-   ],
-   "related_people": [
-    "cn-suitang-huineng",
-    "cn-suitang-shenhui"
-   ],
-   "misreadings": [
-    {
-     "claim": "《坛经》是慧能亲笔",
-     "why": "由门人记录并经多次增衍；敦煌本与宗宝本的差异说明其成书有层累过程。"
-    },
-    {
-     "claim": "禅宗反对一切文字",
-     "why": "“不立文字”针对执著文字为实义，禅门实际大量使用经论与语录，《坛经》本身即是文本。"
-    }
-   ],
-   "sources": [
-    "ws-liuzutanjing",
-    "book-chan-sourcebook"
+    "ct-mozi",
+    "iep-chinese-philosophy"
    ],
    "needs_verification": true,
-   "pending_notes": "《坛经》的版本系统（敦煌本、惠昕本、契嵩本、宗宝本）与作者问题是学界长期议题；本页以敦煌本与宗宝本的差异为据，不作单一作者断定。"
+   "pending_notes": "《墨经》六篇（经上下、经说上下、大取、小取）的作者与年代、以及《墨子》各篇的成书层次，学界有长期讨论。",
+   "sort_year": -400
   },
   {
    "id": "work-republic",
@@ -395,7 +171,65 @@
     "sep-plato"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "sort_year": -380
+  },
+  {
+   "id": "work-daodejing",
+   "title": "《老子》（道德经）",
+   "title_original": "道德經（Daodejing）",
+   "tradition": "china",
+   "date_display": "成书年代有争议（春秋末说／战国中晚期说），通行本八十一章",
+   "structure": "分《道经》《德经》两篇（帛书本为“德经”在前），八十一章，韵文与格言混合；郭店楚简本、马王堆帛书本与王弼通行本章序、文字均有差异。",
+   "core_arguments": [
+    "道不可名：可道之道非常道，只能“强为之名”（第一章、第二十五章）",
+    "反者道之动：物极必反，故柔弱胜刚强（第四十章、第七十八章）",
+    "无为而治：法令滋彰则盗贼多有，统治者少干预则民自化（第五十七章）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "“道可道，非常道”——道与言说的关系"
+    },
+    {
+     "locator": "第二十五章",
+     "point": "“人法地，地法天，天法道，道法自然”"
+    },
+    {
+     "locator": "第四十章",
+     "point": "“反者道之动，弱者道之用”"
+    },
+    {
+     "locator": "第八十章",
+     "point": "“小国寡民”——治理理想的争议文本"
+    }
+   ],
+   "editions": [
+    "王弼注，楼宇烈《王弼集校释》，中华书局（通行本的基础）",
+    "陈鼓应《老子今注今译》，商务印书馆",
+    "高明《帛书老子校注》，中华书局（出土本对照）"
+   ],
+   "related_people": [
+    "cn-xianqin-laozi",
+    "cn-xianqin-zhuangzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《老子》是老子一人一时所作",
+     "why": "文本有层累迹象（用语、文体与思想深度不一），学界多认为成书经战国时期的编纂；“老子其人”与“其书”须分开讨论。"
+    },
+    {
+     "claim": "“无为”即什么都不做",
+     "why": "原文常与“无不为”并举，“为无为”本身是一种作为方式：去除强制性的干预。"
+    }
+   ],
+   "sources": [
+    "ct-daodejing",
+    "sep-laozi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "作者与成书年代：传统说为春秋末老聃，学界另有战国中晚期成书说与文本层累说；郭店简本（约前300年）的发现使年代上限提前，但不足以判定作者。",
+   "sort_year": -350
   },
   {
    "id": "work-metaphysics",
@@ -453,7 +287,8 @@
     "sep-aristotle"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "sort_year": -340
   },
   {
    "id": "work-nicomachean",
@@ -510,178 +345,292 @@
     "iep-aristotle"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "sort_year": -340
   },
   {
-   "id": "work-meditations",
-   "title": "《第一哲学沉思集》",
-   "title_original": "Meditationes de prima philosophia",
+   "id": "work-politics",
+   "title": "《政治学》",
+   "title_original": "Πολιτικά（Politics）",
    "tradition": "west",
-   "date_display": "1641年（拉丁文本）；1647年法译本",
-   "structure": "六个沉思，附“诘难与答辩”。依次：普遍怀疑—我思—上帝存在与真理标准—真理与错误—物质事物的本质—物质事物的存在与心物区分。",
+   "date_display": "约前335年",
+   "structure": "八卷；卷一论城邦与家庭，卷二评述理想政体，卷三论公民与政体分类，卷四—六论现实政体与变革，卷七—八论理想城邦与教育。",
    "core_arguments": [
-    "我思故我在：怀疑本身不可被怀疑（第二沉思）",
-    "清楚分明是真理的标准，其保证者为上帝（第三、四沉思）",
-    "心物是两类不同的实体（第六沉思）"
+    "人天生是政治的动物：城邦先于个人在本性上",
+    "政体分类：以统治者人数与是否顾全公共福利为标准",
+    "中产阶级最稳定：贫富两极易致政体倾覆"
    ],
    "key_points": [
     {
-     "locator": "第一沉思",
-     "point": "怀疑一切可怀疑者：感官、梦、恶魔"
+     "locator": "I.2 1253a",
+     "point": "“人天生是政治的动物”"
     },
     {
-     "locator": "第二沉思",
-     "point": "“我在，我存在”与蜡块分析"
+     "locator": "III.7",
+     "point": "政体的三种正确形态与三种变态"
     },
     {
-     "locator": "第三沉思",
-     "point": "上帝存在的因果论证"
+     "locator": "IV.11",
+     "point": "中产阶级为最稳定的政体基础"
     },
     {
-     "locator": "第六沉思",
-     "point": "心物 realmente 区分"
+     "locator": "VII—VIII",
+     "point": "理想城邦与公民教育"
     }
    ],
    "editions": [
-    "庞景仁译《第一哲学沉思集》，商务印书馆",
-    "Adam & Tannery 拉丁文本（Vrin）",
-    "J. Bennett 现代英语改编本，见 Early Modern Texts（阅读辅助，非定本）"
+    "吴寿彭译《政治学》商务印书馆",
+    "Jowett 英译（MIT Classics）"
    ],
    "related_people": [
-    "gr-modern-descartes",
-    "gr-modern-hume",
-    "gr-modern-locke"
+    "gr-ancient-aristotle",
+    "gr-ancient-plato"
    ],
    "misreadings": [
     {
-     "claim": "笛卡尔的怀疑是真正的怀疑论",
-     "why": "怀疑是方法：为找到不可怀疑的基础而暂时悬置判断，最终以“我思”与上帝的存在克服怀疑。"
+     "claim": "亚里士多德主张民主制",
+     "why": "他把多数人统治的“民主制”列为变态政体之一，主张的是以中产阶级为基础的“共和制”（polity）。"
     },
     {
-     "claim": "“我思故我在”是三段论推理",
-     "why": "笛卡尔明确说它不是一个推论，而是每次怀疑时直接被把握的直观。"
+     "claim": "政治学与伦理学无关",
+     "why": "二者同属实践哲学：伦理学论个人善，政治学论城邦善，后者是前者的完成。"
     }
    ],
    "sources": [
-    "emt-descartes",
-    "sep-descartes"
+    "mit-aristotle-politics",
+    "sep-aristotle"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "sort_year": -335
   },
   {
-   "id": "work-krv",
-   "title": "《纯粹理性批判》",
-   "title_original": "Kritik der reinen Vernunft",
-   "tradition": "west",
-   "date_display": "1781年（A 版）；1787年（B 版，有实质修改）",
-   "structure": "先验感性论（时空）、先验分析论（范畴、图型、原理）、先验辩证论（理性之幻相：灵魂、世界、上帝）、先验方法论。B 版重写了先验演绎并增删多处。",
+   "id": "work-zhuangzi",
+   "title": "《庄子》",
+   "title_original": "莊子（Zhuangzi）",
+   "tradition": "china",
+   "date_display": "约前4—前3世纪（内篇），外杂篇多出后学",
+   "structure": "今本三十三篇：内篇七、外篇十五、杂篇十一（郭象编定）。内篇多归庄子，外杂篇文体与思想不一，可能出自不同作者。",
    "core_arguments": [
-    "时空是直观的先天形式，范畴是知性的纯粹概念（先验感性论、分析论）",
-    "先天综合判断如何可能：以先天形式构成经验对象（导言、分析论）",
-    "理性的越界产生幻相：四组二律背反（辩证论）"
+    "齐物：是非之分出于“成心”，从道观之则物无贵贱（《齐物论》）",
+    "逍遥：有待则不得自由，至人无己、神人无功、圣人无名（《逍遥游》）",
+    "物化：梦觉之辨显示物我界限非终极事实（《齐物论》末章）"
    ],
    "key_points": [
     {
-     "locator": "B 版导言",
-     "point": "先天综合判断如何可能——全书的总问题"
+     "locator": "《逍遥游》",
+     "point": "大鹏与蜩鸠：小大之辩与“无待”"
     },
     {
-     "locator": "A51/B75",
-     "point": "“思想无内容则空，直观无概念则盲”"
+     "locator": "《齐物论》",
+     "point": "“天地与我并生，而万物与我为一”；“吾丧我”"
     },
     {
-     "locator": "B 版演绎 §16",
-     "point": "先验统觉：“我思”须能伴随一切表象"
+     "locator": "《养生主》",
+     "point": "庖丁解牛：“依乎天理”“以无厚入有间”"
     },
     {
-     "locator": "A444/B472 起",
-     "point": "第三组二律背反：自由与自然必然"
+     "locator": "《知北游》",
+     "point": "“道在蝼蚁”“道在屎溺”——道无所不在"
     }
    ],
    "editions": [
-    "邓晓芒译、杨祖陶校《纯粹理性批判》，人民出版社",
-    "李秋零译《纯粹理性批判》，中国人民大学出版社",
-    "德文以 Meiner 版（A/B 对照）为准；引用惯例标 A/B 页码"
+    "郭庆藩《庄子集释》，中华书局（新编诸子集成本）",
+    "陈鼓应《庄子今注今译》，中华书局",
+    "王先谦《庄子集解》，中华书局"
    ],
    "related_people": [
-    "gr-german-kant",
-    "gr-modern-hume",
-    "gr-german-hegel"
+    "cn-xianqin-zhuangzi",
+    "cn-xianqin-laozi",
+    "cn-weijin-guoxiang"
    ],
    "misreadings": [
     {
-     "claim": "康德说世界由心创造",
-     "why": "他说的是经验对象的先天形式来自主体；物自体独立存在，故不是主观唯心论。"
+     "claim": "《庄子》三十三篇都是庄子所作",
+     "why": "内篇归庄子为较通行的看法，外杂篇多出后学；苏轼已疑《盗跖》《渔父》等篇，分篇归属至今有讨论。"
     },
     {
-     "claim": "物自体是“另一个世界的事物”",
-     "why": "物自体是界限概念：同一对象不作为现象而被思考的方面，不是另一个可被认识的世界。"
+     "claim": "齐物论主张“什么都一样、没有是非”",
+     "why": "所疑的是以某一立场自任为唯一标准的“成心”；庄子仍区分“道”与“小成”，并主张“照之于天”。"
     }
    ],
    "sources": [
-    "emt-kant",
-    "sep-kant"
+    "ct-zhuangzi",
+    "sep-zhuangzi"
    ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "needs_verification": true,
+   "pending_notes": "内篇与外杂篇的作者分层：内七篇为庄子所作的通行看法并非定论；外杂篇各篇的年代与学派归属仍有讨论。",
+   "sort_year": -300
   },
   {
-   "id": "work-being-time",
-   "title": "《存在与时间》",
-   "title_original": "Sein und Zeit",
-   "tradition": "west",
-   "date_display": "1927年（《现象学年鉴》第八卷；同年出单行本）",
-   "structure": "导论（存在问题的必要性与结构）＋第一部（此在的生存论分析：在世存在、世界性、共在、沉沦、操心；向死存在与时间性）。原计划的第二部（康德以降的存在论解构）未完成。",
+   "id": "work-mengzi",
+   "title": "《孟子》",
+   "title_original": "孟子（Mencius）",
+   "tradition": "china",
+   "date_display": "约前3世纪成书；宋代列入四书",
+   "structure": "七篇（梁惠王、公孙丑、滕文公、离娄、万章、告子、尽心），每篇分上下；长篇论辩与对话并存，文体较《论语》系统。",
    "core_arguments": [
-    "存在问题被遗忘：须先分析提问者（此在）的存在方式（导论）",
-    "此在的基本建构是在世存在，认识是派生的样式（第一编）",
-    "操心（Sorge）是此在存在的整体结构，其意义是时间性（第一编后半）"
+    "性善：四端为善之萌芽，成德在于扩充（《公孙丑上》《告子上》）",
+    "仁政：有恒产者有恒心，先制民之产而后教化（《梁惠王上》）",
+    "义利之辨：不可“曰利”，以义为政治第一原则（《梁惠王上》）"
    ],
    "key_points": [
     {
-     "locator": "§1—§4",
-     "point": "重提存在问题的必要性"
+     "locator": "《公孙丑上》",
+     "point": "“乍见孺子将入于井”——四端说的核心论证"
     },
     {
-     "locator": "§15—§16",
-     "point": "上手（Zuhandenheit）与现成在手（Vorhandenheit）"
+     "locator": "《告子上》",
+     "point": "牛山之木喻；性与才的区分"
     },
     {
-     "locator": "§27",
-     "point": "常人（das Man）与沉沦"
+     "locator": "《梁惠王上》",
+     "point": "“何必曰利”；五亩之宅、百亩之田"
     },
     {
-     "locator": "§46—§53",
-     "point": "向死存在与本真性"
+     "locator": "《尽心下》",
+     "point": "“民为贵，社稷次之，君为轻”"
     }
    ],
    "editions": [
-    "陈嘉映、王庆节译《存在与时间》，商务印书馆（修订译本）",
-    "德文以 GA 2（Klostermann）为准；引用惯例标德文页边码",
-    "英译见 Macquarrie & Robinson（Harper & Row）"
+    "杨伯峻《孟子译注》，中华书局",
+    "朱熹《四书章句集注》，中华书局",
+    "焦循《孟子正义》，中华书局"
    ],
    "related_people": [
-    "gr-20c-heidegger",
-    "gr-20c-husserl",
-    "gr-20c-sartre"
+    "cn-xianqin-mengzi",
+    "cn-xianqin-kongzi",
+    "cn-xianqin-xunzi"
    ],
    "misreadings": [
     {
-     "claim": "《存在与时间》是存在主义的人学",
-     "why": "海德格尔的问题是存在本身，此在分析只是通路；他后来明确拒绝“存在主义”标签。"
+     "claim": "孟子说人天生就是善人",
+     "why": "他讲的是“端”（萌芽），须“扩而充之”；也承认环境可使“失其本心”。"
     },
     {
-     "claim": "“向死存在”是宣扬死亡",
-     "why": "它指把死亡作为最本己的可能性来承担，从而本真地生活，不是劝人去死。"
+     "claim": "“民为贵”是现代民主思想",
+     "why": "它是关于统治正当性的判断，不含权力由民授予的程序安排。"
     }
    ],
    "sources": [
-    "book-heidegger-bt",
-    "sep-heidegger"
+    "ct-mengzi",
+    "sep-mencius"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "sort_year": -300
+  },
+  {
+   "id": "work-xunzi",
+   "title": "《荀子》",
+   "title_original": "荀子（Xunzi）",
+   "tradition": "china",
+   "date_display": "约前3世纪",
+   "structure": "三十二篇；《劝学》《天论》《解蔽》《正名》《性恶》《礼论》《乐论》为核心；《成相》《赋》文体特殊，《大略》以下或出弟子记录。",
+   "core_arguments": [
+    "性恶：顺性则争，故善者伪也",
+    "天人之分：天行有常，制天命而用之",
+    "化性起伪：礼义由圣人积思虑而生"
+   ],
+   "key_points": [
+    {
+     "locator": "《劝学》",
+     "point": "“学不可以已”；积善成德"
+    },
+    {
+     "locator": "《天论》",
+     "point": "“天行有常，不为尧存，不为桀亡”"
+    },
+    {
+     "locator": "《解蔽》",
+     "point": "“凡人之患，蔽于一曲而暗于大理”"
+    },
+    {
+     "locator": "《性恶》",
+     "point": "“人之性恶，其善者伪也”"
+    }
+   ],
+   "editions": [
+    "王先谦《荀子集解》中华书局",
+    "李涤生《荀子集释》台湾学生书局"
+   ],
+   "related_people": [
+    "cn-xianqin-xunzi",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "荀子不是儒家",
+     "why": "他自居孔门、特重礼乐师法；因性恶说被宋以后排出道统，但那是道统论的判断。"
+    },
+    {
+     "claim": "性恶说认为人无可救药",
+     "why": "性恶恰是教化必要性的前提；荀子主张“涂之人可以为禹”。"
+    }
+   ],
+   "sources": [
+    "ct-xunzi",
+    "sep-xunzi"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -250
+  },
+  {
+   "id": "work-ennreads",
+   "title": "《九章集》",
+   "title_original": "Ἐννεάδες（Enneads）",
+   "tradition": "west",
+   "date_display": "约250—270年讲说；波菲利约300年编订",
+   "structure": "六集五十四篇，由波菲利按主题编次：伦理与美学、自然哲学、宇宙论、灵魂、理智、太一。",
+   "core_arguments": [
+    "太一超越存在与思想，万物由之流溢",
+    "灵魂的使命是回归（epistrophē）本源",
+    "物质是匮乏的极点，恶是善的缺失"
+   ],
+   "key_points": [
+    {
+     "locator": "I.6",
+     "point": "论美：美是向太一的上升"
+    },
+    {
+     "locator": "V.1",
+     "point": "三个原初本体：太一、理智、灵魂"
+    },
+    {
+     "locator": "V.3.17",
+     "point": "太一不可言说，只能在“合一”中被把握"
+    },
+    {
+     "locator": "VI.9",
+     "point": "论太一与灵魂的合一"
+    }
+   ],
+   "editions": [
+    "石敏敏译《九章集》中国社会科学出版社",
+    "Armstrong 希英对照 Loeb 版"
+   ],
+   "related_people": [
+    "gr-hellenistic-plotinus",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "流溢是时间中的创世",
+     "why": "普罗提诺强调流溢是永恒的、非时间性的依存关系。"
+    },
+    {
+     "claim": "太一就是基督教的神",
+     "why": "太一无人格、无意志、不干预历史；中世纪神学借用其结构而作根本改造。"
+    }
+   ],
+   "sources": [
+    "sep-plotinus",
+    "iep-plotinus"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 250
   },
   {
    "id": "work-zhaolun",
@@ -737,7 +686,121 @@
     "sep-madhyamaka"
    ],
    "needs_verification": true,
-   "pending_notes": "《涅槃无名论》是否僧肇所作有争议（或为后人所加）；《宗本义》的作者归属亦有讨论。"
+   "pending_notes": "《涅槃无名论》是否僧肇所作有争议（或为后人所加）；《宗本义》的作者归属亦有讨论。",
+   "sort_year": 400
+  },
+  {
+   "id": "work-city-of-god",
+   "title": "《上帝之城》",
+   "title_original": "De Civitate Dei",
+   "tradition": "west",
+   "date_display": "413—426年",
+   "structure": "二十二卷。前十卷驳异教崇拜（罗马陷落后的神学辩解），后十二卷论“上帝之城”与“地上之城”的起源、发展与归宿。",
+   "core_arguments": [
+    "两座城的区分：按肉体生活与按灵性生活形成的两种爱，构成两座城（卷十四）",
+    "罗马的衰落不能归咎于基督教：异教崇拜未能拯救罗马（卷一—卷十）",
+    "真正的和平是“秩序的安宁”，只有在上帝之城中才完全实现（卷十九）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷十四 28",
+     "point": "两种爱、两座城的定义"
+    },
+    {
+     "locator": "卷十九 13",
+     "point": "和平即“秩序的安宁”（tranquillitas ordinis）"
+    },
+    {
+     "locator": "卷十一 26",
+     "point": "时间的受造性与“三一”的痕迹"
+    },
+    {
+     "locator": "卷二十二",
+     "point": "终末与复活"
+    }
+   ],
+   "editions": [
+    "吴飞译《上帝之城》，上海三联书店（节译本）",
+    "英译见 Marcus Dods, *The City of God*（New Advent 全文）",
+    "拉丁文本以 CCSL 版为准"
+   ],
+   "related_people": [
+    "gr-medieval-augustine",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "两座城是现实中的两个国家",
+     "why": "它们是两种“爱”所构成的两个共同体，在现实中交织难分，直到终末才分离。"
+    },
+    {
+     "claim": "奥古斯丁把世俗政治视为全然败坏",
+     "why": "他承认世俗和平的相对价值，只是不把它当作终极的善。"
+    }
+   ],
+   "sources": [
+    "na-cityofgod",
+    "sep-augustine"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 413
+  },
+  {
+   "id": "work-consolation",
+   "title": "《哲学的慰藉》",
+   "title_original": "De Consolatione Philosophiae",
+   "tradition": "west",
+   "date_display": "约524年",
+   "structure": "五卷，散文与韵文交替；卷一卷二论命运与外物，卷三论真福，卷四论恶与天佑，卷五论自由意志与上帝预知。",
+   "core_arguments": [
+    "幸福不在财富、荣誉与权力，而在对至善的把握",
+    "命运之轮：外物无常，德性不移",
+    "上帝永恒预知不取消人的自由"
+   ],
+   "key_points": [
+    {
+     "locator": "卷二",
+     "point": "命运之轮与无常"
+    },
+    {
+     "locator": "卷三",
+     "point": "真福在于至善（上帝）"
+    },
+    {
+     "locator": "卷四",
+     "point": "恶是善的缺失；天佑引导一切"
+    },
+    {
+     "locator": "卷五",
+     "point": "永恒与时间之别：预知不取消自由"
+    }
+   ],
+   "editions": [
+    "中译参《哲学的慰藉》商务印书馆",
+    "Loeb Classical Library"
+   ],
+   "related_people": [
+    "gr-medieval-boethius",
+    "gr-medieval-augustine"
+   ],
+   "misreadings": [
+    {
+     "claim": "《慰藉》是基督教护教书",
+     "why": "通篇未提基督与教会，其宗教性质（纯哲学安慰 vs 隐含神学）学界长期有争论。"
+    },
+    {
+     "claim": "命运之轮是宿命论",
+     "why": "它强调外物无常，劝人转向内在的善，而非否定人的努力。"
+    }
+   ],
+   "sources": [
+    "sep-boethius",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《慰藉》的宗教性质与《波菲利〈导论〉注释》两稿年代均有讨论。",
+   "sort_year": 524
   },
   {
    "id": "work-chengweishi",
@@ -793,7 +856,8 @@
     "sep-yogacara"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "sort_year": 659
   },
   {
    "id": "work-summa",
@@ -850,7 +914,349 @@
     "sep-aquinas"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "sort_year": 1265
+  },
+  {
+   "id": "work-tanjing",
+   "title": "《六祖坛经》",
+   "title_original": "六祖壇經（Platform Sutra）",
+   "tradition": "china",
+   "date_display": "敦煌本约9世纪；宗宝本1290年代",
+   "structure": "十品（行由、般若、疑问、定慧、坐禅、忏悔、机缘、顿渐、宣诏、付嘱）；敦煌本不分品且篇幅较短，宗宝本增衍较多。",
+   "core_arguments": [
+    "自性本自清净，见性成佛（《行由品》）",
+    "顿悟：法无顿渐，人有利钝（《顿渐品》）",
+    "不立文字而仍用文字：以“无念、无相、无住”为纲（《定慧品》）"
+   ],
+   "key_points": [
+    {
+     "locator": "《行由品》",
+     "point": "“菩提本无树”偈与衣钵传承"
+    },
+    {
+     "locator": "《般若品》",
+     "point": "“摩诃般若波罗蜜”的通俗解释"
+    },
+    {
+     "locator": "《定慧品》",
+     "point": "定慧一体；无念为宗"
+    },
+    {
+     "locator": "《顿渐品》",
+     "point": "南北顿渐之分"
+    }
+   ],
+   "editions": [
+    "郭朋《坛经校释》，中华书局（以敦煌本为底本）",
+    "宗宝本见《大正藏》第48册",
+    "杨曾文《敦煌新本六祖坛经》，上海古籍出版社"
+   ],
+   "related_people": [
+    "cn-suitang-huineng",
+    "cn-suitang-shenhui"
+   ],
+   "misreadings": [
+    {
+     "claim": "《坛经》是慧能亲笔",
+     "why": "由门人记录并经多次增衍；敦煌本与宗宝本的差异说明其成书有层累过程。"
+    },
+    {
+     "claim": "禅宗反对一切文字",
+     "why": "“不立文字”针对执著文字为实义，禅门实际大量使用经论与语录，《坛经》本身即是文本。"
+    }
+   ],
+   "sources": [
+    "ws-liuzutanjing",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《坛经》的版本系统（敦煌本、惠昕本、契嵩本、宗宝本）与作者问题是学界长期议题；本页以敦煌本与宗宝本的差异为据，不作单一作者断定。",
+   "sort_year": 1290
+  },
+  {
+   "id": "work-chuanxilu",
+   "title": "《传习录》",
+   "title_original": "傳習錄（Instructions for Practical Living）",
+   "tradition": "china",
+   "date_display": "明嘉靖年间编定（约1550年代），三卷",
+   "structure": "上卷（徐爱等录，论知行合一、格物）、中卷（书信，含《答顾东桥书》《答聂文蔚》）、下卷（陈九川等录，含四句教）。",
+   "core_arguments": [
+    "心即理：理不在心外，故格物是正心之工夫（上卷）",
+    "知行合一：知而不行只是未知（上卷）",
+    "致良知：扩充本有的良知于事事物物（中卷《答聂文蔚》）"
+   ],
+   "key_points": [
+    {
+     "locator": "上卷·徐爱录",
+     "point": "“知是行之始，行是知之成”"
+    },
+    {
+     "locator": "中卷《答顾东桥书》",
+     "point": "格物致知的重新解释"
+    },
+    {
+     "locator": "下卷·黄直录",
+     "point": "四句教：无善无恶心之体，有善有恶意之动"
+    },
+    {
+     "locator": "下卷·黄省曾录",
+     "point": "“岩中花树”——心与物的关系"
+    }
+   ],
+   "editions": [
+    "陈荣捷《王阳明传习录详注集评》，台湾学生书局",
+    "邓艾民《传习录注疏》，上海古籍出版社",
+    "《王阳明全集》，上海古籍出版社"
+   ],
+   "related_people": [
+    "cn-songming-wang-yangming",
+    "cn-songming-lu-jiuyuan",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "知行合一是说“知道了自然会做”",
+     "why": "王守仁的意思是：真知必含行动，不行动即未真知；这是对“知先行后”的批评，不是对因果的乐观断言。"
+    },
+    {
+     "claim": "四句教是王守仁的定论",
+     "why": "四句教出自钱德洪、王畿所记，王门后学对其解释（“四有”与“四无”）分歧极大。"
+    }
+   ],
+   "sources": [
+    "ct-chuanxilu",
+    "sep-wang-yangming"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1550
+  },
+  {
+   "id": "work-discourse-method",
+   "title": "《谈谈方法》",
+   "title_original": "Discours de la méthode",
+   "tradition": "west",
+   "date_display": "1637年",
+   "structure": "六部分：论方法、主要规则、道德、上帝与灵魂的证明、物理问题、进一步研究之必要；附《折光学》《气象学》《几何学》三篇。",
+   "core_arguments": [
+    "四条方法规则：只接受清晰分明者、分解问题、由简至繁、全面复查",
+    "以“我思”为不可怀疑的起点",
+    "暂守“临时道德”以在重建期间行动"
+   ],
+   "key_points": [
+    {
+     "locator": "第二部分",
+     "point": "四条方法规则"
+    },
+    {
+     "locator": "第四部分",
+     "point": "“我思故我在”"
+    },
+    {
+     "locator": "第三部分",
+     "point": "临时道德三条"
+    },
+    {
+     "locator": "附录《几何学》",
+     "point": "解析几何的奠基"
+    }
+   ],
+   "editions": [
+    "王太庆译《谈谈方法》商务印书馆",
+    "法文本以 Adam & Tannery 为准"
+   ],
+   "related_people": [
+    "gr-modern-descartes",
+    "gr-modern-hume"
+   ],
+   "misreadings": [
+    {
+     "claim": "“我思故我在”是三段论",
+     "why": "笛卡尔明确说它不是推论，而是每次怀疑时直接被把握的直观。"
+    },
+    {
+     "claim": "《谈谈方法》是完整的形而上学",
+     "why": "它是方法导论，形而上学详见《第一哲学沉思集》。"
+    }
+   ],
+   "sources": [
+    "emt-descartes",
+    "sep-descartes"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1637
+  },
+  {
+   "id": "work-meditations",
+   "title": "《第一哲学沉思集》",
+   "title_original": "Meditationes de prima philosophia",
+   "tradition": "west",
+   "date_display": "1641年（拉丁文本）；1647年法译本",
+   "structure": "六个沉思，附“诘难与答辩”。依次：普遍怀疑—我思—上帝存在与真理标准—真理与错误—物质事物的本质—物质事物的存在与心物区分。",
+   "core_arguments": [
+    "我思故我在：怀疑本身不可被怀疑（第二沉思）",
+    "清楚分明是真理的标准，其保证者为上帝（第三、四沉思）",
+    "心物是两类不同的实体（第六沉思）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一沉思",
+     "point": "怀疑一切可怀疑者：感官、梦、恶魔"
+    },
+    {
+     "locator": "第二沉思",
+     "point": "“我在，我存在”与蜡块分析"
+    },
+    {
+     "locator": "第三沉思",
+     "point": "上帝存在的因果论证"
+    },
+    {
+     "locator": "第六沉思",
+     "point": "心物 realmente 区分"
+    }
+   ],
+   "editions": [
+    "庞景仁译《第一哲学沉思集》，商务印书馆",
+    "Adam & Tannery 拉丁文本（Vrin）",
+    "J. Bennett 现代英语改编本，见 Early Modern Texts（阅读辅助，非定本）"
+   ],
+   "related_people": [
+    "gr-modern-descartes",
+    "gr-modern-hume",
+    "gr-modern-locke"
+   ],
+   "misreadings": [
+    {
+     "claim": "笛卡尔的怀疑是真正的怀疑论",
+     "why": "怀疑是方法：为找到不可怀疑的基础而暂时悬置判断，最终以“我思”与上帝的存在克服怀疑。"
+    },
+    {
+     "claim": "“我思故我在”是三段论推理",
+     "why": "笛卡尔明确说它不是一个推论，而是每次怀疑时直接被把握的直观。"
+    }
+   ],
+   "sources": [
+    "emt-descartes",
+    "sep-descartes"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1641
+  },
+  {
+   "id": "work-two-treatises",
+   "title": "《政府论》两篇",
+   "title_original": "Two Treatises of Government",
+   "tradition": "west",
+   "date_display": "1690年（1689年登记）",
+   "structure": "上篇驳菲尔麦的君权神授说；下篇论政府的真正起源、范围与目的（自然状态、契约、财产、暴政与抵抗权）。",
+   "core_arguments": [
+    "自然状态与自然法：人天生自由平等，受理性之法约束",
+    "财产权来自劳动：劳动使共有之物成为私产",
+    "政府基于同意；违反信托时人民有抵抗权"
+   ],
+   "key_points": [
+    {
+     "locator": "下篇第二章",
+     "point": "自然状态与自然法"
+    },
+    {
+     "locator": "下篇第五章",
+     "point": "劳动创造财产权"
+    },
+    {
+     "locator": "下篇第八章",
+     "point": "政治社会的起源在于同意"
+    },
+    {
+     "locator": "下篇第十九章",
+     "point": "暴政与抵抗权"
+    }
+   ],
+   "editions": [
+    "中译参《政府论》商务印书馆（上下篇）",
+    "英文本以 Laslett 校订本（Cambridge）为准"
+   ],
+   "related_people": [
+    "gr-modern-locke",
+    "gr-contemp-rawls"
+   ],
+   "misreadings": [
+    {
+     "claim": "洛克主张绝对私有制",
+     "why": "财产权受自然法限制：“留有足够且同样好的东西给他人”（proviso）。"
+    },
+    {
+     "claim": "洛克的理论是民主理论",
+     "why": "他主张的是有产者的代议制与抵抗权，选举权范围有限，与现代普选民主不同。"
+    }
+   ],
+   "sources": [
+    "sep-locke",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1690
+  },
+  {
+   "id": "work-monadology",
+   "title": "《单子论》",
+   "title_original": "Monadologie",
+   "tradition": "west",
+   "date_display": "1714年",
+   "structure": "九十节的纲要；从单子的定义、知觉与欲求，到预定和谐、最好的世界与上帝。",
+   "core_arguments": [
+    "单子无窗、不可分、有知觉，按内在原则自行展开",
+    "预定和谐：单子不相互作用而由上帝预先安排协调",
+    "充足理由律：一切皆有理由；上帝选择最好的可能世界"
+   ],
+   "key_points": [
+    {
+     "locator": "§1—§3",
+     "point": "单子的定义：单纯、无部分"
+    },
+    {
+     "locator": "§7",
+     "point": "单子无窗（no windows）"
+    },
+    {
+     "locator": "§32",
+     "point": "充足理由律"
+    },
+    {
+     "locator": "§53—§55",
+     "point": "可能世界与最好的世界"
+    }
+   ],
+   "editions": [
+    "陈修斋译《莱布尼茨哲学著作选》商务印书馆",
+    "J. Bennett 改编本（Early Modern Texts）"
+   ],
+   "related_people": [
+    "gr-modern-leibniz",
+    "gr-modern-spinoza"
+   ],
+   "misreadings": [
+    {
+     "claim": "单子是有意识的小灵魂",
+     "why": "单子的知觉有层级，多数是“微知觉”（无意识）；只有理性单子（人）有统觉。"
+    },
+    {
+     "claim": "“最好的世界”是盲目乐观",
+     "why": "它是神义论论证：在逻辑可能的范围内由充足理由选出，并非否认恶的存在。"
+    }
+   ],
+   "sources": [
+    "emt-leibniz",
+    "sep-leibniz"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1714
   },
   {
    "id": "work-treatise-human-nature",
@@ -907,234 +1313,66 @@
     "sep-hume"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "sort_year": 1739
   },
   {
-   "id": "work-phenomenology-spirit",
-   "title": "《精神现象学》",
-   "title_original": "Phänomenologie des Geistes",
+   "id": "work-krv",
+   "title": "《纯粹理性批判》",
+   "title_original": "Kritik der reinen Vernunft",
    "tradition": "west",
-   "date_display": "1807年",
-   "structure": "序言＋导论＋（意识、自我意识、理性、精神、宗教、绝对知识）诸章。以“意识的诸形态”为线索，展示意识如何从感性直接性走向绝对知识。",
+   "date_display": "1781年（A 版）；1787年（B 版，有实质修改）",
+   "structure": "先验感性论（时空）、先验分析论（范畴、图型、原理）、先验辩证论（理性之幻相：灵魂、世界、上帝）、先验方法论。B 版重写了先验演绎并增删多处。",
    "core_arguments": [
-    "感性确定性必然失败：说不出“这一个”，一说即普遍（第一章）",
-    "主奴辩证法：自我意识须经他者承认，劳动使奴隶获得自我意识的真理（第四章）",
-    "真理是整体：绝对知识是精神自我认识的过程（末章）"
+    "时空是直观的先天形式，范畴是知性的纯粹概念（先验感性论、分析论）",
+    "先天综合判断如何可能：以先天形式构成经验对象（导言、分析论）",
+    "理性的越界产生幻相：四组二律背反（辩证论）"
    ],
    "key_points": [
     {
-     "locator": "序言",
-     "point": "“真理是整体”；实体即主体"
+     "locator": "B 版导言",
+     "point": "先天综合判断如何可能——全书的总问题"
     },
     {
-     "locator": "第一章",
-     "point": "感性确定性：这里的“这一个”与意谓的失败"
+     "locator": "A51/B75",
+     "point": "“思想无内容则空，直观无概念则盲”"
     },
     {
-     "locator": "第四章 A",
-     "point": "主奴关系与承认"
+     "locator": "B 版演绎 §16",
+     "point": "先验统觉：“我思”须能伴随一切表象"
     },
     {
-     "locator": "第八章",
-     "point": "绝对知识"
+     "locator": "A444/B472 起",
+     "point": "第三组二律背反：自由与自然必然"
     }
    ],
    "editions": [
-    "先刚译《精神现象学》，人民出版社",
-    "贺麟、王玖兴译《精神现象学》，商务印书馆",
-    "德文以 GW 9（Meiner）为准"
+    "邓晓芒译、杨祖陶校《纯粹理性批判》，人民出版社",
+    "李秋零译《纯粹理性批判》，中国人民大学出版社",
+    "德文以 Meiner 版（A/B 对照）为准；引用惯例标 A/B 页码"
    ],
    "related_people": [
-    "gr-german-hegel",
-    "gr-german-fichte",
-    "gr-german-schelling"
+    "gr-german-kant",
+    "gr-modern-hume",
+    "gr-german-hegel"
    ],
    "misreadings": [
     {
-     "claim": "《精神现象学》是“正反合”三步法的演示",
-     "why": "“正反合”是后世的概括，黑格尔本人极少使用；其方法是概念的内在否定运动。"
+     "claim": "康德说世界由心创造",
+     "why": "他说的是经验对象的先天形式来自主体；物自体独立存在，故不是主观唯心论。"
     },
     {
-     "claim": "主奴辩证法讲的是阶级斗争",
-     "why": "它讲的是自我意识通过承认而成立的结构；马克思后来把它改写为社会劳动与阶级分析，那是再解释。"
+     "claim": "物自体是“另一个世界的事物”",
+     "why": "物自体是界限概念：同一对象不作为现象而被思考的方面，不是另一个可被认识的世界。"
     }
    ],
    "sources": [
-    "sep-hegel",
-    "iep-hegel"
+    "emt-kant",
+    "sep-kant"
    ],
    "needs_verification": false,
-   "pending_notes": ""
-  },
-  {
-   "id": "work-being-nothingness",
-   "title": "《存在与虚无》",
-   "title_original": "L'Être et le néant",
-   "tradition": "west",
-   "date_display": "1943年",
-   "structure": "导论（现象学本体论）＋四卷（虚无的问题、自为的存在、为他、拥有/作为/存在）。以“自在存在”（en-soi）与“自为存在”（pour-soi）的区分为骨架。",
-   "core_arguments": [
-    "自在与自为的区分：自在是充实的、无意识的；自为是虚无化的、自由的（导论、第一卷）",
-    "自欺：意识以“事实性”逃避自由（第一卷第二章）",
-    "他人的注视：我被他者对象化为“为他存在”（第三卷）"
-   ],
-   "key_points": [
-    {
-     "locator": "导论",
-     "point": "“存在先于本质”的现象学本体论前提"
-    },
-    {
-     "locator": "第一卷第一章",
-     "point": "虚无的来源：意识即虚无化"
-    },
-    {
-     "locator": "第一卷第二章",
-     "point": "自欺（mauvaise foi）：侍者的例子"
-    },
-    {
-     "locator": "第三卷",
-     "point": "注视与羞耻：他人的出现"
-    }
-   ],
-   "editions": [
-    "陈宣良等译、杜小真校《存在与虚无》，三联书店",
-    "英译见 Hazel Barnes, *Being and Nothingness*, Routledge",
-    "法文本以 Gallimard 版为准"
-   ],
-   "related_people": [
-    "gr-20c-sartre",
-    "gr-20c-heidegger",
-    "gr-20c-husserl"
-   ],
-   "misreadings": [
-    {
-     "claim": "萨特说人可以任意选择",
-     "why": "自由总在既定处境中行使，且伴随对处境的承担；他明确说不能自由地不做奴隶，但可以自由地对待奴役。"
-    },
-    {
-     "claim": "《存在与虚无》是虚无主义宣言",
-     "why": "萨特本人称存在主义是一种人道主义；虚无是自由的代价，不是价值的取消。"
-    }
-   ],
-   "sources": [
-    "sep-sartre",
-    "iep-sartre"
-   ],
-   "needs_verification": false,
-   "pending_notes": ""
-  },
-  {
-   "id": "work-mozi",
-   "title": "《墨子》",
-   "title_original": "墨子（Mozi）",
-   "tradition": "china",
-   "date_display": "战国前期（前5—前3世纪，含后期墨家之作）",
-   "structure": "今本五十三篇。分五组：墨论（尚贤、尚同、兼爱、非攻、节用、节葬、天志、明鬼、非乐、非命）、墨语、墨经（经上下、经说上下、大取、小取）、墨守（守城技术）、墨论杂篇。",
-   "core_arguments": [
-    "兼相爱、交相利：乱起于不相爱，故当视人之家若其家（《兼爱中》）",
-    "三表法：以上古圣王之事、百姓耳目之实、国家人民之利检验学说（《非命上》）",
-    "非攻：攻战在利害上不利、在名实上不义（《非攻上》）"
-   ],
-   "key_points": [
-    {
-     "locator": "《兼爱中》",
-     "point": "“兼相爱，交相利”的总纲"
-    },
-    {
-     "locator": "《非命上》",
-     "point": "三表法：本、原、用"
-    },
-    {
-     "locator": "《非攻上》",
-     "point": "“杀一人谓之不义…今至大为攻国，则弗知非”"
-    },
-    {
-     "locator": "《经上》",
-     "point": "后期墨家的名、辞、说与几何、光学条目"
-    }
-   ],
-   "editions": [
-    "孙诒让《墨子间诂》，中华书局（新编诸子集成本）",
-    "吴毓江《墨子校注》，中华书局",
-    "英译见 Ian Johnston, *The Mozi*, Chinese University Press"
-   ],
-   "related_people": [
-    "cn-xianqin-mozi",
-    "cn-xianqin-kongzi",
-    "cn-xianqin-mengzi"
-   ],
-   "misreadings": [
-    {
-     "claim": "《墨子》全是墨翟一人所作",
-     "why": "《墨经》六篇为后期墨家辩学，《备城门》以下为守城技术，作者与年代分层明显。"
-    },
-    {
-     "claim": "墨家主张“兼爱”即爱一切人同等",
-     "why": "“兼”相对于“别”（区分人我而厚薄之）而言，重点是不以人我之别作为损人的理由。"
-    }
-   ],
-   "sources": [
-    "ct-mozi",
-    "iep-chinese-philosophy"
-   ],
-   "needs_verification": true,
-   "pending_notes": "《墨经》六篇（经上下、经说上下、大取、小取）的作者与年代、以及《墨子》各篇的成书层次，学界有长期讨论。"
-  },
-  {
-   "id": "work-city-of-god",
-   "title": "《上帝之城》",
-   "title_original": "De Civitate Dei",
-   "tradition": "west",
-   "date_display": "413—426年",
-   "structure": "二十二卷。前十卷驳异教崇拜（罗马陷落后的神学辩解），后十二卷论“上帝之城”与“地上之城”的起源、发展与归宿。",
-   "core_arguments": [
-    "两座城的区分：按肉体生活与按灵性生活形成的两种爱，构成两座城（卷十四）",
-    "罗马的衰落不能归咎于基督教：异教崇拜未能拯救罗马（卷一—卷十）",
-    "真正的和平是“秩序的安宁”，只有在上帝之城中才完全实现（卷十九）"
-   ],
-   "key_points": [
-    {
-     "locator": "卷十四 28",
-     "point": "两种爱、两座城的定义"
-    },
-    {
-     "locator": "卷十九 13",
-     "point": "和平即“秩序的安宁”（tranquillitas ordinis）"
-    },
-    {
-     "locator": "卷十一 26",
-     "point": "时间的受造性与“三一”的痕迹"
-    },
-    {
-     "locator": "卷二十二",
-     "point": "终末与复活"
-    }
-   ],
-   "editions": [
-    "吴飞译《上帝之城》，上海三联书店（节译本）",
-    "英译见 Marcus Dods, *The City of God*（New Advent 全文）",
-    "拉丁文本以 CCSL 版为准"
-   ],
-   "related_people": [
-    "gr-medieval-augustine",
-    "gr-medieval-aquinas"
-   ],
-   "misreadings": [
-    {
-     "claim": "两座城是现实中的两个国家",
-     "why": "它们是两种“爱”所构成的两个共同体，在现实中交织难分，直到终末才分离。"
-    },
-    {
-     "claim": "奥古斯丁把世俗政治视为全然败坏",
-     "why": "他承认世俗和平的相对价值，只是不把它当作终极的善。"
-    }
-   ],
-   "sources": [
-    "na-cityofgod",
-    "sep-augustine"
-   ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "sort_year": 1781
   },
   {
    "id": "work-cpr-practical",
@@ -1191,172 +1429,66 @@
     "sep-kant"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "sort_year": 1788
   },
   {
-   "id": "work-xunzi",
-   "title": "《荀子》",
-   "title_original": "荀子（Xunzi）",
-   "tradition": "china",
-   "date_display": "约前3世纪",
-   "structure": "三十二篇；《劝学》《天论》《解蔽》《正名》《性恶》《礼论》《乐论》为核心；《成相》《赋》文体特殊，《大略》以下或出弟子记录。",
-   "core_arguments": [
-    "性恶：顺性则争，故善者伪也",
-    "天人之分：天行有常，制天命而用之",
-    "化性起伪：礼义由圣人积思虑而生"
-   ],
-   "key_points": [
-    {
-     "locator": "《劝学》",
-     "point": "“学不可以已”；积善成德"
-    },
-    {
-     "locator": "《天论》",
-     "point": "“天行有常，不为尧存，不为桀亡”"
-    },
-    {
-     "locator": "《解蔽》",
-     "point": "“凡人之患，蔽于一曲而暗于大理”"
-    },
-    {
-     "locator": "《性恶》",
-     "point": "“人之性恶，其善者伪也”"
-    }
-   ],
-   "editions": [
-    "王先谦《荀子集解》中华书局",
-    "李涤生《荀子集释》台湾学生书局"
-   ],
-   "related_people": [
-    "cn-xianqin-xunzi",
-    "cn-xianqin-mengzi"
-   ],
-   "misreadings": [
-    {
-     "claim": "荀子不是儒家",
-     "why": "他自居孔门、特重礼乐师法；因性恶说被宋以后排出道统，但那是道统论的判断。"
-    },
-    {
-     "claim": "性恶说认为人无可救药",
-     "why": "性恶恰是教化必要性的前提；荀子主张“涂之人可以为禹”。"
-    }
-   ],
-   "sources": [
-    "ct-xunzi",
-    "sep-xunzi"
-   ],
-   "needs_verification": false,
-   "pending_notes": ""
-  },
-  {
-   "id": "work-politics",
-   "title": "《政治学》",
-   "title_original": "Πολιτικά（Politics）",
+   "id": "work-phenomenology-spirit",
+   "title": "《精神现象学》",
+   "title_original": "Phänomenologie des Geistes",
    "tradition": "west",
-   "date_display": "约前335年",
-   "structure": "八卷；卷一论城邦与家庭，卷二评述理想政体，卷三论公民与政体分类，卷四—六论现实政体与变革，卷七—八论理想城邦与教育。",
+   "date_display": "1807年",
+   "structure": "序言＋导论＋（意识、自我意识、理性、精神、宗教、绝对知识）诸章。以“意识的诸形态”为线索，展示意识如何从感性直接性走向绝对知识。",
    "core_arguments": [
-    "人天生是政治的动物：城邦先于个人在本性上",
-    "政体分类：以统治者人数与是否顾全公共福利为标准",
-    "中产阶级最稳定：贫富两极易致政体倾覆"
+    "感性确定性必然失败：说不出“这一个”，一说即普遍（第一章）",
+    "主奴辩证法：自我意识须经他者承认，劳动使奴隶获得自我意识的真理（第四章）",
+    "真理是整体：绝对知识是精神自我认识的过程（末章）"
    ],
    "key_points": [
     {
-     "locator": "I.2 1253a",
-     "point": "“人天生是政治的动物”"
+     "locator": "序言",
+     "point": "“真理是整体”；实体即主体"
     },
     {
-     "locator": "III.7",
-     "point": "政体的三种正确形态与三种变态"
+     "locator": "第一章",
+     "point": "感性确定性：这里的“这一个”与意谓的失败"
     },
     {
-     "locator": "IV.11",
-     "point": "中产阶级为最稳定的政体基础"
+     "locator": "第四章 A",
+     "point": "主奴关系与承认"
     },
     {
-     "locator": "VII—VIII",
-     "point": "理想城邦与公民教育"
+     "locator": "第八章",
+     "point": "绝对知识"
     }
    ],
    "editions": [
-    "吴寿彭译《政治学》商务印书馆",
-    "Jowett 英译（MIT Classics）"
+    "先刚译《精神现象学》，人民出版社",
+    "贺麟、王玖兴译《精神现象学》，商务印书馆",
+    "德文以 GW 9（Meiner）为准"
    ],
    "related_people": [
-    "gr-ancient-aristotle",
-    "gr-ancient-plato"
+    "gr-german-hegel",
+    "gr-german-fichte",
+    "gr-german-schelling"
    ],
    "misreadings": [
     {
-     "claim": "亚里士多德主张民主制",
-     "why": "他把多数人统治的“民主制”列为变态政体之一，主张的是以中产阶级为基础的“共和制”（polity）。"
+     "claim": "《精神现象学》是“正反合”三步法的演示",
+     "why": "“正反合”是后世的概括，黑格尔本人极少使用；其方法是概念的内在否定运动。"
     },
     {
-     "claim": "政治学与伦理学无关",
-     "why": "二者同属实践哲学：伦理学论个人善，政治学论城邦善，后者是前者的完成。"
+     "claim": "主奴辩证法讲的是阶级斗争",
+     "why": "它讲的是自我意识通过承认而成立的结构；马克思后来把它改写为社会劳动与阶级分析，那是再解释。"
     }
    ],
    "sources": [
-    "mit-aristotle-politics",
-    "sep-aristotle"
+    "sep-hegel",
+    "iep-hegel"
    ],
    "needs_verification": false,
-   "pending_notes": ""
-  },
-  {
-   "id": "work-discourse-method",
-   "title": "《谈谈方法》",
-   "title_original": "Discours de la méthode",
-   "tradition": "west",
-   "date_display": "1637年",
-   "structure": "六部分：论方法、主要规则、道德、上帝与灵魂的证明、物理问题、进一步研究之必要；附《折光学》《气象学》《几何学》三篇。",
-   "core_arguments": [
-    "四条方法规则：只接受清晰分明者、分解问题、由简至繁、全面复查",
-    "以“我思”为不可怀疑的起点",
-    "暂守“临时道德”以在重建期间行动"
-   ],
-   "key_points": [
-    {
-     "locator": "第二部分",
-     "point": "四条方法规则"
-    },
-    {
-     "locator": "第四部分",
-     "point": "“我思故我在”"
-    },
-    {
-     "locator": "第三部分",
-     "point": "临时道德三条"
-    },
-    {
-     "locator": "附录《几何学》",
-     "point": "解析几何的奠基"
-    }
-   ],
-   "editions": [
-    "王太庆译《谈谈方法》商务印书馆",
-    "法文本以 Adam & Tannery 为准"
-   ],
-   "related_people": [
-    "gr-modern-descartes",
-    "gr-modern-hume"
-   ],
-   "misreadings": [
-    {
-     "claim": "“我思故我在”是三段论",
-     "why": "笛卡尔明确说它不是推论，而是每次怀疑时直接被把握的直观。"
-    },
-    {
-     "claim": "《谈谈方法》是完整的形而上学",
-     "why": "它是方法导论，形而上学详见《第一哲学沉思集》。"
-    }
-   ],
-   "sources": [
-    "emt-descartes",
-    "sep-descartes"
-   ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "sort_year": 1807
   },
   {
    "id": "work-shorter-logic",
@@ -1411,62 +1543,8 @@
     "iep-hegel"
    ],
    "needs_verification": false,
-   "pending_notes": ""
-  },
-  {
-   "id": "work-consolation",
-   "title": "《哲学的慰藉》",
-   "title_original": "De Consolatione Philosophiae",
-   "tradition": "west",
-   "date_display": "约524年",
-   "structure": "五卷，散文与韵文交替；卷一卷二论命运与外物，卷三论真福，卷四论恶与天佑，卷五论自由意志与上帝预知。",
-   "core_arguments": [
-    "幸福不在财富、荣誉与权力，而在对至善的把握",
-    "命运之轮：外物无常，德性不移",
-    "上帝永恒预知不取消人的自由"
-   ],
-   "key_points": [
-    {
-     "locator": "卷二",
-     "point": "命运之轮与无常"
-    },
-    {
-     "locator": "卷三",
-     "point": "真福在于至善（上帝）"
-    },
-    {
-     "locator": "卷四",
-     "point": "恶是善的缺失；天佑引导一切"
-    },
-    {
-     "locator": "卷五",
-     "point": "永恒与时间之别：预知不取消自由"
-    }
-   ],
-   "editions": [
-    "中译参《哲学的慰藉》商务印书馆",
-    "Loeb Classical Library"
-   ],
-   "related_people": [
-    "gr-medieval-boethius",
-    "gr-medieval-augustine"
-   ],
-   "misreadings": [
-    {
-     "claim": "《慰藉》是基督教护教书",
-     "why": "通篇未提基督与教会，其宗教性质（纯哲学安慰 vs 隐含神学）学界长期有争论。"
-    },
-    {
-     "claim": "命运之轮是宿命论",
-     "why": "它强调外物无常，劝人转向内在的善，而非否定人的努力。"
-    }
-   ],
-   "sources": [
-    "sep-boethius",
-    "book-gilson-medieval"
-   ],
-   "needs_verification": true,
-   "pending_notes": "《慰藉》的宗教性质与《波菲利〈导论〉注释》两稿年代均有讨论。"
+   "pending_notes": "",
+   "sort_year": 1817
   },
   {
    "id": "work-on-liberty",
@@ -1521,172 +1599,124 @@
     "book-copleston-history"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "sort_year": 1859
   },
   {
-   "id": "work-ennreads",
-   "title": "《九章集》",
-   "title_original": "Ἐννεάδες（Enneads）",
+   "id": "work-being-time",
+   "title": "《存在与时间》",
+   "title_original": "Sein und Zeit",
    "tradition": "west",
-   "date_display": "约250—270年讲说；波菲利约300年编订",
-   "structure": "六集五十四篇，由波菲利按主题编次：伦理与美学、自然哲学、宇宙论、灵魂、理智、太一。",
+   "date_display": "1927年（《现象学年鉴》第八卷；同年出单行本）",
+   "structure": "导论（存在问题的必要性与结构）＋第一部（此在的生存论分析：在世存在、世界性、共在、沉沦、操心；向死存在与时间性）。原计划的第二部（康德以降的存在论解构）未完成。",
    "core_arguments": [
-    "太一超越存在与思想，万物由之流溢",
-    "灵魂的使命是回归（epistrophē）本源",
-    "物质是匮乏的极点，恶是善的缺失"
+    "存在问题被遗忘：须先分析提问者（此在）的存在方式（导论）",
+    "此在的基本建构是在世存在，认识是派生的样式（第一编）",
+    "操心（Sorge）是此在存在的整体结构，其意义是时间性（第一编后半）"
    ],
    "key_points": [
     {
-     "locator": "I.6",
-     "point": "论美：美是向太一的上升"
+     "locator": "§1—§4",
+     "point": "重提存在问题的必要性"
     },
     {
-     "locator": "V.1",
-     "point": "三个原初本体：太一、理智、灵魂"
+     "locator": "§15—§16",
+     "point": "上手（Zuhandenheit）与现成在手（Vorhandenheit）"
     },
     {
-     "locator": "V.3.17",
-     "point": "太一不可言说，只能在“合一”中被把握"
+     "locator": "§27",
+     "point": "常人（das Man）与沉沦"
     },
     {
-     "locator": "VI.9",
-     "point": "论太一与灵魂的合一"
+     "locator": "§46—§53",
+     "point": "向死存在与本真性"
     }
    ],
    "editions": [
-    "石敏敏译《九章集》中国社会科学出版社",
-    "Armstrong 希英对照 Loeb 版"
+    "陈嘉映、王庆节译《存在与时间》，商务印书馆（修订译本）",
+    "德文以 GA 2（Klostermann）为准；引用惯例标德文页边码",
+    "英译见 Macquarrie & Robinson（Harper & Row）"
    ],
    "related_people": [
-    "gr-hellenistic-plotinus",
-    "gr-ancient-plato"
+    "gr-20c-heidegger",
+    "gr-20c-husserl",
+    "gr-20c-sartre"
    ],
    "misreadings": [
     {
-     "claim": "流溢是时间中的创世",
-     "why": "普罗提诺强调流溢是永恒的、非时间性的依存关系。"
+     "claim": "《存在与时间》是存在主义的人学",
+     "why": "海德格尔的问题是存在本身，此在分析只是通路；他后来明确拒绝“存在主义”标签。"
     },
     {
-     "claim": "太一就是基督教的神",
-     "why": "太一无人格、无意志、不干预历史；中世纪神学借用其结构而作根本改造。"
+     "claim": "“向死存在”是宣扬死亡",
+     "why": "它指把死亡作为最本己的可能性来承担，从而本真地生活，不是劝人去死。"
     }
    ],
    "sources": [
-    "sep-plotinus",
-    "iep-plotinus"
+    "book-heidegger-bt",
+    "sep-heidegger"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "sort_year": 1927
   },
   {
-   "id": "work-two-treatises",
-   "title": "《政府论》两篇",
-   "title_original": "Two Treatises of Government",
+   "id": "work-being-nothingness",
+   "title": "《存在与虚无》",
+   "title_original": "L'Être et le néant",
    "tradition": "west",
-   "date_display": "1690年（1689年登记）",
-   "structure": "上篇驳菲尔麦的君权神授说；下篇论政府的真正起源、范围与目的（自然状态、契约、财产、暴政与抵抗权）。",
+   "date_display": "1943年",
+   "structure": "导论（现象学本体论）＋四卷（虚无的问题、自为的存在、为他、拥有/作为/存在）。以“自在存在”（en-soi）与“自为存在”（pour-soi）的区分为骨架。",
    "core_arguments": [
-    "自然状态与自然法：人天生自由平等，受理性之法约束",
-    "财产权来自劳动：劳动使共有之物成为私产",
-    "政府基于同意；违反信托时人民有抵抗权"
+    "自在与自为的区分：自在是充实的、无意识的；自为是虚无化的、自由的（导论、第一卷）",
+    "自欺：意识以“事实性”逃避自由（第一卷第二章）",
+    "他人的注视：我被他者对象化为“为他存在”（第三卷）"
    ],
    "key_points": [
     {
-     "locator": "下篇第二章",
-     "point": "自然状态与自然法"
+     "locator": "导论",
+     "point": "“存在先于本质”的现象学本体论前提"
     },
     {
-     "locator": "下篇第五章",
-     "point": "劳动创造财产权"
+     "locator": "第一卷第一章",
+     "point": "虚无的来源：意识即虚无化"
     },
     {
-     "locator": "下篇第八章",
-     "point": "政治社会的起源在于同意"
+     "locator": "第一卷第二章",
+     "point": "自欺（mauvaise foi）：侍者的例子"
     },
     {
-     "locator": "下篇第十九章",
-     "point": "暴政与抵抗权"
+     "locator": "第三卷",
+     "point": "注视与羞耻：他人的出现"
     }
    ],
    "editions": [
-    "中译参《政府论》商务印书馆（上下篇）",
-    "英文本以 Laslett 校订本（Cambridge）为准"
+    "陈宣良等译、杜小真校《存在与虚无》，三联书店",
+    "英译见 Hazel Barnes, *Being and Nothingness*, Routledge",
+    "法文本以 Gallimard 版为准"
    ],
    "related_people": [
-    "gr-modern-locke",
-    "gr-contemp-rawls"
+    "gr-20c-sartre",
+    "gr-20c-heidegger",
+    "gr-20c-husserl"
    ],
    "misreadings": [
     {
-     "claim": "洛克主张绝对私有制",
-     "why": "财产权受自然法限制：“留有足够且同样好的东西给他人”（proviso）。"
+     "claim": "萨特说人可以任意选择",
+     "why": "自由总在既定处境中行使，且伴随对处境的承担；他明确说不能自由地不做奴隶，但可以自由地对待奴役。"
     },
     {
-     "claim": "洛克的理论是民主理论",
-     "why": "他主张的是有产者的代议制与抵抗权，选举权范围有限，与现代普选民主不同。"
+     "claim": "《存在与虚无》是虚无主义宣言",
+     "why": "萨特本人称存在主义是一种人道主义；虚无是自由的代价，不是价值的取消。"
     }
    ],
    "sources": [
-    "sep-locke",
-    "book-copleston-history"
+    "sep-sartre",
+    "iep-sartre"
    ],
    "needs_verification": false,
-   "pending_notes": ""
-  },
-  {
-   "id": "work-monadology",
-   "title": "《单子论》",
-   "title_original": "Monadologie",
-   "tradition": "west",
-   "date_display": "1714年",
-   "structure": "九十节的纲要；从单子的定义、知觉与欲求，到预定和谐、最好的世界与上帝。",
-   "core_arguments": [
-    "单子无窗、不可分、有知觉，按内在原则自行展开",
-    "预定和谐：单子不相互作用而由上帝预先安排协调",
-    "充足理由律：一切皆有理由；上帝选择最好的可能世界"
-   ],
-   "key_points": [
-    {
-     "locator": "§1—§3",
-     "point": "单子的定义：单纯、无部分"
-    },
-    {
-     "locator": "§7",
-     "point": "单子无窗（no windows）"
-    },
-    {
-     "locator": "§32",
-     "point": "充足理由律"
-    },
-    {
-     "locator": "§53—§55",
-     "point": "可能世界与最好的世界"
-    }
-   ],
-   "editions": [
-    "陈修斋译《莱布尼茨哲学著作选》商务印书馆",
-    "J. Bennett 改编本（Early Modern Texts）"
-   ],
-   "related_people": [
-    "gr-modern-leibniz",
-    "gr-modern-spinoza"
-   ],
-   "misreadings": [
-    {
-     "claim": "单子是有意识的小灵魂",
-     "why": "单子的知觉有层级，多数是“微知觉”（无意识）；只有理性单子（人）有统觉。"
-    },
-    {
-     "claim": "“最好的世界”是盲目乐观",
-     "why": "它是神义论论证：在逻辑可能的范围内由充足理由选出，并非否认恶的存在。"
-    }
-   ],
-   "sources": [
-    "emt-leibniz",
-    "sep-leibniz"
-   ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "sort_year": 1943
   }
  ]
 }

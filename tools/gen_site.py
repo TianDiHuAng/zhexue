@@ -524,7 +524,7 @@ def render_works_index(works):
     d = 1
     pth = rel(d)
     body = ["<h1>经典著作</h1>",
-            '<p class="meta">共 %d 部。每页给出文本结构、核心论证、关键段落、版本与常见误读；'
+            '<p class="meta"><a href="timeline.html">→ 按年代浏览（著作年表）</a>　共 %d 部。每页给出文本结构、核心论证、关键段落、版本与常见误读；'
             '文本的分篇与作者问题在“待核实”中说明。</p>' % len(works)]
     for trad, label in (("china", "中国"), ("west", "西方")):
         body.append("<h2>%s</h2><div class=\"grid\">" % label)
@@ -554,6 +554,31 @@ def render_comparative(essays, sources):
         body.append('<div class="pending"><p><b>比较的限度</b>　%s</p></div>' % esc(e["caveat"]))
         body.append("<h3>参考来源</h3>" + src_block(e.get("sources"), sources))
     return page("比较视野", d, "比较视野", "\n".join(body))
+
+
+def render_works_timeline(works):
+    d = 1
+    pth = rel(d)
+    ws = sorted(works, key=lambda w: w.get("sort_year") or 0)
+    body = ["<h1>著作年表</h1>",
+            '<p class="meta">按成书/出版年排序（公元前用“前”标注），共 %d 部。点书名进入著作页。</p>' % len(ws)]
+    body.append('<div class="tl">')
+    last = None
+    for w in ws:
+        y = w.get("sort_year") or 0
+        era = "前" if y < 0 else ""
+        yy = abs(y)
+        cent = ("前%d世纪" % ((yy - 1) // 100 + 1)) if y < 0 else ("%d世纪" % (yy // 100 + 1))
+        if cent != last:
+            last = cent
+            body.append('<p class="tl-item"><b>%s</b></p>' % cent)
+        body.append('<p class="tl-item"><span class="tl-year">%s%s年</span>'
+                    '<a href="%sworks/%s.html">%s</a>'
+                    '<span class="meta">　%s · %s</span></p>'
+                    % (era, yy, pth, w["id"], esc(w["title"]),
+                       "中国" if w["tradition"] == "china" else "西方", esc(w["date_display"])))
+    body.append("</div>")
+    return page("著作年表", d, "著作", "\n".join(body))
 
 
 # ------------------------------------------------------------------ 索引页
@@ -883,6 +908,7 @@ def main():
     for w in works:
         write("works/%s.html" % w["id"], render_work(w, sources, people))
     write("works/index.html", render_works_index(works))
+    write("works/timeline.html", render_works_timeline(works))
     write("comparative.html", render_comparative(essays, sources))
     write("timeline/china.html", render_timeline(units, people, "china", "中国"))
     write("timeline/west.html", render_timeline(units, people, "west", "西方"))
