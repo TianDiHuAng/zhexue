@@ -1,29 +1,29 @@
 {
  "generated": "2026-11-22",
  "totals": {
-  "entries": 393,
+  "entries": 397,
   "by_level": {
-   "L2": 335,
-   "L1": 58
+   "L2": 337,
+   "L1": 60
   },
   "doctrine": {
-   "total": 134,
-   "detail": 134,
+   "total": 138,
+   "detail": 138,
    "auto": 0
   },
-  "needs_verification": 58,
-  "sources": 236,
-  "sources_verified": 220
+  "needs_verification": 60,
+  "sources": 240,
+  "sources_verified": 224
  },
  "units": [
   {
    "unit_id": "cn-lianghan",
    "title": "两汉经学与气论",
    "region": "china",
-   "philosophers": 8,
+   "philosophers": 9,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 0"
+   "philosophers_slot": "8 上限，余 -1"
   },
   {
    "unit_id": "cn-qingmod",
@@ -47,10 +47,10 @@
    "unit_id": "cn-suitang",
    "title": "隋唐佛学",
    "region": "china",
-   "philosophers": 8,
+   "philosophers": 11,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 0"
+   "philosophers_slot": "8 上限，余 -3"
   },
   {
    "unit_id": "cn-weijin",
@@ -225,6 +225,17 @@
    "id": "cn-lianghan-xun-yue",
    "type": "philosopher",
    "title": "荀悦",
+   "container": "cn-lianghan",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "cn-lianghan-huan-tan",
+   "type": "philosopher",
+   "title": "桓谭",
    "container": "cn-lianghan",
    "level": "L1",
    "sources": 3,
@@ -966,6 +977,39 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "cn-suitang-han-yu",
+   "type": "philosopher",
+   "title": "韩愈",
+   "container": "cn-suitang",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "cn-suitang-li-ao",
+   "type": "philosopher",
+   "title": "李翱",
+   "container": "cn-suitang",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "cn-suitang-wang-tong",
+   "type": "philosopher",
+   "title": "王通",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-22"
   },

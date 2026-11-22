@@ -1219,6 +1219,425 @@
      "note": "“无情有性”的经典论证"
     }
    ]
+  },
+  {
+   "id": "cn-suitang-han-yu",
+   "name": "韩愈",
+   "latin": "Han Yu",
+   "birth_year": 768,
+   "death_year": 824,
+   "birth_display": "768年",
+   "death_display": "824年",
+   "birth_note": "据《旧唐书·韩愈传》：生于河南河阳。",
+   "death_note": "824年卒于长安；谥“文”。",
+   "era": "中唐。韩愈倡古文运动、排佛老、立道统，是中唐儒学复兴的关键人物；其“道统”说为宋明理学所继承。",
+   "school": "儒家（古文运动·道统论）",
+   "core_questions": [
+    "儒家的“道”与佛老之道有何不同？",
+    "如何以文章承载道？",
+    "道统如何确立儒学的正统？"
+   ],
+   "arguments": [
+    {
+     "claim": "道统论：儒家之道有其传授谱系",
+     "premises": [
+      "“斯道也……尧以是传之舜，舜以是传之禹……孔子传之孟轲，轲之死，不得其传焉”。",
+      "佛老另有其“道”，与儒家之道不同。"
+     ],
+     "inference": "若儒家之道有明确谱系而佛老之道异质，则儒学须自觉承继该谱系以对抗佛老。",
+     "conclusion": "须确立“道统”，以儒家仁义之道排斥佛老。",
+     "kind": "原文"
+    },
+    {
+     "claim": "排佛老：其说破坏伦常与经济",
+     "premises": [
+      "佛老弃君臣父子、不事生产。",
+      "寺院经济与出家众削弱国家赋税与劳力。"
+     ],
+     "inference": "若佛老使民不事生产、不奉君父，则其流行将瓦解社会秩序。",
+     "conclusion": "当“人其人，火其书，庐其居”，以儒家伦常重建秩序（《原道》）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《原道》《原性》《师说》",
+     "edition": "《韩昌黎文集校注》马其昶校注、马茂元整理，上海古籍出版社",
+     "note": "《原道》为道统论与排佛老的纲领"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "孟子与《大学》",
+     "id": null,
+     "note": "仁义与修齐治平的框架"
+    },
+    {
+     "name": "荀子与扬雄（部分）",
+     "id": null,
+     "note": "其“性三品”说承荀、扬"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "宋明理学（道统论）",
+     "id": null,
+     "note": "朱熹《中庸章句序》承其道统说"
+    },
+    {
+     "name": "古文运动与唐宋八大家",
+     "id": null,
+     "note": "文以载道的写作纲领"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "佛教护法者",
+     "view": "以伦常与经济理由排斥佛教，未回应其心性论的优势。",
+     "response": "韩愈一系的回应是：儒家自有心性资源（《大学》《中庸》），无须借佛；此说为宋代理学所发展。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-yuandao",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "韩愈只是文学家",
+     "why": "《原道》《原性》是系统的哲学与政治论纲，其道统论塑造了宋明理学的自我理解。"
+    },
+    {
+     "claim": "道统论是朱熹的发明",
+     "why": "“道统”谱系由韩愈明确提出，朱熹承之并加系统化。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>韩愈：道统论与排佛老</text><defs><marker id='aHY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>儒家之道有传授谱系</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>佛老之道异质而害伦常</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故须确立道统</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故排佛老以复仁义</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aHY)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aHY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "韩愈：道统论与排佛老的论证（示意图）",
+   "sources": [
+    "ws-yuandao",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "韩愈以《原道》立道统论：儒家之道有尧舜禹汤文武周公孔孟的传授谱系，孟子之后失传，故须自觉承继；佛老另有其道，弃君臣父子、不事生产，破坏伦常与经济，故当排斥。其道统论与“文以载道”的古文运动为宋明理学提供了自我理解的框架。",
+    "system": [
+     {
+      "name": "道统",
+      "content": "尧舜至孔孟的传授谱系；孟子之后失传，须承继之。"
+     },
+     {
+      "name": "排佛老",
+      "content": "佛老弃伦常、耗经济，故当排斥以复仁义之道。"
+     },
+     {
+      "name": "性三品",
+      "content": "性分上中下三品，承荀、扬之说（《原性》）。"
+     },
+     {
+      "name": "文以载道",
+      "content": "文章是道的载体，古文运动即恢复先秦两汉的文道合一。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "仕宦与贬谪（792—819）",
+      "change": "官至刑部侍郎；因谏迎佛骨贬潮州。"
+     },
+     {
+      "period": "晚年（819—824）",
+      "change": "返长安，官至吏部侍郎；卒谥“文”。"
+     }
+    ],
+    "reception": "道统论被朱熹《中庸章句序》继承并系统化；古文运动确立“文以载道”；其排佛老立场是宋明理学兴起的先声。"
+   },
+   "works_detail": [
+    {
+     "title": "《原道》",
+     "structure": "论道统谱系、儒佛之别与社会经济后果。",
+     "core_thesis": "道统；排佛老；仁义之道；这是该书的核心命题。",
+     "editions": "《韩昌黎文集校注》上海古籍出版社",
+     "note": "道统论的核心文本"
+    }
+   ]
+  },
+  {
+   "id": "cn-suitang-li-ao",
+   "name": "李翱",
+   "latin": "Li Ao",
+   "birth_year": 772,
+   "death_year": 841,
+   "birth_display": "772年",
+   "death_display": "841年",
+   "birth_note": "据《旧唐书》：生于陇西，韩愈弟子。",
+   "death_note": "841年卒；官至山南东道节度使。",
+   "era": "中唐。李翱为韩愈弟子，以《复性书》把儒家心性论系统化，融合《中庸》《易》与佛学的心性资源，是理学“心性论”的直接先声。",
+   "school": "儒家（心性论）",
+   "core_questions": [
+    "人性为何会“惑”？",
+    "如何“复性”？",
+    "情与性是什么关系？"
+   ],
+   "arguments": [
+    {
+     "claim": "性善情昏：复性即去情之蔽",
+     "premises": [
+      "人之性皆善（承孟子），如水性本清。",
+      "情之动使性昏，如沙泥搅水。"
+     ],
+     "inference": "若性本善而情使之昏，则修养不在外求，而在“复性”——使情归于静，性自明。",
+     "conclusion": "“复性”是儒家的修养目标，其方法为“灭情以复性”。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以“诚”为复性之极",
+     "premises": [
+      "《中庸》以“诚”为天道与人道之枢纽。",
+      "至诚则能尽性、尽人之性、尽物之性。"
+     ],
+     "inference": "若诚能尽性，则复性的最高境界即“至诚”，与天地参。",
+     "conclusion": "复性工夫以诚为归，兼摄《中庸》的宇宙论。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《复性书》",
+     "edition": "《李文公集》四部丛刊本；中译参《中国佛教思想资料选编》相关卷",
+     "note": "三篇；融合《中庸》《易》与心性论"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "韩愈",
+     "id": "cn-suitang-han-yu",
+     "note": "其师，道统与排佛老的立场"
+    },
+    {
+     "name": "《中庸》《易》",
+     "id": null,
+     "note": "诚与尽性的框架"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "宋明理学（心性论）",
+     "id": null,
+     "note": "“复性”说被视为理学的直接先声"
+    },
+    {
+     "name": "周敦颐与二程",
+     "id": null,
+     "note": "诚与性的问题"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后世儒者（如朱熹一系）",
+     "view": "“灭情以复性”近于佛教的断情，与儒家肯定情感（如四端）不合。",
+     "response": "李翱一系的回应是：所灭者是被遮蔽的“妄情”，而非合乎性的“真情”；其框架仍以儒家伦常为归。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-fuxingshu",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "李翱的学说是佛教的翻版",
+     "why": "他借用了佛学的心性语汇，但目标与归宿仍是儒家的伦常与《中庸》的诚，故被视为理学先声而非佛教。"
+    },
+    {
+     "claim": "“复性”是回到无知无欲",
+     "why": "所复者是本善之性，其极境是“至诚”而非虚无。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>李翱：性善情昏与复性</text><defs><marker id='aLA' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>性本善如水本清</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>情动使性昏如沙搅水</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故修养在复性</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>复性之极在至诚</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLA)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLA)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "李翱：性善情昏与复性（示意图）",
+   "sources": [
+    "ws-fuxingshu",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "李翱以《复性书》把儒家心性论系统化：人之性皆善（如水本清），情之动使性昏（如沙搅水），故修养的目标是“复性”——使情归于静、性自明；复性的极境是《中庸》的“至诚”，能尽性而与天地参。其说融合《中庸》《易》与佛学的心性资源，是宋明理学的直接先声。",
+    "system": [
+     {
+      "name": "性善情昏",
+      "content": "性本善如水本清；情动使性昏如沙搅水；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "复性",
+      "content": "修养不在外求，而在使情归静、性自明；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "至诚",
+      "content": "复性的极境是“至诚”，能尽性、尽人之性、尽物之性。"
+     },
+     {
+      "name": "融合三教",
+      "content": "借佛学心性语汇而归宿于儒家伦常与《中庸》。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "师从韩愈（约800—820）",
+      "change": "为韩愈弟子，参与古文运动；著《复性书》三篇。"
+     },
+     {
+      "period": "仕宦（820—841）",
+      "change": "历任地方与中央官职，官至山南东道节度使。"
+     }
+    ],
+    "reception": "其“复性”说被视为理学心性论的直接先声；周敦颐、二程的“诚”“性”问题承其脉络；现代研究关注其与佛学的关系。"
+   },
+   "works_detail": [
+    {
+     "title": "《复性书》",
+     "structure": "三篇：上篇论性善情昏，中篇论复性之方，下篇论至诚尽性。",
+     "core_thesis": "性善情昏；复性；至诚；这是该书的核心命题。",
+     "editions": "《李文公集》四部丛刊本",
+     "note": "理学心性论的先声"
+    }
+   ]
+  },
+  {
+   "id": "cn-suitang-wang-tong",
+   "name": "王通",
+   "latin": "Wang Tong",
+   "birth_year": 584,
+   "death_year": 617,
+   "birth_display": "584年",
+   "death_display": "617年",
+   "birth_note": "据《中说》与《隋书》：生于绛州龙门，卒年三十四。",
+   "death_note": "617年卒；门人私谥“文中子”。",
+   "era": "隋代。王通以拟经方式著《中说》（仿《论语》），主张“三教可一”、以儒为本，重启儒学的正统意识，被视为理学先声之一。",
+   "school": "儒家（拟经·三教可一）",
+   "core_questions": [
+    "三教（儒佛道）能否统一？",
+    "如何续接孔孟之道？",
+    "帝王之道的根本是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "三教可一，以儒为本",
+     "premises": [
+      "佛、道各有其用，然其根本不及儒家之治世。",
+      "三教若各执一端则相争，须以一统摄。"
+     ],
+     "inference": "若三教各有偏而儒家能统摄治世与人伦，则当以儒为本、兼容佛道。",
+     "conclusion": "“三教可一”：以儒为主，兼取佛道之长。",
+     "kind": "原文"
+    },
+    {
+     "claim": "续接孔孟：拟经以明道",
+     "premises": [
+      "孔子之后道统失传。",
+      "须有续经之作以承其统。"
+     ],
+     "inference": "若道须有文本载体，则续《书》《诗》《元经》等可承孔子之志。",
+     "conclusion": "以拟经方式承继道统，重启儒学的正统意识。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《中说》（文中子）",
+     "edition": "《中说》四部丛刊本；中译参中华书局点校本（若有）",
+     "note": "仿《论语》体；另有《元经》等拟经之作（存疑）"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "孔子与《论语》",
+     "id": null,
+     "note": "拟经的形式与义理来源"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "韩愈与道统论",
+     "id": "cn-suitang-han-yu",
+     "note": "续接道统的意识"
+    },
+    {
+     "name": "宋明理学",
+     "id": null,
+     "note": "三教融合与道统问题的先声"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后世学者（如朱熹）",
+     "view": "拟经是“僭圣”，其书多有后人附益，未必可靠。",
+     "response": "王通一系的回应是：拟经意在承道，非僭越；其形式是时代使然。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-zhongshuo",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《中说》全为王通亲笔",
+     "why": "今本《中说》经后人整理，掺入附益成分，其可靠性有讨论。"
+    },
+    {
+     "claim": "三教可一是要取消儒家",
+     "why": "其立场恰是以儒为本、兼容佛道，而非取消任何一家。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>王通：三教可一与拟经续统</text><defs><marker id='aWT2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>佛道各有所偏</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>儒能统摄治世与人伦</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故三教可一，以儒为本</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故拟经以续孔孟之道</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aWT2)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aWT2)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "王通：三教可一与拟经续统（示意图）",
+   "sources": [
+    "ws-zhongshuo",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "今本《中说》经后人整理，掺入附益成分；王通拟经之作（如《元经》）的真伪与年代学界有讨论。",
+   "doctrine": {
+    "summary": "王通以拟经方式重启儒学的正统意识：他认为佛道各有偏而儒家能统摄治世与人伦，故主张“三教可一”，以儒为本、兼容佛道；又续《书》《诗》《元经》等以承孔子之志。其学是隋唐之际儒学复兴与宋明理学三教融合的先声。",
+    "system": [
+     {
+      "name": "三教可一",
+      "content": "佛道各有偏，儒家能统摄；以儒为主、兼容佛道。"
+     },
+     {
+      "name": "拟经续统",
+      "content": "以拟经承继孔孟之道，重启儒学的正统意识。"
+     },
+     {
+      "name": "帝王之道",
+      "content": "以“中”与“诚”为治国之本，强调君德；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "绛州讲学（约600—617）",
+      "change": "在龙门讲学，门人众多；屡征不仕；卒年三十四。"
+     }
+    ],
+    "reception": "其“三教可一”与拟经续统被韩愈、宋明理学继承；今本《中说》的可靠性有讨论；现代研究视其为理学先声之一。"
+   },
+   "works_detail": [
+    {
+     "title": "《中说》",
+     "structure": "仿《论语》体，记王通与门人问答。",
+     "core_thesis": "三教可一；拟经续统；这是该书的核心命题。",
+     "editions": "《中说》四部丛刊本",
+     "note": "今本经后人整理，有附益成分"
+    }
+   ]
   }
  ],
  "concepts": [

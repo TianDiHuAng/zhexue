@@ -1306,6 +1306,137 @@
      "note": "《汉纪》为编年体改写《汉书》之作"
     }
    ]
+  },
+  {
+   "id": "cn-lianghan-huan-tan",
+   "name": "桓谭",
+   "latin": "Huan Tan",
+   "birth_year": -23,
+   "death_year": 50,
+   "birth_display": "约前23年",
+   "death_display": "约50年",
+   "birth_note": "据《后汉书·桓谭传》：生于沛国相县。",
+   "death_note": "约50年卒于赴任途中；因反谶纬触怒光武帝。",
+   "era": "两汉之际。桓谭以《新论》反对谶纬与天人感应，论形神关系（“精神居形体，犹火之然烛”），是汉代最具怀疑精神的学者之一，也是王充的先驱。",
+   "school": "儒家（怀疑与实证取向）",
+   "core_questions": [
+    "谶纬是否可信？",
+    "形神是什么关系？",
+    "政治应以何为本？"
+   ],
+   "arguments": [
+    {
+     "claim": "谶纬不可信，非圣人之书",
+     "premises": [
+      "谶纬多出后世的附会，非孔子所作。",
+      "以之决政事，则政令依赖虚妄。"
+     ],
+     "inference": "若谶纬无经典依据且可随意附会，则以其决事必致谬误。",
+     "conclusion": "当以人事与经典为据，排斥谶纬。",
+     "kind": "原文"
+    },
+    {
+     "claim": "形神关系如火与烛",
+     "premises": [
+      "精神依附于形体，如火光依附于烛。",
+      "烛尽则火灭。"
+     ],
+     "inference": "若精神依形体而存在，则形尽神灭，故无独立不朽的灵魂（此说与佛教对立，为后世神灭论先声）。",
+     "conclusion": "形神相依，形谢则神灭。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《新论》（辑本）",
+     "edition": "辑本见严可均《全后汉文》；参《中国哲学史资料选辑》",
+     "note": "原书已佚，清人辑佚；形神论与反谶纬见其中"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "扬雄（同时代）",
+     "id": "cn-lianghan-yang-xiong",
+     "note": "对谶纬的保留态度"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "王充",
+     "id": "cn-lianghan-wang-chong",
+     "note": "“疾虚妄”与气自然论的先驱"
+    },
+    {
+     "name": "范缜《神灭论》（远承）",
+     "id": null,
+     "note": "形神关系论的先声"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "东汉正统（光武帝）",
+     "view": "非议谶纬即非议国宪，几致处死。",
+     "response": "桓谭的回应是：以虚妄决政事才是危害国家；其坚持使“神灭”论得以流传。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-xinlun",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "桓谭是唯物论者",
+     "why": "其形神论有唯物倾向，但仍在汉代气论框架内；不宜直接套用近代唯物论。"
+    },
+    {
+     "claim": "《新论》完整传世",
+     "why": "原书已佚，今本为辑佚，部分内容存疑。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>桓谭：反谶纬与形神如烛火</text><defs><marker id='aHT' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>谶纬无经典依据而可附会</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故不可决政事</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故当以人事经典为据</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>形神如烛火，烛尽火灭</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aHT)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aHT)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "桓谭：反谶纬与形神关系（示意图）",
+   "sources": [
+    "ws-xinlun",
+    "ct-lunheng",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《新论》原书已佚，今本为清人辑佚；形神论的具体表述与可靠性须依辑本判断。",
+   "doctrine": {
+    "summary": "桓谭以《新论》反对谶纬与天人感应：谶纬多出后世附会、非孔子所作，以其决政事必致谬误；他又以“精神居形体，犹火之然烛”说明形神相依，形谢则神灭，是后世神灭论的先声。其怀疑与实证取向直接影响了王充。",
+    "system": [
+     {
+      "name": "反谶纬",
+      "content": "谶纬无经典依据且可随意附会，故不可用以决政事。"
+     },
+     {
+      "name": "形神如烛火",
+      "content": "精神依形体而存在，烛尽火灭，故形谢神灭。"
+     },
+     {
+      "name": "重人事",
+      "content": "政治当以人事与经典为据，而非虚妄的图谶。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "两汉之际（约前23—50）",
+      "change": "任掌乐大夫等职；因反谶纬触怒光武帝，贬谪途中去世。"
+     }
+    ],
+    "reception": "其形神论为范缜《神灭论》的先声；反谶纬的立场由王充继承；“疾虚妄”的取向使其成为汉代怀疑精神的代表。"
+   },
+   "works_detail": [
+    {
+     "title": "《新论》（辑本）",
+     "structure": "原书已佚；清人严可均等辑佚，含形神论与反谶纬诸篇。",
+     "core_thesis": "反谶纬；形神如烛火；这是该书的核心命题。",
+     "editions": "辑本见《全后汉文》；参《中国哲学史资料选辑》",
+     "note": "原书佚，今本为辑佚"
+    }
+   ]
   }
  ],
  "concepts": [
