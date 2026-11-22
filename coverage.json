@@ -6,6 +6,11 @@
    "L2": 295,
    "L1": 50
   },
+  "doctrine": {
+   "total": 111,
+   "detail": 16,
+   "auto": 95
+  },
   "needs_verification": 50,
   "sources": 214,
   "sources_verified": 198

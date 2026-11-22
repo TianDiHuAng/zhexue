@@ -313,6 +313,25 @@ def check_unit(path, src, global_ids, unit_ids):
             check_kind(w4, q, "R4")
             if re.search(r"[“”\"]{2}", t):
                 warn(w4, "R4", "引文内含多组引号，确认是否为拼接")
+        # R19：学说详述与著作详录（新层；存在时校验结构）
+        doc = p.get("doctrine")
+        if doc is not None:
+            need(where + " / doctrine", "R19", doc, ["summary", "system", "phases", "reception"],
+                 mins={"summary": 80, "reception": 40})
+            if not isinstance(doc.get("system"), list) or len(doc.get("system") or []) < 2:
+                err(where + " / doctrine", "R19", "system 至少 2 条")
+            for x in doc.get("system") or []:
+                need(where + " / doctrine.system", "R19", x, ["name", "content"], mins={"content": 20})
+            for x in doc.get("phases") or []:
+                need(where + " / doctrine.phases", "R19", x, ["period", "change"], mins={"change": 15})
+        wd = p.get("works_detail")
+        if wd is not None:
+            if not isinstance(wd, list) or not wd:
+                err(where + " / works_detail", "R19", "works_detail 必须是非空数组")
+            for x in wd:
+                need(where + " / works_detail", "R19", x,
+                     ["title", "structure", "core_thesis", "editions"],
+                     mins={"structure": 15, "core_thesis": 15, "editions": 8})
         check_svg(where, p.get("svg"))
         check_sources(where, p, src)
         check_pending(where, p)

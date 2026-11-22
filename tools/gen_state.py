@@ -54,11 +54,23 @@ def main():
     for s in schools:
         add("school", s, s.get("unit") or "")
 
+    # 学说详述覆盖
+    doc_stats = {"total": 0, "detail": 0, "auto": 0}
+    for u in units:
+        for p_ in u["philosophers"]:
+            doc_stats["total"] += 1
+            doc = p_.get("doctrine") or {}
+            if doc:
+                if doc.get("auto"):
+                    doc_stats["auto"] += 1
+                else:
+                    doc_stats["detail"] += 1
+
     by_level = {}
     for e in entries:
         by_level[e["level"]] = by_level.get(e["level"], 0) + 1
     cov = {"generated": today,
-           "totals": {"entries": len(entries), "by_level": by_level,
+           "totals": {"entries": len(entries), "by_level": by_level, "doctrine": doc_stats,
                       "needs_verification": sum(1 for e in entries if e["needs_verification"]),
                       "sources": len(src), "sources_verified": sum(1 for s in src if s["verified"])},
            "units": [{"unit_id": u["unit_id"], "title": u["title"], "region": u["region"],

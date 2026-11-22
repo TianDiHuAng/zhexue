@@ -74,12 +74,28 @@
     }
    ],
    "influenced_by": [
-    {"name": "周公（传统谱系）", "id": null, "note": "孔子自述“述而不作，信而好古”，以周礼为宗；此为孔门自述的谱系，非可考的直接师承"}
+    {
+     "name": "周公（传统谱系）",
+     "id": null,
+     "note": "孔子自述“述而不作，信而好古”，以周礼为宗；此为孔门自述的谱系，非可考的直接师承"
+    }
    ],
    "influenced": [
-    {"name": "孟子", "id": "cn-xianqin-mengzi", "note": "把仁收到心上，转写为性善"},
-    {"name": "荀子", "id": "cn-xianqin-xunzi", "note": "承礼学一路而反性善，主张化性起伪"},
-    {"name": "墨子", "id": "cn-xianqin-mozi", "note": "以“兼爱”批评儒者之礼，属批评性回应"}
+    {
+     "name": "孟子",
+     "id": "cn-xianqin-mengzi",
+     "note": "把仁收到心上，转写为性善"
+    },
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "note": "承礼学一路而反性善，主张化性起伪"
+    },
+    {
+     "name": "墨子",
+     "id": "cn-xianqin-mozi",
+     "note": "以“兼爱”批评儒者之礼，属批评性回应"
+    }
    ],
    "criticisms": [
     {
@@ -87,14 +103,20 @@
      "view": "儒者“繁饰礼乐”“厚葬久丧”，耗费民财、延误生事，且信命而怠事。",
      "response": "儒家的回应是：礼的作用在于节文与安人心，丧祭是“慎终追远”，其效不在财用而在人伦；至于“命”，孔子所言是“知命”而非“听命”。",
      "kind": "后人解读",
-     "sources": ["ct-mozi", "iep-chinese-philosophy"]
+     "sources": [
+      "ct-mozi",
+      "iep-chinese-philosophy"
+     ]
     },
     {
      "critic": "韩非",
      "view": "“儒以文乱法，侠以武犯禁”，以文辞与德誉干扰法令的施行。",
      "response": "儒家一系的回应是：德与法非同一层面，德性养成使人为善，法令使人不为恶，二者不可互相替代。",
      "kind": "原文",
-     "sources": ["ct-hanfeizi", "iep-chinese-philosophy"]
+     "sources": [
+      "ct-hanfeizi",
+      "iep-chinese-philosophy"
+     ]
     }
    ],
    "misconceptions": [
@@ -108,15 +130,94 @@
     }
    ],
    "quotes": [
-    {"text": "性相近也，习相远也", "source_id": "ct-analects", "locator": "《论语·阳货》", "kind": "原文"},
-    {"text": "己所不欲，勿施于人", "source_id": "ct-analects", "locator": "《论语·卫灵公》", "kind": "原文"},
-    {"text": "礼，与其奢也，宁俭", "source_id": "ct-analects", "locator": "《论语·八佾》", "kind": "原文"}
+    {
+     "text": "性相近也，习相远也",
+     "source_id": "ct-analects",
+     "locator": "《论语·阳货》",
+     "kind": "原文"
+    },
+    {
+     "text": "己所不欲，勿施于人",
+     "source_id": "ct-analects",
+     "locator": "《论语·卫灵公》",
+     "kind": "原文"
+    },
+    {
+     "text": "礼，与其奢也，宁俭",
+     "source_id": "ct-analects",
+     "locator": "《论语·八佾》",
+     "kind": "原文"
+    }
    ],
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>孔子的论证结构（示意）</text><defs><marker id='ar1' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='36' y='62' width='196' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='134' y='86' text-anchor='middle' font-size='13' fill='#1e2d3d'>问题：礼崩乐坏</text><text x='134' y='106' text-anchor='middle' font-size='11' fill='#1e2d3d'>诸侯僭礼，秩序失据</text><line x1='232' y1='91' x2='282' y2='91' stroke='#4a7ba6' marker-end='url(#ar1)'/><rect x='286' y='62' width='200' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='386' y='86' text-anchor='middle' font-size='13' fill='#1e2d3d'>前提一：仪节失其本</text><text x='386' y='106' text-anchor='middle' font-size='11' fill='#1e2d3d'>“礼，与其奢也，宁俭”</text><line x1='486' y1='91' x2='536' y2='91' stroke='#4a7ba6' marker-end='url(#ar1)'/><rect x='540' y='62' width='184' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='632' y='86' text-anchor='middle' font-size='13' fill='#1e2d3d'>前提二：人可循外无其心</text><text x='632' y='106' text-anchor='middle' font-size='11' fill='#1e2d3d'>外在仪节不能约束人心</text><line x1='380' y1='120' x2='380' y2='158' stroke='#4a7ba6' marker-end='url(#ar1)'/><rect x='228' y='162' width='304' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='186' text-anchor='middle' font-size='14' fill='#1c3a5c'>推理：礼须有内在根据</text><text x='380' y='208' text-anchor='middle' font-size='11' fill='#1e2d3d'>此根据为情感与敬，即“仁”</text><line x1='380' y1='224' x2='380' y2='262' stroke='#4a7ba6' marker-end='url(#ar1)'/><rect x='150' y='266' width='460' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='290' text-anchor='middle' font-size='14' fill='#1c3a5c'>结论：仁先于礼，礼是仁的外显</text><text x='380' y='311' text-anchor='middle' font-size='11' fill='#1e2d3d'>由此派生出正名、为政以德、克己复礼</text><text x='380' y='356' text-anchor='middle' font-size='11' fill='#4a7ba6'>注：此图为对论点的重构，“仁为礼之本”属后人解读</text><text x='380' y='378' text-anchor='middle' font-size='10' fill='#1e2d3d'>来源：ct-analects / sep-confucius</text></svg>",
    "svg_caption": "孔子：从“礼崩乐坏”到“仁为礼之本”的论证走向（重构示意图）",
-   "sources": ["sep-confucius", "iep-confucius", "book-chan-sourcebook"],
+   "sources": [
+    "sep-confucius",
+    "iep-confucius",
+    "book-chan-sourcebook"
+   ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "孔子的学说以“仁”与“礼”为双轴：礼提供秩序的形式，仁提供秩序的内在根据。他自述“述而不作”，把三代尤其是西周的礼乐传统重新解释为可被个人承担的道德实践，从而把“秩序”从制度问题转为“人如何成就自身”的问题。其教学以“六艺”与经典为内容，以“因材施教”与“不愤不启”为方法，目标是有德能行的“君子”而非单纯的技术官僚。",
+    "system": [
+     {
+      "name": "仁",
+      "content": "对人的关爱与其合宜表达，是礼的内在根据。其可操作形式是“恕”——“己所不欲，勿施于人”，即推己及人。"
+     },
+     {
+      "name": "礼",
+      "content": "行为、仪节与名分的规范总体。孔子强调礼的根据在敬与俭，不在器数之盛；礼因此是可被个人重新承担的，而非外在约束。"
+     },
+     {
+      "name": "正名",
+      "content": "为政以正名为先：名分与实际职守须相符，否则政令、礼乐、刑罚层层失据。"
+     },
+     {
+      "name": "学与教",
+      "content": "“性相近也，习相远也”，故学可移人；教学以启发与因材施教为法，学与思须相互校正。"
+     },
+     {
+      "name": "君子",
+      "content": "理想人格：以义为质、以礼行之、以逊出之、以信成之；与“小人”之别在于所依据的原则而非社会地位。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "早年（前551—前517）",
+      "change": "居鲁，学于郯子、师襄、老聃；以“儒”为业，从事教学与相礼。"
+     },
+     {
+      "period": "周游列国（前517—前484）",
+      "change": "适卫、陈、蔡诸国，求行道而不用；这一时期的困厄经验成为其政治判断的背景。"
+     },
+     {
+      "period": "晚年归鲁（前484—前479）",
+      "change": "整理《诗》《书》，作《春秋》之说（传统说法），教学以四科（德行、言语、政事、文学）分门。"
+     }
+    ],
+    "reception": "汉代定为官学，宋明以“四书”重构其学，近代在西方哲学框架下被重读（如芬格莱特以“礼”为“无言之言”）。学界对“孔子是否宗教性人物”“《春秋》与孔子的关系”长期有讨论。"
+   },
+   "works_detail": [
+    {
+     "title": "《论语》",
+     "year": "约前400年编定",
+     "date": "门人及再传弟子辑录，战国前期编定",
+     "structure": "二十篇，语录体；每篇取首章二字为题，篇内各章无严格主题序。全书约一万六千字。",
+     "core_thesis": "以仁礼相须重建人间秩序；学以成德，政以德为本。",
+     "editions": "杨伯峻《论语译注》中华书局；朱熹《四书章句集注》中华书局；刘宝楠《论语正义》中华书局",
+     "note": "非孔子手著；“子曰”之外的章节含弟子言行"
+    },
+    {
+     "title": "《春秋》（传统归孔子笔削）",
+     "year": "前722—前481年之事",
+     "date": "鲁国史官记事，孔子与《春秋》的关系为传统说法",
+     "structure": "编年体，记鲁隐公元年至哀公十四年十二公二百四十二年之事，约一万八千字。",
+     "core_thesis": "以书法寓褒贬，正名分、明是非；后世公羊、谷梁、左氏三家各有解释。",
+     "editions": "《春秋左传注》杨伯峻，中华书局；《春秋公羊传注疏》上海古籍出版社",
+     "note": "现代学界多认为孔子与《春秋》的关系需分别讨论，不宜简单等同"
+    }
+   ]
   },
   {
    "id": "cn-xianqin-laozi",
@@ -175,11 +276,23 @@
     }
    ],
    "influenced_by": [
-    {"name": "隐者传统（《论语》所记长沮、桀溺之流）", "id": null, "note": "先秦避世者与“道”的言说传统，具体传承不可考"}
+    {
+     "name": "隐者传统（《论语》所记长沮、桀溺之流）",
+     "id": null,
+     "note": "先秦避世者与“道”的言说传统，具体传承不可考"
+    }
    ],
    "influenced": [
-    {"name": "庄子", "id": "cn-xianqin-zhuangzi", "note": "把“道”的言说转为齐物与逍遥"},
-    {"name": "韩非", "id": "cn-xianqin-hanfei", "note": "作《解老》《喻老》，把无为转为君术"}
+    {
+     "name": "庄子",
+     "id": "cn-xianqin-zhuangzi",
+     "note": "把“道”的言说转为齐物与逍遥"
+    },
+    {
+     "name": "韩非",
+     "id": "cn-xianqin-hanfei",
+     "note": "作《解老》《喻老》，把无为转为君术"
+    }
    ],
    "criticisms": [
     {
@@ -187,14 +300,20 @@
      "view": "“老子有见于诎，无见于信”，只看到屈退的一面，看不到进取的一面，故不足以治天下。",
      "response": "道家一系的回应是：所谓“信”（伸展）若以争强为方式，其结果恰是屈；屈伸本是一体之转化，非偏废一端。",
      "kind": "原文",
-     "sources": ["ct-xunzi", "sep-laozi"]
+     "sources": [
+      "ct-xunzi",
+      "sep-laozi"
+     ]
     },
     {
      "critic": "韩非等法家读者",
      "view": "把“无为”解释为君主不亲细务、以法术驾驭臣下，即“君无为而臣有为”。",
      "response": "反对这种读法的意见认为，这是一种政治技术化改写：原文的“无为”针对的是包括君主在内的一切强制干预，而非仅指君主的统治术。",
      "kind": "后人解读",
-     "sources": ["ct-hanfeizi", "sep-laozi"]
+     "sources": [
+      "ct-hanfeizi",
+      "sep-laozi"
+     ]
     }
    ],
    "misconceptions": [
@@ -208,15 +327,73 @@
     }
    ],
    "quotes": [
-    {"text": "道可道，非常道；名可名，非常名", "source_id": "ct-daodejing", "locator": "《老子》第一章", "kind": "原文"},
-    {"text": "上善若水", "source_id": "ct-daodejing", "locator": "《老子》第八章", "kind": "原文"},
-    {"text": "反者道之动，弱者道之用", "source_id": "ct-daodejing", "locator": "《老子》第四十章", "kind": "原文"}
+    {
+     "text": "道可道，非常道；名可名，非常名",
+     "source_id": "ct-daodejing",
+     "locator": "《老子》第一章",
+     "kind": "原文"
+    },
+    {
+     "text": "上善若水",
+     "source_id": "ct-daodejing",
+     "locator": "《老子》第八章",
+     "kind": "原文"
+    },
+    {
+     "text": "反者道之动，弱者道之用",
+     "source_id": "ct-daodejing",
+     "locator": "《老子》第四十章",
+     "kind": "原文"
+    }
    ],
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>老子：道—反—无为之链（示意）</text><defs><marker id='ar2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='46' y='64' width='210' height='62' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='151' y='88' text-anchor='middle' font-size='13' fill='#1e2d3d'>道：不可名之本根</text><text x='151' y='110' text-anchor='middle' font-size='11' fill='#1e2d3d'>“强为之名曰大”</text><line x1='256' y1='95' x2='304' y2='95' stroke='#4a7ba6' marker-end='url(#ar2)'/><rect x='308' y='64' width='210' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='413' y='88' text-anchor='middle' font-size='13' fill='#1e2d3d'>反动：物极必反</text><text x='413' y='110' text-anchor='middle' font-size='11' fill='#1e2d3d'>强盛内含向衰之势</text><line x1='518' y1='95' x2='566' y2='95' stroke='#4a7ba6' marker-end='url(#ar2)'/><rect x='570' y='64' width='158' height='62' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='649' y='88' text-anchor='middle' font-size='13' fill='#1e2d3d'>弱用：处柔守下</text><text x='649' y='110' text-anchor='middle' font-size='11' fill='#1e2d3d'>不争而莫能与之争</text><line x1='380' y1='126' x2='380' y2='168' stroke='#4a7ba6' marker-end='url(#ar2)'/><rect x='236' y='172' width='288' height='64' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='196' text-anchor='middle' font-size='14' fill='#1c3a5c'>治理推论：无为而民自化</text><text x='380' y='218' text-anchor='middle' font-size='11' fill='#1e2d3d'>政令愈繁，规避愈多</text><line x1='380' y1='236' x2='380' y2='276' stroke='#4a7ba6' marker-end='url(#ar2)'/><rect x='178' y='280' width='404' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='304' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：去干预之蔽，任其自成</text><text x='380' y='325' text-anchor='middle' font-size='11' fill='#1e2d3d'>非“不做事”，而是改变做事的方式</text><text x='380' y='364' text-anchor='middle' font-size='11' fill='#4a7ba6'>注：“道不可名”为原文，“道→反→弱”之链条属后人重构</text></svg>",
    "svg_caption": "老子：道、反、弱与无为之间的推论关系（重构示意图）",
-   "sources": ["sep-laozi", "iep-laozi", "ct-daodejing"],
+   "sources": [
+    "sep-laozi",
+    "iep-laozi",
+    "ct-daodejing"
+   ],
    "needs_verification": true,
-   "pending_notes": "老子其人其书的年代与作者：传统说为春秋末周守藏室之史，学界另有战国中晚期成书说、文本层累说。本页生卒取传统推定，仅作年代参照；引用《老子》章次以王弼通行本为准。"
+   "pending_notes": "老子其人其书的年代与作者：传统说为春秋末周守藏室之史，学界另有战国中晚期成书说、文本层累说。本页生卒取传统推定，仅作年代参照；引用《老子》章次以王弼通行本为准。",
+   "doctrine": {
+    "summary": "《老子》以“道”为最高本根，以“反”为运动法则，以“弱”为处世方法，以“无为”为治理原则。它的独特之处在于：把“秩序”的来源从人为的建构转回到事物自身的趋势，并由此发展出一套关于言说限度（道不可名）与权力节制（法令滋彰则盗贼多有）的思想。政治上，它既可以是统治术，也可以是对一切强制干预的批判，这两种读法在历史上长期并存。",
+    "system": [
+     {
+      "name": "道",
+      "content": "不可道、不可名，只可“强为之名”；它先天地生，为万物之根据，却不是万物中的一员。"
+     },
+     {
+      "name": "反与弱",
+      "content": "“反者道之动，弱者道之用”：物极必反，故处柔守下反能长久；以水为喻，柔弱胜刚强。"
+     },
+     {
+      "name": "无为",
+      "content": "不以政令强扭事物之自然。“我无为而民自化”，无为是治理方式而非不作为。"
+     },
+     {
+      "name": "朴素与少私寡欲",
+      "content": "“见素抱朴，少私寡欲”：减少人为的造作与欲望的刺激，使民复归于朴。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "文本层累（战国至汉初）",
+      "change": "郭店楚简本（约前300年）、马王堆帛书本、王弼通行本三者章序与文字有差异，说明文本经过编纂与传抄。"
+     }
+    ],
+    "reception": "汉初黄老之学用于休养生息；魏晋王弼以“贵无”注《老》；法家韩非作《解老》《喻老》将其转为君术。现代研究关注其与“弱者的武器”“无为而治”的治理学关联。"
+   },
+   "works_detail": [
+    {
+     "title": "《老子》（道德经）",
+     "year": "成书年代有争议",
+     "date": "春秋末说与战国中晚期说并存；郭店简本约前300年",
+     "structure": "通行本分《道经》（一至三十七章）《德经》（三十八至八十一章），共八十一章，韵文与格言夹杂。帛书本“德经”在前。",
+     "core_thesis": "道为本根，反为法则，弱为方法，无为为治；言说有其限度。",
+     "editions": "王弼注、楼宇烈《王弼集校释》中华书局；陈鼓应《老子今注今译》商务印书馆；高明《帛书老子校注》中华书局",
+     "note": "作者与成书年代是学界长期议题，引用须注明所据版本（通行本/帛书本/楚简本）"
+    }
+   ]
   },
   {
    "id": "cn-xianqin-mozi",
@@ -275,11 +452,23 @@
     }
    ],
    "influenced_by": [
-    {"name": "儒家（批评性起点）", "id": null, "note": "墨子早年“学儒者之业”，因不满其礼而自立；《墨子》多篇直指儒者"}
+    {
+     "name": "儒家（批评性起点）",
+     "id": null,
+     "note": "墨子早年“学儒者之业”，因不满其礼而自立；《墨子》多篇直指儒者"
+    }
    ],
    "influenced": [
-    {"name": "后期墨家（辩者）", "id": null, "note": "《墨经》发展出关于名、辞、说的逻辑学说"},
-    {"name": "韩非", "id": "cn-xianqin-hanfei", "note": "承其功利与尚贤的若干取向，而反对其兼爱"}
+    {
+     "name": "后期墨家（辩者）",
+     "id": null,
+     "note": "《墨经》发展出关于名、辞、说的逻辑学说"
+    },
+    {
+     "name": "韩非",
+     "id": "cn-xianqin-hanfei",
+     "note": "承其功利与尚贤的若干取向，而反对其兼爱"
+    }
    ],
    "criticisms": [
     {
@@ -287,14 +476,20 @@
      "view": "“墨氏兼爱，是无父也”，把爱无差等推到极端则父子之亲无所寄托。",
      "response": "墨家的回应是：兼爱并不取消亲疏，而是要求不以亲疏为损人利己的理由；“爱无差等”是批评者的概括，墨书本身讲“兼”而不讲“无差”。",
      "kind": "原文",
-     "sources": ["ct-mengzi", "iep-chinese-philosophy"]
+     "sources": [
+      "ct-mengzi",
+      "iep-chinese-philosophy"
+     ]
     },
     {
      "critic": "庄子",
      "view": "墨子“其行难为也”，主张生不歌、死无服，反天下之心，难以通行。",
      "response": "墨家的回应是：正因天下人心趋逸，才需要以“兴天下之利”为准绳，而非以习俗的舒适为准绳。",
      "kind": "原文",
-     "sources": ["ct-zhuangzi", "iep-chinese-philosophy"]
+     "sources": [
+      "ct-zhuangzi",
+      "iep-chinese-philosophy"
+     ]
     }
    ],
    "misconceptions": [
@@ -308,14 +503,62 @@
     }
    ],
    "quotes": [
-    {"text": "兼相爱，交相利", "source_id": "ct-mozi", "locator": "《墨子·兼爱中》", "kind": "原文"},
-    {"text": "上本之于古者圣王之事", "source_id": "ct-mozi", "locator": "《墨子·非命上》（三表法）", "kind": "原文"}
+    {
+     "text": "兼相爱，交相利",
+     "source_id": "ct-mozi",
+     "locator": "《墨子·兼爱中》",
+     "kind": "原文"
+    },
+    {
+     "text": "上本之于古者圣王之事",
+     "source_id": "ct-mozi",
+     "locator": "《墨子·非命上》（三表法）",
+     "kind": "原文"
+    }
    ],
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>墨子：从“乱源”到“兼爱”的推论（示意）</text><defs><marker id='ar3' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='62' width='200' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='140' y='86' text-anchor='middle' font-size='13' fill='#1e2d3d'>现象：祸篡怨恨</text><text x='140' y='108' text-anchor='middle' font-size='11' fill='#1e2d3d'>盗贼、攻战、不慈不孝</text><line x1='240' y1='92' x2='288' y2='92' stroke='#4a7ba6' marker-end='url(#ar3)'/><rect x='292' y='62' width='200' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='392' y='86' text-anchor='middle' font-size='13' fill='#1e2d3d'>共同点：亏人自利</text><text x='392' y='108' text-anchor='middle' font-size='11' fill='#1e2d3d'>以人之失为己之得</text><line x1='492' y1='92' x2='540' y2='92' stroke='#4a7ba6' marker-end='url(#ar3)'/><rect x='544' y='62' width='180' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='634' y='86' text-anchor='middle' font-size='13' fill='#1e2d3d'>根源：不相爱</text><text x='634' y='108' text-anchor='middle' font-size='11' fill='#1e2d3d'>“以不相爱生也”</text><line x1='380' y1='122' x2='380' y2='164' stroke='#4a7ba6' marker-end='url(#ar3)'/><rect x='222' y='168' width='316' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='192' text-anchor='middle' font-size='14' fill='#1c3a5c'>对治：兼相爱、交相利</text><text x='380' y='213' text-anchor='middle' font-size='11' fill='#1e2d3d'>视人之家若其家，利害不再对立</text><line x1='380' y1='230' x2='380' y2='268' stroke='#4a7ba6' marker-end='url(#ar3)'/><rect x='120' y='272' width='240' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='240' y='294' text-anchor='middle' font-size='12' fill='#1e2d3d'>检验：三表法</text><text x='240' y='314' text-anchor='middle' font-size='10' fill='#1e2d3d'>古事 · 耳目之实 · 国家人民之利</text><rect x='400' y='272' width='240' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='520' y='294' text-anchor='middle' font-size='12' fill='#1e2d3d'>推论：非攻</text><text x='520' y='314' text-anchor='middle' font-size='10' fill='#1e2d3d'>杀一人为不义，攻国岂得为义</text><text x='380' y='366' text-anchor='middle' font-size='11' fill='#4a7ba6'>注：三表法见《非命上》，“兼爱—非攻”的连结由墨子本人给出</text></svg>",
    "svg_caption": "墨子：乱源分析、兼爱方案与三表检验（重构示意图）",
-   "sources": ["iep-chinese-philosophy", "iep-chinese-philosophy", "ct-mozi"],
+   "sources": [
+    "iep-chinese-philosophy",
+    "iep-chinese-philosophy",
+    "ct-mozi"
+   ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "墨翟的核心问题可以概括为：天下大乱的根本原因是什么？；凭什么判断一个主张是对的（真理标准问题）？；战争能否以“有利/有害”来判定其正当性？。本页据既有论点的材料汇编其学说主干——他主张：乱起于“不相爱”，故当兼相爱、交相利；三表法：检验主张的三重标准；非攻：攻伐之战得不偿失。以下“支柱”“分期”“接受史”均由本页论点、著作与批评条目汇编而成，读者可回到第三节核对每一论点的前提与推理。",
+    "system": [
+     {
+      "name": "乱起于“不相爱”，故当兼相爱、交相利",
+      "content": "前提：墨子列举盗贼、攻战、君臣父子兄弟之不慈不孝，其共同点是“亏人自利”。；“凡天下祸篡怨恨，其所以起者，以不相爱生也”。。由此推出：兼相爱、交相利是治乱的根本方法，而非仅是一种道德劝告。"
+     },
+     {
+      "name": "三表法：检验主张的三重标准",
+      "content": "前提：“上本之于古者圣王之事”——历史上的成效。；“下原察百姓耳目之实”——众人的感官经验；“发以为刑政，观其中国家百姓人民之利”——施行后的实际效果。。由此推出：判定学说的标准是历史、经验与效用三重检验，而不是权威或雄辩。"
+     },
+     {
+      "name": "非攻：攻伐之战得不偿失",
+      "content": "前提：攻战所费：杀人多寡、丧师之众、耗财之巨，墨子逐一计算。；所得不过“三丈之城”，而“计其所得，反不如所丧者之多”。。由此推出：攻伐之战在利害计算上不利，在名实上不义，故当非之。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "前468年—前376年",
+      "change": "战国前期。墨翟曾为宋大夫，活动于鲁、宋、楚之间；墨家为组织严密的学团，有巨子之制，擅长守城器械与论辩，是先秦唯一可与儒家争锋的显学。"
+     }
+    ],
+    "reception": "其影响主要见于：后期墨家（辩者）、韩非。历史上对其学说的主要批评来自：孟子、庄子。本页“批评与回应”一节并列了双方的理由，读者可就具体争议自行核对。",
+    "auto": true
+   },
+   "works_detail": [
+    {
+     "title": "《墨子》",
+     "structure": "五十三篇；《经》上下、《经说》上下、《大取》《小取》六篇为后期墨家辩学，作者与年代另有讨论",
+     "core_thesis": "乱起于“不相爱”，故当兼相爱、交相利",
+     "editions": "孙诒让《墨子间诂》，中华书局（新编诸子集成本）；吴毓江《墨子校注》，中华书局",
+     "note": "本条由本页“代表著作”条目汇编"
+    }
+   ]
   },
   {
    "id": "cn-xianqin-mengzi",
@@ -374,12 +617,28 @@
     }
    ],
    "influenced_by": [
-    {"name": "孔子", "id": "cn-xianqin-kongzi", "note": "承仁学而转出性善；自述“私淑诸人”"},
-    {"name": "子思学派（传统谱系）", "id": null, "note": "《中庸》一系的心性资源，具体传承有讨论"}
+    {
+     "name": "孔子",
+     "id": "cn-xianqin-kongzi",
+     "note": "承仁学而转出性善；自述“私淑诸人”"
+    },
+    {
+     "name": "子思学派（传统谱系）",
+     "id": null,
+     "note": "《中庸》一系的心性资源，具体传承有讨论"
+    }
    ],
    "influenced": [
-    {"name": "荀子", "id": "cn-xianqin-xunzi", "note": "以性恶说反其性善论"},
-    {"name": "宋明理学（朱熹、陆九渊）", "id": null, "note": "四端说成为理学心性论的共同出发点"}
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "note": "以性恶说反其性善论"
+    },
+    {
+     "name": "宋明理学（朱熹、陆九渊）",
+     "id": null,
+     "note": "四端说成为理学心性论的共同出发点"
+    }
    ],
    "criticisms": [
     {
@@ -387,14 +646,20 @@
      "view": "“人之性恶，其善者伪也”；孟子的性善说是“不及知人之性，而不察乎人之性伪之分”。",
      "response": "孟子的立场可回应为：四端是“端”而非完成态的善，正因只是萌芽，才需要扩充；荀子所说的“性”指生理欲求，与孟子所说的“性”所指不同。",
      "kind": "原文",
-     "sources": ["ct-xunzi", "sep-mencius"]
+     "sources": [
+      "ct-xunzi",
+      "sep-mencius"
+     ]
     },
     {
      "critic": "王充",
      "view": "《论衡·刺孟》逐条指摘《孟子》书中前后不一与推论不周之处。",
      "response": "后世的回应是：王充所刺多为字句与事例层面，未必触及性善论的论证结构；但《刺孟》确实提出了文本内部一致性的问题。",
      "kind": "原文",
-     "sources": ["ct-lunheng", "sep-mencius"]
+     "sources": [
+      "ct-lunheng",
+      "sep-mencius"
+     ]
     }
    ],
    "misconceptions": [
@@ -408,14 +673,75 @@
     }
    ],
    "quotes": [
-    {"text": "今人乍见孺子将入于井，皆有怵惕恻隐之心", "source_id": "ct-mengzi", "locator": "《孟子·公孙丑上》", "kind": "原文"},
-    {"text": "民为贵，社稷次之，君为轻", "source_id": "ct-mengzi", "locator": "《孟子·尽心下》", "kind": "原文"}
+    {
+     "text": "今人乍见孺子将入于井，皆有怵惕恻隐之心",
+     "source_id": "ct-mengzi",
+     "locator": "《孟子·公孙丑上》",
+     "kind": "原文"
+    },
+    {
+     "text": "民为贵，社稷次之，君为轻",
+     "source_id": "ct-mengzi",
+     "locator": "《孟子·尽心下》",
+     "kind": "原文"
+    }
    ],
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>孟子：四端与仁政的论证链（示意）</text><defs><marker id='ar4' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='60' width='212' height='62' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='146' y='84' text-anchor='middle' font-size='13' fill='#1e2d3d'>事例：乍见孺子入井</text><text x='146' y='106' text-anchor='middle' font-size='11' fill='#1e2d3d'>无交情、无算计而不忍</text><line x1='252' y1='91' x2='300' y2='91' stroke='#4a7ba6' marker-end='url(#ar4)'/><rect x='304' y='60' width='204' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='406' y='84' text-anchor='middle' font-size='13' fill='#1e2d3d'>推出：四端非外铄</text><text x='406' y='106' text-anchor='middle' font-size='11' fill='#1e2d3d'>恻隐·羞恶·辞让·是非</text><line x1='508' y1='91' x2='556' y2='91' stroke='#4a7ba6' marker-end='url(#ar4)'/><rect x='560' y='60' width='164' height='62' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='642' y='84' text-anchor='middle' font-size='13' fill='#1e2d3d'>结论：性善</text><text x='642' y='106' text-anchor='middle' font-size='11' fill='#1e2d3d'>“火之始然，泉之始达”</text><line x1='380' y1='122' x2='380' y2='162' stroke='#4a7ba6' marker-end='url(#ar4)'/><rect x='230' y='166' width='300' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='190' text-anchor='middle' font-size='14' fill='#1c3a5c'>工夫：扩而充之，存心养性</text><text x='380' y='211' text-anchor='middle' font-size='11' fill='#1e2d3d'>环境可使之“失其本心”</text><line x1='380' y1='226' x2='380' y2='264' stroke='#4a7ba6' marker-end='url(#ar4)'/><rect x='96' y='268' width='256' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='224' y='290' text-anchor='middle' font-size='12' fill='#1e2d3d'>政治推论：制民之产</text><text x='224' y='310' text-anchor='middle' font-size='10' fill='#1e2d3d'>有恒产者有恒心</text><rect x='408' y='268' width='256' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='536' y='290' text-anchor='middle' font-size='12' fill='#1e2d3d'>价值排序：义先于利</text><text x='536' y='310' text-anchor='middle' font-size='10' fill='#1e2d3d'>上下交征利则国危</text><text x='380' y='366' text-anchor='middle' font-size='11' fill='#4a7ba6'>注：四端—性善为原文；下排两项为孟子本人的政治推论，非后世附加</text></svg>",
    "svg_caption": "孟子：从四端到性善、再到仁政的推论（重构示意图）",
-   "sources": ["sep-mencius", "iep-mencius", "ct-mengzi"],
+   "sources": [
+    "sep-mencius",
+    "iep-mencius",
+    "ct-mengzi"
+   ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "孟子以“性善”为基石，把孔子的“仁”收归于本心，又以“仁政”把心性论推向政治。其论证的特点是“以情证性”：从不可否认的道德情感（四端）反推人性中有善的根据，再由“扩而充之”说明成德的可能。政治哲学上，他以“民为贵”与“义利之辨”确立统治的正当性标准，并以“恒产—恒心”把民生置于教化之前。",
+    "system": [
+     {
+      "name": "四端与性善",
+      "content": "恻隐、羞恶、辞让、是非四端为仁义礼智之端；善是萌芽，成德在扩充而非外塑。"
+     },
+     {
+      "name": "仁政",
+      "content": "先制民之产（五亩之宅、百亩之田），再申孝悌之教；“有恒产者有恒心”。"
+     },
+     {
+      "name": "义利之辨",
+      "content": "政治第一原则是义而非利；“上下交征利则国危”，义不排斥利，而是使利有所归。"
+     },
+     {
+      "name": "浩然之气与大丈夫",
+      "content": "“配义与道”的浩然之气，养成“富贵不能淫、贫贱不能移、威武不能屈”的大丈夫人格。"
+     },
+     {
+      "name": "民本",
+      "content": "“民为贵，社稷次之，君为轻”；得天下之道在得民心。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "游说齐梁（约前330—前310）",
+      "change": "以仁政说齐宣王、梁惠王，被视为“迂远而阔于事情”，不见用。"
+     },
+     {
+      "period": "退而著书（晚年）",
+      "change": "与万章之徒序《诗》《书》，述仲尼之意，作《孟子》七篇。"
+     }
+    ],
+    "reception": "宋代列入四书，成为科举与理学的核心文本；荀子一系与王充《刺孟》构成历代批评的两条线索。现代研究关注其“性善”论证的结构与“民本”和民主的区别。"
+   },
+   "works_detail": [
+    {
+     "title": "《孟子》",
+     "year": "约前3世纪",
+     "date": "孟子及其弟子万章等所著，七篇",
+     "structure": "七篇（梁惠王、公孙丑、滕文公、离娄、万章、告子、尽心），每篇上下；长篇论辩与对话并存。",
+     "core_thesis": "性善、仁政、义利之辨；以民心论统治正当性。",
+     "editions": "杨伯峻《孟子译注》中华书局；朱熹《四书章句集注》中华书局；焦循《孟子正义》中华书局",
+     "note": "宋代列入四书；与《论语》相比文体更系统、论辩更长"
+    }
+   ]
   },
   {
    "id": "cn-xianqin-zhuangzi",
@@ -474,10 +800,18 @@
     }
    ],
    "influenced_by": [
-    {"name": "老子（传统谱系）", "id": "cn-xianqin-laozi", "note": "《庄子》多引“老聃曰”，但思想重心由治术转向个体生存"}
+    {
+     "name": "老子（传统谱系）",
+     "id": "cn-xianqin-laozi",
+     "note": "《庄子》多引“老聃曰”，但思想重心由治术转向个体生存"
+    }
    ],
    "influenced": [
-    {"name": "魏晋玄学（郭象、嵇康）", "id": null, "note": "郭象注《庄子》确立“独化”说；嵇康取其“越名教而任自然”"}
+    {
+     "name": "魏晋玄学（郭象、嵇康）",
+     "id": null,
+     "note": "郭象注《庄子》确立“独化”说；嵇康取其“越名教而任自然”"
+    }
    ],
    "criticisms": [
     {
@@ -485,14 +819,20 @@
      "view": "“庄子蔽于天而不知人”，只讲天（自然）而忽略人的作为与制度需要。",
      "response": "庄学一系的回应是：所谓“天”不是否定人事，而是揭示人为的分别与造作如何遮蔽了事物自身之当然；“不知人”之讥，恰是把“人”限定为制度造作。",
      "kind": "原文",
-     "sources": ["ct-xunzi", "sep-zhuangzi"]
+     "sources": [
+      "ct-xunzi",
+      "sep-zhuangzi"
+     ]
     },
     {
      "critic": "后世注家（如王夫之）",
      "view": "批评郭象以“独化”解庄，把齐物说成各安其分，遂使庄学转为对现实的顺从。",
      "response": "郭象一系的辩护是：独化正是要取消一个外在的造物者与统一标准，各物自生自化，并非教人安于既有名分。",
      "kind": "后人解读",
-     "sources": ["sep-zhuangzi", "book-chan-sourcebook"]
+     "sources": [
+      "sep-zhuangzi",
+      "book-chan-sourcebook"
+     ]
     }
    ],
    "misconceptions": [
@@ -506,14 +846,75 @@
     }
    ],
    "quotes": [
-    {"text": "天地与我并生，而万物与我为一", "source_id": "ct-zhuangzi", "locator": "《庄子·齐物论》", "kind": "原文"},
-    {"text": "吾丧我", "source_id": "ct-zhuangzi", "locator": "《庄子·齐物论》", "kind": "原文"}
+    {
+     "text": "天地与我并生，而万物与我为一",
+     "source_id": "ct-zhuangzi",
+     "locator": "《庄子·齐物论》",
+     "kind": "原文"
+    },
+    {
+     "text": "吾丧我",
+     "source_id": "ct-zhuangzi",
+     "locator": "《庄子·齐物论》",
+     "kind": "原文"
+    }
    ],
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>庄子：齐物与逍遥的推论（示意）</text><defs><marker id='ar5' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='46' y='60' width='210' height='62' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='151' y='84' text-anchor='middle' font-size='13' fill='#1e2d3d'>现象：儒墨各是其是</text><text x='151' y='106' text-anchor='middle' font-size='11' fill='#1e2d3d'>彼亦一是非，此亦一是非</text><line x1='256' y1='91' x2='304' y2='91' stroke='#4a7ba6' marker-end='url(#ar5)'/><rect x='308' y='60' width='212' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='414' y='84' text-anchor='middle' font-size='13' fill='#1e2d3d'>诊断：成心与“小成”</text><text x='414' y='106' text-anchor='middle' font-size='11' fill='#1e2d3d'>标准随立场而生</text><line x1='520' y1='91' x2='568' y2='91' stroke='#4a7ba6' marker-end='url(#ar5)'/><rect x='572' y='60' width='152' height='62' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='648' y='84' text-anchor='middle' font-size='13' fill='#1e2d3d'>齐物</text><text x='648' y='106' text-anchor='middle' font-size='11' fill='#1e2d3d'>照之于天</text><line x1='380' y1='122' x2='380' y2='160' stroke='#4a7ba6' marker-end='url(#ar5)'/><rect x='240' y='164' width='280' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='188' text-anchor='middle' font-size='13' fill='#1c3a5c'>吾丧我：去成心之我</text><text x='380' y='208' text-anchor='middle' font-size='11' fill='#1e2d3d'>非取消行动，而是取消执著</text><line x1='380' y1='222' x2='380' y2='258' stroke='#4a7ba6' marker-end='url(#ar5)'/><rect x='150' y='262' width='460' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='286' text-anchor='middle' font-size='13' fill='#1c3a5c'>逍遥：无所待</text><text x='380' y='306' text-anchor='middle' font-size='11' fill='#1e2d3d'>大鹏待风、列子待风，皆未逍遥</text><text x='380' y='352' text-anchor='middle' font-size='11' fill='#4a7ba6'>注：三节均出于《庄子》内篇，链条化为阅读重构</text></svg>",
    "svg_caption": "庄子：成心—齐物—丧我—逍遥的推论走向（重构示意图）",
-   "sources": ["sep-zhuangzi", "iep-zhuangzi", "ct-zhuangzi"],
+   "sources": [
+    "sep-zhuangzi",
+    "iep-zhuangzi",
+    "ct-zhuangzi"
+   ],
    "needs_verification": true,
-   "pending_notes": "内篇与外杂篇的作者分层：内七篇归于庄子为学界较通行的看法，外杂篇多出后学，具体篇目归属仍有讨论；本页只据内篇立论，外杂篇材料未作为主要依据。"
+   "pending_notes": "内篇与外杂篇的作者分层：内七篇归于庄子为学界较通行的看法，外杂篇多出后学，具体篇目归属仍有讨论；本页只据内篇立论，外杂篇材料未作为主要依据。",
+   "doctrine": {
+    "summary": "庄子以“齐物”消解立场的绝对性，以“逍遥”标示无所待的自由，以“物化”松动物我的界限。他的写作方式是寓言、重言、卮言：不提出体系，而以故事与悖论使读者自行转向。其批判的对象不是某种学说，而是“成心”——以某一立场自任为唯一标准的那种心态；因此他的哲学既是认识论的，也是生存论的。",
+    "system": [
+     {
+      "name": "齐物",
+      "content": "是非之分出于成心；“彼亦一是非，此亦一是非”，故当“照之于天”，从道观之则物无贵贱。"
+     },
+     {
+      "name": "逍遥",
+      "content": "有待则不得自由；至人无己、神人无功、圣人无名，故能无所待。"
+     },
+     {
+      "name": "物化",
+      "content": "梦觉之辨显示物我界限非终极事实；“天地与我并生，而万物与我为一”。"
+     },
+     {
+      "name": "养生与技进于道",
+      "content": "庖丁解牛“依乎天理”，以无厚入有间，说明顺应事物结构而行的实践智慧。"
+     },
+     {
+      "name": "无用之用",
+      "content": "不材之木以无用得终其天年，反讽世俗以有用为唯一尺度。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "内篇（多归庄子）",
+      "change": "《逍遥游》《齐物论》《养生主》《人间世》《德充符》《大宗师》《应帝王》七篇，思想最集中。"
+     },
+     {
+      "period": "外杂篇（多出后学）",
+      "change": "文体与思想不一，含黄老、神仙与更多寓言，具体归属有讨论。"
+     }
+    ],
+    "reception": "魏晋郭象注确立“独化”说，使庄学转向；禅宗借其语汇；现代研究关注其怀疑论、语言哲学与生态意涵。"
+   },
+   "works_detail": [
+    {
+     "title": "《庄子》",
+     "year": "约前4—前3世纪",
+     "date": "内篇多归庄子，外杂篇多出后学；今本三十三篇由郭象编定",
+     "structure": "内篇七、外篇十五、杂篇十一；内篇文体统一、思想集中，外杂篇风格参差。",
+     "core_thesis": "齐物、逍遥、物化；以寓言消解成心，指向无所待的自由。",
+     "editions": "郭庆藩《庄子集释》中华书局；陈鼓应《庄子今注今译》中华书局；王先谦《庄子集解》中华书局",
+     "note": "外杂篇的作者分层是学界长期议题；苏轼已疑《盗跖》《渔父》等篇"
+    }
+   ]
   },
   {
    "id": "cn-xianqin-xunzi",
@@ -572,12 +973,28 @@
     }
    ],
    "influenced_by": [
-    {"name": "孔子（礼学一路）", "id": "cn-xianqin-kongzi", "note": "自居于儒家，特重礼与师法"},
-    {"name": "稷下学者（宋钘、慎到等）", "id": null, "note": "在齐稷下受各家影响，其“分”与“法”的观念有可辨的来源"}
+    {
+     "name": "孔子（礼学一路）",
+     "id": "cn-xianqin-kongzi",
+     "note": "自居于儒家，特重礼与师法"
+    },
+    {
+     "name": "稷下学者（宋钘、慎到等）",
+     "id": null,
+     "note": "在齐稷下受各家影响，其“分”与“法”的观念有可辨的来源"
+    }
    ],
    "influenced": [
-    {"name": "韩非", "id": "cn-xianqin-hanfei", "note": "受业于荀门，转向法术势"},
-    {"name": "李斯", "id": null, "note": "同门，秦制的重要设计者"}
+    {
+     "name": "韩非",
+     "id": "cn-xianqin-hanfei",
+     "note": "受业于荀门，转向法术势"
+    },
+    {
+     "name": "李斯",
+     "id": null,
+     "note": "同门，秦制的重要设计者"
+    }
    ],
    "criticisms": [
     {
@@ -585,14 +1002,20 @@
      "view": "以“性恶”为异端，认为荀子“只说得气，不说得性”，其学流于刑名。",
      "response": "为荀子辩护的意见指出：荀子的“性”指人的自然情欲，“伪”指人为的作为，与孟子所讲的“性”不是同一所指；且荀子特重礼义，并未以刑名替代教化。",
      "kind": "后人解读",
-     "sources": ["ct-zhuzi-yulei", "sep-xunzi"]
+     "sources": [
+      "ct-zhuzi-yulei",
+      "sep-xunzi"
+     ]
     },
     {
      "critic": "现代论者（从道德哲学角度）",
      "view": "若人性全无善端，则圣人何能“积伪”而生礼义？性恶说似有自我颠覆之虞。",
      "response": "荀学一系的回应是：人虽性恶，却有“可以知仁义法正之质”与“可以能仁义法正之具”，即可教化性；礼义之生靠圣人的积思虑，不需以善端为前提。",
      "kind": "后人解读",
-     "sources": ["sep-xunzi", "book-chan-sourcebook"]
+     "sources": [
+      "sep-xunzi",
+      "book-chan-sourcebook"
+     ]
     }
    ],
    "misconceptions": [
@@ -606,15 +1029,81 @@
     }
    ],
    "quotes": [
-    {"text": "人之性恶，其善者伪也", "source_id": "ct-xunzi", "locator": "《荀子·性恶》", "kind": "原文"},
-    {"text": "天行有常，不为尧存，不为桀亡", "source_id": "ct-xunzi", "locator": "《荀子·天论》", "kind": "原文"},
-    {"text": "制天命而用之", "source_id": "ct-xunzi", "locator": "《荀子·天论》", "kind": "原文"}
+    {
+     "text": "人之性恶，其善者伪也",
+     "source_id": "ct-xunzi",
+     "locator": "《荀子·性恶》",
+     "kind": "原文"
+    },
+    {
+     "text": "天行有常，不为尧存，不为桀亡",
+     "source_id": "ct-xunzi",
+     "locator": "《荀子·天论》",
+     "kind": "原文"
+    },
+    {
+     "text": "制天命而用之",
+     "source_id": "ct-xunzi",
+     "locator": "《荀子·天论》",
+     "kind": "原文"
+    }
    ],
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>荀子：性恶—化性—礼义（示意）</text><defs><marker id='ar6' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='44' y='60' width='212' height='62' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='150' y='84' text-anchor='middle' font-size='13' fill='#1e2d3d'>前提：顺性则争</text><text x='150' y='106' text-anchor='middle' font-size='11' fill='#1e2d3d'>好利疾恶，耳目之欲</text><line x1='256' y1='91' x2='304' y2='91' stroke='#4a7ba6' marker-end='url(#ar6)'/><rect x='308' y='60' width='204' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='410' y='84' text-anchor='middle' font-size='13' fill='#1e2d3d'>结论一：性恶</text><text x='410' y='106' text-anchor='middle' font-size='11' fill='#1e2d3d'>善者，伪也</text><line x1='512' y1='91' x2='560' y2='91' stroke='#4a7ba6' marker-end='url(#ar6)'/><rect x='564' y='60' width='160' height='62' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='644' y='84' text-anchor='middle' font-size='13' fill='#1e2d3d'>故须师法</text><text x='644' y='106' text-anchor='middle' font-size='11' fill='#1e2d3d'>“檃栝烝矫”</text><line x1='380' y1='122' x2='380' y2='164' stroke='#4a7ba6' marker-end='url(#ar6)'/><rect x='226' y='168' width='308' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='192' text-anchor='middle' font-size='13' fill='#1c3a5c'>化性起伪：圣人积思虑而生礼义</text><text x='380' y='213' text-anchor='middle' font-size='11' fill='#1e2d3d'>“涂之人可以为禹”</text><line x1='380' y1='228' x2='380' y2='266' stroke='#4a7ba6' marker-end='url(#ar6)'/><rect x='120' y='270' width='240' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='240' y='293' text-anchor='middle' font-size='12' fill='#1e2d3d'>天人之分</text><text x='240' y='312' text-anchor='middle' font-size='10' fill='#1e2d3d'>天行有常，不与人事感应</text><rect x='400' y='270' width='240' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='520' y='293' text-anchor='middle' font-size='12' fill='#1e2d3d'>制天命而用之</text><text x='520' y='312' text-anchor='middle' font-size='10' fill='#1e2d3d'>明分而后尽人事</text><text x='380' y='366' text-anchor='middle' font-size='11' fill='#4a7ba6'>注：上三节均见《性恶》《天论》原文，图式化为阅读重构</text></svg>",
    "svg_caption": "荀子：性恶、化性起伪与天人之分（重构示意图）",
-   "sources": ["sep-xunzi", "iep-xunzi", "ct-xunzi"],
+   "sources": [
+    "sep-xunzi",
+    "iep-xunzi",
+    "ct-xunzi"
+   ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "荀子以“性恶”与“天人之分”为两大支柱：性恶说明礼义教化的必要性，天人之分把自然从人事的赏罚结构中解放出来。他自居儒家而特重礼法与师法，主张“化性起伪”，即通过圣人所立的礼义与师法改造人的自然情欲。其认识论以“解蔽”为核心，逻辑学以《正名》为代表，是先秦儒家最系统的一位。",
+    "system": [
+     {
+      "name": "性恶与化性起伪",
+      "content": "人生而好利疾恶，顺之则争；善者伪也，礼义由圣人积思虑而生，故须师法之化。"
+     },
+     {
+      "name": "天人之分",
+      "content": "“天行有常，不为尧存，不为桀亡”；故当“制天命而用之”，不因异象而畏。"
+     },
+     {
+      "name": "礼论",
+      "content": "礼以“养”与“别”止争：既满足欲求，又确定差等，是化性起伪的主要制度。"
+     },
+     {
+      "name": "解蔽与正名",
+      "content": "“凡人之患，蔽于一曲而暗于大理”；正名以“制名以指实”，使名实相符、政令可施。"
+     },
+     {
+      "name": "劝学",
+      "content": "“学不可以已”；积善成德，涂之人可以为禹。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "稷下时期（约前285—前265）",
+      "change": "三为齐稷下学宫祭酒，与各家辩论，形成兼采而批评的学风。"
+     },
+     {
+      "period": "兰陵时期（约前255—前238）",
+      "change": "任楚兰陵令，废居后著书三十二篇。"
+     }
+    ],
+    "reception": "宋以后因性恶说被排出道统，清代考据学重估其学；现代研究重视其“天人之分”的理性主义与《正名》的逻辑学。"
+   },
+   "works_detail": [
+    {
+     "title": "《荀子》",
+     "year": "约前3世纪",
+     "date": "荀况及其后学所著，西汉刘向校订为三十二篇",
+     "structure": "三十二篇；《劝学》《天论》《解蔽》《正名》《性恶》《礼论》《乐论》为核心；《成相》《赋》文体特殊，《大略》以下或出弟子记录。",
+     "core_thesis": "性恶、化性起伪、天人之分、隆礼重法。",
+     "editions": "王先谦《荀子集解》中华书局（新编诸子集成本）；李涤生《荀子集释》台湾学生书局",
+     "note": "与《孟子》并列为先秦儒家心性论的两极"
+    }
+   ]
   },
   {
    "id": "cn-xianqin-hanfei",
@@ -673,11 +1162,23 @@
     }
    ],
    "influenced_by": [
-    {"name": "荀子", "id": "cn-xianqin-xunzi", "note": "受业其门，取其“性恶”与重法一端"},
-    {"name": "老子", "id": "cn-xianqin-laozi", "note": "作《解老》《喻老》，以“理”改造“道”"}
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "note": "受业其门，取其“性恶”与重法一端"
+    },
+    {
+     "name": "老子",
+     "id": "cn-xianqin-laozi",
+     "note": "作《解老》《喻老》，以“理”改造“道”"
+    }
    ],
    "influenced": [
-    {"name": "秦制（李斯、秦始皇）", "id": null, "note": "其说为秦所采，但韩非本人未及施用即死"}
+    {
+     "name": "秦制（李斯、秦始皇）",
+     "id": null,
+     "note": "其说为秦所采，但韩非本人未及施用即死"
+    }
    ],
    "criticisms": [
     {
@@ -685,14 +1186,20 @@
      "view": "法家“严而少恩”，可以行一时之计而不可长用。",
      "response": "法家一系的回应是：赏罚的标准公开且一致，正所以免于“人治”的任意；所谓“少恩”是对亲亲之私的排除，而非刻薄。",
      "kind": "后人解读",
-     "sources": ["ct-shiji", "iep-chinese-philosophy"]
+     "sources": [
+      "ct-shiji",
+      "iep-chinese-philosophy"
+     ]
     },
     {
      "critic": "后世儒者（如苏轼）",
      "view": "秦之速亡源于韩非之术，专任刑罚而弃礼义。",
      "response": "为韩非辩护的意见指出：秦的实际政治并未完全依照《韩非子》，且“秦亡于法家”是把复杂的历史归因于一家之言；韩非对“术”的强调反而针对君主被臣下蒙蔽的问题。",
      "kind": "后人解读",
-     "sources": ["iep-chinese-philosophy", "book-chan-sourcebook"]
+     "sources": [
+      "iep-chinese-philosophy",
+      "book-chan-sourcebook"
+     ]
     }
    ],
    "misconceptions": [
@@ -706,170 +1213,252 @@
     }
    ],
    "quotes": [
-    {"text": "世异则事异，事异则备变", "source_id": "ct-hanfeizi", "locator": "《韩非子·五蠹》", "kind": "原文"},
-    {"text": "道者，万物之所然也，万理之所稽也", "source_id": "ct-hanfeizi", "locator": "《韩非子·解老》", "kind": "原文"}
+    {
+     "text": "世异则事异，事异则备变",
+     "source_id": "ct-hanfeizi",
+     "locator": "《韩非子·五蠹》",
+     "kind": "原文"
+    },
+    {
+     "text": "道者，万物之所然也，万理之所稽也",
+     "source_id": "ct-hanfeizi",
+     "locator": "《韩非子·解老》",
+     "kind": "原文"
+    }
    ],
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>韩非：法术势的组合（示意）</text><defs><marker id='ar7' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='56' y='62' width='190' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='151' y='86' text-anchor='middle' font-size='13' fill='#1e2d3d'>法：公开赏罚</text><text x='151' y='106' text-anchor='middle' font-size='11' fill='#1e2d3d'>“编著之图籍，设之于官府”</text><rect x='286' y='62' width='190' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='381' y='86' text-anchor='middle' font-size='13' fill='#1e2d3d'>术：驾驭臣下</text><text x='381' y='106' text-anchor='middle' font-size='11' fill='#1e2d3d'>“藏之于胸中”</text><rect x='516' y='62' width='190' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='611' y='86' text-anchor='middle' font-size='13' fill='#1e2d3d'>势：权位所在</text><text x='611' y='106' text-anchor='middle' font-size='11' fill='#1e2d3d'>“抱法处势则治”</text><line x1='151' y1='120' x2='330' y2='166' stroke='#4a7ba6' marker-end='url(#ar7)'/><line x1='611' y1='120' x2='430' y2='166' stroke='#4a7ba6' marker-end='url(#ar7)'/><line x1='381' y1='120' x2='381' y2='166' stroke='#4a7ba6' marker-end='url(#ar7)'/><rect x='230' y='170' width='300' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='194' text-anchor='middle' font-size='13' fill='#1c3a5c'>前提：人性好利，君臣异利</text><text x='380' y='214' text-anchor='middle' font-size='11' fill='#1e2d3d'>不能倚靠德性，只能倚靠制度</text><line x1='380' y1='228' x2='380' y2='266' stroke='#4a7ba6' marker-end='url(#ar7)'/><rect x='150' y='270' width='460' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='294' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：不期修古，不法常可</text><text x='380' y='313' text-anchor='middle' font-size='11' fill='#1e2d3d'>世异则事异，事异则备变</text><text x='380' y='358' text-anchor='middle' font-size='11' fill='#4a7ba6'>注：法、术、势分述见《定法》；三者相互为用的概括属后人归纳</text></svg>",
    "svg_caption": "韩非：法术势三者的分工与共同前提（重构示意图）",
-   "sources": ["iep-chinese-philosophy", "iep-chinese-philosophy", "ct-hanfeizi"],
+   "sources": [
+    "iep-chinese-philosophy",
+    "iep-chinese-philosophy",
+    "ct-hanfeizi"
+   ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "韩非的核心问题可以概括为：君主如何在不依赖个人德性的条件下维持统治？；“道”与具体事物的“理”是什么关系？；历史变化之后，先王之法还能否沿用？。本页据既有论点的材料汇编其学说主干——他主张：法术势三者相须；以“理”释“道”：道是万理之总；世异则事异：反对法先王。以下“支柱”“分期”“接受史”均由本页论点、著作与批评条目汇编而成，读者可回到第三节核对每一论点的前提与推理。",
+    "system": [
+     {
+      "name": "法术势三者相须",
+      "content": "前提：商鞅有法而无术，秦用其法而“不至帝王”；申不害有术而无法，韩“不免于弱”。；“抱法处势则治，背法去势则乱”。。由此推出：治国须以法为公开准则、以术为用人之道、以势为权力基础，三者结合。"
+     },
+     {
+      "name": "以“理”释“道”：道是万理之总",
+      "content": "前提：“道者，万物之所然也，万理之所稽也”，道使万物如此，又是众理的会归。；“理者，成物之文也”，理是具体事物可分辨的规定。。由此推出：道的“无为”落实为“缘道理以从事”，即依事物的规定性行事，不以主观好恶强加。"
+     },
+     {
+      "name": "世异则事异：反对法先王",
+      "content": "前提：“世异则事异，事异则备变”，上古竞于道德，中世逐于智谋，当今争于气力。；守株待兔之喻：以先王之政治理当世之民，与此同类。。由此推出：治国当以当世之实情为准，不法常可。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "前280年—前233年",
+      "change": "战国末年。韩国积弱，韩非屡上书韩王而不见用，遂著《孤愤》《五蠹》等篇。其学综合商鞅之“法”、申不害之“术”、慎到之“势”，为即将到来的统一帝国提供治理技术。"
+     }
+    ],
+    "reception": "其影响主要见于：秦制（李斯、秦始皇）。历史上对其学说的主要批评来自：司马迁（引司马谈《论六家要旨》）、后世儒者（如苏轼）。本页“批评与回应”一节并列了双方的理由，读者可就具体争议自行核对。",
+    "auto": true
+   },
+   "works_detail": [
+    {
+     "title": "《韩非子》",
+     "structure": "五十五篇；《初见秦》《存韩》等篇真伪与作者有讨论，《解老》《喻老》为最早的《老子》注说之一",
+     "core_thesis": "本书所论为：法术势三者相须；这是该书所要论证的核心命题。",
+     "editions": "陈奇猷《韩非子新校注》，上海古籍出版社；王先慎《韩非子集解》，中华书局",
+     "note": "本条由本页“代表著作”条目汇编"
+    }
+   ]
   },
- {
-  "id": "cn-xianqin-gongsunlong",
-  "name": "公孙龙",
-  "latin": "Gongsun Long",
-  "birth_year": -320,
-  "death_year": -250,
-  "birth_display": "前320年",
-  "death_display": "前250年",
-  "birth_note": "生年无确记，约前320年，为通行推定；其行事见于《公孙龙子·迹府》及《吕氏春秋》等所记与孔穿、邹衍的辩论。",
-  "death_note": "卒年亦无确记，约前250年；据《迹府》，他长期为平原君门客，晚年事迹不详。",
-  "era": "战国中晚期。赵人，久为平原君赵胜门客，曾与孔穿、邹衍等辩于赵廷。其时“辩者”之风甚盛，名实之论与《墨经》、惠施之说并行，公孙龙为其中文本今日尚存的一支。",
-  "school": "名家",
-  "core_questions": [
-   "名（概念）与实（对象）之间是什么关系，名凭什么算是“正”的？",
-   "共相（如坚、白、马之形）能否独立于具体个体而被指称？",
-   "“指”这一指称活动本身，与被指之物是否属于同一层次？"
-  ],
-  "arguments": [
-   {
-    "claim": "「白马非马」：两个名的所指范围不同，故“白马”之名不等同于“马”之名",
-    "premises": [
-     "“马者，所以命形也；白者，所以命色也。命色者非命形也，故曰白马非马。”（《公孙龙子·白马论》）",
-     "求马，黄马、黑马皆可应；求白马，黄马、黑马不可应——两名所许之范围并不相等。"
+  {
+   "id": "cn-xianqin-gongsunlong",
+   "name": "公孙龙",
+   "latin": "Gongsun Long",
+   "birth_year": -320,
+   "death_year": -250,
+   "birth_display": "前320年",
+   "death_display": "前250年",
+   "birth_note": "生年无确记，约前320年，为通行推定；其行事见于《公孙龙子·迹府》及《吕氏春秋》等所记与孔穿、邹衍的辩论。",
+   "death_note": "卒年亦无确记，约前250年；据《迹府》，他长期为平原君门客，晚年事迹不详。",
+   "era": "战国中晚期。赵人，久为平原君赵胜门客，曾与孔穿、邹衍等辩于赵廷。其时“辩者”之风甚盛，名实之论与《墨经》、惠施之说并行，公孙龙为其中文本今日尚存的一支。",
+   "school": "名家",
+   "core_questions": [
+    "名（概念）与实（对象）之间是什么关系，名凭什么算是“正”的？",
+    "共相（如坚、白、马之形）能否独立于具体个体而被指称？",
+    "“指”这一指称活动本身，与被指之物是否属于同一层次？"
+   ],
+   "arguments": [
+    {
+     "claim": "「白马非马」：两个名的所指范围不同，故“白马”之名不等同于“马”之名",
+     "premises": [
+      "“马者，所以命形也；白者，所以命色也。命色者非命形也，故曰白马非马。”（《公孙龙子·白马论》）",
+      "求马，黄马、黑马皆可应；求白马，黄马、黑马不可应——两名所许之范围并不相等。"
+     ],
+     "inference": "若甲名只命形、乙名兼命形与色，则凡合于乙名者虽合于甲名，而合于甲名者不必合于乙名；两名外延不等，在“名”的层次上便不能互相替换。故所断者是名与名的关系，而非个体马的有无。",
+     "conclusion": "“白马非马”所辨为名实：复合名（形＋色）与单一名（形）的所指不同，不可混同使用。",
+     "kind": "后人解读",
+     "note": "历代解释分歧：一说“非”读作“不等于/异于”，此论为关于概念外延的有效推理（王琯、庞朴一系多取此读）；一说“非”读作“不属于”，则其为诡辩；另有从“共相论”读之，以为白马之“白”与“马”皆为独立共相，故其合不等于单一共相。三种读法对“非”字与论式结构的判定不同，学界未有定论。"
+    },
+    {
+     "claim": "「离坚白」：坚与白可作为属性分别把握，与“石”这一载体相离",
+     "premises": [
+      "“坚白石三，可乎？曰：不可。曰：二，可乎？曰：可。”（《公孙龙子·坚白论》）",
+      "目视石得白而不得坚，手拊石得坚而不得白；见与不见相离，各自成一名。"
+     ],
+     "inference": "若坚与白在同一时机内不能同时被感知，而二者又各自确能被指称，则其可指称性不依赖于这一块石头；石只是二者偶然相合的载体。",
+     "conclusion": "坚、白作为共相可离具体个体而被指称，共相具有相对独立性。",
+     "kind": "原文"
+    },
+    {
+     "claim": "「指物论」：指称活动与被指之物不是同一层次",
+     "premises": [
+      "“物莫非指，而指非指。”（《公孙龙子·指物论》）",
+      "天下无物不可被指称，然而“指”本身并不能像物那样被再一指称而穷尽其用。"
+     ],
+     "inference": "若凡物皆因“指”而成为可名之对象，而“指”又不列入所指数目之中，则指称是使物成为对象的层次，而非对象之一；一旦追问“指是什么”，已把它当作物，故曰“指非指”。",
+     "conclusion": "名言之成立以“指”这一非对象的指称活动为前提；共相与个体的关系须在此层次上说明。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《公孙龙子》",
+     "edition": "王琯《公孙龙子悬解》，中华书局；庞朴《公孙龙子研究》",
+     "note": "六篇：《迹府》《白马论》《指物论》《通变论》《坚白论》《名实论》；《迹府》多被视为后人辑录的传略"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "邓析",
+     "id": null,
+     "note": "春秋郑国辩者，以“两可之说”与名实之讼著称，为先秦辩者之先声"
+    },
+    {
+     "name": "惠施",
+     "id": null,
+     "note": "同属名家，“历物十事”以相对性立论；二人并称而直接授受关系不可考"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "后期墨家（《墨经》）",
+     "id": null,
+     "note": "《经上》《经说》分名为达、类、私，论“举实”与“类”，与名家同域竞争"
+    },
+    {
+     "name": "现当代中国逻辑史研究（胡适、冯友兰、葛瑞汉）",
+     "id": null,
+     "note": "以逻辑与语言哲学框架重估名家，公孙龙成为“中国有无逻辑学”讨论的核心文本"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "庄子（《天下》篇）",
+     "view": "“饰人之心，易人之意，能胜人之口，不能服人之心，辩者之囿也。”——指辩者之说可胜人口而不能服人心，终成口舌之辨的局限。",
+     "response": "辩护意见认为：辨析名之外延与推论结构本身有其认知价值，“能否服人心”不是判定名学命题真假的标准；且《天下》所评针对“辩者”群类，未必逐条针对《公孙龙子》文本。",
+     "kind": "原文",
+     "sources": [
+      "ct-zhuangzi",
+      "sep-chinese-metaphysics"
+     ]
+    },
+    {
+     "critic": "荀子（《正名》篇）",
+     "view": "“惑于用名以乱实”——以“白马非马”“牛马非马”一类析辞擅名之说淆乱名实，使民疑惑、多起辩讼。",
+     "response": "回应：公孙龙《名实论》正主张“审名实”“正彼此”，其关切与荀子“制名以指实”同向；分歧在于是否容许对通行语用作层次分析，而非是否要正名。",
+     "kind": "原文",
+     "sources": [
+      "ct-xunzi",
+      "iep-chinese-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“白马非马”只是诡辩",
+     "why": "此论的前提限定在名（概念）的外延：“马”命形，“白马”兼命形与色，故结论是两名所指不同。若把“非”读作“不属于”，命题即被误读为否认个体白马是马。以“不等于/异于”读“非”，其论式可重构为有效推理，历代注家（如王琯）多取此读。"
+    },
+    {
+     "claim": "名家没有逻辑学，只有诡辩",
+     "why": "《公孙龙子》讨论了名的种类（命形、命色、指）、名的正当性（《名实论》“审名实”“正彼此”）与推论结构（《通变论》的“变”与“类”），后期墨家《墨经》亦有“以名举实”与“类”的辨说；现代中国逻辑史研究（胡适、冯友兰、葛瑞汉）正是据此重建名家的名学与辩学。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "白马非马",
+     "source_id": "ws-gongsunlongzi",
+     "locator": "《公孙龙子·白马论》",
+     "kind": "原文"
+    },
+    {
+     "text": "坚白石三，可乎？曰：不可。",
+     "source_id": "ws-gongsunlongzi",
+     "locator": "《公孙龙子·坚白论》",
+     "kind": "原文"
+    },
+    {
+     "text": "物莫非指，而指非指",
+     "source_id": "ws-gongsunlongzi",
+     "locator": "《公孙龙子·指物论》",
+     "kind": "原文"
+    },
+    {
+     "text": "饰人之心，易人之意，能胜人之口，不能服人之心",
+     "source_id": "ct-zhuangzi",
+     "locator": "《庄子·天下》",
+     "kind": "原文"
+    },
+    {
+     "text": "惑于用名以乱实",
+     "source_id": "ct-xunzi",
+     "locator": "《荀子·正名》",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>公孙龙：名实之辨与指称层次（示意）</text><defs><marker id='ar7' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='36' y='58' width='196' height='74' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='134' y='84' text-anchor='middle' font-size='13' fill='#1e2d3d'>马：命形之名</text><text x='134' y='106' text-anchor='middle' font-size='10' fill='#1e2d3d'>只举形状，黄黑马皆可应</text><line x1='234' y1='95' x2='288' y2='95' stroke='#4a7ba6' marker-end='url(#ar7)'/><rect x='292' y='58' width='196' height='74' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='390' y='84' text-anchor='middle' font-size='13' fill='#1e2d3d'>白马：命形兼命色</text><text x='390' y='106' text-anchor='middle' font-size='10' fill='#1e2d3d'>兼举形状与颜色，所指较窄</text><line x1='490' y1='95' x2='544' y2='95' stroke='#4a7ba6' marker-end='url(#ar7)'/><rect x='548' y='58' width='176' height='74' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='636' y='84' text-anchor='middle' font-size='13' fill='#1c3a5c'>白马非马</text><text x='636' y='106' text-anchor='middle' font-size='10' fill='#1e2d3d'>名之外延不同，非否认其物</text><line x1='134' y1='132' x2='134' y2='164' stroke='#4a7ba6' marker-end='url(#ar7)'/><line x1='636' y1='132' x2='636' y2='164' stroke='#4a7ba6' marker-end='url(#ar7)'/><rect x='40' y='168' width='248' height='76' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='164' y='194' text-anchor='middle' font-size='13' fill='#1c3a5c'>离坚白</text><text x='164' y='216' text-anchor='middle' font-size='10' fill='#1e2d3d'>目得白不得坚，手得坚不得白</text><text x='164' y='234' text-anchor='middle' font-size='10' fill='#1e2d3d'>坚、白可离石而各自为名</text><rect x='472' y='168' width='248' height='76' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='596' y='194' text-anchor='middle' font-size='13' fill='#1c3a5c'>指物论</text><text x='596' y='216' text-anchor='middle' font-size='10' fill='#1e2d3d'>物莫非指，而指非指</text><text x='596' y='234' text-anchor='middle' font-size='10' fill='#1e2d3d'>指称活动本身不是所指数目之一</text><line x1='380' y1='244' x2='380' y2='278' stroke='#4a7ba6' marker-end='url(#ar7)'/><rect x='150' y='282' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='306' text-anchor='middle' font-size='13' fill='#1c3a5c'>名实之辨：概念（名）与对象（实）的关系如何确定</text><text x='380' y='327' text-anchor='middle' font-size='10' fill='#1e2d3d'>共相能否独立于个体被指称</text><text x='380' y='372' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：上三节据《白马论》《坚白论》《指物论》文意重构，非原文图解</text></svg>",
+   "svg_caption": "公孙龙：白马非马、离坚白与指物论的名实结构（重构示意图）",
+   "sources": [
+    "ws-gongsunlongzi",
+    "sep-chinese-metaphysics",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《公孙龙子》六篇的真伪与篇序有讨论：《迹府》一般视为后人辑录的传略；其余五篇的作者与先后亦有争议，学界有以《名实论》《指物论》为纲领、以《白马论》《坚白论》《通变论》为分论的意见，但尚非定论。",
+   "doctrine": {
+    "summary": "公孙龙的核心问题可以概括为：名（概念）与实（对象）之间是什么关系，名凭什么算是“正”的？；共相（如坚、白、马之形）能否独立于具体个体而被指称？；“指”这一指称活动本身，与被指之物是否属于同一层次？。本页据既有论点的材料汇编其学说主干——他主张：「白马非马」：两个名的所指范围不同，故“白马”之名不等同于“马”之名；「离坚白」：坚与白可作为属性分别把握，与“石”这一载体相离；「指物论」：指称活动与被指之物不是同一层次。以下“支柱”“分期”“接受史”均由本页论点、著作与批评条目汇编而成，读者可回到第三节核对每一论点的前提与推理。",
+    "system": [
+     {
+      "name": "「白马非马」：两个名的所指范围不同，故“白马”之名不等同于“马”之名",
+      "content": "前提：“马者，所以命形也；白者，所以命色也。命色者非命形也，故曰白马非马。”（《公孙龙子·白马论》）；求马，黄马、黑马皆可应；求白马，黄马、黑马不可应——两名所许之范围并不相等。。由此推出：“白马非马”所辨为名实：复合名（形＋色）与单一名（形）的所指不同，不可混同使用。"
+     },
+     {
+      "name": "「离坚白」：坚与白可作为属性分别把握，与“石”这一载体相离",
+      "content": "前提：“坚白石三，可乎？曰：不可。曰：二，可乎？曰：可。”（《公孙龙子·坚白论》）；目视石得白而不得坚，手拊石得坚而不得白；见与不见相离，各自成一名。。由此推出：坚、白作为共相可离具体个体而被指称，共相具有相对独立性。"
+     },
+     {
+      "name": "「指物论」：指称活动与被指之物不是同一层次",
+      "content": "前提：“物莫非指，而指非指。”（《公孙龙子·指物论》）；天下无物不可被指称，然而“指”本身并不能像物那样被再一指称而穷尽其用。。由此推出：名言之成立以“指”这一非对象的指称活动为前提；共相与个体的关系须在此层次上说明。"
+     }
     ],
-    "inference": "若甲名只命形、乙名兼命形与色，则凡合于乙名者虽合于甲名，而合于甲名者不必合于乙名；两名外延不等，在“名”的层次上便不能互相替换。故所断者是名与名的关系，而非个体马的有无。",
-    "conclusion": "“白马非马”所辨为名实：复合名（形＋色）与单一名（形）的所指不同，不可混同使用。",
-    "kind": "后人解读",
-    "note": "历代解释分歧：一说“非”读作“不等于/异于”，此论为关于概念外延的有效推理（王琯、庞朴一系多取此读）；一说“非”读作“不属于”，则其为诡辩；另有从“共相论”读之，以为白马之“白”与“马”皆为独立共相，故其合不等于单一共相。三种读法对“非”字与论式结构的判定不同，学界未有定论。"
-   },
-   {
-    "claim": "「离坚白」：坚与白可作为属性分别把握，与“石”这一载体相离",
-    "premises": [
-     "“坚白石三，可乎？曰：不可。曰：二，可乎？曰：可。”（《公孙龙子·坚白论》）",
-     "目视石得白而不得坚，手拊石得坚而不得白；见与不见相离，各自成一名。"
+    "phases": [
+     {
+      "period": "前320年—前250年",
+      "change": "战国中晚期。赵人，久为平原君赵胜门客，曾与孔穿、邹衍等辩于赵廷。其时“辩者”之风甚盛，名实之论与《墨经》、惠施之说并行，公孙龙为其中文本今日尚存的一支。"
+     }
     ],
-    "inference": "若坚与白在同一时机内不能同时被感知，而二者又各自确能被指称，则其可指称性不依赖于这一块石头；石只是二者偶然相合的载体。",
-    "conclusion": "坚、白作为共相可离具体个体而被指称，共相具有相对独立性。",
-    "kind": "原文"
+    "reception": "其影响主要见于：后期墨家（《墨经》）、现当代中国逻辑史研究（胡适、冯友兰、葛瑞汉）。历史上对其学说的主要批评来自：庄子（《天下》篇）、荀子（《正名》篇）。本页“批评与回应”一节并列了双方的理由，读者可就具体争议自行核对。",
+    "auto": true
    },
-   {
-    "claim": "「指物论」：指称活动与被指之物不是同一层次",
-    "premises": [
-     "“物莫非指，而指非指。”（《公孙龙子·指物论》）",
-     "天下无物不可被指称，然而“指”本身并不能像物那样被再一指称而穷尽其用。"
-    ],
-    "inference": "若凡物皆因“指”而成为可名之对象，而“指”又不列入所指数目之中，则指称是使物成为对象的层次，而非对象之一；一旦追问“指是什么”，已把它当作物，故曰“指非指”。",
-    "conclusion": "名言之成立以“指”这一非对象的指称活动为前提；共相与个体的关系须在此层次上说明。",
-    "kind": "原文"
-   }
-  ],
-  "works": [
-   {
-    "title": "《公孙龙子》",
-    "edition": "王琯《公孙龙子悬解》，中华书局；庞朴《公孙龙子研究》",
-    "note": "六篇：《迹府》《白马论》《指物论》《通变论》《坚白论》《名实论》；《迹府》多被视为后人辑录的传略"
-   }
-  ],
-  "influenced_by": [
-   {
-    "name": "邓析",
-    "id": null,
-    "note": "春秋郑国辩者，以“两可之说”与名实之讼著称，为先秦辩者之先声"
-   },
-   {
-    "name": "惠施",
-    "id": null,
-    "note": "同属名家，“历物十事”以相对性立论；二人并称而直接授受关系不可考"
-   }
-  ],
-  "influenced": [
-   {
-    "name": "后期墨家（《墨经》）",
-    "id": null,
-    "note": "《经上》《经说》分名为达、类、私，论“举实”与“类”，与名家同域竞争"
-   },
-   {
-    "name": "现当代中国逻辑史研究（胡适、冯友兰、葛瑞汉）",
-    "id": null,
-    "note": "以逻辑与语言哲学框架重估名家，公孙龙成为“中国有无逻辑学”讨论的核心文本"
-   }
-  ],
-  "criticisms": [
-   {
-    "critic": "庄子（《天下》篇）",
-    "view": "“饰人之心，易人之意，能胜人之口，不能服人之心，辩者之囿也。”——指辩者之说可胜人口而不能服人心，终成口舌之辨的局限。",
-    "response": "辩护意见认为：辨析名之外延与推论结构本身有其认知价值，“能否服人心”不是判定名学命题真假的标准；且《天下》所评针对“辩者”群类，未必逐条针对《公孙龙子》文本。",
-    "kind": "原文",
-    "sources": [
-     "ct-zhuangzi",
-     "sep-chinese-metaphysics"
-    ]
-   },
-   {
-    "critic": "荀子（《正名》篇）",
-    "view": "“惑于用名以乱实”——以“白马非马”“牛马非马”一类析辞擅名之说淆乱名实，使民疑惑、多起辩讼。",
-    "response": "回应：公孙龙《名实论》正主张“审名实”“正彼此”，其关切与荀子“制名以指实”同向；分歧在于是否容许对通行语用作层次分析，而非是否要正名。",
-    "kind": "原文",
-    "sources": [
-     "ct-xunzi",
-     "iep-chinese-philosophy"
-    ]
-   }
-  ],
-  "misconceptions": [
-   {
-    "claim": "“白马非马”只是诡辩",
-    "why": "此论的前提限定在名（概念）的外延：“马”命形，“白马”兼命形与色，故结论是两名所指不同。若把“非”读作“不属于”，命题即被误读为否认个体白马是马。以“不等于/异于”读“非”，其论式可重构为有效推理，历代注家（如王琯）多取此读。"
-   },
-   {
-    "claim": "名家没有逻辑学，只有诡辩",
-    "why": "《公孙龙子》讨论了名的种类（命形、命色、指）、名的正当性（《名实论》“审名实”“正彼此”）与推论结构（《通变论》的“变”与“类”），后期墨家《墨经》亦有“以名举实”与“类”的辨说；现代中国逻辑史研究（胡适、冯友兰、葛瑞汉）正是据此重建名家的名学与辩学。"
-   }
-  ],
-  "quotes": [
-   {
-    "text": "白马非马",
-    "source_id": "ws-gongsunlongzi",
-    "locator": "《公孙龙子·白马论》",
-    "kind": "原文"
-   },
-   {
-    "text": "坚白石三，可乎？曰：不可。",
-    "source_id": "ws-gongsunlongzi",
-    "locator": "《公孙龙子·坚白论》",
-    "kind": "原文"
-   },
-   {
-    "text": "物莫非指，而指非指",
-    "source_id": "ws-gongsunlongzi",
-    "locator": "《公孙龙子·指物论》",
-    "kind": "原文"
-   },
-   {
-    "text": "饰人之心，易人之意，能胜人之口，不能服人之心",
-    "source_id": "ct-zhuangzi",
-    "locator": "《庄子·天下》",
-    "kind": "原文"
-   },
-   {
-    "text": "惑于用名以乱实",
-    "source_id": "ct-xunzi",
-    "locator": "《荀子·正名》",
-    "kind": "原文"
-   }
-  ],
-  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>公孙龙：名实之辨与指称层次（示意）</text><defs><marker id='ar7' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='36' y='58' width='196' height='74' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='134' y='84' text-anchor='middle' font-size='13' fill='#1e2d3d'>马：命形之名</text><text x='134' y='106' text-anchor='middle' font-size='10' fill='#1e2d3d'>只举形状，黄黑马皆可应</text><line x1='234' y1='95' x2='288' y2='95' stroke='#4a7ba6' marker-end='url(#ar7)'/><rect x='292' y='58' width='196' height='74' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='390' y='84' text-anchor='middle' font-size='13' fill='#1e2d3d'>白马：命形兼命色</text><text x='390' y='106' text-anchor='middle' font-size='10' fill='#1e2d3d'>兼举形状与颜色，所指较窄</text><line x1='490' y1='95' x2='544' y2='95' stroke='#4a7ba6' marker-end='url(#ar7)'/><rect x='548' y='58' width='176' height='74' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='636' y='84' text-anchor='middle' font-size='13' fill='#1c3a5c'>白马非马</text><text x='636' y='106' text-anchor='middle' font-size='10' fill='#1e2d3d'>名之外延不同，非否认其物</text><line x1='134' y1='132' x2='134' y2='164' stroke='#4a7ba6' marker-end='url(#ar7)'/><line x1='636' y1='132' x2='636' y2='164' stroke='#4a7ba6' marker-end='url(#ar7)'/><rect x='40' y='168' width='248' height='76' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='164' y='194' text-anchor='middle' font-size='13' fill='#1c3a5c'>离坚白</text><text x='164' y='216' text-anchor='middle' font-size='10' fill='#1e2d3d'>目得白不得坚，手得坚不得白</text><text x='164' y='234' text-anchor='middle' font-size='10' fill='#1e2d3d'>坚、白可离石而各自为名</text><rect x='472' y='168' width='248' height='76' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='596' y='194' text-anchor='middle' font-size='13' fill='#1c3a5c'>指物论</text><text x='596' y='216' text-anchor='middle' font-size='10' fill='#1e2d3d'>物莫非指，而指非指</text><text x='596' y='234' text-anchor='middle' font-size='10' fill='#1e2d3d'>指称活动本身不是所指数目之一</text><line x1='380' y1='244' x2='380' y2='278' stroke='#4a7ba6' marker-end='url(#ar7)'/><rect x='150' y='282' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='306' text-anchor='middle' font-size='13' fill='#1c3a5c'>名实之辨：概念（名）与对象（实）的关系如何确定</text><text x='380' y='327' text-anchor='middle' font-size='10' fill='#1e2d3d'>共相能否独立于个体被指称</text><text x='380' y='372' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：上三节据《白马论》《坚白论》《指物论》文意重构，非原文图解</text></svg>",
-  "svg_caption": "公孙龙：白马非马、离坚白与指物论的名实结构（重构示意图）",
-  "sources": [
-   "ws-gongsunlongzi",
-   "sep-chinese-metaphysics",
-   "iep-chinese-philosophy"
-  ],
-  "needs_verification": true,
-  "pending_notes": "《公孙龙子》六篇的真伪与篇序有讨论：《迹府》一般视为后人辑录的传略；其余五篇的作者与先后亦有争议，学界有以《名实论》《指物论》为纲领、以《白马论》《坚白论》《通变论》为分论的意见，但尚非定论。"
- }
+   "works_detail": [
+    {
+     "title": "《公孙龙子》",
+     "structure": "六篇：《迹府》《白马论》《指物论》《通变论》《坚白论》《名实论》；《迹府》多被视为后人辑录的传略",
+     "core_thesis": "「白马非马」：两个名的所指范围不同，故“白马”之名不等同于“马”之名",
+     "editions": "王琯《公孙龙子悬解》，中华书局；庞朴《公孙龙子研究》",
+     "note": "本条由本页“代表著作”条目汇编"
+    }
+   ]
+  }
  ],
  "concepts": [
   {
@@ -878,13 +1467,36 @@
    "term_latin": "ren（humaneness / benevolence）",
    "definition": "对人的关爱与其合宜的表达，是儒家德性体系的核心；在不同儒家那里，仁的根据（情感、心性还是礼义之教化）被给出不同的说明。",
    "usages": [
-    {"name": "孔子", "id": "cn-xianqin-kongzi", "usage": "仁是礼的内在根据，“克己复礼为仁”，其落实为“己所不欲，勿施于人”的推己及人。"},
-    {"name": "孟子", "id": "cn-xianqin-mengzi", "usage": "把仁收归本心，以恻隐之心为仁之端，仁成为人性善的证据与扩充的对象。"},
-    {"name": "荀子", "id": "cn-xianqin-xunzi", "usage": "仁须与礼义相配，通过师法与教化养成，不能仅靠本心的自然萌芽。"}
+    {
+     "name": "孔子",
+     "id": "cn-xianqin-kongzi",
+     "usage": "仁是礼的内在根据，“克己复礼为仁”，其落实为“己所不欲，勿施于人”的推己及人。"
+    },
+    {
+     "name": "孟子",
+     "id": "cn-xianqin-mengzi",
+     "usage": "把仁收归本心，以恻隐之心为仁之端，仁成为人性善的证据与扩充的对象。"
+    },
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "usage": "仁须与礼义相配，通过师法与教化养成，不能仅靠本心的自然萌芽。"
+    }
    ],
-   "related": ["cn-xianqin-li", "cn-xianqin-xingshan"],
-   "example": {"text": "弟子问“有一言而可以终身行之者乎”，孔子答以“其恕乎”，把仁的普遍要求压缩为一条可操作的行事准则，而非给出定义。", "figure": "孔子", "locator": "《论语·卫灵公》"},
-   "sources": ["ct-analects", "sep-confucius", "iep-chinese-philosophy"],
+   "related": [
+    "cn-xianqin-li",
+    "cn-xianqin-xingshan"
+   ],
+   "example": {
+    "text": "弟子问“有一言而可以终身行之者乎”，孔子答以“其恕乎”，把仁的普遍要求压缩为一条可操作的行事准则，而非给出定义。",
+    "figure": "孔子",
+    "locator": "《论语·卫灵公》"
+   },
+   "sources": [
+    "ct-analects",
+    "sep-confucius",
+    "iep-chinese-philosophy"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -894,13 +1506,36 @@
    "term_latin": "li（ritual propriety）",
    "definition": "关于行为、仪节、名分与制度的规范总体，既包括祭祀朝聘的仪式，也包括社会身份的差等安排；先秦各家对其根据与限度有不同判断。",
    "usages": [
-    {"name": "孔子", "id": "cn-xianqin-kongzi", "usage": "礼是仁的外显，无仁之礼不成其为礼；故重在“敬”与“俭”而非器数之盛。"},
-    {"name": "荀子", "id": "cn-xianqin-xunzi", "usage": "礼是“养”与“别”：既满足人的欲求，又确定差等以止争，是化性起伪的主要制度。"},
-    {"name": "墨子", "id": "cn-xianqin-mozi", "usage": "繁饰礼乐、厚葬久丧耗费民财而延误生事，故当节葬、非乐，以“兴天下之利”为准。"}
+    {
+     "name": "孔子",
+     "id": "cn-xianqin-kongzi",
+     "usage": "礼是仁的外显，无仁之礼不成其为礼；故重在“敬”与“俭”而非器数之盛。"
+    },
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "usage": "礼是“养”与“别”：既满足人的欲求，又确定差等以止争，是化性起伪的主要制度。"
+    },
+    {
+     "name": "墨子",
+     "id": "cn-xianqin-mozi",
+     "usage": "繁饰礼乐、厚葬久丧耗费民财而延误生事，故当节葬、非乐，以“兴天下之利”为准。"
+    }
    ],
-   "related": ["cn-xianqin-ren", "cn-xianqin-zhengming"],
-   "example": {"text": "孔子评鲁国禘祭“禘自既灌而往者，吾不欲观之矣”：仪式仍在，而参与者的敬已失，故礼虽行而不成其为礼。", "figure": "孔子", "locator": "《论语·八佾》"},
-   "sources": ["ct-analects", "ct-xunzi", "sep-confucius"],
+   "related": [
+    "cn-xianqin-ren",
+    "cn-xianqin-zhengming"
+   ],
+   "example": {
+    "text": "孔子评鲁国禘祭“禘自既灌而往者，吾不欲观之矣”：仪式仍在，而参与者的敬已失，故礼虽行而不成其为礼。",
+    "figure": "孔子",
+    "locator": "《论语·八佾》"
+   },
+   "sources": [
+    "ct-analects",
+    "ct-xunzi",
+    "sep-confucius"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -910,13 +1545,37 @@
    "term_latin": "dao（the way）",
    "definition": "既是道路、方法，也是万物所由以生成与运行的根据；在道家那里被强调为不可对象化的本根，在儒家那里多指人道与政教之路，在法家那里被改造为“万理之所稽”。",
    "usages": [
-    {"name": "老子", "id": "cn-xianqin-laozi", "usage": "道不可道、不可名，只可“强为之名”；它是万物生成与复归的根据，非众多事物之一。"},
-    {"name": "庄子", "id": "cn-xianqin-zhuangzi", "usage": "道无所不在（“在蝼蚁”“在稊稗”），故不可以高下取舍；由道观之则物无贵贱。"},
-    {"name": "韩非", "id": "cn-xianqin-hanfei", "usage": "道是“万理之所稽”，把道落实为循事物之理而行的治理方法，去除其神秘性。"}
+    {
+     "name": "老子",
+     "id": "cn-xianqin-laozi",
+     "usage": "道不可道、不可名，只可“强为之名”；它是万物生成与复归的根据，非众多事物之一。"
+    },
+    {
+     "name": "庄子",
+     "id": "cn-xianqin-zhuangzi",
+     "usage": "道无所不在（“在蝼蚁”“在稊稗”），故不可以高下取舍；由道观之则物无贵贱。"
+    },
+    {
+     "name": "韩非",
+     "id": "cn-xianqin-hanfei",
+     "usage": "道是“万理之所稽”，把道落实为循事物之理而行的治理方法，去除其神秘性。"
+    }
    ],
-   "related": ["cn-xianqin-wuwei", "cn-xianqin-xiaoyao"],
-   "example": {"text": "东郭子问“道恶乎在”，庄子答“在蝼蚁”“在稊稗”“在瓦甓”“在屎溺”，以极端例子逼出“道无所不在”的结论。", "figure": "庄子", "locator": "《庄子·知北游》"},
-   "sources": ["ct-daodejing", "ct-zhuangzi", "sep-laozi", "iep-chinese-philosophy"],
+   "related": [
+    "cn-xianqin-wuwei",
+    "cn-xianqin-xiaoyao"
+   ],
+   "example": {
+    "text": "东郭子问“道恶乎在”，庄子答“在蝼蚁”“在稊稗”“在瓦甓”“在屎溺”，以极端例子逼出“道无所不在”的结论。",
+    "figure": "庄子",
+    "locator": "《庄子·知北游》"
+   },
+   "sources": [
+    "ct-daodejing",
+    "ct-zhuangzi",
+    "sep-laozi",
+    "iep-chinese-philosophy"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -926,13 +1585,36 @@
    "term_latin": "wuwei（non-coercive action）",
    "definition": "不以强制性的干预去扭轉事物的自然趋势，而非“什么都不做”；不同学派对其适用范围（君主、圣人、个人）有不同规定。",
    "usages": [
-    {"name": "老子", "id": "cn-xianqin-laozi", "usage": "去政令之繁与干预之蔽，“我无为而民自化”，无为是治理方式而非不作为。"},
-    {"name": "庄子", "id": "cn-xianqin-zhuangzi", "usage": "无为与“逍遥”相连，指不待外物、不执成心的生存方式，重点从治术转向个体。"},
-    {"name": "韩非", "id": "cn-xianqin-hanfei", "usage": "无为转为君术：“君无为而臣有为”，君主不亲细务而以法术驭臣。"}
+    {
+     "name": "老子",
+     "id": "cn-xianqin-laozi",
+     "usage": "去政令之繁与干预之蔽，“我无为而民自化”，无为是治理方式而非不作为。"
+    },
+    {
+     "name": "庄子",
+     "id": "cn-xianqin-zhuangzi",
+     "usage": "无为与“逍遥”相连，指不待外物、不执成心的生存方式，重点从治术转向个体。"
+    },
+    {
+     "name": "韩非",
+     "id": "cn-xianqin-hanfei",
+     "usage": "无为转为君术：“君无为而臣有为”，君主不亲细务而以法术驭臣。"
+    }
    ],
-   "related": ["cn-xianqin-dao", "cn-xianqin-xiaoyao"],
-   "example": {"text": "庖丁解牛“依乎天理”“以无厚入有间”，动作看似轻松而处处合于牛的结构，是“无为”在技艺层面的具体化。", "figure": "庄子", "locator": "《庄子·养生主》"},
-   "sources": ["ct-daodejing", "ct-hanfeizi", "sep-laozi"],
+   "related": [
+    "cn-xianqin-dao",
+    "cn-xianqin-xiaoyao"
+   ],
+   "example": {
+    "text": "庖丁解牛“依乎天理”“以无厚入有间”，动作看似轻松而处处合于牛的结构，是“无为”在技艺层面的具体化。",
+    "figure": "庄子",
+    "locator": "《庄子·养生主》"
+   },
+   "sources": [
+    "ct-daodejing",
+    "ct-hanfeizi",
+    "sep-laozi"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -942,13 +1624,36 @@
    "term_latin": "jianai（impartial care）",
    "definition": "墨家的核心主张：不以人我之别作为损人自利的理由，视人之家若其家、视人之身若其身，从而消除争乱之源。",
    "usages": [
-    {"name": "墨子", "id": "cn-xianqin-mozi", "usage": "兼爱是治乱的方法：乱起于不相爱，故当“兼相爱、交相利”，并以三表法检验其效。"},
-    {"name": "孟子", "id": "cn-xianqin-mengzi", "usage": "批评“墨氏兼爱”为“无父”，认为取消亲疏差等会使父子之亲无所寄托。"},
-    {"name": "庄子", "id": "cn-xianqin-zhuangzi", "usage": "指出墨子之道“其行难为”，反天下之心，虽高尚而难以通行。"}
+    {
+     "name": "墨子",
+     "id": "cn-xianqin-mozi",
+     "usage": "兼爱是治乱的方法：乱起于不相爱，故当“兼相爱、交相利”，并以三表法检验其效。"
+    },
+    {
+     "name": "孟子",
+     "id": "cn-xianqin-mengzi",
+     "usage": "批评“墨氏兼爱”为“无父”，认为取消亲疏差等会使父子之亲无所寄托。"
+    },
+    {
+     "name": "庄子",
+     "id": "cn-xianqin-zhuangzi",
+     "usage": "指出墨子之道“其行难为”，反天下之心，虽高尚而难以通行。"
+    }
    ],
-   "related": ["cn-xianqin-li", "cn-xianqin-ren"],
-   "example": {"text": "墨子设想：若天下人都视人之国若其国，则攻战无从发生；他以“亏人自利”为一切乱象的共同结构，据此推出兼爱为唯一对治。", "figure": "墨子", "locator": "《墨子·兼爱中》"},
-   "sources": ["ct-mozi", "iep-chinese-philosophy", "iep-chinese-philosophy"],
+   "related": [
+    "cn-xianqin-li",
+    "cn-xianqin-ren"
+   ],
+   "example": {
+    "text": "墨子设想：若天下人都视人之国若其国，则攻战无从发生；他以“亏人自利”为一切乱象的共同结构，据此推出兼爱为唯一对治。",
+    "figure": "墨子",
+    "locator": "《墨子·兼爱中》"
+   },
+   "sources": [
+    "ct-mozi",
+    "iep-chinese-philosophy",
+    "iep-chinese-philosophy"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -958,12 +1663,31 @@
    "term_latin": "xingshan（human nature is good）",
    "definition": "孟子的人性论：人天生具有恻隐、羞恶、辞让、是非四端，善是此端的扩充而非外铄；与荀子的性恶说构成先秦人性论的两极。",
    "usages": [
-    {"name": "孟子", "id": "cn-xianqin-mengzi", "usage": "以“乍见孺子将入于井”证明善端非由算计而生，故人性有善的根据，成德在于扩充。"},
-    {"name": "荀子", "id": "cn-xianqin-xunzi", "usage": "反对此说：若性本善，则礼义师法无所用之；善是“伪”，是教化与制度的结果。"}
+    {
+     "name": "孟子",
+     "id": "cn-xianqin-mengzi",
+     "usage": "以“乍见孺子将入于井”证明善端非由算计而生，故人性有善的根据，成德在于扩充。"
+    },
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "usage": "反对此说：若性本善，则礼义师法无所用之；善是“伪”，是教化与制度的结果。"
+    }
    ],
-   "related": ["cn-xianqin-xinge", "cn-xianqin-ren"],
-   "example": {"text": "孟子以牛山之木为喻：山林虽曾被斧斤砍伐、牛羊啃食而显得光秃，但其初并非无萌蘖；人失其本心亦非本性无善。", "figure": "孟子", "locator": "《孟子·告子上》"},
-   "sources": ["ct-mengzi", "sep-mencius", "sep-xunzi"],
+   "related": [
+    "cn-xianqin-xinge",
+    "cn-xianqin-ren"
+   ],
+   "example": {
+    "text": "孟子以牛山之木为喻：山林虽曾被斧斤砍伐、牛羊啃食而显得光秃，但其初并非无萌蘖；人失其本心亦非本性无善。",
+    "figure": "孟子",
+    "locator": "《孟子·告子上》"
+   },
+   "sources": [
+    "ct-mengzi",
+    "sep-mencius",
+    "sep-xunzi"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -973,12 +1697,31 @@
    "term_latin": "xinge（human nature is bad）",
    "definition": "荀子的人性论：人生而好利、疾恶、有耳目之欲，顺之则争乱；善出于人为的“伪”，即师法教化与礼义制度。",
    "usages": [
-    {"name": "荀子", "id": "cn-xianqin-xunzi", "usage": "性恶是教化必要性的论证前提；“枸木必待檃栝烝矫然后直”，故须师法之化。"},
-    {"name": "孟子", "id": "cn-xianqin-mengzi", "usage": "孟子不承认性恶：若人性无善端，则仁义礼智“非由外铄”便无从说起；他以四端反驳人生而无善之说。"}
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "usage": "性恶是教化必要性的论证前提；“枸木必待檃栝烝矫然后直”，故须师法之化。"
+    },
+    {
+     "name": "孟子",
+     "id": "cn-xianqin-mengzi",
+     "usage": "孟子不承认性恶：若人性无善端，则仁义礼智“非由外铄”便无从说起；他以四端反驳人生而无善之说。"
+    }
    ],
-   "related": ["cn-xianqin-xingshan", "cn-xianqin-li"],
-   "example": {"text": "荀子说：饥而欲饱、寒而欲暖、劳而欲休，是人之情性；但弟子让食于长者、代劳于长者，是“反于性而悖于情”的礼义之行，正说明善非本性。", "figure": "荀子", "locator": "《荀子·性恶》"},
-   "sources": ["ct-xunzi", "sep-xunzi", "sep-mencius"],
+   "related": [
+    "cn-xianqin-xingshan",
+    "cn-xianqin-li"
+   ],
+   "example": {
+    "text": "荀子说：饥而欲饱、寒而欲暖、劳而欲休，是人之情性；但弟子让食于长者、代劳于长者，是“反于性而悖于情”的礼义之行，正说明善非本性。",
+    "figure": "荀子",
+    "locator": "《荀子·性恶》"
+   },
+   "sources": [
+    "ct-xunzi",
+    "sep-xunzi",
+    "sep-mencius"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -988,13 +1731,36 @@
    "term_latin": "zhengming（rectification of names）",
    "definition": "使名分与实际职守相符的主张与方法；在儒家是政治秩序的前提，在墨家与名家则转为关于名实关系的逻辑讨论。",
    "usages": [
-    {"name": "孔子", "id": "cn-xianqin-kongzi", "usage": "为政必先正名：“名不正则言不顺”，名分混乱则政令与赏罚无所依附。"},
-    {"name": "荀子", "id": "cn-xianqin-xunzi", "usage": "作《正名》篇，主张“制名以指实”，名由圣王依共识制定，以别同异、明贵贱。"},
-    {"name": "墨子", "id": "cn-xianqin-mozi", "usage": "以“名”须副“实”为论辩要求，批评攻国之战“名之为义而实为不义”。"}
+    {
+     "name": "孔子",
+     "id": "cn-xianqin-kongzi",
+     "usage": "为政必先正名：“名不正则言不顺”，名分混乱则政令与赏罚无所依附。"
+    },
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "usage": "作《正名》篇，主张“制名以指实”，名由圣王依共识制定，以别同异、明贵贱。"
+    },
+    {
+     "name": "墨子",
+     "id": "cn-xianqin-mozi",
+     "usage": "以“名”须副“实”为论辩要求，批评攻国之战“名之为义而实为不义”。"
+    }
    ],
-   "related": ["cn-xianqin-li", "cn-xianqin-dao"],
-   "example": {"text": "孔子论“觚不觚”：器物之名已不副其形制，借以讽名实之乱；名不正的后果不是字面问题，而是礼制无所依托。", "figure": "孔子", "locator": "《论语·雍也》"},
-   "sources": ["ct-analects", "ct-xunzi", "sep-confucius"],
+   "related": [
+    "cn-xianqin-li",
+    "cn-xianqin-dao"
+   ],
+   "example": {
+    "text": "孔子论“觚不觚”：器物之名已不副其形制，借以讽名实之乱；名不正的后果不是字面问题，而是礼制无所依托。",
+    "figure": "孔子",
+    "locator": "《论语·雍也》"
+   },
+   "sources": [
+    "ct-analects",
+    "ct-xunzi",
+    "sep-confucius"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -1004,13 +1770,36 @@
    "term_latin": "tianren zhifen（the distinction between heaven and man）",
    "definition": "把自然运行的常道与人间治乱分开处理的立场；与将天象视为赏罚信号的天人感应思路相对。",
    "usages": [
-    {"name": "荀子", "id": "cn-xianqin-xunzi", "usage": "“天行有常，不为尧存，不为桀亡”，故当明于天人之分，“制天命而用之”，不因异象而畏。"},
-    {"name": "墨子", "id": "cn-xianqin-mozi", "usage": "相反立场：以“天志”为最高法度，天欲人之相爱相利，故天意可据以正政。"},
-    {"name": "老子", "id": "cn-xianqin-laozi", "usage": "“天地不仁，以万物为刍狗”，天不以人的善恶为意，与目的论的天道观相异。"}
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "usage": "“天行有常，不为尧存，不为桀亡”，故当明于天人之分，“制天命而用之”，不因异象而畏。"
+    },
+    {
+     "name": "墨子",
+     "id": "cn-xianqin-mozi",
+     "usage": "相反立场：以“天志”为最高法度，天欲人之相爱相利，故天意可据以正政。"
+    },
+    {
+     "name": "老子",
+     "id": "cn-xianqin-laozi",
+     "usage": "“天地不仁，以万物为刍狗”，天不以人的善恶为意，与目的论的天道观相异。"
+    }
    ],
-   "related": ["cn-xianqin-dao", "cn-xianqin-wuwei"],
-   "example": {"text": "荀子说星坠木鸣，国人皆恐，而他认为“怪之，可也；而畏之，非也”，因其属天地之变、阴阳之事，与人事吉凶无涉。", "figure": "荀子", "locator": "《荀子·天论》"},
-   "sources": ["ct-xunzi", "ct-mozi", "sep-xunzi"],
+   "related": [
+    "cn-xianqin-dao",
+    "cn-xianqin-wuwei"
+   ],
+   "example": {
+    "text": "荀子说星坠木鸣，国人皆恐，而他认为“怪之，可也；而畏之，非也”，因其属天地之变、阴阳之事，与人事吉凶无涉。",
+    "figure": "荀子",
+    "locator": "《荀子·天论》"
+   },
+   "sources": [
+    "ct-xunzi",
+    "ct-mozi",
+    "sep-xunzi"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -1020,12 +1809,31 @@
    "term_latin": "xiaoyao（free wandering）",
    "definition": "庄子式的自由：不依赖外部条件（无待）、不执成心（无己）而自适其适的状态。",
    "usages": [
-    {"name": "庄子", "id": "cn-xianqin-zhuangzi", "usage": "大鹏有待于厚风、列子有待于御风，皆未逍遥；至人无己、神人无功、圣人无名，才无所待。"},
-    {"name": "郭象（后世注家）", "id": null, "usage": "以“适性”解逍遥：各安其性分即为逍遥，大鹏与小鸟并无高下——此注与庄子原文的“小大之辩”是否有张力，学界有讨论。"}
+    {
+     "name": "庄子",
+     "id": "cn-xianqin-zhuangzi",
+     "usage": "大鹏有待于厚风、列子有待于御风，皆未逍遥；至人无己、神人无功、圣人无名，才无所待。"
+    },
+    {
+     "name": "郭象（后世注家）",
+     "id": null,
+     "usage": "以“适性”解逍遥：各安其性分即为逍遥，大鹏与小鸟并无高下——此注与庄子原文的“小大之辩”是否有张力，学界有讨论。"
+    }
    ],
-   "related": ["cn-xianqin-wuwei", "cn-xianqin-dao"],
-   "example": {"text": "蜩与学鸠笑大鹏“奚以之九万里而南为”，庄子既写其局限，又说“之二虫又何知”，把“小知不及大知”与“各适其性”并置，留下解释空间。", "figure": "庄子", "locator": "《庄子·逍遥游》"},
-   "sources": ["ct-zhuangzi", "sep-zhuangzi", "iep-zhuangzi"],
+   "related": [
+    "cn-xianqin-wuwei",
+    "cn-xianqin-dao"
+   ],
+   "example": {
+    "text": "蜩与学鸠笑大鹏“奚以之九万里而南为”，庄子既写其局限，又说“之二虫又何知”，把“小知不及大知”与“各适其性”并置，留下解释空间。",
+    "figure": "庄子",
+    "locator": "《庄子·逍遥游》"
+   },
+   "sources": [
+    "ct-zhuangzi",
+    "sep-zhuangzi",
+    "iep-zhuangzi"
+   ],
    "needs_verification": true,
    "pending_notes": "郭象“适性逍遥”与庄子原文“小大之辩”的关系：注家与研究者解释不一，本页并列两说，不作裁定。"
   }
@@ -1070,7 +1878,11 @@
    "focus": "争论的焦点不在“人是否做出善行”，而在“性”指什么：孟子指人心固有之端，荀子指不学而能的自然情欲，告子指生理本能。所指不同，结论便无从直接对立。",
    "status": "无定论",
    "status_note": "两千年注疏中孟荀两说并存，宋以后孟子一系居主流；现代研究多认为二者对“性”的定义不同，未必构成同一命题的正反，汉学与宋学对“性”的用法差异是关键。",
-   "sources": ["ct-mengzi", "ct-xunzi", "sep-mencius"],
+   "sources": [
+    "ct-mengzi",
+    "ct-xunzi",
+    "sep-mencius"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -1113,7 +1925,12 @@
    "focus": "焦点是“平等”指什么：墨子指不以人我之别为损人的理由（不亏人），孟子与荀子指情感与制度必须有次第（亲疏、贵贱）。前者反对的是“别以自利”，后者维护的是“别以成礼”。",
    "status": "无定论",
    "status_note": "先秦以后儒家差等之爱成为主流，墨学中绝；但“一体之仁”（张载、王阳明）等说法又不断以普遍之爱回应墨家的挑战，两说在宋明理学内部仍以变形的方式继续。",
-   "sources": ["ct-mozi", "ct-mengzi", "ct-xunzi", "iep-chinese-philosophy"],
+   "sources": [
+    "ct-mozi",
+    "ct-mengzi",
+    "ct-xunzi",
+    "iep-chinese-philosophy"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -1156,7 +1973,12 @@
    "focus": "焦点在于对人性的估计与对“秩序来源”的判断：若秩序生于事物自身的趋势，则干预是遮蔽；若秩序须由外部规范生成，则无为即是放任。两方对“民”的能动性估计不同。",
    "status": "无定论",
    "status_note": "此后两千年，黄老之术与儒家礼法在实际政治中交替或并用（如汉初黄老、汉武以后尊儒），实践层面兼采成为常态，学理上两说的分歧并未消解。",
-   "sources": ["ct-daodejing", "ct-hanfeizi", "ct-xunzi", "sep-laozi"],
+   "sources": [
+    "ct-daodejing",
+    "ct-hanfeizi",
+    "ct-xunzi",
+    "sep-laozi"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   }

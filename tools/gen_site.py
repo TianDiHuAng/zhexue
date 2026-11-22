@@ -230,12 +230,46 @@ def render_person(p, sources, people, concepts, debates, schools):
         body.append("<p><span class=\"step\">推理</span>　%s</p>" % esc(a.get("inference", "")))
         body.append("<p><span class=\"step\">结论</span>　%s</p></div>" % esc(a.get("conclusion", "")))
 
+    # 三之二：学说体系详述
+    doc = p.get("doctrine")
+    if doc:
+        body.append('<h2>三之二、学说体系详述</h2>')
+        if doc.get("auto"):
+            body.append('<p class="meta">（本节由本页论点、著作与批评条目汇编而成，便于通读；'
+                        '每一论点的前提与推理见第三节。）</p>')
+        if doc.get("summary"):
+            body.append("<p>%s</p>" % esc(doc["summary"]))
+        if doc.get("system"):
+            body.append("<h3>学说的几个支柱</h3><ul class=\"tight\">%s</ul>" % "".join(
+                "<li><b>%s</b>：%s</li>" % (esc(x.get("name", "")), esc(x.get("content", "")))
+                for x in doc["system"]))
+        if doc.get("phases"):
+            body.append("<h3>思想分期与转变</h3><ul class=\"tight\">%s</ul>" % "".join(
+                "<li><b>%s</b>　%s</li>" % (esc(x.get("period", "")), esc(x.get("change", "")))
+                for x in doc["phases"]))
+        if doc.get("reception"):
+            body.append('<h3>接受史与评价</h3><p>%s</p>' % esc(doc["reception"]))
+
     # 四
     body.append("<h2>四、代表著作及推荐阅读版本</h2>")
     rows = "".join("<tr><td>%s</td><td>%s</td><td>%s</td></tr>"
                    % (esc(w["title"]), esc(w["edition"]), esc(w.get("note", "")))
                    for w in p.get("works", []))
     body.append('<table><tr><th>著作</th><th>推荐版本</th><th>说明</th></tr>%s</table>' % rows)
+    wd = p.get("works_detail")
+    if wd:
+        body.append('<h3>著作详录</h3>')
+        for x in wd:
+            body.append('<div class="card"><p><b>%s</b>%s</p>'
+                        '<p><b>成书/出版：</b>%s</p>'
+                        '<p><b>结构：</b>%s</p>'
+                        '<p><b>核心论旨：</b>%s</p>'
+                        '<p><b>推荐版本：</b>%s</p>%s</div>'
+                        % (esc(x.get("title", "")),
+                           ('　<span class="meta">%s</span>' % esc(x.get("year", ""))) if x.get("year") else "",
+                           esc(x.get("date", "")), esc(x.get("structure", "")),
+                           esc(x.get("core_thesis", "")), esc(x.get("editions", "")),
+                           ('<p class="meta">%s</p>' % esc(x["note"])) if x.get("note") else ""))
     mine = [w for w in WORKS_CACHE if p["id"] in (w.get("related_people") or [])]
     if mine:
         body.append('<p class="meta">本站著作页：%s</p>' % " · ".join(
