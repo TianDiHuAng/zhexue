@@ -1,0 +1,747 @@
+{
+ "unit_id": "gr-german",
+ "region": "west",
+ "title": "德国古典哲学",
+ "period": "1781—1831",
+ "start_year": 1781,
+ "end_year": 1831,
+ "summary": "康德在《纯粹理性批判》中把“知识如何可能”设为哲学的中心问题，以先天形式与物自体的区分回应休谟的怀疑论；费希特、谢林、黑格尔则先后试图取消物自体、以自我、自然或绝对精神重建体系的统一。这一时期的共同特征是“体系”意识：哲学不再只是若干学科的总和，而要求从一个本原推演出全部知识的形式。",
+ "threads": [
+  "知识的界限：先天形式与物自体之间的张力",
+  "体系的动力：从“本原行动”到“绝对精神”的自我展开",
+  "理性与信仰：泛神论之争与体系化的代价"
+ ],
+ "philosophers": [
+  {
+   "id": "gr-german-kant",
+   "name": "康德",
+   "latin": "Immanuel Kant",
+   "birth_year": 1724,
+   "death_year": 1804,
+   "birth_display": "1724年",
+   "death_display": "1804年",
+   "birth_note": "生于东普鲁士柯尼斯堡，据其生平与书信材料；终生未离开该地。",
+   "death_note": "1804年卒于柯尼斯堡；晚年著作《实用人类学》《逻辑学讲义》由学生整理。",
+   "era": "启蒙运动晚期。牛顿物理学已成典范，休谟的因果怀疑与沃尔夫体系的独断论同时构成挑战；康德在“前批判时期”研究自然科学，1781年后以三大批判建立先验哲学。",
+   "school": "德国唯心论",
+   "core_questions": [
+    "先天综合判断如何可能？",
+    "经验的对象在何种意义上是主体构成的？",
+    "道德法则的根据何在，自由如何与自然因果相容？"
+   ],
+   "arguments": [
+    {
+     "claim": "时空与范畴是经验的先天条件，故知识只及现象",
+     "premises": [
+      "数学与纯粹自然科学包含“先天综合判断”（如“一切变化皆有原因”），既扩展知识又具必然性。",
+      "若知识完全来自经验，则无必然性；若完全来自概念，则不扩展知识。"
+     ],
+     "inference": "要使先天综合判断可能，须有既非经验给予、又构成经验对象的形式：直观形式（时空）与知性范畴。它们只对可能经验有效。",
+     "conclusion": "我们认识的只是现象；物自体不可知，但可思。",
+     "kind": "原文"
+    },
+    {
+     "claim": "定言命令：道德法则须可普遍化且以人为目的",
+     "premises": [
+      "道德要求具无条件性，不能以利害、情感或神意为根据。",
+      "一个准则若普遍化后自相矛盾（如虚假承诺），则不能成为道德法则。"
+     ],
+     "inference": "无条件性只能来自理性自身立法：意志给自己立法（自律），故道德法则的形式是普遍化检验，其内容要求把理性存在者当作目的本身。",
+     "conclusion": "道德律令是自律的产物；自由是道德法则的存在根据，道德法则是自由的认识根据。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《纯粹理性批判》",
+     "edition": "邓晓芒译、杨祖陶校，人民出版社；页码以 A/B 两版原页码为准（亦可用 Meiner 版）",
+     "note": "1781 年 A 版、1787 年 B 版；先验感性论、分析论、辩证论"
+    },
+    {
+     "title": "《道德形而上学奠基》《实践理性批判》《判断力批判》",
+     "edition": "《道德形而上学奠基》杨云飞译，人民出版社；《判断力批判》邓晓芒译，人民出版社",
+     "note": "定言命令见《奠基》第二章；目的王国见同章末"
+    }
+   ],
+   "influenced_by": [
+    {"name": "休谟", "id": null, "note": "自述被休谟“从独断论的迷梦中唤醒”"},
+    {"name": "莱布尼茨—沃尔夫体系", "id": null, "note": "其批判的直接对象"}
+   ],
+   "influenced": [
+    {"name": "费希特", "id": "gr-german-fichte", "note": "以本原行动取消物自体"},
+    {"name": "黑格尔", "id": "gr-german-hegel", "note": "以辩证法重建体系"},
+    {"name": "新康德主义与现象学", "id": null, "note": "先验方法在19世纪末复兴"}
+   ],
+   "criticisms": [
+    {
+     "critic": "雅可比",
+     "view": "物自体概念自相矛盾：若它不可知，则无法断言其存在；先验唯心论最终导致“无物自体不可入，无物自体不可留”的困境。",
+     "response": "康德一系的回应是：物自体不是知识对象，而是经验可能性在思想上的必要条件（“可思”而非“可知”）；取消它会使现象失去根据。",
+     "kind": "后人解读",
+     "sources": ["sep-kant", "iep-kant"]
+    },
+    {
+     "critic": "黑格尔",
+     "view": "物自体是“空洞的抽象”，把认识的界限固定在彼岸，等于放弃了理性的自我批判的彻底性。",
+     "response": "康德式的回应是：界限的意识本身即是理性批判的成果；若取消界限，理性便失去防止自身越界的机制。",
+     "kind": "后人解读",
+     "sources": ["sep-hegel", "iep-hegel"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "康德说世界是我创造的",
+     "why": "他主张的是经验对象的先天形式来自主体，而非对象的质料由主体产生；物自体独立存在，故不是主观唯心论。"
+    },
+    {
+     "claim": "康德否认一切形而上学",
+     "why": "他批判的是越界的独断形而上学，同时以《未来形而上学导论》与《道德形而上学》建立“内在的”形而上学（自然形而上学与道德形而上学）。"
+    }
+   ],
+   "quotes": [
+    {"text": "思想无内容则空，直观无概念则盲", "source_id": "emt-kant", "locator": "《纯粹理性批判》A51/B75（依 J. Bennett 改编本节译，中文为通行译法）", "kind": "原文"}
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>康德：先天综合判断如何可能（示意）</text><defs><marker id='arG1' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='58' width='210' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>问题：先天综合判断</text><text x='145' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>既必然又扩展知识</text><rect x='510' y='58' width='210' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='615' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>条件：经验的形式</text><text x='615' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>时空＋范畴</text><line x1='250' y1='87' x2='336' y2='87' stroke='#4a7ba6' marker-end='url(#arG1)'/><line x1='510' y1='87' x2='424' y2='87' stroke='#4a7ba6' marker-end='url(#arG1)'/><rect x='340' y='60' width='80' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='84' text-anchor='middle' font-size='12' fill='#1c3a5c'>推论</text><text x='380' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>只及现象</text><line x1='380' y1='116' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#arG1)'/><rect x='190' y='160' width='380' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='184' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论一：物自体不可知，但可思</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>知识被限定在可能经验之内</text><line x1='380' y1='220' x2='380' y2='258' stroke='#4a7ba6' marker-end='url(#arG1)'/><rect x='120' y='262' width='250' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='245' y='284' text-anchor='middle' font-size='12' fill='#1e2d3d'>实践理性：自律</text><text x='245' y='303' text-anchor='middle' font-size='10' fill='#1e2d3d'>定言命令与自由</text><rect x='390' y='262' width='250' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='515' y='284' text-anchor='middle' font-size='12' fill='#1e2d3d'>后继者的分歧</text><text x='515' y='303' text-anchor='middle' font-size='10' fill='#1e2d3d'>物自体去留（费希特/雅可比）</text><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：上节为原文结构，“只及现象”为其中结论</text></svg>",
+   "svg_caption": "康德：先天综合判断的条件与两个结论（重构示意图）",
+   "sources": ["sep-kant", "iep-kant", "emt-kant"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-german-fichte",
+   "name": "费希特",
+   "latin": "Johann Gottlieb Fichte",
+   "birth_year": 1762,
+   "death_year": 1814,
+   "birth_display": "1762年",
+   "death_display": "1814年",
+   "birth_note": "生于萨克森拉梅瑙；据其书信与早期传记。",
+   "death_note": "1814年卒于柏林；其《知识学》有多个改写版本（1794/1797/1801）。",
+   "era": "法国大革命与拿破仑战争时期。费希特因《试评一切天启》成名，受康德提携；在耶拿任教期间以《知识学》建立体系，后因“无神论之争”离职，转柏林大学首任校长。",
+   "school": "德国唯心论",
+   "core_questions": [
+    "哲学应从“自我”还是从“物”出发？",
+    "物自体能否被取消而不陷入独断论？",
+    "自由如何在一个被机械因果规定的世界中成立？"
+   ],
+   "arguments": [
+    {
+     "claim": "哲学必须在独断论与唯心论之间选择，唯心论从“本原行动”出发",
+     "premises": [
+      "一切经验的根据不能又是经验，故须有一个非经验的出发点。",
+      "若从“物”出发，则无法说明表象如何产生；若从“自我”出发，则物的规定可作为自我的产物被理解。"
+     ],
+     "inference": "自我不是既成的实体，而是“自我设定自身”的行动（Tathandlung）；这一设定同时设定非我，因为有规定必有被规定者。",
+     "conclusion": "知识学的第一原理是“自我设定自身”，其展开为自我与非我的相互限定。",
+     "kind": "原文"
+    },
+    {
+     "claim": "物自体应被取消",
+     "premises": [
+      "康德以物自体解释经验的根据，却断言它不可知。",
+      "不可知的东西不能承担解释功能，否则等于以“无”说明“有”。"
+     ],
+     "inference": "若一切对象都是为自我而设定的，则“独立于自我的物”是自相矛盾的概念；经验的实在性可由自我设定的必然性说明。",
+     "conclusion": "以本原行动的体系取代物自体，先验哲学由此成为“知识学”。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《全部知识学的基础》",
+     "edition": "中译参王玖兴译《全部知识学的基础》，商务印书馆；德文以 Fichtes Werke（Meiner）为准",
+     "note": "1794/95 年耶拿讲稿；三原理：自我设定自身、自我设定非我、自我与非我的相互限定"
+    },
+    {
+     "title": "《论学者的使命》《人的使命》",
+     "edition": "《论学者的使命》梁志学、沈真译，商务印书馆",
+     "note": "实践哲学与历史哲学的通俗表述"
+    }
+   ],
+   "influenced_by": [
+    {"name": "康德", "id": "gr-german-kant", "note": "承其先验方法而拒其物自体"},
+    {"name": "莱因霍尔德", "id": null, "note": "“要素哲学”对费希特体系构造的启发"}
+   ],
+   "influenced": [
+    {"name": "谢林", "id": "gr-german-schelling", "note": "由自我推向自然与绝对者"},
+    {"name": "黑格尔", "id": "gr-german-hegel", "note": "承其辩证法要素而批评其主观性"}
+   ],
+   "criticisms": [
+    {
+     "critic": "雅可比",
+     "view": "从自我出发的体系最终是“虚无主义”（Nihilismus）：一切实在都被化为主体的产物，人失去了超越的依托。",
+     "response": "费希特式的回应是：自我不是任意的个人意志，而是普遍的理性行动；由它说明世界并不取消世界的实在性，反而说明其可理解性。",
+     "kind": "后人解读",
+     "sources": ["sep-hegel", "book-copleston-history"]
+    },
+    {
+     "critic": "黑格尔",
+     "view": "费希特的“自我”仍是主观的，非我永远是与自我对立的外在限制，体系无法达到绝对的统一。",
+     "response": "费希特晚期（1801年后）以“绝对知识”与“图像”说回应，认为自我与非我的对立在更高层面被把握，但这一转向常被黑格尔的批评所掩盖。",
+     "kind": "后人解读",
+     "sources": ["sep-hegel", "iep-hegel"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "费希特说“我就是一切”",
+     "why": "“自我”在知识学中指普遍的理性行动，而非个人的心理自我；非我（自然与他人）是不可取消的限定，其存在是自我展开的条件。"
+    },
+    {
+     "claim": "费希特只是康德的注脚",
+     "why": "他取消了物自体并重写哲学的第一原理，使先验哲学从“批判”转为“体系构造”；这一转向直接引出谢林与黑格尔。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>费希特：三原理的展开（示意）</text><defs><marker id='arG2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='280' y='54' width='200' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='78' text-anchor='middle' font-size='12' fill='#1c3a5c'>本原行动</text><text x='380' y='97' text-anchor='middle' font-size='10' fill='#1e2d3d'>自我设定自身</text><line x1='340' y1='108' x2='230' y2='150' stroke='#4a7ba6' marker-end='url(#arG2)'/><line x1='420' y1='108' x2='530' y2='150' stroke='#4a7ba6' marker-end='url(#arG2)'/><rect x='90' y='154' width='230' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='205' y='177' text-anchor='middle' font-size='12' fill='#1e2d3d'>非我被设定</text><text x='205' y='196' text-anchor='middle' font-size='10' fill='#1e2d3d'>有规定必有被规定者</text><rect x='440' y='154' width='230' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='555' y='177' text-anchor='middle' font-size='12' fill='#1e2d3d'>物自体被取消</text><text x='555' y='196' text-anchor='middle' font-size='10' fill='#1e2d3d'>不可知者不能作解释根据</text><line x1='205' y1='210' x2='320' y2='252' stroke='#4a7ba6' marker-end='url(#arG2)'/><line x1='555' y1='210' x2='440' y2='252' stroke='#4a7ba6' marker-end='url(#arG2)'/><rect x='250' y='256' width='260' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='278' text-anchor='middle' font-size='12' fill='#1c3a5c'>相互限定：知识与实践</text><text x='380' y='297' text-anchor='middle' font-size='10' fill='#1e2d3d'>自由在努力（Streben）中显现</text><text x='380' y='344' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：三原理为原文，取消物自体是体系的直接后果</text></svg>",
+   "svg_caption": "费希特：本原行动如何取消物自体（重构示意图）",
+   "sources": ["sep-kant", "sep-hegel", "book-copleston-history"],
+   "needs_verification": true,
+   "pending_notes": "费希特无专属 SEP/IEP 词条可核（构建时 sep-fichte 未收录），本页论述依据康德、黑格尔词条中的相关评述与哲学史著作；《知识学》诸版本的差异与其晚期“图像”说须依德文原著进一步核对。"
+  },
+  {
+   "id": "gr-german-schelling",
+   "name": "谢林",
+   "latin": "Friedrich Wilhelm Joseph Schelling",
+   "birth_year": 1775,
+   "death_year": 1854,
+   "birth_display": "1775年",
+   "death_display": "1854年",
+   "birth_note": "生于符腾堡莱昂贝格；15 岁入图宾根神学院，与黑格尔、荷尔德林同学。",
+   "death_note": "1854年卒于瑞士巴德拉加茨；晚期讲演《启示哲学》未及定稿。",
+   "era": "后康德唯心论的分化期。谢林早年以自然哲学成名，主张自然与精神同一；中期提出“同一哲学”，晚期转向“肯定哲学”与启示，成为黑格尔体系的主要批评者。",
+   "school": "德国唯心论",
+   "core_questions": [
+    "自然是否只是机械因果，还是自身即具精神性？",
+    "主体与客体的同一如何被说明？",
+    "体系能否容纳自由与恶？"
+   ],
+   "arguments": [
+    {
+     "claim": "自然即“可见的精神”",
+     "premises": [
+      "自然哲学不能只把自然当作被规定的客体，否则无法说明从自然到意识的过渡。",
+      "自然中的组织、等级与合目的性显示其自身是主体的“沉睡”形态。"
+     ],
+     "inference": "若精神从自然中产生而自然又与精神同一，则自然必已以潜在的方式具有精神的结构；故须以“自然—精神”的同一体系取代单向的唯心论。",
+     "conclusion": "自然是可见的精神，精神是不可见的自然；哲学须从两者同一的绝对者出发。",
+     "kind": "原文"
+    },
+    {
+     "claim": "同一哲学：绝对者是主体与客体的无差别",
+     "premises": [
+      "费希特的自我始终与非我相对，故未达绝对。",
+      "艺术与理智直观可以直接把握主客未分的状态。"
+     ],
+     "inference": "若一切对立都从绝对者中产生，则绝对者本身不能带有任何一方优先的规定；它只能是“无差别”（Indifferenz）。",
+     "conclusion": "哲学的最高点是绝对者的同一，其可呈现方式是艺术与理智直观，而非概念推演。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《先验唯心论体系》",
+     "edition": "中译参梁志学、石泉译，商务印书馆；德文以 Schellings Werke（Beck）为准",
+     "note": "1800 年；以“自我意识的历史”推演理论哲学与实践哲学"
+    },
+    {
+     "title": "《自然哲学观念》《艺术哲学》《启示哲学》",
+     "edition": "《艺术哲学》中译参先刚译本，北京大学出版社",
+     "note": "自然哲学与同一哲学时期著作；晚期《启示哲学》讲演另有英译本"
+    }
+   ],
+   "influenced_by": [
+    {"name": "费希特", "id": "gr-german-fichte", "note": "承其自我学说而转向自然"},
+    {"name": "斯宾诺莎", "id": null, "note": "同一哲学与“神即自然”的结构性相似"}
+   ],
+   "influenced": [
+    {"name": "黑格尔", "id": "gr-german-hegel", "note": "承其同一哲学而批评其缺乏“否定性”"},
+    {"name": "浪漫主义与存在哲学（克尔凯郭尔、海德格尔）", "id": null, "note": "晚期谢林对“存在”先于概念的强调被重新发现"}
+   ],
+   "criticisms": [
+    {
+     "critic": "黑格尔",
+     "view": "同一哲学把绝对者说成“无差别”，等于取消了否定与运动，体系的展开无从说明；绝对者须是“自身展开的过程”。",
+     "response": "谢林的回应是：辩证法以为概念可以吞没存在，实则以逻辑取代了实在；晚期他主张“肯定哲学”须从存在（而非概念）出发。",
+     "kind": "后人解读",
+     "sources": ["sep-hegel", "sep-schelling"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "谢林只是一个过渡人物",
+     "why": "他在自然哲学、艺术哲学与晚期“存在论”上有独立贡献；20世纪（海德格尔、蒂利希）对其晚期思想的重视，改变了“过渡论”的评价。"
+    },
+    {
+     "claim": "同一哲学否定差别",
+     "why": "“无差别”指绝对者本身不以主客任何一方为先，并非否认现象界的差别；差别由绝对者的自我展开而产生。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>谢林：同一哲学的结构（示意）</text><defs><marker id='arG3' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='290' y='52' width='180' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='75' text-anchor='middle' font-size='12' fill='#1c3a5c'>绝对者</text><text x='380' y='93' text-anchor='middle' font-size='10' fill='#1e2d3d'>主客无差别</text><line x1='340' y1='104' x2='200' y2='150' stroke='#4a7ba6' marker-end='url(#arG3)'/><line x1='420' y1='104' x2='560' y2='150' stroke='#4a7ba6' marker-end='url(#arG3)'/><rect x='60' y='154' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='185' y='177' text-anchor='middle' font-size='12' fill='#1e2d3d'>自然：可见的精神</text><text x='185' y='196' text-anchor='middle' font-size='10' fill='#1e2d3d'>组织与合目的性</text><rect x='450' y='154' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='575' y='177' text-anchor='middle' font-size='12' fill='#1e2d3d'>精神：不可见的自然</text><text x='575' y='196' text-anchor='middle' font-size='10' fill='#1e2d3d'>理智与自由</text><line x1='185' y1='212' x2='310' y2='254' stroke='#4a7ba6' marker-end='url(#arG3)'/><line x1='575' y1='212' x2='450' y2='254' stroke='#4a7ba6' marker-end='url(#arG3)'/><rect x='240' y='258' width='280' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='280' text-anchor='middle' font-size='12' fill='#1c3a5c'>呈现：艺术与理智直观</text><text x='380' y='299' text-anchor='middle' font-size='10' fill='#1e2d3d'>非概念推演所能代替</text><text x='380' y='346' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：黑格尔批评此结构缺乏“否定性”与运动</text></svg>",
+   "svg_caption": "谢林：绝对者与自然—精神的同一（重构示意图）",
+   "sources": ["sep-schelling", "sep-hegel"],
+   "needs_verification": true,
+   "pending_notes": "谢林晚期“肯定哲学”与“否定哲学”的区分、以及其与黑格尔分歧的确切表述，须依《启示哲学》讲演原文核对；本页对晚期思想的概括较简。"
+  },
+  {
+   "id": "gr-german-hegel",
+   "name": "黑格尔",
+   "latin": "Georg Wilhelm Friedrich Hegel",
+   "birth_year": 1770,
+   "death_year": 1831,
+   "birth_display": "1770年",
+   "death_display": "1831年",
+   "birth_note": "生于斯图加特；图宾根神学院与谢林、荷尔德林同学。",
+   "death_note": "1831年卒于柏林（霍乱）；《法哲学原理》1821 年出版，讲演录由学生整理。",
+   "era": "普鲁士改革与复辟时期。黑格尔在那拿完成《精神现象学》，后任海德堡、柏林教授，其体系在19世纪20年代成为普鲁士官方哲学的重要资源，也在其死后分裂为左右两派。",
+   "school": "德国唯心论",
+   "core_questions": [
+    "意识如何从感性直接性走向绝对知识？",
+    "理性与现实的关系是什么？",
+    "自由如何在伦理生活（家庭、市民社会、国家）中实现？"
+   ],
+   "arguments": [
+    {
+     "claim": "辩证法：概念以内在否定自我展开",
+     "premises": [
+      "“感性确定性”自以为把握最真实者，却只能说“这一个”，一旦说出即已普遍化。",
+      "概念的每个形态都包含自身无法消化的对立（如“意识”与“对象”的二分）。"
+     ],
+     "inference": "若一个形态的失败是由其自身规定所致，则这一失败不是外在的反驳，而是该形态向更高形态的过渡；否定性因此是运动的原则。",
+     "conclusion": "真理是整体，是概念自我展开的过程（“绝对精神”），而非某一孤立的命题。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“凡是合理的都是现实的，凡是现实的都是合理的”",
+     "premises": [
+      "“现实”（Wirklichkeit）不等于“现存”（Existenz）：只有符合其概念的现存才是现实的。",
+      "理性的任务是认识事物中的合理性，而非为一切现状辩护。"
+     ],
+     "inference": "若“现实”以概念为尺度，则该命题不是对既成事实的认可，而是对“什么是真正的现实”的判定标准。",
+     "conclusion": "哲学的任务是理解现实的理性结构；这一命题同时包含批判的锋芒（不合理的现存不成其为现实）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "主奴辩证法：自我意识须经他者承认",
+     "premises": [
+      "自我意识只有在另一个自我意识中才能获得确认。",
+      "主人以支配获得承认，奴隶在劳动中把自身对象化。"
+     ],
+     "inference": "主人的承认来自一个不被承认者，故是空的；奴隶通过劳动塑造物，在其中直观到自己的理性，反而获得自我意识的真理。",
+     "conclusion": "承认关系是自我意识的条件；历史是自由意识逐步实现其承认结构的过程。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《精神现象学》",
+     "edition": "中译参先刚译，人民出版社；贺麟、王玖兴译本可参；德文以 GW 9（Meiner）为准",
+     "note": "1807 年；序言与导论为理解其方法的关键"
+    },
+    {
+     "title": "《逻辑学》《法哲学原理》《历史哲学讲演录》",
+     "edition": "《法哲学原理》范扬、张企泰译，商务印书馆；《小逻辑》贺麟译，商务印书馆",
+     "note": "《法哲学原理》序言为“合理与现实”命题的出处"
+    }
+   ],
+   "influenced_by": [
+    {"name": "谢林", "id": "gr-german-schelling", "note": "早期同盟，后公开分歧（《精神现象学》序言）"},
+    {"name": "康德", "id": "gr-german-kant", "note": "承其批判问题而反对物自体与“应当”的二元"}
+   ],
+   "influenced": [
+    {"name": "马克思", "id": null, "note": "批判性继承辩证法与异化问题"},
+    {"name": "克尔凯郭尔", "id": null, "note": "以“个体”对抗体系"},
+    {"name": "法兰克福学派与承认理论", "id": null, "note": "主奴辩证法成为社会批判的资源"}
+   ],
+   "criticisms": [
+    {
+     "critic": "叔本华",
+     "view": "黑格尔的体系是“空洞的辞句”与“伪科学”，以概念游戏代替直观与根据律。",
+     "response": "黑格尔一系的回应是：辩证法不是辞句游戏，而是对概念内在矛盾的展示；批评者若只摘取结论而不进入论证，便无法构成反驳。",
+     "kind": "后人解读",
+     "sources": ["sep-hegel", "iep-hegel"]
+    },
+    {
+     "critic": "波普尔",
+     "view": "辩证法不可证伪，故不构成科学方法；历史主义预言亦被历史证伪。",
+     "response": "研究者的回应是：黑格尔并不主张可证伪的经验科学方法，其“历史主义”也非预言式；以波普尔的标准衡量，属范畴错置。",
+     "kind": "后人解读",
+     "sources": ["sep-hegel", "book-copleston-history"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "黑格尔的辩证法是“正—反—合”三步公式",
+     "why": "“正反合”是后世（如 Chalybäus）的概括，黑格尔本人极少使用；其方法是概念依内在否定而自我规定，并非套用三段式模板。"
+    },
+    {
+     "claim": "“凡是现实的都是合理的”是为专制辩护",
+     "why": "黑格尔区分“现实”与“现存”，前者以概念为尺度；该命题因而可用来判定不合理的现存“不配称为现实”。其政治立场另有保守面向，但这一句不能直接读作对现状的无条件认可。"
+    }
+   ],
+   "quotes": [
+    {"text": "凡是合理的都是现实的，凡是现实的都是合理的", "source_id": "emt-kant", "locator": "《法哲学原理》序言（中文为通行译法；此处 source 仅为版本定位，原文见 Meiner 版 GW 14）", "kind": "原文"}
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>黑格尔：辩证运动与承认（示意）</text><defs><marker id='arG4' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='58' width='210' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>感性确定性</text><text x='145' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>“这一个”已普遍化</text><line x1='250' y1='87' x2='300' y2='87' stroke='#4a7ba6' marker-end='url(#arG4)'/><rect x='304' y='58' width='210' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='409' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>内在否定</text><text x='409' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>形态自身失败</text><line x1='514' y1='87' x2='564' y2='87' stroke='#4a7ba6' marker-end='url(#arG4)'/><rect x='568' y='58' width='152' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='644' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>更高形态</text><text x='644' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>扬弃</text><line x1='380' y1='116' x2='380' y2='154' stroke='#4a7ba6' marker-end='url(#arG4)'/><rect x='200' y='158' width='360' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='181' text-anchor='middle' font-size='12' fill='#1c3a5c'>主奴：承认须经他者</text><text x='380' y='200' text-anchor='middle' font-size='10' fill='#1e2d3d'>劳动使奴隶直观自身理性</text><line x1='380' y1='216' x2='380' y2='252' stroke='#4a7ba6' marker-end='url(#arG4)'/><rect x='150' y='256' width='460' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='278' text-anchor='middle' font-size='12' fill='#1c3a5c'>绝对精神：自由意识的历史实现</text><text x='380' y='297' text-anchor='middle' font-size='10' fill='#1e2d3d'>“真理是整体”</text><text x='380' y='344' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：上节据《精神现象学》“感性确定性”章；“正反合”非其术语</text></svg>",
+   "svg_caption": "黑格尔：从感性确定性到绝对精神的运动（重构示意图）",
+   "sources": ["sep-hegel", "iep-hegel", "book-copleston-history"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-german-jacobi",
+   "name": "雅可比",
+   "latin": "Friedrich Heinrich Jacobi",
+   "birth_year": 1743,
+   "death_year": 1819,
+   "birth_display": "1743年",
+   "death_display": "1819年",
+   "birth_note": "生于杜塞尔多夫；经商家世，后任巴伐利亚科学院院长。",
+   "death_note": "1819年卒于慕尼黑。",
+   "era": "启蒙晚期与浪漫主义兴起之际。雅可比以《致门德尔松的书信》挑起“泛神论之争”（1785），指斯宾诺莎主义为宿命论与无神论；此后持续批评康德、费希特、谢林的体系。",
+   "school": "信仰哲学（Glaubensphilosophie）",
+   "core_questions": [
+    "体系化的理性是否必然导致宿命论与无神论？",
+    "是否存在一种先于论证的直接确信（信仰/直觉）？",
+    "康德物自体与德国唯心论是否自相矛盾？"
+   ],
+   "arguments": [
+    {
+     "claim": "一切论证性的知识都以直接确信为前提",
+     "premises": [
+      "任何证明都需要前提，而前提不能再被无限证明。",
+      "故必有某种不经论证而被直接把握者（上帝、自由、外部世界的实在）。"
+     ],
+     "inference": "若把间接知识当作唯一知识，则最终只能剩下虚无（nihilism）；直接确信是避免这一结果的条件。",
+     "conclusion": "“信仰”（Glaube）不是盲从，而是理性自身的直接确信，是论证的前提。",
+     "kind": "原文"
+    },
+    {
+     "claim": "斯宾诺莎主义的内在后果是宿命论",
+     "premises": [
+      "斯宾诺莎以必然的因果链条说明一切，包括人的意愿。",
+      "若一切皆必然，则“应当”与责任无从安立。"
+    ],
+     "inference": "若自由被取消，则道德与人格的实在性只是幻觉；而这是任何彻底体系化的理性主义的归宿。",
+     "conclusion": "泛神论（斯宾诺莎主义）= 宿命论 = 无神论；莱辛若真是斯宾诺莎主义者，则须承认这一后果。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《致门德尔松的书信》（泛神论之争）",
+     "edition": "德文见 Jacobis Werke（Wissenschaftliche Buchgesellschaft 影印）；英译见《The Spinoza Conversations》",
+     "note": "1785 年出版；引发与门德尔松的争论"
+    },
+    {
+     "title": "《大卫·休谟论信仰》《关于先验唯心论的通信》",
+     "edition": "德文见 Werke 第二卷；尚无通行中译",
+     "note": "前者以休谟论信仰与根据律，后者批评费希特与谢林"
+    }
+   ],
+   "influenced_by": [
+    {"name": "休谟", "id": null, "note": "以休谟的信念理论支持“直接确信”"},
+    {"name": "斯宾诺莎", "id": null, "note": "其争论的文本对象"}
+   ],
+   "influenced": [
+    {"name": "德国唯心论的自我批评", "id": null, "note": "其“虚无主义”指责迫使费希特、黑格尔回应"},
+    {"name": "存在哲学与克尔凯郭尔", "id": null, "note": "直接确信与个体生存的优先性"}
+   ],
+   "criticisms": [
+    {
+     "critic": "黑格尔",
+     "view": "把直接知识置于论证之上，等于回到独断论；雅可比的“信仰”缺乏规定性，最终只是主观的确信。",
+     "response": "雅可比的回应是：黑格尔的“概念”仍以直接确信为前提，只是不自知；体系无法说明自身何以开始。",
+     "kind": "后人解读",
+     "sources": ["sep-hegel", "sep-kant"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "雅可比是反理性的蒙昧主义者",
+     "why": "他要求的是为理性划定界限并承认其前提，并非放弃论证；其“信仰”指直接确信，与宗教权威的盲从不同。"
+    },
+    {
+     "claim": "泛神论之争只是神学争吵",
+     "why": "它实质上是关于理性主义后果（宿命论、无神论）与自由可能性的哲学争论，直接影响了德国唯心论的自我理解。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>雅可比：论证与直接确信（示意）</text><defs><marker id='arG5' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='44' y='58' width='210' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='149' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提一：证明需前提</text><text x='149' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>否则无穷后退</text><rect x='506' y='58' width='210' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='611' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提二：斯宾诺莎主义</text><text x='611' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>= 必然性体系</text><line x1='254' y1='87' x2='340' y2='87' stroke='#4a7ba6' marker-end='url(#arG5)'/><line x1='506' y1='87' x2='420' y2='87' stroke='#4a7ba6' marker-end='url(#arG5)'/><rect x='344' y='60' width='72' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='84' text-anchor='middle' font-size='12' fill='#1c3a5c'>推论</text><text x='380' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>两难</text><line x1='380' y1='116' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#arG5)'/><rect x='180' y='160' width='400' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='184' text-anchor='middle' font-size='13' fill='#1c3a5c'>要么直接确信，要么虚无主义</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>体系化理性若无前提，则无物可立</text><line x1='380' y1='224' x2='380' y2='262' stroke='#4a7ba6' marker-end='url(#arG5)'/><rect x='120' y='266' width='250' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='245' y='288' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论一：信仰即直接确信</text><text x='245' y='307' text-anchor='middle' font-size='10' fill='#1e2d3d'>非盲从，而是理性前提</text><rect x='390' y='266' width='250' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='515' y='288' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论二：泛神论之争</text><text x='515' y='307' text-anchor='middle' font-size='10' fill='#1e2d3d'>宿命论 → 无神论</text><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两条推论见《致门德尔松的书信》与《休谟论信仰》</text></svg>",
+   "svg_caption": "雅可比：论证的前提与泛神论之争的两难（重构示意图）",
+   "sources": ["sep-kant", "sep-hegel", "book-copleston-history"],
+   "needs_verification": true,
+   "pending_notes": "雅可比无专属 SEP/IEP 词条可核；本页论述依据康德、黑格尔词条中的评述与哲学史著作，泛神论之争的文本细节（莱辛谈话的记录）须依《致门德尔松的书信》原文核对。"
+  }
+ ],
+ "concepts": [
+  {
+   "id": "gr-german-transcendental",
+   "term": "先验",
+   "term_latin": "transzendental（transcendental）",
+   "definition": "在康德那里指“不涉及对象而涉及我们认识对象的方式”的研究，即考察经验所以可能的先天条件；与“超验”（transzendent，越出经验界限）严格区分。",
+   "usages": [
+    {"name": "康德", "id": "gr-german-kant", "usage": "先验哲学考察时空、范畴等先天条件；这些条件只对可能经验有效，不是关于物自体的知识。"},
+    {"name": "费希特", "id": "gr-german-fichte", "usage": "把先验方法转为体系的构造：从本原行动推演出全部知识的形式，先验不再是“批判”而是“知识学”。"}
+   ],
+   "related": ["gr-german-synthetic-a-priori", "gr-german-ding-an-sich"],
+   "example": {"text": "康德说“一切变化皆有原因”不是从经验归纳而来，而是使经验成为可能的先天原理；这一类考察即“先验的”，而“世界有一个绝对开端”则是超验的僭越。", "figure": "康德", "locator": "《纯粹理性批判》B3—B6"},
+   "sources": ["sep-kant", "iep-kant", "emt-kant"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-german-synthetic-a-priori",
+   "term": "先天综合判断",
+   "term_latin": "synthetisches Urteil a priori",
+   "definition": "既具有先天的必然性与普遍性、又扩展主词概念的知识判断；康德以此说明数学与自然科学的可能性，并把它作为批判哲学的核心问题。",
+   "usages": [
+    {"name": "康德", "id": "gr-german-kant", "usage": "“7+5=12”与“一切变化皆有原因”都是先天综合判断；其可能性由直观形式与范畴说明。"},
+    {"name": "黑格尔", "id": "gr-german-hegel", "usage": "批评这种划分仍以主客对立为前提，概念与实在的分裂应在辩证法中被克服。"}
+   ],
+   "related": ["gr-german-transcendental", "gr-german-category"],
+   "example": {"text": "康德举例：“一切变化皆有原因”。主词“变化”并不包含“原因”，故是综合的；但它不依赖特定经验而必然有效，故是先天的。", "figure": "康德", "locator": "《纯粹理性批判》B11—B14"},
+   "sources": ["sep-kant", "paper-s11229-021-03107-6", "emt-kant"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-german-ding-an-sich",
+   "term": "物自体",
+   "term_latin": "Ding an sich（thing in itself）",
+   "definition": "独立于我们的认识形式而存在的事物本身；康德认为它不可知，但是现象所以可能的思的根据。其后继者或取消之，或重释之。",
+   "usages": [
+    {"name": "康德", "id": "gr-german-kant", "usage": "物自体不可知但可思，为感性接受性提供根据；把它当作知识对象即陷入先验幻相。"},
+    {"name": "费希特", "id": "gr-german-fichte", "usage": "主张取消物自体：不可知者不能承担解释功能，一切对象都要在自我设定中被理解。"},
+    {"name": "黑格尔", "id": "gr-german-hegel", "usage": "视之为“空洞的抽象”，认为把认识界限固定在彼岸，等于放弃理性的彻底自我批判。"}
+   ],
+   "related": ["gr-german-transcendental", "gr-german-absolute-spirit"],
+   "example": {"text": "康德以“视之为现象”区分：同一对象作为现象受时空与范畴规定，作为物自体则不在这些条件之中；因此关于它的任何断言都超出知识界限。", "figure": "康德", "locator": "《纯粹理性批判》Bxxvi—Bxxix"},
+   "sources": ["sep-kant", "sep-hegel", "iep-kant"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-german-category",
+   "term": "范畴",
+   "term_latin": "Kategorie（category）",
+   "definition": "知性的纯粹概念，是判断的逻辑形式在对象上的运用；康德列出十二范畴（量、质、关系、模态各三），认为它们构成经验对象的普遍规定。",
+   "usages": [
+    {"name": "康德", "id": "gr-german-kant", "usage": "范畴是先天概念，须经“图型化”才能运用于感性直观；其客观有效性限于可能经验。"},
+    {"name": "黑格尔", "id": "gr-german-hegel", "usage": "把范畴从“主观形式”提升为存在自身的规定，逻辑学即范畴的自我展开。"}
+   ],
+   "related": ["gr-german-transcendental", "gr-german-synthetic-a-priori"],
+   "example": {"text": "“实体—偶性”作为关系范畴，使“这块蜡是硬的”这类判断具有对象性的统一；康德强调范畴不能脱离直观单独产生知识。", "figure": "康德", "locator": "《纯粹理性批判》A80/B106 起的范畴表"},
+   "sources": ["sep-kant", "iep-kant"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-german-antinomy",
+   "term": "二律背反",
+   "term_latin": "Antinomie（antinomy）",
+   "definition": "理性在越出经验界限时必然陷入的成对矛盾命题（正题与反题各自都能被证明）；康德以此说明传统形而上学的困境。",
+   "usages": [
+    {"name": "康德", "id": "gr-german-kant", "usage": "四组二律背反（有限/无限、可分/不可分、自由/必然、有/无绝对存在者），以“先验唯心论”化解：双方争的是现象还是物自体。"},
+    {"name": "黑格尔", "id": "gr-german-hegel", "usage": "不把矛盾视为理性的病态，而视为实在自身的结构；辩证法是矛盾的正面对待方式。"}
+   ],
+   "related": ["gr-german-ding-an-sich", "gr-german-dialectic"],
+   "example": {"text": "第三组二律背反：正题主张有自由因，反题主张一切依自然律。康德的处理是：作为现象一切皆必然，作为本体则可思自由——两者可并存于不同层面。", "figure": "康德", "locator": "《纯粹理性批判》A444/B472 起"},
+   "sources": ["sep-kant", "sep-hegel", "emt-kant"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-german-absolute-spirit",
+   "term": "绝对精神",
+   "term_latin": "absoluter Geist",
+   "definition": "黑格尔体系中精神发展的最高阶段：精神在艺术、宗教与哲学中把握自身为绝对者，即主客统一的整体。",
+   "usages": [
+    {"name": "黑格尔", "id": "gr-german-hegel", "usage": "绝对精神是“自知的精神”，其形态为艺术（直观）、宗教（表象）、哲学（概念）。"},
+    {"name": "谢林", "id": "gr-german-schelling", "usage": "以“绝对者”的同一为最高点，但主张其呈现方式是艺术与理智直观，而非概念的自我展开。"}
+   ],
+   "related": ["gr-german-dialectic", "gr-german-ding-an-sich"],
+   "example": {"text": "黑格尔把哲学史描述为精神自我认识的一系列形态：每一体系都是绝对精神在特定阶段的自我把握，后起者扬弃前者而非简单取代。", "figure": "黑格尔", "locator": "《精神现象学》末章“绝对知识”"},
+   "sources": ["sep-hegel", "iep-hegel", "sep-schelling"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-german-dialectic",
+   "term": "辩证法",
+   "term_latin": "Dialektik（dialectic）",
+   "definition": "通过揭示概念内在矛盾而推动其自我规定的方法；在康德那里是“幻相的逻辑”（消极用法），在黑格尔那里是实在与思想的运动方式（积极用法）。",
+   "usages": [
+    {"name": "康德", "id": "gr-german-kant", "usage": "先验辩证论揭示理性越界时产生的幻相；辩证法是批判的对象而非真理的方法。"},
+    {"name": "黑格尔", "id": "gr-german-hegel", "usage": "辩证法是概念依内在否定而展开的运动；“正反合”并非其术语。"}
+   ],
+   "related": ["gr-german-antinomy", "gr-german-aufheben"],
+   "example": {"text": "《逻辑学》开端的“存在—无—变”：纯存在无任何规定，故等于无；而“存在”与“无”的真理是“变”，变既是生成也是消亡。", "figure": "黑格尔", "locator": "《逻辑学》第一卷第一章"},
+   "sources": ["sep-hegel", "sep-kant", "iep-hegel"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-german-aufheben",
+   "term": "扬弃",
+   "term_latin": "Aufheben（sublate）",
+   "definition": "黑格尔的关键术语，兼具“否定”“保存”“提升”三义：一个环节被否定其片面性，同时被保留为更高整体的构成部分。",
+   "usages": [
+    {"name": "黑格尔", "id": "gr-german-hegel", "usage": "每一形态的真理在其后继形态中被扬弃：既被否定为唯一者，又被保存为环节。"},
+    {"name": "康德", "id": "gr-german-kant", "usage": "无对应术语；康德用的是“限制”“界限”等，缺少“否定同时保存”的结构（此为对照用法）。"}
+   ],
+   "related": ["gr-german-dialectic", "gr-german-absolute-spirit"],
+   "example": {"text": "“感性确定性”被“知觉”扬弃：感性直接性被否定为真理，但感性内容仍作为知觉的环节被保留。", "figure": "黑格尔", "locator": "《精神现象学》第二章"},
+   "sources": ["sep-hegel", "iep-hegel"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-german-an-sich-fuer-sich",
+   "term": "自在自为",
+   "term_latin": "an und für sich（in and for itself）",
+   "definition": "黑格尔用以标示概念发展的完成状态：既自在（潜在的、自身同一的）又自为（自觉的、为他物而显示自身的）；与“自在”“自为”两个环节相区分。",
+   "usages": [
+    {"name": "黑格尔", "id": "gr-german-hegel", "usage": "精神起初是自在的（潜在），经外化而自为，最终自在自为——即自知地与自己同一。"},
+    {"name": "费希特", "id": "gr-german-fichte", "usage": "以“自我”的自返结构表达类似意涵：自我设定自身并在返回中把握自身（此为对照用法）。"}
+   ],
+   "related": ["gr-german-absolute-spirit", "gr-german-aufheben"],
+   "example": {"text": "儿童起初“自在”地具有理性（潜能），经教育与劳动而“自为”，成人则“自在自为”地拥有理性——黑格尔常用此类例子说明三环节。", "figure": "黑格尔", "locator": "《小逻辑》导论诸节"},
+   "sources": ["sep-hegel", "iep-hegel"],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "debates": [
+  {
+   "id": "gr-german-thing-in-itself",
+   "title": "物自体是否可被取消",
+   "question": "康德所说的“物自体”是必要的界限概念，还是自相矛盾的残余？",
+   "positions": [
+    {
+     "holder": "康德",
+     "id": "gr-german-kant",
+     "stance": "物自体不可知但必要",
+     "reasons": [
+      "现象须有显现者，否则“现象”一词失去意义。",
+      "物自体是思的界限概念，不承担知识功能，故不矛盾。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "费希特",
+     "id": "gr-german-fichte",
+     "stance": "应取消，代之以本原行动",
+     "reasons": [
+      "不可知者不能解释任何东西，以其为根据等于以“无”说明“有”。",
+      "一切对象都可在自我设定及其与非我的相互限定中被理解。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "雅可比",
+     "id": "gr-german-jacobi",
+     "stance": "概念自相矛盾，且暴露体系化理性的困境",
+     "reasons": [
+      "若物自体不可知，则不能断言其存在；若可断言，则已被认识。",
+      "以直接确信取代无根的论证，是避免虚无主义的唯一出路。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点是“界限概念”能否成立：康德需要一个不可知的根据来阻止唯心论滑向主观主义；反对者认为这一根据既不可知便无法承担解释功能，因而只是体系的裂缝。",
+   "status": "无定论",
+   "status_note": "19世纪以后，新康德主义多以“调节性原则”重释物自体；分析哲学传统（如斯特劳森）则以其为“界限概念”讨论。学界一般认为康德的文本支持多种读法，争论未息。",
+   "sources": ["sep-kant", "sep-hegel", "iep-kant"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-german-dialectics",
+   "title": "体系是否必须以辩证法为方法",
+   "question": "哲学应当以概念的辩证运动构造体系，还是应承认概念无法吞没实在？",
+   "positions": [
+    {
+     "holder": "黑格尔",
+     "id": "gr-german-hegel",
+     "stance": "必须，辩证法是实在与思想的运动",
+     "reasons": [
+      "概念的每个形态都内含矛盾，矛盾推动其向更高形态过渡。",
+      "真理是整体，只有体系才能呈现理性的自我展开。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "谢林",
+     "id": "gr-german-schelling",
+     "stance": "概念不能吞没存在",
+     "reasons": [
+      "同一哲学以绝对者的无差别为最高点，概念推演只是“否定哲学”。",
+      "晚期主张“肯定哲学”从存在出发，而非从概念出发。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "雅可比",
+     "id": "gr-german-jacobi",
+     "stance": "体系必然导致宿命论",
+     "reasons": [
+      "体系要求一切可推演，遂取消自由与人格。",
+      "哲学须承认直接确信为不可论证的前提。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点是“否定性”的地位：黑格尔以矛盾为运动原则，谢林与雅可比则认为这会把存在、自由与个体吞进概念；双方对“哲学能否成为体系”本身有分歧。",
+   "status": "无定论",
+   "status_note": "19世纪以后，克尔凯郭尔、尼采、海德格尔从“生存”与“存在”出发延续对体系的批评；20世纪分析哲学则另立方法。辩证法在马克思主义与批判理论中被保留为方法，但已不限黑格尔意义。",
+   "sources": ["sep-hegel", "sep-schelling", "book-copleston-history"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-german-reason-faith",
+   "title": "理性与信仰的界限",
+   "question": "哲学理性能否把握上帝与自由，还是必须为信仰留出不可论证的领域？",
+   "positions": [
+    {
+     "holder": "雅可比",
+     "id": "gr-german-jacobi",
+     "stance": "须为直接确信留出领域",
+     "reasons": [
+      "一切论证以不可论证者为前提，故信仰是理性的条件。",
+      "斯宾诺莎式的理性主义导致宿命论与无神论。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "黑格尔",
+     "id": "gr-german-hegel",
+     "stance": "理性即信仰的内容之真理",
+     "reasons": [
+      "宗教以表象把握的内容，哲学以概念把握；二者对象相同而形式不同。",
+      "把信仰置于理性之外，会使上帝成为不可知的“彼岸”。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "康德",
+     "id": "gr-german-kant",
+     "stance": "知识止步，信仰有其实践根据",
+     "reasons": [
+      "上帝与自由不是知识对象（理论理性不可及）。",
+      "但它们是实践理性的悬设，道德生活需要它们。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点是“不可论证者”的地位：康德把它限定为实践理性的悬设，雅可比把它当作理性自身的前提，黑格尔则主张它可被概念把握。三种处理方式对应三种不同的哲学任务。",
+   "status": "无定论",
+   "status_note": "泛神论之争（1785）之后，这一分歧以不同形式延续：19世纪有施特劳斯与布鲁诺·鲍威尔的争论，20世纪有理性神学与“后形而上学”之争，学界未形成共识。",
+   "sources": ["sep-kant", "sep-hegel", "iep-kant"],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ]
+}
