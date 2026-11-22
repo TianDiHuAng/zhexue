@@ -1,0 +1,1093 @@
+{
+ "unit_id": "gr-hellenistic",
+ "region": "west",
+ "title": "希腊化与罗马哲学",
+ "period": "前322—476",
+ "start_year": -322,
+ "end_year": 476,
+ "summary": "城邦自主终结之后，哲学的提问方式随之改变：从“城邦如何治理”转向“个人如何不受干扰地生活”。伊壁鸠鲁派、斯多亚派与怀疑派各自给出“至善—安宁”的方案，其分歧落在对知识、命运与快乐的不同判断上。罗马时期，这些学说被译为拉丁文、纳入法权与公民生活；普罗提诺则以新柏拉图主义重建了形而上学体系。",
+ "threads": [
+  "幸福的技术：快乐、德性与悬置判断三种方案",
+  "决定论与自由：斯多亚的命运与伊壁鸠鲁的原子偏斜",
+  "知识的可能：学园派与皮浪派对独断论的双重攻击"
+ ],
+ "philosophers": [
+  {
+   "id": "gr-hellenistic-zeno",
+   "name": "芝诺（季蒂昂）",
+   "latin": "Zeno of Citium",
+   "birth_year": -334,
+   "death_year": -262,
+   "birth_display": "约前334年",
+   "death_display": "约前262年",
+   "birth_note": "据第欧根尼·拉尔修卷七；生卒为推定，另有前333—前261等说。",
+   "death_note": "同上；其著作仅存残篇，学说须依后世记述。",
+   "era": "希腊化初期。亚历山大东征后城邦失去自主，雅典仍是哲学中心；芝诺在“画廊”（Stoa poikilē）讲学，学派因此得名斯多亚。",
+   "school": "斯多亚主义",
+   "core_questions": [
+    "人应当如何生活才能不被外境扰乱？",
+    "德性是否自足，外在之物是否属于善？",
+    "宇宙是否由理性（逻各斯）贯通？"
+   ],
+   "arguments": [
+    {
+     "claim": "德性是唯一的善，外在之物只是“可取者”",
+     "premises": [
+      "财富、健康、名誉的得失不完全由我们决定。",
+      "若幸福依赖不由我们决定之物，则幸福随时可被夺走。"
+     ],
+     "inference": "要使幸福稳定，其根据必须在自身之中；唯有德性（合乎理性的品质）如此，故只有德性是善。",
+     "conclusion": "德性自足，幸福即合乎自然地生活（顺应逻各斯）。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "顺应自然即顺应宇宙理性",
+     "premises": [
+      "宇宙由逻各斯贯通，一切事件依因果必然发生。",
+      "人的特殊之处在于分有逻各斯（理性）。"
+     ],
+     "inference": "若人的功能是理性活动，则“好”的生活就是让理性与宇宙的秩序一致；抗拒命运即是与整体失和。",
+     "conclusion": "伦理学以宇宙论为根据：顺应自然＝顺应理性＝德性。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《国家篇》等（残篇）",
+     "edition": "残篇见 von Arnim《Stoicorum Veterum Fragmenta》（SVF）；英译见 Long & Sedley《The Hellenistic Philosophers》",
+     "note": "无完整著作传世；学说主要依第欧根尼·拉尔修卷七、西塞罗与普鲁塔克的记述"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "苏格拉底与犬儒学派",
+     "id": null,
+     "note": "克拉特斯为其师；苏格拉底式的“德性自足”是其起点"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "克律西波",
+     "id": null,
+     "note": "体系化斯多亚的逻辑学与物理学"
+    },
+    {
+     "name": "塞涅卡、爱比克泰德、马可·奥勒留",
+     "id": null,
+     "note": "罗马斯多亚的实践传统"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "学园派（阿尔克西劳斯、卡尔涅阿德斯）",
+     "view": "斯多亚的“把握性印象”无法与貌似真实者区分，故其知识论不成立，德性自足亦失去认知基础。",
+     "response": "斯多亚的回应是：把握性印象带有不可错的清晰性，且由理性训练可辨；学园派的攻击若成立，则连生活行动也不可能。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-stoicism",
+      "sep-skepticism-ancient"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "斯多亚主张“无动于衷”",
+     "why": "其目标是消除“激情”（非理性的过度冲动），而非一切情感；斯多亚派同样重视亲情、友谊与公民义务。"
+    },
+    {
+     "claim": "斯多亚的“顺应自然”是回到原始生活",
+     "why": "“自然”指宇宙的理性秩序与人的理性功能，不是“未开化的状态”；斯多亚派积极参与政治与法律事务。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>芝诺：德性自足的论证（示意）</text><defs><marker id='arH1' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='44' y='58' width='214' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='151' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提一：外物不由我</text><text x='151' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>财富健康名誉皆可失</text><rect x='502' y='58' width='214' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='609' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提二：幸福须稳固</text><text x='609' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>否则随时被夺走</text><line x1='258' y1='87' x2='338' y2='87' stroke='#4a7ba6' marker-end='url(#arH1)'/><line x1='502' y1='87' x2='422' y2='87' stroke='#4a7ba6' marker-end='url(#arH1)'/><rect x='342' y='60' width='76' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='84' text-anchor='middle' font-size='12' fill='#1c3a5c'>故须</text><text x='380' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>自身根据</text><line x1='380' y1='116' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#arH1)'/><rect x='196' y='160' width='368' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='184' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：德性是唯一的善</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>外物为“可取者”，非善</text><line x1='380' y1='224' x2='380' y2='262' stroke='#4a7ba6' marker-end='url(#arH1)'/><rect x='150' y='266' width='460' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='288' text-anchor='middle' font-size='12' fill='#1c3a5c'>伦理学的宇宙论根据：逻各斯贯通万物</text><text x='380' y='307' text-anchor='middle' font-size='10' fill='#1e2d3d'>顺应自然＝顺应理性</text><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：芝诺仅存残篇，论证依后世记述重构</text></svg>",
+   "svg_caption": "芝诺：从“外物不由我”到“德性自足”的推论（重构示意图）",
+   "sources": [
+    "sep-stoicism",
+    "iep-stoicism",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": true,
+   "pending_notes": "芝诺本人与早期斯多亚（克律西波等）的学说归属：仅有残篇与后世转述，本页按“早期斯多亚”处理，个别主张的作者归属有讨论。"
+  },
+  {
+   "id": "gr-hellenistic-epicurus",
+   "name": "伊壁鸠鲁",
+   "latin": "Epicurus",
+   "birth_year": -341,
+   "death_year": -270,
+   "birth_display": "前341年",
+   "death_display": "前270年",
+   "birth_note": "据第欧根尼·拉尔修卷十：生于萨摩斯，前341年。",
+   "death_note": "前270年卒于雅典；其“花园”学园由门人延续。",
+   "era": "希腊化初期。雅典在亚历山大继业者战争中失去政治自主，哲学转向个人安宁；伊壁鸠鲁在雅典购园讲学，接纳妇女与奴隶，形成封闭的友爱的共同体。",
+   "school": "伊壁鸠鲁主义",
+   "core_questions": [
+    "快乐是什么，哪种快乐值得追求？",
+    "神与死亡是否值得恐惧？",
+    "若一切由原子构成，自由是否可能？"
+   ],
+   "arguments": [
+    {
+     "claim": "快乐是善的标准，但真正的快乐是“身体无痛、灵魂无扰”",
+     "premises": [
+      "苦与乐是唯一的直接感受标准（快乐主义的前提）。",
+      "动态快乐（如饮食）伴随恢复过程，且过度即转为痛苦。"
+     ],
+     "inference": "若快乐是感受的状态，则最稳定的快乐是“无痛无扰”的静态状态，而非过程性的刺激。",
+     "conclusion": "至善是静态快乐（katastematic pleasure）；欲望须分类，只满足自然且必需者。",
+     "kind": "原文"
+    },
+    {
+     "claim": "死亡与我们无关，故不必恐惧",
+     "premises": [
+      "“死亡是感觉的终止”。",
+      "善恶只在感觉中存在；无感觉则无所谓苦乐。"
+     ],
+     "inference": "若死亡是感觉的消失，则死后无主体承受任何恶；恐惧死亡是把“无感觉”想象成一种状态。",
+     "conclusion": "“死亡与我们无关：我们在时死不在，死在时我们不在。”",
+     "kind": "原文"
+    },
+    {
+     "claim": "原子偏斜使自由成为可能",
+     "premises": [
+      "若原子只作直线下落，则一切运动皆可被必然性完全决定。",
+      "德谟克利特的体系因此难以说明人的自主。"
+     ],
+     "inference": "须设定原子在极微小的时刻有“偏斜”（clinamen），使世界与人的行动不被单一必然链条锁死。",
+     "conclusion": "决定论不成立，人的行动有其自发的开端（此说的具体机制，古代即有争论）。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《致希罗多德书》《致美诺寇书》《主要原理》",
+     "edition": "见第欧根尼·拉尔修卷十；英译参 Inwood & Gerson《The Epicurus Reader》",
+     "note": "三封书信与四十条原理是保存最完整的原作；《论自然》三十七卷仅存残篇"
+    },
+    {
+     "title": "卢克莱修《物性论》（拉丁诗体阐述）",
+     "edition": "中译参方书春译，商务印书馆；拉丁文本以 Rouse/Smith Loeb 版为准",
+     "note": "不是伊壁鸠鲁本人著作，但为体系最完整的古代转述"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "德谟克利特",
+     "id": null,
+     "note": "原子论的本原说，伊壁鸠鲁加入偏斜与感觉论"
+    },
+    {
+     "name": "昔勒尼派（快乐主义）",
+     "id": null,
+     "note": "快乐为善的立场，但伊壁鸠鲁反对其纵欲倾向"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "卢克莱修",
+     "id": null,
+     "note": "《物性论》的传播"
+    },
+    {
+     "name": "近代唯物主义与功利主义",
+     "id": null,
+     "note": "伽桑狄复兴原子论；边沁、密尔援引其快乐主义"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "斯多亚派",
+     "view": "以快乐为善会使德性沦为手段，且快乐因人而异，缺乏稳定标准。",
+     "response": "伊壁鸠鲁派的回应是：真正的快乐是静态的、可普遍描述的状态；“快乐”指无痛无扰，而非瞬时的刺激，故与德性并不冲突。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-epicurus",
+      "sep-stoicism"
+     ]
+    },
+    {
+     "critic": "西塞罗（《论至善与至恶》）",
+     "view": "若快乐是最高善，则智慧、勇敢等德性只是获取快乐的技术，这与人们对德性的评价不符。",
+     "response": "伊壁鸠鲁派的回应是：智慧与友谊本身就是无扰生活的构成部分，而非外在手段。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-epicurus",
+      "sep-cicero"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "伊壁鸠鲁主义是享乐纵欲",
+     "why": "他明确说最奢华的饮食并不带来更多快乐；真正快乐是身体无痛、心灵无扰，纵欲反致痛苦。"
+    },
+    {
+     "claim": "伊壁鸠鲁是无神论者",
+     "why": "他承认神的存在，但认为神处于极乐而不干预世界；其否认的是神作为奖惩者与天命主宰，而非神的存在本身。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>伊壁鸠鲁：快乐、死亡与偏斜（示意）</text><defs><marker id='arH2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='58' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>快乐是唯一标准</text><text x='145' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>苦乐为直接感受</text><rect x='510' y='58' width='210' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='615' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>动态快乐须恢复</text><text x='615' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>过度即转苦</text><line x1='250' y1='86' x2='336' y2='86' stroke='#4a7ba6' marker-end='url(#arH2)'/><line x1='510' y1='86' x2='424' y2='86' stroke='#4a7ba6' marker-end='url(#arH2)'/><rect x='340' y='60' width='80' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>故取静态</text><text x='380' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>无痛无扰</text><line x1='380' y1='112' x2='380' y2='150' stroke='#4a7ba6' marker-end='url(#arH2)'/><rect x='190' y='154' width='380' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='177' text-anchor='middle' font-size='13' fill='#1c3a5c'>欲望三分：自然必需／自然非必需／空</text><text x='380' y='197' text-anchor='middle' font-size='10' fill='#1e2d3d'>只满足第一类，其余可舍</text><line x1='380' y1='212' x2='380' y2='250' stroke='#4a7ba6' marker-end='url(#arH2)'/><rect x='110' y='254' width='250' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='235' y='276' text-anchor='middle' font-size='12' fill='#1e2d3d'>死亡是感觉的中止</text><text x='235' y='295' text-anchor='middle' font-size='10' fill='#1e2d3d'>故与我们无关</text><rect x='400' y='254' width='250' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='525' y='276' text-anchor='middle' font-size='12' fill='#1e2d3d'>原子偏斜</text><text x='525' y='295' text-anchor='middle' font-size='10' fill='#1e2d3d'>打破单一必然链</text><text x='380' y='344' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：前两节为原文，偏斜说主要见卢克莱修转述</text></svg>",
+   "svg_caption": "伊壁鸠鲁：快乐论的推论与两个附带结论（重构示意图）",
+   "sources": [
+    "sep-epicurus",
+    "book-guthrie-greek",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-pyrrho",
+   "name": "皮浪",
+   "latin": "Pyrrho of Elis",
+   "birth_year": -360,
+   "death_year": -270,
+   "birth_display": "约前360年",
+   "death_display": "约前270年",
+   "birth_note": "据第欧根尼·拉尔修卷九与塞克斯都的记述推定；本人未著书。",
+   "death_note": "同上；其弟子蒂蒙（Timon）的讽刺诗为早期材料。",
+   "era": "希腊化初期。皮浪随亚历山大东征至印度，据说受到当地“裸行者”的影响；回希腊后以“不作判断”的生活方式示人，成为怀疑论的象征人物。",
+   "school": "怀疑论",
+   "core_questions": [
+    "事物本身是什么，我们能否知道？",
+    "若无法判断，人应当如何生活？",
+    "不作判断会带来什么后果？"
+   ],
+   "arguments": [
+    {
+     "claim": "事物无差别、不可测、不可判定",
+     "premises": [
+      "同一事物对不同观察者显现不同（如蜜对健康者甜、对病者苦）。",
+      "对每一论据都可构造同等有力的反论。"
+     ],
+     "inference": "若显现随条件而变且无反例可裁决，则我们不能断言事物“本身”如何；只能报告它“显得如何”。",
+     "conclusion": "应当悬置判断（epochē），对事物不作肯定或否定。",
+     "kind": "原文"
+    },
+    {
+     "claim": "悬置判断带来宁静",
+     "premises": [
+      "痛苦多源于对“事物应当如何”的执着判断。",
+      "若不再断定何为善何为恶，则追逐与回避的冲动随之减弱。",
+      "据传皮浪在风浪中安然，以猪在船上进食为例说明无扰。"
+     ],
+     "inference": "若烦恼由判断而生，则停止判断即可停止烦恼；随之而来的是不动心（ataraxia）。",
+     "conclusion": "怀疑论不是理论结论，而是一种带来宁静的生活方式。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "无著作传世（材料见第欧根尼·拉尔修卷九、塞克斯都、蒂蒙残篇）",
+     "edition": "见 DG 与《皮浪学说要旨》；英译参 Annas & Barnes《Outlines of Scepticism》",
+     "note": "“皮浪主义”的论证系统化主要由埃涅西德姆与塞克斯都完成"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "德谟克利特与普罗塔戈拉的相对性论题",
+     "id": null,
+     "note": "显现的相对性是其论证的常见素材"
+    },
+    {
+     "name": "印度苦行者传统（据传）",
+     "id": null,
+     "note": "古代记载称其受东方影响，具体程度不可考"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "埃涅西德姆",
+     "id": null,
+     "note": "整理“十式”，使怀疑论系统化"
+    },
+    {
+     "name": "塞克斯都·恩披里柯",
+     "id": "gr-hellenistic-sextus",
+     "note": "保存并系统化皮浪主义"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "斯多亚派与学园派（部分）",
+     "view": "若一切不可判定，则怀疑论者自己“悬置判断”这一主张也不可判定；且无信念则无法行动。",
+     "response": "皮浪派的回应是：悬置判断不是一条教条，而是一种被引导出的状态；行动依“现象”与习俗而行，无须关于本性的信念。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-skepticism-ancient",
+      "sep-stoicism"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "怀疑论者什么都不信，故无法生活",
+     "why": "古代怀疑论允许依现象与习俗行动（塞克斯都称之为“按生活指导而行”），只是不宣称这些做法符合事物本性。"
+    },
+    {
+     "claim": "皮浪与学园派怀疑论相同",
+     "why": "学园派（阿尔克西劳斯、卡尔涅阿德斯）主张“无可确定”并讨论或然性；皮浪派则强调不作任何断言并以之达到宁静。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>皮浪：从等力到宁静（示意）</text><defs><marker id='arH3' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='58' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>显现随条件而变</text><text x='145' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>蜜对病者苦</text><rect x='510' y='58' width='210' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='615' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>论据等力</text><text x='615' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>正反皆可辩护</text><line x1='250' y1='86' x2='336' y2='86' stroke='#4a7ba6' marker-end='url(#arH3)'/><line x1='510' y1='86' x2='424' y2='86' stroke='#4a7ba6' marker-end='url(#arH3)'/><rect x='340' y='60' width='80' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>无可裁决</text><text x='380' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故悬置</text><line x1='380' y1='112' x2='380' y2='150' stroke='#4a7ba6' marker-end='url(#arH3)'/><rect x='216' y='154' width='328' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='177' text-anchor='middle' font-size='13' fill='#1c3a5c'>停止判断何为善恶</text><text x='380' y='197' text-anchor='middle' font-size='10' fill='#1e2d3d'>追逐与回避的冲动减弱</text><line x1='380' y1='212' x2='380' y2='250' stroke='#4a7ba6' marker-end='url(#arH3)'/><rect x='150' y='254' width='460' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='276' text-anchor='middle' font-size='12' fill='#1c3a5c'>结论：不动心（ataraxia）</text><text x='380' y='295' text-anchor='middle' font-size='10' fill='#1e2d3d'>依现象与习俗生活，不作本性断言</text><text x='380' y='344' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：系统化的“十式”出自埃涅西德姆与塞克斯都</text></svg>",
+   "svg_caption": "皮浪：等力—悬置—宁静的路径（重构示意图）",
+   "sources": [
+    "sep-skepticism-ancient",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "皮浪本人未著书，其生活方式（如“不顾危险”的记载）出自晚期传记，可靠性存疑；本页只取其“悬置判断—不动心”的基本立场，具体论证归入塞克斯都的系统化。"
+  },
+  {
+   "id": "gr-hellenistic-sextus",
+   "name": "塞克斯都·恩披里柯",
+   "latin": "Sextus Empiricus",
+   "birth_year": 140,
+   "death_year": 210,
+   "birth_display": "约140年",
+   "death_display": "约210年",
+   "birth_note": "生卒不详，据其著作所涉人物与医史材料推定约2世纪中后期。",
+   "death_note": "同上；“恩披里柯”意为“经验派医生”，标示其医学流派。",
+   "era": "罗马帝国中期。怀疑论在学园派衰落后由皮浪派延续；塞克斯都以医生与哲学教师的身份整理怀疑论的全部论式，其著作成为后世了解古代怀疑论的主要来源。",
+   "school": "怀疑论",
+   "core_questions": [
+    "怀疑论如何成体系地论证“应当悬置判断”？",
+    "怀疑论与独断论、学园派的分界在哪里？",
+    "怀疑论者如何生活与行动？"
+   ],
+   "arguments": [
+    {
+     "claim": "十式：从十个方面显示判断的不可靠",
+     "premises": [
+      "同一对象因动物种类、人与人、感官、处境、位置距离、媒介、数量、关系、频率、生活方式、法律习俗等而有不同显现。",
+      "对于任一显现，都可指出相反的显现且无优先裁决者。"
+     ],
+     "inference": "若一切显现都相对于条件，而条件之间无中立标准可比较，则对“事物本身”的判断无法确定。",
+     "conclusion": "应当悬置判断；这不是结论，而是被论证引导出的状态。",
+     "kind": "原文"
+    },
+    {
+     "claim": "五式（阿格里帕式）：更简洁的论证结构",
+     "premises": [
+      "分歧、无穷后退、相对性三式足以推翻一切证明。",
+      "若为免无穷后退而设定假设，则又需为该假设辩护（循环）。"
+     ],
+     "inference": "任何独断的证明都落入“无穷后退—循环—独断设定”三者之一，故不能成立。",
+     "conclusion": "怀疑论不需要正面学说，只需展示对方的论证结构失败。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《皮浪学说要旨》",
+     "edition": "英译参 Annas & Barnes《Outlines of Scepticism》，Cambridge；希腊文本以 Mutschmann 版为准",
+     "note": "三卷：怀疑论的一般特征、各论式、与各学科的关系；十式见第一卷"
+    },
+    {
+     "title": "《驳数学家》（Adversus Mathematicos）",
+     "edition": "Loeb Classical Library（Bury 译）",
+     "note": "逐科批评文法、修辞、几何、算术、天文、音乐与各派哲学，保存大量古代学说材料"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "埃涅西德姆",
+     "id": null,
+     "note": "十式的整理者"
+    },
+    {
+     "name": "学园派怀疑论",
+     "id": null,
+     "note": "其批评对象之一，同时共享“不可确定”的立场"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "蒙田与近代怀疑论",
+     "id": null,
+     "note": "《随笔集》的“我知道什么”受其影响；1562 年拉丁译本出版"
+    },
+    {
+     "name": "笛卡尔的怀疑方法",
+     "id": null,
+     "note": "方法的相似性与目的的对立"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "奥古斯丁",
+     "view": "《驳学园派》指出：怀疑论者至少确定“自己在怀疑”，故绝对悬置不可能；且无确定标准则生活与正义皆无从建立。",
+     "response": "怀疑论一系的回应是：“我在怀疑”作为现象被承认，但不作为关于本性的断言；生活依习俗而行，不需要本性知识。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-skepticism-ancient",
+      "sep-augustine"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "怀疑论主张“一切都不真实”",
+     "why": "这本身是一个独断的否定命题，而皮浪派并不主张它；他们只说“不比另一方更真”，并把这一说法也一并悬置（“无差别”的自我应用）。"
+    },
+    {
+     "claim": "塞克斯都是哲学家而非医生",
+     "why": "其绰号“恩披里柯”表明他属经验派医学，医学经验论与怀疑论立场相互支撑（不以不可见的本性解释症状）。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>塞克斯都：十式与五式的结构（示意）</text><defs><marker id='arH4' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='44' y='58' width='215' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='151' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>十式：显现的相对性</text><text x='151' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>动物·人·感官·处境</text><rect x='500' y='58' width='215' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='607' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>五式：论证的失败</text><text x='607' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>分歧·后退·相对</text><line x1='259' y1='86' x2='338' y2='86' stroke='#4a7ba6' marker-end='url(#arH4)'/><line x1='500' y1='86' x2='421' y2='86' stroke='#4a7ba6' marker-end='url(#arH4)'/><rect x='342' y='60' width='76' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>等力</text><text x='380' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>isostheneia</text><line x1='380' y1='112' x2='380' y2='150' stroke='#4a7ba6' marker-end='url(#arH4)'/><rect x='196' y='154' width='368' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='177' text-anchor='middle' font-size='13' fill='#1c3a5c'>无优先裁决者，故悬置判断</text><text x='380' y='197' text-anchor='middle' font-size='10' fill='#1e2d3d'>不提出正面学说，只展示对方结构失败</text><line x1='380' y1='212' x2='380' y2='250' stroke='#4a7ba6' marker-end='url(#arH4)'/><rect x='150' y='254' width='460' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='276' text-anchor='middle' font-size='12' fill='#1c3a5c'>结果：宁静与按生活指导而行</text><text x='380' y='295' text-anchor='middle' font-size='10' fill='#1e2d3d'>此说本身也被一并悬置</text><text x='380' y='344' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：十式与五式的归属见《皮浪学说要旨》第一、二卷</text></svg>",
+   "svg_caption": "塞克斯都：两组论式如何导向悬置（重构示意图）",
+   "sources": [
+    "sep-skepticism-ancient",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-cicero",
+   "name": "西塞罗",
+   "latin": "Marcus Tullius Cicero",
+   "birth_year": -106,
+   "death_year": -43,
+   "birth_display": "前106年",
+   "death_display": "前43年",
+   "birth_note": "据其书信与普鲁塔克《西塞罗传》：前106年生于阿尔皮努姆。",
+   "death_note": "前43年被后三头政治列为公敌，于逃亡途中被杀。",
+   "era": "罗马共和国末期。内战与独裁交替，希腊哲学在罗马精英中流行；西塞罗以拉丁语改写希腊哲学各派学说，并以学园派怀疑论为方法，兼论共和政体与自然法。",
+   "school": "学园派怀疑论（新学园）",
+   "core_questions": [
+    "在学派争论中如何保持判断的节制？",
+    "是否存在高于城邦实定法的自然法？",
+    "何种政体最稳定？"
+   ],
+   "arguments": [
+    {
+     "claim": "学园派方法：对每一论题陈述正反论证",
+     "premises": [
+      "各派皆有有力论证而无终裁标准。",
+      "罗马的法庭与政治实践正需要“为双方立论”的能力。"
+     ],
+     "inference": "若哲学争论无法终裁，则哲学的用处在于澄清问题、权衡理由，而非给出独断结论；这既是方法，也是一种政治审慎。",
+     "conclusion": "最可取的是“或然性”（probabile），而非确定知识。",
+     "kind": "原文"
+    },
+    {
+     "claim": "自然法：真正的法律是与自然相符的正当理性",
+     "premises": [
+      "实定法由城邦制定，可被少数人通过而违反正义。",
+      "若正义完全依赖实定法，则暴政的法也是“法”。"
+     ],
+     "inference": "要使“法”不沦为权力的产物，须有一个先于城邦、普遍有效的标准；此标准即与自然（理性）相符的正当理性。",
+     "conclusion": "自然法高于实定法，违背它的制定法不成其为真正的法。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论共和国》《论法律》",
+     "edition": "Loeb Classical Library（Keyes 译）；中译参王焕生译《论共和国 论法律》，中国政法大学出版社",
+     "note": "《论法律》第一卷为自然法论述的核心文本"
+    },
+    {
+     "title": "《论至善与至恶》《学园派哲学》《论神性》",
+     "edition": "Loeb Classical Library；《论至善与至恶》中译参石敏敏译本",
+     "note": "保存伊壁鸠鲁派、斯多亚派与学园派论证的重要材料"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "菲洛（拉里萨的）与安提奥库斯",
+     "id": null,
+     "note": "新学园怀疑论与折衷主义的老师"
+    },
+    {
+     "name": "斯多亚派（帕奈提乌斯）",
+     "id": null,
+     "note": "自然法与义务论的来源，同时被其以学园方法审视"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "罗马法学家与自然法传统",
+     "id": null,
+     "note": "自然法观念进入罗马法与国际法"
+    },
+    {
+     "name": "文艺复兴与启蒙政治思想",
+     "id": null,
+     "note": "共和主义与反暴政论常援引西塞罗"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "斯多亚派（及后世自然法论者）",
+     "view": "若一切只到“或然”，则自然法的普遍约束力无从确立；怀疑论的方法与自然法的独断主张之间存在张力。",
+     "response": "西塞罗式的回应是：自然法的论证可由“人之为人的理性”这一实践前提支撑，而不必依赖理论上的确定知识；或然性足以指导行动。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-cicero",
+      "sep-stoicism"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "西塞罗是折衷主义者，没有自己的立场",
+     "why": "他以学园派方法处理各家学说，但在政治哲学（共和主义、自然法）上有明确主张；折衷是方法，不是立场缺失。"
+    },
+    {
+     "claim": "自然法就是“自然规律”",
+     "why": "西塞罗的 lex naturalis 是实践理性所把握的正当标准，与描述性的自然规律不同；它是规范性的“应当”。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>西塞罗：学园方法与自然法（示意）</text><defs><marker id='arH5' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='58' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>各派论证皆有力</text><text x='145' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>无终裁标准</text><rect x='510' y='58' width='210' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='615' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>实定法可违正义</text><text x='615' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>暴政之法亦名“法”</text><line x1='250' y1='86' x2='336' y2='86' stroke='#4a7ba6' marker-end='url(#arH5)'/><line x1='510' y1='86' x2='424' y2='86' stroke='#4a7ba6' marker-end='url(#arH5)'/><rect x='340' y='60' width='80' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>两条路</text><text x='380' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>方法与规范</text><line x1='380' y1='112' x2='240' y2='152' stroke='#4a7ba6' marker-end='url(#arH5)'/><line x1='380' y1='112' x2='520' y2='152' stroke='#4a7ba6' marker-end='url(#arH5)'/><rect x='100' y='156' width='250' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='225' y='179' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论一：止于或然</text><text x='225' y='198' text-anchor='middle' font-size='10' fill='#1e2d3d'>probabile 指导行动</text><rect x='410' y='156' width='250' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='535' y='179' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论二：自然法高于实定法</text><text x='535' y='198' text-anchor='middle' font-size='10' fill='#1e2d3d'>与理性相符者为真法</text><line x1='225' y1='212' x2='330' y2='252' stroke='#4a7ba6' marker-end='url(#arH5)'/><line x1='535' y1='212' x2='430' y2='252' stroke='#4a7ba6' marker-end='url(#arH5)'/><rect x='200' y='256' width='360' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='278' text-anchor='middle' font-size='12' fill='#1c3a5c'>张力：或然论与规范约束</text><text x='380' y='297' text-anchor='middle' font-size='10' fill='#1e2d3d'>后世自然法论者对此有批评</text><text x='380' y='344' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：自然法定义见《论法律》I.6；或然说见《学园派哲学》</text></svg>",
+   "svg_caption": "西塞罗：方法上的或然论与规范上的自然法（重构示意图）",
+   "sources": [
+    "sep-cicero",
+    "sep-stoicism",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-plotinus",
+   "name": "普罗提诺",
+   "latin": "Plotinus",
+   "birth_year": 204,
+   "death_year": 270,
+   "birth_display": "204年",
+   "death_display": "270年",
+   "birth_note": "据波菲利《普罗提诺传》：生于埃及吕科波利斯，204年。",
+   "death_note": "270年卒于坎帕尼亚；《九章集》由波菲利编订为六集、每集九篇。",
+   "era": "罗马帝国三世纪危机。普罗提诺在亚历山大里亚受教于阿摩尼乌斯，后在罗马讲学；其学以柏拉图文本为基础，融合亚里士多德与斯多亚要素，成为后世“新柏拉图主义”的源头。",
+   "school": "新柏拉图主义",
+   "core_questions": [
+    "万物如何从最高的本原产生？",
+    "灵魂如何回归其本源？",
+    "物质与恶的地位是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "太一超越存在与思想，万物由之流溢",
+     "premises": [
+      "一切复合物、一切有规定者都依赖某种更单纯者。",
+      "若本原也有规定与思想，则它仍需一个根据，故须有一个“无规定者”。"
+     ],
+     "inference": "最高本原不能是“存在者”之一，也不能是“思想”（思想需主客二分）；它只能是“太一”，万物由它“流溢”（emanatio）而出，如太阳放射光芒而自身不减。",
+     "conclusion": "太一—理智—灵魂—物质构成层级；流溢是永恒而非时间性的。",
+     "kind": "原文"
+    },
+    {
+     "claim": "灵魂的使命是回归（epistrophē）",
+     "premises": [
+      "灵魂来自理智界，却在身体中遗忘自身。",
+      "德性与哲学净化使灵魂转向其本源。"
+     ],
+     "inference": "若灵魂的堕落是“转向可感世界”，则回归即是“转回”（epistrophē），以德性、音乐与辩证法逐级上升，最终在“太一”中超越认识。",
+     "conclusion": "哲学的最高点是与太一的“合一”（henōsis），此状态不可言说。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《九章集》",
+     "edition": "Loeb Classical Library（Armstrong 希英对照）；中译参石敏敏译《九章集》，中国社会科学出版社",
+     "note": "六集五十四篇，由波菲利按主题编次；《论美》《论太一》为常读篇目"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "柏拉图",
+     "id": null,
+     "note": "理念论与善的理念是其框架"
+    },
+    {
+     "name": "亚里士多德与新毕达哥拉斯主义",
+     "id": null,
+     "note": "理智界结构与数的层级"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "波菲利与扬布利柯",
+     "id": null,
+     "note": "新柏拉图主义学派的传承"
+    },
+    {
+     "name": "奥古斯丁与基督教神秘主义",
+     "id": null,
+     "note": "通过波菲利与马里乌斯·维克托里努斯传入拉丁世界"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "基督教教父（如奥古斯丁之后的批评者）",
+     "view": "流溢说使世界成为必然的下降，削弱了创造的自由；且太一不可言说，与位格神的启示不兼容。",
+     "response": "新柏拉图主义者的回应是：流溢不是被迫的物理过程，而是“善的自我给予”；不可言说正是超越性的标志，而非否定。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-plotinus",
+      "iep-plotinus"
+     ]
+    },
+    {
+     "critic": "亚里士多德主义注释者",
+     "view": "太一若完全无规定，则无法说明它为何产生万物而非不产生；流溢的“必然性”与“自由”难以并存。",
+     "response": "普罗提诺的回应是：流溢的必然性是“本体性的”（如太阳发光），不是外在强制；把它类比为工匠的目的选择是范畴错置。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-plotinus",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "普罗提诺的“太一”就是基督教的神",
+     "why": "太一无人格、无意志、不创造（而是流溢），也不干预历史；中世纪神学借用其结构，但在创造论与位格论上作了根本改造。"
+    },
+    {
+     "claim": "物质是独立的恶的本原",
+     "why": "在普罗提诺那里物质是“匮乏”与最低层级，非独立本原；恶是善的缺失，不是与太一并列的力量。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>普罗提诺：流溢与回归（示意）</text><defs><marker id='arH6' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='290' y='52' width='180' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='75' text-anchor='middle' font-size='12' fill='#1c3a5c'>太一</text><text x='380' y='93' text-anchor='middle' font-size='10' fill='#1e2d3d'>无规定、超存在</text><line x1='380' y1='104' x2='380' y2='140' stroke='#4a7ba6' marker-end='url(#arH6)'/><rect x='250' y='144' width='260' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='166' text-anchor='middle' font-size='12' fill='#1c3a5c'>理智：理念的总体</text><text x='380' y='185' text-anchor='middle' font-size='10' fill='#1e2d3d'>主客初分</text><line x1='380' y1='198' x2='380' y2='232' stroke='#4a7ba6' marker-end='url(#arH6)'/><rect x='250' y='236' width='260' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='258' text-anchor='middle' font-size='12' fill='#1c3a5c'>灵魂：连接两界</text><text x='380' y='277' text-anchor='middle' font-size='10' fill='#1e2d3d'>在身体中遗忘自身</text><line x1='380' y1='290' x2='380' y2='320' stroke='#4a7ba6' marker-end='url(#arH6)'/><rect x='280' y='322' width='200' height='42' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='348' text-anchor='middle' font-size='11' fill='#1e2d3d'>物质：匮乏的极点</text><text x='240' y='60' text-anchor='middle' font-size='10' fill='#4a7ba6'>流溢 ↓</text><text x='530' y='60' text-anchor='middle' font-size='10' fill='#4a7ba6'>回归 ↑</text><text x='380' y='384' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：流溢为永恒过程，非时间中的创世</text></svg>",
+   "svg_caption": "普罗提诺：太一—理智—灵魂—物质的层级与回归（重构示意图）",
+   "sources": [
+    "sep-plotinus",
+    "iep-plotinus"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "concepts": [
+  {
+   "id": "gr-hellenistic-supreme-good",
+   "term": "至善",
+   "term_latin": "summum bonum / telos",
+   "definition": "一切行为所指向的最终目的，即“值得为其自身而追求”者；希腊化各派的分歧正在于它究竟是德性、快乐还是宁静。",
+   "usages": [
+    {
+     "name": "芝诺（季蒂昂）",
+     "id": "gr-hellenistic-zeno",
+     "usage": "至善是德性，即合乎理性的生活；外在之物只是“可取者”，不构成幸福的部分。"
+    },
+    {
+     "name": "伊壁鸠鲁",
+     "id": "gr-hellenistic-epicurus",
+     "usage": "至善是快乐，但指身体无痛、灵魂无扰的静态状态，而非感官刺激的累积。"
+    },
+    {
+     "name": "普罗提诺",
+     "id": "gr-hellenistic-plotinus",
+     "usage": "至善即太一，是万物回归的目标；人的至善在于与太一合一，而非任何世间状态。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-ataraxia",
+    "gr-hellenistic-hedone"
+   ],
+   "example": {
+    "text": "西塞罗在《论至善与至恶》中让伊壁鸠鲁派、斯多亚派与学园派各陈其说，以“至善是什么”为判准比较三家，正说明这一概念是希腊化伦理学的争论轴心。",
+    "figure": "西塞罗",
+    "locator": "《论至善与至恶》卷一至卷三"
+   },
+   "sources": [
+    "sep-stoicism",
+    "sep-epicurus",
+    "sep-plotinus"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-ataraxia",
+   "term": "不动心",
+   "term_latin": "ataraxia（tranquillity）",
+   "definition": "灵魂不受扰乱的状态；在怀疑派那里由悬置判断获得，在伊壁鸠鲁派那里由去除恐惧（神、死亡、痛苦）获得，在斯多亚派那里由德性自足获得。",
+   "usages": [
+    {
+     "name": "皮浪",
+     "id": "gr-hellenistic-pyrrho",
+     "usage": "悬置判断之后自然而来的宁静；不依赖对世界的正面主张。"
+    },
+    {
+     "name": "伊壁鸠鲁",
+     "id": "gr-hellenistic-epicurus",
+     "usage": "通过原子论解除对神与死亡的恐惧、通过欲望分类去除焦虑而达到的无扰。"
+    },
+    {
+     "name": "芝诺（季蒂昂）",
+     "id": "gr-hellenistic-zeno",
+     "usage": "由德性自足与顺应命运而来的稳定心境，与“激情”的消除相关。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-supreme-good",
+    "gr-hellenistic-epoche"
+   ],
+   "example": {
+    "text": "据第欧根尼·拉尔修，皮浪在海上遇风暴时指着一头安然进食的猪说，智者应当如此不受扰动；此故事虽属传闻，却准确标示了“不动心”的理想。",
+    "figure": "皮浪",
+    "locator": "第欧根尼·拉尔修《名哲言行录》卷九"
+   },
+   "sources": [
+    "sep-skepticism-ancient",
+    "sep-epicurus",
+    "sep-stoicism"
+   ],
+   "needs_verification": true,
+   "pending_notes": "皮浪的“遇风暴”故事出自晚期传记，属逸事性质，不宜作为史实；此处仅用以说明“不动心”的理想，不作史实引用。"
+  },
+  {
+   "id": "gr-hellenistic-hedone",
+   "term": "快乐",
+   "term_latin": "hēdonē（pleasure）",
+   "definition": "伊壁鸠鲁伦理学的善的标准，指身体的无痛与灵魂的无扰；与日常语言中的“享乐”不同，须以欲望分类与节制来实现。",
+   "usages": [
+    {
+     "name": "伊壁鸠鲁",
+     "id": "gr-hellenistic-epicurus",
+     "usage": "静态快乐（无痛无扰）高于动态快乐（过程中的刺激）；故节制反而是获得快乐的条件。"
+    },
+    {
+     "name": "芝诺（季蒂昂）",
+     "id": "gr-hellenistic-zeno",
+     "usage": "反对以快乐为善：快乐是伴随德性生活的“结果”，不能作为标准，否则德性沦为手段。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-supreme-good",
+    "gr-hellenistic-ataraxia"
+   ],
+   "example": {
+    "text": "伊壁鸠鲁说，当身体因饥饿而痛苦时，吃饱带来快乐；但一旦无痛，再增加饮食并不增加快乐——这正说明静态快乐是“界限”，而非无限增长。",
+    "figure": "伊壁鸠鲁",
+    "locator": "《致美诺寇书》"
+   },
+   "sources": [
+    "sep-epicurus",
+    "sep-stoicism"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-fate",
+   "term": "命运",
+   "term_latin": "heimarmenē / fatum",
+   "definition": "贯通宇宙的因果必然链条；斯多亚派视之为逻各斯的另一名称，并要求人“顺应”它，由此产生自由与责任的难题。",
+   "usages": [
+    {
+     "name": "芝诺（季蒂昂）",
+     "id": "gr-hellenistic-zeno",
+     "usage": "命运即因果必然，人的德性在于以理性赞同必然，而非企图改变它。"
+    },
+    {
+     "name": "伊壁鸠鲁",
+     "id": "gr-hellenistic-epicurus",
+     "usage": "反对全然的命运：原子偏斜使世界与行动有自发的开端，故人须为自己的选择负责。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-supreme-good",
+    "gr-hellenistic-natural-law"
+   ],
+   "example": {
+    "text": "斯多亚派以“狗被拴在车后”为喻：若它自愿跟随，则同一必然对它而言是“顺”；若它抗拒，仍被拖走而多受痛苦。",
+    "figure": "芝诺（季蒂昂）",
+    "locator": "见希波吕托斯《驳异端》所记斯多亚比喻"
+   },
+   "sources": [
+    "sep-stoicism",
+    "sep-epicurus"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“狗与车”的比喻由后世（希波吕托斯等）转述克里西普之说，具体归属与措辞待核。"
+  },
+  {
+   "id": "gr-hellenistic-natural-law",
+   "term": "自然法",
+   "term_latin": "lex naturalis / nomos physeōs",
+   "definition": "与自然（理性）相符的普遍正当标准，高于各城邦的实定法；斯多亚派以此论证世界城邦，西塞罗以此批评不义的立法。",
+   "usages": [
+    {
+     "name": "西塞罗",
+     "id": "gr-hellenistic-cicero",
+     "usage": "自然法是“与自然相符的正当理性”，普遍、不变，违背它的制定法不成其为真正的法。"
+    },
+    {
+     "name": "芝诺（季蒂昂）",
+     "id": "gr-hellenistic-zeno",
+     "usage": "以宇宙理性为法，一切人同为世界城邦的公民，故实定法须以宇宙秩序为尺度。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-cosmopolis",
+    "gr-hellenistic-fate"
+   ],
+   "example": {
+    "text": "西塞罗说，若法由人民的决议或统治者的命令所确立，则抢劫、通奸、伪造遗嘱只要被通过即成“法”；但这类“法”违背自然理性，故不是法。",
+    "figure": "西塞罗",
+    "locator": "《论法律》I.16—17"
+   },
+   "sources": [
+    "sep-cicero",
+    "sep-stoicism"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-cosmopolis",
+   "term": "世界公民",
+   "term_latin": "kosmopolitēs（citizen of the world）",
+   "definition": "斯多亚派的立场：一切理性存在者同属一个以宇宙为范围的政治共同体，地域与出身不构成人性的界限。",
+   "usages": [
+    {
+     "name": "芝诺（季蒂昂）",
+     "id": "gr-hellenistic-zeno",
+     "usage": "《国家篇》设想以理性为法的“世界城邦”，取消城邦间的对立。"
+    },
+    {
+     "name": "西塞罗",
+     "id": "gr-hellenistic-cicero",
+     "usage": "以自然法为纽带，认为全人类共享理性与法，故有相互的义务（《论义务》）。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-natural-law",
+    "gr-hellenistic-supreme-good"
+   ],
+   "example": {
+    "text": "塞涅卡说：“我是世界的一部分”，故对同胞（即一切人）负有义务；此语把世界公民从理论主张转为日常伦理态度。",
+    "figure": "塞涅卡（罗马斯多亚）",
+    "locator": "《道德书简》95.52 等"
+   },
+   "sources": [
+    "sep-stoicism",
+    "sep-cicero"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-the-one",
+   "term": "太一",
+   "term_latin": "to hen（the One）",
+   "definition": "普罗提诺体系的最高本原：超越存在、思想与规定，万物由之流溢并最终回归于它。",
+   "usages": [
+    {
+     "name": "普罗提诺",
+     "id": "gr-hellenistic-plotinus",
+     "usage": "太一不可言说、不可规定；一切规定都依赖它，故它不能被列为“存在者”之一。"
+    },
+    {
+     "name": "柏拉图（对照）",
+     "id": null,
+     "usage": "“善的理念”在《理想国》中被说成超越存在（509b），但仍是理念秩序的一环；普罗提诺把它推到理念之上。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-supreme-good",
+    "gr-hellenistic-ataraxia"
+   ],
+   "example": {
+    "text": "普罗提诺说，太一如太阳：光由它发出而它自身不因此减损；灵魂的上升最终不是“看见”太一，而是在太一中失去主客之别。",
+    "figure": "普罗提诺",
+    "locator": "《九章集》V.1；V.3.17"
+   },
+   "sources": [
+    "sep-plotinus",
+    "iep-plotinus"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-epoche",
+   "term": "悬置判断",
+   "term_latin": "epochē（suspension of judgement）",
+   "definition": "对任何关于事物本性的主张都不作肯定或否定；在怀疑派那里是由论证等力引出的状态，而非一条新的教条。",
+   "usages": [
+    {
+     "name": "皮浪",
+     "id": "gr-hellenistic-pyrrho",
+     "usage": "悬置是对“事物无差别、不可测”的自然回应，其结果是不动心。"
+    },
+    {
+     "name": "塞克斯都·恩披里柯",
+     "id": "gr-hellenistic-sextus",
+     "usage": "以十式与五式系统展示论证的等力，使悬置成为可被引导的方法；但仍不把它当作学说。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-ataraxia",
+    "gr-hellenistic-supreme-good"
+   ],
+   "example": {
+    "text": "塞克斯都描述：画家阿佩莱斯画马时想表现马的喘息，屡试不成，愤而把海绵掷向画板，海绵留下的痕迹恰好呈现了喘息——悬置判断带来的宁静亦属此类“偶然所得”。",
+    "figure": "塞克斯都·恩披里柯",
+    "locator": "《皮浪学说要旨》I.12"
+   },
+   "sources": [
+    "sep-skepticism-ancient",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "debates": [
+  {
+   "id": "gr-hellenistic-knowledge",
+   "title": "知识是否可能：学园派与斯多亚派",
+   "question": "是否存在不可错的“把握性印象”，使知识区别于意见？",
+   "positions": [
+    {
+     "holder": "斯多亚派（芝诺、克律西波）",
+     "id": "gr-hellenistic-zeno",
+     "stance": "有，把握性印象不可错",
+     "reasons": [
+      "某些印象由对象直接印刻而成，带有不可抗拒的清晰性。",
+      "若一切皆不可确定，则行动与技艺都不可能。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "学园派（阿尔克西劳斯、卡尔涅阿德斯）",
+     "id": "gr-hellenistic-cicero",
+     "stance": "无，真假印象不可区分",
+     "reasons": [
+      "存在与真印象完全相似的假印象（如梦中、醉中）。",
+      "故只能止于“或然”，不能断言把握。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "皮浪派（塞克斯都）",
+     "id": "gr-hellenistic-sextus",
+     "stance": "争论本身即显示不可裁决",
+     "reasons": [
+      "两派各有论证且无中立标准。",
+      "故应悬置判断，而非选择一方。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点是“不可错的判准”是否存在：斯多亚需要一个判准来支撑德性与行动，学园派以“无法区分”拆解它，皮浪派则把这一僵局本身作为悬置的理由。",
+   "status": "无定论",
+   "status_note": "古代争论未有结论；近代笛卡尔的怀疑方法与摩尔、普特南等人的“常识/反怀疑论”论证可视为同一问题的延续，学界仍在讨论“判准”能否被给出。",
+   "sources": [
+    "sep-stoicism",
+    "sep-skepticism-ancient",
+    "sep-cicero"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-freedom",
+   "title": "自由与命运是否相容",
+   "question": "若一切依因果必然发生，人的选择是否还能被称为自由的，人是否还应负责？",
+   "positions": [
+    {
+     "holder": "斯多亚派",
+     "id": "gr-hellenistic-zeno",
+     "stance": "相容：自由即顺应必然",
+     "reasons": [
+      "宇宙由逻各斯贯通，一切事件有其原因。",
+      "人的“赞同”由自身作出，故责任归于自己；自由是理性地赞同，而非摆脱因果。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "伊壁鸠鲁",
+     "id": "gr-hellenistic-epicurus",
+     "stance": "不相容：须有原子的偏斜",
+     "reasons": [
+      "若一切皆必然，则斥责与惩罚失去意义。",
+      "原子在极微处的“偏斜”为世界与行动提供非必然的开端。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "卡尔涅阿德斯（学园派）",
+     "id": "gr-hellenistic-cicero",
+     "stance": "斯多亚的相容论不成立",
+     "reasons": [
+      "若原因充分，则结果不可避免，赞同亦被决定。",
+      "故“自由”与“必然”不能同时成立，须重新界定责任。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点是“自由”指什么：摆脱因果（伊壁鸠鲁式）还是理性地赞同必然（斯多亚式）。前者要求世界中有非决定性的间隙，后者要求自由与因果相容。",
+   "status": "无定论",
+   "status_note": "这一分歧在近代转为“自由意志与决定论”的争论（相容论/不相容论），至今仍是形而上学与伦理学的核心问题；学界对斯多亚式相容论的评价仍分歧。",
+   "sources": [
+    "sep-stoicism",
+    "sep-epicurus",
+    "sep-cicero"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-pleasure",
+   "title": "快乐主义是否等于纵欲",
+   "question": "以快乐为善，是否必然导致放纵感官、追逐刺激？",
+   "positions": [
+    {
+     "holder": "伊壁鸠鲁",
+     "id": "gr-hellenistic-epicurus",
+     "stance": "否，真正的快乐是节制的结果",
+     "reasons": [
+      "静态快乐（无痛无扰）高于动态快乐；过度反致痛苦。",
+      "欲望须分类，只满足自然且必需者。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "斯多亚派",
+     "id": "gr-hellenistic-zeno",
+     "stance": "是，以快乐为标准必致放纵",
+     "reasons": [
+      "快乐因人而异、无稳定尺度，不能作为普遍标准。",
+      "以快乐为善则德性沦为手段，勇敢与节制将失去理由。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "塞涅卡（罗马斯多亚，转述并批评）",
+     "id": "gr-hellenistic-cicero",
+     "stance": "伊壁鸠鲁派被误解，但其原则仍不足",
+     "reasons": [
+      "塞涅卡承认伊壁鸠鲁的生活是俭朴的，纵欲之名多属误解。",
+      "但他坚持德性而非快乐才是善的标准。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点是“快乐”的定义：若指无痛无扰的状态，则节制是其条件；若指感官刺激的累积，则纵欲是其结果。争论在很大程度上是对“快乐”一词的用法之争。",
+   "status": "无定论",
+   "status_note": "伊壁鸠鲁派的“纵欲”形象主要来自对手的转述，近代以来学者多认为这是误解；但“快乐是否为唯一善”的规范问题仍与功利主义争论相连，未有定论。",
+   "sources": [
+    "sep-epicurus",
+    "sep-stoicism",
+    "sep-cicero"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ]
+}
