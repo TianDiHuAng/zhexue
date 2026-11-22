@@ -1,0 +1,1075 @@
+{
+ "unit_id": "gr-20c",
+ "region": "west",
+ "title": "20世纪：分析哲学、现象学与存在主义",
+ "period": "1900—1970",
+ "start_year": 1900,
+ "end_year": 1970,
+ "summary": "20世纪哲学在两个方向上重塑了自身：一路以语言为入口（弗雷格、罗素、维特根斯坦、卡尔纳普），把传统形而上学问题判为语言的混淆；一路以意识与生存为入口（胡塞尔、海德格尔、萨特），追问意义如何在经验中构成。两条路线在方法上互不承认，却共同反对19世纪的体系哲学。两次世界大战的经验又使“自由”“荒谬”“技术”成为无法回避的议题。",
+ "threads": [
+  "语言转向：从逻辑分析到语言游戏",
+  "现象学运动：从意识分析到存在论",
+  "意义的界限：何者可说、何者只能显示"
+ ],
+ "philosophers": [
+  {
+   "id": "gr-20c-frege",
+   "name": "弗雷格",
+   "latin": "Gottlob Frege",
+   "birth_year": 1848,
+   "death_year": 1925,
+   "birth_display": "1848年",
+   "death_display": "1925年",
+   "birth_note": "生于维斯马；据其生平材料，长期任教于耶拿大学。",
+   "death_note": "1925年卒于巴特克莱嫩。",
+   "era": "德国数学与逻辑学的转型期。弗雷格以数学基础研究为起点，创立现代数理逻辑；其著作生前影响有限，后经罗素、维特根斯坦的传播成为分析哲学的源头。",
+   "school": "分析哲学（先驱）",
+   "core_questions": [
+    "数学真理的根据是什么？",
+    "语言表达式如何指称对象，又如何传达意义？",
+    "逻辑规律是心理事实还是客观规律？"
+   ],
+   "arguments": [
+    {
+     "claim": "意义（Sinn）与指称（Bedeutung）须区分",
+     "premises": [
+      "“晨星”与“昏星”指称同一对象（金星），但认知价值不同。",
+      "若意义即指称，则二者可互换而认知价值相同，这与事实不符。"
+     ],
+     "inference": "既然同一对象可由不同方式给出，则表达式除指称外还须有“给出方式”，即意义；意义决定指称，但不等于指称。",
+     "conclusion": "语句的认知价值来自意义而非指称；“a=a”与“a=b”的差异由此得到解释。",
+     "kind": "原文"
+    },
+    {
+     "claim": "反心理主义：逻辑规律不是思维过程的描述",
+     "premises": [
+      "心理学描述人实际上如何思维（会出错）。",
+      "逻辑规律规定应当如何推论，具客观有效性。"
+     ],
+     "inference": "若把逻辑规律当作心理事实，则真与假的区分将取决于人的心理构造，真理便失去客观性。",
+     "conclusion": "逻辑与数学的根据在于客观的思想（Gedanke），而非心理过程。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《概念文字》《算术基础》《论意义与指称》",
+     "edition": "《算术基础》王路译，商务印书馆；《论意义与指称》中译见《弗雷格哲学论著选辑》，商务印书馆",
+     "note": "《概念文字》1879 年，现代逻辑的起点；《论意义与指称》1892 年"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "莱布尼茨与康德",
+     "id": null,
+     "note": "普遍字符的理想与“分析判断”问题"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "罗素与维特根斯坦",
+     "id": "gr-20c-wittgenstein",
+     "note": "逻辑分析与语言批判的起点"
+    },
+    {
+     "name": "卡尔纳普与逻辑经验主义",
+     "id": "gr-20c-carnap",
+     "note": "意义标准与逻辑句法"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后期维特根斯坦",
+     "view": "把意义当作客观“思想”仍是实体化；意义在于使用，而非与表达式相联系的第三种东西。",
+     "response": "弗雷格式的回应是：若意义只是使用，则无法说明语句在未被使用时仍可被理解，也无法说明真值的客观性。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-frege",
+      "sep-wittgenstein"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "弗雷格是语言哲学家，不关心数学",
+     "why": "其全部工作的起点是数学基础（逻辑主义纲领），语言哲学是为此服务；《算术基础》才是其核心著作之一。"
+    },
+    {
+     "claim": "意义与指称的区分是罗素提出的",
+     "why": "该区分由弗雷格在1892年《论意义与指称》中系统提出；罗素随后提出不同的“描述理论”并批评弗雷格。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>弗雷格：意义与指称（示意）</text><defs><marker id='arT1' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='56' y='62' width='220' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='166' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>“晨星”</text><text x='166' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>意义：晨间出现的方式</text><rect x='484' y='62' width='220' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='594' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>“昏星”</text><text x='594' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>意义：昏间出现的方式</text><line x1='166' y1='118' x2='330' y2='158' stroke='#4a7ba6' marker-end='url(#arT1)'/><line x1='594' y1='118' x2='430' y2='158' stroke='#4a7ba6' marker-end='url(#arT1)'/><rect x='250' y='162' width='260' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>指称：同一对象（金星）</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>意义不同，指称相同</text><line x1='380' y1='218' x2='380' y2='254' stroke='#4a7ba6' marker-end='url(#arT1)'/><rect x='170' y='258' width='420' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='280' text-anchor='middle' font-size='12' fill='#1c3a5c'>结论：“a=b”有认知价值，“a=a”无</text><text x='380' y='299' text-anchor='middle' font-size='10' fill='#1e2d3d'>故意义不等于指称</text></svg>",
+   "svg_caption": "弗雷格：意义与指称的区分（示意图）",
+   "sources": [
+    "sep-frege",
+    "iep-frege",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-husserl",
+   "name": "胡塞尔",
+   "latin": "Edmund Husserl",
+   "birth_year": 1859,
+   "death_year": 1938,
+   "birth_display": "1859年",
+   "death_display": "1938年",
+   "birth_note": "生于摩拉维亚普罗斯捷约夫；据其生平与《观念》自述。",
+   "death_note": "1938年卒于弗赖堡；遗稿后由鲁汶胡塞尔档案馆整理。",
+   "era": "世纪之交的德国。胡塞尔出身数学，受布伦塔诺影响转向哲学；他以《逻辑研究》反驳心理主义，创立现象学，并在弗赖堡形成以“回到事情本身”为口号的研究运动。",
+   "school": "现象学",
+   "core_questions": [
+    "逻辑与意义如何独立于心理事实？",
+    "意识如何构成其对象？",
+    "科学的意义建立在何种生活世界上？"
+   ],
+   "arguments": [
+    {
+     "claim": "意向性：一切意识都是对某物的意识",
+     "premises": [
+      "看总是“看到某物”，判断总是“判断某事”。",
+      "意识行为与其对象之间有不可还原的结构关联。"
+     ],
+     "inference": "若意识总已指向对象，则哲学不应从主体内部印象出发，而应描述“行为—对象”的相关性结构。",
+     "conclusion": "现象学的任务是描述意向性结构及其本质（艾多斯）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "现象学还原：悬置自然态度",
+     "premises": [
+      "自然态度预设世界独立存在，并以此为前提进行一切探究。",
+      "这一预设本身未被检验。"
+     ],
+     "inference": "若把世界的存在“加括号”（悬置），则可专注于显现方式本身，从而揭示意识构成对象的本质结构。",
+     "conclusion": "通过还原，哲学获得一个不预设世界的领域：先验主体性及其构成活动。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《逻辑研究》《纯粹现象学通论（观念 I）》《欧洲科学的危机与先验现象学》",
+     "edition": "《逻辑研究》倪梁康译，商务印书馆；《观念 I》倪梁康译，商务印书馆",
+     "note": "《逻辑研究》1900—1901；《危机》1936，提出“生活世界”概念"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "布伦塔诺",
+     "id": null,
+     "note": "“意向性”概念的来源"
+    },
+    {
+     "name": "笛卡尔与康德",
+     "id": null,
+     "note": "先验转向与“主体性”问题"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "海德格尔",
+     "id": "gr-20c-heidegger",
+     "note": "承其方法而转为存在论"
+    },
+    {
+     "name": "萨特与梅洛-庞蒂",
+     "id": "gr-20c-sartre",
+     "note": "把现象学用于意识、身体与自由"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "海德格尔",
+     "view": "先验主体性仍是“主体哲学”的残余；意识总是已经基于“在世存在”，不能用还原把握。",
+     "response": "胡塞尔式的回应是：若放弃先验还原，则现象学失去其严格性，退回到人类学的描述。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-husserl",
+      "sep-heidegger"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "现象学是内省心理学",
+     "why": "胡塞尔明确反对心理主义：现象学描述本质结构（艾多斯），而非心理事实；“悬置”正是为了摆脱自然态度。"
+    },
+    {
+     "claim": "“回到事情本身”意为回到朴素经验",
+     "why": "它要求去除理论预设与建构，回到显现本身；这是一种严格的描述方法，而非退回到日常态度。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>胡塞尔：意向性与还原（示意）</text><defs><marker id='arT2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='56' y='62' width='220' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='166' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>自然态度</text><text x='166' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>预设世界存在</text><line x1='276' y1='90' x2='330' y2='90' stroke='#4a7ba6' marker-end='url(#arT2)'/><rect x='334' y='62' width='200' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='434' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>悬置（加括号）</text><text x='434' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>中止存在判断</text><line x1='534' y1='90' x2='580' y2='90' stroke='#4a7ba6' marker-end='url(#arT2)'/><rect x='584' y='62' width='140' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='654' y='86' text-anchor='middle' font-size='12' fill='#1c3a5c'>显现方式</text><text x='654' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>本质结构</text><line x1='380' y1='118' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#arT2)'/><rect x='210' y='160' width='340' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='12' fill='#1c3a5c'>意向性：意识总是对某物的意识</text><text x='380' y='202' text-anchor='middle' font-size='10' fill='#1e2d3d'>行为—对象的相关结构</text><line x1='380' y1='216' x2='380' y2='252' stroke='#4a7ba6' marker-end='url(#arT2)'/><rect x='170' y='256' width='420' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='278' text-anchor='middle' font-size='12' fill='#1c3a5c'>晚期：生活世界是科学意义的隐蔽基础</text><text x='380' y='297' text-anchor='middle' font-size='10' fill='#1e2d3d'>《危机》中的主题</text></svg>",
+   "svg_caption": "胡塞尔：悬置、意向性与生活世界（示意图）",
+   "sources": [
+    "sep-husserl",
+    "iep-husserl",
+    "sep-phenomenology"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-heidegger",
+   "name": "海德格尔",
+   "latin": "Martin Heidegger",
+   "birth_year": 1889,
+   "death_year": 1976,
+   "birth_display": "1889年",
+   "death_display": "1976年",
+   "birth_note": "生于巴登梅斯基希；据其生平材料。",
+   "death_note": "1976年卒于弗赖堡；《全集》至今仍在整理出版。",
+   "era": "魏玛与战后德国。海德格尔受胡塞尔指导，1927年出版《存在与时间》，以“存在问题”重写现象学；1933年出任弗赖堡大学校长并与纳粹政权合作，成为其生平最具争议的事件。",
+   "school": "现象学／存在主义（其本人拒绝“存在主义”标签）",
+   "core_questions": [
+    "存在的意义是什么？为何这一问题被遗忘？",
+    "人（此在）的存在方式有何特殊？",
+    "技术如何改变了物与人的存在方式？"
+   ],
+   "arguments": [
+    {
+     "claim": "此在的存在是“在世存在”",
+     "premises": [
+      "我们从不先是一个孤立主体、再与世界建立关系。",
+      "使用工具时，器具在“上手”状态中隐没，世界作为意蕴整体先行展开。"
+     ],
+     "inference": "若人与世界的原初关系是实践的、前反思的，则“主体—客体”二分是派生的抽象，不能作为起点。",
+     "conclusion": "此在的基本建构是“在世存在”；认识是从这一建构中派生出的样式。",
+     "kind": "原文"
+    },
+    {
+     "claim": "本真性须经由“向死存在”获得",
+     "premises": [
+      "日常中此在沉沦于“常人”（das Man）的匿名支配，以他人的方式生活。",
+      "死亡是最本己的、不可替代的可能性。"
+     ],
+     "inference": "若死亡不可由他人代受，则直面“我必死”可把此在从常人的分散中收回，使其选择自身。",
+     "conclusion": "本真存在是“先行到死”中对自身可能性的承担，而非逃离日常。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《存在与时间》",
+     "edition": "陈嘉映、王庆节译，商务印书馆（修订译本）；德文以 GA 2（Klostermann）为准",
+     "note": "1927 年；计划中的第二部未完成。中译页码可与德文页边码对照"
+    },
+    {
+     "title": "《林中路》《技术的追问》《通向语言的途中》",
+     "edition": "《林中路》孙周兴译，商务印书馆；《技术的追问》见《演讲与论文集》，三联书店",
+     "note": "后期转向技术批判与语言问题"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "胡塞尔",
+     "id": "gr-20c-husserl",
+     "note": "现象学方法，但反对其先验主体框架"
+    },
+    {
+     "name": "亚里士多德与尼采",
+     "id": null,
+     "note": "实践智慧与虚无主义问题"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "萨特与梅洛-庞蒂",
+     "id": "gr-20c-sartre",
+     "note": "存在主义与身体现象学"
+    },
+    {
+     "name": "伽达默尔与德里达",
+     "id": null,
+     "note": "解释学与解构"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "卡尔纳普",
+     "view": "“无”与“存在”的讨论是假陈述：语法上像命题，实际上既非分析也非经验可检验。",
+     "response": "海德格尔式的回应是：把一切言说都按科学命题的标准衡量，本身就是一种未加审查的存在论立场；诗意言说有其揭示功能。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-heidegger",
+      "sep-carnap"
+     ]
+    },
+    {
+     "critic": "阿多诺与雅斯贝尔斯（就政治问题）",
+     "view": "其1933年的校长就职演说与对纳粹政权的合作，暴露了“本真性”话语在政治上的危险。",
+     "response": "海德格尔本人战后少有正面回应；研究者多认为其思想与政治牵连的关系复杂，不能简单化为“哲学即纳粹”，也不能以哲学成就抹去政治责任。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-heidegger",
+      "book-heidegger-bt"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "海德格尔是存在主义者",
+     "why": "他明确拒绝“存在主义”标签（《关于人道主义的书信》），认为萨特式的“存在先于本质”仍是主体形而上学。"
+    },
+    {
+     "claim": "“向死存在”是鼓吹死亡",
+     "why": "它是让人直面有限性从而本真地生活；海德格尔讨论的是“死亡作为可能性”的生存论意义，不是劝人去死。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>海德格尔：在世存在与本真性（示意）</text><defs><marker id='arT3' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='56' y='62' width='230' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='171' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>此在：在世存在</text><text x='171' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>先于主客二分</text><rect x='474' y='62' width='230' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='589' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>沉沦于“常人”</text><text x='589' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>以他人方式生活</text><line x1='171' y1='118' x2='320' y2='158' stroke='#4a7ba6' marker-end='url(#arT3)'/><line x1='589' y1='118' x2='440' y2='158' stroke='#4a7ba6' marker-end='url(#arT3)'/><rect x='248' y='162' width='264' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>向死存在：最本己的可能性</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>不可由他人代受</text><line x1='380' y1='218' x2='380' y2='254' stroke='#4a7ba6' marker-end='url(#arT3)'/><rect x='170' y='258' width='420' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='280' text-anchor='middle' font-size='12' fill='#1c3a5c'>本真性：选择自身而非被选择</text><text x='380' y='299' text-anchor='middle' font-size='10' fill='#1e2d3d'>后期转向技术之思与语言</text></svg>",
+   "svg_caption": "海德格尔：在世存在、沉沦与本真性（示意图）",
+   "sources": [
+    "sep-heidegger",
+    "book-heidegger-bt",
+    "sep-phenomenology"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-wittgenstein",
+   "name": "维特根斯坦",
+   "latin": "Ludwig Wittgenstein",
+   "birth_year": 1889,
+   "death_year": 1951,
+   "birth_display": "1889年",
+   "death_display": "1951年",
+   "birth_note": "生于维也纳；据其生平材料与书信。",
+   "death_note": "1951年卒于剑桥；《哲学研究》1953年遗著出版。",
+   "era": "两次大战之间的剑桥与维也纳。前期以《逻辑哲学论》影响维也纳学派；30年代后自我批判，转向“语言游戏”与日常语言的描述，形成前后期两种截然不同的哲学观。",
+   "school": "分析哲学",
+   "core_questions": [
+    "语言如何与世界相关，其界限在哪里？",
+    "意义是由指称决定，还是由使用决定？",
+    "哲学问题为何会产生，如何消解？"
+   ],
+   "arguments": [
+    {
+     "claim": "前期：语言以逻辑形式描绘世界",
+     "premises": [
+      "命题有意义，在于它是事态的逻辑图像。",
+      "语言的逻辑形式不能自身被说出，只能“显示”。"
+     ],
+     "inference": "若语言的界限即世界的界限，则超出可说范围的问题（伦理、美学、形而上学）不可被陈述，只能被显示。",
+     "conclusion": "“凡不可说的，应当沉默”；哲学的任务是澄清语言，而非建立学说。",
+     "kind": "原文"
+    },
+    {
+     "claim": "后期：意义在于使用，语言游戏是生活形式的一部分",
+     "premises": [
+      "同一个词（如“游戏”）没有共同本质，只有家族相似。",
+      "儿童学语言不是学定义，而是被训练进入一种实践。"
+     ],
+     "inference": "若意义由使用规则决定，则不存在独立于实践的“意义对象”；哲学困惑源于把词从语言游戏中抽离。",
+     "conclusion": "哲学是描述性的：它指出语法误用，让问题自行消解。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《逻辑哲学论》《哲学研究》",
+     "edition": "《逻辑哲学论》贺绍甲译，商务印书馆；《哲学研究》陈嘉映译，上海人民出版社（德英对照本，以 §§ 编号引用）",
+     "note": "前者1921年出版，后者1953年遗著；引用惯例用节号（§）"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "弗雷格与罗素",
+     "id": "gr-20c-frege",
+     "note": "逻辑与语言分析的训练"
+    },
+    {
+     "name": "叔本华与克尔凯郭尔（隐秘影响）",
+     "id": null,
+     "note": "伦理与“不可说者”的问题"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "维也纳学派（被其误读）",
+     "id": "gr-20c-carnap",
+     "note": "《逻辑哲学论》被当作反形而上学纲领"
+    },
+    {
+     "name": "日常语言哲学与心灵哲学",
+     "id": null,
+     "note": "语言游戏、规则遵循与私人语言论证"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "卡尔纳普与维也纳学派",
+     "view": "“显示”与“不可说”是神秘主义残余；可说的界限应由逻辑分析确定，而非划出一条沉默的边界。",
+     "response": "维特根斯坦式的回应是：把一切不可验证者判为“无意义”，本身是一种未加反思的立场；《逻辑哲学论》的伦理意图正是其后期所要摆脱的。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-wittgenstein",
+      "sep-carnap"
+     ]
+    },
+    {
+     "critic": "克里普克（《维特根斯坦论规则与私人语言》）",
+     "view": "规则遵循的悖论可导向一种“怀疑论解决”，即共同体的断定构成标准。",
+     "response": "多数研究者认为克里普克的读法（Kripkenstein）并非维特根斯坦原意；争论本身成为后期维特根斯坦研究的重要议题。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-wittgenstein",
+      "book-wittgenstein-pi"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "维特根斯坦前后期思想一致",
+     "why": "后期明确批判前期的图像论与“逻辑形式”观念，认为意义由使用与实践决定；两种哲学观在方法上相反。"
+    },
+    {
+     "claim": "“私人语言论证”否认有内心感觉",
+     "why": "它反对的是一种“私人对象＋私人命名”的语言模型；维特根斯坦承认感觉，但认为感觉词的意义来自公共的语言游戏。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>维特根斯坦：图像论到语言游戏（示意）</text><defs><marker id='arT4' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='50' y='62' width='240' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='170' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>前期：命题是事态的图像</text><text x='170' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>逻辑形式只能显示</text><rect x='470' y='62' width='240' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='590' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>后期：意义即使用</text><text x='590' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>语言游戏与生活形式</text><line x1='170' y1='118' x2='320' y2='158' stroke='#4a7ba6' marker-end='url(#arT4)'/><line x1='590' y1='118' x2='440' y2='158' stroke='#4a7ba6' marker-end='url(#arT4)'/><rect x='240' y='162' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>转折点：家族相似与规则遵循</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>无共同本质，只有用法之网</text><line x1='380' y1='218' x2='380' y2='254' stroke='#4a7ba6' marker-end='url(#arT4)'/><rect x='160' y='258' width='440' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='280' text-anchor='middle' font-size='12' fill='#1c3a5c'>哲学是治疗：指出语法误用，使问题消解</text><text x='380' y='299' text-anchor='middle' font-size='10' fill='#1e2d3d'>而非建立学说</text></svg>",
+   "svg_caption": "维特根斯坦：前后期两种哲学观的对照（示意图）",
+   "sources": [
+    "sep-wittgenstein",
+    "book-wittgenstein-pi",
+    "paper-s11217-022-09867-z"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-carnap",
+   "name": "卡尔纳普",
+   "latin": "Rudolf Carnap",
+   "birth_year": 1891,
+   "death_year": 1970,
+   "birth_display": "1891年",
+   "death_display": "1970年",
+   "birth_note": "生于德国龙斯多夫；据其《思想自传》。",
+   "death_note": "1970年卒于加州圣莫尼卡。",
+   "era": "维也纳学派与流亡美国时期。卡尔纳普是逻辑经验主义的核心人物，主持《科学的世界观》丛书；1936年赴美，转向语义学与归纳逻辑研究。",
+   "school": "逻辑经验主义（维也纳学派）",
+   "core_questions": [
+    "何种语句具有认知意义？",
+    "逻辑真理的根据是什么？",
+    "科学语言能否被统一地重构？"
+   ],
+   "arguments": [
+    {
+     "claim": "证实原则：语句的意义在于其可检验性",
+     "premises": [
+      "有认知意义的语句或为分析（逻辑/数学），或可被经验检验。",
+      "形而上学语句既不分析，也无法与任何可能经验对应。"
+     ],
+     "inference": "若一个语句的真假无法与任何可能观察相关，则它不表达事实，只是伪装的语法形式。",
+     "conclusion": "形而上学命题（如“无存在”）属“伪陈述”，应被排除出科学语言。",
+     "kind": "原文"
+    },
+    {
+     "claim": "宽容原则：语言框架的选择是实践问题",
+     "premises": [
+      "“存在什么”这类问题依赖于所采用的语言框架。",
+      "框架本身不能被框架内的规则证明为真。"
+     ],
+     "inference": "若框架的采纳是约定性的，则哲学的任务是澄清不同框架的用途，而非判定哪一个“符合实在”。",
+     "conclusion": "逻辑与数学真理是框架内的分析命题；本体论问题应转为“采用何种框架”的实践选择。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《世界的逻辑构造》《语言的逻辑句法》《通过语言的逻辑分析清除形而上学》",
+     "edition": "《世界的逻辑构造》陈启伟译，上海译文出版社；《清除形而上学》中译见《逻辑经验主义》文集，商务印书馆",
+     "note": "1928；1934；1932（后者为对海德格尔的批评）"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "弗雷格与罗素",
+     "id": "gr-20c-frege",
+     "note": "逻辑分析与逻辑构造的方法"
+    },
+    {
+     "name": "马赫与维也纳学派同仁",
+     "id": null,
+     "note": "经验论与科学统一纲领"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "蒯因（批评性继承）",
+     "id": null,
+     "note": "整体论与对分析-综合区分的攻击"
+    },
+    {
+     "name": "科学哲学与形式语义学",
+     "id": null,
+     "note": "确证理论、模态语义学"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "蒯因",
+     "view": "分析-综合区分无法被清晰地划出；证实原则本身既非分析也非可检验，因而自我反驳。",
+     "response": "卡尔纳普式的回应是：区分可在“框架内”被相对地界定；证实原则是方法纲领，不是一条经验命题。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-carnap",
+      "sep-quine"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "卡尔纳普主张一切哲学问题都是无意义的",
+     "why": "他区分“形而上学”与“科学哲学/逻辑分析”：后者正是哲学的任务。清除形而上学是为了给逻辑分析腾出位置。"
+    },
+    {
+     "claim": "证实原则是“一个语句必须有观察证据”",
+     "why": "其表述几经修改（可证实性→可确证性），并区分直接与间接检验；把它简化为一条硬性标准，会忽略其演变。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>卡尔纳普：意义的划界（示意）</text><defs><marker id='arT5' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='60' y='62' width='240' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='180' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>分析语句</text><text x='180' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>逻辑与数学</text><rect x='460' y='62' width='240' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='580' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>可检验语句</text><text x='580' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>与可能观察相关</text><line x1='180' y1='118' x2='320' y2='158' stroke='#4a7ba6' marker-end='url(#arT5)'/><line x1='580' y1='118' x2='440' y2='158' stroke='#4a7ba6' marker-end='url(#arT5)'/><rect x='250' y='162' width='260' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>二者之外＝无认知意义</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>形而上学命题属此类</text><line x1='380' y1='218' x2='380' y2='254' stroke='#4a7ba6' marker-end='url(#arT5)'/><rect x='170' y='258' width='420' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='280' text-anchor='middle' font-size='12' fill='#1c3a5c'>宽容原则：框架选择是实践问题</text><text x='380' y='299' text-anchor='middle' font-size='10' fill='#1e2d3d'>本体论问题转为“采用何种语言”</text></svg>",
+   "svg_caption": "卡尔纳普：意义的划界与宽容原则（示意图）",
+   "sources": [
+    "sep-carnap",
+    "sep-quine",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-sartre",
+   "name": "萨特",
+   "latin": "Jean-Paul Sartre",
+   "birth_year": 1905,
+   "death_year": 1980,
+   "birth_display": "1905年",
+   "death_display": "1980年",
+   "birth_note": "生于巴黎；据其自传《词语》与生平材料。",
+   "death_note": "1980年卒于巴黎。",
+   "era": "法国存在主义与战后左翼知识界。萨特在柏林研究胡塞尔与海德格尔，1943年出版《存在与虚无》；战后创办《现代》杂志，介入政治与文学。",
+   "school": "存在主义",
+   "core_questions": [
+    "人的存在与物的存在有何根本不同？",
+    "自欺如何可能？",
+    "自由为何是“被判定的”？"
+   ],
+   "arguments": [
+    {
+     "claim": "存在先于本质",
+     "premises": [
+      "人工物先有概念（本质）再有实物；人则先存在，再通过选择规定自己。",
+      "没有预先给定的人性可作为辩护。"
+     ],
+     "inference": "若人没有既定本质，则其行为不能以“本性如此”开脱；人对自己之所是负全部责任。",
+     "conclusion": "人是自由的，且“被判定为自由”；逃避自由即是自欺。",
+     "kind": "原文"
+    },
+    {
+     "claim": "自欺：以事实性逃避超越性",
+     "premises": [
+      "人既是事实性（处境、过去），又是超越性（可能性的筹划）。",
+      "自欺是把自身化约为事实性（“我就是如此”），或化约为角色（“我只是侍者”）。"
+     ],
+     "inference": "若自由不可取消，则假装“别无选择”是一种自愿的遮蔽；自欺之所以可能，正因为人不是自在的存在。",
+     "conclusion": "自欺是自由的病态形式，而非自由的反例。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《存在与虚无》《存在主义是一种人道主义》《辩证理性批判》",
+     "edition": "《存在与虚无》陈宣良等译，三联书店；《存在主义是一种人道主义》周煦良、汤永宽译，上海译文出版社",
+     "note": "1943；1946；1960。后者尝试把存在主义与马克思主义结合"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "胡塞尔与海德格尔",
+     "id": "gr-20c-heidegger",
+     "note": "现象学方法与存在论问题"
+    },
+    {
+     "name": "黑格尔与马克思",
+     "id": null,
+     "note": "辩证法与异化问题（后期）"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "波伏瓦与法国女性主义",
+     "id": null,
+     "note": "“女人不是天生的，而是被造成的”"
+    },
+    {
+     "name": "法农与后殖民理论",
+     "id": null,
+     "note": "自由与压迫的分析被延伸至殖民处境"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "结构主义者（列维-斯特劳斯、阿尔都塞）",
+     "view": "以“自由主体”为中心，忽略了语言与社会结构的决定作用；主体是结构的产物，而非起点。",
+     "response": "萨特后期的回应是：结构确实构成处境，但处境只有通过人的实践才被维持或改变；《辩证理性批判》即试图综合两者。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-sartre",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "萨特说人可以任意选择成为什么",
+     "why": "自由总在既定处境中行使，且选择伴随着对处境的承担；他明确说不能“自由地不做奴隶”，但可以自由地对待奴役。"
+    },
+    {
+     "claim": "存在主义是悲观主义",
+     "why": "萨特明确称之为“人道主义”：无先天意义意味着人必须自己创造意义，这被理解为责任而非绝望。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>萨特：存在、自由与自欺（示意）</text><defs><marker id='arT6' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='56' y='62' width='230' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='171' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>存在先于本质</text><text x='171' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>无预定人性</text><rect x='474' y='62' width='230' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='589' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>处境（事实性）</text><text x='589' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>过去、身体、他人</text><line x1='171' y1='118' x2='320' y2='158' stroke='#4a7ba6' marker-end='url(#arT6)'/><line x1='589' y1='118' x2='440' y2='158' stroke='#4a7ba6' marker-end='url(#arT6)'/><rect x='248' y='162' width='264' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>自由：被判定为自由</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>选择伴随全部责任</text><line x1='380' y1='218' x2='380' y2='254' stroke='#4a7ba6' marker-end='url(#arT6)'/><rect x='170' y='258' width='420' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='280' text-anchor='middle' font-size='12' fill='#1c3a5c'>自欺：把自身化约为事实性或角色</text><text x='380' y='299' text-anchor='middle' font-size='10' fill='#1e2d3d'>“我就是这样”“我只是侍者”</text></svg>",
+   "svg_caption": "萨特：存在、自由与自欺的结构（示意图）",
+   "sources": [
+    "sep-sartre",
+    "iep-sartre",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "concepts": [
+  {
+   "id": "gr-20c-sense-reference",
+   "term": "意义与指称",
+   "term_latin": "Sinn / Bedeutung",
+   "definition": "弗雷格的区分：表达式有所指称的对象（Bedeutung），也有其“给出方式”（Sinn）；意义决定指称而不等于指称。",
+   "usages": [
+    {
+     "name": "弗雷格",
+     "id": "gr-20c-frege",
+     "usage": "“晨星”与“昏星”指称相同而意义不同，故“a=b”提供认知价值。"
+    },
+    {
+     "name": "维特根斯坦（后期）",
+     "id": "gr-20c-wittgenstein",
+     "usage": "反对把意义当作与表达式相联系的独立对象：意义在于在语言游戏中的使用。"
+    }
+   ],
+   "related": [
+    "gr-20c-language-game",
+    "gr-20c-intentionality"
+   ],
+   "example": {
+    "text": "弗雷格以望远镜比喻：对象是观察的目标，视网膜上的像是“观念”，而镜中的像是“意义”——意义是公共可达的，观念是私人的。",
+    "figure": "弗雷格",
+    "locator": "《论意义与指称》（1892）"
+   },
+   "sources": [
+    "sep-frege",
+    "sep-wittgenstein"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-intentionality",
+   "term": "意向性",
+   "term_latin": "Intentionalität",
+   "definition": "意识（及心理现象）总是指向某物的特性；胡塞尔把它作为现象学的核心结构，用以取代内省心理学的“心理内容”。",
+   "usages": [
+    {
+     "name": "胡塞尔",
+     "id": "gr-20c-husserl",
+     "usage": "意向行为（noesis）与意向对象（noema）相关；意义在构成中生成。"
+    },
+    {
+     "name": "海德格尔",
+     "id": "gr-20c-heidegger",
+     "usage": "意向性须以“在世存在”为基础：先有实践的世界展开，才有对象化的指向。"
+    }
+   ],
+   "related": [
+    "gr-20c-reduction",
+    "gr-20c-being-in-world"
+   ],
+   "example": {
+    "text": "胡塞尔以“看一棵树”为例：看的行为、被看的树、以及“作为树”的意义三者相关；现象学描述这一相关结构，而不问树是否独立存在。",
+    "figure": "胡塞尔",
+    "locator": "《观念 I》第一编"
+   },
+   "sources": [
+    "sep-husserl",
+    "sep-phenomenology"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-reduction",
+   "term": "现象学还原",
+   "term_latin": "phänomenologische Reduktion",
+   "definition": "胡塞尔的方法：悬置（加括号）自然态度中对世界存在的设定，以便描述显现方式与意识构成。",
+   "usages": [
+    {
+     "name": "胡塞尔",
+     "id": "gr-20c-husserl",
+     "usage": "还原后剩下的是先验主体性及其构成活动，而非心理事实。"
+    },
+    {
+     "name": "海德格尔",
+     "id": "gr-20c-heidegger",
+     "usage": "拒绝先验还原，认为存在问题的展开须从“在世存在”出发，不需要回到无世界的意识。"
+    }
+   ],
+   "related": [
+    "gr-20c-intentionality",
+    "gr-20c-being-in-world"
+   ],
+   "example": {
+    "text": "胡塞尔说，看一张桌子时我们自然假定它继续存在；还原不是怀疑它，而是把这一假定“存而不论”，以便描述“桌子作为被给予者”的意义结构。",
+    "figure": "胡塞尔",
+    "locator": "《观念 I》第三十一节"
+   },
+   "sources": [
+    "sep-husserl",
+    "sep-heidegger"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-being-in-world",
+   "term": "在世存在",
+   "term_latin": "In-der-Welt-sein",
+   "definition": "海德格尔用以描述此在的基本建构：人从来已经在一个有意义的世界中活动，而非先为孤立主体再与世界发生关系。",
+   "usages": [
+    {
+     "name": "海德格尔",
+     "id": "gr-20c-heidegger",
+     "usage": "世界是意蕴整体；器具在“上手”中使用而隐没，认识是派生的“现成在手”态度。"
+    },
+    {
+     "name": "萨特",
+     "id": "gr-20c-sartre",
+     "usage": "接受“处境”概念而强调自由：处境是被给定的，但其意义由筹划赋予（“处境中的自由”）。"
+    }
+   ],
+   "related": [
+    "gr-20c-authenticity",
+    "gr-20c-intentionality"
+   ],
+   "example": {
+    "text": "海德格尔论锤子：用得顺手时，锤子并不作为“对象”被注视；只有坏了、缺了，它才以“现成在手”的方式凸显。这说明原初的交往是实践性的。",
+    "figure": "海德格尔",
+    "locator": "《存在与时间》第15—16节"
+   },
+   "sources": [
+    "sep-heidegger",
+    "book-heidegger-bt"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-authenticity",
+   "term": "本真性",
+   "term_latin": "Eigentlichkeit",
+   "definition": "此在从“常人”的匿名支配中收回自身、承担其最本己可能性的存在方式；不是道德上的“真诚”，而是存在论上的“属己”。",
+   "usages": [
+    {
+     "name": "海德格尔",
+     "id": "gr-20c-heidegger",
+     "usage": "本真性通过“先行到死”与“良知呼唤”而被唤醒；它不取消日常，而是改变其承担方式。"
+    },
+    {
+     "name": "萨特（对照用法）",
+     "id": "gr-20c-sartre",
+     "usage": "以“自欺”与“真诚”讨论同一问题的另一面：本真即承认自由并承担责任。"
+    }
+   ],
+   "related": [
+    "gr-20c-being-in-world",
+    "gr-20c-self-deception"
+   ],
+   "example": {
+    "text": "海德格尔分析“闲谈”（Gerede）：人们说“大家都这么说”，把自己所是交给匿名他人；本真性即从这种交付中收回。",
+    "figure": "海德格尔",
+    "locator": "《存在与时间》第27、35节"
+   },
+   "sources": [
+    "sep-heidegger",
+    "book-heidegger-bt"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-language-game",
+   "term": "语言游戏",
+   "term_latin": "Sprachspiel",
+   "definition": "维特根斯坦后期概念：语言的使用总是在特定的实践与规则中进行（命令、报告、计算、祈祷等），意义由这些活动决定。",
+   "usages": [
+    {
+     "name": "维特根斯坦",
+     "id": "gr-20c-wittgenstein",
+     "usage": "语言游戏多样且无共同本质，只有“家族相似”；哲学的任务是描述而非统一。"
+    },
+    {
+     "name": "卡尔纳普（对照用法）",
+     "id": "gr-20c-carnap",
+     "usage": "以“语言框架”处理类似问题：框架由约定确立，但须以逻辑句法严格重构。"
+    }
+   ],
+   "related": [
+    "gr-20c-sense-reference",
+    "gr-20c-verification"
+   ],
+   "example": {
+    "text": "维特根斯坦设想“建筑工与助手”的语言：只有“砖”“柱”“板”“梁”四个词，喊出即在命令搬运。这一游戏的意义完全由实践确定。",
+    "figure": "维特根斯坦",
+    "locator": "《哲学研究》§2"
+   },
+   "sources": [
+    "sep-wittgenstein",
+    "book-wittgenstein-pi"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-verification",
+   "term": "证实原则",
+   "term_latin": "Verifikationsprinzip",
+   "definition": "逻辑经验主义的意义标准：一个语句有认知意义，当且仅当它或是分析的，或可被经验检验（后可确证）。",
+   "usages": [
+    {
+     "name": "卡尔纳普",
+     "id": "gr-20c-carnap",
+     "usage": "以可检验性排除形而上学；后期改为“可确证性”与框架内的相对标准。"
+    },
+    {
+     "name": "维特根斯坦（前期，被误用）",
+     "id": "gr-20c-wittgenstein",
+     "usage": "《逻辑哲学论》的可说/不可说之分被维也纳学派读作证实原则的先声，但其本人意图不同。"
+    }
+   ],
+   "related": [
+    "gr-20c-language-game",
+    "gr-20c-sense-reference"
+   ],
+   "example": {
+    "text": "卡尔纳普举例：“存在一个绝对者”既不能由经验检验，也不是逻辑真理，故不表达事实；而“这把钥匙是铁的”可由磁石试验检验。",
+    "figure": "卡尔纳普",
+    "locator": "《通过语言的逻辑分析清除形而上学》（1932）"
+   },
+   "sources": [
+    "sep-carnap",
+    "sep-wittgenstein"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-self-deception",
+   "term": "自欺",
+   "term_latin": "mauvaise foi",
+   "definition": "萨特用语：人自愿地把自身化约为事实性或社会角色，以逃避自由与责任；它之所以可能，因人不是“自在的存在”。",
+   "usages": [
+    {
+     "name": "萨特",
+     "id": "gr-20c-sartre",
+     "usage": "咖啡馆侍者把自己等同于“侍者”这一角色，即是以角色逃避选择；自欺是自由的病态。"
+    },
+    {
+     "name": "海德格尔（对照用法）",
+     "id": "gr-20c-heidegger",
+     "usage": "以“沉沦”与“常人”描述类似现象：此在把自身交给匿名他人，但这不是道德过错，而是存在论的结构。"
+    }
+   ],
+   "related": [
+    "gr-20c-authenticity",
+    "gr-20c-existence-essence"
+   ],
+   "example": {
+    "text": "萨特描写一位女子在约会中把对方的手握住她的手当作“不是性意味”的事实，同时又不愿承认自己的期待——她以“只是事实”的方式回避自身的自由。",
+    "figure": "萨特",
+    "locator": "《存在与虚无》第一卷第二章"
+   },
+   "sources": [
+    "sep-sartre",
+    "iep-sartre"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-existence-essence",
+   "term": "存在先于本质",
+   "term_latin": "l'existence précède l'essence",
+   "definition": "萨特的命题：人先存在，再通过选择造就自身；没有预先给定的“人性”可作为行为的根据或借口。",
+   "usages": [
+    {
+     "name": "萨特",
+     "id": "gr-20c-sartre",
+     "usage": "由此推出人被判定为自由，并须对自身负全部责任；逃避即是自欺。"
+    },
+    {
+     "name": "海德格尔（对照用法）",
+     "id": "gr-20c-heidegger",
+     "usage": "此在的存在在于“去存在”（Zu-sein），其本质须从生存来理解；但海德格尔拒绝“人道主义”式的解读。"
+    }
+   ],
+   "related": [
+    "gr-20c-self-deception",
+    "gr-20c-authenticity"
+   ],
+   "example": {
+    "text": "萨特以“纸刀”为反例：工匠先有纸刀的概念（本质）才做出纸刀；而人相反，先被“抛”入世界，再通过行动定义自己。",
+    "figure": "萨特",
+    "locator": "《存在主义是一种人道主义》"
+   },
+   "sources": [
+    "sep-sartre",
+    "iep-sartre"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "debates": [
+  {
+   "id": "gr-20c-metaphysics-meaning",
+   "title": "形而上学命题是否有认知意义",
+   "question": "“无存在”“存在本身”这类命题表达知识，还是只是语法错觉？",
+   "positions": [
+    {
+     "holder": "卡尔纳普",
+     "id": "gr-20c-carnap",
+     "stance": "无意义，属伪陈述",
+     "reasons": [
+      "此类语句既非分析，也无法与任何可能经验对应。",
+      "它们只表达情感或语法上的混淆。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "海德格尔",
+     "id": "gr-20c-heidegger",
+     "stance": "有意义，且是更源初的问题",
+     "reasons": [
+      "“无”的问题来自存在问题的展开，不能以科学命题的标准衡量。",
+      "把一切言说都按科学标准衡量，本身是一种未审查的存在论立场。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点是“意义的标准”由谁规定：若以可检验性为唯一标准，形而上学即为伪陈述；若承认诗与思有独立的揭示方式，则标准本身需要辩护。",
+   "status": "无定论",
+   "status_note": "分析传统内部，“证实原则”因自我反驳等困难被放弃（蒯因、波普尔、后期维特根斯坦各有批评），但形而上学在20世纪后期反而复兴；海德格尔的立场则在欧陆传统中延续。两派至今对“何为哲学命题”缺乏共识。",
+   "sources": [
+    "sep-carnap",
+    "sep-heidegger"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-private-language",
+   "title": "私人语言是否可能",
+   "question": "能否有一种只有说话者本人能理解、指称其私人感觉的语言？",
+   "positions": [
+    {
+     "holder": "维特根斯坦（后期）",
+     "id": "gr-20c-wittgenstein",
+     "stance": "不可能，意义须有公共标准",
+     "reasons": [
+      "若“S”只指我的当下感觉，则我无法区分“正确使用”与“以为正确使用”。",
+      "规则遵循须有可检验的实践，孤立的私人指称不构成规则。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "笛卡尔式内在论（作为对照）",
+     "id": null,
+     "stance": "可能，心灵内容私人可及",
+     "reasons": [
+      "感觉的直接给予性是第一人称的特权。",
+      "即使无法向他人传达，也不影响其被理解。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "克里普克（以规则悖论重述）",
+     "id": null,
+     "stance": "疑难成立，但需以共同体解决",
+     "reasons": [
+      "任何过去的用法都可被解释为符合新规则。",
+      "故“遵循规则”须由共同体的一致断定来界定。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点是“意义的可检验性”：若意义须由公共标准确定，私人语言不成立；若第一人称的直接给予自足，则公共标准只是传达问题。",
+   "status": "无定论",
+   "status_note": "主流解读认为维特根斯坦反对的是“私人对象＋私人命名”的模型，而非否认内心感觉；克里普克式的共同体解读是否为原意仍有争论，相关文献持续增长。",
+   "sources": [
+    "sep-wittgenstein",
+    "book-wittgenstein-pi",
+    "paper-s11217-022-09867-z"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-analytic-continental",
+   "title": "分析哲学与欧陆哲学是否可通约",
+   "question": "以语言分析与以生存经验为入口的两种哲学，是否在同一领域内可以互相评价？",
+   "positions": [
+    {
+     "holder": "分析传统（以卡尔纳普为代表）",
+     "id": "gr-20c-carnap",
+     "stance": "可评价，且欧陆形而上学不达标",
+     "reasons": [
+      "哲学论证须清晰、可检验。",
+      "含混的思辨无法构成可批评的命题。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "欧陆传统（以海德格尔为代表）",
+     "id": "gr-20c-heidegger",
+     "stance": "标准本身不同，不能单向评价",
+     "reasons": [
+      "存在问题先于命题真假，不能用科学命题标准衡量。",
+      "语言不只是描述工具，它揭示世界。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点是“是否存在中立的评价标准”：若哲学以论证清晰性为唯一标准，欧陆文本难以进入；若承认揭示方式的多元，则“可通约”本身需要论证。",
+   "status": "无定论",
+   "status_note": "20世纪后期以来，二分法受到广泛批评（罗蒂、戴维森、卡维尔等均有跨越尝试），但制度与风格的分野仍存；学界多认为“分析/欧陆”是历史形成的分类，而非本质区分。",
+   "sources": [
+    "sep-carnap",
+    "sep-heidegger",
+    "sep-phenomenology"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ]
+}
