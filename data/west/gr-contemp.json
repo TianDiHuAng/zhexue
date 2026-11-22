@@ -1291,6 +1291,304 @@
      "note": "行动哲学的奠基论文"
     }
    ]
+  },
+  {
+   "id": "gr-contemp-feyerabend",
+   "name": "费耶阿本德",
+   "latin": "Paul Feyerabend",
+   "birth_year": 1924,
+   "death_year": 1994,
+   "birth_display": "1924年",
+   "death_display": "1994年",
+   "birth_note": "生于维也纳；据其自传《消磨时光》。",
+   "death_note": "1994年卒于瑞士日内瓦附近。",
+   "era": "20世纪后半叶的科学哲学。费耶阿本德在维也纳学派氛围中受训，后以《反对方法》批判“科学方法”的单一性，主张“怎么都行”（anything goes）与理论多元论。",
+   "school": "科学哲学（无政府主义认识论）",
+   "core_questions": [
+    "是否存在唯一的科学方法？",
+    "科学为何享有特权地位？",
+    "国家是否应分离科学与教育？"
+   ],
+   "arguments": [
+    {
+     "claim": "不存在普遍有效的科学方法",
+     "premises": [
+      "科学史显示重大进展常违反当时的方法规则（如伽利略使用宣传与修辞）。",
+      "若坚持规则，则许多理论在诞生时即被排除。"
+     ],
+     "inference": "若进步依赖对规则的违反，则“唯一方法”是编造出来的；方法论应多元。",
+     "conclusion": "“怎么都行”：任何方法都可能有其适用场合，无普适规则。",
+     "kind": "原文"
+    },
+    {
+     "claim": "科学与神话之间没有原则性的分界",
+     "premises": [
+      "科学的“合理性”标准本身是历史地形成的。",
+      "以科学标准评判其他传统，是循环论证。"
+     ],
+     "inference": "若标准没有独立根据，则科学不应享有凌驾于其他传统之上的特权。",
+     "conclusion": "应把科学与国家、教育分离，让各种传统自由竞争。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《反对方法》《自由社会中的科学》",
+     "edition": "《反对方法》中译参上海译文出版社；英文本以 Verso 版为准",
+     "note": "1975；1978"
+    },
+    {
+     "title": "《告别理性》",
+     "edition": "中译参江苏人民出版社",
+     "note": "1987"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "波普尔与库恩（批评性对话）",
+     "id": null,
+     "note": "从证伪主义与范式理论出发而走向多元论"
+    },
+    {
+     "name": "穆勒（《论自由》）",
+     "id": null,
+     "note": "自由竞争与意见多样性的启发"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "科学知识社会学（SSK）与科学大战",
+     "id": null,
+     "note": "相对主义与科学权威问题"
+    },
+    {
+     "name": "科学哲学中的多元论",
+     "id": null,
+     "note": "理论多元与反方法"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "科学实在论者（如波普尔、劳丹）",
+     "view": "取消方法标准，使科学无法与伪科学区分，也使批判失去依据。",
+     "response": "费耶阿本德的回应是：区分科学与伪科学的标准本身是政治性的；批判可以在具体传统内部进行，不需普适标准。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-feyerabend",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "费耶阿本德反对科学",
+     "why": "他反对的是科学的特权地位与“唯一方法”的意识形态，而非科学本身；他承认科学有其成功之处。"
+    },
+    {
+     "claim": "“怎么都行”是说一切理论同样好",
+     "why": "它是方法论的口号：没有普适规则决定该用何种方法；不等于认识论上一切主张等价。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>费耶阿本德：反方法与多元论</text><defs><marker id='aFY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>科学史常见违规之进步</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故无普适方法</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>“怎么都行”</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='250' y='150' width='260' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故科学与国家分离</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aFY)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aFY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：前提为原文，图示为重构</text></svg>",
+   "svg_caption": "费耶阿本德：反方法论证的结构（示意图）",
+   "sources": [
+    "sep-feyerabend",
+    "sep-mill",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "费耶阿本德以科学史为据论证不存在普遍有效的科学方法：重大进展常违反当时的方法规则，故方法论应多元，“怎么都行”。他又主张科学与神话之间无原则性分界，科学不应享有凌驾地位，应把科学与国家、教育分离。其立场常被误读为“反科学”，实则针对科学的特权意识形态。",
+    "system": [
+     {
+      "name": "反方法",
+      "content": "不存在普适规则；进步常依赖对规则的违反，故方法应多元。"
+     },
+     {
+      "name": "理论多元论",
+      "content": "保留多个竞争理论比固守一个更有利于知识增长。"
+     },
+     {
+      "name": "科学与非科学的界线",
+      "content": "标准本身是历史与政治地形成的，不能以之评判其他传统。"
+     },
+     {
+      "name": "分离论",
+      "content": "科学应与国家、教育分离，让传统自由竞争。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "维也纳与伦敦（1940—1960年代）",
+      "change": "受维也纳学派与波普尔影响；任教于伯克利等校。"
+     },
+     {
+      "period": "《反对方法》（1975）以后",
+      "change": "《自由社会中的科学》（1978）、《告别理性》（1987）。"
+     }
+    ],
+    "reception": "其“怎么都行”成为科学大战的标志性口号；科学知识社会学深受影响；科学哲学界对其相对主义持续批评。"
+   },
+   "works_detail": [
+    {
+     "title": "《反对方法》",
+     "structure": "以伽利略等案例论证不存在唯一科学方法；“怎么都行”为方法论口号。",
+     "core_thesis": "反方法；理论多元论；这是该书的核心命题。",
+     "editions": "中译参上海译文出版社；Verso 英文本",
+     "note": "1975 年；副题“无政府主义认识论纲要”"
+    }
+   ]
+  },
+  {
+   "id": "gr-contemp-anscombe",
+   "name": "安斯康姆",
+   "latin": "G. E. M. Anscombe",
+   "birth_year": 1919,
+   "death_year": 2001,
+   "birth_display": "1919年",
+   "death_display": "2001年",
+   "birth_note": "生于爱尔兰利默里克；据其生平材料。",
+   "death_note": "2001年卒于剑桥。",
+   "era": "20世纪中叶的牛津与剑桥。安斯康姆为维特根斯坦的学生与遗稿执行人，以《意向》《现代道德哲学》重塑行动哲学与德性伦理，是20世纪最重要的女性哲学家之一。",
+   "school": "分析哲学（德性伦理）",
+   "core_questions": [
+    "“有意做某事”是什么意思？",
+    "义务论式道德法则概念是否遗留了神法的阴影？",
+    "行动的描述如何依赖实践推理？"
+   ],
+   "arguments": [
+    {
+     "claim": "意向性行动须以“理由”而非“原因”理解",
+     "premises": [
+      "问“你为什么做”时，回答给出的是理由与目的。",
+      "理由不是额外的事件，而是行动描述的一部分。"
+     ],
+     "inference": "若理由内在于行动的描述，则用因果链条解释行动会遗漏“作为理由”的结构。",
+     "conclusion": "行动哲学须分析“实践推理”与行动描述，而非只寻找原因。",
+     "kind": "原文"
+    },
+    {
+     "claim": "现代道德哲学残留“神法”模型",
+     "premises": [
+      "“应当”“义务”“道德上错误”等概念源自立法者的命令。",
+      "启蒙后立法者被取消，但概念被保留。"
+     ],
+     "inference": "若概念的神法背景被抽去，则“义务”失去根据却仍被使用，导致混乱。",
+     "conclusion": "应转向德性、幸福与人类繁荣的伦理（回到亚里士多德）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《意向》《现代道德哲学》",
+     "edition": "《意向》中译参北京大学出版社（若有）；《现代道德哲学》中译见《德性伦理》文集",
+     "note": "1957；1958（后者引发德性伦理复兴）"
+    },
+    {
+     "title": "《维特根斯坦〈哲学研究〉导论》",
+     "edition": "英文本 *An Introduction to Wittgenstein's Tractatus*",
+     "note": "1959"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "维特根斯坦",
+     "id": null,
+     "note": "其学生与遗稿执行人；语言分析的方法"
+    },
+    {
+     "name": "亚里士多德与托马斯·阿奎那",
+     "id": null,
+     "note": "德性伦理与行动的目的结构"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "麦金太尔与德性伦理复兴",
+     "id": null,
+     "note": "《现代道德哲学》被视为其起点"
+    },
+    {
+     "name": "行动哲学与双重效果原则的讨论",
+     "id": null,
+     "note": "《意向》与“双重效果”论文"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "戴维森等因果论者",
+     "view": "否认理由是原因，会使行动解释无法说明“为何这个行动发生”。",
+     "response": "安斯康姆式的回应是：理由是行动描述的内在要素，因果问题不应取代对实践推理的分析。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-anscombe",
+      "sep-davidson"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "安斯康姆反对一切规则伦理",
+     "why": "她批判的是抽去神法背景后的“义务”概念，主张以德性与实践推理重建，而非取消规范。"
+    },
+    {
+     "claim": "她只是维特根斯坦的注释者",
+     "why": "《意向》与《现代道德哲学》各自开创了行动哲学与德性伦理的新议程。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>安斯康姆：意向、理由与德性</text><defs><marker id='aAN' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>问“为什么做”</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>回答给出理由与目的</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>理由内在于行动描述</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='250' y='150' width='260' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故转向德性伦理</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aAN)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aAN)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "安斯康姆：行动的理由结构与德性伦理转向（示意图）",
+   "sources": [
+    "sep-anscombe",
+    "sep-davidson",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "安斯康姆以《意向》重塑行动哲学：追问“为什么做”所得的是理由与目的，理由内在于行动的描述，故不能用因果链条取代实践推理。《现代道德哲学》则指出“义务”“应当”等概念残留神法模型，主张回到德性、幸福与人类繁荣的伦理。她的工作开启了德性伦理复兴与“双重效果”讨论。",
+    "system": [
+     {
+      "name": "意向性行动",
+      "content": "有意行动须以行动描述与实践推理来理解，理由不是额外事件。"
+     },
+     {
+      "name": "神法模型的残留",
+      "content": "“义务”概念源自立法者命令；启蒙后立法者缺席，概念却仍被使用。"
+     },
+     {
+      "name": "德性伦理",
+      "content": "应回到亚里士多德式的德性、幸福与人类繁荣。"
+     },
+     {
+      "name": "双重效果",
+      "content": "在特定条件下，允许可预见但非意图的恶果（其论文为当代讨论起点）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "牛津时期（1940—1970）",
+      "change": "维特根斯坦的学生；《意向》（1957）、《现代道德哲学》（1958）。"
+     },
+     {
+      "period": "剑桥时期（1970—2001）",
+      "change": "任剑桥教授；整理出版维特根斯坦遗稿；晚期论宗教与战争。"
+     }
+    ],
+    "reception": "《现代道德哲学》被视为20世纪德性伦理复兴的起点；《意向》成为行动哲学的标准参照；其“双重效果”论文至今被讨论。"
+   },
+   "works_detail": [
+    {
+     "title": "《意向》",
+     "structure": "以“为什么”问题入手分析有意行动的结构。",
+     "core_thesis": "理由内在于行动描述；实践推理。",
+     "editions": "中译参北京大学出版社（若有）；Harvard UP 英文本",
+     "note": "1957 年；20世纪行动哲学的经典"
+    }
+   ]
   }
  ],
  "concepts": [

@@ -1248,6 +1248,287 @@
      "note": "非本人手著，由弟子阿里安编纂"
     }
    ]
+  },
+  {
+   "id": "gr-hellenistic-lucretius",
+   "name": "卢克莱修",
+   "latin": "Titus Lucretius Carus",
+   "birth_year": -99,
+   "death_year": -55,
+   "birth_display": "约前99年",
+   "death_display": "约前55年",
+   "birth_note": "生卒依后世记载推定（约前99—前55），其生平几乎无可靠材料。",
+   "death_note": "同上；据传因爱情药而疯，此说不可据。",
+   "era": "罗马共和国末期。卢克莱修为伊壁鸠鲁哲学作拉丁诗体表述，其《物性论》是中世纪前欧洲最完整的原子论文本，也是拉丁文学的高峰。",
+   "school": "伊壁鸠鲁主义",
+   "core_questions": [
+    "万物由什么构成？",
+    "人为何恐惧死亡与神灵？",
+    "如何以自然知识获得心灵安宁？"
+   ],
+   "arguments": [
+    {
+     "claim": "万物由原子与虚空构成，无物能由无生",
+     "premises": [
+      "若有物能由无生，则任何物皆可随时生出，无需种子与条件。",
+      "我们观察到事物按特定条件生长，故必有不可见的种子（原子）。"
+     ],
+     "inference": "若生成需要条件与时序，则必有不生不灭的微粒作为基底；虚空则是运动得以可能的空隙。",
+     "conclusion": "原子与虚空是万物的本原；生成即组合，消灭即分离。",
+     "kind": "原文"
+    },
+    {
+     "claim": "死亡与我们无关，恐惧源于无知",
+     "premises": [
+      "灵魂由原子构成，随身体消散。",
+      "无感觉者不承受任何恶。"
+     ],
+     "inference": "若灵魂随身体消散，则死后无主体受苦；对死亡的恐惧来自想象一个“感受着的死者”。",
+     "conclusion": "认识自然可解除对死亡与神灵惩罚的恐惧，从而获得安宁。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《物性论》",
+     "edition": "中译参方书春译，商务印书馆；拉丁文本以 Rouse/Smith Loeb 版为准",
+     "note": "六卷，拉丁六音步诗体；伊壁鸠鲁哲学最完整的古代转述"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "伊壁鸠鲁",
+     "id": "gr-hellenistic-epicurus",
+     "note": "原子论与快乐主义"
+    },
+    {
+     "name": "恩培多克勒与德谟克利特",
+     "id": null,
+     "note": "四元素诗体传统与原子论"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "文艺复兴的原子论复兴（伽桑狄）",
+     "id": null,
+     "note": "《物性论》1417年重新发现"
+    },
+    {
+     "name": "近代唯物主义与启蒙无神论",
+     "id": null,
+     "note": "以自然解释取代神意"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "西塞罗与基督教教父",
+     "view": "以原子偶然运动解释世界，否认神意与灵魂不朽，危及道德与宗教。",
+     "response": "卢克莱修式的回应是：恐惧神灵才是道德败坏的根源；以自然知识解除恐惧，反而使人更能安然行善。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-lucretius",
+      "sep-epicurus"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "卢克莱修否认一切快乐之外的价值",
+     "why": "其快乐主义指静态的无扰，友谊与智慧本身即是其构成；不是纵欲。"
+    },
+    {
+     "claim": "《物性论》是科学教科书",
+     "why": "它是哲学诗，目的在解除恐惧、导向安宁；原子论是其论证工具。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>卢克莱修：原子、虚空与无畏</text><defs><marker id='aLC' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提：无物能由无生</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故须不生不灭的种子</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>原子＋虚空</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='250' y='150' width='260' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故死亡与我们无关</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLC)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLC)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：前提为原文，图示为重构</text></svg>",
+   "svg_caption": "卢克莱修：原子论与死亡论证（示意图）",
+   "sources": [
+    "sep-lucretius",
+    "sep-epicurus",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "卢克莱修以拉丁诗体转述伊壁鸠鲁哲学：万物由原子与虚空构成，生成是组合、消灭是分离；灵魂由原子构成并随身体消散，故死亡与我们无关，对神灵惩罚的恐惧源于无知。其目的是以自然知识解除恐惧、获得心灵安宁。",
+    "system": [
+     {
+      "name": "原子与虚空",
+      "content": "无物能由无生；生成需条件与种子，故须有不可分的微粒与空隙。"
+     },
+     {
+      "name": "灵魂可灭",
+      "content": "灵魂由精细原子构成，随身体消散；故死后无感受。"
+     },
+     {
+      "name": "解除恐惧",
+      "content": "对死亡与神灵的恐惧是痛苦的根源，认识自然即可解除。"
+     },
+     {
+      "name": "偏斜",
+      "content": "原子在下落中有极微的偏斜，使世界与自由成为可能。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "罗马共和国末期（约前99—前55）",
+      "change": "以六音步诗写作《物性论》六卷；生平不详，据传由西塞罗整理遗稿。"
+     }
+    ],
+    "reception": "《物性论》1417年重新发现，推动文艺复兴原子论（伽桑狄）；近代唯物主义与启蒙无神论援引其论证；其诗体亦为拉丁文学典范。"
+   },
+   "works_detail": [
+    {
+     "title": "《物性论》",
+     "structure": "六卷：原子论原理、灵魂与死亡、世界与天象、文明史。",
+     "core_thesis": "原子与虚空；灵魂可灭；解除恐惧。",
+     "editions": "方书春译商务印书馆；Loeb 版（Rouse/Smith）",
+     "note": "卷三论灵魂与死亡，卷五论世界与文明"
+    }
+   ]
+  },
+  {
+   "id": "gr-hellenistic-porphyry",
+   "name": "波菲利",
+   "latin": "Porphyry of Tyre",
+   "birth_year": 234,
+   "death_year": 305,
+   "birth_display": "约234年",
+   "death_display": "约305年",
+   "birth_note": "生于腓尼基提尔；据其生平材料，原名 Malchus。",
+   "death_note": "约305年卒于罗马；具体年不可考。",
+   "era": "罗马帝国三世纪。波菲利为普罗提诺的弟子与编者，编订《九章集》、撰《普罗提诺传》；其《波菲利导论》（Isagoge）成为中世纪逻辑学与共相问题的起点。",
+   "school": "新柏拉图主义",
+   "core_questions": [
+    "种与属（共相）是实在的，还是仅在心智中？",
+    "亚里士多德的范畴如何与柏拉图理念协调？",
+    "灵魂如何脱离身体回归本源？"
+   ],
+   "arguments": [
+    {
+     "claim": "共相问题：种属是否独立存在，悬而未决",
+     "premises": [
+      "种与属若独立存在，则它们是有形还是无形？",
+      "若无形，则它们是否与可感事物分离？"
+     ],
+     "inference": "每一选项都带来困难：独立存在则有无限多的共相；仅在心智中则无法解释事物的共同性。",
+     "conclusion": "此问题须以更细致的分析处理（波菲利本人未给结论），但问题本身被完整提出。",
+     "kind": "原文"
+    },
+    {
+     "claim": "灵魂的堕落与回归：德性有层级",
+     "premises": [
+      "灵魂来自理智界，因转向可感而堕落。",
+      "德性（政治的、净化的、神性的）逐级使灵魂上升。"
+     ],
+     "inference": "若德性有不同层级，则回归不是单一的道德行为，而是逐级净化的过程。",
+     "conclusion": "哲学的生活是灵魂回归太一的阶梯。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《波菲利导论》（Isagoge）",
+     "edition": "英译见 *Porphyry the Phoenician: Isagoge*（trans. Warren）；中译参《亚里士多德〈范畴篇〉导论》",
+     "note": "为《范畴篇》所作的导论；共相问题的提出"
+    },
+    {
+     "title": "《普罗提诺传》《驳基督徒》",
+     "edition": "《普罗提诺传》见 Loeb 版《九章集》第一卷",
+     "note": "编订《九章集》的关键文献；《驳基督徒》仅存残篇"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "普罗提诺",
+     "id": null,
+     "note": "其师与新柏拉图主义框架"
+    },
+    {
+     "name": "亚里士多德逻辑学",
+     "id": null,
+     "note": "范畴与种属逻辑"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "波爱修与中世纪共相之争",
+     "id": null,
+     "note": "波爱修的注释使该问题进入拉丁世界"
+    },
+    {
+     "name": "阿伯拉尔与奥卡姆",
+     "id": null,
+     "note": "概念论与唯名论的回应"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "基督教教父（如奥古斯丁之后的批评者）",
+     "view": "新柏拉图主义的多层级神性与基督教的创造论不相容。",
+     "response": "波菲利一系的回应是：层级是本体论的秩序，不否认最高本原的超越性；其体系后被基督教神学部分吸收。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-porphyry",
+      "sep-plotinus"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "波菲利只是编辑者",
+     "why": "其《导论》提出共相问题并塑造了中世纪逻辑学；《驳基督徒》亦为早期护教论的重要对手文本。"
+    },
+    {
+     "claim": "《导论》给出了共相问题的答案",
+     "why": "波菲利明确说对此“存而不论”，只提出三个问题；答案是后世（波爱修、阿伯拉尔等）给出的。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>波菲利：共相问题的三问</text><defs><marker id='aPO' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>种属独立存在吗</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>有形还是无形</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>分离还是内在于可感物</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='250' y='150' width='260' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>存而不论，交由后世</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aPO)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aPO)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：三问为原文，图示为重构</text></svg>",
+   "svg_caption": "波菲利：共相问题三问的结构（示意图）",
+   "sources": [
+    "sep-porphyry",
+    "sep-boethius",
+    "sep-plotinus"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "波菲利以《导论》提出共相问题：种与属是独立存在还是仅在心智中？若独立，是有形还是无形？是否与可感事物分离？他本人存而不论。其新柏拉图主义立场主张灵魂逐级净化回归太一；他又编订《九章集》并撰《普罗提诺传》，是理解普罗提诺的关键。",
+    "system": [
+     {
+      "name": "共相三问",
+      "content": "种属是否独立存在、有形无形、分离与否；提出而不答。"
+     },
+     {
+      "name": "德性层级",
+      "content": "政治的、净化的、神性的德性逐级使灵魂上升。"
+     },
+     {
+      "name": "灵魂回归",
+      "content": "灵魂因转向可感而堕落，哲学的生活是回归太一的阶梯。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "雅典与罗马（约263—305）",
+      "change": "师从普罗提诺，编订《九章集》与《普罗提诺传》；后在罗马讲学。"
+     }
+    ],
+    "reception": "《导论》经波爱修注释进入拉丁世界，引发中世纪共相之争；其《驳基督徒》为早期护教论的重要对手文本；新柏拉图主义传承的关键人物。"
+   },
+   "works_detail": [
+    {
+     "title": "《波菲利导论》（Isagoge）",
+     "structure": "为《范畴篇》所作的导论；提出共相三问（种属是否独立存在、有形无形、分离与否）。",
+     "core_thesis": "共相三问；种属关系；存而不论。",
+     "editions": "英译 Warren《Isagoge》；中译参《亚里士多德〈范畴篇〉导论》",
+     "note": "中世纪逻辑学与共相问题的起点"
+    }
+   ]
   }
  ],
  "concepts": [

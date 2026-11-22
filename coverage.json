@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-22",
  "totals": {
-  "entries": 372,
+  "entries": 380,
   "by_level": {
-   "L2": 320,
-   "L1": 52
+   "L2": 326,
+   "L1": 54
   },
   "doctrine": {
-   "total": 113,
-   "detail": 113,
+   "total": 121,
+   "detail": 121,
    "auto": 0
   },
-  "needs_verification": 52,
-  "sources": 214,
-  "sources_verified": 198
+  "needs_verification": 54,
+  "sources": 224,
+  "sources_verified": 208
  },
  "units": [
   {
@@ -92,19 +92,19 @@
    "unit_id": "gr-ancient",
    "title": "古希腊哲学",
    "region": "west",
-   "philosophers": 8,
+   "philosophers": 10,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 0"
+   "philosophers_slot": "8 上限，余 -2"
   },
   {
    "unit_id": "gr-contemp",
    "title": "当代哲学",
    "region": "west",
-   "philosophers": 8,
+   "philosophers": 10,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 0"
+   "philosophers_slot": "8 上限，余 -2"
   },
   {
    "unit_id": "gr-german",
@@ -119,10 +119,10 @@
    "unit_id": "gr-hellenistic",
    "title": "希腊化与罗马哲学",
    "region": "west",
-   "philosophers": 8,
+   "philosophers": 10,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 0"
+   "philosophers_slot": "8 上限，余 -2"
   },
   {
    "unit_id": "gr-medieval",
@@ -137,10 +137,10 @@
    "unit_id": "gr-modern",
    "title": "近代理性论与经验论",
    "region": "west",
-   "philosophers": 8,
+   "philosophers": 10,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 0"
+   "philosophers_slot": "8 上限，余 -2"
   }
  ],
  "entries": [
@@ -2103,6 +2103,28 @@
    "updated": "2026-11-22"
   },
   {
+   "id": "gr-ancient-xenophanes",
+   "type": "philosopher",
+   "title": "色诺芬尼",
+   "container": "gr-ancient",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-ancient-zeno-elea",
+   "type": "philosopher",
+   "title": "芝诺（爱利亚的）",
+   "container": "gr-ancient",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-22"
+  },
+  {
    "id": "gr-ancient-arche",
    "type": "concept",
    "title": "本原",
@@ -2330,6 +2352,28 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-contemp-feyerabend",
+   "type": "philosopher",
+   "title": "费耶阿本德",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-contemp-anscombe",
+   "type": "philosopher",
+   "title": "安斯康姆",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-22"
   },
@@ -2771,6 +2815,28 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": true,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-hellenistic-lucretius",
+   "type": "philosopher",
+   "title": "卢克莱修",
+   "container": "gr-hellenistic",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-hellenistic-porphyry",
+   "type": "philosopher",
+   "title": "波菲利",
+   "container": "gr-hellenistic",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-22"
   },
   {
@@ -3233,6 +3299,28 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-modern-hobbes",
+   "type": "philosopher",
+   "title": "霍布斯",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-modern-rousseau",
+   "type": "philosopher",
+   "title": "卢梭",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-22"
   },
   {
