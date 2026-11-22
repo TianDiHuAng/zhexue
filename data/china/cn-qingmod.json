@@ -1457,6 +1457,145 @@
      "note": "《齐物论释》有初稿与定本之别；《訄书》有三本"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-wei-yuan",
+   "name": "魏源",
+   "latin": "Wei Yuan",
+   "birth_year": 1794,
+   "death_year": 1857,
+   "birth_display": "1794年",
+   "death_display": "1857年",
+   "birth_note": "据《清史稿》：生于湖南邵阳。",
+   "death_note": "1857年卒于杭州。",
+   "era": "晚清。魏源亲历鸦片战争，主张“师夷长技以制夷”，编《海国图志》介绍世界地理与制度，是经世致用思潮与近代睁眼看世界的代表。",
+   "school": "今文经学（经世致用）",
+   "core_questions": [
+    "中国为何败于夷？",
+    "如何“师夷长技”？",
+    "经学如何服务于时务？"
+   ],
+   "arguments": [
+    {
+     "claim": "师夷长技以制夷",
+     "premises": [
+      "夷之长技在于战舰、火器与养兵练兵之法。",
+      "中国败于不知夷情与器不如人。"
+     ],
+     "inference": "若敌之长可学而制之，则学习其技术不是屈从，而是自救之道。",
+     "conclusion": "当设厂译书、学习西方技术，以图自强。",
+     "kind": "原文"
+    },
+    {
+     "claim": "经世致用：以今文经学的“变”支持改革",
+     "premises": [
+      "公羊学讲“三世”与“改制”，历史是变化的。",
+      "拘守旧法不能应对时变。"
+     ],
+     "inference": "若经义本身容许因时改制，则变法不是背离经典，而是承其精神。",
+     "conclusion": "经学须服务于时务，学术当“以经术为治术”。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《海国图志》《圣武记》《默觚》",
+     "edition": "《海国图志》岳麓书社；《魏源集》中华书局",
+     "note": "《海国图志》1842年初刻，后扩充至百卷"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "今文经学（庄存与、刘逢禄）",
+     "id": null,
+     "note": "公羊三世与改制之义（远承）"
+    },
+    {
+     "name": "顾炎武的经世致用",
+     "id": "cn-qingmod-gu-yanwu",
+     "note": "实学与实证取向"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "洋务运动与维新思潮",
+     "id": "cn-qingmod-kang-youwei",
+     "note": "“师夷长技”与变法的先声"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "守旧派",
+     "view": "师夷长技是“以夷变夏”，动摇根本。",
+     "response": "魏源的回应是：学其技而制之，正是保夏之道；不自强才是真正的危亡。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-haiguotuzhi",
+      "sep-qing-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "魏源主张全盘西化",
+     "why": "他主张学“长技”（技术）以制夷，并未主张放弃中国文化；“中体”仍在其视野中。"
+    },
+    {
+     "claim": "《海国图志》只是地理书",
+     "why": "它兼论各国制度、技艺与夷情，是经世致用的战略著作。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>魏源：师夷长技与经世致用</text><defs><marker id='aWY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>夷之长技在战舰火器</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>中国败于不知夷情</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故学其技以制之</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>经术当为治术</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aWY)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aWY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "魏源：师夷长技与经世致用（示意图）",
+   "sources": [
+    "ws-haiguotuzhi",
+    "sep-qing-philosophy",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "魏源以“师夷长技以制夷”为核心：夷之长技在战舰、火器与练兵之法，中国败于不知夷情与器不如人，故学习其技术不是屈从而为自救。他又以今文经学的“变”支持改革，主张经学服务时务（以经术为治术）。《海国图志》是其经世致用的代表。",
+    "system": [
+     {
+      "name": "师夷长技",
+      "content": "学夷之战舰火器与练兵法以制夷，是自救而非屈从。"
+     },
+     {
+      "name": "经世致用",
+      "content": "经学须服务时务；以经术为治术；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "今文改制",
+      "content": "公羊三世与改制之义支持因时变法；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "悉夷情",
+      "content": "欲制夷必先知其情，故编《海国图志》介绍世界。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "早年与幕府（1820—1841）",
+      "change": "入贺长龄、陶澍幕；参与漕运、盐政改革。"
+     },
+     {
+      "period": "鸦片战争后（1841—1857）",
+      "change": "编《海国图志》（1842）；任高邮知州；晚年潜心佛学。"
+     }
+    ],
+    "reception": "《海国图志》影响日本明治维新与晚清洋务；其“师夷长技”成为近代自强话语的起点；今文经学的经世取向影响康有为。"
+   },
+   "works_detail": [
+    {
+     "title": "《海国图志》",
+     "structure": "原刻五十卷，后扩至六十卷、百卷；分述世界各国的地理、制度与技艺。",
+     "core_thesis": "师夷长技以制夷；悉夷情；这是该书的核心命题。",
+     "editions": "岳麓书社点校本《海国图志》；中华书局《魏源集》",
+     "note": "1842 年初刻；影响日本明治维新"
+    }
+   ]
   }
  ],
  "concepts": [

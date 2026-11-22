@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-22",
  "totals": {
-  "entries": 383,
+  "entries": 387,
   "by_level": {
-   "L2": 328,
-   "L1": 55
+   "L2": 331,
+   "L1": 56
   },
   "doctrine": {
-   "total": 124,
-   "detail": 124,
+   "total": 128,
+   "detail": 128,
    "auto": 0
   },
-  "needs_verification": 55,
-  "sources": 224,
-  "sources_verified": 208
+  "needs_verification": 56,
+  "sources": 228,
+  "sources_verified": 212
  },
  "units": [
   {
@@ -29,19 +29,19 @@
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 8,
+   "philosophers": 9,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 0"
+   "philosophers_slot": "8 上限，余 -1"
   },
   {
    "unit_id": "cn-songming",
    "title": "宋明理学与心学",
    "region": "china",
-   "philosophers": 8,
+   "philosophers": 11,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 0"
+   "philosophers_slot": "8 上限，余 -3"
   },
   {
    "unit_id": "cn-suitang",
@@ -464,6 +464,17 @@
    "updated": "2026-11-22"
   },
   {
+   "id": "cn-qingmod-wei-yuan",
+   "type": "philosopher",
+   "title": "魏源",
+   "container": "cn-qingmod",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
    "id": "cn-qingmod-jingshi-zhizhiyong",
    "type": "concept",
    "title": "经世致用",
@@ -687,6 +698,39 @@
    "id": "cn-songming-liu-zongzhou",
    "type": "philosopher",
    "title": "刘宗周",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "cn-songming-shao-yong",
+   "type": "philosopher",
+   "title": "邵雍",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "cn-songming-luo-qinshun",
+   "type": "philosopher",
+   "title": "罗钦顺",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "cn-songming-wang-tingxiang",
+   "type": "philosopher",
+   "title": "王廷相",
    "container": "cn-songming",
    "level": "L2",
    "sources": 3,

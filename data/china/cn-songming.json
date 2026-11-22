@@ -1388,6 +1388,425 @@
      "note": "“纪过格”为具体修行条目"
     }
    ]
+  },
+  {
+   "id": "cn-songming-shao-yong",
+   "name": "邵雍",
+   "latin": "Shao Yong",
+   "birth_year": 1011,
+   "death_year": 1077,
+   "birth_display": "1011年",
+   "death_display": "1077年",
+   "birth_note": "据《宋史·邵雍传》：生于范阳，后居洛阳。",
+   "death_note": "1077年卒于洛阳；谥“康节”。",
+   "era": "北宋中期。邵雍与二程、司马光交游，以象数推演宇宙与历史，是理学开山之一，其学被称为“数学”或“象数学”。",
+   "school": "理学（象数学）",
+   "core_questions": [
+    "宇宙与历史能否以数推演？",
+    "太极如何生天地万物？",
+    "人如何在宇宙秩序中安顿？"
+   ],
+   "arguments": [
+    {
+     "claim": "以元会运世推演历史，宇宙有生灭周期",
+     "premises": [
+      "时间可以数分：一元十二会，一会三十运，一运十二世，一世三十年。",
+      "天地亦有始终，如一年有四季。"
+     ],
+     "inference": "若时间可被数结构化，则历史与宇宙的盛衰可用同一套数推演，故可预知大运。",
+     "conclusion": "宇宙依数循环，历史有周期；人当知命而顺天。",
+     "kind": "原文"
+    },
+    {
+     "claim": "太极—动静—阴阳—万物：象数化的生成论",
+     "premises": [
+      "太极不动，动而生阳、静而生阴。",
+      "阴阳交错而成四象、八卦，进而万物。"
+     ],
+     "inference": "若万物由太极经阴阳八卦逐层分化，则象数是万物生成的图式，可由图（如《先天图》）表达。",
+     "conclusion": "象数不是占卜工具，而是宇宙生成的结构。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《皇极经世》《击壤集》",
+     "edition": "《皇极经世》见《道藏》与四库本；《邵雍集》中华书局点校本",
+     "note": "《皇极经世》以元会运世推演历史；《击壤集》为诗集"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "陈抟与图书学派",
+     "id": null,
+     "note": "先天图与象数传统"
+    },
+    {
+     "name": "《周易》",
+     "id": null,
+     "note": "象数与卦气的框架"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "朱熹与理学（吸收其图式）",
+     "id": "cn-songming-zhu-xi",
+     "note": "《易》学图式被理学吸收"
+    },
+    {
+     "name": "术数与历法传统",
+     "id": null,
+     "note": "元会运世之说"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "二程与朱熹（部分）",
+     "view": "象数推演过于机械，易流入术数，未必合于义理。",
+     "response": "邵雍一系的回应是：象数是“理”的图式化，非占卜；其目的是显示宇宙的秩序而非预测吉凶。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-huangjijingshi",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "邵雍的学说是迷信占卜",
+     "why": "元会运世是对历史与宇宙的结构化推演，其目的在显示秩序与周期，不必然是占卜术。"
+    },
+    {
+     "claim": "邵雍与理学无关",
+     "why": "他与二程交游，其《易》学图式被朱熹等吸收，属理学开山之一。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>邵雍：元会运世与象数生成</text><defs><marker id='aSY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>一元十二会</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>会运世依数推演</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>宇宙与历史有周期</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故当知命顺天</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aSY)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aSY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：数为原文，图示为重构</text></svg>",
+   "svg_caption": "邵雍：元会运世与象数生成（示意图）",
+   "sources": [
+    "ws-huangjijingshi",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《皇极经世》的象数体系与具体推演细节繁复，其与术数的界线、以及部分图式的来源（陈抟一系）学界有讨论。",
+   "doctrine": {
+    "summary": "邵雍以象数推演宇宙与历史：时间可数分为元会运世，天地有始终如四季，故历史盛衰可用同一套数推演；太极经动静而生阴阳、四象、八卦，进而万物，象数是这一生成过程的结构图式。其学被称为“数学”，是理学开山之一，与二程交游而路径不同。",
+    "system": [
+     {
+      "name": "元会运世",
+      "content": "一元十二会、一会三十运、一运十二世、一世三十年；宇宙与历史依数循环。"
+     },
+     {
+      "name": "太极生成",
+      "content": "太极不动，动而生阳、静而生阴；阴阳交错生四象八卦与万物。"
+     },
+     {
+      "name": "象数即理",
+      "content": "象数是理的图式化，非单纯占卜工具；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "知命顺天",
+      "content": "既然宇宙有周期，人当知命而顺天，不为一时得失所动。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "共城与洛阳（1040—1077）",
+      "change": "屡举不第，隐居讲学；与二程、司马光交游；著《皇极经世》《击壤集》。"
+     }
+    ],
+    "reception": "其《易》学图式被朱熹等吸收；元会运世之说影响后世历史哲学与术数；现代研究关注其象数体系与理学的关系。"
+   },
+   "works_detail": [
+    {
+     "title": "《皇极经世》",
+     "structure": "以元会运世推演宇宙与历史；含《观物内篇》《观物外篇》等。",
+     "core_thesis": "元会运世；象数生成；历史周期。",
+     "editions": "《道藏》本与四库本；《邵雍集》中华书局",
+     "note": "象数体系繁复，具体推演细节有讨论"
+    }
+   ]
+  },
+  {
+   "id": "cn-songming-luo-qinshun",
+   "name": "罗钦顺",
+   "latin": "Luo Qinshun",
+   "birth_year": 1465,
+   "death_year": 1547,
+   "birth_display": "1465年",
+   "death_display": "1547年",
+   "birth_note": "据《明史·儒林传》：生于江西泰和。",
+   "death_note": "1547年卒于家；谥“文庄”。",
+   "era": "明代中期。罗钦顺官至吏部尚书，晚年著《困知记》，以气本论批评程朱“理在气先”与陆王“心即理”，是明代气学的重要代表。",
+   "school": "气学",
+   "core_questions": [
+    "理与气是二物还是一物？",
+    "心与理是一是二？",
+    "格物当求之于外还是内？"
+   ],
+   "arguments": [
+    {
+     "claim": "理只是气之理，非气外别有一理",
+     "premises": [
+      "天地间只有一气，聚散升降而成万物。",
+      "理是气之条理，即其秩序与所以然。"
+     ],
+     "inference": "若理在气外，则理成为另一物，且无法说明理如何作用于气；故理只能是气自身的条理。",
+     "conclusion": "理气为一，反对“理在气先”的二分。",
+     "kind": "原文"
+    },
+    {
+     "claim": "心与理不二，但不可说“心即理”",
+     "premises": [
+      "心能知理，但心本身是气之灵。",
+      "若心即理，则以知觉为理，善恶无别。"
+     ],
+     "inference": "若以心为理，则良知之外的私意亦可冒充天理；故须以格物穷理校正心之知觉。",
+     "conclusion": "心具众理而不可径谓心即理；工夫在格物。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《困知记》",
+     "edition": "阎韬点校，中华书局；《罗钦顺集》",
+     "note": "六卷，气本论与对程朱、陆王的批评"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "张载气学",
+     "id": "cn-songming-zhang-zai",
+     "note": "太虚即气的气本论"
+    },
+    {
+     "name": "程朱理学（批评对象）",
+     "id": "cn-songming-cheng-yi",
+     "note": "“理在气先”为其批评目标"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "王廷相与明清气学",
+     "id": "cn-songming-wang-tingxiang",
+     "note": "气本论一路的延续"
+    },
+    {
+     "name": "王夫之",
+     "id": null,
+     "note": "“理在气中”的先声"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "程朱一系",
+     "view": "取消“理在气先”，则天理的超越性与规范性失去根据。",
+     "response": "罗钦顺的回应是：理的规范性来自气之条理本身，不需另设超验之理；天理即自然之秩序。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-kunzhiji",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "罗钦顺是唯物论者",
+     "why": "其“气”含秩序与生机之义，并非近代机械唯物论的物质；“理”仍有规范性。"
+    },
+    {
+     "claim": "他完全否定程朱",
+     "why": "他承程朱的问题而改其理气关系，仍以格物穷理为工夫，不是全盘否定。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>罗钦顺：理气为一</text><defs><marker id='aLQ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>天地间只有一气</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>理是气之条理</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故理不在气外</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>格物以校正心之知觉</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLQ)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLQ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "罗钦顺：理气为一与格物工夫（示意图）",
+   "sources": [
+    "ws-kunzhiji",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "罗钦顺以气本论批评程朱与陆王：天地间只有一气，理是气的条理而非气外别有一物，故“理在气先”不能成立；心能知理但不可说“心即理”，否则私意可冒充天理，故工夫在格物穷理以校正知觉。其说是明清气学的重要一环。",
+    "system": [
+     {
+      "name": "理气为一",
+      "content": "天地间只有一气；理是气之条理，非气外别有一理。"
+     },
+     {
+      "name": "心具众理而非心即理",
+      "content": "心是气之灵，能知理；若以心为理，则善恶无别。"
+     },
+     {
+      "name": "格物穷理",
+      "content": "工夫在即物穷理以校正心之知觉，反对径任良知。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "仕宦与讲学（1487—1521）",
+      "change": "官至吏部尚书；因议大礼去职；此阶段变化详见第三节。"
+     },
+     {
+      "period": "晚年著述（1521—1547）",
+      "change": "著《困知记》，系统批评程朱理气论与陆王心学。"
+     }
+    ],
+    "reception": "其气本论为王廷相、王夫之所继承；“理在气中”成为明清气学的共同立场；现代研究关注其对理学形而上学的批评。"
+   },
+   "works_detail": [
+    {
+     "title": "《困知记》",
+     "structure": "六卷；上卷论理气，下卷批评陆王与禅学。",
+     "core_thesis": "理气为一；心非即理；格物穷理。",
+     "editions": "阎韬点校中华书局",
+     "note": "明代气学的代表作"
+    }
+   ]
+  },
+  {
+   "id": "cn-songming-wang-tingxiang",
+   "name": "王廷相",
+   "latin": "Wang Tingxiang",
+   "birth_year": 1474,
+   "death_year": 1544,
+   "birth_display": "1474年",
+   "death_display": "1544年",
+   "birth_note": "据《明史》：生于河南仪封。",
+   "death_note": "1544年卒于家。",
+   "era": "明代中期。王廷相官至兵部尚书，以气本论与对谶纬、五行灾异的批判著称，是明代最彻底的气学与怀疑论者之一。",
+   "school": "气学",
+   "core_questions": [
+    "元气如何生成万物？",
+    "灾异与人事是否相关？",
+    "知识如何从经验得来？"
+   ],
+   "arguments": [
+    {
+     "claim": "元气是唯一本原，万物由气化而生",
+     "premises": [
+      "天地未分之前只有元气。",
+      "元气含阴阳，动静聚散而生天地万物。"
+     ],
+     "inference": "若万物皆由元气聚散，则不需另设“理”为独立本原；理是气化之条理。",
+     "conclusion": "气一元论：理在气中，无气外之理。",
+     "kind": "原文"
+    },
+    {
+     "claim": "灾异与人事无关，谶纬不可信",
+     "premises": [
+      "天是自然之气，无意志。",
+      "星变、地震有其自然原因。"
+     ],
+     "inference": "若天无意志，则灾异不能作为谴告；以其附会人事是“诬天”。",
+     "conclusion": "当以自然原因解释灾异，反对谶纬与五行附会。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《慎言》《雅述》《王氏家藏集》",
+     "edition": "《王廷相集》中华书局点校本",
+     "note": "《慎言》为其哲学纲要；《雅述》论学"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "张载气学",
+     "id": "cn-songming-zhang-zai",
+     "note": "太虚即气"
+    },
+    {
+     "name": "罗钦顺（同时代气学）",
+     "id": "cn-songming-luo-qinshun",
+     "note": "理气为一的共同立场"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "王夫之与明清气学",
+     "id": null,
+     "note": "气本论与反对五行附会"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "程朱一系",
+     "view": "否定“理”的独立性与灾异谴告，则天理与天人感应的约束力被取消。",
+     "response": "王廷相的回应是：以自然原因解释灾异，恰是尊重天；以谶纬约束君主反而使政治依赖虚妄。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-shenyan",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "王廷相否认一切天人关联",
+     "why": "他否认的是有意志的天与谶纬谴告，不否认人须顺应自然规律。"
+    },
+    {
+     "claim": "其气学等于唯物论",
+     "why": "“气”含生机与秩序，非机械物质；其立场应放在中国气学传统中理解。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>王廷相：元气一元与反谶纬</text><defs><marker id='aWT' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>天地未分唯有元气</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>气含阴阳，聚散生万物</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故理在气中</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故灾异不可以附会人事</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aWT)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aWT)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "王廷相：元气一元论与反谶纬（示意图）",
+   "sources": [
+    "ws-shenyan",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "王廷相以气一元论立说：天地未分之前只有元气，元气含阴阳、动静聚散而生万物，故理是气化之条理而非独立本原；他又以“天是自然之气、无意志”否定灾异谴告与谶纬附会，认为以自然原因解释灾异才是尊重天。其学是明代最彻底的气学之一。",
+    "system": [
+     {
+      "name": "元气一元",
+      "content": "天地未分唯有元气；万物由气化聚散而生；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "理在气中",
+      "content": "理是气化之条理，无气外之理；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "反谶纬",
+      "content": "天无意志，灾异有其自然原因；以之附会人事是“诬天”。"
+     },
+     {
+      "name": "经验求知",
+      "content": "知识须由见闻与思虑积累，反对先天良知之说。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "仕宦时期（1503—1524）",
+      "change": "官至兵部尚书；因议大礼去职；此阶段变化详见第三节。"
+     },
+     {
+      "period": "晚年著述（1524—1544）",
+      "change": "著《慎言》《雅述》，系统阐发气学与反谶纬。"
+     }
+    ],
+    "reception": "其气学与反谶纬立场为王夫之所继承；现代研究视其为明代气学与怀疑精神的重要代表；后世对其学说的接受与批评构成本领域的重要议题。"
+   },
+   "works_detail": [
+    {
+     "title": "《慎言》",
+     "structure": "十三篇；论气化、理气、天人关系。",
+     "core_thesis": "元气一元；理在气中；反谶纬；这是该书的核心命题。",
+     "editions": "《王廷相集》中华书局",
+     "note": "明代气学纲要"
+    }
+   ]
   }
  ],
  "concepts": [
