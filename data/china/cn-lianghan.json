@@ -1,0 +1,1012 @@
+{
+ "unit_id": "cn-lianghan",
+ "region": "china",
+ "title": "两汉经学与气论",
+ "period": "前202—220",
+ "start_year": -202,
+ "end_year": 220,
+ "summary": "汉承秦制而亟需为大一统提供宇宙论与伦理依据。今文经学立于学官，以“微言大义”讲制度与灾异；古文经学以文本与名物考订相争。董仲舒把阴阳五行纳入儒家，构造“天人感应”的宇宙—政治图景；王充则以“气自然”反驳谴告与谶纬。经学章句、谶纬与气论三者交织，构成汉代思想的基本场域。",
+ "threads": [
+  "天人关系：天是否以灾异谴告人君（董仲舒）还是天道自然无为（王充）",
+  "经学的文本与权威：今文的“微言大义”与古文的“名物训诂”之争",
+  "人性与教化：性三品说与“教化限度”的讨论"
+ ],
+ "philosophers": [
+  {
+   "id": "cn-lianghan-dong-zhongshu",
+   "name": "董仲舒",
+   "latin": "Dong Zhongshu",
+   "birth_year": -179,
+   "death_year": -104,
+   "birth_display": "前179年",
+   "death_display": "前104年",
+   "birth_note": "据《汉书·董仲舒传》与《史记·儒林列传》推定，学界通行。",
+   "death_note": "同上；《汉书》本传载其“年老，以寿终于家”。",
+   "era": "西汉前期。汉初黄老无为与休养生息之后，武帝朝需要一套为中央集权与大一统提供正当性的学说；《公羊春秋》因讲“改制”“大一统”而受重视，董仲舒即以公羊学应对“天人三策”。",
+   "school": "今文经学",
+   "core_questions": [
+    "天与人间秩序是什么关系？灾异是否是天的批评？",
+    "大一统的正当性从何而来，君主的权力受什么约束？",
+    "人性有几种，教化对谁有效？"
+   ],
+   "arguments": [
+    {
+     "claim": "天与人同类相动，故灾异是天对君主的谴告",
+     "premises": [
+      "“以类合之，天人一也”，天与人在结构与情性上相应（《春秋繁露·阴阳义》）。",
+      "政有失则“天出灾害以谴告之”，不改则出怪异，再不改则“伤败乃至”。"
+     ],
+     "inference": "若天人同类，则人的行为会在天的现象中获得回应；因此异常天象不是无关的自然事件，而是可解读的政治信号。",
+     "conclusion": "君主须“承天意以从事”，灾异是天的谴告，也是对其权力的约束机制。",
+     "kind": "原文"
+    },
+    {
+     "claim": "大一统是“天地之常经”，故须尊一统之制",
+     "premises": [
+      "《春秋》以“元年春王正月”标示“大一统”。",
+      "“道之大原出于天”，天道不变，故治道亦有常。"
+     ],
+     "inference": "若治道有常而分裂为乱，则统一不仅是政治结果，也是天道的要求；制度、教化与学术都须归于一处。",
+     "conclusion": "政治与学术的统一（包括以儒学为官方学说）有宇宙论上的根据。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "性三品：教化对不同人有不同效力",
+     "premises": [
+      "“圣人之性”不待教而善，“斗筲之性”教而不能为善。",
+      "“中民之性”待教而后能为善，如“茧待缲而后能为丝”。"
+     ],
+     "inference": "若人性一律，则教化无差别；而现实中的教化效果差异显著，故须以“性”的等级说明之。",
+     "conclusion": "教化主要针对“中民”，君主与圣人的作用是“承天意以教化”中民。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《春秋繁露》",
+     "edition": "苏舆《春秋繁露义证》，中华书局（新编诸子集成本）",
+     "note": "今本十七卷八十二篇，部分篇目真伪有讨论；天人感应诸说主要见《为人者天》《阴阳义》《必仁且智》等篇"
+    },
+    {
+     "title": "《举贤良对策》（天人三策）",
+     "edition": "见《汉书·董仲舒传》，中华书局点校本",
+     "note": "“罢黜百家，表章六经”的相关记载出自《汉书》，其实际执行程度学界有讨论"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "公羊春秋学（胡毋生、公羊寿一系）",
+     "id": null,
+     "note": "董仲舒受《公羊传》家法，以之讲改制与大一统"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "何休",
+     "id": "cn-lianghan-he-xiu",
+     "note": "承公羊学，发展三世说"
+    },
+    {
+     "name": "汉代谶纬与后世“天人感应”话语",
+     "id": null,
+     "note": "灾异谴告成为汉代政治批评的通用语言"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "王充",
+     "view": "“天道，自然也，无为”，天无口目、无知觉，不能谴告；灾异是阴阳之气偶变，与人事无涉（《论衡·谴告》《自然》）。",
+     "response": "董学一系的回应可重构为：谴告说非以天为有口目之人，而是以“同类相动”说明政治失序与自然异常的相关性，其要旨是约束君权而非描述天的心理。",
+     "kind": "原文",
+     "sources": [
+      "ct-lunheng",
+      "sep-chinese-metaphysics"
+     ]
+    },
+    {
+     "critic": "古文经学家（如刘歆一系）",
+     "view": "以文本与制度考订为据，认为今文家以“微言大义”附会政治，章句繁碎而失经义。",
+     "response": "今文家的回应是：经之所以为经，正在于其寓褒贬、立制度；若只作名物训诂，则《春秋》的“义”无所附丽。",
+     "kind": "后人解读",
+     "sources": [
+      "ct-shiji",
+      "iep-chinese-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "董仲舒“罢黜百家，独尊儒术”，汉代从此只有儒学",
+     "why": "《汉书》所记对策与其实际政策执行有距离；汉廷长期儒法并用，黄老、刑名与阴阳术数仍在运作。“独尊”更多指学官与选官标准的转移，而非思想领域的清除。"
+    },
+    {
+     "claim": "天人感应是纯粹的迷信",
+     "why": "它在汉代同时承担政治批评的功能：借天象约束君主。评价其真伪之前须先看它在具体政治语境中如何使用。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "以类合之，天人一也",
+     "source_id": "ct-chunqiufanlu",
+     "locator": "《春秋繁露·阴阳义》",
+     "kind": "原文"
+    },
+    {
+     "text": "道之大原出于天，天不变，道亦不变",
+     "source_id": "ct-shiji",
+     "locator": "《汉书·董仲舒传》所载对策（亦见《史记》相关记述）",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>董仲舒：天人感应与谴告（示意）</text><defs><marker id='arL1' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='44' y='58' width='210' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='149' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提：天人同类</text><text x='149' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>“以类合之，天人一也”</text><rect x='506' y='58' width='210' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='611' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提：政失则气乱</text><text x='611' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>阴阳失序而见灾异</text><line x1='254' y1='87' x2='336' y2='87' stroke='#4a7ba6' marker-end='url(#arL1)'/><line x1='506' y1='87' x2='424' y2='87' stroke='#4a7ba6' marker-end='url(#arL1)'/><rect x='340' y='60' width='80' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='84' text-anchor='middle' font-size='12' fill='#1c3a5c'>推论</text><text x='380' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>可解读</text><line x1='380' y1='116' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#arL1)'/><rect x='196' y='160' width='368' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='184' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：灾异为天之谴告</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>君主须“承天意以从事”</text><line x1='380' y1='224' x2='380' y2='262' stroke='#4a7ba6' marker-end='url(#arL1)'/><rect x='120' y='266' width='250' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='245' y='288' text-anchor='middle' font-size='12' fill='#1e2d3d'>政治功能：约束君权</text><text x='245' y='307' text-anchor='middle' font-size='10' fill='#1e2d3d'>批评者可借天象进言</text><rect x='390' y='266' width='250' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='515' y='288' text-anchor='middle' font-size='12' fill='#1e2d3d'>反对者：王充</text><text x='515' y='307' text-anchor='middle' font-size='10' fill='#1e2d3d'>“天道自然，无为”</text><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：“大一统”为原文推论，其制度化解释属后人重构</text></svg>",
+   "svg_caption": "董仲舒：天人同类如何推出灾异谴告（重构示意图）",
+   "sources": [
+    "ct-chunqiufanlu",
+    "ct-shiji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-yang-xiong",
+   "name": "扬雄",
+   "latin": "Yang Xiong",
+   "birth_year": -53,
+   "death_year": 18,
+   "birth_display": "前53年",
+   "death_display": "18年",
+   "birth_note": "据《汉书·扬雄传》；生年为前53年，卒于王莽天凤五年（公元18年）。",
+   "death_note": "同上；《汉书》本传载其卒年与家世。",
+   "era": "西汉末至新莽。经学章句繁碎，谶纬盛行；扬雄以模仿经典的方式重建一套宇宙论与伦理学说，力图以“玄”取代当时流行的灾异附会。",
+   "school": "儒家（拟经一系）",
+   "core_questions": [
+    "能否用一个更高的范畴（“玄”）统摄阴阳与天道？",
+    "圣人之后，经典是否还能被续写？",
+    "学者应以什么态度对待流行的谶纬与章句？"
+   ],
+   "arguments": [
+    {
+     "claim": "“玄”是统摄阴阳与万物的本根",
+     "premises": [
+      "《太玄》以“玄”为“天地之始”，三分为方、州、部、家，八十一首。",
+      "玄兼含阴阳之未分状态，故能统摄已分之阴阳。"
+     ],
+     "inference": "若万物由阴阳二气的变化而成，则须有一个未分化的根据来解释二气何以能相互转化；这个根据就是“玄”。",
+     "conclusion": "玄高于阴阳五行，是宇宙论的第一原理；《太玄》的筮法即以此原理构造。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "拟经：经典的形式可以被重新使用",
+     "premises": [
+      "《法言》仿《论语》体，《太玄》仿《周易》结构。",
+      "扬雄认为“圣人之言”可学而述之，不必以时代先后为限。"
+     ],
+     "inference": "若经典的价值在其义理而非作者身份，则后儒可用同样的体例陈述自己的时代所面对的问题。",
+     "conclusion": "拟经不是僭越，而是以经典形式承载新的思想内容。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《太玄经》",
+     "edition": "司马光《太玄集注》，中华书局；《四部丛刊》本可参校",
+     "note": "仿《周易》而作，八十一首，以三方、九州、二十七部、八十一家结构"
+    },
+    {
+     "title": "《法言》",
+     "edition": "汪荣宝《法言义疏》，中华书局（新编诸子集成本）",
+     "note": "仿《论语》的问答体，论学、论政、论文"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "《周易》与《论语》",
+     "id": null,
+     "note": "以两部经典为形式与义理的范本"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "扬雄的拟经传统（后世的“续经”之作）",
+     "id": null,
+     "note": "王通《中说》、宋明拟经之作常以扬雄为先例"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "朱熹等宋儒",
+     "view": "扬雄拟经是“僭圣”，其学“不纯”；《法言》虽有理致，然以模仿代替自得。",
+     "response": "为扬雄辩护的意见指出：拟经是汉代学术的常见形式（如《春秋繁露》之拟经义），其目的在于以经典体例整理当代问题，不必以“僭”论之。",
+     "kind": "后人解读",
+     "sources": [
+      "ct-zhuzi-yulei",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "扬雄只是模仿者，没有原创思想",
+     "why": "《太玄》的三分结构与八十一首筮法是其自创的宇宙论体系，并非《周易》的复制；以“模仿”概括会忽略其构造上的独立性。"
+    },
+    {
+     "claim": "扬雄反对一切谶纬",
+     "why": "他对谶纬的态度较为复杂：反对以灾异附会人事，但并不否认天人之间的关联；其立场更接近“以理正纬”而非彻底否定。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "玄者，幽摛万类而不见形者也",
+     "source_id": "ct-taixuanjing",
+     "locator": "《太玄·玄摛》",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>扬雄：玄—阴阳—万类（示意）</text><defs><marker id='arL2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='280' y='56' width='200' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='80' text-anchor='middle' font-size='13' fill='#1c3a5c'>玄：未分之本根</text><text x='380' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>“不见形者”</text><line x1='340' y1='110' x2='240' y2='152' stroke='#4a7ba6' marker-end='url(#arL2)'/><line x1='420' y1='110' x2='520' y2='152' stroke='#4a7ba6' marker-end='url(#arL2)'/><rect x='120' y='156' width='220' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='230' y='178' text-anchor='middle' font-size='12' fill='#1e2d3d'>阴阳二气</text><text x='230' y='197' text-anchor='middle' font-size='10' fill='#1e2d3d'>已分之对待</text><rect x='420' y='156' width='220' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='530' y='178' text-anchor='middle' font-size='12' fill='#1e2d3d'>三方九州八十一首</text><text x='530' y='197' text-anchor='middle' font-size='10' fill='#1e2d3d'>《太玄》的构造</text><line x1='230' y1='210' x2='330' y2='252' stroke='#4a7ba6' marker-end='url(#arL2)'/><line x1='530' y1='210' x2='430' y2='252' stroke='#4a7ba6' marker-end='url(#arL2)'/><rect x='240' y='256' width='280' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='278' text-anchor='middle' font-size='12' fill='#1c3a5c'>万类由玄而幽摛</text><text x='380' y='297' text-anchor='middle' font-size='10' fill='#1e2d3d'>秩序非由灾异附会而得</text><text x='380' y='344' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：三分结构为原文，《法言》拟《论语》另成一路</text></svg>",
+   "svg_caption": "扬雄：玄、阴阳与《太玄》结构的关系（重构示意图）",
+   "sources": [
+    "ct-taixuanjing",
+    "ct-fayan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-wang-chong",
+   "name": "王充",
+   "latin": "Wang Chong",
+   "birth_year": 27,
+   "death_year": 97,
+   "birth_display": "27年",
+   "death_display": "约97年",
+   "birth_note": "据《论衡·自纪》与其仕历推定（约27—97），学界通行。",
+   "death_note": "约公元97年，具体年不可确考。",
+   "era": "东汉前期。谶纬被定为国教性的学说，灾异谴告之说盛行；王充出身细族孤门，终身仕途不显，以“疾虚妄”自任，逐条驳斥流行的迷信与附会。",
+   "school": "儒家（批评性一路，自居“儒者”而斥俗儒）",
+   "core_questions": [
+    "天是否有意志，能否赏罚人间？",
+    "流行的谶纬、禁忌与“天人感应”是否有根据？",
+    "人的贤愚与命运由什么决定？"
+   ],
+   "arguments": [
+    {
+     "claim": "天道自然无为，不能谴告",
+     "premises": [
+      "“天道，自然也，无为；如谴告人，是有为，非自然也”。",
+      "天无口目，无知觉，“夫天，体也，与地同”。"
+     ],
+     "inference": "谴告须以知觉与意图为前提；而天是物质性的体，无感官无知觉，故不能有意图地示警。",
+     "conclusion": "灾异是阴阳之气的变化，与人事无因果关联；“谴告”之说是人以己意附会天。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以“效验”检验学说：疾虚妄",
+     "premises": [
+      "“事莫明于有效，论莫定于有证”。",
+      "对雷、龙、鬼、禁忌之说，皆引事例与物性反驳。"
+     ],
+     "inference": "若一个说法无法以可见的事实检验，且与已知物性相违，则不应被接受为真。",
+     "conclusion": "学术的任务是“订其真伪，辨其虚实”，而非沿用成说。",
+     "kind": "原文"
+    },
+    {
+     "claim": "命定论：贤愚与穷达分属两途",
+     "premises": [
+      "“命则不可勉，时则不可力”，人的遭遇由“命”与“时”决定。",
+      "“才高行厚，未必保其必富贵；智寡德薄，未可信其必贫贱”。"
+     ],
+     "inference": "若德才与富贵并不对应，则说明二者由不同原因决定：德才属“性”，富贵属“命”。",
+     "conclusion": "不应以成败论人，也不必以富贵证德；此说与“天人感应”的赏罚观正相反。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论衡》",
+     "edition": "黄晖《论衡校释》，中华书局（新编诸子集成本）；刘盼遂《论衡集解》可参",
+     "note": "三十卷八十五篇（今存八十四篇）；《自然》《谴告》《感类》驳天人感应，《问孔》《刺孟》质疑问难"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "黄老道家与桓谭",
+     "id": null,
+     "note": "“天道自然”的框架与桓谭的形神论对其有影响"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "东汉以后的怀疑与考据传统",
+     "id": null,
+     "note": "“疾虚妄”的取向常被后世引为实证批评的先例"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "汉代儒者（维护谴告说者）",
+     "view": "若天不能谴告，则君主无所畏惧，儒者借天象进谏的渠道亦被切断。",
+     "response": "王充的回应是：以虚妄之说约束君权，其效短暂而反伤学术之实；治国应据“效验”与制度，而非据不可验证的天意。",
+     "kind": "后人解读",
+     "sources": [
+      "ct-lunheng",
+      "sep-chinese-metaphysics"
+     ]
+    },
+    {
+     "critic": "后世儒者（如朱熹一派）",
+     "view": "《问孔》《刺孟》近于“非圣”，其命定论亦有害于教化。",
+     "response": "为《论衡》辩护的意见指出：王充所问的是文本内部的矛盾与论证的漏洞，并非否定孔孟之道的价值；其命定论针对的是以富贵证德的社会现象。",
+     "kind": "后人解读",
+     "sources": [
+      "book-chan-sourcebook",
+      "iep-chinese-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "王充是无神论者，故反对一切传统",
+     "why": "他反对的是可检验性缺失的“虚妄”（谴告、禁忌、鬼说），同时自居儒者、维护“儒者之业”；其立场是“疾虚妄”而非全盘否定传统。"
+    },
+    {
+     "claim": "《问孔》《刺孟》是在攻击孔子孟子",
+     "why": "两篇针对的是文本记载中的矛盾与推论不周，属“就书论书”的批评；王充多次表示尊孔孟之道，只是不认为其书句句无误。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "天道，自然也，无为",
+     "source_id": "ct-lunheng",
+     "locator": "《论衡·自然》",
+     "kind": "原文"
+    },
+    {
+     "text": "事莫明于有效，论莫定于有证",
+     "source_id": "ct-lunheng",
+     "locator": "《论衡·薄葬》",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>王充：以“效验”驳谴告（示意）</text><defs><marker id='arL3' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='48' y='58' width='210' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='153' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>谴告说所需前提</text><text x='153' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>天有知觉与意图</text><line x1='258' y1='87' x2='306' y2='87' stroke='#4a7ba6' marker-end='url(#arL3)'/><rect x='310' y='58' width='220' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='420' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>反驳：天者，体也</text><text x='420' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>无口目，无知觉</text><line x1='530' y1='87' x2='578' y2='87' stroke='#4a7ba6' marker-end='url(#arL3)'/><rect x='582' y='58' width='132' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='648' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>故不能谴告</text><text x='648' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>灾异属气变</text><line x1='380' y1='116' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#arL3)'/><rect x='200' y='160' width='360' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='184' text-anchor='middle' font-size='13' fill='#1c3a5c'>方法：事莫明于有效，论莫定于有证</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>以物性与事例检验成说</text><line x1='380' y1='224' x2='380' y2='262' stroke='#4a7ba6' marker-end='url(#arL3)'/><rect x='120' y='266' width='250' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='245' y='288' text-anchor='middle' font-size='12' fill='#1e2d3d'>命定：贤愚与穷达两分</text><text x='245' y='307' text-anchor='middle' font-size='10' fill='#1e2d3d'>不以富贵证德</text><rect x='390' y='266' width='250' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='515' y='288' text-anchor='middle' font-size='12' fill='#1e2d3d'>后果：问孔刺孟</text><text x='515' y='307' text-anchor='middle' font-size='10' fill='#1e2d3d'>就书论书，非否定其道</text><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：反驳结构据《自然》《谴告》《物势》诸篇重构</text></svg>",
+   "svg_caption": "王充：谴告说的前提如何被“天者体也”推翻（重构示意图）",
+   "sources": [
+    "ct-lunheng",
+    "iep-chinese-philosophy",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-zheng-xuan",
+   "name": "郑玄",
+   "latin": "Zheng Xuan",
+   "birth_year": 127,
+   "death_year": 200,
+   "birth_display": "127年",
+   "death_display": "200年",
+   "birth_note": "据《后汉书·郑玄传》：生于东汉永建二年（127），卒于建安五年（200）。",
+   "death_note": "同上；卒年据本传所记官渡之战前后行迹推定。",
+   "era": "东汉末年。今古文经学长期对立，章句之学繁冗；郑玄游学关东、师事马融，兼通今古，以遍注群经的方式完成经学的第一次大整合。",
+   "school": "古文经学（兼采今文）",
+   "core_questions": [
+    "今古文经的异文与异说如何取舍？",
+    "礼制与经义如何互相说明？",
+    "注经应以名物制度为先，还是以义理为先？"
+   ],
+   "arguments": [
+    {
+     "claim": "以礼注经：制度是理解经文的关键",
+     "premises": [
+      "《三礼注》以《周礼》为制度总纲，参以《仪礼》《礼记》。",
+      "经文中的名物、度数、仪节若无制度背景则不可解。"
+     ],
+     "inference": "若经典所记多为具体制度与仪节，则解释必须以同时代的制度知识为框架，否则义理悬空。",
+     "conclusion": "注经当先明制度名物，再通其义；“以礼注经”遂成郑学的标志。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "兼采今古：择善而从，不守一家家法",
+     "premises": [
+      "郑玄先习今文，后师事马融治古文，兼通两家。",
+      "其注常以古文为主而采今文之长，或反之。"
+     ],
+     "inference": "若两家的差异多源于文本与师说的偶然，而非义理的对立，则应以经文本身为准，择善而从。",
+     "conclusion": "家法可以打破，注经的标准是“合于经”而非“守师说”。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《三礼注》（《周礼注》《仪礼注》《礼记注》）",
+     "edition": "《十三经注疏》，中华书局影印阮元校刻本",
+     "note": "郑玄注、孔颖达疏合并刊行；《礼记注》为《礼记》通行注本的基础"
+    },
+    {
+     "title": "《毛诗笺》《周易注》《尚书注》（残）",
+     "edition": "《十三经注疏》本；辑佚见袁钧《郑氏佚书》",
+     "note": "《毛诗笺》以毛传为本而申说之，兼采三家诗"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "马融",
+     "id": null,
+     "note": "古文经学大师，郑玄师事之"
+    },
+    {
+     "name": "今文经学的师法传统",
+     "id": null,
+     "note": "早年习今文，故能兼采"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "孔颖达《五经正义》",
+     "id": null,
+     "note": "唐代官学以郑注为基础"
+    },
+    {
+     "name": "清代朴学",
+     "id": null,
+     "note": "惠栋、戴震等以郑学为汉学典范"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "今文经学家（如何休）",
+     "view": "何休作《公羊墨守》《左氏膏肓》《谷梁废疾》，维护公羊家法而排斥古文；郑玄则作《发墨守》《针膏肓》《起废疾》逐条回应。",
+     "response": "郑玄的回应是：经义的取舍应以文本与制度为据，家法不能成为免除论证的理由。",
+     "kind": "原文",
+     "sources": [
+      "ct-shiji",
+      "book-chan-sourcebook"
+     ]
+    },
+    {
+     "critic": "清代今文家（如康有为）",
+     "view": "郑玄混合今古，使今文的“微言大义”被训诂淹没，经学由此失去政治批判力。",
+     "response": "为郑学辩护的意见指出：郑玄的整合使经学具备了可检验的文本基础；把经学的政治功能减弱归咎于注疏方法，忽略了制度环境的变化。",
+     "kind": "后人解读",
+     "sources": [
+      "iep-chinese-philosophy",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "郑玄只是注释家，没有思想",
+     "why": "“以礼注经”与“兼采今古”本身是方法论主张，其取舍标准（合于经而非守家法）对经学史影响深远。"
+    },
+    {
+     "claim": "郑学取代了今文经学",
+     "why": "郑学整合了今古，使“家法”意义上的对立减弱，但今文经学在清代复兴；郑学的影响主要在注疏传统与礼制研究。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "念述先圣之元意，思整百家之不齐",
+     "source_id": "ct-shiji",
+     "locator": "《后汉书·郑玄传》所载其自述志向（原文见本传）",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>郑玄：兼采今古与以礼注经（示意）</text><defs><marker id='arL4' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='60' y='58' width='200' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='160' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>今文经学</text><text x='160' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>微言大义·家法</text><rect x='500' y='58' width='200' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='600' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>古文经学</text><text x='600' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>文本制度·训诂</text><line x1='260' y1='86' x2='336' y2='86' stroke='#4a7ba6' marker-end='url(#arL4)'/><line x1='500' y1='86' x2='424' y2='86' stroke='#4a7ba6' marker-end='url(#arL4)'/><rect x='340' y='60' width='80' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>兼采</text><text x='380' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>择善</text><line x1='380' y1='112' x2='380' y2='150' stroke='#4a7ba6' marker-end='url(#arL4)'/><rect x='204' y='154' width='352' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='178' text-anchor='middle' font-size='12' fill='#1c3a5c'>标准：合于经而非守师说</text><text x='380' y='197' text-anchor='middle' font-size='10' fill='#1e2d3d'>以制度名物为解释框架</text><line x1='380' y1='212' x2='380' y2='250' stroke='#4a7ba6' marker-end='url(#arL4)'/><rect x='150' y='254' width='460' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='276' text-anchor='middle' font-size='12' fill='#1c3a5c'>结果：遍注群经，经学第一次大整合</text><text x='380' y='295' text-anchor='middle' font-size='10' fill='#1e2d3d'>唐《五经正义》以其注为基础</text><text x='380' y='342' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：兼采为方法论主张的概括，具体取舍见各经注</text></svg>",
+   "svg_caption": "郑玄：今古文兼采的取舍结构（重构示意图）",
+   "sources": [
+    "ct-liji",
+    "ct-shiji",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-he-xiu",
+   "name": "何休",
+   "latin": "He Xiu",
+   "birth_year": 129,
+   "death_year": 182,
+   "birth_display": "129年",
+   "death_display": "182年",
+   "birth_note": "据《后汉书·儒林传》：生于永建四年（129），卒于光和五年（182）。",
+   "death_note": "同上；据《后汉书·儒林传》所记卒年，卒于光和五年（182）。",
+   "era": "东汉中后期。今文经学仍居学官，但古文经学声势渐盛；何休以“墨守”公羊家法自任，与郑玄等古文家往复辩难，是汉代今文经学最后的系统表述者。",
+   "school": "今文经学",
+   "core_questions": [
+    "《春秋》的“义”如何从记事中读出？",
+    "历史是否有阶段，阶段之间如何过渡？",
+    "面对古文经学的挑战，公羊家法如何自守？"
+   ],
+   "arguments": [
+    {
+     "claim": "三世说：历史依“所见—所闻—所传闻”而递进",
+     "premises": [
+      "《公羊传》以哀、定、昭为“所见”，襄、成、宣、文为“所闻”，僖、闵、庄、桓、隐为“所传闻”。",
+      "“于所传闻之世，见治起于衰乱之中”；“于所闻之世，见治升平”；“所见之世，著治太平”。"
+     ],
+     "inference": "若《春秋》的书法在三个时段有系统差异（如“内其国而外诸夏”→“内诸夏而外夷狄”→“夷狄进至于爵”），则这些差异指向一个治乱递进的图式。",
+     "conclusion": "历史有“衰乱—升平—太平”三阶段，《春秋》以书法指示这一进程。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“黜周王鲁”：以《春秋》当新王之制",
+     "premises": [
+      "公羊家认为孔子作《春秋》，托鲁为受命之王，以见“改制”之义。",
+      "“王者孰谓？谓文王也”等书法被解为寄托新制。"
+     ],
+     "inference": "若《春秋》只是鲁史实录，则其褒贬无普遍的制度意义；要有“一王之法”，须设定其托寄的对象。",
+     "conclusion": "《春秋》所寄者为新王之制，故可据以言“改制”。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《春秋公羊解诂》",
+     "edition": "《十三经注疏》本（何休解诂、徐彦疏）；中华书局影印阮元校刻本",
+     "note": "今文经学最重要的注本之一；三世说与“黜周王鲁”主要见隐公元年、桓公元年诸条"
+    },
+    {
+     "title": "《公羊墨守》《左氏膏肓》《谷梁废疾》",
+     "edition": "原书已佚，辑佚见《汉学堂丛书》等；郑玄的驳难见《发墨守》《针膏肓》《起废疾》",
+     "note": "今古文之争的直接文献，仅存片段"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "note": "公羊学的先驱，三世与改制之义的源头"
+    },
+    {
+     "name": "胡毋生、严彭祖一系",
+     "id": null,
+     "note": "公羊家法的传授谱系"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "清代今文经学（庄存与、刘逢禄、康有为）",
+     "id": null,
+     "note": "三世说被重新激活并与社会进化论结合"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "郑玄（古文经学）",
+     "view": "以《发墨守》《针膏肓》《起废疾》逐条驳难，指其说于文本无据、以义理强断史事。",
+     "response": "何休一系的回应是：《春秋》本非单纯记事，其书法自有褒贬；“于文无据”之讥，恰是把经当作史料而非经。",
+     "kind": "原文",
+     "sources": [
+      "ct-shiji",
+      "book-chan-sourcebook"
+     ]
+    },
+    {
+     "critic": "现代史学研究",
+     "view": "“黜周王鲁”“为汉制法”等说法是汉代公羊家为现实政治提供的合法化叙事，未必是《春秋》本义。",
+     "response": "公羊学的辩护是：经学本以“义”为务，其义在不同时代可有不同展开；把汉代的展开一律判为附会，会取消经学的解释传统。",
+     "kind": "后人解读",
+     "sources": [
+      "iep-chinese-philosophy",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "三世说是线性进步史观",
+     "why": "何休的三世以《春秋》所记二百四十二年为范围，是“书法”所显示的治疗递进，并非无限进步的历史哲学；与近代进化论的结合是清末的再解释。"
+    },
+    {
+     "claim": "何休主张孔子真的“黜周”",
+     "why": "“黜周王鲁”是就《春秋》的书法与托寄而言，属解释学层面的“当新王之制”，并非主张现实政治中废除周天子。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "于所传闻之世，见治起于衰乱之中",
+     "source_id": "ct-zuozhuan",
+     "locator": "《春秋公羊传》隐公元年何休解诂（文见《公羊》注疏）",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>何休：三世说的递进（示意）</text><defs><marker id='arL5' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='70' width='200' height='70' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='140' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>所传闻世</text><text x='140' y='114' text-anchor='middle' font-size='10' fill='#1e2d3d'>衰乱：治起于乱中</text><text x='140' y='131' text-anchor='middle' font-size='10' fill='#1e2d3d'>内其国而外诸夏</text><line x1='240' y1='105' x2='286' y2='105' stroke='#4a7ba6' marker-end='url(#arL5)'/><rect x='290' y='70' width='200' height='70' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='390' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>所闻世</text><text x='390' y='114' text-anchor='middle' font-size='10' fill='#1e2d3d'>升平：治道渐立</text><text x='390' y='131' text-anchor='middle' font-size='10' fill='#1e2d3d'>内诸夏而外夷狄</text><line x1='490' y1='105' x2='536' y2='105' stroke='#4a7ba6' marker-end='url(#arL5)'/><rect x='540' y='70' width='190' height='70' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='635' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>所见世</text><text x='635' y='114' text-anchor='middle' font-size='10' fill='#1e2d3d'>太平：夷狄进至于爵</text><text x='635' y='131' text-anchor='middle' font-size='10' fill='#1e2d3d'>内外无别</text><line x1='380' y1='140' x2='380' y2='180' stroke='#4a7ba6' marker-end='url(#arL5)'/><rect x='196' y='184' width='368' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='208' text-anchor='middle' font-size='13' fill='#1c3a5c'>推论：《春秋》书法有系统差异</text><text x='380' y='228' text-anchor='middle' font-size='10' fill='#1e2d3d'>故可据以言“一王之法”与改制</text><line x1='380' y1='244' x2='380' y2='282' stroke='#4a7ba6' marker-end='url(#arL5)'/><rect x='150' y='286' width='460' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='308' text-anchor='middle' font-size='12' fill='#1c3a5c'>结论：三世递进，黜周王鲁</text><text x='380' y='327' text-anchor='middle' font-size='10' fill='#1e2d3d'>此为书法之“义”，非史实层面的废周</text><text x='380' y='368' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：三世的分段与用语见《公羊传》何休解诂</text></svg>",
+   "svg_caption": "何休：三世递进与「一王之法」的推论（重构示意图）",
+   "sources": [
+    "ct-zuozhuan",
+    "ct-chunqiufanlu",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“黜周王鲁”“为汉制法”等命题的解释：公羊家内部与后世研究者对其是否《春秋》本义争议很大；本页按“汉代公羊学的解释主张”处理，不作《春秋》原意之断定。"
+  }
+ ],
+ "concepts": [
+  {
+   "id": "cn-lianghan-tianren",
+   "term": "天人感应",
+   "term_latin": "tianren ganying（resonance between Heaven and humanity）",
+   "definition": "认为天与人间秩序之间存在同类相应的关联，人的行为（尤其君主政治）会引发天象与自然的变化，灾异即天的谴告。",
+   "usages": [
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以“同类相动”立论，灾异为天的谴告，君主须“承天意以从事”，构成对君权的约束。"
+    },
+    {
+     "name": "王充",
+     "id": "cn-lianghan-wang-chong",
+     "usage": "否定此说：天是物质性的体，无口目无知觉，灾异只是阴阳之气的偶变，与人事无涉。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-qi",
+    "cn-lianghan-chenwei"
+   ],
+   "example": {
+    "text": "董仲舒以《春秋》所记日食、地震与政事的对应立说，认为“国家将有失道之败，而天乃先出灾害以谴告之”，把自然异常读作政治批评的信号。",
+    "figure": "董仲舒",
+    "locator": "《汉书·董仲舒传》对策"
+   },
+   "sources": [
+    "ct-chunqiufanlu",
+    "ct-lunheng",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-qi",
+   "term": "气",
+   "term_latin": "qi（vital stuff / material force）",
+   "definition": "构成万物的基本质料与动力，兼具物质性与生成性；汉代思想以气说明自然变化、人的形神与政治的感应。",
+   "usages": [
+    {
+     "name": "王充",
+     "id": "cn-lianghan-wang-chong",
+     "usage": "气是自然的质料，天即“体”，万物由气之聚散而生灭；“气自然”故无意志、无谴告。"
+    },
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "气分阴阳，随政治得失而“乱”，故灾异可由气之失序解释，天人之感应即气之感应。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-tianren",
+    "cn-lianghan-xingsanpin"
+   ],
+   "example": {
+    "text": "王充以“气”解释雷电：阳气激荡、阴阳相薄而成，非天怒所致；他以此反驳把自然现象当作天意的解读。",
+    "figure": "王充",
+    "locator": "《论衡·雷虚》"
+   },
+   "sources": [
+    "ct-lunheng",
+    "ct-chunqiufanlu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-chenwei",
+   "term": "谶纬",
+   "term_latin": "chenwei（prognostic and apocryphal texts）",
+   "definition": "汉代流行的预言性文本（谶）与对经书的附会性解释（纬），以隐语、图记与灾异推演政治吉凶，东汉时一度具有准经典地位。",
+   "usages": [
+    {
+     "name": "王充",
+     "id": "cn-lianghan-wang-chong",
+     "usage": "以“疾虚妄”为务，指谶纬之说多无可检验的证据，属人意的附会。"
+    },
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "其灾异谴告说为谶纬提供了宇宙论框架，但董氏本人以《春秋》义理为据，与后起的图谶有距离。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-tianren",
+    "cn-lianghan-weiyandayi"
+   ],
+   "example": {
+    "text": "东汉光武帝以《赤伏符》的谶语为受命依据，即位后“宣布图谶于天下”，使谶纬成为官方学说的一部分；王充《论衡》则逐条质疑此类文本。",
+    "figure": "王充",
+    "locator": "《论衡·实知》《卜筮》等篇"
+   },
+   "sources": [
+    "ct-lunheng",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-xingsanpin",
+   "term": "性三品",
+   "term_latin": "xing san pin（three grades of human nature）",
+   "definition": "把人性分为圣人之性、中民之性、斗筲之性三等，认为教化主要对“中民”有效；是汉代人性论与教化论的框架。",
+   "usages": [
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以“茧待缲而后能为丝”喻中民之性待教而成善，故教化有明确的对象与限度。"
+    },
+    {
+     "name": "王充",
+     "id": "cn-lianghan-wang-chong",
+     "usage": "在《本性》篇评述诸家人性说，认为人性有善恶不等，教化可移“中人”而难改极善极恶者。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-qi",
+    "cn-lianghan-weiyandayi"
+   ],
+   "example": {
+    "text": "董仲舒以天道有阴阳、人有贪仁为据，说明性中含善质亦有情欲，教化即“继天而成性”，而非无中生有地造出善。",
+    "figure": "董仲舒",
+    "locator": "《春秋繁露·深察名号》"
+   },
+   "sources": [
+    "ct-chunqiufanlu",
+    "ct-lunheng",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-weiyandayi",
+   "term": "微言大义",
+   "term_latin": "weiyan dayi（subtle words, great meaning）",
+   "definition": "今文经学的解经主张：经典（尤其《春秋》）以简省的书法寄寓褒贬与制度大义，读者须从字句的细微差异中读出“义”。",
+   "usages": [
+    {
+     "name": "何休",
+     "id": "cn-lianghan-he-xiu",
+     "usage": "以三世与“黜周王鲁”为《春秋》的“义”，认为书法差异指示治乱阶段。"
+    },
+    {
+     "name": "郑玄",
+     "id": "cn-lianghan-zheng-xuan",
+     "usage": "不否认经有义理，但主张先正文字、明制度名物，义理须由训诂与礼制推出。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-chenwei",
+    "cn-lianghan-xingsanpin"
+   ],
+   "example": {
+    "text": "《春秋》记“郑伯克段于鄢”，公羊家从“克”字读出“杀之”之意，认为书法本身即褒贬所在；古文家则更重史事与地名制度的考订。",
+    "figure": "何休",
+    "locator": "《春秋公羊传》隐公元年"
+   },
+   "sources": [
+    "ct-zuozhuan",
+    "ct-shiji",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-sangang",
+   "term": "三纲",
+   "term_latin": "san gang（three bonds）",
+   "definition": "君为臣纲、父为子纲、夫为妻纲的伦常结构；汉代以阴阳之道为其宇宙论根据，成为后世礼法秩序的基本表述。",
+   "usages": [
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以阴阳说明君臣父子的主从关系，认为“王道之三纲，可求于天”。"
+    },
+    {
+     "name": "王充",
+     "id": "cn-lianghan-wang-chong",
+     "usage": "不以此类宇宙论论证伦常，转而以“气”与“命”解释人事，对以天道证名分持保留态度。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-tianren",
+    "cn-lianghan-weiyandayi"
+   ],
+   "example": {
+    "text": "董仲舒说“君臣父子夫妇之义，皆取诸阴阳之道”，把家庭与政治中的主从关系安放在宇宙论结构里，使其成为“天”所规定的秩序。",
+    "figure": "董仲舒",
+    "locator": "《春秋繁露·基义》"
+   },
+   "sources": [
+    "ct-chunqiufanlu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-ji-xuwang",
+   "term": "疾虚妄",
+   "term_latin": "ji xuwang（condemning the false and absurd）",
+   "definition": "王充提出的学术态度：对无证据、与物性相违的说法加以辨正，以“效验”为标准判断真伪。",
+   "usages": [
+    {
+     "name": "王充",
+     "id": "cn-lianghan-wang-chong",
+     "usage": "以“事莫明于有效，论莫定于有证”为方法，逐条驳斥谴告、禁忌、鬼说与谶纬。"
+    },
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "相反取向：以《春秋》义例与天人相与为据，承认灾异可作为政治解读的对象，不以此类说法为“虚妄”。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-chenwei",
+    "cn-lianghan-qi"
+   ],
+   "example": {
+    "text": "《论衡·雷虚》以“雷者，火也”立论，举人被雷击后的灼痕、金属熔化的现象为证，反驳“天怒而雷杀”的说法。",
+    "figure": "王充",
+    "locator": "《论衡·雷虚》"
+   },
+   "sources": [
+    "ct-lunheng",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-yinyang-wuxing",
+   "term": "阴阳五行",
+   "term_latin": "yinyang wuxing（yin-yang and the five phases）",
+   "definition": "以阴阳二气的消长与五行（木火土金水）的生克解释自然、人体与朝代更替的分类框架；汉代经学把它纳入儒家宇宙论。",
+   "usages": [
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以阴阳五行为天人感应的媒介，把政治失序解释为气之失序、五行之失职。"
+    },
+    {
+     "name": "王充",
+     "id": "cn-lianghan-wang-chong",
+     "usage": "承认万物由气构成，但反对以五行生克推演人事吉凶，认为“五行之气”不能有意相报。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-qi",
+    "cn-lianghan-tianren"
+   ],
+   "example": {
+    "text": "董仲舒以“木”配春、配仁、配东方，以“金”配秋、配义、配西方；政令若违时令（如春行秋令），即被解释为五行失序而致灾。",
+    "figure": "董仲舒",
+    "locator": "《春秋繁露·五行之义》"
+   },
+   "sources": [
+    "ct-chunqiufanlu",
+    "ct-lunheng",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "debates": [
+  {
+   "id": "cn-lianghan-tianren-debate",
+   "title": "天人感应是否成立",
+   "question": "天会不会因政治的得失而降下灾异以示谴告？",
+   "positions": [
+    {
+     "holder": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "stance": "成立，灾异即谴告",
+     "reasons": [
+      "“以类合之，天人一也”，天与人在结构上相应，故人的行为会在天象中获得回应。",
+      "谴告说为君主提供了敬畏与自我约束的机制，也为民间的政治批评留下通道。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "王充",
+     "id": "cn-lianghan-wang-chong",
+     "stance": "不成立，天道自然无为",
+     "reasons": [
+      "“天，体也，与地同”，无口目无知觉，不能有意图地示警。",
+      "灾异可由阴阳之气的偶变说明，无需设定一个有意愿的天。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点是“天”是否具有知觉与意图：若天是物质性的体，则谴告无从成立；若天以“同类相动”的方式与人事相关，则谴告不必依赖天的人格性。两方对“感应”的机制理解不同。",
+   "status": "无定论",
+   "status_note": "汉代以后谴告说仍是政治批评的常用话语，而王充的批评则被视为古代实证倾向的代表；现代研究多认为二者争论的层次不同（目的论 vs 机械论），未必构成同一命题的正反。",
+   "sources": [
+    "ct-chunqiufanlu",
+    "ct-lunheng",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-jinguwen",
+   "title": "今文经学与古文经学之争",
+   "question": "经书的权威应建立在师法传承与“微言大义”上，还是建立在文本考订与名物制度上？",
+   "positions": [
+    {
+     "holder": "今文家（董仲舒、何休）",
+     "id": "cn-lianghan-he-xiu",
+     "stance": "以微言大义与家法为经学的核心",
+     "reasons": [
+      "经之所以为经，在于其寓褒贬、立制度（《春秋》三世、改制）。",
+      "师法家法保证了解释的连续性与权威性。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "古文家（刘歆、郑玄）",
+     "id": "cn-lianghan-zheng-xuan",
+     "stance": "以文本、训诂与制度考订为先",
+     "reasons": [
+      "经文的异文与制度名物须先厘清，否则义理无所依附。",
+      "家法不能成为免除论证的理由，择善而从方合于经。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点是“经的权威来自哪里”：来自传承的师法，还是来自可检验的文本与制度？这决定了注经的方法（章句 vs 训诂）与经学的政治功能。",
+   "status": "已有定论（历史层面），学理层面仍有讨论",
+   "status_note": "东汉以后古文经学在学官与注疏传统中占据优势，郑玄兼采今古使对立减弱；清代今文经学复兴（庄存与、刘逢禄、康有为）使争论重现，但“何者为真经”的问题已转为文献学与思想史问题。",
+   "sources": [
+    "ct-shiji",
+    "ct-chunqiufanlu",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-xingjiao",
+   "title": "人性三品与教化的限度",
+   "question": "教化对所有人都有效，还是只对“中民”有效？",
+   "positions": [
+    {
+     "holder": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "stance": "性分三品，教化主要针对中民",
+     "reasons": [
+      "“圣人之性”不待教而善，“斗筲之性”教而不能为善。",
+      "中民之性如茧待缲，须待教而后成善。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "王充",
+     "id": "cn-lianghan-wang-chong",
+     "stance": "人性有善恶不等，教化可移中人",
+     "reasons": [
+      "《本性》评述诸家，认为人性“有善有恶”，非一律可教。",
+      "极善极恶者难以移易，唯中人可教。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点是“性”的差异是程度上的（同一本性的不同表现）还是种类上的（三类不同本性）；若为后者，则教化论必须限定其对象，政治也就不能以“人人可成圣”为前提。",
+   "status": "无定论",
+   "status_note": "汉代以后，性三品说经韩愈《原性》而系统化，宋明理学则以“天地之性/气质之性”重述同一问题；孟子一系的性善论最终在宋以后居主流，但“教化限度”的问题未被取消。",
+   "sources": [
+    "ct-chunqiufanlu",
+    "ct-lunheng",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ]
+}
