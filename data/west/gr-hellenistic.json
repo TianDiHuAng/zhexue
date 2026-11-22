@@ -1529,6 +1529,149 @@
      "note": "中世纪逻辑学与共相问题的起点"
     }
    ]
+  },
+  {
+   "id": "gr-hellenistic-origen",
+   "name": "奥利金",
+   "latin": "Origen of Alexandria",
+   "birth_year": 185,
+   "death_year": 253,
+   "birth_display": "约185年",
+   "death_display": "约253年",
+   "birth_note": "生于亚历山大里亚；据尤西比乌《教会史》，父为殉道者。",
+   "death_note": "约253年卒于推罗；德西乌斯迫害中受刑，不久去世。",
+   "era": "罗马帝国三世纪。奥利金在亚历山大里亚主持教理学校，以寓意解经与自由意志论著称；其《六经合璧》为最早的圣经校勘工作。",
+   "school": "教父哲学（亚历山大学派）",
+   "core_questions": [
+    "圣经的字面与属灵意义如何统一？",
+    "自由意志与神的预知如何相容？",
+    "万物最终是否都会得救？"
+   ],
+   "arguments": [
+    {
+     "claim": "解经须区分字面义与属灵义",
+     "premises": [
+      "经文有些地方字面不通（如命令的字面执行会荒谬）。",
+      "圣经由圣灵默示，故必有更深的意义。"
+     ],
+     "inference": "若字面义普遍可行，则不需属灵义；而字面义常不可行，故须以寓意解释指向基督与灵魂的秩序。",
+     "conclusion": "解经有三重意义（字面、道德、属灵），须以信仰的类比为准则。",
+     "kind": "原文"
+    },
+    {
+     "claim": "自由意志是真实的，恶来自自由选择",
+     "premises": [
+      "受造物若没有自由，则不能真正地爱神，也不能被称义或定罪。",
+      "恶不是实体，而是善的缺失与自由意志的误用。"
+     ],
+     "inference": "若恶有实体，则它出自神，这与神的善相违；故恶只能是自由意志的偏离。",
+     "conclusion": "自由意志使人可转向善，也使恶成为可能。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论首要原理》《驳凯尔苏斯》《六经合璧》",
+     "edition": "《论首要原理》英译见 Butterworth；《驳凯尔苏斯》Loeb 版",
+     "note": "《论首要原理》为其体系纲要；《六经合璧》仅存残片"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "克莱门特与亚历山大学派",
+     "id": null,
+     "note": "寓意解经与希腊哲学的训练"
+    },
+    {
+     "name": "柏拉图主义与斯多亚派",
+     "id": null,
+     "note": "自由意志与宇宙论的概念资源"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "卡帕多西亚教父（巴西尔、格里高利）",
+     "id": null,
+     "note": "承其解经与神学方法"
+    },
+    {
+     "name": "中世纪神秘主义",
+     "id": null,
+     "note": "属灵解经与“万物复归”说"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后世教会（553年君士坦丁堡会议）",
+     "view": "其“万物复归”（apokatastasis）与灵魂先存说被指为异端。",
+     "response": "奥利金一系的回应是：复归说以自由意志为前提，并非必然得救论；其表述或有夸张，但核心是神的善终将胜出。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-origen",
+      "book-gilson-medieval"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "奥利金主张人人必然得救",
+     "why": "其“复归”说以自由意志为前提，是一种希望而非必然论；后世对此有争议。"
+    },
+    {
+     "claim": "寓意解经等于随意解释",
+     "why": "他主张以信仰的类比与整体经文为准则，寓意须与基督论一致，并非任意。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>奥利金：三重意义与自由意志</text><defs><marker id='aOR' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>字面常不可行</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故必有属灵义</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>三重意义（字面/道德/属灵）</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>恶是善的缺失与自由误用</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aOR)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aOR)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "奥利金：解经原则与自由意志（示意图）",
+   "sources": [
+    "sep-origen",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": true,
+   "pending_notes": "奥利金的原著多有散佚或仅存拉丁译本（鲁菲努斯译本有删改）；“万物复归”与灵魂先存说的原貌有讨论。",
+   "doctrine": {
+    "summary": "奥利金以寓意解经与自由意志论建立亚历山大学派的神学：圣经有三重意义（字面、道德、属灵），须以信仰的类比为准则；恶不是实体而是善的缺失与自由意志的误用，故人须为自己的选择负责。其“万物复归”说以自由为前提，后世被指为异端，但其解经方法与问题意识影响深远。",
+    "system": [
+     {
+      "name": "三重意义",
+      "content": "字面义常不可行，故须以属灵义指向基督与灵魂秩序。"
+     },
+     {
+      "name": "自由意志",
+      "content": "无自由则不能真正爱神；恶是善的缺失与自由的误用。"
+     },
+     {
+      "name": "万物复归",
+      "content": "神的善终将胜出，但以自由意志的转向为前提（后世争议）。"
+     },
+     {
+      "name": "圣经校勘",
+      "content": "《六经合璧》并置多种译本与希伯来文本，为最早的校勘工作。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "亚历山大里亚（约202—231）",
+      "change": "主持教理学校；以寓意解经与苦修生活著称。"
+     },
+     {
+      "period": "凯撒利亚与推罗（231—253）",
+      "change": "因争执转居凯撒利亚，著《驳凯尔苏斯》；德西乌斯迫害中受刑去世。"
+     }
+    ],
+    "reception": "其解经方法经卡帕多西亚教父传承；553年部分主张被谴责，但东方教会对其评价较复杂；现代研究重估其自由意志论与普救论。"
+   },
+   "works_detail": [
+    {
+     "title": "《论首要原理》",
+     "structure": "四卷：论神与基督、论世界与受造物、论自由意志、论圣经解释。",
+     "core_thesis": "三重意义；自由意志；恶为善的缺失。",
+     "editions": "英译 Butterworth（Origen: On First Principles）；希腊原文残，拉丁译本有删改",
+     "note": "系统神学的早期纲要；鲁菲努斯译本需谨慎使用"
+    }
+   ]
   }
  ],
  "concepts": [

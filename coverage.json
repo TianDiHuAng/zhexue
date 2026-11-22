@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-22",
  "totals": {
-  "entries": 380,
+  "entries": 383,
   "by_level": {
-   "L2": 326,
-   "L1": 54
+   "L2": 328,
+   "L1": 55
   },
   "doctrine": {
-   "total": 121,
-   "detail": 121,
+   "total": 124,
+   "detail": 124,
    "auto": 0
   },
-  "needs_verification": 54,
+  "needs_verification": 55,
   "sources": 224,
   "sources_verified": 208
  },
@@ -74,10 +74,10 @@
    "unit_id": "gr-19c",
    "title": "19世纪哲学",
    "region": "west",
-   "philosophers": 8,
+   "philosophers": 9,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 0"
+   "philosophers_slot": "8 上限，余 -1"
   },
   {
    "unit_id": "gr-20c",
@@ -119,19 +119,19 @@
    "unit_id": "gr-hellenistic",
    "title": "希腊化与罗马哲学",
    "region": "west",
-   "philosophers": 10,
+   "philosophers": 11,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -2"
+   "philosophers_slot": "8 上限，余 -3"
   },
   {
    "unit_id": "gr-medieval",
    "title": "中世纪经院哲学",
    "region": "west",
-   "philosophers": 8,
+   "philosophers": 9,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 0"
+   "philosophers_slot": "8 上限，余 -1"
   },
   {
    "unit_id": "gr-modern",
@@ -1619,6 +1619,17 @@
    "updated": "2026-11-22"
   },
   {
+   "id": "gr-19c-spencer",
+   "type": "philosopher",
+   "title": "斯宾塞",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
    "id": "gr-19c-will",
    "type": "concept",
    "title": "意志",
@@ -2840,6 +2851,17 @@
    "updated": "2026-11-22"
   },
   {
+   "id": "gr-hellenistic-origen",
+   "type": "philosopher",
+   "title": "奥利金",
+   "container": "gr-hellenistic",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-22"
+  },
+  {
    "id": "gr-hellenistic-supreme-good",
    "type": "concept",
    "title": "至善",
@@ -3063,6 +3085,17 @@
    "id": "gr-medieval-ockham",
    "type": "philosopher",
    "title": "奥卡姆的威廉",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-medieval-maimonides",
+   "type": "philosopher",
+   "title": "迈蒙尼德",
    "container": "gr-medieval",
    "level": "L2",
    "sources": 3,

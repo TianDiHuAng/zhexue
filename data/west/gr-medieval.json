@@ -1595,6 +1595,145 @@
      "note": "中世纪语义学的高峰"
     }
    ]
+  },
+  {
+   "id": "gr-medieval-maimonides",
+   "name": "迈蒙尼德",
+   "latin": "Moses Maimonides (Rambam)",
+   "birth_year": 1138,
+   "death_year": 1204,
+   "birth_display": "1138年",
+   "death_display": "1204年",
+   "birth_note": "生于科尔多瓦；据其生平与书信，因阿尔摩哈德迫害而辗转流亡。",
+   "death_note": "1204年卒于开罗（福斯塔特）。",
+   "era": "12世纪伊斯兰世界的犹太哲学高峰。迈蒙尼德在开罗行医并任犹太社群领袖，以阿拉伯语著《迷途指津》，调和亚里士多德哲学与犹太教义。",
+   "school": "犹太经院哲学（亚里士多德主义）",
+   "core_questions": [
+    "如何以哲学语言谈论超越的神？",
+    "神的“属性”能否被肯定？",
+    "哲学与律法（托拉）是否冲突？"
+   ],
+   "arguments": [
+    {
+     "claim": "对神只能作否定性的述说",
+     "premises": [
+      "神的单纯性排斥任何复合，而一切肯定属性都引入复合。",
+      "受造物的语言来自经验世界，无法正面描述超越者。"
+     ],
+     "inference": "若肯定属性使神成为复合，则须以否定（神不是有限的、不是多、不是可变的）来接近神。",
+     "conclusion": "关于神的正确言说是“否定神学”：知道神不是什么，而不知神是什么。",
+     "kind": "原文"
+    },
+    {
+     "claim": "哲学与律法不冲突：律法有双重目的",
+     "premises": [
+      "律法既关涉灵魂的完善（真理），也关涉身体的完善（社会秩序）。",
+      "亚里士多德哲学揭示了自然与灵魂的真理。"
+     ],
+     "inference": "若二者目的不同而不矛盾，则哲学可解释律法的合理性，律法为哲学提供实践框架。",
+     "conclusion": "《迷途指津》为“困惑者”而写：以哲学解释律法，而不取消律法。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《迷途指津》",
+     "edition": "中译参傅有德等译，山东大学出版社；英译 Pines（Chicago）",
+     "note": "阿拉伯语原著；三部分，论神、预言与天意、律法"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "亚里士多德与法拉比",
+     "id": null,
+     "note": "形而上学与政治哲学框架"
+    },
+    {
+     "name": "伊斯兰神学（凯拉姆）",
+     "id": null,
+     "note": "关于神属性与创造的论辩"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "托马斯·阿奎那",
+     "id": "gr-medieval-aquinas",
+     "note": "否定神学与“神之单纯性”"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "传统派拉比",
+     "view": "以哲学解释律法削弱了律法的权威，甚至危及信仰的单纯。",
+     "response": "迈蒙尼德的回应是：哲学解释是为困惑者清除障碍，律法的实践义务并未改变。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-maimonides",
+      "book-gilson-medieval"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "迈蒙尼德是纯哲学家，不信神迹",
+     "why": "他保留创造与预言，只是以哲学语言重新解释；其立场是调和而非取代。"
+    },
+    {
+     "claim": "否定神学等于无神论",
+     "why": "否定神学强调神的超越性，并非否认神；它反对的是把人间的属性加于神。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>迈蒙尼德：否定神学与哲学—律法</text><defs><marker id='aMM' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>神是单纯的</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故一切肯定属性引入复合</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故只能否定地述说</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>哲学解释律法而不取消之</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aMM)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aMM)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "迈蒙尼德：否定神学与哲学—律法的调和（示意图）",
+   "sources": [
+    "sep-maimonides",
+    "sep-aquinas",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "迈蒙尼德以否定神学与哲学—律法的调和为核心：神的单纯性排斥一切复合，故对神的肯定属性会引入复合，只能以否定方式接近神（神不是有限的、不是多、不是可变的）。他又主张律法有双重目的（灵魂的完善与社会秩序的完善），哲学可解释律法的合理性而不取消其义务。",
+    "system": [
+     {
+      "name": "否定神学",
+      "content": "一切肯定属性都引入复合；故只能述说神“不是什么”。"
+     },
+     {
+      "name": "神的单纯性",
+      "content": "神非复合、非有形、非多变；这是其神学的基石。"
+     },
+     {
+      "name": "律法的双重目的",
+      "content": "灵魂的完善（真理）与身体的完善（社会秩序）。"
+     },
+     {
+      "name": "为困惑者写作",
+      "content": "《迷途指津》以哲学清除信仰障碍，而非取代律法。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "科尔多瓦与流亡（1138—1165）",
+      "change": "因阿尔摩哈德迫害离开安达卢斯，辗转至埃及。"
+     },
+     {
+      "period": "开罗时期（1165—1204）",
+      "change": "行医、任社群领袖；著《迷途指津》（约1190）、《密西纳托拉评注》。"
+     }
+    ],
+    "reception": "其否定神学影响阿奎那与中世纪经院；《迷途指津》是犹太哲学的巅峰之作；现代研究关注其哲学与律法的关系。"
+   },
+   "works_detail": [
+    {
+     "title": "《迷途指津》",
+     "structure": "三部分：论神与属性、论预言与天意、论律法与目的。",
+     "core_thesis": "否定神学；神的单纯性；律法的双重目的。",
+     "editions": "傅有德等译山东大学出版社；Pines 英译（Chicago）",
+     "note": "阿拉伯语原著；为“困惑者”而写"
+    }
+   ]
   }
  ],
  "concepts": [
