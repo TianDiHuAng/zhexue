@@ -1,14 +1,14 @@
 {
  "generated": "2026-11-22",
  "totals": {
-  "entries": 329,
+  "entries": 338,
   "by_level": {
-   "L2": 282,
-   "L1": 47
+   "L2": 290,
+   "L1": 48
   },
-  "needs_verification": 47,
-  "sources": 209,
-  "sources_verified": 193
+  "needs_verification": 48,
+  "sources": 214,
+  "sources_verified": 198
  },
  "units": [
   {
@@ -69,10 +69,10 @@
    "unit_id": "gr-19c",
    "title": "19世纪哲学",
    "region": "west",
-   "philosophers": 7,
+   "philosophers": 8,
    "concepts": 8,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 1"
+   "philosophers_slot": "8 上限，余 0"
   },
   {
    "unit_id": "gr-20c",
@@ -96,19 +96,19 @@
    "unit_id": "gr-contemp",
    "title": "当代哲学",
    "region": "west",
-   "philosophers": 7,
+   "philosophers": 8,
    "concepts": 8,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 1"
+   "philosophers_slot": "8 上限，余 0"
   },
   {
    "unit_id": "gr-german",
    "title": "德国古典哲学",
    "region": "west",
-   "philosophers": 6,
+   "philosophers": 7,
    "concepts": 9,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 2"
+   "philosophers_slot": "8 上限，余 1"
   },
   {
    "unit_id": "gr-hellenistic",
@@ -1515,6 +1515,17 @@
    "updated": "2026-11-22"
   },
   {
+   "id": "gr-19c-bentham",
+   "type": "philosopher",
+   "title": "边沁",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
    "id": "gr-19c-will",
    "type": "concept",
    "title": "意志",
@@ -2164,6 +2175,17 @@
    "updated": "2026-11-22"
   },
   {
+   "id": "gr-contemp-davidson",
+   "type": "philosopher",
+   "title": "戴维森",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
    "id": "gr-contemp-veil",
    "type": "concept",
    "title": "无知之幕",
@@ -2347,6 +2369,17 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-german-novalis",
+   "type": "philosopher",
+   "title": "诺瓦利斯",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": false,
    "updated": "2026-11-22"
   },
@@ -3245,6 +3278,72 @@
    "id": "work-being-time",
    "type": "work",
    "title": "《存在与时间》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "work-zhaolun",
+   "type": "work",
+   "title": "《肇论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "work-chengweishi",
+   "type": "work",
+   "title": "《成唯识论》",
+   "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "work-summa",
+   "type": "work",
+   "title": "《神学大全》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "work-treatise-human-nature",
+   "type": "work",
+   "title": "《人性论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "work-phenomenology-spirit",
+   "type": "work",
+   "title": "《精神现象学》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "work-being-nothingness",
+   "type": "work",
+   "title": "《存在与虚无》",
    "container": "west",
    "level": "L2",
    "sources": 2,

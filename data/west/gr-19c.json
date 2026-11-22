@@ -793,6 +793,137 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-19c-bentham",
+   "name": "边沁",
+   "latin": "Jeremy Bentham",
+   "birth_year": 1748,
+   "death_year": 1832,
+   "birth_display": "1748年",
+   "death_display": "1832年",
+   "birth_note": "生于伦敦斯皮塔佛德；据其自传与生平材料，父为律师。",
+   "death_note": "1832年卒于伦敦；遗体制成“自动像”（Auto-Icon）存于伦敦大学学院。",
+   "era": "英国工业革命初期与议会改革前夜。边沁受法律训练，却以“功利原理”重写法理学与刑罚理论；他参与监狱（全景敞视监狱 Panopticon）方案与法典编纂，是系统性的社会改革者。",
+   "school": "功利主义",
+   "core_questions": [
+    "法律与道德应以什么为最终标准？",
+    "刑罚的正当性根据是什么？",
+    "“自然权利”能否作为论证的起点？"
+   ],
+   "arguments": [
+    {
+     "claim": "功利原理：以最大幸福为是非标准",
+     "premises": [
+      "人受快乐与痛苦支配，二者是行为的唯一实际动机。",
+      "任何行为或制度的效果都可按其增减的幸福总量衡量。"
+     ],
+     "inference": "若苦乐是唯一可比较的最终价值，则以“最大多数人的最大幸福”为标准，可使道德与立法有统一的裁决尺度，而不再诉诸直觉或传统。",
+     "conclusion": "功利原理是个人行为与政府立法的最高标准。",
+     "kind": "原文"
+    },
+    {
+     "claim": "快乐计算法：以七个维度比较苦乐",
+     "premises": [
+      "苦乐不是笼统的量，它在强度、持续、确实性、远近、繁衍性、纯粹性与广度上可分别评估。",
+      "立法者据此可估算某一法案对共同体幸福的总影响。"
+     ],
+     "inference": "若苦乐可在这些维度上被比较，则“最大幸福”不是空洞口号，而可成为可操作的立法技术（尽管只是粗略的估算）。",
+     "conclusion": "以七维度计算苦乐，是功利原理的实践形式。",
+     "kind": "原文"
+    },
+    {
+     "claim": "自然权利是“踩着高跷的胡话”",
+     "premises": [
+      "“自然权利”声称先于法律而存在，却无法被观察或证明。",
+      "可被援引为反对一切现存法律的绝对理由。"
+     ],
+     "inference": "若一项主张既不可证、又被用来否定一切实证法，则它在论证中无法承担任何确定作用；真正的根据应是功利。",
+     "conclusion": "权利须由法律（以功利为根据）授予，而非作为自然的先验前提。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《道德与立法原理导论》",
+     "edition": "时殷弘译，商务印书馆；英文本以 Bowring 编《Works》为准",
+     "note": "1789 年；功利原理与快乐计算法的核心文本"
+    },
+    {
+     "title": "《政府片论》《为法案辩护》",
+     "edition": "英文本见 Bowring 编《Works》；中译参《政府片论》，商务印书馆",
+     "note": "法理学与主权论"
+    },
+    {
+     "title": "《全景敞视监狱》（Panopticon）书信集",
+     "edition": "英文本见 Bowring 编《Works》第四卷",
+     "note": "监狱改革方案；后被福柯作为“规训”的范例引用"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "休谟与哈特利（联想主义）",
+     "id": null,
+     "note": "苦乐为动机的经验论前提"
+    },
+    {
+     "name": "贝卡里亚《论犯罪与刑罚》",
+     "id": null,
+     "note": "刑罚的功利与预防理论"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "密尔",
+     "id": "gr-19c-mill",
+     "note": "承其功利原理并作质的修正"
+    },
+    {
+     "name": "奥斯丁与分析法理学",
+     "id": null,
+     "note": "主权命令说与法理学的实证主义转向"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "密尔（修正性回应）",
+     "view": "边沁的快乐只有量的差别，无法说明为何思想快乐高于感官快乐，故“猪的哲学”之讥落在其头上。",
+     "response": "边沁一系的回应是：量的计算并非否认质的存在，而是要求一切价值都能被比较；若拒绝可比较性，则公共决策失去尺度。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-bentham",
+      "sep-mill"
+     ]
+    },
+    {
+     "critic": "权利论者（如后世自然权利与人权论）",
+     "view": "以功利为唯一标准，会使少数人的权利在“最大幸福”名义下被牺牲。",
+     "response": "边沁式的回应是：权利若不能落实为可执行的法律保护，只是修辞；而长期功利恰恰要求稳定的权利保障——这一回应引出规则功利主义。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-bentham",
+      "sep-mill"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "边沁主张“个人可以为了多数人的幸福被随意牺牲”",
+     "why": "他要求立法者按“最大幸福”制定普遍规则，而非逐事权衡；规则层面的功利主义可容纳对个人的保护。此外他明确反对以任何不可计算的先验理由立法。"
+    },
+    {
+     "claim": "边沁的功利主义只关心物质享乐",
+     "why": "“幸福”在其计算中包括安全、平等与生存等维度；他把安全视为立法首要目标，而非单纯追求感官快乐。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>边沁：功利原理与计算法（示意）</text><defs><marker id='a694' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='46' y='56' width='210' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='151' y='78' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提：苦乐为唯一动机</text><text x='151' y='98' text-anchor='middle' font-size='10' fill='#1e2d3d'>增减幸福可衡量</text><rect x='504' y='56' width='210' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='609' y='78' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提：苦乐可多维比较</text><text x='609' y='98' text-anchor='middle' font-size='10' fill='#1e2d3d'>强度·持续·确实·远近…</text><rect x='244' y='150' width='272' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='172' text-anchor='middle' font-size='12' fill='#1c3a5c'>结论：以最大幸福为标准</text><text x='380' y='192' text-anchor='middle' font-size='10' fill='#1e2d3d'>立法与道德的统一尺度</text><rect x='150' y='250' width='460' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='272' text-anchor='middle' font-size='12' fill='#1c3a5c'>实践：七维度快乐计算 → 法案评估</text><text x='380' y='292' text-anchor='middle' font-size='10' fill='#1e2d3d'>粗略估算而非精确计量</text><text x='380' y='382' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：七维度与“最大幸福”均为原文，图示为重构</text></svg>",
+   "sources": [
+    "sep-bentham",
+    "sep-mill"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "concepts": [
