@@ -874,62 +874,44 @@
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>康有为：三世、托古与大同（示意）</text><defs><marker id='ar' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='84' width='200' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='130' y='108' text-anchor='middle' font-size='13' fill='#1e2d3d'>据乱世：小康</text><text x='130' y='128' text-anchor='middle' font-size='11' fill='#1e2d3d'>竞争未息，界未破</text><line x1='230' y1='113' x2='276' y2='113' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='280' y='84' width='200' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='108' text-anchor='middle' font-size='13' fill='#1e2d3d'>升平世：君主立宪</text><text x='380' y='128' text-anchor='middle' font-size='11' fill='#1e2d3d'>去其太甚之界</text><line x1='480' y1='113' x2='526' y2='113' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='530' y='84' width='200' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='630' y='108' text-anchor='middle' font-size='13' fill='#1e2d3d'>太平世：大同</text><text x='630' y='128' text-anchor='middle' font-size='11' fill='#1e2d3d'>去九界，天下为公</text><rect x='40' y='250' width='210' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='274' text-anchor='middle' font-size='13' fill='#1e2d3d'>托古改制</text><text x='145' y='294' text-anchor='middle' font-size='11' fill='#1e2d3d'>六经为孔子所作</text><line x1='145' y1='250' x2='128' y2='146' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='510' y='250' width='215' height='54' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='617' y='274' text-anchor='middle' font-size='13' fill='#1e2d3d'>大同：公养公教公恤</text><text x='617' y='294' text-anchor='middle' font-size='11' fill='#1e2d3d'>国界、家界皆去</text><line x1='617' y1='250' x2='630' y2='146' stroke='#4a7ba6' marker-end='url(#ar)'/><text x='380' y='348' text-anchor='middle' font-size='11' fill='#1e2d3d'>孔子改制立其据，三世次第定其序</text><text x='380' y='374' text-anchor='middle' font-size='11' fill='#1e2d3d'>故变法非弃经，乃行经</text></svg>",
    "svg_caption": "康有为三世说与托古改制的结构（示意）",
    "doctrine": {
-    "summary": "康有为的核心问题可以概括为：孔子是史家还是改制立教的“素王”？；历史是否按三世次第可推，变法能否躐等？；列国竞争之世，中国凭什么立“教”以自存？。本页据既有论点的材料汇编其学说主干——他主张：公羊三世：据乱—升平—太平；托古改制：六经为孔子所作；立孔教以维系群之魂；大同：去九界而至太平。以下“支柱”“分期”“接受史”均由本页论点、著作与批评条目汇编而成，读者可回到第三节核对每一论点的前提与推理。",
+    "summary": "康有为以今文经学倡“托古改制”：借公羊三世说（据乱—升平—太平）论证变法与大同的必然，著《大同书》描绘无国界、无阶级的理想社会；他推动“孔教运动”，主张以孔教为国教。其学是晚清今文经学与政治改革的结合。",
     "system": [
      {
-      "name": "公羊三世：据乱—升平—太平",
-      "content": "前提：公羊家以《春秋》“所见异辞、所闻异辞、所传闻异辞”分三世。；孔子借鲁史寄其义，三世即治法之次第：由据乱而升平，由升平而太平。。由此推出：历史有三世之序，变法即由据乱进于升平、以太平为归。"
+      "name": "公羊三世",
+      "content": "据乱世—升平世—太平世为历史进化阶段，变法即由据乱向升平。"
      },
      {
-      "name": "托古改制：六经为孔子所作",
-      "content": "前提：六经为孔子所作，非孔子删述旧文。；孔子托尧舜之事以立新制，所谓托古者，借古以行其改革。。由此推出：六经为孔子托古改制之书，故变法即行孔子之道。"
+      "name": "托古改制",
+      "content": "借孔子之名行改制之实；《新学伪经考》《孔子改制考》。"
      },
      {
-      "name": "立孔教以维系群之魂",
-      "content": "前提：列国相竞，其强在“群”，群之合在“教”与“魂”。；中国之教以孔子为宗，然历代仅以之为学，未以之为教。。由此推出：当立孔教为国教，以教统群、以群立国。"
+      "name": "大同",
+      "content": "《大同书》描绘无国界、无阶级、无家庭的理想社会。"
      },
      {
-      "name": "大同：去九界而至太平",
-      "content": "前提：人世之苦生于“界”：国界、级界、种界、形界、家界、业界、乱界、类界、苦界。；去其界则人得其所，是为太平世。。由此推出：大同之世以去界为方法，非以仁政补苴一时。"
+      "name": "孔教运动",
+      "content": "主张以孔教为国教，以维系社会共识；这一条在其学说体系中不可省略。"
      }
     ],
     "phases": [
      {
-      "period": "1858年—1927年",
-      "change": "晚清至民国初年。康有为亲历中法、甲午两役，1895年发动公车上书，1898年主持戊戌变法，失败后流亡十六年，遍游欧美，1913年归国后倡孔教、参与复辟。其学以今文经学为骨、以“孔子改制”为方法，要把经学转为变法与立教的根据。"
+      "period": "万木草堂讲学（1891—1898）",
+      "change": "培养梁启超等弟子；著《新学伪经考》《孔子改制考》。"
+     },
+     {
+      "period": "戊戌变法与流亡（1898—1927）",
+      "change": "参与戊戌变法，失败后流亡；晚年主张保皇与孔教。"
      }
     ],
-    "reception": "其影响主要见于：梁启超、谭嗣同。历史上对其学说的主要批评来自：章太炎一系（古文经学与国粹派）。本页“批评与回应”一节并列了双方的理由，读者可就具体争议自行核对。",
-    "auto": true
+    "reception": "戊戌变法的思想领袖；其今文经学与孔教主张遭章太炎、《新青年》一系批评；现代研究关注其“大同”与进化论的关系。"
    },
    "works_detail": [
     {
-     "title": "《大同书》",
-     "structure": "成书历数十年，生前仅部分刊布（1913年《不忍》杂志）",
-     "core_thesis": "本书所论为：公羊三世：据乱—升平—太平",
-     "editions": "《康有为全集》第七集，中国人民大学出版社，2007；另有中华书局1956年单行本",
-     "note": "本条由本页“代表著作”条目汇编"
-    },
-    {
-     "title": "《新学伪经考》",
-     "structure": "辨古文经为刘歆伪造，为托古改制说清除经学障碍",
-     "core_thesis": "本书所论为：公羊三世：据乱—升平—太平",
-     "editions": "中华书局，1956（标点本）；《康有为全集》第一集",
-     "note": "本条由本页“代表著作”条目汇编"
-    },
-    {
-     "title": "《孔子改制考》",
-     "structure": "体例与内容见推荐版本；以孔子为改制立教之素王",
-     "core_thesis": "本书所论为：公羊三世：据乱—升平—太平",
-     "editions": "中华书局，1958（标点本）；《康有为全集》第三集",
-     "note": "本条由本页“代表著作”条目汇编"
-    },
-    {
-     "title": "《康有为全集》",
-     "structure": "含《春秋董氏学》《论语注》与讲学记录",
-     "core_thesis": "本书所论为：公羊三世：据乱—升平—太平",
-     "editions": "姜义华、张荣华编校，中国人民大学出版社，2007（十三册）",
-     "note": "本条由本页“代表著作”条目汇编"
+     "title": "《大同书》《新学伪经考》《孔子改制考》",
+     "structure": "《大同书》分十部描绘理想社会；《新学伪经考》指古文经为刘歆伪造；《孔子改制考》以孔子为改制者。",
+     "core_thesis": "公羊三世；托古改制；大同；孔教。",
+     "editions": "《康有为全集》中国人民大学出版社；《大同书》中华书局",
+     "note": "“新学伪经”说为学派论战主张，出土文献多不支持"
     }
    ]
   },
@@ -1075,48 +1057,36 @@
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>谭嗣同：以太、仁与冲决网罗（示意）</text><defs><marker id='ar' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='270' y='58' width='220' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='82' text-anchor='middle' font-size='13' fill='#1e2d3d'>以太、电、心力</text><text x='380' y='102' text-anchor='middle' font-size='11' fill='#1e2d3d'>皆所以通之具</text><line x1='380' y1='114' x2='380' y2='140' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='270' y='142' width='220' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='166' text-anchor='middle' font-size='13' fill='#1e2d3d'>仁以通为第一义</text><text x='380' y='186' text-anchor='middle' font-size='11' fill='#1e2d3d'>通则人我不隔</text><line x1='380' y1='198' x2='380' y2='224' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='270' y='226' width='220' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='250' text-anchor='middle' font-size='13' fill='#1e2d3d'>名教三纲：以名制下</text><text x='380' y='270' text-anchor='middle' font-size='11' fill='#1e2d3d'>上以制其下</text><line x1='380' y1='282' x2='380' y2='306' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='270' y='308' width='220' height='50' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='332' text-anchor='middle' font-size='13' fill='#1e2d3d'>冲决网罗</text><text x='380' y='352' text-anchor='middle' font-size='11' fill='#1e2d3d'>去隔而后仁通</text><rect x='30' y='142' width='200' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='130' y='166' text-anchor='middle' font-size='13' fill='#1e2d3d'>佛学：心力相感</text><text x='130' y='186' text-anchor='middle' font-size='11' fill='#1e2d3d'>慈悲相通</text><line x1='230' y1='170' x2='266' y2='170' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='530' y='142' width='200' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='630' y='166' text-anchor='middle' font-size='13' fill='#1e2d3d'>西学：以太传力</text><text x='630' y='186' text-anchor='middle' font-size='11' fill='#1e2d3d'>无微不入</text><line x1='530' y1='170' x2='494' y2='170' stroke='#4a7ba6' marker-end='url(#ar)'/><text x='380' y='384' text-anchor='middle' font-size='11' fill='#1e2d3d'>具与理分两层：假说可换，通之为理不废</text></svg>",
    "svg_caption": "谭嗣同由“通”到“冲决”的论证（示意）",
    "doctrine": {
-    "summary": "谭嗣同的核心问题可以概括为：名教与三纲凭什么约束人，其根据是天理还是势？；仁与西学所谓的以太、电是何关系？；个体如何在重重网罗中重获“通”？。本页据既有论点的材料汇编其学说主干——他主张：仁以通为第一义；冲决网罗，破名教之隔；以太与仁的结合：具与理分属两层；反静主动，以力行事。以下“支柱”“分期”“接受史”均由本页论点、著作与批评条目汇编而成，读者可回到第三节核对每一论点的前提与推理。",
+    "summary": "谭嗣同以《仁学》为核心：以“以太”为宇宙的介质，把“仁”解释为通（中外、上下、男女之通），主张“冲决网罗”——冲决名教、君主与三纲的束缚。其学融合佛学、西学与今文经学，是戊戌变法中最激进的哲学表述。",
     "system": [
      {
+      "name": "以太与仁",
+      "content": "以太是宇宙的介质，“仁”即以太之用，其本质是“通”。"
+     },
+     {
+      "name": "冲决网罗",
+      "content": "冲决利禄、俗学、君主、伦常之网罗，追求平等与自由。"
+     },
+     {
       "name": "仁以通为第一义",
-      "content": "前提：《仁学·界说》立“仁以通为第一义”，以以太、电、心力为“所以通之具”。；不通则妄生分别，由分别而有隔、有争、有杀。。由此推出：仁的本义是通，通之具即以太、电、心力。"
-     },
-     {
-      "name": "冲决网罗，破名教之隔",
-      "content": "前提：网罗重重，有利禄、俗学、群学、君统、天理、佛法诸网罗。；名教之设，君以名桎臣，父以名压子，三纲由是而立。。由此推出：当冲决网罗，破名教之隔，而后仁可得而通。"
-     },
-     {
-      "name": "以太与仁的结合：具与理分属两层",
-      "content": "前提：西学言以太为传光、传力之媒介，遍满虚空而无微不入。；心力之相感、慈悲之相通，其用与以太之传递相似。。由此推出：以太是仁之具，仁是以太之理；二者结合而不相等。"
-     },
-     {
-      "name": "反静主动，以力行事",
-      "content": "前提：主静之说使人厌事、逃世，于救世无功。；西人以动而强，中国以静而弱，动静之别见乎强弱。。由此推出：当以动代静，以力行事。"
+      "content": "中外通、上下通、男女内外通，故反对闭关与等级。"
      }
     ],
     "phases": [
      {
-      "period": "1865年—1898年",
-      "change": "晚清。父为湖北巡抚，谭氏少从欧阳中鹄、刘人熙问学，遍游南北；甲午后弃旧学而求新学，与康有为、梁启超相结。1898年以军机章京参预新政，政变作而被杀，年三十三。《仁学》成于1896至1897年间，是其思想的唯一系统表述。"
+      "period": "湖南新政与戊戌（1897—1898）",
+      "change": "参与湖南新政；戊戌变法失败后被捕，就义于北京，为“戊戌六君子”之一。"
      }
     ],
-    "reception": "其影响主要见于：梁启超、熊十力。历史上对其学说的主要批评来自：熊十力（及现代本体论一路的批评者）。本页“批评与回应”一节并列了双方的理由，读者可就具体争议自行核对。",
-    "auto": true
+    "reception": "《仁学》为戊戌变法最激进的哲学文本；其“冲决网罗”影响革命派；现代研究关注其佛学与西学的融合。"
    },
    "works_detail": [
     {
      "title": "《仁学》",
-     "structure": "五十篇，分《界说》《自叙》及各篇，成于1896至1897年间，生前未刊",
-     "core_thesis": "本书所论为：仁以通为第一义；这是该书所要论证的核心命题。",
-     "editions": "蔡尚思、方行编《谭嗣同全集》（增订本），中华书局，1981",
-     "note": "本条由本页“代表著作”条目汇编"
-    },
-    {
-     "title": "《谭嗣同全集》",
-     "structure": "收诗文、书信与《仁学》各本异文；具体体例与篇章安排见推荐版本。",
-     "core_thesis": "本书所论为：仁以通为第一义；这是该书所要论证的核心命题。",
-     "editions": "蔡尚思、方行编，中华书局，1981（增订本，上下册）",
-     "note": "本条由本页“代表著作”条目汇编"
+     "structure": "二卷五十篇；以“以太”“仁”“通”为核心概念。",
+     "core_thesis": "以太与仁；冲决网罗；仁以通为第一义。",
+     "editions": "《谭嗣同全集》中华书局；蔡尚思、方行编",
+     "note": "1896—1897 年成书，梁启超刊布"
     }
    ]
   },
@@ -1255,62 +1225,40 @@
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>严复：体用之辨与天演群学（示意）</text><defs><marker id='ar' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='66' width='205' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='132' y='90' text-anchor='middle' font-size='13' fill='#1e2d3d'>体用就一物而言</text><text x='132' y='110' text-anchor='middle' font-size='11' fill='#1e2d3d'>牛体牛用，马体马用</text><line x1='235' y1='95' x2='281' y2='95' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='285' y='66' width='195' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='382' y='90' text-anchor='middle' font-size='13' fill='#1e2d3d'>中学为体，西学为用</text><text x='382' y='110' text-anchor='middle' font-size='11' fill='#1e2d3d'>如以牛体求马用</text><line x1='480' y1='95' x2='526' y2='95' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='530' y='66' width='200' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='630' y='90' text-anchor='middle' font-size='13' fill='#1e2d3d'>体用不可二分</text><text x='630' y='110' text-anchor='middle' font-size='11' fill='#1e2d3d'>拼合则法无所附</text><rect x='30' y='176' width='205' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='132' y='200' text-anchor='middle' font-size='13' fill='#1e2d3d'>天演：物竞天择</text><text x='132' y='220' text-anchor='middle' font-size='11' fill='#1e2d3d'>争存于群与群之间</text><line x1='235' y1='205' x2='281' y2='205' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='285' y='176' width='195' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='382' y='200' text-anchor='middle' font-size='13' fill='#1e2d3d'>群学：合群进种</text><text x='382' y='220' text-anchor='middle' font-size='11' fill='#1e2d3d'>改良群之知能</text><line x1='480' y1='205' x2='526' y2='205' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='530' y='176' width='200' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='630' y='200' text-anchor='middle' font-size='13' fill='#1e2d3d'>救亡在变其群</text><text x='630' y='220' text-anchor='middle' font-size='11' fill='#1e2d3d'>非仅恃旧德</text><rect x='230' y='274' width='300' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='298' text-anchor='middle' font-size='13' fill='#1e2d3d'>名学为一切法之法</text><text x='380' y='318' text-anchor='middle' font-size='11' fill='#1e2d3d'>逻辑先于具体科学</text><text x='380' y='372' text-anchor='middle' font-size='11' fill='#1e2d3d'>同一条思路：方法先立，体用不二</text></svg>",
    "svg_caption": "严复体用论与天演、名学的两路（示意）",
    "doctrine": {
-    "summary": "严复的核心问题可以概括为：进化是否可以作为伦理与政治的标准？；逻辑（名学）为何是一切学问的方法前提？；“中学为体、西学为用”在义理上能否成立？。本页据既有论点的材料汇编其学说主干——他主张：体用不可二分；天演：物竞天择，适者生存；名学为一切法之法；天演不等于伦理标准。以下“支柱”“分期”“接受史”均由本页论点、著作与批评条目汇编而成，读者可回到第三节核对每一论点的前提与推理。",
+    "summary": "严复以译介西学改造中国思想：译《天演论》引入进化论（“物竞天择，适者生存”），译《穆勒名学》《原富》引入逻辑学与经济学；他提出“群学”与“天演”观念，并以“牛体马用”之喻批评“中体西用”，认为体与用不可二分。",
     "system": [
      {
-      "name": "体用不可二分",
-      "content": "前提：体与用是就同一物而言：有牛之体，则有负重之用；有马之体，则有致远之用。；未闻以牛之体而求马之用者。。由此推出：体用一物，中西不可各取一体一用而拼合。"
+      "name": "天演",
+      "content": "“物竞天择，适者生存”；进化不仅是生物规律，也是社会与国家的存亡之理。"
      },
      {
-      "name": "天演：物竞天择，适者生存",
-      "content": "前提：生物之繁育过其所能养，故有争；争则优者存而劣者汰。；此理通于群与国：群之强弱在其能否合群与进化。。由此推出：天演之理通于群学，救亡在改良群之组织与知能。"
+      "name": "群学",
+      "content": "以社会学方法研究群体盛衰，主张“鼓民力、开民智、新民德”。"
      },
      {
-      "name": "名学为一切法之法",
-      "content": "前提：穆勒以逻辑为致知之术，凡学之立皆待其法。；中国旧学有训诂、辞章而无名学，故论辩多无据之遁辞。。由此推出：逻辑是诸学的方法前提，当先立名学。"
-     },
-     {
-      "name": "天演不等于伦理标准",
-      "content": "前提：赫胥黎以“伦理之天行”对抗“任天为治”的斯宾塞主义。；严复于译序与按语中输扬斯宾塞，又赞赫胥黎之持人力以抗天行。。由此推出：天演说明处境，不提供应当；伦理须由人力与群道另立。"
+      "name": "体用不二",
+      "content": "以“牛体马用”之喻批评中体西用：体与用须一致，不能以旧体配新用。"
      }
     ],
     "phases": [
      {
-      "period": "1854年—1921年",
-      "change": "晚清至民国初年。严复以福州船政学堂出身赴英留学（1877—1879），归国后任北洋水师学堂总办，甲午后以译书为业，译《天演论》《原富》《群学肄言》《法意》《穆勒名学》等。他是近代中国第一代系统译介西方哲学与逻辑学的人，其按语往往比译文更见己见。"
+      "period": "福州船政与留学（1866—1879）",
+      "change": "毕业于福州船政学堂，留学英国格林尼治海军学院。"
+     },
+     {
+      "period": "译书时期（1898—1921）",
+      "change": "译《天演论》（1898）、《原富》《群学肄言》《穆勒名学》《法意》；任京师大学堂译局总办。"
      }
     ],
-    "reception": "其影响主要见于：梁启超、胡适。历史上对其学说的主要批评来自：译本比勘的研究者。本页“批评与回应”一节并列了双方的理由，读者可就具体争议自行核对。",
-    "auto": true
+    "reception": "《天演论》影响晚清知识界（胡适、鲁迅）；其“体用不二”批评中体西用；现代研究关注其翻译与“信达雅”标准。"
    },
    "works_detail": [
     {
-     "title": "《天演论》（译赫胥黎）",
-     "structure": "1898年慎始基斋刻本；附大量按语，非忠实译本",
-     "core_thesis": "本书所论为：体用不可二分；这是该书所要论证的核心命题。",
-     "editions": "《严复集》第五册，中华书局，1986；商务印书馆汉译世界学术名著本，1981",
-     "note": "本条由本页“代表著作”条目汇编"
-    },
-    {
-     "title": "《穆勒名学》（译穆勒）",
-     "structure": "未完译本，为近代逻辑学系统输入之始",
-     "core_thesis": "本书所论为：体用不可二分；这是该书所要论证的核心命题。",
-     "editions": "商务印书馆，1981（标点本，仅译原书部甲及部乙部分）",
-     "note": "本条由本页“代表著作”条目汇编"
-    },
-    {
-     "title": "《群学肄言》《原富》《法意》",
-     "structure": "分译斯宾塞、亚当·斯密、孟德斯鸠",
-     "core_thesis": "本书所论为：体用不可二分；这是该书所要论证的核心命题。",
-     "editions": "商务印书馆汉译世界学术名著丛书各单行本",
-     "note": "本条由本页“代表著作”条目汇编"
-    },
-    {
-     "title": "《严复集》",
-     "structure": "收《原强》《救亡决论》《与〈外交报〉主人书》等",
-     "core_thesis": "本书所论为：体用不可二分；这是该书所要论证的核心命题。",
-     "editions": "王栻主编，中华书局，1986（五册）",
-     "note": "本条由本页“代表著作”条目汇编"
+     "title": "《天演论》（译作）",
+     "structure": "译赫胥黎《进化论与伦理学》，加按语发挥；以“天演”为核心概念。",
+     "core_thesis": "物竞天择；群学；体用不二；这是该书的核心命题。",
+     "editions": "《严复集》中华书局；商务印书馆汉译世界学术名著版",
+     "note": "译作加按语，非单纯翻译"
     }
    ]
   },
@@ -1473,51 +1421,40 @@
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>章太炎：齐物、俱分进化与国粹（示意）</text><defs><marker id='ar' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='64' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='88' text-anchor='middle' font-size='13' fill='#1e2d3d'>庄子「齐物」</text><text x='145' y='108' text-anchor='middle' font-size='11' fill='#1e2d3d'>差别无自性</text><line x1='145' y1='120' x2='145' y2='148' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='40' y='150' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='174' text-anchor='middle' font-size='13' fill='#1e2d3d'>唯识「万法唯识」</text><text x='145' y='194' text-anchor='middle' font-size='11' fill='#1e2d3d'>分别由识而现</text><line x1='145' y1='206' x2='145' y2='234' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='40' y='236' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='260' text-anchor='middle' font-size='13' fill='#1e2d3d'>平等＝各适其适</text><text x='145' y='280' text-anchor='middle' font-size='11' fill='#1e2d3d'>非同而无别</text><rect x='510' y='64' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='615' y='88' text-anchor='middle' font-size='13' fill='#1e2d3d'>俱分进化</text><text x='615' y='108' text-anchor='middle' font-size='11' fill='#1e2d3d'>善恶苦乐并进</text><line x1='615' y1='120' x2='615' y2='148' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='510' y='150' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='615' y='174' text-anchor='middle' font-size='13' fill='#1e2d3d'>进化不等于进步</text><text x='615' y='194' text-anchor='middle' font-size='11' fill='#1e2d3d'>目的论落空</text><line x1='615' y1='206' x2='615' y2='234' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='510' y='236' width='210' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='615' y='260' text-anchor='middle' font-size='13' fill='#1e2d3d'>国粹为革命之资</text><text x='615' y='280' text-anchor='middle' font-size='11' fill='#1e2d3d'>反孔教国教化</text><rect x='270' y='306' width='220' height='52' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='330' text-anchor='middle' font-size='13' fill='#1e2d3d'>革命与国学</text><text x='380' y='350' text-anchor='middle' font-size='11' fill='#1e2d3d'>以国学立革命之根据</text><line x1='250' y1='264' x2='312' y2='304' stroke='#4a7ba6' marker-end='url(#ar)'/><line x1='510' y1='264' x2='448' y2='304' stroke='#4a7ba6' marker-end='url(#ar)'/><text x='380' y='386' text-anchor='middle' font-size='11' fill='#1e2d3d'>左：破差别相而立平等；右：判进化之限；二者同归于“国学为革命之资”</text></svg>",
    "svg_caption": "左：以庄子“齐物”与唯识“万法唯识”破差别之自性，归于“各适其适”的平等；右：俱分进化判进化之限，国粹为革命之资；下：二者同归于“革命与国学”的根据问题。",
    "doctrine": {
-    "summary": "章太炎的核心问题可以概括为：革命的政治根据能否自国学内部给出，而不只是西学的转手？；“齐物”能否为平等提供哲学基础，而不落入“齐其不齐”的强制同化？；佛学（唯识）与庄子如何结合成一门能破一切差别相的学问？。本页据既有论点的材料汇编其学说主干——他主张：齐物哲学：一切差别无自性，故平等是“各适其适”而非“齐同”；俱分进化：善与恶、苦与乐并进，故进化不等于进步；革命与国学：以“国粹”为革命的精神资源，而反对孔教国教化。以下“支柱”“分期”“接受史”均由本页论点、著作与批评条目汇编而成，读者可回到第三节核对每一论点的前提与推理。",
+    "summary": "章太炎以“齐物哲学”融合庄子“齐物”与唯识“万法唯识”，论证差别无自性，故平等不是“同”而是“各适其适”；他提出“俱分进化”——善与恶、苦与乐并进，故进化不等于进步；并以“国粹”为革命的精神资源，反对孔教国教化。",
     "system": [
      {
-      "name": "齐物哲学：一切差别无自性，故平等是“各适其适”而非“齐同”",
-      "content": "前提：庄子《齐物论》所谓“齐物”，不是齐同是非之见，而是观万物之各当其分；唯识学则言万法唯识，外境由分别而现。；差别既由识之分别而安立，则差别无自性；无自性，故不可执一差别以衡量其余一切。。由此推出：平等非“同”，而是“各适其适”：不齐其不齐，而任其自齐。"
+      "name": "齐物哲学",
+      "content": "以庄子齐物与唯识结合，论证差别无自性；平等即各适其适。"
      },
      {
-      "name": "俱分进化：善与恶、苦与乐并进，故进化不等于进步",
-      "content": "前提：进化之动力在“自利”与“好胜”之争，此二者同时生善亦同时生恶。；知识与能力之增进，亦使作恶之具与受苦之觉随之而增进。。由此推出：善与恶、苦与乐俱分而并进；进化是一结构判断，不提供价值上的进步保证。"
+      "name": "俱分进化",
+      "content": "善与恶、苦与乐并进；进化不等于单向的进步。"
      },
      {
-      "name": "革命与国学：以“国粹”为革命的精神资源，而反对孔教国教化",
-      "content": "前提：“国粹”指汉族的语言文字、历史与学术统绪，其用在能唤起种性、支撑排满革命。；孔教若定为国教，则以一教之义绳天下人之信仰，与共和政体下的信教自由相悖。。由此推出：国学是革命的精神资源，而国学不等于孔教；国粹须以学术整理之，不以国家尊崇之。"
+      "name": "革命与国粹",
+      "content": "以国粹为革命的精神资源；反对孔教国教化与代议制迷信。"
      }
     ],
     "phases": [
      {
-      "period": "1869年—1936年",
-      "change": "清末民初（1869—1936）。章太炎身历戊戌、辛亥革命、五四与国民革命：早年入《时务报》而参与维新，后与康有为立宪派决裂，组织光复会、入同盟会，主持《民报》；民国后一度被袁世凯幽禁，晚年退居苏州办国学讲习会。他所面对的问题是：帝制既倒，革命的政治根据与平等诉求，能否自中国旧学（庄子、荀子、六经与唯识）内部重新给出，而不必全靠西学移植。"
+      "period": "革命与办报（1900—1911）",
+      "change": "参与革命，主编《民报》；著《訄书》《齐物论释》。"
+     },
+     {
+      "period": "晚年国学（1911—1936）",
+      "change": "讲学苏州，提倡国学；著《国故论衡》。"
      }
     ],
-    "reception": "其影响主要见于：鲁迅、新文化运动一代（钱玄同、周作人等）、近代国学研究（章门弟子：黄侃、朱希祖、吴承仕）。历史上对其学说的主要批评来自：康有为（孔教一系）、《新青年》一系（陈独秀、胡适）、章门弟子的分歧（钱玄同与黄侃各取一偏）。本页“批评与回应”一节并列了双方的理由，读者可就具体争议自行核对。",
-    "auto": true
+    "reception": "其齐物哲学与俱分进化论被视为近代最具原创性的哲学之一；弟子鲁迅等受其影响；现代研究关注其佛学与庄学的融合。"
    },
    "works_detail": [
     {
-     "title": "《訄书》（后修订为《检论》）",
-     "structure": "初刻于1900年，1904年重订，后删改为《检论》；政论与学术札记的合集，为“国粹”说与革命论的主要出处",
-     "core_thesis": "齐物哲学：一切差别无自性，故平等是“各适其适”而非“齐同”",
-     "editions": "《章太炎全集》，上海人民出版社",
-     "note": "本条由本页“代表著作”条目汇编"
-    },
-    {
-     "title": "《齐物论释》",
-     "structure": "以唯识解庄，自许“一字千金”；有初稿与定本之别，是其平等哲学的正式证成",
-     "core_thesis": "齐物哲学：一切差别无自性，故平等是“各适其适”而非“齐同”",
-     "editions": "《章太炎全集》，上海人民出版社",
-     "note": "本条由本页“代表著作”条目汇编"
-    },
-    {
-     "title": "《国故论衡》",
-     "structure": "分小学、文学、诸子学，示国学整理之方法，非止考据",
-     "core_thesis": "齐物哲学：一切差别无自性，故平等是“各适其适”而非“齐同”",
-     "editions": "《章太炎全集》，上海人民出版社",
-     "note": "本条由本页“代表著作”条目汇编"
+     "title": "《齐物论释》《訄书》（后修订为《检论》）",
+     "structure": "《齐物论释》以唯识解《庄子·齐物论》；《訄书》为学术与政治论集，后修订为《检论》。",
+     "core_thesis": "齐物即平等；俱分进化；革命与国粹。",
+     "editions": "《章太炎全集》上海人民出版社",
+     "note": "《齐物论释》有初稿与定本之别；《訄书》有三本"
     }
    ]
   }

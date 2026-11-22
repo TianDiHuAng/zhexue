@@ -8,8 +8,8 @@
   },
   "doctrine": {
    "total": 111,
-   "detail": 88,
-   "auto": 23
+   "detail": 111,
+   "auto": 0
   },
   "needs_verification": 50,
   "sources": 214,
