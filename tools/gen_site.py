@@ -291,7 +291,7 @@ def render_person(p, sources, people, concepts, debates, schools):
 
 
 # ------------------------------------------------------------------ 概念页
-def render_concept(c, sources, people):
+def render_concept(c, sources, people, concepts):
     d = 1
     pth = rel(d)
     body = ["<h1>%s <span class=\"meta\">%s</span></h1>" % (esc(c["term"]), esc(c.get("term_latin", "")))]
@@ -318,7 +318,12 @@ def render_concept(c, sources, people):
     body.append("<h2>四、相关概念</h2>")
     rel_ids = c.get("related") or []
     if rel_ids:
-        body.append('<p>%s</p>' % " · ".join('<a href="%s">%s</a>' % (r, esc(r)) for r in rel_ids))
+        links = []
+        for r in rel_ids:
+            tgt = concepts.get(r)
+            label = tgt["term"] if tgt else r
+            links.append('<a href="%sconcepts/%s.html">%s</a>' % (pth, r, esc(label)))
+        body.append('<p>%s</p>' % " · ".join(links))
     else:
         body.append('<p class="meta">暂无。</p>')
     body.append("<h2>待核实</h2>" + pending_box(c))
@@ -558,7 +563,7 @@ def render_sources(sources):
 
 
 def render_about(units, people, concepts, debates, sources):
-    d = 1
+    d = 0
     body = ["<h1>方法与体例</h1>",
             "<p>本站是一个纯静态的中外哲学资料库：数据层是 JSON，页面由脚本确定性渲染，没有 JavaScript、"
             "不加载任何外部资源，可离线打开。</p>",
@@ -591,7 +596,7 @@ def render_about(units, people, concepts, debates, sources):
 
 # ------------------------------------------------------------------ 谱系总图
 def render_graph(units, people):
-    d = 1
+    d = 0
     W = 960
     rows = []
     legend_y = 0
@@ -745,7 +750,7 @@ def main():
     for p in people.values():
         write("people/%s.html" % p["id"], render_person(p, sources, people, concepts, debates, schools))
     for c in concepts.values():
-        write("concepts/%s.html" % c["id"], render_concept(c, sources, people))
+        write("concepts/%s.html" % c["id"], render_concept(c, sources, people, concepts))
     for x in debates.values():
         write("debates/%s.html" % x["id"], render_debate(x, sources, people))
     for s in schools:
