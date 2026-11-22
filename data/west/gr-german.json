@@ -1190,6 +1190,145 @@
      "note": "断片体非体系论著，不宜逐句求证"
     }
    ]
+  },
+  {
+   "id": "gr-german-schiller",
+   "name": "席勒",
+   "latin": "Friedrich Schiller",
+   "birth_year": 1759,
+   "death_year": 1805,
+   "birth_display": "1759年",
+   "death_display": "1805年",
+   "birth_note": "生于符腾堡马尔巴赫；据其生平材料。",
+   "death_note": "1805年卒于魏玛。",
+   "era": "德国古典主义与浪漫主义之交。席勒既是诗人与剧作家，也写美学与哲学论文；其《美育书简》以审美教育回应康德与法国大革命的问题。",
+   "school": "德国唯心论（美学）",
+   "core_questions": [
+    "审美如何使人自由？",
+    "感性与理性如何在人身上统一？",
+    "艺术能否教化政治？"
+   ],
+   "arguments": [
+    {
+     "claim": "审美是感性与理性的自由游戏",
+     "premises": [
+      "人有感性冲动（material）与形式冲动（form）。",
+      "二者对立则人分裂；游戏冲动使二者统一。"
+     ],
+     "inference": "若自由在于两种冲动的和谐而非压制其一，则审美经验正是这种和谐的实现。",
+     "conclusion": "审美是通往自由的中间状态：在美中，人既是感性的又是理性的。",
+     "kind": "原文"
+    },
+    {
+     "claim": "美育是政治自由的前提",
+     "premises": [
+      "法国大革命显示：制度变革若无人性的改变，则暴力循环。",
+      "人性的改变须经审美教育。"
+     ],
+     "inference": "若政治自由需要能自由的人，则须先以美育培养完整的人格。",
+     "conclusion": "审美教育是政治改良的必经之路（先于制度变革）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《美育书简》《论素朴的诗与感伤的诗》",
+     "edition": "《美育书简》中译参张玉能译，译林出版社；德文以 Reclam 版为准",
+     "note": "1795；1795—96"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "康德",
+     "id": "gr-german-kant",
+     "note": "三大批判的美学与自由问题"
+    },
+    {
+     "name": "歌德与古典主义",
+     "id": null,
+     "note": "完整人格与古典理想"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "浪漫主义美学与马克思主义美学（异化与完整人格）",
+     "id": null,
+     "note": "审美解放的思想线索"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "黑格尔与政治现实主义者",
+     "view": "以审美教育代替政治变革，过于理想化；现实的不义不能等美育完成才处理。",
+     "response": "席勒式的回应是：制度与人性的改变互为条件，忽视人性的制度变革往往失败；美育不是替代而是前提。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-schiller",
+      "sep-hegel"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "席勒只是诗人，不涉哲学",
+     "why": "《美育书简》是系统的美学与政治哲学著作，回应康德并批判法国大革命。"
+    },
+    {
+     "claim": "他认为艺术应脱离政治",
+     "why": "他强调艺术的自主性，但正因自主才具教化功能；其目标是政治自由。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>席勒：审美作为自由的中介</text><defs><marker id='aSC' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>感性冲动与形式冲动对立</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>游戏冲动使二者统一</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故审美即自由</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故美育先于政治自由</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aSC)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aSC)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "席勒：游戏冲动、审美与自由（示意图）",
+   "sources": [
+    "sep-schiller",
+    "sep-hegel",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "席勒以《美育书简》提出：人有感性冲动与形式冲动，二者对立则人格分裂，游戏冲动使二者统一，故审美经验即自由的实现；他又主张法国大革命的教训说明制度变革须以人性的改变为前提，故美育是政治自由的前置条件。其美学是德国唯心论与浪漫主义之间的桥梁。",
+    "system": [
+     {
+      "name": "两种冲动",
+      "content": "感性冲动（material）与形式冲动（form）的对立与统一。"
+     },
+     {
+      "name": "游戏冲动",
+      "content": "在审美中二者和谐统一，人既感性又理性，故自由。"
+     },
+     {
+      "name": "美育与政治",
+      "content": "制度变革若无人的改变则暴力循环；美育是政治自由的前提。"
+     },
+     {
+      "name": "素朴与感伤",
+      "content": "古典诗人素朴地与世界一致，近代诗人感伤地追寻理想（《论素朴的诗与感伤的诗》）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "早年与剧作（1781—1794）",
+      "change": "《强盗》《阴谋与爱情》；任耶拿大学历史教授。"
+     },
+     {
+      "period": "魏玛与美学（1794—1805）",
+      "change": "与歌德交往；《美育书简》（1795）、《华伦斯坦》三部曲。"
+     }
+    ],
+    "reception": "其美学影响浪漫主义与马克思主义的“完整人格/异化”问题；《美育书简》被视为现代审美教育理论的奠基。"
+   },
+   "works_detail": [
+    {
+     "title": "《美育书简》",
+     "structure": "二十七封信；论两种冲动、游戏冲动与审美国家。",
+     "core_thesis": "游戏冲动统一感性理性；美育先于政治自由。",
+     "editions": "张玉能译译林出版社；Reclam 德文本",
+     "note": "1795 年；第十五封信为游戏冲动的核心"
+    }
+   ]
   }
  ],
  "concepts": [

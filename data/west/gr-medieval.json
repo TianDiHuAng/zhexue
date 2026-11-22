@@ -1734,6 +1734,291 @@
      "note": "阿拉伯语原著；为“困惑者”而写"
     }
    ]
+  },
+  {
+   "id": "gr-medieval-averroes",
+   "name": "阿威罗伊（伊本·鲁世德）",
+   "latin": "Averroes (Ibn Rushd)",
+   "birth_year": 1126,
+   "death_year": 1198,
+   "birth_display": "1126年",
+   "death_display": "1198年",
+   "birth_note": "生于科尔多瓦；据其生平材料，出身法学世家。",
+   "death_note": "1198年卒于马拉喀什。",
+   "era": "12世纪安达卢斯的伊斯兰哲学高峰。阿威罗伊以注释亚里士多德著称（“注释者”），并回应安萨里对哲学的批评；其学说传入拉丁欧洲后引发“拉丁阿威罗伊主义”与1277年谴责。",
+   "school": "亚里士多德主义（伊斯兰）",
+   "core_questions": [
+    "哲学与宗教启示如何共存？",
+    "世界是否永恒？",
+    "灵魂不朽属于个体还是普遍理智？"
+   ],
+   "arguments": [
+    {
+     "claim": "哲学与启示不冲突：真理不会与真理相悖",
+     "premises": [
+      "哲学以论证求真，启示以修辞与象征引导大众。",
+      "同一真理可由不同话语层次表达。"
+     ],
+     "inference": "若二者都真，则表面冲突只是话语层次不同；须以哲学解释经文中的象征。",
+     "conclusion": "哲学家可以以论证解释启示；宗教不应压制哲学。",
+     "kind": "原文"
+    },
+    {
+     "claim": "世界永恒，但由神推动",
+     "premises": [
+      "亚里士多德证明运动无始。",
+      "神是永恒的第一推动者。"
+     ],
+     "inference": "若运动无始，则世界在时间上无开端；但世界仍依赖于神，故非“自立”。",
+     "conclusion": "世界永恒与神的创造相容（创造指永恒依存，而非时间开端）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《矛盾的矛盾》（反驳安萨里）、《亚里士多德〈形而上学〉注》",
+     "edition": "英译本见 *Tahafut al-Tahafut*（trans. Van den Bergh）；拉丁本以 Aristotelis Opera cum Averrois Commentariis 为准",
+     "note": "《矛盾的矛盾》为对安萨里《哲学家的矛盾》的逐条回应"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "亚里士多德",
+     "id": null,
+     "note": "其注释对象与哲学框架"
+    },
+    {
+     "name": "法拉比",
+     "id": "gr-medieval-al-farabi",
+     "note": "伊斯兰亚里士多德主义的先驱"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "拉丁阿威罗伊主义（西格尔）",
+     "id": null,
+     "note": "1277 年受谴责的“双重真理”说"
+    },
+    {
+     "name": "托马斯·阿奎那（批评性对话）",
+     "id": "gr-medieval-aquinas",
+     "note": "《论理智的单一性》即针对阿威罗伊"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "安萨里",
+     "view": "哲学家以理性僭越启示，且世界永恒论与神的自由创造相悖。",
+     "response": "阿威罗伊的反驳是：安萨里的批评混淆了修辞与论证；哲学家并不否认神，而是以更严格的方式说神。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-ibn-rushd",
+      "book-gilson-medieval"
+     ]
+    },
+    {
+     "critic": "托马斯·阿奎那",
+     "view": "“统一理智”说否认个体灵魂的不朽，与基督教教义及道德责任相悖。",
+     "response": "阿威罗伊一系的回应是：个体的想象力与身体结合，但理性能力分有普遍的能动理智；其说不必然取消道德责任。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-ibn-rushd",
+      "sep-aquinas"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "阿威罗伊主张“双重真理”（同一命题在哲学真、在宗教假）",
+     "why": "他主张真理只有一个，但话语层次不同；“双重真理”是拉丁阿威罗伊主义者的表述，未必是其原意。"
+    },
+    {
+     "claim": "他否认神",
+     "why": "他论证世界永恒但依赖神，是亚里士多德式的有神论，而非无神论。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>阿威罗伊：哲学与启示的层次</text><defs><marker id='aAV' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>哲学以论证求真</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>启示以象征引导大众</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>真理不悖真理，层次不同</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故哲学家可释经</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aAV)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aAV)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "阿威罗伊：哲学与启示的层次（示意图）",
+   "sources": [
+    "sep-ibn-rushd",
+    "sep-aquinas",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“双重真理”说的归属、以及阿威罗伊“统一理智”说的确切含义，学界有讨论；拉丁译本与其阿拉伯原文有出入。",
+   "doctrine": {
+    "summary": "阿威罗伊以“注释者”著称，主张哲学与启示不冲突：哲学以论证求真，启示以象征引导大众，同一真理可有不同话语层次，故哲学家可以论证解释经文。他论证世界永恒但依赖神（创造即永恒依存），并提出“统一理智”说，否认个体灵魂的独立不朽。其学说传入拉丁欧洲后引发激烈争论与谴责。",
+    "system": [
+     {
+      "name": "真理不悖真理",
+      "content": "哲学与启示同源，冲突只是话语层次不同；须以哲学释经。"
+     },
+     {
+      "name": "世界永恒",
+      "content": "运动无始，但世界永恒依赖于神，非自立；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "统一理智",
+      "content": "人类共享一个能动理智；个体的不朽须另作解释（后世争议）。"
+     },
+     {
+      "name": "反驳安萨里",
+      "content": "逐条回应《哲学家的矛盾》，捍卫哲学的权利。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "科尔多瓦与马拉喀什（1169—1198）",
+      "change": "任法官与御医；晚年因正统派压力被贬黜，不久复职；卒于马拉喀什。"
+     }
+    ],
+    "reception": "其注释经拉丁译本影响中世纪大学，形成“拉丁阿威罗伊主义”；阿奎那《论理智的单一性》专门反驳其统一理智说；1277年巴黎谴责部分命题。"
+   },
+   "works_detail": [
+    {
+     "title": "《矛盾的矛盾》",
+     "structure": "对安萨里《哲学家的矛盾》二十个论题的逐条回应。",
+     "core_thesis": "真理不悖真理；世界永恒；哲学的权利。",
+     "editions": "英译 Van den Bergh（Tahafut al-Tahafut）；阿拉伯原文校订本",
+     "note": "伊斯兰哲学与神学论辩的核心文献"
+    }
+   ]
+  },
+  {
+   "id": "gr-medieval-al-farabi",
+   "name": "法拉比",
+   "latin": "Al-Farabi (Alpharabius)",
+   "birth_year": 872,
+   "death_year": 951,
+   "birth_display": "约872年",
+   "death_display": "约951年",
+   "birth_note": "生于中亚法拉布（今哈萨克斯坦境内）；据其生平材料。",
+   "death_note": "约951年卒于大马士革。",
+   "era": "10世纪伊斯兰世界。法拉比系统整理亚里士多德逻辑学与形而上学，被称为“第二导师”（仅次于亚里士多德），并建立伊斯兰政治哲学（《理想城》）。",
+   "school": "亚里士多德主义（伊斯兰）",
+   "core_questions": [
+    "哲学家与先知有何关系？",
+    "理想城邦如何治理？",
+    "存在与本质如何区分？"
+   ],
+   "arguments": [
+    {
+     "claim": "先知与哲学家把握同一真理，但表达方式不同",
+     "premises": [
+      "哲学家以论证把握真理。",
+      "先知以想象与象征向大众传达同一真理。"
+     ],
+     "inference": "若真理同一而受众不同，则先知与哲学家是同一真理的两种传达者，哲学为最高知识形式。",
+     "conclusion": "哲学与预言不冲突；理想城邦须由哲学家—先知型统治者治理。",
+     "kind": "原文"
+    },
+    {
+     "claim": "存在与本质的区分（对后世的先声）",
+     "premises": [
+      "我们可理解某物的“是什么”（本质）而不知其是否存在。",
+      "存在不是本质的一部分。"
+     ],
+     "inference": "若存在不在本质之中，则存在须由外部原因赋予；这为必然存在者论证铺路。",
+     "conclusion": "可能存在者的存在由他者赋予，最终归于必然存在者。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《理想城居民的观点》《论哲学与宗教的和谐》《逻辑学著作》",
+     "edition": "英译见 *Al-Farabi on the Perfect State*（Walzer）；*Philosophy of Plato and Aristotle*（Mahdi）",
+     "note": "政治哲学与哲学—宗教关系的主要文本"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "亚里士多德与柏拉图",
+     "id": null,
+     "note": "逻辑学、形而上学与政治哲学"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "阿维森纳",
+     "id": "gr-medieval-avicenna",
+     "note": "本质—存在区分与流溢说"
+    },
+    {
+     "name": "阿威罗伊",
+     "id": "gr-medieval-averroes",
+     "note": "伊斯兰亚里士多德主义传统"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "正统神学家（如安萨里一系）",
+     "view": "以哲学为最高知识并主张哲学家—先知统治，贬低了启示的独立权威。",
+     "response": "法拉比一系的回应是：哲学不取消启示，而是说明其传达机制；理想城需要象征与论证并用。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-al-farabi",
+      "book-gilson-medieval"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "法拉比主张哲学高于宗教因而取消宗教",
+     "why": "他强调二者面向不同受众、共同服务于理想城；宗教以象征承载哲学所论证的真理。"
+    },
+    {
+     "claim": "他与阿维森纳立场相同",
+     "why": "阿维森纳发展出更系统的流溢论与本质—存在区分；法拉比的框架更接近柏拉图的城邦论。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>法拉比：哲学与预言的同一真理</text><defs><marker id='aFA' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>哲学以论证把握</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>预言以象征传达</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>同一真理，两种话语</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故理想城由哲人—先知治理</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aFA)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aFA)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "法拉比：哲学、预言与理想城（示意图）",
+   "sources": [
+    "sep-al-farabi",
+    "sep-ibn-rushd",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "法拉比系统整理亚里士多德逻辑与形而上学，被称为“第二导师”。他主张哲学与预言把握同一真理而话语方式不同：哲学家以论证、先知以象征向大众传达，故哲学为最高知识、理想城由哲人—先知型统治者治理。他又提出存在与本质的区分，为阿维森纳与拉丁经院的本质—存在论铺路。",
+    "system": [
+     {
+      "name": "哲学与预言",
+      "content": "同一真理，两种传达：论证与象征；哲学为最高知识形式。"
+     },
+     {
+      "name": "理想城",
+      "content": "城邦如有机体，各级职能分工；统治者须兼有哲学智慧与先知式传达力。"
+     },
+     {
+      "name": "存在与本质",
+      "content": "存在不在本质之中；可能存在者的存在由他者赋予。"
+     },
+     {
+      "name": "逻辑学奠基",
+      "content": "系统整理亚里士多德《工具论》，使逻辑成为伊斯兰哲学的通用工具。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "巴格达与阿勒颇（约900—951）",
+      "change": "在巴格达译注亚里士多德；后受哈姆丹王朝庇护，卒于大马士革。"
+     }
+    ],
+    "reception": "其“第二导师”之称显示其地位；本质—存在区分与理想城论影响了阿维森纳、阿威罗伊与犹太哲学（迈蒙尼德）。"
+   },
+   "works_detail": [
+    {
+     "title": "《理想城居民的观点》",
+     "structure": "以城邦类比宇宙的层级，论统治者与各阶层的职能。",
+     "core_thesis": "哲学与预言同一真理；理想城由哲人—先知治理。",
+     "editions": "Walzer 英译（Al-Farabi on the Perfect State）",
+     "note": "伊斯兰政治哲学的奠基之作"
+    }
+   ]
   }
  ],
  "concepts": [

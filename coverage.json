@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-22",
  "totals": {
-  "entries": 387,
+  "entries": 393,
   "by_level": {
-   "L2": 331,
-   "L1": 56
+   "L2": 335,
+   "L1": 58
   },
   "doctrine": {
-   "total": 128,
-   "detail": 128,
+   "total": 134,
+   "detail": 134,
    "auto": 0
   },
-  "needs_verification": 56,
-  "sources": 228,
-  "sources_verified": 212
+  "needs_verification": 58,
+  "sources": 236,
+  "sources_verified": 220
  },
  "units": [
   {
@@ -65,10 +65,10 @@
    "unit_id": "cn-xianqin",
    "title": "先秦诸子",
    "region": "china",
-   "philosophers": 8,
+   "philosophers": 9,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 0"
+   "philosophers_slot": "8 上限，余 -1"
   },
   {
    "unit_id": "gr-19c",
@@ -110,10 +110,10 @@
    "unit_id": "gr-german",
    "title": "德国古典哲学",
    "region": "west",
-   "philosophers": 7,
+   "philosophers": 8,
    "concepts": 9,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 1"
+   "philosophers_slot": "8 上限，余 0"
   },
   {
    "unit_id": "gr-hellenistic",
@@ -128,19 +128,19 @@
    "unit_id": "gr-medieval",
    "title": "中世纪经院哲学",
    "region": "west",
-   "philosophers": 9,
+   "philosophers": 11,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -1"
+   "philosophers_slot": "8 上限，余 -3"
   },
   {
    "unit_id": "gr-modern",
    "title": "近代理性论与经验论",
    "region": "west",
-   "philosophers": 10,
+   "philosophers": 12,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -2"
+   "philosophers_slot": "8 上限，余 -4"
   }
  ],
  "entries": [
@@ -1432,6 +1432,17 @@
    "updated": "2026-11-22"
   },
   {
+   "id": "cn-xianqin-hui-shi",
+   "type": "philosopher",
+   "title": "惠施",
+   "container": "cn-xianqin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-22"
+  },
+  {
    "id": "cn-xianqin-ren",
    "type": "concept",
    "title": "仁",
@@ -2653,6 +2664,17 @@
    "updated": "2026-11-22"
   },
   {
+   "id": "gr-german-schiller",
+   "type": "philosopher",
+   "title": "席勒",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
    "id": "gr-german-transcendental",
    "type": "concept",
    "title": "先验",
@@ -3148,6 +3170,28 @@
    "updated": "2026-11-22"
   },
   {
+   "id": "gr-medieval-averroes",
+   "type": "philosopher",
+   "title": "阿威罗伊（伊本·鲁世德）",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-medieval-al-farabi",
+   "type": "philosopher",
+   "title": "法拉比",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
    "id": "gr-medieval-faith-reason",
    "type": "concept",
    "title": "信仰与理性",
@@ -3393,6 +3437,28 @@
    "id": "gr-modern-rousseau",
    "type": "philosopher",
    "title": "卢梭",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-modern-montesquieu",
+   "type": "philosopher",
+   "title": "孟德斯鸠",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "gr-modern-voltaire",
+   "type": "philosopher",
+   "title": "伏尔泰",
    "container": "gr-modern",
    "level": "L2",
    "sources": 3,

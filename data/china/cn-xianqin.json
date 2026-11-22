@@ -1483,6 +1483,151 @@
      "note": "六篇真伪与篇序有讨论"
     }
    ]
+  },
+  {
+   "id": "cn-xianqin-hui-shi",
+   "name": "惠施",
+   "latin": "Hui Shi",
+   "birth_year": -370,
+   "death_year": -310,
+   "birth_display": "约前370年",
+   "death_display": "约前310年",
+   "birth_note": "生卒为推定；据《庄子·天下》与《战国策》，曾任魏相。",
+   "death_note": "同上；具体卒年不可考。",
+   "era": "战国中期。惠施为名家代表、“合同异”一派的倡者，与庄子为友；其“历物十事”见于《庄子·天下》，以相对性消解同异之别。",
+   "school": "名家",
+   "core_questions": [
+    "同与异的界限在哪里？",
+    "空间与时间的无穷如何理解？",
+    "名能否把握流变之物？"
+   ],
+   "arguments": [
+    {
+     "claim": "合同异：同异是相对的",
+     "premises": [
+      "从某一角度看，万物皆同（“大同”）；从另一角度看，万物皆异（“小同异”）。",
+      "任何同异判断都依赖所取的角度。"
+     ],
+     "inference": "若同异随角度而变，则无绝对的同或异；故“万物毕同毕异”。",
+     "conclusion": "同异之分是相对的，须以“合同异”观之。",
+     "kind": "原文"
+    },
+    {
+     "claim": "空间与时间的无穷与相对",
+     "premises": [
+      "“至大无外，谓之大一；至小无内，谓之小一”。",
+      "“日方中方睨，物方生方死”。"
+     ],
+     "inference": "若大小、中睨、生死皆在流变中相对成立，则固定的界限不可得。",
+     "conclusion": "时空与事物的界限是相对的，名不能固定流变之物。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "历物十事（残，见《庄子·天下》）",
+     "edition": "见《庄子·天下》篇；郭庆藩《庄子集释》中华书局",
+     "note": "惠施著作已佚，十条命题由《庄子·天下》保存"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "邓析与早期辩者",
+     "id": null,
+     "note": "名实之辩的传统"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "公孙龙（“离坚白”一路，与之相对）",
+     "id": "cn-xianqin-gongsunlong",
+     "note": "同为名家而路径相反：一主合同异，一主离坚白"
+    },
+    {
+     "name": "庄子（与之辩论而受启发）",
+     "id": "cn-xianqin-zhuangzi",
+     "note": "《庄子·天下》评其说"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "庄子",
+     "view": "惠施“弱于德，强于物”，逐于万物而不反，其辩“能胜人之口，不能服人之心”。",
+     "response": "惠施一系的回应可重构为：名实之辩本身即是对“心服”的检验，不以情感认同为标准。",
+     "kind": "原文",
+     "sources": [
+      "ct-zhuangzi",
+      "sep-chinese-metaphysics"
+     ]
+    },
+    {
+     "critic": "荀子",
+     "view": "“惑于用名以乱实”，以相对性取消确定的名称，使政令无所依。",
+     "response": "名家一系的回应是：正因名随角度而变，才更需澄清用法；这与荀子的“制名指实”并非全然对立。",
+     "kind": "原文",
+     "sources": [
+      "ct-xunzi",
+      "iep-chinese-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "惠施的命题是诡辩",
+     "why": "其命题多以相对性与无穷为论题，旨在揭示日常同异判断的条件；是否成立可讨论，但非纯文字游戏。"
+    },
+    {
+     "claim": "惠施与公孙龙立场相同",
+     "why": "惠施主“合同异”，公孙龙主“离坚白”，二者是名家内部相反的两路。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>惠施：合同异与相对性</text><defs><marker id='aHS' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>同异随角度而变</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故无绝对的同或异</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>万物毕同毕异</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>名不能固定流变之物</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aHS)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aHS)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "惠施：合同异与相对性（示意图）",
+   "sources": [
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "惠施著作已佚，仅存《庄子·天下》所记“历物十事”；其命题的准确含义与逻辑性质，学界解释分歧较大。",
+   "doctrine": {
+    "summary": "惠施为名家“合同异”一派的代表：同异判断依赖所取角度，故无绝对的同或异（“万物毕同毕异”）；他又以“至大无外”“至小无内”“日方中方睨”等命题讨论时空的无穷与相对，说明名不能固定流变之物。其说仅存《庄子·天下》所记十条，与公孙龙的“离坚白”构成名家内部相反的两路。",
+    "system": [
+     {
+      "name": "合同异",
+      "content": "同异随角度而变，故无绝对的同异；万物毕同毕异。"
+     },
+     {
+      "name": "大一与小一",
+      "content": "至大无外谓之大一，至小无内谓之小一；大小界限相对。"
+     },
+     {
+      "name": "时空相对",
+      "content": "日方中方睨、物方生方死：流变中无固定界限。"
+     },
+     {
+      "name": "名不固定",
+      "content": "名不能固定流变之物，故须辨名实之相对性。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "魏相与辩者（约前330—前310）",
+      "change": "曾任魏相，主张合纵；与庄子为友，其说见《庄子·天下》。"
+     }
+    ],
+    "reception": "其“历物十事”是名家与先秦逻辑史的核心材料；庄子评其“强于物”；现代研究（胡适、葛瑞汉）关注其相对性与语言哲学意涵。"
+   },
+   "works_detail": [
+    {
+     "title": "历物十事（残）",
+     "structure": "惠施著作已佚；十条命题由《庄子·天下》保存并评述。",
+     "core_thesis": "合同异；大一与小一；时空相对。",
+     "editions": "见《庄子·天下》；郭庆藩《庄子集释》中华书局",
+     "note": "原书佚，仅存转述"
+    }
+   ]
   }
  ],
  "concepts": [
