@@ -1331,6 +1331,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-weijin-caixing",
+   "term": "才性四本",
+   "term_latin": "cai-xing siben（four positions on talent and nature）",
+   "definition": "魏晋清谈的四个议题：才与性是同、是异、是合、是离。它把人物品评中的“能力”与“本性”关系拆成四种立场，是玄学前期最技术性的辩论之一。",
+   "usages": [
+    {
+     "name": "王弼",
+     "id": "cn-weijin-wangbi",
+     "usage": "以“体用”思路处理才性：性为体、才为用，二者不即不离，故不必判为同或异。"
+    },
+    {
+     "name": "嵇康",
+     "id": "cn-weijin-jikang",
+     "usage": "倾向“才性离”：人的才能在世俗中显，而本性可独立于才，故可越名教而任自然。"
+    },
+    {
+     "name": "郭象",
+     "id": "cn-weijin-guoxiang",
+     "usage": "以“独化”消解问题：才与性各随其分而自生，不必以同异离合来判定。"
+    }
+   ],
+   "related": [
+    "cn-weijin-youwu",
+    "cn-weijin-mingjiao-ziran"
+   ],
+   "example": {
+    "text": "《世说新语·文学》记钟会撰《四本论》，“才性同、才性异、才性合、才性离”四说并立；钟会本人倾向“才性合”，而傅嘏主“才性同”，李丰主“才性异”，王广主“才性离”。",
+    "figure": "钟会（《四本论》作者）",
+    "locator": "《世说新语·文学》及刘孝标注"
+   },
+   "sources": [
+    "ws-shishuoxinyu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《四本论》原文已佚，四家的具体归属主要依《世说新语》刘孝标注与后世记述，各家立场的确切表述有讨论。"
   }
  ],
  "debates": [

@@ -1233,6 +1233,39 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-ironism",
+   "term": "反讽主义",
+   "term_latin": "ironism",
+   "definition": "罗蒂用语：一个人意识到自己用以评价自身的“终极词汇”是历史偶然的产物，却仍认真使用它；同时以“私人完美”与“公共团结”两分，避免把私人语汇强加于公共领域。",
+   "usages": [
+    {
+     "name": "罗蒂",
+     "id": "gr-contemp-rorty",
+     "usage": "反讽主义者知道自己词汇的偶然性，仍以其自我创造；公共领域则只用减少残酷的语言。"
+    },
+    {
+     "name": "哈贝马斯",
+     "id": "gr-contemp-habermas",
+     "usage": "批评这种两分会削弱公共辩护：公共领域仍须有可辩护的规范，而非仅靠“减少残酷”的直觉。"
+    }
+   ],
+   "related": [
+    "gr-contemp-postmetaphysical",
+    "gr-contemp-public-sphere"
+   ],
+   "example": {
+    "text": "罗蒂以小说家（如纳博科夫、奥威尔）为例：他们通过叙述具体残酷来扩展读者的同情，而无需诉诸形而上学的“人性”论证。",
+    "figure": "罗蒂",
+    "locator": "《偶然、反讽与团结》第 4—7 章"
+   },
+   "sources": [
+    "sep-rorty",
+    "sep-habermas"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

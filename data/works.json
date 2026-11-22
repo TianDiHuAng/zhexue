@@ -1022,6 +1022,176 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "work-mozi",
+   "title": "《墨子》",
+   "title_original": "墨子（Mozi）",
+   "tradition": "china",
+   "date_display": "战国前期（前5—前3世纪，含后期墨家之作）",
+   "structure": "今本五十三篇。分五组：墨论（尚贤、尚同、兼爱、非攻、节用、节葬、天志、明鬼、非乐、非命）、墨语、墨经（经上下、经说上下、大取、小取）、墨守（守城技术）、墨论杂篇。",
+   "core_arguments": [
+    "兼相爱、交相利：乱起于不相爱，故当视人之家若其家（《兼爱中》）",
+    "三表法：以上古圣王之事、百姓耳目之实、国家人民之利检验学说（《非命上》）",
+    "非攻：攻战在利害上不利、在名实上不义（《非攻上》）"
+   ],
+   "key_points": [
+    {
+     "locator": "《兼爱中》",
+     "point": "“兼相爱，交相利”的总纲"
+    },
+    {
+     "locator": "《非命上》",
+     "point": "三表法：本、原、用"
+    },
+    {
+     "locator": "《非攻上》",
+     "point": "“杀一人谓之不义…今至大为攻国，则弗知非”"
+    },
+    {
+     "locator": "《经上》",
+     "point": "后期墨家的名、辞、说与几何、光学条目"
+    }
+   ],
+   "editions": [
+    "孙诒让《墨子间诂》，中华书局（新编诸子集成本）",
+    "吴毓江《墨子校注》，中华书局",
+    "英译见 Ian Johnston, *The Mozi*, Chinese University Press"
+   ],
+   "related_people": [
+    "cn-xianqin-mozi",
+    "cn-xianqin-kongzi",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《墨子》全是墨翟一人所作",
+     "why": "《墨经》六篇为后期墨家辩学，《备城门》以下为守城技术，作者与年代分层明显。"
+    },
+    {
+     "claim": "墨家主张“兼爱”即爱一切人同等",
+     "why": "“兼”相对于“别”（区分人我而厚薄之）而言，重点是不以人我之别作为损人的理由。"
+    }
+   ],
+   "sources": [
+    "ct-mozi",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《墨经》六篇（经上下、经说上下、大取、小取）的作者与年代、以及《墨子》各篇的成书层次，学界有长期讨论。"
+  },
+  {
+   "id": "work-city-of-god",
+   "title": "《上帝之城》",
+   "title_original": "De Civitate Dei",
+   "tradition": "west",
+   "date_display": "413—426年",
+   "structure": "二十二卷。前十卷驳异教崇拜（罗马陷落后的神学辩解），后十二卷论“上帝之城”与“地上之城”的起源、发展与归宿。",
+   "core_arguments": [
+    "两座城的区分：按肉体生活与按灵性生活形成的两种爱，构成两座城（卷十四）",
+    "罗马的衰落不能归咎于基督教：异教崇拜未能拯救罗马（卷一—卷十）",
+    "真正的和平是“秩序的安宁”，只有在上帝之城中才完全实现（卷十九）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷十四 28",
+     "point": "两种爱、两座城的定义"
+    },
+    {
+     "locator": "卷十九 13",
+     "point": "和平即“秩序的安宁”（tranquillitas ordinis）"
+    },
+    {
+     "locator": "卷十一 26",
+     "point": "时间的受造性与“三一”的痕迹"
+    },
+    {
+     "locator": "卷二十二",
+     "point": "终末与复活"
+    }
+   ],
+   "editions": [
+    "吴飞译《上帝之城》，上海三联书店（节译本）",
+    "英译见 Marcus Dods, *The City of God*（New Advent 全文）",
+    "拉丁文本以 CCSL 版为准"
+   ],
+   "related_people": [
+    "gr-medieval-augustine",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "两座城是现实中的两个国家",
+     "why": "它们是两种“爱”所构成的两个共同体，在现实中交织难分，直到终末才分离。"
+    },
+    {
+     "claim": "奥古斯丁把世俗政治视为全然败坏",
+     "why": "他承认世俗和平的相对价值，只是不把它当作终极的善。"
+    }
+   ],
+   "sources": [
+    "na-cityofgod",
+    "sep-augustine"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "work-cpr-practical",
+   "title": "《实践理性批判》",
+   "title_original": "Kritik der praktischen Vernunft",
+   "tradition": "west",
+   "date_display": "1788年",
+   "structure": "导言＋第一部（纯粹实践理性的要素论：原理、概念、动机）＋第二部（方法论）。核心是“定言命令”与“自由”的相互印证。",
+   "core_arguments": [
+    "道德法则的普遍化检验：只按你能同时意愿其成为普遍法则的准则行动（§7）",
+    "自由与道德法则的相互印证：自由是道德法则的存在根据，道德法则是自由的认识根据",
+    "实践理性的悬设：自由、灵魂不朽、上帝（第二部）"
+   ],
+   "key_points": [
+    {
+     "locator": "§7",
+     "point": "定言命令的基本公式与普遍化检验"
+    },
+    {
+     "locator": "§5 注释",
+     "point": "“自由是道德法则的存在根据”"
+    },
+    {
+     "locator": "第一部第三章",
+     "point": "实践理性的三个悬设"
+    },
+    {
+     "locator": "结论",
+     "point": "“头上的星空与心中的道德律”"
+    }
+   ],
+   "editions": [
+    "邓晓芒译、杨祖陶校《实践理性批判》，人民出版社",
+    "李秋零译《实践理性批判》，中国人民大学出版社",
+    "德文以 Meiner 版为准（引用标 Akademie 版页码）"
+   ],
+   "related_people": [
+    "gr-german-kant",
+    "gr-modern-hume",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "康德主张“为义务而义务”，排斥一切情感",
+     "why": "他要求行为的道德价值不依赖情感，但承认“对道德法则的敬重”是一种情感；排除的是自利与偏好，不是一切感受。"
+    },
+    {
+     "claim": "定言命令能直接给出具体行为准则",
+     "why": "它提供的是准则的检验形式，具体应用仍须判断力与实践智慧。"
+    }
+   ],
+   "sources": [
+    "emt-kant",
+    "sep-kant"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

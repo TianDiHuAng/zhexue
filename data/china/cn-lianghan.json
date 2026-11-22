@@ -1273,6 +1273,39 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-santong",
+   "term": "三统",
+   "term_latin": "san tong（three sequences）",
+   "definition": "汉代的王朝更替理论：以黑统、白统、赤统三统循环，配以正朔、服色与礼制的改易，用以说明新王朝受命的正当性。",
+   "usages": [
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以三统说明“新王必改制”：改正朔、易服色，以应天受命。"
+    },
+    {
+     "name": "刘歆",
+     "id": "cn-lianghan-liu-xin",
+     "usage": "以三统说构造《三统历》，把历法周期与王朝循环结合，使三统成为可计算的天文—政治框架。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-tianren",
+    "cn-lianghan-yinyang-wuxing"
+   ],
+   "example": {
+    "text": "董仲舒说“王者必改正朔，易服色，制礼乐”，其根据即三统轮流当值：夏为黑统、商为白统、周为赤统，汉当再受黑统，故须改制以应之。",
+    "figure": "董仲舒",
+    "locator": "《春秋繁露·三代改制质文》"
+   },
+   "sources": [
+    "ct-chunqiufanlu",
+    "ct-shiji"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [
