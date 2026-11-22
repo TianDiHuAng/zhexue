@@ -143,55 +143,46 @@
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>王夫之：理气、知行与道器（示意）</text><defs><marker id='ar' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='64' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='88' text-anchor='middle' font-size='13' fill='#1e2d3d'>太虚即气</text><text x='145' y='108' text-anchor='middle' font-size='11' fill='#1e2d3d'>气有聚散而无生灭</text><line x1='145' y1='120' x2='145' y2='148' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='40' y='150' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='174' text-anchor='middle' font-size='13' fill='#1e2d3d'>气之条理即理</text><text x='145' y='194' text-anchor='middle' font-size='11' fill='#1e2d3d'>理在气中，离气无理</text><line x1='145' y1='206' x2='145' y2='234' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='40' y='236' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='260' text-anchor='middle' font-size='13' fill='#1e2d3d'>无其器则无其道</text><text x='145' y='280' text-anchor='middle' font-size='11' fill='#1e2d3d'>道随器变，不可执古</text><rect x='510' y='64' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='615' y='88' text-anchor='middle' font-size='13' fill='#1e2d3d'>行：知之实</text><text x='615' y='108' text-anchor='middle' font-size='11' fill='#1e2d3d'>行可兼知</text><line x1='615' y1='120' x2='615' y2='148' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='510' y='150' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='615' y='174' text-anchor='middle' font-size='13' fill='#1e2d3d'>知：行之导</text><text x='615' y='194' text-anchor='middle' font-size='11' fill='#1e2d3d'>知不可兼行</text><line x1='615' y1='206' x2='615' y2='234' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='510' y='236' width='210' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='615' y='260' text-anchor='middle' font-size='13' fill='#1e2d3d'>知行相资以为用</text><text x='615' y='280' text-anchor='middle' font-size='11' fill='#1e2d3d'>行统知而知识行</text><rect x='270' y='306' width='220' height='52' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='330' text-anchor='middle' font-size='13' fill='#1e2d3d'>即势以求理</text><text x='380' y='350' text-anchor='middle' font-size='11' fill='#1e2d3d'>理势相成，史有公论</text><line x1='250' y1='264' x2='312' y2='304' stroke='#4a7ba6' marker-end='url(#ar)'/><line x1='510' y1='264' x2='448' y2='304' stroke='#4a7ba6' marker-end='url(#ar)'/><text x='380' y='386' text-anchor='middle' font-size='11' fill='#1e2d3d'>左：本体论一路；右：工夫论一路；二者同归于“理在事中”</text></svg>",
    "svg_caption": "王夫之的核心问题与论证走向（示意）",
    "doctrine": {
-    "summary": "王夫之的核心问题可以概括为：理若不在气外，天理凭什么仍有约束力？；知与行孰先孰后，二者如何相资为用？；道在器先还是在器之中，历史之变有无常道？。本页据既有论点的材料汇编其学说主干——他主张：理在气中，气外无理；知行相资以为用，行可兼知而知不可兼行；无其器则无其道；理势相成：历史之变有理可循而非无定。以下“支柱”“分期”“接受史”均由本页论点、著作与批评条目汇编而成，读者可回到第三节核对每一论点的前提与推理。",
+    "summary": "王夫之以气本论为基础，主张“理在事中”“道在器中”，反对理在气先与离事言理；在知行问题上主张“知行相资以为用”，在历史哲学上以“势”与“理”的统一说明历史进程。其学是明清之际对程朱理学最系统的批评与重建。",
     "system": [
      {
-      "name": "理在气中，气外无理",
-      "content": "前提：太虚即气，气之聚散而成万物，气之外别无实物。；气的动静聚散自有其条理，此条理即是理，不是另有一物主宰乎气。。由此推出：理是气的条理，离气无理，天理不外于事物。"
+      "name": "气本论",
+      "content": "太虚一实，气为唯一实体；理是气之条理，不在气外。"
      },
      {
-      "name": "知行相资以为用，行可兼知而知不可兼行",
-      "content": "前提：《尚书》有“知之非艰，行之惟艰”之说，王夫之《尚书引义》辨其失，谓先儒分知行为两截。；知必待行而验，行不待知而始有，故行可统摄知，而知不能统摄行。。由此推出：知行互为用，而行为知之所依。"
+      "name": "理在事中",
+      "content": "离事无理的独立“天理”不存在；理在具体事物与历史过程中。"
      },
      {
-      "name": "无其器则无其道",
-      "content": "前提：道之名由器而立，离器则无所谓道。；古今之器不同，故其道亦不得不异，未有器已变而道可固守者。。由此推出：道在器中，器变则道亦变，故不可执古以绳今。"
+      "name": "知行相资",
+      "content": "知行相互为用，非先后两截；行可统知；这一点构成其学说的关键环节，详见第三节所列论点的前提与推理。"
      },
      {
-      "name": "理势相成：历史之变有理可循而非无定",
-      "content": "前提：历史之势由众人之私相激而成，非一人之力所能造。；势之相激处自有其不得不然，此不得不然即是理。。由此推出：读史当于势中求理，理势相成而后有公论。"
+      "name": "势理统一",
+      "content": "历史有其“势”，势中之必然即“理”；不以道德褒贬代替历史分析。"
      }
     ],
     "phases": [
      {
-      "period": "1619年—1692年",
-      "change": "明清之际。王夫之亲历明亡与南明抗清，晚年隐居湘西石船山，闭户著书四十余年，不仕清廷。其学以张载为宗，兼治《易》《春秋》，所面对的问题是：一套已经失效的理学话语，如何重新落到“事”与“势”上。"
+      "period": "抗清与流亡（1640—1650年代）",
+      "change": "衡山举兵抗清，后隐居著述；其前后的思想变化见本页第三节与著作详录。"
+     },
+     {
+      "period": "船山著述（1650—1692）",
+      "change": "著《读通鉴论》《宋论》《张子正蒙注》《周易外传》等，身后长期湮没。"
      }
     ],
-    "reception": "其影响主要见于：谭嗣同、曾国藩、邓显鹤（刊刻《船山遗书》）。历史上对其学说的主要批评来自：宗程朱一系的清儒（如唐鉴、罗泽南）。本页“批评与回应”一节并列了双方的理由，读者可就具体争议自行核对。",
-    "auto": true
+    "reception": "生前默默，晚清由曾国藩、曾国荃刊刻《船山遗书》而大显；近代（如谭嗣同、熊十力）视其为民族精神与气学的高峰。"
    },
    "works_detail": [
     {
      "title": "《读通鉴论》",
-     "structure": "史论，借历代治乱申理势之说，非编年史",
-     "core_thesis": "本书所论为：理在气中，气外无理；这是该书所要论证的核心命题。",
-     "editions": "王孝鱼点校，中华书局，1975；另见《船山全书》第十册，岳麓书社",
-     "note": "本条由本页“代表著作”条目汇编"
-    },
-    {
-     "title": "《张子正蒙注》",
-     "structure": "体例与内容见推荐版本；以注张载《正蒙》建立气本论",
-     "core_thesis": "本书所论为：理在气中，气外无理；这是该书所要论证的核心命题。",
-     "editions": "《船山全书》第十二册，岳麓书社，1992；中华书局另有章锡琛校点本",
-     "note": "本条由本页“代表著作”条目汇编"
-    },
-    {
-     "title": "《周易外传》《尚书引义》",
-     "structure": "体例与内容见推荐版本；道器论与知行论的主要出处",
-     "core_thesis": "本书所论为：理在气中，气外无理；这是该书所要论证的核心命题。",
-     "editions": "《船山全书》第一、二册，岳麓书社，1988—1996",
-     "note": "本条由本页“代表著作”条目汇编"
+     "year": "1690年代",
+     "date": "史论，三十卷",
+     "structure": "按《资治通鉴》编次，逐事评论历代政治得失。",
+     "core_thesis": "以“势”与“理”分析历史；批评以道德空言代替制度分析。",
+     "editions": "《船山全书》岳麓书社",
+     "note": "史论而非严格史学著作"
     }
    ]
   },
