@@ -1,0 +1,767 @@
+{
+ "unit_id": "cn-suitang",
+ "region": "china",
+ "title": "隋唐佛学",
+ "period": "581—907",
+ "start_year": 581,
+ "end_year": 907,
+ "summary": "隋唐统一带来译经与义学的高峰：国家主持译场，印度中观、唯识、因明与戒律系统传入，中国僧人则以判教方式整理全部佛说，形成天台、三论、唯识、华严、禅等宗派。这一时期的中心问题不再只是“如何解脱”，而是“佛说如此众多，何者为了义”，判教与观行由此成为同一件事的两面。",
+ "threads": [
+  "判教：如何在众多经典间确定次第与了义",
+  "空有之争：中观与唯识对“依他起”的不同解释",
+  "观行：止观、顿悟与念佛等实践方式的竞争"
+ ],
+ "philosophers": [
+  {
+   "id": "cn-suitang-zhiyi",
+   "name": "智顗",
+   "latin": "Zhiyi (Tiantai)",
+   "birth_year": 538,
+   "death_year": 597,
+   "birth_display": "538年",
+   "death_display": "597年",
+   "birth_note": "据《续高僧传》卷十七：生于荆州华容，十八岁出家。",
+   "death_note": "597年卒于天台山；其讲说由弟子灌顶记录整理。",
+   "era": "梁末至隋。智顗在陈隋之际活动，受隋炀帝（时为晋王）礼遇；他以《法华经》为宗，整合北方禅法与南方义学，建立“教观双美”的体系。",
+   "school": "天台宗",
+   "core_questions": [
+    "众多经典如何判其高下与次第？",
+    "一念之中如何具足全体法界？",
+    "止与观如何双修而不偏废？"
+   ],
+   "arguments": [
+    {
+     "claim": "一念三千：一心具足十法界与三类世间",
+     "premises": [
+      "十法界（地狱至佛）各具十法界，成百界；每界各有十如是，成千如；再配三类世间，成三千。",
+      "此三千不在心外，亦非心的产物，而是“一念”所具的全体。"
+     ],
+     "inference": "若一切法互相摄受（由《法华》的诸法实相与中观的缘起），则任一所观之境已含全体；故观一念即观三千。",
+     "conclusion": "观行的对象不是抽象的“空”，而是当下具足全体的一念。",
+     "kind": "原文"
+    },
+    {
+     "claim": "三谛圆融：空、假、中互具而非次第",
+     "premises": [
+      "一切法缘起无自性，故空。",
+      "虽空而宛然显现，故假；空假不二，故中。"
+     ],
+     "inference": "若三谛是同一实相的三面，则不可把它们当作先后阶段的三个真理；任举一谛即三谛。",
+     "conclusion": "圆教之“圆”在于三谛互具、一念顿足，而非渐次证入。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《摩诃止观》",
+     "edition": "《大正藏》第46册；中译注本参李安《摩诃止观辅行传弘决》相关研究",
+     "note": "十卷，灌顶记录；天台观行的根本典籍，“一念三千”的完整表述见卷五"
+    },
+    {
+     "title": "《法华玄义》《法华文句》",
+     "edition": "《大正藏》第33、34册",
+     "note": "判教（五时八教）与《法华》解释的主要文本"
+    }
+   ],
+   "influenced_by": [
+    {"name": "慧思", "id": null, "note": "其师，北方禅法与《法华》信仰的传承者"},
+    {"name": "龙树中观学", "id": null, "note": "《中论》《大智度论》为其义理基础"}
+   ],
+   "influenced": [
+    {"name": "灌顶与天台一系", "id": null, "note": "记录并传持其讲说"},
+    {"name": "湛然与宋代山家", "id": null, "note": "“无情有性”说与山家山外之争"}
+   ],
+   "criticisms": [
+    {
+     "critic": "唯识宗（如窥基一系）",
+     "view": "以《法华》为最高、判《解深密》为不了义，缺乏经论证成；且“一念三千”近于泛神。",
+     "response": "天台一系的回应是：判教依据的是佛陀说法的次第与意趣，非单经的自我宣称；一念三千是观行论，不是“万物即心”的形而上学断言。",
+     "kind": "后人解读",
+     "sources": ["ws-mohezhiguan", "sep-madhyamaka"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "一念三千是说世界由心创造",
+     "why": "其重点在“观”——当下能观之心与所观之境互具，全体在观行中呈现；不是因果意义上的“心造万物”。"
+    },
+    {
+     "claim": "天台只重理论",
+     "why": "《摩诃止观》是具体的修行指南，教理与观行被视为不可分割的整体（“教观双美”）。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>智顗：一念三千与三谛（示意）</text><defs><marker id='arY1' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='50' y='62' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>十法界 × 十 ＝ 百界</text><text x='155' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>每界十如是</text><rect x='500' y='62' width='210' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>三类世间</text><text x='605' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>众生·国土·五阴</text><line x1='155' y1='118' x2='320' y2='158' stroke='#4a7ba6' marker-end='url(#arY1)'/><line x1='605' y1='118' x2='440' y2='158' stroke='#4a7ba6' marker-end='url(#arY1)'/><rect x='244' y='162' width='272' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>三千法即一念所具</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>非心造，而是观境之全</text><line x1='380' y1='218' x2='380' y2='254' stroke='#4a7ba6' marker-end='url(#arY1)'/><rect x='130' y='258' width='240' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='250' y='281' text-anchor='middle' font-size='12' fill='#1c3a5c'>空·假·中三谛互具</text><text x='250' y='300' text-anchor='middle' font-size='10' fill='#1e2d3d'>非次第，故称“圆”</text><rect x='390' y='258' width='240' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='510' y='281' text-anchor='middle' font-size='12' fill='#1c3a5c'>止观双修</text><text x='510' y='300' text-anchor='middle' font-size='10' fill='#1e2d3d'>教观不二</text></svg>",
+   "svg_caption": "智顗：一念三千与三谛圆融的结构（示意图）",
+   "sources": ["ws-mohezhiguan", "sep-madhyamaka"],
+   "needs_verification": true,
+   "pending_notes": "“一念三千”的完整表述见《摩诃止观》卷五上，但不同版本（大正藏本与卍续藏本）文字有差异；其是否可被读作唯心论，学界有讨论，本页按观行论处理。"
+  },
+  {
+   "id": "cn-suitang-jizang",
+   "name": "吉藏",
+   "latin": "Jizang (Sanlun)",
+   "birth_year": 549,
+   "death_year": 623,
+   "birth_display": "549年",
+   "death_display": "623年",
+   "birth_note": "据《续高僧传》卷十一：生于金陵，祖籍安息（帕提亚），故称“胡吉藏”。",
+   "death_note": "623年卒于长安。",
+   "era": "陈隋之际。吉藏承鸠摩罗什所传三论（《中论》《百论》《十二门论》）之学，住嘉祥寺，故称“嘉祥大师”；他在隋唐之际与唯识、天台诸家辩论，是三论宗的实际建立者。",
+   "school": "三论宗",
+   "core_questions": [
+    "如何以“破”而不以“立”的方式显示实相？",
+    "二谛之间是什么关系？",
+    "佛性是否本有？"
+   ],
+   "arguments": [
+    {
+     "claim": "破邪显正：只破不立",
+     "premises": [
+      "一切主张（包括“空”本身）都是依待而立的假名。",
+      "若立一“正”，则此“正”又成执著的对象。"
+     ],
+     "inference": "若实相不可被任何命题穷尽，则显示实相的方式只能是破除执著；破尽即显，不需另立一法。",
+     "conclusion": "三论学的任务是“破邪”，其“正”不是新的命题，而是执著的止息。",
+     "kind": "原文"
+    },
+    {
+     "claim": "二谛是教：于谛与教谛",
+     "premises": [
+      "诸佛依二谛说法，众生依二谛得解。",
+      "若二谛是“理”，则有二理；若二谛是“教”，则二谛为方便。"
+     ],
+     "inference": "为对治不同执著，佛说俗谛与真谛；二谛本身也是方便，不可执为究竟。",
+     "conclusion": "二谛是“教”而非“理”；究竟处“二谛相即”，言语道断。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《三论玄义》《中观论疏》《二谛义》",
+     "edition": "《大正藏》第45、42册；《三论玄义》有韩廷杰校释本，中华书局",
+     "note": "《三论玄义》为学派纲领；《二谛义》专论二谛，为吉藏思想的要点"
+    }
+   ],
+   "influenced_by": [
+    {"name": "鸠摩罗什与僧肇", "id": null, "note": "三论译本与《肇论》为其直接资源"},
+    {"name": "龙树《中论》", "id": null, "note": "八不中道与缘起性空"}
+   ],
+   "influenced": [
+    {"name": "天台与华严的义理", "id": null, "note": "三谛、四法界的构造受其影响"},
+    {"name": "日本三论宗", "id": null, "note": "经高丽传入日本"}
+   ],
+   "criticisms": [
+    {
+     "critic": "唯识宗",
+     "view": "若一切皆破，则“依他起”与“圆成实”的成立亦被否定，修行失去次第依据。",
+     "response": "吉藏式的回应是：破的是“自性执”，不是否定缘起的有效性；依他起作为缘起法仍可成立，只是不可执为自性有。",
+     "kind": "后人解读",
+     "sources": ["sep-madhyamaka", "ws-chengweishi"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "三论宗主张“一切皆无”",
+     "why": "“空”指无自性，非否定现象；吉藏明确说若执“空”为有，则“空”亦须破（“空亦复空”）。"
+    },
+    {
+     "claim": "三论宗只是印度中观的复述",
+     "why": "吉藏以“二谛是教”“破邪显正”重新组织学说，并回应中国当时的佛性论与判教问题，具有创造性。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>吉藏：破邪显正与二谛（示意）</text><defs><marker id='arY2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='50' y='62' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>一切主张依待而立</text><text x='155' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>皆是假名</text><rect x='500' y='62' width='210' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>立“正”则成新执</text><text x='605' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>“空”亦须破</text><line x1='155' y1='118' x2='320' y2='158' stroke='#4a7ba6' marker-end='url(#arY2)'/><line x1='605' y1='118' x2='440' y2='158' stroke='#4a7ba6' marker-end='url(#arY2)'/><rect x='244' y='162' width='272' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>故只破不立</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>破尽即显，不需另立一法</text><line x1='380' y1='218' x2='380' y2='254' stroke='#4a7ba6' marker-end='url(#arY2)'/><rect x='130' y='258' width='240' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='250' y='281' text-anchor='middle' font-size='12' fill='#1c3a5c'>二谛是“教”非“理”</text><text x='250' y='300' text-anchor='middle' font-size='10' fill='#1e2d3d'>对治不同执著</text><rect x='390' y='258' width='240' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='510' y='281' text-anchor='middle' font-size='12' fill='#1c3a5c'>究竟：二谛相即</text><text x='510' y='300' text-anchor='middle' font-size='10' fill='#1e2d3d'>言语道断</text></svg>",
+   "svg_caption": "吉藏：破邪显正与二谛是教（示意图）",
+   "sources": ["sep-madhyamaka", "ws-zhaolun"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-xuanzang",
+   "name": "玄奘",
+   "latin": "Xuanzang",
+   "birth_year": 602,
+   "death_year": 664,
+   "birth_display": "602年",
+   "death_display": "664年",
+   "birth_note": "据《大慈恩寺三藏法师传》：俗姓陈，洛州缑氏人，十三岁出家。",
+   "death_note": "664年卒于玉华宫；译经七十五部、一三三五卷。",
+   "era": "唐初。贞观年间西行求法十七年，归国后主持译场，系统译出瑜伽行派与因明典籍；其见闻由弟子辩机整理为《大唐西域记》。",
+   "school": "唯识宗（法相宗）",
+   "core_questions": [
+    "外境是否独立于识而存在？",
+    "识的结构与转依如何说明？",
+    "因明如何保证论证的有效性？"
+   ],
+   "arguments": [
+    {
+     "claim": "唯识无境：外境非离识而独立",
+     "premises": [
+      "梦中无实境而有苦乐，说明境可由识而现。",
+      "若境独立于识，则无法说明同一境对不同众生显现不同（如饿鬼见水为脓）。"
+     ],
+     "inference": "若我们所知的一切都经由识的构造，则“独立外境”无法被证实，且其假设不能解释显现的差异。",
+     "conclusion": "一切法唯识所变（识变）；外境非有，识非无。",
+     "kind": "原文"
+    },
+    {
+     "claim": "八识与种子：经验如何延续",
+     "premises": [
+      "前六识有间断（如熟睡、无想定）。",
+      "业与习气的延续需要一个持续的承载者。"
+     ],
+     "inference": "若六识间断而业力不失，则须有相续的识（阿赖耶识）执持种子，遇缘现行。",
+     "conclusion": "阿赖耶识为“藏识”，摄持种子，是生死流转与转依的根据。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《成唯识论》（译释）",
+     "edition": "《大正藏》第31册；窥基《成唯识论述记》为权威注释",
+     "note": "十卷，糅合护法等十大论师之说；为唯识学在中国的根本论典"
+    },
+    {
+     "title": "《大唐西域记》",
+     "edition": "季羡林等《大唐西域记校注》，中华书局",
+     "note": "游历见闻；研究七世纪中亚与印度的重要史料"
+    }
+   ],
+   "influenced_by": [
+    {"name": "戒贤与那烂陀寺瑜伽行派", "id": null, "note": "其在印度的主要老师"},
+    {"name": "陈那与法称的因明", "id": null, "note": "因明论证方法"}
+   ],
+   "influenced": [
+    {"name": "窥基与唯识宗", "id": "cn-suitang-kuiji", "note": "其弟子，奠定中国唯识学的解释框架"},
+    {"name": "日本法相宗", "id": null, "note": "经日本入唐求法僧传入"}
+   ],
+   "criticisms": [
+    {
+     "critic": "三论宗与天台宗",
+     "view": "“识变”说仍立一“识”为实有，未达“空亦复空”；且其名相繁复，不利观行。",
+     "response": "唯识一系的回应是：识亦依他起、非自性有，故与“空”不冲突；名相之繁是为对治细致的执著，非以繁为贵。",
+     "kind": "后人解读",
+     "sources": ["sep-yogacara", "ws-chengweishi"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "唯识就是“一切都是我的意识”",
+     "why": "唯识学讲“识变”，但阿赖耶识是共业所感的共有结构，他心与他人世界并非由“我的意识”任意产生；把它等同于主观唯心论是误读。"
+    },
+    {
+     "claim": "玄奘只是翻译家",
+     "why": "《成唯识论》是糅译与裁断的结果，其组织方式本身即体现学派立场；他同时以因明回应了当时的论难。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>玄奘：识变与八识（示意）</text><defs><marker id='arY3' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='50' y='62' width='220' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='160' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>梦中无境而有苦乐</text><text x='160' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>境可由识而现</text><rect x='490' y='62' width='220' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='600' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>同境异见</text><text x='600' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>饿鬼见水为脓</text><line x1='160' y1='118' x2='320' y2='158' stroke='#4a7ba6' marker-end='url(#arY3)'/><line x1='600' y1='118' x2='440' y2='158' stroke='#4a7ba6' marker-end='url(#arY3)'/><rect x='244' y='162' width='272' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>外境独立之假设不可证</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>且不能解释显现差异</text><line x1='380' y1='218' x2='380' y2='254' stroke='#4a7ba6' marker-end='url(#arY3)'/><rect x='140' y='258' width='240' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='260' y='281' text-anchor='middle' font-size='12' fill='#1c3a5c'>结论：唯识无境</text><text x='260' y='300' text-anchor='middle' font-size='10' fill='#1e2d3d'>识变而非境有</text><rect x='400' y='258' width='240' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='520' y='281' text-anchor='middle' font-size='12' fill='#1c3a5c'>阿赖耶识持种</text><text x='520' y='300' text-anchor='middle' font-size='10' fill='#1e2d3d'>六识间断而业不失</text></svg>",
+   "svg_caption": "玄奘：从梦中现境到唯识无境（示意图）",
+   "sources": ["ws-chengweishi", "sep-yogacara"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-kuiji",
+   "name": "窥基",
+   "latin": "Kuiji",
+   "birth_year": 632,
+   "death_year": 682,
+   "birth_display": "632年",
+   "death_display": "682年",
+   "birth_note": "据《宋高僧传》卷四：俗姓尉迟，十七岁从玄奘出家。",
+   "death_note": "682年卒于慈恩寺；世称“慈恩大师”。",
+   "era": "唐高宗时期。窥基随玄奘译场笔受，撰《成唯识论述记》，确立中国唯识学的解释框架；其注疏被称为“百部疏主”。",
+   "school": "唯识宗（法相宗）",
+   "core_questions": [
+    "五位百法如何统摄一切法？",
+    "识变的结构如何分判？",
+    "如何回应他宗对唯识的批评？"
+   ],
+   "arguments": [
+    {
+     "claim": "五位百法：以分类统摄一切法",
+     "premises": [
+      "心法、心所法、色法、心不相应行法、无为法五类可为一切法之总摄。",
+      "每一类有确定的数目与定义（八识、五十一心所等）。"
+     ],
+     "inference": "若一切法都可归入这五类且无遗漏，则对治执著便有了精确的坐标；分类本身即是观行的地图。",
+     "conclusion": "五位百法是唯识学的纲领性分类，修行者据此辨识何者应断、何者应证。",
+     "kind": "原文"
+    },
+    {
+     "claim": "识变三分：见分、相分、自证分",
+     "premises": [
+      "认识总包含能认识（见分）与所认识（相分）。",
+      "二者同属识的显现，须有一分证知此认识活动本身。"
+     ],
+     "inference": "若见相二分皆为识所变，则须有“自证分”说明认识的自知；否则认识无法被记忆与反省。",
+     "conclusion": "识的结构是三分（后加“证自证分”为四分），故外境不必独立存在。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《成唯识论述记》",
+     "edition": "《大正藏》第43册；金陵刻经处本可参",
+     "note": "二十卷，唯识学最重要的注释；中国唯识学的解释基础"
+    },
+    {
+     "title": "《大乘法苑义林章》《唯识二十论述记》",
+     "edition": "《大正藏》第45、43册",
+     "note": "教义纲目与对唯识二十论的注释"
+    }
+   ],
+   "influenced_by": [
+    {"name": "玄奘", "id": "cn-suitang-xuanzang", "note": "随其译场笔受，承其学"}
+   ],
+   "influenced": [
+    {"name": "慧沼与智周", "id": null, "note": "唯识学在中国的后续传承"},
+    {"name": "日本法相宗", "id": null, "note": "其注疏传入日本，成为法相教学的基础"}
+   ],
+   "criticisms": [
+    {
+     "critic": "法藏（华严宗）",
+     "view": "唯识的“识变”仍是“生灭”层面的说明，未达“事事无碍”的圆融；且判《华严》为最高，唯识为了义之说不能成立。",
+     "response": "窥基一系的回应是：判教须有经证与理证，华严的“无尽缘起”若无唯识的“种子—现行”机制，则难以说明具体的因果。",
+     "kind": "后人解读",
+     "sources": ["ws-chengweishi", "sep-buddhism-huayan"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "唯识宗在唐代最流行",
+     "why": "它在长安义学中影响很大，但名相繁复、传承时间短；真正深入民间的是禅宗与净土。"
+    },
+    {
+     "claim": "五位百法只是繁琐的名相",
+     "why": "其功能是对治：把“我执”分解为具体的法，使修行者能逐项辨识；分类是观行的工具，而非知识炫耀。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>窥基：五位百法与识分（示意）</text><defs><marker id='arY4' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='60' width='200' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='140' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>心法（八识）</text><text x='140' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>心所法五十一</text><rect x='280' y='60' width='200' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>色法十一</text><text x='380' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>心不相应行法十四</text><rect x='520' y='60' width='200' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='620' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>无为法六</text><text x='620' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>共百法</text><line x1='140' y1='118' x2='300' y2='158' stroke='#4a7ba6' marker-end='url(#arY4)'/><line x1='620' y1='118' x2='460' y2='158' stroke='#4a7ba6' marker-end='url(#arY4)'/><rect x='244' y='162' width='272' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>识分：见分·相分·自证分</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>认识自知，故不须外境</text><line x1='380' y1='218' x2='380' y2='254' stroke='#4a7ba6' marker-end='url(#arY4)'/><rect x='170' y='258' width='420' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='280' text-anchor='middle' font-size='12' fill='#1c3a5c'>功能：分类即观行地图</text><text x='380' y='299' text-anchor='middle' font-size='10' fill='#1e2d3d'>逐项辨识应断应证</text></svg>",
+   "svg_caption": "窥基：五位百法与识分结构（示意图）",
+   "sources": ["ws-chengweishi", "sep-yogacara"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-fazang",
+   "name": "法藏",
+   "latin": "Fazang (Huayan)",
+   "birth_year": 643,
+   "death_year": 712,
+   "birth_display": "643年",
+   "death_display": "712年",
+   "birth_note": "据《宋高僧传》卷五：俗姓康，祖籍康居，生于长安。",
+   "death_note": "712年卒于长安；世称“贤首国师”。",
+   "era": "武则天至玄宗时期。法藏参与《华严经》新译，以金狮子为喻为武则天讲说华严义理，建立四法界、六相、十玄的体系，为华严宗的实际创立者。",
+   "school": "华严宗",
+   "core_questions": [
+    "一与多、部分与整体如何相即？",
+    "现象之间（事事）能否无碍？",
+    "如何以简明方式呈现华严的广大义理？"
+   ],
+   "arguments": [
+    {
+     "claim": "事事无碍：现象之间互相摄受",
+     "premises": [
+      "一切法依缘而起，无独立自性。",
+      "无自性故，一法的成立依赖一切法；一切法亦入于一法。"
+     ],
+     "inference": "若诸法互为条件而无自性，则任一现象都含摄全体的关系网；故“一即一切，一切即一”，事与事之间不相障碍。",
+     "conclusion": "法界是“事事无碍”的缘起网络（因陀罗网喻）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "六相圆融：总别、同异、成坏互摄",
+     "premises": [
+      "房舍由椽瓦等构成：舍为“总”，椽瓦为“别”。",
+      "椽瓦同成舍（同），各具自相（异）；舍成则椽瓦成（成），舍坏则椽瓦坏（坏）。"
+     ],
+     "inference": "若总别、同异、成坏三对范畴都不离彼此而成立，则整体与部分、同一与差异不是对立的，而是互摄的。",
+     "conclusion": "六相圆融是事事无碍的逻辑表达：任举一法，六相具足。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《华严金师子章》",
+     "edition": "《大正藏》第45册；方立天《华严金师子章校释》，中华书局",
+     "note": "为武则天讲说的纲要，十门、约千余字，四法界与六相的简明表述"
+    },
+    {
+     "title": "《华严探玄记》《华严经旨归》",
+     "edition": "《大正藏》第35、45册",
+     "note": "《探玄记》为晋译《华严》的注释，体系庞大"
+    }
+   ],
+   "influenced_by": [
+    {"name": "智俨", "id": null, "note": "其师，十玄门的最初构设"},
+    {"name": "《华严经》与地论、摄论学", "id": null, "note": "如来藏与唯识要素的融合"}
+   ],
+   "influenced": [
+    {"name": "澄观与宗密", "id": null, "note": "四法界的系统化与华严禅的会通"},
+    {"name": "宋明理学的“理一分殊”", "id": null, "note": "华严的理事无碍对理学有影响（此为思想史关联，非直接师承）"}
+   ],
+   "criticisms": [
+    {
+     "critic": "唯识宗",
+     "view": "“事事无碍”若无“种子—现行”的机制，则无法说明具体的因果差别，易流于泛泛的圆融。",
+     "response": "法藏一系的回应是：无碍正是缘起的彻底表述，差别不但不被取消，反而在“相即”中更显其必要。",
+     "kind": "后人解读",
+     "sources": ["sep-buddhism-huayan", "ws-chengweishi"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "事事无碍是说万物同一、没有差别",
+     "why": "华严强调“即”而非“同”：差别相宛然，然因无自性而互摄；取消差别即落入“断灭见”。"
+    },
+    {
+     "claim": "四法界是四个世界",
+     "why": "四法界（事、理、理事无碍、事事无碍）是同一法界的四种观法层次，不是并列的宇宙。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>法藏：四法界与事事无碍（示意）</text><defs><marker id='arY5' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='60' width='160' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='120' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>事法界</text><text x='120' y='100' text-anchor='middle' font-size='10' fill='#1e2d3d'>差别相</text><rect x='215' y='60' width='160' height='52' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='295' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>理法界</text><text x='295' y='100' text-anchor='middle' font-size='10' fill='#1e2d3d'>空性</text><rect x='390' y='60' width='170' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='475' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>理事无碍</text><text x='475' y='100' text-anchor='middle' font-size='10' fill='#1e2d3d'>事依理成</text><rect x='575' y='60' width='170' height='52' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='660' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>事事无碍</text><text x='660' y='100' text-anchor='middle' font-size='10' fill='#1e2d3d'>因陀罗网</text><line x1='120' y1='112' x2='320' y2='158' stroke='#4a7ba6' marker-end='url(#arY5)'/><line x1='660' y1='112' x2='450' y2='158' stroke='#4a7ba6' marker-end='url(#arY5)'/><rect x='244' y='162' width='272' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>一即一切，一切即一</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>无自性故互摄</text><line x1='380' y1='218' x2='380' y2='254' stroke='#4a7ba6' marker-end='url(#arY5)'/><rect x='150' y='258' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='280' text-anchor='middle' font-size='12' fill='#1c3a5c'>六相圆融：总别·同异·成坏</text><text x='380' y='299' text-anchor='middle' font-size='10' fill='#1e2d3d'>整体与部分非对立，而是互摄</text></svg>",
+   "svg_caption": "法藏：四法界的层次与六相圆融（示意图）",
+   "sources": ["sep-buddhism-huayan", "book-chan-sourcebook"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-huineng",
+   "name": "慧能",
+   "latin": "Huineng",
+   "birth_year": 638,
+   "death_year": 713,
+   "birth_display": "638年",
+   "death_display": "713年",
+   "birth_note": "据《坛经》与王维《能禅师碑》：生于新州，父早亡，卖柴养母。",
+   "death_note": "713年卒于新州国恩寺；《坛经》诸本对其生平记载有差异。",
+   "era": "唐高宗至玄宗时期。慧能得法于黄梅弘忍，后在曹溪弘法三十余年；其“顿悟”主张经弟子神会等人的弘传，成为南宗正统，并在后世被奉为禅宗六祖。",
+   "school": "禅宗（南宗）",
+   "core_questions": [
+    "悟是渐次修成还是当下顿见？",
+    "佛性在自心之内还是之外？",
+    "坐禅与念佛是否必需的形式？"
+   ],
+   "arguments": [
+    {
+     "claim": "自性本自清净，见性即成佛",
+     "premises": [
+      "“菩提自性，本来清净；但用此心，直了成佛”。",
+      "烦恼与菩提、众生与佛的差别在于迷悟，而非本性的有无。"
+     ],
+     "inference": "若佛性是本具的，则修行不是“获得”佛性，而是去除遮蔽；故关键在于“见”，而不在于积累。",
+     "conclusion": "见性成佛：悟在当下自心，不待外求。",
+     "kind": "原文"
+    },
+    {
+     "claim": "顿悟：悟非渐次积累所得",
+     "premises": [
+      "渐修可以净心，但“悟”是对自性的整体把握。",
+      "若悟可由部分累积而成，则所悟仍是拼合之物。"
+     ],
+     "inference": "若自性是一整体而非可分的对象，则对它的把握不能分片获得；故悟是顿然的翻转（“一悟即至佛地”）。",
+     "conclusion": "南宗以“顿”立宗，但不废渐修（“法无顿渐，人有利钝”）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《六祖坛经》（宗宝本／敦煌本）",
+     "edition": "郭朋《坛经校释》，中华书局；敦煌本见《大正藏》第48册（此二本文字差异显著）",
+     "note": "慧能说法由门人记录，历经增衍；敦煌本较早，宗宝本通行"
+    }
+   ],
+   "influenced_by": [
+    {"name": "弘忍（黄梅东山法门）", "id": null, "note": "传统记载其为五祖，慧能得法于此"},
+    {"name": "《金刚经》与般若学", "id": null, "note": "“应无所住而生其心”为其开悟因缘"}
+   ],
+   "influenced": [
+    {"name": "神会与南宗正统的建立", "id": null, "note": "以“顿悟”对抗北宗"},
+    {"name": "后世禅宗五家七宗", "id": null, "note": "临济、曹洞等皆溯源于曹溪"}
+   ],
+   "criticisms": [
+    {
+     "critic": "北宗（神秀一系）",
+     "view": "“时时勤拂拭”的渐修才是稳妥之道；顿悟之说易使人忽视实际修持，流于空谈。",
+     "response": "南宗的回应是：渐修不废，但若无“见性”，则所修仍在能所对待之中；顿悟是方向的翻转，不是取消修行。",
+     "kind": "后人解读",
+     "sources": ["ws-liuzutanjing", "book-chan-sourcebook"]
+    },
+    {
+     "critic": "后世学者（版本与史学研究）",
+     "view": "《坛经》经多次增衍，慧能的历史形象与神会一系的政治建构难以截然分开。",
+     "response": "禅宗一系的回应是：文本的层累不取消其教说的有效性；对“顿悟”的实践理解一直是活的传统。",
+     "kind": "后人解读",
+     "sources": ["ws-liuzutanjing", "book-chan-sourcebook"]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "顿悟就是不需要修行",
+     "why": "《坛经》讲“法无顿渐，人有利钝”，并强调“念念自见”；顿指悟的方式，不是废除戒定与日常作务。"
+    },
+    {
+     "claim": "《坛经》是慧能亲笔所写",
+     "why": "现存《坛经》有敦煌本、惠昕本、宗宝本等系统，内容随时代增衍；作者与成书层次是学界长期讨论的问题。"
+    }
+   ],
+   "quotes": [
+    {"text": "菩提自性，本来清净；但用此心，直了成佛", "source_id": "ws-liuzutanjing", "locator": "《坛经·行由品》（宗宝本）", "kind": "原文"}
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>慧能：见性与顿悟（示意）</text><defs><marker id='arY6' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='50' y='62' width='220' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='160' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>自性本自清净</text><text x='160' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>佛性本具，非外得</text><rect x='490' y='62' width='220' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='600' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>迷悟之别</text><text x='600' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>众生与佛非二体</text><line x1='160' y1='118' x2='320' y2='158' stroke='#4a7ba6' marker-end='url(#arY6)'/><line x1='600' y1='118' x2='440' y2='158' stroke='#4a7ba6' marker-end='url(#arY6)'/><rect x='244' y='162' width='272' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>修行＝去遮蔽，非积累</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>故关键在于“见”</text><line x1='380' y1='218' x2='380' y2='254' stroke='#4a7ba6' marker-end='url(#arY6)'/><rect x='140' y='258' width='240' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='260' y='281' text-anchor='middle' font-size='12' fill='#1c3a5c'>顿悟：整体翻转</text><text x='260' y='300' text-anchor='middle' font-size='10' fill='#1e2d3d'>非分片累积</text><rect x='400' y='258' width='240' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='520' y='281' text-anchor='middle' font-size='12' fill='#1c3a5c'>法无顿渐，人有利钝</text><text x='520' y='300' text-anchor='middle' font-size='10' fill='#1e2d3d'>渐修不废</text></svg>",
+   "svg_caption": "慧能：自性本具与顿悟的关系（示意图）",
+   "sources": ["ws-liuzutanjing", "book-chan-sourcebook"],
+   "needs_verification": true,
+   "pending_notes": "《坛经》的版本与作者：敦煌本（约9世纪）与元宗宝本内容差异显著，慧能说法与后世增补难以截然分开；本页按“南宗禅的集体文本”处理，生平细节依《坛经》与王维碑，不作史实断定。"
+  }
+ ],
+ "concepts": [
+  {
+   "id": "cn-suitang-yuanqi",
+   "term": "缘起性空",
+   "term_latin": "pratītyasamutpāda / śūnyatā",
+   "definition": "一切法依因待缘而生，无独立自性，故说“空”；空不是不存在，而是“无自性”的另一种表述。",
+   "usages": [
+    {"name": "吉藏", "id": "cn-suitang-jizang", "usage": "以“破邪显正”显示缘起：任一主张皆依待而立，故不可执为自性有。"},
+    {"name": "法藏", "id": "cn-suitang-fazang", "usage": "由无自性推出“事事无碍”：正因诸法互依，一法才含摄全体关系。"}
+   ],
+   "related": ["cn-suitang-er-di", "cn-suitang-yiniansanqian"],
+   "example": {"text": "龙树以“因缘所生法，我说即是空，亦为是假名，亦是中道义”一颂概括：缘起、空、假名、中道是同一实相的四种表述。", "figure": "吉藏（引龙树颂）", "locator": "《中论》观四谛品（吉藏《中观论疏》引）"},
+   "sources": ["sep-madhyamaka", "ws-zhaolun"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-er-di",
+   "term": "二谛",
+   "term_latin": "satya-dvaya（two truths）",
+   "definition": "俗谛（世俗的言说与约定）与真谛（第一义）；中观认为二者相依而立，不可执一。",
+   "usages": [
+    {"name": "吉藏", "id": "cn-suitang-jizang", "usage": "“二谛是教”：二谛是佛对治执著的方便，非两个独立的理；究竟处二谛相即。"},
+    {"name": "智顗", "id": "cn-suitang-zhiyi", "usage": "发展为三谛（空、假、中）：于二谛之上更立“中”，三者互具而圆融。"}
+   ],
+   "related": ["cn-suitang-yuanqi", "cn-suitang-yiniansanqian"],
+   "example": {"text": "吉藏举例：说“有”是为对治“无”的执著，说“无”是为对治“有”的执著；两者皆是药，病去则药亦不留。", "figure": "吉藏", "locator": "《二谛义》卷上"},
+   "sources": ["sep-madhyamaka", "ws-mohezhiguan"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-yiniansanqian",
+   "term": "一念三千",
+   "term_latin": "yinian sanqian",
+   "definition": "天台宗的核心观法：当下之一念即具足十法界、百界千如与三类世间所成的三千法；非心造万物，而是观境之全。",
+   "usages": [
+    {"name": "智顗", "id": "cn-suitang-zhiyi", "usage": "以十乘观法观一念，即于当下一念见全体法界；此为圆教的观行，不是形而上学命题。"},
+    {"name": "法藏（对照用法）", "id": "cn-suitang-fazang", "usage": "以“事事无碍”表达类似的全体互摄，但以法界缘起而非“一念”为轴。"}
+   ],
+   "related": ["cn-suitang-er-di", "cn-suitang-foxing"],
+   "example": {"text": "《摩诃止观》说“一念心起，即具十法界”；观地狱界时，一念嗔恚即具地狱，观佛界时一念慈悲即具佛界——界界互具，故称三千。", "figure": "智顗", "locator": "《摩诃止观》卷五上"},
+   "sources": ["ws-mohezhiguan", "sep-madhyamaka"],
+   "needs_verification": true,
+   "pending_notes": "“一念三千”的文本表述在不同版本中有差异，且其哲学定性（观行论/唯心论/实在论）学界有争论；本页按观行论处理。"
+  },
+  {
+   "id": "cn-suitang-weishi",
+   "term": "唯识",
+   "term_latin": "vijñaptimātratā",
+   "definition": "一切法由识所变，外境非离识而独立；识有八种，以阿赖耶识为种子与业力的所依。",
+   "usages": [
+    {"name": "玄奘", "id": "cn-suitang-xuanzang", "usage": "以梦中现境与同境异见证成“唯识无境”，并立八识与种子说明相续。"},
+    {"name": "窥基", "id": "cn-suitang-kuiji", "usage": "以五位百法与见相自证三分，把唯识组织为可供观行的分类体系。"}
+   ],
+   "related": ["cn-suitang-yuanqi", "cn-suitang-foxing"],
+   "example": {"text": "《成唯识论》以“如梦”为喻：梦中虽无实境，然有苦乐与恐惧；醒时之境亦由识变，差别只在“共业”与“不共业”。", "figure": "玄奘", "locator": "《成唯识论》卷一"},
+   "sources": ["ws-chengweishi", "sep-yogacara"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-foxing",
+   "term": "佛性",
+   "term_latin": "buddha-dhātu / tathāgatagarbha",
+   "definition": "众生本具的成佛可能性与根据；中国佛教各家对“本有”还是“始有”、是否一切众生（乃至无情）皆有，有不同说法。",
+   "usages": [
+    {"name": "慧能", "id": "cn-suitang-huineng", "usage": "佛性即自性，本自清净；见性即成佛，不需外求。"},
+    {"name": "玄奘", "id": "cn-suitang-xuanzang", "usage": "依瑜伽行派立“五种姓”，其中“无种姓”者不能成佛——此说与“一切众生皆有佛性”的立场相冲突。"}
+   ],
+   "related": ["cn-suitang-yiniansanqian", "cn-suitang-dunwu"],
+   "example": {"text": "《坛经》记慧能初见弘忍时说“人虽有南北，佛性本无南北”，以地域之差反显佛性之平等。", "figure": "慧能", "locator": "《坛经·行由品》"},
+   "sources": ["ws-liuzutanjing", "sep-yogacara"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-dunwu",
+   "term": "顿悟",
+   "term_latin": "sudden awakening",
+   "definition": "对自性的整体把握，非渐次积累而成；与“渐修”相对，但多数禅师并不否定渐修的必要。",
+   "usages": [
+    {"name": "慧能", "id": "cn-suitang-huineng", "usage": "“法无顿渐，人有利钝”；顿指悟的方式，渐修仍可保留。"},
+    {"name": "智顗（对照用法）", "id": "cn-suitang-zhiyi", "usage": "天台立“渐次、不定、圆顿”多种止观，圆顿虽一时具足，仍以次第方便为入路。"}
+   ],
+   "related": ["cn-suitang-foxing", "cn-suitang-panjiao"],
+   "example": {"text": "神会在滑台大会主张“单刀直入，直了见性”，以“顿”对抗北宗的“渐”，使南宗获得正统地位；这一事件是禅宗史的关键。", "figure": "慧能（南宗一系）", "locator": "《坛经》诸本与神会语录的相关记载"},
+   "sources": ["ws-liuzutanjing", "book-chan-sourcebook"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-panjiao",
+   "term": "判教",
+   "term_latin": "panjiao（doctrinal classification）",
+   "definition": "以佛陀说法的次第与意趣为标准，判定各类经典的高下、了义与不了义，从而确立本宗的地位。",
+   "usages": [
+    {"name": "智顗", "id": "cn-suitang-zhiyi", "usage": "五时八教：以《法华》为纯圆，统摄诸经。"},
+    {"name": "法藏", "id": "cn-suitang-fazang", "usage": "五教十宗：以小乘、始教、终教、顿教、圆教分判，《华严》为别教一乘。"}
+   ],
+   "related": ["cn-suitang-er-di", "cn-suitang-dunwu"],
+   "example": {"text": "天台以“五味”喻佛说次第（乳、酪、生酥、熟酥、醍醐），《法华》如醍醐；华严则以“日出先照高山”喻《华严》为最初最上之说。", "figure": "智顗", "locator": "《法华玄义》卷一"},
+   "sources": ["ws-mohezhiguan", "sep-buddhism-huayan"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-kongyou",
+   "term": "空有之争",
+   "term_latin": "debate on emptiness and existence",
+   "definition": "中观（三论）与唯识之间关于“依他起”是否为实有的争论：前者主张一切法无自性，后者主张依他起与圆成实为有。",
+   "usages": [
+    {"name": "吉藏", "id": "cn-suitang-jizang", "usage": "若立“识”为实有，则未离自性执；故“识”亦须空。"},
+    {"name": "窥基", "id": "cn-suitang-kuiji", "usage": "若一切皆空，则因果与转依无所依托；依他起与圆成实须为有，方能成立修行次第。"}
+   ],
+   "related": ["cn-suitang-yuanqi", "cn-suitang-weishi"],
+   "example": {"text": "争论的典型问题：若“依他起”也是空，则“圆成实”依何而说？唯识家据此指责中观落于“恶取空”；中观家则反问：“若识实有，何异于外道之自性？”", "figure": "吉藏／窥基", "locator": "《三论玄义》与《成唯识论述记》的相关辩难"},
+   "sources": ["sep-madhyamaka", "sep-yogacara", "ws-chengweishi"],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "debates": [
+  {
+   "id": "cn-suitang-dunjian",
+   "title": "顿悟与渐修",
+   "question": "悟是当下的整体翻转，还是必须经次第修行而后得？",
+   "positions": [
+    {
+     "holder": "慧能（南宗）",
+     "id": "cn-suitang-huineng",
+     "stance": "顿悟见性",
+     "reasons": [
+      "自性本具，修行只是去遮蔽，故悟是整体而非部分累积。",
+      "“法无顿渐，人有利钝”，顿指悟的方式，不废渐修。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "神秀（北宗）",
+     "id": null,
+     "stance": "渐修净心",
+     "reasons": [
+      "“时时勤拂拭，勿使惹尘埃”：须持续对治烦恼。",
+      "若无次第，则初学者无从入手，易生狂禅。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "智顗（天台，对照立场）",
+     "id": "cn-suitang-zhiyi",
+     "stance": "圆顿亦不废次第方便",
+     "reasons": [
+      "立渐次、不定、圆顿三种止观，随根性而设。",
+      "圆顿虽一时具足，仍以方便为入路。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点是“悟的结构”：若自性不可分，悟便不能分片获得；若修行必须积累，则顿悟只能是长期渐修的结果。争论还涉及正统性的争夺（南宗如何取代北宗）。",
+   "status": "无定论",
+   "status_note": "历史上南宗获胜并被奉为正统（《坛经》成为禅门根本），但“顿渐”之争在宋代以后以“看话禅/默照禅”等形式延续；学界一般认为南北宗的差异被后世叙述放大了。",
+   "sources": ["ws-liuzutanjing", "book-chan-sourcebook", "ws-mohezhiguan"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-foxing-benyou",
+   "title": "佛性是本有还是始有",
+   "question": "众生成佛的根据是本来具足的（本有），还是修行后新得的（始有）？一切众生（乃至无情）是否皆有佛性？",
+   "positions": [
+    {
+     "holder": "慧能（南宗）",
+     "id": "cn-suitang-huineng",
+     "stance": "本有：自性本自清净",
+     "reasons": [
+      "若佛性是新得，则成佛是“获得”一个本无之物，与“本自清净”相违。",
+      "见性即成佛，故佛性不待修成。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "玄奘、窥基（唯识）",
+     "id": "cn-suitang-xuanzang",
+     "stance": "五种姓：部分众生无成佛种姓",
+     "reasons": [
+      "依瑜伽行派，众生种姓有差别，“无种姓”者不得成佛。",
+      "若一切皆本有佛性，则修行与种姓的差别无从说明。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "湛然（天台，后世）",
+     "id": null,
+     "stance": "无情有性",
+     "reasons": [
+      "色心不二，故无情亦有佛性。",
+      "若无情无性，则“一念三千”的全体说不能成立。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点是“佛性的普遍性”：若本有，则一切众生皆可成佛（甚至无情有性）；若种姓有别，则普遍性受限。这一分歧直接关系到修行是否对所有人开放。",
+   "status": "无定论",
+   "status_note": "中国佛教主流（天台、华严、禅）倾向“一切众生皆有佛性”，唯识的五种姓说因此常受批评；但唯识家有经论依据，争论在东亚佛教内部长期存在。",
+   "sources": ["ws-liuzutanjing", "sep-yogacara", "ws-mohezhiguan"],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-kongyou-zheng",
+   "title": "空有之争：三论与唯识",
+   "question": "“依他起”是实有还是无自性？若一切皆空，因果与修行如何成立？",
+   "positions": [
+    {
+     "holder": "吉藏（三论）",
+     "id": "cn-suitang-jizang",
+     "stance": "一切法无自性，识亦不例外",
+     "reasons": [
+      "凡有自性者即非缘起；识若实有，则与外道之“自性”无异。",
+      "破尽执著即显实相，不需另立一“有”。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "窥基（唯识）",
+     "id": "cn-suitang-kuiji",
+     "stance": "依他起与圆成实为有",
+     "reasons": [
+      "若无依他起，则因果与种子无从安立。",
+      "“恶取空”会破坏修行次第与业果。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点是“空”的彻底程度与“因果”的安立方式：中观以“无自性”贯彻到底，唯识则以三性区分“假有”与“实有”。二者对“如何在空义中保住修行”给出不同方案。",
+   "status": "无定论",
+   "status_note": "印度即有此争论（清辨与护法），玄奘在《会宗论》中曾试图会通；中国三论宗与唯识宗各持其说，学界一般认为二者对“空”的用法不同，未必构成直接矛盾。",
+   "sources": ["sep-madhyamaka", "sep-yogacara", "ws-chengweishi"],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ]
+}
