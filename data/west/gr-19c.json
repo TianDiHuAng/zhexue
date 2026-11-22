@@ -64,12 +64,28 @@
     }
    ],
    "influenced_by": [
-    {"name": "康德", "id": null, "note": "现象/物自体的框架，但以意志取代不可知的物自体"},
-    {"name": "柏拉图与印度哲学（《奥义书》）", "id": null, "note": "理念与“摩耶”式的表象观"}
+    {
+     "name": "康德",
+     "id": null,
+     "note": "现象/物自体的框架，但以意志取代不可知的物自体"
+    },
+    {
+     "name": "柏拉图与印度哲学（《奥义书》）",
+     "id": null,
+     "note": "理念与“摩耶”式的表象观"
+    }
    ],
    "influenced": [
-    {"name": "尼采", "id": "gr-19c-nietzsche", "note": "早期奉其为师，后反其悲观主义"},
-    {"name": "维特根斯坦与弗洛伊德", "id": null, "note": "前者受其美学与“意志”问题影响，后者承认其“无意识意志”的先声"}
+    {
+     "name": "尼采",
+     "id": "gr-19c-nietzsche",
+     "note": "早期奉其为师，后反其悲观主义"
+    },
+    {
+     "name": "维特根斯坦与弗洛伊德",
+     "id": null,
+     "note": "前者受其美学与“意志”问题影响，后者承认其“无意识意志”的先声"
+    }
    ],
    "criticisms": [
     {
@@ -77,7 +93,10 @@
      "view": "悲观主义仍是“道德”的残余：把痛苦普遍化并据此否定生命，是一种衰弱的评价方式。",
      "response": "叔本华式的回应是：否定意志并非道德说教，而是对“欲求即缺乏”这一结构的描述；承认痛苦不因此就是否定生命。",
      "kind": "后人解读",
-     "sources": ["sep-schopenhauer", "sep-nietzsche"]
+     "sources": [
+      "sep-schopenhauer",
+      "sep-nietzsche"
+     ]
     }
    ],
    "misconceptions": [
@@ -93,7 +112,11 @@
    "quotes": [],
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>叔本华：表象与意志（示意）</text><defs><marker id='arS1' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='60' y='60' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='175' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>表象：时空与根据律</text><text x='175' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>可认识的一面</text><rect x='470' y='60' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='585' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>意志：盲目的冲动</text><text x='585' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>从内部被体验</text><line x1='175' y1='118' x2='300' y2='158' stroke='#4a7ba6' marker-end='url(#arS1)'/><line x1='585' y1='118' x2='460' y2='158' stroke='#4a7ba6' marker-end='url(#arS1)'/><rect x='240' y='162' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>意志＝缺乏＝痛苦</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>满足只是暂时中止</text><line x1='380' y1='218' x2='380' y2='256' stroke='#4a7ba6' marker-end='url(#arS1)'/><rect x='150' y='260' width='460' height='54' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='282' text-anchor='middle' font-size='12' fill='#1c3a5c'>解脱：审美无我 → 意志之否定</text><text x='380' y='301' text-anchor='middle' font-size='10' fill='#1e2d3d'>非自杀，而是对意志的“转向”</text></svg>",
    "svg_caption": "叔本华：表象—意志—痛苦—解脱（示意图）",
-   "sources": ["sep-schopenhauer", "iep-schopenhauer", "book-copleston-history"],
+   "sources": [
+    "sep-schopenhauer",
+    "iep-schopenhauer",
+    "book-copleston-history"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -144,12 +167,28 @@
     }
    ],
    "influenced_by": [
-    {"name": "苏格拉底（反讽）", "id": null, "note": "以反讽与“助产”方式写作，论文《论反讽概念》"},
-    {"name": "黑格尔（批判对象）", "id": null, "note": "体系的“客观精神”是其批评的靶子"}
+    {
+     "name": "苏格拉底（反讽）",
+     "id": null,
+     "note": "以反讽与“助产”方式写作，论文《论反讽概念》"
+    },
+    {
+     "name": "黑格尔（批判对象）",
+     "id": null,
+     "note": "体系的“客观精神”是其批评的靶子"
+    }
    ],
    "influenced": [
-    {"name": "海德格尔与萨特", "id": null, "note": "生存论分析与“本真性”问题的源头"},
-    {"name": "巴特与存在主义神学", "id": null, "note": "“无限质的差异”与信仰的悖论性"}
+    {
+     "name": "海德格尔与萨特",
+     "id": null,
+     "note": "生存论分析与“本真性”问题的源头"
+    },
+    {
+     "name": "巴特与存在主义神学",
+     "id": null,
+     "note": "“无限质的差异”与信仰的悖论性"
+    }
    ],
    "criticisms": [
     {
@@ -157,7 +196,10 @@
      "view": "把信仰说成非理性的跳跃，等于放弃思想的普遍性，退回私人的主观任意。",
      "response": "克尔凯郭尔的回应是：普遍性无法安顿“单个的个人”的生存；他的“主观”不是任意，而是承担责任的激情。",
      "kind": "后人解读",
-     "sources": ["sep-kierkegaard", "book-copleston-history"]
+     "sources": [
+      "sep-kierkegaard",
+      "book-copleston-history"
+     ]
     }
    ],
    "misconceptions": [
@@ -173,7 +215,10 @@
    "quotes": [],
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>克尔凯郭尔：三种生存方式（示意）</text><defs><marker id='arS2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='50' y='70' width='200' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='150' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>审美</text><text x='150' y='113' text-anchor='middle' font-size='10' fill='#1e2d3d'>追逐新鲜，终致绝望</text><line x1='250' y1='100' x2='292' y2='100' stroke='#4a7ba6' marker-end='url(#arS2)'/><rect x='296' y='70' width='180' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='386' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>伦理</text><text x='386' y='113' text-anchor='middle' font-size='10' fill='#1e2d3d'>选择与责任</text><line x1='476' y1='100' x2='518' y2='100' stroke='#4a7ba6' marker-end='url(#arS2)'/><rect x='522' y='70' width='190' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='617' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>宗教</text><text x='617' y='113' text-anchor='middle' font-size='10' fill='#1e2d3d'>悖论前的跳跃</text><line x1='380' y1='130' x2='380' y2='170' stroke='#4a7ba6' marker-end='url(#arS2)'/><rect x='200' y='174' width='360' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='197' text-anchor='middle' font-size='12' fill='#1c3a5c'>过渡不由理性完成，而由决断</text><text x='380' y='216' text-anchor='middle' font-size='10' fill='#1e2d3d'>故有恐惧与颤栗</text><line x1='380' y1='232' x2='380' y2='268' stroke='#4a7ba6' marker-end='url(#arS2)'/><rect x='150' y='272' width='460' height='50' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='302' text-anchor='middle' font-size='12' fill='#1c3a5c'>结论：主体性即真理，体系不能代替生存</text></svg>",
    "svg_caption": "克尔凯郭尔：三种生存方式与“跳跃”（示意图）",
-   "sources": ["sep-kierkegaard", "book-copleston-history"],
+   "sources": [
+    "sep-kierkegaard",
+    "book-copleston-history"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -224,12 +269,28 @@
     }
    ],
    "influenced_by": [
-    {"name": "黑格尔", "id": null, "note": "辩证法与“外化”结构，被其改造为劳动异化"},
-    {"name": "费尔巴哈与古典政治经济学（斯密、李嘉图）", "id": null, "note": "宗教投射批判与劳动价值论"}
+    {
+     "name": "黑格尔",
+     "id": null,
+     "note": "辩证法与“外化”结构，被其改造为劳动异化"
+    },
+    {
+     "name": "费尔巴哈与古典政治经济学（斯密、李嘉图）",
+     "id": null,
+     "note": "宗教投射批判与劳动价值论"
+    }
    ],
    "influenced": [
-    {"name": "卢卡奇与法兰克福学派", "id": null, "note": "物化与意识形态批判"},
-    {"name": "结构马克思主义（阿尔都塞）", "id": null, "note": "对“早期马克思/晚期马克思”断裂的重新解释"}
+    {
+     "name": "卢卡奇与法兰克福学派",
+     "id": null,
+     "note": "物化与意识形态批判"
+    },
+    {
+     "name": "结构马克思主义（阿尔都塞）",
+     "id": null,
+     "note": "对“早期马克思/晚期马克思”断裂的重新解释"
+    }
    ],
    "criticisms": [
     {
@@ -237,7 +298,10 @@
      "view": "历史唯物主义是不可证伪的历史预言，其“不可避免”的结论缺乏经验检验。",
      "response": "马克思主义者的回应是：历史唯物主义提供的是分析框架与趋势判断（如利润率下降的倾向），并非单线预言；具体结论可被经验修正。",
      "kind": "后人解读",
-     "sources": ["sep-marx", "book-copleston-history"]
+     "sources": [
+      "sep-marx",
+      "book-copleston-history"
+     ]
     }
    ],
    "misconceptions": [
@@ -251,11 +315,20 @@
     }
    ],
    "quotes": [
-    {"text": "不是人们的意识决定人们的存在，相反，是人们的社会存在决定人们的意识", "source_id": "marx-chinese", "locator": "《政治经济学批判》序言（《马克思恩格斯文集》第二卷）", "kind": "原文"}
+    {
+     "text": "不是人们的意识决定人们的存在，相反，是人们的社会存在决定人们的意识",
+     "source_id": "marx-chinese",
+     "locator": "《政治经济学批判》序言（《马克思恩格斯文集》第二卷）",
+     "kind": "原文"
+    }
    ],
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>马克思：基础与异化（示意）</text><defs><marker id='arS3' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='60' y='62' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='175' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>生产力与生产关系</text><text x='175' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>物质生活的前提</text><line x1='290' y1='91' x2='330' y2='91' stroke='#4a7ba6' marker-end='url(#arS3)'/><rect x='334' y='62' width='200' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='434' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>上层建筑与意识</text><text x='434' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>法、国家、意识形态</text><line x1='534' y1='91' x2='574' y2='91' stroke='#4a7ba6' marker-end='url(#arS3)'/><rect x='578' y='62' width='150' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='653' y='86' text-anchor='middle' font-size='12' fill='#1c3a5c'>矛盾推动</text><text x='653' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>历史更替</text><line x1='380' y1='120' x2='380' y2='158' stroke='#4a7ba6' marker-end='url(#arS3)'/><rect x='170' y='162' width='420' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>私有制下的异化劳动</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>产品、活动、类本质、人与人</text><line x1='380' y1='220' x2='380' y2='258' stroke='#4a7ba6' marker-end='url(#arS3)'/><rect x='150' y='262' width='460' height='50' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='292' text-anchor='middle' font-size='12' fill='#1c3a5c'>结论：批判须是政治经济学批判</text></svg>",
    "svg_caption": "马克思：基础—上层建筑与异化劳动（示意图）",
-   "sources": ["sep-marx", "book-copleston-history", "marx-chinese"],
+   "sources": [
+    "sep-marx",
+    "book-copleston-history",
+    "marx-chinese"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -306,12 +379,28 @@
     }
    ],
    "influenced_by": [
-    {"name": "边沁与詹姆斯·密尔", "id": null, "note": "功利主义与联想主义心理学"},
-    {"name": "哈莉特·泰勒", "id": null, "note": "对其自由原则与妇女权利主张的影响"}
+    {
+     "name": "边沁与詹姆斯·密尔",
+     "id": null,
+     "note": "功利主义与联想主义心理学"
+    },
+    {
+     "name": "哈莉特·泰勒",
+     "id": null,
+     "note": "对其自由原则与妇女权利主张的影响"
+    }
    ],
    "influenced": [
-    {"name": "罗尔斯与当代自由主义", "id": null, "note": "伤害原则与“个性”论证的持续影响"},
-    {"name": "西季威克与功利主义的系统化", "id": null, "note": "对功利主义的自我批评与修正"}
+    {
+     "name": "罗尔斯与当代自由主义",
+     "id": null,
+     "note": "伤害原则与“个性”论证的持续影响"
+    },
+    {
+     "name": "西季威克与功利主义的系统化",
+     "id": null,
+     "note": "对功利主义的自我批评与修正"
+    }
    ],
    "criticisms": [
     {
@@ -319,7 +408,10 @@
      "view": "以后果（幸福总量）为标准会允许牺牲少数人的权利；自由原则本身也需要一个非功利的根据。",
      "response": "密尔的回应是：长期的功利计算支持保护个人权利，因为侵犯权利会破坏安全感与个性发展；规则层面的功利主义可容纳权利。",
      "kind": "后人解读",
-     "sources": ["sep-mill", "book-copleston-history"]
+     "sources": [
+      "sep-mill",
+      "book-copleston-history"
+     ]
     }
    ],
    "misconceptions": [
@@ -335,7 +427,10 @@
    "quotes": [],
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>密尔：质的快乐与伤害原则（示意）</text><defs><marker id='arS4' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='50' y='62' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='165' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提：有资格者的偏好</text><text x='165' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>体验过两者而择其高</text><rect x='480' y='62' width='240' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='600' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提：强制须有理由</text><text x='600' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>“为你好”不足</text><line x1='165' y1='120' x2='300' y2='158' stroke='#4a7ba6' marker-end='url(#arS4)'/><line x1='600' y1='120' x2='460' y2='158' stroke='#4a7ba6' marker-end='url(#arS4)'/><rect x='220' y='162' width='320' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='184' text-anchor='middle' font-size='12' fill='#1c3a5c'>结论一：快乐有质的高下</text><text x='380' y='203' text-anchor='middle' font-size='10' fill='#1e2d3d'>不满足的苏格拉底胜于满足的猪</text><line x1='380' y1='218' x2='380' y2='252' stroke='#4a7ba6' marker-end='url(#arS4)'/><rect x='180' y='256' width='400' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='278' text-anchor='middle' font-size='12' fill='#1c3a5c'>结论二：伤害原则划定界限</text><text x='380' y='297' text-anchor='middle' font-size='10' fill='#1e2d3d'>个性与言论自由是进步条件</text></svg>",
    "svg_caption": "密尔：两条论证的走向（示意图）",
-   "sources": ["sep-mill", "book-copleston-history"],
+   "sources": [
+    "sep-mill",
+    "book-copleston-history"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -386,12 +481,28 @@
     }
    ],
    "influenced_by": [
-    {"name": "叔本华", "id": "gr-19c-schopenhauer", "note": "早期奉为 educator，后反其否定意志"},
-    {"name": "爱默生与古典语文学", "id": null, "note": "自我依靠与文体风格"}
+    {
+     "name": "叔本华",
+     "id": "gr-19c-schopenhauer",
+     "note": "早期奉为 educator，后反其否定意志"
+    },
+    {
+     "name": "爱默生与古典语文学",
+     "id": null,
+     "note": "自我依靠与文体风格"
+    }
    ],
    "influenced": [
-    {"name": "海德格尔与福柯", "id": null, "note": "虚无主义诊断与谱系学方法"},
-    {"name": "存在主义与后现代思想", "id": null, "note": "价值重估与“主体”批判"}
+    {
+     "name": "海德格尔与福柯",
+     "id": null,
+     "note": "虚无主义诊断与谱系学方法"
+    },
+    {
+     "name": "存在主义与后现代思想",
+     "id": null,
+     "note": "价值重估与“主体”批判"
+    }
    ],
    "criticisms": [
     {
@@ -399,7 +510,10 @@
      "view": "谱系学只能说明道德的起源，不能直接推出其规范性无效；“起源谬误”的嫌疑未被消除。",
      "response": "尼采式回应是：道德若以其宣称的普遍性自居，则揭示其特殊起源即构成对它自我理解的批判；这不是从起源直接推出无效，而是拆解其自我辩护。",
      "kind": "后人解读",
-     "sources": ["sep-nietzsche", "iep-nietzsche"]
+     "sources": [
+      "sep-nietzsche",
+      "iep-nietzsche"
+     ]
     }
    ],
    "misconceptions": [
@@ -415,7 +529,11 @@
    "quotes": [],
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>尼采：谱系学与价值重估（示意）</text><defs><marker id='arS5' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='46' y='62' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='161' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>起源一：贵族的“好/坏”</text><text x='161' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>自我肯定</text><rect x='484' y='62' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='599' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>起源二：奴隶的“善/恶”</text><text x='599' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>怨恨的价值翻转</text><line x1='246' y1='91' x2='330' y2='91' stroke='#4a7ba6' marker-end='url(#arS5)'/><line x1='484' y1='91' x2='420' y2='91' stroke='#4a7ba6' marker-end='url(#arS5)'/><rect x='334' y='64' width='82' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='375' y='86' text-anchor='middle' font-size='11' fill='#1c3a5c'>谱系</text><text x='375' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>历史考察</text><line x1='380' y1='116' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#arS5)'/><rect x='200' y='160' width='360' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='12' fill='#1c3a5c'>诊断：上帝死了 → 虚无主义</text><text x='380' y='202' text-anchor='middle' font-size='10' fill='#1e2d3d'>价值根基的崩塌</text><line x1='380' y1='218' x2='380' y2='254' stroke='#4a7ba6' marker-end='url(#arS5)'/><rect x='160' y='258' width='440' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='280' text-anchor='middle' font-size='12' fill='#1c3a5c'>重估：命运之爱与永恒轮回的检验</text><text x='380' y='299' text-anchor='middle' font-size='10' fill='#1e2d3d'>能愿望一切再来一次者，即肯定生命</text></svg>",
    "svg_caption": "尼采：两种道德起源与价值重估（示意图）",
-   "sources": ["sep-nietzsche", "iep-nietzsche", "paper-s43681-026-01311-z"],
+   "sources": [
+    "sep-nietzsche",
+    "iep-nietzsche",
+    "paper-s43681-026-01311-z"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -466,12 +584,28 @@
     }
    ],
    "influenced_by": [
-    {"name": "圣西门", "id": null, "note": "社会重组与科学组织的构想"},
-    {"name": "休谟与牛顿式科学观", "id": null, "note": "以可观察关系为知识限度的经验论"}
+    {
+     "name": "圣西门",
+     "id": null,
+     "note": "社会重组与科学组织的构想"
+    },
+    {
+     "name": "休谟与牛顿式科学观",
+     "id": null,
+     "note": "以可观察关系为知识限度的经验论"
+    }
    ],
    "influenced": [
-    {"name": "密尔与斯宾塞", "id": null, "note": "实证方法在英国的传播与改造"},
-    {"name": "维也纳学派（逻辑经验主义）", "id": null, "note": "反形而上学与科学统一的纲领"}
+    {
+     "name": "密尔与斯宾塞",
+     "id": null,
+     "note": "实证方法在英国的传播与改造"
+    },
+    {
+     "name": "维也纳学派（逻辑经验主义）",
+     "id": null,
+     "note": "反形而上学与科学统一的纲领"
+    }
    ],
    "criticisms": [
     {
@@ -479,7 +613,10 @@
      "view": "孔德把方法的统一推得过远：社会现象涉及人的意图与历史，不能完全照搬物理方法；其“人道教”更近于宗教建制。",
      "response": "孔德式的回应是：社会规律是统计性与趋势性的，不要求个体可预测；科学统一是方法论的纲领，不是把社会学化约为物理学。",
      "kind": "后人解读",
-     "sources": ["sep-comte", "sep-mill"]
+     "sources": [
+      "sep-comte",
+      "sep-mill"
+     ]
     }
    ],
    "misconceptions": [
@@ -495,7 +632,165 @@
    "quotes": [],
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>孔德：三阶段与科学序列（示意）</text><defs><marker id='arS6' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='46' y='62' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='151' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>神学阶段</text><text x='151' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>以神意解释</text><line x1='256' y1='90' x2='300' y2='90' stroke='#4a7ba6' marker-end='url(#arS6)'/><rect x='304' y='62' width='210' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='409' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>形而上学阶段</text><text x='409' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>以抽象实体解释</text><line x1='514' y1='90' x2='558' y2='90' stroke='#4a7ba6' marker-end='url(#arS6)'/><rect x='562' y='62' width='160' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='642' y='86' text-anchor='middle' font-size='12' fill='#1c3a5c'>实证阶段</text><text x='642' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>只问如何</text><line x1='380' y1='118' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#arS6)'/><rect x='210' y='160' width='340' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='12' fill='#1c3a5c'>科学序列：数→天→物→化→生→社</text><text x='380' y='202' text-anchor='middle' font-size='10' fill='#1e2d3d'>社会学居其顶</text><line x1='380' y1='216' x2='380' y2='252' stroke='#4a7ba6' marker-end='url(#arS6)'/><rect x='170' y='256' width='420' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='278' text-anchor='middle' font-size='12' fill='#1c3a5c'>社会静学（秩序）＋社会动学（进步）</text><text x='380' y='297' text-anchor='middle' font-size='10' fill='#1e2d3d'>“以科学组织社会”的纲领</text></svg>",
    "svg_caption": "孔德：三阶段法则与科学序列（示意图）",
-   "sources": ["sep-comte", "book-copleston-history"],
+   "sources": [
+    "sep-comte",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-19c-engels",
+   "name": "恩格斯",
+   "latin": "Friedrich Engels",
+   "birth_year": 1820,
+   "death_year": 1895,
+   "birth_display": "1820年",
+   "death_display": "1895年",
+   "birth_note": "生于普鲁士莱茵省巴门市（今伍珀塔尔），出身纺织厂主家庭。",
+   "death_note": "1895年病逝于伦敦，遵遗嘱火化并撒骨灰于伊斯特本海滨。",
+   "era": "工业资本主义扩张、工人运动组织化的时代。恩格斯在曼彻斯特经商期间考察英国工人状况，与马克思合作写作；晚年整理马克思遗稿，并成为第二国际的理论权威之一。",
+   "school": "马克思主义（辩证唯物主义与历史唯物主义的系统表述者）",
+   "core_questions": [
+    "辩证法规律是否只在历史与社会中有效，还是同样适用于自然界？",
+    "经济因素在历史解释中究竟起多大的作用？",
+    "国家从何而来，又将向何处去？"
+   ],
+   "arguments": [
+    {
+     "claim": "辩证法规律在自然界与历史中同样有效",
+     "premises": [
+      "自然界与人类社会并非两类互不相干的领域，二者都由物质运动构成，因而服从同一套运动规律。",
+      "黑格尔已以唯心主义方式表述了量变到质变、对立统一与否定之否定，但把规律归于概念的自我运动。"
+     ],
+     "inference": "若把黑格尔的辩证法“倒转”过来，即把观念中的辩证运动理解为现实物质过程的反映，则同一组规律既可用于解释自然现象，也可用于解释社会历史变迁。",
+     "conclusion": "辩证法不是思辨建构，而是关于自然、社会与思维运动的一般规律；据此可以建立“自然辩证法”。不过这门学科是否成立，学界至今有长期争论。",
+     "kind": "原文"
+    },
+    {
+     "claim": "经济因素归根到底起决定作用，但不是唯一因素",
+     "premises": [
+      "历史唯物主义主张生产与再生产是历史的基础，但它从未主张经济是唯一起作用的原因。",
+      "政治、法律、宗教、哲学等上层建筑一旦形成，便有其自身的传统与相对独立的运动逻辑。"
+     ],
+     "inference": "若上层建筑具有相对独立性，则它既能偏离经济基础，又能反过来作用于经济基础；因此历史是多种因素交互作用的结果，经济只在“归根到底”的意义上起决定作用。",
+     "conclusion": "把历史唯物主义读成“经济决定论”是对它的曲解；经济是最终的解释性原则，而不是唯一的因果因素。",
+     "kind": "原文"
+    },
+    {
+     "claim": "国家是阶级矛盾不可调和的产物",
+     "premises": [
+      "在氏族制度解体的过程中，私有制与分工造成阶级分化，产生了利益彼此对立的集团。",
+      "这些对立若不受控制，社会将在无休止的冲突中瓦解，而氏族制度已无力凭血缘纽带调和冲突。"
+     ],
+     "inference": "若社会需要一种凌驾于各阶级之上、形式上代表公共秩序的强制力量来维持秩序，则这种力量就是国家；它随阶级分裂而生，也将随阶级消亡而消亡。",
+     "conclusion": "国家不是社会之外的永恒机构，而是阶级对立的产物与阶级统治的工具。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《反杜林论》",
+     "edition": "《马克思恩格斯文集》，人民出版社（第 9 卷含《反杜林论》等）",
+     "note": "1878 年成书；哲学编系统表述“自然辩证法”与唯物史观，被称为马克思主义的“百科全书”"
+    },
+    {
+     "title": "《自然辩证法》",
+     "edition": "《马克思恩格斯文集》，人民出版社（第 9 卷含《反杜林论》等）",
+     "note": "1873—1882 年间的手稿，1925 年才以完整形态刊行；含《劳动在从猿到人转变过程中的作用》"
+    },
+    {
+     "title": "《家庭、私有制和国家的起源》",
+     "edition": "《马克思恩格斯文集》，人民出版社（第 9 卷含《反杜林论》等）",
+     "note": "1884 年，依据摩尔根《古代社会》的研究；副题“就路易斯·亨·摩尔根的研究成果而作”"
+    },
+    {
+     "title": "《路德维希·费尔巴哈和德国古典哲学的终结》",
+     "edition": "《马克思恩格斯文集》，人民出版社（第 9 卷含《反杜林论》等）",
+     "note": "1888 年；提出哲学基本问题（思维与存在的关系）与“实践是检验真理的标准”式表述"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "黑格尔",
+     "id": null,
+     "note": "辩证法的形式框架，被其从“概念自我运动”倒转为物质运动的规律"
+    },
+    {
+     "name": "费尔巴哈",
+     "id": null,
+     "note": "宗教异化批判与唯物主义转向的中介，但其直观唯物主义受到恩格斯的批评"
+    },
+    {
+     "name": "马克思",
+     "id": "gr-19c-marx",
+     "note": "终身合作者；恩格斯自认是“第二提琴手”，并在马克思逝世后整理《资本论》第二、三卷"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "第二国际理论（考茨基、普列汉诺夫）",
+     "id": null,
+     "note": "以《反杜林论》为教科书式范本，形成“辩证唯物主义”的普及叙述"
+    },
+    {
+     "name": "苏联教科书体系",
+     "id": null,
+     "note": "将“辩证唯物主义+历史唯物主义”固定为两大部分的结构，影响 20 世纪社会主义国家的哲学教育"
+    },
+    {
+     "name": "西方马克思主义（卢卡奇、法兰克福学派）",
+     "id": null,
+     "note": "主要作为被批评的对象出现：其“自然辩证法”被视为对辩证法的实证化误读"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "卢卡奇与西方马克思主义传统",
+     "view": "把辩证法扩展到自然界，等于抽掉辩证法的主体—客体统一结构，使之退化为可实证的“自然规律”，从而遮蔽了无产阶级作为历史主体的意识问题。",
+     "response": "可为恩格斯辩护的是：他把辩证法界定为“关于外部世界和人类思维运动的一般规律”，其自然研究意在破除机械论的自然观，而不是取消实践与主体的维度。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-engels",
+      "sep-marx"
+     ]
+    },
+    {
+     "critic": "分析马克思主义（G. A. 科恩等）",
+     "view": "恩格斯在 1890 年代书信中的表述仍带功能解释的含混：既说经济“归根到底”决定，又承认上层建筑的反作用，却未给出可检验的机制说明。",
+     "response": "回应是：这种弹性表述本身就是有意为之，用以拒绝单线因果；科恩本人的工作也可视为替“归根到底”补上功能解释的技术化重建。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-engels",
+      "sep-marx"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "恩格斯把辩证法归结为三条固定“定律”的教条",
+     "why": "他本人把三规律说成从自然与历史研究中抽象出来的整理方式，而非可套用于任何材料的先验公式，并明确反对把辩证法当作证明工具。"
+    },
+    {
+     "claim": "恩格斯是“经济决定论”者，认为一切历史事件只由经济决定",
+     "why": "他在 1890 年致布洛赫的信中直接反驳这种读法：经济是“归根到底”的因素，政治与观念领域有相对独立性并会反作用。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "国家决不是从外部强加于社会的一种力量",
+     "source_id": "marx-chinese",
+     "locator": "《家庭、私有制和国家的起源》（《马克思恩格斯文集》第四卷）",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>恩格斯：辩证法、历史与上层建筑（示意）</text><defs><marker id='arE1' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='50' y='60' width='210' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>自然界：量变→质变</text><text x='155' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>对立统一·否定之否定</text><rect x='500' y='60' width='210' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>历史：生产力与生产关系</text><text x='605' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>阶级与国家的起源</text><line x1='205' y1='122' x2='300' y2='166' stroke='#4a7ba6' marker-end='url(#arE1)'/><line x1='555' y1='122' x2='460' y2='166' stroke='#4a7ba6' marker-end='url(#arE1)'/><rect x='230' y='170' width='300' height='62' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='194' text-anchor='middle' font-size='12' fill='#1c3a5c'>辩证法：同一套运动规律</text><text x='380' y='213' text-anchor='middle' font-size='10' fill='#1e2d3d'>三规律是整理材料的方式，非先验公式</text><line x1='380' y1='234' x2='380' y2='272' stroke='#4a7ba6' marker-end='url(#arE1)'/><rect x='110' y='276' width='540' height='66' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='300' text-anchor='middle' font-size='12' fill='#1c3a5c'>经济归根到底起决定作用，但非唯一因素</text><text x='380' y='320' text-anchor='middle' font-size='10' fill='#1e2d3d'>上层建筑有相对独立性并反作用于经济基础</text></svg>",
+   "svg_caption": "恩格斯：自然与历史的同一套辩证规律，及其经济—上层建筑关系（示意图）",
+   "sources": [
+    "sep-engels",
+    "sep-marx",
+    "marx-chinese"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   }
@@ -507,12 +802,30 @@
    "term_latin": "Wille（will）",
    "definition": "叔本华用以指世界的形而上学本原：无所不在的盲目冲动，人的欲求只是其显现；尼采则把它改写为“权力意志”，即追求增长与超越的力。",
    "usages": [
-    {"name": "叔本华", "id": "gr-19c-schopenhauer", "usage": "意志是物自体，无理由、无目的；欲求即缺乏，故生命本质是痛苦，解脱在于意志的否定。"},
-    {"name": "尼采", "id": "gr-19c-nietzsche", "usage": "权力意志不是求自保而是求增长与克服；生命肯定要求把意志从“怨恨”中解放出来。"}
+    {
+     "name": "叔本华",
+     "id": "gr-19c-schopenhauer",
+     "usage": "意志是物自体，无理由、无目的；欲求即缺乏，故生命本质是痛苦，解脱在于意志的否定。"
+    },
+    {
+     "name": "尼采",
+     "id": "gr-19c-nietzsche",
+     "usage": "权力意志不是求自保而是求增长与克服；生命肯定要求把意志从“怨恨”中解放出来。"
+    }
    ],
-   "related": ["gr-19c-nihilism", "gr-19c-eternal-recurrence"],
-   "example": {"text": "叔本华以身体的运动与意志的关系为例：手之所以动，是因为意愿；由此推及一切现象，其内在本质都是同一种意志。", "figure": "叔本华", "locator": "《作为意志和表象的世界》第二卷"},
-   "sources": ["sep-schopenhauer", "sep-nietzsche"],
+   "related": [
+    "gr-19c-nihilism",
+    "gr-19c-eternal-recurrence"
+   ],
+   "example": {
+    "text": "叔本华以身体的运动与意志的关系为例：手之所以动，是因为意愿；由此推及一切现象，其内在本质都是同一种意志。",
+    "figure": "叔本华",
+    "locator": "《作为意志和表象的世界》第二卷"
+   },
+   "sources": [
+    "sep-schopenhauer",
+    "sep-nietzsche"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -522,12 +835,30 @@
    "term_latin": "Entfremdung（alienation）",
    "definition": "人自身的力量、产品与活动成为与人相对立的异己力量；马克思以之描述私有制下劳动同劳动者的疏离。",
    "usages": [
-    {"name": "马克思", "id": "gr-19c-marx", "usage": "异化有四重：产品、劳动活动、类本质、人与人；其根源在私有制与分工，而非单纯观念。"},
-    {"name": "克尔凯郭尔（对照用法）", "id": "gr-19c-kierkegaard", "usage": "以“绝望”描述自我与自身关系的失调（非经济意义上的异化），可作为生存论层面的对照。"}
+    {
+     "name": "马克思",
+     "id": "gr-19c-marx",
+     "usage": "异化有四重：产品、劳动活动、类本质、人与人；其根源在私有制与分工，而非单纯观念。"
+    },
+    {
+     "name": "克尔凯郭尔（对照用法）",
+     "id": "gr-19c-kierkegaard",
+     "usage": "以“绝望”描述自我与自身关系的失调（非经济意义上的异化），可作为生存论层面的对照。"
+    }
    ],
-   "related": ["gr-19c-will", "gr-19c-utility"],
-   "example": {"text": "马克思说，工人在劳动中不是肯定自己而是否定自己：劳动不是需要，而是谋生的手段；产品愈多，他所能占有的愈少。", "figure": "马克思", "locator": "《1844年经济学哲学手稿》第一手稿"},
-   "sources": ["sep-marx", "book-copleston-history"],
+   "related": [
+    "gr-19c-will",
+    "gr-19c-utility"
+   ],
+   "example": {
+    "text": "马克思说，工人在劳动中不是肯定自己而是否定自己：劳动不是需要，而是谋生的手段；产品愈多，他所能占有的愈少。",
+    "figure": "马克思",
+    "locator": "《1844年经济学哲学手稿》第一手稿"
+   },
+   "sources": [
+    "sep-marx",
+    "book-copleston-history"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -537,12 +868,30 @@
    "term_latin": "utility（utility）",
    "definition": "行为或制度增进快乐、减少痛苦的效果；功利主义以“最大多数人的最大幸福”为道德与立法的标准。",
    "usages": [
-    {"name": "密尔", "id": "gr-19c-mill", "usage": "功利须计入快乐的质，并以自由原则与权利保护作为长期功利的条件。"},
-    {"name": "孔德（对照用法）", "id": "gr-19c-comte", "usage": "以社会“秩序与进步”为效用标准，把功利问题转为社会学问题而非个体苦乐计算。"}
+    {
+     "name": "密尔",
+     "id": "gr-19c-mill",
+     "usage": "功利须计入快乐的质，并以自由原则与权利保护作为长期功利的条件。"
+    },
+    {
+     "name": "孔德（对照用法）",
+     "id": "gr-19c-comte",
+     "usage": "以社会“秩序与进步”为效用标准，把功利问题转为社会学问题而非个体苦乐计算。"
+    }
    ],
-   "related": ["gr-19c-alienation", "gr-19c-positive"],
-   "example": {"text": "密尔区分“高级快乐”与“低级快乐”，并以“体验过两者的人的选择”为标准；这把量的计算转为质的评价，回应了“猪的哲学”之讥。", "figure": "密尔", "locator": "《功利主义》第二章"},
-   "sources": ["sep-mill", "book-copleston-history"],
+   "related": [
+    "gr-19c-alienation",
+    "gr-19c-positive"
+   ],
+   "example": {
+    "text": "密尔区分“高级快乐”与“低级快乐”，并以“体验过两者的人的选择”为标准；这把量的计算转为质的评价，回应了“猪的哲学”之讥。",
+    "figure": "密尔",
+    "locator": "《功利主义》第二章"
+   },
+   "sources": [
+    "sep-mill",
+    "book-copleston-history"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -552,12 +901,30 @@
    "term_latin": "harm principle",
    "definition": "社会对个人施加强制的唯一正当理由是防止其伤害他人；涉及自身的行为应属个人自由的范围。",
    "usages": [
-    {"name": "密尔", "id": "gr-19c-mill", "usage": "适用于思想、言论、生活方式；其根据是个人判断的优先性与“个性”对社会的价值。"},
-    {"name": "孔德（对照用法）", "id": "gr-19c-comte", "usage": "强调社会秩序与共识，倾向以社会整体利益约束个体；与密尔的个人自由界限形成对照。"}
+    {
+     "name": "密尔",
+     "id": "gr-19c-mill",
+     "usage": "适用于思想、言论、生活方式；其根据是个人判断的优先性与“个性”对社会的价值。"
+    },
+    {
+     "name": "孔德（对照用法）",
+     "id": "gr-19c-comte",
+     "usage": "强调社会秩序与共识，倾向以社会整体利益约束个体；与密尔的个人自由界限形成对照。"
+    }
    ],
-   "related": ["gr-19c-utility", "gr-19c-positive"],
-   "example": {"text": "密尔论言论自由：即使被压制的意见是错的，压制它也使人失去在争论中检验真理的机会；若它是对的，则更不应压制。", "figure": "密尔", "locator": "《论自由》第二章"},
-   "sources": ["sep-mill", "book-copleston-history"],
+   "related": [
+    "gr-19c-utility",
+    "gr-19c-positive"
+   ],
+   "example": {
+    "text": "密尔论言论自由：即使被压制的意见是错的，压制它也使人失去在争论中检验真理的机会；若它是对的，则更不应压制。",
+    "figure": "密尔",
+    "locator": "《论自由》第二章"
+   },
+   "sources": [
+    "sep-mill",
+    "book-copleston-history"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -567,12 +934,30 @@
    "term_latin": "Wille zur Macht",
    "definition": "尼采用以说明生命基本倾向的概念：不是求自保，而是求增长、克服与支配的力；常被误解为政治权力欲。",
    "usages": [
-    {"name": "尼采", "id": "gr-19c-nietzsche", "usage": "一切评价都是权力意志的形态；道德谱系学即考察不同意志形态如何设定价值。"},
-    {"name": "叔本华（对照用法）", "id": "gr-19c-schopenhauer", "usage": "以“求生存的意志”为本原；尼采批评其只求自保，忽略力的自我超越。"}
+    {
+     "name": "尼采",
+     "id": "gr-19c-nietzsche",
+     "usage": "一切评价都是权力意志的形态；道德谱系学即考察不同意志形态如何设定价值。"
+    },
+    {
+     "name": "叔本华（对照用法）",
+     "id": "gr-19c-schopenhauer",
+     "usage": "以“求生存的意志”为本原；尼采批评其只求自保，忽略力的自我超越。"
+    }
    ],
-   "related": ["gr-19c-will", "gr-19c-nihilism"],
-   "example": {"text": "尼采以艺术家、立法者为例：他们不是为保住既有之物，而是要赋予世界以形式；这种“给予形式”的活动即权力意志的显现。", "figure": "尼采", "locator": "《论道德的谱系》第二篇"},
-   "sources": ["sep-nietzsche", "iep-nietzsche"],
+   "related": [
+    "gr-19c-will",
+    "gr-19c-nihilism"
+   ],
+   "example": {
+    "text": "尼采以艺术家、立法者为例：他们不是为保住既有之物，而是要赋予世界以形式；这种“给予形式”的活动即权力意志的显现。",
+    "figure": "尼采",
+    "locator": "《论道德的谱系》第二篇"
+   },
+   "sources": [
+    "sep-nietzsche",
+    "iep-nietzsche"
+   ],
    "needs_verification": true,
    "pending_notes": "“权力意志”作为体系性概念的地位：它主要由《权力意志》（遗稿编纂本）呈现，而该书编纂受其妹影响；学界对其是否构成尼采的核心学说有争论。"
   },
@@ -582,12 +967,30 @@
    "term_latin": "ewige Wiederkunft",
    "definition": "尼采提出的思想实验：若你必须无限次重复同样的生命，你是否愿意？用以检验对生命的肯定程度。",
    "usages": [
-    {"name": "尼采", "id": "gr-19c-nietzsche", "usage": "作为“最重的重量”，筛选出肯定生命者；与之相连的是“命运之爱”（amor fati）。"},
-    {"name": "克尔凯郭尔（对照用法）", "id": "gr-19c-kierkegaard", "usage": "以“重复”（Gjentagelsen）指伦理生活的可能性：在重复中重新获得自己，而非尼采式的宇宙论设想。"}
+    {
+     "name": "尼采",
+     "id": "gr-19c-nietzsche",
+     "usage": "作为“最重的重量”，筛选出肯定生命者；与之相连的是“命运之爱”（amor fati）。"
+    },
+    {
+     "name": "克尔凯郭尔（对照用法）",
+     "id": "gr-19c-kierkegaard",
+     "usage": "以“重复”（Gjentagelsen）指伦理生活的可能性：在重复中重新获得自己，而非尼采式的宇宙论设想。"
+    }
    ],
-   "related": ["gr-19c-power-will", "gr-19c-nihilism"],
-   "example": {"text": "尼采在《快乐的科学》第341节设想一个恶魔在深夜告诉你：你必须把这一生再过无数次；你的反应即显示你对生命的态度。", "figure": "尼采", "locator": "《快乐的科学》第341节"},
-   "sources": ["sep-nietzsche", "iep-nietzsche"],
+   "related": [
+    "gr-19c-power-will",
+    "gr-19c-nihilism"
+   ],
+   "example": {
+    "text": "尼采在《快乐的科学》第341节设想一个恶魔在深夜告诉你：你必须把这一生再过无数次；你的反应即显示你对生命的态度。",
+    "figure": "尼采",
+    "locator": "《快乐的科学》第341节"
+   },
+   "sources": [
+    "sep-nietzsche",
+    "iep-nietzsche"
+   ],
    "needs_verification": true,
    "pending_notes": "永恒轮回是宇宙论主张还是生存论检验，学界有争论（二者在尼采文本中并存）；本页按“思想实验”处理。"
   },
@@ -597,12 +1000,30 @@
    "term_latin": "Nihilismus",
    "definition": "最高价值自行贬黜、目的与根据缺失的状态；尼采视之为基督教道德自我瓦解的后果，并区分“消极的”与“积极的”虚无主义。",
    "usages": [
-    {"name": "尼采", "id": "gr-19c-nietzsche", "usage": "消极虚无主义是力量的衰退（无所信、无所求）；积极虚无主义则是清理旧价值、为新价值创造腾出空间。"},
-    {"name": "雅可比（概念来源，对照）", "id": null, "usage": "雅可比以“虚无主义”批评费希特式唯心论把一切化为自我产物；尼采的用法与这一批评史相关但不同。"}
+    {
+     "name": "尼采",
+     "id": "gr-19c-nietzsche",
+     "usage": "消极虚无主义是力量的衰退（无所信、无所求）；积极虚无主义则是清理旧价值、为新价值创造腾出空间。"
+    },
+    {
+     "name": "雅可比（概念来源，对照）",
+     "id": null,
+     "usage": "雅可比以“虚无主义”批评费希特式唯心论把一切化为自我产物；尼采的用法与这一批评史相关但不同。"
+    }
    ],
-   "related": ["gr-19c-power-will", "gr-19c-eternal-recurrence"],
-   "example": {"text": "《查拉图斯特拉》中的“疯子”宣告上帝死了，并说这消息尚未到达人们的耳朵——虚无主义是已经发生而未被理解的事件。", "figure": "尼采", "locator": "《快乐的科学》第125节"},
-   "sources": ["sep-nietzsche", "iep-nietzsche"],
+   "related": [
+    "gr-19c-power-will",
+    "gr-19c-eternal-recurrence"
+   ],
+   "example": {
+    "text": "《查拉图斯特拉》中的“疯子”宣告上帝死了，并说这消息尚未到达人们的耳朵——虚无主义是已经发生而未被理解的事件。",
+    "figure": "尼采",
+    "locator": "《快乐的科学》第125节"
+   },
+   "sources": [
+    "sep-nietzsche",
+    "iep-nietzsche"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -612,12 +1033,30 @@
    "term_latin": "positif（positive）",
    "definition": "孔德用语：知识只限于可观察现象之间的恒定关系，放弃追问终极原因与本质；实证阶段是知识成熟的标志。",
    "usages": [
-    {"name": "孔德", "id": "gr-19c-comte", "usage": "各门科学依次进入实证阶段；哲学成为“科学的总览”，社会学的建立是其完成。"},
-    {"name": "密尔（对照用法）", "id": "gr-19c-mill", "usage": "接受经验方法与社会研究，但坚持归纳逻辑与个体自由，拒绝孔德的“人道教”式建制。"}
+    {
+     "name": "孔德",
+     "id": "gr-19c-comte",
+     "usage": "各门科学依次进入实证阶段；哲学成为“科学的总览”，社会学的建立是其完成。"
+    },
+    {
+     "name": "密尔（对照用法）",
+     "id": "gr-19c-mill",
+     "usage": "接受经验方法与社会研究，但坚持归纳逻辑与个体自由，拒绝孔德的“人道教”式建制。"
+    }
    ],
-   "related": ["gr-19c-utility", "gr-19c-liberty-principle"],
-   "example": {"text": "孔德说，实证精神不问“引力为何”，只问“引力如何作用”；这一转变把形而上学问题排除在科学之外。", "figure": "孔德", "locator": "《实证哲学教程》第一讲"},
-   "sources": ["sep-comte", "sep-mill"],
+   "related": [
+    "gr-19c-utility",
+    "gr-19c-liberty-principle"
+   ],
+   "example": {
+    "text": "孔德说，实证精神不问“引力为何”，只问“引力如何作用”；这一转变把形而上学问题排除在科学之外。",
+    "figure": "孔德",
+    "locator": "《实证哲学教程》第一讲"
+   },
+   "sources": [
+    "sep-comte",
+    "sep-mill"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   }
@@ -662,7 +1101,11 @@
    "focus": "焦点是“自由”的定义：不受外力强制（密尔）、不受因果决定（部分非相容论）、或在决断中自我承担（克尔凯郭尔）。定义不同，相容与否的答案随之不同。",
    "status": "无定论",
    "status_note": "当代形而上学仍以相容论/不相容论为主要分野，并发展出后果论证、操纵论证等技术性讨论；学界未形成共识。",
-   "sources": ["sep-schopenhauer", "sep-mill", "sep-kierkegaard"],
+   "sources": [
+    "sep-schopenhauer",
+    "sep-mill",
+    "sep-kierkegaard"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -705,7 +1148,11 @@
    "focus": "焦点是“道德命题的权威来源”：后果、自律还是历史功能。三种回答对应不同的批判任务——计算、辩护或揭露。",
    "status": "无定论",
    "status_note": "20世纪规范伦理学以义务论、后果论与德性伦理三分延续这一争论；元伦理学中的道德实在论与反实在论之争则承接尼采的谱系学挑战。",
-   "sources": ["sep-mill", "sep-nietzsche", "sep-schopenhauer"],
+   "sources": [
+    "sep-mill",
+    "sep-nietzsche",
+    "sep-schopenhauer"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   },
@@ -748,7 +1195,11 @@
    "focus": "焦点是“批判的目标”：是宗教的社会功能（马克思）、其价值的自我瓦解（尼采），还是其被庸俗化的形态（克尔凯郭尔）。三者对“宗教是否可被取代”给出不同回答。",
    "status": "无定论",
    "status_note": "19世纪的宗教批判深刻影响了社会学、心理学与神学；20世纪以来，世俗化命题本身受到经验研究质疑，“宗教是否必然衰退”至今是开放问题。",
-   "sources": ["sep-marx", "sep-nietzsche", "sep-kierkegaard"],
+   "sources": [
+    "sep-marx",
+    "sep-nietzsche",
+    "sep-kierkegaard"
+   ],
    "needs_verification": false,
    "pending_notes": ""
   }

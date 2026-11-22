@@ -714,7 +714,162 @@
    "sources": ["iep-chinese-philosophy", "iep-chinese-philosophy", "ct-hanfeizi"],
    "needs_verification": false,
    "pending_notes": ""
-  }
+  },
+ {
+  "id": "cn-xianqin-gongsunlong",
+  "name": "公孙龙",
+  "latin": "Gongsun Long",
+  "birth_year": -320,
+  "death_year": -250,
+  "birth_display": "前320年",
+  "death_display": "前250年",
+  "birth_note": "生年无确记，约前320年，为通行推定；其行事见于《公孙龙子·迹府》及《吕氏春秋》等所记与孔穿、邹衍的辩论。",
+  "death_note": "卒年亦无确记，约前250年；据《迹府》，他长期为平原君门客，晚年事迹不详。",
+  "era": "战国中晚期。赵人，久为平原君赵胜门客，曾与孔穿、邹衍等辩于赵廷。其时“辩者”之风甚盛，名实之论与《墨经》、惠施之说并行，公孙龙为其中文本今日尚存的一支。",
+  "school": "名家",
+  "core_questions": [
+   "名（概念）与实（对象）之间是什么关系，名凭什么算是“正”的？",
+   "共相（如坚、白、马之形）能否独立于具体个体而被指称？",
+   "“指”这一指称活动本身，与被指之物是否属于同一层次？"
+  ],
+  "arguments": [
+   {
+    "claim": "「白马非马」：两个名的所指范围不同，故“白马”之名不等同于“马”之名",
+    "premises": [
+     "“马者，所以命形也；白者，所以命色也。命色者非命形也，故曰白马非马。”（《公孙龙子·白马论》）",
+     "求马，黄马、黑马皆可应；求白马，黄马、黑马不可应——两名所许之范围并不相等。"
+    ],
+    "inference": "若甲名只命形、乙名兼命形与色，则凡合于乙名者虽合于甲名，而合于甲名者不必合于乙名；两名外延不等，在“名”的层次上便不能互相替换。故所断者是名与名的关系，而非个体马的有无。",
+    "conclusion": "“白马非马”所辨为名实：复合名（形＋色）与单一名（形）的所指不同，不可混同使用。",
+    "kind": "后人解读",
+    "note": "历代解释分歧：一说“非”读作“不等于/异于”，此论为关于概念外延的有效推理（王琯、庞朴一系多取此读）；一说“非”读作“不属于”，则其为诡辩；另有从“共相论”读之，以为白马之“白”与“马”皆为独立共相，故其合不等于单一共相。三种读法对“非”字与论式结构的判定不同，学界未有定论。"
+   },
+   {
+    "claim": "「离坚白」：坚与白可作为属性分别把握，与“石”这一载体相离",
+    "premises": [
+     "“坚白石三，可乎？曰：不可。曰：二，可乎？曰：可。”（《公孙龙子·坚白论》）",
+     "目视石得白而不得坚，手拊石得坚而不得白；见与不见相离，各自成一名。"
+    ],
+    "inference": "若坚与白在同一时机内不能同时被感知，而二者又各自确能被指称，则其可指称性不依赖于这一块石头；石只是二者偶然相合的载体。",
+    "conclusion": "坚、白作为共相可离具体个体而被指称，共相具有相对独立性。",
+    "kind": "原文"
+   },
+   {
+    "claim": "「指物论」：指称活动与被指之物不是同一层次",
+    "premises": [
+     "“物莫非指，而指非指。”（《公孙龙子·指物论》）",
+     "天下无物不可被指称，然而“指”本身并不能像物那样被再一指称而穷尽其用。"
+    ],
+    "inference": "若凡物皆因“指”而成为可名之对象，而“指”又不列入所指数目之中，则指称是使物成为对象的层次，而非对象之一；一旦追问“指是什么”，已把它当作物，故曰“指非指”。",
+    "conclusion": "名言之成立以“指”这一非对象的指称活动为前提；共相与个体的关系须在此层次上说明。",
+    "kind": "原文"
+   }
+  ],
+  "works": [
+   {
+    "title": "《公孙龙子》",
+    "edition": "王琯《公孙龙子悬解》，中华书局；庞朴《公孙龙子研究》",
+    "note": "六篇：《迹府》《白马论》《指物论》《通变论》《坚白论》《名实论》；《迹府》多被视为后人辑录的传略"
+   }
+  ],
+  "influenced_by": [
+   {
+    "name": "邓析",
+    "id": null,
+    "note": "春秋郑国辩者，以“两可之说”与名实之讼著称，为先秦辩者之先声"
+   },
+   {
+    "name": "惠施",
+    "id": null,
+    "note": "同属名家，“历物十事”以相对性立论；二人并称而直接授受关系不可考"
+   }
+  ],
+  "influenced": [
+   {
+    "name": "后期墨家（《墨经》）",
+    "id": null,
+    "note": "《经上》《经说》分名为达、类、私，论“举实”与“类”，与名家同域竞争"
+   },
+   {
+    "name": "现当代中国逻辑史研究（胡适、冯友兰、葛瑞汉）",
+    "id": null,
+    "note": "以逻辑与语言哲学框架重估名家，公孙龙成为“中国有无逻辑学”讨论的核心文本"
+   }
+  ],
+  "criticisms": [
+   {
+    "critic": "庄子（《天下》篇）",
+    "view": "“饰人之心，易人之意，能胜人之口，不能服人之心，辩者之囿也。”——指辩者之说可胜人口而不能服人心，终成口舌之辨的局限。",
+    "response": "辩护意见认为：辨析名之外延与推论结构本身有其认知价值，“能否服人心”不是判定名学命题真假的标准；且《天下》所评针对“辩者”群类，未必逐条针对《公孙龙子》文本。",
+    "kind": "原文",
+    "sources": [
+     "ct-zhuangzi",
+     "sep-chinese-metaphysics"
+    ]
+   },
+   {
+    "critic": "荀子（《正名》篇）",
+    "view": "“惑于用名以乱实”——以“白马非马”“牛马非马”一类析辞擅名之说淆乱名实，使民疑惑、多起辩讼。",
+    "response": "回应：公孙龙《名实论》正主张“审名实”“正彼此”，其关切与荀子“制名以指实”同向；分歧在于是否容许对通行语用作层次分析，而非是否要正名。",
+    "kind": "原文",
+    "sources": [
+     "ct-xunzi",
+     "iep-chinese-philosophy"
+    ]
+   }
+  ],
+  "misconceptions": [
+   {
+    "claim": "“白马非马”只是诡辩",
+    "why": "此论的前提限定在名（概念）的外延：“马”命形，“白马”兼命形与色，故结论是两名所指不同。若把“非”读作“不属于”，命题即被误读为否认个体白马是马。以“不等于/异于”读“非”，其论式可重构为有效推理，历代注家（如王琯）多取此读。"
+   },
+   {
+    "claim": "名家没有逻辑学，只有诡辩",
+    "why": "《公孙龙子》讨论了名的种类（命形、命色、指）、名的正当性（《名实论》“审名实”“正彼此”）与推论结构（《通变论》的“变”与“类”），后期墨家《墨经》亦有“以名举实”与“类”的辨说；现代中国逻辑史研究（胡适、冯友兰、葛瑞汉）正是据此重建名家的名学与辩学。"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "白马非马",
+    "source_id": "ws-gongsunlongzi",
+    "locator": "《公孙龙子·白马论》",
+    "kind": "原文"
+   },
+   {
+    "text": "坚白石三，可乎？曰：不可。",
+    "source_id": "ws-gongsunlongzi",
+    "locator": "《公孙龙子·坚白论》",
+    "kind": "原文"
+   },
+   {
+    "text": "物莫非指，而指非指",
+    "source_id": "ws-gongsunlongzi",
+    "locator": "《公孙龙子·指物论》",
+    "kind": "原文"
+   },
+   {
+    "text": "饰人之心，易人之意，能胜人之口，不能服人之心",
+    "source_id": "ct-zhuangzi",
+    "locator": "《庄子·天下》",
+    "kind": "原文"
+   },
+   {
+    "text": "惑于用名以乱实",
+    "source_id": "ct-xunzi",
+    "locator": "《荀子·正名》",
+    "kind": "原文"
+   }
+  ],
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>公孙龙：名实之辨与指称层次（示意）</text><defs><marker id='ar7' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='36' y='58' width='196' height='74' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='134' y='84' text-anchor='middle' font-size='13' fill='#1e2d3d'>马：命形之名</text><text x='134' y='106' text-anchor='middle' font-size='10' fill='#1e2d3d'>只举形状，黄黑马皆可应</text><line x1='234' y1='95' x2='288' y2='95' stroke='#4a7ba6' marker-end='url(#ar7)'/><rect x='292' y='58' width='196' height='74' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='390' y='84' text-anchor='middle' font-size='13' fill='#1e2d3d'>白马：命形兼命色</text><text x='390' y='106' text-anchor='middle' font-size='10' fill='#1e2d3d'>兼举形状与颜色，所指较窄</text><line x1='490' y1='95' x2='544' y2='95' stroke='#4a7ba6' marker-end='url(#ar7)'/><rect x='548' y='58' width='176' height='74' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='636' y='84' text-anchor='middle' font-size='13' fill='#1c3a5c'>白马非马</text><text x='636' y='106' text-anchor='middle' font-size='10' fill='#1e2d3d'>名之外延不同，非否认其物</text><line x1='134' y1='132' x2='134' y2='164' stroke='#4a7ba6' marker-end='url(#ar7)'/><line x1='636' y1='132' x2='636' y2='164' stroke='#4a7ba6' marker-end='url(#ar7)'/><rect x='40' y='168' width='248' height='76' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='164' y='194' text-anchor='middle' font-size='13' fill='#1c3a5c'>离坚白</text><text x='164' y='216' text-anchor='middle' font-size='10' fill='#1e2d3d'>目得白不得坚，手得坚不得白</text><text x='164' y='234' text-anchor='middle' font-size='10' fill='#1e2d3d'>坚、白可离石而各自为名</text><rect x='472' y='168' width='248' height='76' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='596' y='194' text-anchor='middle' font-size='13' fill='#1c3a5c'>指物论</text><text x='596' y='216' text-anchor='middle' font-size='10' fill='#1e2d3d'>物莫非指，而指非指</text><text x='596' y='234' text-anchor='middle' font-size='10' fill='#1e2d3d'>指称活动本身不是所指数目之一</text><line x1='380' y1='244' x2='380' y2='278' stroke='#4a7ba6' marker-end='url(#ar7)'/><rect x='150' y='282' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='306' text-anchor='middle' font-size='13' fill='#1c3a5c'>名实之辨：概念（名）与对象（实）的关系如何确定</text><text x='380' y='327' text-anchor='middle' font-size='10' fill='#1e2d3d'>共相能否独立于个体被指称</text><text x='380' y='372' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：上三节据《白马论》《坚白论》《指物论》文意重构，非原文图解</text></svg>",
+  "svg_caption": "公孙龙：白马非马、离坚白与指物论的名实结构（重构示意图）",
+  "sources": [
+   "ws-gongsunlongzi",
+   "sep-chinese-metaphysics",
+   "iep-chinese-philosophy"
+  ],
+  "needs_verification": true,
+  "pending_notes": "《公孙龙子》六篇的真伪与篇序有讨论：《迹府》一般视为后人辑录的传略；其余五篇的作者与先后亦有争议，学界有以《名实论》《指物论》为纲领、以《白马论》《坚白论》《通变论》为分论的意见，但尚非定论。"
+ }
  ],
  "concepts": [
   {

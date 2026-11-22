@@ -623,6 +623,385 @@
    ],
    "needs_verification": true,
    "pending_notes": "“黜周王鲁”“为汉制法”等命题的解释：公羊家内部与后世研究者对其是否《春秋》本义争议很大；本页按“汉代公羊学的解释主张”处理，不作《春秋》原意之断定。"
+  },
+  {
+   "id": "cn-lianghan-liu-xin",
+   "name": "刘歆",
+   "latin": "Liu Xin",
+   "birth_year": -50,
+   "death_year": 23,
+   "birth_display": "约前50年",
+   "death_display": "23年",
+   "birth_note": "生年无确载，约汉宣帝甘露年间；据《汉书·刘歆传》与刘向校书年代推定。",
+   "death_note": "据《汉书·刘歆传》：地皇四年（23）谋诛王莽，事泄自杀。",
+   "era": "西汉末至新莽。哀帝时与太常博士争立古文经，王莽秉政后为国师嘉新公；新室以《三统历》改正朔，禅代之后又因政局翻覆而死，是汉代经学与政权关系最紧的一位学者。",
+   "school": "古文经学",
+   "core_questions": [
+    "一部经书的文本从何而来，其新旧先后如何判定？",
+    "经书能否立于学官，依据是师法传授还是文本与制度记载？",
+    "历法如何为王朝的更替提供正当性？"
+   ],
+   "arguments": [
+    {
+     "claim": "古文经文本更古、所载制度更详，故当立于学官",
+     "premises": [
+      "《左氏春秋》《毛诗》《逸礼》《古文尚书》出自孔壁、张苍所献等较早的收藏，书多古字古言，与今文诸家的隶写本不同。",
+      "《左氏》多载典礼、氏族与列国政事，制度细节远较《公羊》《谷梁》为详。",
+      "当时学官十四博士以师法相承为准，未有师法者不得立。"
+     ],
+     "inference": "若经之所以为经在其载道，而文本愈古、所载制度愈详者愈近本真，则学官之立不应只以师法传授为断，而当以文本来源与记载征验为断。",
+     "conclusion": "古文经当与今文并立学官，博士之设不应垄断经义的解释权。",
+     "kind": "原文"
+    },
+    {
+     "claim": "三统循环说：王朝更替须以黑、白、赤三统相循环来说明",
+     "premises": [
+      "《三统历》以夏正建寅为黑统、商正建丑为白统、周正建子为赤统，三者以正月之建相次。",
+      "王者受命必改正朔、易服色，以明不敢因前王之制。",
+      "《春秋》所记与三代之制可排比为一个可推步的周期。"
+     ],
+     "inference": "若历元的选取与正朔的更易能构成一个可循环推步的序列，则新王朝的正当性便不只在德运的抽象归属，而可落实为可计算的天时秩序。",
+     "conclusion": "历法与王朝正当性同一：改正朔即是受命之实证，三统循环即是易姓之通则。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《七略》",
+     "edition": "原书已佚；辑本见姚振宗《七略别录佚文》、章宗源辑本，其略存于《汉书·艺文志》（中华书局点校本）",
+     "note": "中国最早的综合性图书分类目录，分六略三十八种；由刘向《别录》总括而成"
+    },
+    {
+     "title": "《三统历》（《三统历谱》）",
+     "edition": "见《汉书·律历志》，中华书局点校本《汉书》卷二十一",
+     "note": "以三统说推步历法，并据《春秋》立历元；新莽改正朔的历法依据"
+    },
+    {
+     "title": "《移让太常博士书》",
+     "edition": "见《汉书·刘歆传》，中华书局点校本《汉书》卷三十六",
+     "note": "争立古文经的宣言，汉代今古文之争最直接的文献"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "刘向",
+     "id": null,
+     "note": "其父；领校中秘群书，撰《别录》，刘歆承其业而成《七略》"
+    },
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "note": "三统、更化之说与天人论的源头，刘歆将其历法化"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "郑玄",
+     "id": "cn-lianghan-zheng-xuan",
+     "note": "承古文经学而立注，古文由此取得压倒今文的地位"
+    },
+    {
+     "name": "贾逵、马融、许慎一系",
+     "id": null,
+     "note": "东汉古文经学的传授脉络，皆以刘歆所倡为起点"
+    },
+    {
+     "name": "清代古文一派（章太炎等）",
+     "id": null,
+     "note": "以古文经为可靠的文本依据，反拨晚清今文的伪经说"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "太常博士（今文十四博士）",
+     "view": "以《左氏》不传《春秋》、古文诸经无师法可承、文字古奥难通为由拒其立官，并指刘歆变乱旧章、毁弃师法。",
+     "response": "刘歆的回应是：古文旧书皆有征验、外内相应，学问当以文本与史事为据，不能以某一家的师法垄断经义的解释权。",
+     "kind": "原文",
+     "sources": [
+      "book-chan-sourcebook",
+      "iep-chinese-philosophy"
+     ]
+    },
+    {
+     "critic": "晚清今文家（康有为《新学伪经考》）",
+     "view": "指古文诸经多出刘歆伪造，其立学官之举是为王莽篡汉预备经典依据，古文经学整体因此可疑。",
+     "response": "古文经的流传有较早记载，出土简帛又多印证古文系统文本之不晚，伪经说难以成立；刘歆与王莽的合作是一事，古文经的文本年代是另一事，不宜以政治动机推定文本性质。",
+     "kind": "后人解读",
+     "sources": [
+      "book-chan-sourcebook",
+      "iep-chinese-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《七略》是刘歆一人独创",
+     "why": "《七略》是在刘向《别录》基础上总括而成，父子相继领校中秘，分类的框架与提要的初稿多出刘向之手，刘歆的工作是删定与条别。"
+    },
+    {
+     "claim": "刘歆倡古文经纯为迎合王莽以求利禄",
+     "why": "争立古文经在哀帝时已发生，早于王莽秉政；他晚年谋诛王莽、事泄自杀，说明其政治选择并非一贯附莽，以利禄一端概其学术不免过简。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>刘歆：校书、古文经与三统历（重构示意）</text><defs><marker id='arLx' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='60' width='210' height='84' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='135' y='84' text-anchor='middle' font-size='12' fill='#1c3a5c'>秘府校书</text><text x='135' y='104' text-anchor='middle' font-size='10' fill='#1e2d3d'>刘向《别录》→ 刘歆《七略》</text><text x='135' y='122' text-anchor='middle' font-size='10' fill='#1e2d3d'>六略三十八种，辨章学术</text><rect x='275' y='60' width='210' height='84' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='84' text-anchor='middle' font-size='12' fill='#1c3a5c'>古文经出</text><text x='380' y='104' text-anchor='middle' font-size='10' fill='#1e2d3d'>孔壁、张苍所献之书</text><text x='380' y='122' text-anchor='middle' font-size='10' fill='#1e2d3d'>《左氏》《毛诗》《逸礼》</text><rect x='520' y='60' width='210' height='84' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='625' y='84' text-anchor='middle' font-size='12' fill='#1c3a5c'>今文十四博士</text><text x='625' y='104' text-anchor='middle' font-size='10' fill='#1e2d3d'>以师法相传自守</text><text x='625' y='122' text-anchor='middle' font-size='10' fill='#1e2d3d'>垄断学官之位</text><line x1='240' y1='102' x2='272' y2='102' stroke='#4a7ba6' marker-end='url(#arLx)'/><line x1='520' y1='102' x2='488' y2='102' stroke='#4a7ba6' marker-end='url(#arLx)'/><line x1='380' y1='146' x2='380' y2='178' stroke='#4a7ba6' marker-end='url(#arLx)'/><rect x='160' y='182' width='440' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='206' text-anchor='middle' font-size='13' fill='#1c3a5c'>移书太常博士：争立古文经于学官</text><text x='380' y='227' text-anchor='middle' font-size='10' fill='#1e2d3d'>“古文旧书，皆有征验，外内相应”</text><line x1='380' y1='246' x2='380' y2='278' stroke='#4a7ba6' marker-end='url(#arLx)'/><rect x='110' y='282' width='540' height='62' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='306' text-anchor='middle' font-size='13' fill='#1c3a5c'>《三统历》：黑统—白统—赤统循环</text><text x='380' y='327' text-anchor='middle' font-size='10' fill='#1e2d3d'>改正朔、易服色 → 为新室禅代提供历法依据</text><text x='380' y='372' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：《七略》原文已佚，略存于《汉书·艺文志》</text></svg>",
+   "svg_caption": "刘歆：校书—古文经—争立学官—三统历的推论链（重构示意图）",
+   "sources": [
+    "ct-zuozhuan",
+    "book-chan-sourcebook",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "生年（约前50）为推定值；《移让太常博士书》与《三统历》均赖《汉书》保存，未见更早的独立传本；刘歆于建平元年改名“秀”以避哀帝讳，本页只作“刘歆”一条，未另立别名条目。"
+  },
+  {
+   "id": "cn-lianghan-wang-fu",
+   "name": "王符",
+   "latin": "Wang Fu",
+   "birth_year": 85,
+   "death_year": 163,
+   "birth_display": "约85年",
+   "death_display": "约163年",
+   "birth_note": "《后汉书》本传不载生年，约在和帝年间；依与马融、张衡等交游推定。",
+   "death_note": "卒年亦不详，约在桓帝时；本传仅称“后卒于家”。",
+   "era": "东汉中后期。外戚宦官迭起、察举浮滥、边患与浮侈并困，王符终身不仕，隐居著《潜夫论》三十六篇“以讥当时失得”，是东汉最具制度批判意识的政论家。",
+   "school": "东汉政论（潜夫之学）",
+   "core_questions": [
+    "治国当以何事为“本”？",
+    "选官如何使名与实相副？",
+    "人在天地之间究竟能有何作为？"
+   ],
+   "arguments": [
+    {
+     "claim": "治国以富民为本，浮侈耗本故当抑末",
+     "premises": [
+      "《务本》以“富民”为治之大体，以农桑为本业、以游手与奢费为末。",
+      "《浮侈》历数当时衣饰、饮食、丧葬、巫祝之费，谓一棺之成功辄千万，夺农桑之力于无用之地。",
+      "民力有限，一归于末则本业必虚。"
+     ],
+     "inference": "若财货与民力总量有定，而奢费与游末日增，则所耗者正是本业所资；本竭则民贫，民贫则教化与政令皆无所施。",
+     "conclusion": "故治国当抑末务本，先使民富，而后学正、教行。",
+     "kind": "原文"
+    },
+    {
+     "claim": "才与位须相称，察举名实不符则政衰",
+     "premises": [
+      "《考绩》以“知贤”为南面之务，以“考功”为知贤之途，主张循名责实。",
+      "《实贡》指当时贡举多以虚誉与私意进退人才，所举之名与所任之实不相副。",
+      "位者任事之器，非酬名之具。"
+     ],
+     "inference": "若授位以名而不核其实，则居位者不必有才、有才者不必居位；事不称职而责无所归，政事由是败坏。",
+     "conclusion": "故必以考绩核实使才位相称，名实既副而后政可理。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《潜夫论》",
+     "edition": "《潜夫论笺校正》，汪继培笺、彭铎校正，中华书局（新编诸子集成）",
+     "note": "十卷三十六篇；务本、浮侈、考绩、实贡、本训诸篇为本书核心"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "王充",
+     "id": "cn-lianghan-wang-chong",
+     "note": "元气自然之说与疾虚妄的批判学风，为《本训》的宇宙论所本"
+    },
+    {
+     "name": "汉代经学与政论传统",
+     "id": null,
+     "note": "贾谊、晁错以下的“过秦”“论政”脉络，王符承其体而益以制度细节"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "荀悦",
+     "id": "cn-lianghan-xun-yue",
+     "note": "《申鉴》论政体、时事，与王符的考绩核实之说同一关切"
+    },
+    {
+     "name": "崔寔、仲长统等东汉末政论家",
+     "id": null,
+     "note": "《政论》《昌言》与《潜夫论》并称，构成汉末社会批判的谱系"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "东汉当世的乡党清议与权贵",
+     "view": "讥其耿介不同于俗、终身不仕，谓其论矫激过实，不切于用世。",
+     "response": "王符自处以“潜夫”为名，正因不愿以浮名进身；其所论皆系于当时政事之实据，非徒为空言高论。",
+     "kind": "后人解读",
+     "sources": [
+      "book-chan-sourcebook",
+      "iep-chinese-philosophy"
+     ]
+    },
+    {
+     "critic": "现代研究者",
+     "view": "谓其“元气”本原论仍带生成论色彩，未形成严格的宇宙论论证；政论部分多为经验罗列，理论建构不足。",
+     "response": "《本训》以三才相待、各循其道而立“和气乃臻”之说，已具一套宇宙论框架；“人道曰为”更把人的作为纳入天道运行之中，经验性恰是其务本立场的落实。",
+     "kind": "后人解读",
+     "sources": [
+      "book-chan-sourcebook",
+      "iep-chinese-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "王符的“务本”只是重农，主张废弃工商",
+     "why": "他所抑之“末”指奢侈性消费与游手末业，而非必要的器用交易；《务本》所争者在使民力归于本业，不在取消分工。"
+    },
+    {
+     "claim": "《潜夫论》是道德箴言汇编",
+     "why": "三十六篇多针对具体制度而立论，如考绩、实贡、断讼、救边、爱日，皆可举为施政条目，与格言体的修身书不同。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "天道曰施，地道曰化，人道曰为。",
+     "source_id": "ws-qianfulun",
+     "locator": "《潜夫论·本训》",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>王符《潜夫论》的两条主线（重构示意）</text><defs><marker id='arWf' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='58' width='200' height='84' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='130' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>元气与本原</text><text x='130' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>天阳、地阴、人中和</text><text x='130' y='120' text-anchor='middle' font-size='10' fill='#1e2d3d'>“人道曰为”</text><rect x='280' y='58' width='200' height='84' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>务本：以富民为本</text><text x='380' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>农桑为本，游末为末</text><text x='380' y='120' text-anchor='middle' font-size='10' fill='#1e2d3d'>“民富乃可教”</text><rect x='530' y='58' width='200' height='84' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='630' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>考绩：核实名实</text><text x='630' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>察举以虚誉进退人</text><text x='630' y='120' text-anchor='middle' font-size='10' fill='#1e2d3d'>故才与位常不相称</text><line x1='230' y1='100' x2='276' y2='100' stroke='#4a7ba6' marker-end='url(#arWf)'/><line x1='480' y1='100' x2='526' y2='100' stroke='#4a7ba6' marker-end='url(#arWf)'/><line x1='380' y1='142' x2='380' y2='176' stroke='#4a7ba6' marker-end='url(#arWf)'/><rect x='180' y='180' width='400' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='204' text-anchor='middle' font-size='13' fill='#1c3a5c'>浮侈耗本：本竭则国贫</text><text x='380' y='225' text-anchor='middle' font-size='10' fill='#1e2d3d'>衣饰、饮食、丧葬之费夺农桑之力</text><line x1='380' y1='242' x2='380' y2='276' stroke='#4a7ba6' marker-end='url(#arWf)'/><rect x='120' y='280' width='520' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='303' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：抑末务本 ＋ 考功核实</text><text x='380' y='324' text-anchor='middle' font-size='10' fill='#1e2d3d'>富民与知贤两事，皆归于“实”</text><text x='380' y='372' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：篇名依《潜夫论》通行本（务本、浮侈、考绩、实贡、本训）</text></svg>",
+   "svg_caption": "王符：元气—务本—考绩的三段推论（重构示意图）",
+   "sources": [
+    "ws-qianfulun",
+    "book-chan-sourcebook",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "生卒年（约85—约163）均无确证，仅由交游与仕历推得，不同工具书相差可达十余年；《潜夫论》篇数与分卷各本略有出入（通行十卷三十六篇），引文以汪继培笺本为准。"
+  },
+  {
+   "id": "cn-lianghan-xun-yue",
+   "name": "荀悦",
+   "latin": "Xun Yue",
+   "birth_year": 148,
+   "death_year": 209,
+   "birth_display": "148年",
+   "death_display": "209年",
+   "birth_note": "据《后汉书·荀悦传》：建和二年（148）生，颍川颍阴人，荀淑之孙。",
+   "death_note": "据《后汉书·荀悦传》：建安十四年（209）卒，年六十二。",
+   "era": "东汉末献帝朝。党锢之后、群雄割据之际，荀悦侍讲禁中，官至秘书监、侍中，以《申鉴》论政体、以《汉纪》整齐汉事，是汉代经世之学的殿军。",
+   "school": "儒学（汉末通儒）",
+   "core_questions": [
+    "人性是否可分为固定的品级？",
+    "教化与法度各适用于何人？",
+    "灾异是否可以径直视为天意的证据？"
+   ],
+   "arguments": [
+    {
+     "claim": "教化只对中品之人有效，故法与教须并用",
+     "premises": [
+      "《杂言下》分性为三品：上品善，不待教而自成；下品恶，虽教而难移；中品无善恶，待教而后成。",
+      "《政体》以法与教为政之大经，谓二者各有所施而不可偏废。",
+      "三品之中，上智与下愚皆少，中品之人最多。"
+     ],
+     "inference": "若上品不待教、下品教不入，则教化之力实际集中于中品；而中品居多数且可善可恶，其成否系于法之约束与教之引导能否并行。",
+     "conclusion": "故治国必法教并行：教以导其中品，法以齐其不率，偏举其一则两失。",
+     "kind": "原文"
+    },
+    {
+     "claim": "灾异不必尽为天意，人事须先修",
+     "premises": [
+      "《俗嫌》辨析卜筮、忌讳、时日之说不一，谓吉凶在人之“济”与“救”，不在术数之验否。",
+      "若一切灾异皆归为天谴，则人君可诿过于天而怠于政事，修省之责由是外化。",
+      "政之得失有可稽之实迹，不必待天象而后明。"
+     ],
+     "inference": "若灾异的意义全由天道单方面给定，则人无从据以自省；反之，以人事为本，则灾异只是需要应对的事变，其警戒之义仍存而不必尽归天意。",
+     "conclusion": "故灾异不必尽为天意；遇灾当先修人事，再论天象。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《申鉴》",
+     "edition": "《申鉴注校补》，黄省曾注、孙启治校补，中华书局（新编诸子集成续编）",
+     "note": "五卷：政体、时事、俗嫌、杂言上、杂言下；性三品与法教之说主要见政体、杂言下"
+    },
+    {
+     "title": "《汉纪》",
+     "edition": "《两汉纪》，张烈点校，中华书局（上册收《汉纪》三十卷）",
+     "note": "奉献帝诏依《左传》体改《汉书》为编年，辞约事详，开编年通史之体"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "荀氏家学（荀淑、荀爽）",
+     "id": null,
+     "note": "颍川荀氏世传经学，荀悦论性、论政皆承家学的问题意识"
+    },
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "note": "天人灾异之说为其所本，亦为其所修正：天意须让位于人事"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "韩愈《原性》与后世性三品说",
+     "id": null,
+     "note": "性分三品的表述经荀悦而系统化，下开唐宋人性论的分品结构"
+    },
+    {
+     "name": "《资治通鉴》的编年体例",
+     "id": null,
+     "note": "《汉纪》改纪传为编年，为后世通鉴体提供直接的先例"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "韩愈及后世性论者",
+     "view": "分品说把善恶归于固定的品级，则修养与教化对已成之性无能为力，与“性相近、习相远”的教化信念相违。",
+     "response": "荀悦的三品中“中品”居多数且明确可教可化，修养的空间正设于此；上智下愚不移本于孔子“唯上知与下愚不移”，并非否认常人之可移。",
+     "kind": "后人解读",
+     "sources": [
+      "book-chan-sourcebook",
+      "iep-chinese-philosophy"
+     ]
+    },
+    {
+     "critic": "近代史家",
+     "view": "《汉纪》成于献帝朝，剪裁多所回护，叙事服从鉴戒之用，史料价值不及《汉书》本文。",
+     "response": "《汉纪》本以“综往事、昭法式”为务，其体例是编年通史的开创；剪裁与论赞正是其著作之体，不能以史料汇编的标准衡量。",
+     "kind": "后人解读",
+     "sources": [
+      "book-chan-sourcebook",
+      "iep-chinese-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "荀悦的性三品只是复述孔子“上智下愚不移”",
+     "why": "他把“中品”明确为占多数的可教之性，并把法教的分工建立在这一层级结构上，是对孔子命题的系统化改造，而非简单复述。"
+    },
+    {
+     "claim": "《汉纪》是《汉书》的简单缩编",
+     "why": "《汉纪》改纪传为编年，重排时序、别立“典”的取舍标准，并附“荀悦曰”的论赞，是自立体例的著作，非节本。"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "有三品焉，上下不移，其中则人事存焉尔。",
+     "source_id": "ws-shenjian",
+     "locator": "《申鉴·杂言下》",
+     "kind": "原文"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>荀悦：性三品与法教并行（重构示意）</text><defs><marker id='arXy' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='58' width='220' height='82' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='140' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>上品：善</text><text x='140' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>不待教而自成</text><text x='140' y='121' text-anchor='middle' font-size='10' fill='#1e2d3d'>“上智不移”</text><rect x='270' y='58' width='220' height='82' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>中品：无善恶</text><text x='380' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>待教而成，待法而止</text><text x='380' y='121' text-anchor='middle' font-size='10' fill='#1e2d3d'>“其中则人事存焉”</text><rect x='510' y='58' width='220' height='82' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='620' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>下品：恶</text><text x='620' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>虽教难移</text><text x='620' y='121' text-anchor='middle' font-size='10' fill='#1e2d3d'>“下愚不移”</text><line x1='140' y1='140' x2='200' y2='176' stroke='#4a7ba6' marker-end='url(#arXy)'/><line x1='380' y1='140' x2='380' y2='176' stroke='#4a7ba6' marker-end='url(#arXy)'/><line x1='620' y1='140' x2='560' y2='176' stroke='#4a7ba6' marker-end='url(#arXy)'/><rect x='120' y='180' width='520' height='64' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='204' text-anchor='middle' font-size='13' fill='#1c3a5c'>教化之力集中于中品</text><text x='380' y='225' text-anchor='middle' font-size='10' fill='#1e2d3d'>上品不必教，下品教不入，故中品为治乱所系</text><line x1='380' y1='244' x2='380' y2='278' stroke='#4a7ba6' marker-end='url(#arXy)'/><rect x='120' y='282' width='520' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='305' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：法与教并行，不可偏举</text><text x='380' y='326' text-anchor='middle' font-size='10' fill='#1e2d3d'>灾异不必尽为天意，人事须先修</text><text x='380' y='372' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：三品说见《申鉴·杂言下》，法教之说见《申鉴·政体》</text></svg>",
+   "svg_caption": "荀悦：性三品与法教并行的推论（重构示意图）",
+   "sources": [
+    "ws-shenjian",
+    "book-chan-sourcebook",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《汉纪》成书年代有建安三年与建安五年两说，本页取“建安初奉诏、约五年成书”的通行说法；《申鉴》文字各本小异，三品说的表述（“有三品焉”抑或“性有三品”）依校本而异；生卒依本传，然本传所记年寿与年号推算略有出入。"
   }
  ],
  "concepts": [

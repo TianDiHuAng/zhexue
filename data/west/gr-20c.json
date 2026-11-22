@@ -649,6 +649,320 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-russell",
+   "name": "罗素",
+   "latin": "Bertrand Arthur William Russell",
+   "birth_year": 1872,
+   "death_year": 1970,
+   "birth_display": "1872年",
+   "death_display": "1970年",
+   "birth_note": "1872年生于威尔士蒙茅斯郡特雷勒克（Trellech）的贵族家庭，祖父为前首相约翰·罗素勋爵。",
+   "death_note": "1970年卒于威尔士彭希德恩德雷斯（Penrhyndeudraeth），晚年仍参与反核与反越战活动。",
+   "era": "19世纪末英国唯心论与经验论交替之际：剑桥的布拉德雷式唯心论与怀特海、皮亚诺的数学工作同时在场。罗素先以《数学原理》回应数学基础危机，又与摩尔一起反叛唯心论，把逻辑分析确立为哲学方法，直接塑造了整个分析哲学的传统。",
+   "school": "分析哲学（逻辑原子论）",
+   "core_questions": [
+    "日常语言的表面语法为何会系统性地误导我们关于存在的判断？",
+    "数学与逻辑的基础如何在不引入悖论的前提下重建？",
+    "我们关于外部世界与他人心灵的知识由何种材料、经由何种构造而成？"
+   ],
+   "arguments": [
+    {
+     "claim": "限定摹状词不是名字，而是量化结构的表层伪装",
+     "premises": [
+      "若“当今法国国王”是名字，则该句子预设一个指称对象；而该对象不存在，句子便既非真也非假，成为无真值的空谈。",
+      "但“当今法国国王是秃子”与“当今法国国王不是秃子”在直觉上都不成立，二者不可能同假而又不构成矛盾。",
+      "把该句改写为“存在一个且仅一个当今法国国王，并且他是秃子”，否定便只落在谓词上，不产生指称失败。"
+     ],
+     "inference": "摹状词并非指称表达式，而是一组量词、合取与同一性构成的复合；句子的真值条件由此被明确给出，“指称失败”不再是一个需要容忍的例外。",
+     "conclusion": "语法形式不等于逻辑形式；我们可以有意义地谈论不存在之物，而不必承认其存在。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以类型分层排除自指悖论，代价是引入可化归公理",
+     "premises": [
+      "设 R 为“所有不自身应用的类”所构成的类：若 R 自身应用则 R 不自身应用，若 R 不自身应用则 R 自身应用（罗素悖论）。",
+      "悖论源于把整体与其成员置于同一逻辑层次，使表达式得以谈论自身。"
+     ],
+     "inference": "把对象、对象的类、类的类分置不同阶（类型），并规定命题只能谈论较低阶的对象，则“自身应用”这类表达式根本无法合法构造。",
+     "conclusion": "悖论被排除在合法表达式之外而非被“解决”为真命题；为恢复部分经典数学，须额外引入可化归公理。",
+     "kind": "原文"
+    },
+    {
+     "claim": "知识分为亲知的知识与描述的知识，后者依赖前者",
+     "premises": [
+      "一切可理解的命题最终须由我们直接亲知的材料构成，否则无从验证。",
+      "我们并不亲知他人心灵与物质对象，只亲知感觉材料、记忆、内省与共相。"
+     ],
+     "inference": "关于他人心灵与外部对象的命题只能由描述（“唯一满足某摹状词的东西”）从亲知材料构造出来，其确定性因此低于亲知。",
+     "conclusion": "认识论的任务是说明如何由亲知材料逻辑地构造出关于世界的知识；这是逻辑原子论的纲领。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《数理哲学导论》",
+     "edition": "晏成书译，商务印书馆（另可参 Routledge 英文版 Introduction to Mathematical Philosophy, 1919）",
+     "note": "摹状词理论与描述的知识见其中第16章；为《数学原理》的通俗导引"
+    },
+    {
+     "title": "《数学原理》（Principia Mathematica，与怀特海合著）",
+     "edition": "剑桥大学出版社 1910—1913 年第一版；第二版 1925—1927，第二版导论对可化归公理有重要修正",
+     "note": "类型论与逻辑主义纲领的完整展开"
+    },
+    {
+     "title": "《逻辑与知识》",
+     "edition": "R. C. Marsh 编，苑莉均译，商务印书馆（英文原版 Logic and Knowledge, 1956）",
+     "note": "收《论指称》《逻辑原子主义哲学》《论共相与殊相》等关键论文"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "弗雷格",
+     "id": "gr-20c-frege",
+     "note": "量词与函项分析、逻辑主义纲领的直接来源"
+    },
+    {
+     "name": "怀特海",
+     "id": null,
+     "note": "《数学原理》合著者，数学基础研究的合作者"
+    },
+    {
+     "name": "英国经验论传统",
+     "id": null,
+     "note": "休谟式的材料概念经其手被改写为“亲知”"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "维特根斯坦",
+     "id": "gr-20c-wittgenstein",
+     "note": "早期以逻辑原子论为起点，后期转而批判其单一逻辑形式的假定"
+    },
+    {
+     "name": "卡尔纳普",
+     "id": "gr-20c-carnap",
+     "note": "接受摹状词分析与逻辑构造方法，走向逻辑经验主义"
+    },
+    {
+     "name": "蒯因",
+     "id": "gr-20c-quine",
+     "note": "承接其逻辑主义与摹状词分析，但以整体论取代还原论"
+    },
+    {
+     "name": "日常语言哲学",
+     "id": null,
+     "note": "斯特劳森对摹状词理论的批评成为该传统的经典文本"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "斯特劳森",
+     "view": "《论指称》指出：日常语言中“当今法国国王”这类表达式并不承担罗素所设的真值条件，说话者用它作出“预设”而非断言；罗素把指称实践与真假条件混为一谈，错把逻辑改写当成意义分析。",
+     "response": "罗素式回应是：该理论的目标是给出真值条件的逻辑形式，而非描述会话中的语用预设；若坚持二值原则，预设失败仍须由量化结构来解释，否则句子无真值即无从推理。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-russell",
+      "sep-wittgenstein"
+     ]
+    },
+    {
+     "critic": "后期维特根斯坦",
+     "view": "逻辑原子论把语言的可能性预先锁定为单一的逻辑形式，“简单对象”是不可检验的独断设定；语言实为多样的活动，其意义来自用法而非与世界的同构。",
+     "response": "罗素在《逻辑原子主义哲学》中承认简单物是逻辑分析所达到的终点而非经验发现；他晚年也放弃了逻辑原子论的强纲领，但仍坚持分析方法是哲学的唯一进步途径。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-wittgenstein",
+      "sep-russell"
+     ]
+    },
+    {
+     "critic": "兰姆塞与蒯因",
+     "view": "类型论与可化归公理是为救逻辑主义而特设的修补：分层缺乏独立根据，可化归公理更无逻辑必然性，说明悖论的根源在素朴的类概念而非“层次混淆”。",
+     "response": "罗素式回应是：分层对应“命题函项须有确定意义域”这一语义要求，若容许无限制自指，语义封闭就无法维持；特设与否应以整个系统的可靠性衡量。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-russell",
+      "sep-quine"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "罗素认为“当今法国国王”指称一个不存在但仍有指称的对象",
+     "why": "恰恰相反：摹状词理论否认它是名字，主张其贡献由量化结构给出，因此无须为不存在之物设立影子存在；这正是该理论被称作“消解”而非“解决”的原因。"
+    },
+    {
+     "claim": "逻辑原子论是从经验观察中归纳出的世界结构学说",
+     "why": "它是逻辑分析的产物：罗素把原子命题当作分析所达到的终点，其“简单物”是理论设定，不可由经验直接指认，晚年他本人也承认这一设定难以兑现。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>罗素：摹状词理论的改写路径（示意）</text><defs><marker id='arR1' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='58' width='250' height='64' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='165' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>表层语法：“当今法国国王是秃子”</text><text x='165' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>看似 主词＋谓词，暗含指称</text><line x1='290' y1='90' x2='330' y2='90' stroke='#4a7ba6' marker-end='url(#arR1)'/><rect x='332' y='58' width='118' height='64' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='391' y='84' text-anchor='middle' font-size='12' fill='#1c3a5c'>逻辑改写</text><text x='391' y='104' text-anchor='middle' font-size='10' fill='#1e2d3d'>量化＋同一性</text><line x1='450' y1='90' x2='490' y2='90' stroke='#4a7ba6' marker-end='url(#arR1)'/><rect x='492' y='58' width='228' height='64' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='606' y='80' text-anchor='middle' font-size='11' fill='#1e2d3d'>存在一个且仅一个法国国王</text><text x='606' y='99' text-anchor='middle' font-size='11' fill='#1e2d3d'>并且他是秃子</text><text x='606' y='115' text-anchor='middle' font-size='10' fill='#4a7ba6'>否定只落在谓词上</text><line x1='380' y1='122' x2='380' y2='160' stroke='#4a7ba6' marker-end='url(#arR1)'/><rect x='240' y='164' width='280' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='188' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：非真非假之惑被消解</text><text x='380' y='208' text-anchor='middle' font-size='10' fill='#1e2d3d'>指称失败不是特例，而是误解语法所致</text><line x1='380' y1='222' x2='380' y2='252' stroke='#4a7ba6' marker-end='url(#arR1)'/><rect x='70' y='256' width='280' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='210' y='280' text-anchor='middle' font-size='12' fill='#1e2d3d'>亲知的知识</text><text x='210' y='300' text-anchor='middle' font-size='10' fill='#1e2d3d'>感觉材料／记忆／内省／共相</text><rect x='410' y='256' width='280' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='550' y='280' text-anchor='middle' font-size='12' fill='#1e2d3d'>描述的知识</text><text x='550' y='300' text-anchor='middle' font-size='10' fill='#1e2d3d'>唯一满足某摹状词的东西</text><text x='380' y='356' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：上图为原文论证的重构；“语法≠逻辑形式”为其核心断言</text></svg>",
+   "svg_caption": "罗素：摹状词的逻辑改写与两类知识的区分（重构示意图）",
+   "sources": [
+    "sep-russell",
+    "sep-frege",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-quine",
+   "name": "蒯因",
+   "latin": "Willard Van Orman Quine",
+   "birth_year": 1908,
+   "death_year": 2000,
+   "birth_display": "1908年",
+   "death_display": "2000年",
+   "birth_note": "1908年生于美国俄亥俄州阿克伦（Akron），父亲为实业家，早年即对逻辑与数学感兴趣。",
+   "death_note": "2000年卒于马萨诸塞州波士顿，晚年仍持续写作，九十年代尚有《真之追求》修订本行世。",
+   "era": "20世纪中叶分析哲学由逻辑经验主义转向后实证主义：维也纳学派移居美国后，其证实原则遭遇整体主义与翻译不确定性的挑战。蒯因以《经验论的两个教条》与《语词与对象》把认识论自然化，并使本体论问题重新成为可由逻辑分析讨论的问题。",
+   "school": "分析哲学（自然主义／整体论）",
+   "core_questions": [
+    "分析命题与综合命题的区分能否在不循环的前提下成立？",
+    "经验检验的单位是单个陈述还是整个理论？理论选择有何种合理性？",
+    "一个理论在本体论上承诺了什么，这一承诺如何被读出？"
+   ],
+   "arguments": [
+    {
+     "claim": "分析-综合区分依赖不可兑现的同义性概念，因而是教条",
+     "premises": [
+      "分析命题被定义为“仅凭意义为真”的命题，这要求先说明“意义”与“同义性”。",
+      "说明同义性可用的手段（定义、可替换性、语义规则）无一不反过来预设分析性或意义同一。",
+      "除逻辑真理外，找不到不循环地刻画分析真理的判据。"
+     ],
+     "inference": "该区分无法在不循环的前提下被定义；被当作分析真理的陈述（如“单身汉未婚”）与经验定律只有程度之别，都在整体中接受检验。",
+     "conclusion": "分析-综合区分作为教条应当放弃；一切信念都面对经验，只是有的靠外围、有的靠中心。",
+     "kind": "原文"
+    },
+    {
+     "claim": "经验检验的单位是信念之网，而非单个陈述",
+     "premises": [
+      "任何单个陈述都不能单独与经验对照而被否证：否证总是针对由定律、辅助假设与观察语句构成的整体。",
+      "面对反例，我们总可以修改理论内部的其他部分而保住核心定律。"
+     ],
+     "inference": "信念网只在边缘与经验相接；中心的逻辑与数学因牵连过广而实际上免于修改，但并非原则上不可修正。",
+     "conclusion": "不存在原则上不可修正的陈述；修改何处的取舍由保守主义、简单性等实用考虑决定。",
+     "kind": "原文"
+    },
+    {
+     "claim": "存在就是成为约束变项的值",
+     "premises": [
+      "一个理论说什么东西存在，取决于为使该理论为真而必须纳入量词变项值域的对象。",
+      "“存在”不是普通谓词，不能像“是红的”那样加于个体之上。"
+     ],
+     "inference": "把理论转写为标准逻辑记号（一阶量化式）后，其本体论承诺可由约束变项的值域读出；由此可比较不同框架的本体论代价，而不必诉诸直观。",
+     "conclusion": "本体论问题成为翻译与框架选择的问题：我们选择承担何种承诺，而非直接“看见”何物存在。",
+     "kind": "原文"
+    },
+    {
+     "claim": "认识论应自然化为经验科学的一章",
+     "premises": [
+      "传统认识论试图从感觉材料出发为科学提供基础，这要求一种先于科学、独立于科学的辩护。",
+      "从观察句到理论句的推导本身已依赖科学理论，故这种“第一哲学”式的辩护无法完成。"
+     ],
+     "inference": "认识论转为描述性的经验研究：说明主体如何从贫乏的感官输入构造出丰富的理论，而不为科学提供外在保证。",
+     "conclusion": "自然化认识论仍有关键任务（观察句如何习得、理论如何被修正），但不再享有相对于科学的优先地位。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《从逻辑的观点看》",
+     "edition": "江天骥、宋文淦、张家龙、陈启伟译，上海译文出版社（英文原版 From a Logical Point of View, 1953）",
+     "note": "《经验论的两个教条》见其中第二章；《论何物存在》同卷"
+    },
+    {
+     "title": "《语词与对象》",
+     "edition": "陈启伟、朱锐、张学广译，中国人民大学出版社（英文原版 Word and Object, 1960）",
+     "note": "翻译不确定性（gavagai）与本体论相对性见第二章"
+    },
+    {
+     "title": "《真之追求》",
+     "edition": "王路译，三联书店（英文原版 Pursuit of Truth, 1990；1992 修订版）",
+     "note": "晚年对观察句、整体论与真理的压缩表述"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "卡尔纳普",
+     "id": "gr-20c-carnap",
+     "note": "师承所在，也是《两个教条》的主要批评对象"
+    },
+    {
+     "name": "罗素",
+     "id": "gr-20c-russell",
+     "note": "承接其摹状词分析与逻辑主义，但以整体论取代还原论"
+    },
+    {
+     "name": "迪昂",
+     "id": null,
+     "note": "整体论题的前身（迪昂-蒯因论题）"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "戴维森",
+     "id": null,
+     "note": "以整体论改造意义理论，提出彻底解释"
+    },
+    {
+     "name": "普特南与罗蒂",
+     "id": null,
+     "note": "前者由实在论转向内在实在论，后者以整体论为反基础主义的支点"
+    },
+    {
+     "name": "自然化认识论与实验哲学",
+     "id": null,
+     "note": "使认识论向经验科学靠拢的纲领被广泛继承"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "卡尔纳普；格赖斯与斯特劳森",
+     "view": "卡尔纳普主张分析性可由语言框架与语义规则说明：“单身汉未婚”在给定规则下为真，无须先有跨语言的同义性。格赖斯与斯特劳森进一步指出，蒯因把概念间的相互依赖一律判为循环，而任何概念澄清都难免此类依赖。",
+     "response": "蒯因式回应是：语言框架的选择本身是实用的，规则也无法免于修正；若分析性只是“依规则为真”，规则的地位仍须在整体中接受检验，区分因而只是程度问题而非种类差别。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-quine",
+      "sep-carnap"
+     ]
+    },
+    {
+     "critic": "乔姆斯基",
+     "view": "翻译不确定性被夸大为形而上学结论，实则只是证据不足时的经验假设；若承认深层语法与普遍的语言习得机制，“gavagai”式的多解可以被经验证据排除。",
+     "response": "蒯因回应：不确定性不是证据不够，而是原则性的——任何行为证据都不能在多个翻译手册之间作出选择，故它是关于“意义”概念的结论，而不是对翻译实践的技术抱怨。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-quine",
+      "iep-quine"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "蒯因否认抽象对象的存在",
+     "why": "他主张的是本体论承诺须由量化结构读出，并采取“宽容原则”：数学需要集合论，便承认集合。他反对的是把“存在”当谓词、以直观裁决本体论，而非否认抽象对象。"
+    },
+    {
+     "claim": "整体论意味着任何信念都可随意抛弃，因而没有客观约束",
+     "why": "他同时强调观察句的公共可学性与保守主义原则：修改应尽量少动整体，并以预测成功为准绳；整体论取消的是不可修正的教条，而非经验约束本身。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>蒯因：两个教条的瓦解与信念之网（示意）</text><defs><marker id='arQ1' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='54' width='320' height='64' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='200' y='78' text-anchor='middle' font-size='12' fill='#1e2d3d'>教条一：分析／综合之分</text><text x='200' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>靠同义性说明，同义性又靠分析性</text><rect x='400' y='54' width='320' height='64' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='560' y='78' text-anchor='middle' font-size='12' fill='#1e2d3d'>教条二：还原论</text><text x='560' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>每个陈述可单独对应经验</text><line x1='200' y1='118' x2='300' y2='166' stroke='#4a7ba6' marker-end='url(#arQ1)'/><line x1='560' y1='118' x2='460' y2='166' stroke='#4a7ba6' marker-end='url(#arQ1)'/><rect x='230' y='170' width='300' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='194' text-anchor='middle' font-size='13' fill='#1c3a5c'>整体论：检验的单位是信念之网</text><text x='380' y='214' text-anchor='middle' font-size='10' fill='#1e2d3d'>没有原则上不可修正的陈述</text><line x1='330' y1='230' x2='240' y2='272' stroke='#4a7ba6' marker-end='url(#arQ1)'/><line x1='430' y1='230' x2='520' y2='272' stroke='#4a7ba6' marker-end='url(#arQ1)'/><rect x='50' y='276' width='280' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='190' y='300' text-anchor='middle' font-size='12' fill='#1e2d3d'>边缘：观察句</text><text x='190' y='320' text-anchor='middle' font-size='10' fill='#1e2d3d'>公共可学，直接面对经验</text><rect x='430' y='276' width='280' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='570' y='300' text-anchor='middle' font-size='12' fill='#1e2d3d'>中心：逻辑与数学</text><text x='570' y='320' text-anchor='middle' font-size='10' fill='#1e2d3d'>牵连过广，实际免于修改</text><text x='380' y='368' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：整体论不取消经验约束，只取消不可修正的特权层</text></svg>",
+   "svg_caption": "蒯因：两个教条与信念之网的边缘／中心结构（重构示意图）",
+   "sources": [
+    "sep-quine",
+    "iep-quine",
+    "sep-carnap",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "concepts": [

@@ -1,0 +1,24 @@
+[
+ {
+  "date": "2026-11-22",
+  "entries": 325,
+  "by_level": {
+   "L2": 279,
+   "L1": 46
+  },
+  "needs_verification": 46,
+  "sources": 209,
+  "sources_verified": 193
+ },
+ {
+  "date": "2026-11-22",
+  "entries": 329,
+  "by_level": {
+   "L2": 282,
+   "L1": 47
+  },
+  "needs_verification": 47,
+  "sources": 209,
+  "sources_verified": 193
+ }
+]

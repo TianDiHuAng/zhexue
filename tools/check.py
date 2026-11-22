@@ -31,6 +31,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 SOURCES = os.path.join(ROOT, "sources.json")
 SCHOOLS = os.path.join(DATA, "schools.json")
+WORKS = os.path.join(DATA, "works.json")
+COMPARATIVE = os.path.join(DATA, "comparative.json")
 
 ID_RE = re.compile(r"^[a-z0-9][a-z0-9-]*$")
 KINDS = {"原文", "后人解读"}
@@ -426,6 +428,75 @@ def check_schools(src, unit_ids, global_ids):
         check_pending(where, s)
 
 
+# ------------------------------------------------------------------ 著作校验
+def check_works(src, global_ids):
+    """R17：经典著作页（新维度）"""
+    if not os.path.exists(WORKS):
+        return
+    with open(WORKS, encoding="utf-8") as f:
+        data = json.load(f)
+    items = data.get("works") or []
+    if len(items) < 10:
+        err("works.json", "R17", "著作条目 %d 偏少（目标 ≥10）" % len(items))
+    seen = set()
+    for w in items:
+        wid = w.get("id", "")
+        where = "works / %s" % wid
+        check_id(where, w)
+        if wid in seen:
+            err(where, "R5", "著作 id 重复")
+        seen.add(wid)
+        global_ids.add(wid)
+        need(where, "R17", w, ["title", "title_original", "tradition", "date_display",
+                               "structure", "core_arguments", "key_points", "editions",
+                               "related_people", "misreadings", "sources"],
+             mins={"structure": 30, "date_display": 4})
+        if w.get("tradition") not in ("china", "west"):
+            err(where, "R17", "tradition 必须是 china / west")
+        for k in ("core_arguments", "key_points", "editions", "related_people", "misreadings"):
+            if not isinstance(w.get(k), list) or not w.get(k):
+                err(where, "R17", "%s 必须是非空数组" % k)
+        if len(w.get("core_arguments") or []) < 2:
+            err(where, "R17", "core_arguments 至少 2 条")
+        if len(w.get("key_points") or []) < 2:
+            err(where, "R17", "key_points 至少 2 条")
+        for kp in w.get("key_points") or []:
+            need("%s / key_point" % where, "R17", kp, ["locator", "point"])
+        for r in w.get("related_people") or []:
+            if r not in global_ids:
+                err("%s / related_people" % where, "R11", "人物 id 不存在：%s" % r)
+        for m in w.get("misreadings") or []:
+            need("%s / misreading" % where, "R17", m, ["claim", "why"], mins={"why": 10})
+        check_sources(where, w, src)
+        check_pending(where, w)
+
+# ------------------------------------------------------------------ 比较视野
+def check_comparative(src):
+    """R18：中西比较文章"""
+    if not os.path.exists(COMPARATIVE):
+        return
+    data = json.load(open(COMPARATIVE, encoding="utf-8"))
+    items = data.get("essays") or []
+    if len(items) < 2:
+        err("comparative.json", "R18", "比较文章少于 2 篇")
+    seen = set()
+    for e in items:
+        eid = e.get("id", "")
+        where = "comparative / %s" % eid
+        check_id(where, e)
+        if eid in seen:
+            err(where, "R5", "比较文章 id 重复")
+        seen.add(eid)
+        need(where, "R18", e, ["title", "question", "sections", "caveat", "sources"],
+             mins={"question": 10, "caveat": 20})
+        secs = e.get("sections") or []
+        if len(secs) < 2:
+            err(where, "R18", "sections 至少 2 节")
+        for sec in secs:
+            need("%s / section" % where, "R18", sec, ["heading", "text"], mins={"text": 80})
+        check_sources(where, e, src)
+        check_pending(where, e)
+
 # ------------------------------------------------------------------ main
 def main():
     ap = argparse.ArgumentParser()
@@ -445,6 +516,8 @@ def main():
         check_unit(p, src, global_ids, unit_ids)
     if not args.file:
         check_schools(src, unit_ids, global_ids)
+        check_works(src, global_ids)
+        check_comparative(src)
 
     if not args.quiet:
         for w in warnings:

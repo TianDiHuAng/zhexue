@@ -19,7 +19,10 @@ DATA = os.path.join(ROOT, "data")
 SITE = os.path.join(ROOT, "site")
 SRC = os.path.join(ROOT, "sources.json")
 SCHOOLS = os.path.join(DATA, "schools.json")
+WORKS = os.path.join(DATA, "works.json")
+COMPARATIVE = os.path.join(DATA, "comparative.json")
 
+WORKS_CACHE = []
 BRAND = "镜花水月"
 SUBBRAND = "中外哲学思想脉络库"
 VERSION = "v1.0"
@@ -37,7 +40,8 @@ NAV = [
     ("首页", ""), ("中国", "china/"), ("西方", "west/"),
     ("中国时间线", "timeline/china.html"), ("西方时间线", "timeline/west.html"),
     ("哲学家", "people/"), ("概念索引", "concepts/"), ("争论", "debates/"),
-    ("流派", "schools/"), ("谱系总图", "graph.html"), ("来源", "sources/"),
+    ("流派", "schools/"), ("著作", "works/"), ("比较视野", "comparative.html"),
+    ("谱系总图", "graph.html"), ("来源", "sources/"),
     ("体例", "about.html"),
 ]
 
@@ -147,11 +151,19 @@ def load_all():
     units.sort(key=lambda u: (0 if u["region"] == "china" else 1, u["start_year"]))
     with open(SRC, encoding="utf-8") as f:
         sources = {s["id"]: s for s in json.load(f)["sources"]}
+    works = []
+    if os.path.exists(WORKS):
+        with open(WORKS, encoding="utf-8") as f:
+            works = json.load(f).get("works", [])
+    essays = []
+    if os.path.exists(COMPARATIVE):
+        with open(COMPARATIVE, encoding="utf-8") as f:
+            essays = json.load(f).get("essays", [])
     schools = []
     if os.path.exists(SCHOOLS):
         with open(SCHOOLS, encoding="utf-8") as f:
             schools = json.load(f).get("schools", [])
-    return units, sources, schools
+    return units, sources, schools, works, essays
 
 
 def index_units(units):
@@ -224,6 +236,10 @@ def render_person(p, sources, people, concepts, debates, schools):
                    % (esc(w["title"]), esc(w["edition"]), esc(w.get("note", "")))
                    for w in p.get("works", []))
     body.append('<table><tr><th>著作</th><th>推荐版本</th><th>说明</th></tr>%s</table>' % rows)
+    mine = [w for w in WORKS_CACHE if p["id"] in (w.get("related_people") or [])]
+    if mine:
+        body.append('<p class="meta">本站著作页：%s</p>' % " · ".join(
+            '<a href="%sworks/%s.html">%s</a>' % (pth, w["id"], esc(w["title"])) for w in mine))
 
     # 五
     body.append("<h2>五、受谁影响、影响了谁</h2>")
@@ -442,6 +458,70 @@ def render_unit(u, sources, schools, prev, nxt):
     return page(u["title"], d, "中国" if reg == "china" else "西方", "\n".join(body))
 
 
+# ------------------------------------------------------------------ 著作页
+def render_work(w, sources, people):
+    d = 1
+    pth = rel(d)
+    body = ["<h1>%s</h1>" % esc(w["title"]),
+            '<p class="meta">%s · %s</p>' % (esc(w["title_original"]), esc(w["date_display"]))]
+    body.append('<p class="crumb"><a href="%s">首页</a> / <a href="%sworks/">著作</a> / %s</p>'
+                % (pth, pth, esc(w["title"])))
+    body.append("<h2>一、文本结构</h2><p>%s</p>" % esc(w["structure"]))
+    body.append("<h2>二、核心论证</h2><ol class=\"tight\">%s</ol>"
+                % "".join("<li>%s</li>" % esc(a) for a in w["core_arguments"]))
+    body.append("<h2>三、关键段落</h2><table><tr><th>位置</th><th>要点</th></tr>%s</table>"
+                % "".join("<tr><td class=\"year\">%s</td><td>%s</td></tr>"
+                          % (esc(k["locator"]), esc(k["point"])) for k in w["key_points"]))
+    body.append("<h2>四、版本与推荐阅读</h2><ul class=\"tight\">%s</ul>"
+                % "".join("<li>%s</li>" % esc(e) for e in w["editions"]))
+    body.append("<h2>五、相关人物</h2><p>%s</p>" % " · ".join(
+        ('<a href="%speople/%s.html">%s</a>' % (pth, pid, esc(people[pid]["name"]))
+         if pid in people else esc(pid)) for pid in w["related_people"]))
+    body.append("<h2>六、常见误读</h2>")
+    for m in w["misreadings"]:
+        body.append('<div class="card"><p><b>常见说法：</b>%s</p><p><b>纠正：</b>%s</p></div>'
+                    % (esc(m["claim"]), esc(m["why"])))
+    body.append("<h2>待核实</h2>" + pending_box(w))
+    body.append("<h2>参考来源</h2>" + src_block(w.get("sources"), sources))
+    return page(w["title"], d, "著作", "\n".join(body))
+
+
+def render_works_index(works):
+    d = 1
+    pth = rel(d)
+    body = ["<h1>经典著作</h1>",
+            '<p class="meta">共 %d 部。每页给出文本结构、核心论证、关键段落、版本与常见误读；'
+            '文本的分篇与作者问题在“待核实”中说明。</p>' % len(works)]
+    for trad, label in (("china", "中国"), ("west", "西方")):
+        body.append("<h2>%s</h2><div class=\"grid\">" % label)
+        for w in [x for x in works if x["tradition"] == trad]:
+            body.append('<div class="card"><h3><a href="%sworks/%s.html">%s</a></h3>'
+                        '<p class="meta">%s</p><p>%s</p></div>'
+                        % (pth, w["id"], esc(w["title"]), esc(w["date_display"]),
+                           esc(w["structure"][:70] + ("…" if len(w["structure"]) > 70 else ""))))
+        body.append("</div>")
+    return page("经典著作", d, "著作", "\n".join(body))
+
+
+# ------------------------------------------------------------------ 比较视野
+def render_comparative(essays, sources):
+    d = 0
+    pth = rel(d)
+    body = ["<h1>比较视野</h1>",
+            '<p class="meta">共 %d 篇。做法：并列两种提问方式与其论证结构，说明可比与不可比之处；'
+            '不主张某一传统更“正确”，也不追求一个更高的统一表述。</p>' % len(essays)]
+    body.append('<p class="meta">目录：%s</p>' % " · ".join(
+        '<a href="#%s">%s</a>' % (e["id"], esc(e["title"])) for e in essays))
+    for e in essays:
+        body.append('<h2 id="%s">%s</h2>' % (e["id"], esc(e["title"])))
+        body.append('<p class="kv"><b>问题：</b>%s</p>' % esc(e["question"]))
+        for sec in e["sections"]:
+            body.append("<h3>%s</h3><p>%s</p>" % (esc(sec["heading"]), esc(sec["text"])))
+        body.append('<div class="pending"><p><b>比较的限度</b>　%s</p></div>' % esc(e["caveat"]))
+        body.append("<h3>参考来源</h3>" + src_block(e.get("sources"), sources))
+    return page("比较视野", d, "比较视野", "\n".join(body))
+
+
 # ------------------------------------------------------------------ 索引页
 def render_people_index(people):
     d = 1
@@ -581,14 +661,18 @@ def render_about(units, people, concepts, debates, sources):
             "<h2>四、争议的处理</h2>",
             "<p>对学界有实质分歧的问题（如《老子》成书年代、《坛经》作者、向秀/郭象《庄子注》著作权），"
             "页面并列各方说法及其依据，不替读者下结论，也不对任何流派作贬抑性表述。</p>",
-            "<h2>五、本站规模</h2>",
+            "<h2>五、五个入口</h2>",
+            "<p><b>人</b>（哲学家页）、<b>概念</b>（概念页）、<b>争论</b>（争论页）、<b>流派</b>（流派页）、"
+            "<b>文本</b>（著作页）五个入口互为索引；另有<b>比较视野</b>：并列中西两种提问方式及其论证结构，"
+            "说明可比与不可比之处，不追求统一表述。</p>",
+            "<h2>六、本站规模</h2>",
             "<table><tr><th>项目</th><th>数量</th></tr>"
             "<tr><td>时期单元</td><td>%d</td></tr><tr><td>哲学家</td><td>%d</td></tr>"
             "<tr><td>概念</td><td>%d</td></tr><tr><td>争论</td><td>%d</td></tr>"
             "<tr><td>来源</td><td>%d（已验证 %d）</td></tr></table>"
             % (len(units), len(people), len(concepts), len(debates), len(sources),
                sum(1 for s in sources.values() if s.get("verified"))),
-            "<h2>六、免责</h2>",
+            "<h2>七、免责</h2>",
             "<p>本站用于学习与索引，不构成学术结论。任何引用请回到原典与所标注的专业研究，"
             "并核对紙本版本的页码。</p>"]
     return page("方法与体例", d, "体例", "\n".join(body))
@@ -687,7 +771,7 @@ def render_home(units, people, concepts, debates, schools, sources):
                            len(u["philosophers"]), len(u["concepts"]), len(u["debates"]),
                            esc(u["summary"][:88] + ("…" if len(u["summary"]) > 88 else ""))))
         body.append("</div>")
-    body.append('<h2>另见</h2><p><a href="timeline/china.html">中国哲学时间线</a> · '
+    body.append('<h2>另见</h2><p><a href="works/">经典著作</a> · <a href="comparative.html">比较视野</a> · <a href="timeline/china.html">中国哲学时间线</a> · '
                 '<a href="timeline/west.html">西方哲学时间线</a> · <a href="graph.html">思想谱系总图</a> · '
                 '<a href="concepts/">概念索引</a> · <a href="debates/">争论索引</a> · '
                 '<a href="schools/">流派索引</a> · <a href="sources/">来源列表</a> · '
@@ -722,15 +806,17 @@ def write(relpath, content):
 
 
 def main():
-    units, sources, schools = load_all()
+    global WORKS_CACHE
+    units, sources, schools, works, essays = load_all()
+    WORKS_CACHE = works
     people, concepts, debates = index_units(units)
 
     # 清理旧产物（保留 assets）
-    for name in ("china", "west", "people", "concepts", "debates", "schools", "timeline", "sources"):
+    for name in ("china", "west", "people", "concepts", "debates", "schools", "works", "timeline", "sources"):
         p = os.path.join(SITE, name)
         if os.path.isdir(p):
             shutil.rmtree(p)
-    for f in ("index.html", "about.html", "graph.html"):
+    for f in ("index.html", "about.html", "graph.html", "comparative.html"):
         p = os.path.join(SITE, f)
         if os.path.exists(p):
             os.remove(p)
@@ -760,6 +846,10 @@ def main():
     write("concepts/index.html", render_concept_index(concepts, units))
     write("debates/index.html", render_debate_index(debates))
     write("schools/index.html", render_school_index(schools))
+    for w in works:
+        write("works/%s.html" % w["id"], render_work(w, sources, people))
+    write("works/index.html", render_works_index(works))
+    write("comparative.html", render_comparative(essays, sources))
     write("timeline/china.html", render_timeline(units, people, "china", "中国"))
     write("timeline/west.html", render_timeline(units, people, "west", "西方"))
     write("sources/index.html", render_sources(sources))

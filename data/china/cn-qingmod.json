@@ -984,6 +984,165 @@
    "pending_notes": "",
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>严复：体用之辨与天演群学（示意）</text><defs><marker id='ar' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='66' width='205' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='132' y='90' text-anchor='middle' font-size='13' fill='#1e2d3d'>体用就一物而言</text><text x='132' y='110' text-anchor='middle' font-size='11' fill='#1e2d3d'>牛体牛用，马体马用</text><line x1='235' y1='95' x2='281' y2='95' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='285' y='66' width='195' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='382' y='90' text-anchor='middle' font-size='13' fill='#1e2d3d'>中学为体，西学为用</text><text x='382' y='110' text-anchor='middle' font-size='11' fill='#1e2d3d'>如以牛体求马用</text><line x1='480' y1='95' x2='526' y2='95' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='530' y='66' width='200' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='630' y='90' text-anchor='middle' font-size='13' fill='#1e2d3d'>体用不可二分</text><text x='630' y='110' text-anchor='middle' font-size='11' fill='#1e2d3d'>拼合则法无所附</text><rect x='30' y='176' width='205' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='132' y='200' text-anchor='middle' font-size='13' fill='#1e2d3d'>天演：物竞天择</text><text x='132' y='220' text-anchor='middle' font-size='11' fill='#1e2d3d'>争存于群与群之间</text><line x1='235' y1='205' x2='281' y2='205' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='285' y='176' width='195' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='382' y='200' text-anchor='middle' font-size='13' fill='#1e2d3d'>群学：合群进种</text><text x='382' y='220' text-anchor='middle' font-size='11' fill='#1e2d3d'>改良群之知能</text><line x1='480' y1='205' x2='526' y2='205' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='530' y='176' width='200' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='630' y='200' text-anchor='middle' font-size='13' fill='#1e2d3d'>救亡在变其群</text><text x='630' y='220' text-anchor='middle' font-size='11' fill='#1e2d3d'>非仅恃旧德</text><rect x='230' y='274' width='300' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='298' text-anchor='middle' font-size='13' fill='#1e2d3d'>名学为一切法之法</text><text x='380' y='318' text-anchor='middle' font-size='11' fill='#1e2d3d'>逻辑先于具体科学</text><text x='380' y='372' text-anchor='middle' font-size='11' fill='#1e2d3d'>同一条思路：方法先立，体用不二</text></svg>",
    "svg_caption": "严复体用论与天演、名学的两路（示意）"
+  },
+  {
+   "id": "cn-qingmod-zhang-taiyan",
+   "name": "章太炎",
+   "latin": "Zhang Taiyan (Zhang Binglin)",
+   "birth_year": 1869,
+   "death_year": 1936,
+   "birth_display": "1869年",
+   "death_display": "1936年",
+   "birth_note": "据汤志钧编《章太炎年谱长编》，生于清同治七年十一月三十日，公历1869年1月12日，浙江余杭。",
+   "death_note": "据《章太炎年谱长编》，卒于1936年6月14日苏州寓所，国民政府令予国葬，墓在杭州西湖南屏山。",
+   "era": "清末民初（1869—1936）。章太炎身历戊戌、辛亥革命、五四与国民革命：早年入《时务报》而参与维新，后与康有为立宪派决裂，组织光复会、入同盟会，主持《民报》；民国后一度被袁世凯幽禁，晚年退居苏州办国学讲习会。他所面对的问题是：帝制既倒，革命的政治根据与平等诉求，能否自中国旧学（庄子、荀子、六经与唯识）内部重新给出，而不必全靠西学移植。",
+   "school": "古文经学与国学（兼采庄子与唯识，自成“齐物”一路）",
+   "core_questions": [
+    "革命的政治根据能否自国学内部给出，而不只是西学的转手？",
+    "“齐物”能否为平等提供哲学基础，而不落入“齐其不齐”的强制同化？",
+    "佛学（唯识）与庄子如何结合成一门能破一切差别相的学问？"
+   ],
+   "arguments": [
+    {
+     "claim": "齐物哲学：一切差别无自性，故平等是“各适其适”而非“齐同”",
+     "premises": [
+      "庄子《齐物论》所谓“齐物”，不是齐同是非之见，而是观万物之各当其分；唯识学则言万法唯识，外境由分别而现。",
+      "差别既由识之分别而安立，则差别无自性；无自性，故不可执一差别以衡量其余一切。"
+     ],
+     "inference": "若把平等理解为万事万物皆归同一标准，则必须先立某一差别为衡准，反而坐实了差别的实在性，并以强力削人之异以为同；只有承认差别无自性而又各有其当，平等才不至于沦为同化。",
+     "conclusion": "平等非“同”，而是“各适其适”：不齐其不齐，而任其自齐。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "俱分进化：善与恶、苦与乐并进，故进化不等于进步",
+     "premises": [
+      "进化之动力在“自利”与“好胜”之争，此二者同时生善亦同时生恶。",
+      "知识与能力之增进，亦使作恶之具与受苦之觉随之而增进。"
+     ],
+     "inference": "若以进化必趋于善为公例，则无法解释文明愈进而杀戮愈烈、乐事愈多而苦痛愈深的事实；故进化只能言变化之不可逆，不能言善之必至。",
+     "conclusion": "善与恶、苦与乐俱分而并进；进化是一结构判断，不提供价值上的进步保证。",
+     "kind": "原文"
+    },
+    {
+     "claim": "革命与国学：以“国粹”为革命的精神资源，而反对孔教国教化",
+     "premises": [
+      "“国粹”指汉族的语言文字、历史与学术统绪，其用在能唤起种性、支撑排满革命。",
+      "孔教若定为国教，则以一教之义绳天下人之信仰，与共和政体下的信教自由相悖。"
+     ],
+     "inference": "若革命只求政体之变而不问学术与种性之根据，则革命之后仍无以自立；若以孔教为国教，则是以国家之力定是非，反成新的专制。故国学当兴，而孔教不当立为国教。",
+     "conclusion": "国学是革命的精神资源，而国学不等于孔教；国粹须以学术整理之，不以国家尊崇之。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《訄书》（后修订为《检论》）",
+     "edition": "《章太炎全集》，上海人民出版社",
+     "note": "初刻于1900年，1904年重订，后删改为《检论》；政论与学术札记的合集，为“国粹”说与革命论的主要出处"
+    },
+    {
+     "title": "《齐物论释》",
+     "edition": "《章太炎全集》，上海人民出版社",
+     "note": "以唯识解庄，自许“一字千金”；有初稿与定本之别，是其平等哲学的正式证成"
+    },
+    {
+     "title": "《国故论衡》",
+     "edition": "《章太炎全集》，上海人民出版社",
+     "note": "分小学、文学、诸子学，示国学整理之方法，非止考据"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "王夫之",
+     "id": "cn-qingmod-wang-fuzhi",
+     "note": "《訄书》《检论》屡引船山，取其夷夏之辨与气化之说"
+    },
+    {
+     "name": "荀子",
+     "id": null,
+     "note": "重“性恶”与礼之客观性，反对以良知为万应之方"
+    },
+    {
+     "name": "庄子（《齐物论》）",
+     "id": null,
+     "note": "《齐物论释》以庄学为平等之哲学基础"
+    },
+    {
+     "name": "唯识学（《成唯识论》《瑜伽师地论》）",
+     "id": null,
+     "note": "借“万法唯识”破外境之实有，为齐物说立据"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "鲁迅",
+     "id": null,
+     "note": "曾从章太炎问学，《文化偏至论》一路的“排众数”之思与章门学风相关"
+    },
+    {
+     "name": "新文化运动一代（钱玄同、周作人等）",
+     "id": null,
+     "note": "文字改革与“整理国故”之议多由章门流出，虽取向各异"
+    },
+    {
+     "name": "近代国学研究（章门弟子：黄侃、朱希祖、吴承仕）",
+     "id": null,
+     "note": "国学讲习会所立小学、经史之规模，为近代高校国学教育所本"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "康有为（孔教一系）",
+     "view": "以孔教为立国之本，谓废孔教则人心无依、国性不存；讥章太炎之反孔教为自绝其本，且以古文经学之“六经皆史”说瓦解孔子之教主地位。",
+     "response": "章太炎的回应路数：尊孔可也，立为国教则不可；以国家之力定一教，是以政统压学统，适与共和相悖。《驳建立孔教议》即由此立论。",
+     "kind": "原文",
+     "sources": [
+      "sep-qing-philosophy",
+      "book-chan-sourcebook"
+     ]
+    },
+    {
+     "critic": "《新青年》一系（陈独秀、胡适）",
+     "view": "谓“国粹”之说近于保守，以“整理国故”为回避现实问题；又讥其文字训诂之学不足以应答科学与民主的追问。",
+     "response": "章太炎一系的回应：国学之整理正为给革命与共和立下可据之统绪，非以故纸自囿；其对进化与进步的怀疑，恰是对“以新为是”的警告。",
+     "kind": "后人解读",
+     "sources": [
+      "iep-chinese-philosophy",
+      "sep-qing-philosophy"
+     ]
+    },
+    {
+     "critic": "章门弟子的分歧（钱玄同与黄侃各取一偏）",
+     "view": "钱玄同由章门走向疑古与废除汉字一路，黄侃则守古文经学与小学；二人各取章学之一偏，遂演成“国粹”与“欧化”之争，也反照出章氏自身立场难以被单一继承。",
+     "response": "章太炎本人的位置在两极之间：《国故论衡》重小学而不废新知，既不以国粹自封，也不以欧化为究竟。",
+     "kind": "后人解读",
+     "sources": [
+      "book-chan-sourcebook",
+      "iep-chinese-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "章太炎只是“国学大师”，其学止于训诂考据，无所立说",
+     "why": "《齐物论释》以唯识解庄而立平等之形上学，《俱分进化论》对进化论作结构分析，《国故论衡》则给出国学整理的方法；三者皆有论旨可辨。“国学大师”一语只是身份，掩掉的恰是他的问题意识。"
+    },
+    {
+     "claim": "“俱分进化”是悲观主义，等于否认一切进步",
+     "why": "俱分进化说的是善恶、苦乐随进化而俱分并进，是关于结构与配比的事实判断，不是价值上的绝望；章太炎仍主革命、教育与种性之振作，只是拒绝以进化之名担保善之必至。"
+    }
+   ],
+   "quotes": [],
+   "sources": [
+    "sep-qing-philosophy",
+    "book-chan-sourcebook",
+    "iep-chinese-philosophy",
+    "ws-renxue"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《齐物论释》有初稿（1906—1909年间《国粹学报》所刊）与1912年频伽精舍定本之别，定本增“定本”字样并改分章、增附论，文字出入颇多，引用须注明所据版本。《訄书》有1900年苏州初刻本、1904年重订本与1914年删改后的《检论》三种：篇目增删甚大，《订孔》《清儒》诸篇改题改写，故引《訄书》须标初刻或重订，引《检论》不得题作《訄书》。另有《章氏丛书》《章氏丛书续编》本与《章太炎全集》排印本之间的异文，待核。",
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>章太炎：齐物、俱分进化与国粹（示意）</text><defs><marker id='ar' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='64' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='88' text-anchor='middle' font-size='13' fill='#1e2d3d'>庄子「齐物」</text><text x='145' y='108' text-anchor='middle' font-size='11' fill='#1e2d3d'>差别无自性</text><line x1='145' y1='120' x2='145' y2='148' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='40' y='150' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='174' text-anchor='middle' font-size='13' fill='#1e2d3d'>唯识「万法唯识」</text><text x='145' y='194' text-anchor='middle' font-size='11' fill='#1e2d3d'>分别由识而现</text><line x1='145' y1='206' x2='145' y2='234' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='40' y='236' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='260' text-anchor='middle' font-size='13' fill='#1e2d3d'>平等＝各适其适</text><text x='145' y='280' text-anchor='middle' font-size='11' fill='#1e2d3d'>非同而无别</text><rect x='510' y='64' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='615' y='88' text-anchor='middle' font-size='13' fill='#1e2d3d'>俱分进化</text><text x='615' y='108' text-anchor='middle' font-size='11' fill='#1e2d3d'>善恶苦乐并进</text><line x1='615' y1='120' x2='615' y2='148' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='510' y='150' width='210' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='615' y='174' text-anchor='middle' font-size='13' fill='#1e2d3d'>进化不等于进步</text><text x='615' y='194' text-anchor='middle' font-size='11' fill='#1e2d3d'>目的论落空</text><line x1='615' y1='206' x2='615' y2='234' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='510' y='236' width='210' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='615' y='260' text-anchor='middle' font-size='13' fill='#1e2d3d'>国粹为革命之资</text><text x='615' y='280' text-anchor='middle' font-size='11' fill='#1e2d3d'>反孔教国教化</text><rect x='270' y='306' width='220' height='52' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='330' text-anchor='middle' font-size='13' fill='#1e2d3d'>革命与国学</text><text x='380' y='350' text-anchor='middle' font-size='11' fill='#1e2d3d'>以国学立革命之根据</text><line x1='250' y1='264' x2='312' y2='304' stroke='#4a7ba6' marker-end='url(#ar)'/><line x1='510' y1='264' x2='448' y2='304' stroke='#4a7ba6' marker-end='url(#ar)'/><text x='380' y='386' text-anchor='middle' font-size='11' fill='#1e2d3d'>左：破差别相而立平等；右：判进化之限；二者同归于“国学为革命之资”</text></svg>",
+   "svg_caption": "左：以庄子“齐物”与唯识“万法唯识”破差别之自性，归于“各适其适”的平等；右：俱分进化判进化之限，国粹为革命之资；下：二者同归于“革命与国学”的根据问题。"
   }
  ],
  "concepts": [

@@ -821,6 +821,246 @@
    ],
    "needs_verification": true,
    "pending_notes": "待核实三项：郭象生卒年（约 252—312）为推定；今本《庄子注》与向秀注重合部分的归属尚无定论；“名教即自然”一语的概括是否过强，学界有不同意见。"
+  },
+  {
+   "id": "cn-weijin-pei-wei",
+   "name": "裴頠",
+   "latin": "Pei Wei",
+   "birth_year": 267,
+   "death_year": 300,
+   "birth_display": "267年",
+   "death_display": "300年",
+   "birth_note": "生年据《晋书》本传“年三十四”与永康元年遇害上推，学界通行作 267—300。",
+   "death_note": "永康元年（300）为赵王司马伦所杀，年三十四；《晋书》卷三十五有传。",
+   "era": "西晋惠帝年间。司马氏代魏之后，名士承正始余风而以“贵无”相高，口谈虚玄而不亲实务；惠帝暗弱，贾后专政，宗室构兵。裴頠以外戚居位，屡掌机要，终在永康元年为赵王司马伦所杀。",
+   "school": "玄学（崇有派）",
+   "core_questions": [
+    "无既然是“无”，它凭什么能生出有来？",
+    "群品各有其分，则人应当据何立身、以何治事？",
+    "“贵无”之谈既已风行，它把士风与政事带向何处？"
+   ],
+   "arguments": [
+    {
+     "claim": "至无者无以能生，故始生者自生",
+     "premises": [
+      "《崇有论》说“夫至无者无以能生，故始生者自生也”，即绝对的虚无没有任何可以给出存在的能力。",
+      "凡所谓“生”都是某物由已有之条件化感而成；化感须有能感之物与所资之具，二者皆是有。",
+      "若说万物由无而生，等于说存在可以从不存在中凭空得到，这样的说法在语义上并无内容。"
+     ],
+     "inference": "既不能由无生有，则万有之始只能自生；自生即谓其体本是有。故“无”只能是有的缺失、有的未著，而不是在有的背后另立一个能生有的本。若把无当作本，万物之生成反而无从说明。",
+     "conclusion": "无不能生有；有之为有不由无出，贵无之说在生成论上讲不通。",
+     "kind": "原文"
+    },
+    {
+     "claim": "济有者皆有，故当崇有而以礼制节之",
+     "premises": [
+      "《崇有论》说“济有者皆有也，虚无奚益于已有之群生哉”，使存在者得以成全的也须是存在者。",
+      "又说“贱有则必外形，外形则必遗制，遗制则必忽防，忽防则必忘礼”，贱有在实践上必至于弃礼。",
+      "群品所禀者偏，偏则不能自足，故须凭乎外资；资有攸合谓之宜，择乎厥宜谓之情。"
+     ],
+     "inference": "既然成全者也是有，成全之道就只能就着有形有分之物来安排：明其分、正其宜、以礼制节其情。反之，若以无为体而贱有，人的行为便失去可依的分界，礼制与政事随之废弛。",
+     "conclusion": "崇有不是取消形上追问，而是把根据落回“有”上；由崇有必归于“以礼制节”，故其说同时是一种政治伦理主张。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《崇有论》",
+     "edition": "见《晋书》卷三十五《裴頠传》，中华书局点校本（1974），页 1044—1047",
+     "note": "全文由《晋书》本传保存；《世说新语·文学》载时人攻难而“莫能折”之事"
+    },
+    {
+     "title": "《辩才论》",
+     "edition": "已佚，篇目及撰作缘由见《晋书》卷三十五《裴頠传》，无传本可校",
+     "note": "未成而裴頠遇害，今仅存篇名"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "王弼",
+     "id": "cn-weijin-wangbi",
+     "note": "《崇有论》以贵无之说为论敌，其问题框架由王弼一系设定"
+    },
+    {
+     "name": "荀子（传统谱系）",
+     "id": null,
+     "note": "重分、明礼之说，为其“崇有而以礼制节之”所本"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "郭象",
+     "id": "cn-weijin-guoxiang",
+     "note": "同主“无不能生有”，而以独化代之，去掉“以有为体”的痕迹"
+    },
+    {
+     "name": "僧肇",
+     "id": null,
+     "note": "《肇论》把“崇有”与“本无”并举为偏执而破之，其说因之成为讨论的坐标"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "王弼、何晏一系（贵无派）",
+     "view": "以无为本者指出：崇有只说明了既有的万物，未说明万物何以有；有之为有仍须一个不作为物的根据，故崇有只是守着末而遗其本。",
+     "response": "裴頠的回应是：所谓本若不再是物，就不能承担“生”这一作用；“至无者无以能生”正是要问，一个全然无规定者凭什么给出规定。他不否认有一“宗极之道”，但主张这道只能即群本而见，不可离有而别立一无。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-chinese-metaphysics",
+      "book-chan-sourcebook"
+     ]
+    },
+    {
+     "critic": "僧肇（《不真空论》）",
+     "view": "《肇论》以为“本无”“心无”“即色”诸家各执一边，崇有亦同：若定执诸法为有，则不知缘起性空，有非实有。",
+     "response": "崇有论可答：其所争只在“无能否生有”，并未主张万物恒常自性；诸法待资而起、偏无自足而凭乎外资，正与缘起之说相通。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-zhaolun",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "崇有就是唯物论，否认一切形上根据",
+     "why": "裴頠仍言“总混群本，宗极之道”，其争点是“至无者无以能生”，不是取消根据；他只是拒绝把根据安放在一个非有的“无”上，与近代以物质为本体的主张不是同一问题。"
+    },
+    {
+     "claim": "《崇有论》纯是贾后一党的政治表态，其论证可置之不论",
+     "why": "裴頠的政治处境（贾后外戚、为赵王伦所杀）属实，但文中论证可独立评估：“贱有则必外形，外形则必遗制，遗制则必忽防，忽防则必忘礼”一系推论，针对的是“处官不亲所司”“奉身散其廉操”的士风，不是一党之私的辩解。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><title>裴頠：从“至无者无以能生”到“崇有以礼节之”</title><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>裴頠：从“至无者无以能生”到“崇有以礼节之”</text><defs><marker id='ar' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='24' y='54' width='224' height='58' rx='5' fill='#dbe8f3' stroke='#1c3a5c'/><text x='136' y='76' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提一：至无者无以能生</text><text x='136' y='96' text-anchor='middle' font-size='10.5' fill='#1e2d3d'>虚无没有给出存在的能力</text><rect x='268' y='54' width='224' height='58' rx='5' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='76' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提二：生须凭乎外资</text><text x='380' y='96' text-anchor='middle' font-size='10.5' fill='#1e2d3d'>化感错综，皆在有中</text><rect x='512' y='54' width='224' height='58' rx='5' fill='#dbe8f3' stroke='#1c3a5c'/><text x='624' y='76' text-anchor='middle' font-size='12' fill='#1e2d3d'>难　题：有生于无</text><text x='624' y='96' text-anchor='middle' font-size='10.5' fill='#1e2d3d'>贵无派以此立本</text><line x1='248' y1='84' x2='266' y2='84' stroke='#4a7ba6' marker-end='url(#ar)'/><line x1='492' y1='84' x2='510' y2='84' stroke='#4a7ba6' marker-end='url(#ar)'/><line x1='380' y1='112' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='176' y='152' width='408' height='66' rx='5' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='176' text-anchor='middle' font-size='13' fill='#1c3a5c'>推理：无不能生有，故始生者自生</text><text x='380' y='197' text-anchor='middle' font-size='10.5' fill='#1e2d3d'>自生而必体有，无只是有之缺失</text><line x1='380' y1='218' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='126' y='252' width='508' height='80' rx='5' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='274' text-anchor='middle' font-size='14' fill='#1c3a5c'>结论：济有者皆有，故当崇有</text><text x='380' y='294' text-anchor='middle' font-size='10.5' fill='#1e2d3d'>群品所禀者偏，偏无自足，故凭乎外资</text><text x='380' y='310' text-anchor='middle' font-size='10.5' fill='#1e2d3d'>贱有则外形，外形则遗制，遗制则忘礼</text><text x='380' y='326' text-anchor='middle' font-size='10.5' fill='#1e2d3d'>故崇有必归于以礼制节其情</text><text x='380' y='356' text-anchor='middle' font-size='10' fill='#1e2d3d'>注：《崇有论》全文由《晋书》卷三十五《裴頠传》保存，“宗极之道”一语见其开篇</text><text x='380' y='374' text-anchor='middle' font-size='10' fill='#1e2d3d'>裴頠所驳者为“贵无”一系；其争点在无能否生有，不在否认形上根据</text><text x='380' y='392' text-anchor='middle' font-size='10' fill='#1e2d3d'>图示为论证走向的重构示意，非原文次序</text></svg>",
+   "svg_caption": "裴頠：由“至无者无以能生”转出“崇有以礼节之”的论证走向（重构示意）",
+   "sources": [
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook",
+    "ws-shishuoxinyu"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-weijin-ouyang-jian",
+   "name": "欧阳建",
+   "latin": "Ouyang Jian",
+   "birth_year": 269,
+   "death_year": 300,
+   "birth_display": "约269年",
+   "death_display": "300年",
+   "birth_note": "生年无直接记载，约在 269 年前后，学界通行作“约 269—300”，此处取整数 269。",
+   "death_note": "永康元年（300）与石崇、潘岳同为赵王司马伦、孙秀所害，年约三十余。",
+   "era": "西晋惠帝元康前后。清谈由“贵无”转向名理与言意之辨，士人好以《周易》《老》《庄》相难；欧阳建与裴頠、石崇等同时，永康元年与石崇、潘岳同被赵王司马伦、孙秀所害。",
+   "school": "玄学（言尽意派）",
+   "core_questions": [
+    "名言能否把心中之理完全说出来？",
+    "名与物、言与理之间究竟是何种关系？",
+    "若言不尽意，圣人留下的经书又有什么用？"
+   ],
+   "arguments": [
+    {
+     "claim": "名逐物而迁，言因理而变，故言可尽意",
+     "premises": [
+      "《言尽意论》说“形不待名，而方圆已著；色不俟称，而黑白以彰”，即物之实不因名而立。",
+      "然而“理得于心，非言不畅；物定于彼，非名不辩”，无名则鉴识不显，无言则情志不通。",
+      "名非物所固有，亦非理有定称：欲辩其实则殊其名，欲宣其志则立其称，故名随物迁、言因理变。"
+     ],
+     "inference": "名与言既随物与理而迁变，其内容便完全由物与理给出；如“声发响应，形存影附”，二者不得相与为二。既不得为二，则凡得于心之理，言皆能畅之，不存在言所不到之意。",
+     "conclusion": "言能尽意；“言不尽意”把名言看成与理无关的另一物，故不能成立。",
+     "kind": "原文"
+    },
+    {
+     "claim": "若言不尽意，则圣人之经无所用",
+     "premises": [
+      "古今皆务于正名，圣贤亦不能去言，说明言在教化与治事中不可废。",
+      "设言不尽意，则圣人寄于六经者只是不完全的指示，读者无法由经以得其意。",
+      "六经之所以能传圣人之志，正因言可尽意；《周易》言“书不尽言，言不尽意”者，是戒人拘执于文字，非谓意终不可言。"
+     ],
+     "inference": "以言不尽意为定论，则正名、立称、读经皆失去理据，教化与政事亦无从依凭；反之以言尽意为说，则名有可用、言有可循。故就当下来看，言尽意是使名言有实际作用的唯一立场。",
+     "conclusion": "言不尽意之说在实践上自我拆毁；言尽意才保得住经典与名教之用。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《言尽意论》",
+     "edition": "见《艺文类聚》卷十九《人部三·言语》，上海古籍出版社汪绍楹校点本（1999），页 348—349",
+     "note": "全文仅三百余字，为问答体：先设“言不尽意”之难，再以名实相应答之"
+    },
+    {
+     "title": "《临终诗》",
+     "edition": "见逯钦立辑校《先秦汉魏晋南北朝诗·晋诗》卷四，中华书局 1983",
+     "note": "临刑前所作，可与其与石崇、潘岳同祸之事对读"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "荀粲",
+     "id": null,
+     "note": "倡“言不尽意”，《言尽意论》即针对此系说法而发"
+    },
+    {
+     "name": "王弼",
+     "id": "cn-weijin-wangbi",
+     "note": "得意忘言之说把言象降为筌蹄，为欧阳建所驳的靶子"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "僧肇",
+     "id": null,
+     "note": "《肇论》辨名言与实相，须先回应“言能否尽意”之问，其“言迹”之论可视为对欧阳建立场的再推进"
+    },
+    {
+     "name": "刘勰一系文论",
+     "id": null,
+     "note": "论“言以足志”，承名实相应之说而言文之可用"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "王弼一系的“得意忘言”说",
+     "view": "言象只是得象得意的阶梯，既已得意则言象可忘；若如欧阳建所说言能尽意，则筌蹄与鱼兔无别，反使人执著文字而失其意。",
+     "response": "欧阳建的回应是：言随理变、名逐物迁，正说明言不是与理并列的另一物；“声发响应，形存影附”故言与意不得为二。忘言只是既得之后不执，不是说言本不能尽。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-chinese-metaphysics",
+      "iep-chinese-philosophy"
+     ]
+    },
+    {
+     "critic": "佛教“言语道断”之说（僧肇一系）",
+     "view": "诸法实相离言说相，凡名言皆依分别安立；纵使名实相应，所尽者也只是世俗谛之意，第一义则非言所及。",
+     "response": "欧阳建可答：其所论之“意”是得于心而可宣之于人的情志与物理，非谓一切不可说者皆已成说；若连这一层也否认，则经教本身亦无由成立。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-zhaolun",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《言尽意论》主张名是物所固有的自然之名",
+     "why": "原文正相反：“非物有自然之名，理有必定之称”，名只是因“欲辩其实”“欲宣其志”而立，并随物与理而迁变，故其说是名实相应而非名出天然。"
+    },
+    {
+     "claim": "言尽意与言不尽意是非此即彼的两派门户",
+     "why": "两家共享同一问题框架：都承认言与意之间有距离，分歧在于这距离能否被填平。欧阳建以“名实相应”填平之，王弼以“得意忘言”跨过之；读成“一派重语言、一派反语言”会掩盖真正的争点。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><title>欧阳建：从“名不辩物则鉴识不显”到“言无不尽”</title><text x='380' y='30' text-anchor='middle' font-size='19' fill='#1c3a5c'>欧阳建：从“名不辩物则鉴识不显”到“言无不尽”</text><defs><marker id='ar' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='24' y='54' width='224' height='58' rx='5' fill='#dbe8f3' stroke='#1c3a5c'/><text x='136' y='76' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提一：形不待名</text><text x='136' y='96' text-anchor='middle' font-size='10.5' fill='#1e2d3d'>方圆已著，黑白以彰</text><rect x='268' y='54' width='224' height='58' rx='5' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='76' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提二：名不辩物则鉴识不显</text><text x='380' y='96' text-anchor='middle' font-size='10.5' fill='#1e2d3d'>言不畅志则无以相接</text><rect x='512' y='54' width='224' height='58' rx='5' fill='#dbe8f3' stroke='#1c3a5c'/><text x='624' y='76' text-anchor='middle' font-size='12' fill='#1e2d3d'>难　题：言不尽意</text><text x='624' y='96' text-anchor='middle' font-size='10.5' fill='#1e2d3d'>荀粲、王弼一系之说</text><line x1='248' y1='84' x2='266' y2='84' stroke='#4a7ba6' marker-end='url(#ar)'/><line x1='492' y1='84' x2='510' y2='84' stroke='#4a7ba6' marker-end='url(#ar)'/><line x1='380' y1='112' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='176' y='152' width='408' height='66' rx='5' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='176' text-anchor='middle' font-size='13' fill='#1c3a5c'>推理：名逐物而迁，言因理而变</text><text x='380' y='197' text-anchor='middle' font-size='10.5' fill='#1e2d3d'>声发响应，形存影附，不得相与为二</text><line x1='380' y1='218' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#ar)'/><rect x='126' y='252' width='508' height='80' rx='5' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='274' text-anchor='middle' font-size='14' fill='#1c3a5c'>结论：言无不尽，言尽意</text><text x='380' y='294' text-anchor='middle' font-size='10.5' fill='#1e2d3d'>理得于心而名言能畅之</text><text x='380' y='310' text-anchor='middle' font-size='10.5' fill='#1e2d3d'>若言不尽意，则圣人之经无所用</text><text x='380' y='326' text-anchor='middle' font-size='10.5' fill='#1e2d3d'>正名、立称、教化皆失其据</text><text x='380' y='356' text-anchor='middle' font-size='10' fill='#1e2d3d'>注：《言尽意论》全文见《艺文类聚》卷十九《人部三·言语》，为问答体，三百余字</text><text x='380' y='374' text-anchor='middle' font-size='10' fill='#1e2d3d'>“非物有自然之名，理有必定之称”一语，明其名实观与“自然之名”说相反</text><text x='380' y='392' text-anchor='middle' font-size='10' fill='#1e2d3d'>图示为论证走向的重构示意，非原文次序</text></svg>",
+   "svg_caption": "欧阳建：由“名不辩物则鉴识不显”转出“言无不尽”的论证走向（重构示意）",
+   "sources": [
+    "sep-chinese-metaphysics",
+    "iep-chinese-philosophy",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "concepts": [
