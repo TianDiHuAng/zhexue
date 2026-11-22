@@ -1,0 +1,1073 @@
+{
+ "unit_id": "gr-contemp",
+ "region": "west",
+ "title": "当代哲学",
+ "period": "1970—今",
+ "start_year": 1970,
+ "end_year": 2026,
+ "summary": "1971年罗尔斯《正义论》使规范政治哲学重新成为中心议题；此后分析传统深入语言、心灵与知识论的技术性问题，欧陆传统则以福柯、德里达、哈贝马斯为代表，围绕权力、文本与理性展开争论。两条路线在“现代性是否可被辩护”这一点上正面相遇：哈贝马斯要完成它，后结构主义要拆解它。这一时期哲学的高度专业化，也使其公共角色变得可疑。",
+ "threads": [
+  "规范的重建：正义、权利与公共理性",
+  "权力的分析：话语、规训与生命政治",
+  "理性的辩护：交往理性与后形而上学",
+  "文本与意义：解构对“唯一所指”的怀疑"
+ ],
+ "philosophers": [
+  {
+   "id": "gr-contemp-rawls",
+   "name": "罗尔斯",
+   "latin": "John Rawls",
+   "birth_year": 1921,
+   "death_year": 2002,
+   "birth_display": "1921年",
+   "death_display": "2002年",
+   "birth_note": "生于巴尔的摩；据其生平材料。",
+   "death_note": "2002年卒于列克星敦。",
+   "era": "战后英语世界政治哲学。功利主义长期主导，元伦理学占优而规范理论沉寂；罗尔斯1971年《正义论》以契约论重构，引发诺齐克、桑德尔、麦金太尔等的批评与回应。",
+   "school": "自由主义（正义即公平）",
+   "core_questions": [
+    "社会基本结构如何分配权利与财富才算正义？",
+    "在合理多元的社会中，政治原则如何获得公共辩护？",
+    "分配正义与个人责任如何相容？"
+   ],
+   "arguments": [
+    {
+     "claim": "无知之幕下的选择产生两条正义原则",
+     "premises": [
+      "社会合作既带来利益也带来冲突，需有公平的分配原则。",
+      "若不知道自己的天赋、出身与善观念，选择者不会为特定身份制定偏私原则。"
+     ],
+     "inference": "在无知之幕后面，理性选择者会采取“最大最小”策略：优先保障最坏处境者的基本自由与利益，因为任何身份都可能落到最差位置。",
+     "conclusion": "第一条原则保障平等的基本自由；第二条原则允许不平等，但须满足机会公平与“最有利于最不利者”的差异原则。",
+     "kind": "原文"
+    },
+    {
+     "claim": "反思平衡：原则与直觉相互校正",
+     "premises": [
+      "我们既有具体的正义判断（如奴隶制不正义），也有一般原则。",
+      "两者会冲突，须来回调整。"
+     ],
+     "inference": "若既不把原则当作自明，也不把直觉当作最终权威，则须在二者之间寻求相互支持的均衡状态。",
+     "conclusion": "正义理论的证明是“反思平衡”，而非从自明前提的演绎。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《正义论》《政治自由主义》《万民法》",
+     "edition": "《正义论》何怀宏、何包钢、廖申白译，中国社会科学出版社（修订版）；《政治自由主义》万俊人译，译林出版社",
+     "note": "1971；1993；1999。后者以“公共理性”与“重叠共识”回应多元主义批评"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "康德与契约论传统",
+     "id": null,
+     "note": "自律与“原初状态”的构造类比"
+    },
+    {
+     "name": "功利主义（批评对象）",
+     "id": null,
+     "note": "以正义优先于善总额反驳功利主义"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "诺齐克与社群主义批评者",
+     "id": "gr-contemp-nozick",
+     "note": "资格理论与共同体主义由此展开"
+    },
+    {
+     "name": "哈贝马斯与公共理性讨论",
+     "id": "gr-contemp-habermas",
+     "note": "商谈伦理与罗尔斯的公共理性形成对话"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "诺齐克",
+     "view": "以模式化原则（差异原则）分配，必然不断侵犯个人的合法持有；正义应关乎获取与转让的历史，而非最终格局。",
+     "response": "罗尔斯式的回应是：天赋与出身是道德上任意的，故其收益不应完全归个人；差异原则只约束基本结构，不干预日常交换。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-rawls",
+      "sep-justice-distributive"
+     ]
+    },
+    {
+     "critic": "桑德尔与麦金太尔（社群主义）",
+     "view": "无知之幕后的“无牵无挂的自我”不是真实的人；正义原则不能脱离共同体的善观念。",
+     "response": "罗尔斯后期的回应是：政治自由主义不预设某种人的形而上学，只要求在公共领域使用可共享的理由。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-rawls",
+      "book-rawls-justice"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "无知之幕是一种假设的心理实验，与现实无关",
+     "why": "它是“代表装置”：用来排除谈判中的不当优势，使选择结果可被所有人接受；其功能是辩护性的，而非描述实际决策过程。"
+    },
+    {
+     "claim": "差异原则要求绝对平均",
+     "why": "它允许不平等，只要这种不平等使最不利者的处境优于任何其他安排；因此它要求的是“最不利者的最大利益”，不是均等。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>罗尔斯：无知之幕与两条原则（示意）</text><defs><marker id='arC1' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='46' y='60' width='214' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='153' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>社会合作：利益与冲突</text><text x='153' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>需公平的分配原则</text><rect x='500' y='60' width='214' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='607' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>无知之幕</text><text x='607' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>不知天赋、出身与善观念</text><line x1='153' y1='118' x2='320' y2='160' stroke='#4a7ba6' marker-end='url(#arC1)'/><line x1='607' y1='118' x2='440' y2='160' stroke='#4a7ba6' marker-end='url(#arC1)'/><rect x='240' y='164' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='187' text-anchor='middle' font-size='12' fill='#1c3a5c'>最大最小策略</text><text x='380' y='206' text-anchor='middle' font-size='10' fill='#1e2d3d'>优先保障最坏处境</text><line x1='380' y1='220' x2='380' y2='256' stroke='#4a7ba6' marker-end='url(#arC1)'/><rect x='120' y='260' width='250' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='245' y='283' text-anchor='middle' font-size='12' fill='#1c3a5c'>原则一：平等的基本自由</text><text x='245' y='302' text-anchor='middle' font-size='10' fill='#1e2d3d'>优先于效率</text><rect x='390' y='260' width='250' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='515' y='283' text-anchor='middle' font-size='12' fill='#1c3a5c'>原则二：机会公平＋差异原则</text><text x='515' y='302' text-anchor='middle' font-size='10' fill='#1e2d3d'>不平等须最有利于最不利者</text></svg>",
+   "svg_caption": "罗尔斯：无知之幕与两条正义原则（示意图）",
+   "sources": [
+    "sep-rawls",
+    "iep-rawls",
+    "book-rawls-justice"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-nozick",
+   "name": "诺齐克",
+   "latin": "Robert Nozick",
+   "birth_year": 1938,
+   "death_year": 2002,
+   "birth_display": "1938年",
+   "death_display": "2002年",
+   "birth_note": "生于布鲁克林；据其生平材料。",
+   "death_note": "2002年卒于剑桥（马萨诸塞）。",
+   "era": "1970年代自由主义内部的争论。诺齐克以《无政府、国家与乌托邦》回应罗尔斯，主张以历史—资格原则取代模式化分配，并论证“最小国家”的正当性。",
+   "school": "自由至上主义",
+   "core_questions": [
+    "什么样的分配是正义的？",
+    "国家可以正当地做多少事？",
+    "权利为何构成对再分配的约束？"
+   ],
+   "arguments": [
+    {
+     "claim": "正义是历史性的：持有须追溯其获取与转让",
+     "premises": [
+      "“模式化”原则（如按需、按功）只看最终格局，不看来源。",
+      "任何模式化的分配都会被自愿交换打乱，除非持续干预。"
+     ],
+     "inference": "若正义在于人们如何获得其持有物，则只要获取与转让过程正当，结果无论如何分布都是正义的；为维持某一格局而干预，等于反复侵犯权利。",
+     "conclusion": "正义三原则：获取的正义、转让的正义、对不正义持有的矫正。",
+     "kind": "原文"
+    },
+    {
+     "claim": "最小国家是唯一可被正当化的国家",
+     "premises": [
+      "个人拥有不受侵犯的权利（生命、自由、财产）。",
+      "任何超出保护与契约执行的国家功能，都需要以强制取得资源。"
+     ],
+     "inference": "若强制只能用于防止侵害，则再分配性的税收在性质上等同于强制劳动（“征税即强迫劳动”的论证）。",
+     "conclusion": "国家的正当职能限于保护性功能；更多功能侵犯个人权利。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《无政府、国家与乌托邦》《哲学解释》",
+     "edition": "《无政府、国家与乌托邦》姚大志译，中国社会科学出版社",
+     "note": "1974；1981。前者为对罗尔斯的系统回应"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "洛克与古典自由主义",
+     "id": null,
+     "note": "自然权利与财产权"
+    },
+    {
+     "name": "罗尔斯（批评对象）",
+     "id": "gr-contemp-rawls",
+     "note": "《正义论》是其直接对话者"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "自由至上主义政治哲学",
+     "id": null,
+     "note": "哈耶克、罗斯巴德一系的理论资源"
+    },
+    {
+     "name": "分析马克思主义与左翼自由主义的反驳",
+     "id": null,
+     "note": "科恩的批评使“自我所有权”成为争论焦点"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "科恩（G. A. Cohen）",
+     "view": "“自我所有权”与外部世界资源的平等分配不相容；若资源初始分配不均，“获取正义”无法成立。",
+     "response": "诺齐克式的回应是：洛克式 Proviso（不得使他人处境变坏）为初始获取设限；在此限度内，结果的不平等并不构成不义。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-justice-distributive",
+      "book-rawls-justice"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "诺齐克反对一切税收",
+     "why": "他支持为保护性国家（治安、司法、国防）征税；反对的是超出这一范围的再分配性税收。"
+    },
+    {
+     "claim": "诺齐克主张无政府",
+     "why": "书名为《无政府、国家与乌托邦》，其结论恰是论证一种“最小国家”可从无政府状态中正当地产生，而非主张无政府。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>诺齐克：资格原则与最小国家（示意）</text><defs><marker id='arC2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='50' y='60' width='220' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='160' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提：个人权利不可侵犯</text><text x='160' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>生命、自由、财产</text><rect x='490' y='60' width='220' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='600' y='84' text-anchor='middle' font-size='12' fill='#1e2d3d'>模式化分配须持续干预</text><text x='600' y='103' text-anchor='middle' font-size='10' fill='#1e2d3d'>否则被自愿交换打乱</text><line x1='160' y1='118' x2='320' y2='158' stroke='#4a7ba6' marker-end='url(#arC2)'/><line x1='600' y1='118' x2='440' y2='158' stroke='#4a7ba6' marker-end='url(#arC2)'/><rect x='238' y='162' width='284' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>正义在于历史过程，而非最终格局</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>获取·转让·矫正</text><line x1='380' y1='218' x2='380' y2='254' stroke='#4a7ba6' marker-end='url(#arC2)'/><rect x='170' y='258' width='420' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='280' text-anchor='middle' font-size='12' fill='#1c3a5c'>结论：最小国家（保护性功能）</text><text x='380' y='299' text-anchor='middle' font-size='10' fill='#1e2d3d'>再分配性税收＝强制取得</text></svg>",
+   "svg_caption": "诺齐克：从个人权利到最小国家（示意图）",
+   "sources": [
+    "sep-justice-distributive",
+    "book-rawls-justice"
+   ],
+   "needs_verification": true,
+   "pending_notes": "诺齐克在 sources.json 中无专属 SEP/IEP 词条（sep-nozick 未收录），本页论述依据“分配正义”词条与罗尔斯研究文献；《无政府、国家与乌托邦》的原文页码与论证细节待按原书核对。"
+  },
+  {
+   "id": "gr-contemp-foucault",
+   "name": "福柯",
+   "latin": "Michel Foucault",
+   "birth_year": 1926,
+   "death_year": 1984,
+   "birth_display": "1926年",
+   "death_display": "1984年",
+   "birth_note": "生于普瓦捷；据其生平材料。",
+   "death_note": "1984年卒于巴黎。",
+   "era": "战后法国。福柯先后以《古典时代疯狂史》《词与物》《规训与惩罚》《性史》展开对知识形式与权力机制的考察，并在法兰西学院讲授“生命政治”；其工作拒绝被归入结构主义或存在主义。",
+   "school": "后结构主义（其本人拒绝标签）",
+   "core_questions": [
+    "某一时代的知识如何被组织成“话语形成”？",
+    "权力如何通过制度与身体技术运作？",
+    "主体如何被知识—权力装置所塑造？"
+   ],
+   "arguments": [
+    {
+     "claim": "权力/知识：知识不是权力的对立面，而与权力相互生产",
+     "premises": [
+      "监狱、诊所、学校中的观察、记录与分类产生可用的知识。",
+      "这些知识又反过来使干预与规训成为可能。"
+     ],
+     "inference": "若知识的对象与分类由制度性实践所构成，则不存在完全中立的“纯粹认识”；真理的生产有其制度条件。",
+     "conclusion": "须考察“真理如何被生产”，而非只问命题真假。",
+     "kind": "原文"
+    },
+    {
+     "claim": "规训：通过时间表、空间分配与持续监视塑造身体",
+     "premises": [
+      "现代监狱、军营、学校采用相同的技术（分级、考核、时间表）。",
+      "全景敞视（panopticon）使被监视者自我监视。"
+     ],
+     "inference": "若权力通过可见性与规范化而非暴力运作，则其效率更高、更难抵抗，因为它被内化为自我技术。",
+     "conclusion": "现代社会的权力形态是“规训”，其核心是规范化而非镇压。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《规训与惩罚》《词与物》《性史》第一卷《知识考古学》",
+     "edition": "《规训与惩罚》刘北成、杨远婴译，三联书店；《词与物》莫伟民译，上海三联书店",
+     "note": "1975；1966；1976；1969"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "尼采（谱系学）与康德（批判）",
+     "id": null,
+     "note": "谱系方法与其“批判”的自我理解"
+    },
+    {
+     "name": "巴什拉与康吉莱姆（科学史）",
+     "id": null,
+     "note": "知识史与“规范”问题"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "后殖民理论与性别研究",
+     "id": null,
+     "note": "话语、规训与主体化的分析工具"
+    },
+    {
+     "name": "哈贝马斯（批评性对话者）",
+     "id": "gr-contemp-habermas",
+     "note": "关于“理性”与“权力”的分歧"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "哈贝马斯",
+     "view": "把一切知识都揭示为权力，会使批判失去规范基础：若没有可辩护的理性标准，批判自身也无以成立。",
+     "response": "福柯式的回应是：批判不必依赖普遍规范，可从具体斗争出发考察权力关系；规范本身是历史产物，需被问题化而非预设。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-foucault",
+      "sep-habermas"
+     ]
+    },
+    {
+     "critic": "分析哲学界的经验性批评",
+     "view": "其历史叙述常被指为选择性取材，与史学研究的结论不符（如对“大禁闭”的叙述）。",
+     "response": "福柯一系的回应是：其对象是“话语形成的条件”，而非事件编年；史学细节的修正未必推翻其对知识—权力配置的分析。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-foucault",
+      "book-foucault-order"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "福柯说一切知识都是权力的工具",
+     "why": "“权力/知识”指二者相互生产，并非把所有知识化约为权力的欺骗；他同时研究话语形成的相对自主性。"
+    },
+    {
+     "claim": "福柯否认主体",
+     "why": "他否认的是先验的、自我透明的主体；后期转向“主体化”（subjectivation）与自我技术，主体如何被构成正是其问题。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>福柯：权力/知识与规训（示意）</text><defs><marker id='arC3' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='50' y='62' width='220' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='160' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>制度性实践</text><text x='160' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>监狱·诊所·学校</text><rect x='490' y='62' width='220' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='600' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>观察与记录</text><text x='600' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>分类、考核、统计</text><line x1='160' y1='118' x2='320' y2='160' stroke='#4a7ba6' marker-end='url(#arC3)'/><line x1='600' y1='118' x2='440' y2='160' stroke='#4a7ba6' marker-end='url(#arC3)'/><rect x='250' y='164' width='260' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='187' text-anchor='middle' font-size='12' fill='#1c3a5c'>知识—权力相互生产</text><text x='380' y='206' text-anchor='middle' font-size='10' fill='#1e2d3d'>真理有其制度条件</text><line x1='380' y1='220' x2='380' y2='256' stroke='#4a7ba6' marker-end='url(#arC3)'/><rect x='170' y='260' width='420' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='282' text-anchor='middle' font-size='12' fill='#1c3a5c'>规训：规范化与自我监视</text><text x='380' y='301' text-anchor='middle' font-size='10' fill='#1e2d3d'>全景敞视使权力内化</text></svg>",
+   "svg_caption": "福柯：话语、权力与规训的循环（示意图）",
+   "sources": [
+    "sep-foucault",
+    "iep-foucault",
+    "book-foucault-order"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-derrida",
+   "name": "德里达",
+   "latin": "Jacques Derrida",
+   "birth_year": 1930,
+   "death_year": 2004,
+   "birth_display": "1930年",
+   "death_display": "2004年",
+   "birth_note": "生于阿尔及利亚埃尔比亚尔；据其生平材料。",
+   "death_note": "2004年卒于巴黎。",
+   "era": "1960年代以后的结构主义转向。德里达1967年连续出版《论文字学》《书写与差异》《声音与现象》，以“解构”阅读柏拉图、卢梭、胡塞尔与海德格尔，成为后结构主义最具争议的人物。",
+   "school": "后结构主义（解构）",
+   "core_questions": [
+    "西方形而上学为何总以“在场”为真理的标准？",
+    "书写与言语的对立如何支撑这一标准？",
+    "文本的意义能否最终确定？"
+   ],
+   "arguments": [
+    {
+     "claim": "解构：揭示文本内部的等级对立与自我颠覆",
+     "premises": [
+      "形而上学传统把某些项（在场、言语、理性）置于优先，把其对立项（缺席、书写、隐喻）贬为派生。",
+      "被贬的一项其实是前者得以成立的条件。"
+     ],
+     "inference": "若优先项依赖被贬项才能被理解，则该等级不是自然的，而是被建构的；解构即展示这一依赖并使等级松动。",
+     "conclusion": "解构不是把对立颠倒，而是揭示其不稳定结构（“双重书写”）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "延异（différance）：意义在差异与延宕中生成，永不到达",
+     "premises": [
+      "符号的意义来自与其他符号的差异，而非与所指的直接对应。",
+      "任何“当下的意义”都要靠不在场的差异来规定。"
+     ],
+     "inference": "若意义总由差异与延迟构成，则不存在完全自足的“在场”；意义是不断被推迟的效果。",
+     "conclusion": "不存在最终的所指；“文本之外无物”（il n'y a pas de hors-texte）指的是没有脱离文本性的意义来源。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论文字学》《书写与差异》《声音与现象》《马克思的幽灵》",
+     "edition": "《论文字学》汪堂家译，上海译文出版社；《书写与差异》张宁译，三联书店",
+     "note": "前三部均 1967 年出版；后者 1993 年，处理马克思遗产"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "胡塞尔与海德格尔",
+     "id": null,
+     "note": "《声音与现象》即对胡塞尔符号论的解构"
+    },
+    {
+     "name": "索绪尔与结构主义",
+     "id": null,
+     "note": "差异原则被推向其激进结论"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "文学理论与后殖民批评",
+     "id": null,
+     "note": "解构阅读的方法"
+    },
+    {
+     "name": "哈贝马斯（争论对手）",
+     "id": "gr-contemp-habermas",
+     "note": "关于理性、规范与“表演性矛盾”的争论"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "哈贝马斯",
+     "view": "解构取消了可批判的规范标准，使理性批判沦为修辞；且其文本常诉诸不可检验的“表演性”效果。",
+     "response": "德里达式的回应是：解构不是取消规范，而是揭示规范得以成立的条件与排除；对“理性”的追问本身即是启蒙的延续。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-derrida",
+      "sep-habermas"
+     ]
+    },
+    {
+     "critic": "分析哲学家（如塞尔）",
+     "view": "其论述缺乏清晰的论证结构，常以文字游戏代替论证（塞尔与德里达关于奥斯汀的争论）。",
+     "response": "德里达一系的回应是：以分析哲学的形式标准衡量解构，等于预设了它所质疑的“清晰性”理想；争论本身涉及哲学文体的合法性。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-derrida",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "解构就是任意解读，怎么说都行",
+     "why": "解构阅读有严格的文本依据：它要求指出文本中具体的等级对立与依赖关系；“任意”恰恰是它所反对的。"
+    },
+    {
+     "claim": "“文本之外无物”否认外部世界",
+     "why": "该句针对的是“脱离文本性的意义来源”，即没有未经中介的纯粹所指；它不是本体论上否认世界存在。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>德里达：等级对立与延异（示意）</text><defs><marker id='arC4' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='60' y='62' width='230' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='175' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>在场·言语·理性</text><text x='175' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>被置于优先</text><rect x='470' y='62' width='230' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='585' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>缺席·书写·隐喻</text><text x='585' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>被贬为派生</text><line x1='175' y1='118' x2='320' y2='158' stroke='#4a7ba6' marker-end='url(#arC4)'/><line x1='585' y1='118' x2='440' y2='158' stroke='#4a7ba6' marker-end='url(#arC4)'/><rect x='244' y='162' width='272' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>优先项依赖被贬项</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>等级非自然，而是建构</text><line x1='380' y1='218' x2='380' y2='254' stroke='#4a7ba6' marker-end='url(#arC4)'/><rect x='150' y='258' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='280' text-anchor='middle' font-size='12' fill='#1c3a5c'>延异：意义由差异与延迟构成</text><text x='380' y='299' text-anchor='middle' font-size='10' fill='#1e2d3d'>无最终所指，等级被松动而非颠倒</text></svg>",
+   "svg_caption": "德里达：等级对立、依赖关系与延异（示意图）",
+   "sources": [
+    "sep-derrida",
+    "iep-derrida",
+    "sep-habermas"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-habermas",
+   "name": "哈贝马斯",
+   "latin": "Jürgen Habermas",
+   "birth_year": 1929,
+   "death_year": 2026,
+   "birth_display": "1929年",
+   "death_display": "在世",
+   "birth_note": "生于杜塞尔多夫；据其生平材料。",
+   "death_note": "在世（截至本库编写时）。",
+   "era": "战后德国与欧盟时期。哈贝马斯属法兰克福学派第二代，以《公共领域的结构转型》《交往行动理论》建立以语言为基石的批判理论，并长期介入公共论辩。",
+   "school": "法兰克福学派（批判理论）",
+   "core_questions": [
+    "批判的规范基础从何而来？",
+    "现代社会的理性化是否只有工具理性一途？",
+    "公共领域的商谈如何可能？"
+   ],
+   "arguments": [
+    {
+     "claim": "交往行动以“更好论据的力量”为内在目标",
+     "premises": [
+      "任何言语行为都隐含四种有效性主张：可理解、真实、正当、真诚。",
+      "提出主张即承诺在受质疑时给出理由。"
+     ],
+     "inference": "若言语的相互理解内在地要求可辩护性，则交往中已预设了一个理想的商谈条件（无强制、机会平等、无扭曲）。",
+     "conclusion": "交往理性提供了一种非工具的规范标准，可用来批判现实的扭曲。",
+     "kind": "原文"
+    },
+    {
+     "claim": "现代性是“未完成的方案”",
+     "premises": [
+      "启蒙的理性化包含工具理性与交往理性两条路径。",
+      "工具理性扩张导致“生活世界的殖民化”（金钱与权力媒介侵入）。"
+     ],
+     "inference": "若问题在于理性的一种片面化，则解决之道不是放弃理性，而是恢复交往理性的领域。",
+     "conclusion": "对现代性的批判须是内在的：以交往理性兑现启蒙的承诺，而非宣告其失败。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《交往行动理论》《公共领域的结构转型》《在事实与规范之间》",
+     "edition": "《交往行动理论》曹卫东译，上海人民出版社；《公共领域的结构转型》曹卫东等译，学林出版社",
+     "note": "1981；1962；1992。后者把商谈伦理扩展为法权理论"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "阿多诺与霍克海默",
+     "id": null,
+     "note": "批判理论的问题意识"
+    },
+    {
+     "name": "奥斯汀与塞尔（言语行为）／韦伯",
+     "id": null,
+     "note": "言语行为理论与合理化分析"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "商谈伦理与协商民主理论",
+     "id": null,
+     "note": "政治哲学与法哲学的规范框架"
+    },
+    {
+     "name": "霍耐特与承认理论",
+     "id": null,
+     "note": "批判理论的第三代发展"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "福柯与后结构主义者",
+     "view": "预设“无强制的商谈”是一种理想化，忽略了权力已内在于话语与制度；规范标准本身是历史的产物。",
+     "response": "哈贝马斯的回应是：规范预设是交往的“准先验”条件，不能被取消；批判若无规范，则只能是否定。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-habermas",
+      "sep-foucault"
+     ]
+    },
+    {
+     "critic": "分析政治哲学家（如罗尔斯式的公共理性论者）",
+     "view": "其“理想商谈”条件过强，难以在现实的多元社会中操作；罗尔斯以“公共理性”给出更节制的方案。",
+     "response": "哈贝马斯的回应是：商谈伦理提供的是批判标准而非操作程序；与罗尔斯的差别在于是否需要“重叠共识”的限定。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-habermas",
+      "sep-rawls"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "哈贝马斯认为现实商谈可以达到完全共识",
+     "why": "“理想言谈情境”是反事实的预设，用以批判现实的扭曲；他并不主张现实讨论能免除权力与时间限制。"
+    },
+    {
+     "claim": "交往理性反对一切工具理性",
+     "why": "工具理性在技术与经济领域有其必要；问题在于它侵入本应由交往理性支配的领域（生活世界）。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>哈贝马斯：有效性主张与商谈（示意）</text><defs><marker id='arC5' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='56' y='62' width='230' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='171' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>言语行为</text><text x='171' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>真实·正当·真诚·可理解</text><rect x='474' y='62' width='230' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='589' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>受质疑须给理由</text><text x='589' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>可辩护性的承诺</text><line x1='171' y1='118' x2='320' y2='158' stroke='#4a7ba6' marker-end='url(#arC5)'/><line x1='589' y1='118' x2='440' y2='158' stroke='#4a7ba6' marker-end='url(#arC5)'/><rect x='248' y='162' width='264' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>理想言谈情境（反事实预设）</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>无强制、机会平等</text><line x1='380' y1='218' x2='380' y2='254' stroke='#4a7ba6' marker-end='url(#arC5)'/><rect x='150' y='258' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='280' text-anchor='middle' font-size='12' fill='#1c3a5c'>规范基础：交往理性 vs 工具理性</text><text x='380' y='299' text-anchor='middle' font-size='10' fill='#1e2d3d'>现代性未完成，须以商谈兑现启蒙</text></svg>",
+   "svg_caption": "哈贝马斯：从有效性主张到交往理性（示意图）",
+   "sources": [
+    "sep-habermas",
+    "iep-habermas",
+    "sep-rawls"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-rorty",
+   "name": "罗蒂",
+   "latin": "Richard Rorty",
+   "birth_year": 1931,
+   "death_year": 2007,
+   "birth_display": "1931年",
+   "death_display": "2007年",
+   "birth_note": "生于纽约；据其生平材料。",
+   "death_note": "2007年卒于帕洛阿尔托。",
+   "era": "1970年代以后英语哲学的自我反思。罗蒂以《哲学和自然之镜》转向反表征主义，主张哲学应放弃“基础”追求，转向对话、团结与文学文化。",
+   "school": "新实用主义",
+   "core_questions": [
+    "知识是否需要“与实在相符”的说明？",
+    "哲学是否应继续充当“一切知识的基础”？",
+    "在放弃基础主义后，团结与残酷的界限从何而来？"
+   ],
+   "arguments": [
+    {
+     "claim": "反表征主义：知识不是心灵的“镜像”",
+     "premises": [
+      "镜像说认为心灵中的观念再现外部实在，真理是与实在的符合。",
+      "这一模型无法说明我们如何“跳出心灵”去比较观念与实在。"
+     ],
+     "inference": "若无法进行这种比较，则“符合”只是一个空洞的隐喻；知识应被理解为社会实践中的证成，而非再现。",
+     "conclusion": "哲学不应再充当知识的基础；认识论应转为解释学式的对话。",
+     "kind": "原文"
+    },
+    {
+     "claim": "反讽主义与团结：放弃终极词汇，扩大“我们”",
+     "premises": [
+      "任何终极词汇都是历史偶然的产物，无法被形而上学担保。",
+      "残酷的减少靠的是对他人痛苦的敏感与想象，而非理性论证。"
+     ],
+     "inference": "若没有形而上学基础，则团结须靠具体的同情与文学叙事来维系；哲学的角色是文化批评而非奠基。",
+     "conclusion": "自由主义的希望在于“减少残酷”，而非证明某种人性论。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《哲学和自然之镜》《偶然、反讽与团结》《实用主义的后果》",
+     "edition": "《哲学和自然之镜》李幼蒸译，商务印书馆；《偶然、反讽与团结》徐文瑞译，商务印书馆",
+     "note": "1979；1989；1982"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "杜威与詹姆斯",
+     "id": null,
+     "note": "实用主义的真理观与“哲学作为文化批评”"
+    },
+    {
+     "name": "蒯因与戴维森",
+     "id": null,
+     "note": "整体论与“理由空间”的批评"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "新实用主义与文学文化研究",
+     "id": null,
+     "note": "哲学与文学的界限问题"
+    },
+    {
+     "name": "哈贝马斯（批评性对话）",
+     "id": "gr-contemp-habermas",
+     "note": "关于是否需要规范基础的争论"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "哈贝马斯与批判理论",
+     "view": "没有规范基础，批判就只能表达态度；罗蒂的“减少残酷”本身预设了可辩护的规范。",
+     "response": "罗蒂式的回应是：规范论证在实践中往往不起作用，历史进步多由情感扩展与叙事推动；理论不必奠基也能有效。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-rorty",
+      "sep-habermas"
+     ]
+    },
+    {
+     "critic": "分析哲学家（如塞尔、克里普克一系）",
+     "view": "其“反表征主义”混淆了认识论与本体论，且忽视了语言哲学的技术成果。",
+     "response": "罗蒂的回应是：技术成果并不要求镜像式的真理观；他的目标是改变哲学自我理解，而非否认具体研究的价值。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-rorty",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "罗蒂说“怎样都行”",
+     "why": "他反对的是“唯一正确描述”的主张，而非一切评价标准；他明确区分“私人完美”与“公共团结”，后者仍要求减少残酷。"
+    },
+    {
+     "claim": "罗蒂否认真理",
+     "why": "他不否认某些陈述为真，而是否认“真理”需要一个形而上学的说明（符合论）；真理被理解为“被证成的可断言性”。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>罗蒂：反表征主义与团结（示意）</text><defs><marker id='arC6' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='50' y='62' width='230' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='165' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>镜像说：观念再现实在</text><text x='165' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>真理＝符合</text><rect x='480' y='62' width='230' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='595' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>无法跳出心灵比较</text><text x='595' y='105' text-anchor='middle' font-size='10' fill='#1e2d3d'>故“符合”是空洞隐喻</text><line x1='165' y1='118' x2='320' y2='158' stroke='#4a7ba6' marker-end='url(#arC6)'/><line x1='595' y1='118' x2='440' y2='158' stroke='#4a7ba6' marker-end='url(#arC6)'/><rect x='244' y='162' width='272' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='185' text-anchor='middle' font-size='12' fill='#1c3a5c'>知识＝社会实践中的证成</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>哲学不再是基础</text><line x1='380' y1='218' x2='380' y2='254' stroke='#4a7ba6' marker-end='url(#arC6)'/><rect x='150' y='258' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='280' text-anchor='middle' font-size='12' fill='#1c3a5c'>团结：扩大“我们”，减少残酷</text><text x='380' y='299' text-anchor='middle' font-size='10' fill='#1e2d3d'>靠同情与叙事，而非形而上学担保</text></svg>",
+   "svg_caption": "罗蒂：从镜像说到反讽主义与团结（示意图）",
+   "sources": [
+    "sep-rorty",
+    "sep-habermas"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "concepts": [
+  {
+   "id": "gr-contemp-veil",
+   "term": "无知之幕",
+   "term_latin": "veil of ignorance",
+   "definition": "罗尔斯设想的立约条件：选择正义原则时不知道自己的天赋、出身、善观念与处境，以保证选择不偏私。",
+   "usages": [
+    {
+     "name": "罗尔斯",
+     "id": "gr-contemp-rawls",
+     "usage": "无知之幕是“代表装置”，排除谈判中的不当优势，使原则可被所有人接受。"
+    },
+    {
+     "name": "诺齐克（对照用法）",
+     "id": "gr-contemp-nozick",
+     "usage": "批评其为模式化思路的装置：历史—资格原则不需要立约者的无知状态，只需追溯获取与转让是否正当。"
+    }
+   ],
+   "related": [
+    "gr-contemp-justice-fairness",
+    "gr-contemp-entitlement"
+   ],
+   "example": {
+    "text": "罗尔斯说，若不知道自己是富是穷，立约者不会同意“只有富人才有投票权”的原则，因为自己可能是穷人；这一推理即无知之幕的作用。",
+    "figure": "罗尔斯",
+    "locator": "《正义论》§24"
+   },
+   "sources": [
+    "sep-rawls",
+    "book-rawls-justice"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-justice-fairness",
+   "term": "正义即公平",
+   "term_latin": "justice as fairness",
+   "definition": "罗尔斯的理论纲领：正义原则是自由平等者在公平条件下会一致同意的原则；公平的程序赋予原则以正当性。",
+   "usages": [
+    {
+     "name": "罗尔斯",
+     "id": "gr-contemp-rawls",
+     "usage": "公平的程序（原初状态）产生两条原则；正义的实质内容由程序保证。"
+    },
+    {
+     "name": "哈贝马斯（对照用法）",
+     "id": "gr-contemp-habermas",
+     "usage": "以商谈程序取代立约装置：规范的有效性来自受影响者可参与的商谈，而非假设的立约情境。"
+    }
+   ],
+   "related": [
+    "gr-contemp-veil",
+    "gr-contemp-discourse"
+   ],
+   "example": {
+    "text": "罗尔斯以“分蛋糕”为例：若切蛋糕者最后取，则他会尽量切得均等——程序上的公平使结果可接受，这正是“正义即公平”的思路。",
+    "figure": "罗尔斯",
+    "locator": "《正义论》§1 的类比（亦见其讲座中的说明）"
+   },
+   "sources": [
+    "sep-rawls",
+    "iep-rawls",
+    "paper-s11158-026-09803-9"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-entitlement",
+   "term": "资格",
+   "term_latin": "entitlement",
+   "definition": "诺齐克用语：一个人对其持有物拥有正义资格，当且仅当其获取与转让符合正义原则（获取、转让、矫正）。",
+   "usages": [
+    {
+     "name": "诺齐克",
+     "id": "gr-contemp-nozick",
+     "usage": "资格是历史性的：只看来源是否正当，不看最终格局是否符合某种模式。"
+    },
+    {
+     "name": "罗尔斯（对照用法）",
+     "id": "gr-contemp-rawls",
+     "usage": "以“合法期望”回应：个人资格须在正义的基本结构背景中才成立，天赋的社会偶然性不能全归个人。"
+    }
+   ],
+   "related": [
+    "gr-contemp-veil",
+    "gr-contemp-justice-fairness"
+   ],
+   "example": {
+    "text": "诺齐克的“张伯伦论证”：万人自愿买票看球星打球，收入集中于他；只要每一步转让自愿，这一结果即正义，即使它破坏了原本的平均格局。",
+    "figure": "诺齐克",
+    "locator": "《无政府、国家与乌托邦》第七章"
+   },
+   "sources": [
+    "sep-justice-distributive",
+    "book-rawls-justice"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“张伯伦论证”的表述与诺齐克原文措辞需按原书核对（本页依据分配正义词条与二手研究概述）。"
+  },
+  {
+   "id": "gr-contemp-power-knowledge",
+   "term": "权力/知识",
+   "term_latin": "pouvoir/savoir",
+   "definition": "福柯用语：权力与知识相互蕴含，知识的形成有其制度与权力条件，权力通过知识而运作。",
+   "usages": [
+    {
+     "name": "福柯",
+     "id": "gr-contemp-foucault",
+     "usage": "临床医学、监狱档案与人口统计既是知识，也是干预手段；不存在完全中立的观察位置。"
+    },
+    {
+     "name": "哈贝马斯（对照用法）",
+     "id": "gr-contemp-habermas",
+     "usage": "承认知识与权力的纠缠，但主张交往理性可提供超越权力的规范标准。"
+    }
+   ],
+   "related": [
+    "gr-contemp-deconstruction",
+    "gr-contemp-discourse"
+   ],
+   "example": {
+    "text": "福柯分析监狱的“全景敞视”：看守不需在场，囚犯因可能被看见而自我约束；监视技术同时生产了关于“罪犯”的知识与“正常/异常”的分类。",
+    "figure": "福柯",
+    "locator": "《规训与惩罚》第三部分"
+   },
+   "sources": [
+    "sep-foucault",
+    "book-foucault-order",
+    "paper-s40961-020-00224-4"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-deconstruction",
+   "term": "解构",
+   "term_latin": "déconstruction",
+   "definition": "德里达的阅读策略：揭示文本中等级对立的建构性，指出被贬项是优先项得以成立的条件，从而松动该等级。",
+   "usages": [
+    {
+     "name": "德里达",
+     "id": "gr-contemp-derrida",
+     "usage": "解构不是颠倒等级，而是展示其不稳定结构；延异使意义永不到达。"
+    },
+    {
+     "name": "哈贝马斯（对照用法）",
+     "id": "gr-contemp-habermas",
+     "usage": "批评解构使规范批判失去标准，只余修辞效果。"
+    }
+   ],
+   "related": [
+    "gr-contemp-power-knowledge",
+    "gr-contemp-discourse"
+   ],
+   "example": {
+    "text": "德里达读卢梭：卢梭贬斥书写而推崇言语，但其文本处处依赖书写式的补充（supplément）来说明言语；解构即指出这一依赖。",
+    "figure": "德里达",
+    "locator": "《论文字学》第二部分"
+   },
+   "sources": [
+    "sep-derrida",
+    "iep-derrida"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-discourse",
+   "term": "交往理性",
+   "term_latin": "kommunikative Rationalität",
+   "definition": "哈贝马斯用语：以相互理解为目标的言语行为所内含的理性形式，其标准是论据的可辩护性，而非效率或成功。",
+   "usages": [
+    {
+     "name": "哈贝马斯",
+     "id": "gr-contemp-habermas",
+     "usage": "交往理性以四种有效性主张为结构，提供批判“生活世界殖民化”的规范标准。"
+    },
+    {
+     "name": "福柯（对照用法）",
+     "id": "gr-contemp-foucault",
+     "usage": "不承认存在无权力的理性形式：话语总在权力关系中运作，规范标准本身需被谱系学地考察。"
+    }
+   ],
+   "related": [
+    "gr-contemp-power-knowledge",
+    "gr-contemp-public-sphere"
+   ],
+   "example": {
+    "text": "哈贝马斯以“医生与病人的谈话”为例：若只把病人当作信息源（工具理性），则治疗关系被扭曲；若以相互理解为目标，则病人的理由须被认真对待。",
+    "figure": "哈贝马斯",
+    "locator": "《交往行动理论》第一卷"
+   },
+   "sources": [
+    "sep-habermas",
+    "iep-habermas"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-public-sphere",
+   "term": "公共领域",
+   "term_latin": "Öffentlichkeit",
+   "definition": "介于国家与私人之间的社会空间，公民在其中以理性讨论形成公共意见；哈贝马斯考察其兴起与“再封建化”的衰落。",
+   "usages": [
+    {
+     "name": "哈贝马斯",
+     "id": "gr-contemp-habermas",
+     "usage": "18世纪沙龙与报刊构成公共领域的雏形；商业化与大众传媒使其退化为消费与操纵的场域。"
+    },
+    {
+     "name": "福柯（对照用法）",
+     "id": "gr-contemp-foucault",
+     "usage": "公共空间同时是规训与正常化的场所（如医院、监狱、学校的可见性安排），不必然是理性商谈的场域。"
+    }
+   ],
+   "related": [
+    "gr-contemp-discourse",
+    "gr-contemp-postmetaphysical"
+   ],
+   "example": {
+    "text": "哈贝马斯指出，报刊的“读者来信”一度是公众批判权力的渠道；当报刊依赖广告与娱乐，公共讨论便转为消费性的意见展示。",
+    "figure": "哈贝马斯",
+    "locator": "《公共领域的结构转型》第二部"
+   },
+   "sources": [
+    "sep-habermas",
+    "iep-habermas"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-postmetaphysical",
+   "term": "后形而上学",
+   "term_latin": "nachmetaphysisch",
+   "definition": "哈贝马斯用语：在形而上学基础失效后，哲学仍可凭论证与交往理性从事批判，但不再提供终极根据或世界观。",
+   "usages": [
+    {
+     "name": "哈贝马斯",
+     "id": "gr-contemp-habermas",
+     "usage": "后形而上学思维以程序性理性取代实体性理性，哲学成为“替身”与“解释者”。"
+    },
+    {
+     "name": "罗蒂（对照用法）",
+     "id": "gr-contemp-rorty",
+     "usage": "更彻底地放弃基础：哲学转为文化批评与文学式的叙事，不需要规范程序的担保。"
+    }
+   ],
+   "related": [
+    "gr-contemp-discourse",
+    "gr-contemp-public-sphere"
+   ],
+   "example": {
+    "text": "哈贝马斯说，后形而上学哲学不再回答“什么是好生活”，只回答“如何公正地共同生活”；前者留给宗教与艺术，后者由商谈程序处理。",
+    "figure": "哈贝马斯",
+    "locator": "《后形而上学思想》导论"
+   },
+   "sources": [
+    "sep-habermas",
+    "sep-rorty"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ],
+ "debates": [
+  {
+   "id": "gr-contemp-justice-criterion",
+   "title": "分配正义应以什么为标准",
+   "question": "正义要求某种分配格局（如最不利者的最大利益），还是只要求获取与转让的过程正当？",
+   "positions": [
+    {
+     "holder": "罗尔斯",
+     "id": "gr-contemp-rawls",
+     "stance": "格局＋程序：差异原则",
+     "reasons": [
+      "天赋与出身在道德上任意的，其收益不应全归个人。",
+      "无知之幕下的选择者会保障最不利者的地位。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "诺齐克",
+     "id": "gr-contemp-nozick",
+     "stance": "只看历史过程：资格原则",
+     "reasons": [
+      "模式化分配须持续干预才能维持，侵犯个人权利。",
+      "只要获取与转让正当，结果的不平等不构成不义。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点是“正义的评价对象”：是最终分配的格局，还是持有的历史来源。前者要求持续调节结果，后者只要求过程正当；两者对自由与平等的优先次序不同。",
+   "status": "无定论",
+   "status_note": "此后40余年，运气均等主义、能力路径（森、努斯鲍姆）、关系平等主义等方案相继提出；学界普遍认为罗尔斯与诺齐克各自揭示了对方方案的困难，但未形成共识。",
+   "sources": [
+    "sep-rawls",
+    "sep-justice-distributive",
+    "book-rawls-justice"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-modernity",
+   "title": "现代性是否是一项未完成的事业",
+   "question": "启蒙理性应当被兑现还是被解构？规范批判是否需要一个可辩护的理性基础？",
+   "positions": [
+    {
+     "holder": "哈贝马斯",
+     "id": "gr-contemp-habermas",
+     "stance": "未完成：须以交往理性兑现",
+     "reasons": [
+      "问题在于工具理性的片面扩张，而非理性本身。",
+      "交往行动内含可辩护性的预设，可作批判标准。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "福柯",
+     "id": "gr-contemp-foucault",
+     "stance": "须问题化：规范本身是权力—知识的产物",
+     "reasons": [
+      "不存在无权力的理性形式，规范标准须被谱系学地考察。",
+      "以“理性”为名常常掩盖新的规训。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "德里达",
+     "id": "gr-contemp-derrida",
+     "stance": "须解构：在场形而上学无法自我奠基",
+     "reasons": [
+      "意义由差异与延迟构成，不存在最终的所指。",
+      "对理性的追问揭示其排除机制，而非提供新基础。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点是“批判是否需要规范基础”：哈贝马斯认为需要，否则批判只是态度；福柯与德里达认为基础本身是历史建构，批判应是问题化而非奠基。",
+   "status": "无定论",
+   "status_note": "这场争论（1980年代“现代性 vs 后现代性”之争）未有结论；此后“后批判”与“批判理论”的对话持续，学界对“理性”与“权力”的关系仍分歧。",
+   "sources": [
+    "sep-habermas",
+    "sep-foucault",
+    "sep-derrida"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-representation",
+   "title": "知识是否需要“表征”",
+   "question": "知识是心灵对实在的再现，还是社会实践中的证成？",
+   "positions": [
+    {
+     "holder": "罗蒂",
+     "id": "gr-contemp-rorty",
+     "stance": "不需要：放弃镜像说",
+     "reasons": [
+      "无法跳出心灵比较观念与实在，故“符合”是空洞隐喻。",
+      "知识应理解为共同体中的证成与对话。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "哈贝马斯",
+     "id": "gr-contemp-habermas",
+     "stance": "需要：但以交往程序重述",
+     "reasons": [
+      "若无规范标准，批判失去力量。",
+      "有效性主张可由商谈检验，不必诉诸镜像式的符合。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点是“证成与真理的关系”：若真理只是被证成的可断言性，则“更好论据”仍可区分优劣；若坚持符合论，则需说明如何比较。两方都拒绝素朴镜像说，分歧在于是否保留规范性的真理概念。",
+   "status": "无定论",
+   "status_note": "当代知识论（可靠主义、德性知识论）与实用主义之间的争论仍在进行；“后真理论”议题的兴起使这一问题重新获得公共关注，但学界未形成共识。",
+   "sources": [
+    "sep-rorty",
+    "sep-habermas"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  }
+ ]
+}
