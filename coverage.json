@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 611,
+  "entries": 616,
   "by_level": {
-   "L2": 522,
-   "L1": 89
+   "L2": 526,
+   "L1": 90
   },
   "doctrine": {
    "total": 215,
    "detail": 215,
    "auto": 0
   },
-  "needs_verification": 89,
+  "needs_verification": 90,
   "sources": 316,
   "sources_verified": 312
  },
@@ -5612,6 +5612,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-advancement-learning",
+   "type": "work",
+   "title": "《学术的进展》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-novum-organum",
    "type": "work",
    "title": "《新工具》",
@@ -5997,6 +6008,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-religion-hegel",
+   "type": "work",
+   "title": "《宗教哲学讲演录》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-nature-emerson",
    "type": "work",
    "title": "《自然》",
@@ -6022,6 +6044,17 @@
    "id": "work-fear-trembling",
    "type": "work",
    "title": "《恐惧与颤栗》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-economic-philosophic-manuscripts",
+   "type": "work",
+   "title": "《1844年经济学哲学手稿》",
    "container": "west",
    "level": "L2",
    "sources": 2,
@@ -6085,9 +6118,31 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-capital",
+   "type": "work",
+   "title": "《资本论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-zarathustra",
    "type": "work",
    "title": "《查拉图斯特拉如是说》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-genealogy-morality",
+   "type": "work",
+   "title": "《论道德的谱系》",
    "container": "west",
    "level": "L2",
    "sources": 2,

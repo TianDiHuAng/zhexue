@@ -2992,6 +2992,61 @@
    "sort_year": 1550
   },
   {
+   "id": "work-advancement-learning",
+   "title": "《学术的进展》",
+   "title_original": "The Advancement of Learning",
+   "tradition": "west",
+   "date_display": "1605年",
+   "structure": "两卷：卷一论学术的尊严与价值（反驳对学问的诸种指责）；卷二论学术的缺陷与改进（知识分类：历史、诗歌、哲学）。",
+   "core_arguments": [
+    "知识不应与神学争地盘，而应各守其域",
+    "知识的分类应以人的三种能力（记忆、想象、理性）为依据",
+    "学术的弊病有三：虚饰、争辩、体系化的空疏"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "为学术辩护：反驳“知识致堕落”等指责"
+    },
+    {
+     "locator": "卷二 第1章",
+     "point": "知识分类：历史—诗歌—哲学"
+    },
+    {
+     "locator": "卷二",
+     "point": "三类弊病：delicate learning / contentious learning / fantastical learning"
+    },
+    {
+     "locator": "卷二末",
+     "point": "教育与方法论的纲要"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《学术的进展》；Oxford 版（Kitchin）"
+   ],
+   "related_people": [
+    "gr-modern-bacon",
+    "gr-modern-galileo"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《新工具》的草稿",
+     "why": "它是独立的著作，论学术的价值、分类与弊病；《新工具》论的是归纳法。"
+    },
+    {
+     "claim": "培根在此提出“知识即力量”",
+     "why": "该语的精神贯穿全书，但确切表述见于其拉丁著作（scientia potentia est 为后来归纳的说法）。"
+    }
+   ],
+   "sources": [
+    "iep-bacon",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1605
+  },
+  {
    "id": "work-novum-organum",
    "title": "《新工具》",
    "title_original": "Novum Organum Scientiarum",
@@ -4970,6 +5025,62 @@
    "sort_year": 1821
   },
   {
+   "id": "work-religion-hegel",
+   "title": "《宗教哲学讲演录》",
+   "title_original": "Vorlesungen über die Philosophie der Religion",
+   "tradition": "west",
+   "date_display": "1832年（遗著，据讲演整理）",
+   "structure": "三部分：宗教的概念、确定的宗教（自然宗教、精神个体性宗教、绝对宗教）、绝对宗教（基督教）。",
+   "core_arguments": [
+    "宗教与哲学内容相同而形式不同：宗教以表象（Vorstellung），哲学以概念",
+    "宗教的发展是精神自我认识的过程，基督教是“绝对宗教”",
+    "“上帝已死”的痛苦是精神进程的一个环节（此语在其讲演中出现）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "宗教的概念与表象形式"
+    },
+    {
+     "locator": "第二部分",
+     "point": "诸宗教的辩证序列"
+    },
+    {
+     "locator": "第三部分",
+     "point": "绝对宗教与共同体"
+    },
+    {
+     "locator": "导论",
+     "point": "宗教与哲学的关系"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆（若有）；GW 第16—17卷（Meer）"
+   ],
+   "related_people": [
+    "gr-german-hegel",
+    "gr-19c-marx",
+    "gr-german-schleiermacher"
+   ],
+   "misreadings": [
+    {
+     "claim": "黑格尔把宗教还原为哲学",
+     "why": "他主张二者内容相同而形式不同：宗教不是被取消，而是在概念中被把握。"
+    },
+    {
+     "claim": "黑格尔是泛神论者",
+     "why": "其“绝对精神”不是万物的总和，而是通过世界自我认识的精神；泛神论的标签会遮蔽其结构。"
+    }
+   ],
+   "sources": [
+    "sep-hegel",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《宗教哲学讲演录》为遗著，由编者（马海内克等）据多种讲演笔记整理，不同版本的结构与内容有显著出入；本页依通行结构概述，具体表述须核 GW 版。",
+   "sort_year": 1832
+  },
+  {
    "id": "work-nature-emerson",
    "title": "《自然》",
    "title_original": "Nature",
@@ -5136,6 +5247,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1843
+  },
+  {
+   "id": "work-economic-philosophic-manuscripts",
+   "title": "《1844年经济学哲学手稿》",
+   "title_original": "Ökonomisch-philosophische Manuskripte aus dem Jahre 1844",
+   "tradition": "west",
+   "date_display": "写于1844年；1932年首次刊行",
+   "structure": "三稿：第一稿（工资、资本的利润、地租、异化劳动）；第二稿（私有财产的关系）；第三稿（私有财产与劳动、共产主义、需要、分工、货币）。",
+   "core_arguments": [
+    "异化劳动的四重规定：产品、过程、类本质、人与人",
+    "共产主义是“私有财产即人的自我异化的积极扬弃”",
+    "人的类特性是“自由自觉的活动”，故异化使人失去人的本质"
+   ],
+   "key_points": [
+    {
+     "locator": "第一稿 异化劳动",
+     "point": "四重异化的论证"
+    },
+    {
+     "locator": "第三稿",
+     "point": "共产主义与“积极扬弃”"
+    },
+    {
+     "locator": "第三稿",
+     "point": "对“粗陋共产主义”的批评"
+    },
+    {
+     "locator": "第三稿",
+     "point": "货币与感官的异化"
+    }
+   ],
+   "editions": [
+    "《马克思恩格斯全集》第42卷人民出版社；中译另参《1844年经济学哲学手稿》单行本"
+   ],
+   "related_people": [
+    "gr-19c-marx",
+    "gr-german-hegel",
+    "gr-19c-engels"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是马克思的成熟著作",
+     "why": "它是早期手稿，1932 年才刊行；与《资本论》时期的思路有连续也有断裂，学界对连续性有争论。"
+    },
+    {
+     "claim": "异化概念是纯哲学的、与经济分析无关",
+     "why": "其异化分析直接建立在工资、利润、地租的经济学考察之上。"
+    }
+   ],
+   "sources": [
+    "sep-marx",
+    "marx-chinese"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1844
   },
   {
    "id": "work-walden",
@@ -5415,6 +5582,62 @@
    "sort_year": 1861
   },
   {
+   "id": "work-capital",
+   "title": "《资本论》",
+   "title_original": "Das Kapital",
+   "tradition": "west",
+   "date_display": "第一卷1867年；第二、三卷由恩格斯整理（1885、1894）",
+   "structure": "第一卷（资本的生产过程）：商品与货币、货币转化为资本、绝对与相对剩余价值、资本积累；第二卷（流通过程）；第三卷（总过程与利润率）。",
+   "core_arguments": [
+    "商品是使用价值与价值的统一，价值由社会必要劳动时间决定",
+    "剩余价值来源于劳动力这一特殊商品的使用价值（劳动）",
+    "资本积累的一般规律与危机的必然性"
+   ],
+   "key_points": [
+    {
+     "locator": "第一卷 第一篇",
+     "point": "商品二因素与价值形式"
+    },
+    {
+     "locator": "第一卷 第四章",
+     "point": "劳动力成为商品的条件"
+    },
+    {
+     "locator": "第一卷 第二篇",
+     "point": "绝对剩余价值与相对剩余价值"
+    },
+    {
+     "locator": "第一卷 第七篇",
+     "point": "资本积累的一般规律"
+    }
+   ],
+   "editions": [
+    "《马克思恩格斯全集》第23—25卷人民出版社；《资本论》单行本人民出版社"
+   ],
+   "related_people": [
+    "gr-19c-marx",
+    "gr-19c-engels",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "《资本论》只是经济学著作",
+     "why": "它以经济范畴的分析承载哲学与社会理论（商品拜物教、异化、历史唯物主义）。"
+    },
+    {
+     "claim": "劳动价值论已被现代经济学取代",
+     "why": "这是经济学理论的争论题，不宜以“已被取代”作定论；本页只陈述其论证结构。"
+    }
+   ],
+   "sources": [
+    "sep-marx",
+    "marx-chinese"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1867
+  },
+  {
    "id": "work-zarathustra",
    "title": "《查拉图斯特拉如是说》",
    "title_original": "Also sprach Zarathustra",
@@ -5469,6 +5692,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1883
+  },
+  {
+   "id": "work-genealogy-morality",
+   "title": "《论道德的谱系》",
+   "title_original": "Zur Genealogie der Moral",
+   "tradition": "west",
+   "date_display": "1887年",
+   "structure": "三篇论文：一、善与恶／好与坏（道德的两种起源）；二、负疚、坏良心与相关者；三、禁欲主义理想意味着什么。",
+   "core_arguments": [
+    "“好与坏”源于贵族的自我肯定，“善与恶”源于弱者的怨恨（ressentiment）与反转",
+    "坏良心源于本能向内转，是文明化的代价",
+    "禁欲主义理想是意志逃避自身的形态，但也是唯一尚未被取代的理想"
+   ],
+   "key_points": [
+    {
+     "locator": "第一篇",
+     "point": "主人道德与奴隶道德的对立"
+    },
+    {
+     "locator": "第二篇",
+     "point": "坏良心的起源"
+    },
+    {
+     "locator": "第三篇",
+     "point": "禁欲主义理想的分析"
+    },
+    {
+     "locator": "第三篇 末",
+     "point": "“人是尚未定型的动物”"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆（周红译）；KSA 第5卷（de Gruyter）"
+   ],
+   "related_people": [
+    "gr-19c-nietzsche",
+    "gr-19c-schopenhauer",
+    "gr-19c-kierkegaard"
+   ],
+   "misreadings": [
+    {
+     "claim": "尼采推崇“主人道德”故赞成压迫",
+     "why": "其分析是谱系学的诊断，不是伦理纲领；他同时批评主人道德的残酷与奴隶道德的怨恨。"
+    },
+    {
+     "claim": "“怨恨”是心理学的经验假设",
+     "why": "它是谱系学的解释模型，其经验可靠性是学界批评的焦点。"
+    }
+   ],
+   "sources": [
+    "sep-nietzsche",
+    "iep-nietzsche"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1887
   },
   {
    "id": "work-logical-investigations",
