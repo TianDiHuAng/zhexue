@@ -3477,6 +3477,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-episteme",
+   "term": "知识（epistēmē）",
+   "term_latin": "epistēmē",
+   "definition": "希腊语“知识”的严格义：关于必然、普遍、可证明者的知识，与“意见”（doxa）相对。亚里士多德把它与技艺（technē）、实践智慧（phronēsis）并列为理智德性。",
+   "usages": [
+    {
+     "name": "柏拉图",
+     "id": "gr-ancient-plato",
+     "usage": "以理念为知识的对象：可感物只能成为意见的对象（《理想国》卷五—卷七）。"
+    },
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "epistēmē 是关于必然者的证明性知识；与 phronēsis（实践）与 technē（制作）相区分。"
+    },
+    {
+     "name": "怀疑论（批评）",
+     "usage": "以“悬置判断”否认有满足严格条件的知识（塞克斯都的论式）。"
+    }
+   ],
+   "related": [
+    "gr-ancient-logos"
+   ],
+   "example": {
+    "text": "epistēmē 与 doxa 的对立不是“真与假”的对立，而是“必然与可变”的对立：即使意见为真（真信念），它仍不是知识，因为它不稳固、不能给出理由（《美诺篇》末尾的“代达罗斯雕像”之喻正是此意）。",
+    "figure": "柏拉图",
+    "locator": "《理想国》卷五 477a—480a；《美诺》97a—98b"
+   },
+   "sources": [
+    "sep-plato",
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

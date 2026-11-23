@@ -1642,6 +1642,64 @@
    "sort_year": -300
   },
   {
+   "id": "work-tianxia-pian",
+   "title": "《庄子·天下篇》",
+   "title_original": "天下篇",
+   "tradition": "china",
+   "date_display": "约战国后期（庄子后学）",
+   "structure": "一篇；先论“古之道术”之全，次评墨翟、禽滑釐、宋钘、尹文、彭蒙、田骈、慎到、关尹、老聃，再论庄周，末以惠施与辩者作结。",
+   "core_arguments": [
+    "“道术将为天下裂”：整全的道分裂为各家的“方术”",
+    "“不该不遍，一曲之士”：各家皆得一察而不能相通",
+    "以“内圣外王之道”为道术之全的判准"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "古之道术与“道术将为天下裂”"
+    },
+    {
+     "locator": "评墨翟",
+     "point": "对其“非乐”“节用”的评断"
+    },
+    {
+     "locator": "评老聃关尹",
+     "point": "对道家一系的评断"
+    },
+    {
+     "locator": "末段",
+     "point": "惠施与辩者"
+    }
+   ],
+   "editions": [
+    "郭庆藩《庄子集释》中华书局；陈鼓应《庄子今注今译》"
+   ],
+   "related_people": [
+    "cn-xianqin-zhuangzi",
+    "cn-xianqin-laozi",
+    "cn-xianqin-mozi",
+    "cn-xianqin-hui-shi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是庄子的自述",
+     "why": "学界多认为《天下篇》为庄子后学所作（其评庄周用第三人称，且语气与内篇不同）。"
+    },
+    {
+     "claim": "它是一部中立的学术史",
+     "why": "它有明确判准（“内圣外王之道”与“道术之全”），故对各家的评断带有立场。"
+    }
+   ],
+   "sources": [
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《天下篇》的作者（庄子自撰／后学所作）学界有讨论；其作为中国最早的学术史文献的地位无争议，但各家的次序与评断的用意仍有解释空间。",
+   "sort_year": -280
+  },
+  {
    "id": "work-xunzi",
    "title": "《荀子》",
    "title_original": "荀子（Xunzi）",
@@ -1926,6 +1984,63 @@
    "sort_year": -250
   },
   {
+   "id": "work-fei-shierzi",
+   "title": "《荀子·非十二子》",
+   "title_original": "非十二子",
+   "tradition": "china",
+   "date_display": "约前3世纪",
+   "structure": "一篇；先列六说十二子（它嚣魏牟、陈仲史鰌、墨翟宋钘、慎到田骈、惠施邓析、子思孟轲）各加批评，末立“大儒”之标准。",
+   "core_arguments": [
+    "十二子“其持之有故，其言之成理”，然皆“蔽于一曲而暗于大理”",
+    "批评子思孟轲“略法先王而不知其统”（此点为后世儒者所不容）",
+    "以“大儒”为判准：能“总方略、齐言行、一群国”者"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "“假今之世，饰邪说，文奸言”的总论"
+    },
+    {
+     "locator": "评墨翟宋钘",
+     "point": "“上功用、大俭约而僈差等”"
+    },
+    {
+     "locator": "评子思孟轲",
+     "point": "“略法先王而不知其统”（最受争议处）"
+    },
+    {
+     "locator": "末段",
+     "point": "大儒的标准"
+    }
+   ],
+   "editions": [
+    "王先谦《荀子集解》中华书局；李涤生《荀子集释》"
+   ],
+   "related_people": [
+    "cn-xianqin-xunzi",
+    "cn-xianqin-mengzi",
+    "cn-xianqin-mozi"
+   ],
+   "misreadings": [
+    {
+     "claim": "荀子否定孔子",
+     "why": "他批评的是十二子（含子思、孟轲），并在同篇推崇“仲尼、子弓”，故其立场是“以孔子为正统而排斥后学”。"
+    },
+    {
+     "claim": "它是一部客观的学派综述",
+     "why": "其判准是“大儒”与“道”，故批评带明确立场；且它对墨、慎、惠诸家的评断有简化的倾向。"
+    }
+   ],
+   "sources": [
+    "ct-xunzi",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -250
+  },
+  {
    "id": "work-yueji",
    "title": "《乐记》",
    "title_original": "樂記",
@@ -1980,6 +2095,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《乐记》的作者与成书年代（传统归公孙尼子，今多认为成于战国至汉初）学界有讨论；其与《荀子·乐论》的关系（有大量重合）是文献学的关键问题。",
+   "sort_year": -200
+  },
+  {
+   "id": "work-xueji",
+   "title": "《学记》",
+   "title_original": "學記",
+   "tradition": "china",
+   "date_display": "约战国至汉初（收入《礼记》）",
+   "structure": "一篇；论教育的目的与作用、学制与视学、教学原则（教学相长、藏息相辅、豫时孙摩）、师道与择师。",
+   "core_arguments": [
+    "“建国君民，教学为先”：教育是治国的首要事务",
+    "“教学相长”：教与学互相促进（“学然后知不足，教然后知困”）",
+    "“藏焉修焉，息焉游焉”：课业与游息相辅，不可偏废"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "“化民成俗，其必由学”与“教学为先”"
+    },
+    {
+     "locator": "中段",
+     "point": "教学相长与藏息相辅"
+    },
+    {
+     "locator": "中段",
+     "point": "豫、时、孙、摩四原则"
+    },
+    {
+     "locator": "末段",
+     "point": "师道与择师"
+    }
+   ],
+   "editions": [
+    "王文锦《礼记译解》中华书局；《禮記》（四部丛刊本）"
+   ],
+   "related_people": [
+    "cn-xianqin-kongzi",
+    "cn-xianqin-xunzi",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是古代学制的实录",
+     "why": "它含理想的制度构想（如“家有塾，党有庠”），其性质是教育哲学与制度构想的混合，不能当史料直用。"
+    },
+    {
+     "claim": "“教学相长”是说教师向学生学习",
+     "why": "原文的机制是“学然后知不足，教然后知困”——教者由教的过程发现自己的困，故教与学互相促进，不止是“向学生学习”。"
+    }
+   ],
+   "sources": [
+    "ws-liji",
+    "ws-shangshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《学记》的作者与成书年代（传统归乐正克，今多认为成于战国至汉初）有讨论；其所记学制（塾、庠、序、学）是否为某一时代的实录，学界有不同意见。",
    "sort_year": -200
   },
   {

@@ -3835,6 +3835,45 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-essence-intuition",
+   "term": "本质直观",
+   "term_latin": "Wesensschau",
+   "definition": "胡塞尔的现象学方法：通过对个别事例的“自由变更”（freie Variation），把握其不变的本质结构。它不是神秘直觉，而是一种以想象变更为基础的本质描述方法。",
+   "usages": [
+    {
+     "name": "胡塞尔",
+     "id": "gr-20c-husserl",
+     "usage": "本质直观以个别事例为基础，通过变更找出不变项（Invariante）。"
+    },
+    {
+     "name": "海德格尔（批评）",
+     "id": "gr-20c-heidegger",
+     "usage": "以“存在”问题取代“本质”描述：本质直观仍停留在存在者的层面。"
+    },
+    {
+     "name": "维特根斯坦（平行）",
+     "id": "gr-20c-wittgenstein",
+     "usage": "以“家族相似”取代本质：不必假定一切事例共有单一本质。"
+    }
+   ],
+   "related": [
+    "gr-20c-intentionality",
+    "gr-20c-epoche-revisited"
+   ],
+   "example": {
+    "text": "“自由变更”的方法值得细看：想象把一个个别事物任意改变，凡不可去掉的即其本质——故它不是“看见本质”，而是**通过想象排除偶然**，其可靠性依赖于变更多次后的稳定项。",
+    "figure": "胡塞尔",
+    "locator": "《经验与判断》§87；《观念I》§70"
+   },
+   "sources": [
+    "sep-husserl",
+    "sep-heidegger",
+    "sep-wittgenstein"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

@@ -3708,6 +3708,45 @@
    ],
    "needs_verification": true,
    "pending_notes": "《太极图说》首句各本有“无极而太极”与“无极而生太极”之异，版本差异直接影响解读；本页并列朱陆两读，不判定孰是。"
+  },
+  {
+   "id": "cn-songming-han-yang",
+   "term": "涵养须用敬，进学则在致知",
+   "term_latin": "cultivation through reverence, advancement through extension of knowledge",
+   "definition": "程颐提出的工夫两纲领（朱熹奉为圭臬）：涵养（存养）以“敬”为主，进学（穷理）以“致知”为主。二者一为“尊德性”一路，一为“道问学”一路，构成程朱工夫论的双轨。",
+   "usages": [
+    {
+     "name": "程颐",
+     "id": "cn-songming-cheng-yi",
+     "usage": "“涵养须用敬，进学则在致知”：两语并举，不分先后。"
+    },
+    {
+     "name": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "usage": "以两语为“入道之门”：敬贯动静，致知在格物。"
+    },
+    {
+     "name": "陆九渊",
+     "id": "cn-songming-lu-jiuyuan",
+     "usage": "以“先立乎其大者”统之：敬与致知皆须以本心为根。"
+    }
+   ],
+   "related": [
+    "cn-songming-zhujing2",
+    "cn-songming-ge-wu"
+   ],
+   "example": {
+    "text": "这两句话的分量在于它把工夫分成“心之存养”与“理之穷究”两轨，而这两轨的**先后关系**正是朱陆之争的焦点：朱熹主张两轮并进（敬与致知交相养），陆九渊主张先立本（否则致知无所归）。",
+    "figure": "程颐",
+    "locator": "《河南程氏遗书》卷十八"
+   },
+   "sources": [
+    "ct-chuanxilu",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

@@ -2695,6 +2695,42 @@
    ],
    "needs_verification": true,
    "pending_notes": "“诗言志”的出处（《尚书·舜典》与《左传》襄公二十七年所引）文字略有出入；“志”的含义在各时代有滑动，本页分述其层次。"
+  },
+  {
+   "id": "cn-xianqin-daoshu",
+   "term": "道术将为天下裂",
+   "term_latin": "the Way will be torn apart by the world",
+   "definition": "《庄子·天下篇》的核心诊断：古之“道术”（整全的道）在后世分裂为各家“方术”（一偏之学）。故诸子的兴起被理解为**整全性的丧失**，而非思想的进步。",
+   "usages": [
+    {
+     "name": "《天下篇》作者（庄子后学）",
+     "usage": "“道术将为天下裂”：百家各得一察，如同耳目鼻口皆有所明而不能相通。"
+    },
+    {
+     "name": "荀子（平行的诊断）",
+     "id": "cn-xianqin-xunzi",
+     "usage": "以“十二子”各蔽于一曲，主张以“道”贯通（《非十二子》）。"
+    },
+    {
+     "name": "司马谈（后出）",
+     "usage": "以“六家”各有所长，道家能兼综（《论六家要旨》），与“道裂”说取向不同。"
+    }
+   ],
+   "related": [
+    "cn-xianqin-dao"
+   ],
+   "example": {
+    "text": "《天下篇》的比喻很具体：百家如“耳目鼻口”各有所明而不能相通——不是各自错，而是**不能相通的整体性丧失**。这与《论六家要旨》的“各有得失而可兼综”构成两种不同的学术史观。",
+    "figure": "《庄子·天下》",
+    "locator": "《庄子·天下篇》"
+   },
+   "sources": [
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《天下篇》的作者与年代（庄子自撰或后学所作）学界有讨论；其作为“最早的中国哲学史文献”的地位则无争议。"
   }
  ],
  "debates": [
