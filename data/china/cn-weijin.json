@@ -2600,6 +2600,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“圣人可学”在魏晋的具体归属（王弼、郭象的表述散见于注与传记）须核《王弼集校释》与《庄子注》；本页依玄学研究概述其问题结构。"
+  },
+  {
+   "id": "cn-weijin-gui-xu",
+   "term": "贵虚",
+   "term_latin": "valuing emptiness",
+   "definition": "《列子》一系的思想纲领（《天瑞》等）：以“虚”为万物之本，主张“虚者无贵也”——连“贵虚”本身也不执着。它与《老子》的“无”、《庄子》的“道”构成魏晋玄学“贵无”说的另一支资源。",
+   "usages": [
+    {
+     "name": "《列子》本文",
+     "usage": "“或谓子列子曰：子奚贵虚？列子曰：虚者无贵也。”"
+    },
+    {
+     "name": "王弼（对照）",
+     "id": "cn-weijin-wangbi",
+     "usage": "以“无”为本：万物“恃无以生”，与“贵虚”说的取向相近而表述不同。"
+    },
+    {
+     "name": "张湛（注者）",
+     "id": "cn-weijin-zhang-zhan",
+     "usage": "以“至虚”解之，将《列子》纳入玄学的“贵无”脉络。"
+    }
+   ],
+   "related": [
+    "cn-weijin-guiwu",
+    "cn-weijin-youwu"
+   ],
+   "example": {
+    "text": "“虚者无贵也”是一个自我消解的表述：若“贵虚”，则“虚”成了所贵之物，仍是有待；故须连这一“贵”也去掉——这与《庄子》“无待”的思路相通。",
+    "figure": "《列子·天瑞》",
+    "locator": "《列子·天瑞》"
+   },
+   "sources": [
+    "ws-liezi",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "今本《列子》的成书年代（传统归列御寇，今多认为魏晋人辑录，甚至有伪作之说）是学界长期争论的问题；本页就文本内容述其说，不判定作者与年代。"
   }
  ],
  "debates": [

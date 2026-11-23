@@ -4467,6 +4467,63 @@
    "sort_year": 317
   },
   {
+   "id": "work-liezi",
+   "title": "《列子》",
+   "title_original": "列子",
+   "tradition": "china",
+   "date_display": "传统题列御寇撰；今本约辑成于魏晋（4世纪）",
+   "structure": "八篇：天瑞、黄帝、周穆王、仲尼、汤问、力命、杨朱、说符。每篇由若干寓言与议论组成，无严格体系。",
+   "core_arguments": [
+    "“贵虚”：以虚为本，而“虚者无贵也”（连贵虚亦不执着）",
+    "“力命”之辩：人力与命运的界限",
+    "《杨朱》篇的“为我”与“乐生”"
+   ],
+   "key_points": [
+    {
+     "locator": "《天瑞》",
+     "point": "“贵虚”与“虚者无贵”"
+    },
+    {
+     "locator": "《力命》",
+     "point": "力与命的界限"
+    },
+    {
+     "locator": "《杨朱》",
+     "point": "为我与乐生"
+    },
+    {
+     "locator": "《汤问》",
+     "point": "愚公移山、夸父逐日等寓言"
+    }
+   ],
+   "editions": [
+    "杨伯峻《列子集释》中华书局；《列子》（四部丛刊本）"
+   ],
+   "related_people": [
+    "cn-weijin-wangbi",
+    "cn-xianqin-zhuangzi",
+    "cn-xianqin-laozi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《列子》是先秦列御寇的原作",
+     "why": "今本多被认为辑成于魏晋（含佛教观念与后世语汇），甚至有伪作之说；其成书年代是学界长期争论的问题。"
+    },
+    {
+     "claim": "《杨朱》篇代表杨朱本人的思想",
+     "why": "该篇的“为我”“乐生”与孟子所批评的杨朱（“拔一毛而利天下不为”）有关系，但今本篇目出于魏晋辑者之手，不能径当先秦杨朱的实录。"
+    }
+   ],
+   "sources": [
+    "ws-liezi",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "今本《列子》的成书年代与真伪（传统归列御寇，今多认为魏晋辑录，另有伪作说）是学界长期争论的问题；本页就文本内容述其说，不判定作者与年代。",
+   "sort_year": 350
+  },
+  {
    "id": "work-confessions",
    "title": "《忏悔录》",
    "title_original": "Confessiones",
@@ -5089,6 +5146,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 659
+  },
+  {
+   "id": "work-jinshizi-zhang",
+   "title": "《华严金师子章》",
+   "title_original": "華嚴金師子章",
+   "tradition": "china",
+   "date_display": "约7世纪末（法藏为武则天说法）",
+   "structure": "十门（短篇）：明缘起、辨色空、约三性、显无相、说无生、论五教、勒十玄、括六相、成菩提、入涅槃。",
+   "core_arguments": [
+    "以殿前的金师子为喻：金与师子相即，喻理事无碍",
+    "“十玄门”：事事无碍的十个面向",
+    "“六相”：总别、同异、成坏相即"
+   ],
+   "key_points": [
+    {
+     "locator": "明缘起",
+     "point": "金与师子的相即"
+    },
+    {
+     "locator": "勒十玄",
+     "point": "事事无碍的十门"
+    },
+    {
+     "locator": "括六相",
+     "point": "六相圆融"
+    },
+    {
+     "locator": "论五教",
+     "point": "华严的判教"
+    }
+   ],
+   "editions": [
+    "方立天《华严金师子章校释》中华书局；《大正藏》第45卷"
+   ],
+   "related_people": [
+    "cn-suitang-fazang",
+    "cn-suitang-zhiyi",
+    "cn-suitang-zongmi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是通俗的比喻讲稿",
+     "why": "它虽为对武则天的说法，但十门结构是华严法界观的系统纲要（十玄、六相、五教皆在其中）。"
+    },
+    {
+     "claim": "“相即”是说事物混同",
+     "why": "以一室千灯为喻：灯灯相摄而其光不杂——相即不是混同，而是互摄而不失自相。"
+    }
+   ],
+   "sources": [
+    "ws-huayan-jinshizi",
+    "ws-mohezhiguan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 690
   },
   {
    "id": "work-yuandao",

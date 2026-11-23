@@ -2329,6 +2329,82 @@
    ],
    "needs_verification": true,
    "pending_notes": "“六相”的表述在智俨、法藏、澄观之间有发展；本页依法藏《五教章》与华严宗研究概述，具体文本须核《大正藏》第45卷。"
+  },
+  {
+   "id": "cn-suitang-dunwu-jianxiu",
+   "term": "顿悟见性",
+   "term_latin": "sudden enlightenment and seeing nature",
+   "definition": "《坛经》的核心主张：悟在“一念”之间，不假阶次；所悟者是“自性”（见性成佛）。它与北宗“渐修”对举，构成禅宗南北分宗的理论焦点。",
+   "usages": [
+    {
+     "name": "慧能（《坛经》所说）",
+     "id": "cn-suitang-huineng",
+     "usage": "“迷闻经累劫，悟则刹那间”：悟无阶次，见性即成佛。"
+    },
+    {
+     "name": "神秀（北宗，对照）",
+     "usage": "以“时时勤拂拭”为渐修：须除妄念而后见性。"
+    },
+    {
+     "name": "宗密（会通者）",
+     "id": "cn-suitang-zongmi",
+     "usage": "以“顿悟渐修”会通南北：悟可顿，修须渐。"
+    }
+   ],
+   "related": [
+    "cn-suitang-dunwu",
+    "cn-suitang-foxing"
+   ],
+   "example": {
+    "text": "“顿”与“渐”的争点不在速度，而在**结构**：若悟有阶次，则“性”是可逐步接近的对象；若悟无阶次，则“性”从不是对象，只是被遮蔽——故“见性”是去除遮蔽，不是获得新物。",
+    "figure": "《六祖坛经》",
+    "locator": "《坛经·般若品》"
+   },
+   "sources": [
+    "ws-liuzu-tanjing",
+    "ws-mohezhiguan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《坛经》的版本（敦煌本、惠昕本、契嵩本、宗宝本）差异很大，敦煌本与通行本在“顿悟”的表述上有出入；本页依通行本所述，具体文句须核敦煌本。"
+  },
+  {
+   "id": "cn-suitang-shishi-wuai",
+   "term": "事事无碍",
+   "term_latin": "unobstructed interpenetration of particulars",
+   "definition": "华严宗四法界说的最高层：不仅“理”与“事”无碍，而且“事”与“事”之间也相即相入、互不妨碍。它以一室千灯为喻：灯灯相摄而其光不杂。",
+   "usages": [
+    {
+     "name": "法藏",
+     "id": "cn-suitang-fazang",
+     "usage": "以“金师子”为喻：金与师子相即，而师子的每一相都含全金。"
+    },
+    {
+     "name": "澄观",
+     "usage": "以四法界（理、事、理事无碍、事事无碍）总括，以“事事无碍”为极。"
+    },
+    {
+     "name": "智顗（对照）",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以“一念三千”说同一圆融，但路径不同（天台重“性具”，华严重“性起”）。"
+    }
+   ],
+   "related": [
+    "cn-suitang-huayan-shishi",
+    "cn-suitang-xingju"
+   ],
+   "example": {
+    "text": "“事事无碍”的喻是“一室千灯”：每盏灯的光都遍满一室，而各灯之光不相杂——故“相即”不是混同，而是**互摄而不失自相**。这一点是华严区别于泛神论的关键。",
+    "figure": "法藏",
+    "locator": "《华严金师子章》"
+   },
+   "sources": [
+    "ws-huayan-jinshizi",
+    "ws-mohezhiguan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

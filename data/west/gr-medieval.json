@@ -3681,6 +3681,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“伪狄奥尼修斯”的作者托名（实为5—6世纪叙利亚修士）与《神秘神学》的成书年代须核；本页依中世纪哲学史概述其方法，具体文本待核。"
+  },
+  {
+   "id": "gr-medieval-intellect-agent",
+   "term": "主动理智",
+   "term_latin": "intellectus agens",
+   "definition": "阿奎那（承亚里士多德与阿拉伯哲学）的认识论环节：人的理智有两种——**被动理智**接受可感物的印象，**主动理智**把印象中的可理解形式“抽象”出来。主动理智不是灵魂的另一个实体，而是灵魂的一种能力。",
+   "usages": [
+    {
+     "name": "阿奎那",
+     "id": "gr-medieval-aquinas",
+     "usage": "主动理智“抽象”出可理解形式，使认识成为可能。"
+    },
+    {
+     "name": "阿维森纳（先声）",
+     "usage": "以“主动理智”为独立的第十重天 intelligence，人的认识依赖它的照明。"
+    },
+    {
+     "name": "司各脱（批评）",
+     "id": "gr-medieval-duns-scotus",
+     "usage": "以“共同本性”与直观认识取代阿奎那的抽象说。"
+    }
+   ],
+   "related": [
+    "gr-medieval-esse",
+    "gr-medieval-faith-reason"
+   ],
+   "example": {
+    "text": "“主动理智”解决了一个难题：可感物是个别的，而知识是普遍的——若理智只是被动接受，则只能得到个别印象；故须有一个“使形式从质料中解放”的能力，这就是主动理智。",
+    "figure": "阿奎那",
+    "locator": "《神学大全》I, q.79"
+   },
+   "sources": [
+    "sep-aquinas",
+    "sep-aristotle",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

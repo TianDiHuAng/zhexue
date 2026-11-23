@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 901,
+  "entries": 907,
   "by_level": {
-   "L2": 727,
-   "L1": 174
+   "L2": 730,
+   "L1": 177
   },
   "doctrine": {
    "total": 233,
    "detail": 233,
    "auto": 0
   },
-  "needs_verification": 174,
-  "sources": 358,
-  "sources_verified": 358
+  "needs_verification": 177,
+  "sources": 361,
+  "sources_verified": 361
  },
  "units": [
   {
@@ -48,7 +48,7 @@
    "title": "隋唐佛学",
    "region": "china",
    "philosophers": 12,
-   "concepts": 16,
+   "concepts": 18,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -57,7 +57,7 @@
    "title": "魏晋玄学",
    "region": "china",
    "philosophers": 13,
-   "concepts": 15,
+   "concepts": 16,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -5"
   },
@@ -129,7 +129,7 @@
    "title": "中世纪经院哲学",
    "region": "west",
    "philosophers": 18,
-   "concepts": 17,
+   "concepts": 18,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -1905,6 +1905,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-suitang-dunwu-jianxiu",
+   "type": "concept",
+   "title": "顿悟见性",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-suitang-shishi-wuai",
+   "type": "concept",
+   "title": "事事无碍",
+   "container": "cn-suitang",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-suitang-dunjian",
    "type": "debate",
    "title": "顿悟与渐修",
@@ -2293,6 +2315,17 @@
    "id": "cn-weijin-shengren-kexue",
    "type": "concept",
    "title": "圣人可学",
+   "container": "cn-weijin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-gui-xu",
+   "type": "concept",
+   "title": "贵虚",
    "container": "cn-weijin",
    "level": "L1",
    "sources": 3,
@@ -6140,6 +6173,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-medieval-intellect-agent",
+   "type": "concept",
+   "title": "主动理智",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-medieval-universals-debate",
    "type": "debate",
    "title": "共相是实在还是名称",
@@ -7801,6 +7845,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-liezi",
+   "type": "work",
+   "title": "《列子》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-confessions",
    "type": "work",
    "title": "《忏悔录》",
@@ -7918,6 +7973,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-jinshizi-zhang",
+   "type": "work",
+   "title": "《华严金师子章》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
