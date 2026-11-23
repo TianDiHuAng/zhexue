@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 438,
+  "entries": 442,
   "by_level": {
-   "L2": 375,
-   "L1": 63
+   "L2": 378,
+   "L1": 64
   },
   "doctrine": {
    "total": 150,
    "detail": 150,
    "auto": 0
   },
-  "needs_verification": 63,
-  "sources": 255,
-  "sources_verified": 240
+  "needs_verification": 64,
+  "sources": 256,
+  "sources_verified": 241
  },
  "units": [
   {
@@ -4017,6 +4017,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-taiji-tushuo",
+   "type": "work",
+   "title": "《太极图说》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-zhengmeng",
    "type": "work",
    "title": "《正蒙》",
@@ -4204,6 +4215,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-enquiry-hume",
+   "type": "work",
+   "title": "《人类理解研究》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-social-contract",
    "type": "work",
    "title": "《社会契约论》",
@@ -4281,6 +4303,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-philosophy-of-right",
+   "type": "work",
+   "title": "《法哲学原理》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-fear-trembling",
    "type": "work",
    "title": "《恐惧与颤栗》",
@@ -4306,6 +4339,17 @@
    "id": "work-origin-species",
    "type": "work",
    "title": "《物种起源》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-utilitarianism",
+   "type": "work",
+   "title": "《功利主义》",
    "container": "west",
    "level": "L2",
    "sources": 2,

@@ -1138,6 +1138,59 @@
    "sort_year": 805
   },
   {
+   "id": "work-taiji-tushuo",
+   "title": "《太极图说》",
+   "title_original": "太極圖說",
+   "tradition": "china",
+   "date_display": "约11世纪中叶",
+   "structure": "约二百五十字的图说，附《太极图》；由“无极而太极”起，依次推演阴阳、五行、万物化生，末归“主静立人极”。",
+   "core_arguments": [
+    "无极而太极：太极是万物的本根，动而生阳、静而生阴",
+    "阴阳五行化生万物，人得秀而最灵",
+    "圣人以“中正仁义”立人极，主静为修养之要"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "“无极而太极”"
+    },
+    {
+     "locator": "中段",
+     "point": "太极动而生阳、静而生阴；五行各一其性"
+    },
+    {
+     "locator": "末段",
+     "point": "“圣人定之以中正仁义而主静，立人极焉”"
+    }
+   ],
+   "editions": [
+    "《周敦颐集》中华书局点校本；《太极图说》单行本可参"
+   ],
+   "related_people": [
+    "cn-songming-zhou-dunyi",
+    "cn-songming-zhu-xi",
+    "cn-songming-lu-jiuyuan"
+   ],
+   "misreadings": [
+    {
+     "claim": "“无极而太极”是说太极之上另有一个无极",
+     "why": "朱陆之辩即围绕此句：朱熹读作“无极”形容太极之无声无臭，陆九渊疑其为《老子》的“无”；两说并存，本库并列不裁。"
+    },
+    {
+     "claim": "《太极图说》纯为宇宙论，与修养无关",
+     "why": "其末段明确以“主静立人极”收束，宇宙论与工夫论是一体的。"
+    }
+   ],
+   "sources": [
+    "ws-taijitushuo",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《太极图说》首句“无极而太极”的读法与图式来源（道教渊源说／周敦颐自创说）是朱陆之辩与后世考据的核心议题；本页并列诸说，不作裁定。",
+   "sort_year": 1050
+  },
+  {
    "id": "work-zhengmeng",
    "title": "《正蒙》",
    "title_original": "正蒙",
@@ -2111,6 +2164,64 @@
    "sort_year": 1748
   },
   {
+   "id": "work-enquiry-hume",
+   "title": "《人类理解研究》",
+   "title_original": "An Enquiry Concerning Human Understanding",
+   "tradition": "west",
+   "date_display": "1748年",
+   "structure": "十二章：论不同种类的哲学、观念的起源、观念的联系、怀疑的怀疑论、可解与不可解、概然性、必然观念、自由与必然、动物的理性等。",
+   "core_arguments": [
+    "一切观念来自印象；无印象者可疑（对“必然联系”的印象追溯失败）",
+    "因果性来自习惯性的联想：我们只看到恒常会合，看不到必然联系",
+    "自由与必然相容：自由指按意志行动而不受强制"
+   ],
+   "key_points": [
+    {
+     "locator": "第二章",
+     "point": "印象与观念的区分"
+    },
+    {
+     "locator": "第四章",
+     "point": "对因果推理的怀疑（事实的反面总是可能的）"
+    },
+    {
+     "locator": "第七章",
+     "point": "必然观念从何而来：习惯"
+    },
+    {
+     "locator": "第八章",
+     "point": "自由与必然的调和"
+    }
+   ],
+   "editions": [
+    "关文运译《人类理解研究》商务印书馆",
+    "Clarendon Edition（Beauchamp 编）"
+   ],
+   "related_people": [
+    "gr-modern-hume",
+    "gr-modern-berkeley",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "休谟否认因果存在",
+     "why": "他不否认因果，而是否认我们能知觉到“必然联系”；因果信念由习惯产生，有实践上的合理性。"
+    },
+    {
+     "claim": "休谟是彻底的怀疑论者",
+     "why": "他自称“温和的怀疑论”：在哲学中悬置，在生活中依自然信念行动。"
+    }
+   ],
+   "sources": [
+    "sep-hume",
+    "emt-hume",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1748
+  },
+  {
    "id": "work-social-contract",
    "title": "《社会契约论》",
    "title_original": "Du contrat social",
@@ -2511,6 +2622,63 @@
    "sort_year": 1818
   },
   {
+   "id": "work-philosophy-of-right",
+   "title": "《法哲学原理》",
+   "title_original": "Grundlinien der Philosophie des Rechts",
+   "tradition": "west",
+   "date_display": "1821年",
+   "structure": "三部分：抽象法（所有权、契约、不法）、道德（故意、意图、善与良心）、伦理（家庭、市民社会、国家）；末章论世界历史。",
+   "core_arguments": [
+    "法权是“自由的定在”：自由须在外在中实现",
+    "市民社会是需要的体系，其内在矛盾（贫富分化）需由国家来中介",
+    "“凡是合乎理性的都是现实的，凡是现实的都是合乎理性的”——理性与现实的和解"
+   ],
+   "key_points": [
+    {
+     "locator": "序言",
+     "point": "理性与现实同一的命题"
+    },
+    {
+     "locator": "第一部分",
+     "point": "抽象法：所有权与契约"
+    },
+    {
+     "locator": "第三部分 第二章",
+     "point": "市民社会与需要的体系"
+    },
+    {
+     "locator": "第三部分 第三章",
+     "point": "国家作为伦理理念的现实"
+    }
+   ],
+   "editions": [
+    "范扬、张企泰译《法哲学原理》商务印书馆",
+    "GW 第 14 卷（Meiner）"
+   ],
+   "related_people": [
+    "gr-german-hegel",
+    "gr-german-kant",
+    "gr-19c-marx"
+   ],
+   "misreadings": [
+    {
+     "claim": "“凡是现实的都是合乎理性的”是为现状辩护",
+     "why": "黑格尔的“现实”（wirklich）不等于“现存”（existierend）：只有充分实现其概念的才是现实；该句在当时即被误读。"
+    },
+    {
+     "claim": "黑格尔否认个人的权利",
+     "why": "抽象法部分正是以人格与所有权为起点，个人权利是伦理的一个环节，而非被取消。"
+    }
+   ],
+   "sources": [
+    "sep-hegel",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1821
+  },
+  {
    "id": "work-fear-trembling",
    "title": "《恐惧与颤栗》",
    "title_original": "Frygt og Bæven",
@@ -2678,6 +2846,59 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1859
+  },
+  {
+   "id": "work-utilitarianism",
+   "title": "《功利主义》",
+   "title_original": "Utilitarianism",
+   "tradition": "west",
+   "date_display": "1861年（连载）/1863年（单行）",
+   "structure": "五章：总论、功利主义的含义、论功利的终极约束力、论功利原则可证成的性质、论正义与功利的联系。",
+   "core_arguments": [
+    "快乐有质的差别：“做不满足的苏格拉底胜于做满足的猪”",
+    "功利原则的“证明”只能是对终极目的的诉求，不能有通常意义上的演绎证明",
+    "正义感源于社会功利的核心部分，故正义与功利不相对立"
+   ],
+   "key_points": [
+    {
+     "locator": "第二章",
+     "point": "快乐的质与量之别； competent judges 的标准"
+    },
+    {
+     "locator": "第四章",
+     "point": "功利原则能否被“证明”"
+    },
+    {
+     "locator": "第五章",
+     "point": "正义与功利的调和"
+    }
+   ],
+   "editions": [
+    "徐大建译《功利主义》商务印书馆",
+    "洪谦主编《西方伦理学名著选辑》可参"
+   ],
+   "related_people": [
+    "gr-19c-mill",
+    "gr-19c-bentham",
+    "gr-contemp-rawls"
+   ],
+   "misreadings": [
+    {
+     "claim": "密尔只是边沁的普及者",
+     "why": "他以“质的差别”修正了边沁的量的计算，并把正义纳入功利原则的内部。"
+    },
+    {
+     "claim": "功利主义主张为多数牺牲少数",
+     "why": "密尔强调次阶原则（规则、权利）与长远后果，且以“安全”为正义的核心，非逐案计算。"
+    }
+   ],
+   "sources": [
+    "sep-mill",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1861
   },
   {
    "id": "work-zarathustra",
