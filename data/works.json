@@ -748,6 +748,117 @@
    "sort_year": -55
   },
   {
+   "id": "work-de-providentia",
+   "title": "《论天意》",
+   "title_original": "De providentia（Dialogi I）",
+   "tradition": "west",
+   "date_display": "约1世纪中叶",
+   "structure": "六章对话体（塞涅卡与卢基里乌斯）：为何好人遭难、神如何看待苦难、逆境是否为锻炼、恶人的“得逞”为何是惩罚。",
+   "core_arguments": [
+    "天佑不是免除苦难，而是把苦难当作锻炼（神如严父，不以娇养为爱）",
+    "逆境比顺境更能显出德性；灾难是德性的“战场”",
+    "恶人并非逃脱惩罚：其“得逞”本身即是灵魂的败坏"
+   ],
+   "key_points": [
+    {
+     "locator": "第1章",
+     "point": "问题的提出：若天佑存在，何以好人受苦"
+    },
+    {
+     "locator": "第2—3章",
+     "point": "神与善人的关系：如父与子、将军与士兵"
+    },
+    {
+     "locator": "第4章",
+     "point": "逆境锻炼德性"
+    },
+    {
+     "locator": "第5—6章",
+     "point": "恶人的“成功”是惩罚"
+    }
+   ],
+   "editions": [
+    "中译参《塞涅卡道德书简/论天意》（商务印书馆/华夏出版社）；Loeb 版 Moral Essays I"
+   ],
+   "related_people": [
+    "gr-hellenistic-seneca",
+    "gr-hellenistic-zeno",
+    "gr-medieval-boethius"
+   ],
+   "misreadings": [
+    {
+     "claim": "《论天意》是神义论的完整体系",
+     "why": "它是实践性的劝慰对话，不是系统神义论；后世莱布尼茨式的神义论问题意识与之不同。"
+    },
+    {
+     "claim": "塞涅卡主张苦难本身是善",
+     "why": "他说苦难是锻炼与显现德性的机会，不是把苦 itself 当作善。"
+    }
+   ],
+   "sources": [
+    "sep-stoicism",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 55
+  },
+  {
+   "id": "work-enchiridion",
+   "title": "《手册》",
+   "title_original": "Ἐγχειρίδιον（Enchiridion）",
+   "tradition": "west",
+   "date_display": "约2世纪（阿里安编）",
+   "structure": "约五十三条短章；由阿里安从爱比克泰德的《语录》中摘编，为初学者提供纲要。",
+   "core_arguments": [
+    "区分“在我们能力之内的”（判断、意愿）与“不在我们能力之内的”（身体、财产、名声）",
+    "对不在能力之内者不作强求，则免于受挫与恐惧",
+    "干扰人的不是事情本身，而是人对事情的看法"
+   ],
+   "key_points": [
+    {
+     "locator": "第1章",
+     "point": "能力之内／之外的二分"
+    },
+    {
+     "locator": "第5章",
+     "point": "“使人不安的不是事物，而是关于事物的意见”"
+    },
+    {
+     "locator": "第8章",
+     "point": "顺应自然（what happens）"
+    },
+    {
+     "locator": "第51章",
+     "point": "哲学的三条纲目：欲望、行动、同意"
+    }
+   ],
+   "editions": [
+    "中译参《爱比克泰德手册》（商务印书馆/华夏出版社）；Oldfather Loeb 希英对照本"
+   ],
+   "related_people": [
+    "gr-hellenistic-epictetus",
+    "gr-hellenistic-zeno"
+   ],
+   "misreadings": [
+    {
+     "claim": "《手册》教人消极认命",
+     "why": "它要求在能力之内尽力（行动纲目），只是不把幸福系于不可控之物；不是放弃行动。"
+    },
+    {
+     "claim": "《手册》是爱比克泰德亲笔",
+     "why": "由其学生阿里安摘编，编排与取舍出自阿里安之手。"
+    }
+   ],
+   "sources": [
+    "sep-stoicism",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 120
+  },
+  {
    "id": "work-ennreads",
    "title": "《九章集》",
    "title_original": "Ἐννεάδες（Enneads）",
@@ -1136,6 +1247,7 @@
     }
    ],
    "sources": [
+    "lat-boethius-consolatio",
     "sep-boethius",
     "book-gilson-medieval"
    ],
@@ -2675,6 +2787,63 @@
    "sort_year": 1788
   },
   {
+   "id": "work-critique-judgment",
+   "title": "《判断力批判》",
+   "title_original": "Kritik der Urteilskraft",
+   "tradition": "west",
+   "date_display": "1790年",
+   "structure": "两部＋导论：第一部“审美判断力批判”（美的分析、崇高的分析、天才与艺术、审美理念）；第二部“目的论判断力批判”（自然目的、有机体、最终目的）。",
+   "core_arguments": [
+    "审美判断是反思性的：它不把特殊归入既定概念，而是为特殊寻求概念",
+    "美的判断具“主观的普遍性”：无概念而要求普遍同意",
+    "崇高与美不同：崇高源于想象力的受挫与理性的超越",
+    "自然目的论是反思性原理：我们只能“如同”有目的一样理解有机体"
+   ],
+   "key_points": [
+    {
+     "locator": "§1—§22",
+     "point": "美的四契机（无利害、无概念而普遍、无目的的合目的性、必然性）"
+    },
+    {
+     "locator": "§23—§29",
+     "point": "数学的崇高与力学的崇高"
+    },
+    {
+     "locator": "§46—§50",
+     "point": "天才与艺术"
+    },
+    {
+     "locator": "§61—§68",
+     "point": "自然目的论与有机体"
+    }
+   ],
+   "editions": [
+    "邓晓芒译《判断力批判》人民出版社；李秋零译《康德著作全集》第5卷"
+   ],
+   "related_people": [
+    "gr-german-kant",
+    "gr-german-schiller",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "康德的美学是主观任意的",
+     "why": "他主张的是“主观的普遍性”：判断基于共通感（sensus communis），故可要求他人同意，不是任意。"
+    },
+    {
+     "claim": "目的论判断是对自然的客观知识",
+     "why": "它是反思性原理，只调节我们的探究，不构成对自然的客观断定。"
+    }
+   ],
+   "sources": [
+    "sep-kant",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1790
+  },
+  {
    "id": "work-aesthetic-letters",
    "title": "《美育书简》",
    "title_original": "Über die ästhetische Erziehung des Menschen",
@@ -3181,6 +3350,63 @@
    "sort_year": 1861
   },
   {
+   "id": "work-representative-government",
+   "title": "《代议制政府》",
+   "title_original": "Considerations on Representative Government",
+   "tradition": "west",
+   "date_display": "1861年",
+   "structure": "十八章：论政府形式的选择标准、代议制政府的优点与危险、好的民主制的条件、比例代表制、第二院、联邦制、殖民地政府等。",
+   "core_arguments": [
+    "政府形式不是任意的，须适应民情与教育程度",
+    "代议制兼有“参与”与“能力”的双重要求：既要公民参与，也要才能的引导",
+    "多数暴政的风险须以防止“阶级立法”的制度设计来化解（密尔的方案含比例代表与少数代表）"
+   ],
+   "key_points": [
+    {
+     "locator": "第1—3章",
+     "point": "政府形式的选择标准"
+    },
+    {
+     "locator": "第7章",
+     "point": "真与假的民主制"
+    },
+    {
+     "locator": "第10章",
+     "point": "关于“阶级立法”的危险"
+    },
+    {
+     "locator": "第15—16章",
+     "point": "第二院与联邦制"
+    }
+   ],
+   "editions": [
+    "汪瑄译《代议制政府》商务印书馆",
+    "Cambridge Texts 版"
+   ],
+   "related_people": [
+    "gr-19c-mill",
+    "gr-modern-rousseau",
+    "gr-contemp-rawls"
+   ],
+   "misreadings": [
+    {
+     "claim": "密尔是纯粹的民主派",
+     "why": "他同时担心多数暴政与庸俗化，主张以比例代表与精英意见的权重来平衡，故常被称为“复合民主”论者。"
+    },
+    {
+     "claim": "密尔主张给有教养者额外选票",
+     "why": "他在《代议制政府》中提出过复数投票的设想，但设了严格条件且本人亦持保留；不应概括为其核心主张。"
+    }
+   ],
+   "sources": [
+    "sep-mill",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1861
+  },
+  {
    "id": "work-zarathustra",
    "title": "《查拉图斯特拉如是说》",
    "title_original": "Also sprach Zarathustra",
@@ -3235,6 +3461,64 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1883
+  },
+  {
+   "id": "work-logical-investigations",
+   "title": "《逻辑研究》",
+   "title_original": "Logische Untersuchungen",
+   "tradition": "west",
+   "date_display": "1900—1901年（第一版）",
+   "structure": "两卷：第一卷“纯粹逻辑学导引”（对心理主义的批判）；第二卷“现象学与认识论研究”（六个研究：表达与意义、种类的观念统一、整体与部分、意向性等）。",
+   "core_arguments": [
+    "反心理主义：逻辑规律不是思维的心理事实，而是观念的必然性",
+    "意向性：意识总是对某物的意识；意义是意向行为的观念性内容",
+    "范畴直观：本质可被直观地把握，不限于感性材料"
+   ],
+   "key_points": [
+    {
+     "locator": "第一卷 第3—4章",
+     "point": "对心理主义的批判"
+    },
+    {
+     "locator": "第二卷 研究一",
+     "point": "表达与意义（Ausdruck／Bedeutung）"
+    },
+    {
+     "locator": "第二卷 研究三",
+     "point": "整体与部分（奠基关系）"
+    },
+    {
+     "locator": "第二卷 研究六",
+     "point": "范畴直观与真理"
+    }
+   ],
+   "editions": [
+    "倪梁康译《逻辑研究》商务印书馆（两卷本）",
+    "Husserliana XVIII—XIX（Nijhoff）"
+   ],
+   "related_people": [
+    "gr-20c-husserl",
+    "gr-20c-frege",
+    "gr-20c-heidegger"
+   ],
+   "misreadings": [
+    {
+     "claim": "《逻辑研究》是心理学著作",
+     "why": "第一卷的核心正是反心理主义；现象学描述虽以意识为对象，但不把逻辑规律还原为心理过程。"
+    },
+    {
+     "claim": "胡塞尔与弗雷格立场一致",
+     "why": "二者都反心理主义，但胡塞尔以意向性说明意义，弗雷格以意义／指称与客观思想说明，路径不同。"
+    }
+   ],
+   "sources": [
+    "sep-husserl",
+    "iep-husserl",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1900
   },
   {
    "id": "work-tractatus",

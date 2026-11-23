@@ -1,9 +1,9 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 450,
+  "entries": 455,
   "by_level": {
-   "L2": 385,
+   "L2": 390,
    "L1": 65
   },
   "doctrine": {
@@ -12,8 +12,8 @@
    "auto": 0
   },
   "needs_verification": 65,
-  "sources": 248,
-  "sources_verified": 244
+  "sources": 249,
+  "sources_verified": 245
  },
  "units": [
   {
@@ -3263,8 +3263,8 @@
    "title": "波爱修",
    "container": "gr-medieval",
    "level": "L1",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -3940,6 +3940,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-de-providentia",
+   "type": "work",
+   "title": "《论天意》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-enchiridion",
+   "type": "work",
+   "title": "《手册》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-ennreads",
    "type": "work",
    "title": "《九章集》",
@@ -4011,8 +4033,8 @@
    "title": "《哲学的慰藉》",
    "container": "west",
    "level": "L1",
-   "sources": 2,
-   "verified_sources": 2,
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -4314,6 +4336,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-critique-judgment",
+   "type": "work",
+   "title": "《判断力批判》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-aesthetic-letters",
    "type": "work",
    "title": "《美育书简》",
@@ -4413,6 +4446,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-representative-government",
+   "type": "work",
+   "title": "《代议制政府》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-zarathustra",
    "type": "work",
    "title": "《查拉图斯特拉如是说》",
@@ -4420,6 +4464,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-logical-investigations",
+   "type": "work",
+   "title": "《逻辑研究》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
