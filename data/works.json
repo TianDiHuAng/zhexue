@@ -4783,6 +4783,62 @@
    "sort_year": 1513
   },
   {
+   "id": "work-utopia",
+   "title": "《乌托邦》",
+   "title_original": "Libellus vere aureus… de optimo rei publicae statu deque nova insula Utopia",
+   "tradition": "west",
+   "date_display": "1516年",
+   "structure": "两部分：第一部为莫尔与希斯洛德的对话（论英国的社会弊病，含“羊吃人”的圈地批评）；第二部为希斯洛德对乌托邦岛的制度描述（财产公有、六小时劳动、宗教宽容）。",
+   "core_arguments": [
+    "私有制是不平等的根源：“凡有私有制的地方，一切以金钱衡量，公共事务无从公正”",
+    "乌托邦以财产公有与劳动义务消除贫困与盗窃",
+    "以异域的“理想制度”反照现实（该文体由此得名“乌托邦”）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "“羊吃人”的圈地批评"
+    },
+    {
+     "locator": "第二部 论官长",
+     "point": "财产公有与劳动组织"
+    },
+    {
+     "locator": "第二部 论宗教",
+     "point": "宗教宽容"
+    },
+    {
+     "locator": "结尾",
+     "point": "莫尔的保留：“我愿它实现，但我不能全然相信”"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《乌托邦》；英文维基文库全文（Ralph Robinson 1551 英译）"
+   ],
+   "related_people": [
+    "gr-modern-machiavelli",
+    "gr-ancient-plato",
+    "gr-modern-erasmus"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是莫尔的共产主义纲领",
+     "why": "它是对话体的讽喻之作，末尾莫尔本人保留（“我愿它实现，但…不能全然相信”）；其性质是文学—哲学的批判，不是政治纲领。"
+    },
+    {
+     "claim": "“乌托邦”意为“美好的地方”",
+     "why": "莫尔造的这个词兼含希腊语“好地方”（eu-topia）与“无地方”（ou-topia）之义，双关正是其用意。"
+    }
+   ],
+   "sources": [
+    "ws-en-utopia",
+    "sep-machiavelli"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《乌托邦》无专属 SEP／IEP 词条（sep-more／iep-more 均 404），第二个来源取 SEP 的马基雅维利词条（同为16世纪初人文主义的政治想象语境），属语境性引用而非专门研究；本页所述依英译全文，具体解读须核耶鲁版（Yale Utopia）。",
+   "sort_year": 1516
+  },
+  {
    "id": "work-kunzhi-ji",
    "title": "《困知记》",
    "title_original": "困知記",
@@ -7486,6 +7542,63 @@
    "sort_year": 1788
   },
   {
+   "id": "work-introduction-morals",
+   "title": "《道德与立法原理导论》",
+   "title_original": "An Introduction to the Principles of Morals and Legislation",
+   "tradition": "west",
+   "date_display": "1789年（印行）；1823年（作者校订）",
+   "structure": "十七章：功利原理（1）、苦乐的四种制裁（3）、苦乐的种类与度量（4—6）、行为的意图与意识（8）、罪过的分类（14—17）。",
+   "core_arguments": [
+    "功利原理：以行为增进或减少当事者幸福为判准",
+    "苦乐有七维（强度、持续、确定、远近、丰度、纯度、广度）可供比较",
+    "罪过的分类须依其指向的苦乐与受影响者而定"
+   ],
+   "key_points": [
+    {
+     "locator": "第1章",
+     "point": "功利原理的表述"
+    },
+    {
+     "locator": "第4章",
+     "point": "苦乐的七维度量"
+    },
+    {
+     "locator": "第3章",
+     "point": "四种制裁（自然的、政治的、道德的、宗教的）"
+    },
+    {
+     "locator": "第14—17章",
+     "point": "罪过的分类"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆（若有）；英文维基文库全文；Oxford 版（Burns & Hart）"
+   ],
+   "related_people": [
+    "gr-19c-bentham",
+    "gr-19c-mill",
+    "gr-modern-hume"
+   ],
+   "misreadings": [
+    {
+     "claim": "七维度量能精确计算快乐量",
+     "why": "它是一个比较框架，边沁自知难以精确量化；其用途在立法与刑罚的比例判断。"
+    },
+    {
+     "claim": "它只论个人道德",
+     "why": "其主体是立法与刑罚的理论（罪过的分类占全书近半），道德只是其一部分。"
+    }
+   ],
+   "sources": [
+    "ws-en-bentham",
+    "iep-bentham",
+    "sep-bentham"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1789
+  },
+  {
    "id": "work-critique-judgment",
    "title": "《判断力批判》",
    "title_original": "Kritik der Urteilskraft",
@@ -7541,6 +7654,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1790
+  },
+  {
+   "id": "work-rights-of-man",
+   "title": "《人权论》",
+   "title_original": "Rights of Man",
+   "tradition": "west",
+   "date_display": "1791年（第一部分）；1792年（第二部分）",
+   "structure": "两部分：第一部分逐章驳柏克《对法国大革命的反思》，提出天赋权利说；第二部分论宪法与代议制，末附《土地正义论》。",
+   "core_arguments": [
+    "天赋权利与公民权利的区分：后者由前者派生",
+    "世袭制无任何可辩护的根据（世袭是抽签与继承中最坏的一种）",
+    "宪法先于政府：政府是宪法的产物"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分 论权利",
+     "point": "天赋权利与公民权利"
+    },
+    {
+     "locator": "第一部分 驳柏克",
+     "point": "对“世代合伙”论的反驳"
+    },
+    {
+     "locator": "第二部分 论宪法",
+     "point": "宪法先于政府"
+    },
+    {
+     "locator": "第二部分 论代议制",
+     "point": "代议制与世袭制的对比"
+    }
+   ],
+   "editions": [
+    "英文维基文库全文；中译参商务印书馆（若有）"
+   ],
+   "related_people": [
+    "gr-modern-paine",
+    "gr-modern-burke",
+    "gr-modern-locke"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张立即的革命与暴力",
+     "why": "它主要是论证性的（驳柏克、论宪政）；其对英国的影响是舆论与改革，而非暴动号召。"
+    },
+    {
+     "claim": "潘恩主张无政府",
+     "why": "他主张代议制政府与成文宪法，是有政府的共和主义，不是无政府主义。"
+    }
+   ],
+   "sources": [
+    "ws-en-paine-rights",
+    "sep-paine",
+    "sep-burke"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1791
   },
   {
    "id": "work-vindication-rights-woman",

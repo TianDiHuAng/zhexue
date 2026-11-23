@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 809,
+  "entries": 813,
   "by_level": {
-   "L2": 667,
-   "L1": 142
+   "L2": 670,
+   "L1": 143
   },
   "doctrine": {
-   "total": 228,
-   "detail": 228,
+   "total": 229,
+   "detail": 229,
    "auto": 0
   },
-  "needs_verification": 142,
-  "sources": 350,
-  "sources_verified": 350
+  "needs_verification": 143,
+  "sources": 355,
+  "sources_verified": 355
  },
  "units": [
   {
@@ -137,10 +137,10 @@
    "unit_id": "gr-modern",
    "title": "近代理性论与经验论",
    "region": "west",
-   "philosophers": 32,
+   "philosophers": 33,
    "concepts": 18,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -24"
+   "philosophers_slot": "8 上限，余 -25"
   }
  ],
  "entries": [
@@ -2702,8 +2702,8 @@
    "title": "边沁",
    "container": "gr-19c",
    "level": "L2",
-   "sources": 2,
-   "verified_sources": 2,
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -5997,6 +5997,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-modern-paine",
+   "type": "philosopher",
+   "title": "潘恩",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-modern-idea",
    "type": "concept",
    "title": "观念",
@@ -7218,6 +7229,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-utopia",
+   "type": "work",
+   "title": "《乌托邦》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-kunzhi-ji",
    "type": "work",
    "title": "《困知记》",
@@ -7746,6 +7768,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-introduction-morals",
+   "type": "work",
+   "title": "《道德与立法原理导论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-critique-judgment",
    "type": "work",
    "title": "《判断力批判》",
@@ -7753,6 +7786,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-rights-of-man",
+   "type": "work",
+   "title": "《人权论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },

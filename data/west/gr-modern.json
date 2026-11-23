@@ -5021,6 +5021,146 @@
      "note": "1776 年"
     }
    ]
+  },
+  {
+   "id": "gr-modern-paine",
+   "name": "潘恩",
+   "latin": "Thomas Paine",
+   "birth_year": 1737,
+   "death_year": 1809,
+   "birth_display": "1737年",
+   "death_display": "1809年",
+   "birth_note": "据其传记材料：生于英格兰诺福克，父为制胸衣匠。",
+   "death_note": "1809年卒于纽约。",
+   "era": "18世纪末。潘恩以《常识》推动北美独立、以《人权论》反驳柏克：他以“天赋权利”与“公民权利”的区分为政治正当性的根据，主张以成文宪法与代议制取代世袭君主制。",
+   "school": "自然权利论（激进共和主义）",
+   "core_questions": [
+    "权利的根据是什么？",
+    "代议制优于世袭制吗？",
+    "宪政如何成立？"
+   ],
+   "arguments": [
+    {
+     "claim": "天赋权利与公民权利的区分：前者在先，后者由前者派生",
+     "premises": [
+      "人在自然状态下保有天赋权利（思想、信仰、自保）。",
+      "进入社会后，人以其部分天赋权利换取公民权利。"
+     ],
+     "inference": "若公民权利的正当性来自它对天赋权利的保护，则政府的合法性须以其保障天赋权利为准；故暴政可以被抵抗。",
+     "conclusion": "天赋权利先于政府，政府以保护其为正当性的条件。",
+     "kind": "原文"
+    },
+    {
+     "claim": "代议制优于世袭君主制：世袭制无任何可辩护的根据",
+     "premises": [
+      "世袭的把戏只有两种：抽签与继承——而世袭是两者中最坏的一种（它不容选择）。",
+      "代议制使政治才能成为可被检验的标准。"
+     ],
+     "inference": "若政治权力须由可检验的根据产生，则世袭制无从辩护；故代议制是唯一可被合理化的政体。",
+     "conclusion": "代议制优于世袭制，且宪法须先于政府（政府是宪法的产物）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《常识》《人权论》《理性时代》《土地正义论》",
+     "edition": "《常识》中译参商务印书馆（若有）；英文维基文库 Rights of Man 全文",
+     "note": "1776；1791—92；1794；1797"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "洛克与自然权利传统",
+     "id": "gr-modern-locke",
+     "note": "天赋权利的框架"
+    },
+    {
+     "name": "卢梭与人民主权",
+     "id": "gr-modern-rousseau",
+     "note": "主权在民"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "伯克与保守主义（其论战对手）",
+     "id": "gr-modern-burke",
+     "note": "以传统与世代合伙反对抽象权利"
+    },
+    {
+     "name": "近代宪政与成文宪法",
+     "id": null,
+     "note": "宪法先于政府的原则"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "柏克",
+     "view": "以“抽象权利”为基础的革命论必然摧毁历史积累的秩序；《人权论》是“无知者的法典”。",
+     "response": "潘恩一系的回应是：世代合伙论取消了当代人的自主权；权利若非先于政府，则政府作恶无由被抵抗。",
+     "kind": "原文",
+     "sources": [
+      "sep-paine",
+      "sep-burke"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "潘恩是“无神论者”",
+     "why": "他是自然神论者（《理性时代》批评启示宗教与教会，但主张“理性的宗教”）。"
+    },
+    {
+     "claim": "《常识》只是宣传册",
+     "why": "它以“世袭制无根据”“宪法先于政府”等论证构成系统的政治哲学。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>潘恩：天赋权利与代议制</text><defs><marker id='aPA' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>天赋权利在政府之先</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>政府以保护其为正当条件</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故暴政可被抵抗</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故代议制优于世袭制</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aPA)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aPA)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "潘恩：天赋权利与代议制的论证（示意图）",
+   "sources": [
+    "sep-paine",
+    "ws-en-paine-rights",
+    "sep-burke"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "潘恩以天赋权利与公民权利的区分为政治正当性的根据：人在自然状态下保有天赋权利，进入社会后以其换取公民权利；故政府若侵害天赋权利，其合法性即已丧失，抵抗成为正当。他又以此论证代议制优于世袭制：世袭的根据只有抽签与继承，而世袭是两者中最坏的一种；且宪法须先于政府。",
+    "system": [
+     {
+      "name": "天赋权利",
+      "content": "思想、信仰、自保等权利先于政府存在；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "公民权利",
+      "content": "由天赋权利派生，以保障前者为目的；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "代议制",
+      "content": "以可检验的才能为标准，取代无根据的世袭。"
+     },
+     {
+      "name": "宪法先于政府",
+      "content": "政府是宪法的产物，故宪法不是政府的作品。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "诺福克、费城与纽约（1737—1809）",
+      "change": "1774 年赴美；1776 年《常识》；参加法国大革命，1792 年入法国国民公会；1791—92 年《人权论》回应柏克；晚年返美。"
+     }
+    ],
+    "reception": "《常识》直接推动了北美独立的舆论；《人权论》是18世纪最畅销的政治论著之一；其成文宪法与代议制的主张影响了近代宪政；与柏克的论战是保守主义与激进主义分道的标志性文本。"
+   },
+   "works_detail": [
+    {
+     "title": "《人权论》",
+     "structure": "两部分：第一部分驳柏克对法国革命的批评并提出天赋权利说；第二部分论宪法与代议制，附《土地正义论》的主张。",
+     "core_thesis": "天赋权利；代议制；宪法先于政府。",
+     "editions": "英文维基文库全文；中译参商务印书馆（若有）",
+     "note": "1791—1792 年"
+    }
+   ]
   }
  ],
  "concepts": [

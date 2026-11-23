@@ -124,3 +124,6 @@ Project Gutenberg 会整体返回 503（已遇两次：Anselm、第81轮五个�
 3. `thelatinlibrary.com`（拉丁原文，配索引页检索）
 4. `la.wikisource.org`（拉丁，用 search API 找确切标题）
 Perseus（`per-*`）对该 UA 一律 403，不可用。
+
+## D31 precheck 的盲区：重复建人
+`precheck_src.require()` 只能校验 id **存在**，无法发现"同一人物被建成两个 id"（第85轮的边沁：`gr-19c-bentham` 与 `gr-modern-bentham` 并存）。防法是 F 步体检的**标题去重**（扫描全站 `<title>`）＋生成前的单元内同名检查。今后新增人物前须先 grep 全站 `data/*/*.json` 的中文名，而不只是 id。
