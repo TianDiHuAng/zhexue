@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1064,
+  "entries": 1068,
   "by_level": {
    "L2": 786,
-   "L1": 278
+   "L1": 282
   },
   "doctrine": {
    "total": 248,
    "detail": 248,
    "auto": 0
   },
-  "needs_verification": 278,
-  "sources": 389,
-  "sources_verified": 389
+  "needs_verification": 282,
+  "sources": 391,
+  "sources_verified": 391
  },
  "units": [
   {
@@ -10815,6 +10815,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-tianyan-lun",
+   "type": "work",
+   "title": "《天演论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-logical-investigations",
    "type": "work",
    "title": "《逻辑研究》",
@@ -10878,6 +10889,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-dongxi-wenhua",
+   "type": "work",
+   "title": "《东西文化及其哲学》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -11372,6 +11394,28 @@
    "level": "L1",
    "sources": 4,
    "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-geyi",
+   "type": "comparative",
+   "title": "格义的不对称：佛教概念进入汉语时发生了什么",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-xing-mudi",
+   "type": "comparative",
+   "title": "性、功能与目的：孟子、亚里士多德与阿奎那的三种“成”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 5,
+   "verified_sources": 5,
    "needs_verification": true,
    "updated": "2026-11-23"
   },

@@ -15036,6 +15036,63 @@
    "sort_year": 1897
   },
   {
+   "id": "work-tianyan-lun",
+   "title": "《天演论》",
+   "title_original": "Evolution and Ethics（严复译）",
+   "tradition": "china",
+   "date_display": "1898年（严复译述赫胥黎）",
+   "structure": "上下卷（导言十八篇、论十七篇）：以赫胥黎《进化论与伦理学》为底本，加大量按语。",
+   "core_arguments": [
+    "“物竞天择，适者生存”：以进化论解释自然与社会的竞争",
+    "“以人持天”：人不应只顺天演，而应以人力“与天争胜”（此点为严复加入）",
+    "以“群”为进化单位：合群则强，散群则弱"
+   ],
+   "key_points": [
+    {
+     "locator": "导言一《察变》",
+     "point": "物竞天择"
+    },
+    {
+     "locator": "导言十五《最旨》",
+     "point": "以人持天"
+    },
+    {
+     "locator": "论十七",
+     "point": "群与进化"
+    },
+    {
+     "locator": "按语",
+     "point": "严复的引申与赫胥黎原意的差异"
+    }
+   ],
+   "editions": [
+    "商务印书馆《天演论》（严复译）；《严复集》本（中华书局）"
+   ],
+   "related_people": [
+    "cn-qingmod-yan-fu",
+    "cn-qingmod-kang-youwei",
+    "cn-qingmod-kang-youwei"
+   ],
+   "misreadings": [
+    {
+     "claim": "《天演论》是赫胥黎书的忠实译本",
+     "why": "它是**译述**：严复加入大量按语，且其“以人持天”的结论与赫胥黎原书（主张伦理进步不同于宇宙过程）有实质差异；故它是严复的著作，不是译本。"
+    },
+    {
+     "claim": "“物竞天择”是严复的原创",
+     "why": "该词源自《物种起源》的进化论，经严复凝练为八个字；其独创在**把进化论用于“群”的政治论**。"
+    }
+   ],
+   "sources": [
+    "ws-tianyan-lun",
+    "ws-dongxi-wenhua",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《天演论》为译述而非严格译本，其与赫胥黎原著（Evolution and Ethics, 1893）的差异须对读；本页依《严复集》与通行本概述。",
+   "sort_year": 1898
+  },
+  {
    "id": "work-logical-investigations",
    "title": "《逻辑研究》",
    "title_original": "Logische Untersuchungen",
@@ -15370,6 +15427,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1921
+  },
+  {
+   "id": "work-dongxi-wenhua",
+   "title": "《东西文化及其哲学》",
+   "title_original": "東西文化及其哲學",
+   "tradition": "china",
+   "date_display": "1921年（梁漱溟）",
+   "structure": "五章：绪论、如何是东方化与西方化、西洋中国印度三方哲学之比观、世界未来之文化与我们今日应持的态度等。",
+   "core_arguments": [
+    "文化的根源在“意欲”的方向：西方向前、中国调和、印度向后",
+    "三种路向不是阶段的高低，而是**方向的不同**",
+    "结论：世界未来将走“中国路向”（调和、直觉、伦理）"
+   ],
+   "key_points": [
+    {
+     "locator": "第二章",
+     "point": "三种路向"
+    },
+    {
+     "locator": "第三章",
+     "point": "三方哲学之比观"
+    },
+    {
+     "locator": "第四章",
+     "point": "中国文化的“调和”与“理性”"
+    },
+    {
+     "locator": "第五章",
+     "point": "未来文化的取舍"
+    }
+   ],
+   "editions": [
+    "商务印书馆《东西文化及其哲学》；《梁漱溟全集》本（山东人民出版社）"
+   ],
+   "related_people": [
+    "cn-qingmod-yan-fu",
+    "cn-qingmod-kang-youwei",
+    "cn-qingmod-tan-sitong"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“中体西用”的翻版",
+     "why": "它不以“体用”分中西，而以**意欲的方向**分三种路向，且主张未来是“中国路向”的复兴——这与“中体西用”的防御性立场不同。"
+    },
+    {
+     "claim": "三种路向是进化阶段",
+     "why": "梁漱溟明确说三者是**方向**（不是高低阶段）；其“未来是中国路向”也不是“进步必然”，而是他的判断。"
+    }
+   ],
+   "sources": [
+    "ws-dongxi-wenhua",
+    "ws-mingru-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《东西文化及其哲学》是梁漱溟1920—21年的讲演整理，其“三种路向”说在后续著作（《中国文化要义》）中有修正；本页依商务印书馆本与梁漱溟研究概述。",
    "sort_year": 1921
   },
   {
