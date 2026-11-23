@@ -4387,6 +4387,163 @@
      "note": "1964 年"
     }
    ]
+  },
+  {
+   "id": "gr-20c-bloch",
+   "name": "布洛赫",
+   "latin": "Ernst Bloch",
+   "birth_year": 1885,
+   "death_year": 1977,
+   "birth_display": "1885年",
+   "death_display": "1977年",
+   "birth_note": "据其传记：生于路德维希港犹太工人家庭，师从西美尔与韦伯，1933年流亡，1949—1961年任教莱比锡，1961年后定居图宾根。",
+   "death_note": "1977年卒于图宾根。",
+   "era": "20世纪。布洛赫以“尚未”（Noch-Nicht）为核心：存在不是现成的，而是**尚未完成**的；故“希望”不是心理状态，而是本体论的范畴——它是存在向前敞开的形态。其《希望的原理》以百科全书式的篇幅搜罗人类文化中的“乌托邦痕迹”（白日梦、童话、音乐、建筑），以证明“尚未存在”的实在性。他被称为“马克思主义的灵知者”，与法兰克福学派关系密切而立场不同。",
+   "school": "西方马克思主义（希望哲学与乌托邦本体论）",
+   "core_questions": [
+    "存在是现成的还是尚未的？",
+    "希望是心理的还是本体论的？",
+    "乌托邦是幻想还是认识的通道？"
+   ],
+   "arguments": [
+    {
+     "claim": "尚未存在（Noch-Nicht-Sein）：存在是未完成的",
+     "premises": [
+      "通常形而上学以“现成的存在”为对象。",
+      "但人所经验的世界总带着“还未如此”的敞开。"
+     ],
+     "inference": "若存在本身有“尚未”的维度，则最根本的范畴不是“已是的实体”，而是**可能性与前趋**；故本体论须以“尚未”为核心，而非以“现成”为核心。",
+     "conclusion": "存在是未完成的：尚未存在是其最本己的维度（此说颠倒了以现成性为本的形而上学）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "乌托邦的痕迹：文化中的“前显”（Vor-Schein）",
+     "premises": [
+      "艺术、音乐、童话中反复出现对“更好的世界”的描绘。",
+      "这些描绘不是任意的虚构，而是对尚未存在的**预先显现**。"
+     ],
+     "inference": "若这些描绘能被辨认出共同的结构，则它们不是幻想，而是**认识的通道**——通过它们，尚未存在在此刻显形。故文化批评可以是本体论的工作。",
+     "conclusion": "乌托邦在前显中显形，故它是认识的通道（此说给“希望”以认识论地位）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《乌托邦的精神》《希望的原理》《踪迹》《主体—客体》",
+     "edition": "《希望的原理》中译参（若有）；德文 Suhrkamp 版；英文 MIT Press 译本",
+     "note": "1918；1954—59；1930；1951"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "马克思（其接受）",
+     "id": null,
+     "note": "以“未实现的解放”为其问题"
+    },
+    {
+     "name": "黑格尔（其改造）",
+     "id": null,
+     "note": "以辩证法为其“尚未”的结构资源"
+    },
+    {
+     "name": "犹太教弥赛亚思想与神秘主义",
+     "id": null,
+     "note": "以“尚未到来者”为其底色"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "本雅明（同代人）",
+     "id": "gr-20c-benjamin",
+     "note": "以“救赎”与“当下”与其呼应"
+    },
+    {
+     "name": "解放神学与希望神学",
+     "id": null,
+     "note": "以“希望的原理”为神学资源"
+    },
+    {
+     "name": "当代的乌托邦研究与“预兆”美学",
+     "id": null,
+     "note": "以“前显”为分析工具"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "阿多诺（其友与批评者）",
+     "view": "以“具体的乌托邦”易流于抽象的许诺，且其“尚未”缺乏否定性的锋芒。",
+     "response": "布洛赫一系的回应是：“尚未”本身就是否定性的（它否证“现成即是全部”），故其乌托邦不是许诺，而是对现状的**否定性超越**。",
+     "kind": "原文",
+     "sources": [
+      "sep-bloch",
+      "sep-adorno"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "布洛赫是“乐观主义的梦想家”",
+     "why": "其“希望”不是乐观情绪，而是**本体论的范畴**（尚未存在）；其著作同时充满对“黑暗与死亡”的直面（《踪迹》）。"
+    },
+    {
+     "claim": "“乌托邦”在他那里是蓝图",
+     "why": "他明确反对蓝图式的乌托邦（那仍是“现成”的思维）；其“具体的乌托邦”指**在过程中被趋近**的开放形态。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>布洛赫：尚未存在与前显</text><defs><marker id='aEB' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>存在总有“还未如此”的敞开</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故尚未存在是其最本己维度</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故希望是本体论范畴</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故乌托邦在前显中显形</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aEB)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aEB)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "布洛赫：“尚未存在”与乌托邦前显的结构（示意图）",
+   "sources": [
+    "sep-bloch",
+    "sep-marx",
+    "sep-benjamin"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页依 SEP 词条与《希望的原理》通行英译概述；布洛赫与法兰克福学派的关系（既亲近又保持距离）须核其传记与阿多诺的相关文字。",
+   "doctrine": {
+    "summary": "布洛赫以“尚未存在”（Noch-Nicht-Sein）为核心：存在不是现成的，而是尚未完成的，故最根本的范畴是可能性与前趋，而非已是的实体。他又以“前显”（Vor-Schein）说明乌托邦：艺术、音乐、童话中对“更好的世界”的描绘不是任意虚构，而是对尚未存在的预先显现，故文化批评可以是本体论的工作。其“希望”因此不是心理状态，而是本体论的范畴。",
+    "system": [
+     {
+      "name": "尚未存在",
+      "content": "存在未完成，尚未是其最本己的维度；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "前显（Vor-Schein）",
+      "content": "乌托邦在艺术与童话中的预先显现；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "具体的乌托邦",
+      "content": "在过程中被趋近的开放形态，不是蓝图；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "黑暗的当下（Dunkel des gelebten Augenblicks）",
+      "content": "当下总有一层未被照亮的暗；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "路德维希港、莱比锡与图宾根（1885—1977）",
+      "change": "生于路德维希港；师从西美尔、韦伯；1918 年《乌托邦的精神》；1933 年流亡（瑞士、美国）；1949 年任莱比锡大学哲学教授；1961 年因政治压力未随墙迁居西德，任教图宾根；1977 年卒。"
+     }
+    ],
+    "reception": "《希望的原理》影响了希望神学（莫尔特曼）、乌托邦研究与“预兆”美学；布洛赫被视为20世纪最重要的马克思主义形而上学之一；其“尚未”说在当代的“未来哲学”与“思辨实在论”讨论中被重新提起。"
+   },
+   "works_detail": [
+    {
+     "title": "《希望的原理》",
+     "structure": "三卷（五部分）：论“尚未”、前显、乌托邦痕迹（白日梦、童话、音乐、建筑、地理）、以及“具体的乌托邦”与“至高的善”。",
+     "core_thesis": "希望是本体论范畴；存在尚未完成。",
+     "editions": "德文 Suhrkamp 版；英文 MIT Press 译本（The Principle of Hope）",
+     "note": "1954—1959 年"
+    },
+    {
+     "title": "《乌托邦的精神》",
+     "structure": "含《关于音乐哲学》《关于未建构的世界》等篇；以“自我相遇”与“弥赛亚的暗”为线索。",
+     "core_thesis": "乌托邦精神指向尚未存在；这是该书的核心命题。",
+     "editions": "德文 Suhrkamp 版；英文 MIT Press 译本（The Spirit of Utopia）",
+     "note": "1918 年初版，1923 年修订"
+    }
+   ]
   }
  ],
  "concepts": [

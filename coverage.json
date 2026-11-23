@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1074,
+  "entries": 1078,
   "by_level": {
    "L2": 786,
-   "L1": 288
+   "L1": 292
   },
   "doctrine": {
-   "total": 253,
-   "detail": 253,
+   "total": 254,
+   "detail": 254,
    "auto": 0
   },
-  "needs_verification": 288,
-  "sources": 395,
-  "sources_verified": 395
+  "needs_verification": 292,
+  "sources": 396,
+  "sources_verified": 396
  },
  "units": [
   {
@@ -83,10 +83,10 @@
    "unit_id": "gr-20c",
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
-   "philosophers": 29,
+   "philosophers": 30,
    "concepts": 28,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -21"
+   "philosophers_slot": "8 上限，余 -22"
   },
   {
    "unit_id": "gr-ancient",
@@ -4240,6 +4240,17 @@
    "id": "gr-20c-marcuse",
    "type": "philosopher",
    "title": "马尔库塞",
+   "container": "gr-20c",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-bloch",
+   "type": "philosopher",
+   "title": "布洛赫",
    "container": "gr-20c",
    "level": "L1",
    "sources": 3,
@@ -10936,6 +10947,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-geist-utopie",
+   "type": "work",
+   "title": "《乌托邦的精神》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-tractatus",
    "type": "work",
    "title": "《逻辑哲学论》",
@@ -11064,6 +11086,17 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-prinzip-hoffnung",
+   "type": "work",
+   "title": "《希望的原理》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -11482,6 +11515,17 @@
    "level": "L1",
    "sources": 5,
    "verified_sources": 5,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-hope",
+   "type": "comparative",
+   "title": "希望的两种结构：布洛赫的“尚未”与《易》的“生生”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-23"
   },

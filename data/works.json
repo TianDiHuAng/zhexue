@@ -15372,6 +15372,63 @@
    "sort_year": 1916
   },
   {
+   "id": "work-geist-utopie",
+   "title": "《乌托邦的精神》",
+   "title_original": "Geist der Utopie",
+   "tradition": "west",
+   "date_display": "1918年（1923年修订，布洛赫）",
+   "structure": "含《关于音乐哲学》《关于未建构的世界》《关于“自我相遇”》等篇，末章论“弥赛亚的暗”。",
+   "core_arguments": [
+    "乌托邦精神指向尚未存在",
+    "音乐是最能表达“前趋”的艺术",
+    "“自我相遇”是内在性的失败与向外超越的起点"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "乌托邦精神"
+    },
+    {
+     "locator": "《关于音乐哲学》",
+     "point": "音乐与前趋"
+    },
+    {
+     "locator": "《关于未建构的世界》",
+     "point": "未建构的世界"
+    },
+    {
+     "locator": "末章",
+     "point": "弥赛亚的暗"
+    }
+   ],
+   "editions": [
+    "德文 Suhrkamp 版；英文 MIT Press 译本（The Spirit of Utopia）"
+   ],
+   "related_people": [
+    "gr-20c-bloch",
+    "gr-20c-benjamin",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《希望的原理》的缩本",
+     "why": "它是**早期**著作（1918），以音乐与“自我相遇”为入口，风格近于表现主义；《希望的原理》是后来的系统展开，二者结构与语调均不同。"
+    },
+    {
+     "claim": "其“弥赛亚的暗”是神学教义",
+     "why": "它是一个**界限概念**：指尚未被照亮、不可对象化的终极处境，故其用法是哲学的而非教义的。"
+    }
+   ],
+   "sources": [
+    "sep-bloch",
+    "sep-benjamin",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《乌托邦的精神》1918 年初版与 1923 年修订本差异很大（后者几乎重写）；本页依英译本与 SEP 词条概述，版本差异须核。",
+   "sort_year": 1918
+  },
+  {
    "id": "work-tractatus",
    "title": "《逻辑哲学论》",
    "title_original": "Logisch-philosophische Abhandlung (Tractatus)",
@@ -16048,6 +16105,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "本书为未完成遗著，附录工作笔记中的构想（“肉身的存在论”）与正文的完成度不一致，引用须注明是其构想而非定论。",
+   "sort_year": 1959
+  },
+  {
+   "id": "work-prinzip-hoffnung",
+   "title": "《希望的原理》",
+   "title_original": "Das Prinzip Hoffnung",
+   "tradition": "west",
+   "date_display": "1954—1959年（布洛赫）",
+   "structure": "三卷五部分：①论“尚未”与“前显”；②乌托邦的白日梦；③乌托邦的童话与神话；④乌托邦的建筑与地理；⑤“具体的乌托邦”与至高的善。",
+   "core_arguments": [
+    "存在是尚未完成的，故“希望”是本体论的范畴",
+    "“前显”使乌托邦在文化中显形",
+    "“具体的乌托邦”不是蓝图，而是在过程中被趋近的开放形态"
+   ],
+   "key_points": [
+    {
+     "locator": "第一卷",
+     "point": "尚未与黑暗的当下"
+    },
+    {
+     "locator": "第二卷",
+     "point": "白日梦的层次"
+    },
+    {
+     "locator": "第三—四卷",
+     "point": "文化中的乌托邦痕迹"
+    },
+    {
+     "locator": "第五卷",
+     "point": "具体的乌托邦与至高的善"
+    }
+   ],
+   "editions": [
+    "德文 Suhrkamp 版；英文 MIT Press 译本（The Principle of Hope，3 vols）"
+   ],
+   "related_people": [
+    "gr-20c-bloch",
+    "gr-19c-marx",
+    "gr-20c-benjamin"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是一部“乐观主义的书”",
+     "why": "它同时直面“黑暗的当下”（Dunkel des gelebten Augenblicks）与死亡；其“希望”是对未完成的**认知**，不是情绪上的乐观。"
+    },
+    {
+     "claim": "它主张有蓝图式的理想社会",
+     "why": "它明确反对蓝图（那仍是“现成”的思维）；“具体的乌托邦”指开放的、在过程中被趋近的形态。"
+    }
+   ],
+   "sources": [
+    "sep-bloch",
+    "sep-marx",
+    "sep-benjamin"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《希望的原理》篇幅巨大，其中译与英译均有删节；本页依英译本（MIT Press）与 SEP 词条概述，具体章节的篇目须核德文原版。",
    "sort_year": 1959
   },
   {
