@@ -5928,6 +5928,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-sympathy-smith",
+   "term": "同情（斯密）",
+   "term_latin": "sympathy",
+   "definition": "斯密的道德心理学概念：我们通过**想象**自己处于他人处境而感受其情感。它不是“怜悯”，也不是“自利”，而是道德判断得以可能的机制（与“公正的旁观者”配合）。",
+   "usages": [
+    {
+     "name": "斯密",
+     "id": "gr-modern-smith",
+     "usage": "同情是想象的换位：我们以“如果我是他”来感受。"
+    },
+    {
+     "name": "休谟（对照）",
+     "id": "gr-modern-hume",
+     "usage": "以同情为情感的“传染”：情感本身在人与人之间传递。"
+    },
+    {
+     "name": "叔本华（改造，对照）",
+     "usage": "以同情为道德的唯一根据（“一切真正的道德都源于同情”）。"
+    }
+   ],
+   "related": [
+    "gr-modern-moral-sense",
+    "gr-modern-passions"
+   ],
+   "example": {
+    "text": "斯密的“同情”有一个精细之处：我们同情的不是他人的**处境**，而是他人在该处境中的**情感**——故一个疯子受刑，我们不为其痛苦而同情，因为他不感到痛苦。这一区分使同情成为可校正的判断机制。",
+    "figure": "斯密",
+    "locator": "《道德情操论》I.i.1"
+   },
+   "sources": [
+    "iep-smith",
+    "ws-en-wealth-nations",
+    "sep-hume"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

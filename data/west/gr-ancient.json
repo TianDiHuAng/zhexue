@@ -3589,6 +3589,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-philia",
+   "term": "友爱（philia）",
+   "term_latin": "philia",
+   "definition": "亚里士多德的“友爱”：不只指情感，而是**相互的善意**（eunoia）且彼此知晓。他分三类：以有用、以快乐、以德性——唯以德性的友爱是“完善的”，因其以对方自身为目的。",
+   "usages": [
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "完善的友爱以德性为基础，故持久；它需要时间与共同生活。"
+    },
+    {
+     "name": "柏拉图（对照）",
+     "id": "gr-ancient-plato",
+     "usage": "以爱若斯（erōs）为上升的动力（《会饮》），与 philia 的相互性不同。"
+    },
+    {
+     "name": "斯多亚（改造）",
+     "usage": "以“亲缘化”解释一切人际善意，友爱是其中的一环。"
+    }
+   ],
+   "related": [
+    "gr-ancient-arete",
+    "gr-ancient-eudaimonia"
+   ],
+   "example": {
+    "text": "亚里士多德说“完善的友爱需要时间与共同生活”：这不是修辞，而是其论证的一部分——因为只有长期相处才能认识对方的德性，故“一见如故”的友爱多为以快乐或有用为基础的。",
+    "figure": "亚里士多德",
+    "locator": "《尼各马可伦理学》VIII.3—VIII.6"
+   },
+   "sources": [
+    "sep-aristotle",
+    "sep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

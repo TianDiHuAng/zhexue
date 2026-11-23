@@ -3910,6 +3910,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-anticipatory-resolution",
+   "term": "先行决断",
+   "term_latin": "vorlaufende Entschlossenheit",
+   "definition": "海德格尔的本真性概念：此在“先行到死”，从而把死亡收回为己有，并在此有限性中承担自己的能在。它不是“勇敢地面对死亡”，而是**让整体性在生存中显现**。",
+   "usages": [
+    {
+     "name": "海德格尔",
+     "id": "gr-20c-heidegger",
+     "usage": "先行决断使此在从“常人”的沉沦中收回，成为本真的能在。"
+    },
+    {
+     "name": "萨特（对照）",
+     "id": "gr-20c-sartre",
+     "usage": "以“自由选择”为本真，不设“先行到死”的结构。"
+    },
+    {
+     "name": "雅斯贝尔斯（平行）",
+     "id": "gr-20c-jaspers",
+     "usage": "以“临界处境”使存在被照亮，语汇不同而问题相近。"
+    }
+   ],
+   "related": [
+    "gr-20c-being-toward-death",
+    "gr-20c-das-man"
+   ],
+   "example": {
+    "text": "“先行决断”有一个悖论式的结构：它要求此在把**最不可能的可能性**（死亡）当作自己的可能性来承担——故本真性不是“活得更好”，而是“以有限的方式活”。这一结构使海德格尔的本真性区别于任何“自我实现”的伦理学。",
+    "figure": "海德格尔",
+    "locator": "《存在与时间》§62—§64"
+   },
+   "sources": [
+    "sep-heidegger",
+    "sep-sartre"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

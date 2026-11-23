@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 868,
+  "entries": 877,
   "by_level": {
-   "L2": 711,
-   "L1": 157
+   "L2": 718,
+   "L1": 159
   },
   "doctrine": {
    "total": 229,
    "detail": 229,
    "auto": 0
   },
-  "needs_verification": 157,
+  "needs_verification": 159,
   "sources": 355,
   "sources_verified": 355
  },
@@ -66,7 +66,7 @@
    "title": "先秦诸子",
    "region": "china",
    "philosophers": 12,
-   "concepts": 22,
+   "concepts": 24,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -84,7 +84,7 @@
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
    "philosophers": 21,
-   "concepts": 21,
+   "concepts": 22,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -13"
   },
@@ -93,7 +93,7 @@
    "title": "古希腊哲学",
    "region": "west",
    "philosophers": 19,
-   "concepts": 21,
+   "concepts": 22,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -138,7 +138,7 @@
    "title": "近代理性论与经验论",
    "region": "west",
    "philosophers": 33,
-   "concepts": 20,
+   "concepts": 21,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -25"
   }
@@ -2708,6 +2708,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-xianqin-zuowang",
+   "type": "concept",
+   "title": "坐忘",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-li-lun",
+   "type": "concept",
+   "title": "礼三本",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-xianqin-human-nature",
    "type": "debate",
    "title": "人性善恶之争",
@@ -3720,6 +3742,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-anticipatory-resolution",
+   "type": "concept",
+   "title": "先行决断",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-20c-metaphysics-meaning",
    "type": "debate",
    "title": "形而上学命题是否有认知意义",
@@ -4244,6 +4277,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-ancient-philia",
+   "type": "concept",
+   "title": "友爱（philia）",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -6613,6 +6657,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-modern-sympathy-smith",
+   "type": "concept",
+   "title": "同情（斯密）",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-modern-innate-controversy",
    "type": "debate",
    "title": "天赋观念是否存在",
@@ -7075,6 +7130,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-dazongshi",
+   "type": "work",
+   "title": "《庄子·大宗师》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-mengzi-jinxin",
+   "type": "work",
+   "title": "《孟子·尽心上》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-tianxia-pian",
    "type": "work",
    "title": "《庄子·天下篇》",
@@ -7100,6 +7177,17 @@
    "id": "work-tianlun",
    "type": "work",
    "title": "《荀子·天论》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-lilun",
+   "type": "work",
+   "title": "《荀子·礼论》",
    "container": "china",
    "level": "L2",
    "sources": 3,
@@ -9217,6 +9305,17 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-ideal-person",
+   "type": "comparative",
+   "title": "真人、圣人与智者：三种理想人格的构成",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

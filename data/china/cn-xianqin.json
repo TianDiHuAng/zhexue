@@ -2880,6 +2880,81 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-zuowang",
+   "term": "坐忘",
+   "term_latin": "sitting in forgetfulness",
+   "definition": "《庄子·大宗师》的修养境界（颜回述其进境）：忘仁义、忘礼乐，终至“堕肢体，黜聪明，离形去知，同于大通”。它不是遗忘事物，而是**去掉以“知”与“形”为中介的对待方式**。",
+   "usages": [
+    {
+     "name": "庄子（借颜回之口）",
+     "id": "cn-xianqin-zhuangzi",
+     "usage": "“离形去知，同于大通，此谓坐忘。”"
+    },
+    {
+     "name": "孔子（对话中的回应者）",
+     "id": "cn-xianqin-kongzi",
+     "usage": "“同则无好也，化则无常也”：庄子借孔子之口承认颜回之进。"
+    },
+    {
+     "name": "宋明理学（改造）",
+     "usage": "以“静坐”为工夫（陈献章、刘宗周），但与“坐忘”的“去知”取向不同。"
+    }
+   ],
+   "related": [
+    "cn-xianqin-wuwei",
+    "cn-xianqin-dao"
+   ],
+   "example": {
+    "text": "“坐忘”的次序值得注意：先忘仁义（社会的规范），再忘礼乐（文化的形式），最后“离形去知”（去掉身体与认知的中介）——故它是**层层剥落**，不是获得某种新境界。",
+    "figure": "庄子",
+    "locator": "《庄子·大宗师》"
+   },
+   "sources": [
+    "ct-zhuangzi",
+    "ct-daodejing",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-li-lun",
+   "term": "礼三本",
+   "term_latin": "the three roots of ritual",
+   "definition": "《荀子·礼论》的命题：“礼有三本：天地者，生之本也；先祖者，类之本也；君师者，治之本也。”它把礼的根据分为宇宙论的、血缘的与政治的三个层次。",
+   "usages": [
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "usage": "“三者偏亡，焉无安人”：三本缺一则人无以安。"
+    },
+    {
+     "name": "孔子",
+     "id": "cn-xianqin-kongzi",
+     "usage": "以礼为“仁”的形式，未作三本的分析。"
+    },
+    {
+     "name": "《礼记》（平行）",
+     "usage": "以“礼必本于太一”等表述给出类似的宇宙论根据。"
+    }
+   ],
+   "related": [
+    "cn-xianqin-li"
+   ],
+   "example": {
+    "text": "“三本”说是荀子对礼的**功能性辩护**：礼不是天赋的道德，而是维持群体生存（生、类、治）的必要形式。故其论证不是“礼合于天理”，而是“无礼则人不能安”——这一取向与其性恶论一致。",
+    "figure": "荀子",
+    "locator": "《荀子·礼论》"
+   },
+   "sources": [
+    "ct-xunzi",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [
