@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 770,
+  "entries": 774,
   "by_level": {
-   "L2": 638,
-   "L1": 132
+   "L2": 640,
+   "L1": 134
   },
   "doctrine": {
-   "total": 224,
-   "detail": 224,
+   "total": 225,
+   "detail": 225,
    "auto": 0
   },
-  "needs_verification": 132,
+  "needs_verification": 134,
   "sources": 335,
   "sources_verified": 335
  },
@@ -20,10 +20,10 @@
    "unit_id": "cn-lianghan",
    "title": "两汉经学与气论",
    "region": "china",
-   "philosophers": 15,
+   "philosophers": 16,
    "concepts": 14,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -7"
+   "philosophers_slot": "8 上限，余 -8"
   },
   {
    "unit_id": "cn-qingmod",
@@ -306,6 +306,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-sima-qian",
+   "type": "philosopher",
+   "title": "司马迁",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -6514,6 +6525,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-zhanguoce",
+   "type": "work",
+   "title": "《战国策》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-taixuan",
    "type": "work",
    "title": "《太玄》",
@@ -6836,6 +6858,17 @@
    "id": "work-zhiyan",
    "type": "work",
    "title": "《知言》",
+   "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-jinsilu",
+   "type": "work",
+   "title": "《近思录》",
    "container": "china",
    "level": "L2",
    "sources": 2,
@@ -8138,6 +8171,17 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-historians",
+   "type": "comparative",
+   "title": "史家作为哲学家：司马迁、修昔底德与奥古斯丁",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-23"
   },

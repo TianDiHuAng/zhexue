@@ -2542,6 +2542,62 @@
    "sort_year": -20
   },
   {
+   "id": "work-zhanguoce",
+   "title": "《战国策》",
+   "title_original": "戰國策",
+   "tradition": "china",
+   "date_display": "西汉刘向编定（前1世纪）；所记跨前5—前3世纪",
+   "structure": "三十三卷；分东周、西周、秦、齐、楚、赵、魏、韩、燕、宋卫、中山十二策，记纵横家的游说之辞。",
+   "core_arguments": [
+    "以“游说之辞”呈现政治：说服术本身成为政治分析的对象",
+    "“前事之不忘，后事之师”：以史事为论据的论证方式",
+    "纵横家的“时势”论：以利害与形势取代道义为游说根据"
+   ],
+   "key_points": [
+    {
+     "locator": "《秦策》",
+     "point": "连横之策与利害分析"
+    },
+    {
+     "locator": "《齐策》",
+     "point": "“画蛇添足”等寓言式论证"
+    },
+    {
+     "locator": "《楚策》",
+     "point": "纵横家的时势判断"
+    },
+    {
+     "locator": "刘向《序》",
+     "point": "编纂宗旨与“战国”之名的由来"
+    }
+   ],
+   "editions": [
+    "上海古籍出版社《战国策》点校本；《戰國策》（四部叢刊本）"
+   ],
+   "related_people": [
+    "cn-lianghan-liu-xiang",
+    "cn-xianqin-hanfei",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《战国策》是纵横家的著作",
+     "why": "它是刘向编定的史料汇编，所记为各国游说之辞，非一家之作；其立场随所记之人而变。"
+    },
+    {
+     "claim": "它是可靠的信史",
+     "why": "其中多有夸饰与拟托之作（如部分苏秦、张仪之辞），史料价值须逐条辨析。"
+    }
+   ],
+   "sources": [
+    "ws-zhanguoce",
+    "ws-shiji"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《战国策》各篇来源不一，含夸饰与拟托之作（如苏秦、张仪的部分言辞）；1973 年马王堆帛书《战国纵横家书》出土后，部分篇章的可靠性被重新讨论。",
+   "sort_year": -20
+  },
+  {
    "id": "work-taixuan",
    "title": "《太玄》",
    "title_original": "太玄經",
@@ -4218,6 +4274,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1150
+  },
+  {
+   "id": "work-jinsilu",
+   "title": "《近思录》",
+   "title_original": "近思錄",
+   "tradition": "china",
+   "date_display": "1175年",
+   "structure": "十四卷；分道体、为学、致知、存养、克治、家道、出处、治体、治法、政事、教学、警戒、辨异端、观圣贤十四门，辑周敦颐、二程、张载之语。",
+   "core_arguments": [
+    "以“道体”开篇、以“观圣贤”收束：理学的问题次序即修养的次序",
+    "四子之书的入门：以选辑代替注疏，使初学者有阶可循",
+    "“近思”之意：由切近处思起，不驰骛于高远"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一《道体》",
+     "point": "太极、理气、性命的基本命题"
+    },
+    {
+     "locator": "卷三《致知》",
+     "point": "格物穷理"
+    },
+    {
+     "locator": "卷四《存养》",
+     "point": "主敬与涵养"
+    },
+    {
+     "locator": "卷十三《辨异端》",
+     "point": "对佛老的判别"
+    }
+   ],
+   "editions": [
+    "朱熹、吕祖谦《近思录》中华书局；《近思錄》（四庫全書本）"
+   ],
+   "related_people": [
+    "cn-songming-zhu-xi",
+    "cn-songming-cheng-yi",
+    "cn-songming-zhang-zai"
+   ],
+   "misreadings": [
+    {
+     "claim": "《近思录》是朱熹的著作",
+     "why": "它是朱熹与吕祖谦共同选辑周、二程、张四家语录而成，非朱熹自撰。"
+    },
+    {
+     "claim": "它只是语录汇编",
+     "why": "十四卷的分类本身是一套理学的问题结构（道体→为学→致知→存养→克治→……），选辑即编排。"
+    }
+   ],
+   "sources": [
+    "ws-jinsilu",
+    "ws-xiangshan"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1175
   },
   {
    "id": "work-guide-perplexed",
