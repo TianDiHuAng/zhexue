@@ -633,6 +633,61 @@
    "sort_year": 250
   },
   {
+   "id": "work-baopuzi",
+   "title": "《抱朴子》",
+   "title_original": "抱朴子",
+   "tradition": "china",
+   "date_display": "约317年",
+   "structure": "内篇二十卷（神仙、炼丹、守一、方术），外篇五十卷（政事、世务、人物评论）。内外篇性质不同。",
+   "core_arguments": [
+    "玄为万物之始祖、万殊之大宗",
+    "神仙可学：守一与服食金丹",
+    "以史传与炼丹之效论证神仙实有"
+   ],
+   "key_points": [
+    {
+     "locator": "内篇《畅玄》",
+     "point": "“玄者，自然之始祖，而万殊之大宗也”"
+    },
+    {
+     "locator": "内篇《金丹》",
+     "point": "金丹的至上地位"
+    },
+    {
+     "locator": "内篇《对俗》",
+     "point": "论神仙可学"
+    },
+    {
+     "locator": "外篇《诘鲍》等",
+     "point": "政事与世务的评论"
+    }
+   ],
+   "editions": [
+    "王明《抱朴子内篇校释》中华书局",
+    "杨明照《抱朴子外篇校笺》中华书局"
+   ],
+   "related_people": [
+    "cn-weijin-ge-hong"
+   ],
+   "misreadings": [
+    {
+     "claim": "《抱朴子》只是方术手册",
+     "why": "外篇大量讨论政事世务，是研究东晋社会与思想的重要文献。"
+    },
+    {
+     "claim": "葛洪认为人人可立即成仙",
+     "why": "他强调勤求、择师与长期修炼，承认资质与条件有别。"
+    }
+   ],
+   "sources": [
+    "ws-baopuzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 317
+  },
+  {
    "id": "work-zhaolun",
    "title": "《肇论》",
    "title_original": "肇論（Zhaolun）",
@@ -858,6 +913,114 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 659
+  },
+  {
+   "id": "work-yuandao",
+   "title": "《原道》",
+   "title_original": "原道",
+   "tradition": "china",
+   "date_display": "约805年",
+   "structure": "单篇论说文；先立“道”之名义与道统谱系，次论佛老之害，末申儒家伦常与先王之教。",
+   "core_arguments": [
+    "道统论：尧舜禹汤文武周公孔孟一系，孟子之后失传",
+    "佛老弃君臣父子、不事生产，破坏伦常与经济",
+    "当“人其人，火其书，庐其居”以复仁义之道"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "“博爱之谓仁，行而宜之之谓义”"
+    },
+    {
+     "locator": "中段",
+     "point": "道统谱系：尧→舜→…→孟子"
+    },
+    {
+     "locator": "后段",
+     "point": "佛老之害与先王之教的对比"
+    }
+   ],
+   "editions": [
+    "《韩昌黎文集校注》马其昶校注、马茂元整理，上海古籍出版社"
+   ],
+   "related_people": [
+    "cn-suitang-han-yu",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《原道》只是排佛的檄文",
+     "why": "它同时正面建立道统与仁义之说，是宋明理学自我理解的纲领。"
+    },
+    {
+     "claim": "道统谱系是朱熹首创",
+     "why": "谱系由韩愈明确提出，朱熹承之并系统化。"
+    }
+   ],
+   "sources": [
+    "ws-yuandao",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 805
+  },
+  {
+   "id": "work-guide-perplexed",
+   "title": "《迷途指津》",
+   "title_original": "Dalālat al-ḥāʾirīn（Guide of the Perplexed）",
+   "tradition": "west",
+   "date_display": "约1190年",
+   "structure": "三部分：论神与属性（否定神学）、论预言与天意、论律法的目的与诫命。以阿拉伯语写成，为“困惑者”而作。",
+   "core_arguments": [
+    "对神只能作否定性述说",
+    "神的单纯性排斥一切复合属性",
+    "律法有双重目的：灵魂的完善与社会秩序的完善"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分 第50—60章",
+     "point": "否定神学与属性的排除"
+    },
+    {
+     "locator": "第二部分",
+     "point": "预言与天意"
+    },
+    {
+     "locator": "第三部分 第26—49章",
+     "point": "诫命的目的（Ta'amei ha-mitzvot）"
+    },
+    {
+     "locator": "导论",
+     "point": "为“困惑者”而写的意图"
+    }
+   ],
+   "editions": [
+    "傅有德等译《迷途指津》山东大学出版社",
+    "Pines 英译（Chicago）"
+   ],
+   "related_people": [
+    "gr-medieval-maimonides",
+    "gr-medieval-aquinas",
+    "gr-medieval-al-farabi"
+   ],
+   "misreadings": [
+    {
+     "claim": "迈蒙尼德以哲学取代律法",
+     "why": "他以哲学解释律法的合理性，律法的实践义务未变。"
+    },
+    {
+     "claim": "否定神学等于无神论",
+     "why": "它强调神的超越性，反对把人间的属性加于神，并非否认神。"
+    }
+   ],
+   "sources": [
+    "sep-maimonides",
+    "sep-aquinas"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1190
   },
   {
    "id": "work-summa",
@@ -1147,6 +1310,63 @@
    "sort_year": 1641
   },
   {
+   "id": "work-leviathan",
+   "title": "《利维坦》",
+   "title_original": "Leviathan",
+   "tradition": "west",
+   "date_display": "1651年",
+   "structure": "四部分：论人、论国家、论基督教国家、论黑暗王国。以“人造的人”（国家）为总喻，主权是其灵魂。",
+   "core_arguments": [
+    "自然状态是“一切人反对一切人的战争”",
+    "社会契约：众人授权一个主权者以换取和平",
+    "主权须绝对、不可分割、不可反抗"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分 第13章",
+     "point": "自然状态与“孤独、贫困、卑污、残忍而短寿”"
+    },
+    {
+     "locator": "第14—15章",
+     "point": "自然法与权利的转让"
+    },
+    {
+     "locator": "第17章",
+     "point": "国家的产生：授权与代表"
+    },
+    {
+     "locator": "第18章",
+     "point": "主权者的权利不可分割"
+    }
+   ],
+   "editions": [
+    "黎思复、黎廷弼译《利维坦》商务印书馆",
+    "Tuck 编 Cambridge 英文本"
+   ],
+   "related_people": [
+    "gr-modern-hobbes",
+    "gr-modern-rousseau",
+    "gr-modern-locke"
+   ],
+   "misreadings": [
+    {
+     "claim": "《利维坦》主张君主专制",
+     "why": "它论证主权须绝对；主权可由一人或议会掌握，并非特指君主制。"
+    },
+    {
+     "claim": "自然状态是历史描述",
+     "why": "它是分析性的思想实验，用以说明无共同权力的后果。"
+    }
+   ],
+   "sources": [
+    "sep-hobbes",
+    "sep-locke"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1651
+  },
+  {
    "id": "work-two-treatises",
    "title": "《政府论》两篇",
    "title_original": "Two Treatises of Government",
@@ -1317,6 +1537,120 @@
    "sort_year": 1739
   },
   {
+   "id": "work-spirit-laws",
+   "title": "《论法的精神》",
+   "title_original": "De l'esprit des lois",
+   "tradition": "west",
+   "date_display": "1748年",
+   "structure": "三十一卷：论法与政体、防御与进攻、政治自由与三权、气候与土壤、风俗与商业、宗教与法律的关系。",
+   "core_arguments": [
+    "以权力约束权力：三权分立与制衡",
+    "法律是政体、气候、风俗、贸易之关系的体现",
+    "政体三分：共和、君主、专制"
+   ],
+   "key_points": [
+    {
+     "locator": "第十一章 第4—6节",
+     "point": "英格兰政制与三权分立"
+    },
+    {
+     "locator": "第十四—十八卷",
+     "point": "气候、土壤对立法的影响"
+    },
+    {
+     "locator": "第二—四卷",
+     "point": "政体原则（德性、荣誉、恐惧）"
+    },
+    {
+     "locator": "第二十卷",
+     "point": "商业与法律"
+    }
+   ],
+   "editions": [
+    "许明龙译《论法的精神》商务印书馆",
+    "Œuvres complètes（Gallimard）法文本"
+   ],
+   "related_people": [
+    "gr-modern-montesquieu",
+    "gr-modern-locke",
+    "gr-modern-rousseau"
+   ],
+   "misreadings": [
+    {
+     "claim": "孟德斯鸠主张君主专制",
+     "why": "他区分三种政体，认为专制最坏，理想是英国式君主立宪。"
+    },
+    {
+     "claim": "他是地理决定论者",
+     "why": "气候等只是影响因素之一，政体、法律与风俗相互作用。"
+    }
+   ],
+   "sources": [
+    "sep-montesquieu",
+    "sep-rousseau"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1748
+  },
+  {
+   "id": "work-social-contract",
+   "title": "《社会契约论》",
+   "title_original": "Du contrat social",
+   "tradition": "west",
+   "date_display": "1762年",
+   "structure": "四卷：第一卷论社会契约与主权，第二卷论立法，第三卷论政府形式，第四卷论罗马政制与公民宗教。",
+   "core_arguments": [
+    "人天生自由而处处在枷锁中",
+    "公意（volonté générale）是主权的实质",
+    "主权不可让渡、不可代表"
+   ],
+   "key_points": [
+    {
+     "locator": "I.6",
+     "point": "社会契约：服从自己参与制定的法律"
+    },
+    {
+     "locator": "I.7—8",
+     "point": "公意与个别意志"
+    },
+    {
+     "locator": "II.3",
+     "point": "公意不可让渡、不可代表"
+    },
+    {
+     "locator": "III.1—9",
+     "point": "政府形式与主权者的关系"
+    }
+   ],
+   "editions": [
+    "何兆武译《社会契约论》商务印书馆",
+    "GF-Flammarion 法文本"
+   ],
+   "related_people": [
+    "gr-modern-rousseau",
+    "gr-modern-hobbes",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "公意就是多数票",
+     "why": "公意指共同善，与众意（私意总和）不同；多数票未必等于公意。"
+    },
+    {
+     "claim": "卢梭主张回到自然状态",
+     "why": "他以契约重建自由，自然状态只是分析性的对照。"
+    }
+   ],
+   "sources": [
+    "sep-rousseau",
+    "sep-hobbes"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1762
+  },
+  {
    "id": "work-krv",
    "title": "《纯粹理性批判》",
    "title_original": "Kritik der reinen Vernunft",
@@ -1431,6 +1765,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1788
+  },
+  {
+   "id": "work-aesthetic-letters",
+   "title": "《美育书简》",
+   "title_original": "Über die ästhetische Erziehung des Menschen",
+   "tradition": "west",
+   "date_display": "1795年",
+   "structure": "二十七封信：论两种冲动（感性/形式）、游戏冲动、美与自由、审美国家与政治自由。",
+   "core_arguments": [
+    "人有感性冲动与形式冲动，游戏冲动使二者统一",
+    "审美是通往自由的中间状态",
+    "美育是政治自由的前提"
+   ],
+   "key_points": [
+    {
+     "locator": "第12—13封信",
+     "point": "两种冲动的对立"
+    },
+    {
+     "locator": "第14—15封信",
+     "point": "游戏冲动与美的概念"
+    },
+    {
+     "locator": "第20—23封信",
+     "point": "审美状态与自由"
+    },
+    {
+     "locator": "第26—27封信",
+     "point": "审美国家"
+    }
+   ],
+   "editions": [
+    "张玉能译《美育书简》译林出版社",
+    "Reclam 德文本"
+   ],
+   "related_people": [
+    "gr-german-schiller",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "席勒主张艺术脱离政治",
+     "why": "他强调艺术自主，但正因自主才具教化与政治功能。"
+    },
+    {
+     "claim": "美育可替代政治变革",
+     "why": "他主张二者互为条件，而非以美育取代制度变革。"
+    }
+   ],
+   "sources": [
+    "sep-schiller",
+    "sep-hegel"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1795
   },
   {
    "id": "work-phenomenology-spirit",
@@ -1596,6 +1986,62 @@
    ],
    "sources": [
     "sep-mill",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1859
+  },
+  {
+   "id": "work-origin-species",
+   "title": "《物种起源》",
+   "title_original": "On the Origin of Species",
+   "tradition": "west",
+   "date_display": "1859年",
+   "structure": "十五章：家养变异、自然变异、生存斗争、自然选择、变异法则、学说的困难、本能、杂种、地质记录、地理分布、胚胎学与形态学、总结。",
+   "core_arguments": [
+    "自然选择：变异＋遗传＋差异繁殖",
+    "共同祖先与生命之树",
+    "渐变：演化是缓慢渐进的过程"
+   ],
+   "key_points": [
+    {
+     "locator": "第4章",
+     "point": "自然选择的核心论证"
+    },
+    {
+     "locator": "第6章",
+     "point": "学说的困难（如器官的极度完美）"
+    },
+    {
+     "locator": "第10章",
+     "point": "地质记录的不完整"
+    },
+    {
+     "locator": "第13—14章",
+     "point": "胚胎学与形态学的证据"
+    }
+   ],
+   "editions": [
+    "苗德岁译《物种起源》译林出版社",
+    "Darwin 第一版（1859）影印本"
+   ],
+   "related_people": [
+    "gr-19c-darwin",
+    "gr-19c-spencer"
+   ],
+   "misreadings": [
+    {
+     "claim": "达尔文说人由现生猴子变来",
+     "why": "他主张人与猿有共同祖先，而非由现生猿类直接演化。"
+    },
+    {
+     "claim": "自然选择等于进步",
+     "why": "它只说明适应，不保证进步方向。"
+    }
+   ],
+   "sources": [
+    "iep-darwin",
     "book-copleston-history"
    ],
    "needs_verification": false,
