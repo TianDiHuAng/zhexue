@@ -672,7 +672,8 @@
    ],
    "sources": [
     "sep-plato",
-    "book-guthrie-greek"
+    "book-guthrie-greek",
+    "mit-plato-phaedo"
    ],
    "needs_verification": false,
    "pending_notes": "",
@@ -2212,6 +2213,63 @@
    "sort_year": -300
   },
   {
+   "id": "work-shenzi",
+   "title": "《慎子》",
+   "title_original": "慎子",
+   "tradition": "china",
+   "date_display": "约前4—前3世纪（今本为辑佚本）",
+   "structure": "原本四十二篇，今存辑佚七篇（威德、因循、民杂、德立、君人、知忠、君臣）及佚文。",
+   "core_arguments": [
+    "“势”：君主的位置（势）重于个人的贤能——“尧为匹夫不能治三人，桀为天子能乱天下”",
+    "“因循”：君因其下之能为用，不代其职",
+    "“尚法”而不尚贤：以客观的法与分取代个人的才智"
+   ],
+   "key_points": [
+    {
+     "locator": "《威德》",
+     "point": "势与贤的对比"
+    },
+    {
+     "locator": "《因循》",
+     "point": "君因臣为"
+    },
+    {
+     "locator": "《君臣》",
+     "point": "分职与法的关系"
+    },
+    {
+     "locator": "佚文",
+     "point": "“法非从天下，非从地出，发于人间”"
+    }
+   ],
+   "editions": [
+    "王叔岷《慎子校注》；《慎子》（四部丛刊本）"
+   ],
+   "related_people": [
+    "cn-xianqin-shen-dao",
+    "cn-xianqin-hanfei",
+    "cn-xianqin-shang-yang"
+   ],
+   "misreadings": [
+    {
+     "claim": "慎到主张纯粹的“势治”，与法无关",
+     "why": "其“势”须与“法”与“分”配合：势是君主的位置，法是其运作的规则，二者不可分（韩非即合“势、术、法”为一）。"
+    },
+    {
+     "claim": "今本《慎子》即其原书",
+     "why": "原本四十二篇久佚，今本为后人辑佚（七篇加佚文），故不能据今本论其全貌。"
+    }
+   ],
+   "sources": [
+    "ws-shenzi",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《慎子》原本四十二篇已佚，今本为辑佚本（七篇＋佚文），故其思想面貌只能据残篇与《荀子》《韩非子》等书的引述重建；本页并述其“势”说与“因循”说。",
+   "sort_year": -300
+  },
+  {
    "id": "work-tianxia-pian",
    "title": "《庄子·天下篇》",
    "title_original": "天下篇",
@@ -2495,6 +2553,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": -280
+  },
+  {
+   "id": "work-gongsunlongzi",
+   "title": "《公孙龙子》",
+   "title_original": "公孫龍子",
+   "tradition": "china",
+   "date_display": "约前3世纪（今本六篇，其中《迹府》为后人所记）",
+   "structure": "六篇：迹府（传记）、白马论、指物论、通变论、坚白论、名实论。",
+   "core_arguments": [
+    "“白马非马”：以“马”状形、“白”命色，命色者非命形，故名不同",
+    "“坚白离”：坚由触觉得、白由视觉得，二者“不相盈”，故离",
+    "“指物论”：以“指”（共相）与“物”（个体）的关系论名的成立"
+   ],
+   "key_points": [
+    {
+     "locator": "《白马论》",
+     "point": "“白马非马”的论证"
+    },
+    {
+     "locator": "《坚白论》",
+     "point": "坚白相离"
+    },
+    {
+     "locator": "《指物论》",
+     "point": "指与物的关系"
+    },
+    {
+     "locator": "《名实论》",
+     "point": "“正名”的原则"
+    }
+   ],
+   "editions": [
+    "谭戒甫《公孙龙子形名发微》中华书局；庞朴《公孙龙子研究》"
+   ],
+   "related_people": [
+    "cn-xianqin-gongsunlong",
+    "cn-xianqin-hui-shi",
+    "cn-xianqin-zhuangzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "“白马非马”是诡辩，毫无道理",
+     "why": "它在“名”的层次上是有根据的：命色的名与命形的名内涵不同，故不能等同。其问题在于它把“名的区分”推到“物的分离”，这一步才是可争议处。"
+    },
+    {
+     "claim": "公孙龙否认白马是马",
+     "why": "他说的是“白马”之名非“马”之名；至于白马是否属于马类，是另一个（类的）问题，其文本未直接否认。"
+    }
+   ],
+   "sources": [
+    "ws-gongsunlongzi",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《公孙龙子》今本六篇中《迹府》为后人所记；其余五篇的文字有残缺与错简，历代校释（谭戒甫、庞朴等）分歧较大，本页依通行校释本概述其论旨。",
    "sort_year": -280
   },
   {
@@ -4583,7 +4698,8 @@
    "sources": [
     "sep-marcus-aurelius",
     "sep-stoicism",
-    "book-copleston-history"
+    "book-copleston-history",
+    "mit-marcus-aurelius"
    ],
    "needs_verification": false,
    "pending_notes": "",
@@ -5776,6 +5892,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 690
+  },
+  {
+   "id": "work-fuxingshu",
+   "title": "《复性书》",
+   "title_original": "復性書",
+   "tradition": "china",
+   "date_display": "约798年（唐·李翱）",
+   "structure": "三篇（上、中、下）：上篇论性善情昏、复性之方；中篇设为问答以申其义；下篇论修养的次第与“至诚”。",
+   "core_arguments": [
+    "“性善情昏”：性无不善，情由性生而昏，故须“复性”",
+    "“灭情以复性”：不作思虑、寂然不动，则情自息而性自明",
+    "以《中庸》为据，援佛入儒：其“复性”说与禅宗的“见性”有结构上的相似"
+   ],
+   "key_points": [
+    {
+     "locator": "上篇",
+     "point": "性善情昏与复性"
+    },
+    {
+     "locator": "中篇",
+     "point": "问答：情是否可灭"
+    },
+    {
+     "locator": "下篇",
+     "point": "“至诚”与修养次第"
+    },
+    {
+     "locator": "全书",
+     "point": "以《中庸》为理学先声"
+    }
+   ],
+   "editions": [
+    "《李文公集》；中华书局《李翱集》（若有）；《全唐文》卷六三七"
+   ],
+   "related_people": [
+    "cn-suitang-li-ao",
+    "cn-xianqin-mengzi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《复性书》是纯粹的儒学著作",
+     "why": "其“灭情复性”“寂然不动”的表述与佛教（尤其禅宗）有结构上的相似，故宋儒既承其说又辨其“杂禅”。"
+    },
+    {
+     "claim": "李翱主张取消一切情感",
+     "why": "其“灭情”指去掉“情之昏”（妄情），不是消灭一切情感；下篇以“至诚”为归，仍是情感的正当化。"
+    }
+   ],
+   "sources": [
+    "ws-fuxingshu",
+    "ws-liji",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《复性书》与佛教（尤其禅宗）的关系是唐宋思想史的核心问题之一；其“灭情复性”的确切含义在宋儒（朱熹等）的评断中有争议，本页并述其说与后世的“杂禅”之讥。",
+   "sort_year": 798
   },
   {
    "id": "work-yuandao",

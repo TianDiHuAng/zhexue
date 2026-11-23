@@ -1207,7 +1207,8 @@
     "mit-epictetus-discourses",
     "sep-stoicism",
     "iep-stoicism",
-    "book-copleston-history"
+    "book-copleston-history",
+    "sep-epictetus"
    ],
    "needs_verification": true,
    "pending_notes": "生卒年（约55—约135）为学界通行推定，无确证；《语录》各卷的编排与《手册》的删削幅度均出自阿里安，原文与编者之手的界线待考。",
@@ -1781,7 +1782,8 @@
    "sources": [
     "sep-marcus-aurelius",
     "sep-stoicism",
-    "book-copleston-history"
+    "book-copleston-history",
+    "mit-marcus-aurelius"
    ],
    "needs_verification": false,
    "pending_notes": "",
@@ -2844,7 +2846,8 @@
    "sources": [
     "sep-stoicism",
     "iep-stoicism",
-    "book-guthrie-greek"
+    "book-guthrie-greek",
+    "paper-s10608-025-10635-9"
    ],
    "needs_verification": false,
    "pending_notes": ""

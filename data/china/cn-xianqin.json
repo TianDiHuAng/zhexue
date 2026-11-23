@@ -2207,7 +2207,8 @@
    "sources": [
     "ct-daodejing",
     "ct-hanfeizi",
-    "sep-laozi"
+    "sep-laozi",
+    "paper-s12124-024-09840-0"
    ],
    "needs_verification": false,
    "pending_notes": ""
@@ -3102,6 +3103,79 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-jianbai",
+   "term": "坚白之辩",
+   "term_latin": "the debate on hardness and whiteness",
+   "definition": "公孙龙的核心辩题：“坚白石”三，还是二？他以“坚”由触觉得、“白”由视觉得，二者“不相盈”，故“坚白石二”——这与常识的“一物三性”相违，目的在于说明**属性与共相**的独立性。",
+   "usages": [
+    {
+     "name": "公孙龙",
+     "id": "cn-xianqin-gongsunlong",
+     "usage": "“视不得其所坚而得其所白者，无坚也；拊不得其所白而得其所坚者，无白也。”"
+    },
+    {
+     "name": "庄子（批评者）",
+     "id": "cn-xianqin-zhuangzi",
+     "usage": "以“白马非马”一类的辩为“饰人之心，易人之意”（《天下篇》的评断）。"
+    },
+    {
+     "name": "后期墨家（平行）",
+     "usage": "以“坚白，不相外也”论属性的共存，与公孙龙相反。"
+    }
+   ],
+   "related": [],
+   "example": {
+    "text": "“坚白之辩”的分量在于它把**感觉通道**引入本体论：若“坚”只由触觉得、“白”只由视觉得，则二者如何在“一物”中统一？公孙龙的答案是否定的（故“二”），墨家的答案是肯定的（“不相外”）。这一分歧是先秦关于“共相与个体”的最精细讨论。",
+    "figure": "公孙龙",
+    "locator": "《公孙龙子·坚白论》"
+   },
+   "sources": [
+    "ws-gongsunlongzi",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-xing-qing",
+   "term": "性情形于外",
+   "term_latin": "nature and feeling manifesting outward",
+   "definition": "《性自命出》一系（郭店楚简）的命题：“性自命出，命自天降；道始于情，情生于性。”它把性、情、道三者联成一条发生序列，是中国最早的心性论表述之一。",
+   "usages": [
+    {
+     "name": "《性自命出》（郭店楚简）",
+     "usage": "“道始于情，情生于性”：情不是性的对立面，而是性的显现。"
+    },
+    {
+     "name": "孟子",
+     "id": "cn-xianqin-mengzi",
+     "usage": "以四端说性善：情（恻隐等）即是性的端绪。"
+    },
+    {
+     "name": "荀子（批评者）",
+     "id": "cn-xianqin-xunzi",
+     "usage": "以性为“本始材朴”、情为“性之好恶喜怒哀乐”，但主张“化性起伪”。"
+    }
+   ],
+   "related": [
+    "cn-xianqin-tianxing-youchang",
+    "cn-xianqin-ren"
+   ],
+   "example": {
+    "text": "“道始于情”这一句的分量在于它把**道**的起点放在**情**上：不是情服从道，而是道从情开始。这与后世（尤其宋明）以“性”为尊、“情”为卑的格局不同——故出土文献使人重估先秦心性论的多样性。",
+    "figure": "《性自命出》",
+    "locator": "郭店楚简《性自命出》"
+   },
+   "sources": [
+    "ws-liji",
+    "ct-mengzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《性自命出》出自郭店楚简（1993年出土），其学派归属（孔门后学／子思孟轲一系／另一支）学界有争论；本页依简文与先秦心性论研究概述。"
   }
  ],
  "debates": [

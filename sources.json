@@ -3,8 +3,8 @@
   "project": "中外哲学思想脉络库",
   "built_at": "2026-11-22",
   "rule": "verified=true 仅当脚本实际打开页面且正文含预期关键词；403/429 记为 blocked 且不作已验证来源",
-  "total": 375,
-  "verified": 375,
+  "total": 374,
+  "verified": 374,
   "by_type": {
    "原典": 87,
    "百科": 178,
@@ -8303,28 +8303,6 @@
    "n": 361
   },
   {
-   "id": "paper-s10686-025-09985-9",
-   "title": "The PLATO mission",
-   "author": "Rauer, Heike",
-   "year": 2025,
-   "year_note": "开放获取论文，出版年取自页面元数据",
-   "publisher": "Experimental Astronomy",
-   "type": "论文",
-   "url": "https://link.springer.com/article/10.1007/s10686-025-09985-9",
-   "url2": "https://doi.org/10.1007/s10686-025-09985-9",
-   "link_ok": true,
-   "verified": true,
-   "note": "柏拉图理念论",
-   "unit_hint": "西方·古希腊",
-   "verify": {
-    "method": "http-page+citation_meta",
-    "http_status": 200,
-    "checked_at": "2026-11-22",
-    "title_seen": "The PLATO mission"
-   },
-   "n": 362
-  },
-  {
    "id": "paper-s11007-008-9086-5",
    "title": "Phantom of consistency: Alain Badiou and Kantian transcendental idealism",
    "author": "Johnston, Adrian",
@@ -8344,7 +8322,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Phantom of consistency: Alain Badiou and Kantian transcenden"
    },
-   "n": 363
+   "n": 362
   },
   {
    "id": "paper-s11158-026-09803-9",
@@ -8366,7 +8344,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Re-reading Justice as Fairness Without Market-Based Assumpti"
    },
-   "n": 364
+   "n": 363
   },
   {
    "id": "paper-s11212-025-09755-5",
@@ -8388,7 +8366,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Russian Dasein: Dugin’s reading of Heidegger and the possibi"
    },
-   "n": 365
+   "n": 364
   },
   {
    "id": "paper-s11217-022-09867-z",
@@ -8410,7 +8388,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Fictitious Language Games, Otherness, and Philosophy of Educ"
    },
-   "n": 366
+   "n": 365
   },
   {
    "id": "paper-s11229-021-03107-6",
@@ -8432,7 +8410,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Synthetic a priori judgments and Kant’s response to Hume on "
    },
-   "n": 367
+   "n": 366
   },
   {
    "id": "paper-s11245-024-10020-3",
@@ -8454,7 +8432,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Why Aristotle Isn’t a Virtue Ethicist. Living Well and Virtu"
    },
-   "n": 368
+   "n": 367
   },
   {
    "id": "paper-s11466-007-0037-8",
@@ -8476,7 +8454,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Aquinas’ transcendences to Aristotle in the doctrine of esse"
    },
-   "n": 369
+   "n": 368
   },
   {
    "id": "paper-s11712-019-09658-3",
@@ -8498,7 +8476,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "The Politics of Writing Chinese Philosophy: Xiong Shili’s Ne"
    },
-   "n": 370
+   "n": 369
   },
   {
    "id": "paper-s11712-024-09946-7",
@@ -8520,7 +8498,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "A Neo-Confucian Architectural Ethic"
    },
-   "n": 371
+   "n": 370
   },
   {
    "id": "paper-s12124-024-09840-0",
@@ -8542,7 +8520,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Wu Wei in Mindfulness: A Systematic Perspective"
    },
-   "n": 372
+   "n": 371
   },
   {
    "id": "paper-s40926-024-00251-0",
@@ -8564,7 +8542,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Butler, Hegel and the Role of Recognition in Organizations"
    },
-   "n": 373
+   "n": 372
   },
   {
    "id": "paper-s40961-020-00224-4",
@@ -8586,7 +8564,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Michel Foucault on Regenerative Relatedness of Power/Knowled"
    },
-   "n": 374
+   "n": 373
   },
   {
    "id": "paper-s43681-026-01311-z",
@@ -8608,7 +8586,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Meaning without risk: Nietzsche, artificial intelligence, an"
    },
-   "n": 375
+   "n": 374
   }
  ]
 }

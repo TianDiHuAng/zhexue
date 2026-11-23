@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 934,
+  "entries": 940,
   "by_level": {
-   "L2": 743,
-   "L1": 191
+   "L2": 744,
+   "L1": 196
   },
   "doctrine": {
    "total": 237,
    "detail": 237,
    "auto": 0
   },
-  "needs_verification": 191,
-  "sources": 375,
-  "sources_verified": 375
+  "needs_verification": 196,
+  "sources": 374,
+  "sources_verified": 374
  },
  "units": [
   {
@@ -39,7 +39,7 @@
    "title": "宋明理学与心学",
    "region": "china",
    "philosophers": 20,
-   "concepts": 20,
+   "concepts": 21,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -12"
   },
@@ -66,7 +66,7 @@
    "title": "先秦诸子",
    "region": "china",
    "philosophers": 12,
-   "concepts": 28,
+   "concepts": 30,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -1459,8 +1459,8 @@
    "title": "格物（朱王之争）",
    "container": "cn-songming",
    "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -1561,6 +1561,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-dexing-lunli",
+   "type": "concept",
+   "title": "德性伦理的儒家形态",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -2713,8 +2724,8 @@
    "title": "无为",
    "container": "cn-xianqin",
    "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -2980,6 +2991,28 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-jianbai",
+   "type": "concept",
+   "title": "坚白之辩",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-xing-qing",
+   "type": "concept",
+   "title": "性情形于外",
+   "container": "cn-xianqin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -3582,8 +3615,8 @@
    "title": "海德格尔",
    "container": "gr-20c",
    "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -3791,8 +3824,8 @@
    "title": "朱迪斯·巴特勒",
    "container": "gr-20c",
    "level": "L1",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -4418,8 +4451,8 @@
    "title": "德性",
    "container": "gr-ancient",
    "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -5595,8 +5628,8 @@
    "title": "爱比克泰德",
    "container": "gr-hellenistic",
    "level": "L1",
-   "sources": 4,
-   "verified_sources": 4,
+   "sources": 5,
+   "verified_sources": 5,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -5639,8 +5672,8 @@
    "title": "马可·奥勒留",
    "container": "gr-hellenistic",
    "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -5859,8 +5892,8 @@
    "title": "无关紧要者",
    "container": "gr-hellenistic",
    "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -7289,8 +7322,8 @@
    "title": "《斐多篇》",
    "container": "west",
    "level": "L2",
-   "sources": 2,
-   "verified_sources": 2,
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -7592,6 +7625,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-shenzi",
+   "type": "work",
+   "title": "《慎子》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-tianxia-pian",
    "type": "work",
    "title": "《庄子·天下篇》",
@@ -7644,6 +7688,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-gongsunlongzi",
+   "type": "work",
+   "title": "《公孙龙子》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -8048,8 +8103,8 @@
    "title": "《沉思录》",
    "container": "west",
    "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -8282,6 +8337,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-fuxingshu",
+   "type": "work",
+   "title": "《复性书》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

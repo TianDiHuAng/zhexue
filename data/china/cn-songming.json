@@ -3471,7 +3471,8 @@
    "sources": [
     "ct-chuanxilu",
     "book-chan-sourcebook",
-    "sep-chinese-metaphysics"
+    "sep-chinese-metaphysics",
+    "paper-s11712-024-09946-7"
    ],
    "needs_verification": false,
    "pending_notes": ""
@@ -3821,6 +3822,41 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-dexing-lunli",
+   "term": "德性伦理的儒家形态",
+   "term_latin": "Confucian virtue ethics",
+   "definition": "当代研究的一个框架：儒家（尤其孟子一系）是否可被视为“德性伦理学”？赞成者以“德性、实践智慧、人格典范”为核心比对；反对者指出儒家以“关系与角色”为本，与亚里士多德的“个体完善”不同。",
+   "usages": [
+    {
+     "name": "孟子",
+     "usage": "以四端与“扩充”论成德，近于德性伦理的发展论。"
+    },
+    {
+     "name": "亚里士多德（对照）",
+     "usage": "以 eudaimonia 与 phronēsis 为核心，个体完善为归。"
+    },
+    {
+     "name": "当代研究者",
+     "usage": "以“儒家德性伦理”与“角色伦理”为两条解释路径（参见所附论文）。"
+    }
+   ],
+   "related": [
+    "cn-songming-xing-ji-li"
+   ],
+   "example": {
+    "text": "这一比较的要害在**“谁在完善”**：亚里士多德的德性属个体，儒家的德性在关系中（父子、君臣）——故“角色伦理”（role ethics）的提议者认为，用“德性伦理”框架会把儒家的关系性抹掉。故争论不只是分类问题，而是**用什么单位描述人**的问题。",
+    "figure": "当代研究者",
+    "locator": "参见 Confucian Virtue Ethics and Ethical Leadership in Modern China（Synthese 等）"
+   },
+   "sources": [
+    "paper-s10551-021-05026-5",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“儒家是否为德性伦理”是当代英文学界的活跃争论（安乐哲、万百安等各有立场）；本页只呈两方框架与分歧点，不判定孰是。"
   }
  ],
  "debates": [
