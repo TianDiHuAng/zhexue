@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 946,
+  "entries": 953,
   "by_level": {
-   "L2": 745,
-   "L1": 201
+   "L2": 747,
+   "L1": 206
   },
   "doctrine": {
    "total": 237,
    "detail": 237,
    "auto": 0
   },
-  "needs_verification": 201,
+  "needs_verification": 206,
   "sources": 374,
   "sources_verified": 374
  },
@@ -48,7 +48,7 @@
    "title": "隋唐佛学",
    "region": "china",
    "philosophers": 14,
-   "concepts": 20,
+   "concepts": 21,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -6"
   },
@@ -129,7 +129,7 @@
    "title": "中世纪经院哲学",
    "region": "west",
    "philosophers": 18,
-   "concepts": 20,
+   "concepts": 21,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -2034,6 +2034,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-suitang-wuxing-geju",
+   "type": "concept",
+   "title": "五时八教",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -6426,6 +6437,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-medieval-participation",
+   "type": "concept",
+   "title": "分有",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-medieval-universals-debate",
    "type": "debate",
    "title": "共相是实在还是名称",
@@ -7845,6 +7867,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-xinshu-jia",
+   "type": "work",
+   "title": "《新书》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-hanshi-waizhuan",
    "type": "work",
    "title": "《韩诗外传》",
@@ -8029,6 +8062,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-taixuanjing",
+   "type": "work",
+   "title": "《太玄经》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -8483,6 +8527,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-wanglinchuan-ji",
+   "type": "work",
+   "title": "《王临川集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-sic-et-non",
    "type": "work",
    "title": "《是与否》",
@@ -8600,6 +8655,17 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-baishaji",
+   "type": "work",
+   "title": "《陈白沙集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -8930,6 +8996,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-cunxuebian",
+   "type": "work",
+   "title": "《存学编》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },

@@ -3795,6 +3795,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-participation",
+   "term": "分有",
+   "term_latin": "participatio",
+   "definition": "中世纪柏拉图主义（伪狄奥尼修斯、埃里金纳、波那文图拉一系）的核心概念：受造物“分有”上帝的美善，故其存在与善都是**借来的**。它与“类比”说互为表里：分有说明关系的实在性，类比说明言说的方式。",
+   "usages": [
+    {
+     "name": "伪狄奥尼修斯",
+     "usage": "受造物“分有”上帝的美善，而上帝本身不被分有。"
+    },
+    {
+     "name": "阿奎那",
+     "id": "gr-medieval-aquinas",
+     "usage": "以“分有”说明受造物的存在依赖于上帝（esse participatum）。"
+    },
+    {
+     "name": "埃里金纳（承之，对照）",
+     "usage": "以“分有”解自然与神的关系（《论自然的区分》）。"
+    }
+   ],
+   "related": [
+    "gr-medieval-analogy-being",
+    "gr-medieval-esse"
+   ],
+   "example": {
+    "text": "“分有”与“类比”是一对：分有回答**“受造物凭什么有存在与善”**（借来的），类比回答**“我们凭什么能说上帝”**（部分相同）。前者是本体论的，后者是语言学的——但二者在阿奎那那里互相支撑。",
+    "figure": "阿奎那",
+    "locator": "《神学大全》I, q.44；《论分有》"
+   },
+   "sources": [
+    "sep-aquinas",
+    "book-copleston-history",
+    "sep-augustine"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“分有”在伪狄奥尼修斯、埃里金纳、阿奎那之间的用法有差异（柏拉图式的分有 vs 创世论的依赖）；本页并述其线索，具体文本须核《论分有》与《神学大全》。"
   }
  ],
  "debates": [

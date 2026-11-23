@@ -2760,6 +2760,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-wuxing-geju",
+   "term": "五时八教",
+   "term_latin": "the five periods and eight teachings",
+   "definition": "天台宗的判教体系：以“五时”（华严、鹿苑、方等、般若、法华涅槃）为佛说法的次第，以“八教”（化仪四教：顿、渐、秘密、不定；化法四教：藏、通、别、圆）为教法的分类。故一切经典各有其位，而《法华》为究竟。",
+   "usages": [
+    {
+     "name": "智顗",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以五时八教判一切经教，《法华》居末而称“纯圆”。"
+    },
+    {
+     "name": "法藏（华严，对照）",
+     "id": "cn-suitang-fazang",
+     "usage": "以“五教十宗”判教，以《华严》为别教一乘。"
+    },
+    {
+     "name": "吉藏（三论，对照）",
+     "usage": "以“二藏三轮”判教，取向不同。"
+    }
+   ],
+   "related": [
+    "cn-suitang-panjiao"
+   ],
+   "example": {
+    "text": "判教的实质是**给经典排序**：若一切经皆为佛说，则它们为何互相矛盾？答案是“时机不同”（五时）与“根机不同”（八教）——故判教既是经典解释学，也是宗派自我定位的技术。",
+    "figure": "智顗",
+    "locator": "《法华玄义》卷一"
+   },
+   "sources": [
+    "ws-mohezhiguan",
+    "ws-huayan-jinshizi",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“五时八教”的体系化程度在智顗、灌顶与后世天台注家之间有发展；本页依《法华玄义》与天台宗研究概述，具体名目须核《大正藏》第33卷。"
   }
  ],
  "debates": [

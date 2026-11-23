@@ -3237,6 +3237,63 @@
    "sort_year": -195
   },
   {
+   "id": "work-xinshu-jia",
+   "title": "《新书》",
+   "title_original": "新書",
+   "tradition": "china",
+   "date_display": "西汉（贾谊）；今本经后人整理",
+   "structure": "十卷五十八篇（今存五十六篇）：含《过秦论》《大政》《修政语》《礼》《容经》《道术》《六术》等。",
+   "core_arguments": [
+    "《过秦论》：“仁义不施而攻守之势异也”——秦亡在于不施仁义",
+    "以“礼”为治之本：“礼者，所以固国家、定社稷”",
+    "《道术》《六术》：以“道”与“术”为政教的条理"
+   ],
+   "key_points": [
+    {
+     "locator": "《过秦论》",
+     "point": "秦亡之因"
+    },
+    {
+     "locator": "《礼》",
+     "point": "礼为治本"
+    },
+    {
+     "locator": "《大政》",
+     "point": "民为政本（“民无不为本”）"
+    },
+    {
+     "locator": "《六术》",
+     "point": "阴阳与政教的条理"
+    }
+   ],
+   "editions": [
+    "阎振益、钟夏《新书校注》中华书局；《新書》（四部丛刊本）"
+   ],
+   "related_people": [
+    "cn-lianghan-jia-yi",
+    "cn-lianghan-dong-zhongshu",
+    "cn-xianqin-xunzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《过秦论》只是史论",
+     "why": "它以史论政：秦亡的判准是“仁义不施”，故其结论是汉初政教应当以仁义为本，属政治哲学。"
+    },
+    {
+     "claim": "今本《新书》全为贾谊原稿",
+     "why": "今本经后人整理，部分篇章（如《修政语》）有辑录与增饰的痕迹；其与《汉书》所引的贾谊文字差异是文献学问题。"
+    }
+   ],
+   "sources": [
+    "ws-xinshu-jia",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "今本《新书》的篇数与真伪（部分篇章是否为贾谊原作）学界有讨论；本页依阎振益、钟夏《新书校注》与通行研究概述。",
+   "sort_year": -170
+  },
+  {
    "id": "work-hanshi-waizhuan",
    "title": "《韩诗外传》",
    "title_original": "韓詩外傳",
@@ -4189,6 +4246,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《太玄》的八十一首与历法（七十二候、二十四气）的对应关系细节繁复，各本注解有出入；本页只述其体系结构，具体推演须核司马光集注本。",
+   "sort_year": 5
+  },
+  {
+   "id": "work-taixuanjing",
+   "title": "《太玄经》",
+   "title_original": "太玄經",
+   "tradition": "china",
+   "date_display": "西汉末（扬雄）",
+   "structure": "十卷：以“方、州、部、家”四重（三方、九州、二十七部、八十一家）模拟《易》的卦爻，每首九赞，共八十一首、七百二十九赞。",
+   "core_arguments": [
+    "以“玄”为宇宙的本原：“玄者，幽摛万类而不见形者也”",
+    "以三方九州的数术结构替代《易》的六十四卦，构造另一套宇宙符号系统",
+    "“罔直蒙酋冥”：以五阶段描述事物的发展"
+   ],
+   "key_points": [
+    {
+     "locator": "《玄首都序》",
+     "point": "“玄”的界定"
+    },
+    {
+     "locator": "《玄测》",
+     "point": "八十一首的结构"
+    },
+    {
+     "locator": "《玄莹》",
+     "point": "玄与天道"
+    },
+    {
+     "locator": "全书体例",
+     "point": "与《易》的模拟关系"
+    }
+   ],
+   "editions": [
+    "司马光《太玄经集注》；《太玄經》（四庫全書本）"
+   ],
+   "related_people": [
+    "cn-lianghan-yang-xiong",
+    "cn-lianghan-dong-zhongshu",
+    "cn-weijin-wangbi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《太玄经》是《易》的注解",
+     "why": "它是以另一套数术结构（三方九州八十一家）**模拟并替代**《易》的独立体系，不是注解。"
+    },
+    {
+     "claim": "它只是数字游戏",
+     "why": "其“玄”是明确的宇宙本原概念，且“罔直蒙酋冥”提供了事物发展的阶段说；其数术结构本身是汉代宇宙论的一部分。"
+    }
+   ],
+   "sources": [
+    "ws-taixuan",
+    "ct-taixuanjing",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": 5
   },
   {
@@ -6509,6 +6623,63 @@
    "sort_year": 1078
   },
   {
+   "id": "work-wanglinchuan-ji",
+   "title": "《王临川集》",
+   "title_original": "王臨川集",
+   "tradition": "china",
+   "date_display": "北宋（王安石，1021—1086）；今本为后人编集",
+   "structure": "一百卷：诗、文、书、奏状、札子、表、启、杂著、墓志等；哲学文字主要见《洪范传》《老子注》（残）《周官新义》（残）与书札。",
+   "core_arguments": [
+    "以“新学”重解经义（《三经新义》）为变法立论",
+    "《洪范传》以“五行”解政治秩序，强调“人事”的作用",
+    "以“理财”为治国之要（“为天下理财，不为征利”）"
+   ],
+   "key_points": [
+    {
+     "locator": "《洪范传》",
+     "point": "五行与人事"
+    },
+    {
+     "locator": "《上仁宗皇帝言事书》",
+     "point": "变法的主张与教育"
+    },
+    {
+     "locator": "《答司马谏议书》",
+     "point": "对“侵官、生事、征利、拒谏”的答辩"
+    },
+    {
+     "locator": "《老子注》残文",
+     "point": "以“无”与“有”解道"
+    }
+   ],
+   "editions": [
+    "中华书局《王文公文集》；李壁注《王荆文公诗笺注》；《王臨川集》（四部丛刊本）"
+   ],
+   "related_people": [
+    "cn-songming-wang-anshi",
+    "cn-songming-zhu-xi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "王安石只有政治而无哲学",
+     "why": "其《洪范传》《老子注》与《三经新义》是系统的经学与哲学工作；其“新学”在北宋一度是官学。"
+    },
+    {
+     "claim": "“三不足”（天变不足畏、祖宗不足法、人言不足恤）是其原话",
+     "why": "此语见于后世史书的概括（《宋史》本传的记述），并非其著作中的原句；其精神与《答司马谏议书》相合，但字句须辨。"
+    }
+   ],
+   "sources": [
+    "ws-wanganshi",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "王安石哲学著作（《三经新义》《老子注》《洪范传》）的完整面貌须依辑佚与研究（《周官新义》已残）；“三不足”之说的原始出处须辨。",
+   "sort_year": 1080
+  },
+  {
    "id": "work-sic-et-non",
    "title": "《是与否》",
    "title_original": "Sic et Non",
@@ -7117,6 +7288,63 @@
    "needs_verification": true,
    "pending_notes": "《坛经》的版本系统（敦煌本、惠昕本、契嵩本、宗宝本）与作者问题是学界长期议题；本页以敦煌本与宗宝本的差异为据，不作单一作者断定。",
    "sort_year": 1290
+  },
+  {
+   "id": "work-baishaji",
+   "title": "《陈白沙集》",
+   "title_original": "陳白沙集",
+   "tradition": "china",
+   "date_display": "明（陈献章，1428—1500）；门人编集",
+   "structure": "九卷（通行本）：诗、书、序、记、论、说、行状、墓志等；哲学文字散见于书札（《与贺克恭》《复赵提学》）与诗作。",
+   "core_arguments": [
+    "“静坐”为入道之门：“为学须从静中坐养出个端倪来”",
+    "“自得”：学问须由自己心中体认，不由积累",
+    "以诗为道：其诗被视作心境的直接呈现"
+   ],
+   "key_points": [
+    {
+     "locator": "《与贺克恭黄门》",
+     "point": "静坐与“端倪”"
+    },
+    {
+     "locator": "《复赵提学》",
+     "point": "自得之学"
+    },
+    {
+     "locator": "诗作（如《示湛雨》）",
+     "point": "以诗见道"
+    },
+    {
+     "locator": "《论前辈言铢视轩冕尘视金玉》",
+     "point": "重“自得”而轻外物"
+    }
+   ],
+   "editions": [
+    "中华书局《陈献章集》；《陳白沙集》（四庫全書本）"
+   ],
+   "related_people": [
+    "cn-songming-chen-xianzhang",
+    "cn-songming-zhan-ruoshui",
+    "cn-songming-wang-yangming"
+   ],
+   "misreadings": [
+    {
+     "claim": "陈献章主张废弃读书",
+     "why": "他强调“静坐”为入手，但不废读书；其“自得”是说学问须经自己的体认，不是拒绝典籍。"
+    },
+    {
+     "claim": "白沙之学是纯粹的禅",
+     "why": "其“静坐”与禅有形式相似，但目标是“见理”而非“见性成佛”；明儒既推重其学，也辨其“近禅”。"
+    }
+   ],
+   "sources": [
+    "ws-baishaji",
+    "ws-chuanxi",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "陈献章的哲学文字多为书札与诗，体系性表述有限；其“静坐”说的确切含义与“近禅”之讥须核《陈献章集》与明代学术史研究。",
+   "sort_year": 1480
   },
   {
    "id": "work-praise-of-folly",
@@ -8804,6 +9032,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1697
+  },
+  {
+   "id": "work-cunxuebian",
+   "title": "《存学编》",
+   "title_original": "存學編",
+   "tradition": "china",
+   "date_display": "清初（颜元，1635—1704）",
+   "structure": "四卷：以“存学”为名，主张学在“习行”，批评宋儒的静坐与章句；含《由道》《总论诸儒讲学》《明亲》《上太仓陆桴亭先生书》等。",
+   "core_arguments": [
+    "“习行”为学：学问须在实事上练习，不在诵读与静坐",
+    "“正其谊以谋其利，明其道而计其功”：以功利为经世的判准（对董仲舒语的改写）",
+    "批评宋儒“静坐”与“章句”为“二千年之大梦”"
+   ],
+   "key_points": [
+    {
+     "locator": "《由道》",
+     "point": "道在事中"
+    },
+    {
+     "locator": "《总论诸儒讲学》",
+     "point": "对宋儒的批评"
+    },
+    {
+     "locator": "《明亲》",
+     "point": "明德亲民之实"
+    },
+    {
+     "locator": "《上陆桴亭书》",
+     "point": "习行的主张"
+    }
+   ],
+   "editions": [
+    "中华书局《颜元集》；《存學編》（畿辅丛书本）"
+   ],
+   "related_people": [
+    "cn-qingmod-yan-yuan",
+    "cn-songming-zhu-xi",
+    "cn-qingmod-dai-zhen"
+   ],
+   "misreadings": [
+    {
+     "claim": "颜元完全否定读书",
+     "why": "他反对的是**只读书而不习行**，主张“读书”须与“习行”配合；其“六艺”之教本身需要读书。"
+    },
+    {
+     "claim": "“正其谊以谋其利”是标新立异",
+     "why": "这是对董仲舒“正其谊不谋其利”的**有意改写**，其目的是把“义”落在实事的效果上，属清代实学的一支。"
+    }
+   ],
+   "sources": [
+    "ws-cunxuebian",
+    "ws-mingru-xuean",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1700
   },
   {
    "id": "work-treatise-berkeley",
