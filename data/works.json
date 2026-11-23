@@ -1305,6 +1305,177 @@
    "sort_year": -350
   },
   {
+   "id": "work-de-interpretatione",
+   "title": "《解释篇》",
+   "title_original": "De interpretatione / Περὶ ἑρμηνείας",
+   "tradition": "west",
+   "date_display": "约前4世纪（亚里士多德，《工具论》之一）",
+   "structure": "十四章：论名词与动词、命题的构成、肯定与否定、全称与特称、模态命题，以及著名的“海战问题”（第九章）。",
+   "core_arguments": [
+    "名词与动词本身无所谓真假，真假只在命题（组合）中",
+    "第九章的“海战问题”：若“明日有海战”今日已为真，则未来是必然的——亚里士多德以此限制二值原则在未来偶然事件上的适用",
+    "模态命题的相互关系（可能、不可能、必然、偶然）"
+   ],
+   "key_points": [
+    {
+     "locator": "第1—4章",
+     "point": "名词、动词与命题"
+    },
+    {
+     "locator": "第7章",
+     "point": "全称与特称"
+    },
+    {
+     "locator": "第9章",
+     "point": "海战问题与未来偶然"
+    },
+    {
+     "locator": "第12—13章",
+     "point": "模态命题的对应关系"
+    }
+   ],
+   "editions": [
+    "中译参方书春《范畴篇 解释篇》商务印书馆；英文 Ackrill 译；Loeb 本"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-plato",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "第9章否定了排中律",
+     "why": "它保留排中律（“明日有海战或没有海战”必真），而限制**二值原则**在未来偶然单称事件上的适用——二者的区分是这一章的关键。"
+    },
+    {
+     "claim": "《解释篇》是逻辑学教科书的一章",
+     "why": "它属《工具论》但论题是**语言与存在的关系**（命题如何与事实相应），其第9章的问题至今是哲学逻辑的核心。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek",
+    "mit-aristotle-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《解释篇》第9章的解释（是否真有限制二值原则，抑或只是关于“必然”的语义辨析）是亚里士多德研究中的著名争论；本页并述其问题，不裁定其解释。",
+   "sort_year": -350
+  },
+  {
+   "id": "work-posterior-analytics",
+   "title": "《后分析篇》",
+   "title_original": "Analytica posteriora",
+   "tradition": "west",
+   "date_display": "约前4世纪（亚里士多德）",
+   "structure": "二卷：卷一论证明的结构、前提的种类（公理、定义、存在预设）、以及“科学”的模型；卷二论定义与本质、以及认识的方法。",
+   "core_arguments": [
+    "证明是“从必然的前提推出必然的结论”的三段论",
+    "科学知识的模型：从第一原理（不可证明者）出发的演绎体系",
+    "“Nous”（理智）把握第一原理：故一切证明皆有其不可证明的起点"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 第1—3章",
+     "point": "证明的结构与前提"
+    },
+    {
+     "locator": "卷一 第4—6章",
+     "point": "必然性与“依自身”"
+    },
+    {
+     "locator": "卷二 第1—10章",
+     "point": "定义与本质"
+    },
+    {
+     "locator": "卷二 第19章",
+     "point": "理智（nous）与第一原理"
+    }
+   ],
+   "editions": [
+    "中译参余纪元／相关译本；英文 Barnes 译（Revised Oxford Translation）；Loeb 本"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-plato",
+    "gr-modern-bacon"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是形式逻辑的教科书",
+     "why": "它论的是**科学知识的结构**（证明、定义、第一原理），故属认识论与科学哲学；形式逻辑的技术见《前分析篇》。"
+    },
+    {
+     "claim": "亚里士多德主张一切知识都可被证明",
+     "why": "他明确说第一原理不可证明（否则无穷倒退），须由“nous”把握——这一点是其知识论的核心限制。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek",
+    "mit-aristotle-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -350
+  },
+  {
+   "id": "work-de-caelo",
+   "title": "《论天》",
+   "title_original": "De caelo",
+   "tradition": "west",
+   "date_display": "约前350（亚里士多德）",
+   "structure": "四卷：卷一论宇宙的完整与永恒、五元素说与“上重下轻”；卷二论天体的运动与球形；卷三—四论生成与毁灭、重与轻。",
+   "core_arguments": [
+    "宇宙是永恒的、无生无灭的、有限的球形整体",
+    "第五元素（aither）与圆周运动：天体不做直线运动",
+    "重与轻是事物的内在性质（非万有引力）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 第2—4章",
+     "point": "宇宙的永恒与有限"
+    },
+    {
+     "locator": "卷一 第2章",
+     "point": "第五元素与圆周运动"
+    },
+    {
+     "locator": "卷二 第14章",
+     "point": "地球的位置与形状"
+    },
+    {
+     "locator": "卷四",
+     "point": "重与轻"
+    }
+   ],
+   "editions": [
+    "中译参相关译本；英文 Guthrie 译（Loeb）；Revised Oxford Translation"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-plato",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "《论天》只是过时的天文学",
+     "why": "它是**宇宙论**：以“永恒、有限、球形、五元素”构成一个可理解的秩序，其影响持续到17世纪；其错误在物理，其问题（宇宙是否有边界、是否永恒）至今仍在讨论。"
+    },
+    {
+     "claim": "亚里士多德认为地球是宇宙的中心因而是重要的",
+     "why": "在他的体系里，中心是**最低**的位置（由土元素构成，故沉重而下），故“在中心”并不表示优越。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek",
+    "sep-aquinas"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -350
+  },
+  {
    "id": "work-metaphysics",
    "title": "《形而上学》",
    "title_original": "Τὰ μετὰ τὰ φυσικά（Metaphysics）",
@@ -1642,6 +1813,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": -340
+  },
+  {
+   "id": "work-eudemian-ethics",
+   "title": "《优台谟伦理学》",
+   "title_original": "Ethica Eudemia",
+   "tradition": "west",
+   "date_display": "约前4世纪（亚里士多德；与《尼各马可伦理学》的关系有争议）",
+   "structure": "八卷（其中卷四—六与《尼各马可伦理学》卷五—七重合）；论幸福、德性、公正、实践智慧与友谊。",
+   "core_arguments": [
+    "幸福是“灵魂合乎完满德性的活动”，与《尼各马可》一致而表述不同",
+    "对“运气”与“高尚”的关系有更细的讨论",
+    "友谊的三种类型与“自爱”的分析"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "幸福与“高尚”"
+    },
+    {
+     "locator": "卷二",
+     "point": "德性的定义与中道"
+    },
+    {
+     "locator": "卷七",
+     "point": "友谊与自爱"
+    },
+    {
+     "locator": "卷八",
+     "point": "运气与幸福"
+    }
+   ],
+   "editions": [
+    "英文 Woods 译（Oxford）；Revised Oxford Translation；中译参相关译本（若有）"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-plato",
+    "gr-ancient-socrates"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《尼各马可伦理学》的草稿",
+     "why": "二者的先后与关系是亚里士多德研究的著名难题（有三卷重合）；今多认为它非草稿，而是另一套讲授，其部分论述（如论运气）更为细致。"
+    },
+    {
+     "claim": "两书的思想完全一致",
+     "why": "在“幸福”的表述、德性的分类与运气的作用上有可辨的差异；故不能简单以《尼各马可》替代它。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek",
+    "mit-aristotle-nicomachean"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《优台谟伦理学》与《尼各马可伦理学》的先后关系（“两书问题”）是亚里士多德研究的核心难题之一；本页只述其内容与差异，不裁定先后。",
    "sort_year": -340
   },
   {

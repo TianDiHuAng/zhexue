@@ -3857,6 +3857,45 @@
    ],
    "needs_verification": true,
    "pending_notes": "“儒家是否为德性伦理”是当代英文学界的活跃争论（安乐哲、万百安等各有立场）；本页只呈两方框架与分歧点，不判定孰是。"
+  },
+  {
+   "id": "cn-songming-jing-zuo",
+   "term": "静坐",
+   "term_latin": "quiet sitting",
+   "definition": "宋明儒的工夫方法（陈献章、刘宗周等）：以静坐为“见端倪”的入手。它与佛教的“坐禅”形似而目标不同——所求者是“见理”（儒家的天理），不是“见性成佛”。",
+   "usages": [
+    {
+     "name": "陈献章",
+     "id": "cn-songming-chen-xianzhang",
+     "usage": "“为学须从静中坐养出个端倪来”。"
+    },
+    {
+     "name": "刘宗周",
+     "id": "cn-songming-liu-zongzhou",
+     "usage": "以“慎独”统摄静坐：静坐是慎独的一环，非全部。"
+    },
+    {
+     "name": "朱熹（对照）",
+     "id": "cn-songming-zhu-xi",
+     "usage": "以“主敬”取代“主静”：敬贯动静，静坐只是其中一端。"
+    }
+   ],
+   "related": [
+    "cn-songming-han-yang",
+    "cn-songming-zhi-liangzhi"
+   ],
+   "example": {
+    "text": "静坐在宋明理学中的位置很微妙：它被推重（作为入手），又被警惕（恐其“近禅”）。故“静”与“敬”的取舍成为区分儒佛的技术标志——静坐本身并不区分，**所求者**才区分。",
+    "figure": "陈献章",
+    "locator": "《陈献章集·与贺克恭黄门》"
+   },
+   "sources": [
+    "ws-baishaji",
+    "ws-chuanxi",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“静坐”在宋明儒中的具体做法与地位各家不同（陈献章重之，朱熹以“主敬”代之，刘宗周以“慎独”统之）；本页并述其差异。"
   }
  ],
  "debates": [

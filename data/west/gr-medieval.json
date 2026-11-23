@@ -3983,6 +3983,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“奥卡姆的剃刀”这一名称与“如无必要勿增实体”的表述均非其原话，是后世的概括（类似表述见邓斯·司各脱与其他人）；本页标出这一点。"
+  },
+  {
+   "id": "gr-medieval-eternity-time",
+   "term": "永恒与时间",
+   "term_latin": "aeternitas / tempus",
+   "definition": "奥古斯丁与波爱修的区分：时间是**流动的现在**（过去已不在、未来尚未在），永恒则是**整体的同时拥有**（tota simul）。故上帝不在时间之中，而时间因受造而有其开端。",
+   "usages": [
+    {
+     "name": "奥古斯丁",
+     "id": "gr-medieval-augustine",
+     "usage": "时间是心灵的延展（distentio animi）；上帝在时间之外。"
+    },
+    {
+     "name": "波爱修",
+     "id": "gr-medieval-boethius",
+     "usage": "永恒是“无限生命的整体同时拥有”（interminabilis vitae tota simul et perfecta possessio）。"
+    },
+    {
+     "name": "阿奎那（承之）",
+     "id": "gr-medieval-aquinas",
+     "usage": "以永恒为神的属性，时间是受造物的度量。"
+    }
+   ],
+   "related": [
+    "gr-medieval-faith-reason"
+   ],
+   "example": {
+    "text": "“整体的同时拥有”解决了一个难题：若上帝“预先”知道，则他也在时间中；若他在时间之外，则“预知”一词并不恰当——故波爱修改用“永恒的现在”来取代“预知”。这一改换是自由意志之争的关键技术。",
+    "figure": "波爱修",
+    "locator": "《哲学的慰藉》卷五；《忏悔录》卷十一"
+   },
+   "sources": [
+    "ws-en-consolation",
+    "sep-augustine",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“永恒”与“时间”的界定在奥古斯丁（心灵延展说）与波爱修（整体同时拥有说）之间有差异，且阿奎那的采纳又作了调整；本页并述其线索。"
   }
  ],
  "debates": [

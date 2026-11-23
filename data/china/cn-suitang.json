@@ -2951,6 +2951,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“法门不二”非某一宗的专名，而是各宗共用的会通原则；本页取其一般含义并标出各宗表述的差异。"
+  },
+  {
+   "id": "cn-suitang-wuxing-zhuan",
+   "term": "五重唯识观",
+   "term_latin": "the fivefold contemplation of consciousness-only",
+   "definition": "法相宗（唯识）的观行次第：遣虚存实、舍滥留纯、摄末归本、隐劣显胜、遣相证性。五重由粗至细，最终“遣相证性”——故唯识的修行是**层层简别**，不是直观。",
+   "usages": [
+    {
+     "name": "窥基",
+     "id": "cn-suitang-kuiji",
+     "usage": "以五重唯识观总括唯识的观行次第。"
+    },
+    {
+     "name": "玄奘（译传者）",
+     "id": "cn-suitang-xuanzang",
+     "usage": "以《成唯识论》糅译十师之说，奠定法相宗的教理基础。"
+    },
+    {
+     "name": "智顗（对照）",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以“一心三观”为观行：一念中即空即假即中，与唯识的“层层简别”路径不同。"
+    }
+   ],
+   "related": [
+    "cn-suitang-weishi"
+   ],
+   "example": {
+    "text": "五重与天台的“一心三观”恰成对照：唯识的路径是**分析的**（一层层剥离虚妄），天台的路径是**圆融的**（一念中三谛具足）。故“渐”与“顿”的差异不只是速度，而是**方法论**的差异。",
+    "figure": "窥基",
+    "locator": "《成唯识论述记》"
+   },
+   "sources": [
+    "ws-chengweishi",
+    "ws-mohezhiguan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“五重唯识观”的体系化归于窥基（《大乘法苑义林章》《成唯识论述记》）；本页依唯识宗研究概述，具体名目与次第须核《大正藏》第43—45卷。"
   }
  ],
  "debates": [
