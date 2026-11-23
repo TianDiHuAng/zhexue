@@ -3935,6 +3935,45 @@
    ],
    "needs_verification": true,
    "pending_notes": "“德性之知”与“见闻之知”的区分在张载、朱熹、王阳明各系中的处理不同；本页并述其差异，具体文本须核《正蒙》与《朱子语类》。"
+  },
+  {
+   "id": "cn-songming-li-yi-fen-shu",
+   "term": "理一分殊",
+   "term_latin": "one principle, many manifestations",
+   "definition": "程颐提出、朱熹发挥的命题：理是一（“理一”），而其在不同事物上的显现各有分际（“分殊”）。故它不是“万物同一”，而是说同一理在不同位置上有不同的具体规定。",
+   "usages": [
+    {
+     "name": "程颐",
+     "id": "cn-songming-cheng-yi",
+     "usage": "“理一分殊”：一理与万物之理的relation。"
+    },
+    {
+     "name": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "usage": "以“月印万川”为喻：月是一，而万川之月各全其月。"
+    },
+    {
+     "name": "王阳明（改造）",
+     "id": "cn-songming-wang-yangming",
+     "usage": "以良知统摄：分殊是良知的发用，非另有理。"
+    }
+   ],
+   "related": [
+    "cn-songming-li-qi",
+    "cn-songming-ge-wu"
+   ],
+   "example": {
+    "text": "“理一分殊”解决的是一个结构难题：若理只是一，则万物何以有差别？若理是多，则理何以普遍？答案是“一理而分殊”——**同一理在不同位置上有不同规定**，故普遍性与差别性并存。月印万川之喻正是此意：每一川之月都是完整的月，而非月的一部分。",
+    "figure": "朱熹",
+    "locator": "《朱子语类》卷九十四；《四书或问》"
+   },
+   "sources": [
+    "ws-taijitushuo",
+    "ws-chuanxi",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

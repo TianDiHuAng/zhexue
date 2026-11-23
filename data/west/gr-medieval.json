@@ -4059,6 +4059,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“光照说”在奥古斯丁、波那文图拉与阿奎那之间的地位与含义差异很大（阿奎那是否仍持某种光照说学界有争论）；本页并述其线索。"
+  },
+  {
+   "id": "gr-medieval-convertibility",
+   "term": "存在的可互换性",
+   "term_latin": "convertibility of being and goodness",
+   "definition": "经院哲学的命题：存在、一、真、善可以互换（ens et bonum convertuntur）——凡存在者皆善，凡善者皆存在。它不是“一切现实皆好”的乐观论，而是说“善”不是附加于存在的另一性质。",
+   "usages": [
+    {
+     "name": "阿奎那",
+     "id": "gr-medieval-aquinas",
+     "usage": "善是“存在之完整性”（perfectio essendi）的另一方面：凡实现其本性者即善。"
+    },
+    {
+     "name": "司各脱（区分）",
+     "id": "gr-medieval-duns-scotus",
+     "usage": "以形式区分说明二者的非同一：可互换而不同一。"
+    },
+    {
+     "name": "康德（后世的批评）",
+     "usage": "以“是”与“应当”的鸿沟否定从存在推出价值。"
+    }
+   ],
+   "related": [
+    "gr-medieval-transcendentals",
+    "gr-medieval-esse"
+   ],
+   "example": {
+    "text": "这一命题的困难在于“恶”：“凡存在者皆善”如何解释恶？经院哲学的回答是恶为“缺失”（privatio boni）——故恶不是存在者，而是存在者的**缺陷**。这一回答的代价是：恶失去了它自己的实在性。",
+    "figure": "阿奎那",
+    "locator": "《神学大全》I, q.5；《论真理》q.21"
+   },
+   "sources": [
+    "sep-aquinas",
+    "book-copleston-history",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“可互换性”的确切含义（是实在的同一还是概念上的相互蕴含）在阿奎那与司各脱之间有差异；本页并述其说与“恶为缺失”的解决。"
   }
  ],
  "debates": [

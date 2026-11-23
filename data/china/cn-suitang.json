@@ -3027,6 +3027,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "三性（遍计、依他、圆成）与三无性（相无性、生无性、胜义无性）的配对关系在《成唯识论》与《摄大乘论》之间有表述差异；本页依《成唯识论》与唯识学研究概述。"
+  },
+  {
+   "id": "cn-suitang-buzeng-bujian",
+   "term": "不增不减",
+   "term_latin": "neither increasing nor decreasing",
+   "definition": "《大乘起信论》与唯识学共用的说法：真如在“染”（迷）时不自减，在“净”（悟）时不自增。故修行不是给真如增加什么，而是去除覆障——这一命题直接反驳“修行是积累”的模型。",
+   "usages": [
+    {
+     "name": "《起信论》",
+     "usage": "“真如自体，不增不减”：染净只是覆与不覆，非本体有增减。"
+    },
+    {
+     "name": "唯识（对照）",
+     "id": "cn-suitang-xuanzang",
+     "usage": "以“转依”说明转舍与转得：所转的是识的依他起，非真如本身。"
+    },
+    {
+     "name": "智顗（平行）",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以“性具”说明本具：修显而不新得。"
+    }
+   ],
+   "related": [
+    "cn-suitang-yinian-wuming",
+    "cn-suitang-xingju"
+   ],
+   "example": {
+    "text": "“不增不减”的分量在于它否定了**修行的累积模型**：若真如可增，则它本来不圆满；若可减，则修行会损害它。故修行只能“去覆”——这一逻辑是东亚佛教工夫论的共同底色。",
+    "figure": "《大乘起信论》",
+    "locator": "《大乘起信论·解释分》"
+   },
+   "sources": [
+    "ws-dacheng-qixinlun",
+    "ws-chengweishi",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“不增不减”在《起信论》（如来藏系统）与唯识（转依系统）中的表述不同；本页并述两系，具体文本须核各自原典。"
   }
  ],
  "debates": [

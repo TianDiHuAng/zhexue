@@ -1590,6 +1590,177 @@
    "sort_year": -350
   },
   {
+   "id": "work-de-generatione",
+   "title": "《论生成与毁灭》",
+   "title_original": "De generatione et corruptione",
+   "tradition": "west",
+   "date_display": "约前350（亚里士多德）",
+   "structure": "二卷：卷一论生成与毁灭的本性、接触与作用、元素的相互转化；卷二论四元素的性质与混合。",
+   "core_arguments": [
+    "生成与毁灭不是“从无到有”，而是**基质的转化**（水变为气）",
+    "四元素由冷、热、干、湿四对性质的组合而成，故可相互转化",
+    "混合物（mixis）不是元素的堆积，而是新质的产生"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 第1—4章",
+     "point": "生成与毁灭的本性"
+    },
+    {
+     "locator": "卷一 第6—10章",
+     "point": "接触与作用"
+    },
+    {
+     "locator": "卷二 第1—3章",
+     "point": "四元素与性质的组合"
+    },
+    {
+     "locator": "卷二 第7—10章",
+     "point": "混合与生长"
+    }
+   ],
+   "editions": [
+    "英文 Revised Oxford Translation；Loeb 本；中译参相关译本（若有）"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-plato",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张事物可以“从无到有”",
+     "why": "它明确反对“从无到有”：生成是基质的转化（某个东西变成另一个东西），故总有先在的质料。"
+    },
+    {
+     "claim": "四元素的转化只是象征性的说法",
+     "why": "它是一个可检验的物理理论：以冷热干湿的组合解释元素的相互转化，并在其框架内解释混合、生长等现象。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek",
+    "mit-aristotle-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -350
+  },
+  {
+   "id": "work-de-memoria",
+   "title": "《记忆与回忆》",
+   "title_original": "De memoria et reminiscentia",
+   "tradition": "west",
+   "date_display": "约前350（亚里士多德，《自然诸短篇》之一）",
+   "structure": "一篇（二章）：第一章论记忆（属于感知与时间的能力）；第二章论回忆（属于理智的探究，以联想为路径）。",
+   "core_arguments": [
+    "记忆的对象是**过去**（故记忆必含时间性），且属于感知部分而非纯理智",
+    "记忆以“影像”（phantasma）为中介：思想若无影像则不可能",
+    "回忆是**推理性的**：以相似、相反、相邻的联想为路径，故可被训练"
+   ],
+   "key_points": [
+    {
+     "locator": "第1章",
+     "point": "记忆与时间的关联"
+    },
+    {
+     "locator": "第1章",
+     "point": "影像（phantasma）的中介作用"
+    },
+    {
+     "locator": "第2章",
+     "point": "回忆是推理性的"
+    },
+    {
+     "locator": "第2章",
+     "point": "联想的三种路径"
+    }
+   ],
+   "editions": [
+    "英文 Revised Oxford Translation；Loeb 本（Parva Naturalia）"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-plato",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "亚里士多德把记忆与回忆混为一谈",
+     "why": "他明确区分：记忆是**保有**过去的影像（属感知），回忆是**主动搜寻**（属理智的探究）。这一区分下接中世纪的记忆论。"
+    },
+    {
+     "claim": "“思想无影像则不可能”是经验论",
+     "why": "它是关于**人的思想**的主张（人的理智依赖影像），而非关于一切认识的主张；故与其“主动理智”说不矛盾。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -350
+  },
+  {
+   "id": "work-de-sophisticis-elenchis",
+   "title": "《辩谬篇》",
+   "title_original": "De sophisticis elenchis",
+   "tradition": "west",
+   "date_display": "约前4世纪（亚里士多德，《工具论》末篇）",
+   "structure": "一章（三十四节）：论诡辩的驳论（分为“语言上的”六种与“语言外的”七种）、其解法，以及论辩中的诚实规则。",
+   "core_arguments": [
+    "诡辩的驳论只是**表面的**驳论（似是而非）",
+    "依语言而生的六种谬误：歧义、双关、合成、分割、重音、语形",
+    "依语言外而生的七种：偶然、以偏概全、错误归因、窃取论点、把后件当原因、错误预设、多问合一"
+   ],
+   "key_points": [
+    {
+     "locator": "第1—2章",
+     "point": "驳论的种类与诡辩的定义"
+    },
+    {
+     "locator": "第4章",
+     "point": "语言上的六种谬误"
+    },
+    {
+     "locator": "第5章",
+     "point": "语言外的七种谬误"
+    },
+    {
+     "locator": "第30—34节",
+     "point": "解法与论辩的规则"
+    }
+   ],
+   "editions": [
+    "中译参相关译本（若有）；英文 Revised Oxford Translation；Loeb 本"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-gorgias",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“诡辩术”的教材",
+     "why": "它是**识别与破解**诡辩的手册：分类的目的是“解法”（lysis），故其立场是反对诡辩。"
+    },
+    {
+     "claim": "十三种谬误的分类已经过时",
+     "why": "其中多项（歧义、合成/分割、窃取论点、以偏概全）仍是当代非形式逻辑与论证理论的基本范畴。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -350
+  },
+  {
    "id": "work-metaphysics",
    "title": "《形而上学》",
    "title_original": "Τὰ μετὰ τὰ φυσικά（Metaphysics）",

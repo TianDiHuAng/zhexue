@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 998,
+  "entries": 1004,
   "by_level": {
-   "L2": 761,
-   "L1": 237
+   "L2": 765,
+   "L1": 239
   },
   "doctrine": {
    "total": 237,
    "detail": 237,
    "auto": 0
   },
-  "needs_verification": 237,
+  "needs_verification": 239,
   "sources": 374,
   "sources_verified": 374
  },
@@ -39,7 +39,7 @@
    "title": "宋明理学与心学",
    "region": "china",
    "philosophers": 20,
-   "concepts": 23,
+   "concepts": 24,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -12"
   },
@@ -48,7 +48,7 @@
    "title": "隋唐佛学",
    "region": "china",
    "philosophers": 14,
-   "concepts": 27,
+   "concepts": 28,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -6"
   },
@@ -129,7 +129,7 @@
    "title": "中世纪经院哲学",
    "region": "west",
    "philosophers": 18,
-   "concepts": 27,
+   "concepts": 28,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -1608,6 +1608,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-songming-li-yi-fen-shu",
+   "type": "concept",
+   "title": "理一分殊",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-songming-zhu-lu",
    "type": "debate",
    "title": "尊德性还是道问学：朱陆之辩",
@@ -2139,6 +2150,17 @@
    "id": "cn-suitang-sanxing",
    "type": "concept",
    "title": "三性",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-suitang-buzeng-bujian",
+   "type": "concept",
+   "title": "不增不减",
    "container": "cn-suitang",
    "level": "L1",
    "sources": 3,
@@ -6690,6 +6712,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-medieval-convertibility",
+   "type": "concept",
+   "title": "存在的可互换性",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-medieval-universals-debate",
    "type": "debate",
    "title": "共相是实在还是名称",
@@ -7787,6 +7820,39 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-de-generatione",
+   "type": "work",
+   "title": "《论生成与毁灭》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-de-memoria",
+   "type": "work",
+   "title": "《记忆与回忆》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-de-sophisticis-elenchis",
+   "type": "work",
+   "title": "《辩谬篇》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
