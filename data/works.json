@@ -1196,6 +1196,64 @@
    "sort_year": 1550
   },
   {
+   "id": "work-novum-organum",
+   "title": "《新工具》",
+   "title_original": "Novum Organum Scientiarum",
+   "tradition": "west",
+   "date_display": "1620年",
+   "structure": "两卷：第一卷（ aphorisms 1—130）批判旧逻辑、提出四假象；第二卷论归纳法与判例表（本质表、差异表、程度表），未完成。",
+   "core_arguments": [
+    "知识的目标是效力于人生（knowledge is power）",
+    "四假象：种族、洞穴、市场、剧场",
+    "归纳法：以判例表整理经验，逐级上升至公理，再以实验检验"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 格言 1—68",
+     "point": "四假象的学说"
+    },
+    {
+     "locator": "卷一 格言 95",
+     "point": "“自然的解释者”只能阅读自然之书"
+    },
+    {
+     "locator": "卷二 格言 11—20",
+     "point": "判例表与归纳法"
+    },
+    {
+     "locator": "卷二 格言 52",
+     "point": "优先实例（prerogative instances）"
+    }
+   ],
+   "editions": [
+    "许宝骙译《新工具》商务印书馆",
+    "Early Modern Texts 英译改编本（Bennett）"
+   ],
+   "related_people": [
+    "gr-modern-bacon",
+    "gr-19c-mill",
+    "gr-modern-descartes"
+   ],
+   "misreadings": [
+    {
+     "claim": "培根提出了“科学方法”的完整体系",
+     "why": "《新工具》第二卷未完成，判例表只是纲领；近代科学方法的成型是后世的事。"
+    },
+    {
+     "claim": "四假象是心理学的分类",
+     "why": "它是认识论的诊断：指出四类系统性偏见如何扭曲判断，目的在建立校正方法。"
+    }
+   ],
+   "sources": [
+    "iep-bacon",
+    "emt-bacon",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1620
+  },
+  {
    "id": "work-discourse-method",
    "title": "《谈谈方法》",
    "title_original": "Discours de la méthode",
@@ -1365,6 +1423,177 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1651
+  },
+  {
+   "id": "work-mingyi",
+   "title": "《明夷待访录》",
+   "title_original": "明夷待訪錄",
+   "tradition": "china",
+   "date_display": "1663年",
+   "structure": "二十一篇：《原君》《原臣》《原法》《置相》《学校》《田制》《兵制》《财计》等，以“原”体追溯制度之本。",
+   "core_arguments": [
+    "君主本为天下兴利除害，后世君主“以天下奉一人”，故为“天下之大害”",
+    "以“天下为主，君为客”重定君臣关系",
+    "学校可议政：以公共舆论约束权力"
+   ],
+   "key_points": [
+    {
+     "locator": "《原君》",
+     "point": "“为天下之大害者，君而已矣”"
+    },
+    {
+     "locator": "《原臣》",
+     "point": "臣为“万民”而非为“一姓”"
+    },
+    {
+     "locator": "《学校》",
+     "point": "学校不仅是养士之地，且可议政"
+    },
+    {
+     "locator": "《原法》",
+     "point": "“非法之法”与“无法之法”之别"
+    }
+   ],
+   "editions": [
+    "《黄宗羲全集》浙江古籍出版社；《明夷待访录》中华书局点校本"
+   ],
+   "related_people": [
+    "cn-qingmod-huang-zongxi",
+    "cn-qingmod-gu-yanwu",
+    "cn-qingmod-tan-sitong"
+   ],
+   "misreadings": [
+    {
+     "claim": "黄宗羲主张废除君主制",
+     "why": "他批判的是“以天下奉一人”的君主，主张回到“天下为主”的本意并设相、开学校，未主张共和制。"
+    },
+    {
+     "claim": "此书在清代广泛流传",
+     "why": "其书在清代多遭禁抑，晚清经梁启超等表彰才广为人知。"
+    }
+   ],
+   "sources": [
+    "sep-qing-philosophy",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《明夷待访录》无已核验的原典在线来源进本库，篇目与引文依清代学术研究与哲学史著作转述；引原句须补一部点校本作来源。",
+   "sort_year": 1663
+  },
+  {
+   "id": "work-pensees",
+   "title": "《思想录》",
+   "title_original": "Pensées",
+   "tradition": "west",
+   "date_display": "1670年（遗著）",
+   "structure": "未完成的护教札记，由亲友编次；今通行编号依 Lafuma 版（或 Sellier 版），与旧有的 Brunschvicg 编号不同。",
+   "core_arguments": [
+    "人的伟大与可悲：人是“会思想的芦苇”",
+    "赌注论证：理性无法决定上帝是否存在，但得失无限，故应信",
+    "两种精神：几何精神（esprit de géométrie）与微妙精神（esprit de finesse）"
+   ],
+   "key_points": [
+    {
+     "locator": "Lafuma 418",
+     "point": "赌注论证（le pari）"
+    },
+    {
+     "locator": "Lafuma 200",
+     "point": "“这无限空间的永恒沉默使我恐惧”"
+    },
+    {
+     "locator": "Lafuma 512",
+     "point": "几何精神与微妙精神的区分"
+    },
+    {
+     "locator": "Lafuma 425",
+     "point": "“人心有理性所不知的理由”"
+    }
+   ],
+   "editions": [
+    "何兆武译《思想录》商务印书馆（编号依 Lafuma 版）",
+    "Early Modern Texts 英译选编本"
+   ],
+   "related_people": [
+    "gr-modern-pascal",
+    "gr-modern-descartes",
+    "gr-19c-kierkegaard"
+   ],
+   "misreadings": [
+    {
+     "claim": "赌注论证是上帝存在的证明",
+     "why": "它不证明存在，而是实践理性的决策论证：在理性无法裁决时如何行动。"
+    },
+    {
+     "claim": "帕斯卡是反理性的",
+     "why": "他限制理性在其领域内（几何精神），同时指出其界限，不是否弃理性。"
+    }
+   ],
+   "sources": [
+    "sep-pascal",
+    "emt-pascal",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1670
+  },
+  {
+   "id": "work-ethics-spinoza",
+   "title": "《伦理学》",
+   "title_original": "Ethica ordine geometrico demonstrata",
+   "tradition": "west",
+   "date_display": "1677年（遗著）",
+   "structure": "五部分，以几何学方式编排（定义—公理—命题—证明—附释）：论神、论心灵的性质与起源、论情感的起源与性质、论人的奴役或情感的力量、论理智的力量或人的自由。",
+   "core_arguments": [
+    "只有一个实体（神即自然），万物是其样态",
+    "心灵与身体是同一实体的两种属性（思想与广延）",
+    "自由是对必然性的认识：情感之奴役可被理解所克服"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分 命题11—15",
+     "point": "神是唯一实体，无外在原因"
+    },
+    {
+     "locator": "第二部分 命题7",
+     "point": "观念的次序即事物的次序"
+    },
+    {
+     "locator": "第三部分",
+     "point": "情感的机械论：conatus（努力自存）"
+    },
+    {
+     "locator": "第五部分 命题42",
+     "point": "“幸福不是德性的报酬，而是德性本身”"
+    }
+   ],
+   "editions": [
+    "贺麟译《伦理学》商务印书馆",
+    "Curley 英译本（Princeton）"
+   ],
+   "related_people": [
+    "gr-modern-spinoza",
+    "gr-modern-descartes",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "斯宾诺莎是无神论者",
+     "why": "他用“神即自然”的同一性取代人格神，在当时的正统看来是 atheism，但他本人以“神”为最高肯定。"
+    },
+    {
+     "claim": "他的决定论取消了自由",
+     "why": "自由被重新定义为“依自身本性行动”与“认识必然”，不是无原因的选择。"
+    }
+   ],
+   "sources": [
+    "sep-spinoza",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "原典译本尚未进本库（无 emt-spinoza），故不作逐字引文；命题编号依 SEP 词条与通行英译本，若引原文须补一部中译本作来源。",
+   "sort_year": 1677
   },
   {
    "id": "work-two-treatises",
@@ -2049,6 +2278,62 @@
    "sort_year": 1859
   },
   {
+   "id": "work-zarathustra",
+   "title": "《查拉图斯特拉如是说》",
+   "title_original": "Also sprach Zarathustra",
+   "tradition": "west",
+   "date_display": "1883—1885年",
+   "structure": "四部，以“下山—教导—再下山”的叙事串联；核心讲演包括上帝之死、超人、末人、永恒轮回、权力意志。",
+   "core_arguments": [
+    "上帝之死：最高价值自行贬黜，须重估一切价值",
+    "超人与末人：能创造价值者 vs 只求舒适者",
+    "永恒轮回：对生命的最高肯定（命运之爱）"
+   ],
+   "key_points": [
+    {
+     "locator": "序言 3—5",
+     "point": "上帝之死与超人的宣告"
+    },
+    {
+     "locator": "序言 5",
+     "point": "末人的画像"
+    },
+    {
+     "locator": "第二部“论救赎”",
+     "point": "意志与时间的关系"
+    },
+    {
+     "locator": "第三部“论幻象与谜”",
+     "point": "永恒轮回的初次道出"
+    }
+   ],
+   "editions": [
+    "孙周兴译《查拉图斯特拉如是说》商务印书馆",
+    "KSA 4（de Gruyter）德文本"
+   ],
+   "related_people": [
+    "gr-19c-nietzsche",
+    "gr-19c-schopenhauer"
+   ],
+   "misreadings": [
+    {
+     "claim": "查拉图斯特拉是尼采的代言人",
+     "why": "它是文学面具（dramatic persona），其言说带有反讽与自我超越的结构，不宜逐句当作尼采的主张。"
+    },
+    {
+     "claim": "超人是种族或生物学概念",
+     "why": "它是价值创造者的象征，与生物学种族论无关；后世对此的挪用属曲解。"
+    }
+   ],
+   "sources": [
+    "sep-nietzsche",
+    "iep-nietzsche"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1883
+  },
+  {
    "id": "work-being-time",
    "title": "《存在与时间》",
    "title_original": "Sein und Zeit",
@@ -2163,6 +2448,120 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1943
+  },
+  {
+   "id": "work-investigations",
+   "title": "《哲学研究》",
+   "title_original": "Philosophische Untersuchungen",
+   "tradition": "west",
+   "date_display": "1953年（遗著）",
+   "structure": "两编：第一编 §1—§693，以“语言游戏”与“家族相似”批判指称论；第二编（后编为《心理学哲学评论》的一部分）论面相知觉与私人经验。",
+   "core_arguments": [
+    "意义即用法：语词的意义在于它在语言游戏中的使用",
+    "家族相似：概念无贯穿一切的共同本质",
+    "遵循规则的悖论：规则不能独自决定应用，须有实践与训练"
+   ],
+   "key_points": [
+    {
+     "locator": "§1—§20",
+     "point": "奥古斯丁的语言图景与“建筑工”语言游戏"
+    },
+    {
+     "locator": "§66—§67",
+     "point": "家族相似（以“游戏”为例）"
+    },
+    {
+     "locator": "§201",
+     "point": "遵循规则的悖论"
+    },
+    {
+     "locator": "§243—§315",
+     "point": "私人语言论证"
+    }
+   ],
+   "editions": [
+    "陈嘉映译《哲学研究》商务印书馆",
+    "PI 英德对照本（Hacker & Schulte 编）"
+   ],
+   "related_people": [
+    "gr-20c-wittgenstein",
+    "gr-20c-austin",
+    "gr-20c-russell"
+   ],
+   "misreadings": [
+    {
+     "claim": "后期维特根斯坦主张“什么都可以”",
+     "why": "他强调用法与规则的公共性，“怎么都行”是对其规则观的误读。"
+    },
+    {
+     "claim": "私人语言论证否认内心经验",
+     "why": "它否认的是“私人地命名感觉”的模型，不是否认感觉本身。"
+    }
+   ],
+   "sources": [
+    "sep-wittgenstein",
+    "book-wittgenstein-pi"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1953
+  },
+  {
+   "id": "work-theory-justice",
+   "title": "《正义论》",
+   "title_original": "A Theory of Justice",
+   "tradition": "west",
+   "date_display": "1971年",
+   "structure": "三部分：理论（原初状态、两个正义原则）、制度（自由、分配、义务）、目的（善、正义感、社会联合）。",
+   "core_arguments": [
+    "原初状态与无知之幕：排除偶然性以实现公平的协议",
+    "两个正义原则：平等的自由优先，差别原则允许不平等仅当有利于最不利者",
+    "反思平衡：原则与深思熟虑的判断相互调整"
+   ],
+   "key_points": [
+    {
+     "locator": "§3—§4",
+     "point": "原初状态与无知之幕"
+    },
+    {
+     "locator": "§11—§13",
+     "point": "两个正义原则的表述与优先次序"
+    },
+    {
+     "locator": "§46—§50",
+     "point": "差别原则的论证"
+    },
+    {
+     "locator": "§87",
+     "point": "反思平衡的方法论"
+    }
+   ],
+   "editions": [
+    "何怀宏、何包钢、廖申白译《正义论》中国社会科学出版社",
+    "Revised Edition（Harvard）"
+   ],
+   "related_people": [
+    "gr-contemp-rawls",
+    "gr-contemp-nozick",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "无知之幕是假设的心理状态",
+     "why": "它是论证装置（model of representation），不描述真实的人的心理。"
+    },
+    {
+     "claim": "罗尔斯主张绝对平等",
+     "why": "差别原则允许不平等，条件是改善最不利者的处境。"
+    }
+   ],
+   "sources": [
+    "sep-rawls",
+    "sep-hobbes"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1971
   }
  ]
 }
