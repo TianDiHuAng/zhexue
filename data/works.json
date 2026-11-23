@@ -859,6 +859,64 @@
    "sort_year": 120
   },
   {
+   "id": "work-marcus-meditations",
+   "title": "《沉思录》",
+   "title_original": "Τὰ εἰς ἑαυτόν（Ta eis heauton，致自己）",
+   "tradition": "west",
+   "date_display": "约170—180年",
+   "structure": "十二卷札记；卷一为对家人、师长、神明的致谢名单，卷二以后为格言式的自我劝勉，无统一论证结构。",
+   "core_arguments": [
+    "只有判断在能力之内，故善恶系于判断而非事件",
+    "人是为共同体而生的，为共同善行动即实现本性",
+    "死亡是自然过程，名声由他人意见构成，皆不足恃"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "致谢名单（史料价值最高的部分）"
+    },
+    {
+     "locator": "卷二 1",
+     "point": "“每天开始时对自己说：我将遇到好管闲事的人……”"
+    },
+    {
+     "locator": "卷四 3",
+     "point": "人退居自身心灵，即得最宁静的退隐"
+    },
+    {
+     "locator": "卷七 17",
+     "point": "“痛苦不是不可忍受的，除非你认为它不可忍受”"
+    }
+   ],
+   "editions": [
+    "何怀宏译《沉思录》中央编译出版社／商务印书馆",
+    "Loeb Classical Library（Haines 希英对照）"
+   ],
+   "related_people": [
+    "gr-hellenistic-marcus-aurelius",
+    "gr-hellenistic-epictetus",
+    "gr-hellenistic-seneca"
+   ],
+   "misreadings": [
+    {
+     "claim": "《沉思录》是系统的伦理学著作",
+     "why": "它是私人札记，重复、跳跃且有自我责备，不是体系；其价值正在于呈现原理如何被反复练习。"
+    },
+    {
+     "claim": "书名意为“关于沉思”",
+     "why": "希腊原题 Τὰ εἰς ἑαυτόν 意为“写给自己的东西”，后世才被题为“沉思录”。"
+    }
+   ],
+   "sources": [
+    "sep-marcus-aurelius",
+    "sep-stoicism",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 175
+  },
+  {
    "id": "work-ennreads",
    "title": "《九章集》",
    "title_original": "Ἐννεάδες（Enneads）",

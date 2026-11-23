@@ -1672,6 +1672,160 @@
      "note": "系统神学的早期纲要；鲁菲努斯译本需谨慎使用"
     }
    ]
+  },
+  {
+   "id": "gr-hellenistic-marcus-aurelius",
+   "name": "马可·奥勒留",
+   "latin": "Marcus Aurelius",
+   "birth_year": 121,
+   "death_year": 180,
+   "birth_display": "121年",
+   "death_display": "180年",
+   "birth_note": "生于罗马；据《罗马帝王传》与本人著作，出身西班牙裔元老家族，幼年被哈德良看中。",
+   "death_note": "180年卒于多瑙河前线（文多波纳或西尔米乌姆），据卡西乌斯·狄奥。",
+   "era": "罗马帝国安敦尼王朝。马可·奥勒留是“五贤帝”最后一位，在位期间战事、瘟疫与内乱不断；其《沉思录》是写给自己的札记，为斯多亚实践哲学最完整的自我记录。",
+   "school": "斯多亚主义（罗马）",
+   "core_questions": [
+    "如何在不可控的处境中保持内心不受扰？",
+    "人为何应当为共同体而行动？",
+    "死亡与名声应如何看待？"
+   ],
+   "arguments": [
+    {
+     "claim": "只有判断在我们的能力之内，故只有判断关乎善恶",
+     "premises": [
+      "外物（健康、名声、他人的看法）不由我们决定。",
+      "对同一外物的判断由我们决定。"
+     ],
+     "inference": "若善恶取决于我们的判断而非外物，则受扰的根源在我们自己，且可以撤回。",
+     "conclusion": "伤害人的不是事情，而是对事情的判断；撤回判断即得安宁。",
+     "kind": "原文"
+    },
+    {
+     "claim": "人是为共同体而生的，故行动须指向共同善",
+     "premises": [
+      "理性存在者的本性是社会的（“天生为了合作”）。",
+      "个体是整体的一部分，部分不为自身而存在。"
+     ],
+     "inference": "若人的理性本性是社会性的，则违背共同善的行动违背自己的本性，终将自伤。",
+     "conclusion": "为共同善而行动不是外加义务，而是实现自身本性。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《沉思录》（Τὰ εἰς ἑαυτόν，字面“致自己”）",
+     "edition": "中译参何怀宏译，中央编译出版社／商务印书馆；Loeb 版（Haines）希英对照",
+     "note": "十二卷札记，非为发表而作"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "爱比克泰德",
+     "id": "gr-hellenistic-epictetus",
+     "note": "《沉思录》卷一明确致谢其《语录》"
+    },
+    {
+     "name": "芝诺与克律西波的斯多亚体系",
+     "id": "gr-hellenistic-zeno",
+     "note": "宇宙理性与顺应自然"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "后世斯多亚复兴与现代认知疗法",
+     "id": null,
+     "note": "“判断而非事件”的框架被认知疗法援引"
+    },
+    {
+     "name": "近代政治思想中的“世界公民”",
+     "id": null,
+     "note": "共同体与普遍理性的观念"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "近代批评者（如黑格尔一系）",
+     "view": "斯多亚式内在自由是退守：在无法改变处境时把自由收进内心，可能削弱改变现实的行动。",
+     "response": "马可·奥勒留式的回应是：内在的宁静正是有效行动的条件，而非替代；他在位期间亲征、赈灾、改革法律，并非退避。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-marcus-aurelius",
+      "sep-stoicism"
+     ]
+    },
+    {
+     "critic": "关于“一致性”的质疑",
+     "view": "《沉思录》为私人札记，重复与自我劝勉甚多，是否构成“学说”可疑。",
+     "response": "其回应可重构为：重复正是实践哲学的特征——它不是要建立体系，而是要把已接受的原理反复刻入行为。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-marcus-aurelius",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《沉思录》是为出版而写的著作",
+     "why": "开篇即“致自己”，全书为自我劝勉的札记；其重复与自斥正说明并非面向读者。"
+    },
+    {
+     "claim": "斯多亚主张压抑情感",
+     "why": "其目标是使情感合乎理性（“好的情感”如喜悦、愿望被保留），不是消灭一切情感；apatheia 指不受扰乱。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>马可·奥勒留：判断、本性与共同善</text><defs><marker id='aMA' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>外物不由我们决定</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>判断由我们决定</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故善恶在判断</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故为共同善而行动即实现本性</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aMA)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aMA)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "马可·奥勒留：判断的撤回与共同体（示意图）",
+   "sources": [
+    "sep-marcus-aurelius",
+    "sep-stoicism",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "马可·奥勒留的斯多亚主义以“判断”为枢纽：外物不由我们决定，对外物的判断则由我们决定，故善恶系于判断而非事件，受扰的根源在自己且可撤回。他又以“人是为共同体而生”说明为共同善而行动是实现自身本性，而非外加义务。其《沉思录》是写给自己的札记，故以重复与自我劝勉为形式，这正是实践哲学的特征。",
+    "system": [
+     {
+      "name": "判断的撤回",
+      "content": "伤害人的不是事情而是判断；撤回判断即得安宁。"
+     },
+     {
+      "name": "顺应自然",
+      "content": "宇宙由理性贯通；合乎自然地生活即合乎理性地生活。"
+     },
+     {
+      "name": "共同体",
+      "content": "人是社会性的理性存在者，为共同善而行动即实现本性。"
+     },
+     {
+      "name": "死亡与名声",
+      "content": "死亡是自然过程；名声的延续短暂且由他人意见构成，不足为凭。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "早年与继承（121—161）",
+      "change": "受哈德良与安敦尼·庇乌斯培养；161年与卢基乌斯·维鲁斯共治。"
+     },
+     {
+      "period": "在位与战事（161—180）",
+      "change": "战事、瘟疫（安东尼瘟疫）、阿维狄乌斯·卡西乌斯叛乱；《沉思录》多写于多瑙河前线。"
+     }
+    ],
+    "reception": "其“判断而非事件”的框架被现代认知疗法援引；《沉思录》成为斯多亚实践哲学最广传的文本；近代“世界公民”观念与其共同体论相关。"
+   },
+   "works_detail": [
+    {
+     "title": "《沉思录》",
+     "structure": "十二卷札记；卷一为对师长亲友的致谢，卷二以后为自我劝勉与原理复述。",
+     "core_thesis": "判断的撤回；顺应自然；为共同善而行动。",
+     "editions": "何怀宏译中央编译出版社／商务印书馆；Loeb 版（Haines）",
+     "note": "非为发表而作，故体例松散；卷一次序与人物可作史料读"
+    }
+   ]
   }
  ],
  "concepts": [

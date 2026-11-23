@@ -1,14 +1,14 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 455,
+  "entries": 458,
   "by_level": {
-   "L2": 390,
+   "L2": 393,
    "L1": 65
   },
   "doctrine": {
-   "total": 150,
-   "detail": 150,
+   "total": 151,
+   "detail": 151,
    "auto": 0
   },
   "needs_verification": 65,
@@ -119,10 +119,10 @@
    "unit_id": "gr-hellenistic",
    "title": "希腊化与罗马哲学",
    "region": "west",
-   "philosophers": 11,
+   "philosophers": 12,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -3"
+   "philosophers_slot": "8 上限，余 -4"
   },
   {
    "unit_id": "gr-medieval",
@@ -3104,6 +3104,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-hellenistic-marcus-aurelius",
+   "type": "philosopher",
+   "title": "马可·奥勒留",
+   "container": "gr-hellenistic",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-hellenistic-supreme-good",
    "type": "concept",
    "title": "至善",
@@ -3962,6 +3973,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-marcus-meditations",
+   "type": "work",
+   "title": "《沉思录》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-ennreads",
    "type": "work",
    "title": "《九章集》",
@@ -4669,6 +4691,17 @@
    "id": "cmp-dream-skepticism",
    "type": "comparative",
    "title": "梦与醒：庄周梦蝶与笛卡尔恶魔的两种怀疑",
+   "container": "comparative",
+   "level": "L2",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-fate-freedom",
+   "type": "comparative",
+   "title": "命与力：中西“命运”问题的四副面孔",
    "container": "comparative",
    "level": "L2",
    "sources": 4,
