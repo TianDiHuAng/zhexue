@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1010,
+  "entries": 1013,
   "by_level": {
    "L2": 768,
-   "L1": 242
+   "L1": 245
   },
   "doctrine": {
-   "total": 239,
-   "detail": 239,
+   "total": 241,
+   "detail": 241,
    "auto": 0
   },
-  "needs_verification": 242,
-  "sources": 377,
-  "sources_verified": 377
+  "needs_verification": 245,
+  "sources": 384,
+  "sources_verified": 384
  },
  "units": [
   {
@@ -128,10 +128,10 @@
    "unit_id": "gr-medieval",
    "title": "中世纪经院哲学",
    "region": "west",
-   "philosophers": 18,
-   "concepts": 28,
+   "philosophers": 20,
+   "concepts": 29,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -10"
+   "philosophers_slot": "8 上限，余 -12"
   },
   {
    "unit_id": "gr-modern",
@@ -6459,6 +6459,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-medieval-al-kindi",
+   "type": "philosopher",
+   "title": "金迪",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-al-ghazali",
+   "type": "philosopher",
+   "title": "安萨里",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-medieval-faith-reason",
    "type": "concept",
    "title": "信仰与理性",
@@ -6759,6 +6781,17 @@
    "id": "gr-medieval-convertibility",
    "type": "concept",
    "title": "存在的可互换性",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-occasionalism",
+   "type": "concept",
+   "title": "偶因论",
    "container": "gr-medieval",
    "level": "L1",
    "sources": 3,

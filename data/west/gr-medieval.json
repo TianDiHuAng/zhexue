@@ -3022,6 +3022,296 @@
      "note": "1267 年呈教皇"
     }
    ]
+  },
+  {
+   "id": "gr-medieval-al-kindi",
+   "name": "金迪",
+   "latin": "al-Kindī (Yaʿqūb ibn Isḥāq al-Kindī)",
+   "birth_year": 801,
+   "death_year": 873,
+   "birth_display": "约801年",
+   "death_display": "约873年",
+   "birth_note": "据阿拉伯传记文献：生于库法，出身于阿拉伯部族（Kinda），活动于巴格达的阿拔斯宫廷。",
+   "death_note": "约873年卒于巴格达。",
+   "era": "9世纪的巴格达。金迪被称为“阿拉伯人的哲学家”（faylasūf al-ʿArab）：他把希腊哲学（尤其亚里士多德与新柏拉图主义的流溢说）系统引入阿拉伯语，并主张哲学与启示不冲突——真理只有一个，哲学以论证达之，先知以启示达之。",
+   "school": "阿拉伯 falsafa 的开创者（新柏拉图—亚里士多德混合）",
+   "core_questions": [
+    "哲学与启示是否冲突？",
+    "万物如何从“一”生出？",
+    "哲学的界限在哪里？"
+   ],
+   "arguments": [
+    {
+     "claim": "哲学与启示同源：真理不悖真理",
+     "premises": [
+      "哲学以人的理性探求万物的真理。",
+      "启示由神赐予，其所言亦为真理。"
+     ],
+     "inference": "若二者皆为真理，则不可能相互否定；故哲学不损害宗教，宗教亦不必排斥哲学。",
+     "conclusion": "哲学与启示同源而不冲突（此说为整个 falsafa 的合法性奠基）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "从“一”到多的流溢：以“创造”为永恒的流出",
+     "premises": [
+      "“一”是绝对单纯者，故其“行为”不可能是多个。",
+      "由“一”流出第一理智，再由其上生出多。"
+     ],
+     "inference": "若“一”的行为是唯一的，则多的产生只能是**层级性的流溢**（而非神的任意创造）——这一图式为后来的伊本·西那所发展。",
+     "conclusion": "多由“一”分层流溢而出（此说与创世论有张力）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论第一哲学》《论理智》《论五本原》",
+     "edition": "阿拉伯原文与英译见 al-Kindi's Philosophical Works（Abu Rida 编／Ivry 译）",
+     "note": "9世纪"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "亚里士多德与新柏拉图主义",
+     "id": null,
+     "note": "以《神学》（实为普罗提诺《九章集》改编）为新柏拉图来源"
+    },
+    {
+     "name": "普罗提诺（流溢说）",
+     "id": null,
+     "note": "以“太一”的流溢为存在的层级"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "法拉比（继承者）",
+     "id": "gr-medieval-al-farabi",
+     "note": "以流溢说与先知哲学发展之"
+    },
+    {
+     "name": "伊本·西那",
+     "id": null,
+     "note": "以本质—存在的区分为其形而上学核心"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "守旧的宗教学者",
+     "view": "以哲学为外来学问，其“流溢”说与创世论不合。",
+     "response": "金迪一系的回应是：哲学只以论证重述启示的真理，不引入新的教义；其对“真理不悖真理”的坚持正是此意。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-al-kindi",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "金迪是“纯粹的亚里士多德派”",
+     "why": "其形而上学的核心（流溢、太一、理智层级）来自新柏拉图主义；其“亚里士多德”常经新柏拉图化的转手。"
+    },
+    {
+     "claim": "他主张哲学高于启示",
+     "why": "他主张二者同源且不冲突，且明确承认先知的道路在**大众**层面更有效。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>金迪：真理不悖真理与流溢</text><defs><marker id='aAK' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>哲学以理性求真理</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>启示由神赐予亦为真理</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故二者不相互否定</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故多由“一”分层流溢</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aAK)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aAK)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "金迪：哲学与启示的同源与流溢的层级（示意图）",
+   "sources": [
+    "sep-al-kindi",
+    "book-copleston-history",
+    "sep-al-farabi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "金迪的著作多有散佚，今存部分为拉丁译本（如《论理智》的拉丁本）；其“流溢”说的具体图式与伪普罗提诺文献（《神学》）的关系须核 Ivry 的研究与阿拉伯原文校勘本。",
+   "doctrine": {
+    "summary": "金迪把希腊哲学系统引入阿拉伯语，并主张“真理不悖真理”：哲学以理性探求，启示由神赐予，二者皆为真理，故不相互否定。其形而上学以新柏拉图式的流溢说为骨干——由绝对单纯的“一”分层流出多，这一图式为法拉比与伊本·西那所发展。",
+    "system": [
+     {
+      "name": "真理不悖真理",
+      "content": "哲学与启示同源，不相互否定；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "流溢（fayḍ）",
+      "content": "多由“一”分层流出，非任意的创造；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "理智的层级",
+      "content": "第一理智→诸天理智→主动理智→人的理智。"
+     },
+     {
+      "name": "哲学的界限",
+      "content": "论证的真理面向少数，启示的修辞面向大众。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "库法与巴格达（约801—约873）",
+      "change": "出身 Kinda 部族；在阿拔斯宫廷（马蒙时期）从事翻译与著述；参与希腊文献的阿拉伯语化；约873年卒。"
+     }
+    ],
+    "reception": "金迪被称为“阿拉伯人的哲学家”，是阿拉伯 falsafa 的开创者；其“真理不悖真理”为哲学在伊斯兰世界的合法性奠定了基调；流溢说经法拉比、伊本·西那发展为系统的新柏拉图主义形而上学。"
+   },
+   "works_detail": [
+    {
+     "title": "《论第一哲学》",
+     "structure": "四部分（部分散佚）：论哲学的对象（真者之为真者）、论“一”与多、论世界的非永恒、论方法。",
+     "core_thesis": "哲学以“真者之为真者”为对象；真理不悖真理。",
+     "editions": "Abu Rida 编校本；Ivry 英译（Al-Kindi's Metaphysics）",
+     "note": "9世纪；部分仅存拉丁译本"
+    }
+   ]
+  },
+  {
+   "id": "gr-medieval-al-ghazali",
+   "name": "安萨里",
+   "latin": "al-Ghazālī (Abū Ḥāmid al-Ghazālī)",
+   "birth_year": 1058,
+   "death_year": 1111,
+   "birth_display": "1058年",
+   "death_display": "1111年",
+   "birth_note": "据其自传《迷途指津》：生于图斯（波斯），在尼沙普尔从朱韦尼学神学，1091年任巴格达尼扎米亚学院教授。",
+   "death_note": "1111年卒于图斯。",
+   "era": "11—12世纪。安萨里被称为“伊斯兰的权威”（ḥujjat al-Islām）：他在《哲学家的矛盾》中系统批判 falsafa（尤其伊本·西那）的二十个命题，指其中三项为“异端”；又在《宗教学科的复兴》中把苏非修行纳入正统神学。其晚年的“悬置”与“光照”之说要旨在于：理性有其界限，终极的确信须由经验（ tasting, dhawq）而得。",
+   "school": "伊斯兰神学（艾什尔里派）与苏非主义",
+   "core_questions": [
+    "理性能否证明世界的永恒或开端？",
+    "因果是否有必然性？",
+    "确信心如何获得？"
+   ],
+   "arguments": [
+    {
+     "claim": "因果无必然性：习惯而非必然",
+     "premises": [
+      "我们所见的“因”与“果”的联结，只是**神的前定**使二者相继（“习惯”）。",
+      "例如棉花遇火而燃，但火并非燃烧的“施动者”——真正的施动者是神。"
+     ],
+     "inference": "若因果的真实施动者是神，则“因”只是**场合**（occasion）而非原因；故自然规律不是必然的，而是神所确立的习惯。这一立场（occasionlism）直接反驳 falsafa 的必然论。",
+     "conclusion": "因果是神所立的习惯，非必然联结（偶因论）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "哲学家的二十个命题：三项为异端",
+     "premises": [
+      "世界永恒、神只知普遍、肉体复活——此三项与伊斯兰教义直接冲突。",
+      "其余命题虽为“创新”，但不构成 disbelief。"
+     ],
+     "inference": "若这三项确与启示冲突，则 falsafa 在这些点上是错的；但安萨里同时承认数学与逻辑的独立性——故其批判是**选择性的**：反对形而上学的僭越，不反对科学。",
+     "conclusion": "哲学在逻辑与数学上可接受，在形而上学上须受启示的检验。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《哲学家的矛盾》《宗教学科的复兴》《迷途指津》",
+     "edition": "《哲学家的矛盾》英译 Marmura；《迷途指津》英译 McCarthy",
+     "note": "1095；1105—1111"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "艾什尔里派神学",
+     "id": null,
+     "note": "以神的全能与前定为框架"
+    },
+    {
+     "name": "伊本·西那（批评对象）",
+     "id": null,
+     "note": "其必然性论证、世界永恒论与因果论"
+    },
+    {
+     "name": "苏非主义",
+     "id": null,
+     "note": "以“尝味”（dhawq）为确信之路"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "伊本·鲁世德（反驳者）",
+     "id": null,
+     "note": "以《矛盾的矛盾》逐条反驳，指其论证不成立，且其对亚里士多德的解读有误"
+    },
+    {
+     "name": "阿奎那（拉丁接受）",
+     "id": "gr-medieval-aquinas",
+     "note": "以“偶因论不可取”为由拒绝其因果说，但采纳其“世界开端不可证明”的结论"
+    },
+    {
+     "name": "近代的偶因论（马勒布朗士等）",
+     "id": null,
+     "note": "以神为唯一真正的施动者"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "伊本·鲁世德",
+     "view": "《矛盾》的论证多为修辞性的（针对不同读者），且其对哲学家的转述有失准确。",
+     "response": "安萨里一系的回应是：其著作本就分层写作（对大众、对学者、对少数），故不能以“修辞性”判其无效。",
+     "kind": "原文",
+     "sources": [
+      "sep-ibn-rushd",
+      "sep-al-ghazali"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "安萨里是“反理性的蒙昧主义者”",
+     "why": "他明确承认数学与逻辑的独立性，反对的只是形而上学对启示领域的僭越；其《逻辑学艺术》即为逻辑学的教材。"
+    },
+    {
+     "claim": "《哲学家的矛盾》使 falsafa 在伊斯兰世界终结",
+     "why": "伊本·鲁世德的《矛盾的矛盾》即是直接反驳；falsafa 在此后仍有发展（如苏哈拉瓦迪、穆拉·萨德拉），故非“终结”。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>安萨里：偶因论与理性的界限</text><defs><marker id='aAG' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>所见因果只是相继</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>真正的施动者是神</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故因果无必然性</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故形而上学须受启示检验</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aAG)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aAG)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "安萨里：偶因论与理性的界限（示意图）",
+   "sources": [
+    "sep-al-ghazali",
+    "sep-ibn-sina",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《哲学家的矛盾》的“二十个命题”与“三项为异端”的判定，其原书的措辞与后世的概括有出入；本页依 Marmura 英译本与 SEP 词条，具体条目须核原书。",
+   "doctrine": {
+    "summary": "安萨里在《哲学家的矛盾》中批判 falsafa 的二十个命题，指其中三项（世界永恒、神只知普遍、肉体复活之否认）为异端。其核心论点是偶因论：我们所见的因果只是神所确立的**习惯**，真正的施动者是神，故因果无必然性。但他同时承认数学与逻辑的独立性——故其批判是选择性的：反对形而上学对启示领域的僭越，不反对科学。其晚期以苏非的“尝味”（dhawq）为确信之路。",
+    "system": [
+     {
+      "name": "偶因论",
+      "content": "因果是神所立的习惯，非必然联结；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "二十命题",
+      "content": "世界永恒、神只知普遍、肉体复活——三项判为异端。"
+     },
+     {
+      "name": "理性的界限",
+      "content": "逻辑与数学独立有效，形而上学须受启示检验。"
+     },
+     {
+      "name": "尝味（dhawq）",
+      "content": "终极确信由经验而得，非由论证；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "图斯、尼沙普尔与巴格达（1058—1111）",
+      "change": "在尼沙普尔从朱韦尼学神学；1091 年任巴格达尼扎米亚学院教授；1095 年因精神危机弃职远行，历游大马士革、耶路撒冷、麦加；后返图斯设道堂；1111 年卒。"
+     }
+    ],
+    "reception": "安萨里被尊为“伊斯兰的权威”；其《宗教学科的复兴》把苏非修行纳入正统神学，塑造了此后伊斯兰宗教生活的基本形态；其《哲学家的矛盾》与伊本·鲁世德的《矛盾的矛盾》构成伊斯兰思想史上最著名的论战。"
+   },
+   "works_detail": [
+    {
+     "title": "《哲学家的矛盾》",
+     "structure": "二十个命题分列四组（世界永恒、神的属性与知识、流出说、灵魂与复活），逐条以辩证方式指其论证不足；末章论“启示与哲学各有其领域”。",
+     "core_thesis": "因果无必然性；形而上学须受启示检验。",
+     "editions": "Marmura 英译（The Incoherence of the Philosophers）；阿拉伯原文校勘本",
+     "note": "1095 年"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -4097,6 +4387,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“可互换性”的确切含义（是实在的同一还是概念上的相互蕴含）在阿奎那与司各脱之间有差异；本页并述其说与“恶为缺失”的解决。"
+  },
+  {
+   "id": "gr-medieval-occasionalism",
+   "term": "偶因论",
+   "term_latin": "occasionalismus",
+   "definition": "安萨里（及此后马勒布朗士等）的立场：受造物之间没有真正的因果作用，所谓“原因”只是神使某事发生的**场合**（occasion）。故真正的施动者唯有神。",
+   "usages": [
+    {
+     "name": "安萨里",
+     "id": "gr-medieval-al-ghazali",
+     "usage": "棉花遇火而燃，但火不是施动者：施动者是神，火只是场合。"
+    },
+    {
+     "name": "阿奎那（批评）",
+     "id": "gr-medieval-aquinas",
+     "usage": "受造物有其真实的因果作用（次级因果），否则科学与自然哲学失去对象。"
+    },
+    {
+     "name": "马勒布朗士（近代的呼应）",
+     "usage": "以“偶因”说明身心关系与因果：唯有神是真正的因。"
+    }
+   ],
+   "related": [
+    "gr-medieval-analogy-being",
+    "gr-medieval-faith-reason"
+   ],
+   "example": {
+    "text": "偶因论的力量在于它彻底维护神的全能：若受造物有真正的因果作用，则神的支配被限制。其代价同样彻底：**自然界的秩序成了神的行为的“习惯”**，故自然科学失去其自主对象——阿奎那的批评正是针对这一点。",
+    "figure": "安萨里",
+    "locator": "《哲学家的矛盾》第十七论"
+   },
+   "sources": [
+    "sep-al-ghazali",
+    "sep-aquinas",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“偶因论”一词为后世所加（主要用以描述安萨里与马勒布朗士），安萨里本人的立场是否已是一种系统的偶因论，学界有争论；本页并述其说与阿奎那的批评。"
   }
  ],
  "debates": [
