@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1088,
+  "entries": 1091,
   "by_level": {
-   "L2": 786,
-   "L1": 302
+   "L2": 785,
+   "L1": 306
   },
   "doctrine": {
    "total": 254,
    "detail": 254,
    "auto": 0
   },
-  "needs_verification": 302,
+  "needs_verification": 306,
   "sources": 396,
   "sources_verified": 396
  },
@@ -9627,14 +9627,25 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-de-libertate-arbitrii",
+   "type": "work",
+   "title": "《论自由决断》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-sic-et-non",
    "type": "work",
    "title": "《是与否》",
    "container": "west",
-   "level": "L2",
-   "sources": 2,
-   "verified_sources": 2,
-   "needs_verification": false,
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -9811,6 +9822,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-summa-contra-gentiles",
+   "type": "work",
+   "title": "《反异教大全》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -11636,6 +11658,17 @@
    "level": "L1",
    "sources": 5,
    "verified_sources": 5,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-anatta",
+   "type": "comparative",
+   "title": "无我与自我束：佛教的 anattā 与休谟的“一束知觉”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-23"
   },

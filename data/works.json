@@ -8623,33 +8623,94 @@
    "sort_year": 1080
   },
   {
+   "id": "work-de-libertate-arbitrii",
+   "title": "《论自由决断》",
+   "title_original": "De libertate arbitrii",
+   "tradition": "west",
+   "date_display": "约1080—1085年（安瑟尔谟）",
+   "structure": "十四章（对话体）：论自由决断的定义、它与罪的关系、以及恩典与自由的关系。",
+   "core_arguments": [
+    "自由决断是“为正当本身而保持正当的能力”（facultas servandi rectitudinem propter se ipsam）",
+    "自由不因犯罪而失去（罪人仍有自由决断，只是不能“保持正当”）",
+    "恩典不取消自由，而是恢复其正当的方向"
+   ],
+   "key_points": [
+    {
+     "locator": "第1—3章",
+     "point": "自由决断的定义"
+    },
+    {
+     "locator": "第4—7章",
+     "point": "自由与罪"
+    },
+    {
+     "locator": "第8—11章",
+     "point": "恩典与自由"
+    },
+    {
+     "locator": "第12—14章",
+     "point": "自由与预知"
+    }
+   ],
+   "editions": [
+    "拉丁原文 S. Anselmi Opera Omnia（Schmitt）；英译（Hopkins & Richardson）"
+   ],
+   "related_people": [
+    "gr-medieval-anselm",
+    "gr-medieval-augustine",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“自由”是“想做什么就做什么”",
+     "why": "恰相反：自由是**为正当本身而保持正当的能力**；故“想做什么就做什么”在其看来不是自由，而是放任（后者可能使人失去正当）。"
+    },
+    {
+     "claim": "安瑟尔谟主张自由与恩典对立",
+     "why": "其结论是恩典**恢复**自由的方向（使“保持正当”成为可能），故二者不矛盾。"
+    }
+   ],
+   "sources": [
+    "sep-anselm",
+    "sep-augustine",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论自由决断》与安瑟尔谟《论 concordia》诸篇的关系须核 Schmitt 编本；其“自由”定义与奥古斯丁《论自由意志》的差异亦须分辨。",
+   "sort_year": 1082
+  },
+  {
    "id": "work-sic-et-non",
    "title": "《是与否》",
    "title_original": "Sic et Non",
    "tradition": "west",
    "date_display": "约1122年",
-   "structure": "一百五十八个问题（quaestiones）；每一问题下列教父著作中相互矛盾的说法（“是”与“否”），不加解答。",
+   "structure": "一百五十八个问题：每问题下并列教父著作中相互矛盾的说法，**不给出解答**；序言列出辨析词语的原则。",
    "core_arguments": [
-    "权威之间确有矛盾，故须以辩证方法（辨明用语、语境、作者真伪）处理",
-    "以矛盾为研究的起点，而非回避它",
-    "理性方法服务于信仰，而非取代它"
+    "经典之间存在矛盾——这是事实，须先承认",
+    "解决矛盾的前提是辨析词语（同名异指、语境差异）",
+    "以“是与否”并置为方法：先立其疑，后求其解"
    ],
    "key_points": [
     {
-     "locator": "序",
-     "point": "方法说明与“辨明矛盾”的原则"
+     "locator": "序言",
+     "point": "辨析词语的原则"
     },
     {
-     "locator": "各问题",
-     "point": "并列相互矛盾的教父说法"
+     "locator": "前20问",
+     "point": "论信仰与理性"
     },
     {
-     "locator": "序",
-     "point": "对“辩证术”的辩护"
+     "locator": "中段",
+     "point": "论圣礼与教会"
+    },
+    {
+     "locator": "全书",
+     "point": "不给出解答的体例"
     }
    ],
    "editions": [
-    "Boyer & McKeon 拉丁—英文本；中译参（若有）"
+    "拉丁原文（Migne, PL 178）；英译（Throop, Sic et Non）"
    ],
    "related_people": [
     "gr-medieval-abelard",
@@ -8658,20 +8719,21 @@
    ],
    "misreadings": [
     {
-     "claim": "阿伯拉尔以此否定教父权威",
-     "why": "他要以方法辨明表面的矛盾（用语、语境、真伪），从而维护权威的可理解性。"
+     "claim": "它是“反教会的怀疑论”",
+     "why": "其目的是为矛盾寻找可解的理由（序言列出辨析词语的原则）；并置矛盾是为了训练辨析，不是宣告无解。"
     },
     {
-     "claim": "它已是经院“quaestio”的完成形态",
-     "why": "它只罗列“是”与“否”而不给解答，是 quaestio 的前身；解答格式由后世（如阿奎那）完成。"
+     "claim": "它只是经院“辩证”的技术手册",
+     "why": "其方法（是与否）确实成为经院辩证的范式，但其问题本身涉及信仰与理性的关系，不只是技术。"
     }
    ],
    "sources": [
     "sep-abelard",
-    "book-gilson-medieval"
+    "book-gilson-medieval",
+    "book-copleston-history"
    ],
-   "needs_verification": false,
-   "pending_notes": "",
+   "needs_verification": true,
+   "pending_notes": "《是与否》（Sic et non）的序言是否全出阿伯拉尔之手，学界有争论；其问题数目各本略有差异（通行为158）。中译名有《是与否》《哲学家的共识》等，同一书。",
    "sort_year": 1122
   },
   {
@@ -9572,6 +9634,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1265
+  },
+  {
+   "id": "work-summa-contra-gentiles",
+   "title": "《反异教大全》",
+   "title_original": "Summa contra gentiles",
+   "tradition": "west",
+   "date_display": "约1259—1265年（阿奎那）",
+   "structure": "四卷：①论神（可由理性证明的部分）；②论神的创造与受造物；③论万物的秩序与人的目的；④论信仰的奥秘（三位一体、道成肉身、复活）。",
+   "core_arguments": [
+    "“双重真理”式的分层：理性可及者（卷一—三）与唯信仰可及者（卷四）",
+    "以理性论证神的存在与属性，为“与异教徒辩论”提供共同的论证基础",
+    "“智慧”与“知识”的区分：哲学是神学的婢女（ancilla）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "神的存在与属性"
+    },
+    {
+     "locator": "卷二",
+     "point": "创造与受造物"
+    },
+    {
+     "locator": "卷三",
+     "point": "人的目的与天意"
+    },
+    {
+     "locator": "卷四",
+     "point": "信仰的奥秘"
+    }
+   ],
+   "editions": [
+    "拉丁原文 Opera omnia（Leonine）；英译（English Dominican Fathers）"
+   ],
+   "related_people": [
+    "gr-medieval-aquinas",
+    "gr-ancient-aristotle",
+    "gr-medieval-avicenna"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是为“说服异教徒”而写的辩护手册",
+     "why": "其标题常被这样理解，但书中显含的对话对手与写作缘由在学界有争论（一说与雷蒙·马蒂的传教需求有关）；其内容实为**系统的神学—哲学论述**。"
+    },
+    {
+     "claim": "“哲学是神学的婢女”意味着哲学无用",
+     "why": "其意为哲学有其**自主的**论证领域（卷一—三即用理性论证），但在终极问题上服务于信仰；故不是取消哲学，而是规定其界限。"
+    }
+   ],
+   "sources": [
+    "sep-aquinas",
+    "book-copleston-history",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《反异教大全》的写作缘由（是否与雷蒙·马蒂的传教需要相关）在学界有不同说法；本页只述其内容与结构，不裁定写作背景。",
    "sort_year": 1265
   },
   {
