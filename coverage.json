@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 966,
+  "entries": 970,
   "by_level": {
-   "L2": 751,
-   "L1": 215
+   "L2": 752,
+   "L1": 218
   },
   "doctrine": {
    "total": 237,
    "detail": 237,
    "auto": 0
   },
-  "needs_verification": 215,
+  "needs_verification": 218,
   "sources": 374,
   "sources_verified": 374
  },
@@ -21,7 +21,7 @@
    "title": "两汉经学与气论",
    "region": "china",
    "philosophers": 17,
-   "concepts": 23,
+   "concepts": 24,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -9"
   },
@@ -93,7 +93,7 @@
    "title": "古希腊哲学",
    "region": "west",
    "philosophers": 19,
-   "concepts": 26,
+   "concepts": 27,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -577,6 +577,17 @@
    "id": "cn-lianghan-shijiao",
    "type": "concept",
    "title": "诗教",
+   "container": "cn-lianghan",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-sanben",
+   "type": "concept",
+   "title": "三本",
    "container": "cn-lianghan",
    "level": "L1",
    "sources": 3,
@@ -4721,6 +4732,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-ancient-megista-gene",
+   "type": "concept",
+   "title": "最大的种",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-ancient-flux-vs-being",
    "type": "debate",
    "title": "流变还是不变：赫拉克利特与巴门尼德",
@@ -7493,6 +7515,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-sophist",
+   "type": "work",
+   "title": "《智者》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-daodejing",
    "type": "work",
    "title": "《老子》（道德经）",
@@ -8076,14 +8109,25 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-de-natura-deorum",
+   "type": "work",
+   "title": "《论神性》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-de-officiis",
    "type": "work",
    "title": "《论义务》",
    "container": "west",
-   "level": "L2",
+   "level": "L1",
    "sources": 2,
    "verified_sources": 2,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

@@ -962,6 +962,63 @@
    "sort_year": -360
   },
   {
+   "id": "work-sophist",
+   "title": "《智者》",
+   "title_original": "Sophista",
+   "tradition": "west",
+   "date_display": "约前360（柏拉图晚期）",
+   "structure": "一篇对话（爱利亚客人主讲，泰阿泰德对答）；含“智者”的六次定义尝试、通种论（五类最大的种）、以及“非存在”的辩正。",
+   "core_arguments": [
+    "以“划分法”（diairesis）定义智者：从技艺逐层划分至“模仿的模仿者”",
+    "五类最大的种（存在、运动、静止、同、异）与“通种”问题",
+    "“非存在”不是“无”，而是“异于存在”——故假话与假象是可能的"
+   ],
+   "key_points": [
+    {
+     "locator": "218e—231b",
+     "point": "划分法与前六次定义"
+    },
+    {
+     "locator": "254b—255e",
+     "point": "五类最大的种与通种"
+    },
+    {
+     "locator": "257b—259d",
+     "point": "“非存在”作为“异”"
+    },
+    {
+     "locator": "263b—264b",
+     "point": "假话的可能性"
+    }
+   ],
+   "editions": [
+    "中译参王大庆／陈康相关译本；英文 Jowett；Oxford Classical Text"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-parmenides",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "《智者》只是“智者的定义”",
+     "why": "其前六次定义虽以智者为对象，但真正的工作是后半的通种论与“非存在”的辩正——这是柏拉图晚期本体论与语义学的核心文本。"
+    },
+    {
+     "claim": "柏拉图在此承认“非存在存在”，自相矛盾",
+     "why": "他区分了“非存在”的两种意义：绝对的“无”（不可说）与“异于某物”（可说）。故其主张不构成自相矛盾。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek",
+    "sep-aristotle"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -360
+  },
+  {
    "id": "work-daodejing",
    "title": "《老子》（道德经）",
    "title_original": "道德經（Daodejing）",
@@ -3974,37 +4031,94 @@
    "sort_year": -50
   },
   {
+   "id": "work-de-natura-deorum",
+   "title": "《论神性》",
+   "title_original": "De natura deorum",
+   "tradition": "west",
+   "date_display": "前45年（西塞罗）",
+   "structure": "三卷（对话体）：卷一由威莱乌斯（伊壁鸠鲁派）陈述神的存在与形式，科塔（学园派）反驳；卷二由巴尔布斯（斯多亚派）论神的存在与神意；卷三科塔再反驳斯多亚的神意论（卷三残缺）。",
+   "core_arguments": [
+    "伊壁鸠鲁派：神以幸福不朽的形象存在，但不干预世界",
+    "斯多亚派：以“设计论证”（世界的秩序）证明神意",
+    "学园派（科塔）：以“悬置判断”指出各派的论证都不充分"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 §18—§56",
+     "point": "伊壁鸠鲁派的神观"
+    },
+    {
+     "locator": "卷二 §3—§72",
+     "point": "斯多亚的设计论证"
+    },
+    {
+     "locator": "卷三",
+     "point": "科塔的反驳（残缺）"
+    },
+    {
+     "locator": "全书",
+     "point": "对话体与“悬置”的结论"
+    }
+   ],
+   "editions": [
+    "中译参石敏敏《论神性》（商务印书馆，若有）；英文 Loeb 本；拉丁原文 thelatinlibrary"
+   ],
+   "related_people": [
+    "gr-hellenistic-epicurus",
+    "gr-hellenistic-cicero",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "《论神性》表达了西塞罗本人的神学",
+     "why": "它是对希腊三派（伊壁鸠鲁、斯多亚、学园）的**转述与反驳**，西塞罗本人（作为学园派）在结尾并未给出自己的教义——对话体的悬置正是其形式。"
+    },
+    {
+     "claim": "它是无神论著作",
+     "why": "它不否认神的存在，而是检验各派关于神的论证；其锋芒指向的是“神意”的可证性，不是神的否定。"
+    }
+   ],
+   "sources": [
+    "sep-stoicism",
+    "iep-stoicism",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论神性》卷三的残缺程度与各本的行文差异须核 Loeb 本与 Pease 的注释本；西塞罗本人的立场（学园派的“或然”）在学界有不同解读。",
+   "sort_year": -45
+  },
+  {
    "id": "work-de-officiis",
    "title": "《论义务》",
    "title_original": "De officiis",
    "tradition": "west",
    "date_display": "前44年",
-   "structure": "三卷：卷一论“义”（honestum）与四种德性（智慧、正义、勇敢、节制）；卷二论“利”（utile）；卷三论义与利的冲突。",
+   "structure": "三卷：卷一论“正当”（honestum，四种德性：智慧、正义、勇敢、节制）；卷二论“有利”（utile）；卷三论二者的冲突与其解决。",
    "core_arguments": [
-    "义与利在本性上不冲突：凡不义者终亦不利",
-    "四种德性：智慧、正义（含信义）、勇敢、节制",
-    "以“人格”（persona）说明角色义务：普遍人性、个人禀赋、境遇与自选角色"
+    "“正当”与“有利”不可能真正冲突：凡不正当者必不真正有利",
+    "四种德性以“正义”为社会的纽带（正义的基础是信守与不伤害）",
+    "以“人格的两种角色”（共通的人性与个人的天性）论合宜的行为"
    ],
    "key_points": [
     {
-     "locator": "卷一 第11—17章",
-     "point": "四种德性与正义的基础"
+     "locator": "卷一 §13—§17",
+     "point": "四种德性"
     },
     {
-     "locator": "卷一 第30—32章",
-     "point": "persona 与角色义务"
+     "locator": "卷一 §107—§121",
+     "point": "正义与信守"
     },
     {
      "locator": "卷二",
-     "point": "利与功利"
+     "point": "有利的层次"
     },
     {
-     "locator": "卷三",
-     "point": "义利冲突的解决原则"
+     "locator": "卷三 §18—§32",
+     "point": "正当与有利的“冲突”"
     }
    ],
    "editions": [
-    "王焕生译《论义务》中国政法大学出版社；Loeb 版（Miller）"
+    "中译参王焕生《论义务》（中国政法大学出版社）；英文 Loeb 本；拉丁原文 thelatinlibrary"
    ],
    "related_people": [
     "gr-hellenistic-cicero",
@@ -4013,20 +4127,20 @@
    ],
    "misreadings": [
     {
-     "claim": "《论义务》只是希腊伦理学的编译",
-     "why": "它把帕奈提乌斯的框架改造为罗马式的角色伦理，persona 理论是其独立贡献。"
+     "claim": "《论义务》是斯多亚派著作的翻译",
+     "why": "它主要依据帕奈提乌斯（斯多亚中期）而作，但西塞罗有自己的改造（尤其以“人格角色”论合宜），且文体与论证是罗马的（以案例与演说为根据）。"
     },
     {
-     "claim": "西塞罗主张义利必然一致是天真",
-     "why": "他的论证是规范性的：不义之举终将损害信誉与共同体，故“利”不能在违反义的前提下成立。"
+     "claim": "“正当与有利不可能冲突”是幼稚的乐观",
+     "why": "其论证是概念性的：若某行为真正不正当，则它终将损害共同体的信任，从而不真正有利。故它是一个关于“有利”之真义的论断，不是无视现实。"
     }
    ],
    "sources": [
     "sep-stoicism",
     "book-copleston-history"
    ],
-   "needs_verification": false,
-   "pending_notes": "",
+   "needs_verification": true,
+   "pending_notes": "《论义务》与帕奈提乌斯《论义务》的关系（前者对后者的依赖与偏离）须核；其拉丁文本的校勘以 Winterbottom（OCT）为通行。",
    "sort_year": -44
   },
   {

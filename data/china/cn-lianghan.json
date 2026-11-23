@@ -3373,6 +3373,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "《韩诗外传》的篇卷（今本十卷）与各条的来源（多取先秦旧说）须核许维遹《韩诗外传集释》；本页述其解《诗》的体例与取向。"
+  },
+  {
+   "id": "cn-lianghan-sanben",
+   "term": "三本",
+   "term_latin": "the three roots",
+   "definition": "《说苑》一系与汉儒的秩序论：治国以“德”“法”“民”为三本（一说以“天地、先祖、君师”为礼之三本，见《荀子·礼论》）。它把政治的根据分散在三个不可互替的层面，故反对单恃一术。",
+   "usages": [
+    {
+     "name": "刘向（《说苑》的编者）",
+     "id": "cn-lianghan-liu-xiang",
+     "usage": "以“君道”“臣术”“建本”等类目辑录前言往行，示治道的多层根据。"
+    },
+    {
+     "name": "荀子（三本的原型）",
+     "usage": "“礼有三本：天地、先祖、君师”——以礼的根据为三。"
+    },
+    {
+     "name": "董仲舒（对照）",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以“天”为唯一的总根据，故其结构是一元的。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-sangang",
+    "cn-lianghan-wuchang"
+   ],
+   "example": {
+    "text": "“三本”的意义在于它**拒绝单一根据**：德不能替法，法不能替民。这与董仲舒以“天”统摄一切的一元结构形成对照，也是汉儒内部的一条分岔。",
+    "figure": "刘向",
+    "locator": "《说苑·建本》"
+   },
+   "sources": [
+    "ws-shuoyuan",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“三本”的具体所指在《说苑》《荀子·礼论》与汉儒文献之间有差异（或指德法民，或指天地先祖君师）；本页并述两说，具体归属须核《说苑》与《荀子》。"
   }
  ],
  "debates": [

@@ -31,6 +31,87 @@ def require(ids):
     return True
 
 
+# ===== 第110轮新增（D38 落地）：著作标题的规范化查重 =====
+WORKS = os.path.join(HERE, "..", "data", "works.json")
+
+# 常见的书名后缀与版本括注：规范化时去掉
+_SUFFIXES = ("篇", "章", "（上）", "（下）", "（一）", "（二）")
+_VERSION_HINTS = ("（四庫全書本）", "（四部叢刊本）", "（四部丛刊本）", "（英文維基文庫）",
+                  "（英文维基文库）", "（Project Gutenberg 英译全文）", "（英译）", "（节译本）",
+                  "（拉丁原文）", "（拉丁原文选）", "（宗宝本）")
+
+
+def norm_title(t):
+    """把书名规范化为可比较的形式：去《》、去版本括注、去篇/章等后缀、去空白。"""
+    if not t:
+        return ""
+    s = t.strip()
+    for v in _VERSION_HINTS:
+        s = s.replace(v, "")
+    s = s.replace("《", "").replace("》", "").replace(" ", "").replace("　", "")
+    changed = True
+    while changed:
+        changed = False
+        for suf in _SUFFIXES:
+            if s.endswith(suf) and len(s) > len(suf):
+                s = s[: -len(suf)]
+                changed = True
+    return s
+
+
+def norm_title_loose(t):
+    """更宽松的规范化：在 norm_title 之外，再去掉前缀「论」并统一语序（论X / X论 视为同）。
+
+    第110轮新增（D39）：中文书名有「论义务」与「义务论」这类语序互换的变体，
+    规范化后仍不同，故须额外比较。做法：得到一个「字集合 + 去论前缀」的键。
+    """
+    s = norm_title(t)
+    # 去掉「论/谈/说/辨/辩」等虚词（不论在首在尾），再按字排序，故
+    # 「论义务」与「义务论」得到同一个键。
+    for w in ("论", "談", "谈", "說", "说", "辨", "辩", "辯"):
+        s = s.replace(w, "")
+    return "".join(sorted(s))
+
+
+def load_work_titles():
+    with open(WORKS, encoding="utf-8") as f:
+        d = json.load(f)
+    return [w.get("title", "") for w in d.get("works", [])]
+
+
+def find_work_conflicts(titles):
+    """返回 {拟用标题: 已存在标题} 的冲突表（规范化后相同即视为冲突）。"""
+    existing = load_work_titles()
+    norm_map = {}
+    loose_map = {}
+    for t in existing:
+        norm_map.setdefault(norm_title(t), []).append(t)
+        loose_map.setdefault(norm_title_loose(t), []).append(t)
+    conflicts = {}
+    for t in titles:
+        k = norm_title(t)
+        k2 = norm_title_loose(t)
+        if k in norm_map:
+            conflicts[t] = norm_map[k][0]
+        elif k2 in loose_map:
+            conflicts[t] = loose_map[k2][0] + "（宽松匹配：语序/虚词变体）"
+    return conflicts
+
+
+def require_work_title_new(titles):
+    """拟新增的著作标题不得与既有著作同名（规范化后比较）。
+
+    用法：
+        from precheck_src import require_work_title_new
+        require_work_title_new(["《会饮》", "《智者》"])
+    """
+    conflicts = find_work_conflicts(titles)
+    if conflicts:
+        msg = "；".join("%s → 已存在：%s" % (a, b) for a, b in conflicts.items())
+        raise AssertionError("著作标题重复（D38 规范化查重）：%s" % msg)
+    return True
+
+
 if __name__ == "__main__":
     args = [a for a in sys.argv[1:] if a]
     if not args:

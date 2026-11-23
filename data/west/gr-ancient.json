@@ -3776,6 +3776,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-megista-gene",
+   "term": "最大的种",
+   "term_latin": "megista genē",
+   "definition": "《智者》中的五类“最大的种”：存在、运动、静止、同、异。柏拉图以它们说明“通种”（koinōnia）如何可能——若种之间完全不相通，则一切陈述都不可能；故必有某些种可以互相结合。",
+   "usages": [
+    {
+     "name": "柏拉图（《智者》中的爱利亚客人）",
+     "id": "gr-ancient-plato",
+     "usage": "存在、运动、静止、同、异五者，有的相通有的不相通；“非存在”也是某种存在（异于存在）。"
+    },
+    {
+     "name": "巴门尼德（被修正者）",
+     "id": "gr-ancient-parmenides",
+     "usage": "“非存在不可言说”——《智者》正是要松动这一禁令。"
+    },
+    {
+     "name": "亚里士多德（承之）",
+     "id": "gr-ancient-aristotle",
+     "usage": "以范畴的“多义”处理同一问题（存在有多种意义）。"
+    }
+   ],
+   "related": [
+    "gr-ancient-logos"
+   ],
+   "example": {
+    "text": "“最大的种”解决的是一个语义学的困局：若“非存在”完全不可说，则“错误”与“假象”都不可能被说明（因为说假话就是说“非存在”）。柏拉图以“异”破局——“非存在”不是“无”，而是“异于存在”，故假话是可能的。",
+    "figure": "柏拉图",
+    "locator": "《智者》254b—259d"
+   },
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [
