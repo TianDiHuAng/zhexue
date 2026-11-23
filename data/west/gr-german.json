@@ -1965,6 +1965,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-german-spirit-absolute",
+   "term": "绝对精神（再论：作为结果）",
+   "term_latin": "absoluter Geist",
+   "definition": "黑格尔的核心概念：绝对精神不是起点，而是**结果**——它通过外化为自然与历史、再返回自身而成为现实。故“绝对”不是预先存在的实体，而是自我实现的运动。",
+   "usages": [
+    {
+     "name": "黑格尔",
+     "id": "gr-german-hegel",
+     "usage": "“真理是整体，但整体只是通过自身发展而完成本质”——绝对须被理解为结果。"
+    },
+    {
+     "name": "谢林（对照）",
+     "id": "gr-german-schelling",
+     "usage": "以“智性直观”直接把握绝对，故绝对可作为起点（黑格尔批评此为“手枪走火”式的捷径）。"
+    },
+    {
+     "name": "马克思（批评）",
+     "usage": "把绝对精神还原为物质生产的历史，认为其“返回自身”是思辨的幻觉。"
+    }
+   ],
+   "related": [
+    "gr-german-dialectic",
+    "gr-german-absolute-spirit"
+   ],
+   "example": {
+    "text": "黑格尔以“孩子”为喻：孩子起初只是“自在的人”，须经教育与教养才成为“自为的人”——绝对精神亦是如此：它只有在走完外化与返回的全程之后，才真正是它所是。",
+    "figure": "黑格尔",
+    "locator": "《精神现象学》序"
+   },
+   "sources": [
+    "sep-hegel",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

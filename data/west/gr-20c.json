@@ -3686,6 +3686,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-epoche-revisited",
+   "term": "现象学还原（再论：加括号）",
+   "term_latin": "epochē",
+   "definition": "胡塞尔的现象学方法：把“自然态度”中对世界存在的设定“加括号”（Einklammerung），从而使意识活动与其对象的相关性成为课题。",
+   "usages": [
+    {
+     "name": "胡塞尔",
+     "id": "gr-20c-husserl",
+     "usage": "还原不是怀疑世界存在，而是“不使用”这一设定，以便描述意识的意向结构。"
+    },
+    {
+     "name": "海德格尔（批评）",
+     "id": "gr-20c-heidegger",
+     "usage": "以“在世存在”说明还原不可能彻底：此在总已在世界之中，故无“无世界的”主体可供还原。"
+    },
+    {
+     "name": "梅洛-庞蒂（改造）",
+     "id": "gr-20c-merleau-ponty",
+     "usage": "以“身体—世界”的交织取代加括号：还原的最终教训是“最彻底的还原是世界的不可还原”。"
+    }
+   ],
+   "related": [
+    "gr-20c-intentionality",
+    "gr-20c-life-world"
+   ],
+   "example": {
+    "text": "胡塞尔的还原有双重效果：一方面排除“世界存在”的设定，另一方面使“世界如何被给予”的结构显现——故还原不是离开世界，而是改变看世界的方式（“回到事情本身”）。",
+    "figure": "胡塞尔",
+    "locator": "《观念I》§31—§32"
+   },
+   "sources": [
+    "sep-husserl",
+    "sep-heidegger"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

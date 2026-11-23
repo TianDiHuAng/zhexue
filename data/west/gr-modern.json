@@ -5416,6 +5416,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-que-sais-je",
+   "term": "“我知道什么？”",
+   "term_latin": "Que sais-je?",
+   "definition": "蒙田的怀疑式提问：以“我知道什么”取代“我知道”，作为对一切独断体系的检验。它不是否定一切知识，而是拒绝以体系取代判断。",
+   "usages": [
+    {
+     "name": "蒙田",
+     "id": "gr-modern-montaigne",
+     "usage": "以“Que sais-je?”为箴言：怀疑是抵制独断的方法，不是结论。"
+    },
+    {
+     "name": "笛卡尔（对照）",
+     "id": "gr-modern-descartes",
+     "usage": "以方法的怀疑清除一切可疑者，从而找到不可怀疑的起点（“我思”）。"
+    },
+    {
+     "name": "培尔（承其风）",
+     "id": "gr-modern-bayle",
+     "usage": "以《辞典》的注释展示各家体系的矛盾，把怀疑用于护教与宽容。"
+    }
+   ],
+   "related": [
+    "gr-modern-passions",
+    "gr-modern-cogito"
+   ],
+   "example": {
+    "text": "蒙田的怀疑指向“人的自负”而非“世界的存在”：他不怀疑外部世界，而是怀疑人自以为能凭理性把握万物的能力——故其结论是谦卑与宽容，而非笛卡尔式的重建。",
+    "figure": "蒙田",
+    "locator": "《随笔集》卷二第12章"
+   },
+   "sources": [
+    "iep-montaigne",
+    "sep-montaigne"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

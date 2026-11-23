@@ -117,6 +117,62 @@
    "sort_year": -400
   },
   {
+   "id": "work-apology",
+   "title": "《苏格拉底的申辩》",
+   "title_original": "Ἀπολογία Σωκράτους（Apologia Socratis）",
+   "tradition": "west",
+   "date_display": "约前399—前390年（事发后不久写成）",
+   "structure": "三部分：第一场申辩（对旧控告与新控告的回应）、第二场（定罪后的量刑提议）、第三场（判死刑后的临别辞）。",
+   "core_arguments": [
+    "苏格拉底的使命来自神谕：“认识你自己”式的检审生活是神的命令",
+    "“未经检审的生活不值得过”：即使以死相胁也不放弃哲学",
+    "死亡不可怕：或为无梦的长眠，或为与古人对话的迁徙"
+   ],
+   "key_points": [
+    {
+     "locator": "17a—24b",
+     "point": "对“自然哲学家”与“智者”旧控告的回应"
+    },
+    {
+     "locator": "24b—28a",
+     "point": "神谕与使命（德尔斐的“无知之知”）"
+    },
+    {
+     "locator": "28b—32e",
+     "point": "“未经检审的生活不值得过”"
+    },
+    {
+     "locator": "40c—42a",
+     "point": "死亡不可怕的两种可能"
+    }
+   ],
+   "editions": [
+    "中译参《柏拉图全集》人民出版社；Loeb 版（Fowler）"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-socrates",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "《申辩》是苏格拉底的原话记录",
+     "why": "它是柏拉图的文学重构（另有色诺芬的版本，内容有出入）；“记录了原话”这一说法无法成立。"
+    },
+    {
+     "claim": "苏格拉底的“无知之知”是谦辞",
+     "why": "它是其方法的根据：正因自知无知，才有资格检审他人的主张——这是积极的立场，不是谦辞。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -399
+  },
+  {
    "id": "work-symposium",
    "title": "《会饮篇》",
    "title_original": "Συμπόσιον（Symposium）",
@@ -4506,6 +4562,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1550
+  },
+  {
+   "id": "work-essays-montaigne",
+   "title": "《随笔集》",
+   "title_original": "Essais",
+   "tradition": "west",
+   "date_display": "1580年（初版两卷）；1588年（三卷本）",
+   "structure": "三卷一百零七章；无统一体系，以“试笔”（essai＝尝试）为方法，随事而发，随时修订（“我描绘的是我自己”）。",
+   "core_arguments": [
+    "怀疑的方法：“我知道什么？”（Que sais-je?）——不以体系取代判断",
+    "自我描绘是认识人性的途径：每人身上都有“人性的全部形式”",
+    "以经验与历史例证代替论证，以“试”代替“定论”"
+   ],
+   "key_points": [
+    {
+     "locator": "卷二 第12章《为雷蒙·塞邦辩护》",
+     "point": "“Que sais-je?”与怀疑的方法"
+    },
+    {
+     "locator": "卷三 第13章《论经验》",
+     "point": "以经验为最后的根据"
+    },
+    {
+     "locator": "卷一 第39章《论退隐》",
+     "point": "退隐与自我认识"
+    },
+    {
+     "locator": "全书体例",
+     "point": "“试笔”的方法与不断修订的写作"
+    }
+   ],
+   "editions": [
+    "中译参上海书店出版社／商务印书馆《蒙田随笔集》（选译）；Gallimard 法文本"
+   ],
+   "related_people": [
+    "gr-modern-montaigne",
+    "gr-modern-descartes",
+    "gr-modern-bayle"
+   ],
+   "misreadings": [
+    {
+     "claim": "蒙田是彻底的怀疑论者（故无立场）",
+     "why": "其怀疑是方法（抵制独断），不是结论；他明确以经验与习俗为生活根据（“我知道什么”不等于“我什么都不知道”）。"
+    },
+    {
+     "claim": "《随笔集》是零散的感想，无哲学",
+     "why": "其“试笔”体例本身是哲学立场：以随时的检验取代体系化的独断。"
+    }
+   ],
+   "sources": [
+    "iep-montaigne",
+    "sep-montaigne"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1580
   },
   {
    "id": "work-advancement-learning",

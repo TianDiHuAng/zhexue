@@ -889,5 +889,27 @@
   "needs_verification": 126,
   "sources": 332,
   "sources_verified": 328
+ },
+ {
+  "date": "2026-11-23",
+  "entries": 763,
+  "by_level": {
+   "L2": 636,
+   "L1": 127
+  },
+  "needs_verification": 127,
+  "sources": 332,
+  "sources_verified": 328
+ },
+ {
+  "date": "2026-11-23",
+  "entries": 763,
+  "by_level": {
+   "L2": 636,
+   "L1": 127
+  },
+  "needs_verification": 127,
+  "sources": 328,
+  "sources_verified": 328
  }
 ]

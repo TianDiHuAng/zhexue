@@ -1,18 +1,18 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 756,
+  "entries": 763,
   "by_level": {
-   "L2": 630,
-   "L1": 126
+   "L2": 636,
+   "L1": 127
   },
   "doctrine": {
    "total": 224,
    "detail": 224,
    "auto": 0
   },
-  "needs_verification": 126,
-  "sources": 332,
+  "needs_verification": 127,
+  "sources": 328,
   "sources_verified": 328
  },
  "units": [
@@ -66,7 +66,7 @@
    "title": "先秦诸子",
    "region": "china",
    "philosophers": 12,
-   "concepts": 14,
+   "concepts": 15,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -84,7 +84,7 @@
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
    "philosophers": 21,
-   "concepts": 15,
+   "concepts": 16,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -13"
   },
@@ -111,7 +111,7 @@
    "title": "德国古典哲学",
    "region": "west",
    "philosophers": 9,
-   "concepts": 14,
+   "concepts": 15,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -1"
   },
@@ -138,7 +138,7 @@
    "title": "近代理性论与经验论",
    "region": "west",
    "philosophers": 31,
-   "concepts": 14,
+   "concepts": 15,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -23"
   }
@@ -2389,6 +2389,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-xianqin-zhijue",
+   "type": "concept",
+   "title": "知言",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-xianqin-human-nature",
    "type": "debate",
    "title": "人性善恶之争",
@@ -3283,6 +3294,17 @@
    "id": "gr-20c-life-world",
    "type": "concept",
    "title": "生活世界（再论：作为意义基础）",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-epoche-revisited",
+   "type": "concept",
+   "title": "现象学还原（再论：加括号）",
    "container": "gr-20c",
    "level": "L2",
    "sources": 2,
@@ -4416,6 +4438,17 @@
    "id": "gr-german-bildung",
    "type": "concept",
    "title": "教化（教养）",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-german-spirit-absolute",
+   "type": "concept",
+   "title": "绝对精神（再论：作为结果）",
    "container": "gr-german",
    "level": "L2",
    "sources": 2,
@@ -5865,6 +5898,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-modern-que-sais-je",
+   "type": "concept",
+   "title": "“我知道什么？”",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-modern-innate-controversy",
    "type": "debate",
    "title": "天赋观念是否存在",
@@ -5972,6 +6016,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-apology",
+   "type": "work",
+   "title": "《苏格拉底的申辩》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -6826,6 +6881,17 @@
    "type": "work",
    "title": "《传习录》",
    "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-essays-montaigne",
+   "type": "work",
+   "title": "《随笔集》",
+   "container": "west",
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
@@ -7985,6 +8051,17 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-byzantium",
+   "type": "comparative",
+   "title": "拜占庭为何不在哲学史的正典里",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

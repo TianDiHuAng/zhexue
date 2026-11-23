@@ -2582,6 +2582,45 @@
    ],
    "needs_verification": true,
    "pending_notes": "“权”在儒家内部有不同限定（孟子以仁义为权之准，荀子以道统权，汉儒有“反经为权”之说）；本页只述其共同结构，具体分歧须核原文。"
+  },
+  {
+   "id": "cn-xianqin-zhijue",
+   "term": "知言",
+   "term_latin": "zhiyan（knowing words）",
+   "definition": "孟子提出的一种能力：“我知言”——能辨别言辞的偏蔽（诐辞、淫辞、邪辞、遁辞），并知其“所蔽”“所陷”“所离”“所穷”。它是道德判断与政治判断的前提。",
+   "usages": [
+    {
+     "name": "孟子",
+     "id": "cn-xianqin-mengzi",
+     "usage": "“诐辞知其所蔽，淫辞知其所陷，邪辞知其所离，遁辞知其所穷。”"
+    },
+    {
+     "name": "孔子",
+     "id": "cn-xianqin-kongzi",
+     "usage": "“不知言，无以知人也”：知言是知人的条件。"
+    },
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "usage": "以“正名”与“解蔽”处理同一问题：辨辞须先辨名。"
+    }
+   ],
+   "related": [
+    "cn-xianqin-zhengming",
+    "cn-xianqin-zhongshu"
+   ],
+   "example": {
+    "text": "孟子的四类“辞”对应四种偏蔽：偏颇之辞蔽于一边，放荡之辞陷于其中，邪僻之辞离于正道，逃避之辞穷于理——故“知言”不是修辞术，而是判别人的言辞在何处失真。",
+    "figure": "孟子",
+    "locator": "《孟子·公孙丑上》"
+   },
+   "sources": [
+    "ct-mengzi",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [
