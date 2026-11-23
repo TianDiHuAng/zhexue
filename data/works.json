@@ -1928,6 +1928,62 @@
    "sort_year": -110
   },
   {
+   "id": "work-shiji",
+   "title": "《史记》",
+   "title_original": "史記",
+   "tradition": "china",
+   "date_display": "约前104—前91年",
+   "structure": "一百三十篇：本纪十二、表十、书八、世家三十、列传七十；记事自黄帝至汉武帝。",
+   "core_arguments": [
+    "“究天人之际，通古今之变，成一家之言”：史家的任务是通变与立言",
+    "以“实录”为原则，不虚美不隐恶",
+    "列传体例使非政治人物（游侠、货殖、刺客）亦入史"
+   ],
+   "key_points": [
+    {
+     "locator": "《太史公自序》",
+     "point": "“究天人之际”与著史之志（并录司马谈《论六家要旨》）"
+    },
+    {
+     "locator": "《报任安书》",
+     "point": "“发愤著书”之说"
+    },
+    {
+     "locator": "《货殖列传》",
+     "point": "以经济论历史"
+    },
+    {
+     "locator": "《游侠列传》",
+     "point": "非政治人物的入史"
+    }
+   ],
+   "editions": [
+    "《史記》（四部叢刊本）；中华书局点校本（十册）"
+   ],
+   "related_people": [
+    "cn-lianghan-sima-tan",
+    "cn-xianqin-kongzi",
+    "cn-lianghan-ban-gu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《史记》是司马谈所作",
+     "why": "草创有司马谈之功（其《论六家要旨》被录入《自序》），但全书为司马迁所撰。"
+    },
+    {
+     "claim": "“实录”意味着完全客观",
+     "why": "“实录”是原则（不虚美不隐恶），但取舍、编排与“太史公曰”都含明确判断。"
+    }
+   ],
+   "sources": [
+    "ws-shiji",
+    "ws-hanshu"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -104
+  },
+  {
    "id": "work-dererum-natura",
    "title": "《物性论》",
    "title_original": "De rerum natura",
@@ -2039,6 +2095,172 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": -44
+  },
+  {
+   "id": "work-shuoyuan",
+   "title": "《说苑》",
+   "title_original": "說苑",
+   "tradition": "china",
+   "date_display": "约前20年",
+   "structure": "二十卷；分君道、臣术、建本、立节、贵德、复恩、政理、尊贤、正谏、敬慎、善说、奉使、权谋、至公、指武、谈丛、杂言、辨物、修文、反质二十门。",
+   "core_arguments": [
+    "以类相从的编纂本身就是论证：同类故事并列，道理自现",
+    "君道在“至公”，臣术在“正谏”，二者构成政治秩序的两端",
+    "以故事代替论说，使劝谏可行"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一《君道》",
+     "point": "君主之德与至公"
+    },
+    {
+     "locator": "卷二《臣术》",
+     "point": "臣的职分与正谏"
+    },
+    {
+     "locator": "卷九《正谏》",
+     "point": "谏诤的方式"
+    },
+    {
+     "locator": "卷二十《反质》",
+     "point": "文与质的关系"
+    }
+   ],
+   "editions": [
+    "《說苑》（四部叢刊本）；向宗鲁《说苑校证》中华书局"
+   ],
+   "related_people": [
+    "cn-lianghan-liu-xiang",
+    "cn-xianqin-kongzi",
+    "cn-lianghan-ban-gu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《说苑》是刘向的个人创作",
+     "why": "它是分类纂辑的前人故事与言论，刘向的贡献在编次与取裁。"
+    },
+    {
+     "claim": "它只是故事集，无哲学",
+     "why": "其分类框架（君道／臣术／贵德／正谏）本身就是一套政治伦理的结构。"
+    }
+   ],
+   "sources": [
+    "ws-shuoyuan",
+    "ws-xinxu"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -20
+  },
+  {
+   "id": "work-xinxu",
+   "title": "《新序》",
+   "title_original": "新序",
+   "tradition": "china",
+   "date_display": "约前20年",
+   "structure": "十卷（今本）：《杂事》一至五、《刺奢》《节士》《义勇》《善谋》上下。",
+   "core_arguments": [
+    "以“杂事”分类纂辑，与《说苑》互为表里",
+    "《刺奢》《节士》《义勇》三门集中于奢侈、气节与义勇三个主题",
+    "以故事证成儒家的政治伦理"
+   ],
+   "key_points": [
+    {
+     "locator": "《杂事》",
+     "point": "君道与臣术的杂纂"
+    },
+    {
+     "locator": "《刺奢》",
+     "point": "对奢侈的批评"
+    },
+    {
+     "locator": "《节士》",
+     "point": "气节与隐逸"
+    },
+    {
+     "locator": "《义勇》",
+     "point": "义勇之行"
+    }
+   ],
+   "editions": [
+    "《新序》（四庫全書本）；石光瑛《新序校释》中华书局"
+   ],
+   "related_people": [
+    "cn-lianghan-liu-xiang",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《新序》与《说苑》内容重复故可废其一",
+     "why": "二者分类不同（《说苑》二十门，《新序》十卷），取裁亦有别，互为补充。"
+    },
+    {
+     "claim": "今本十卷即刘向原貌",
+     "why": "《新序》原有三十卷（《汉书·艺文志》），今本十卷为后人合并删定，非原貌。"
+    }
+   ],
+   "sources": [
+    "ws-xinxu",
+    "ws-shuoyuan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《新序》原三十卷（见《汉书·艺文志》），今本十卷经后人合并；卷次与篇目与原貌有出入。",
+   "sort_year": -20
+  },
+  {
+   "id": "work-lienvzhuan",
+   "title": "《列女传》",
+   "title_original": "列女傳",
+   "tradition": "china",
+   "date_display": "约前20年",
+   "structure": "七卷：母仪、贤明、仁智、贞顺、节义、辩通、孽嬖；每卷十五传（共一百零五传），每传后有“颂”。",
+   "core_arguments": [
+    "以分类传记呈现女性德行的类型（母仪、贤明、仁智等）",
+    "“孽嬖”一门以反面例子示警戒，故非单纯的表彰",
+    "把女性的德行纳入政治秩序（母仪、辅佐）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一《母仪》",
+     "point": "母教与政治"
+    },
+    {
+     "locator": "卷三《仁智》",
+     "point": "智与德"
+    },
+    {
+     "locator": "卷七《孽嬖》",
+     "point": "反面警戒"
+    },
+    {
+     "locator": "各卷末《颂》",
+     "point": "以韵语作评断"
+    }
+   ],
+   "editions": [
+    "《列女傳》（四部叢刊本）；王照圆《列女传补注》"
+   ],
+   "related_people": [
+    "cn-lianghan-liu-xiang",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《列女传》只是表彰贞节",
+     "why": "其七门中“贤明”“仁智”“辩通”皆重才识；“贞顺”“节义”只是其中两门，且“孽嬖”为反面。"
+    },
+    {
+     "claim": "它是刘向为妇女所作的教育读本",
+     "why": "其直接目的是谏诤（针对赵飞燕姊妹的专宠），故其编纂有明确的政治指向。"
+    }
+   ],
+   "sources": [
+    "ws-lienvzhuan",
+    "ws-hanshu"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《列女传》的篇数与分卷各本有出入（七卷一百零五传为通行说法，另有八卷本系统）；其编纂动机（谏赵飞燕）见《汉书·楚元王传》，但具体成书过程有讨论。",
+   "sort_year": -20
   },
   {
    "id": "work-taixuan",

@@ -1,29 +1,29 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 750,
+  "entries": 756,
   "by_level": {
-   "L2": 627,
-   "L1": 123
+   "L2": 630,
+   "L1": 126
   },
   "doctrine": {
-   "total": 222,
-   "detail": 222,
+   "total": 224,
+   "detail": 224,
    "auto": 0
   },
-  "needs_verification": 123,
-  "sources": 329,
-  "sources_verified": 325
+  "needs_verification": 126,
+  "sources": 332,
+  "sources_verified": 328
  },
  "units": [
   {
    "unit_id": "cn-lianghan",
    "title": "两汉经学与气论",
    "region": "china",
-   "philosophers": 13,
+   "philosophers": 15,
    "concepts": 14,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -5"
+   "philosophers_slot": "8 上限，余 -7"
   },
   {
    "unit_id": "cn-qingmod",
@@ -285,6 +285,28 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-liu-xiang",
+   "type": "philosopher",
+   "title": "刘向",
+   "container": "cn-lianghan",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-ban-gu",
+   "type": "philosopher",
+   "title": "班固",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -6305,6 +6327,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-shiji",
+   "type": "work",
+   "title": "《史记》",
+   "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-dererum-natura",
    "type": "work",
    "title": "《物性论》",
@@ -6324,6 +6357,39 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-shuoyuan",
+   "type": "work",
+   "title": "《说苑》",
+   "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-xinxu",
+   "type": "work",
+   "title": "《新序》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-lienvzhuan",
+   "type": "work",
+   "title": "《列女传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

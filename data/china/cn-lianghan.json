@@ -1993,6 +1993,285 @@
      "note": "由司马迁录入《太史公自序》"
     }
    ]
+  },
+  {
+   "id": "cn-lianghan-liu-xiang",
+   "name": "刘向",
+   "latin": "Liu Xiang",
+   "birth_year": -77,
+   "death_year": -6,
+   "birth_display": "前77年",
+   "death_display": "前6年",
+   "birth_note": "据《汉书·楚元王传》：沛人，汉宗室，官至中垒校尉。",
+   "death_note": "前6年卒（卒年据《汉书》本传）",
+   "era": "西汉末。刘向以校理中秘群书著称：他编定《说苑》《新序》《列女传》，并上《洪范五行传论》以灾异论政；其子刘歆续其业而倡古文经学。刘向的灾异论与分类纂辑对后世影响深远。",
+   "school": "今文经学（灾异论）",
+   "core_questions": [
+    "灾异应如何解释？",
+    "如何以古事劝谏？",
+    "诸子与经的关系如何？"
+   ],
+   "arguments": [
+    {
+     "claim": "以灾异为“天之所以谴告”的政论工具",
+     "premises": [
+      "《洪范五行传》以五行分配政事，逐条指陈灾异之应。",
+      "外戚与宦官专权，故借天变以谏。"
+     ],
+     "inference": "若灾异可对应具体的政事失当，则它就不是纯粹的占验，而是有政治指向的谏诤依据。",
+     "conclusion": "灾异论是谏诤的宇宙论根据，其对象是具体的政治失当。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以分类纂辑的方式劝谏：故事比直言更有效",
+     "premises": [
+      "直谏易触怒，故事可委婉。",
+      "分类纂辑（君道、臣术、贵德、复恩等）使道理可循类而求。"
+     ],
+     "inference": "若劝谏的目的在于改变行为，则“以事类相从”的编纂方式比抽象论说更能使人接受。",
+     "conclusion": "分类纂辑是劝谏的技术：以类相从，使人自得。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《说苑》《新序》《列女传》《洪范五行传论》",
+     "edition": "《說苑》《新序》（四庫全書本）；《列女傳》（四部叢刊本）",
+     "note": "-20 前后；-20 前后；-20 前后；佚（辑本存）"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "董仲舒的灾异说",
+     "id": "cn-lianghan-dong-zhongshu",
+     "note": "天人感应的框架"
+    },
+    {
+     "name": "《洪范五行传》的传统",
+     "id": null,
+     "note": "五行与政事的对应"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "刘歆",
+     "id": "cn-lianghan-liu-xin",
+     "note": "其子，倡古文经学"
+    },
+    {
+     "name": "班固与《汉书》",
+     "id": "cn-lianghan-ban-gu",
+     "note": "承其校书之业而批评其灾异说"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "班固",
+     "view": "以灾异附会政事，近于方士之术，非醇儒之论。",
+     "response": "刘向一系的回应是：灾异论的目的在谏诤，其有效性不在占验的精确，而在使君主有所畏。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-hanshu",
+      "ct-lunheng"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "刘向是古文经学的开创者",
+     "why": "他属今文经学一系（以灾异论政）；倡古文经学的是其子刘歆。"
+    },
+    {
+     "claim": "《说苑》《新序》是其个人创作",
+     "why": "它们是分类纂辑的前人故事与言论，刘向的贡献在编次与取裁，非全部自撰。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>刘向：灾异谏诤与分类纂辑</text><defs><marker id='aLX' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>灾异可对应具体政事失当</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故灾异论是谏诤的根据</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>直谏易怒，故事可委婉</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故以分类纂辑劝谏</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLX)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLX)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "刘向：灾异谏诤与分类纂辑（示意图）",
+   "sources": [
+    "ws-shuoyuan",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《洪范五行传论》已佚，仅存辑本；本页所述依《汉书·楚元王传》与《说苑》《新序》的编纂体例，具体灾异对应条目须核辑本。",
+   "doctrine": {
+    "summary": "刘向以两条路径介入政治：其一是灾异论——以《洪范五行传》把五行分配政事，逐条指陈灾异之应，使天变成为谏诤的宇宙论根据；其二是分类纂辑——以《说苑》《新序》《列女传》按“君道”“臣术”“贵德”等类编次前人故事，因直谏易触怒而故事可委婉。二者共同构成其“以古事与天变劝谏”的实践。",
+    "system": [
+     {
+      "name": "灾异谏诤",
+      "content": "以五行配政事，使灾异对应具体的政治失当。"
+     },
+     {
+      "name": "分类纂辑",
+      "content": "按类编次故事，使人循类自得，是劝谏的技术。"
+     },
+     {
+      "name": "校书之业",
+      "content": "校理中秘群书，奠定后世目录学的基础（其子刘歆成《七略》）。"
+     },
+     {
+      "name": "今文立场",
+      "content": "属今文经学一系，与刘歆的古文经学相对；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "沛与长安（前77—前6）",
+      "change": "汉宗室；宣帝时献赋；成帝时校理中秘群书；屡上书谏外戚王氏专权；官至中垒校尉。"
+     }
+    ],
+    "reception": "其分类纂辑影响了后世的类书与劝谏文体；灾异论成为西汉末政治斗争的话语资源；其子刘歆的古文经学则开启今古文之争的另一条线。"
+   },
+   "works_detail": [
+    {
+     "title": "《说苑》",
+     "structure": "二十卷；分君道、臣术、建本、立节、贵德、复恩、政理、尊贤、正谏、敬慎等二十门。",
+     "core_thesis": "以类相从的劝谏技术；故事与言论的编纂。",
+     "editions": "《說苑》（四部叢刊本）；向宗鲁《说苑校证》中华书局",
+     "note": "分类纂辑，非自撰"
+    }
+   ]
+  },
+  {
+   "id": "cn-lianghan-ban-gu",
+   "name": "班固",
+   "latin": "Ban Gu",
+   "birth_year": 32,
+   "death_year": 92,
+   "birth_display": "32年",
+   "death_display": "92年",
+   "birth_note": "据《后汉书·班彪列传》：扶风安陵人，班彪之子。",
+   "death_note": "92年卒于狱中（因窦宪案牵连）。",
+   "era": "东汉。班固续其父班彪之业撰《汉书》，首创纪传体断代史；其《艺文志》承刘歆《七略》，确立“十家”的诸子分类；他又以《白虎通义》的综合参与东汉官方经义的定型。",
+   "school": "正统儒学（今文经学）",
+   "core_questions": [
+    "史书应如何编纂？",
+    "诸子应如何分类？",
+    "汉代的制度正当性何在？"
+   ],
+   "arguments": [
+    {
+     "claim": "断代史：一代之史自成体系",
+     "premises": [
+      "《史记》为通史，然汉室之功业须自成一书。",
+      "断代则一代的典章、人物与制度得以完整呈现。"
+     ],
+     "inference": "若史书以“一代”为单位，则其制度的因果与人物的事迹不必受通史体例的牵制；故断代史更能呈现一代之制的整体。",
+     "conclusion": "以断代为单位编纂，使一代之制自成一体系（《汉书》之创新）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "十家：诸子分类须含“杂”“小说”等实用之门",
+     "premises": [
+      "六家之分遗漏了实用的知识与杂糅的著作。",
+      "故增纵横、杂、农、小说四家为十家。"
+     ],
+     "inference": "若分类的目的是著录图书而非评断学派高下，则须容纳实用的与杂糅的门类；故十家之分是目录学的分类，非学派优劣的判词。",
+     "conclusion": "十家是图书分类，九家（去小说家）为“可观者”，二者层次不同。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《汉书》（含《艺文志》）《白虎通义》《两都赋》",
+     "edition": "《漢書》（四部叢刊本）；中华书局点校本",
+     "note": "82 前后；79；—"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "班彪与司马迁",
+     "id": "cn-lianghan-sima-tan",
+     "note": "家学与史学传统"
+    },
+    {
+     "name": "刘歆《七略》",
+     "id": "cn-lianghan-liu-xin",
+     "note": "《艺文志》的直接来源"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "后世正史体例",
+     "id": null,
+     "note": "断代史成为官修史书的标准"
+    },
+    {
+     "name": "目录学传统",
+     "id": null,
+     "note": "四部分类的前身"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "刘向一系的今文家与后来的古文家",
+     "view": "以“十家”分类过于宽泛，且《汉书》多采古文经说，与其今文立场不尽一致。",
+     "response": "班固一系的回应是：分类与立场是两件事——分类为著录之便，立场则见其论赞。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-hanshu",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《汉书·艺文志》是班固的独创",
+     "why": "它承刘歆《七略》，“删其要”而成；班固的贡献在删定与体例，非全部独创。"
+    },
+    {
+     "claim": "“十家”即十个平等的学派",
+     "why": "班固明言“诸子十家，其可观者九家而已”，小说家不在“可观”之列。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>班固：断代史与十家分类</text><defs><marker id='aBG' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>《史记》为通史，汉制须自成书</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故以断代为体</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>六家遗漏实用之门</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故增为十家（可观者九家）</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aBG)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aBG)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "班固：断代史体例与十家分类（示意图）",
+   "sources": [
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "班固有两大贡献：其一，首创纪传体断代史——若史书以“一代”为单位，则其典章、人物与制度得以完整呈现，不必受通史体例牵制，这就是《汉书》之创新；其二，《艺文志》承刘歆《七略》而“删其要”，把诸子分为十家（增纵横、杂、农、小说），并明言“可观者九家而已”——故十家是图书分类，不是十个平等学派的判词。",
+    "system": [
+     {
+      "name": "断代史",
+      "content": "以一代为单位，使一代之制自成一体系；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "十家分类",
+      "content": "六家增纵横、杂、农、小说；“可观者九家”。"
+     },
+     {
+      "name": "《艺文志》的来源",
+      "content": "承刘歆《七略》删定，非全部独创；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "白虎观会议",
+      "content": "以官方会议定五经异同，形成《白虎通义》。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "扶风安陵与洛阳（32—92）",
+      "change": "父班彪续《史记》作《后传》；班固续成《汉书》；永元四年因窦宪案下狱死，时《汉书》八表及天文志未成，由妹班昭续成。"
+     }
+    ],
+    "reception": "《汉书》成为后世正史的典范（断代体例）；《艺文志》是现存最早的图书目录，其分类影响两千年的目录学；《白虎通义》是东汉官方经义的集成。"
+   },
+   "works_detail": [
+    {
+     "title": "《汉书·艺文志》",
+     "structure": "十志之一；分六艺、诸子、诗赋、兵书、数术、方技六略，诸子略分十家。",
+     "core_thesis": "十家分类；可观者九家；这是该书的核心命题。",
+     "editions": "《漢書》（四部叢刊本）；中华书局点校本",
+     "note": "承刘歆《七略》删定"
+    }
+   ]
   }
  ],
  "concepts": [
