@@ -2594,6 +2594,62 @@
    "sort_year": 1132
   },
   {
+   "id": "work-zhiyan",
+   "title": "《知言》",
+   "title_original": "知言",
+   "tradition": "china",
+   "date_display": "约1150年",
+   "structure": "六卷；论性、心、好恶、天理人欲、君臣、治道等，为语录与短论结合的体例。",
+   "core_arguments": [
+    "性为天下之大本，非一物而是一切之根据",
+    "心以成性：性须在心的践行中成立",
+    "性发而为好恶，故工夫在察其几微"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "性为天下之大本"
+    },
+    {
+     "locator": "卷二",
+     "point": "心以成性"
+    },
+    {
+     "locator": "卷三",
+     "point": "好恶与天理人欲"
+    },
+    {
+     "locator": "卷四—六",
+     "point": "治道与君臣"
+    }
+   ],
+   "editions": [
+    "《知言》（四庫全書本）；《胡宏集》中华书局点校本"
+   ],
+   "related_people": [
+    "cn-songming-hu-hong",
+    "cn-songming-zhang-shi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《知言》属程朱一系",
+     "why": "其“性本心用”说与程朱“性即理”不同，朱熹对它多有辩驳。"
+    },
+    {
+     "claim": "它是纯语录",
+     "why": "它有明确的本体论与工夫论结构，非零散语录。"
+    }
+   ],
+   "sources": [
+    "ws-zhiyan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1150
+  },
+  {
    "id": "work-guide-perplexed",
    "title": "《迷途指津》",
    "title_original": "Dalālat al-ḥāʾirīn（Guide of the Perplexed）",
@@ -2645,6 +2701,62 @@
    "sources": [
     "sep-maimonides",
     "sep-aquinas"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1190
+  },
+  {
+   "id": "work-longchuan-wenji",
+   "title": "《龙川文集》",
+   "title_original": "龍川文集",
+   "tradition": "china",
+   "date_display": "约1190年（身后刊行）",
+   "structure": "三十卷；含政论（《中兴五论》《上孝宗皇帝书》）、书信（与朱熹往复）、序记、词作。",
+   "core_arguments": [
+    "道在事中：道不离具体历史功业",
+    "义利双行、王霸并用：以公利与功业为尺度",
+    "反对以三代为唯一标准废黜汉唐"
+   ],
+   "key_points": [
+    {
+     "locator": "卷二十 与朱元晦书",
+     "point": "王霸义利之辩的核心往复"
+    },
+    {
+     "locator": "《中兴五论》",
+     "point": "恢复之策"
+    },
+    {
+     "locator": "《酌古论》",
+     "point": "以史论兵"
+    },
+    {
+     "locator": "词作",
+     "point": "“不见南师久”等爱国词"
+    }
+   ],
+   "editions": [
+    "《龍川集》（四庫全書本）；《陈亮集》中华书局点校本"
+   ],
+   "related_people": [
+    "cn-songming-chen-liang",
+    "cn-songming-zhu-xi",
+    "cn-songming-ye-shi"
+   ],
+   "misreadings": [
+    {
+     "claim": "陈亮只重功利不论道德",
+     "why": "其尺度是“公利”，且以“顺天应人”论道，不是取消道德判断。"
+    },
+    {
+     "claim": "他与朱熹的争论是意气之争",
+     "why": "争论涉及道与事、义与利、历史评判标准等实质哲学问题。"
+    }
+   ],
+   "sources": [
+    "ws-longchuanji",
+    "book-chan-sourcebook"
    ],
    "needs_verification": false,
    "pending_notes": "",
@@ -3048,6 +3160,60 @@
    "sort_year": 1640
   },
   {
+   "id": "work-tongya",
+   "title": "《通雅》",
+   "title_original": "通雅",
+   "tradition": "china",
+   "date_display": "约1640年",
+   "structure": "五十二卷；分疑始、释诂、天文、地舆、身体、称谓、姓名、官制、事制、礼仪、乐曲、乐舞、方技、器用、宫室、衣服、饮食、金石、谚原等门。",
+   "core_arguments": [
+    "以音韵通训诂：字义须由古音求得，不能以今音臆断",
+    "博物的知识须有文献与实物两重证据",
+    "学问当“质测”具体事物，不空谈性命"
+   ],
+   "key_points": [
+    {
+     "locator": "《疑始》",
+     "point": "论古音与通假"
+    },
+    {
+     "locator": "《释诂》",
+     "point": "以音求义的方法"
+    },
+    {
+     "locator": "《天文》《地舆》",
+     "point": "吸收西学的天文地理知识"
+    },
+    {
+     "locator": "《谚原》",
+     "point": "俗语词源的考察"
+    }
+   ],
+   "editions": [
+    "《通雅》（四庫全書本）；《方以智全书》黄山书社"
+   ],
+   "related_people": [
+    "cn-qingmod-fang-yizhi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《通雅》是词典",
+     "why": "它是以音韵通训诂的方法论著作，兼含自然知识与名物考证。"
+    },
+    {
+     "claim": "它的知识全部来自传统",
+     "why": "它吸收西洋历算与地理知识，并主张以“质测”验证。"
+    }
+   ],
+   "sources": [
+    "ws-tongya",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1640
+  },
+  {
    "id": "work-meditations",
    "title": "《第一哲学沉思集》",
    "title_original": "Meditationes de prima philosophia",
@@ -3274,6 +3440,62 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1670
+  },
+  {
+   "id": "work-rizhilu",
+   "title": "《日知录》",
+   "title_original": "日知錄",
+   "tradition": "china",
+   "date_display": "1670年（初刻八卷）；1695年（门人补刻）",
+   "structure": "三十二卷；按经义、政事、世风、礼制、科举、艺文、杂论等分类，为读书札记体，每条考订一事。",
+   "core_arguments": [
+    "经学即理学：舍经学则所谓理学无所依",
+    "“亡国”与“亡天下”之别：文化秩序的存续重于朝代更替",
+    "以考据求治道：每一条皆由实证通至政事得失"
+   ],
+   "key_points": [
+    {
+     "locator": "卷七《夫子之言性与天道》",
+     "point": "经学即理学"
+    },
+    {
+     "locator": "卷十三《正始》",
+     "point": "亡国与亡天下之辨"
+    },
+    {
+     "locator": "卷十三《廉耻》",
+     "point": "士风与廉耻"
+    },
+    {
+     "locator": "卷十九《文须有益于天下》",
+     "point": "文以明道"
+    }
+   ],
+   "editions": [
+    "黄汝成《日知录集释》上海古籍出版社；栾保群校注本浙江古籍出版社"
+   ],
+   "related_people": [
+    "cn-qingmod-gu-yanwu",
+    "cn-qingmod-huang-zongxi",
+    "cn-qingmod-zhang-xuecheng"
+   ],
+   "misreadings": [
+    {
+     "claim": "《日知录》是纯粹的考据札记",
+     "why": "其考据皆指向治道与士风，“经学即理学”与“亡国亡天下”之辨都是哲学命题。"
+    },
+    {
+     "claim": "“天下兴亡，匹夫有责”是顾炎武原话",
+     "why": "该语是后人对《正始》条“保天下者，匹夫之贱与有责焉耳矣”的概括，非逐字原文。"
+    }
+   ],
+   "sources": [
+    "ct-rizhilu",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“天下兴亡，匹夫有责”为梁启超等的概括语，非顾炎武原文；《日知录》各卷为陆续增补，初刻八卷与后刻三十二卷内容有出入。",
    "sort_year": 1670
   },
   {
@@ -5305,6 +5527,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1900
+  },
+  {
+   "id": "work-datongshu",
+   "title": "《大同书》",
+   "title_original": "大同書",
+   "tradition": "china",
+   "date_display": "1902年成稿；1935年刊行",
+   "structure": "十部：甲《入世界观众苦》、乙《去国界合大地》、丙《去级界平民族》、丁《去种界同人类》、戊《去形界保独立》、己《去家界为天民》等。",
+   "core_arguments": [
+    "以“去九界”描绘无国界、无阶级、无家庭的理想社会",
+    "以公羊三世说论证大同为历史进化的终点",
+    "以“仁”与“去苦求乐”为动力"
+   ],
+   "key_points": [
+    {
+     "locator": "甲部",
+     "point": "“入世界观众苦”的现象学式罗列"
+    },
+    {
+     "locator": "乙部",
+     "point": "去国界、设公政府"
+    },
+    {
+     "locator": "戊部",
+     "point": "去形界、男女平等"
+    },
+    {
+     "locator": "己部",
+     "point": "去家界、儿童公育"
+    }
+   ],
+   "editions": [
+    "《大同书》中华书局；《康有为全集》中国人民大学出版社"
+   ],
+   "related_people": [
+    "cn-qingmod-kang-youwei",
+    "cn-lianghan-he-xiu",
+    "cn-qingmod-tan-sitong"
+   ],
+   "misreadings": [
+    {
+     "claim": "《大同书》是即时的政治纲领",
+     "why": "康有为生前只公开部分内容；其“去家界”等主张远超当时可行性，属远景构想。"
+    },
+    {
+     "claim": "它只是乌托邦空想",
+     "why": "它有明确的理论结构（公羊三世、去九界）与对现实苦难的分析，是系统的社会哲学。"
+    }
+   ],
+   "sources": [
+    "sep-qing-philosophy",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《大同书》成稿年代与刊行过程复杂（1902 年成稿说为主，另有更早稿本之说），且康有为生前仅公开部分；本页据刊本与哲学史研究概述，具体章节须核中华书局本。",
+   "sort_year": 1902
   },
   {
    "id": "work-tractatus",

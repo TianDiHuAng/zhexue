@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 606,
+  "entries": 611,
   "by_level": {
-   "L2": 519,
-   "L1": 87
+   "L2": 522,
+   "L1": 89
   },
   "doctrine": {
    "total": 215,
    "detail": 215,
    "auto": 0
   },
-  "needs_verification": 87,
+  "needs_verification": 89,
   "sources": 316,
   "sources_verified": 312
  },
@@ -5535,10 +5535,32 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-zhiyan",
+   "type": "work",
+   "title": "《知言》",
+   "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-guide-perplexed",
    "type": "work",
    "title": "《迷途指津》",
    "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-longchuan-wenji",
+   "type": "work",
+   "title": "《龙川文集》",
+   "container": "china",
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
@@ -5623,6 +5645,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-tongya",
+   "type": "work",
+   "title": "《通雅》",
+   "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-meditations",
    "type": "work",
    "title": "《第一哲学沉思集》",
@@ -5664,6 +5697,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-rizhilu",
+   "type": "work",
+   "title": "《日知录》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -6060,6 +6104,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-datongshu",
+   "type": "work",
+   "title": "《大同书》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
