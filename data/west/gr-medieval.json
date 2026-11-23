@@ -3769,6 +3769,54 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-fides-ratio",
+   "title": "信仰与理性孰先",
+   "question": "理解须先有信仰，还是信仰须先经理性检验？",
+   "positions": [
+    {
+     "holder": "安瑟尔谟",
+     "id": "gr-medieval-anselm",
+     "stance": "信仰寻求理解",
+     "reasons": [
+      "“我信，为了理解”：先信而后求理解。",
+      "不信者不能理解，因理解是信仰的果实。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "阿伯拉尔",
+     "id": "gr-medieval-abelard",
+     "stance": "先检验后信",
+     "reasons": [
+      "“以辩驳探求”：先怀疑、论证，再确立信仰。",
+      "盲目相信不是德性。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "阿奎那",
+     "id": "gr-medieval-aquinas",
+     "stance": "各守其域而相辅",
+     "reasons": [
+      "理性可证明信仰的前置（如神存在），但不能证明信条本身。",
+      "信仰与理性同源（皆来自神），故不冲突。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“理解的次序”：安瑟尔谟以信仰为前提（fides quaerens intellectum），阿伯拉尔以论证为入口，阿奎那则分层。这一分歧决定了神学教育的方法（默观／辩证／经院论证）。",
+   "status": "无定论",
+   "status_note": "阿奎那的分层说成为天主教正统（“哲学是神学的婢女”为其通俗表述）；阿伯拉尔的方法经巴黎大学进入经院辩证传统。",
+   "sources": [
+    "lat-anselm-proslogion",
+    "lat-aquinas-summa",
+    "sep-aquinas",
+    "sep-abelard"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

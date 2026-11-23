@@ -1,9 +1,9 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 636,
+  "entries": 649,
   "by_level": {
-   "L2": 541,
+   "L2": 554,
    "L1": 95
   },
   "doctrine": {
@@ -22,7 +22,7 @@
    "region": "china",
    "philosophers": 12,
    "concepts": 11,
-   "debates": 5,
+   "debates": 6,
    "philosophers_slot": "8 上限，余 -4"
   },
   {
@@ -31,7 +31,7 @@
    "region": "china",
    "philosophers": 15,
    "concepts": 12,
-   "debates": 5,
+   "debates": 6,
    "philosophers_slot": "8 上限，余 -7"
   },
   {
@@ -40,7 +40,7 @@
    "region": "china",
    "philosophers": 18,
    "concepts": 11,
-   "debates": 5,
+   "debates": 6,
    "philosophers_slot": "8 上限，余 -10"
   },
   {
@@ -58,7 +58,7 @@
    "region": "china",
    "philosophers": 13,
    "concepts": 13,
-   "debates": 5,
+   "debates": 6,
    "philosophers_slot": "8 上限，余 -5"
   },
   {
@@ -67,7 +67,7 @@
    "region": "china",
    "philosophers": 12,
    "concepts": 12,
-   "debates": 5,
+   "debates": 6,
    "philosophers_slot": "8 上限，余 -4"
   },
   {
@@ -76,7 +76,7 @@
    "region": "west",
    "philosophers": 16,
    "concepts": 13,
-   "debates": 5,
+   "debates": 6,
    "philosophers_slot": "8 上限，余 -8"
   },
   {
@@ -85,7 +85,7 @@
    "region": "west",
    "philosophers": 19,
    "concepts": 13,
-   "debates": 5,
+   "debates": 6,
    "philosophers_slot": "8 上限，余 -11"
   },
   {
@@ -94,7 +94,7 @@
    "region": "west",
    "philosophers": 19,
    "concepts": 12,
-   "debates": 5,
+   "debates": 6,
    "philosophers_slot": "8 上限，余 -11"
   },
   {
@@ -103,7 +103,7 @@
    "region": "west",
    "philosophers": 10,
    "concepts": 12,
-   "debates": 5,
+   "debates": 6,
    "philosophers_slot": "8 上限，余 -2"
   },
   {
@@ -112,7 +112,7 @@
    "region": "west",
    "philosophers": 9,
    "concepts": 14,
-   "debates": 5,
+   "debates": 6,
    "philosophers_slot": "8 上限，余 -1"
   },
   {
@@ -121,7 +121,7 @@
    "region": "west",
    "philosophers": 15,
    "concepts": 12,
-   "debates": 5,
+   "debates": 6,
    "philosophers_slot": "8 上限，余 -7"
   },
   {
@@ -130,7 +130,7 @@
    "region": "west",
    "philosophers": 18,
    "concepts": 13,
-   "debates": 5,
+   "debates": 6,
    "philosophers_slot": "8 上限，余 -10"
   },
   {
@@ -139,7 +139,7 @@
    "region": "west",
    "philosophers": 27,
    "concepts": 12,
-   "debates": 5,
+   "debates": 6,
    "philosophers_slot": "8 上限，余 -19"
   }
  ],
@@ -450,6 +450,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-yinyang-zaiyi",
+   "type": "debate",
+   "title": "灾异是谴告还是自然",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -797,6 +808,17 @@
    "id": "cn-qingmod-gongyang",
    "type": "debate",
    "title": "公羊三世是否可信",
+   "container": "cn-qingmod",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-hanxue-songxue",
+   "type": "debate",
+   "title": "汉学与宋学孰为治学正途",
    "container": "cn-qingmod",
    "level": "L2",
    "sources": 3,
@@ -1176,6 +1198,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-zhujing",
+   "type": "debate",
+   "title": "读经是否足以成圣",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -1850,6 +1883,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-weijin-shengren",
+   "type": "debate",
+   "title": "圣人是否可学可至",
+   "container": "cn-weijin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-xianqin-kongzi",
    "type": "philosopher",
    "title": "孔子",
@@ -2161,6 +2205,17 @@
    "id": "cn-xianqin-dezhi-fazhi",
    "type": "debate",
    "title": "德治还是法治",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-tianren-fenhe",
+   "type": "debate",
+   "title": "天人相分还是天人合一",
    "container": "cn-xianqin",
    "level": "L2",
    "sources": 4,
@@ -2535,6 +2590,17 @@
    "id": "gr-19c-history-law",
    "type": "debate",
    "title": "历史是否有规律",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-19c-religion-science",
+   "type": "debate",
+   "title": "宗教与科学是否必然冲突",
    "container": "gr-19c",
    "level": "L2",
    "sources": 3,
@@ -2950,6 +3016,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-others-mind",
+   "type": "debate",
+   "title": "他心问题如何解决",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-ancient-pythagoras",
    "type": "philosopher",
    "title": "毕达哥拉斯",
@@ -3346,6 +3423,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-ancient-akrasia",
+   "type": "debate",
+   "title": "意志薄弱是否可能",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-contemp-rawls",
    "type": "philosopher",
    "title": "罗尔斯",
@@ -3635,6 +3723,17 @@
    "id": "gr-contemp-liberalism-culture",
    "type": "debate",
    "title": "自由主义能否容纳文化差异",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-contemp-animal",
+   "type": "debate",
+   "title": "动物是否有道德地位",
    "container": "gr-contemp",
    "level": "L2",
    "sources": 3,
@@ -3943,6 +4042,17 @@
    "id": "gr-german-categorical-application",
    "type": "debate",
    "title": "定言命令能否推出具体义务",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-german-beautiful-sublime",
+   "type": "debate",
+   "title": "崇高高于美还是与美并列",
    "container": "gr-german",
    "level": "L2",
    "sources": 3,
@@ -4295,6 +4405,17 @@
    "id": "gr-hellenistic-world-citizen",
    "type": "debate",
    "title": "世界城邦是否可能",
+   "container": "gr-hellenistic",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-hellenistic-emotion",
+   "type": "debate",
+   "title": "情感应当根除还是校正",
    "container": "gr-hellenistic",
    "level": "L2",
    "sources": 3,
@@ -4691,6 +4812,17 @@
    "id": "gr-medieval-trinity-reason",
    "type": "debate",
    "title": "哲学能否论证三位一体",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-fides-ratio",
+   "type": "debate",
+   "title": "信仰与理性孰先",
    "container": "gr-medieval",
    "level": "L2",
    "sources": 4,
@@ -5175,6 +5307,17 @@
    "id": "gr-modern-state-nature",
    "type": "debate",
    "title": "自然状态是战争还是和平",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-innate-moral",
+   "type": "debate",
+   "title": "道德原则是天生的还是习得的",
    "container": "gr-modern",
    "level": "L2",
    "sources": 3,

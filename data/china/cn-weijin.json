@@ -2761,6 +2761,53 @@
    ],
    "needs_verification": true,
    "pending_notes": "《四本论》已佚；四家的具体主张（尤其“离”“异”之别）依赖刘孝标注，学界解释不一。"
+  },
+  {
+   "id": "cn-weijin-shengren",
+   "title": "圣人是否可学可至",
+   "question": "圣人天生不可学，还是人皆可通过修养而至？",
+   "positions": [
+    {
+     "holder": "王弼",
+     "id": "cn-weijin-wangbi",
+     "stance": "圣人不可学",
+     "reasons": [
+      "圣人之神明非人力所及。",
+      "“圣人茂于人者神明”，此非学所能至。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "郭象",
+     "id": "cn-weijin-guoxiang",
+     "stance": "各安其性即至",
+     "reasons": [
+      "“物各有性”，性足则圣不必同形。",
+      "故不必慕圣人之迹，各尽其性即是。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "嵇康",
+     "id": "cn-weijin-jikang",
+     "stance": "圣人不必同",
+     "reasons": [
+      "圣人之为圣在于其自然，不在其形迹。",
+      "学其迹则失其所以圣。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“圣”的判准：若圣在于神明（王弼），则不可学；若在于尽性（郭象），则人人可为；若在于自然而非形迹（嵇康），则学迹反而失圣。三家共同反对“摹仿圣人之迹”，但理由不同。",
+   "status": "无定论",
+   "status_note": "魏晋“圣人有情无情”与“圣人可学”两题常并论；宋明理学以“人皆可以为尧舜”为主流，然其“圣人”义已不同于玄学。",
+   "sources": [
+    "ws-shishuoxinyu",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

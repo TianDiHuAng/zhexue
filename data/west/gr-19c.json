@@ -3075,6 +3075,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-19c-religion-science",
+   "title": "宗教与科学是否必然冲突",
+   "question": "宗教与科学是争夺同一领域的对手，还是各管不同的领域？",
+   "positions": [
+    {
+     "holder": "孔德",
+     "id": "gr-19c-comte",
+     "stance": "三阶段：宗教被科学取代",
+     "reasons": [
+      "人类思想经历神学—形而上学—实证三阶段。",
+      "神学解释将被实证科学取代。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "斯宾塞",
+     "id": "gr-19c-spencer",
+     "stance": "各管其域",
+     "reasons": [
+      "科学处理可认识的领域，宗教处理不可知的终极。",
+      "二者不冲突，而是分工。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "纽曼（19世纪，对照）",
+     "id": null,
+     "stance": "科学不能替代教义",
+     "reasons": [
+      "教义关涉启示与良心，非科学对象。",
+      "以科学否定教义，是越界。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点在“领域如何划分”：孔德认为同一领域先后相继，斯宾塞认为两域并存，纽曼认为科学无权评判教义。三者的分歧在于“是否存在科学不能涉足的领域”，而非各自对科学的态度。",
+   "status": "无定论",
+   "status_note": "孔德的取代说在20世纪影响减弱；领域分工说（斯宾塞、内格尔等）成为主流表述，但“界限何在”仍争论。",
+   "sources": [
+    "sep-comte",
+    "sep-spencer",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

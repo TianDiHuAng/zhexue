@@ -2436,6 +2436,53 @@
    ],
    "needs_verification": true,
    "pending_notes": "《春秋》三传与汉儒注疏的文本状况复杂；本页只呈现何休与郑玄的解释分歧，不判定《春秋》本义。"
+  },
+  {
+   "id": "cn-lianghan-yinyang-zaiyi",
+   "title": "灾异是谴告还是自然",
+   "question": "日食、地震、水旱是上天对君主的谴告，还是阴阳之气的自然变化？",
+   "positions": [
+    {
+     "holder": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "stance": "谴告",
+     "reasons": [
+      "国家将有失道之败，天先出灾害以谴告之。",
+      "《春秋》详记灾异，正为见天意。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "王充",
+     "id": "cn-lianghan-wang-chong",
+     "stance": "自然变化",
+     "reasons": [
+      "天无口目，安能谴告？“天道自然无为”。",
+      "灾异是气之偶变，与人事无必然关联。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "刘向一系",
+     "id": null,
+     "stance": "以灾异附政事",
+     "reasons": [
+      "以《洪范五行传》分配政事，逐条指陈。",
+      "灾异是政治得失的征象，可据以谏诤。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点在“天的意志”：若有意志，则灾异可读作谴告；若无，则只能读作自然变化。这一分歧同时是认识论问题（如何解释反常现象）与政治问题（谏诤是否有宇宙论根据）。",
+   "status": "无定论",
+   "status_note": "汉代谴告说盛行（并成为政治斗争工具），王充的批评在当世孤立，但其思路在近代被重估。",
+   "sources": [
+    "ct-chunqiufanlu",
+    "ct-lunheng",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

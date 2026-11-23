@@ -691,5 +691,16 @@
   "needs_verification": 95,
   "sources": 316,
   "sources_verified": 312
+ },
+ {
+  "date": "2026-11-23",
+  "entries": 649,
+  "by_level": {
+   "L2": 554,
+   "L1": 95
+  },
+  "needs_verification": 95,
+  "sources": 316,
+  "sources_verified": 312
  }
 ]

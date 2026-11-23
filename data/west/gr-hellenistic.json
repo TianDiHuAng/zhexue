@@ -2894,6 +2894,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-emotion",
+   "title": "情感应当根除还是校正",
+   "question": "愤怒、恐惧、欲望应当被彻底根除（apatheia），还是只需被理性校正到适度？",
+   "positions": [
+    {
+     "holder": "斯多亚派",
+     "id": "gr-hellenistic-zeno",
+     "stance": "根除",
+     "reasons": [
+      "情感是错误的判断，故须根除而非节制。",
+      "“适度的情感”仍是错误判断。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "逍遥学派（对照）",
+     "id": null,
+     "stance": "校正到中道",
+     "reasons": [
+      "情感有其自然功能，只需以中道节制。",
+      "根除情感既不必要也不可能。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "伊壁鸠鲁",
+     "id": "gr-hellenistic-epicurus",
+     "stance": "削减而非根除",
+     "reasons": [
+      "自然且必要的欲望应满足，其余应削减。",
+      "目标是身体的无痛与心灵的无扰，不是无情。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“情感本身是否有认知内容”：若情感是判断（斯多亚），则错误判断须根除；若情感是自然机能（逍遥派），则只需调节；若情感与欲望相关（伊壁鸠鲁），则关键在于欲望的分类。",
+   "status": "无定论",
+   "status_note": "斯多亚的“根除”说经塞涅卡等传入近代，与近代“情感节制”说形成对照；现代认知行为疗法常溯及斯多亚的“判断说”。",
+   "sources": [
+    "sep-stoicism",
+    "sep-epicurus",
+    "iep-stoicism"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

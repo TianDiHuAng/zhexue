@@ -3092,6 +3092,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-hanxue-songxue",
+   "title": "汉学与宋学孰为治学正途",
+   "question": "治学当以训诂考据为本事，还是以义理心性为归宿？",
+   "positions": [
+    {
+     "holder": "惠栋与吴派",
+     "id": null,
+     "stance": "汉学",
+     "reasons": [
+      "“凡汉皆好”：古训去经最近，故最可信。",
+      "宋儒以己意说经，多失本义。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "方东树",
+     "id": null,
+     "stance": "宋学",
+     "reasons": [
+      "义理之是非非训诂所能定。",
+      "以考据代义理，则学问碎而无本。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "阮元",
+     "id": "cn-qingmod-ruan-yuan",
+     "stance": "实事求是，不立门户",
+     "reasons": [
+      "以证据定是非，不以家法为断。",
+      "训诂是义理之基础，二者非对立。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“什么算理解”：若理解＝恢复本义，则训诂是正途；若理解＝把握义理，则训诂只是准备。这一分歧在清代以“汉宋之争”的形式持续，并影响近现代“整理国故”的方法论。",
+   "status": "无定论",
+   "status_note": "清代主流是汉学，宋学在民间与书院延续；晚清今文经学与近代新儒家各自重估此争论。",
+   "sources": [
+    "ws-yanjingshi",
+    "ws-wenshi-tongyi",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

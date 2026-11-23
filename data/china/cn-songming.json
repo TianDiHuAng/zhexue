@@ -3414,6 +3414,53 @@
    ],
    "needs_verification": true,
    "pending_notes": "《太极图说》首句各本文字有“无极而太极”与“无极而生太极”之异，版本差异直接影响解读；本页并列诸说。"
+  },
+  {
+   "id": "cn-songming-zhujing",
+   "title": "读经是否足以成圣",
+   "question": "熟读经典、穷究义理是否足以成圣，还是须有经典之外的“自得”？",
+   "positions": [
+    {
+     "holder": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "stance": "由经以求道",
+     "reasons": [
+      "圣人之道载于六经，故须读书穷理。",
+      "“读书之法，莫贵于循序而致精”。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "陆九渊",
+     "id": "cn-songming-lu-jiuyuan",
+     "stance": "先立其大，六经注我",
+     "reasons": [
+      "“学苟知本，六经皆我注脚。”",
+      "若不知本，则读书愈多愈蔽。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "陈献章",
+     "id": "cn-songming-chen-xianzhang",
+     "stance": "静坐自得",
+     "reasons": [
+      "“为学须从静中坐养出个端倪来”。",
+      "积累之知不足以至道，须有自得。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“经典的权威位置”：若道在经中，则读经是正道；若道在心，则经是印证而非来源。三方都读经，但对“经由何者生效”的判断不同——这也决定了工夫的入手处（读书／立本／静坐）。",
+   "status": "无定论",
+   "status_note": "朱陆之辩由此展开，明代心学（陈献章—王阳明）承陆一系；清代考据学则以读经为治学之本，但已不问“成圣”问题。",
+   "sources": [
+    "ct-chuanxilu",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

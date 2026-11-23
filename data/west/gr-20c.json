@@ -3548,6 +3548,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-others-mind",
+   "title": "他心问题如何解决",
+   "question": "我能否知道他人有心灵？若能，其根据是什么？",
+   "positions": [
+    {
+     "holder": "胡塞尔",
+     "id": "gr-20c-husserl",
+     "stance": "以“类比统觉”与“共现”",
+     "reasons": [
+      "他人的身体在经验中以“共现”（appresentation）方式给出其体验。",
+      "此非推论，而是知觉的一种样式。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "维特根斯坦",
+     "id": "gr-20c-wittgenstein",
+     "stance": "以“语法”消解问题",
+     "reasons": [
+      "“痛”的用法是公共的，故不是私人对象的名字。",
+      "问题不在“能否知道”，而在“知道”在此有何用。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "蒯因",
+     "id": "gr-20c-quine",
+     "stance": "以类比推论与外显行为",
+     "reasons": [
+      "他人心灵由行为与语言的最佳解释推出。",
+      "此与科学假说同构，并非独特难题。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“知道的性质”：胡塞尔认为是一类特殊的知觉（共现），维特根斯坦认为问题被语法误解（无待解决），蒯因认为是普通的理论推论。三者对“这是不是一个真正的问题”判断不同。",
+   "status": "无定论",
+   "status_note": "这一问题（other minds）在分析哲学中仍是标准议题；维特根斯坦式的“消解”路线与其批评者（如克里普克）持续对话。",
+   "sources": [
+    "sep-husserl",
+    "sep-wittgenstein",
+    "sep-quine"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

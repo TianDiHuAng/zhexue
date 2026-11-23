@@ -2745,6 +2745,54 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-tianren-fenhe",
+   "title": "天人相分还是天人合一",
+   "question": "天与人相通相应，还是各有其职分而互不干预？",
+   "positions": [
+    {
+     "holder": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "stance": "天人相分",
+     "reasons": [
+      "“天行有常，不为尧存，不为桀亡”：天有其常道，不因人事而变。",
+      "“明于天人之分，则可谓至人矣”：知分则不慕天、不求天。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "孟子",
+     "id": "cn-xianqin-mengzi",
+     "stance": "天人相通",
+     "reasons": [
+      "“尽其心者，知其性也；知其性，则知天矣。”",
+      "天之所与我者即心性，故尽心即可知天。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "墨子",
+     "id": "cn-xianqin-mozi",
+     "stance": "天有志而赏罚",
+     "reasons": [
+      "天欲人之相爱相利，故赏善罚暴。",
+      "“顺天意者，兼相爱，交相利，必得赏。”"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“天”是什么：荀子的天是自然之常道（故不当慕），孟子的天是心性的根据（故可通达），墨子的天是有意志的主宰（故可赏罚）。三种“天”不是同一个概念，故“合”与“分”的结论不能直接对照。",
+   "status": "无定论",
+   "status_note": "三说并存：汉代天人感应近墨荀之间的折中，宋明理学多承孟子的“天人相通”而以“天理”重述之。",
+   "sources": [
+    "ct-xunzi",
+    "ct-mengzi",
+    "ct-mozi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

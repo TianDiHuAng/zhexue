@@ -3479,6 +3479,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-akrasia",
+   "title": "意志薄弱是否可能",
+   "question": "明知何为善却仍不为之，这如何可能？苏格拉底否认其可能，亚里士多德则要解释它。",
+   "positions": [
+    {
+     "holder": "苏格拉底",
+     "id": "gr-ancient-socrates",
+     "stance": "无人自愿作恶",
+     "reasons": [
+      "一切行为追求善，作恶是因误判何为善。",
+      "故“明知而不为”不可能，只有“不知”。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "stance": "可能，因知识与欲望的冲突",
+     "reasons": [
+      "知识有“拥有”与“运用”之别，德性薄弱者拥有知识却不运用。",
+      "欲求可使普遍知识在具体情境中失效（《尼各马可伦理学》VII）。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "柏拉图（对照）",
+     "id": "gr-ancient-plato",
+     "stance": "灵魂三分",
+     "reasons": [
+      "理性、激情、欲望各有其动，故可相抗。",
+      "意志薄弱是灵魂秩序失调。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“知识是什么”：苏格拉底以知识为不可战胜的（故无意志薄弱），亚里士多德区分知识的拥有与运用（故可有），柏拉图以灵魂部分的分立解释冲突。三者的分歧是道德心理学的结构性分歧。",
+   "status": "无定论",
+   "status_note": "亚里士多德的解释成为后世主流（意志薄弱＝知识与欲求的分离）；现代哲学以“akrasia”为题仍在讨论（戴维森等）。",
+   "sources": [
+    "sep-aristotle",
+    "sep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

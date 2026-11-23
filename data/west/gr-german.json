@@ -2202,6 +2202,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-german-beautiful-sublime",
+   "title": "崇高高于美还是与美并列",
+   "question": "自然与艺术中的“崇高”（浩瀚、恐怖、超越想象）是比“美”更高的范畴，还是与美并列的另一种审美经验？",
+   "positions": [
+    {
+     "holder": "康德",
+     "id": "gr-german-kant",
+     "stance": "并列而崇高更近理性",
+     "reasons": [
+      "美关涉形式的合目的性，崇高关涉无形式与无限。",
+      "崇高显示理性超越感性的能力，故有道德意涵。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "席勒",
+     "id": "gr-german-schiller",
+     "stance": "美是自由的形式",
+     "reasons": [
+      "美使人进入自由的显现，崇高只是过渡。",
+      "教化（Bildung）的目标是美，不是崇高。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "伯克（前康德）",
+     "id": null,
+     "stance": "崇高源于自我保存",
+     "reasons": [
+      "崇高源于恐惧与自我保存的震撼，美源于社会交往的快感。",
+      "二者是不同情感，不存在高下。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“审美的层次”：伯克以情感分类（二者并列），康德以理性能力排序（崇高更近道德），席勒以教化为归（美为归宿）。三者对“审美经验的意义”判断不同。",
+   "status": "无定论",
+   "status_note": "康德的二分成为现代美学的标准框架；20世纪（利奥塔等）重提崇高，作为现代艺术的核心范畴。",
+   "sources": [
+    "sep-kant",
+    "sep-burke",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

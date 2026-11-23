@@ -5031,6 +5031,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-innate-moral",
+   "title": "道德原则是天生的还是习得的",
+   "question": "道德的基本区别（善恶、正义与不义）是人心本有的，还是由教育、习俗与利益造成的？",
+   "positions": [
+    {
+     "holder": "剑桥柏拉图派与笛卡尔一系（对照）",
+     "id": null,
+     "stance": "本有",
+     "reasons": [
+      "道德的基本区别如数学公理，人心中本有其种子。",
+      "故道德不依赖启示与习俗。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "霍布斯",
+     "id": "gr-modern-hobbes",
+     "stance": "由利益与契约而生",
+     "reasons": [
+      "自然状态下无善恶之别，只有自我保全的欲求。",
+      "道德区别由契约与主权者确立。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "休谟",
+     "id": "gr-modern-hume",
+     "stance": "由情感与同情而生",
+     "reasons": [
+      "道德区别来自道德感（moral sense），非理性所能发现。",
+      "同情使人共鸣于他人之苦乐。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“道德的心理来源”：若本有，则道德是发现（如数学）；若由契约，则道德是建构；若由情感，则道德是感受。三者的分歧决定了道德教育、政治正当性与道德怀疑论的可能空间。",
+   "status": "无定论",
+   "status_note": "休谟的“道德感”说经情感主义（艾耶尔）延续；近代道德哲学中“本有／建构／情感”三分仍在使用。",
+   "sources": [
+    "emt-descartes",
+    "sep-hobbes",
+    "sep-hume"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }
