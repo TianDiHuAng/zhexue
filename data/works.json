@@ -688,6 +688,64 @@
    "sort_year": 317
   },
   {
+   "id": "work-confessions",
+   "title": "《忏悔录》",
+   "title_original": "Confessiones",
+   "tradition": "west",
+   "date_display": "约397—400年",
+   "structure": "十三卷：卷一—九为自传（童年至母亲去世），卷十论记忆，卷十一论时间，卷十二—十三释《创世记》首章。",
+   "core_arguments": [
+    "恶不是实体，而是善的缺失与意志的偏离",
+    "记忆是心灵的广阔宫室：人连自己也不完全认识",
+    "时间是心灵的延展（distentio animi）：过去、现在、未来都在当下的心灵中"
+   ],
+   "key_points": [
+    {
+     "locator": "卷七",
+     "point": "恶为善的缺失（privatio boni）"
+    },
+    {
+     "locator": "卷八",
+     "point": "皈依的瞬间（“拿起来读”）"
+    },
+    {
+     "locator": "卷十",
+     "point": "记忆与自我的不可穷尽"
+    },
+    {
+     "locator": "卷十一 第14—28章",
+     "point": "时间的三个现在：过去的现在（记忆）、现在的现在（直观）、未来的现在（期待）"
+    }
+   ],
+   "editions": [
+    "周士良译《忏悔录》商务印书馆",
+    "Chadwick 英译（Oxford World's Classics）"
+   ],
+   "related_people": [
+    "gr-medieval-augustine",
+    "gr-hellenistic-plotinus",
+    "gr-medieval-boethius"
+   ],
+   "misreadings": [
+    {
+     "claim": "《忏悔录》是自传",
+     "why": "自传只是卷一—九的形式，其真正主题是灵魂与上帝的关系；卷十—十三完全是哲学与释经。"
+    },
+    {
+     "claim": "奥古斯丁主张时间是被造的“东西”",
+     "why": "他说时间与世界的开端同时被造，时间不是实体，而是受造心灵的延展。"
+    }
+   ],
+   "sources": [
+    "na-confessions",
+    "sep-augustine",
+    "iep-augustine"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 397
+  },
+  {
    "id": "work-zhaolun",
    "title": "《肇论》",
    "title_original": "肇論（Zhaolun）",
@@ -2448,6 +2506,64 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1943
+  },
+  {
+   "id": "work-phenomenology-perception",
+   "title": "《知觉现象学》",
+   "title_original": "Phénoménologie de la perception",
+   "tradition": "west",
+   "date_display": "1945年",
+   "structure": "四部分：导论（传统偏见与现象学）、身体、被感知的世界、自由；附论空间、运动、性与他人。",
+   "core_arguments": [
+    "身体不是客体，而是“在世存在的媒介”（身体图式）",
+    "知觉有其自身结构，先于判断与科学抽象",
+    "自由是处境中的自由，不是无根据的选择"
+   ],
+   "key_points": [
+    {
+     "locator": "导论",
+     "point": "“现象学是什么？”与对“客观思维”的批判"
+    },
+    {
+     "locator": "第一部分",
+     "point": "身体图式与幻肢现象"
+    },
+    {
+     "locator": "第二部分",
+     "point": "被感知世界的结构（空间、物、他人）"
+    },
+    {
+     "locator": "第四部分",
+     "point": "自由与处境"
+    }
+   ],
+   "editions": [
+    "姜志辉译《知觉现象学》商务印书馆",
+    "Gallimard 法文本（Landes 英译）"
+   ],
+   "related_people": [
+    "gr-20c-merleau-ponty",
+    "gr-20c-husserl",
+    "gr-20c-sartre"
+   ],
+   "misreadings": [
+    {
+     "claim": "梅洛-庞蒂否弃意识",
+     "why": "他用身体取代“纯粹意识”的优先地位，知觉仍是意识性的。"
+    },
+    {
+     "claim": "身体现象学只是心理学描述",
+     "why": "其目标是存在论：说明世界如何通过身体被给予。"
+    }
+   ],
+   "sources": [
+    "sep-merleau-ponty",
+    "sep-husserl",
+    "iep-husserl"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1945
   },
   {
    "id": "work-investigations",

@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 425,
+  "entries": 429,
   "by_level": {
-   "L2": 360,
-   "L1": 65
+   "L2": 363,
+   "L1": 66
   },
   "doctrine": {
    "total": 150,
    "detail": 150,
    "auto": 0
   },
-  "needs_verification": 65,
+  "needs_verification": 66,
   "sources": 254,
   "sources_verified": 238
  },
@@ -3929,6 +3929,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-confessions",
+   "type": "work",
+   "title": "《忏悔录》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-zhaolun",
    "type": "work",
    "title": "《肇论》",
@@ -4270,6 +4281,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-phenomenology-perception",
+   "type": "work",
+   "title": "《知觉现象学》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-investigations",
    "type": "work",
    "title": "《哲学研究》",
@@ -4339,6 +4361,28 @@
    "id": "cmp-logic",
    "type": "comparative",
    "title": "名实与指称：中西“正名”问题的两种走向",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-politics",
+   "type": "comparative",
+   "title": "正名、礼治与契约：中西政治正当性的三种起点",
+   "container": "comparative",
+   "level": "L2",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-time",
+   "type": "comparative",
+   "title": "循环、线性与刹那：中西时间观的三种结构",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
