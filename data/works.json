@@ -172,6 +172,62 @@
    "sort_year": -385
   },
   {
+   "id": "work-meno",
+   "title": "《美诺篇》",
+   "title_original": "Μένων（Meno）",
+   "tradition": "west",
+   "date_display": "约前385年",
+   "structure": "对话体；美诺问“德性可教吗”，苏格拉底转为“德性是什么”，中途以“几何奴仆”演示回忆说，末以“真信念”与“知识”之别收束。",
+   "core_arguments": [
+    "德性是什么尚未知，则不能问它是否可教（“美诺悖论”：不能研究你已知的，也不能研究你不知的）",
+    "回忆说（anamnēsis）：学习是灵魂对前世所见理念的回忆，以几何奴仆的问答为证",
+    "真信念（orthē doxa）可指导行动但不稳固，须以“因果推理”系住才成为知识"
+   ],
+   "key_points": [
+    {
+     "locator": "70a—80d",
+     "point": "美诺悖论与回忆说"
+    },
+    {
+     "locator": "82b—85d",
+     "point": "几何奴仆的演示"
+    },
+    {
+     "locator": "86c—96d",
+     "point": "德性是否可教"
+    },
+    {
+     "locator": "97a—98b",
+     "point": "真信念与知识之别（代达罗斯的雕像之喻）"
+    }
+   ],
+   "editions": [
+    "中译参《柏拉图全集》人民出版社；Loeb 版（Lamb）"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-socrates",
+    "gr-ancient-protagoras"
+   ],
+   "misreadings": [
+    {
+     "claim": "回忆说主张知识是天生现成的",
+     "why": "它主张灵魂曾有见，但需经“唤起”与追问才能被意识到；且《美诺篇》末尾承认德性最终来自“神的赐予”，并未解决可教性问题。"
+    },
+    {
+     "claim": "《美诺篇》解决了德性可教的问题",
+     "why": "对话以“无解”收束：德性既非知识亦非天生，而是“神赐”的真信念——这是开放的结论。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -385
+  },
+  {
    "id": "work-republic",
    "title": "《理想国》",
    "title_original": "Πολιτεία（Republic）",
@@ -1983,6 +2039,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 55
+  },
+  {
+   "id": "work-letters-seneca",
+   "title": "《道德书简》",
+   "title_original": "Epistulae morales ad Lucilium",
+   "tradition": "west",
+   "date_display": "约62—65年",
+   "structure": "一百二十四封书信，致吕西里乌斯；每封以日常见闻为引，归结到一个哲学要点（时间、恐惧、友谊、财富、死亡、众寡、神）。",
+   "core_arguments": [
+    "哲学是“生活的技艺”：每日自我审查与进步（proficere）比体系更重要",
+    "时间是最易被浪费的财富：“我们所拥有的并非时间太少，而是浪费太多”",
+    "德性自足：外物为“无关紧要者”（indifferentia），智者不受其扰"
+   ],
+   "key_points": [
+    {
+     "locator": "第1封",
+     "point": "时间的浪费与占有自己"
+    },
+    {
+     "locator": "第41封",
+     "point": "神在每个人心中（内在的神性）"
+    },
+    {
+     "locator": "第76封",
+     "point": "德性是唯一的善"
+    },
+    {
+     "locator": "第101封",
+     "point": "死亡的随时可能"
+    }
+   ],
+   "editions": [
+    "中译参《塞涅卡道德书简》商务印书馆（若有）；Loeb 版（Gummere）"
+   ],
+   "related_people": [
+    "gr-hellenistic-seneca",
+    "gr-hellenistic-epictetus",
+    "gr-hellenistic-zeno"
+   ],
+   "misreadings": [
+    {
+     "claim": "塞涅卡是伪君子（富而倡简朴）",
+     "why": "他本人承认这一张力并以“进步中的人”自居；书简的体裁是自我训练而非道德宣告。"
+    },
+    {
+     "claim": "斯多亚派主张无情无感",
+     "why": "他们主张根除“情感”（错误的判断），而非根除一切感受；书简中充满对友谊与亲情的肯定。"
+    }
+   ],
+   "sources": [
+    "sep-seneca",
+    "iep-seneca",
+    "sep-stoicism"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 62
   },
   {
    "id": "work-lunheng",
@@ -6768,6 +6881,58 @@
    "sort_year": 1867
   },
   {
+   "id": "work-anti-duhring",
+   "title": "《反杜林论》",
+   "title_original": "Herrn Eugen Dührings Umwälzung der Wissenschaft（Anti-Dühring）",
+   "tradition": "west",
+   "date_display": "1878年",
+   "structure": "三编：哲学、政治经济学、社会主义；逐章驳杜林，同时正面阐述“马克思主义的三个组成部分”。",
+   "core_arguments": [
+    "哲学编：世界的统一性在于物质性；辩证法有三条规律（对立统一、质量互变、否定之否定）",
+    "政治经济学编：价值论与剩余价值（“暴力论”批判）",
+    "社会主义编：社会主义是生产社会化的结果，非道德的诉求"
+   ],
+   "key_points": [
+    {
+     "locator": "第一编 哲学",
+     "point": "物质与意识；辩证法的三条规律"
+    },
+    {
+     "locator": "第二编 政治经济学",
+     "point": "暴力论批判与价值理论"
+    },
+    {
+     "locator": "第三编 社会主义",
+     "point": "生产社会化与占有"
+    }
+   ],
+   "editions": [
+    "《马克思恩格斯全集》第20卷人民出版社；MEGA 版"
+   ],
+   "related_people": [
+    "gr-19c-engels",
+    "gr-19c-marx",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "“辩证法的三条规律”是马克思的表述",
+     "why": "这一概括出自恩格斯的《反杜林论》与《自然辩证法》，马克思本人未作此三条式的表述。"
+    },
+    {
+     "claim": "它是马克思与恩格斯的合著",
+     "why": "由恩格斯独立写成（马克思审阅了部分手稿并撰写了一章），非合著。"
+    }
+   ],
+   "sources": [
+    "sep-engels",
+    "marx-chinese"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“辩证法三规律”的概括出自恩格斯而非马克思，学界对二人辩证法的一致性有长期讨论；本书由恩格斯独立写成，马克思仅审阅部分手稿。",
+   "sort_year": 1878
+  },
+  {
    "id": "work-zarathustra",
    "title": "《查拉图斯特拉如是说》",
    "title_original": "Also sprach Zarathustra",
@@ -7226,6 +7391,62 @@
    "sort_year": 1945
   },
   {
+   "id": "work-second-sex",
+   "title": "《第二性》",
+   "title_original": "Le Deuxième Sexe",
+   "tradition": "west",
+   "date_display": "1949年",
+   "structure": "两卷：卷一《事实与神话》（生物学、精神分析、历史唯物主义、神话），卷二《今日之生活》（成长、处境、辩解、走向解放）。",
+   "core_arguments": [
+    "“女人不是天生的，而是被造成的”：性别角色是社会建构的结果",
+    "女人被构成为“他者”（l'Autre）：男性是主体与标准，女性是相对者",
+    "解放的条件是经济独立与“存在论的自由”，而非仅仅法律平等"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 导论",
+     "point": "“他者”的结构与“女人不是天生的”"
+    },
+    {
+     "locator": "卷一 生物学与精神分析",
+     "point": "对生理决定论与弗洛伊德的批评"
+    },
+    {
+     "locator": "卷二 成长",
+     "point": "女性气质的养成"
+    },
+    {
+     "locator": "卷二 走向解放",
+     "point": "经济独立与自由的条件"
+    }
+   ],
+   "editions": [
+    "中译参上海译文出版社《第二性》；Gallimard 法文本"
+   ],
+   "related_people": [
+    "gr-20c-beauvoir",
+    "gr-20c-sartre",
+    "gr-modern-wollstonecraft"
+   ],
+   "misreadings": [
+    {
+     "claim": "波伏瓦否认生理差异",
+     "why": "她承认生理差异，但否认它能决定社会角色；她批评的是“生理即命运”的推论。"
+    },
+    {
+     "claim": "《第二性》只是社会学调查",
+     "why": "它以存在主义本体论（自在／自为、他者化）为框架，是哲学著作。"
+    }
+   ],
+   "sources": [
+    "iep-beauvoir",
+    "sep-sartre"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1949
+  },
+  {
    "id": "work-investigations",
    "title": "《哲学研究》",
    "title_original": "Philosophische Untersuchungen",
@@ -7392,6 +7613,62 @@
    ],
    "needs_verification": true,
    "pending_notes": "“不可通约性”的确切含义（语义的、方法的、还是本体论的）在库恩本人前后期表述中有变化，学界讨论持续；本页取其核心表述，不作定论。",
+   "sort_year": 1962
+  },
+  {
+   "id": "work-how-to-do-things",
+   "title": "《如何以言行事》",
+   "title_original": "How to Do Things with Words",
+   "tradition": "west",
+   "date_display": "1962年（据1955年讲演整理，遗著）",
+   "structure": "十二讲；先区分“记述式”（constative）与“施行式”（performative）话语，再逐步放弃二分，改以“言语行为”的三层分析（locutionary／illocutionary／perlocutionary）。",
+   "core_arguments": [
+    "说即是做：如“我承诺”“我命名此船”并非描述事实，而是在施行行为",
+    "施行式的成败取决于“适切条件”（felicity conditions），而非真假",
+    "一切话语都含施行维度，故记述／施行的二分最终被放弃"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—四讲",
+     "point": "施行式与适切条件"
+    },
+    {
+     "locator": "第八—九讲",
+     "point": "locutionary／illocutionary／perlocutionary 三分"
+    },
+    {
+     "locator": "第十一讲",
+     "point": "二分的放弃"
+    },
+    {
+     "locator": "第十二讲",
+     "point": "言语行为的分类纲要"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《如何以言行事》；Oxford 版（Urmson 编）"
+   ],
+   "related_people": [
+    "gr-20c-austin",
+    "gr-20c-wittgenstein",
+    "gr-contemp-derrida"
+   ],
+   "misreadings": [
+    {
+     "claim": "奥斯汀主张“一切话语都是行为，故无真假”",
+     "why": "他保留真值讨论，只是指出真值不是唯一的评价维度；后期他仍区分行为的层次。"
+    },
+    {
+     "claim": "德里达对奥斯汀的批评是“否定”其理论",
+     "why": "德里达是从“语境的开放性”入手解构其“适切条件”的封闭性，属延伸性批评。"
+    }
+   ],
+   "sources": [
+    "iep-austin",
+    "sep-austin-jl"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": 1962
   },
   {

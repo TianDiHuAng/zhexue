@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 669,
+  "entries": 674,
   "by_level": {
-   "L2": 566,
-   "L1": 103
+   "L2": 570,
+   "L1": 104
   },
   "doctrine": {
    "total": 217,
    "detail": 217,
    "auto": 0
   },
-  "needs_verification": 103,
+  "needs_verification": 104,
   "sources": 320,
   "sources_verified": 316
  },
@@ -5414,6 +5414,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-meno",
+   "type": "work",
+   "title": "《美诺篇》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-republic",
    "type": "work",
    "title": "《理想国》",
@@ -5762,6 +5773,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-letters-seneca",
+   "type": "work",
+   "title": "《道德书简》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -6701,6 +6723,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-anti-duhring",
+   "type": "work",
+   "title": "《反杜林论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-zarathustra",
    "type": "work",
    "title": "《查拉图斯特拉如是说》",
@@ -6789,6 +6822,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-second-sex",
+   "type": "work",
+   "title": "《第二性》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-investigations",
    "type": "work",
    "title": "《哲学研究》",
@@ -6819,6 +6863,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-how-to-do-things",
+   "type": "work",
+   "title": "《如何以言行事》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
