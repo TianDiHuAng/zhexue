@@ -1,47 +1,47 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 482,
+  "entries": 491,
   "by_level": {
-   "L2": 412,
-   "L1": 70
+   "L2": 416,
+   "L1": 75
   },
   "doctrine": {
-   "total": 175,
-   "detail": 175,
+   "total": 181,
+   "detail": 181,
    "auto": 0
   },
-  "needs_verification": 70,
-  "sources": 276,
-  "sources_verified": 272
+  "needs_verification": 75,
+  "sources": 283,
+  "sources_verified": 279
  },
  "units": [
   {
    "unit_id": "cn-lianghan",
    "title": "两汉经学与气论",
    "region": "china",
-   "philosophers": 9,
+   "philosophers": 11,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -1"
+   "philosophers_slot": "8 上限，余 -3"
   },
   {
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 10,
+   "philosophers": 11,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -2"
+   "philosophers_slot": "8 上限，余 -3"
   },
   {
    "unit_id": "cn-songming",
    "title": "宋明理学与心学",
    "region": "china",
-   "philosophers": 12,
+   "philosophers": 13,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -4"
+   "philosophers_slot": "8 上限，余 -5"
   },
   {
    "unit_id": "cn-suitang",
@@ -65,10 +65,10 @@
    "unit_id": "cn-xianqin",
    "title": "先秦诸子",
    "region": "china",
-   "philosophers": 10,
+   "philosophers": 12,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -2"
+   "philosophers_slot": "8 上限，余 -4"
   },
   {
    "unit_id": "gr-19c",
@@ -240,6 +240,28 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-jia-yi",
+   "type": "philosopher",
+   "title": "贾谊",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-liu-an",
+   "type": "philosopher",
+   "title": "刘安",
+   "container": "cn-lianghan",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -494,6 +516,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-yan-yuan",
+   "type": "philosopher",
+   "title": "颜元",
+   "container": "cn-qingmod",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -764,6 +797,17 @@
    "id": "cn-songming-wang-anshi",
    "type": "philosopher",
    "title": "王安石",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-li-zhi",
+   "type": "philosopher",
+   "title": "李贽",
    "container": "cn-songming",
    "level": "L2",
    "sources": 3,
@@ -1549,6 +1593,28 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-shang-yang",
+   "type": "philosopher",
+   "title": "商鞅",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-shen-dao",
+   "type": "philosopher",
+   "title": "慎到",
+   "container": "cn-xianqin",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -4182,6 +4248,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-guanzi",
+   "type": "work",
+   "title": "《管子》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-xunzi",
    "type": "work",
    "title": "《荀子》",
@@ -4201,6 +4278,28 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-shangjunshu",
+   "type": "work",
+   "title": "《商君书》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-huainanzi",
+   "type": "work",
+   "title": "《淮南子》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

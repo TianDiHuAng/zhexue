@@ -1956,6 +1956,146 @@
      "note": "文集非单一哲学著作，须择篇阅读"
     }
    ]
+  },
+  {
+   "id": "cn-songming-li-zhi",
+   "name": "李贽",
+   "latin": "Li Zhi",
+   "birth_year": 1527,
+   "death_year": 1602,
+   "birth_display": "1527年",
+   "death_display": "1602年",
+   "birth_note": "据《明史》与其自述：生于福建泉州，回族商人家庭背景。",
+   "death_note": "1602年以“敢倡乱道”下狱，自刎于狱中。",
+   "era": "晚明。李贽以“童心说”批判假道学，主张“穿衣吃饭即是人伦物理”，并以“不以孔子之是非为是非”重估经典；其著作在明清两代屡遭禁毁，却广泛流传。",
+   "school": "泰州学派（晚明异端）",
+   "core_questions": [
+    "何为真学问？",
+    "是非的标准在哪里？",
+    "人欲是否应当被肯定？"
+   ],
+   "arguments": [
+    {
+     "claim": "童心说：真心本自具足，闻见道理反而障蔽之",
+     "premises": [
+      "童子之心纯一无伪。",
+      "后天所闻之道理多为“假道学”的陈言。"
+     ],
+     "inference": "若读书识义理反而使人失其真心，则学问的首要任务是护持童心，而非积累闻见。",
+     "conclusion": "“童心”即真心；真学问从童心出，不从陈言出。",
+     "kind": "原文"
+    },
+    {
+     "claim": "不以孔子之是非为是非：是非须由自心判定",
+     "premises": [
+      "孔子本人并未以自己为万世之标准。",
+      "以他人之是非为是非，则无是非。"
+     ],
+     "inference": "若是非全依前人成说，则无人真正判断；故须以自心之“童心”为衡，重新判定。",
+     "conclusion": "是非的标准是自心的真诚判断，而非权威成说。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《焚书》《续焚书》《藏书》《童心说》",
+     "edition": "《焚书》维基文库本；中华书局点校本《焚书·续焚书》",
+     "note": "《焚书》六卷；《藏书》为史评；《童心说》为单篇"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "王艮与泰州学派",
+     "id": "cn-songming-wang-yangming",
+     "note": "“百姓日用即道”的平民化取向"
+    },
+    {
+     "name": "王阳明致良知",
+     "id": "cn-songming-wang-yangming",
+     "note": "良知说的激进化"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "晚明文学与思想解放",
+     "id": "",
+     "note": "“公安派”性灵说与之呼应"
+    },
+    {
+     "name": "近代（五四）对礼教的批判",
+     "id": "",
+     "note": "被援为反礼教的思想资源"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "正统儒者与朝廷",
+     "view": "以童心废闻见，则学问无根；非圣无法，败坏风俗（故遭禁毁与下狱）。",
+     "response": "李贽一系的回应是：他所反对的是假道学，不是学问本身；童心与真学问并不相悖。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-fenshu",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "李贽主张人应当放纵欲望",
+     "why": "“穿衣吃饭即是人伦物理”是肯定日常生活的真实性，不是提倡纵欲。"
+    },
+    {
+     "claim": "他是反儒家的",
+     "why": "他反的是“假道学”与以孔子为唯一标准，其学仍以儒门问题为出发点，且深受王学影响。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>李贽：童心与自心是非</text><defs><marker id='aLZ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>童子之心纯一无伪</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>后天闻见道理障蔽之</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故学问须护持童心</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故是非由自心判定</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLZ)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLZ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "李贽：童心说与自心是非（示意图）",
+   "sources": [
+    "ws-fenshu",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "李贽以“童心说”立论：童子之心纯一无伪，而后天所闻的“道理”多为假道学的陈言，反而障蔽真心，故学问的首要任务是护持童心而非积累闻见。由此他主张“不以孔子之是非为是非”——若是非全依前人成说则无人真正判断，故须以自心的真诚判断为衡。其说肯定日常生活的真实性（“穿衣吃饭即是人伦物理”），故屡遭禁毁。",
+    "system": [
+     {
+      "name": "童心说",
+      "content": "真心本自具足；闻见道理反成障蔽；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "自心是非",
+      "content": "是非由自心判定，不以权威成说为准；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "百姓日用即道",
+      "content": "穿衣吃饭即是人伦物理，肯定日常生活的真实性。"
+     },
+     {
+      "name": "不以孔子之是非为是非",
+      "content": "反对以圣人为唯一标准，非反对儒学本身；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "泉州、南京与北京（1527—1602）",
+      "change": "曾任云南姚安知府，后弃官讲学；晚年居麻城；1602 年被劾下狱，自刎死。"
+     }
+    ],
+    "reception": "其书在明清两代屡遭禁毁而流传更广；晚明“公安派”性灵说与之呼应；五四时期被援为反礼教的思想资源；现代研究关注其与王学、泰州学派的关系。"
+   },
+   "works_detail": [
+    {
+     "title": "《焚书》",
+     "structure": "六卷；书信、杂述与论说，《童心说》即在其中。",
+     "core_thesis": "童心说；自心是非；这是该书的核心命题。",
+     "editions": "中华书局《焚书·续焚书》点校本",
+     "note": "1578 年前后成书；屡遭禁毁"
+    }
+   ]
   }
  ],
  "concepts": [

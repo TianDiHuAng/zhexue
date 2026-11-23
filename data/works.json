@@ -578,6 +578,63 @@
    "sort_year": -300
   },
   {
+   "id": "work-guanzi",
+   "title": "《管子》",
+   "title_original": "管子",
+   "tradition": "china",
+   "date_display": "约前4—前3世纪（稷下汇编）",
+   "structure": "原本八十六篇（今存七十六篇），分“经言”“外言”“内言”“短语”“区言”“杂篇”“管子解”“轻重”诸组；《心术》上下、《白心》、《内业》为黄老心性论，《轻重》诸篇论经济。",
+   "core_arguments": [
+    "以“精气”说明心与万物的关系（《内业》《心术》）",
+    "以“轻重”之术论国家调控市场",
+    "以法度与礼义并重治国"
+   ],
+   "key_points": [
+    {
+     "locator": "《心术上》",
+     "point": "“静因之道”：虚心而因应"
+    },
+    {
+     "locator": "《内业》",
+     "point": "精气与养生"
+    },
+    {
+     "locator": "《轻重》诸篇",
+     "point": "国家调控与物价"
+    },
+    {
+     "locator": "《牧民》",
+     "point": "“仓廪实则知礼节”"
+    }
+   ],
+   "editions": [
+    "黎翔凤《管子校注》中华书局",
+    "郭沫若《管子集校》科学出版社"
+   ],
+   "related_people": [
+    "cn-xianqin-shen-dao",
+    "cn-xianqin-shang-yang",
+    "cn-xianqin-laozi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《管子》为管仲亲笔",
+     "why": "它是稷下学者的汇编，托名管仲；各篇年代跨越战国至汉初。"
+    },
+    {
+     "claim": "它只是经济文献",
+     "why": "《心术》《内业》是重要的黄老心性论文本。"
+    }
+   ],
+   "sources": [
+    "ws-guanzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《管子》为稷下学者汇编，托名管仲；各篇作者与年代差异极大（部分或晚至汉初），本页所述为学派整体立场。",
+   "sort_year": -300
+  },
+  {
    "id": "work-xunzi",
    "title": "《荀子》",
    "title_original": "荀子（Xunzi）",
@@ -689,6 +746,120 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": -250
+  },
+  {
+   "id": "work-shangjunshu",
+   "title": "《商君书》",
+   "title_original": "商君書",
+   "tradition": "china",
+   "date_display": "约前3世纪",
+   "structure": "二十九篇（今存二十四篇）；《更法》《垦令》《农战》《开塞》《壹言》《定分》为核心。",
+   "core_arguments": [
+    "农战立国：以赏罚导民于耕战",
+    "壹刑：刑无等级，法之信在于必行",
+    "变法不法古：“治世不一道，便国不法古”"
+   ],
+   "key_points": [
+    {
+     "locator": "《更法》",
+     "point": "变法不必法古的辩论"
+    },
+    {
+     "locator": "《农战》",
+     "point": "利出一孔"
+    },
+    {
+     "locator": "《开塞》",
+     "point": "历史阶段与治法之变"
+    },
+    {
+     "locator": "《定分》",
+     "point": "以法为“定分”之具"
+    }
+   ],
+   "editions": [
+    "蒋礼鸿《商君书锥指》中华书局",
+    "高亨《商君书注译》中华书局"
+   ],
+   "related_people": [
+    "cn-xianqin-shang-yang",
+    "cn-xianqin-hanfei",
+    "cn-xianqin-shen-dao"
+   ],
+   "misreadings": [
+    {
+     "claim": "《商君书》为商鞅亲笔",
+     "why": "它是学派言论的辑录，篇章作者与年代有讨论。"
+    },
+    {
+     "claim": "其主张仅靠重刑",
+     "why": "它以“法、信、权”并用，重视制度设计与“利出一孔”。"
+    }
+   ],
+   "sources": [
+    "ws-shangjunshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《商君书》非一人手笔，各篇年代与作者有讨论；本页所述以学派立场为限，具体字句须核蒋礼鸿或高亨校本。",
+   "sort_year": -250
+  },
+  {
+   "id": "work-huainanzi",
+   "title": "《淮南子》",
+   "title_original": "淮南子（淮南鴻烈）",
+   "tradition": "china",
+   "date_display": "约前139年",
+   "structure": "二十一篇；《原道》《俶真》《天文》《地形》《时则》《精神》《本经》《齐俗》《氾论》《泰族》等。",
+   "core_arguments": [
+    "道生万物，无为而治即因循不扰",
+    "百家各得道之一偏，故可兼采",
+    "宇宙论与时令：天文、地形与人事相应"
+   ],
+   "key_points": [
+    {
+     "locator": "《原道》",
+     "point": "道的无形与生育"
+    },
+    {
+     "locator": "《天文》《地形》",
+     "point": "汉初宇宙论与博物知识"
+    },
+    {
+     "locator": "《齐俗》",
+     "point": "风俗的相对性与治道"
+    },
+    {
+     "locator": "《泰族》",
+     "point": "综论治道与天人"
+    }
+   ],
+   "editions": [
+    "刘文典《淮南鸿烈集解》中华书局",
+    "何宁《淮南子集释》中华书局"
+   ],
+   "related_people": [
+    "cn-lianghan-liu-an",
+    "cn-xianqin-laozi",
+    "cn-lianghan-dong-zhongshu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《淮南子》为刘安亲笔",
+     "why": "宾客集体编纂，刘安为主持者。"
+    },
+    {
+     "claim": "它纯为道家",
+     "why": "以道家为宗而兼采儒、法、阴阳与方术。"
+    }
+   ],
+   "sources": [
+    "ws-huainanzi",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《淮南子》为集体编纂，各篇材料来源与年代不一；与《文子》《庄子》的文本关系有讨论。",
+   "sort_year": -139
   },
   {
    "id": "work-dererum-natura",

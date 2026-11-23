@@ -1773,6 +1773,285 @@
      "note": "《列子·杨朱》未必尽合原意"
     }
    ]
+  },
+  {
+   "id": "cn-xianqin-shang-yang",
+   "name": "商鞅",
+   "latin": "Shang Yang",
+   "birth_year": -390,
+   "death_year": -338,
+   "birth_display": "约前390年",
+   "death_display": "前338年",
+   "birth_note": "据《史记·商君列传》：本名公孙鞅，卫国人，后封于商。",
+   "death_note": "前338年，秦孝公卒后被捕，车裂而死。",
+   "era": "战国中期。商鞅在秦孝公支持下两次变法，以“法”“农战”“壹刑”重构秦国制度；其学派言论辑为《商君书》。他的方案把政治的正当性问题转换为“如何使民力可用”的问题。",
+   "school": "法家（秦晋法家）",
+   "core_questions": [
+    "国家如何强盛？",
+    "法为何须公开且一刑？",
+    "历史是否可以效法古制？"
+   ],
+   "arguments": [
+    {
+     "claim": "治国以农战为本，故须以法驱民于农战",
+     "premises": [
+      "国力取决于耕与战二者。",
+      "民性趋利避害，故可用赏罚引导。"
+     ],
+     "inference": "若民趋利避害而国力系于农战，则应以厚赏重罚使“利出于地、名出于战”，使民不得不趋于农战。",
+     "conclusion": "以法度为杠杆把民力导向农战，是国家强盛的唯一路径。",
+     "kind": "原文"
+    },
+    {
+     "claim": "壹刑：刑无等级，自卿相至庶人同法",
+     "premises": [
+      "若刑罚因身份而异，则贵者无所畏。",
+      "法之信在于必行。"
+     ],
+     "inference": "若法可因身份而变通，则民不信法、贵者不畏法；故须“刑无等级”，使法成为唯一尺度。",
+     "conclusion": "壹刑使法可信，法信则民从；此为“法之信”的根据。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《商君书》（学派辑录）",
+     "edition": "蒋礼鸿《商君书锥指》中华书局；高亨《商君书注译》中华书局",
+     "note": "非商鞅亲笔，为学派言论辑录；《更法》《垦令》《开塞》《定分》为核心"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "李悝与吴起的变法实践",
+     "id": "",
+     "note": "法家制度的先行经验"
+    },
+    {
+     "name": "《管子》与稷下法家",
+     "id": "",
+     "note": "以法度治国的传统"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "韩非",
+     "id": "cn-xianqin-hanfei",
+     "note": "承其法论而补以术与势"
+    },
+    {
+     "name": "秦制的制度化",
+     "id": "",
+     "note": "郡县、军功爵与户籍"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "儒家（孟子一系）",
+     "view": "以利诱民、以刑驱民，废弃教化与礼义，使民无耻而国难久。",
+     "response": "商鞅一系的回应是：教化不能应急，法治可立信；且“法”本身即是公开的规范，非纯暴力。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-shangjunshu",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "商鞅主张严刑峻法即够了",
+     "why": "他强调“法、信、权”三者并用，且重视“利出一孔”的制度设计，不是单靠重刑。"
+    },
+    {
+     "claim": "《商君书》全部出自商鞅之手",
+     "why": "它是学派言论的辑录，具体篇章的作者与年代有讨论。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>商鞅：农战与壹刑</text><defs><marker id='aSY2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>国力系于耕战</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>民趋利避害</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故以赏罚导民于农战</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故须壹刑使法可信</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aSY2)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aSY2)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "商鞅：农战、壹刑与法之信（示意图）",
+   "sources": [
+    "ws-shangjunshu",
+    "sep-chinese-metaphysics",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "商鞅把政治问题转换为“如何使民力可用”：国力系于耕战，而民趋利避害，故应以厚赏重罚使“利出于地、名出于战”。他又主张“壹刑”——刑无等级，自卿相至庶人同法，因为若法可因身份变通则民不信法、贵者不畏法；法之信在于必行。其变法重构了秦国的郡县、军功爵与户籍制度。",
+    "system": [
+     {
+      "name": "农战",
+      "content": "国力系于耕战；以赏罚导民趋之；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "壹刑",
+      "content": "刑无等级；法之信在于必行；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "利出一孔",
+      "content": "名与利皆由国家掌控，使民无所逃；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "变法不必法古",
+      "content": "“治世不一道，便国不法古”（《更法》）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "卫、魏与秦（约前390—前338）",
+      "change": "初事魏相公叔痤；前359年入秦，两度变法；前340年封商君；孝公卒后被诬谋反，车裂。"
+     }
+    ],
+    "reception": "其制度成为秦统一的基础；韩非承其法论而补术与势；近代（章太炎等）对其评价分歧，一为强国之术，一为刻薄少恩。"
+   },
+   "works_detail": [
+    {
+     "title": "《商君书》",
+     "structure": "二十九篇（今存二十四篇）；《更法》《垦令》《农战》《开塞》《定分》为核心。",
+     "core_thesis": "农战；壹刑；变法不法古；这是该书的核心命题。",
+     "editions": "蒋礼鸿《商君书锥指》中华书局",
+     "note": "学派辑录，非一人手笔"
+    }
+   ]
+  },
+  {
+   "id": "cn-xianqin-shen-dao",
+   "name": "慎到",
+   "latin": "Shen Dao",
+   "birth_year": -395,
+   "death_year": -315,
+   "birth_display": "约前395年",
+   "death_display": "约前315年",
+   "birth_note": "据《史记·孟子荀卿列传》：赵国人，稷下学者。",
+   "death_note": "同上；卒年不可确考。",
+   "era": "战国中期。慎到是稷下学宫的代表，属法家“势”的一派；他主张“弃知去己”而“因循”事物之理，以“势”为治国的必要条件，并以“尚法”而不“尚贤”立论。",
+   "school": "法家（稷下·势派）",
+   "core_questions": [
+    "治国靠贤人还是靠势位？",
+    "君主应否自作聪明？",
+    "法的作用是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "治国靠“势”而非靠贤：势位使中人之君亦能治",
+     "premises": [
+      "贤者不常有，而势位常在。",
+      "据势位者令行禁止，不据势位者虽贤不能行。"
+     ],
+     "inference": "若治乱取决于得贤与否，则治世不可期；若制度使中人之君亦能行法，则治世可期。",
+     "conclusion": "“势”是治国的必要条件；不尚贤而尚法，方能使治不系于人才之偶然。",
+     "kind": "原文"
+    },
+    {
+     "claim": "君主须“弃知去己”而因循：不以己意断事，而依事物之法",
+     "premises": [
+      "君主以一己之知断事，则臣下逢迎其意。",
+      "事物各有其理，依理而行则事成。"
+     ],
+     "inference": "若君主自作聪明，则臣下隐藏实情以迎合；故君主须“去己”，使法度与事理成为判断标准。",
+     "conclusion": "“弃知去己”而使臣民各安其分，是“无为而治”的法家版本。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《慎子》（残）",
+     "edition": "《慎子》维基文库本；参钱熙祚校本与《诸子集成》本",
+     "note": "原书佚，今本为辑佚；《威德》《因循》《民杂》等篇"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "稷下学宫的黄老之学",
+     "id": "",
+     "note": "“因循”与“无为”的思想资源"
+    },
+    {
+     "name": "李悝与商鞅的法论",
+     "id": "cn-xianqin-shang-yang",
+     "note": "以法为治"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "韩非",
+     "id": "cn-xianqin-hanfei",
+     "note": "承其“势”论而合以法、术"
+    },
+    {
+     "name": "《管子》与黄老帛书",
+     "id": "",
+     "note": "因循与势的结合"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "儒家与《庄子·天下》",
+     "view": "尚法而不尚贤，等于放弃教化与德性；《天下》评其“不顾于虑，不谋于知”。",
+     "response": "慎到一系的回应是：治世须可期，德性不可必得；制度设计正为补人才之偶然。",
+     "kind": "原文",
+     "sources": [
+      "ws-shenzi",
+      "iep-chinese-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "慎到是纯粹的法家",
+     "why": "他兼有黄老“因循”的色彩，其“弃知去己”近于道家；《庄子·天下》即将其与彭蒙、田骈并列。"
+    },
+    {
+     "claim": "他的“势”论主张君主专断",
+     "why": "他恰恰要求君主不以己意断事，而依事物之法。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>慎到：势与因循</text><defs><marker id='aSD' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>贤者不常有而势位常在</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故治国须据势行法</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故君主须弃知去己</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故以法度为断，不以己意为断</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aSD)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aSD)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "慎到：势、法与因循（示意图）",
+   "sources": [
+    "ws-shenzi",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《慎子》原书已佚，今本为明清以来的辑佚，篇目与文字均有残缺；其学派归属（法家／黄老）学界有讨论。本页所引据辑本，具体字句须核校本。",
+   "doctrine": {
+    "summary": "慎到是稷下法家“势”派的代表：贤者不常有而势位常在，据势位者令行禁止，故治国须“尚法而不尚贤”，使中人之君亦能行法。他又主张君主“弃知去己”而因循事物之理——若君主以一己之知断事，臣下必逢迎其意；故须以法度与事理为判断标准。此说可视为法家版的“无为”。",
+    "system": [
+     {
+      "name": "势",
+      "content": "治国的必要条件；使中人之君亦能行法；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "尚法不尚贤",
+      "content": "治世不系于人才之偶然，而系于制度；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "弃知去己",
+      "content": "君主不以己意断事，依理而行；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "因循",
+      "content": "循事物之理与法度，各安其分；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "赵与稷下（约前395—前315）",
+      "change": "赵国人；在齐国稷下学宫讲学，与田骈、彭蒙并称；《庄子·天下》有其评述。"
+     }
+    ],
+    "reception": "韩非合其“势”与商鞅之“法”、申不害之“术”，构成法家三要素；其“因循”说与黄老之学相接；《慎子》辑本为研究稷下法家的主要材料。"
+   },
+   "works_detail": [
+    {
+     "title": "《慎子》（辑本）",
+     "structure": "原书佚；今本辑存《威德》《因循》《民杂》《知忠》《德立》等篇。",
+     "core_thesis": "势；尚法不尚贤；弃知去己；这是该书的核心命题。",
+     "editions": "维基文库本；参钱熙祚校本《守山阁丛书》",
+     "note": "辑佚本，非原貌"
+    }
+   ]
   }
  ],
  "concepts": [

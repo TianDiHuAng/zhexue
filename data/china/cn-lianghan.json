@@ -1437,6 +1437,284 @@
      "note": "原书佚，今本为辑佚"
     }
    ]
+  },
+  {
+   "id": "cn-lianghan-jia-yi",
+   "name": "贾谊",
+   "latin": "Jia Yi",
+   "birth_year": -200,
+   "death_year": -168,
+   "birth_display": "前200年",
+   "death_display": "前168年",
+   "birth_note": "据《史记·屈原贾生列传》：洛阳人。",
+   "death_note": "前168年卒于梁怀王太傅任上，年三十三。",
+   "era": "西汉初年。贾谊在文帝朝任博士、太中大夫，主张改正朔、易服色、定制度；其《过秦论》《治安策》以秦亡为鉴论汉制之失，《鵩鸟赋》以道家语化解生死之忧。",
+   "school": "儒家（汉初政论·兼采道家）",
+   "core_questions": [
+    "秦为何亡？",
+    "汉制应如何补弊？",
+    "生死与命运如何安顿？"
+   ],
+   "arguments": [
+    {
+     "claim": "秦亡在于“仁义不施而攻守之势异”",
+     "premises": [
+      "秦以暴力取天下，仍以暴力守天下。",
+      "守天下需要民心与礼义，而非仅靠刑法。"
+     ],
+     "inference": "若取天下与守天下所需不同，则秦以同一套暴力手段应对两者，必致溃败；故其亡在“仁义不施”。",
+     "conclusion": "治国须辨“攻守之势”，守天下必以仁义礼制。",
+     "kind": "原文"
+    },
+    {
+     "claim": "礼以别贵贱、定制度，是政治的骨架",
+     "premises": [
+      "无等级则上下无序，无序则争。",
+      "礼使贵贱有等、制度有定。"
+     ],
+     "inference": "若人皆有欲而资源有限，则须以礼定分际，使上下有序而不争；故礼非虚文，而是秩序的骨架。",
+     "conclusion": "礼制是政治秩序的必要条件，汉初须补此一环。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《新书》《过秦论》《鵩鸟赋》",
+     "edition": "阎振益、钟夏《新书校注》中华书局；《贾谊集》上海人民出版社",
+     "note": "《新书》五十八篇（今存五十六）；《过秦论》见《史记》"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "荀子与法家",
+     "id": null,
+     "note": "礼制与制度的取向"
+    },
+    {
+     "name": "道家与《鵩鸟赋》",
+     "id": null,
+     "note": "以齐生死化解忧患"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "董仲舒与汉制儒学",
+     "id": "cn-lianghan-dong-zhongshu",
+     "note": "制度与教化的结合"
+    },
+    {
+     "name": "后世“过秦”论传统",
+     "id": "",
+     "note": "以秦亡为鉴的政治论述"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "汉初黄老派与部分大臣",
+     "view": "改制过急、以礼制扰民，不合“无为”的休息之道。",
+     "response": "贾谊一系的回应是：制度不立则隐患积累，安于苟且反致大乱。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-xinshu-jia",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "贾谊只是文学家",
+     "why": "其《新书》是系统的政论与制度设计，《过秦论》是政治分析的典范。"
+    },
+    {
+     "claim": "《过秦论》主张恢复周制",
+     "why": "他主张的是以礼制补秦之失，不是复周；其制度设计面向汉制。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>贾谊：攻守之势与礼制</text><defs><marker id='aJY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>秦以暴力取天下</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>又以暴力守天下</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故仁义不施而亡</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故守天下须以礼制定分</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aJY)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aJY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "贾谊：攻守之势与礼制秩序（示意图）",
+   "sources": [
+    "ws-xinshu-jia",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "贾谊以秦亡为鉴：秦以暴力取天下又以暴力守天下，故“仁义不施而攻守之势异”——取天下与守天下所需不同，守须以仁义礼制。他又主张礼制是秩序的骨架：人皆有欲而资源有限，须以礼定分际，使上下有序而不争。其《鵩鸟赋》则以道家语化解生死之忧。",
+    "system": [
+     {
+      "name": "攻守之势异",
+      "content": "取天下用暴力，守天下须仁义礼制；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "礼定分际",
+      "content": "以礼别贵贱、定制度，使上下有序而不争；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以民为本",
+      "content": "“民无不为本”——国之安危系于民；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "齐生死",
+      "content": "《鵩鸟赋》以道家“变化”观化解忧患；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "洛阳与长安（前200—前168）",
+      "change": "十八岁以能诵诗书闻名；文帝时任博士、太中大夫；因遭忌出为长沙王太傅；后为梁怀王太傅；怀王坠马死后不久亦卒，年三十三。"
+     }
+    ],
+    "reception": "其制度主张部分被文帝、武帝朝采纳；《过秦论》成为后世政治分析的范本；《鵩鸟赋》是汉赋与道家思想结合的代表。"
+   },
+   "works_detail": [
+    {
+     "title": "《新书》",
+     "structure": "今存五十六篇；《过秦》《宗首》《数字》《礼》等为核心。",
+     "core_thesis": "攻守之势异；礼定分际；这是该书的核心命题。",
+     "editions": "阎振益、钟夏《新书校注》中华书局",
+     "note": "《过秦》上下篇见《史记·秦始皇本纪》后附"
+    }
+   ]
+  },
+  {
+   "id": "cn-lianghan-liu-an",
+   "name": "刘安",
+   "latin": "Liu An",
+   "birth_year": -179,
+   "death_year": -122,
+   "birth_display": "前179年",
+   "death_display": "前122年",
+   "birth_note": "据《史记·淮南衡山列传》：淮南王刘长子。",
+   "death_note": "前122年因谋反事发自杀，国除。",
+   "era": "西汉前期。刘安招致宾客方术之士数千人，集体编纂《淮南子》（又名《淮南鸿烈》），以道家为宗而兼采儒法阴阳；其书是汉初黄老思想的集大成文本。",
+   "school": "黄老道家（淮南学派）",
+   "core_questions": [
+    "道如何生成万物？",
+    "治国应无为还是有为？",
+    "诸家学说能否统一？"
+   ],
+   "arguments": [
+    {
+     "claim": "道生万物，而“无为”是治国的最高原则",
+     "premises": [
+      "道无形无名而生育万物。",
+      "万物各得其宜则不待外力干预。"
+     ],
+     "inference": "若万物各有其性而道不干预，则治国亦当“因循”民性、不以己意扰动，故无为而治即顺自然。",
+     "conclusion": "以“道”为本，治国以无为、因循为要。",
+     "kind": "原文"
+    },
+    {
+     "claim": "百家各有所长，可“兼而用之”",
+     "premises": [
+      "儒者明教化，法家明法度，阴阳明时令。",
+      "各家皆得道之一偏。"
+     ],
+     "inference": "若诸家各得道之一偏而非全，则治道须兼采其长，不以一家为尽。",
+     "conclusion": "以道家为宗而兼容百家，是《淮南子》的基本立场。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《淮南子》",
+     "edition": "刘文典《淮南鸿烈集解》中华书局；何宁《淮南子集释》中华书局",
+     "note": "二十一篇；《原道》《俶真》《天文》《精神》《齐俗》《氾论》等"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "老子与黄老之学",
+     "id": null,
+     "note": "道论与无为"
+    },
+    {
+     "name": "阴阳家与时令",
+     "id": "",
+     "note": "《天文》《时则》的材料"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "司马谈《论六家要旨》",
+     "id": "",
+     "note": "以道家统摄百家的表述"
+    },
+    {
+     "name": "后世道教与科学史",
+     "id": "",
+     "note": "《天文》《地形》等篇的宇宙论与博物知识"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "汉武帝朝的儒学与法家",
+     "view": "以道家为宗则弱于制度的刚性；且淮南王谋反使其书蒙上政治阴影。",
+     "response": "刘安一系的回应是：无为不排斥法度，而是“因”之；兼采百家正是治道的完整。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-huainanzi",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《淮南子》是刘安亲笔",
+     "why": "它是宾客集体编纂，刘安为主持者与署名者。"
+    },
+    {
+     "claim": "《淮南子》纯为道家",
+     "why": "它以道家为宗，但大量吸收儒、法、阴阳与神仙方术。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>刘安：道生万物与无为</text><defs><marker id='aLA2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>道无形而生育万物</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>万物各得其性</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故治国当因循不扰</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故百家可兼采而用</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLA2)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLA2)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "刘安：道论、无为与百家兼采（示意图）",
+   "sources": [
+    "ws-huainanzi",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《淮南子》为宾客集体编纂，各篇材料来源不一（许慎、高诱注亦有异文）；其与《文子》《庄子》的文本关系、以及部分篇章的年代，学界有讨论。",
+   "doctrine": {
+    "summary": "刘安主持编纂的《淮南子》以道家为宗而兼容百家：道无形无名而生育万物，万物各得其性，故治国当“因循”民性、不以己意扰动——无为而治即顺自然。他又主张百家各得道之一偏，故治道须兼采儒之法度、阴阳之时令，不以一家为尽。此书是汉初黄老思想的集大成文本。",
+    "system": [
+     {
+      "name": "道生万物",
+      "content": "道无形无名而生育万物；万物由道分化；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "无为因循",
+      "content": "治国顺民性而不扰，非不作为；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "兼采百家",
+      "content": "儒法阴阳各得道之一偏，故可兼用；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "宇宙论与博物",
+      "content": "《天文》《地形》《时则》保存汉初宇宙论与时令知识。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "淮南（前179—前122）",
+      "change": "汉高祖之孙，袭淮南王；招宾客数千编《淮南子》（前139年献于武帝）；前122年因谋反事发自杀。"
+     }
+    ],
+    "reception": "《淮南子》是研究汉初黄老与宇宙论的核心文献；司马谈《论六家要旨》的道家表述与其相近；其天文、地形、时令材料为科学史所重。"
+   },
+   "works_detail": [
+    {
+     "title": "《淮南子》",
+     "structure": "二十一篇；《原道》《俶真》《天文》《精神》《齐俗》《氾论》《泰族》等。",
+     "core_thesis": "道生万物；无为因循；兼采百家。",
+     "editions": "刘文典《淮南鸿烈集解》中华书局",
+     "note": "宾客集体编纂，非一人手笔"
+    }
+   ]
   }
  ],
  "concepts": [

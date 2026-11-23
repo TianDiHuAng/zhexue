@@ -1739,6 +1739,146 @@
      "note": "诗文非系统哲学著作，须结合政论阅读"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-yan-yuan",
+   "name": "颜元",
+   "latin": "Yan Yuan",
+   "birth_year": 1635,
+   "death_year": 1704,
+   "birth_display": "1635年",
+   "death_display": "1704年",
+   "birth_note": "据《颜习斋先生年谱》：生于直隶博野。",
+   "death_note": "1704年卒于博野。",
+   "era": "清初。颜元由陆王转向程朱，又由程朱转向“习行”之学：他主张学问须在“习”（实践操练）中落实，反对静坐与空谈心性，是清初实学与“颜李学派”的开创者。",
+   "school": "实学（颜李学派）",
+   "core_questions": [
+    "学问的检验标准是什么？",
+    "静坐与读书能否成德？",
+    "儒学的真精神在哪里？"
+   ],
+   "arguments": [
+    {
+     "claim": "“习”是成德之路：德行须在事上操练",
+     "premises": [
+      "静坐与诵读只改变观念，不改变行为。",
+      "德性（如仁、敬）须在具体事务中被实践出来。"
+     ],
+     "inference": "若德性只能在行为中形成（如学琴须操弦），则“习行”是成德的唯一途径；读书只是辅助。",
+     "conclusion": "学问须落在“习行”上；空谈心性与静坐皆非实学。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“六府三事”与“三物”：儒学的实学内容",
+     "premises": [
+      "《尚书》以“六府三事”言政务，《周礼》以“三物”教民。",
+      "后世儒学以心性取代了这些实事。"
+     ],
+     "inference": "若儒学原以实事为教，则其衰在于以心性空谈取代实事；故须回到礼乐射御书数的实践课程。",
+     "conclusion": "儒学的核心是实事实物（礼乐、农事、军事），不是心性思辨。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《存学编》《存性编》《存治编》《习斋记余》",
+     "edition": "《存学编》维基文库本；《颜元集》中华书局",
+     "note": "《存学编》为其学纲领；四存编合称"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "孔子与《周礼》的六艺之教",
+     "id": null,
+     "note": "实事实物的教化传统"
+    },
+    {
+     "name": "陈亮、叶适的事功之学",
+     "id": "",
+     "note": "重事功而反空谈"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "李塨与颜李学派",
+     "id": "",
+     "note": "习行哲学的传播"
+    },
+    {
+     "name": "戴震与清代实学",
+     "id": "cn-qingmod-dai-zhen",
+     "note": "由考据入义理的取向"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "程朱陆王的理学传统",
+     "view": "取消心性工夫，则道德失去内在根据；只重六艺，近于功利。",
+     "response": "颜元一系的回应是：心性即在行事中显现，离事言性则性为空名。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-cunxuebian",
+      "sep-qing-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "颜元反对读书",
+     "why": "他反对以读书代替实践，不反对读书本身；其课程仍含经史。"
+    },
+    {
+     "claim": "颜李学派在清代影响很大",
+     "why": "其学在清初影响有限，经戴望等人表彰后才被广泛注意。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>颜元：习行与实学</text><defs><marker id='aYY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>静坐诵读只改观念</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而德性须在事上操练</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故习行是成德之路</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故儒学应回到六艺实事</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aYY)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aYY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "颜元：习行与实学（示意图）",
+   "sources": [
+    "ws-cunxuebian",
+    "sep-qing-philosophy",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "颜元以“习行”为成德之路：静坐与诵读只改变观念而不改变行为，德性如学琴须操弦，只能在具体事务中形成，故读书只是辅助。他又以“六府三事”“三物”说明儒学原以实事实物（礼乐、农事、军事）为教，后世以心性空谈取代实事才是其衰之因。其学开创清初实学的“颜李学派”。",
+    "system": [
+     {
+      "name": "习行",
+      "content": "德性在事上操练而成；静坐诵读不足；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "实事实物",
+      "content": "六府三事与三物：礼乐射御书数与农事军事。"
+     },
+     {
+      "name": "反空谈心性",
+      "content": "离事言性则性为空名；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "四存编",
+      "content": "《存学》《存性》《存治》《存人》，为其实学纲领。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "博野（1635—1704）",
+      "change": "少时习医与兵法；曾笃信陆王，后转程朱，终以“习行”为宗；终身未仕，讲学乡里。"
+     }
+    ],
+    "reception": "其学经李塨传播为“颜李学派”；清代中叶经戴望表彰而受注意；近代（梁启超、胡适）重估其为中国实学与科学精神的代表。"
+   },
+   "works_detail": [
+    {
+     "title": "《存学编》",
+     "structure": "四卷；论学问须在习行，批评静坐与章句。",
+     "core_thesis": "习行；实事实物；这是该书的核心命题。",
+     "editions": "维基文库本；《颜元集》中华书局",
+     "note": "《四存编》之一"
+    }
+   ]
   }
  ],
  "concepts": [
