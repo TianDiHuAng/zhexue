@@ -3782,6 +3782,45 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-zhi-zhi",
+   "term": "致知在格物",
+   "term_latin": "extending knowledge lies in investigating things",
+   "definition": "《大学》的核心命题（朱王解释相反）：朱熹解为“即物穷理”——即接触事物而穷究其理，积累久而豁然贯通；王阳明解为“正念头”——格者正也，正其不正以归于正。",
+   "usages": [
+    {
+     "name": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "usage": "“即凡天下之物，莫不因其已知之理而益穷之”：格物是向外穷理。"
+    },
+    {
+     "name": "王阳明",
+     "id": "cn-songming-wang-yangming",
+     "usage": "“格者正也，正其不正以归于正”：格物是向内正心。"
+    },
+    {
+     "name": "王艮（泰州，别解）",
+     "id": "cn-songming-wang-gen",
+     "usage": "“淮南格物”：格物即“安身”，以身为本。"
+    }
+   ],
+   "related": [
+    "cn-songming-ge-wu",
+    "cn-songming-zhi-liangzhi"
+   ],
+   "example": {
+    "text": "同一个“格”字的训释决定了整个工夫的方向：训“至”（朱熹）则向外，训“正”（阳明）则向内，训“格式”（王艮）则归身。故这不是一个训诂细节，而是**工夫论的分岔点**。",
+    "figure": "朱熹",
+    "locator": "《大学章句》补传；《传习录》下卷"
+   },
+   "sources": [
+    "ct-chuanxilu",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

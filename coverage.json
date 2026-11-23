@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 859,
+  "entries": 868,
   "by_level": {
-   "L2": 703,
-   "L1": 156
+   "L2": 711,
+   "L1": 157
   },
   "doctrine": {
    "total": 229,
    "detail": 229,
    "auto": 0
   },
-  "needs_verification": 156,
+  "needs_verification": 157,
   "sources": 355,
   "sources_verified": 355
  },
@@ -39,7 +39,7 @@
    "title": "宋明理学与心学",
    "region": "china",
    "philosophers": 20,
-   "concepts": 19,
+   "concepts": 20,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -12"
   },
@@ -66,7 +66,7 @@
    "title": "先秦诸子",
    "region": "china",
    "philosophers": 12,
-   "concepts": 20,
+   "concepts": 22,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -84,7 +84,7 @@
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
    "philosophers": 21,
-   "concepts": 20,
+   "concepts": 21,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -13"
   },
@@ -93,7 +93,7 @@
    "title": "古希腊哲学",
    "region": "west",
    "philosophers": 19,
-   "concepts": 20,
+   "concepts": 21,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -138,7 +138,7 @@
    "title": "近代理性论与经验论",
    "region": "west",
    "philosophers": 33,
-   "concepts": 19,
+   "concepts": 20,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -25"
   }
@@ -1476,6 +1476,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-songming-zhi-zhi",
+   "type": "concept",
+   "title": "致知在格物",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-songming-zhu-lu",
    "type": "debate",
    "title": "尊德性还是道问学：朱陆之辩",
@@ -2675,6 +2686,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-xianqin-tianxing-youchang",
+   "type": "concept",
+   "title": "天行有常",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-shangtong-yi",
+   "type": "concept",
+   "title": "尚同",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-xianqin-human-nature",
    "type": "debate",
    "title": "人性善恶之争",
@@ -3676,6 +3709,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-forgetfulness-of-being",
+   "type": "concept",
+   "title": "存在的遗忘",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-20c-metaphysics-meaning",
    "type": "debate",
    "title": "形而上学命题是否有认知意义",
@@ -4189,6 +4233,17 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-ancient-hexis",
+   "type": "concept",
+   "title": "习惯（hexis）",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -6547,6 +6602,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-modern-moral-sense",
+   "type": "concept",
+   "title": "道德感",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-modern-innate-controversy",
    "type": "debate",
    "title": "天赋观念是否存在",
@@ -6698,6 +6764,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-shangtong",
+   "type": "work",
+   "title": "《墨子·尚同》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -6987,6 +7064,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-yangsheng-zhu",
+   "type": "work",
+   "title": "《庄子·养生主》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-tianxia-pian",
    "type": "work",
    "title": "《庄子·天下篇》",
@@ -7001,6 +7089,17 @@
    "id": "work-quanxue",
    "type": "work",
    "title": "《荀子·劝学》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-tianlun",
+   "type": "work",
+   "title": "《荀子·天论》",
    "container": "china",
    "level": "L2",
    "sources": 3,

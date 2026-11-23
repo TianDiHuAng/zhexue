@@ -3552,6 +3552,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-hexis",
+   "term": "习惯（hexis）",
+   "term_latin": "hexis（disposition）",
+   "definition": "亚里士多德的德性载体概念：德性是“持久的品质状态”（hexis），不是一时的情感或行为。它由习惯（ethos）养成——“我们由于做公正的事而成为公正的人”。",
+   "usages": [
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "德性是 hexis：由重复的行为养成，且一旦养成即稳定。"
+    },
+    {
+     "name": "苏格拉底（对照）",
+     "id": "gr-ancient-socrates",
+     "usage": "以德性即知识：若知则必行，故不需“习惯”这一中介。"
+    },
+    {
+     "name": "康德（对照）",
+     "usage": "以道德价值在动机（义务）而非习惯性的品格。"
+    }
+   ],
+   "related": [
+    "gr-ancient-arete",
+    "gr-ancient-meson"
+   ],
+   "example": {
+    "text": "hexis 说解决了一个难题：若德性是知识，则好人只需聪明；若德性只是行为，则偶一为善亦可称德。亚里士多德的答案是“稳定的品质”——故他强调**教育与习惯**，而不只是传授知识。",
+    "figure": "亚里士多德",
+    "locator": "《尼各马可伦理学》II.1—II.4"
+   },
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

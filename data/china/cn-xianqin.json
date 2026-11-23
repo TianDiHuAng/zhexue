@@ -2806,6 +2806,80 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-tianxing-youchang",
+   "term": "天行有常",
+   "term_latin": "heaven's course has constancy",
+   "definition": "《荀子·天论》的核心命题：天的运行有其固定的规律（“不为尧存，不为桀亡”），故天人相分——治乱在人不在天。它是中国古代最明确的“自然规律”观念之一。",
+   "usages": [
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "usage": "“天行有常，不为尧存，不为桀亡”：天不因人事而变。"
+    },
+    {
+     "name": "墨子（对照）",
+     "id": "cn-xianqin-mozi",
+     "usage": "以天为有意志的赏罚者（“顺天意者兼相爱交相利，必得赏”）。"
+    },
+    {
+     "name": "董仲舒（后出，反向）",
+     "usage": "以灾异为天谴，重立天人相与之说。"
+    }
+   ],
+   "related": [],
+   "example": {
+    "text": "“天行有常”的锋芒所向是两种流行观念：一是以天为有意志的主宰（墨家），二是以灾异附会人事（后世阴阳家）。荀子的替代方案是“制天命而用之”——不是顺从，也不是祈求，而是认识规律而利用之。",
+    "figure": "荀子",
+    "locator": "《荀子·天论》"
+   },
+   "sources": [
+    "ct-xunzi",
+    "ct-mozi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-shangtong-yi",
+   "term": "尚同",
+   "term_latin": "upward conformity",
+   "definition": "墨子的政治主张：天下之乱起于“一人一义”，故须层层上同——里同于乡，乡同于国，国同于天下，天子上同于天。它不是取消意见，而是以“天”为最终的约束。",
+   "usages": [
+    {
+     "name": "墨子",
+     "id": "cn-xianqin-mozi",
+     "usage": "“上同而不下比”：下级须上同于上级之义，而天子须上同于天。"
+    },
+    {
+     "name": "孟子（对照）",
+     "id": "cn-xianqin-mengzi",
+     "usage": "以“格君心之非”为务：不设上同的层级，而重君臣以义相合。"
+    },
+    {
+     "name": "韩非（改造）",
+     "id": "cn-xianqin-hanfei",
+     "usage": "以“循名责实”取代“上同”：以法的客观标准取代层层同意。"
+    }
+   ],
+   "related": [
+    "cn-xianqin-jianai",
+    "cn-xianqin-zhongyong"
+   ],
+   "example": {
+    "text": "“尚同”的终点是“天”而非天子——这是墨子与专制论的关键区别。但其困难在于：谁来判定“天意”？若无制度化的制衡，则“天”的约束只能落在君主自觉上，实践上易滑向专制。",
+    "figure": "墨子",
+    "locator": "《墨子·尚同》"
+   },
+   "sources": [
+    "ct-mozi",
+    "ct-mengzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

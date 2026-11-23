@@ -341,6 +341,63 @@
    "sort_year": -400
   },
   {
+   "id": "work-shangtong",
+   "title": "《墨子·尚同》",
+   "title_original": "尚同",
+   "tradition": "china",
+   "date_display": "约前4世纪",
+   "structure": "三篇（上、中、下）；论“一人一义”之乱，主张层层上同，而以“上同于天”为终点。",
+   "core_arguments": [
+    "乱起于“一人一义”：各是其义而非人之义，故交相非",
+    "层层上同：里同乡、乡同国、国同天下，天子上同于天",
+    "“上同而不下比”：上同于义，不阿附于下"
+   ],
+   "key_points": [
+    {
+     "locator": "上篇",
+     "point": "“一人一义”与乱之起"
+    },
+    {
+     "locator": "中篇",
+     "point": "层层上同的制度设计"
+    },
+    {
+     "locator": "下篇",
+     "point": "“上同于天”的终极约束"
+    },
+    {
+     "locator": "三篇",
+     "point": "“上同而不下比”"
+    }
+   ],
+   "editions": [
+    "孙诒让《墨子间诂》中华书局；吴毓江《墨子校注》"
+   ],
+   "related_people": [
+    "cn-xianqin-mozi",
+    "cn-xianqin-mengzi",
+    "cn-xianqin-hanfei"
+   ],
+   "misreadings": [
+    {
+     "claim": "尚同是极权主义的先声",
+     "why": "其终点是“上同于天”而非上同于君主——天子亦受天的约束；但缺乏制度化的制衡机制，实践上确实易滑向专制（此为其结构性的弱点）。"
+    },
+    {
+     "claim": "“尚同”要求取消一切不同意见",
+     "why": "“上同而不下比”的“不比”指不阿附徇私，其理想是以“义”为标准，而非以君主个人意志为标准。"
+    }
+   ],
+   "sources": [
+    "ct-mozi",
+    "ct-hanfeizi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《尚同》三篇的文字互有出入（墨家三派所记），且“天”的约束力如何落实于制度，文本未给出机制；本页并述其理想与结构弱点。",
+   "sort_year": -400
+  },
+  {
    "id": "work-apology",
    "title": "《苏格拉底的申辩》",
    "title_original": "Ἀπολογία Σωκράτους（Apologia Socratis）",
@@ -1813,6 +1870,63 @@
    "sort_year": -300
   },
   {
+   "id": "work-yangsheng-zhu",
+   "title": "《庄子·养生主》",
+   "title_original": "養生主",
+   "tradition": "china",
+   "date_display": "约前3世纪",
+   "structure": "一篇（四段）：以“吾生也有涯，而知也无涯”开篇，次以庖丁解牛为喻，再列公文轩见右师、秦失吊老聃，末以“薪尽火传”作结。",
+   "core_arguments": [
+    "“缘督以为经”：顺着事物的空隙而行，故能不伤",
+    "庖丁解牛：“依乎天理”“以无厚入有间”，故十九年刀刃若新发于硎",
+    "“薪尽火传”：形体有尽而道（或生命）相传不息"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "“吾生也有涯，而知也无涯”"
+    },
+    {
+     "locator": "庖丁解牛",
+     "point": "“依乎天理”“以无厚入有间”"
+    },
+    {
+     "locator": "秦失吊老聃",
+     "point": "“安时而处顺，哀乐不能入”"
+    },
+    {
+     "locator": "末段",
+     "point": "“薪尽火传”"
+    }
+   ],
+   "editions": [
+    "郭庆藩《庄子集释》中华书局；陈鼓应《庄子今注今译》"
+   ],
+   "related_people": [
+    "cn-xianqin-zhuangzi",
+    "cn-xianqin-laozi",
+    "cn-weijin-guoxiang"
+   ],
+   "misreadings": [
+    {
+     "claim": "“庖丁解牛”是讲技艺的熟练",
+     "why": "技艺只是喻体；其要点是“依乎天理”“以无厚入有间”——即顺应事物的固有结构，故能久而不伤。这是养生与处世的法则。"
+    },
+    {
+     "claim": "“吾生也有涯，而知也无涯”是劝人不要学习",
+     "why": "原文下句是“以有涯随无涯，殆已”——反对的是**以有限追逐无限**的方式，不是反对知本身。"
+    }
+   ],
+   "sources": [
+    "ct-zhuangzi",
+    "ct-daodejing",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -300
+  },
+  {
    "id": "work-tianxia-pian",
    "title": "《庄子·天下篇》",
    "title_original": "天下篇",
@@ -1921,6 +2035,63 @@
    "sources": [
     "ct-xunzi",
     "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -280
+  },
+  {
+   "id": "work-tianlun",
+   "title": "《荀子·天论》",
+   "title_original": "天論",
+   "tradition": "china",
+   "date_display": "约前3世纪",
+   "structure": "一篇；先立“天行有常”，次辨天人相分，再论“制天命而用之”，末评诸家“错人而思天”。",
+   "core_arguments": [
+    "“天行有常，不为尧存，不为桀亡”：天有固定的规律",
+    "“明于天人之分”：治乱在人不在天",
+    "“制天命而用之”：认识规律而利用之，非顺从亦非祈求"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "天行有常"
+    },
+    {
+     "locator": "中段",
+     "point": "天人相分与“制天命而用之”"
+    },
+    {
+     "locator": "中段",
+     "point": "对星坠木鸣的自然解释"
+    },
+    {
+     "locator": "末段",
+     "point": "“错人而思天，则失万物之情”"
+    }
+   ],
+   "editions": [
+    "王先谦《荀子集解》中华书局；李涤生《荀子集释》"
+   ],
+   "related_people": [
+    "cn-xianqin-xunzi",
+    "cn-xianqin-mozi",
+    "cn-xianqin-laozi"
+   ],
+   "misreadings": [
+    {
+     "claim": "荀子主张“人定胜天”（征服自然）",
+     "why": "“制天命而用之”的“制”是“裁制、利用”而非“征服”；其前提是认识规律（“知其所为”），不是无视规律。"
+    },
+    {
+     "claim": "“天人相分”是否认人与自然的关联",
+     "why": "它区分的是“天职”与“人职”（各有其分），不是否认人与自然有联系；其目的是反对以天干预人事的判断。"
+    }
+   ],
+   "sources": [
+    "ct-xunzi",
+    "ct-mengzi",
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,

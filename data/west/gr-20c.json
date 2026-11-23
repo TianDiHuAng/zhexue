@@ -3874,6 +3874,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-forgetfulness-of-being",
+   "term": "存在的遗忘",
+   "term_latin": "Seinsvergessenheit",
+   "definition": "海德格尔对西方哲学史的诊断：自柏拉图以来，哲学把“存在”当作“存在者”来处理（问“什么是存在者”而非“存在本身的意义”），故存在的意义被遗忘了。",
+   "usages": [
+    {
+     "name": "海德格尔",
+     "id": "gr-20c-heidegger",
+     "usage": "以“存在论差异”（存在与存在者之别）为线索重读哲学史。"
+    },
+    {
+     "name": "柏拉图（被诊断者）",
+     "usage": "以理念为“最真实的存在者”，海德格尔视此为遗忘的开端。"
+    },
+    {
+     "name": "胡塞尔（对照）",
+     "id": "gr-20c-husserl",
+     "usage": "以“回到事情本身”为口号，但海德格尔认为现象学仍未问及存在。"
+    }
+   ],
+   "related": [
+    "gr-20c-ontology-of-art"
+   ],
+   "example": {
+    "text": "这一诊断的方法是“解构”（Destruktion）：不是摧毁传统，而是拆解其层层沉积的翻译与概念，以回到原初的经验。故《存在与时间》的第二部（未写出）本应是亚里士多德—笛卡尔的“解构”。",
+    "figure": "海德格尔",
+    "locator": "《存在与时间》§6"
+   },
+   "sources": [
+    "sep-heidegger",
+    "sep-husserl"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

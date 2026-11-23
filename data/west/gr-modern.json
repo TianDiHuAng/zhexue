@@ -5891,6 +5891,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-moral-sense",
+   "term": "道德感",
+   "term_latin": "moral sense",
+   "definition": "苏格兰启蒙（沙夫茨伯里、哈奇森、休谟、斯密）的核心概念：人有一种类似感官的能力，能直接知觉行为的善恶，不需推理。它是“是与应当”鸿沟之后的主要替代方案。",
+   "usages": [
+    {
+     "name": "休谟",
+     "id": "gr-modern-hume",
+     "usage": "道德区别来自道德感（一种内在的感觉），非理性所能发现。"
+    },
+    {
+     "name": "哈奇森（先声）",
+     "usage": "以“道德感”为神所植的知觉能力：善恶如颜色般被感知。"
+    },
+    {
+     "name": "康德（批评）",
+     "usage": "以道德感为经验性的、不能提供普遍必然性，故须以实践理性取代之。"
+    }
+   ],
+   "related": [
+    "gr-modern-passions",
+    "gr-modern-is-ought"
+   ],
+   "example": {
+    "text": "“道德感”说的力量在于它解释了道德判断的**直接性**：我们并非先推理再判善恶，而是直接“看见”其可恶。其弱点在于它难以说明道德判断的**普遍性**——故康德以理性取代之，而后果主义以计算取代之。",
+    "figure": "休谟",
+    "locator": "《道德原则研究》附录一"
+   },
+   "sources": [
+    "sep-hume",
+    "sep-kant",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [
