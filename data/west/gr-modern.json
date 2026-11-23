@@ -4154,6 +4154,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-evil-demon",
+   "term": "恶魔假设",
+   "term_latin": "genius malignus",
+   "definition": "笛卡尔怀疑的极端形式：设想有一个全能而狡诈的恶魔，使我在一切事情上受骗（连 2+2=4 也不可靠）。它把怀疑推到“数学真理是否可信”的层面，从而显出“我思”的不可怀疑。",
+   "usages": [
+    {
+     "name": "笛卡尔",
+     "id": "gr-modern-descartes",
+     "usage": "恶魔假设清除一切可怀疑者，只留“我在被欺骗”这一活动不可疑。"
+    },
+    {
+     "name": "帕斯卡（对照）",
+     "id": "gr-modern-pascal",
+     "usage": "以“想象的力量”说明人如何自我欺骗，但不用恶魔假设。"
+    },
+    {
+     "name": "普特南（近代，对照）",
+     "usage": "以“缸中之脑”重述类似情境，结论相反：语义外在论使怀疑自我反驳。"
+    }
+   ],
+   "related": [
+    "gr-modern-cogito",
+    "gr-modern-secondary-quality"
+   ],
+   "example": {
+    "text": "恶魔假设的关键作用是把“清楚明白的数学真理”也列入可疑——这一步使“我思”成为唯一的落脚点；若无此假设，怀疑只到感官层面，不足以显示“我思”的必然性。",
+    "figure": "笛卡尔",
+    "locator": "《第一哲学沉思集》第一沉思"
+   },
+   "sources": [
+    "emt-descartes",
+    "sep-descartes"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

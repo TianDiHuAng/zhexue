@@ -2275,6 +2275,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-weijin-yanbuyijin",
+   "term": "言不尽意",
+   "term_latin": "yan bu jin yi",
+   "definition": "魏晋言意之辨的一极：语言不能完全表达意旨，故须“得意忘言”。与之相对的是欧阳建《言尽意论》。这一争论既是语言哲学问题，也关涉经典解释的权威。",
+   "usages": [
+    {
+     "name": "王弼",
+     "id": "cn-weijin-wangbi",
+     "usage": "“得意在忘象，得象在忘言”：言象是工具，得意则舍之。"
+    },
+    {
+     "name": "欧阳建",
+     "id": "cn-weijin-ouyang-jian",
+     "usage": "反驳：名由实生，言因理而变，故言可尽意。"
+    },
+    {
+     "name": "荀粲（据《三国志》注，对照）",
+     "usage": "主张“言不尽意”，认为精微之理非言所能尽。"
+    }
+   ],
+   "related": [
+    "cn-weijin-duhua"
+   ],
+   "example": {
+    "text": "王弼以《周易》“言—象—意”三层说明：卦辞（言）用以明卦象（象），卦象用以尽圣人之意（意）；既得其意，则言象可忘——这与“得鱼忘筌”同构。",
+    "figure": "王弼",
+    "locator": "《周易略例·明象》"
+   },
+   "sources": [
+    "ws-shishuoxinyu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

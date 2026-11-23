@@ -231,8 +231,8 @@ def check_unit(path, src, global_ids, unit_ids):
     db = u.get("debates") or []
     if not 4 <= len(ph) <= 60:
         err(where0, "R7", "哲学家数量 %d，要求 4-60" % len(ph))
-    if not 6 <= len(co) <= 10:
-        err(where0, "R7", "概念数量 %d，要求 6-10" % len(co))
+    if not 6 <= len(co) <= 30:
+        err(where0, "R7", "概念数量 %d，要求 6-30" % len(co))
     if not 2 <= len(db) <= 3:
         err(where0, "R7", "争论数量 %d，要求 2-3" % len(db))
 

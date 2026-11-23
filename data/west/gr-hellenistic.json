@@ -2464,7 +2464,6 @@
     },
     {
      "name": "柏拉图（对照）",
-     "id": null,
      "usage": "“善的理念”在《理想国》中被说成超越存在（509b），但仍是理念秩序的一环；普罗提诺把它推到理念之上。"
     }
    ],
@@ -2579,6 +2578,44 @@
    "sources": [
     "sep-stoicism",
     "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-oikeiosis",
+   "term": "亲缘化",
+   "term_latin": "oikeiōsis（appropriation）",
+   "definition": "斯多亚派的伦理心理学概念：生物从出生起就把自己“认作自己的”，趋向自我保存；这一亲缘感逐步扩展至家人、同胞、全人类，故“家园感”是可扩展的。",
+   "usages": [
+    {
+     "name": "芝诺（季蒂昂）",
+     "id": "gr-hellenistic-zeno",
+     "usage": "oikeiōsis 是自然赋予的起点，德性即其正确展开。"
+    },
+    {
+     "name": "西塞罗",
+     "id": "gr-hellenistic-cicero",
+     "usage": "以拉丁语 conciliatio 译之，并用它论证人类社会的自然基础。"
+    },
+    {
+     "name": "塞涅卡",
+     "id": "gr-hellenistic-seneca",
+     "usage": "把亲缘化扩展为对全人类的义务（世界城邦）。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-pronoia",
+    "gr-hellenistic-natural-law"
+   ],
+   "example": {
+    "text": "斯多亚以亲缘化解释利他：不是先有“利他本能”，而是把“自己的”范围逐步扩大——从身体到子女、到同胞、到全人类。这与以契约解释社会性的路线不同。",
+    "figure": "西塞罗",
+    "locator": "《论义务》I.11—12"
+   },
+   "sources": [
+    "sep-stoicism",
+    "iep-stoicism"
    ],
    "needs_verification": false,
    "pending_notes": ""

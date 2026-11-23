@@ -2053,6 +2053,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-mingjia",
+   "term": "名教",
+   "term_latin": "mingjiao",
+   "definition": "以名分与教化为核心的儒家秩序：君臣父子之名各有其分，教化使人安于其分。汉晋之际它与“自然”构成一对张力范畴，玄学的“名教与自然之辨”即由此展开。",
+   "usages": [
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以“王道之三纲”确立名分的秩序，教化由此出。"
+    },
+    {
+     "name": "嵇康（魏晋，对照）",
+     "usage": "“越名教而任自然”：名教压抑真性，故当超越之。"
+    },
+    {
+     "name": "郭象（魏晋注家，对照）",
+     "usage": "“名教即自然”：名分本身就是自然的体现，二者不冲突。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-tianren"
+   ],
+   "example": {
+    "text": "《世说新语》记乐广以“名教中自有乐地”回应放达之风，可见“名教”与“自然”在魏晋已成为判定人生态度的两把尺——名教不再是自明的前提，而须被辩护。",
+    "figure": "乐广（据《世说新语》）",
+    "locator": "《世说新语·德行》"
+   },
+   "sources": [
+    "ct-chunqiufanlu",
+    "ws-shishuoxinyu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

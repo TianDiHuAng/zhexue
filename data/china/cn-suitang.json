@@ -2110,6 +2110,76 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-sanju",
+   "term": "三聚净戒",
+   "term_latin": "three categories of pure precepts",
+   "definition": "佛教戒学的分类：摄律仪戒（止恶）、摄善法戒（修善）、摄众生戒（饶益有情）。中国佛教（尤其天台与禅）以此统摄一切戒条。",
+   "usages": [
+    {
+     "name": "智顗",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以三聚净戒配三谛与三观，使戒学与止观一体。"
+    },
+    {
+     "name": "慧能",
+     "id": "cn-suitang-huineng",
+     "usage": "以“心地无非自性戒”重新解释戒：戒不在形式而在自性的清净。"
+    }
+   ],
+   "related": [
+    "cn-suitang-yiniansanqian",
+    "cn-suitang-foxing"
+   ],
+   "example": {
+    "text": "《坛经》说“心平何劳持戒”，并非否定戒，而是把戒收归自性：三聚净戒的“止恶修善”在此变为“自性无非、自性无痴”——形式戒被内在化。",
+    "figure": "慧能",
+    "locator": "《坛经·无相颂》"
+   },
+   "sources": [
+    "ws-liuzutanjing",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-dunjian-yi",
+   "term": "顿渐",
+   "term_latin": "sudden vs gradual",
+   "definition": "禅宗内部的判教之争：顿悟主张见性是一整体翻转（神会一系），渐修主张须次第修习（北宗一系）。二者的分歧不止在速度，而在“悟”是否可被分割。",
+   "usages": [
+    {
+     "name": "神会",
+     "id": "cn-suitang-shenhui",
+     "usage": "“单刀直入，直了见性”：悟是整体而非分片累积。"
+    },
+    {
+     "name": "神秀一系（北宗，对照）",
+     "usage": "主张“凝心入定、住心看净”的次第工夫，被南宗判为“渐”。"
+    },
+    {
+     "name": "宗密",
+     "id": "cn-suitang-zongmi",
+     "usage": "以“顿悟渐修”调和：悟可顿，修须渐。"
+    }
+   ],
+   "related": [
+    "cn-suitang-sanju",
+    "cn-suitang-foxing"
+   ],
+   "example": {
+    "text": "宗密的调和方案值得注意：他主张“真理可顿悟，事相须渐除”——把顿渐之争从“谁对”转为“各管一层”，这是唐代佛教整合的典型手法。",
+    "figure": "宗密",
+    "locator": "《禅源诸诠集都序》"
+   },
+   "sources": [
+    "ws-chanyuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

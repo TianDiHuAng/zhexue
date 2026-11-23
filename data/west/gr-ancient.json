@@ -2979,7 +2979,6 @@
     },
     {
      "name": "近代机械论者（对照）",
-     "id": null,
      "usage": "只承认动力因（机制），把目的因排除在科学说明之外；这一转变构成古代与近代自然观的分界。"
     }
    ],
@@ -3174,6 +3173,44 @@
     "mit-plato-republic",
     "sep-plato",
     "sep-aristotle"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-apeiron",
+   "term": "无定",
+   "term_latin": "apeiron（the indefinite）",
+   "definition": "阿那克西曼德的本原概念：无固定性质、无边界者。它不是某种元素，而是使对立之物能够从中分离而出的中立基底。",
+   "usages": [
+    {
+     "name": "阿那克西曼德",
+     "id": "gr-ancient-anaximander",
+     "usage": "本原须无规定，否则不能生成与其对立之物。"
+    },
+    {
+     "name": "阿那克西美尼",
+     "id": "gr-ancient-anaximenes",
+     "usage": "以“气”取代无定：有定性但可稀散凝聚，换来可操作的机制。"
+    },
+    {
+     "name": "毕达哥拉斯学派（对照）",
+     "id": "gr-ancient-pythagoras",
+     "usage": "以“有限／无限”为一对基本对立，与无定说相关但不同。"
+    }
+   ],
+   "related": [
+    "gr-ancient-logos",
+    "gr-ancient-being"
+   ],
+   "example": {
+    "text": "阿那克西曼德的残篇说万物由无定“分离”而出，并依“时间的秩序”相互补偿（dikē）；“补偿”一词带有法庭用语色彩，暗示生成与消亡是一种宇宙层面的平衡。",
+    "figure": "阿那克西曼德",
+    "locator": "DK 12 B1"
+   },
+   "sources": [
+    "iep-anaximander",
+    "book-guthrie-greek"
    ],
    "needs_verification": false,
    "pending_notes": ""

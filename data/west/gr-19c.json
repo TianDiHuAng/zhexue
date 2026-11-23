@@ -2332,7 +2332,6 @@
     },
     {
      "name": "雅可比（概念来源，对照）",
-     "id": null,
      "usage": "雅可比以“虚无主义”批评费希特式唯心论把一切化为自我产物；尼采的用法与这一批评史相关但不同。"
     }
    ],
@@ -2448,6 +2447,42 @@
    "sources": [
     "sep-nietzsche",
     "iep-nietzsche"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-19c-absurd",
+   "term": "荒诞",
+   "term_latin": "the absurd",
+   "definition": "克尔凯郭尔与后世存在主义的共同语汇：理性与信仰、意义与世界的期待之间的不可弥合。克尔凯郭尔的“荒诞”指信仰的悖论（永恒进入时间），与加缪的“荒诞”（人对意义的渴望与世界的沉默）不同。",
+   "usages": [
+    {
+     "name": "克尔凯郭尔",
+     "id": "gr-19c-kierkegaard",
+     "usage": "信仰的荒诞：亚伯拉罕的处境不可用伦理语言辩护。"
+    },
+    {
+     "name": "加缪（20世纪，对照）",
+     "usage": "荒诞产生于“人的呼唤”与“世界的沉默”的对峙，故须以反抗而非信仰回应。"
+    },
+    {
+     "name": "萨特",
+     "usage": "以“偶然性”与“自欺”说明意义的无根据，与加缪的荒诞相近但方案不同。"
+    }
+   ],
+   "related": [
+    "gr-19c-power-will",
+    "gr-19c-nihilism"
+   ],
+   "example": {
+    "text": "克尔凯郭尔说亚伯拉罕“以荒诞之力”重新得到以撒——即以“在人的算计中不可能”的方式；这与加缪笔下西西弗的“必须想象西西弗是幸福的”是两种完全不同的回应。",
+    "figure": "克尔凯郭尔",
+    "locator": "《恐惧与颤栗》"
+   },
+   "sources": [
+    "sep-kierkegaard",
+    "sep-hegel"
    ],
    "needs_verification": false,
    "pending_notes": ""

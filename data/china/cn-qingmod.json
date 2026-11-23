@@ -2223,7 +2223,6 @@
     },
     {
      "name": "张之洞（对照，非本单元）",
-     "id": null,
      "usage": "主张“中学为体、西学为用”，认为旧体可容纳新用；此为严复批评的对象。"
     }
    ],
@@ -2239,6 +2238,43 @@
    "sources": [
     "sep-qing-philosophy",
     "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-lizaiqizhong",
+   "term": "理在气中",
+   "term_latin": "li within qi",
+   "definition": "明清气学的共同命题：理不是独立于气的实体，而是气自身运行中的条理与秩序。它把宋代理学的“理在气先”翻转过来，使规范内在于自然过程。",
+   "usages": [
+    {
+     "name": "王夫之",
+     "id": "cn-qingmod-wang-fuzhi",
+     "usage": "“理在气中”：气之条理即理，无气外悬空之理。"
+    },
+    {
+     "name": "罗钦顺（明，远承）",
+     "usage": "“理只是气之理”，为“理在气中”的先声。"
+    },
+    {
+     "name": "戴震",
+     "id": "cn-qingmod-dai-zhen",
+     "usage": "以“条理”解理：理是事物的“肌理”与“分理”，非“如有物焉得于天”。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-kaoju"
+   ],
+   "example": {
+    "text": "戴震《孟子字义疏证》先考“理”在经籍中的本义为“条理”“分理”（如肌理、腠理），再据此批评程朱把“理”当作“如有物焉得于天”的实体——这是清代“由字通词、由词通道”方法的示范。",
+    "figure": "戴震",
+    "locator": "《孟子字义疏证》卷上"
+   },
+   "sources": [
+    "ws-mengzi-ziyi",
+    "sep-qing-philosophy",
+    "ws-kunzhiji"
    ],
    "needs_verification": false,
    "pending_notes": ""

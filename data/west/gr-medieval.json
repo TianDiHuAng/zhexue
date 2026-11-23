@@ -3278,6 +3278,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-esse",
+   "term": "存在（是）",
+   "term_latin": "esse",
+   "definition": "中世纪形而上学的核心词：esse 指“存在”这一活动，而非“存在者”（ens）。阿奎那以“存在本身”（ipsum esse）为神的名称，并把存在与本质（essentia）区分。",
+   "usages": [
+    {
+     "name": "托马斯·阿奎那",
+     "id": "gr-medieval-aquinas",
+     "usage": "在受造物中本质与存在实在地区分；唯在神中二者同一。"
+    },
+    {
+     "name": "阿维森纳",
+     "id": "gr-medieval-avicenna",
+     "usage": "存在附加于本质：本质自身不含存在（此说为其先声）。"
+    },
+    {
+     "name": "苏阿雷斯（后期经院，对照）",
+     "usage": "主张本质与存在仅为概念之分，反对实在区分。"
+    }
+   ],
+   "related": [
+    "gr-medieval-intellect-will"
+   ],
+   "example": {
+    "text": "阿奎那以“存在者”（ens）与“存在”（esse）之别回应“神是什么”：我们不能说神是某个存在者，只能说神是“存在本身”——故“他是”（Qui est）是神最恰当的名称。",
+    "figure": "托马斯·阿奎那",
+    "locator": "《神学大全》I q.3 a.4；q.13 a.11"
+   },
+   "sources": [
+    "lat-aquinas-summa",
+    "sep-aquinas"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

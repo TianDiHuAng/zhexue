@@ -1818,6 +1818,80 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-german-sittlichkeit",
+   "term": "伦理（实体性的伦理生活）",
+   "term_latin": "Sittlichkeit",
+   "definition": "黑格尔的术语，指在家庭、市民社会与国家中被制度化的伦理生活，与仅属主观的“道德”（Moralität）相对。它把自由落实到客观制度中，故不是外在约束而是自由的定在。",
+   "usages": [
+    {
+     "name": "黑格尔",
+     "id": "gr-german-hegel",
+     "usage": "家庭—市民社会—国家是伦理实体的三个环节。"
+    },
+    {
+     "name": "康德（对照）",
+     "id": "gr-german-kant",
+     "usage": "道德以自律的意志为根据，制度只提供合法性。"
+    },
+    {
+     "name": "马克思（批评）",
+     "usage": "以“市民社会”为经济基础，颠倒黑格尔的国家优先论。"
+    }
+   ],
+   "related": [
+    "gr-german-absolute-spirit",
+    "gr-german-dialectic"
+   ],
+   "example": {
+    "text": "黑格尔在《法哲学原理》中说“伦理性的东西就是自由的概念的现实”——婚约、契约、法律不是自由的限制，而是自由得以实现的形式；这一转置是其与康德伦理学分歧的核心。",
+    "figure": "黑格尔",
+    "locator": "《法哲学原理》§142"
+   },
+   "sources": [
+    "sep-hegel",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-german-irony",
+   "term": "反讽",
+   "term_latin": "Ironie",
+   "definition": "德国浪漫派（施莱格尔兄弟）的美学概念：艺术家以自由创造并同时消解自己的作品，故作品永远带有“自我超越”的意味。黑格尔批评其为“主观的反讽”，认为它逃避客观伦理实体。",
+   "usages": [
+    {
+     "name": "施莱格尔与诺瓦利斯",
+     "id": "gr-german-novalis",
+     "usage": "以断片与反讽保持作品的开放性；反讽是对有限形式的超越。"
+    },
+    {
+     "name": "黑格尔",
+     "id": "gr-german-hegel",
+     "usage": "批评“绝对的反讽”停留于主观自由，不愿进入客观伦理，故有破坏性。"
+    },
+    {
+     "name": "克尔凯郭尔（近代）",
+     "usage": "以《论反讽概念》研究苏格拉底式反讽，把反讽作为生存的立场。"
+    }
+   ],
+   "related": [
+    "gr-german-sittlichkeit",
+    "gr-german-absolute-spirit"
+   ],
+   "example": {
+    "text": "诺瓦利斯以断片写作正是因为“体系封闭而生命不可封闭”：反讽使作品不成为最终结论——黑格尔对此的批评是，这种自由只在自己内部有效，一进入制度便失效。",
+    "figure": "诺瓦利斯",
+    "locator": "《断片》"
+   },
+   "sources": [
+    "sep-hegel",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

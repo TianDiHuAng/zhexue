@@ -2605,6 +2605,41 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-gewu",
+   "term": "格物（朱王之争）",
+   "term_latin": "gewu",
+   "definition": "《大学》“格物致知”的解释之争：朱熹解为“即物穷理”（向外穷究事物之理），王阳明解为“正其不正以归于正”（向内正心）。同一文本，两条相反的工夫路线。",
+   "usages": [
+    {
+     "name": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "usage": "即物穷理：今日格一物、明日格一物，积久而豁然贯通。"
+    },
+    {
+     "name": "王阳明",
+     "id": "cn-songming-wang-yangming",
+     "usage": "“格者正也”：格物即正念头，使不正归正；训“格”为“正”是关键。"
+    },
+    {
+     "name": "王艮（泰州，对照）",
+     "usage": "“百姓日用即道”：格物在日用事为中，不废人伦物理。"
+    }
+   ],
+   "related": [],
+   "example": {
+    "text": "阳明“格竹”的故事正是其转向的起点：他依朱子之法面对竹子穷理，七日病倒而无所获，遂疑“即物穷理”之路——这一记载出自《传习录》，虽经门人追述，但准确标示了两种格物观的分歧。",
+    "figure": "王阳明",
+    "locator": "《传习录》下卷"
+   },
+   "sources": [
+    "ct-chuanxilu",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

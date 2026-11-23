@@ -2410,7 +2410,6 @@
     },
     {
      "name": "郭象（后世注家）",
-     "id": null,
      "usage": "以“适性”解逍遥：各安其性分即为逍遥，大鹏与小鸟并无高下——此注与庄子原文的“小大之辩”是否有张力，学界有讨论。"
     }
    ],
@@ -2430,6 +2429,42 @@
    ],
    "needs_verification": true,
    "pending_notes": "郭象“适性逍遥”与庄子原文“小大之辩”的关系：注家与研究者解释不一，本页并列两说，不作裁定。"
+  },
+  {
+   "id": "cn-xianqin-ziran",
+   "term": "自然",
+   "term_latin": "ziran（self-so）",
+   "definition": "“自”＋“然”，字面为“自己如此”。先秦多作形容词或状语，指事物不待外力而自成其然；近代经日语转译被赋予 nature 的含义，与古义有别。",
+   "usages": [
+    {
+     "name": "老子",
+     "id": "cn-xianqin-laozi",
+     "usage": "“道法自然”：道以其自身为法，非另有一“自然”在其上。"
+    },
+    {
+     "name": "郭象（魏晋注家，对照）",
+     "usage": "以“天然”解自然，主张万物“自生”“独化”，取消造物者。"
+    },
+    {
+     "name": "王充",
+     "usage": "以“自然”说气化无心而为，反对目的论的天。"
+    }
+   ],
+   "related": [
+    "cn-xianqin-wuwei",
+    "cn-xianqin-dao"
+   ],
+   "example": {
+    "text": "《老子》第二十五章“人法地，地法天，天法道，道法自然”中，“自然”是“自己如此”的状语，不是今日“自然界”之自然——把此句读作“道效法自然界”是常见的误读。",
+    "figure": "老子",
+    "locator": "《老子》第二十五章"
+   },
+   "sources": [
+    "ct-daodejing",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

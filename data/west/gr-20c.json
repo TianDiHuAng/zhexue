@@ -2947,6 +2947,41 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-being-toward-death",
+   "term": "向死存在",
+   "term_latin": "Sein-zum-Tode",
+   "definition": "海德格尔的生存论概念：死亡不是将来某时的外部事件，而是此在“最本己的、无所关联的、不可逾越的可能性”。本真的生存是“先行到死”中把握有限性。",
+   "usages": [
+    {
+     "name": "海德格尔",
+     "id": "gr-20c-heidegger",
+     "usage": "日常中此在以“人们会死”掩盖“我必死”，此即沉沦；本真性要求把死亡收回为己有。"
+    },
+    {
+     "name": "雅斯贝尔斯",
+     "id": "gr-20c-jaspers",
+     "usage": "以“临界处境”说明死亡如何使存在被照亮，语汇不同而问题相近。"
+    },
+    {
+     "name": "萨特（对照）",
+     "id": "gr-20c-sartre",
+     "usage": "死亡是外在的“事实性”，取消了我之筹划的意义，故不构成我的可能性。"
+    }
+   ],
+   "related": [],
+   "example": {
+    "text": "海德格尔以“死亡是此在最本己的可能性”区分于任何可替代的事件：我可以替他人去死（代理），但不能替他人“承担他的死”——故死亡使此在的“向来我属”（Jemeinigkeit）显现。",
+    "figure": "海德格尔",
+    "locator": "《存在与时间》§47、§50"
+   },
+   "sources": [
+    "sep-heidegger",
+    "sep-jaspers"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [
