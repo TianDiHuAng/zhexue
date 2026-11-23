@@ -4362,6 +4362,63 @@
    "sort_year": 10
   },
   {
+   "id": "work-xinlun",
+   "title": "《新论》",
+   "title_original": "新論",
+   "tradition": "china",
+   "date_display": "两汉之际（桓谭，约前23—50）；原书亡佚，今为辑佚本",
+   "structure": "原十六篇（一说二十九篇），今存辑佚（严可均《全后汉文》辑本较备）；含《形神》《谴非》《启寤》《祛蔽》等篇目之名。",
+   "core_arguments": [
+    "“形神”论：形者神之质，神者形之用——形亡则神灭（先于范缜的表述）",
+    "“谴非”：批评当时的谶纬与灾异之说",
+    "以“烛火”喻形神：烛尽则火灭"
+   ],
+   "key_points": [
+    {
+     "locator": "《形神》",
+     "point": "形质神用与烛火之喻"
+    },
+    {
+     "locator": "《谴非》",
+     "point": "对谶纬的批评"
+    },
+    {
+     "locator": "《启寤》",
+     "point": "对俗儒的批评"
+    },
+    {
+     "locator": "佚文",
+     "point": "对王莽与光武帝的批评（故遭贬）"
+    }
+   ],
+   "editions": [
+    "严可均辑《全后汉文》卷十三—十五；《桓子新论》（辑本）"
+   ],
+   "related_people": [
+    "cn-lianghan-huan-tan",
+    "cn-lianghan-wang-chong",
+    "cn-lianghan-ban-gu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《新论》是完整传世的著作",
+     "why": "原书早佚，今本为辑佚（严可均等辑），故只能据残篇与《弘明集》等书的引述重建其说。"
+    },
+    {
+     "claim": "“形神”说是范缜首创",
+     "why": "桓谭的“烛火”之喻与“形质神用”已开其端，范缜的《神灭论》是这一线索的**系统化**而非起点。"
+    }
+   ],
+   "sources": [
+    "ws-xinlun",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《新论》原书亡佚，今本为辑佚，篇目与文字均不完整；其“形神”说的确切表述须依严可均辑本与《弘明集》等引述。",
+   "sort_year": 25
+  },
+  {
    "id": "work-de-providentia",
    "title": "《论天意》",
    "title_original": "De providentia（Dialogi I）",
@@ -6841,6 +6898,63 @@
    "sort_year": 1150
   },
   {
+   "id": "work-nanxuan-ji",
+   "title": "《南轩集》",
+   "title_original": "南軒集",
+   "tradition": "china",
+   "date_display": "南宋（张栻，1133—1180）；门人编集",
+   "structure": "四十四卷（通行本）：诗、书、记、序、论、说、铭、箴、赞、题跋、墓志等；哲学文字多见于《论语解》《孟子说》（单行）与书札（《与朱元晦书》等）。",
+   "core_arguments": [
+    "“理”为天下之公：反对以己意为理",
+    "“察识”与“涵养”并进：先察识仁体，后加以涵养",
+    "与朱熹往复论“中和”：主张先察识后涵养（与朱的“先涵养”次序不同）"
+   ],
+   "key_points": [
+    {
+     "locator": "《与朱元晦书》",
+     "point": "中和之辩的往复"
+    },
+    {
+     "locator": "《仁说》相关书札",
+     "point": "仁的界说"
+    },
+    {
+     "locator": "《孟子说》",
+     "point": "性善与察识"
+    },
+    {
+     "locator": "《论语解》",
+     "point": "为学之序"
+    }
+   ],
+   "editions": [
+    "中华书局《张栻集》；《南軒集》（四庫全書本）"
+   ],
+   "related_people": [
+    "cn-songming-zhang-shi",
+    "cn-songming-zhu-xi",
+    "cn-songming-hu-hong"
+   ],
+   "misreadings": [
+    {
+     "claim": "张栻只是朱熹的追随者",
+     "why": "其“先察识后涵养”与朱熹的次序相反，二人往复论辩多年；湖湘学派有其独立的工夫论。"
+    },
+    {
+     "claim": "《南轩集》包含其全部哲学",
+     "why": "其经解（《论语解》《孟子说》）多单行，文集只收诗文与书札；故论其学须兼看两类材料。"
+    }
+   ],
+   "sources": [
+    "ws-nanxuan",
+    "ws-xiangshan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "张栻与朱熹的“中和之辩”往复书札的系年与文本须核《张栻集》与《朱子文集》；其经解与文集的互补关系是研究其学的关键。",
+   "sort_year": 1170
+  },
+  {
    "id": "work-jinsilu",
    "title": "《近思录》",
    "title_original": "近思錄",
@@ -6947,6 +7061,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "朱陆往复书的通数与年代（一般据《陆九渊集》卷二，1188 年前后）有讨论；朱熹一方的书信部分不存或仅存节录，故往复的全貌须依双方文集互校。",
+   "sort_year": 1188
+  },
+  {
+   "id": "work-longchuan-ji",
+   "title": "《龙川集》",
+   "title_original": "龍川集",
+   "tradition": "china",
+   "date_display": "南宋（陈亮，1143—1194）；门人编集",
+   "structure": "三十卷（通行本）：书、疏、策、论、序、记、诗、词等；与朱熹往复论王霸义利的书札（《又甲辰秋书》等）为其哲学核心。",
+   "core_arguments": [
+    "“义利双行、王霸并用”：汉唐之功业亦是道之所在",
+    "“道在事中”：道不离具体的历史功业",
+    "对“三代”理想化的批评：以功效而非动机为判准"
+   ],
+   "key_points": [
+    {
+     "locator": "《又甲辰秋书》",
+     "point": "与朱熹论汉唐"
+    },
+    {
+     "locator": "《问答》",
+     "point": "王霸义利之辨"
+    },
+    {
+     "locator": "《中兴五论》",
+     "point": "恢复之策"
+    },
+    {
+     "locator": "《酌古论》",
+     "point": "以史论政"
+    }
+   ],
+   "editions": [
+    "中华书局《陈亮集》（邓广铭点校）；《龍川集》（四庫全書本）"
+   ],
+   "related_people": [
+    "cn-songming-chen-liang",
+    "cn-songming-zhu-xi",
+    "cn-songming-ye-shi"
+   ],
+   "misreadings": [
+    {
+     "claim": "陈亮主张“只要成功就是对的”",
+     "why": "其判准是“成天下之公利”（功效须是公的），不是任何成功；他批评的是只论动机而不问实效的空谈。"
+    },
+    {
+     "claim": "他与朱熹之争是意气之争",
+     "why": "往复书的焦点是**评判尺度**（动机 vs 功效）与“道”的位置（在事中 vs 超于事），都是实质的哲学问题。"
+    }
+   ],
+   "sources": [
+    "ws-longchuanji",
+    "ws-xiangshan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": 1188
   },
   {
@@ -7116,6 +7287,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1200
+  },
+  {
+   "id": "work-shuixin-ji",
+   "title": "《水心集》",
+   "title_original": "水心集",
+   "tradition": "china",
+   "date_display": "南宋（叶适，1156—1223）；门人编集",
+   "structure": "二十九卷（通行本）：奏札、书、记、序、墓志、杂著、诗等；哲学文字见《习学记言序目》（单行）与《水心别集》。",
+   "core_arguments": [
+    "“道在物中”：道不离器物，反对离事言道",
+    "以“事功”为判准：批评董仲舒“正谊不谋利”之说",
+    "对“太极”“无极”等形上概念的怀疑：主张回到经世实事"
+   ],
+   "key_points": [
+    {
+     "locator": "《习学记言序目》",
+     "point": "对历代学术的评断"
+    },
+    {
+     "locator": "《水心别集·进卷》",
+     "point": "治国的实务主张"
+    },
+    {
+     "locator": "论“道”诸篇",
+     "point": "道在物中"
+    },
+    {
+     "locator": "论董仲舒",
+     "point": "对“正谊不谋利”的批评"
+    }
+   ],
+   "editions": [
+    "中华书局《叶适集》；《水心集》（四庫全書本）"
+   ],
+   "related_people": [
+    "cn-songming-ye-shi",
+    "cn-songming-chen-liang",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "叶适是纯粹的功利主义者",
+     "why": "他主张“道在物中”，其“事功”论有本体论的根据（道不离器），不是纯粹的后果计算。"
+    },
+    {
+     "claim": "他否定一切形上讨论",
+     "why": "他怀疑的是**离事言道**的形上学（如“无极”），并非否认“道”本身；其“道在物中”仍是本体论主张。"
+    }
+   ],
+   "sources": [
+    "ws-shuixinji",
+    "ws-longchuanji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "叶适的哲学主要在《习学记言序目》（单行），文集只是其一部分；其与陈亮的事功之学的关系（同调而非同一）须分辨。",
    "sort_year": 1200
   },
   {
@@ -11010,6 +11238,63 @@
    "needs_verification": true,
    "pending_notes": "《孟子正义》的成书过程（焦循晚年成书，其子焦廷琥参与校补）与各本差异须核中华书局点校本；本页依《清史稿》本传与通行研究概述。",
    "sort_year": 1819
+  },
+  {
+   "id": "work-yanjingshi-ji",
+   "title": "《揅经室集》",
+   "title_original": "揅經室集",
+   "tradition": "china",
+   "date_display": "清（阮元，1764—1849）；自编与门人续编",
+   "structure": "一集十四卷、续集十一卷、再续集六卷等：经说、考据、序跋、碑传、诗等；哲学与方法论文字见《性命古训》《论语论仁论》《孟子论仁论》等。",
+   "core_arguments": [
+    "“实事求是”：以证据定是非，不立汉宋门户",
+    "《性命古训》：以训诂考“性命”的古义，反对以理学之说附会经义",
+    "以“仁”为相人偶（人与人相处）之事：把仁从心性论拉回伦理实践"
+   ],
+   "key_points": [
+    {
+     "locator": "《性命古训》",
+     "point": "以训诂求“性命”古义"
+    },
+    {
+     "locator": "《论语论仁论》",
+     "point": "仁为“相人偶”"
+    },
+    {
+     "locator": "《国朝汉学师承记》序",
+     "point": "汉宋兼采的立场"
+    },
+    {
+     "locator": "《畴人传》序",
+     "point": "对算学的推重"
+    }
+   ],
+   "editions": [
+    "中华书局《揅经室集》；《揅經室集》（四部丛刊本）"
+   ],
+   "related_people": [
+    "cn-qingmod-ruan-yuan",
+    "cn-qingmod-dai-zhen",
+    "cn-qingmod-zhang-xuecheng"
+   ],
+   "misreadings": [
+    {
+     "claim": "阮元只是汉学家，无义理",
+     "why": "《性命古训》《论语论仁论》是有明确义理主张的著作：以训诂重建“仁”“性命”的含义，以及对理学心性论的批评。"
+    },
+    {
+     "claim": "“实事求是”是他的独创",
+     "why": "语出《汉书·河间献王传》，阮元借以标举考据学风；其现代用法（从实际出发）与清代用法有语义滑动。"
+    }
+   ],
+   "sources": [
+    "ws-yanjingshi",
+    "ws-wenshi-tongyi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1820
   },
   {
    "id": "work-philosophy-of-right",

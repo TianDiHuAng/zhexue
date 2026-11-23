@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 953,
+  "entries": 960,
   "by_level": {
-   "L2": 747,
-   "L1": 206
+   "L2": 749,
+   "L1": 211
   },
   "doctrine": {
    "total": 237,
    "detail": 237,
    "auto": 0
   },
-  "needs_verification": 206,
+  "needs_verification": 211,
   "sources": 374,
   "sources_verified": 374
  },
@@ -48,7 +48,7 @@
    "title": "隋唐佛学",
    "region": "china",
    "philosophers": 14,
-   "concepts": 21,
+   "concepts": 22,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -6"
   },
@@ -129,7 +129,7 @@
    "title": "中世纪经院哲学",
    "region": "west",
    "philosophers": 18,
-   "concepts": 21,
+   "concepts": 22,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -2040,6 +2040,17 @@
    "id": "cn-suitang-wuxing-geju",
    "type": "concept",
    "title": "五时八教",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-suitang-jiaoxiang",
+   "type": "concept",
+   "title": "教相判释",
    "container": "cn-suitang",
    "level": "L1",
    "sources": 3,
@@ -6448,6 +6459,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-medieval-divine-ideas",
+   "type": "concept",
+   "title": "神的理念",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-medieval-universals-debate",
    "type": "debate",
    "title": "共相是实在还是名称",
@@ -8087,6 +8109,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-xinlun",
+   "type": "work",
+   "title": "《新论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-de-providentia",
    "type": "work",
    "title": "《论天意》",
@@ -8571,6 +8604,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-nanxuan-ji",
+   "type": "work",
+   "title": "《南轩集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-jinsilu",
    "type": "work",
    "title": "《近思录》",
@@ -8590,6 +8634,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-longchuan-ji",
+   "type": "work",
+   "title": "《龙川集》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -8623,6 +8678,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-shuixin-ji",
+   "type": "work",
+   "title": "《水心集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -9382,6 +9448,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-yanjingshi-ji",
+   "type": "work",
+   "title": "《揅经室集》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {

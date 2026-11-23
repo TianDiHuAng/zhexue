@@ -3832,6 +3832,45 @@
    ],
    "needs_verification": true,
    "pending_notes": "“分有”在伪狄奥尼修斯、埃里金纳、阿奎那之间的用法有差异（柏拉图式的分有 vs 创世论的依赖）；本页并述其线索，具体文本须核《论分有》与《神学大全》。"
+  },
+  {
+   "id": "gr-medieval-divine-ideas",
+   "term": "神的理念",
+   "term_latin": "ideas in God",
+   "definition": "奥古斯丁—阿奎那传统的问题：上帝心中是否有“理念”？若有，受造物是否按这些理念被造（故理念是原型因）？若无，则受造物的秩序从何而来？",
+   "usages": [
+    {
+     "name": "奥古斯丁",
+     "id": "gr-medieval-augustine",
+     "usage": "以“理念”为神心中的原型（rationes aeternae），万物依之而被造。"
+    },
+    {
+     "name": "阿奎那",
+     "id": "gr-medieval-aquinas",
+     "usage": "以“神的理念”为神对其所造之物的认识（非独立于神的中介）。"
+    },
+    {
+     "name": "司各脱（改造）",
+     "id": "gr-medieval-duns-scotus",
+     "usage": "以“神的意志”优先：理念不构成对神意志的限制。"
+    }
+   ],
+   "related": [
+    "gr-medieval-participation",
+    "gr-medieval-analogy-being"
+   ],
+   "example": {
+    "text": "这一问题的要害是**中介的合法性**：若理念是神与万物之间的中介，则它是否限制了神的自由？若理念只是神自身的认识，则它是否还是“原型”？两个方向都通向困难，故其解答方式决定了各家本体论的面貌。",
+    "figure": "阿奎那",
+    "locator": "《神学大全》I, q.15"
+   },
+   "sources": [
+    "sep-aquinas",
+    "sep-augustine",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“神的理念”在奥古斯丁（原型说）与阿奎那（神之认识）之间的含义有实质差异；本页并述两说，具体文本须核《神学大全》I q.15 与《论八十三个不同问题》。"
   }
  ],
  "debates": [

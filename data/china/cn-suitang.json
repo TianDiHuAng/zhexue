@@ -2797,6 +2797,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“五时八教”的体系化程度在智顗、灌顶与后世天台注家之间有发展；本页依《法华玄义》与天台宗研究概述，具体名目须核《大正藏》第33卷。"
+  },
+  {
+   "id": "cn-suitang-jiaoxiang",
+   "term": "教相判释",
+   "term_latin": "classification of the teachings",
+   "definition": "中国佛教特有的方法：把传入的一切经典按其“时机、根机、教理深浅”安排成一个有序的体系，从而确定本宗所依经典的最终地位。天台、华严、三论、法相各有其判释。",
+   "usages": [
+    {
+     "name": "智顗",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以“五时八教”判释一切经教，故《法华》居末而称“纯圆”。"
+    },
+    {
+     "name": "法藏",
+     "id": "cn-suitang-fazang",
+     "usage": "五教十宗：以《华严》为别教一乘。"
+    },
+    {
+     "name": "窥基（法相宗）",
+     "usage": "以“三时教”判释：有、空、中道三时。"
+    }
+   ],
+   "related": [
+    "cn-suitang-wuxing-geju",
+    "cn-suitang-panjiao"
+   ],
+   "example": {
+    "text": "判释的困难是**自我指涉**：本宗所依的经既是判准的来源，又是被判定为最高者——故判释既是合理性论证，也是宗派立场的表达。这一张力是研究中国佛教思想史的关键。",
+    "figure": "智顗",
+    "locator": "《法华玄义》；《华严五教章》"
+   },
+   "sources": [
+    "ws-mohezhiguan",
+    "ws-huayan-jinshizi",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“判教”与“教相判释”在用法上有广狭之别（前者通指分类，后者特指天台、华严的体系化判释）；本页取其狭义，具体名目须核各家原典。"
   }
  ],
  "debates": [
