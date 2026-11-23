@@ -3301,6 +3301,78 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-sanzheng",
+   "term": "三正",
+   "term_latin": "the three first months",
+   "definition": "《大戴礼记·夏小正》一系与汉儒历学的问题：夏正建寅、殷正建丑、周正建子——“三正”指三代各以不同的月份为岁首。汉代公羊家以“三正”说“通三统”，故改历成为政治正当性的一部分。",
+   "usages": [
+    {
+     "name": "《大戴礼记》",
+     "usage": "《夏小正》记夏时的物候与农事，为“夏正”之据。"
+    },
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以“三统”（黑统、白统、赤统）说改制的必然。"
+    },
+    {
+     "name": "刘歆与《三统历》",
+     "usage": "以三统说建立历法的宇宙论基础。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-santong",
+    "cn-lianghan-tianren"
+   ],
+   "example": {
+    "text": "“三正”的要害在于它把**历法**变成**正当性**问题：若每一代须“改正朔”，则改历就是改制的仪式。故汉代的历法之争（太初历、三统历）不只是天文学问题，而是政治哲学问题。",
+    "figure": "《大戴礼记·夏小正》",
+    "locator": "《大戴礼记·夏小正》"
+   },
+   "sources": [
+    "ws-dadai-liji",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-shijiao",
+   "term": "诗教",
+   "term_latin": "the teaching of poetry",
+   "definition": "《韩诗外传》一系所体现的解《诗》方式：引《诗》以证事、以《诗》为修身与论政的根据。它与“以史解诗”（毛诗）不同，重在**取义**而非训诂。",
+   "usages": [
+    {
+     "name": "韩婴",
+     "usage": "《韩诗外传》以“外传”标明其非训诂之作，而是引诗以论事。"
+    },
+    {
+     "name": "孔子",
+     "usage": "“诗可以兴，可以观，可以群，可以怨”。"
+    },
+    {
+     "name": "毛诗（对照）",
+     "usage": "以训诂与史事解诗，与“取义”一路相异。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-weiyandayi"
+   ],
+   "example": {
+    "text": "“外传”的体例值得注意：它先叙一事，再引《诗》以证之——故《诗》在此不是被解释的对象，而是**判断的根据**。这一用法使《诗》成为汉儒论政的权威文本，也埋下了“断章取义”的争议。",
+    "figure": "《韩诗外传》",
+    "locator": "《韩诗外传》卷一"
+   },
+   "sources": [
+    "ws-hanshi-waizhuan",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《韩诗外传》的篇卷（今本十卷）与各条的来源（多取先秦旧说）须核许维遹《韩诗外传集释》；本页述其解《诗》的体例与取向。"
   }
  ],
  "debates": [

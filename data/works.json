@@ -2098,6 +2098,63 @@
    "sort_year": -300
   },
   {
+   "id": "work-zhouli",
+   "title": "《周礼》",
+   "title_original": "周禮",
+   "tradition": "china",
+   "date_display": "传统题周公撰；今多认为成于战国（一说汉初）",
+   "structure": "六篇：天官冢宰、地官司徒、春官宗伯、夏官司马、秋官司寇、冬官司空（冬官亡佚，汉人以《考工记》补）。",
+   "core_arguments": [
+    "以天地四时配六官：官制的数目与职能以宇宙论为根据",
+    "“设官分职，以为民极”：官职的设置以“民之准则”为目的",
+    "《考工记》：工艺的制度化与“材美工巧”的标准"
+   ],
+   "key_points": [
+    {
+     "locator": "《天官冢宰》",
+     "point": "六官的总体架构与“民极”"
+    },
+    {
+     "locator": "《地官司徒》",
+     "point": "教化与土地制度"
+    },
+    {
+     "locator": "《秋官司寇》",
+     "point": "刑罚与狱讼"
+    },
+    {
+     "locator": "《考工记》",
+     "point": "工艺标准（补冬官）"
+    }
+   ],
+   "editions": [
+    "孙诒让《周礼正义》中华书局；《周禮》（四部丛刊本）"
+   ],
+   "related_people": [
+    "cn-xianqin-kongzi",
+    "cn-xianqin-xunzi",
+    "cn-lianghan-liu-xin"
+   ],
+   "misreadings": [
+    {
+     "claim": "《周礼》是周公所作的周代实录",
+     "why": "其成书年代自汉代以来争论不断（周初实录／战国构想／刘歆伪作），今多认为成于战国；其制度与西周金文所见的官制并不吻合。"
+    },
+    {
+     "claim": "它只是一份官制表",
+     "why": "六官以天地四时为根据，是“制度如何符合天道”的系统构想；王安石更以它为变法的经典依据。"
+    }
+   ],
+   "sources": [
+    "ws-zhouli",
+    "ws-yili",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《周礼》的成书年代与真伪（周初实录／战国构想／刘歆伪作）自汉代以来争论不断，是经学史上最大的公案之一；本页述其制度构想与思想影响，不判定其成书年代。",
+   "sort_year": -300
+  },
+  {
    "id": "work-tianxia-pian",
    "title": "《庄子·天下篇》",
    "title_original": "天下篇",
@@ -2782,6 +2839,63 @@
    "sort_year": -250
   },
   {
+   "id": "work-yili",
+   "title": "《仪礼》",
+   "title_original": "儀禮",
+   "tradition": "china",
+   "date_display": "约战国至汉初（今本十七篇）",
+   "structure": "十七篇：士冠礼、士昏礼、士相见礼、乡饮酒礼、乡射礼、燕礼、大射、聘礼、公食大夫礼、觐礼、丧服、士丧礼、既夕、士虞礼、特牲馈食礼、少牢馈食礼、有司彻。",
+   "core_arguments": [
+    "以“仪节”为礼的实体：礼是可演出的规程，不是抽象的原则",
+    "《丧服》一篇以“五服”构建亲属的等级与情感的表达",
+    "礼的“节文”使情感有节制地表达（“节”与“文”并重）"
+   ],
+   "key_points": [
+    {
+     "locator": "《士冠礼》",
+     "point": "成人礼的程序与“三加”"
+    },
+    {
+     "locator": "《丧服》",
+     "point": "五服制度（斩衰至缌麻）"
+    },
+    {
+     "locator": "《乡饮酒礼》",
+     "point": "乡里的秩序与敬老"
+    },
+    {
+     "locator": "《聘礼》",
+     "point": "邦交的仪节"
+    }
+   ],
+   "editions": [
+    "胡培翚《仪礼正义》；杨天宇《仪礼译注》上海古籍出版社；《儀禮》（四部丛刊本）"
+   ],
+   "related_people": [
+    "cn-xianqin-kongzi",
+    "cn-xianqin-xunzi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《仪礼》与《礼记》是同一类书",
+     "why": "《仪礼》记**具体的仪节程序**（做什么、怎么说、站哪里），《礼记》论**礼的意义与原理**；二者一为经，一为记。"
+    },
+    {
+     "claim": "它只是繁琐的仪式记录",
+     "why": "《丧服》一篇构建了亲属的等级与情感表达，是古代社会结构的核心文本；其“五服”影响了此后两千年的法律与礼制。"
+    }
+   ],
+   "sources": [
+    "ws-yili",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -250
+  },
+  {
    "id": "work-yueji",
    "title": "《乐记》",
    "title_original": "樂記",
@@ -2949,6 +3063,63 @@
    "needs_verification": true,
    "pending_notes": "《新语》的真伪与成书年代学界有讨论（有“陆贾所著”与“后人依托”两说），本页取其思想内容而不判定真伪。",
    "sort_year": -195
+  },
+  {
+   "id": "work-hanshi-waizhuan",
+   "title": "《韩诗外传》",
+   "title_original": "韓詩外傳",
+   "tradition": "china",
+   "date_display": "西汉（韩婴）；今本十卷",
+   "structure": "十卷（三百余条）；每条先叙一事或引一说，末引《诗》一句以证之。",
+   "core_arguments": [
+    "以《诗》为判断的根据：先叙事后引诗，故诗不是被解释的对象而是权威",
+    "“外传”之名标示其非训诂之作：重取义而不重章句",
+    "以《诗》论政与修身：汉初儒学的一种实践形态"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "引诗的体例与“取义”"
+    },
+    {
+     "locator": "中卷",
+     "point": "以诗论政（如对君臣关系的评断）"
+    },
+    {
+     "locator": "中卷",
+     "point": "修身与孝道的条目"
+    },
+    {
+     "locator": "全书",
+     "point": "与毛诗训诂路线的对比"
+    }
+   ],
+   "editions": [
+    "许维遹《韩诗外传集释》中华书局；屈守元《韩诗外传笺疏》"
+   ],
+   "related_people": [
+    "cn-xianqin-kongzi",
+    "cn-lianghan-dong-zhongshu",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《诗经》的注释",
+     "why": "“外传”正标示其不是训诂之作：它引诗以证事，属“取义”一路，与《毛诗》的训诂路线相异。"
+    },
+    {
+     "claim": "它的引诗都是原意",
+     "why": "“取义”式的引用常与《诗》的原意有距离（所谓“断章取义”），这一做法在先秦已通行，汉代仍沿用。"
+    }
+   ],
+   "sources": [
+    "ws-hanshi-waizhuan",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《韩诗外传》今本十卷的编次与各条来源（多取先秦旧说）须核许维遹《集释》；其与《韩诗内传》（亡佚）的关系亦待考。",
+   "sort_year": -150
   },
   {
    "id": "work-chunqiu-fanlu",
@@ -3457,6 +3628,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": -55
+  },
+  {
+   "id": "work-dadai-liji",
+   "title": "《大戴礼记》",
+   "title_original": "大戴禮記",
+   "tradition": "china",
+   "date_display": "西汉（戴德辑）；内容跨战国至汉初",
+   "structure": "今存三十九篇（原八十五篇）：含《夏小正》《五帝德》《曾子》十篇、《文王官人》《武王践阼》《保傅》等。",
+   "core_arguments": [
+    "《夏小正》：中国现存最早的物候历，以物候定农时",
+    "《五帝德》：以“德”为帝王谱系的判准",
+    "《曾子》十篇：曾子一系的修身与孝道论"
+   ],
+   "key_points": [
+    {
+     "locator": "《夏小正》",
+     "point": "物候与农时"
+    },
+    {
+     "locator": "《五帝德》",
+     "point": "帝王谱系与德"
+    },
+    {
+     "locator": "《曾子立事》",
+     "point": "曾子一系的修身论"
+    },
+    {
+     "locator": "《保傅》",
+     "point": "太子的教育"
+    }
+   ],
+   "editions": [
+    "王聘珍《大戴礼记解诂》中华书局；方向东《大戴礼记汇校集解》"
+   ],
+   "related_people": [
+    "cn-xianqin-kongzi",
+    "cn-xianqin-xunzi",
+    "cn-lianghan-dong-zhongshu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《大戴礼记》与《礼记》（小戴）内容重复",
+     "why": "二者是同一批论礼文献的两个选本（戴德与戴圣），篇目多不相同；《大戴》独存的《夏小正》《五帝德》等是其特有价值。"
+    },
+    {
+     "claim": "《夏小正》是天文历法专著",
+     "why": "它以**物候**（動植物的时令变化）定农时，是天文物候与农事的混合记录，不纯为历法推步。"
+    }
+   ],
+   "sources": [
+    "ws-dadai-liji",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《大戴礼记》原有八十五篇，今存三十九篇（其余亡佚）；各篇的年代不一，其与《礼记》的关系（同源异选）须核王聘珍《解诂》。",
+   "sort_year": -50
   },
   {
    "id": "work-de-officiis",

@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 922,
+  "entries": 930,
   "by_level": {
-   "L2": 739,
-   "L1": 183
+   "L2": 742,
+   "L1": 188
   },
   "doctrine": {
    "total": 236,
    "detail": 236,
    "auto": 0
   },
-  "needs_verification": 183,
-  "sources": 366,
-  "sources_verified": 366
+  "needs_verification": 188,
+  "sources": 375,
+  "sources_verified": 375
  },
  "units": [
   {
@@ -21,7 +21,7 @@
    "title": "两汉经学与气论",
    "region": "china",
    "philosophers": 17,
-   "concepts": 21,
+   "concepts": 23,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -9"
   },
@@ -66,7 +66,7 @@
    "title": "先秦诸子",
    "region": "china",
    "philosophers": 12,
-   "concepts": 26,
+   "concepts": 28,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -560,6 +560,28 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-sanzheng",
+   "type": "concept",
+   "title": "三正",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-shijiao",
+   "type": "concept",
+   "title": "诗教",
+   "container": "cn-lianghan",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -2936,6 +2958,28 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-liu-guan",
+   "type": "concept",
+   "title": "六官",
+   "container": "cn-xianqin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-yili-sanbai",
+   "type": "concept",
+   "title": "仪礼的三百与三千",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -7504,6 +7548,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-zhouli",
+   "type": "work",
+   "title": "《周礼》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-tianxia-pian",
    "type": "work",
    "title": "《庄子·天下篇》",
@@ -7636,6 +7691,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-yili",
+   "type": "work",
+   "title": "《仪礼》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-yueji",
    "type": "work",
    "title": "《乐记》",
@@ -7665,6 +7731,17 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-hanshi-waizhuan",
+   "type": "work",
+   "title": "《韩诗外传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -7765,6 +7842,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-dadai-liji",
+   "type": "work",
+   "title": "《大戴礼记》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
