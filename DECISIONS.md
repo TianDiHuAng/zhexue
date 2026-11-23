@@ -109,3 +109,10 @@ WORKFLOW.md 记录旧项目经验是"最多 1 个后台代理"，当时受平台
 
 ## D28 来源引用改为工具强制校验
 连续三轮（第63、65、68轮）出现凭记忆引用不存在的来源 id（iep-animals / sep-freud / sep-fichte）。规则写在文档里无效，改为工具强制：新增 `tools/precheck_src.py`，每轮临时脚本开头 `from precheck_src import require; require([...全部引用的来源 id...])`，未通过即抛出 AssertionError，不写盘。已用假 id 实测：退出码 1 并列出未知 id。
+
+## D29 人物 id 同样必须查表
+`related_people` / `influenced` / `usage.id` 里的人物 id 也常凭记忆写，第70轮撞出 3 个错：
+- `gr-20c-moore`（摩尔不在册）
+- `gr-20c-weber`（韦伯不在册）
+- `gr-20c-nietzsche`（尼采在册，但属 `gr-19c-nietzsche`，单元记错）
+规则：写人物 id 前须 `grep` 一遍 `data/*/*.json` 的 philosophers 列表确认**存在且单元正确**。precheck 目前只覆盖来源 id，人物 id 仍靠 R11 兜底（写完才报）。

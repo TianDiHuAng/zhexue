@@ -8228,6 +8228,62 @@
    "sort_year": 1949
   },
   {
+   "id": "work-on-certainty",
+   "title": "《论确实性》",
+   "title_original": "Über Gewißheit（On Certainty）",
+   "tradition": "west",
+   "date_display": "写于1949—1951；1969年刊行（遗著）",
+   "structure": "676 条札记（编号 §1—§676）；围绕摩尔“我确知我有两只手”一类命题展开，论“ hinge 命题”“世界图景”“怀疑的条件”。",
+   "core_arguments": [
+    "有些命题（“我有两只手”“地球已存在很久”）不是被证明的知识，而是我们一切探究的“铰链”（Angel）",
+    "怀疑须有根据，而根据本身不能同时被怀疑；故彻底的普遍怀疑不可能",
+    "世界图景（Weltbild）是被继承的、无根据地被接受的背景，而非命题的总和"
+   ],
+   "key_points": [
+    {
+     "locator": "§1—§65",
+     "point": "对摩尔“我确知”的批评"
+    },
+    {
+     "locator": "§341—§343",
+     "point": "铰链命题"
+    },
+    {
+     "locator": "§94—§110",
+     "point": "怀疑须有根据"
+    },
+    {
+     "locator": "§162—§167",
+     "point": "世界图景与被给予性"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《论确实性》；Über Gewißheit（Suhrkamp）"
+   ],
+   "related_people": [
+    "gr-20c-wittgenstein",
+    "gr-20c-russell",
+    "gr-20c-husserl"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是基础主义：某些命题是一切知识的基础",
+     "why": "维特根斯坦明确说这些“铰链”命题不是被知道的基础真理，而是**不被怀疑的行动框架**——它们没有根据，也不需要根据。"
+    },
+    {
+     "claim": "它主张怀疑主义无法反驳",
+     "why": "它的策略是显示“普遍怀疑”不合语法（无根据的怀疑不是怀疑），而非给出反怀疑主义的证明。"
+    }
+   ],
+   "sources": [
+    "sep-wittgenstein",
+    "book-wittgenstein-pi"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1949
+  },
+  {
    "id": "work-investigations",
    "title": "《哲学研究》",
    "title_original": "Philosophische Untersuchungen",
@@ -8285,6 +8341,58 @@
    "sort_year": 1953
   },
   {
+   "id": "work-visible-invisible",
+   "title": "《可见的与不可见的》",
+   "title_original": "Le Visible et l'invisible",
+   "tradition": "west",
+   "date_display": "写于1959—1961；1964年刊行（遗著）",
+   "structure": "未完成稿：导论（反思与非反思）、哲学拷问、交错—交织（chiasme）、附录工作笔记。",
+   "core_arguments": [
+    "“肉身”（chair）是可见者与观看者的共同质料：我看与被看属于同一交织",
+    "以“交错”（chiasme）说明主体与世界的相互缠绕，取代主客二分",
+    "“野性的存在”（être sauvage）先于一切对象化与反思"
+   ],
+   "key_points": [
+    {
+     "locator": "导论",
+     "point": "对“客观思维”的批评"
+    },
+    {
+     "locator": "第三章 交织",
+     "point": "肉身与交错"
+    },
+    {
+     "locator": "附录工作笔记",
+     "point": "存在与可见性的本体论构想"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《可见的与不可见的》；Gallimard 法文本"
+   ],
+   "related_people": [
+    "gr-20c-merleau-ponty",
+    "gr-20c-husserl",
+    "gr-20c-heidegger"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是《知觉现象学》的续篇",
+     "why": "它从现象学描述转向本体论构想（肉身的存在论），方法与目标都有明显推进。"
+    },
+    {
+     "claim": "“肉身”是指身体",
+     "why": "它是存在论的质料概念（可见者与观看者的共同织物），比“身体”宽泛得多。"
+    }
+   ],
+   "sources": [
+    "sep-merleau-ponty",
+    "sep-husserl"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本书为未完成遗著，附录工作笔记中的构想（“肉身的存在论”）与正文的完成度不一致，引用须注明是其构想而非定论。",
+   "sort_year": 1959
+  },
+  {
    "id": "work-truth-method",
    "title": "《真理与方法》",
    "title_original": "Wahrheit und Methode",
@@ -8338,6 +8446,62 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1960
+  },
+  {
+   "id": "work-critique-dialectical-reason",
+   "title": "《辩证理性批判》",
+   "title_original": "Critique de la raison dialectique",
+   "tradition": "west",
+   "date_display": "1960年（第一卷）；1985年（第二卷遗著）",
+   "structure": "第一卷《理论与实践总体性》：从个体的“实践”（praxis）到“实践—惰性”（pratico-inerte）与群体的诸形式（融合群、誓约群、组织、制度）；第二卷论历史中的总体化。",
+   "core_arguments": [
+    "存在主义与马克思主义不是两套学说，而是同一“具体的人”的两个层次：存在主义是马克思主义内部的“人学”环节",
+    "匮乏（rareté）使实践转化为“实践—惰性”：人的自由活动凝固为物，反过来支配人",
+    "历史的可理解性来自“总体化”（totalisation）的进行，而非既成的总体"
+   ],
+   "key_points": [
+    {
+     "locator": "第一卷 导论",
+     "point": "存在主义与马克思主义的关系"
+    },
+    {
+     "locator": "第一卷 第二章",
+     "point": "实践—惰性与匮乏"
+    },
+    {
+     "locator": "第一卷 第三章",
+     "point": "群体的诸形式"
+    },
+    {
+     "locator": "第二卷",
+     "point": "历史中的总体化"
+    }
+   ],
+   "editions": [
+    "中译参（若有）；Gallimard 法文本"
+   ],
+   "related_people": [
+    "gr-20c-sartre",
+    "gr-19c-marx",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是萨特向马克思主义的“投降”",
+     "why": "它保留了存在主义的“个体实践”作为不可还原的起点，并对马克思主义的“经济主义”提出批评；他也批评苏联马克思主义的僵化。"
+    },
+    {
+     "claim": "“实践—惰性”是物质决定论的表述",
+     "why": "它描述的是人的自由活动凝固为物并反过来支配人这一辩证结构，与机械决定论不同。"
+    }
+   ],
+   "sources": [
+    "sep-sartre",
+    "sep-marx"
+   ],
+   "needs_verification": true,
+   "pending_notes": "第二卷为遗著（1985 年由阿莱特·埃尔凯姆整理），文本状况复杂；本书与《存在与虚无》的关系、以及“存在主义马克思主义”是否成立，学界长期争论。",
    "sort_year": 1960
   },
   {
@@ -8680,6 +8844,118 @@
    "needs_verification": true,
    "pending_notes": "中译本页码与原文措辞未逐一核对（张伯伦论证的具体数字为通行例示）；论述依 IEP 诺齐克词条与罗尔斯研究对照。",
    "sort_year": 1974
+  },
+  {
+   "id": "work-discipline-punish",
+   "title": "《规训与惩罚》",
+   "title_original": "Surveiller et punir: Naissance de la prison",
+   "tradition": "west",
+   "date_display": "1975年",
+   "structure": "四部分：酷刑、惩罚、规训、监狱。以1757年达米安受刑的记载与19世纪监狱规章的对照开篇。",
+   "core_arguments": [
+    "惩罚的方式从“对身体的酷刑”转向“对灵魂的规训”：权力作用于行为、姿态与时间",
+    "规训通过层级监视、规范化裁决与检查（examen）三种技术运作",
+    "全景敞视（panoptique）是规训权力的建筑学模型：可见性本身即是权力"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "达米安的酷刑与公开处决的仪式"
+    },
+    {
+     "locator": "第二部分",
+     "point": "惩罚的“人道化”与权力技术的转变"
+    },
+    {
+     "locator": "第三部分",
+     "point": "三种规训技术（监视、规范化、检查）"
+    },
+    {
+     "locator": "第三部分 第三章",
+     "point": "全景敞视"
+    }
+   ],
+   "editions": [
+    "刘北成、杨远婴译《规训与惩罚》三联书店；Gallimard 法文本"
+   ],
+   "related_people": [
+    "gr-contemp-foucault",
+    "gr-19c-nietzsche",
+    "gr-20c-adorno"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张惩罚的人道化是纯粹的进步",
+     "why": "它恰恰论证“人道化”伴随权力技术的精细化：从折磨身体转向训练灵魂，控制反而更彻底。"
+    },
+    {
+     "claim": "福柯在此提出一套改革方案",
+     "why": "它是权力技术的谱系学分析，不提供规范性的替代方案（这也是哈贝马斯等人批评之处）。"
+    }
+   ],
+   "sources": [
+    "sep-foucault",
+    "iep-foucault"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1975
+  },
+  {
+   "id": "work-history-sexuality",
+   "title": "《性史》第一卷",
+   "title_original": "Histoire de la sexualité I: La volonté de savoir",
+   "tradition": "west",
+   "date_display": "1976年（后两卷1984年）",
+   "structure": "五章：我们是“另类维多利亚人”、性压抑的假设、性的科学、性的装置（dispositif）、死亡的权利与对生命的权力。",
+   "core_arguments": [
+    "“压抑假设”是错的：性不是被压抑，而是被不断地“生产”为话语的对象",
+    "性（sexualité）是近代的“装置”：由医学、教育、人口统计与告解实践共同构成",
+    "权力从“使人死”的主权权力转向“使人活”的生命权力（biopouvoir）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "压抑假设的提出与怀疑"
+    },
+    {
+     "locator": "第二章",
+     "point": "性话语的增殖（告解与科学）"
+    },
+    {
+     "locator": "第四章",
+     "point": "性的装置（dispositif de sexualité）"
+    },
+    {
+     "locator": "第五章",
+     "point": "生命权力与调节"
+    }
+   ],
+   "editions": [
+    "中译参上海人民出版社《性史》；Gallimard 法文本"
+   ],
+   "related_people": [
+    "gr-contemp-foucault",
+    "gr-20c-adorno",
+    "gr-contemp-habermas"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张性是被压抑的",
+     "why": "全书正是要反驳“压抑假设”：近代的特点是性话语的**增殖**，而非沉默。"
+    },
+    {
+     "claim": "“生命权力”只指国家对人口的管理",
+     "why": "它包括规训（对个体身体）与调节（对人口）两极，二者结合才是生命权力。"
+    }
+   ],
+   "sources": [
+    "sep-foucault",
+    "iep-foucault"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1976
   },
   {
    "id": "work-time-narrative",

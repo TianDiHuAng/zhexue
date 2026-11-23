@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 726,
+  "entries": 731,
   "by_level": {
-   "L2": 614,
-   "L1": 112
+   "L2": 617,
+   "L1": 114
   },
   "doctrine": {
    "total": 219,
    "detail": 219,
    "auto": 0
   },
-  "needs_verification": 112,
+  "needs_verification": 114,
   "sources": 322,
   "sources_verified": 318
  },
@@ -7394,6 +7394,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-on-certainty",
+   "type": "work",
+   "title": "《论确实性》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-investigations",
    "type": "work",
    "title": "《哲学研究》",
@@ -7405,6 +7416,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-visible-invisible",
+   "type": "work",
+   "title": "《可见的与不可见的》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-truth-method",
    "type": "work",
    "title": "《真理与方法》",
@@ -7413,6 +7435,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-critique-dialectical-reason",
+   "type": "work",
+   "title": "《辩证理性批判》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -7479,6 +7512,28 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-discipline-punish",
+   "type": "work",
+   "title": "《规训与惩罚》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-history-sexuality",
+   "type": "work",
+   "title": "《性史》第一卷",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
