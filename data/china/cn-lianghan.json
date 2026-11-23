@@ -1715,6 +1715,145 @@
      "note": "宾客集体编纂，非一人手笔"
     }
    ]
+  },
+  {
+   "id": "cn-lianghan-lu-jia",
+   "name": "陆贾",
+   "latin": "Lu Jia",
+   "birth_year": -240,
+   "death_year": -170,
+   "birth_display": "约前240年",
+   "death_display": "约前170年",
+   "birth_note": "据《史记·郦生陆贾列传》：楚人，以客从刘邦定天下。",
+   "death_note": "约前170年卒（具体年不可考）。",
+   "era": "西汉初。陆贾以《新语》回应刘邦“乃公居马上而得之，安事诗书”的质疑：治天下须“逆取顺守”，以仁义与无为安民；他是汉初黄老与儒学交汇处的关键人物。",
+   "school": "汉初黄老与儒学（杂糅）",
+   "core_questions": [
+    "取天下与守天下是否同一套办法？",
+    "秦亡的教训是什么？",
+    "无为与仁义能否并行？"
+   ],
+   "arguments": [
+    {
+     "claim": "逆取顺守：取天下可用力，守天下须以仁义",
+     "premises": [
+      "秦以刑罚取天下，又以刑罚守之，故二世而亡。",
+      "民生已困，须以宽简安之。"
+     ],
+     "inference": "若守天下所需与取天下不同，则秦之亡在于以同一种手段应对两个阶段；故守天下须以仁义与宽简。",
+     "conclusion": "“逆取顺守”：武力可取天下，仁义方可爱天下。",
+     "kind": "原文"
+    },
+    {
+     "claim": "无为乃“无不为”：以不扰民为治术",
+     "premises": [
+      "秦法烦苛，民不堪命。",
+      "宽简则民自安、财物自足。"
+     ],
+     "inference": "若民困于烦苛，则治国之要在于减省政令与徭役，使民自为——此即汉初“无为”的实践含义。",
+     "conclusion": "无为是减省干预的治术，与仁义并不冲突，二者共同指向安民。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《新语》十二篇",
+     "edition": "《新語》（四部叢刊本）；王利器《新语校注》中华书局",
+     "note": "《道基》《术事》《辅政》《无为》《辨惑》等"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "刘邦与汉初政局",
+     "id": "",
+     "note": "黄老无为的政治背景"
+    },
+    {
+     "name": "荀子与儒家仁义",
+     "id": null,
+     "note": "仁义与礼制的框架"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "贾谊",
+     "id": "cn-lianghan-jia-yi",
+     "note": "承其“守天下以仁义”的思路而更重礼制"
+    },
+    {
+     "name": "汉初黄老之治",
+     "id": "",
+     "note": "文景之治的政策取向"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "汉初法家与酷吏",
+     "view": "宽简则法令松弛，豪强得以横行。",
+     "response": "陆贾一系的回应是：秦法之弊在烦苛，不在有法；宽简不等于无法，而是法与民休息相配合。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-xinyu-lujia",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "陆贾只是纵横家",
+     "why": "《新语》有明确的政治哲学主张（逆取顺守、无为安民），非仅游说之术。"
+    },
+    {
+     "claim": "《新语》是纯儒家著作",
+     "why": "它杂糅黄老与儒术，其“无为”来自黄老，其“仁义”来自儒家。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>陆贾：逆取顺守与无为安民</text><defs><marker id='aLJ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>秦以刑罚取天下又以刑罚守之</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故二世而亡</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故守天下须以仁义</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故治国以减省干预为要</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLJ)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLJ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "陆贾：逆取顺守与无为安民（示意图）",
+   "sources": [
+    "ws-xinyu-lujia",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "陆贾以“逆取顺守”回应汉初的政治问题：秦以刑罚取天下又以刑罚守之，故二世而亡；守天下所需与取天下不同，须以仁义与宽简安民。他又以“无为”为治术——减省政令与徭役，使民自为，此即汉初黄老之治的实践含义。其《新语》是汉初黄老与儒学交汇的关键文本。",
+    "system": [
+     {
+      "name": "逆取顺守",
+      "content": "武力可取天下，仁义方可守天下；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "无为安民",
+      "content": "减省干预，与民休息；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "秦亡之鉴",
+      "content": "以同一手段应对取与守两阶段是秦亡之因；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "杂糅黄老与儒",
+      "content": "无为来自黄老，仁义来自儒家；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "楚地与长安（约前240—约前170）",
+      "change": "从刘邦定天下；出使南越；吕后时病免；文帝时复起；著《新语》十二篇。"
+     }
+    ],
+    "reception": "《新语》是汉初政治思想的代表作；其“逆取顺守”成为后世论秦亡的标准框架；汉初黄老之治的政策取向与其说相合。"
+   },
+   "works_detail": [
+    {
+     "title": "《新语》",
+     "structure": "十二篇；《道基》《术事》《辅政》《无为》《辨惑》《慎微》等。",
+     "core_thesis": "逆取顺守；无为安民；这是该书的核心命题。",
+     "editions": "《新語》（四部叢刊本）；王利器《新语校注》中华书局",
+     "note": "汉初黄老与儒术交汇的文本"
+    }
+   ]
   }
  ],
  "concepts": [

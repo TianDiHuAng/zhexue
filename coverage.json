@@ -1,38 +1,38 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 597,
+  "entries": 606,
   "by_level": {
-   "L2": 511,
-   "L1": 86
+   "L2": 519,
+   "L1": 87
   },
   "doctrine": {
-   "total": 211,
-   "detail": 211,
+   "total": 215,
+   "detail": 215,
    "auto": 0
   },
-  "needs_verification": 86,
-  "sources": 311,
-  "sources_verified": 307
+  "needs_verification": 87,
+  "sources": 316,
+  "sources_verified": 312
  },
  "units": [
   {
    "unit_id": "cn-lianghan",
    "title": "两汉经学与气论",
    "region": "china",
-   "philosophers": 11,
+   "philosophers": 12,
    "concepts": 11,
    "debates": 4,
-   "philosophers_slot": "8 上限，余 -3"
+   "philosophers_slot": "8 上限，余 -4"
   },
   {
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 13,
+   "philosophers": 15,
    "concepts": 12,
    "debates": 4,
-   "philosophers_slot": "8 上限，余 -5"
+   "philosophers_slot": "8 上限，余 -7"
   },
   {
    "unit_id": "cn-songming",
@@ -56,10 +56,10 @@
    "unit_id": "cn-weijin",
    "title": "魏晋玄学",
    "region": "china",
-   "philosophers": 12,
+   "philosophers": 13,
    "concepts": 13,
    "debates": 4,
-   "philosophers_slot": "8 上限，余 -4"
+   "philosophers_slot": "8 上限，余 -5"
   },
   {
    "unit_id": "cn-xianqin",
@@ -263,6 +263,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-lu-jia",
+   "type": "philosopher",
+   "title": "陆贾",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -566,6 +577,28 @@
    "id": "cn-qingmod-ruan-yuan",
    "type": "philosopher",
    "title": "阮元",
+   "container": "cn-qingmod",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-tang-zhen",
+   "type": "philosopher",
+   "title": "唐甄",
+   "container": "cn-qingmod",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-zhang-xuecheng",
+   "type": "philosopher",
+   "title": "章学诚",
    "container": "cn-qingmod",
    "level": "L2",
    "sources": 2,
@@ -1564,6 +1597,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-weijin-liu-shao",
+   "type": "philosopher",
+   "title": "刘劭",
+   "container": "cn-weijin",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-weijin-guiwu",
    "type": "concept",
    "title": "贵无",
@@ -1698,7 +1742,7 @@
   {
    "id": "cn-weijin-xuanxue",
    "type": "concept",
-   "title": "玄学",
+   "title": "玄（三玄与玄学）",
    "container": "cn-weijin",
    "level": "L2",
    "sources": 3,
@@ -5238,6 +5282,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-xinyu",
+   "type": "work",
+   "title": "《新语》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-huainanzi",
    "type": "work",
    "title": "《淮南子》",
@@ -5300,6 +5355,17 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-renwuzhi",
+   "type": "work",
+   "title": "《人物志》",
+   "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -5601,6 +5667,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-mingru-xuean",
+   "type": "work",
+   "title": "《明儒学案》",
+   "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-ethics-spinoza",
    "type": "work",
    "title": "《伦理学》",
@@ -5627,6 +5704,17 @@
    "type": "work",
    "title": "《人类理解论》",
    "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-qianshu",
+   "type": "work",
+   "title": "《潜书》",
+   "container": "china",
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
@@ -5737,6 +5825,17 @@
    "type": "work",
    "title": "《论语言的起源》",
    "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-wenshi-tongyi",
+   "type": "work",
+   "title": "《文史通义》",
+   "container": "china",
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,

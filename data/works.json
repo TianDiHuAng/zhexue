@@ -1307,6 +1307,61 @@
    "sort_year": -250
   },
   {
+   "id": "work-xinyu",
+   "title": "《新语》",
+   "title_original": "新語",
+   "tradition": "china",
+   "date_display": "约前195年",
+   "structure": "十二篇：《道基》《术事》《辅政》《无为》《辨惑》《慎微》《资质》《至德》《怀虑》《本行》《明诫》《思务》。",
+   "core_arguments": [
+    "逆取顺守：守天下须以仁义",
+    "无为安民：减省政令与徭役",
+    "秦亡之鉴：以同一手段应对取与守"
+   ],
+   "key_points": [
+    {
+     "locator": "《道基》",
+     "point": "仁义为道之基"
+    },
+    {
+     "locator": "《无为》",
+     "point": "无为即不扰民"
+    },
+    {
+     "locator": "《辅政》",
+     "point": "任贤与去佞"
+    },
+    {
+     "locator": "《明诫》",
+     "point": "以秦为鉴"
+    }
+   ],
+   "editions": [
+    "《新語》（四部叢刊本）；王利器《新语校注》中华书局"
+   ],
+   "related_people": [
+    "cn-lianghan-lu-jia",
+    "cn-lianghan-jia-yi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是纯儒家著作",
+     "why": "它杂糅黄老（无为）与儒术（仁义），是汉初思想的典型混合。"
+    },
+    {
+     "claim": "它是伪书",
+     "why": "其成书有争议，但学界多认为保存了汉初思想的面貌，非后世伪托。"
+    }
+   ],
+   "sources": [
+    "ws-xinyu-lujia",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《新语》的真伪与成书年代学界有讨论（有“陆贾所著”与“后人依托”两说），本页取其思想内容而不判定真伪。",
+   "sort_year": -195
+  },
+  {
    "id": "work-huainanzi",
    "title": "《淮南子》",
    "title_original": "淮南子（淮南鴻烈）",
@@ -1644,6 +1699,61 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 175
+  },
+  {
+   "id": "work-renwuzhi",
+   "title": "《人物志》",
+   "title_original": "人物志",
+   "tradition": "china",
+   "date_display": "约240年",
+   "structure": "三卷十二篇：《九征》《体别》《流业》《材理》《材能》《利害》《接识》《英雄》《八观》《七缪》《效难》《释争》。",
+   "core_arguments": [
+    "才性有九种表征，由外可识内",
+    "识人须以“八观”多重观察，防“七缪”的系统偏差",
+    "按才性分十二流以定任用"
+   ],
+   "key_points": [
+    {
+     "locator": "《九征》",
+     "point": "神、精、筋、骨、气、色、仪、容、言九征"
+    },
+    {
+     "locator": "《八观》",
+     "point": "多重观察的方法"
+    },
+    {
+     "locator": "《七缪》",
+     "point": "品评的七种偏差"
+    },
+    {
+     "locator": "《释争》",
+     "point": "以不争为德"
+    }
+   ],
+   "editions": [
+    "《人物志》（四部叢刊本）；中华书局《人物志校笺》"
+   ],
+   "related_people": [
+    "cn-weijin-liu-shao",
+    "cn-xianqin-gongsunlong"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是相术之书",
+     "why": "它以才性为纲、以制度性任用为归，有系统分类与方法，不同于相术。"
+    },
+    {
+     "claim": "它主张以貌取人",
+     "why": "“九征”是才性的表征系统，包含神、气、言等，不只是相貌。"
+    }
+   ],
+   "sources": [
+    "ws-renwuzhi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 240
   },
   {
    "id": "work-ennreads",
@@ -3167,6 +3277,62 @@
    "sort_year": 1670
   },
   {
+   "id": "work-mingru-xuean",
+   "title": "《明儒学案》",
+   "title_original": "明儒學案",
+   "tradition": "china",
+   "date_display": "约1676年",
+   "structure": "六十二卷；按学派分案（崇仁、白沙、河东、姚江、泰州、甘泉等），每案前有总论，后列学者小传与语录。",
+   "core_arguments": [
+    "以“学案”体呈现学派传承与宗旨，非简单的语录汇编",
+    "每案先立“宗旨”，再以语录证之",
+    "学术史须见其“deformation”与流变，不作孤立评点"
+   ],
+   "key_points": [
+    {
+     "locator": "《姚江学案》",
+     "point": "王阳明一系的宗旨"
+    },
+    {
+     "locator": "《泰州学案》",
+     "point": "王艮一系的展开"
+    },
+    {
+     "locator": "《白沙学案》",
+     "point": "陈献章的自得之学"
+    },
+    {
+     "locator": "凡例",
+     "point": "学案体的编纂原则"
+    }
+   ],
+   "editions": [
+    "中华书局《明儒学案》点校本；《黄宗羲全集》浙江古籍出版社"
+   ],
+   "related_people": [
+    "cn-qingmod-huang-zongxi",
+    "cn-songming-wang-yangming",
+    "cn-songming-chen-xianzhang"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是语录汇编",
+     "why": "它有明确的编纂原则（每案立宗旨、列小传、附语录），是学术史著作。"
+    },
+    {
+     "claim": "黄宗羲对各家持平无所偏",
+     "why": "他有自己的判准（师承与宗旨），评价带有立场，非中立编纂。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1676
+  },
+  {
    "id": "work-ethics-spinoza",
    "title": "《伦理学》",
    "title_original": "Ethica ordine geometrico demonstrata",
@@ -3330,6 +3496,61 @@
    "sources": [
     "emt-locke",
     "sep-locke"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1690
+  },
+  {
+   "id": "work-qianshu",
+   "title": "《潜书》",
+   "title_original": "潛書",
+   "tradition": "china",
+   "date_display": "约1690年",
+   "structure": "上下篇九十七目；《室语》《抑尊》《富民》《尚治》《明鉴》《大命》等。",
+   "core_arguments": [
+    "“凡为帝王者皆贼也”：正当性不能来自暴力的成功",
+    "众为邦本：国以民为本，政治以富民为务",
+    "抑尊：君主当自抑其尊"
+   ],
+   "key_points": [
+    {
+     "locator": "《室语》",
+     "point": "“自秦以来，凡为帝王者皆贼也”"
+    },
+    {
+     "locator": "《抑尊》",
+     "point": "君主当自抑"
+    },
+    {
+     "locator": "《富民》",
+     "point": "抑兼并、轻赋役"
+    },
+    {
+     "locator": "《尚治》",
+     "point": "治乱系于民之贫富"
+    }
+   ],
+   "editions": [
+    "《潛書》；中华书局《潜书注》"
+   ],
+   "related_people": [
+    "cn-qingmod-tang-zhen",
+    "cn-qingmod-huang-zongxi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张民主制度",
+     "why": "它主张民本与抑尊，未提出代议或选举制度；读作民主是过度推演。"
+    },
+    {
+     "claim": "它在清代广为流传",
+     "why": "其书长期隐没，晚清才被表彰。"
+    }
+   ],
+   "sources": [
+    "ws-qianshu",
+    "sep-qing-philosophy"
    ],
    "needs_verification": false,
    "pending_notes": "",
@@ -3900,6 +4121,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1772
+  },
+  {
+   "id": "work-wenshi-tongyi",
+   "title": "《文史通义》",
+   "title_original": "文史通義",
+   "tradition": "china",
+   "date_display": "约1780—1800年（身后刊行）",
+   "structure": "内篇五卷、外篇三卷；《易教》《书教》《诗教》《原道》《原学》《史德》《言公》《浙东学术》等。",
+   "core_arguments": [
+    "六经皆史：经典是史事记载，须以史学方法处理",
+    "道不离器：道在事物制度中显现",
+    "史意：史学的灵魂是明道，非史料堆积"
+   ],
+   "key_points": [
+    {
+     "locator": "《易教上》",
+     "point": "“六经皆史”的提出"
+    },
+    {
+     "locator": "《原道》",
+     "point": "道不离器"
+    },
+    {
+     "locator": "《史德》",
+     "point": "史家的心术与客观"
+    },
+    {
+     "locator": "《言公》",
+     "point": "学术为天下之公器"
+    }
+   ],
+   "editions": [
+    "叶瑛《文史通义校注》中华书局"
+   ],
+   "related_people": [
+    "cn-qingmod-zhang-xuecheng",
+    "cn-qingmod-huang-zongxi",
+    "cn-qingmod-dai-zhen"
+   ],
+   "misreadings": [
+    {
+     "claim": "“六经皆史”是贬低经典",
+     "why": "它给经典一个历史的位置并提升史学的地位，不是否定其价值。"
+    },
+    {
+     "claim": "章学诚是考据学家",
+     "why": "他批评乾嘉考据“碎而不通”，主张以“史意”贯通。"
+    }
+   ],
+   "sources": [
+    "ws-wenshi-tongyi",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1780
   },
   {
    "id": "work-krv",

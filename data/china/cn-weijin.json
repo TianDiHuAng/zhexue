@@ -1934,6 +1934,145 @@
      "note": "原文见《弘明集》，非单行本"
     }
    ]
+  },
+  {
+   "id": "cn-weijin-liu-shao",
+   "name": "刘劭",
+   "latin": "Liu Shao",
+   "birth_year": 180,
+   "death_year": 250,
+   "birth_display": "约180年",
+   "death_display": "约250年",
+   "birth_note": "据《三国志·魏书》：广平邯郸人，魏时官至散骑常侍。",
+   "death_note": "约250年卒（具体年不可考）。",
+   "era": "三国魏。刘劭著《人物志》，系统讨论如何识别与任用人才：以“才性”为纲，分人为十二流，论“九征”“八观”“七缪”，是中国最早的系统人才学与人物品鉴理论著作。",
+   "school": "名家／形名学（人物品鉴）",
+   "core_questions": [
+    "如何识别人才？",
+    "才与性是什么关系？",
+    "品评人物易犯哪些错误？"
+   ],
+   "arguments": [
+    {
+     "claim": "以“九征”观人：内在的才性必显现于外形",
+     "premises": [
+      "人的才性（神、精、筋、骨、气、色、仪、容、言）各有其表征。",
+      "内在的质性必通过外在征象显露。"
+     ],
+     "inference": "若才性必显于征象，则观其征即可知其性；故识人是一门可学习的技艺，而非神秘直觉。",
+     "conclusion": "识人须观“九征”，由外以知内。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“八观”“七缪”：品评须防的系统性偏差",
+     "premises": [
+      "人有掩饰与迎合之术，故初见常不可靠。",
+      "评价者自身的好恶会造成偏差（“七缪”如“察誉有偏”“接物有隘”）。"
+     ],
+     "inference": "若品评必有系统性偏差，则须以多重观察（八观）与对偏差的自觉（七缪）来校正。",
+     "conclusion": "识人须以多重观察与自觉的偏差校正为方法。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《人物志》三卷十二篇",
+     "edition": "《人物志》（四部叢刊本）；中译参中华书局《人物志校笺》",
+     "note": "《九征》《体别》《流业》《材理》《材能》《八观》《七缪》等"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "汉末魏初的“人物品题”风气",
+     "id": "",
+     "note": "乡论与九品中正制的背景"
+    },
+    {
+     "name": "形名之学与名家",
+     "id": null,
+     "note": "名实相应的传统"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "九品中正制与魏晋才性四本之辩",
+     "id": "cn-weijin-ouyang-jian",
+     "note": "才性同异合的讨论"
+    },
+    {
+     "name": "后世人才学与人物志研究",
+     "id": "",
+     "note": "识人与用人的方法论"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "玄学清谈一系",
+     "view": "以形征论才性仍属“形名”层次，未及“无”与“自然”的本体问题。",
+     "response": "刘劭一系的回应是：识人用人之学自有其领域，不必以本体论为标准。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-renwuzhi",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《人物志》只是相术之书",
+     "why": "它以才性为纲、以制度性任用为归，有系统的分类与方法，不同于相术。"
+    },
+    {
+     "claim": "刘劭属于玄学一派",
+     "why": "他属形名／名家一路，与正始玄学的“贵无”议题不同。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>刘劭：九征、八观与七缪</text><defs><marker id='aLS' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>才性必显于征象</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故观征可知性</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故识人可学</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故须防品评的系统偏差</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLS)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLS)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "刘劭：九征、八观与七缪（示意图）",
+   "sources": [
+    "ws-renwuzhi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "刘劭以“九征”为识人之纲：人的才性（神、精、筋、骨、气、色、仪、容、言）各有表征，内在质性必显于外，故观征可知性，识人是可学的技艺。他又以“八观”与“七缪”指出品评的系统性偏差（如“察誉有偏”“接物有隘”），主张以多重观察与偏差自觉来校正。其《人物志》是中国最早的系统人才学著作。",
+    "system": [
+     {
+      "name": "九征",
+      "content": "才性有九种表征；由外以知内；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "八观",
+      "content": "多重观察的方法，防单一视角之误；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "七缪",
+      "content": "品评的七种系统性偏差，须自觉校正；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "十二流",
+      "content": "按才性分人为十二类，以定任用；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "邯郸与洛阳（约180—约250）",
+      "change": "广平邯郸人；魏文帝时官至散骑常侍；受诏集五经群书作《皇览》；著《人物志》。"
+     }
+    ],
+    "reception": "《人物志》是汉魏人物品题风气的理论总结；其才性分类与九品中正制的实践相关；现代管理学与人才学常援引其方法。"
+   },
+   "works_detail": [
+    {
+     "title": "《人物志》",
+     "structure": "三卷十二篇；《九征》《体别》《流业》《材理》《材能》《利害》《接识》《英雄》《八观》《七缪》《效难》《释争》。",
+     "core_thesis": "九征；八观；七缪；这是该书的核心命题。",
+     "editions": "《人物志》（四部叢刊本）；中华书局《人物志校笺》",
+     "note": "中国最早的系统人才学著作"
+    }
+   ]
   }
  ],
  "concepts": [

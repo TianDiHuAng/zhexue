@@ -2157,6 +2157,279 @@
      "note": "清代以训诂做哲学的典范"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-tang-zhen",
+   "name": "唐甄",
+   "latin": "Tang Zhen",
+   "birth_year": 1630,
+   "death_year": 1704,
+   "birth_display": "1630年",
+   "death_display": "1704年",
+   "birth_note": "据《清史稿》与《潜书》：生于四川达州。",
+   "death_note": "1704年卒于江苏。",
+   "era": "清初。唐甄以《潜书》批判君主专制：“自秦以来，凡为帝王者皆贼也”，主张“众为邦本”与“富民”之政；其书在清代长期隐没，晚清始受重视。",
+   "school": "清初政治批判（儒家）",
+   "core_questions": [
+    "君主专制是否正当？",
+    "治国以何为本？",
+    "贫富与治乱的关系如何？"
+   ],
+   "arguments": [
+    {
+     "claim": "“凡为帝王者皆贼也”：以暴力夺取天下者即是盗贼",
+     "premises": [
+      "历代开国之君皆以杀戮得天下。",
+      "杀一人而取其财者为贼，杀天下之人而取其国者岂非大贼？"
+     ],
+     "inference": "若以“杀掠取财”定义盗贼，则开国之君的行为在性质上与之相同，只是规模更大；故不能以成功为其正当性。",
+     "conclusion": "君主的正当性不能来自暴力的成功；须以是否利民为判准。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“众为邦本”：国以民为本，政以富民为务",
+     "premises": [
+      "国之所以为国者，以有民。",
+      "民贫则乱，民富则安。"
+     ],
+     "inference": "若国之存在系于民，则政治的首要任务是使民富足；故当抑兼并、轻赋役。",
+     "conclusion": "政治以富民为本，富民的实质是抑制兼并。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《潜书》上下篇",
+     "edition": "《潛書》；中华书局《潜书注》",
+     "note": "《室语》《抑尊》《富民》《尚治》等"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "孟子与黄宗羲",
+     "id": "cn-qingmod-huang-zongxi",
+     "note": "民本与“天下为主”的批判传统"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "晚清与近代的批判思潮",
+     "id": "",
+     "note": "君主批判的思想资源"
+    },
+    {
+     "name": "现代民本与民主的讨论",
+     "id": "",
+     "note": "“众为邦本”的定位问题"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "清代正统学者",
+     "view": "以“帝王皆贼”立论过激，且其书杂糅释道，不入醇儒。",
+     "response": "唐甄一系的回应是：批判的激烈程度不应成为回避事实的理由；其立场仍是儒家的民本。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-qianshu",
+      "sep-qing-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "唐甄主张民主制度",
+     "why": "他主张民本与抑尊，未提出代议或选举制度；把“众为邦本”直接读作民主是过度推演。"
+    },
+    {
+     "claim": "《潜书》在清代广为流传",
+     "why": "其书长期隐没，晚清才被重新发现与表彰。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>唐甄：帝王皆贼与众为邦本</text><defs><marker id='aTZ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>开国之君以杀戮得天下</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>此与盗贼同类而规模更大</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故正当性不能来自暴力成功</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故政治以富民为本</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aTZ)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aTZ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "唐甄：君主批判与“众为邦本”（示意图）",
+   "sources": [
+    "ws-qianshu",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "唐甄以“凡为帝王者皆贼也”批判君主专制：若以“杀掠取财”定义盗贼，则开国之君的行为在性质上与之相同，只是规模更大，故不能以成功为其正当性。他又以“众为邦本”主张政治以富民为务——国以民为本，民贫则乱，故当抑兼并、轻赋役。其《潜书》在清代长期隐没，晚清始受重视。",
+    "system": [
+     {
+      "name": "帝王皆贼",
+      "content": "以暴力得天下者与盗贼同类，正当性不能来自成功。"
+     },
+     {
+      "name": "众为邦本",
+      "content": "国以民为本，政治以富民为务；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "抑尊",
+      "content": "君主当自抑其尊，不以己意凌驾于公议；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "富民",
+      "content": "抑兼并、轻赋役是富民之实；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "达州与吴江（1630—1704）",
+      "change": "四川达州人；明末避乱；清初任山西长子知县，后去官；流寓江南，著《潜书》。"
+     }
+    ],
+    "reception": "其君主批判与黄宗羲《明夷待访录》并为清初政治批判的代表；晚清经梁启超等表彰后受重视；“众为邦本”与近代民主的关系是持续讨论的问题。"
+   },
+   "works_detail": [
+    {
+     "title": "《潜书》",
+     "structure": "上下篇九十七目；《室语》《抑尊》《富民》《尚治》《明鉴》等。",
+     "core_thesis": "帝王皆贼；众为邦本；富民；这是该书的核心命题。",
+     "editions": "《潛書》；中华书局《潜书注》",
+     "note": "清初政治批判的代表作"
+    }
+   ]
+  },
+  {
+   "id": "cn-qingmod-zhang-xuecheng",
+   "name": "章学诚",
+   "latin": "Zhang Xuecheng",
+   "birth_year": 1738,
+   "death_year": 1801,
+   "birth_display": "1738年",
+   "death_display": "1801年",
+   "birth_note": "据《清史稿》：生于浙江会稽（今绍兴）。",
+   "death_note": "1801年卒于会稽。",
+   "era": "清中期。章学诚以《文史通义》立“六经皆史”之说：经典是三代之史事记载，非超越历史的绝对教条；他主张“道不离器”，史学的任务是“明道”而非饾饤考据，与乾嘉主流学风分歧明显。",
+   "school": "浙东史学（史学理论）",
+   "core_questions": [
+    "六经是什么？",
+    "史学与义理的关系如何？",
+    "道在哪里？"
+   ],
+   "arguments": [
+    {
+     "claim": "六经皆史：经典是史事记载，不是超历史的教条",
+     "premises": [
+      "六经所记皆三代之典章政事。",
+      "若把六经当作绝对的“经”，则其历史性被遮蔽。"
+     ],
+     "inference": "若六经的内容是史事与制度，则理解它须以史学方法（知人论世）而非仅以训诂；故“六经皆史”是方法论的命题。",
+     "conclusion": "六经皆史，故经学须以史学方法处理，义理在史事之中。",
+     "kind": "原文"
+    },
+    {
+     "claim": "道不离器：道在具体的事物与制度中显现",
+     "premises": [
+      "道不是悬空的理，而在器（事物、制度）中。",
+      "离器言道，则道成为空名。"
+     ],
+     "inference": "若道在器中，则“明道”须通过研究具体的历史与制度，而非空谈性命。",
+     "conclusion": "道不离器，故史学即是明道之学。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《文史通义》《校雠通义》",
+     "edition": "《文史通義》；叶瑛《文史通义校注》中华书局",
+     "note": "《易教》《书教》《诗教》《原道》《原学》《史德》《言公》等"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "浙东史学（黄宗羲、万斯同）",
+     "id": "cn-qingmod-huang-zongxi",
+     "note": "重史学与文献的传统"
+    },
+    {
+     "name": "戴震与考据学",
+     "id": "cn-qingmod-dai-zhen",
+     "note": "其批评与对话的对象"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "近代史学（章太炎、胡适）",
+     "id": "",
+     "note": "“六经皆史”的接受与转化"
+    },
+    {
+     "name": "史学理论中的“史意”",
+     "id": "",
+     "note": "史料与史识的关系"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "戴震与乾嘉考据学者",
+     "view": "以史学取代经学，则经典的规范 authority 被削弱；且“道不离器”易流于经验主义。",
+     "response": "章学诚一系的回应是：正因道在器中，才须以严格的史学研究明道；考据若无“史意”则碎而不通。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-wenshi-tongyi",
+      "sep-qing-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "章学诚是考据学家",
+     "why": "他恰恰批评乾嘉考据“碎而不通”，主张以“史意”贯通。"
+    },
+    {
+     "claim": "“六经皆史”是贬低经典",
+     "why": "它是提升史学的地位，并给经典一个历史的位置，不是否定其价值。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>章学诚：六经皆史与道不离器</text><defs><marker id='aZX' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>六经所记皆三代典章</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故理解须以史学方法</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故道不离器，义理在史事中</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故史学即明道之学</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aZX)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aZX)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "章学诚：六经皆史与道不离器（示意图）",
+   "sources": [
+    "ws-wenshi-tongyi",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "章学诚以“六经皆史”立说：六经所记皆三代之典章政事，故理解它须以史学方法（知人论世）而非仅训诂；义理在史事之中。他又以“道不离器”说明道在具体事物与制度中显现，离器言道则道为空名。故史学的任务是“明道”，而乾嘉考据若无“史意”则碎而不通。",
+    "system": [
+     {
+      "name": "六经皆史",
+      "content": "经典是史事记载；经学须以史学方法处理；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "道不离器",
+      "content": "道在事物制度中显现，非悬空之理；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "史意",
+      "content": "史学的灵魂是“明道”的见识，非史料堆积。"
+     },
+     {
+      "name": "言公",
+      "content": "学术为天下之公器，非个人之私名（《言公》）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "会稽与北京（1738—1801）",
+      "change": "浙江会稽人；乾隆四十三年进士；官国子监典籍；一生困顿，著述多身后刊行；《文史通义》为其代表作。"
+     }
+    ],
+    "reception": "其“六经皆史”经章太炎、胡适等接受与转化，成为近代史学的重要命题；对乾嘉考据的批评在方法论上影响深远；《校雠通义》为目录学名著。"
+   },
+   "works_detail": [
+    {
+     "title": "《文史通义》",
+     "structure": "内篇五卷、外篇三卷；《易教》《原道》《原学》《史德》《言公》《浙东学术》等。",
+     "core_thesis": "六经皆史；道不离器；史意；这是该书的核心命题。",
+     "editions": "叶瑛《文史通义校注》中华书局",
+     "note": "清代史学理论的代表作"
+    }
+   ]
   }
  ],
  "concepts": [
