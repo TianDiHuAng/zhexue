@@ -7828,6 +7828,114 @@
    "sort_year": 1902
   },
   {
+   "id": "work-principia-ethica",
+   "title": "《伦理学原理》",
+   "title_original": "Principia Ethica",
+   "tradition": "west",
+   "date_display": "1903年",
+   "structure": "六章：伦理学的主题、自然主义伦理学、快乐主义、形而上学的伦理学、关于行为的伦理学、理想事物。",
+   "core_arguments": [
+    "善是不可定义的简单性质（开放问题论证）",
+    "以自然性质定义善是“自然主义谬误”",
+    "内在价值不只在于快乐，还包括对美好事物的欣赏与个人情感"
+   ],
+   "key_points": [
+    {
+     "locator": "第1章 §1—§15",
+     "point": "善的不可定义与开放问题论证"
+    },
+    {
+     "locator": "第2章",
+     "point": "自然主义伦理学与自然主义谬误"
+    },
+    {
+     "locator": "第6章",
+     "point": "理想事物（审美欣赏与情感）"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆（若有）；Cambridge 版（Baldwin 编）"
+   ],
+   "related_people": [
+    "gr-20c-moore",
+    "gr-modern-hume",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "“自然主义谬误”证明一切自然主义伦理学都是错的",
+     "why": "它否定的是**以自然性质定义善**的做法；自然事实与伦理判断之间是否有推论关系，是另一问题（20世纪后期重新讨论）。"
+    },
+    {
+     "claim": "摩尔是直觉主义者故反对论证",
+     "why": "他大量使用论证（尤其开放问题论证）来确立善的不可定义；直觉只用于把握简单性质。"
+    }
+   ],
+   "sources": [
+    "sep-moore",
+    "iep-moore"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1903
+  },
+  {
+   "id": "work-protestant-ethic",
+   "title": "《新教伦理与资本主义精神》",
+   "title_original": "Die protestantische Ethik und der Geist des Kapitalismus",
+   "tradition": "west",
+   "date_display": "1905年（两篇）；1920年修订",
+   "structure": "两篇：一、问题（宗教归属与职业统计、资本主义“精神”的界定）；二、禁欲新教的职业伦理（路德的“天职”、加尔文主义的预定论与世俗禁欲）。",
+   "core_arguments": [
+    "资本主义精神是一种伦理态度（以劳动本身为目的、系统化地节制消费），非单纯获利欲",
+    "加尔文主义的预定论产生“孤独的焦虑”，世俗职业的成功成为蒙拣选的心理确证",
+    "禁欲新教无意中为资本主义提供了伦理前提，其后自身被世俗化掏空（“铁笼”）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一篇",
+     "point": "资本主义“精神”的界定与职业统计"
+    },
+    {
+     "locator": "第二篇 第2章",
+     "point": "路德的“天职”（Beruf）概念"
+    },
+    {
+     "locator": "第二篇 第4章",
+     "point": "预定论与世俗禁欲"
+    },
+    {
+     "locator": "末章",
+     "point": "“铁笼”与世俗化"
+    }
+   ],
+   "editions": [
+    "三联书店／广西师大出版社中译；MWG I/9"
+   ],
+   "related_people": [
+    "gr-20c-weber",
+    "gr-modern-calvin",
+    "gr-19c-marx"
+   ],
+   "misreadings": [
+    {
+     "claim": "韦伯主张新教导致了资本主义",
+     "why": "他主张“选择性的亲和”：新教伦理为资本主义精神提供伦理前提，但资本主义的兴起有多种条件（法律、城市、技术），不是单线因果。"
+    },
+    {
+     "claim": "本书是宗教研究而非社会学",
+     "why": "它是比较宗教社会学的开端，其方法（理想类型、意义理解）是社会学的奠基之一。"
+    }
+   ],
+   "sources": [
+    "sep-weber",
+    "sep-habermas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本书 1905 年初版与 1920 年修订本差异显著（修订本加入了关于“铁笼”的著名段落与对“精神”的重新界定）；“韦伯命题”的后续争论（桑巴特、托尼、中国与日本的比较研究）极大，本页只述其原论证。",
+   "sort_year": 1905
+  },
+  {
    "id": "work-tractatus",
    "title": "《逻辑哲学论》",
    "title_original": "Logisch-philosophische Abhandlung (Tractatus)",

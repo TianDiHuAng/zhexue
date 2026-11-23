@@ -2893,6 +2893,288 @@
      "note": "1983—85"
     }
    ]
+  },
+  {
+   "id": "gr-20c-moore",
+   "name": "摩尔",
+   "latin": "G. E. Moore",
+   "birth_year": 1873,
+   "death_year": 1958,
+   "birth_display": "1873年",
+   "death_display": "1958年",
+   "birth_note": "据其自传与传记材料：生于伦敦南郊，父为医生。",
+   "death_note": "1958年卒于剑桥。",
+   "era": "20世纪初的剑桥。摩尔是常识实在论与新实在论伦理学的奠基者：他以《驳唯心论》反驳“存在即被感知”，以《伦理学原理》提出“自然主义谬误”，并以《捍卫常识》主张我们确知外部世界的存在。",
+   "school": "常识实在论（分析哲学）",
+   "core_questions": [
+    "唯心论能否被驳倒？",
+    "善能否被定义？",
+    "常识的确定性有何根据？"
+   ],
+   "arguments": [
+    {
+     "claim": "以常识反驳唯心论：我们确知“我有两只手”一类命题",
+     "premises": [
+      "一切论证都要以某些确定为前提。",
+      "“我有两只手”比任何哲学论证的前提更为确定。"
+     ],
+     "inference": "若哲学结论与常识冲突，则须先检查论证而非否认常识；故唯心论的反常识结论不可信。",
+     "conclusion": "常识的确定性高于哲学论证的结论。",
+     "kind": "原文"
+    },
+    {
+     "claim": "自然主义谬误：善不可用自然性质定义",
+     "premises": [
+      "任何“善即X”（如快乐、进化程度）的定义都可被追问“X 是善的吗？”。",
+      "若此追问有意义，则X 不等于善。"
+     ],
+     "inference": "若对任何自然性质的“善”定义都能有意义地追问“但它善吗”，则该定义未穷尽善的意义；故善不可定义。",
+     "conclusion": "善是简单的、不可分析的非自然性质（“开放问题论证”）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《伦理学原理》《驳唯心论》《捍卫常识》《哲学研究》",
+     "edition": "《伦理学原理》中译参商务印书馆（若有）；Cambridge 版 *Philosophical Papers*",
+     "note": "1903；1903；1925；1922"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "罗素与早期分析哲学",
+     "id": "gr-20c-russell",
+     "note": "共同反叛英国唯心论"
+    },
+    {
+     "name": "西季威克与剑桥伦理学",
+     "id": "",
+     "note": "直觉主义伦理学传统"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "维特根斯坦",
+     "id": "gr-20c-wittgenstein",
+     "note": "受其影响而走向语言分析"
+    },
+    {
+     "name": "日常语言哲学与常识实在论",
+     "id": "",
+     "note": "以常识检验哲学结论的方法"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "情感主义与后续元伦理学",
+     "view": "以“善不可定义”隔断了伦理与自然事实，使伦理学失去经验基础。",
+     "response": "摩尔一系的回应是：善的不可定义不等于伦理判断无根据，直觉把握其性质即为根据。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-moore",
+      "iep-moore"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "摩尔是“日常语言哲学家”",
+     "why": "他属常识实在论与新实在论，其方法以概念分析为主；日常语言哲学（奥斯汀等）是后续发展。"
+    },
+    {
+     "claim": "“自然主义谬误”否定了所有自然主义伦理学",
+     "why": "它否定了以自然性质**定义**善的做法，但未否定自然事实与伦理判断之间存在推论关系——这一区分在20世纪后期被重新讨论。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>摩尔：常识与自然主义谬误</text><defs><marker id='aMO' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>一切论证须有确定前提</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>“我有两只手”比哲学前提更确定</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故哲学不得反常识</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故善不可用自然性质定义</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aMO)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aMO)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "摩尔：常识实在论与自然主义谬误（示意图）",
+   "sources": [
+    "sep-moore",
+    "iep-moore"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "摩尔以两个论证确立其地位：其一，一切论证都须有确定的前提，而“我有两只手”比任何哲学论证的前提更确定，故哲学不得得出反常识的结论；其二，对任何“善即X”（自然性质）的定义都可有意义地追问“X 是善的吗”，故善不可定义——这就是“自然主义谬误”与开放问题论证。",
+    "system": [
+     {
+      "name": "常识的确定性",
+      "content": "哲学不得与常识冲突，须先检查论证；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "自然主义谬误",
+      "content": "以自然性质定义善，是混淆了“善”与“自然性质”。"
+     },
+     {
+      "name": "开放问题论证",
+      "content": "对任何定义都可追问“但它善吗”，故定义未穷尽善。"
+     },
+     {
+      "name": "善的简单性",
+      "content": "善是非自然的、简单的性质，只能被直觉把握。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "伦敦与剑桥（1873—1958）",
+      "change": "剑桥三一学院；与罗素共同反叛英国唯心论；1903 年《伦理学原理》；1925 年《捍卫常识》；长期任《Mind》主编。"
+     }
+    ],
+    "reception": "《伦理学原理》开启了20世纪元伦理学（开放问题论证至今是核心议题）；其常识实在论影响了维特根斯坦与日常语言哲学；《驳唯心论》是分析哲学起源的标志性文本。"
+   },
+   "works_detail": [
+    {
+     "title": "《伦理学原理》",
+     "structure": "六章：伦理学的主题、自然主义伦理学、快乐主义、形而上学的伦理学、关于行为的伦理学、理想事物。",
+     "core_thesis": "善不可定义；自然主义谬误；这是该书的核心命题。",
+     "editions": "中译参商务印书馆（若有）；Cambridge 版",
+     "note": "1903 年"
+    }
+   ]
+  },
+  {
+   "id": "gr-20c-weber",
+   "name": "韦伯",
+   "latin": "Max Weber",
+   "birth_year": 1864,
+   "death_year": 1920,
+   "birth_display": "1864年",
+   "death_display": "1920年",
+   "birth_note": "据其传记材料：生于图林根埃尔福特，父为法学家与政治家。",
+   "death_note": "1920年卒于慕尼黑（肺炎）。",
+   "era": "19世纪末至20世纪初的德国。韦伯是理解社会学与宗教社会学的奠基者：他以“理想类型”为方法，以“理性化”为近代化的主线，以《新教伦理与资本主义精神》论观念与经济的关联，并以《以学术为业》《以政治为业》论现代性的命运。",
+   "school": "理解社会学（新康德主义背景）",
+   "core_questions": [
+    "社会行动如何被理解？",
+    "近代的理性化意味着什么？",
+    "价值判断能否进入学术？"
+   ],
+   "arguments": [
+    {
+     "claim": "理解（Verstehen）：社会行动须由其主观意义被理解",
+     "premises": [
+      "社会行动不同于自然事件，它由行动者赋予意义。",
+      "故社会学须重构行动者的意义关联（动机、目的、规范）。"
+     ],
+     "inference": "若社会行动由意义构成，则说明（Erklären）不足，须以理解（Verstehen）为其方法，并把理解转译为可检验的类型。",
+     "conclusion": "社会学是“理解的社会科学”，其方法是意义的解释性把握。",
+     "kind": "原文"
+    },
+    {
+     "claim": "理性化及其悖论：目的理性扩张导致“铁笼”",
+     "premises": [
+      "近代的进程是各领域的理性化（法、经济、行政、音乐）。",
+      "目的理性（zweckrational）的扩张使价值理性（wertrational）萎缩。"
+     ],
+     "inference": "若理性化只推进手段的算计而不追问目的，则它产生一个“铁笼”（stahlhartes Gehäuse）：效率提高而意义丧失。",
+     "conclusion": "理性化的悖论：手段的合理导致目的的失落。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《新教伦理与资本主义精神》《经济与社会》《以学术为业》《以政治为业》",
+     "edition": "《新教伦理与资本主义精神》三联书店／广西师大出版社；MWG 版",
+     "note": "1905；1922（遗著）；1919；1919"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "新康德主义（李凯尔特）",
+     "id": "",
+     "note": "价值关联与文化科学的方法论"
+    },
+    {
+     "name": "马克思与尼采",
+     "id": null,
+     "note": "其问题意识的对话者（他自称二者的综合）"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "法兰克福学派",
+     "id": null,
+     "note": "对理性化的批判性继承"
+    },
+    {
+     "name": "现代化理论与比较宗教社会学",
+     "id": "",
+     "note": "理性化、官僚制、世俗化"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "马克思主义与后续社会理论",
+     "view": "以观念（新教伦理）解释经济，颠倒了基础与上层建筑的关系。",
+     "response": "韦伯一系的回应是：他不否认物质利益的作用，而是主张观念与利益在具体历史中相互选择——这是一条双向的因果假设，不是唯心论的颠倒。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-weber",
+      "sep-habermas"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "韦伯主张新教导致了资本主义",
+     "why": "他主张的是一种“选择性的亲和”（Wahlverwandtschaft）：新教伦理为资本主义精神提供了伦理前提，而非单线因果。"
+    },
+    {
+     "claim": "韦伯主张学术应完全价值中立故无立场",
+     "why": "他区分“价值关联”（选择研究对象时的立场）与“价值判断”（研究中不得混入的评价）——前者不可避免，后者应被禁止。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>韦伯：理解与理性化的悖论</text><defs><marker id='aWB' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>社会行动由主观意义构成</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故须以理解而非仅说明</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>目的理性扩张则价值理性萎缩</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故理性化产生“铁笼”</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aWB)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aWB)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "韦伯：理解的方法与理性化的悖论（示意图）",
+   "sources": [
+    "sep-weber",
+    "sep-habermas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "韦伯无第二独立百科词条（iep-weber 404），本页第二来源为 SEP 的哈贝马斯词条（其中系统讨论韦伯的理性化命题）。韦伯的方法论著作（《罗雪尔与克尼斯》《社会科学方法论》）与《经济与社会》的编纂状况复杂，具体表述须核 MWG 版。",
+   "doctrine": {
+    "summary": "韦伯以“理解”（Verstehen）为社会学的特殊方法：社会行动由行动者赋予的意义构成，故须重构其意义关联，而非仅作因果说明。他又以“理性化”为近代的主线，并指出其悖论：目的理性的扩张使价值理性萎缩，效率提高而意义丧失——这就是“铁笼”。其《新教伦理与资本主义精神》主张观念与利益之间的“选择性亲和”，而非单线因果。",
+    "system": [
+     {
+      "name": "理解（Verstehen）",
+      "content": "社会行动须由其主观意义被把握；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "理想类型",
+      "content": "以片面强化的概念构造作为比较与测量的工具，非实在的画像。"
+     },
+     {
+      "name": "理性化的悖论",
+      "content": "手段合理而目的失落；铁笼；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "价值关联与价值判断",
+      "content": "前者不可避免，后者应被禁止；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "选择性亲和",
+      "content": "观念与利益在具体历史中相互选择，非单线因果。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "埃尔福特、海德堡与慕尼黑（1864—1920）",
+      "change": "海德堡大学教授；1898 年精神崩溃后长期病休；1904—05 年游历美国；《新教伦理》（1905）；1919 年两篇“以…为业”；1920 年卒。"
+     }
+    ],
+    "reception": "其理解社会学与理想类型方法成为社会学的范式之一；《新教伦理》引发“韦伯命题”的长期争论；其对理性化与官僚制的分析影响了法兰克福学派与现代化理论。"
+   },
+   "works_detail": [
+    {
+     "title": "《新教伦理与资本主义精神》",
+     "structure": "两篇：问题（宗教归属与职业统计）、禁欲新教的职业伦理；末章论“铁笼”。",
+     "core_thesis": "选择性亲和；理性化的悖论；这是该书的核心命题。",
+     "editions": "三联书店／广西师大出版社中译；MWG I/9",
+     "note": "1905 年初版，1920 年修订"
+    }
+   ]
   }
  ],
  "concepts": [
