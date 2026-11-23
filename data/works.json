@@ -3226,6 +3226,62 @@
    "sort_year": 1690
   },
   {
+   "id": "work-historical-critical-dictionary",
+   "title": "《历史与批判辞典》",
+   "title_original": "Dictionnaire historique et critique",
+   "tradition": "west",
+   "date_display": "1697年",
+   "structure": "按条目编排，正文简明而注释极长；大量注释以“甲说……乙驳之……丙又驳乙”的方式罗列矛盾与史实错误。",
+   "core_arguments": [
+    "以史实校勘揭示各家传记与教义叙述的错误",
+    "以“注释中的论辩”呈现任何立场都可被反驳",
+    "故理性在思辨领域导致怀疑，宽容由此成为必要"
+   ],
+   "key_points": [
+    {
+     "locator": "条目“大卫”",
+     "point": "以注释讨论伦理与史实的冲突"
+    },
+    {
+     "locator": "条目“斯宾诺莎”",
+     "point": "对斯宾诺莎的评述"
+    },
+    {
+     "locator": "条目“皮浪”",
+     "point": "怀疑论的转述"
+    },
+    {
+     "locator": "全书凡例",
+     "point": "注释体例的用意"
+    }
+   ],
+   "editions": [
+    "Popkin 选译英文本；Desmaizeaux 法文本（1740）"
+   ],
+   "related_people": [
+    "gr-modern-bayle",
+    "gr-modern-montaigne",
+    "gr-modern-voltaire"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是资料汇编",
+     "why": "注释中的论证与反讽构成系统的批判，不是中立编纂。"
+    },
+    {
+     "claim": "培尔是无神论者",
+     "why": "他自称新教徒，其怀疑论用于护教；“无神论者可道德”是论证宽容，不是自白。"
+    }
+   ],
+   "sources": [
+    "sep-bayle",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1697
+  },
+  {
    "id": "work-monadology",
    "title": "《单子论》",
    "title_original": "Monadologie",
@@ -3280,6 +3336,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1714
+  },
+  {
+   "id": "work-new-science",
+   "title": "《新科学》",
+   "title_original": "Principi di una scienza nuova",
+   "tradition": "west",
+   "date_display": "1725（1730 重写，1744 第三版）",
+   "structure": "五卷：论原理、论诗的智慧、论真正的荷马、论诸民族的进程、论复归。以“理想的永恒规律”贯穿。",
+   "core_arguments": [
+    "真理即创造（verum ipsum factum）：人只能理解自己所造之物",
+    "各民族循三阶段（神的、英雄的、人的时代）演进并以“复归”循环",
+    "神话与诗不是幼稚的错误，而是早期民族的“诗性智慧”"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "verum factum 与“新科学”的根据"
+    },
+    {
+     "locator": "卷二",
+     "point": "诗性智慧与诗性逻辑"
+    },
+    {
+     "locator": "卷三",
+     "point": "“真正的荷马”问题"
+    },
+    {
+     "locator": "卷五",
+     "point": "复归（ricorso）"
+    }
+   ],
+   "editions": [
+    "Bergin & Fisch 英译（Cornell）；中译参商务印书馆（若有）"
+   ],
+   "related_people": [
+    "gr-modern-vico",
+    "gr-modern-herder",
+    "gr-19c-dilthey"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是历史循环论，故否认进步",
+     "why": "“复归”不是简单重复；维柯承认人的时代有更高理性，其立场是有规律的发展而非循环倒退。"
+    },
+    {
+     "claim": "它是历史学著作",
+     "why": "它是哲学著作：论历史知识的可能性与“理想的永恒规律”。"
+    }
+   ],
+   "sources": [
+    "sep-vico",
+    "iep-vico"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1725
   },
   {
    "id": "work-treatise-human-nature",
@@ -3622,6 +3734,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1762
+  },
+  {
+   "id": "work-origin-language",
+   "title": "《论语言的起源》",
+   "title_original": "Abhandlung über den Ursprung der Sprache",
+   "tradition": "west",
+   "date_display": "1772年",
+   "structure": "两部分：第一部分反驳“神授说”与“约定说”，第二部分提出语言源于人的自然能力的展开。",
+   "core_arguments": [
+    "语言不可能由神授（否则动物亦有）也不可能由约定而成（约定已须有语言）",
+    "语言源于“反思”（Besonnenheit）：人能在众多印象中辨认并记住其一，此即最初的语词",
+    "语言的起源与发展同人的思维发展是同一过程"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "驳神授说与约定说"
+    },
+    {
+     "locator": "第二部分 第一节",
+     "point": "Besonnenheit 与最初的语词"
+    },
+    {
+     "locator": "第二部分",
+     "point": "语言的四个发展阶段"
+    },
+    {
+     "locator": "结论",
+     "point": "语言与人性的共同起源"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆（若有）；Cambridge Texts（Forster 编）"
+   ],
+   "related_people": [
+    "gr-modern-herder",
+    "gr-german-kant",
+    "gr-modern-rousseau"
+   ],
+   "misreadings": [
+    {
+     "claim": "赫尔德主张语言是纯情感的表达",
+     "why": "他强调“反思”（Besonnenheit）的作用，情感只是其触发条件之一。"
+    },
+    {
+     "claim": "此文是语言学专著",
+     "why": "它是哲学人类学论文，论的是语言与人性的关系。"
+    }
+   ],
+   "sources": [
+    "sep-herder",
+    "sep-kant"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1772
   },
   {
    "id": "work-krv",
@@ -4984,6 +5152,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1953
+  },
+  {
+   "id": "work-truth-method",
+   "title": "《真理与方法》",
+   "title_original": "Wahrheit und Methode",
+   "tradition": "west",
+   "date_display": "1960年",
+   "structure": "三部分：艺术经验中的真理、人文科学中理解的问题、语言作为解释学的视域（以“语言”为解释学的普遍媒介）。",
+   "core_arguments": [
+    "前见是理解的条件，不是须清除的偏见",
+    "理解是视域融合的事件，意义在历史中生成",
+    "效果历史（Wirkungsgeschichte）使解释者须自觉自身的历史性"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "艺术经验与“真理”的扩展"
+    },
+    {
+     "locator": "第二部分 第一章",
+     "point": "对浪漫主义解释学（施莱尔马赫、狄尔泰）的批评"
+    },
+    {
+     "locator": "第二部分 第二章",
+     "point": "前见、权威、传统"
+    },
+    {
+     "locator": "第三部分",
+     "point": "语言作为解释学的视域"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆；GW 第1卷（Mohr）"
+   ],
+   "related_people": [
+    "gr-20c-gadamer",
+    "gr-19c-dilthey",
+    "gr-20c-ricoeur"
+   ],
+   "misreadings": [
+    {
+     "claim": "伽达默尔主张意义任意",
+     "why": "他强调视域融合受文本与传统约束，与解构的“无限漂移”不同。"
+    },
+    {
+     "claim": "他否认方法",
+     "why": "他反对的是把方法论普遍化，不是反对方法本身。"
+    }
+   ],
+   "sources": [
+    "sep-gadamer",
+    "iep-gadamer"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1960
   },
   {
    "id": "work-structure-scientific-revolutions",

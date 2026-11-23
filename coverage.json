@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 582,
+  "entries": 588,
   "by_level": {
-   "L2": 499,
-   "L1": 83
+   "L2": 504,
+   "L1": 84
   },
   "doctrine": {
    "total": 205,
    "detail": 205,
    "auto": 0
   },
-  "needs_verification": 83,
+  "needs_verification": 84,
   "sources": 305,
   "sources_verified": 301
  },
@@ -5546,9 +5546,31 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-historical-critical-dictionary",
+   "type": "work",
+   "title": "《历史与批判辞典》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-monadology",
    "type": "work",
    "title": "《单子论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-new-science",
+   "type": "work",
+   "title": "《新科学》",
    "container": "west",
    "level": "L2",
    "sources": 2,
@@ -5615,6 +5637,17 @@
    "id": "work-emile",
    "type": "work",
    "title": "《爱弥儿》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-origin-language",
+   "type": "work",
+   "title": "《论语言的起源》",
    "container": "west",
    "level": "L2",
    "sources": 2,
@@ -5887,6 +5920,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-truth-method",
+   "type": "work",
+   "title": "《真理与方法》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-structure-scientific-revolutions",
    "type": "work",
    "title": "《科学革命的结构》",
@@ -6071,6 +6115,28 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-one-many",
+   "type": "comparative",
+   "title": "一与多：太极、太一与绝对者的三种表述",
+   "container": "comparative",
+   "level": "L2",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-suffering",
+   "type": "comparative",
+   "title": "苦难与意义：约伯、庄子与尼采的三种回应",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
