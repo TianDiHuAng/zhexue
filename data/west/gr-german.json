@@ -2150,6 +2150,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-german-transcendental-illusion",
+   "term": "先验幻相",
+   "term_latin": "transzendentaler Schein",
+   "definition": "康德的批判概念：理性在其本性上会超出经验的界限去追求无条件者（灵魂、世界整体、上帝），由此产生“先验幻相”。它不是逻辑错误，而是**理性自然的倾向**。",
+   "usages": [
+    {
+     "name": "康德",
+     "id": "gr-german-kant",
+     "usage": "幻相不可消除，只能被“揭露”：批判的作用是防止它冒充知识。"
+    },
+    {
+     "name": "黑格尔（批评）",
+     "id": "gr-german-hegel",
+     "usage": "以辩证法说明幻相是理性自我展开的必要环节，不是须被排除的错误。"
+    },
+    {
+     "name": "休谟（先声）",
+     "usage": "以对因果必然性的怀疑显示理性越界的倾向。"
+    }
+   ],
+   "related": [
+    "gr-german-transcendental",
+    "gr-german-dialectic"
+   ],
+   "example": {
+    "text": "先验幻相的独特性在于“不可避免”：康德说它像海市蜃楼，你明知是幻，仍会看见——故批判哲学的任务不是消除它，而是**阻止它冒充知识**。这一自我限制的姿态是康德与黑格尔的分水岭。",
+    "figure": "康德",
+    "locator": "《纯粹理性批判》A293/B349 以下"
+   },
+   "sources": [
+    "sep-kant",
+    "sep-hegel",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

@@ -2769,6 +2769,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-huaxing",
+   "term": "化性起伪",
+   "term_latin": "transforming nature and raising artifice",
+   "definition": "荀子的工夫论纲领：“人之性恶，其善者伪也”——故须“化性起伪”，即以礼义法度改造自然情性，使之合于秩序。“伪”是“人为”（wěi），不是“虚伪”。",
+   "usages": [
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "usage": "“枸木必将待檃栝烝矫然后直”：性须待师法然后正。"
+    },
+    {
+     "name": "孟子（对照）",
+     "id": "cn-xianqin-mengzi",
+     "usage": "以性善论主张“扩而充之”：成德是养护而非改造。"
+    },
+    {
+     "name": "《性自命出》（出土文献，旁证）",
+     "usage": "以“性”待“教”而成，与荀子的“化”有相通处（郭店楚简）。"
+    }
+   ],
+   "related": [
+    "cn-xianqin-li"
+   ],
+   "example": {
+    "text": "荀子的难题在“人何以能受化”：若性本恶，则人凭什么接受与自己本性相反的礼义？他的答案是“可以知”“可以能”（心之征知与官能之可塑）——故教化不是奇迹，而是利用人性中“能学”的那部分。",
+    "figure": "荀子",
+    "locator": "《荀子·性恶》"
+   },
+   "sources": [
+    "ct-xunzi",
+    "ct-mengzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

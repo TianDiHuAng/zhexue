@@ -2188,6 +2188,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-sense-of-justice",
+   "term": "正义感",
+   "term_latin": "sense of justice",
+   "definition": "罗尔斯的关键概念：在原初状态中，立约者不仅选择原则，还须具备“正义感”——即按所选原则行动的有效欲望。若无此能力，则正义理论只是乌托邦。",
+   "usages": [
+    {
+     "name": "罗尔斯",
+     "id": "gr-contemp-rawls",
+     "usage": "正义感是“按正义原则行动的调节性欲望”，其培养依赖于正义的制度（“正义感的社会基础”）。"
+    },
+    {
+     "name": "康德（先声）",
+     "usage": "以“敬重”为道德动机：对法则的敬重是先天的情感。"
+    },
+    {
+     "name": "决定论者（批评）",
+     "usage": "以“道德动机能否被制度培养”为问题：若可以，则正义感是社会工程的结果，非道德事实。"
+    }
+   ],
+   "related": [
+    "gr-contemp-veil",
+    "gr-contemp-reflective"
+   ],
+   "example": {
+    "text": "罗尔斯的“正义感”解决了一个内在难题：契约论证明了原则的合理性，但不能保证人们会遵守。他的回答是：**正义的制度会培养出支持它的正义感**——故稳定性不是靠强制，而是靠制度自身的教育作用。",
+    "figure": "罗尔斯",
+    "locator": "《正义论》§69、§75—76"
+   },
+   "sources": [
+    "sep-rawls",
+    "sep-kant"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

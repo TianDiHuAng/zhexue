@@ -3747,6 +3747,41 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-liangzhi-xiancheng",
+   "term": "现成良知",
+   "term_latin": "ready-made innate knowledge",
+   "definition": "王艮一系（泰州学派）与王畿等人的主张：良知当下具足，不须渐修，只要“信得及”便是。刘宗周与东林一系批评它导致“满街圣人”的放任。",
+   "usages": [
+    {
+     "name": "王艮",
+     "id": "cn-songming-wang-gen",
+     "usage": "“百姓日用即道”：良知在日用中现成具足，不待安排。"
+    },
+    {
+     "name": "王畿（龙溪）",
+     "usage": "以“四无”说推至极致：心、意、知、物皆无。"
+    },
+    {
+     "name": "刘宗周（批评者）",
+     "id": "cn-songming-liu-zongzhou",
+     "usage": "以“诚意慎独”纠之：良知须以意为根，否则流于“现成”。"
+    }
+   ],
+   "related": [],
+   "example": {
+    "text": "“现成良知”的争论点不在“良知是否本有”（朱王都承认），而在**是否需要工夫**：若良知现成，则工夫只是“不打扰”；若须工夫，则“致”字才是关键。故阳明本人的“致”字被两派各取一面。",
+    "figure": "刘宗周",
+    "locator": "《刘子全书·证学杂解》"
+   },
+   "sources": [
+    "ct-chuanxilu",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

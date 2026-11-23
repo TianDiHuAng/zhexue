@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 851,
+  "entries": 859,
   "by_level": {
-   "L2": 696,
-   "L1": 155
+   "L2": 703,
+   "L1": 156
   },
   "doctrine": {
    "total": 229,
    "detail": 229,
    "auto": 0
   },
-  "needs_verification": 155,
+  "needs_verification": 156,
   "sources": 355,
   "sources_verified": 355
  },
@@ -39,7 +39,7 @@
    "title": "宋明理学与心学",
    "region": "china",
    "philosophers": 20,
-   "concepts": 18,
+   "concepts": 19,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -12"
   },
@@ -66,7 +66,7 @@
    "title": "先秦诸子",
    "region": "china",
    "philosophers": 12,
-   "concepts": 19,
+   "concepts": 20,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -93,7 +93,7 @@
    "title": "古希腊哲学",
    "region": "west",
    "philosophers": 19,
-   "concepts": 19,
+   "concepts": 20,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -102,7 +102,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 10,
-   "concepts": 17,
+   "concepts": 18,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -2"
   },
@@ -111,7 +111,7 @@
    "title": "德国古典哲学",
    "region": "west",
    "philosophers": 9,
-   "concepts": 19,
+   "concepts": 20,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -1"
   },
@@ -1465,6 +1465,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-songming-liangzhi-xiancheng",
+   "type": "concept",
+   "title": "现成良知",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-songming-zhu-lu",
    "type": "debate",
    "title": "尊德性还是道问学：朱陆之辩",
@@ -2645,6 +2656,17 @@
    "id": "cn-xianqin-wudu",
    "type": "concept",
    "title": "五蠹",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-huaxing",
+   "type": "concept",
+   "title": "化性起伪",
    "container": "cn-xianqin",
    "level": "L2",
    "sources": 3,
@@ -4160,6 +4182,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-ancient-doxa",
+   "type": "concept",
+   "title": "意见",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-ancient-flux-vs-being",
    "type": "debate",
    "title": "流变还是不变：赫拉克利特与巴门尼德",
@@ -4537,6 +4570,17 @@
    "id": "gr-contemp-differance",
    "type": "concept",
    "title": "延异",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-contemp-sense-of-justice",
+   "type": "concept",
+   "title": "正义感",
    "container": "gr-contemp",
    "level": "L2",
    "sources": 2,
@@ -4933,6 +4977,17 @@
    "id": "gr-german-world-history",
    "type": "concept",
    "title": "世界历史",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-german-transcendental-illusion",
+   "type": "concept",
+   "title": "先验幻相",
    "container": "gr-german",
    "level": "L2",
    "sources": 3,
@@ -6910,6 +6965,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-xiaoyaoyou",
+   "type": "work",
+   "title": "《庄子·逍遥游》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-mengzi-gaozi",
+   "type": "work",
+   "title": "《孟子·告子上》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-tianxia-pian",
    "type": "work",
    "title": "《庄子·天下篇》",
@@ -6918,6 +6995,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-quanxue",
+   "type": "work",
+   "title": "《荀子·劝学》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {

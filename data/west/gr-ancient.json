@@ -3514,6 +3514,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-doxa",
+   "term": "意见",
+   "term_latin": "doxa",
+   "definition": "希腊认识论中与“知识”（epistēmē）相对者：可变、不稳固、不能给出理由的信念。柏拉图以它为可感世界的对应物，巴门尼德以它为“凡人的意见”之路。",
+   "usages": [
+    {
+     "name": "柏拉图",
+     "id": "gr-ancient-plato",
+     "usage": "意见以可感物为对象，知识以理念为对象（《理想国》卷五）。"
+    },
+    {
+     "name": "巴门尼德",
+     "id": "gr-ancient-parmenides",
+     "usage": "以“意见之路”与“真理之路”对举：凡人的意见关于生成，真理关于存在。"
+    },
+    {
+     "name": "亚里士多德（缓和）",
+     "id": "gr-ancient-aristotle",
+     "usage": "以“endoxa”（普遍接受的意见）为辩证推理的出发点，故意见有其正面的方法论地位。"
+    }
+   ],
+   "related": [
+    "gr-ancient-episteme"
+   ],
+   "example": {
+    "text": "doxa 的关键特征是**不稳固**：它可以为真，但它“随时会被说服而改变”，且持有者不能说明其理由。故柏拉图说真信念像代达罗斯的雕像——会跑掉，须以“理由”把它系住才成为知识。",
+    "figure": "柏拉图",
+    "locator": "《美诺》97d—98a；《理想国》卷五"
+   },
+   "sources": [
+    "sep-plato",
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

@@ -1699,6 +1699,120 @@
    "sort_year": -300
   },
   {
+   "id": "work-xiaoyaoyou",
+   "title": "《庄子·逍遥游》",
+   "title_original": "逍遙遊",
+   "tradition": "china",
+   "date_display": "约前3世纪",
+   "structure": "一篇；以大鹏与蜩鸠的对照开篇，次论“小知不及大知”，再列许由、肩吾接舆、藐姑射之山的神人，末以“无用之用”（大樗、大瓠）作结。",
+   "core_arguments": [
+    "“小大之辩”：小知不及大知，小年不及大年",
+    "“无待”：乘天地之正、御六气之辩以游无穷者，彼且恶乎待哉",
+    "“无用之用”：不材之木得终其天年，故“无用”正是大用"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "鲲鹏与蜩鸠的对照"
+    },
+    {
+     "locator": "中段",
+     "point": "“至人无己，神人无功，圣人无名”"
+    },
+    {
+     "locator": "中段",
+     "point": "藐姑射神人的描写"
+    },
+    {
+     "locator": "末段",
+     "point": "大樗与“无用之用”"
+    }
+   ],
+   "editions": [
+    "郭庆藩《庄子集释》中华书局；陈鼓应《庄子今注今译》"
+   ],
+   "related_people": [
+    "cn-xianqin-zhuangzi",
+    "cn-xianqin-laozi",
+    "cn-weijin-guoxiang"
+   ],
+   "misreadings": [
+    {
+     "claim": "《逍遥游》主张逃避现实",
+     "why": "“无用之用”是对“有用”标准的批判，不是逃避；其“无待”是一种存在方式的主张，不是行为上的退避。"
+    },
+    {
+     "claim": "庄子认为小鸟可笑",
+     "why": "文本并未判小鸟为错——这种“各是一是”的写法正是郭象“适性”说的文本根据。"
+    }
+   ],
+   "sources": [
+    "ct-zhuangzi",
+    "ct-daodejing",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“逍遥”的注释史（郭象“适性”说 vs 王夫之“无待”说）分歧极大，且文本本身支持两读；本页并列而不裁定。",
+   "sort_year": -300
+  },
+  {
+   "id": "work-mengzi-gaozi",
+   "title": "《孟子·告子上》",
+   "title_original": "告子上",
+   "tradition": "china",
+   "date_display": "约前3世纪（孟子与告子之辩的记录）",
+   "structure": "一篇（二十章）；核心为孟与告子关于人性的四辩（杞柳、湍水、生之谓性、仁义内外），以及“牛山之木”“鱼与熊掌”“求其放心”诸章。",
+   "core_arguments": [
+    "“人性之善也，犹水之就下也”：性善是倾向，不是既成的完成",
+    "“仁义内在”：四端为我所固有，非由外铄",
+    "“牛山之木”：良心虽本有，但可因斧斤牛羊而失去，故须“养”"
+   ],
+   "key_points": [
+    {
+     "locator": "第1—4章",
+     "point": "与告子的四辩"
+    },
+    {
+     "locator": "第6章",
+     "point": "“四端”与“我固有之”"
+    },
+    {
+     "locator": "第8章",
+     "point": "“牛山之木”（良心可失）"
+    },
+    {
+     "locator": "第10章",
+     "point": "“鱼与熊掌”（舍生取义）"
+    }
+   ],
+   "editions": [
+    "焦循《孟子正义》中华书局；杨伯峻《孟子译注》"
+   ],
+   "related_people": [
+    "cn-xianqin-mengzi",
+    "cn-xianqin-xunzi",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "孟子主张人性本已完善",
+     "why": "“牛山之木”章明确说良心可因斧斤牛羊而失；故性善是**端**（萌芽），须“养”与“扩而充之”。"
+    },
+    {
+     "claim": "告子是孟子的陪衬",
+     "why": "告子的“生之谓性”“仁义外在”是独立的立场（近于自然主义与约定论），其论证有其力量，非仅为陪衬。"
+    }
+   ],
+   "sources": [
+    "ct-mengzi",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -300
+  },
+  {
    "id": "work-tianxia-pian",
    "title": "《庄子·天下篇》",
    "title_original": "天下篇",
@@ -1754,6 +1868,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《天下篇》的作者（庄子自撰／后学所作）学界有讨论；其作为中国最早的学术史文献的地位无争议，但各家的次序与评断的用意仍有解释空间。",
+   "sort_year": -280
+  },
+  {
+   "id": "work-quanxue",
+   "title": "《荀子·劝学》",
+   "title_original": "勸學",
+   "tradition": "china",
+   "date_display": "约前3世纪",
+   "structure": "一篇；以“学不可以已”开篇，次以青出于蓝、冰寒于水等喻论学习的改造作用，再论环境与师法，末以“积善成德”与“君子结于一”收束。",
+   "core_arguments": [
+    "“学不可以已”：学习是持续的改造过程，非一次性的获取",
+    "“青，取之于蓝，而青于蓝”：学习使人超越其本性（与性恶论相扣）",
+    "“君子生非异也，善假于物也”：成德在于借助外物（师法、经典、环境）"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "“学不可以已”与青出于蓝"
+    },
+    {
+     "locator": "中段",
+     "point": "“吾尝终日而思矣，不如须臾之所学也”"
+    },
+    {
+     "locator": "中段",
+     "point": "“君子生非异也，善假于物也”"
+    },
+    {
+     "locator": "末段",
+     "point": "“积善成德”与“结于一”"
+    }
+   ],
+   "editions": [
+    "王先谦《荀子集解》中华书局；李涤生《荀子集释》"
+   ],
+   "related_people": [
+    "cn-xianqin-xunzi",
+    "cn-xianqin-kongzi",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "“青出于蓝”是说学生必胜于老师",
+     "why": "原文的喻义是**学习能改造本性**（青从蓝出而更青），重点在“化”，不在师承的高下。"
+    },
+    {
+     "claim": "荀子主张纯靠读书",
+     "why": "他强调“善假于物”——师法、环境、经典都是“物”，且以“积”与“一”为其工夫结构。"
+    }
+   ],
+   "sources": [
+    "ct-xunzi",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": -280
   },
   {
