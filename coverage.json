@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 551,
+  "entries": 556,
   "by_level": {
-   "L2": 471,
-   "L1": 80
+   "L2": 474,
+   "L1": 82
   },
   "doctrine": {
    "total": 196,
    "detail": 196,
    "auto": 0
   },
-  "needs_verification": 80,
+  "needs_verification": 82,
   "sources": 293,
   "sources_verified": 289
  },
@@ -4941,6 +4941,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-de-officiis",
+   "type": "work",
+   "title": "《论义务》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-de-providentia",
    "type": "work",
    "title": "《论天意》",
@@ -5271,6 +5282,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-essay-locke",
+   "type": "work",
+   "title": "《人类理解论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-monadology",
    "type": "work",
    "title": "《单子论》",
@@ -5329,6 +5351,17 @@
    "id": "work-social-contract",
    "type": "work",
    "title": "《社会契约论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-emile",
+   "type": "work",
+   "title": "《爱弥儿》",
    "container": "west",
    "level": "L2",
    "sources": 2,
@@ -5433,6 +5466,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-lectures-history-philosophy",
+   "type": "work",
+   "title": "《历史哲学讲演录》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -5565,6 +5609,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-structure-scientific-revolutions",
+   "type": "work",
+   "title": "《科学革命的结构》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

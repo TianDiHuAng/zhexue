@@ -1421,6 +1421,62 @@
    "sort_year": -55
   },
   {
+   "id": "work-de-officiis",
+   "title": "《论义务》",
+   "title_original": "De officiis",
+   "tradition": "west",
+   "date_display": "前44年",
+   "structure": "三卷：卷一论“义”（honestum）与四种德性（智慧、正义、勇敢、节制）；卷二论“利”（utile）；卷三论义与利的冲突。",
+   "core_arguments": [
+    "义与利在本性上不冲突：凡不义者终亦不利",
+    "四种德性：智慧、正义（含信义）、勇敢、节制",
+    "以“人格”（persona）说明角色义务：普遍人性、个人禀赋、境遇与自选角色"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 第11—17章",
+     "point": "四种德性与正义的基础"
+    },
+    {
+     "locator": "卷一 第30—32章",
+     "point": "persona 与角色义务"
+    },
+    {
+     "locator": "卷二",
+     "point": "利与功利"
+    },
+    {
+     "locator": "卷三",
+     "point": "义利冲突的解决原则"
+    }
+   ],
+   "editions": [
+    "王焕生译《论义务》中国政法大学出版社；Loeb 版（Miller）"
+   ],
+   "related_people": [
+    "gr-hellenistic-cicero",
+    "gr-hellenistic-zeno",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "《论义务》只是希腊伦理学的编译",
+     "why": "它把帕奈提乌斯的框架改造为罗马式的角色伦理，persona 理论是其独立贡献。"
+    },
+    {
+     "claim": "西塞罗主张义利必然一致是天真",
+     "why": "他的论证是规范性的：不义之举终将损害信誉与共同体，故“利”不能在违反义的前提下成立。"
+    }
+   ],
+   "sources": [
+    "sep-stoicism",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -44
+  },
+  {
    "id": "work-de-providentia",
    "title": "《论天意》",
    "title_original": "De providentia（Dialogi I）",
@@ -3114,6 +3170,62 @@
    "sort_year": 1690
   },
   {
+   "id": "work-essay-locke",
+   "title": "《人类理解论》",
+   "title_original": "An Essay Concerning Human Understanding",
+   "tradition": "west",
+   "date_display": "1690年",
+   "structure": "四卷：论天赋观念（驳）、论观念、论词语、论知识与意见。全书以“观念的起源与范围”为线索。",
+   "core_arguments": [
+    "没有天赋观念：心灵如“白板”，一切观念来自感觉与反省",
+    "第一性质与第二性质的区分：后者依感知者而变",
+    "知识的范围限于观念之间的一致或不一致，故实体本质不可知"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "对天赋观念（innate ideas）的批判"
+    },
+    {
+     "locator": "卷二 第8章",
+     "point": "第一性质与第二性质"
+    },
+    {
+     "locator": "卷二 第23章",
+     "point": "实体是“被假设的支撑”（something I know not what）"
+    },
+    {
+     "locator": "卷四 第1—4章",
+     "point": "知识与或然性的界限"
+    }
+   ],
+   "editions": [
+    "关文运译《人类理解论》商务印书馆；Clarendon Edition（Nidditch 编）"
+   ],
+   "related_people": [
+    "gr-modern-locke",
+    "gr-modern-berkeley",
+    "gr-modern-leibniz"
+   ],
+   "misreadings": [
+    {
+     "claim": "洛克主张心灵完全被动",
+     "why": "他承认“反省”（reflection）是观念的第二来源，心灵对自身活动的知觉是主动的。"
+    },
+    {
+     "claim": "洛克的“白板”否认一切先天结构",
+     "why": "他否认的是天赋的“命题与观念”，不否认心灵有自然的认识能力与倾向。"
+    }
+   ],
+   "sources": [
+    "emt-locke",
+    "sep-locke"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1690
+  },
+  {
    "id": "work-monadology",
    "title": "《单子论》",
    "title_original": "Monadologie",
@@ -3450,6 +3562,62 @@
    "sources": [
     "sep-rousseau",
     "sep-hobbes"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1762
+  },
+  {
+   "id": "work-emile",
+   "title": "《爱弥儿》",
+   "title_original": "Émile, ou De l'éducation",
+   "tradition": "west",
+   "date_display": "1762年",
+   "structure": "五卷： infancy（卷二）、childhood（卷三）、adolescence（卷四）、 youth（卷五，含《萨瓦牧师的信仰自白》与苏菲的教育）。",
+   "core_arguments": [
+    "自然教育：教育须顺应儿童的发展阶段，不加速成人",
+    "消极教育：在童年期不灌输，而保护其免受不良影响",
+    "《信仰自白》：以良心与自然秩序为信仰的根据，不依赖启示"
+   ],
+   "key_points": [
+    {
+     "locator": "卷二",
+     "point": "“消极教育”与童年的价值"
+    },
+    {
+     "locator": "卷三",
+     "point": "以事物而非言语教学"
+    },
+    {
+     "locator": "卷四",
+     "point": "《萨瓦牧师的信仰自白》"
+    },
+    {
+     "locator": "卷五",
+     "point": "苏菲的教育（后被沃斯通克拉夫特批评）"
+    }
+   ],
+   "editions": [
+    "李平沤译《爱弥儿》商务印书馆；GF-Flammarion 法文本"
+   ],
+   "related_people": [
+    "gr-modern-rousseau",
+    "gr-modern-wollstonecraft",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "卢梭主张放养、不教育",
+     "why": "“消极教育”是精心设计的环境控制，教师全程在场——只是不施加口头训诫。"
+    },
+    {
+     "claim": "《爱弥儿》的教育方案可直接实施",
+     "why": "它是一部哲学著作，其条件（乡间、专职导师、健康儿童）在现实中极难满足。"
+    }
+   ],
+   "sources": [
+    "sep-rousseau",
+    "book-copleston-history"
    ],
    "needs_verification": false,
    "pending_notes": "",
@@ -3968,6 +4136,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1821
+  },
+  {
+   "id": "work-lectures-history-philosophy",
+   "title": "《历史哲学讲演录》",
+   "title_original": "Vorlesungen über die Philosophie der Geschichte",
+   "tradition": "west",
+   "date_display": "1837年（遗著，据讲演整理）",
+   "structure": "导论＋四部分：东方世界、希腊世界、罗马世界、日耳曼世界；以“世界历史是自由意识的进展”为线索。",
+   "core_arguments": [
+    "世界历史是自由意识的进展：东方一人自由、希腊罗马部分自由、日耳曼世界全体自由",
+    "“理性的狡计”：历史通过个人的激情实现普遍目的",
+    "世界历史是世界法庭（Weltgericht）：以精神的发展评判民族的历史地位"
+   ],
+   "key_points": [
+    {
+     "locator": "导论",
+     "point": "自由意识的进展与“理性的狡计”"
+    },
+    {
+     "locator": "导论",
+     "point": "“伟大人物”与时代意志"
+    },
+    {
+     "locator": "东方世界",
+     "point": "一人自由"
+    },
+    {
+     "locator": "日耳曼世界",
+     "point": "全体自由的实现（其欧洲中心论）"
+    }
+   ],
+   "editions": [
+    "王造时译《历史哲学》上海书店出版社／商务印书馆；Suhrkamp 版"
+   ],
+   "related_people": [
+    "gr-german-hegel",
+    "gr-19c-marx",
+    "gr-19c-comte"
+   ],
+   "misreadings": [
+    {
+     "claim": "黑格尔的历史哲学是精确的历史预言",
+     "why": "它是思辨的历史哲学，提供的是意义框架，不是可检验的预测。"
+    },
+    {
+     "claim": "“存在即合理”为一切现状辩护",
+     "why": "其“现实”（wirklich）指合乎理性的实现，不等于“现存”；此误读已在其在世时出现。"
+    }
+   ],
+   "sources": [
+    "sep-hegel",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《历史哲学讲演录》为遗著，由编者（甘斯、后来的编者）据多种讲演笔记整理，不同版本内容有出入；其对非欧民族的评价带有明显的19世纪欧洲中心论，阅读须辨。",
+   "sort_year": 1837
   },
   {
    "id": "work-fear-trembling",
@@ -4650,6 +4874,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1953
+  },
+  {
+   "id": "work-structure-scientific-revolutions",
+   "title": "《科学革命的结构》",
+   "title_original": "The Structure of Scientific Revolutions",
+   "tradition": "west",
+   "date_display": "1962年",
+   "structure": "十三章：导言、常规科学的性质、危机、革命、进步等；以“范式”为核心概念组织科学史的阶段。",
+   "core_arguments": [
+    "科学的发展是“常规科学—危机—革命—新范式”的循环，不是线性积累",
+    "范式不可通约（incommensurable）：不同范式对同一术语有不同用法与标准",
+    "范式的转换不能仅由逻辑与实验决定，含共同体判断"
+   ],
+   "key_points": [
+    {
+     "locator": "第2—4章",
+     "point": "常规科学与解谜"
+    },
+    {
+     "locator": "第6—8章",
+     "point": "危机与反常"
+    },
+    {
+     "locator": "第9—10章",
+     "point": "革命与不可通约性"
+    },
+    {
+     "locator": "第13章",
+     "point": "进步的意义"
+    }
+   ],
+   "editions": [
+    "金吾伦、胡新和译《科学革命的结构》北京大学出版社；University of Chicago Press 50周年版"
+   ],
+   "related_people": [
+    "gr-20c-popper",
+    "gr-contemp-feyerabend",
+    "gr-20c-carnap"
+   ],
+   "misreadings": [
+    {
+     "claim": "库恩主张科学无进步",
+     "why": "他重定义进步：不是趋近真理，而是解题能力的提升；“无进步”是对其相对主义化的误读。"
+    },
+    {
+     "claim": "范式转换是格式塔式的突变、无理性可言",
+     "why": "他强调说服与论证仍在起作用，只是不足以独自决定。"
+    }
+   ],
+   "sources": [
+    "book-kuhn-ssr",
+    "sep-popper"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“不可通约性”的确切含义（语义的、方法的、还是本体论的）在库恩本人前后期表述中有变化，学界讨论持续；本页取其核心表述，不作定论。",
+   "sort_year": 1962
   },
   {
    "id": "work-order-of-things",
