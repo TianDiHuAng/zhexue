@@ -1,9 +1,9 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 446,
+  "entries": 450,
   "by_level": {
-   "L2": 381,
+   "L2": 385,
    "L1": 65
   },
   "doctrine": {
@@ -3896,6 +3896,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-qi-wu-lun",
+   "type": "work",
+   "title": "《齐物论》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-xunzi",
    "type": "work",
    "title": "《荀子》",
@@ -4248,6 +4259,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-discourse-inequality",
+   "type": "work",
+   "title": "《论人类不平等的起源和基础》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-social-contract",
    "type": "work",
    "title": "《社会契约论》",
@@ -4262,6 +4284,17 @@
    "id": "work-krv",
    "type": "work",
    "title": "《纯粹理性批判》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-groundwork",
+   "type": "work",
+   "title": "《道德形而上学奠基》",
    "container": "west",
    "level": "L2",
    "sources": 2,
@@ -4570,6 +4603,17 @@
    "id": "cmp-self-cultivation",
    "type": "comparative",
    "title": "修身与治疗：中西“自我技术”的两种路径",
+   "container": "comparative",
+   "level": "L2",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-dream-skepticism",
+   "type": "comparative",
+   "title": "梦与醒：庄周梦蝶与笛卡尔恶魔的两种怀疑",
    "container": "comparative",
    "level": "L2",
    "sources": 4,

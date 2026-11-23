@@ -521,6 +521,63 @@
    "sort_year": -300
   },
   {
+   "id": "work-qi-wu-lun",
+   "title": "《齐物论》",
+   "title_original": "齊物論",
+   "tradition": "china",
+   "date_display": "约前4—3世纪（《庄子》内篇）",
+   "structure": "《庄子》内篇第二；以“吾丧我”起，中经“三籁”“成心”“是非之辩”“朝三暮四”，末以“庄周梦蝶”收。",
+   "core_arguments": [
+    "“吾丧我”：破除固定的自我，方能听见“天籁”",
+    "是非源于“成心”：立场既定，则彼此之辩无终；故“和之以是非而休乎天钧”",
+    "“物化”：万物在转化中无恒常自体，梦蝶之喻即示此"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "“吾丧我”与三籁"
+    },
+    {
+     "locator": "中段",
+     "point": "“道隐于小成，言隐于荣华”——是非之辩的根源"
+    },
+    {
+     "locator": "“朝三暮四”",
+     "point": "名实之辩的名相性质"
+    },
+    {
+     "locator": "末章",
+     "point": "庄周梦蝶与“物化”"
+    }
+   ],
+   "editions": [
+    "郭庆藩《庄子集释》中华书局；陈鼓应《庄子今注今译》中华书局"
+   ],
+   "related_people": [
+    "cn-xianqin-zhuangzi",
+    "cn-xianqin-hui-shi",
+    "cn-weijin-guoxiang"
+   ],
+   "misreadings": [
+    {
+     "claim": "《齐物论》主张“是非没有区别”因而取消判断",
+     "why": "它区分“成心”的是非与“天钧”的两行：不是取消判断，而是不再把一方立场当作绝对。"
+    },
+    {
+     "claim": "“吾丧我”是丧失自我意识",
+     "why": "丧的是固定的“我”（成心之我），不是意识本身；其结果是“天籁”式的开放。"
+    }
+   ],
+   "sources": [
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -300
+  },
+  {
    "id": "work-xunzi",
    "title": "《荀子》",
    "title_original": "荀子（Xunzi）",
@@ -2332,6 +2389,62 @@
    "sort_year": 1748
   },
   {
+   "id": "work-discourse-inequality",
+   "title": "《论人类不平等的起源和基础》",
+   "title_original": "Discours sur l'origine et les fondements de l'inégalité parmi les hommes",
+   "tradition": "west",
+   "date_display": "1755年",
+   "structure": "献词＋序＋本论（两部分）：第一部分描述自然状态中的自然人与“自然的不平等”；第二部分描述私有制、冶金农耕、社会契约与专制如何造就“道德的不平等”。",
+   "core_arguments": [
+    "自然状态中人独立自足，同情（pitié）与自保（amour de soi）足以维系",
+    "不平等始于私有制：“谁第一个圈起一块地……便是文明社会的真正奠基者”",
+    "自尊（amour-propre）是社会比较的产物，是不平等的心理根源"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "自然人与同情心"
+    },
+    {
+     "locator": "第二部分开篇",
+     "point": "私有制的起源"
+    },
+    {
+     "locator": "第二部分中段",
+     "point": "冶金与农耕如何加深依附"
+    },
+    {
+     "locator": "第二部分末",
+     "point": "专制使不平等回到“新的自然状态”"
+    }
+   ],
+   "editions": [
+    "李常山译《论人类不平等的起源和基础》商务印书馆；GF-Flammarion 法文本"
+   ],
+   "related_people": [
+    "gr-modern-rousseau",
+    "gr-modern-hobbes",
+    "gr-19c-marx"
+   ],
+   "misreadings": [
+    {
+     "claim": "卢梭主张回到原始自然状态",
+     "why": "他说自然状态“也许从未存在”，它是分析性的对照，用以诊断现实的不平等。"
+    },
+    {
+     "claim": "卢梭否定一切文明",
+     "why": "他批判的是不平等与依附，而非技艺本身；《社会契约论》正是要重建合法的社会。"
+    }
+   ],
+   "sources": [
+    "sep-rousseau",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1755
+  },
+  {
    "id": "work-social-contract",
    "title": "《社会契约论》",
    "title_original": "Du contrat social",
@@ -2445,6 +2558,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1781
+  },
+  {
+   "id": "work-groundwork",
+   "title": "《道德形而上学奠基》",
+   "title_original": "Grundlegung zur Metaphysik der Sitten",
+   "tradition": "west",
+   "date_display": "1785年",
+   "structure": "三章（＋序）：一、从普通道德理性到哲学的道德理性（善良意志、义务、定言命令第一形式）；二、从通俗道德哲学到道德形而上学（目的公式、自律）；三、从道德形而上学到纯粹实践理性批判（自由与自律的循环）。",
+   "core_arguments": [
+    "道德价值在于出于义务而行，不在于合乎义务的结果",
+    "定言命令的普遍法则公式：只按你能同时意愿其成为普遍法则的准则行动",
+    "目的公式：始终把人（理性存在者）同时当作目的，绝不仅仅当作手段",
+    "自律：意志为自己立法，故自由与道德是同一件事"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "善良意志与“出于义务”"
+    },
+    {
+     "locator": "第二章",
+     "point": "定言命令的三种公式"
+    },
+    {
+     "locator": "第二章末",
+     "point": "自律原则与目的王国"
+    },
+    {
+     "locator": "第三章",
+     "point": "自由与自律的“循环”及其解决"
+    }
+   ],
+   "editions": [
+    "杨云飞译《道德形而上学奠基》人民出版社；李秋零译《康德著作全集》第4卷"
+   ],
+   "related_people": [
+    "gr-german-kant",
+    "gr-19c-mill",
+    "gr-contemp-rawls"
+   ],
+   "misreadings": [
+    {
+     "claim": "康德要求人压抑情感、只按冷冰冰的规则行动",
+     "why": "他要求的是动机不由情感决定；情感可作为助力，只是不能充当道德的根据。"
+    },
+    {
+     "claim": "定言命令能直接算出具体该做什么",
+     "why": "它检验准则能否被普遍化，具体应用需判断力与实践理性，故康德另著《道德形而上学》。"
+    }
+   ],
+   "sources": [
+    "sep-kant",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1785
   },
   {
    "id": "work-cpr-practical",
