@@ -3501,6 +3501,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-technology",
+   "title": "技术是危险还是救渡",
+   "question": "现代技术是人类的工具（可善可恶），还是已经改变了人与存在的关系？",
+   "positions": [
+    {
+     "holder": "海德格尔",
+     "id": "gr-20c-heidegger",
+     "stance": "技术的本质是“座架”",
+     "reasons": [
+      "现代技术把一切存在者设定为可支配的“持存物”（Bestand）。",
+      "危险之处不在技术本身，而在它垄断了揭示的方式；故须“泰然任之”。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "雅斯贝尔斯",
+     "id": "gr-20c-jaspers",
+     "stance": "技术是手段，须由理性引导",
+     "reasons": [
+      "技术本身中立，其意义取决于人的目的。",
+      "故须以“交往理性”与人文价值引导技术。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "阿多诺",
+     "id": "gr-20c-adorno",
+     "stance": "工具理性已成支配",
+     "reasons": [
+      "启蒙的辩证法：工具理性把一切化约为可计算者。",
+      "故技术不是中立工具，而是支配关系的形式。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“中立性”：雅斯贝尔斯坚持工具论（技术中立，价值在外），海德格尔与阿多诺都否认中立性，但方向不同——海德格尔关注“存在如何被揭示”，阿多诺关注“支配关系如何被内化”。",
+   "status": "无定论",
+   "status_note": "这一争论在当代技术哲学（如弗洛里迪的信息伦理、唐·伊德的技科学）中延续。",
+   "sources": [
+    "sep-heidegger",
+    "sep-jaspers",
+    "sep-adorno"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

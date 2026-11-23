@@ -4984,6 +4984,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-state-nature",
+   "title": "自然状态是战争还是和平",
+   "question": "无政府状态下，人的处境是“一切人反对一切人的战争”，还是相对和平的独立自足？",
+   "positions": [
+    {
+     "holder": "霍布斯",
+     "id": "gr-modern-hobbes",
+     "stance": "战争状态",
+     "reasons": [
+      "人在身心能力上大致平等，故都有希望获取同样的东西。",
+      "资源有限而欲望无尽，竞争、猜疑与荣誉使人互为威胁。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "卢梭",
+     "id": "gr-modern-rousseau",
+     "stance": "和平而自足",
+     "reasons": [
+      "自然状态中人独立自足，欲望不超出需要。",
+      "同情（pitié）与自保（amour de soi）足以维系，不需国家。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "洛克（对照）",
+     "id": "gr-modern-locke",
+     "stance": "有自然法约束的和平状态",
+     "reasons": [
+      "自然状态有自然法（理性之法）约束，并非无法无天。",
+      "缺的只是共同的裁判者，故需政府而非绝对主权。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“人性与稀缺的假设”：霍布斯假定欲望无限且稀缺，故冲突必然；卢梭假定欲望有限且独立，故和平可能；洛克假定自然法有效，故只需裁判者。三种自然状态是三种**假设**，因此得出的政治结论也不同。",
+   "status": "无定论",
+   "status_note": "三说在17—18世纪并行；现代政治哲学（罗尔斯的原初状态）以之为论证装置的先例，而不当作历史描述。",
+   "sources": [
+    "sep-hobbes",
+    "sep-rousseau",
+    "sep-locke"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

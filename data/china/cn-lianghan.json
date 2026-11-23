@@ -2389,6 +2389,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-chunqiu-bifa",
+   "title": "《春秋》笔法是实录还是托寄",
+   "question": "孔子作《春秋》，是据事直书而褒贬自见，还是借事以寄托新王之制？",
+   "positions": [
+    {
+     "holder": "何休",
+     "id": "cn-lianghan-he-xiu",
+     "stance": "托寄改制",
+     "reasons": [
+      "“黜周王鲁”：托鲁为受命之王，以见改制之义。",
+      "三世书法有系统差异，非单纯记事。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "郑玄",
+     "id": "cn-lianghan-zheng-xuan",
+     "stance": "以礼制与史实为本",
+     "reasons": [
+      "《春秋》所记皆史事，须以礼制与史实通之。",
+      "以“黜周王鲁”为书法，则经与史相乱。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "后世今文家（清代，对照）",
+     "id": null,
+     "stance": "重申托寄",
+     "reasons": [
+      "庄存与、刘逢禄、康有为重申三世与改制。",
+      "以“微言大义”为经学的核心。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点是“经”的性质：《春秋》若为史，则褒贬附于事实；若为经，则事实可为例示。何休与郑玄的争论（《发墨守》《针膏肓》）正是围绕这一点展开——不是谁读错了字，而是对“经”的定位不同。",
+   "status": "无定论",
+   "status_note": "今古文之争延续至清代；现代研究多认为“黜周王鲁”是汉代公羊学的解释主张，未必是《春秋》本义。",
+   "sources": [
+    "ct-chunqiufanlu",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《春秋》三传与汉儒注疏的文本状况复杂；本页只呈现何休与郑玄的解释分歧，不判定《春秋》本义。"
   }
  ]
 }

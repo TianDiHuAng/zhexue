@@ -3721,6 +3721,54 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-trinity-reason",
+   "title": "哲学能否论证三位一体",
+   "question": "三位一体是只能由启示接受的奥秘，还是可由理性论证的真理？",
+   "positions": [
+    {
+     "holder": "安瑟尔谟",
+     "id": "gr-medieval-anselm",
+     "stance": "可以论证（fides quaerens intellectum）",
+     "reasons": [
+      "“我信，为了理解”：信仰先行，但可求理解。",
+      "以“必然性”论证神的三一结构（《独白》《宣讲》）。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "阿伯拉尔",
+     "id": "gr-medieval-abelard",
+     "stance": "以辩证法进入",
+     "reasons": [
+      "以类比与辩证方法讨论三位一体，虽遭谴责仍坚持理性方法。",
+      "若理性与信仰冲突，须辨明语言的层次。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "阿奎那",
+     "id": "gr-medieval-aquinas",
+     "stance": "不可论证，只能护卫",
+     "reasons": [
+      "三位一体超出自然理性的范围，只能由启示得知。",
+      "理性可做的只是澄清术语、反驳反对意见（《神学大全》I q.32）。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“奥秘与论证的界线”：安瑟尔谟认为“必然性”可以把握三一；阿奎那认为超出自然理性；阿伯拉尔则试以辩证法进入而被谴责。三者的分歧是关于理性限度的分歧，而非关于教义内容的分歧。",
+   "status": "大体有定论（阿奎那的“不可论证”成为正统表述），哲学上仍有讨论",
+   "status_note": "阿奎那的立场（三位一体为启示真理，理性只能护卫）成为天主教正统；理性论证的尝试（如安瑟尔谟、阿伯拉尔）被视为“过度”但未消失。",
+   "sources": [
+    "lat-anselm-proslogion",
+    "lat-aquinas-summa",
+    "sep-aquinas",
+    "sep-abelard"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

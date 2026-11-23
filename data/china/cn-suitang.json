@@ -2397,6 +2397,54 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-sanjiao",
+   "title": "儒释道三教可否并存",
+   "question": "三教是彼此排斥的异端，还是可以并立、甚至同归一源？",
+   "positions": [
+    {
+     "holder": "韩愈",
+     "id": "cn-suitang-han-yu",
+     "stance": "排斥佛老",
+     "reasons": [
+      "佛老弃君臣父子、不事生产，破坏伦常与经济。",
+      "当“人其人，火其书，庐其居”，以儒家道统重建秩序。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "宗密",
+     "id": "cn-suitang-zongmi",
+     "stance": "判摄而并存",
+     "reasons": [
+      "以“本觉”为判准：儒道为人天层次，佛教为了义。",
+      "三教可并存而有高下，不必相攻。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "王通",
+     "id": "cn-suitang-wang-tong",
+     "stance": "三教可一",
+     "reasons": [
+      "佛道各有其用，然其根本不及儒家之治世。",
+      "“三教于是乎可一矣”：以儒为本而兼容。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“判准”：韩愈以伦常与经济为判准，故佛老在原则上被排除；宗密以“迷悟之本”为判准，故三教可分层并存；王通以“治世”为判准，故以儒统摄。判准不同，“可否并存”的答案就不同。",
+   "status": "无定论",
+   "status_note": "唐代实际是三教并尊（朝廷三教讲论）；宋以后理学以“道统”排斥佛老，而心性资源又多所吸收——理论与实践并不一致。",
+   "sources": [
+    "ws-yuandao",
+    "ws-chanyuan",
+    "ws-zhongshuo",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

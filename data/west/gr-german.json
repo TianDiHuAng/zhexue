@@ -2155,6 +2155,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-german-categorical-application",
+   "title": "定言命令能否推出具体义务",
+   "question": "“只按你能同时意愿其成为普遍法则的准则行动”——这一形式原则是否足以决定具体该做什么？",
+   "positions": [
+    {
+     "holder": "康德",
+     "id": "gr-german-kant",
+     "stance": "形式原则足以检验准则",
+     "reasons": [
+      "普遍化检验可剔除自败的准则（如虚假承诺）。",
+      "故道德法则不需要外在目的，只需形式的自洽。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "黑格尔",
+     "id": "gr-german-hegel",
+     "stance": "形式原则空洞",
+     "reasons": [
+      "“普遍化”可容纳互相冲突的准则，无法决定取舍。",
+      "故须有具体的伦理生活（Sittlichkeit）来充实内容。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "功利主义者（对照）",
+     "id": null,
+     "stance": "须有实质目的",
+     "reasons": [
+      "道德须以后果（最大幸福）为内容。",
+      "仅凭形式自洽，无法说明为何要道德。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点在“形式与内容”：康德的检验是排除性的（剔除不可普遍化者），不是生成性的（不能直接算出该做什么）。黑格的批评针对其不生成内容；康德一系可回应说检验本不承担生成任务，具体应用需判断力。",
+   "status": "无定论",
+   "status_note": "这一争论至今仍是规范伦理学的核心（规则功利主义、康德式建构主义都在回应它）。",
+   "sources": [
+    "sep-kant",
+    "sep-hegel",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

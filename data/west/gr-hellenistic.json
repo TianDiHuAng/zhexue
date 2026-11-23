@@ -2847,6 +2847,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-world-citizen",
+   "title": "世界城邦是否可能",
+   "question": "人应当效忠具体的城邦，还是作为“世界公民”属于一个普遍共同体？",
+   "positions": [
+    {
+     "holder": "芝诺（季蒂昂）",
+     "id": "gr-hellenistic-zeno",
+     "stance": "世界城邦",
+     "reasons": [
+      "一切理性存在者同属一个以宇宙为范围的政治共同体。",
+      "故正义与法律应以普遍理性为根据，非以城邦习俗为限。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "西塞罗",
+     "id": "gr-hellenistic-cicero",
+     "stance": "自然法高于城邦法",
+     "reasons": [
+      "真正的法律是与自然相符的正当理性，普遍不变。",
+      "故城邦的实定法若不义，便不是真正的法。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "怀疑论与部分城邦传统（对照）",
+     "id": null,
+     "stance": "普遍共同体是空话",
+     "reasons": [
+      "具体的义务总在具体的城邦与角色中。",
+      "以“世界公民”自居，易回避当下的责任。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点在“义务的来源”：若义务来自普遍理性，则城邦只是其一个环节；若义务来自具体角色，则普遍共同体无所承载。这一问题在近代（康德的世界公民、罗尔斯的万民法）以新的形式重现。",
+   "status": "无定论",
+   "status_note": "斯多亚的世界城邦论经西塞罗进入罗马法与国际法传统；近代世界主义与社群主义之争可视为其延续。",
+   "sources": [
+    "sep-stoicism",
+    "iep-stoicism",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

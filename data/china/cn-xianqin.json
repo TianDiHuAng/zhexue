@@ -2697,6 +2697,54 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-dezhi-fazhi",
+   "title": "德治还是法治",
+   "question": "治国应以统治者的德性与教化，还是以公开的法度与赏罚？",
+   "positions": [
+    {
+     "holder": "孔子",
+     "id": "cn-xianqin-kongzi",
+     "stance": "德治",
+     "reasons": [
+      "“道之以政，齐之以刑，民免而无耻；道之以德，齐之以礼，有耻且格。”",
+      "政刑只能使人畏避，礼德才能使人有耻。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "商鞅",
+     "id": "cn-xianqin-shang-yang",
+     "stance": "法治",
+     "reasons": [
+      "民性趋利避害，故以赏罚导之最可靠。",
+      "“法者，国之权衡也”：法须公开、必行、一刑。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "韩非",
+     "id": "cn-xianqin-hanfei",
+     "stance": "法术势并用",
+     "reasons": [
+      "不恃人之为吾善，而恃其不得为非。",
+      "法、术、势三者相济，方能不待贤君而治。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“治的可靠性依据”：德治依赖于统治者与民人的德性（不可必得），法治依赖于制度的必行（可设计）。孔子的质疑是“免而无耻”——法能止恶但不能生善；商韩的质疑是“人不足恃”——德治在现实中不可靠。二者针对的是不同的失败情形。",
+   "status": "无定论",
+   "status_note": "历代实际政治多为“德主刑辅”的混合，两家互相批评而未能取代对方。",
+   "sources": [
+    "ct-analects",
+    "ws-shangjunshu",
+    "ct-hanfeizi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

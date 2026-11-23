@@ -3045,6 +3045,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-gongyang",
+   "title": "公羊三世是否可信",
+   "question": "公羊学的“三世”说是孔子的微言大义，还是汉儒的附会？",
+   "positions": [
+    {
+     "holder": "康有为",
+     "id": "cn-qingmod-kang-youwei",
+     "stance": "三世为孔子改制之义",
+     "reasons": [
+      "据乱—升平—太平为历史进化的阶段。",
+      "孔子托古改制，故三世是其微言。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "古文家与部分清儒（对照）",
+     "id": null,
+     "stance": "三世为汉儒附会",
+     "reasons": [
+      "《春秋》所记皆史事，三世只是“所见／所闻／所传闻”的史料远近之别。",
+      "以三世为进化阶段，是以今律古。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "章太炎",
+     "id": "cn-qingmod-zhang-taiyan",
+     "stance": "以史实与国粹立说",
+     "reasons": [
+      "经为史，不当以“微言”附会西学。",
+      "以三世说推行变法，是以经术文饰政论。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“经学的性质”：若经含微言大义，则三世可被读作历史哲学；若经即是史，则三世只是史料分期的表述。这一分歧在晚清直接关联变法的正当性论证。",
+   "status": "无定论",
+   "status_note": "康有为的今文经学在晚清影响巨大，但“新学伪经”说遭多数实证研究反驳；三世说的哲学化解读至今仍有人主张。",
+   "sources": [
+    "sep-qing-philosophy",
+    "book-chan-sourcebook",
+    "ws-wenshi-tongyi"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

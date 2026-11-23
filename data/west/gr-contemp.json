@@ -2169,6 +2169,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-liberalism-culture",
+   "title": "自由主义能否容纳文化差异",
+   "question": "以普遍权利为基础的自由主义，是否足以容纳少数群体的文化差异？",
+   "positions": [
+    {
+     "holder": "罗尔斯",
+     "id": "gr-contemp-rawls",
+     "stance": "可以：以基本善与公共理性容纳",
+     "reasons": [
+      "正义原则保障基本善的公平分配，不预设特定善观念。",
+      "公共理性的限制使多元的善观念可以共存。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "哈贝马斯",
+     "id": "gr-contemp-habermas",
+     "stance": "可以：以交往程序容纳",
+     "reasons": [
+      "规范的有效性来自所有受影响的自由参与者的同意。",
+      "故文化差异可在交往程序中得到考虑。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "罗蒂",
+     "id": "gr-contemp-rorty",
+     "stance": "不必求普遍基础",
+     "reasons": [
+      "以“减少残酷”与“我们”的扩大为目标，不需普遍主义论证。",
+      "故文化差异的容纳是实践问题，非基础问题。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“容纳的机制”：罗尔斯用基本善与公共理性，哈贝马斯用交往程序，罗蒂用同情与叙事。三者都不否认差异，但对其“如何被制度化”给出不同答案；批评者（如社群主义者）认为三者都低估了文化对自我的构成作用。",
+   "status": "无定论",
+   "status_note": "这一争论在1990年代的自由主义—社群主义之争中被充分展开；当代的身份政治与多元文化主义讨论仍是其延续。",
+   "sources": [
+    "sep-rawls",
+    "sep-habermas",
+    "sep-derrida"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

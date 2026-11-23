@@ -3432,6 +3432,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-poetry-philosophy",
+   "title": "诗与哲学之争：为何要把诗人逐出理想国",
+   "question": "诗歌（尤其荷马）是教化的资源，还是应当被哲学审查甚至驱逐？",
+   "positions": [
+    {
+     "holder": "柏拉图",
+     "id": "gr-ancient-plato",
+     "stance": "诗模仿影像，且败坏理性",
+     "reasons": [
+      "诗模仿可感物，而可感物又模仿理念，故诗是“模仿的模仿”。",
+      "诗诉诸情感、滋养哀伤，使理性失去控制（《理想国》卷十）。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "stance": "诗比历史更哲学",
+     "reasons": [
+      "诗写“可能之事”，历史写“已然之事”，故诗更近普遍。",
+      "悲剧通过怜悯与恐惧达成“卡塔西斯”，有净化功能。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "后世诗学（对照）",
+     "id": null,
+     "stance": "诗有其独立真理",
+     "reasons": [
+      "诗不是命题陈述，故不以真假论。",
+      "诗开启世界、塑造共同体（此说在近代由维柯、海德格尔发展）。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点在“诗的真理性”：柏拉图以“与理念的距离”为尺度，故诗最远；亚里士多德以“普遍性”为尺度，故诗更近。二者对“哲学”的理解不同，导致对诗的判定相反。",
+   "status": "无定论",
+   "status_note": "柏拉图的“驱逐诗人”常被读作对艺术的敌视，但其语境是城邦教化与灵魂秩序；亚里士多德《诗学》则开出了另一条路。",
+   "sources": [
+    "sep-plato",
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }
