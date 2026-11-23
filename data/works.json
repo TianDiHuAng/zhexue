@@ -6302,6 +6302,63 @@
    "sort_year": 250
   },
   {
+   "id": "work-yan-jin-yi-lun",
+   "title": "《言尽意论》",
+   "title_original": "言盡意論",
+   "tradition": "china",
+   "date_display": "西晋（欧阳建，约3世纪）",
+   "structure": "一篇（残篇，见《艺文类聚》卷十九）；以“名实”为根据论证言能尽意。",
+   "core_arguments": [
+    "“理得于心，非言不畅；物定于彼，非名不辩”：言与名是达理辨物的必要工具",
+    "名实相副：名随实变，故言可尽意",
+    "反驳“言不尽意”：若言不尽意，则圣人之言亦无所传"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "言与名的功能"
+    },
+    {
+     "locator": "中段",
+     "point": "名实相副的论证"
+    },
+    {
+     "locator": "末段",
+     "point": "对“言不尽意”的反驳"
+    },
+    {
+     "locator": "残篇",
+     "point": "文本的残缺状况"
+    }
+   ],
+   "editions": [
+    "《艺文类聚》卷十九所引；严可均《全晋文》辑本"
+   ],
+   "related_people": [
+    "cn-weijin-ouyang-jian",
+    "cn-weijin-wangbi",
+    "cn-weijin-jikang"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是完整的论文",
+     "why": "今存仅为残篇（《艺文类聚》所引），故其论证的完整面貌不可得；只能据残篇与其论敌的立场重建。"
+    },
+    {
+     "claim": "“言尽意”是常识之见，无哲学深度",
+     "why": "它触及**经典权威**的根据：若言不尽意，则圣人之言无所传；故其论证是玄学与经学的交汇处。"
+    }
+   ],
+   "sources": [
+    "ws-shishuo-xinyu",
+    "ws-zhaolun",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《言尽意论》今存残篇（《艺文类聚》卷十九引），其完整论证不可得；本页依残篇与玄学研究概述。",
+   "sort_year": 290
+  },
+  {
    "id": "work-chongyoulun",
    "title": "《崇有论》",
    "title_original": "崇有論",
@@ -9395,6 +9452,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1527
+  },
+  {
+   "id": "work-wang-yangming-quanji",
+   "title": "《王阳明全集》",
+   "title_original": "王陽明全集",
+   "tradition": "china",
+   "date_display": "明（王守仁，1472—1529）；后世编集",
+   "structure": "三十八卷（通行本）：语录（《传习录》三卷）、文录、别录、外集、续编、年谱、世德纪等。",
+   "core_arguments": [
+    "“致良知”：良知是心之本体，学问的工夫是“致”它于事事物物",
+    "“知行合一”：知而不行只是未知",
+    "“万物一体”：以良知的感通说明人与万物的一体"
+   ],
+   "key_points": [
+    {
+     "locator": "《传习录》上卷",
+     "point": "知行合一与格物"
+    },
+    {
+     "locator": "《传习录》中卷",
+     "point": "《答顾东桥书》与“致良知”"
+    },
+    {
+     "locator": "《传习录》下卷",
+     "point": "四句教与天泉证道"
+    },
+    {
+     "locator": "《大学问》",
+     "point": "万物一体"
+    }
+   ],
+   "editions": [
+    "上海古籍出版社《王阳明全集》（吴光等编校）；中华书局《王阳明全集》"
+   ],
+   "related_people": [
+    "cn-songming-wang-yangming",
+    "cn-songming-zhu-xi",
+    "cn-songming-wang-gen"
+   ],
+   "misreadings": [
+    {
+     "claim": "“知行合一”是说“知道了就会去做”",
+     "why": "它更强：**知而不行只是未知**——故“知”本身就是行的开端，二者的分离是后来的抽象。这一说法取消了“知而不行”这一常识现象的真实性。"
+    },
+    {
+     "claim": "《全集》中的语录即其亲笔",
+     "why": "《传习录》为门人记录（徐爱、陆澄、薛侃等），故其文字经记录者之手；须与他的亲著文书（收于文集）对读。"
+    }
+   ],
+   "sources": [
+    "ws-chuanxi",
+    "ws-mingru-xuean",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《王阳明全集》的卷次与篇目在各整理本间有差异（吴光本与中华书局本）；《传习录》为门人记录，其文字须与文集中的亲著对读。",
    "sort_year": 1527
   },
   {

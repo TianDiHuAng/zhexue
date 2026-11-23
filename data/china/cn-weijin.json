@@ -2779,6 +2779,117 @@
    ],
    "needs_verification": true,
    "pending_notes": "《神灭论》全文因《弘明集》的收录而存（该书同时收反驳文字，是论辩的完整档案）；范缜的生平材料较少，其思想的完整面貌须依《梁书》《南史》本传与《弘明集》。"
+  },
+  {
+   "id": "cn-weijin-yan-jin-yi",
+   "term": "言尽意",
+   "term_latin": "words fully express meaning",
+   "definition": "欧阳建《言尽意论》的立场：言能尽意。它是对“言不尽意”的反驳——若言不能尽意，则圣人之言亦无所传，经典将无意义。故其论证以“名实相副”为根据。",
+   "usages": [
+    {
+     "name": "欧阳建",
+     "id": "cn-weijin-ouyang-jian",
+     "usage": "“理得于心，非言不畅；物定于彼，非名不辩”：言名是达理辨物的必要工具。"
+    },
+    {
+     "name": "王弼（被反驳者）",
+     "id": "cn-weijin-wangbi",
+     "usage": "以“言不尽意”为说：言是得意的工具，得鱼忘筌。"
+    },
+    {
+     "name": "荀粲（同调于不尽意）",
+     "usage": "以“象外之意”为言所不能尽；这一用法须与相邻概念分辨。"
+    }
+   ],
+   "related": [],
+   "example": {
+    "text": "“言尽意”的处境很实际：若言不尽意，则经典（圣人之言）如何传达真理？故其论证不只是语言哲学，更是**经典权威**的问题——这一点使魏晋的“言意之辨”直接关系到经学的根据。",
+    "figure": "欧阳建",
+    "locator": "《言尽意论》"
+   },
+   "sources": [
+    "ws-shishuo-xinyu",
+    "ws-zhaolun",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《言尽意论》全文见《艺文类聚》卷十九所引（今本仅存残篇），故其论证的完整面貌有限；本页依残篇与玄学研究概述。"
+  },
+  {
+   "id": "cn-weijin-shengren-tiwu",
+   "term": "圣人体无",
+   "term_latin": "the sage embodies non-being",
+   "definition": "何劭《王弼传》所记王弼之说：孔子“体无”（在生存中体现无），而老子“言无”（只是言说无）——故孔子高于老子。这一说法把“贵无”的形而上学与孔子的圣人地位调和起来。",
+   "usages": [
+    {
+     "name": "王弼",
+     "id": "cn-weijin-wangbi",
+     "usage": "“圣人体无，无又不可以训，故不说也；老子是有者，故恒言其所不足。”"
+    },
+    {
+     "name": "何晏（同代人）",
+     "id": "cn-weijin-heyan",
+     "usage": "以“贵无”为说，与王弼相近；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "裴頠（批评者）",
+     "usage": "以“崇有”反驳：若贵无，则名教失其根据。"
+    }
+   ],
+   "related": [
+    "cn-weijin-guiwu",
+    "cn-weijin-mingjiao-ziran"
+   ],
+   "example": {
+    "text": "“圣人体无”的巧妙在于它**颠倒了表面的言说次序**：老子多说“无”，反而说明他只在“言”的层面；孔子不说“无”，正因他已在“体”的层面。故这一说法既是玄学命题，也是**经学策略**——它使玄学不必与孔子冲突。",
+    "figure": "王弼",
+    "locator": "《三国志·钟会传》裴注引何劭《王弼传》"
+   },
+   "sources": [
+    "ws-shishuo-xinyu",
+    "ws-zhaolun",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“圣人体无”出自何劭《王弼传》的转述（见裴松之注），非王弼自著；其确切措辞与语境须核《王弼集校释》。"
+  },
+  {
+   "id": "cn-weijin-yue-mingjiao",
+   "term": "越名教而任自然",
+   "term_latin": "transcending moral norms and following nature",
+   "definition": "嵇康的纲领（《释私论》）：超越名教（人为的礼法规范）而任自然（本性）。它不是取消一切规范，而是以“自然”为名教的根据——故名教若违自然，则当被超越。",
+   "usages": [
+    {
+     "name": "嵇康",
+     "id": "cn-weijin-jikang",
+     "usage": "“越名教而任自然”：名教若违自然，则非真名教。"
+    },
+    {
+     "name": "向秀与郭象（改造）",
+     "id": "cn-weijin-guoxiang",
+     "usage": "以“名教即自然”调和二者：名教是自然的分位。"
+    },
+    {
+     "name": "乐广（同代人）",
+     "usage": "以“名教中自有乐地”回应，不走“越”的路线。"
+    }
+   ],
+   "related": [
+    "cn-weijin-mingjiao-ziran",
+    "cn-weijin-sheng-wu-aile"
+   ],
+   "example": {
+    "text": "“越名教而任自然”常被读作反礼法，但其锋芒是**有条件**的：它所反对的是“违自然之名教”（虚伪的礼法），而非一切规范。故郭象的“名教即自然”不是背叛，而是把这一条件绝对化。",
+    "figure": "嵇康",
+    "locator": "《释私论》"
+   },
+   "sources": [
+    "ws-shishuo-xinyu",
+    "ws-hongming-ji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

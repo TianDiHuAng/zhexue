@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1042,
+  "entries": 1049,
   "by_level": {
-   "L2": 780,
-   "L1": 262
+   "L2": 782,
+   "L1": 267
   },
   "doctrine": {
    "total": 248,
    "detail": 248,
    "auto": 0
   },
-  "needs_verification": 262,
+  "needs_verification": 267,
   "sources": 386,
   "sources_verified": 386
  },
@@ -39,7 +39,7 @@
    "title": "宋明理学与心学",
    "region": "china",
    "philosophers": 20,
-   "concepts": 26,
+   "concepts": 28,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -12"
   },
@@ -57,7 +57,7 @@
    "title": "魏晋玄学",
    "region": "china",
    "philosophers": 13,
-   "concepts": 20,
+   "concepts": 23,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -5"
   },
@@ -1641,6 +1641,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-songming-sijujiao",
+   "type": "concept",
+   "title": "四句教",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-taixu-jiqi",
+   "type": "concept",
+   "title": "太虚即气",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-songming-zhu-lu",
    "type": "debate",
    "title": "尊德性还是道问学：朱陆之辩",
@@ -2650,6 +2672,39 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-yan-jin-yi",
+   "type": "concept",
+   "title": "言尽意",
+   "container": "cn-weijin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-shengren-tiwu",
+   "type": "concept",
+   "title": "圣人体无",
+   "container": "cn-weijin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-yue-mingjiao",
+   "type": "concept",
+   "title": "越名教而任自然",
+   "container": "cn-weijin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -8989,6 +9044,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-yan-jin-yi-lun",
+   "type": "work",
+   "title": "《言尽意论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-chongyoulun",
    "type": "work",
    "title": "《崇有论》",
@@ -9591,6 +9657,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-wang-yangming-quanji",
+   "type": "work",
+   "title": "《王阳明全集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

@@ -4050,6 +4050,79 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-sijujiao",
+   "term": "四句教",
+   "term_latin": "the four-line teaching",
+   "definition": "王阳明晚年的宗旨（《传习录》下卷所记）：“无善无恶心之体，有善有恶意之动，知善知恶是良知，为善去恶是格物。”四句含本体（心之体）与工夫（意、知、格物）两层，成为此后阳明学分化的起点（“四有”与“四无”之争）。",
+   "usages": [
+    {
+     "name": "王阳明",
+     "id": "cn-songming-wang-yangming",
+     "usage": "四句教为“彻上彻下”之语，学者须依之修行。"
+    },
+    {
+     "name": "王畿（龙溪，主“四无”）",
+     "usage": "以“心、意、知、物皆无”推至极致，与四句教相左。"
+    },
+    {
+     "name": "钱德洪（主“四有”）",
+     "usage": "坚守四句教的工夫次第；这一用法须与相邻概念分辨。"
+    }
+   ],
+   "related": [
+    "cn-songming-zhi-liangzhi"
+   ],
+   "example": {
+    "text": "四句教的张力在第一句：若“心之体”无善无恶，则良知的“知善知恶”从何而有？王畿由此推向“四无”（连意知物皆无），钱德洪则守住工夫——**同一四句，两读皆有其文本空间**，这正是阳明学分裂的经典案例。",
+    "figure": "王阳明",
+    "locator": "《传习录》下卷"
+   },
+   "sources": [
+    "ws-chuanxi",
+    "ws-mingru-xuean",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“四句教”的原文与王阳明本人对它的解释（《传习录》下卷“天泉证道”一节）出自门人记录，其措辞与语境须核；王畿与钱德洪的两读亦见该书。"
+  },
+  {
+   "id": "cn-songming-taixu-jiqi",
+   "term": "太虚即气",
+   "term_latin": "the Great Void is qi",
+   "definition": "张载的命题：太虚不是空无，而是气的本然状态（“太虚不能无气”）；气聚则为万物，散则复归太虚。故“有无”只是气的聚散，不是生灭。",
+   "usages": [
+    {
+     "name": "张载",
+     "id": "cn-songming-zhang-zai",
+     "usage": "“太虚即气”：虚空即气之散而未聚者。"
+    },
+    {
+     "name": "王夫之（承之）",
+     "usage": "以“絪缊”与“太虚即气”建立气本论。"
+    },
+    {
+     "name": "朱熹（批评）",
+     "id": "cn-songming-zhu-xi",
+     "usage": "以“理在气先”为说：气有聚散，理则不变。"
+    }
+   ],
+   "related": [
+    "cn-songming-li-qi"
+   ],
+   "example": {
+    "text": "“太虚即气”取消了“无”这一本原：若虚空也是气，则不存在“空无一物”的状态——故它与王弼的“贵无”、佛教的“空”都不同。这一命题使气本论有了本体论的地位，而不只是宇宙生成论。",
+    "figure": "张载",
+    "locator": "《正蒙·太和篇》"
+   },
+   "sources": [
+    "ws-taijitushuo",
+    "ws-zhouyi-waizhuan2",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [
