@@ -3332,6 +3332,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-chinese-room",
+   "term": "中文屋",
+   "term_latin": "the Chinese Room",
+   "definition": "塞尔提出的思想实验：一个不懂中文的人在一间屋中，按规则手册处理送进来的中文问题并输出正确的中文答案。屋外人看来他“懂中文”，屋内人却完全不懂。用以论证符号操作（句法）不等于理解（语义）。",
+   "usages": [
+    {
+     "name": "塞尔（思想实验提出者，对照）",
+     "usage": "屋中人按规则处理字符而不懂中文：句法操作不产生语义理解，故强人工智能为假。"
+    },
+    {
+     "name": "维特根斯坦",
+     "id": "gr-20c-wittgenstein",
+     "usage": "若“理解”的用法在生活形式中确定，则“屋中人是否理解”取决于他是否进入那些实践，而非取决于其内在状态。"
+    },
+    {
+     "name": "系统回应（Searle 的批评者，对照）",
+     "usage": "屋中人虽不懂，但“屋中之人＋规则手册＋整个系统”可能懂——塞尔反驳说内化整个系统后仍不懂。"
+    }
+   ],
+   "related": [
+    "gr-20c-language-game",
+    "gr-20c-intentionality"
+   ],
+   "example": {
+    "text": "塞尔的原始设定：屋内人只有一本英文写的规则手册，按规则把收到的中文符号串替换为另一串中文符号送出；他能完美通过测试，却一个中文字也不识。塞尔的结论是：通过行为测试不等于具有理解。",
+    "figure": "塞尔（据其1980年论文）",
+    "locator": "Searle, “Minds, Brains, and Programs” (1980)"
+   },
+   "sources": [
+    "sep-chinese-room",
+    "sep-wittgenstein"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [
@@ -3590,6 +3626,53 @@
    "status_note": "这一问题（other minds）在分析哲学中仍是标准议题；维特根斯坦式的“消解”路线与其批评者（如克里普克）持续对话。",
    "sources": [
     "sep-husserl",
+    "sep-wittgenstein",
+    "sep-quine"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-machine-think",
+   "title": "机器能否思维：中文屋论证",
+   "question": "若一台机器能通过一切行为测试（如图灵测试），它是否就理解了语言、具有心灵？",
+   "positions": [
+    {
+     "holder": "塞尔（据其论证，对照）",
+     "id": null,
+     "stance": "强人工智能为假：句法不是语义",
+     "reasons": [
+      "在中文屋中，屋内人按规则处理中文字符而完全不懂中文；故符号操作（句法）不产生理解（语义）。",
+      "计算机程序是句法的，心灵是语义的，故程序本身不构成心灵。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "图灵（对照）",
+     "id": null,
+     "stance": "以行为判定即可",
+     "reasons": [
+      "若无法区分机器与人的对话行为，则“它能思维”这一问在实践上无意义。",
+      "以可观察的判别标准取代不可观察的内在状态，是科学的态度。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "维特根斯坦",
+     "id": "gr-20c-wittgenstein",
+     "stance": "问题在“思维”的用法",
+     "reasons": [
+      "“机器思维”的困惑来自把“思维”当作内在过程的名称。",
+      "若“思维”的用法在生活形式中确定，则机器能否思维要看它能否进入那些实践。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“理解”是否为内在状态：塞尔坚持语义的内在性（句法不足以产生语义），图灵以行为判别取代内在状态，维特根斯坦则质疑“内在状态”这一提法本身。三者不是对同一判据的三种取值，而是三种不同的判据观。",
+   "status": "无定论",
+   "status_note": "中文屋论证自1980年提出后引发大量回应（系统回应、机器人回应、语义引擎等）；塞尔本人多次修订表述。当代 AI 大语言模型的出现使这一争论重新活跃，但论证结构未变。",
+   "sources": [
+    "sep-chinese-room",
     "sep-wittgenstein",
     "sep-quine"
    ],

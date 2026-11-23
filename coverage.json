@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 662,
+  "entries": 669,
   "by_level": {
-   "L2": 562,
-   "L1": 100
+   "L2": 566,
+   "L1": 103
   },
   "doctrine": {
    "total": 217,
    "detail": 217,
    "auto": 0
   },
-  "needs_verification": 100,
+  "needs_verification": 103,
   "sources": 320,
   "sources_verified": 316
  },
@@ -39,7 +39,7 @@
    "title": "宋明理学与心学",
    "region": "china",
    "philosophers": 18,
-   "concepts": 11,
+   "concepts": 12,
    "debates": 6,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -84,8 +84,8 @@
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
    "philosophers": 19,
-   "concepts": 13,
-   "debates": 6,
+   "concepts": 14,
+   "debates": 7,
    "philosophers_slot": "8 上限，余 -11"
   },
   {
@@ -1143,6 +1143,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-wenjian-dexing",
+   "type": "concept",
+   "title": "闻见之知与德性之知",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -2961,6 +2972,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-chinese-room",
+   "type": "concept",
+   "title": "中文屋",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-20c-metaphysics-meaning",
    "type": "debate",
    "title": "形而上学命题是否有认知意义",
@@ -3019,6 +3041,17 @@
    "id": "gr-20c-others-mind",
    "type": "debate",
    "title": "他心问题如何解决",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-machine-think",
+   "type": "debate",
+   "title": "机器能否思维：中文屋论证",
    "container": "gr-20c",
    "level": "L2",
    "sources": 3,
@@ -5403,6 +5436,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-gorgias",
+   "type": "work",
+   "title": "《高尔吉亚篇》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-phaedrus",
+   "type": "work",
+   "title": "《斐德罗篇》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-theaetetus",
    "type": "work",
    "title": "《泰阿泰德篇》",
@@ -5521,6 +5576,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-poetics",
+   "type": "work",
+   "title": "《诗学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -6506,6 +6572,17 @@
    "id": "work-religion-hegel",
    "type": "work",
    "title": "《宗教哲学讲演录》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-aesthetics-hegel",
+   "type": "work",
+   "title": "《美学讲演录》",
    "container": "west",
    "level": "L1",
    "sources": 2,

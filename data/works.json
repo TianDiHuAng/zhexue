@@ -286,6 +286,118 @@
    "sort_year": -380
   },
   {
+   "id": "work-gorgias",
+   "title": "《高尔吉亚篇》",
+   "title_original": "Γοργίας（Gorgias）",
+   "tradition": "west",
+   "date_display": "约前380年",
+   "structure": "对话体；苏格拉底与高尔吉亚、波卢斯、卡利克勒斯三方依次论辩，论修辞术是不是技艺、正义与快乐、强者的权利，末以神话收束。",
+   "core_arguments": [
+    "修辞术不是技艺（technē）而是“奉承”（kolakeia），因其不关心对象的善",
+    "“做不义之事比受不义之事更坏”：作恶者的灵魂是失调的",
+    "卡利克勒斯的“自然正义”（强者统治弱者）被反驳：欲望的无节制使灵魂无法满足"
+   ],
+   "key_points": [
+    {
+     "locator": "449a—461b",
+     "point": "修辞术是否为技艺"
+    },
+    {
+     "locator": "474c—481b",
+     "point": "作恶与受恶孰更坏"
+    },
+    {
+     "locator": "482c—486d",
+     "point": "卡利克勒斯的自然正义"
+    },
+    {
+     "locator": "523a—527e",
+     "point": "末后的审判神话"
+    }
+   ],
+   "editions": [
+    "中译参《柏拉图全集》人民出版社；Loeb 版（Lamb）"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-gorgias",
+    "gr-ancient-socrates"
+   ],
+   "misreadings": [
+    {
+     "claim": "柏拉图在此反对一切修辞",
+     "why": "他反对的是不以真理为基础的修辞；《斐德罗篇》明确承认有真修辞。"
+    },
+    {
+     "claim": "卡利克勒斯是柏拉图的代言人",
+     "why": "卡利克勒斯是被反驳的对话者，其“强者的权利”说在对话中被逐层驳倒。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -380
+  },
+  {
+   "id": "work-phaedrus",
+   "title": "《斐德罗篇》",
+   "title_original": "Φαῖδρος（Phaedrus）",
+   "tradition": "west",
+   "date_display": "约前370年",
+   "structure": "对话体；前半论爱若斯（三篇讲辞与苏格拉底的“灵魂马车”神话），后半论修辞术与辩证术，末以“书写”的批评（图提斯神话）收束。",
+   "core_arguments": [
+    "灵魂如马车：理性为驭者，激情与欲望为两马，故须协调",
+    "真正的修辞须以真理与灵魂的知识为基础，否则只是迎合",
+    "书写弱化记忆、使言辞脱离作者而不能自辩，故“活的语言”优于文字"
+   ],
+   "key_points": [
+    {
+     "locator": "246a—249d",
+     "point": "灵魂马车与羽翼神话"
+    },
+    {
+     "locator": "259e—274b",
+     "point": "修辞术的条件"
+    },
+    {
+     "locator": "274b—277a",
+     "point": "图提斯神话与书写的批评"
+    },
+    {
+     "locator": "277a—279c",
+     "point": "辩证术与“活的言辞”"
+    }
+   ],
+   "editions": [
+    "中译参《柏拉图全集》人民出版社；Loeb 版（Fowler）"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-socrates",
+    "gr-ancient-gorgias"
+   ],
+   "misreadings": [
+    {
+     "claim": "柏拉图主张禁止书写",
+     "why": "他批评的是书写的限度（不能自辩、弱化记忆），其自身仍写作对话——对话形式本身就是对这一批评的回应。"
+    },
+    {
+     "claim": "《斐德罗篇》是修辞学教材",
+     "why": "它论的是修辞的哲学条件，不是技法手册。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -370
+  },
+  {
    "id": "work-theaetetus",
    "title": "《泰阿泰德篇》",
    "title_original": "Θεαίτητος（Theaetetus）",
@@ -904,6 +1016,62 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": -335
+  },
+  {
+   "id": "work-poetics",
+   "title": "《诗学》",
+   "title_original": "Περὶ ποιητικῆς（Ars Poetica）",
+   "tradition": "west",
+   "date_display": "约前335年",
+   "structure": "现存二十六章（原或有两卷，论喜剧的部分已佚）；论诗的模仿、悲剧的构成要素、情节的统一、卡塔西斯、史诗与悲剧的比较。",
+   "core_arguments": [
+    "诗是模仿（mimēsis），其种类按媒介、对象与方式区分",
+    "悲剧是对一个完整而有一定长度的行动的模仿，以情节（muthos）为灵魂",
+    "悲剧通过怜悯与恐惧使这些情感得到“卡塔西斯”（katharsis）"
+   ],
+   "key_points": [
+    {
+     "locator": "第1—3章",
+     "point": "模仿的三重区分"
+    },
+    {
+     "locator": "第6章",
+     "point": "悲剧的六要素（情节、性格、思想、言词、歌曲、景观）；情节为灵魂"
+    },
+    {
+     "locator": "第7—8章",
+     "point": "情节的完整与统一"
+    },
+    {
+     "locator": "第13—14章",
+     "point": "突转与发现"
+    }
+   ],
+   "editions": [
+    "陈中梅译《诗学》商务印书馆；Loeb 版（Fyfe）"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-plato",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "“三一律”是亚里士多德的规定",
+     "why": "他只要求情节的统一（且是“整一性”而非时间的二十四小时）；地点与时间的严格一律是文艺复兴时期的引申。"
+    },
+    {
+     "claim": "卡塔西斯是“净化”情感使之消失",
+     "why": "其确切含义（医学式的宣泄／道德上的澄清）学界长期争论，不能简单定为“清除”。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": true,
+   "pending_notes": "卡塔西斯（katharsis）的含义是《诗学》研究中最著名的争议之一（医学宣泄说、道德澄清说、结构净化说等并存），本页并列而不裁定；“三一律”亦非其原文规定。",
    "sort_year": -335
   },
   {
@@ -5985,6 +6153,62 @@
    "needs_verification": true,
    "pending_notes": "《宗教哲学讲演录》为遗著，由编者（马海内克等）据多种讲演笔记整理，不同版本的结构与内容有显著出入；本页依通行结构概述，具体表述须核 GW 版。",
    "sort_year": 1832
+  },
+  {
+   "id": "work-aesthetics-hegel",
+   "title": "《美学讲演录》",
+   "title_original": "Vorlesungen über die Ästhetik",
+   "tradition": "west",
+   "date_display": "1835年（遗著，据讲演整理）",
+   "structure": "三部分：一、美的概念与艺术的一般原理；二、象征型、古典型、浪漫型三种艺术形式；三、各门艺术（建筑、雕刻、绘画、音乐、诗）。",
+   "core_arguments": [
+    "美是理念的感性显现（das sinnliche Scheinen der Idee）",
+    "艺术史三阶段：象征型（理念未找到合适形式）、古典型（理念与形式统一）、浪漫型（理念超出感性形式）",
+    "艺术在浪漫型之后走向“终结”：其最高内容转由宗教与哲学把握"
+   ],
+   "key_points": [
+    {
+     "locator": "导论",
+     "point": "美作为理念的感性显现"
+    },
+    {
+     "locator": "第一部分",
+     "point": "艺术美的概念与自然美的关系"
+    },
+    {
+     "locator": "第二部分",
+     "point": "象征型／古典型／浪漫型"
+    },
+    {
+     "locator": "第三部分",
+     "point": "各门艺术的体系"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《美学》；Suhrkamp 版（第13—15卷）"
+   ],
+   "related_people": [
+    "gr-german-hegel",
+    "gr-20c-adorno",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "黑格尔主张“艺术终结”即艺术不再存在",
+     "why": "其“终结”（Ende）指艺术不再是真理的最高形式，而非艺术停止创作；现代艺术仍在，只是不再是绝对精神的最高环节。"
+    },
+    {
+     "claim": "黑格尔轻视自然美",
+     "why": "他给予艺术美更高的地位，理由是艺术美由精神产生，但这不等于否认自然美——而是把它放在较低的环节。"
+    }
+   ],
+   "sources": [
+    "sep-hegel",
+    "sep-adorno"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《美学讲演录》为遗著，由霍托（H. G. Hotho）据多种讲演笔记整理，其编排与措辞未必尽合原讲；不同版本（1835、1842、Suhrkamp 新编）结构有出入。",
+   "sort_year": 1835
   },
   {
    "id": "work-nature-emerson",
