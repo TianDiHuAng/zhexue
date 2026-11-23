@@ -2326,6 +2326,62 @@
    "sort_year": 524
   },
   {
+   "id": "work-mohe-zhiguan",
+   "title": "《摩诃止观》",
+   "title_original": "摩訶止觀",
+   "tradition": "china",
+   "date_display": "594年（据讲说记录）",
+   "structure": "十卷（一说二十卷）；以“五略十广”组织：大意、释名、显体、摄法、偏圆、方便、正观、果报、起教、旨归。",
+   "core_arguments": [
+    "止观双修：止息散乱与观照实相不二",
+    "以“一念三千”为观境：一念之中具足十法界与三世间的全体",
+    "三谛圆融：空、假、中三谛于一念中同时具足"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一大意",
+     "point": "五略十广的组织"
+    },
+    {
+     "locator": "卷五—六 正观",
+     "point": "一念三千的观法"
+    },
+    {
+     "locator": "卷三 圆顿止观",
+     "point": "三谛圆融"
+    },
+    {
+     "locator": "卷七 十境",
+     "point": "观境的十种分类"
+    }
+   ],
+   "editions": [
+    "李安《摩诃止观辅行传弘决》中华书局；大正藏第46卷"
+   ],
+   "related_people": [
+    "cn-suitang-zhiyi",
+    "cn-suitang-zhanran",
+    "cn-suitang-kuiji"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是纯理论著作",
+     "why": "它是修行指南：以“二十五方便”与“十境十乘”给出可操作的观法次第。"
+    },
+    {
+     "claim": "“一念三千”是说一念创造世界",
+     "why": "它是观法上的“具足”：一念之中具足全体法界，不是时间上的创造。"
+    }
+   ],
+   "sources": [
+    "ws-mohezhiguan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《摩诃止观》由弟子灌顶据智顗讲说记录整理，卷数有十卷／二十卷之说，各本分卷与文字有出入；本页依通行本结构概述。",
+   "sort_year": 594
+  },
+  {
    "id": "work-chengweishi",
    "title": "《成唯识论》",
    "title_original": "成唯識論（Cheng Weishi Lun）",
@@ -3109,6 +3165,61 @@
    "sort_year": 1290
   },
   {
+   "id": "work-praise-of-folly",
+   "title": "《愚人颂》",
+   "title_original": "Moriae encomium（Stultitiae laus）",
+   "tradition": "west",
+   "date_display": "1509年写；1511年出版",
+   "structure": "以“愚夫人”（Stultitia）的第一人称自述展开：先论愚如何使人生可居（爱情、友谊、自爱），再讽刺各阶层（学者、教士、君主、商人），末转向对基督教的赞颂。",
+   "core_arguments": [
+    "愚（ folly ）是人生所必需的：没有自爱与幻觉，爱情、友谊与行动都不可能",
+    "以愚人自述的形式讽刺最有效：被讽刺者无法反驳而不自曝其愚",
+    "结尾转向“基督的愚拙”：真正的虔敬在世人看来正是愚"
+   ],
+   "key_points": [
+    {
+     "locator": "前半",
+     "point": "愚使人生可居（自爱、爱情、友谊）"
+    },
+    {
+     "locator": "中段",
+     "point": "对学者、教士、君主、商人的讽刺"
+    },
+    {
+     "locator": "末段",
+     "point": "“基督的愚拙”与《哥林多前书》的呼应"
+    },
+    {
+     "locator": "题献",
+     "point": "献给托马斯·莫尔"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《愚人颂》；ASD（北荷兰）拉丁文本"
+   ],
+   "related_people": [
+    "gr-modern-erasmus",
+    "gr-modern-erasmus"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是无神论的讽刺",
+     "why": "结尾转向对基督的赞颂，属基督教人文主义作品；讽刺对象是人的愚妄与教会的腐化。"
+    },
+    {
+     "claim": "伊拉斯谟在赞美愚昧",
+     "why": "“愚”是修辞装置：借愚人之口说出真话，同时以“基督的愚拙”反讽世人的聪明。"
+    }
+   ],
+   "sources": [
+    "sep-erasmus",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1509
+  },
+  {
    "id": "work-kunzhi-ji",
    "title": "《困知记》",
    "title_original": "困知記",
@@ -3840,6 +3951,62 @@
    ],
    "needs_verification": true,
    "pending_notes": "“天下兴亡，匹夫有责”为梁启超等的概括语，非顾炎武原文；《日知录》各卷为陆续增补，初刻八卷与后刻三十二卷内容有出入。",
+   "sort_year": 1670
+  },
+  {
+   "id": "work-tractatus-theologico-politicus",
+   "title": "《神学政治论》",
+   "title_original": "Tractatus theologico-politicus",
+   "tradition": "west",
+   "date_display": "1670年（匿名出版）",
+   "structure": "二十章；论预言、律法、选民、神迹、圣经解释方法、政教关系与思想自由。",
+   "core_arguments": [
+    "圣经须以圣经自身解释（历史—语文学方法），不以神学教条为前提",
+    "哲学与神学各有其域：哲学以真理为目标，神学以虔敬与服从为目标",
+    "思想自由不可剥夺，且是国家安定之条件"
+   ],
+   "key_points": [
+    {
+     "locator": "第7章",
+     "point": "解释圣经的方法"
+    },
+    {
+     "locator": "第14章",
+     "point": "信仰与哲学的分域"
+    },
+    {
+     "locator": "第16章",
+     "point": "国家的基础与自然权利"
+    },
+    {
+     "locator": "第20章",
+     "point": "思想自由"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《神学政治论》；Gebhardt 拉丁文本"
+   ],
+   "related_people": [
+    "gr-modern-spinoza",
+    "gr-modern-hobbes",
+    "gr-modern-bayle"
+   ],
+   "misreadings": [
+    {
+     "claim": "斯宾诺莎在此主张无神论",
+     "why": "他主张的是哲学与神学各有领域，神学关涉虔敬与服从；其“神即自然”使传统有神论者视为无神论，但这是解释之争。"
+    },
+    {
+     "claim": "他要取消宗教",
+     "why": "他要限制神学对哲学与政治的管辖权，不是取消宗教实践。"
+    }
+   ],
+   "sources": [
+    "sep-spinoza",
+    "ws-spinoza-ethica"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": 1670
   },
   {
@@ -4689,6 +4856,63 @@
    "sort_year": 1772
   },
   {
+   "id": "work-mengzi-ziyi",
+   "title": "《孟子字义疏证》",
+   "title_original": "孟子字義疏證",
+   "tradition": "china",
+   "date_display": "约1777年",
+   "structure": "三卷；以疏证《孟子》字义为形式，逐条辨析理、天道、性、才、道、仁义礼智、诚、权等核心概念。",
+   "core_arguments": [
+    "“理”的本义是“条理”“分理”（如肌理、腠理），不是“如有物焉得于天”的实体",
+    "理存乎欲：欲之无失即是理，故理不在欲外",
+    "“以理杀人”甚于以法杀人：以己之意见为天理，则苛责他人而无所底止"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上 理",
+     "point": "以字义考“理”的本义"
+    },
+    {
+     "locator": "卷上 天道",
+     "point": "天道即气化之流行"
+    },
+    {
+     "locator": "卷中 性",
+     "point": "以“血气心知”言性"
+    },
+    {
+     "locator": "卷下 权",
+     "point": "“以理杀人”的批评"
+    }
+   ],
+   "editions": [
+    "何文光整理《孟子字义疏证》中华书局；《戴震全集》清华大学出版社"
+   ],
+   "related_people": [
+    "cn-qingmod-dai-zhen",
+    "cn-songming-zhu-xi",
+    "cn-qingmod-ruan-yuan"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《孟子》的注释",
+     "why": "它以疏证为形式，实为戴震自己的哲学著作；对孟子的解释服务于其理欲论。"
+    },
+    {
+     "claim": "戴震主张纵欲",
+     "why": "他主张“欲之无失”即理，要求节欲而非纵欲；其批评对象是“存理灭欲”。"
+    }
+   ],
+   "sources": [
+    "ws-mengzi-ziyi",
+    "sep-qing-philosophy",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1777
+  },
+  {
    "id": "work-wenshi-tongyi",
    "title": "《文史通义》",
    "title_original": "文史通義",
@@ -5025,6 +5249,62 @@
    "sources": [
     "sep-schiller",
     "sep-hegel"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1795
+  },
+  {
+   "id": "work-perpetual-peace",
+   "title": "《永久和平论》",
+   "title_original": "Zum ewigen Frieden",
+   "tradition": "west",
+   "date_display": "1795年",
+   "structure": "两篇：先列“预备条款”（六条，如废除常备军、不干涉他国内政），再列“正式条款”（三条：共和制、自由国家的联盟、世界公民权），末附两篇补论。",
+   "core_arguments": [
+    "共和制是永久和平的第一条件：宣战须经人民同意，故人民会慎重",
+    "自由国家的联盟（foedus pacificum）可逐步扩展，不需世界政府",
+    "世界公民权限于“普遍友好”即访问与交往的权利，不是无限迁徙权"
+   ],
+   "key_points": [
+    {
+     "locator": "预备条款",
+     "point": "废除常备军、不干涉内政等六条"
+    },
+    {
+     "locator": "正式条款第一条",
+     "point": "共和制"
+    },
+    {
+     "locator": "正式条款第二条",
+     "point": "自由国家的联盟"
+    },
+    {
+     "locator": "正式条款第三条",
+     "point": "世界公民权与普遍友好"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《历史理性批判文集》；Kants Gesammelte Schriften 第8卷"
+   ],
+   "related_people": [
+    "gr-german-kant",
+    "gr-modern-rousseau",
+    "gr-contemp-rawls"
+   ],
+   "misreadings": [
+    {
+     "claim": "康德主张世界政府",
+     "why": "他主张的是自由国家的**联盟**，并明确说世界政府会变成专制（“灵魂专制”）。"
+    },
+    {
+     "claim": "世界公民权是无限移民权",
+     "why": "它只是“普遍友好”即访问与交往的权利，不是定居权。"
+    }
+   ],
+   "sources": [
+    "sep-kant",
+    "sep-rawls"
    ],
    "needs_verification": false,
    "pending_notes": "",

@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 649,
+  "entries": 654,
   "by_level": {
-   "L2": 554,
-   "L1": 95
+   "L2": 558,
+   "L1": 96
   },
   "doctrine": {
    "total": 215,
    "detail": 215,
    "auto": 0
   },
-  "needs_verification": 95,
+  "needs_verification": 96,
   "sources": 316,
   "sources_verified": 312
  },
@@ -5777,6 +5777,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-mohe-zhiguan",
+   "type": "work",
+   "title": "《摩诃止观》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-chengweishi",
    "type": "work",
    "title": "《成唯识论》",
@@ -5931,6 +5942,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-praise-of-folly",
+   "type": "work",
+   "title": "《愚人颂》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-kunzhi-ji",
    "type": "work",
    "title": "《困知记》",
@@ -6071,6 +6093,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-tractatus-theologico-politicus",
+   "type": "work",
+   "title": "《神学政治论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -6239,6 +6272,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-mengzi-ziyi",
+   "type": "work",
+   "title": "《孟子字义疏证》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-wenshi-tongyi",
    "type": "work",
    "title": "《文史通义》",
@@ -6297,6 +6341,17 @@
    "id": "work-aesthetic-letters",
    "type": "work",
    "title": "《美育书简》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-perpetual-peace",
+   "type": "work",
+   "title": "《永久和平论》",
    "container": "west",
    "level": "L2",
    "sources": 2,
