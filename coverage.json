@@ -1,14 +1,14 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 466,
+  "entries": 474,
   "by_level": {
-   "L2": 397,
+   "L2": 405,
    "L1": 69
   },
   "doctrine": {
-   "total": 159,
-   "detail": 159,
+   "total": 167,
+   "detail": 167,
    "auto": 0
   },
   "needs_verification": 69,
@@ -128,19 +128,19 @@
    "unit_id": "gr-medieval",
    "title": "中世纪经院哲学",
    "region": "west",
-   "philosophers": 12,
+   "philosophers": 13,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -4"
+   "philosophers_slot": "8 上限，余 -5"
   },
   {
    "unit_id": "gr-modern",
    "title": "近代理性论与经验论",
    "region": "west",
-   "philosophers": 12,
+   "philosophers": 19,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -4"
+   "philosophers_slot": "8 上限，余 -11"
   }
  ],
  "entries": [
@@ -3478,6 +3478,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-medieval-buridan",
+   "type": "philosopher",
+   "title": "布里丹",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-medieval-faith-reason",
    "type": "concept",
    "title": "信仰与理性",
@@ -3749,6 +3760,83 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-machiavelli",
+   "type": "philosopher",
+   "title": "马基雅维利",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-montaigne",
+   "type": "philosopher",
+   "title": "蒙田",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-bruno",
+   "type": "philosopher",
+   "title": "布鲁诺",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-galileo",
+   "type": "philosopher",
+   "title": "伽利略",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-grotius",
+   "type": "philosopher",
+   "title": "格劳秀斯",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-malebranche",
+   "type": "philosopher",
+   "title": "马勒伯朗士",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-cusanus",
+   "type": "philosopher",
+   "title": "库萨的尼古拉",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": false,
    "updated": "2026-11-23"
   },

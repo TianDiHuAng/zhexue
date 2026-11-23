@@ -2228,6 +2228,984 @@
      "note": "1759 年；里斯本地震为其背景"
     }
    ]
+  },
+  {
+   "id": "gr-modern-machiavelli",
+   "name": "马基雅维利",
+   "latin": "Niccolò Machiavelli",
+   "birth_year": 1469,
+   "death_year": 1527,
+   "birth_display": "1469年",
+   "death_display": "1527年",
+   "birth_note": "生于佛罗伦萨；据其书信与《君主论》献词，出身没落贵族家庭。",
+   "death_note": "1527年卒于佛罗伦萨。",
+   "era": "文艺复兴时期的佛罗伦萨。马基雅维利曾任第二国务厅秘书，出使各国；美第奇复辟后失职，退居乡间著书。他以“事物在实际上的真相”（verità effettuale）取代“想象的原则”，把政治学从道德神学中分离出来。",
+   "school": "政治哲学（共和主义／现实主义）",
+   "core_questions": [
+    "君主应如何获得与保持国家？",
+    "政治判断应以什么为标准？",
+    "共和制为何比君主制更持久？"
+   ],
+   "arguments": [
+    {
+     "claim": "应以“实际如何”而非“应当如何”为出发点",
+     "premises": [
+      "人们实际的行为与理想中的德性相差很远。",
+      "按理想行事者在恶人环绕中受害。"
+     ],
+     "inference": "若政治的对手不按规则行事，则按规则行事者必败；故君主的德性须能“随命运与事物的变化而转变”。",
+     "conclusion": "政治判断的标准是国家的获得与保持，而非君主灵魂的完善。",
+     "kind": "原文"
+    },
+    {
+     "claim": "共和制更持久：因为依靠制度与公民武装，而非一人之德",
+     "premises": [
+      "一人之德会随继承而衰减。",
+      "混合政体使各阶层互相制衡（《论李维》）。"
+     ],
+     "inference": "若政体依赖个人德性，则其稳定期受限于个人寿命与继承的偶然；若依赖制度与公民德性，则可长期维持。",
+     "conclusion": "共和制（混合政体＋公民武装）比君主制更稳定，罗马为范例。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《君主论》",
+     "edition": "潘汉典译，商务印书馆；意大利文以 Opere（Utet）为准",
+     "note": "1513；论君主的获取与保持"
+    },
+    {
+     "title": "《论李维前十书》《佛罗伦萨史》",
+     "edition": "《论李维》中译参商务印书馆",
+     "note": "约1517；共和主义的系统论述"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "李维与罗马史",
+     "id": "",
+     "note": "共和德性与军事制度的历史范例"
+    },
+    {
+     "name": "人文主义修辞学",
+     "id": "",
+     "note": "以“效法古人”与实例论证的方式"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "斯宾诺莎与霍布斯",
+     "id": "gr-modern-hobbes",
+     "note": "政治与激情的现实主义分析"
+    },
+    {
+     "name": "近代共和主义与“国家理由”论",
+     "id": "",
+     "note": "政治与道德的分离"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "天主教与后世道德批评",
+     "view": "《君主论》教人“必要作恶”，败坏政治的道德基础。",
+     "response": "马基雅维利一系的回应是：他描述的是政治的实际条件，不是提倡恶；其共和著作表明他更重制度而非暴君。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-machiavelli",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "马基雅维利是“为达目的不择手段”的鼓吹者",
+     "why": "他的“恶”是有限度的工具性判断，且须服务于国家的保持；他同时是热忱的共和主义者。"
+    },
+    {
+     "claim": "《君主论》是政治学说的全部",
+     "why": "它是一本特定情境下的策略手册；《论李维》才是其共和理论的系统表述。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>马基雅维利：实际真相与政体</text><defs><marker id='aMC' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>人们实际行为与理想相差远</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>按理想行事者受害</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故须以国家保持为标准</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故共和制依靠制度更持久</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aMC)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aMC)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "马基雅维利：从“应当”到“实际”的转折（示意图）",
+   "sources": [
+    "sep-machiavelli",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "马基雅维利把政治学从道德神学中分离：应以“事物在实际上的真相”而非“想象的原则”为出发点，因为按理想行事者在恶人环绕中必败；故政治判断的标准是国家的获得与保持。他又在《论李维》中论证共和制（混合政体＋公民武装）比君主制更持久，因为制度与公民德性可跨代维持，而一人之德会随继承衰减。",
+    "system": [
+     {
+      "name": "实际真相",
+      "content": "以实际行为为据，不以应有为据；政治自有其标准。"
+     },
+     {
+      "name": "德性（virtù）",
+      "content": "君主的能力包括随时间与命运转变的能力，非固定德目。"
+     },
+     {
+      "name": "命运（fortuna）",
+      "content": "占人事之半；须以德性与准备（如自备武装）应对。"
+     },
+     {
+      "name": "共和制",
+      "content": "混合政体、公民武装、制度制衡使国家持久（《论李维》）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "佛罗伦萨（1469—1527）",
+      "change": "1498—1512 任第二国务厅秘书；美第奇复辟后失职，著《君主论》（1513）；共和短暂恢复后不久去世。"
+     }
+    ],
+    "reception": "其名成为“马基雅维利主义”的代称，但学界一般认为其共和主义更为核心；政治与道德的关系问题自此成为近代政治哲学的轴心。"
+   },
+   "works_detail": [
+    {
+     "title": "《君主论》",
+     "structure": "二十六章：论君主国的种类、如何获得与保持、军队、君主的行为。",
+     "core_thesis": "以实际真相为标准；德性须应变。",
+     "editions": "潘汉典译商务印书馆",
+     "note": "1513 年写成，1532 年出版"
+    }
+   ]
+  },
+  {
+   "id": "gr-modern-montaigne",
+   "name": "蒙田",
+   "latin": "Michel de Montaigne",
+   "birth_year": 1533,
+   "death_year": 1592,
+   "birth_display": "1533年",
+   "death_display": "1592年",
+   "birth_note": "生于法国佩里戈尔蒙田城堡；据其《随笔集》，父为商人后从政。",
+   "death_note": "1592年卒于蒙田城堡。",
+   "era": "16世纪法国宗教战争时期。蒙田退居城堡读书写作，以《随笔集》开创随笔文体；他借古代怀疑论（尤其塞克斯都）消解教条，主张“我知道什么？”（Que sais-je?）的自省态度。",
+   "school": "怀疑论（人文主义）",
+   "core_questions": [
+    "人凭什么自信知道？",
+    "如何在宗教战争中保持宽容？",
+    "自我可以被如实描述吗？"
+   ],
+   "arguments": [
+    {
+     "claim": "“我知道什么？”：以怀疑为自省的方法",
+     "premises": [
+      "感官会欺骗，理性意见互相冲突，习俗因地域而异。",
+      "人的判断受身体、教育与偶然影响。"
+     ],
+     "inference": "若一切主张皆有其对立面且无终裁标准，则独断的自信是虚妄的；但怀疑不否定生活，而使人宽容与自省。",
+     "conclusion": "以悬置判断为态度的怀疑论，导向宽容与自我认识，而非虚无。",
+     "kind": "原文"
+    },
+    {
+     "claim": "自我是流动的，故只能以“尝试”（essai）方式描述",
+     "premises": [
+      "人在不断变化，同一人在不同时刻并不相同。",
+      "描述者本身也在变化中。"
+     ],
+     "inference": "若对象与描述者都在流动，则任何体系化的自我定义都会失真；故只能以随笔逐次尝试。",
+     "conclusion": "《随笔集》的方法与内容合一：以流动的文字描述流动的自我。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《随笔集》（Essais）",
+     "edition": "潘丽珍等译，译林出版社（三卷）；法文以 Villey-Saulnier 版为准",
+     "note": "1580 初版；1588 增订；三卷一百零七章"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "塞克斯都·恩披里柯",
+     "id": null,
+     "note": "《皮浪学说要旨》1562 年拉丁译本，直接来源"
+    },
+    {
+     "name": "普鲁塔克与古代史家",
+     "id": "",
+     "note": "实例与人物判断的素材"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "笛卡尔与帕斯卡",
+     "id": "gr-modern-descartes",
+     "note": "帕斯卡批评其怀疑论未能推进到确定性"
+    },
+    {
+     "name": "近代随笔与自传文体",
+     "id": "",
+     "note": "自我描述的文学形式"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "帕斯卡",
+     "view": "蒙田的怀疑使人不安却未给出出路；人不能停留在“我知道什么”。",
+     "response": "蒙田一系的回应可重构为：怀疑本身即是诚实的生活形式，不必以确定性收场。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-montaigne",
+      "sep-pascal"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "蒙田是彻底的怀疑论者",
+     "why": "他自称“温和的怀疑论”：悬置判断但不放弃生活与信仰，且明确服从教会。"
+    },
+    {
+     "claim": "《随笔集》是自传",
+     "why": "它不以编年自述生平，而以主题式“尝试”呈现判断的流动。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>蒙田：我知道什么？</text><defs><marker id='aMT' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>感官与理性意见互相冲突</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>习俗因地域而异</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故独断自信是虚妄</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故以怀疑为自省，导向宽容</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aMT)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aMT)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "蒙田：怀疑作为自省与宽容（示意图）",
+   "sources": [
+    "sep-montaigne",
+    "sep-pascal"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "蒙田以“我知道什么？”为方法的怀疑论：感官会欺骗、理性意见互相冲突、习俗因地域而异，故独断的自信是虚妄；但怀疑不否定生活，而使人宽容、自省并服从既有信仰。他又认为自我是流动的，故只能以“尝试”（essai）的方式逐次描述，形成《随笔集》方法与内容合一的文体。",
+    "system": [
+     {
+      "name": "我知道什么？",
+      "content": "以悬置判断为态度，非以怀疑为新教条；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "习俗的相对性",
+      "content": "法律、道德与信仰因地域而异，故不能以一方为自然标准。"
+     },
+     {
+      "name": "自我流动",
+      "content": "人在变化中，故描述只能是逐次的尝试；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "温和怀疑",
+      "content": "怀疑导向宽容与自省，不导向虚无；在信仰上服从教会。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "波尔多与蒙田城堡（1533—1592）",
+      "change": "曾任波尔多高等法院法官与波尔多市长；1580—1581 游历意大利；《随笔集》三卷。"
+     }
+    ],
+    "reception": "《随笔集》开创随笔文体；其怀疑论经帕斯卡与笛卡尔被批判性吸收；塞克斯都的拉丁译本经其引用而影响近代怀疑论的传播。"
+   },
+   "works_detail": [
+    {
+     "title": "《随笔集》",
+     "structure": "三卷一百零七章；以主题式随笔呈现判断的流动，非编年自传。",
+     "core_thesis": "我知道什么？；习俗相对性；自我流动。",
+     "editions": "潘丽珍等译译林出版社；Villey-Saulnier 法文本",
+     "note": "1580 初版，1588 增订"
+    }
+   ]
+  },
+  {
+   "id": "gr-modern-bruno",
+   "name": "布鲁诺",
+   "latin": "Giordano Bruno",
+   "birth_year": 1548,
+   "death_year": 1600,
+   "birth_display": "1548年",
+   "death_display": "1600年",
+   "birth_note": "生于那不勒斯附近诺拉；据其著作与审判记录，入多明我会后出逃。",
+   "death_note": "1600年在罗马鲜花广场被烧死。",
+   "era": "16世纪后半叶的欧洲。布鲁诺以“无限宇宙与无数世界”闻名，融合新柏拉图主义、卢克莱修原子论与哥白尼天文学；其泛神论与对基督教教义的批评导致宗教裁判所的审判与处死。",
+   "school": "文艺复兴自然哲学（泛神论）",
+   "core_questions": [
+    "宇宙是有限的还是无限的？",
+    "神与世界是什么关系？",
+    "无限宇宙中人的位置如何？"
+   ],
+   "arguments": [
+    {
+     "claim": "宇宙是无限的，有无数世界",
+     "premises": [
+      "神的能力与善是无限的，其effect 不应受限。",
+      "哥白尼已动摇地球中心；若太阳也不是中心，则无理由设定宇宙边界。"
+     ],
+     "inference": "若神的创造力无限，则其产物不应被限定在一个有限球壳内；故宇宙无限、世界无数。",
+     "conclusion": "宇宙无限、 homogenenous，有无数太阳与地球；地球不再是中心。",
+     "kind": "原文"
+    },
+    {
+     "claim": "神与自然同一：自然是“神的外衣”",
+     "premises": [
+      "神内在于万物而非仅在万物之外。",
+      "万物由统一的物质实体分化而成。"
+     ],
+     "inference": "若神内在于自然且自然是其显现，则认识自然即认识神的痕迹；故哲学与神学对同一真理有不同表达。",
+     "conclusion": "泛神论：神即宇宙的统一实体与内在生命。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论无限、宇宙与众世界》《论原因、本原与太一》",
+     "edition": "《论无限》中译参商务印书馆；拉丁著作以 Opera latine conscripta 为准",
+     "note": "1584；1584"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "库萨的尼古拉",
+     "id": "gr-modern-cusanus",
+     "note": "“有学问的无知”与无限宇宙的思辨"
+    },
+    {
+     "name": "卢克莱修与普罗提诺",
+     "id": null,
+     "note": "原子论与流溢说两方面资源"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "斯宾诺莎",
+     "id": "gr-modern-spinoza",
+     "note": "实体一元论与“神即自然”"
+    },
+    {
+     "name": "近代宇宙论与科学革命",
+     "id": "",
+     "note": "无限宇宙观念的确立"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "宗教裁判所与新亚里士多德主义者",
+     "view": "其泛神论取消神的超越性，无限宇宙论与基督教创世—末世框架冲突。",
+     "response": "布鲁诺一系的回应是：无限宇宙更显示神的无限能力；其立场可与基督教调和（他本人如此主张）。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-bruno",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "布鲁诺是“为科学殉道”的科学家",
+     "why": "他是哲学家与神学家，其宇宙论是形而上学推演，不是天文观测；其受刑的直接指控涉及神学命题。"
+    },
+    {
+     "claim": "他主张宇宙有一个中心",
+     "why": "他明确否认任何绝对中心，地球与太阳都不是。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>布鲁诺：无限宇宙与泛神论</text><defs><marker id='aBR' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>神的能力无限</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故其产物不应受限</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故宇宙无限、世界无数</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故神即自然，自然是神的外衣</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aBR)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aBR)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "布鲁诺：无限宇宙与泛神论（示意图）",
+   "sources": [
+    "sep-bruno",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "布鲁诺以“神的无限能力不应产出有限结果”推出宇宙无限、世界无数：地球不再是中心，太阳也不是；宇宙是同质的无限空间。他又主张神内在于自然，自然是“神的外衣”，万物由统一的物质实体分化而成，故认识自然即认识神的痕迹。其泛神论与无限宇宙论导致宗教裁判所的审判，1600 年被烧死于罗马。",
+    "system": [
+     {
+      "name": "无限宇宙",
+      "content": "神的能力无限故产物无限；无绝对中心，世界无数。"
+     },
+     {
+      "name": "泛神论",
+      "content": "神内在于自然；自然是神的外衣；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "物质统一",
+      "content": "万物由同一物质实体分化，形式内在于物质。"
+     },
+     {
+      "name": "对立面统一",
+      "content": "在无限者中，最小与最大、中心与边缘重合。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "诺拉、欧洲各地与罗马（1548—1600）",
+      "change": "入多明我会后出逃；辗转日内瓦、巴黎、伦敦、德国讲学；1592 年在威尼斯被捕，1600 年被烧死。"
+     }
+    ],
+    "reception": "其无限宇宙论被视为近代宇宙观的前驱；泛神论影响斯宾诺莎与德国唯心论（谢林、黑格尔对其评价甚高）；其受刑成为思想自由史上的标志性事件。"
+   },
+   "works_detail": [
+    {
+     "title": "《论无限、宇宙与众世界》",
+     "structure": "五篇对话；以对话体论证宇宙无限与无中心。",
+     "core_thesis": "无限宇宙；无绝对中心；这是该书的核心命题。",
+     "editions": "中译参商务印书馆",
+     "note": "1584 年在伦敦出版"
+    }
+   ]
+  },
+  {
+   "id": "gr-modern-galileo",
+   "name": "伽利略",
+   "latin": "Galileo Galilei",
+   "birth_year": 1564,
+   "death_year": 1642,
+   "birth_display": "1564年",
+   "death_display": "1642年",
+   "birth_note": "生于比萨；据其著作与传记，父为音乐家。",
+   "death_note": "1642年卒于阿尔切特里（软禁中）。",
+   "era": "17世纪科学革命。伽利略以望远镜观测与斜面实验确立新的自然研究方式：主张自然之书以数学写成，第一性质可量化，第二性质依感知者；其与教会的冲突成为科学—宗教关系的标志性事件。",
+   "school": "科学革命（数学自然观）",
+   "core_questions": [
+    "自然的知识以什么形式成立？",
+    "日心说与圣经冲突吗？",
+    "感觉性质是否属于物体本身？"
+   ],
+   "arguments": [
+    {
+     "claim": "自然之书以数学语言写成",
+     "premises": [
+      "可重复的实验与几何推演能给出精确预测。",
+      "亚里士多德式的质性解释无法定量。"
+     ],
+     "inference": "若自然规律可被数学表达且预测成功，则其知识形式应是数学的；故自然哲学须以测量与演算为方法。",
+     "conclusion": "自然的知识是数学化的力学知识，而非目的论的质性解释。",
+     "kind": "原文"
+    },
+    {
+     "claim": "第一性质客观、第二性质主观",
+     "premises": [
+      "形状、大小、运动可量化且不随感知者改变。",
+      "色、味、声依感知者与条件而变。"
+     ],
+     "inference": "若第二性质随感知者而变，则其不在物体本身；故物体本身只有可量化的第一性质。",
+     "conclusion": "物体本身只有第一性质；第二性质是感知的产物。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《关于两大世界体系的对话》《关于两门新科学的对话》",
+     "edition": "《对话》中译参商务印书馆；《两门新科学》中译参北京大学出版社",
+     "note": "1632；1638"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "哥白尼与开普勒",
+     "id": "",
+     "note": "日心体系与行星运动规律"
+    },
+    {
+     "name": "阿基米德与欧几里得",
+     "id": "",
+     "note": "数学与力学方法"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "牛顿与近代力学",
+     "id": "",
+     "note": "惯性、落体与数学化自然观"
+    },
+    {
+     "name": "洛克与近代认识论",
+     "id": "gr-modern-locke",
+     "note": "第一性质／第二性质的区分"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "教会与亚里士多德派",
+     "view": "日心说与圣经字面冲突，且其论证依赖“潮汐由地球运动引起”等未成立的理由。",
+     "response": "伽利略一系的回应是：圣经不教天文学，自然之书与启示之书不冲突；但他对潮汐的解释确实有误。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-galileo",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "伽利略因“说地球会动”而被定罪",
+     "why": "审判的核心争点是其把日心说当作确定真理而非假设，以及解释圣经的权限；具体指控须依审判文献。"
+    },
+    {
+     "claim": "伽利略发明了望远镜",
+     "why": "他改进了望远镜并用于天文观测，不是发明者。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>伽利略：数学化的自然</text><defs><marker id='aGA' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>自然规律可数学表达</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而质性解释无法定量</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故知识须以测量与演算为形式</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故第一性质客观、第二性质主观</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aGA)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aGA)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "伽利略：数学自然观与性质二分（示意图）",
+   "sources": [
+    "sep-galileo",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "伽利略确立数学化的自然研究方式：若自然规律可被数学表达且预测成功，则知识的形式应是数学的，故须以测量与演算取代目的论的质性解释。他又区分第一性质（形状、大小、运动，客观可量化）与第二性质（色声香味，依感知者而变），主张物体本身只有前者。其与教会的冲突成为科学—宗教关系的标志性事件。",
+    "system": [
+     {
+      "name": "数学化的自然",
+      "content": "自然之书以数学语言写成；实验与几何推演并用。"
+     },
+     {
+      "name": "性质二分",
+      "content": "第一性质客观，第二性质是感知的产物；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "惯性思想",
+      "content": "以斜面实验逼近惯性原理，为牛顿力学铺路。"
+     },
+     {
+      "name": "圣经与自然",
+      "content": "两书不冲突：圣经教救赎，不教天文学；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "比萨、帕多瓦与佛罗伦萨（1564—1642）",
+      "change": "1589 年任比萨数学教授，1592 年转帕多瓦；1610 年用望远镜发现木星卫星等；1633 年受审，晚年软禁。"
+     }
+    ],
+    "reception": "其力学工作为牛顿体系奠基；第一／第二性质之分经洛克进入近代认识论；审判与平反（1992）成为科学—宗教关系的长期议题。"
+   },
+   "works_detail": [
+    {
+     "title": "《关于两大世界体系的对话》",
+     "structure": "四天对话；以三个人物讨论托勒密与哥白尼体系。",
+     "core_thesis": "日心体系的论证；潮汐为其（有误的）证据。",
+     "editions": "中译参商务印书馆",
+     "note": "1632 年；同年被列入禁书目录"
+    }
+   ]
+  },
+  {
+   "id": "gr-modern-grotius",
+   "name": "格劳秀斯",
+   "latin": "Hugo Grotius",
+   "birth_year": 1583,
+   "death_year": 1645,
+   "birth_display": "1583年",
+   "death_display": "1645年",
+   "birth_note": "生于代尔夫特；据其传记，父为莱顿大学理事。",
+   "death_note": "1645年卒于罗斯托克。",
+   "era": "17世纪。格劳秀斯在三十年战争中著《战争与和平法》，以自然法为基础重建国际法：自然法源于人的社会性（appetitus societatis）与理性，不因上帝的命令而成立，故对一切民族有效。",
+   "school": "自然法与国际法",
+   "core_questions": [
+    "战争有正义与否之分吗？",
+    "自然法的根据是什么？",
+    "国际法如何约束主权者？"
+   ],
+   "arguments": [
+    {
+     "claim": "自然法源于人的社会本性，故独立于神意而有效",
+     "premises": [
+      "人天生倾向社会结合（appetitus societatis）。",
+      "维护社会秩序需要某些规则被普遍遵守。"
+     ],
+     "inference": "若某些规则为社会存续所必需且可由理性推知，则其效力不依赖任何实定法或神启；故自然法对一切民族有效。",
+     "conclusion": "自然法由理性推知、普遍有效；即使承认“神不存在”，它仍然成立（此为其著名假设）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "战争须有正义理由，且须遵守作战规则",
+     "premises": [
+      "无正当理由的战争是杀人。",
+      "即使有正当理由，手段亦须有限。"
+     ],
+     "inference": "若战争可被法评价，则须区分正义理由（jus ad bellum）与作战规范（jus in bello），使战争受法约束。",
+     "conclusion": "战争有正义与不义之分，且正义一方亦须遵守作战规则。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《战争与和平法》《论海洋自由》",
+     "edition": "《战争与和平法》中译参商务印书馆（若有）；拉丁文以 1625 年初版为准",
+     "note": "1625；1609"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "西塞罗与斯多亚自然法",
+     "id": null,
+     "note": "自然法高于实定法的传统"
+    },
+    {
+     "name": "西班牙经院学派（维多利亚等）",
+     "id": "",
+     "note": "万民法与战争正义的讨论"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "霍布斯与普芬道夫",
+     "id": "gr-modern-hobbes",
+     "note": "社会契约与自然法的世俗化"
+    },
+    {
+     "name": "近代国际法与人权话语",
+     "id": "",
+     "note": "普遍规则约束主权者的框架"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "实证主义国际法学者",
+     "view": "自然法内容不确定，易被强权各取所需；实定法才是可执行的。",
+     "response": "格劳秀斯一系的回应是：若无共同的自然法标准，则实定法本身也失去批判与解释的根据。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-grotius",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "格劳秀斯是“国际法之父”",
+     "why": "他确以系统化著称，但万民法与战争正义的讨论早有其人（维多利亚、苏亚雷斯等）；“之父”是后世的追认。"
+    },
+    {
+     "claim": "他的自然法是无神论的",
+     "why": "其“etiamsi daremus”是论证自然法独立性的假设，非其本人信仰的表白。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>格劳秀斯：社会性与自然法</text><defs><marker id='aGR' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>人有社会结合的本性</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>社会存续需某些规则</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故自然法可由理性推知</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故对一切民族有效，战争亦受法约束</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aGR)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aGR)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "格劳秀斯：从社会本性到自然法（示意图）",
+   "sources": [
+    "sep-grotius",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "格劳秀斯以人的社会本性（appetitus societatis）与理性为自然法的根据：若某些规则为社会存续所必需且可由理性推知，则其效力不依赖实定法或神启，故对一切民族有效——他甚至以“即使承认神不存在”的假设来论证这一点。他又区分战争的正义理由与作战规范，使战争受法约束，奠定近代国际法框架。",
+    "system": [
+     {
+      "name": "社会本性",
+      "content": "人天生倾向社会结合，故需规则维持共同生活。"
+     },
+     {
+      "name": "自然法的独立性",
+      "content": "由理性推知、普遍有效，不依赖神启或实定法。"
+     },
+     {
+      "name": "正义战争",
+      "content": "区分 jus ad bellum（开战理由）与 jus in bello（作战规范）。"
+     },
+     {
+      "name": "海洋自由",
+      "content": "海洋不可被占有，故航行与贸易自由（《论海洋自由》）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "代尔夫特、莱顿与巴黎（1583—1645）",
+      "change": "少年入莱顿大学；任荷兰省律师与公使；1619 年因政治斗争被判终身监禁，后逃往法国；《战争与和平法》在巴黎写成。"
+     }
+    ],
+    "reception": "其自然法与国际法框架成为近代国际法的基础；霍布斯与普芬道夫承其世俗化的自然法；其“海洋自由”论影响后世海洋法。"
+   },
+   "works_detail": [
+    {
+     "title": "《战争与和平法》",
+     "structure": "三卷：论法与战争权、论战争的正义理由、论战时与战后的法。",
+     "core_thesis": "自然法独立于神意；正义战争与作战规范。",
+     "editions": "中译参商务印书馆（若有）；1625 年拉丁初版",
+     "note": "1625 年于巴黎出版"
+    }
+   ]
+  },
+  {
+   "id": "gr-modern-malebranche",
+   "name": "马勒伯朗士",
+   "latin": "Nicolas Malebranche",
+   "birth_year": 1638,
+   "death_year": 1715,
+   "birth_display": "1638年",
+   "death_display": "1715年",
+   "birth_note": "生于巴黎；据其传记，出身法官家庭，后入奥拉托利会。",
+   "death_note": "1715年卒于巴黎。",
+   "era": "17世纪后半叶的法国。马勒伯朗士承笛卡尔而推向神学化的偶因论（occasionalism）：受造物之间无真实因果作用，一切变化皆由上帝在每个“机缘”上直接施行；他又主张“在上帝之中看见一切”（vision en Dieu）。",
+   "school": "笛卡尔主义（偶因论）",
+   "core_questions": [
+    "受造物之间真的有因果作用吗？",
+    "人如何认识真理？",
+    "身心如何相互作用？"
+   ],
+   "arguments": [
+    {
+     "claim": "偶因论：受造物之间无真实因果",
+     "premises": [
+      "因果作用需要能力（power），而能力只属于上帝。",
+      "受造物的“作用”只是 occasion（机缘），真正的原因是上帝。"
+     ],
+     "inference": "若因果要求真正的能力而受造物无此能力，则所谓受造物间的因果只是上帝依其意志在每个机缘上的施行。",
+     "conclusion": "唯一真实的原因是上帝；一切受造物间的“因果”皆为偶因。",
+     "kind": "原文"
+    },
+    {
+     "claim": "在上帝之中看见一切：认识的对象是神的观念",
+     "premises": [
+      "观念是客观的、普遍的，不能由个别心灵产生。",
+      "人的心灵与上帝的直接关联比与物体的关联更本质。"
+     ],
+     "inference": "若观念非由个别心灵产生且具有普遍性，则其来源须是上帝；故我们认识万物是“在上帝之中”认识其观念。",
+     "conclusion": "认识是分有神的观念；感觉只是机缘性的、混淆的认识。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《真理的探索》《形而上学与宗教对话》",
+     "edition": "《真理的探索》中译参商务印书馆（若有）；法文以 Robinet 全集版为准",
+     "note": "1674—75；1688"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "笛卡尔",
+     "id": "gr-modern-descartes",
+     "note": "身心二元与观念理论"
+    },
+    {
+     "name": "奥古斯丁",
+     "id": null,
+     "note": "“在上帝之中看见真理”的神照说"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "贝克莱与休谟",
+     "id": "gr-modern-berkeley",
+     "note": "因果怀疑的进一步推进"
+    },
+    {
+     "name": "莱布尼茨的“预定和谐”",
+     "id": "gr-modern-leibniz",
+     "note": "以另一种方式解决身心与因果问题"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "阿尔诺与洛克",
+     "view": "偶因论使上帝成为一切恶与错误的直接原因，且取消了受造物的能动性；“在上帝中看见一切”使人的认识失去独立性。",
+     "response": "马勒伯朗士一系的回应是：上帝不引起恶，恶是缺失；受造物的能动性本就是分有的，不是自足的。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-malebranche",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "偶因论是说世界没有规律",
+     "why": "规律仍在：上帝依恒定意志行事，故自然有秩序且可预测。"
+    },
+    {
+     "claim": "马勒伯朗士只是笛卡尔的注释者",
+     "why": "他把笛卡尔的因果困难推向神学解决，形成独立的偶因论体系，并影响贝克莱与休谟。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>马勒伯朗士：偶因论与在神中见物</text><defs><marker id='aMB' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>因果需真正的能力</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而能力只属上帝</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故受造物间只是偶因</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故观念来自神，我们在神中见物</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aMB)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aMB)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "马勒伯朗士：偶因论与“在上帝之中看见一切”（示意图）",
+   "sources": [
+    "sep-malebranche",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "马勒伯朗士把笛卡尔的因果困难推向神学解决：因果作用需要真正的能力，而能力只属于上帝，故受造物之间没有真实因果，只有 occasion（偶因），真正的原因是上帝在每个机缘上的施行。他又主张“在上帝之中看见一切”：观念是客观普遍的，不能由个别心灵产生，故其来源是上帝，感觉只是机缘性的混淆认识。",
+    "system": [
+     {
+      "name": "偶因论",
+      "content": "受造物间无真实因果；上帝是唯一真实原因。"
+     },
+     {
+      "name": "在神中见物",
+      "content": "观念来自上帝；认识是分有神的观念；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "身心关系",
+      "content": "身心不直接作用，其对应由上帝依恒定意志维持。"
+     },
+     {
+      "name": "秩序与规律",
+      "content": "上帝依恒定意志行事，故自然有可预测的秩序。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "巴黎（1638—1715）",
+      "change": "1664 年入奥拉托利会；读到笛卡尔《论人》后转向哲学；《真理的探索》（1674—75）；与阿尔诺长期论战。"
+     }
+    ],
+    "reception": "偶因论影响贝克莱与休谟的因果分析；其“在神中见物”与奥古斯丁的神照说相接；与莱布尼茨的预定和谐构成同一问题的两种方案。"
+   },
+   "works_detail": [
+    {
+     "title": "《真理的探索》",
+     "structure": "六卷；论感官、想象、纯粹理智的错误与纠正方法。",
+     "core_thesis": "偶因论；在神中见物；这是该书的核心命题。",
+     "editions": "中译参商务印书馆（若有）；Robinet 全集版",
+     "note": "1674—75 年"
+    }
+   ]
+  },
+  {
+   "id": "gr-modern-cusanus",
+   "name": "库萨的尼古拉",
+   "latin": "Nicholas of Cusa",
+   "birth_year": 1401,
+   "death_year": 1464,
+   "birth_display": "1401年",
+   "death_display": "1464年",
+   "birth_note": "生于德国摩泽尔河畔库斯；据其著作与传记，父为船主。",
+   "death_note": "1464年卒于托迪（意大利）。",
+   "era": "15世纪。库萨的尼古拉是枢机主教与哲学家，以“有学问的无知”（docta ignorantia）著称：对无限者的一切规定都是限制，故知其为不可知恰是最高之知；又以“对立面统一”说明无限者中极大与极小重合。",
+   "school": "文艺复兴柏拉图主义（否定神学）",
+   "core_questions": [
+    "人如何认识无限者？",
+    "极大与极小如何统一？",
+    "宇宙是否有中心？"
+   ],
+   "arguments": [
+    {
+     "claim": "有学问的无知：对无限者的认识只能是“知其为不可知”",
+     "premises": [
+      "一切规定都是对某物的限定（determinatio est negatio）。",
+      "无限者不可被限定。"
+     ],
+     "inference": "若认识以规定为形式，而无限者不可被规定，则对无限者的真知即知道它不可被我们的概念把握。",
+     "conclusion": "最高的知识是“有学问的无知”：在承认不可知中接近无限者。",
+     "kind": "原文"
+    },
+    {
+     "claim": "对立面统一：在无限者中极大与极小重合",
+     "premises": [
+      "在有限事物中，极大与极小相对立。",
+      "无限者无界限，故不受这种对立限制。"
+     ],
+     "inference": "若无界限则无“之外”，故极大不可更大、极小不可更小，二者在无限者中重合。",
+     "conclusion": "在无限者中对立面统一；这一原理可类推至宇宙（无固定中心）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论有学问的无知》《论推测》",
+     "edition": "《论有学问的无知》中译参商务印书馆（若有）；拉丁文以 Opera omnia（Heidelberg）为准",
+     "note": "1440；1440"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "伪狄奥尼修斯",
+     "id": "",
+     "note": "否定神学与层级论"
+    },
+    {
+     "name": "爱克哈特（同一时期的德语神秘主义）",
+     "id": "",
+     "note": "否定神与“无”的表述"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "布鲁诺",
+     "id": "gr-modern-bruno",
+     "note": "无限宇宙与对立面统一"
+    },
+    {
+     "name": "德国唯心论（谢林、黑格尔）",
+     "id": null,
+     "note": "对立面统一的辩证法前史"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "经院亚里士多德派",
+     "view": "“对立面在无限者中统一”违反了矛盾律与受造物的确定性；有学问的无知会取消神学的可言说性。",
+     "response": "库萨一系的回应是：矛盾律适用于有限者；对该范围的界限的自觉正是其学说的要点。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-cusanus",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "库萨的尼古拉是相对主义者",
+     "why": "他不否认有限知识的有效性，只限定其范围；且其数学与实验兴趣（如测量）是实证的。"
+    },
+    {
+     "claim": "“有学问的无知”是消极的怀疑",
+     "why": "它是积极的：知识在其界限处达到最高的自觉，不是放弃求知。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>库萨：有学问的无知与对立面统一</text><defs><marker id='aCU' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>一切规定都是限定</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而无限者不可限定</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故真知是知其为不可知</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故在无限者中极大与极小重合</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aCU)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aCU)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "库萨的尼古拉：有学问的无知（示意图）",
+   "sources": [
+    "sep-cusanus",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "库萨的尼古拉以“有学问的无知”立说：一切规定都是限定，而无限者不可被限定，故对无限者的真知即知道它不可被我们的概念把握——在承认不可知中接近它。他又以“对立面统一”说明在无限者中极大与极小重合，因为无界限则无“之外”；这一原理可类推至宇宙（无固定中心），成为布鲁诺无限宇宙论的先声。",
+    "system": [
+     {
+      "name": "有学问的无知",
+      "content": "规定即限定；无限者不可规定，故真知是知其为不可知。"
+     },
+     {
+      "name": "对立面统一",
+      "content": "在无限者中极大与极小重合；矛盾律适用于有限者。"
+     },
+     {
+      "name": "无固定中心",
+      "content": "宇宙无绝对中心，地球不是中心（《论有学问的无知》卷二）。"
+     },
+     {
+      "name": "推测（coniectura）",
+      "content": "一切人的知识都是推测，即对真理的近似分有。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "库斯、帕多瓦与罗马（1401—1464）",
+      "change": "在帕多瓦学法律与数学；1440 年《论有学问的无知》；1448 年任枢机；参与教会合一与改革事务。"
+     }
+    ],
+    "reception": "其否定神学与对立面统一影响布鲁诺、谢林与黑格尔；宇宙无中心的说法预示近代宇宙论；其数学兴趣与测量实践显示文艺复兴学术的交叉性。"
+   },
+   "works_detail": [
+    {
+     "title": "《论有学问的无知》",
+     "structure": "三卷；卷一论无限者与不可知，卷二论宇宙无中心，卷三论基督。",
+     "core_thesis": "有学问的无知；对立面统一；这是该书的核心命题。",
+     "editions": "中译参商务印书馆（若有）；Opera omnia（Heidelberg）",
+     "note": "1440 年"
+    }
+   ]
   }
  ],
  "concepts": [

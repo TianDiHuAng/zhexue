@@ -2193,6 +2193,140 @@
      "note": "1259 年；中世纪上升神学的经典"
     }
    ]
+  },
+  {
+   "id": "gr-medieval-buridan",
+   "name": "布里丹",
+   "latin": "Jean Buridan",
+   "birth_year": 1300,
+   "death_year": 1361,
+   "birth_display": "约1300年",
+   "death_display": "约1361年",
+   "birth_note": "生于法国贝蒂讷（一说阿图瓦）；据巴黎大学档案，曾任校长。",
+   "death_note": "约1361年卒（卒年与地点无确载）。",
+   "era": "14世纪巴黎大学。布里丹是唯名论与“现代路线”（via moderna）的重要代表，以冲力说（impetus）解释抛体运动、以“驴子悖论”讨论意志的抉择，其逻辑与自然哲学著作深刻影响14—15世纪大学教育。",
+   "school": "唯名论（现代路线）",
+   "core_questions": [
+    "抛体离手后为何继续运动？",
+    "意志在同等选项前如何抉择？",
+    "共相是否实在？"
+   ],
+   "arguments": [
+    {
+     "claim": "冲力说：抛体离手后仍带有一个与质量、速度成比例的“冲力”",
+     "premises": [
+      "亚里士多德以介质回推解释抛体，但真空或斜抛难以说明。",
+      "物体被推动时获得某种持存的动力。"
+     ],
+     "inference": "若抛体在离手后仍有运动且介质解释不足，则须假定推动者在推动时赋予物体一个可持存的冲力，冲力随时间与阻力衰减。",
+     "conclusion": "抛体运动由冲力维持；冲力概念为近代惯性概念的前身。",
+     "kind": "原文"
+    },
+    {
+     "claim": "意志的抉择：在同等善的选项前可以悬置",
+     "premises": [
+      "若两选项完全相等且意志必被较大善吸引，则无法行动。",
+      "经验显示人能在对等选项间抉择。"
+     ],
+     "inference": "若意志只被较大善必然推动，则对等选项将使行动不可能；故意志有自由，可在对等情形下自行决定或悬置。",
+     "conclusion": "意志不被对等选项必然决定，故自由是真实的（“布里丹的驴子”是后人对此的讽刺性概括）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论灵魂》《物理学问题》《逻辑大全》",
+     "edition": "拉丁文以巴黎大学手稿与现代校勘本为准；英译参 *John Buridan* 选集",
+     "note": "14世纪；其逻辑著作长期用作教材"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "奥卡姆的威廉",
+     "id": "gr-medieval-ockham",
+     "note": "唯名论与“现代路线”的起点"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "14—15世纪巴黎大学与维也纳学派",
+     "id": "",
+     "note": "冲力说与唯名论逻辑的传播"
+    },
+    {
+     "name": "伽利略与近代力学",
+     "id": null,
+     "note": "冲力说被视为惯性概念的前身"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "实在论者",
+     "view": "唯名论取消共相的实在性，使科学与神学的命题失去必然性基础。",
+     "response": "布里丹一系的回应是：必然性在于命题的连接，而非共相的实在；科学仍可成立。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-buridan",
+      "book-gilson-medieval"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“布里丹的驴子”是他本人的命题",
+     "why": "该悖论是对其意志学说的讽刺性概括，并非其原文论题；他讨论的是意志在对等选项前的自由。"
+    },
+    {
+     "claim": "冲力说是近代惯性定律",
+     "why": "冲力仍会衰减且需外在维持，惯性则不需原因即可持续；二者相近但不同。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>布里丹：冲力与意志自由</text><defs><marker id='aBU' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>抛体离手仍运动</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>介质回推不足解释</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故物体带有冲力</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故意志在对等选项前可自决</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aBU)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aBU)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "布里丹：冲力说与意志抉择（示意图）",
+   "sources": [
+    "sep-buridan",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "布里丹以“冲力”（impetus）解释抛体运动：若介质回推不足以说明离手后的持续运动，则须假定推动者赋予物体一个与质量、速度成比例且随时间衰减的冲力——这可视为近代惯性概念的前身。在意志问题上，他主张意志不被对等选项必然决定，故能在同等善之间自行抉择或悬置（“布里丹的驴子”是后人的讽刺性概括）。",
+    "system": [
+     {
+      "name": "冲力说",
+      "content": "抛体带有可持存的动力；冲力与质量、速度成比例并逐渐衰减。"
+     },
+     {
+      "name": "意志自由",
+      "content": "意志不被对等选项必然决定；可自决或悬置。"
+     },
+     {
+      "name": "唯名论",
+      "content": "共相不是实在之物，必然性在于命题的连接。"
+     },
+     {
+      "name": "逻辑与语义学",
+      "content": "对指代（suppositio）与真值条件的系统研究，影响后世逻辑教学。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "巴黎（约1300—约1361）",
+      "change": "巴黎大学艺学院教授，两度任校长；其著作长期为教材；卒年无确载。"
+     }
+    ],
+    "reception": "冲力说经其学生传至意大利，被视为伽利略惯性的前身；其唯名论逻辑影响14—15世纪大学；意志学说引发长期讨论。"
+   },
+   "works_detail": [
+    {
+     "title": "《论灵魂》",
+     "structure": "三卷；论灵魂的能力、意志的自由与冲力说。",
+     "core_thesis": "冲力；意志在对等选项前自决；这是该书的核心命题。",
+     "editions": "拉丁校勘本；英译选集",
+     "note": "14 世纪；其逻辑著作影响更大"
+    }
+   ]
   }
  ],
  "concepts": [
