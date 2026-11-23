@@ -15601,6 +15601,63 @@
    "sort_year": 1936
   },
   {
+   "id": "work-yinbingshi-heji",
+   "title": "《饮冰室合集》",
+   "title_original": "飲冰室合集",
+   "tradition": "china",
+   "date_display": "1936年（梁启超著作总集）",
+   "structure": "分《文集》四十五卷（政论、时评、讲演）与《专集》一百零四卷（学术著作、专题研究），另有年谱、书信等。",
+   "core_arguments": [
+    "“新民”：国家的强弱系于国民的品质",
+    "“以复古为解放”：清代学术的内在动力",
+    "“趣味”与“情感”：人生与美术的根据"
+   ],
+   "key_points": [
+    {
+     "locator": "《专集》之《新民说》",
+     "point": "新民与公德"
+    },
+    {
+     "locator": "《专集》之《清代学术概论》",
+     "point": "以复古为解放"
+    },
+    {
+     "locator": "《文集》诸篇",
+     "point": "政论与“群”的问题"
+    },
+    {
+     "locator": "《专集》之《先秦政治思想史》",
+     "point": "对先秦政治思想的整理"
+    }
+   ],
+   "editions": [
+    "中华书局《饮冰室合集》（1936）；北京出版社《梁启超全集》"
+   ],
+   "related_people": [
+    "cn-qingmod-liang-qichao",
+    "cn-qingmod-kang-youwei",
+    "cn-qingmod-yan-fu"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是梁启超自编的定本",
+     "why": "它是1936年（梁卒后）由中华书局编印的合集，篇目取舍与编次由编者定；故其“全集”性质须与其单行本初版分辨。"
+    },
+    {
+     "claim": "其中各篇皆为成熟学术著作",
+     "why": "合集兼收政论、时评、讲演与学术著作，性质与写作目的各异；以学术标准读政论会错失其语境。"
+    }
+   ],
+   "sources": [
+    "ws-yinbingshi",
+    "ws-tianyan-lun",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《饮冰室合集》为1936年中华书局编印本，与北京出版社《梁启超全集》在篇目与编次上有差异；本页依合集与通行研究概述。",
+   "sort_year": 1936
+  },
+  {
    "id": "work-being-nothingness",
    "title": "《存在与虚无》",
    "title_original": "L'Être et le néant",

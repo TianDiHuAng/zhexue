@@ -2710,6 +2710,306 @@
      "note": "其义例分类为其学说的骨架"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-liang-qichao",
+   "name": "梁启超",
+   "latin": "Liang Qichao",
+   "birth_year": 1873,
+   "death_year": 1929,
+   "birth_display": "1873年",
+   "death_display": "1929年",
+   "birth_note": "据其自述与年谱：生于广东新会，1890年从康有为学于万木草堂，1895年参与公车上书。",
+   "death_note": "1929年卒于北平。",
+   "era": "清末民初。梁启超是戊戌变法的核心人物之一，流亡日本后以《新民说》等文震动一时。其思想的核心是“新民”：国家的强弱系于国民的德性、智识与团体能力，故“变法”先须“变人”。他又以“以复古为解放”解释清代学术（《清代学术概论》），并以“趣味”与“情感”论人生与美术。",
+   "school": "近代中国（维新派与“新民”说）",
+   "core_questions": [
+    "国民的德性如何养成？",
+    "传统学术的演变有何内在逻辑？",
+    "“群”与“个体”的关系是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "新民：国家的强弱系于国民",
+     "premises": [
+      "制度由人运作，故无新民则新法不能行。",
+      "新民须具备公德、国家思想、进取冒险、权利思想等品质。"
+     ],
+     "inference": "若制度的效力依赖国民的品质，则改革的第一步是**改造国民**；故其“新民”说是以“人”为制度的前提，而不是以制度为人的前提。",
+     "conclusion": "变法须先“变人”：新民是制度革新的前提。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以复古为解放：清代学术的内在动力",
+     "premises": [
+      "清代学者由宋学回到汉学（复古）。",
+      "复古使其摆脱宋学的权威，故是解放。"
+     ],
+     "inference": "若复古的作用是**解除既有权威的束缚**，则“复古”在结构上不是保守，而是求解放的一种方式；故其学术史的分期以“思潮”为据，不以朝代。",
+     "conclusion": "复古与解放并不矛盾：复古可以是解放的手段。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《新民说》《清代学术概论》《先秦政治思想史》《饮冰室合集》",
+     "edition": "《饮冰室合集》（中华书局）；《梁启超全集》（北京出版社）",
+     "note": "1902；1920；1922"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "康有为",
+     "id": "cn-qingmod-kang-youwei",
+     "note": "以今文经学与“大同”说为其师承"
+    },
+    {
+     "name": "严复（同代人）",
+     "id": "cn-qingmod-yan-fu",
+     "note": "以进化论与“群”为其思想资源"
+    },
+    {
+     "name": "明清之际诸家（其评价）",
+     "id": "cn-qingmod-gu-yanwu",
+     "note": "以顾炎武、黄宗羲、王夫之为近世学术的起点"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "五四一代",
+     "id": null,
+     "note": "以“新民”说为其先声"
+    },
+    {
+     "name": "现代新儒家",
+     "id": null,
+     "note": "以“国民性”与“文化”问题承接之"
+    },
+    {
+     "name": "近代学术史研究",
+     "id": null,
+     "note": "以《清代学术概论》为经典框架"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "革命派（如章太炎一系）",
+     "view": "以“新民”说过于重“德性”而轻“制度”，且其调和立宪的立场被视为不彻底。",
+     "response": "梁启超一系的回应是：制度与国民互为条件，而其“新民”论正是指出制度的**人的条件**，非以德性替代制度。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-yinbingshi",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "梁启超是“纯粹的启蒙宣传家”",
+     "why": "其《清代学术概论》《先秦政治思想史》是严肃的学术著作；其“以复古为解放”的框架至今仍被讨论。"
+    },
+    {
+     "claim": "“新民”说是“国民性批判”的舶来品",
+     "why": "它既有西学（进化论、国家思想）的资源，也承接了传统的“教化”问题；其独特处在于把“群”作为伦理与政治的中介。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>梁启超：新民与以复古为解放</text><defs><marker id='aLQ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>制度由人运作</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故无新民则新法不行</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故变法先须变人</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>而复古可成为解放的手段</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLQ)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLQ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "梁启超：“新民”与“以复古为解放”的结构（示意图）",
+   "sources": [
+    "ws-yinbingshi",
+    "ws-tianyan-lun",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "梁启超无 SEP／IEP 专属词条；本页所据为《饮冰室合集》（原典全文）、《天演论》（其思想资源）与 SEP“中国形而上学”条目的语境性说明（属语境性引用而非专门研究）。其具体论点须核《新民说》原文。",
+   "doctrine": {
+    "summary": "梁启超以“新民”为核心：制度由人运作，故无新民则新法不能行；新民须具备公德、国家思想、进取冒险、权利思想等品质。他又以“以复古为解放”解释清代学术：复古（回到汉学）的作用是解除宋学的权威，故复古在结构上可以是解放的手段。其学术史以“时代思潮”为分期根据，不以朝代。",
+    "system": [
+     {
+      "name": "新民",
+      "content": "国家的强弱系于国民的品质，故变法先须变人。"
+     },
+     {
+      "name": "公德",
+      "content": "中国传统重“私德”，新民须补“公德”（群体之德）。"
+     },
+     {
+      "name": "以复古为解放",
+      "content": "复古是解除既有权威的手段，不是保守；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "趣味与情感",
+      "content": "其后期以“趣味”论人生，以“情感”论美术与宗教。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "新会、东京与北平（1873—1929）",
+      "change": "1890 年从康有为学于万木草堂；1895 年参与公车上书；1898 年戊戌变法失败后流亡日本，创办《清议报》《新民丛报》；1912 年后一度从政（司法总长、财政总长）；晚年在清华讲学；1929 年卒。"
+     }
+    ],
+    "reception": "梁启超的“新民”说影响了五四一代对“国民性”的讨论；《清代学术概论》成为近代学术史的经典框架；其“趣味”与“情感”论在20世纪中国美学中有其位置。"
+   },
+   "works_detail": [
+    {
+     "title": "《饮冰室合集》",
+     "structure": "分《文集》四十五卷与《专集》一百零四卷，收录其政论、学术著作、讲演与书信；为研究其思想的基本文献。",
+     "core_thesis": "新民说；以复古为解放；趣味与情感。",
+     "editions": "中华书局《饮冰室合集》（1936）；北京出版社《梁启超全集》",
+     "note": "1936 年初版合集"
+    }
+   ]
+  },
+  {
+   "id": "cn-qingmod-liang-shuming",
+   "name": "梁漱溟",
+   "latin": "Liang Shuming",
+   "birth_year": 1893,
+   "death_year": 1988,
+   "birth_display": "1893年",
+   "death_display": "1988年",
+   "birth_note": "据其自述与年谱：生于北京，祖籍广西桂林；1917年应蔡元培之邀任教北京大学。",
+   "death_note": "1988年卒于北京。",
+   "era": "20世纪中国。梁漱溟以《东西文化及其哲学》（1921）成名：他以“意欲的方向”分西方（向前）、中国（调和）、印度（向后）三种文化路向，并断言世界未来将走“中国路向”。其后转向乡村建设（邹平实验），主张以“伦理本位”的社会重建中国。他被称为“最后的儒家”。",
+   "school": "现代新儒家（文化路向论与乡村建设）",
+   "core_questions": [
+    "文化的差异根源于什么？",
+    "中国文化的价值何在？",
+    "社会改造应从何处入手？"
+   ],
+   "arguments": [
+    {
+     "claim": "三种文化路向：意欲的方向不同",
+     "premises": [
+      "文化是民族生活的样法，而生活的根本在“意欲”。",
+      "西方意欲向前（征服自然），中国意欲调和（尽其在我），印度意欲向后（取消问题）。"
+     ],
+     "inference": "若文化的差异源于意欲方向的不同，则三者不是**发展阶段的高低**，而是**方向的分歧**；故不能以“进步”为唯一尺度衡量中国文化。",
+     "conclusion": "三种文化是方向之别，不是阶段之别（此说反驳了当时流行的单线进步观）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "伦理本位：中国社会结构的特征",
+     "premises": [
+      "西方社会以个人为本位（或阶级为本位）。",
+      "中国社会以伦理关系（家庭、宗族、乡谊）为本位。"
+     ],
+     "inference": "若中国社会是“伦理本位”，则其改造不能照搬个人主义的路径；须从**伦理关系的重建**入手——此即其乡村建设的理论根据。",
+     "conclusion": "中国社会是“伦理本位”，故改造须从伦理关系入手。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《东西文化及其哲学》《中国文化要义》《人心与人生》《乡村建设理论》",
+     "edition": "《梁漱溟全集》（山东人民出版社，八卷）",
+     "note": "1921；1949；1984；1937"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "孔子与儒家",
+     "id": null,
+     "note": "以“仁”与“礼乐”为其文化路向论的资源"
+    },
+    {
+     "name": "柏格森（其引用）",
+     "id": null,
+     "note": "以“生命冲动”与直觉为其哲学资源"
+    },
+    {
+     "name": "王阳明（其推崇）",
+     "id": null,
+     "note": "以“良知”为其道德实践的根据"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "现代新儒家（熊十力、牟宗三一系）",
+     "id": null,
+     "note": "以文化路向论为起点之一"
+    },
+    {
+     "name": "乡村建设运动",
+     "id": null,
+     "note": "以邹平实验为实践样本"
+    },
+    {
+     "name": "中西文化比较研究",
+     "id": null,
+     "note": "以“三种路向”为经典框架"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "西化派（如胡适一系）",
+     "view": "以“三种路向”缺乏经验根据，且其“未来是中国路向”的判断是愿望而非论证。",
+     "response": "梁漱溟一系的回应是：其判断基于对“意欲方向”的分析与人生态度的比较，非经验预测；其价值在于提供**不同于单线进步观的尺度**。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-dongxi-wenhua",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“三种路向”是进化阶段",
+     "why": "梁漱溟明确说三者是**方向**；其“未来是中国路向”是他的判断，不是“必然进步”。"
+    },
+    {
+     "claim": "他是“文化保守主义者”",
+     "why": "他同时批评中国传统（如“伦理本位”下的个人压抑），且其乡村建设是**改造**方案；故“保守”一词会掩盖其批判性。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>梁漱溟：三种路向与伦理本位</text><defs><marker id='aLS' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>文化是生活的样法</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而生活的根本在意欲</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故意欲方向决定文化路向</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故中国社会是伦理本位</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLS)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLS)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "梁漱溟：“三种路向”与“伦理本位”的结构（示意图）",
+   "sources": [
+    "ws-dongxi-wenhua",
+    "sep-chinese-metaphysics",
+    "ws-yinbingshi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "梁漱溟无 SEP／IEP 专属词条；本页所据为《东西文化及其哲学》（原典全文）、SEP“中国形而上学”条目的语境性说明与《饮冰室合集》（同代语境）——属语境性引用而非专门研究。其“三种路向”说的原文表述须核商务印书馆本。",
+   "doctrine": {
+    "summary": "梁漱溟以“意欲的方向”分三种文化路向：西方向前（征服自然）、中国调和（尽其在我）、印度向后（取消问题）。他强调三者是**方向之别而非阶段之别**，故不能以单线进步观衡量中国文化，并断言世界未来将走“中国路向”。其后以“伦理本位”概括中国社会结构，主张社会改造须从伦理关系的重建入手（乡村建设）。",
+    "system": [
+     {
+      "name": "三种路向",
+      "content": "西方向前、中国调和、印度向后；方向之别非阶段之别。"
+     },
+     {
+      "name": "伦理本位",
+      "content": "中国社会以伦理关系为本位，非个人本位；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "理性",
+      "content": "以“理性”为中国文化的特长（其后期的核心概念）。"
+     },
+     {
+      "name": "乡村建设",
+      "content": "以伦理关系的重建为改造路径（邹平实验）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "北京与邹平（1893—1988）",
+      "change": "1917 年任教北京大学；1921 年《东西文化及其哲学》；1924 年辞北大，从事乡村建设；1931 年起在山东邹平办乡农学校；抗战后参与政治协商；晚年著《人心与人生》；1988 年卒。"
+     }
+    ],
+    "reception": "《东西文化及其哲学》是20世纪中国最有影响的文化比较著作之一；其“三种路向”说影响了现代新儒家的文化论述；其乡村建设实验成为中国近代社会改造史的重要案例。"
+   },
+   "works_detail": [
+    {
+     "title": "《东西文化及其哲学》",
+     "structure": "五章：绪论、如何是东方化与西方化、三方哲学之比观、中国文化的特质、未来文化的取舍；由 1920—21 年讲演整理。",
+     "core_thesis": "三种路向是方向之别，非阶段之别。",
+     "editions": "商务印书馆（1922 初版）；《梁漱溟全集》第1卷",
+     "note": "1921 年讲演，1922 年出版"
+    }
+   ]
   }
  ],
  "concepts": [

@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1068,
+  "entries": 1071,
   "by_level": {
    "L2": 786,
-   "L1": 282
+   "L1": 285
   },
   "doctrine": {
-   "total": 248,
-   "detail": 248,
+   "total": 250,
+   "detail": 250,
    "auto": 0
   },
-  "needs_verification": 282,
-  "sources": 391,
-  "sources_verified": 391
+  "needs_verification": 285,
+  "sources": 392,
+  "sources_verified": 392
  },
  "units": [
   {
@@ -29,10 +29,10 @@
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 17,
+   "philosophers": 19,
    "concepts": 16,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -9"
+   "philosophers_slot": "8 上限，余 -11"
   },
   {
    "unit_id": "cn-songming",
@@ -863,6 +863,28 @@
    "id": "cn-qingmod-zhuang-cunyu",
    "type": "philosopher",
    "title": "庄存与",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-liang-qichao",
+   "type": "philosopher",
+   "title": "梁启超",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-liang-shuming",
+   "type": "philosopher",
+   "title": "梁漱溟",
    "container": "cn-qingmod",
    "level": "L1",
    "sources": 3,
@@ -10921,6 +10943,17 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-yinbingshi-heji",
+   "type": "work",
+   "title": "《饮冰室合集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
