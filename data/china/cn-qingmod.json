@@ -2430,6 +2430,286 @@
      "note": "清代史学理论的代表作"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-jiao-xun",
+   "name": "焦循",
+   "latin": "Jiao Xun",
+   "birth_year": 1763,
+   "death_year": 1820,
+   "birth_display": "1763年",
+   "death_display": "1820年",
+   "birth_note": "据《清史稿·儒林传》与《清史列传》：字理堂，江苏甘泉（今扬州）人。",
+   "death_note": "1820年卒。",
+   "era": "18—19世纪之交的扬州。焦循是扬州学派的代表：以数学家的方法治《易》（“以测天之法测《易》”），提出“旁通、相错、时行”三法；又以“性灵”论人性、以“舍利无以为善”论义利；其《孟子正义》为清代《孟子》学的集大成之作。",
+   "school": "扬州学派（清代朴学的一支）",
+   "core_questions": [
+    "《易》的卦爻之间有何规律？",
+    "人性是否可一概而论？",
+    "义与利是对立的吗？"
+   ],
+   "arguments": [
+    {
+     "claim": "以“比例”治《易》：卦爻的变动有可推的规律，非任意附会",
+     "premises": [
+      "《易》的卦爻之变看似无穷，实有“旁通”“相错”“时行”的固定relation。",
+      "若以数学的比例法处理，则可推知未见的卦象关系。"
+     ],
+     "inference": "若《易》的变动有可推的规律，则治《易》应如治历算——以“比例”求其条理，而非以象数附会。故焦循反对汉宋两家的“图书”与“义理”式解《易》。",
+     "conclusion": "《易》学须以“比例”求其条理，故其方法是数学式的而非象数式的。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“舍利无以为善”：义不在利外",
+     "premises": [
+      "人之所以能行善，正因其有“趋利”之情（“血气心知”）。",
+      "若完全去利，则善无所依托，成为空名。"
+     ],
+     "inference": "若善须由人的实情而行，则“利”不是善的对立面，而是善的质料；故正当的治理是“与民同利”，而非“以义抑利”。",
+     "conclusion": "义利非对立：善须在利上落实（此说与戴震的理欲观一脉）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《易通释》《易章句》《易图略》（合称“易学三书”）《孟子正义》《剧说》",
+     "edition": "《孟子正义》中华书局点校本；《清史稿·儒林传》本传",
+     "note": "1813；1819；1815"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "戴震（同调）",
+     "id": "cn-qingmod-dai-zhen",
+     "note": "以“血气心知”论性、以“理存于欲”论理"
+    },
+    {
+     "name": "扬州学派的考据传统",
+     "id": null,
+     "note": "王念孙、王引之的音韵训诂之学"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "晚清《孟子》学与义理学的复兴",
+     "id": null,
+     "note": "《孟子正义》成为标准注本"
+    },
+    {
+     "name": "近代对“理欲”问题的重估",
+     "id": null,
+     "note": "戴震—焦循一系被重新重视"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "宋学一系",
+     "view": "以“存天理、灭人欲”为纲，批评焦循“舍利无以为善”说是为利辩护。",
+     "response": "焦循一系的回应是：他并非主张纵欲，而是指出若无血气心知（含趋利之情），则道德无所附丽；其对立面是“空言义理”。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-qingshigao",
+      "sep-qing-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "焦循只是考据家",
+     "why": "他有明确的义理主张（性灵、义利、易学三法），且《孟子正义》以义理为归。"
+    },
+    {
+     "claim": "“以测天之法测《易》”是把《易》当作数学",
+     "why": "其“比例”是取历算的**方法态度**（求可推的条理），不是把卦爻化约为数值。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>焦循：以比例治《易》与舍利无以为善</text><defs><marker id='aJX' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>卦爻之变有可推的条理</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故治《易》当如治历算</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故以“比例”求其规律</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故义不在利外</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aJX)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aJX)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "焦循：《易》学的比例法与义利观（示意图）",
+   "sources": [
+    "ws-qingshigao",
+    "ws-qingshi-liezhuan",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "焦循的“易学三书”卷帙浩繁，其“旁通、相错、时行”三法的确切内容须核原书；本页依《清史稿》本传与哲学史研究概述，具体义例待核。",
+   "doctrine": {
+    "summary": "焦循以数学家的方法治《易》：卦爻之变看似无穷，实有“旁通、相错、时行”的可推条理，故治《易》应如治历算，以“比例”求之，而非以象数附会。他又以“血气心知”论性，提出“舍利无以为善”——义不在利外，善须在人的实情上落实（与戴震的理欲观一脉）。其《孟子正义》为清代《孟子》学的集大成之作。",
+    "system": [
+     {
+      "name": "比例（易学方法）",
+      "content": "以历算的态度求卦爻变动的可推条理；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "旁通、相错、时行",
+      "content": "易学三法：卦象的互通、交错与随时而行；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "性灵",
+      "content": "以“灵”言人的知觉能动，承戴震“血气心知”。"
+     },
+     {
+      "name": "舍利无以为善",
+      "content": "义不在利外；去利则善无所附丽；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "甘泉（1763—1820）",
+      "change": "乾隆五十七年举人；会试不第，遂专意著述；嘉庆年间闭户著书，成“易学三书”与《孟子正义》；《清史稿》入《儒林传》。"
+     }
+    ],
+    "reception": "焦循的易学三法与《孟子正义》是清代朴学的高峰之一；其“舍利无以为善”与戴震的理欲观共同构成清代义理学的另一条线索；扬州学派的方法（以数学治经）在晚清仍有影响。"
+   },
+   "works_detail": [
+    {
+     "title": "《孟子正义》",
+     "structure": "三十卷；疏解《孟子》全文，博采汉唐至清的注说，以训诂与义理并重。",
+     "core_thesis": "以训诂求义理；义不在利外；这是该书的核心命题。",
+     "editions": "中华书局点校本；《清史稿》本传所载",
+     "note": "1819 年成书"
+    }
+   ]
+  },
+  {
+   "id": "cn-qingmod-zhuang-cunyu",
+   "name": "庄存与",
+   "latin": "Zhuang Cunyu",
+   "birth_year": 1719,
+   "death_year": 1788,
+   "birth_display": "1719年",
+   "death_display": "1788年",
+   "birth_note": "据《清史稿·儒林传》与《清史列传》：字方耕，江苏武进人。",
+   "death_note": "1788年卒。",
+   "era": "18世纪的常州。庄存与是常州今文经学的开创者：以《公羊》义例说《春秋》（《春秋正辞》），重“微言大义”与“大一统”，把经学从考据转向政治关怀。其学经刘逢禄、龚自珍、魏源发展为晚清的今文运动。",
+   "school": "常州学派（清代今文经学）",
+   "core_questions": [
+    "《春秋》的义例是否可推？",
+    "经学的目的是考据还是经世？",
+    "“大一统”在经典中的根据是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "以《公羊》义例说《春秋》：经文有“微言大义”，非仅史事记录",
+     "premises": [
+      "《春秋》的书法（如“元年春王正月”）含褒贬之义例。",
+      "若只作史事读，则义例隐而不见。"
+     ],
+     "inference": "若经文有可推的义例，则治《春秋》须求其“辞”所指的“义”，而非仅考其事实。故庄存与以《公羊》为门径重建《春秋》的政治哲学。",
+     "conclusion": "《春秋》的义例须被“读出”：其辞有褒贬，故其学是经世之学而非史料之学。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“大一统”是《春秋》的首义",
+     "premises": [
+      "“元年春王正月”以“王”系“正”，示天下定于一。",
+      "故“大一统”不是疆域的统一，而是政教秩序的统一。"
+     ],
+     "inference": "若“王正月”之义为“上奉天时、下正万民”，则“大一统”首先是**秩序与正当性**的问题，而非领土问题。",
+     "conclusion": "“大一统”首先是政教秩序的统一（此义为晚清今文家所承）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《春秋正辞》《尚书既见》《毛诗说》《周官记》",
+     "edition": "《春秋正辞》清刻本；《清史稿·儒林传》本传",
+     "note": "1750年代—1780年代"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "董仲舒与《公羊》学",
+     "id": null,
+     "note": "“微言大义”与“大一统”的汉学源头"
+    },
+    {
+     "name": "清代考据学（其背景）",
+     "id": "cn-qingmod-dai-zhen",
+     "note": "以训诂为学的时代风气"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "刘逢禄、龚自珍、魏源",
+     "id": null,
+     "note": "常州今文学的发展"
+    },
+    {
+     "name": "康有为与晚清变法",
+     "id": null,
+     "note": "以今文经学为变法的根据"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "考据学派",
+     "view": "以《春秋正辞》为“空言义理”，不合朴学家法。",
+     "response": "庄存与一系的回应是：经学的目的在经世，若只校字句而不问其义，则经成为古董；其《春秋正辞》仍以训诂为基础。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-qingshigao",
+      "sep-qing-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "常州学派是“今文经学”的纯粹复古",
+     "why": "它是对乾嘉考据的反动，其问题意识是政治的（秩序与正当性），不是回到汉人的家法。"
+    },
+    {
+     "claim": "庄存与与康有为的今文说相同",
+     "why": "庄存与重在《春秋》义例与“大一统”的秩序义；康有为则以“孔子改制”为变法张本，二者的政治用法不同。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>庄存与：春秋义例与大一统</text><defs><marker id='aZC' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>《春秋》书法含褒贬义例</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故须求其辞所指之义</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故其学是经世之学</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故“大一统”是秩序问题</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aZC)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aZC)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "庄存与：《春秋》义例与“大一统”（示意图）",
+   "sources": [
+    "ws-qingshigao",
+    "ws-qingshi-liezhuan",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《春秋正辞》的义例体系繁复，其与董仲舒、何休的公羊学关系须核原书；本页依《清史稿》本传与清代学术史研究概述，具体条例待核。",
+   "doctrine": {
+    "summary": "庄存与以《公羊》义例说《春秋》：经文有“微言大义”，其书法（如“元年春王正月”）含褒贬之义例，故治《春秋》须求其“辞”所指的“义”，而非仅考其事实。他由此重建《春秋》的政治哲学，以“大一统”为首义——而“大一统”首先是**政教秩序与正当性**的统一，不是领土的统一。其学经刘逢禄、龚自珍、魏源发展为晚清的今文运动。",
+    "system": [
+     {
+      "name": "微言大义",
+      "content": "经文有可推的义例，其辞含褒贬；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "大一统",
+      "content": "“王正月”示政教秩序的统一，非领土问题。"
+     },
+     {
+      "name": "以经世为归",
+      "content": "经学的目的是秩序与正当性，不只是校勘；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "常州学派",
+      "content": "以《公羊》为门径的今文经学传统；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "武进（1719—1788）",
+      "change": "乾隆十年进士；官至礼部侍郎；与戴震同时而取向相反（一重义理经世，一重训诂考据）；《清史稿》入《儒林传》。"
+     }
+    ],
+    "reception": "庄存与开常州今文经学一派；其学经刘逢禄、龚自珍、魏源发展为晚清最具政治能量的学术运动；康有为的“孔子改制”说亦由此脉络而来。"
+   },
+   "works_detail": [
+    {
+     "title": "《春秋正辞》",
+     "structure": "依《公羊》义例分列条目，逐条引经文而申其义；含“奉天辞”“天子辞”“讥世卿”等类。",
+     "core_thesis": "以义例说《春秋》；大一统为首义。",
+     "editions": "清刻本；《清史稿》本传所载",
+     "note": "其义例分类为其学说的骨架"
+    }
+   ]
   }
  ],
  "concepts": [

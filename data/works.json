@@ -8451,6 +8451,63 @@
    "sort_year": 1770
   },
   {
+   "id": "work-chunqiu-zhengci",
+   "title": "《春秋正辞》",
+   "title_original": "春秋正辭",
+   "tradition": "china",
+   "date_display": "约1750—1780年代",
+   "structure": "依《公羊》义例分类立目（奉天辞、天子辞、讥世卿、内辞等），逐条引《春秋》经文而申其义。",
+   "core_arguments": [
+    "《春秋》的书法含褒贬之义例，须“读出”其辞所指",
+    "“元年春王正月”示政教秩序的统一（大一统）",
+    "以“讥世卿”等条例批评当时的社会政治"
+   ],
+   "key_points": [
+    {
+     "locator": "奉天辞",
+     "point": "“王正月”与天时秩序"
+    },
+    {
+     "locator": "天子辞",
+     "point": "天子与诸侯的名分"
+    },
+    {
+     "locator": "讥世卿",
+     "point": "对世卿制度的批评"
+    },
+    {
+     "locator": "内辞",
+     "point": "鲁国内政的书法"
+    }
+   ],
+   "editions": [
+    "清刻本（《味经斋遗书》本）；《清史稿》本传所载"
+   ],
+   "related_people": [
+    "cn-qingmod-zhuang-cunyu",
+    "cn-lianghan-dong-zhongshu",
+    "cn-lianghan-he-xiu"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《公羊传》的注疏",
+     "why": "它不逐句注《公羊》，而是**分类立目**、以经文证义例，是“以例说经”的著作。"
+    },
+    {
+     "claim": "“大一统”指领土统一",
+     "why": "其义首先在政教秩序与正当性（“王正月”），非疆域问题。"
+    }
+   ],
+   "sources": [
+    "ws-qingshigao",
+    "ws-qingshi-liezhuan",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《春秋正辞》的义例分类与条目在各本间有出入，其与董仲舒、何休公羊学的关系须核原书；本页依《清史稿》本传与清代学术史研究概述。",
+   "sort_year": 1770
+  },
+  {
    "id": "work-origin-language",
    "title": "《论语言的起源》",
    "title_original": "Abhandlung über den Ursprung der Sprache",
@@ -9465,6 +9522,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1818
+  },
+  {
+   "id": "work-mengzi-zhengyi",
+   "title": "《孟子正义》",
+   "title_original": "孟子正義",
+   "tradition": "china",
+   "date_display": "1819年",
+   "structure": "三十卷；以赵岐注为底本，博采汉唐至清的注说，逐章疏解，兼下己意。",
+   "core_arguments": [
+    "以训诂求义理：先明字义名物，而后可论义理",
+    "“舍利无以为善”：义不在利外，善须在人的实情上落实",
+    "对“性善”的重释：以“血气心知”说明善的根据"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "疏解体例与对赵岐注的处理"
+    },
+    {
+     "locator": "《梁惠王上》",
+     "point": "义利之辨的重释"
+    },
+    {
+     "locator": "《告子上》",
+     "point": "性善与“血气心知”"
+    },
+    {
+     "locator": "全书",
+     "point": "清代《孟子》学的集大成"
+    }
+   ],
+   "editions": [
+    "中华书局《孟子正义》点校本（沈文倬点校）；《清史稿》本传所载"
+   ],
+   "related_people": [
+    "cn-qingmod-jiao-xun",
+    "cn-xianqin-mengzi",
+    "cn-qingmod-dai-zhen"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是旧注的汇编",
+     "why": "它以赵岐注为底本而博采众说，并有明确的义理主张（义利观、性论），是“疏”而非“辑”。"
+    },
+    {
+     "claim": "焦循的“舍利”说是为利辩护",
+     "why": "他主张的是善须在人的实情（含趋利之情）上落实，对立面是“空言义理”，不是纵欲。"
+    }
+   ],
+   "sources": [
+    "ws-qingshigao",
+    "ws-qingshi-liezhuan",
+    "ct-mengzi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《孟子正义》的成书过程（焦循晚年成书，其子焦廷琥参与校补）与各本差异须核中华书局点校本；本页依《清史稿》本传与通行研究概述。",
+   "sort_year": 1819
   },
   {
    "id": "work-philosophy-of-right",

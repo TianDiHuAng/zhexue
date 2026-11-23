@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 884,
+  "entries": 888,
   "by_level": {
    "L2": 722,
-   "L1": 162
+   "L1": 166
   },
   "doctrine": {
-   "total": 229,
-   "detail": 229,
+   "total": 231,
+   "detail": 231,
    "auto": 0
   },
-  "needs_verification": 162,
-  "sources": 355,
-  "sources_verified": 355
+  "needs_verification": 166,
+  "sources": 357,
+  "sources_verified": 357
  },
  "units": [
   {
@@ -29,10 +29,10 @@
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 15,
+   "philosophers": 17,
    "concepts": 16,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -7"
+   "philosophers_slot": "8 上限，余 -9"
   },
   {
    "unit_id": "cn-songming",
@@ -780,6 +780,28 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-jiao-xun",
+   "type": "philosopher",
+   "title": "焦循",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-zhuang-cunyu",
+   "type": "philosopher",
+   "title": "庄存与",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -8450,6 +8472,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-chunqiu-zhengci",
+   "type": "work",
+   "title": "《春秋正辞》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-origin-language",
    "type": "work",
    "title": "《论语言的起源》",
@@ -8645,6 +8678,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-mengzi-zhengyi",
+   "type": "work",
+   "title": "《孟子正义》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
