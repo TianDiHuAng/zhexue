@@ -1628,6 +1628,151 @@
      "note": "原书佚，仅存转述"
     }
    ]
+  },
+  {
+   "id": "cn-xianqin-yang-zhu",
+   "name": "杨朱",
+   "latin": "Yang Zhu",
+   "birth_year": -395,
+   "death_year": -335,
+   "birth_display": "约前395年",
+   "death_display": "约前335年",
+   "birth_note": "生卒为推定；其说散见《孟子》《庄子》《韩非子》《吕氏春秋》与《列子·杨朱》。",
+   "death_note": "同上；具体年不可考。",
+   "era": "战国中期。杨朱与墨翟并称显学（“天下之言不归杨则归墨”），主张“为我”“贵己”，反对损己利人与损人利己，被孟子视为“无君”而激烈批评。",
+   "school": "道家（为我派）",
+   "core_questions": [
+    "人应如何对待自己的身体与生命？",
+    "为何不应为外物（名利）损害自身？",
+    "“为我”是否等于自私？"
+   ],
+   "arguments": [
+    {
+     "claim": "贵己重生：不以天下易其一毛",
+     "premises": [
+      "生命与身体是每个人最真实的所有物。",
+      "外物（名利、天下）相对于生命是次要的。"
+     ],
+     "inference": "若以损害自身去换取外物，则是本末倒置；故“拔一毛而利天下，不为也”。",
+     "conclusion": "保全自身、不损己以利人，是“为我”的核心。",
+     "kind": "原文"
+    },
+    {
+     "claim": "不为物所累：拒绝以名利伤生",
+     "premises": [
+      "名利之争使人疲役与危身。",
+      "“生”有其自然的分寸与限度。"
+     ],
+     "inference": "若追逐名利损害生命，则节制欲望、安于本分才是养生之道。",
+     "conclusion": "“为我”是养生论，不是纵欲，也不是害人。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "无著作传世（说见《列子·杨朱》及诸子转述）",
+     "edition": "《列子·杨朱》见杨伯峻《列子集释》中华书局；另见《孟子·尽心上》《庄子·徐无鬼》等",
+     "note": "《列子·杨朱》为后世编纂，未必尽合杨朱原意"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "早期隐者与道家传统",
+     "id": null,
+     "note": "重生、避世的思想背景"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "庄子与魏晋玄学（放达一路）",
+     "id": "cn-xianqin-zhuangzi",
+     "note": "重生与“为我”的思想资源"
+    },
+    {
+     "name": "后世养生论",
+     "id": null,
+     "note": "贵生与节欲"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "孟子",
+     "view": "“杨氏为我，是无君也”，若人人为我则否定君臣之义，是禽兽之道。",
+     "response": "杨朱一系的回应可重构为：为我不等于否定公共秩序，而是反对以“利天下”之名强迫个体牺牲；其说不必然取消君臣。",
+     "kind": "原文",
+     "sources": [
+      "ct-mengzi",
+      "ws-liezi2"
+     ]
+    },
+    {
+     "critic": "韩非",
+     "view": "“今之争夺，非鄙也，财寡也”；杨朱式的退避不能解决现实问题。",
+     "response": "杨朱一系的回应是：其说是养生与自保，非治国之术；不同问题须不同回答。",
+     "kind": "原文",
+     "sources": [
+      "ct-hanfeizi",
+      "iep-chinese-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "杨朱主张极端自私",
+     "why": "其“为我”是不损己以利人，同时也不损人以利己（“不拔一毛”与“不取一毫”并举）；与损人利己的自私不同。"
+    },
+    {
+     "claim": "杨朱是享乐主义者",
+     "why": "其重生节欲、反对为物所累；《列子·杨朱》中的纵欲描写可能出于后学或批评者的塑造。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>杨朱：贵己重生与不为物累</text><defs><marker id='aYZ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>生命是最真实的所有物</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>外物相对次要</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故不以天下易其一毛</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故节欲安分以养生</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aYZ)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aYZ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "杨朱：贵己重生的论证（示意图）",
+   "sources": [
+    "ws-liezi2",
+    "ct-mengzi",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "杨朱无著作传世；《列子·杨朱》系后世编纂，其纵欲描写与“为我”的确切含义有讨论，本页以《孟子》《韩非子》等较早转述为主。",
+   "doctrine": {
+    "summary": "杨朱以“为我”“贵己”立说：生命与身体是最真实的所有物，外物相对次要，故不以损害自身去换取名利或天下（“拔一毛而利天下，不为也”）；同时也不损人以利己。其“为我”是养生论与自保论，被孟子斥为“无君”，与墨子的“兼爱”构成战国显学的两极。",
+    "system": [
+     {
+      "name": "贵己重生",
+      "content": "生命是最真实的所有物；不以天下易其一毛。"
+     },
+     {
+      "name": "不为物累",
+      "content": "名利伤生，故节欲安分以养生；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "不损人",
+      "content": "“为我”不损己以利人，也不损人以利己；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "与墨子对立",
+      "content": "“为我”与“兼爱”构成战国显学的两极；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "战国中期（约前395—前335）",
+      "change": "其说与墨翟并称显学（“天下之言不归杨则归墨”）；无著作传世，说见诸子转述。"
+     }
+    ],
+    "reception": "孟子以“无君”斥之；其重生思想影响庄子与魏晋放达一路；《列子·杨朱》成为研究其说的重要但可疑的文本。"
+   },
+   "works_detail": [
+    {
+     "title": "无著作传世（说见《列子·杨朱》及诸子转述）",
+     "structure": "《列子·杨朱》为后世编纂；另见《孟子·尽心上》《韩非子》《吕氏春秋》。",
+     "core_thesis": "贵己重生；不为物累；这是该书的核心命题。",
+     "editions": "杨伯峻《列子集释》中华书局；《孟子》杨伯峻译注",
+     "note": "《列子·杨朱》未必尽合原意"
+    }
+   ]
   }
  ],
  "concepts": [

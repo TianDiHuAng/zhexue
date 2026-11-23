@@ -2019,6 +2019,145 @@
      "note": "伊斯兰政治哲学的奠基之作"
     }
    ]
+  },
+  {
+   "id": "gr-medieval-bonaventure",
+   "name": "波那文图拉",
+   "latin": "Bonaventure",
+   "birth_year": 1221,
+   "death_year": 1274,
+   "birth_display": "1221年",
+   "death_display": "1274年",
+   "birth_note": "生于意大利巴尼奥雷焦；据其生平材料，本名 Giovanni di Fidanza。",
+   "death_note": "1274年卒于里昂会议期间。",
+   "era": "13世纪。波那文图拉为方济各会总会长与枢机主教，与托马斯·阿奎那并称13世纪两大神学家；他以奥古斯丁主义反对亚里士多德主义的过度影响，主张“学问归于虔诚”。",
+   "school": "方济各学派（奥古斯丁主义）",
+   "core_questions": [
+    "受造物如何显明上帝？",
+    "知识如何上升为智慧？",
+    "神学与哲学的关系如何？"
+   ],
+   "arguments": [
+    {
+     "claim": "受造物是上帝的“痕迹”，可由此上升",
+     "premises": [
+      "受造物分有上帝的智慧与善（“痕迹”vestigium）。",
+      "人的心灵可按“痕迹—形象—相似”逐级上升。"
+     ],
+     "inference": "若受造物皆是痕迹，则认识世界即认识上帝的一条途径，学问因此有神学意义。",
+     "conclusion": "哲学须在信仰的引导下成为通往上帝的阶梯（《心灵通向上帝的旅程》）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "反对以亚里士多德哲学取代信仰",
+     "premises": [
+      "亚里士多德的“世界永恒”与创造论冲突。",
+      "哲学若无信仰之光，则其结论可能有误。"
+     ],
+     "inference": "若哲学的独立结论与信仰冲突，则哲学须受信仰校正，而非反之。",
+     "conclusion": "神学高于哲学，哲学是神学的婢女（此语虽常归阿奎那，波那文图拉同样持此立场）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《心灵通向上帝的旅程》《箴言四书评注》《论学艺归正于神学》",
+     "edition": "《旅程》英译见 *The Journey of the Mind to God*（Hacket）；拉丁以 Quaracchi 版为准",
+     "note": "1259；评注与短论为其神学体系"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "奥古斯丁与方济各灵修",
+     "id": "gr-medieval-augustine",
+     "note": "内在转向与爱优先"
+    },
+    {
+     "name": "伪狄奥尼修斯",
+     "id": null,
+     "note": "否定神学与层级上升"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "方济各学派与中世纪神秘主义",
+     "id": null,
+     "note": "爱优先与上升之旅"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "托马斯·阿奎那与亚里士多德主义者",
+     "view": "过度依赖奥古斯丁与神秘主义，未充分利用亚里士多德的科学与逻辑。",
+     "response": "波那文图拉式的回应是：哲学若失去信仰之光，便无法抵达智慧；科学的用处须在神学的秩序中安放。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-bonaventure",
+      "sep-aquinas"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "波那文图拉反对一切哲学",
+     "why": "他主张哲学须归正于神学（《论学艺归正于神学》），并非取消哲学。"
+    },
+    {
+     "claim": "他与阿奎那立场一致",
+     "why": "二者在亚里士多德的地位、理性与信仰关系上有明显分歧：一主奥古斯丁式内在与爱，一主亚里士多德式论证。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>波那文图拉：受造物为痕迹与上升</text><defs><marker id='aBV' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>受造物分有神的智慧</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>心灵可逐级上升</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故学问可归正于神学</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故神学高于哲学</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aBV)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aBV)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "波那文图拉：受造物—痕迹—上升（示意图）",
+   "sources": [
+    "sep-bonaventure",
+    "sep-aquinas",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "波那文图拉以奥古斯丁主义对抗亚里士多德主义的过度影响：受造物是上帝的“痕迹”，人的心灵可按“痕迹—形象—相似”逐级上升，故认识世界即通往上帝的一条途径；他又主张哲学须受信仰之光校正、学问须归正于神学。其《心灵通向上帝的旅程》是中世纪神秘主义与上升神学的经典。",
+    "system": [
+     {
+      "name": "受造物为痕迹",
+      "content": "受造物分有神的智慧与善，是通往神的阶梯。"
+     },
+     {
+      "name": "心灵上升",
+      "content": "按痕迹—形象—相似的层级上升，最终安息于神。"
+     },
+     {
+      "name": "学艺归正",
+      "content": "哲学须在信仰引导下服务于神学，非独立于信仰。"
+     },
+     {
+      "name": "爱优先",
+      "content": "以爱（caritas）为最高德性与认识的归宿（方济各传统）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "巴黎与方济各会（1243—1257）",
+      "change": "入方济各会，师从亚历山大·黑尔斯；与阿奎那同期在巴黎。"
+     },
+     {
+      "period": "总会长与枢机（1257—1274）",
+      "change": "任方济各会总会长、枢机主教；1274年于里昂会议期间去世，1482年封圣。"
+     }
+    ],
+    "reception": "与阿奎那并称13世纪两大神学家；其上升神学影响中世纪神秘主义与方济各学派；现代研究关注其与亚里士多德主义之争。"
+   },
+   "works_detail": [
+    {
+     "title": "《心灵通向上帝的旅程》",
+     "structure": "七章：由受造物、感官、想象、理性、理智、智慧逐级上升至神秘的安息。",
+     "core_thesis": "受造物为痕迹；逐级上升；爱为归宿。",
+     "editions": "英译 *The Journey of the Mind to God*（Hackett）；Quaracchi 拉丁版",
+     "note": "1259 年；中世纪上升神学的经典"
+    }
+   ]
   }
  ],
  "concepts": [

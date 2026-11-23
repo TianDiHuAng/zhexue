@@ -1784,6 +1784,142 @@
      "note": "1959 年；描述形而上学的奠基之作"
     }
    ]
+  },
+  {
+   "id": "gr-20c-austin",
+   "name": "奥斯汀",
+   "latin": "J. L. Austin",
+   "birth_year": 1911,
+   "death_year": 1960,
+   "birth_display": "1911年",
+   "death_display": "1960年",
+   "birth_note": "生于兰开斯特；据其生平材料。",
+   "death_note": "1960年卒于牛津；《如何以言行事》由其身后整理出版。",
+   "era": "20世纪中叶的牛津日常语言哲学。奥斯汀以“言语行为”理论著称：说话即做事（施事行为），并区分locutionary/illocutionary/perlocutionary三层，开创语用学与行动哲学的新方向。",
+   "school": "日常语言哲学",
+   "core_questions": [
+    "说话除了描述还能做什么？",
+    "如何区分言语行为的不同层次？",
+    "哲学应从日常用法出发吗？"
+   ],
+   "arguments": [
+    {
+     "claim": "施事话语：说话即做事",
+     "premises": [
+      "“我承诺”“我命名这艘船”等话语不描述事实，而执行行为。",
+      "这类话语的成败取决于适切条件（conventions、 sincerity）。"
+     ],
+     "inference": "若语言不仅是描述，则意义理论须容纳“以言行事”，而非仅真假。",
+     "conclusion": "须区分话语的记述层面与施事层面；言语行为是语言的基本功能。",
+     "kind": "原文"
+    },
+    {
+     "claim": "三层区分：locutionary / illocutionary / perlocutionary",
+     "premises": [
+      "说出有意义的语句（locutionary）。",
+      "在说中执行行为（illocutionary，如命令、承诺）。",
+      "通过说产生效果（perlocutionary，如说服）。"
+     ],
+     "inference": "若三者可区分，则对语言的分析须分层，不能以真值条件一概而论。",
+     "conclusion": "言语行为理论为语用学奠基，说明语言的社会性与行动性。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《如何以言行事》《感觉与可感物》",
+     "edition": "《如何以言行事》中译参商务印书馆（若有）；《感觉与可感物》中译参商务印书馆",
+     "note": "1962；1962"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "摩尔与维特根斯坦（日常语言）",
+     "id": "gr-20c-wittgenstein",
+     "note": "关注日常用法与“治疗”哲学"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "塞尔与语用学",
+     "id": null,
+     "note": "言语行为理论的发展"
+    },
+    {
+     "name": "哈贝马斯（有效性主张）",
+     "id": null,
+     "note": "以言语行为为交往理论的基础"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "德里达",
+     "view": "奥斯汀的“适切条件”预设了可确定的语境与意图，而语境是开放的（《签名、事件、语境》）。",
+     "response": "塞尔等为奥斯汀辩护：语境的开放性不取消基本的施事结构；规则可容纳不确定。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-austin-jl",
+      "sep-derrida"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "奥斯汀主张语言只是描述世界",
+     "why": "他恰恰反对“描述谬误”，强调语言执行行为。"
+    },
+    {
+     "claim": "言语行为理论是塞尔首创",
+     "why": "基本框架由奥斯汀提出（三层区分），塞尔加以发展（言语行为分类）。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>奥斯汀：言语行为的三个层次</text><defs><marker id='aAU' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>说出有意义的话（locutionary）</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>在说中执行行为（illocutionary）</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>通过说产生效果（perlocutionary）</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故语言不只描述，还行动</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aAU)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aAU)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：三层为原文，图示为重构</text></svg>",
+   "svg_caption": "奥斯汀：言语行为的三层结构（示意图）",
+   "sources": [
+    "sep-austin-jl",
+    "sep-derrida",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "奥斯汀以“言语行为”理论改造语言哲学：说话不只是描述事实，还执行行为（如承诺、命名），其成败取决于适切条件；他又区分locutionary（说出有意义话语）、illocutionary（在说中执行行为）、perlocutionary（通过说产生效果）三层，说明语言须分层分析。其理论为语用学与哈贝马斯的交往理论奠基。",
+    "system": [
+     {
+      "name": "施事话语",
+      "content": "“我承诺”“我命名”不描述事实而执行行为，其成败取决于适切条件。"
+     },
+     {
+      "name": "三层区分",
+      "content": "locutionary / illocutionary / perlocutionary 须分层分析。"
+     },
+     {
+      "name": "反描述谬误",
+      "content": "语言的功能不止于描述真假；行动是其基本功能。"
+     },
+     {
+      "name": "日常语言方法",
+      "content": "从日常用法出发，辨析细微差别，以消解哲学困惑。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "牛津时期（1935—1960）",
+      "change": "任牛津大学讲师与教授；二战期间从事情报工作；《如何以言行事》（1955 讲演，1962 出版）。"
+     }
+    ],
+    "reception": "言语行为理论成为语用学基石；塞尔加以发展；哈贝马斯以其为交往行动理论的出发点；德里达对其“语境确定性”的批评引发论战。"
+   },
+   "works_detail": [
+    {
+     "title": "《如何以言行事》",
+     "structure": "十二讲；论施事话语、适切条件与三层区分。",
+     "core_thesis": "说话即做事；三层区分；这是该书的核心命题。",
+     "editions": "中译参商务印书馆（若有）；Oxford 英文本（1962）",
+     "note": "1955 年哈佛讲演，身后出版"
+    }
+   ]
   }
  ],
  "concepts": [

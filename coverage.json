@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 406,
+  "entries": 409,
   "by_level": {
-   "L2": 342,
-   "L1": 64
+   "L2": 344,
+   "L1": 65
   },
   "doctrine": {
-   "total": 147,
-   "detail": 147,
+   "total": 150,
+   "detail": 150,
    "auto": 0
   },
-  "needs_verification": 64,
-  "sources": 248,
-  "sources_verified": 232
+  "needs_verification": 65,
+  "sources": 249,
+  "sources_verified": 233
  },
  "units": [
   {
@@ -65,10 +65,10 @@
    "unit_id": "cn-xianqin",
    "title": "先秦诸子",
    "region": "china",
-   "philosophers": 9,
+   "philosophers": 10,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -1"
+   "philosophers_slot": "8 上限，余 -2"
   },
   {
    "unit_id": "gr-19c",
@@ -83,10 +83,10 @@
    "unit_id": "gr-20c",
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
-   "philosophers": 11,
+   "philosophers": 12,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -3"
+   "philosophers_slot": "8 上限，余 -4"
   },
   {
    "unit_id": "gr-ancient",
@@ -128,10 +128,10 @@
    "unit_id": "gr-medieval",
    "title": "中世纪经院哲学",
    "region": "west",
-   "philosophers": 11,
+   "philosophers": 12,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -3"
+   "philosophers_slot": "8 上限，余 -4"
   },
   {
    "unit_id": "gr-modern",
@@ -1542,6 +1542,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-xianqin-yang-zhu",
+   "type": "philosopher",
+   "title": "杨朱",
+   "container": "cn-xianqin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-xianqin-ren",
    "type": "concept",
    "title": "仁",
@@ -2051,6 +2062,17 @@
    "id": "gr-20c-strawson",
    "type": "philosopher",
    "title": "斯特劳森",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-austin",
+   "type": "philosopher",
+   "title": "奥斯汀",
    "container": "gr-20c",
    "level": "L2",
    "sources": 3,
@@ -3327,6 +3349,17 @@
    "id": "gr-medieval-al-farabi",
    "type": "philosopher",
    "title": "法拉比",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-bonaventure",
+   "type": "philosopher",
+   "title": "波那文图拉",
    "container": "gr-medieval",
    "level": "L2",
    "sources": 3,
