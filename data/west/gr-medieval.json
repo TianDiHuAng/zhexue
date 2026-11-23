@@ -3608,6 +3608,79 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-analogy-being",
+   "term": "存在的类比",
+   "term_latin": "analogia entis",
+   "definition": "托马斯·阿奎那的核心方法：“存在”（esse）在上帝与受造物之间既非**同名**（univocum，意义完全相同），也非**同名异义**（aequivocum，意义完全不同），而是**类比**（analogicum）——部分相同、部分不同。",
+   "usages": [
+    {
+     "name": "阿奎那",
+     "id": "gr-medieval-aquinas",
+     "usage": "受造物与上帝的存在是“类比”的：受造物的存在依赖于上帝，故非同一层次。"
+    },
+    {
+     "name": "司各脱（批评）",
+     "usage": "以“同名”为说：若不同名，则“存在”一词无法跨域使用，其论证将失效。"
+    },
+    {
+     "name": "奥卡姆（批评）",
+     "id": "gr-medieval-ockham",
+     "usage": "以唯名论消解之：概念只是名称，不需类比的本体结构。"
+    }
+   ],
+   "related": [
+    "gr-medieval-analogy",
+    "gr-medieval-esse"
+   ],
+   "example": {
+    "text": "“存在的类比”是阿奎那的**语言策略**：他要同时避免两种困境——若同名，则上帝只是“更大的受造物”（取消超越）；若同名异义，则一切关于上帝的言说都无意义。类比是唯一剩下的路，但它也使神学语言永远带着“部分不知”的标记。",
+    "figure": "阿奎那",
+    "locator": "《神学大全》I, q.13"
+   },
+   "sources": [
+    "sep-aquinas",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-via-negativa",
+   "term": "否定神学",
+   "term_latin": "via negativa",
+   "definition": "伪狄奥尼修斯（托名）所传的神学方法：对上帝只能以**否定**言说——不说“上帝是善的”，而说“上帝非如此这般的善”；肯定之路（via positiva）须被否定之路超越，最终归于“神圣的黑暗”（mystical theology）。",
+   "usages": [
+    {
+     "name": "伪狄奥尼修斯",
+     "usage": "《神秘神学》：在一切肯定之后须以否定超越之，最终“不知”而与之合一。"
+    },
+    {
+     "name": "阿奎那（采纳并限制）",
+     "id": "gr-medieval-aquinas",
+     "usage": "以否定神学说明上帝之名的限度，但仍主张“存在”之名最为恰当。"
+    },
+    {
+     "name": "库萨的尼古拉（承之）",
+     "usage": "以“有学问的无知”发展之：知自己的不知即是最高的知。"
+    }
+   ],
+   "related": [
+    "gr-medieval-faith-reason"
+   ],
+   "example": {
+    "text": "否定神学的悖论在于它**必须言说不可言说者**：故其语言只能是“否定—超越”的运动，而这一运动本身即是接近的方式。伪狄奥尼修斯由此说，神学最终是“赞美性的沉默”。",
+    "figure": "伪狄奥尼修斯",
+    "locator": "《神秘神学》第4—5章"
+   },
+   "sources": [
+    "sep-aquinas",
+    "sep-augustine",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“伪狄奥尼修斯”的作者托名（实为5—6世纪叙利亚修士）与《神秘神学》的成书年代须核；本页依中世纪哲学史概述其方法，具体文本待核。"
   }
  ],
  "debates": [

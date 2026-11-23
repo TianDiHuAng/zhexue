@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 894,
+  "entries": 901,
   "by_level": {
-   "L2": 725,
-   "L1": 169
+   "L2": 727,
+   "L1": 174
   },
   "doctrine": {
    "total": 233,
    "detail": 233,
    "auto": 0
   },
-  "needs_verification": 169,
-  "sources": 357,
-  "sources_verified": 357
+  "needs_verification": 174,
+  "sources": 358,
+  "sources_verified": 358
  },
  "units": [
   {
@@ -48,7 +48,7 @@
    "title": "隋唐佛学",
    "region": "china",
    "philosophers": 12,
-   "concepts": 15,
+   "concepts": 16,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -57,7 +57,7 @@
    "title": "魏晋玄学",
    "region": "china",
    "philosophers": 13,
-   "concepts": 13,
+   "concepts": 15,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -5"
   },
@@ -129,7 +129,7 @@
    "title": "中世纪经院哲学",
    "region": "west",
    "philosophers": 18,
-   "concepts": 15,
+   "concepts": 17,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -1894,6 +1894,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-suitang-huayan-shishi",
+   "type": "concept",
+   "title": "六相圆融",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-suitang-dunjian",
    "type": "debate",
    "title": "顿悟与渐修",
@@ -2265,6 +2276,28 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-shengwulai",
+   "type": "concept",
+   "title": "圣人有情无情",
+   "container": "cn-weijin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-shengren-kexue",
+   "type": "concept",
+   "title": "圣人可学",
+   "container": "cn-weijin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -6085,6 +6118,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-medieval-analogy-being",
+   "type": "concept",
+   "title": "存在的类比",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-via-negativa",
+   "type": "concept",
+   "title": "否定神学",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-medieval-universals-debate",
    "type": "debate",
    "title": "共相是实在还是名称",
@@ -7793,6 +7848,28 @@
    "id": "work-historia-cal",
    "type": "work",
    "title": "《上帝之城》第十九卷（和平与两座城）",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-shishuo-xinyu",
+   "type": "work",
+   "title": "《世说新语》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-mystical-theology",
+   "type": "work",
+   "title": "《神秘神学》",
    "container": "west",
    "level": "L1",
    "sources": 3,

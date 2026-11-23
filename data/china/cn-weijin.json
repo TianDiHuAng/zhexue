@@ -2525,6 +2525,81 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-weijin-shengwulai",
+   "term": "圣人有情无情",
+   "term_latin": "whether the sage has feelings",
+   "definition": "魏晋玄学的一个辩题（何晏、王弼与钟会等）：圣人是否同常人一样有喜怒哀乐？何晏主“圣人无喜怒哀乐”（以情为累），王弼主“圣人之情，应物而无累于物”——有情而不被情所累。",
+   "usages": [
+    {
+     "name": "何晏",
+     "usage": "圣人无喜怒哀乐：情是凡人之累，圣人超越之。"
+    },
+    {
+     "name": "王弼",
+     "id": "cn-weijin-wangbi",
+     "usage": "“圣人之情，应物而无累于物者也”：有情而不滞于情。"
+    },
+    {
+     "name": "郭象（后出）",
+     "id": "cn-weijin-guoxiang",
+     "usage": "以“适性”解之：圣人亦与物相应，只是不以外物易其内。"
+    }
+   ],
+   "related": [
+    "cn-weijin-tiyong"
+   ],
+   "example": {
+    "text": "这一辩题的哲学分量在于它把“超越”重新定义：何晏的圣人是**无情的超越**（离开人间），王弼的圣人是**有情的超越**（在人间而不被牵累）——后者成为此后中国思想中“圣人不离日用”一路的先声。",
+    "figure": "王弼",
+    "locator": "《三国志·钟会传》裴松之注引何劭《王弼传》"
+   },
+   "sources": [
+    "ws-shishuo-xinyu",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-weijin-shengren-kexue",
+   "term": "圣人可学",
+   "term_latin": "whether sageliness can be learned",
+   "definition": "魏晋玄学的修养论问题：圣人是否可经由学习达到？王弼主“圣人不可学” （圣人之德天成），郭象则以为“学”可至；这一问题牵动“性”与“学”的关系，下开宋明理学。",
+   "usages": [
+    {
+     "name": "王弼",
+     "id": "cn-weijin-wangbi",
+     "usage": "圣人“天成”，非学所能至；学只能“尽其才”。"
+    },
+    {
+     "name": "郭象",
+     "id": "cn-weijin-guoxiang",
+     "usage": "以“适性”为说：各尽其性即近于圣，故学有其位置。"
+    },
+    {
+     "name": "嵇康（对照）",
+     "id": "cn-weijin-jikang",
+     "usage": "以“养生”论修养，重自然之资而不重学。"
+    }
+   ],
+   "related": [
+    "cn-weijin-tiyong"
+   ],
+   "example": {
+    "text": "“圣人可学”之争的实质是**性与学的关系**：若圣人天成，则修养只是“尽才”；若可学，则修养有改造之功。这一分歧在宋明被重述为“性即理”与“变化气质”的关系。",
+    "figure": "郭象",
+    "locator": "《庄子注·大宗师》"
+   },
+   "sources": [
+    "ws-shishuo-xinyu",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“圣人可学”在魏晋的具体归属（王弼、郭象的表述散见于注与传记）须核《王弼集校释》与《庄子注》；本页依玄学研究概述其问题结构。"
   }
  ],
  "debates": [

@@ -4753,6 +4753,119 @@
    "sort_year": 420
   },
   {
+   "id": "work-shishuo-xinyu",
+   "title": "《世说新语》",
+   "title_original": "世說新語",
+   "tradition": "china",
+   "date_display": "南朝宋（5世纪）",
+   "structure": "三十六门（德行、言语、政事、文学、方正、雅量、识鉴、赏誉、品藻、规箴、捷悟、夙惠、豪爽、容止、自新、企羡、伤逝、栖逸、贤媛、术解、巧艺、宠礼、任诞、简傲、排调、轻诋、假谲、黜免、俭啬、汰侈、忿狷、谗险、尤悔、纰漏、惑溺、仇隙）。",
+   "core_arguments": [
+    "以“门类”品评人物：德行与容止、雅量与任诞并置，本身就是一种人物学的分类",
+    "记录玄学清谈的实况：名士的言语、辩难与风度",
+    "“名教与自然”的冲突以生活样态呈现（如嵇康、阮籍的任诞）"
+   ],
+   "key_points": [
+    {
+     "locator": "《德行》",
+     "point": "以德行为首门，见编者的价值序"
+    },
+    {
+     "locator": "《文学》",
+     "point": "清谈与玄学的实况记录"
+    },
+    {
+     "locator": "《任诞》",
+     "point": "名教与自然的冲突"
+    },
+    {
+     "locator": "《容止》",
+     "point": "人物审美的独立化"
+    }
+   ],
+   "editions": [
+    "余嘉锡《世说新语笺疏》中华书局；徐震堮《世说新语校笺》"
+   ],
+   "related_people": [
+    "cn-weijin-wangbi",
+    "cn-weijin-jikang",
+    "cn-weijin-guoxiang"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是一部小说",
+     "why": "《隋志》列于“小说家”，但其内容是真实人物的言行记录（笔记体），其价值在史料与人物学，不在虚构叙事。"
+    },
+    {
+     "claim": "它只是轶事汇编，无思想",
+     "why": "三十六门的分类本身是一套人物评价的框架；其对清谈、容止、任诞的记录是玄学社会史的一手材料。"
+    }
+   ],
+   "sources": [
+    "ws-shishuo-xinyu",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《世说新语》的编者（刘义庆及其门客）、成书年代与三十六门的次序在各本间略有出入；本页依余嘉锡笺疏与玄学研究概述。",
+   "sort_year": 440
+  },
+  {
+   "id": "work-mystical-theology",
+   "title": "《神秘神学》",
+   "title_original": "De mystica theologia",
+   "tradition": "west",
+   "date_display": "约5世纪末—6世纪初（托名狄奥尼修斯）",
+   "structure": "五章（短篇）：论神圣的黑暗、否定之路与肯定之路的关系、终极的“不知”。",
+   "core_arguments": [
+    "对上帝只能以否定言说：一切肯定都须被超越",
+    "最高的认识是“不知”：知自己的不知",
+    "否定之路最终归于沉默与合一"
+   ],
+   "key_points": [
+    {
+     "locator": "第1章",
+     "point": "神圣的黑暗"
+    },
+    {
+     "locator": "第2章",
+     "point": "肯定与否定两路"
+    },
+    {
+     "locator": "第4—5章",
+     "point": "否定之路的彻底化"
+    },
+    {
+     "locator": "全书",
+     "point": "“赞美性的沉默”"
+    }
+   ],
+   "editions": [
+    "中译参《伪狄奥尼修斯文集》（若有）；希腊原文见 Migne PG 3；英译见 CWS 版"
+   ],
+   "related_people": [
+    "gr-medieval-aquinas",
+    "gr-modern-cusanus"
+   ],
+   "misreadings": [
+    {
+     "claim": "否定神学是否认上帝的存在",
+     "why": "它否认的是**受造语言对上帝的适当性**，不是上帝本身；其终点是“不知”的合一，不是无神论。"
+    },
+    {
+     "claim": "作者是保罗的门徒狄奥尼修斯",
+     "why": "托名之说自文艺复兴（洛伦佐·瓦拉、伊拉斯谟）起被论证；今通认为5—6世纪叙利亚修士所作。"
+    }
+   ],
+   "sources": [
+    "sep-aquinas",
+    "sep-augustine",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《神秘神学》作者的托名问题（今通认为5—6世纪叙利亚修士）与希腊原文的版本须核；中译本情况待查，本页依中世纪哲学史与英译概述。",
+   "sort_year": 500
+  },
+  {
    "id": "work-hongmingji",
    "title": "《弘明集》",
    "title_original": "弘明集",

@@ -2292,6 +2292,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“性具”一词的确切用法在智顗与湛然之间有所发展（智顗多用“一念三千”，湛然以“性具”立说）；本页并述其义，具体文本须核《摩诃止观》与《金刚錍》。"
+  },
+  {
+   "id": "cn-suitang-huayan-shishi",
+   "term": "六相圆融",
+   "term_latin": "six aspects in mutual fusion",
+   "definition": "华严宗的法界观：一切事物可从总、别、同、异、成、坏六方面观察，而这六相互摄无碍——故差别与统一不是两个层次，而是同一法界的两个面向。",
+   "usages": [
+    {
+     "name": "法藏",
+     "id": "cn-suitang-fazang",
+     "usage": "以六相说明“事事无碍”：总别、同异、成坏三对同时成立而不相碍。"
+    },
+    {
+     "name": "智顗（对照）",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以“一念三千”与“三谛圆融”说同一问题（天台与华严的路径不同）。"
+    },
+    {
+     "name": "澄观（承其说）",
+     "usage": "以四法界（理、事、理事无碍、事事无碍）总括之。"
+    }
+   ],
+   "related": [
+    "cn-suitang-xingju"
+   ],
+   "example": {
+    "text": "“六相”的关键在**成对同时成立**：总与别不是先后，而是同一事物的两个面向；故华严说“一即一切，一切即一”——这不是取消差别，而是说差别本身即是无碍的。",
+    "figure": "法藏",
+    "locator": "《华严一乘教义分齐章》卷四"
+   },
+   "sources": [
+    "ws-mohezhiguan",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“六相”的表述在智俨、法藏、澄观之间有发展；本页依法藏《五教章》与华严宗研究概述，具体文本须核《大正藏》第45卷。"
   }
  ],
  "debates": [
