@@ -14061,6 +14061,63 @@
    "sort_year": 1905
   },
   {
+   "id": "work-formalism-material",
+   "title": "《伦理学中的形式主义与质料的价值伦理学》",
+   "title_original": "Der Formalismus in der Ethik und die materiale Wertethik",
+   "tradition": "west",
+   "date_display": "1913／1916年（舍勒）",
+   "structure": "两部分：第一部分批评康德的形式主义（先天、形式、义务）；第二部分建立质料的价值伦理学（价值等级、偏好、爱与恨的先验结构、人格）。",
+   "core_arguments": [
+    "价值是质料的先天：可在感受与偏好中被直观",
+    "价值的等级（适意、生命、精神、神圣）是客观的秩序",
+    "人格（Person）是价值实现的载体，伦理学须以人格为中心"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "对康德形式主义的批评"
+    },
+    {
+     "locator": "第二部分 A",
+     "point": "质料的先天与价值直观"
+    },
+    {
+     "locator": "第二部分 B",
+     "point": "价值的等级与偏好"
+    },
+    {
+     "locator": "第二部分 C",
+     "point": "人格与爱"
+    }
+   ],
+   "editions": [
+    "德文《舍勒全集》（GW）第2卷；中译参商务印书馆（若有）"
+   ],
+   "related_people": [
+    "gr-20c-scheler",
+    "gr-german-kant",
+    "gr-20c-husserl"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张道德判断是主观感受",
+     "why": "它主张价值的**质料先天**：感受有其必然的结构（本质直观），故非任意的心理事实。"
+    },
+    {
+     "claim": "它完全否定康德",
+     "why": "它接受康德的“先天”要求，但认为先天可以是**质料的**（不限于形式）；故是对康德方案的改写，不是全盘否定。"
+    }
+   ],
+   "sources": [
+    "sep-scheler",
+    "sep-kant",
+    "sep-husserl"
+   ],
+   "needs_verification": true,
+   "pending_notes": "舍勒的“质料先天”与胡塞尔的“本质直观”的关系、以及该书两部分写作时间的差异（1913／1916）须核《舍勒全集》第2卷与现象学研究；中译本的术语处理亦须留意。",
+   "sort_year": 1916
+  },
+  {
    "id": "work-tractatus",
    "title": "《逻辑哲学论》",
    "title_original": "Logisch-philosophische Abhandlung (Tractatus)",
@@ -14962,6 +15019,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1966
+  },
+  {
+   "id": "work-difference-repetition",
+   "title": "《差异与重复》",
+   "title_original": "Différence et répétition",
+   "tradition": "west",
+   "date_display": "1968年（德勒兹）",
+   "structure": "五部分：导论（重复与差异）、差异自身、重复自身、差异的思想形象、差异的肯定、结论。",
+   "core_arguments": [
+    "差异不依赖同一：它是原初的肯定",
+    "重复不是同一的再现，而是“差异的重复”（每次重复都不同）",
+    "“虚拟”不是“可能”：可能是现实的副本，虚拟有其自身的实在性"
+   ],
+   "key_points": [
+    {
+     "locator": "导论",
+     "point": "重复与差异的关系"
+    },
+    {
+     "locator": "第二章",
+     "point": "差异自身"
+    },
+    {
+     "locator": "第三章",
+     "point": "重复自身与永恒回归"
+    },
+    {
+     "locator": "第五章",
+     "point": "差异的肯定"
+    }
+   ],
+   "editions": [
+    "法文 PUF 版；英文哥伦比亚大学出版社译本（Paul Patton）；中译参（若有）"
+   ],
+   "related_people": [
+    "gr-contemp-deleuze",
+    "gr-19c-nietzsche",
+    "gr-modern-spinoza"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张“一切都是差异，没有同一”",
+     "why": "它不是取消同一，而是颠倒优先次序：同一是差异的**效果**，不是前提。故它仍谈同一，只是不从同一出发。"
+    },
+    {
+     "claim": "“重复”就是同样的东西再来一次",
+     "why": "其“重复”恰是**不能**同样再来（每次重复都引入差异）；故它与“再现”（representation）对立。"
+    }
+   ],
+   "sources": [
+    "sep-deleuze",
+    "iep-deleuze",
+    "sep-spinoza"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《差异与重复》的术语（虚拟／可能、重复／再现）在英译与中译中有不同的处理，其“差异的肯定”与尼采“永恒回归”的关系亦有争论；本页依 SEP／IEP 词条与英译本概述。",
+   "sort_year": 1968
   },
   {
    "id": "work-theory-justice",

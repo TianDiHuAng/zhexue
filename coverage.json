@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1004,
+  "entries": 1010,
   "by_level": {
-   "L2": 765,
-   "L1": 239
+   "L2": 768,
+   "L1": 242
   },
   "doctrine": {
-   "total": 237,
-   "detail": 237,
+   "total": 239,
+   "detail": 239,
    "auto": 0
   },
-  "needs_verification": 239,
-  "sources": 374,
-  "sources_verified": 374
+  "needs_verification": 242,
+  "sources": 377,
+  "sources_verified": 377
  },
  "units": [
   {
@@ -83,10 +83,10 @@
    "unit_id": "gr-20c",
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
-   "philosophers": 22,
-   "concepts": 23,
+   "philosophers": 23,
+   "concepts": 24,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -14"
+   "philosophers_slot": "8 上限，余 -15"
   },
   {
    "unit_id": "gr-ancient",
@@ -101,10 +101,10 @@
    "unit_id": "gr-contemp",
    "title": "当代哲学",
    "region": "west",
-   "philosophers": 10,
-   "concepts": 18,
+   "philosophers": 11,
+   "concepts": 19,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -2"
+   "philosophers_slot": "8 上限，余 -3"
   },
   {
    "unit_id": "gr-german",
@@ -3995,6 +3995,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-scheler",
+   "type": "philosopher",
+   "title": "马克斯·舍勒",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-20c-sense-reference",
    "type": "concept",
    "title": "意义与指称",
@@ -4245,6 +4256,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-material-apriori",
+   "type": "concept",
+   "title": "质料的先天",
+   "container": "gr-20c",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -5073,6 +5095,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-contemp-deleuze",
+   "type": "philosopher",
+   "title": "德勒兹",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-contemp-veil",
    "type": "concept",
    "title": "无知之幕",
@@ -5263,6 +5296,17 @@
    "id": "gr-contemp-sense-of-justice",
    "type": "concept",
    "title": "正义感",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-contemp-virtual",
+   "type": "concept",
+   "title": "虚拟（virtuel）",
    "container": "gr-contemp",
    "level": "L2",
    "sources": 2,
@@ -10254,6 +10298,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-formalism-material",
+   "type": "work",
+   "title": "《伦理学中的形式主义与质料的价值伦理学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-tractatus",
    "type": "work",
    "title": "《逻辑哲学论》",
@@ -10427,6 +10482,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-difference-repetition",
+   "type": "work",
+   "title": "《差异与重复》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

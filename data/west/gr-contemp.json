@@ -1590,6 +1590,156 @@
      "note": "1957 年；20世纪行动哲学的经典"
     }
    ]
+  },
+  {
+   "id": "gr-contemp-deleuze",
+   "name": "德勒兹",
+   "latin": "Gilles Deleuze",
+   "birth_year": 1925,
+   "death_year": 1995,
+   "birth_display": "1925年",
+   "death_display": "1995年",
+   "birth_note": "据其著作与传记：生于巴黎；1950年代起任教于中学与大学，1969年起在巴黎第八大学（万塞讷）任教至退休。",
+   "death_note": "1995年卒于巴黎。",
+   "era": "20世纪后半叶的法国。德勒兹以“差异”取代“同一”为哲学的核心：《差异与重复》主张差异不依赖于同一（差异自身即是肯定的）；他与加塔利合著的《千高原》以“块茎”“装配”“解域”等概念取代树状的体系。其哲学史研究（斯宾诺莎、尼采、莱布尼茨、柏格森）以“占有”（monter sur le dos）为方法——不是解释，而是让作者生出自己的问题。",
+   "school": "后结构主义（差异哲学）",
+   "core_questions": [
+    "差异如何不依赖于同一而被思考？",
+    "哲学是体系的建构还是概念的创造？",
+    "欲望是缺乏还是生产？"
+   ],
+   "arguments": [
+    {
+     "claim": "差异自身：差异不依赖同一",
+     "premises": [
+      "传统形而上学以同一为优先，差异只是同一之间的比较（A 不同于 B）。",
+      "若差异只由比较而得，则它是派生的。"
+     ],
+     "inference": "若差异是派生的，则世界的基本事实是同一；而德勒兹主张差异是**原初的肯定**——它不需要一个先在的同一来承担。故其“差异”是生产性的，不是否定性的。",
+     "conclusion": "差异是原初的肯定，不依赖同一（此说颠倒了柏拉图以来的优先次序）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "欲望是生产，不是缺乏",
+     "premises": [
+      "精神分析把欲望理解为对某个缺失对象的追求（缺乏模型）。",
+      "若欲望源于缺乏，则它永远只能填补而无法创造。"
+     ],
+     "inference": "若欲望是生产性的（“欲望机器”），则它不指向缺失的对象，而是**连接与装配**；故其政治含义是：解放不是满足欲望，而是改变装配。",
+     "conclusion": "欲望是生产性的连接，而非对缺失的追求（与拉康对立）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《差异与重复》《意义逻辑》《反俄狄浦斯》（与加塔利）《千高原》（与加塔利）《斯宾诺莎与表现问题》",
+     "edition": "《差异与重复》中译参（若有）；法文原版 PUF；英文哥伦比亚大学出版社译本",
+     "note": "1968；1969；1972；1980；1968"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "斯宾诺莎",
+     "id": null,
+     "note": "以“表现”与“样态”为一元论的模型"
+    },
+    {
+     "name": "尼采",
+     "id": null,
+     "note": "以“永恒回归”与“力的差异”为其差异哲学的资源"
+    },
+    {
+     "name": "柏格森（绵延与虚拟）",
+     "id": null,
+     "note": "以“虚拟”与“现实化”取代可能与实现"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "福柯（同代人）",
+     "id": null,
+     "note": "以“权力/知识”与德勒兹的“欲望/装配”互为参照"
+    },
+    {
+     "name": "瓜塔里与政治哲学",
+     "id": null,
+     "note": "以“装配”与“解域”分析资本主义"
+    },
+    {
+     "name": "当代的“新唯物主义”与“思辨实在论”",
+     "id": null,
+     "note": "以德勒兹的“内在性平面”为出发点"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "阿兰·巴迪欧",
+     "view": "以“多的数学”批评德勒兹的“一/多”图式：德勒兹的“虚拟”仍是生命哲学的一元论。",
+     "response": "德勒兹一系的回应是：其“虚拟”不是生命的秘密力量，而是**差异的结构**（虚拟与现实化），故不落入生命主义。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-deleuze",
+      "iep-deleuze"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "德勒兹是“后现代的相对主义者”",
+     "why": "他坚持“问题”有其客观结构（虚拟），且以数学与科学为资源；其立场是**内在性**的独断论，不是相对主义。"
+    },
+    {
+     "claim": "《千高原》是无结构的拼贴",
+     "why": "其“块茎”有明确的组织原则（连接、异质、多元、断裂、制图），故它反对的是**树状层级**，不是一切结构。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>德勒兹：差异自身与欲望生产</text><defs><marker id='aGD' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>传统以同一优先，差异由比较而得</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故差异是派生的</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>而德勒兹主张差异是原初肯定</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故欲望是生产而非缺乏</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aGD)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aGD)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "德勒兹：差异的优先性与欲望的生产（示意图）",
+   "sources": [
+    "sep-deleuze",
+    "iep-deleuze",
+    "sep-spinoza"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "德勒兹以“差异”取代“同一”的优先性：《差异与重复》主张差异不依赖一个先在的同一，而是**原初的肯定**；故其哲学是生产性的本体论，不是对既有事物的描述。他又以“欲望是生产”（欲望机器、装配、解域）取代精神分析的“缺乏”模型，故其政治含义是改变装配而非满足欲望。其哲学史方法（斯宾诺莎、尼采、莱布尼茨、柏格森）以“让作者生出自己的问题”为要，不是解释学。",
+    "system": [
+     {
+      "name": "差异自身",
+      "content": "差异是原初的肯定，不由同一派生；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "虚拟与现实化",
+      "content": "虚拟不是可能（可能只是现实的副本），它有其实在结构。"
+     },
+     {
+      "name": "欲望机器／装配",
+      "content": "欲望是生产性的连接，非对缺失的追求；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "块茎",
+      "content": "以连接、异质、多元、断裂、制图反对树状层级。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "巴黎（1925—1995）",
+      "change": "索邦大学哲学系；1950—60 年代任教中学；1969 年起在巴黎第八大学（万塞讷）任教；与加塔利合作《反俄狄浦斯》《千高原》；1995 年卒。"
+     }
+    ],
+    "reception": "《差异与重复》被视为20世纪后半叶最重要的形而上学著作之一；“欲望生产”“装配”“解域”等概念影响了政治哲学、地理学、艺术理论与建筑学；其与加塔利的合作使哲学与政治分析直接接合。"
+   },
+   "works_detail": [
+    {
+     "title": "《差异与重复》",
+     "structure": "导论（重复与差异）、第一部分（差异自身）、第二部分（重复自身）、第三部分（差异的思想形象）、第四部分（差异的肯定）、第五部分（结论）。",
+     "core_thesis": "差异是原初肯定；重复不是同一的再现。",
+     "editions": "法文 PUF 版；英文哥伦比亚大学出版社译本",
+     "note": "1968 年"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -2221,6 +2371,39 @@
    "sources": [
     "sep-rawls",
     "sep-kant"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-virtual",
+   "term": "虚拟（virtuel）",
+   "term_latin": "the virtual",
+   "definition": "德勒兹（承柏格森）的概念：虚拟不是“可能”（possible）——可能是尚未实现的现实（与现实同构，只是少了存在），而虚拟有其**自身的实在性**，并通过“现实化”（actualisation）产生差异。故虚拟—现实化 对反于 可能—实现。",
+   "usages": [
+    {
+     "name": "德勒兹",
+     "id": "gr-contemp-deleuze",
+     "usage": "虚拟是完全实在的；现实化是差异的产生，不是可能的实现。"
+    },
+    {
+     "name": "柏格森（来源）",
+     "usage": "以“虚拟”与“现实化”说明绵延与生命的分化。"
+    },
+    {
+     "name": "可能—实现 模型（被批评者）",
+     "usage": "以“可能”为现实的副本：实现只是给可能加上存在。"
+    }
+   ],
+   "related": [],
+   "example": {
+    "text": "这一区分的要害是：**可能是 retroactively 从现实抽出的**（先有现实，再反推其可能），故“实现可能”什么也不产生；而现实化是从虚拟的结构中产生**新的差异**。故德勒兹说：真正的创造不是实现可能，而是现实化虚拟。",
+    "figure": "德勒兹",
+    "locator": "《差异与重复》第四章；《柏格森主义》"
+   },
+   "sources": [
+    "sep-deleuze",
+    "iep-deleuze"
    ],
    "needs_verification": false,
    "pending_notes": ""

@@ -3322,6 +3322,156 @@
      "note": "1990 年"
     }
    ]
+  },
+  {
+   "id": "gr-20c-scheler",
+   "name": "马克斯·舍勒",
+   "latin": "Max Scheler",
+   "birth_year": 1874,
+   "death_year": 1928,
+   "birth_display": "1874年",
+   "death_display": "1928年",
+   "birth_note": "据其著作与传记：生于慕尼黑；耶拿大学博士，后任教于耶拿、慕尼黑、科隆。",
+   "death_note": "1928年卒于法兰克福。",
+   "era": "20世纪初的德国。舍勒是现象学运动最早的代表之一（《同情的本质与形式》《伦理学中的形式主义与质料的价值伦理学》）：他以“质料的价值伦理学”反对康德的形式主义——价值不是形式规则，而是可在**感受**中被直观到的质料。其后期转向哲学人类学与宗教哲学。",
+   "school": "现象学（价值伦理学与哲学人类学）",
+   "core_questions": [
+    "价值是形式的还是质料的？",
+    "道德感受能否直观到价值？",
+    "人在宇宙中的位置是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "质料的价值伦理学：价值在感受中被直观",
+     "premises": [
+      "康德以形式（普遍化）为道德的根据，把一切质料（情感、目的）排除在外。",
+      "但在感受中，我们确有“事情本身”的给予（如崇高、可耻）。"
+     ],
+     "inference": "若价值可在感受中被直观（不是被推理），则道德的基础可以是**质料的**而不失普遍性；故康德的“形式主义”排除得太多了。",
+     "conclusion": "价值是质料的（可在感受中直观），故伦理学不必是形式的。",
+     "kind": "原文"
+    },
+    {
+     "claim": "价值的等级秩序：从适意到神圣",
+     "premises": [
+      "价值不是并列的，而有高低：适意、生命、精神、神圣。",
+      "偏好（Vorziehen）行为直接把握这一秩序，不需推理。"
+     ],
+     "inference": "若价值有客观的等级，则“应当”不是从规则推出，而是从**价值的秩序**读出；故伦理学的任务是澄清这一秩序，而非立法。",
+     "conclusion": "价值有客观等级，伦理判断是“读出”而非“立法”。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《伦理学中的形式主义与质料的价值伦理学》《同情的本质与形式》《人在宇宙中的地位》",
+     "edition": "《伦理学中的形式主义…》中译参商务印书馆（若有）；德文 GW 版",
+     "note": "1913／1916；1923；1928"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "胡塞尔",
+     "id": "gr-20c-husserl",
+     "note": "现象学的方法（本质直观）"
+    },
+    {
+     "name": "康德（被批评者）",
+     "id": null,
+     "note": "形式主义伦理学"
+    },
+    {
+     "name": "帕斯卡（其引用）",
+     "id": null,
+     "note": "以“心的秩序”（ordre du cœur）为其先声"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "海德格尔（同代人）",
+     "id": "gr-20c-heidegger",
+     "note": "现象学转向存在论；二人互相影响而分道"
+    },
+    {
+     "name": "价值现象学与当代德性伦理",
+     "id": null,
+     "note": "以价值的直观为道德的基础"
+    },
+    {
+     "name": "哲学人类学",
+     "id": null,
+     "note": "以“人在宇宙中的地位”为问题"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "康德一系的形式主义",
+     "view": "若道德依赖感受，则它失去普遍必然性，沦为心理事实。",
+     "response": "舍勒一系的回应是：价值的直观有其**先天的**结构（本质直观），故它不是心理事实，而是“质料的先天”。",
+     "kind": "原文",
+     "sources": [
+      "sep-scheler",
+      "sep-kant"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "舍勒是“非理性主义者”",
+     "why": "他主张的是**质料的先天**（materiales Apriori）——价值有其可直观的必然结构，不是任意的情感。"
+    },
+    {
+     "claim": "其价值伦理学只是康德的补充",
+     "why": "它是对康德形式主义的**替代**：以价值的等级秩序取代普遍化程序，是另一种奠基方式。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>舍勒：质料的价值伦理学</text><defs><marker id='aMS' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>康德以形式为道德根据</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故排除一切质料（情感）</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>而价值可在感受中被直观</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故伦理学可以是质料的</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aMS)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aMS)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "舍勒：质料的价值伦理学与价值的等级（示意图）",
+   "sources": [
+    "sep-scheler",
+    "sep-husserl",
+    "sep-kant"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "舍勒以“质料的价值伦理学”反对康德的形式主义：价值不是形式规则，而是可在**感受**中被直观到的质料；且价值有客观的等级（适意、生命、精神、神圣），由“偏好”行为直接把握。故伦理学的任务是澄清价值的秩序，而非为行为立法。其后期转向哲学人类学，以“人在宇宙中的地位”为问题。",
+    "system": [
+     {
+      "name": "质料的价值伦理学",
+      "content": "价值可在感受中被直观，故道德的基础可以是质料的。"
+     },
+     {
+      "name": "价值的等级",
+      "content": "适意→生命→精神→神圣；由偏好行为把握。"
+     },
+     {
+      "name": "质料的先天",
+      "content": "价值的直观有其必然结构，非心理事实；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "哲学人类学",
+      "content": "以“人在宇宙中的地位”与“精神的独特性”为问题。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "慕尼黑与科隆（1874—1928）",
+      "change": "耶拿大学博士（师从奥伊肯）；1907 年起受胡塞尔现象学影响；1913—16 年《形式主义》出版；1919—28 年任教科隆；1928 年卒。"
+     }
+    ],
+    "reception": "舍勒是现象学运动最早的代表之一，其价值伦理学影响了此后的价值哲学与德性伦理学；其哲学人类学为20世纪的人类学转向提供了框架；他与胡塞尔、海德格尔的关系是现象学史上的重要线索。"
+   },
+   "works_detail": [
+    {
+     "title": "《伦理学中的形式主义与质料的价值伦理学》",
+     "structure": "两部分：第一部分批评康德的形式主义；第二部分建立质料的价值伦理学（价值等级、偏好、爱与恨的先验结构）。",
+     "core_thesis": "价值是质料的先天，有客观等级。",
+     "editions": "德文 GW 版第2卷；中译参商务印书馆（若有）",
+     "note": "1913／1916 年"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -4131,6 +4281,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-material-apriori",
+   "term": "质料的先天",
+   "term_latin": "materiales Apriori",
+   "definition": "舍勒的概念：先天不必是形式的（如康德的范畴），它可以是**质料的** —— 价值、人格、爱的秩序都有其可直观的必然结构。故“先天”与“经验内容”不是对立的。",
+   "usages": [
+    {
+     "name": "舍勒",
+     "id": "gr-20c-scheler",
+     "usage": "价值有其质料的先天：在感受与偏好中被直观，而非由形式推得。"
+    },
+    {
+     "name": "康德（对照）",
+     "usage": "先天只属于形式（范畴与法则），质料一律属经验。"
+    },
+    {
+     "name": "胡塞尔（方法来源）",
+     "id": "gr-20c-husserl",
+     "usage": "以本质直观把握“事情本身”的必然结构。"
+    }
+   ],
+   "related": [
+    "gr-20c-essence-intuition"
+   ],
+   "example": {
+    "text": "“质料的先天”是对康德二分的一次**结构性挑战**：若先天只属形式，则一切内容都是经验，道德只能靠形式立法；若先天可以是质料的，则伦理学可以从价值的内容出发而不失必然性。故这一概念是20世纪价值伦理学的基石。",
+    "figure": "舍勒",
+    "locator": "《伦理学中的形式主义…》第二部分"
+   },
+   "sources": [
+    "sep-scheler",
+    "sep-husserl",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“质料的先天”与胡塞尔“本质直观”的关系、以及它是否真的避开了心理主义，是现象学伦理学的核心争论；本页并述其说与康德的形式先天之别。"
   }
  ],
  "debates": [
