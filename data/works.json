@@ -1476,6 +1476,120 @@
    "sort_year": -350
   },
   {
+   "id": "work-prior-analytics",
+   "title": "《前分析篇》",
+   "title_original": "Analytica priora",
+   "tradition": "west",
+   "date_display": "约前4世纪（亚里士多德）",
+   "structure": "二卷：卷一论三段论的格与式、模态三段论；卷二论三段论的还原与发现方法。",
+   "core_arguments": [
+    "三段论的定义：前提的某种结合必然导致新命题",
+    "三个格与十四（或十九）个有效式",
+    "有效性可归于“完善三段论”（第一格的前两个式）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 第1—3章",
+     "point": "三段论的定义与格"
+    },
+    {
+     "locator": "卷一 第4—7章",
+     "point": "三个格的有效式"
+    },
+    {
+     "locator": "卷一 第8—22章",
+     "point": "模态三段论"
+    },
+    {
+     "locator": "卷二",
+     "point": "还原与发现"
+    }
+   ],
+   "editions": [
+    "中译参余纪元／相关译本；英文 Smith 译（前分析篇）；Revised Oxford Translation"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-plato",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "亚里士多德的三段论就是现代谓词逻辑",
+     "why": "它是**词项逻辑**（term logic）：以“属于”关系联结主词与谓词，不处理关系命题与量化结构；现代逻辑在多方面更强，但三段论在其范围内是完备的。"
+    },
+    {
+     "claim": "《前分析篇》只是形式规则的罗列",
+     "why": "它对“必然得出”的分析与还原方法（把第二、三格归约到第一格）是方法论的核心，且与《后分析篇》的科学模型直接相连。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek",
+    "mit-aristotle-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -350
+  },
+  {
+   "id": "work-topics",
+   "title": "《论题篇》",
+   "title_original": "Topica",
+   "tradition": "west",
+   "date_display": "约前4世纪（亚里士多德，《工具论》之一）",
+   "structure": "八卷：卷一论论辩的三段论与“四谓词”（定义、固有属性、种、偶性）及“论题”（topoi）；卷二—七论各种论题的论证策略；卷八论提问的次序。",
+   "core_arguments": [
+    "辩证推理从“被普遍接受的意见”（endoxa）出发，与从第一原理出发的证明不同",
+    "“四谓词”：谓词与主词的关系可分为定义、固有属性、种、偶性四类",
+    "“论题”（topoi）是论证的“位置”，可供在不同题材中反复使用"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 第1—3章",
+     "point": "辩证推理与证明之别"
+    },
+    {
+     "locator": "卷一 第4—8章",
+     "point": "四谓词"
+    },
+    {
+     "locator": "卷二—七",
+     "point": "各论题的论证策略"
+    },
+    {
+     "locator": "卷八",
+     "point": "提问的次序"
+    }
+   ],
+   "editions": [
+    "中译参相关译本（若有）；英文 Barnes 译（Revised Oxford Translation）；Loeb 本"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-plato",
+    "gr-ancient-socrates"
+   ],
+   "misreadings": [
+    {
+     "claim": "《论题篇》是辩论手册",
+     "why": "它的确源于论辩实践，但把论辩技术提升为**辩证推理的理论**（从 endoxa 出发的推理），其“四谓词”与“论题”是分析工具，不止是取胜技巧。"
+    },
+    {
+     "claim": "辩证推理与证明无关",
+     "why": "亚里士多德视辩证为**通向第一原理**的路径（《论题篇》与《后分析篇》相连）：通过与意见的辩驳，可逼近不可证明的起点。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论题篇》的成书年代（早期作品？）与其在《工具论》中的位置须核；其对“论题”（topoi）的分类在后世（尤其西塞罗与中世纪）的演变是另一条线索。",
+   "sort_year": -350
+  },
+  {
    "id": "work-metaphysics",
    "title": "《形而上学》",
    "title_original": "Τὰ μετὰ τὰ φυσικά（Metaphysics）",
@@ -1983,6 +2097,63 @@
    "needs_verification": true,
    "pending_notes": "卡塔西斯（katharsis）的含义是《诗学》研究中最著名的争议之一（医学宣泄说、道德澄清说、结构净化说等并存），本页并列而不裁定；“三一律”亦非其原文规定。",
    "sort_year": -335
+  },
+  {
+   "id": "work-magna-moralia",
+   "title": "《大伦理学》",
+   "title_original": "Magna Moralia",
+   "tradition": "west",
+   "date_display": "传统归亚里士多德；今多认为出自其学派（前4—前3世纪）",
+   "structure": "二卷：论幸福与德性、德性的定义与中道、公正与友爱；体例较《尼各马可》简，且多有重复与不一致。",
+   "core_arguments": [
+    "幸福是“灵魂合乎德性的活动”",
+    "德性是“中道”，由实践智慧确定",
+    "友爱以“自爱”为基础"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 第1—4章",
+     "point": "幸福与德性"
+    },
+    {
+     "locator": "卷一 第20—24章",
+     "point": "中道与实践智慧"
+    },
+    {
+     "locator": "卷二",
+     "point": "公正"
+    },
+    {
+     "locator": "卷二",
+     "point": "友爱与自爱"
+    }
+   ],
+   "editions": [
+    "英文 Revised Oxford Translation；Loeb 本；中译参相关译本（若有）"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-plato",
+    "gr-ancient-socrates"
+   ],
+   "misreadings": [
+    {
+     "claim": "《大伦理学》是亚里士多德的原作",
+     "why": "其真伪自19世纪以来有争论，今多认为出自其学派（或有后学整理），故不能与《尼各马可》同等使用。"
+    },
+    {
+     "claim": "它只是《尼各马可》的节本",
+     "why": "其结构与论证有独立的特征（如对“德性”与“中道”的表述方式），且与另两部伦理学的关系尚未定论。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《大伦理学》的真伪与作者（亚里士多德本人／其学派／后学）是亚里士多德研究的经典难题；本页标其为“疑”，只述其内容与三书关系的问题。",
+   "sort_year": -330
   },
   {
    "id": "work-zhuangzi",

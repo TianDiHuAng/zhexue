@@ -4021,6 +4021,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“永恒”与“时间”的界定在奥古斯丁（心灵延展说）与波爱修（整体同时拥有说）之间有差异，且阿奎那的采纳又作了调整；本页并述其线索。"
+  },
+  {
+   "id": "gr-medieval-illumination",
+   "term": "光照说",
+   "term_latin": "illuminatio",
+   "definition": "奥古斯丁（及方济各学派）的认识论：人的理性之所能认识永恒真理，是因为神以“光照”使之看见——如同眼睛看见物体须有光。故认识真理不是纯粹的自然能力，而有神的参与。",
+   "usages": [
+    {
+     "name": "奥古斯丁",
+     "id": "gr-medieval-augustine",
+     "usage": "心灵之见真理，须神的光照（类似眼之见物须日光）。"
+    },
+    {
+     "name": "阿奎那（限制）",
+     "id": "gr-medieval-aquinas",
+     "usage": "以人的理智有其自然能力（主动理智），光照说被弱化为“神是理智的创造者”。"
+    },
+    {
+     "name": "波那文图拉（承之）",
+     "usage": "以光照说为知识论的核心（方济各学派）。"
+    }
+   ],
+   "related": [
+    "gr-medieval-divine-ideas",
+    "gr-medieval-faith-reason"
+   ],
+   "example": {
+    "text": "“光照说”的要害是它使**认识论与神学不可分**：若一切真理的认识都须光照，则无神论者何以能认识真理？这一诘难促使阿奎那限制其范围——故从奥古斯丁到阿奎那的转变是**哲学自主性**的诞生。",
+    "figure": "奥古斯丁",
+    "locator": "《论三位一体》卷十二；《独语录》"
+   },
+   "sources": [
+    "sep-augustine",
+    "sep-aquinas",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“光照说”在奥古斯丁、波那文图拉与阿奎那之间的地位与含义差异很大（阿奎那是否仍持某种光照说学界有争论）；本页并述其线索。"
   }
  ],
  "debates": [

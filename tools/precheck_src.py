@@ -33,6 +33,7 @@ def require(ids):
 
 # ===== 第110轮新增（D38 落地）：著作标题的规范化查重 =====
 WORKS = os.path.join(HERE, "..", "data", "works.json")
+ALIASES = os.path.join(HERE, "..", "data", "aliases.json")
 
 # 常见的书名后缀与版本括注：规范化时去掉
 _SUFFIXES = ("篇", "章", "（上）", "（下）", "（一）", "（二）")
@@ -79,6 +80,30 @@ def load_work_titles():
     return [w.get("title", "") for w in d.get("works", [])]
 
 
+def load_alias_map():
+    """读别名表，返回 {规范化键: 组内第一个名字}（D40）。"""
+    m = {}
+    if not os.path.exists(ALIASES):
+        return m
+    with open(ALIASES, encoding="utf-8") as f:
+        d = json.load(f)
+    for group in d.get("work-titles", []):
+        if not group:
+            continue
+        rep = norm_title(group[0])          # 组内第一个名字作代表
+        for name in group:
+            # 注意：别名键用 norm_title（去篇/版本），不能用 norm_title_loose
+            # （后者按字排序，会把「斐德若」「斐德罗」排成不同的键，别名即失效）
+            m[norm_title(name)] = rep
+    return m
+
+
+def alias_of(title):
+    """返回该标题所属别名组的代表名（无则 None）。"""
+    am = load_alias_map()
+    return am.get(norm_title(title))
+
+
 def find_work_conflicts(titles):
     """返回 {拟用标题: 已存在标题} 的冲突表（规范化后相同即视为冲突）。"""
     existing = load_work_titles()
@@ -95,6 +120,13 @@ def find_work_conflicts(titles):
             conflicts[t] = norm_map[k][0]
         elif k2 in loose_map:
             conflicts[t] = loose_map[k2][0] + "（宽松匹配：语序/虚词变体）"
+        else:
+            al = alias_of(t)
+            if al:
+                for t2 in existing:
+                    if alias_of(t2) == al:
+                        conflicts[t] = t2 + "（别名表匹配：译名变体）"
+                        break
     return conflicts
 
 

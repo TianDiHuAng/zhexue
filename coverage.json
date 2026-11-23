@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 992,
+  "entries": 998,
   "by_level": {
-   "L2": 760,
-   "L1": 232
+   "L2": 761,
+   "L1": 237
   },
   "doctrine": {
    "total": 237,
    "detail": 237,
    "auto": 0
   },
-  "needs_verification": 232,
+  "needs_verification": 237,
   "sources": 374,
   "sources_verified": 374
  },
@@ -39,7 +39,7 @@
    "title": "宋明理学与心学",
    "region": "china",
    "philosophers": 20,
-   "concepts": 22,
+   "concepts": 23,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -12"
   },
@@ -48,7 +48,7 @@
    "title": "隋唐佛学",
    "region": "china",
    "philosophers": 14,
-   "concepts": 26,
+   "concepts": 27,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -6"
   },
@@ -129,7 +129,7 @@
    "title": "中世纪经院哲学",
    "region": "west",
    "philosophers": 18,
-   "concepts": 26,
+   "concepts": 27,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -1597,6 +1597,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-songming-liangzhi-wuliangzhi",
+   "type": "concept",
+   "title": "见闻之知与德性之知",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-songming-zhu-lu",
    "type": "debate",
    "title": "尊德性还是道问学：朱陆之辩",
@@ -2117,6 +2128,17 @@
    "id": "cn-suitang-wuxing-zhuan",
    "type": "concept",
    "title": "五重唯识观",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-suitang-sanxing",
+   "type": "concept",
+   "title": "三性",
    "container": "cn-suitang",
    "level": "L1",
    "sources": 3,
@@ -6657,6 +6679,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-medieval-illumination",
+   "type": "concept",
+   "title": "光照说",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-medieval-universals-debate",
    "type": "debate",
    "title": "共相是实在还是名称",
@@ -7735,6 +7768,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-prior-analytics",
+   "type": "work",
+   "title": "《前分析篇》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-topics",
+   "type": "work",
+   "title": "《论题篇》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-metaphysics",
    "type": "work",
    "title": "《形而上学》",
@@ -7830,6 +7885,17 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-magna-moralia",
+   "type": "work",
+   "title": "《大伦理学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-23"
   },

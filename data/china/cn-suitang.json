@@ -2989,6 +2989,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“五重唯识观”的体系化归于窥基（《大乘法苑义林章》《成唯识论述记》）；本页依唯识宗研究概述，具体名目与次第须核《大正藏》第43—45卷。"
+  },
+  {
+   "id": "cn-suitang-sanxing",
+   "term": "三性",
+   "term_latin": "the three natures",
+   "definition": "唯识学的核心分类：遍计所执性（把依他起的现象执着为实有）、依他起性（依因缘而起）、圆成实性（在依他起上远离遍计所执的真如）。三性之说把“迷”与“悟”安置在同一结构里。",
+   "usages": [
+    {
+     "name": "玄奘与窥基",
+     "id": "cn-suitang-xuanzang",
+     "usage": "三性各具“三无性”，故空与有不相碍。"
+    },
+    {
+     "name": "智顗（对照）",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以“三谛”（空、假、中）为说：同一法有三面，与三性的“层次”结构不同。"
+    },
+    {
+     "name": "《成唯识论》",
+     "usage": "以三性统摄一切法相，为法相宗的纲领。"
+    }
+   ],
+   "related": [
+    "cn-suitang-weishi",
+    "cn-suitang-wuxing-zhuan"
+   ],
+   "example": {
+    "text": "三性的精妙处在于它不否认现象：依他起是**真实的**（依因缘而起），被否认的只是“遍计所执”（把它当作自性实有）。故唯识的“空”不是取消世界，而是取消对世界的**误置**。",
+    "figure": "《成唯识论》",
+    "locator": "《成唯识论》卷八"
+   },
+   "sources": [
+    "ws-chengweishi",
+    "ws-mohezhiguan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三性（遍计、依他、圆成）与三无性（相无性、生无性、胜义无性）的配对关系在《成唯识论》与《摄大乘论》之间有表述差异；本页依《成唯识论》与唯识学研究概述。"
   }
  ],
  "debates": [
