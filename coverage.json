@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 828,
+  "entries": 836,
   "by_level": {
-   "L2": 680,
-   "L1": 148
+   "L2": 684,
+   "L1": 152
   },
   "doctrine": {
    "total": 229,
    "detail": 229,
    "auto": 0
   },
-  "needs_verification": 148,
+  "needs_verification": 152,
   "sources": 355,
   "sources_verified": 355
  },
@@ -39,7 +39,7 @@
    "title": "宋明理学与心学",
    "region": "china",
    "philosophers": 20,
-   "concepts": 16,
+   "concepts": 17,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -12"
   },
@@ -66,7 +66,7 @@
    "title": "先秦诸子",
    "region": "china",
    "philosophers": 12,
-   "concepts": 16,
+   "concepts": 17,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -84,7 +84,7 @@
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
    "philosophers": 21,
-   "concepts": 18,
+   "concepts": 19,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -13"
   },
@@ -93,7 +93,7 @@
    "title": "古希腊哲学",
    "region": "west",
    "philosophers": 19,
-   "concepts": 17,
+   "concepts": 18,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -102,7 +102,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 10,
-   "concepts": 16,
+   "concepts": 17,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -2"
   },
@@ -1432,6 +1432,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-songming-wuji-zhi-bian",
+   "type": "concept",
+   "title": "无极太极之辩",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-songming-zhu-lu",
    "type": "debate",
    "title": "尊德性还是道问学：朱陆之辩",
@@ -2587,6 +2598,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-xianqin-shi-li",
+   "type": "concept",
+   "title": "诗言志",
+   "container": "cn-xianqin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-xianqin-human-nature",
    "type": "debate",
    "title": "人性善恶之争",
@@ -3555,6 +3577,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-ready-to-hand",
+   "type": "concept",
+   "title": "上手状态",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-20c-metaphysics-meaning",
    "type": "debate",
    "title": "形而上学命题是否有认知意义",
@@ -4039,6 +4072,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-ancient-mimesis",
+   "type": "concept",
+   "title": "模仿",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-ancient-flux-vs-being",
    "type": "debate",
    "title": "流变还是不变：赫拉克利特与巴门尼德",
@@ -4409,6 +4453,17 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-contemp-differance",
+   "type": "concept",
+   "title": "延异",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -6800,6 +6855,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-yueji",
+   "type": "work",
+   "title": "《乐记》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-xinyu",
    "type": "work",
    "title": "《新语》",
@@ -6885,6 +6951,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-huozhi-liezhuan",
+   "type": "work",
+   "title": "《货殖列传》",
+   "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -7303,6 +7380,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-yu-zhuyuanhui",
+   "type": "work",
+   "title": "《与朱元晦书》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

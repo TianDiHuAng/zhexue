@@ -3797,6 +3797,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-ready-to-hand",
+   "term": "上手状态",
+   "term_latin": "Zuhandenheit",
+   "definition": "海德格尔对器具存在方式的描述：锤子在使用中“上手”，此时它不被当作对象注视，而是隐没在操劳之中；唯有损坏或缺失时，它才“现成在手”（Vorhandenheit）成为对象。",
+   "usages": [
+    {
+     "name": "海德格尔",
+     "id": "gr-20c-heidegger",
+     "usage": "上手状态先于现成在手：用具的存在在于其“为了作…”的指引整体。"
+    },
+    {
+     "name": "维特根斯坦（平行）",
+     "id": "gr-20c-wittgenstein",
+     "usage": "以“语言游戏”说明工具的意义在于使用，而非其对象性（有结构上的相似）。"
+    },
+    {
+     "name": "胡塞尔（对照）",
+     "id": "gr-20c-husserl",
+     "usage": "以意向活动与对象的相关性描述意识，但未区分上手与在手。"
+    }
+   ],
+   "related": [
+    "gr-20c-das-man"
+   ],
+   "example": {
+    "text": "“上手”的要害是**不可见性**：锤子用得越顺，越不被注意；一旦坏了，它才“跳出来”成为对象。故海德格尔说：对器具的理论态度是**派生的**，日常操劳才是原初的。",
+    "figure": "海德格尔",
+    "locator": "《存在与时间》§15—§16"
+   },
+   "sources": [
+    "sep-heidegger",
+    "sep-wittgenstein",
+    "book-wittgenstein-pi"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

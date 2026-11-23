@@ -1926,6 +1926,63 @@
    "sort_year": -250
   },
   {
+   "id": "work-yueji",
+   "title": "《乐记》",
+   "title_original": "樂記",
+   "tradition": "china",
+   "date_display": "约战国至汉初（收入《礼记》）",
+   "structure": "十一篇（今存《礼记》中一篇，含《乐本》《乐论》《乐礼》《乐施》《乐言》《乐象》《乐情》《魏文侯》《宾牟贾》《乐化》《师乙》）。",
+   "core_arguments": [
+    "“乐者，音之所由生也；其本在人心之感于物也”：乐源于人心对外物的感应",
+    "“乐合同，礼别异”：乐使人群相合，礼使人伦有别，二者相须而成治",
+    "“声音之道，与政通矣”：乐的风格与政治的治乱相应"
+   ],
+   "key_points": [
+    {
+     "locator": "《乐本》",
+     "point": "乐源于人心感物"
+    },
+    {
+     "locator": "《乐论》",
+     "point": "乐合同、礼别异"
+    },
+    {
+     "locator": "《乐礼》",
+     "point": "乐与天地之序"
+    },
+    {
+     "locator": "《乐施》",
+     "point": "乐以教民"
+    }
+   ],
+   "editions": [
+    "王文锦《礼记译解》中华书局；《禮記》（四部丛刊本）"
+   ],
+   "related_people": [
+    "cn-xianqin-xunzi",
+    "cn-xianqin-kongzi",
+    "cn-xianqin-laozi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是纯粹的音乐技术论",
+     "why": "它论的是乐与政治、伦理、宇宙秩序的关系，属政治哲学与美学，不是乐理手册。"
+    },
+    {
+     "claim": "“乐合同”是主张取消等级",
+     "why": "“合同”与“别异”相须：乐合人心、礼别尊卑，二者共同成治，不是取消差等。"
+    }
+   ],
+   "sources": [
+    "ws-liji",
+    "ws-shangshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《乐记》的作者与成书年代（传统归公孙尼子，今多认为成于战国至汉初）学界有讨论；其与《荀子·乐论》的关系（有大量重合）是文献学的关键问题。",
+   "sort_year": -200
+  },
+  {
    "id": "work-xinyu",
    "title": "《新语》",
    "title_original": "新語",
@@ -2374,6 +2431,62 @@
    "needs_verification": true,
    "pending_notes": "《报任安书》今存于《汉书·司马迁传》（《史记》不载），其年代（前93／前91）与个别文字的读法有讨论；本页依《汉书》所录。",
    "sort_year": -93
+  },
+  {
+   "id": "work-huozhi-liezhuan",
+   "title": "《货殖列传》",
+   "title_original": "貨殖列傳",
+   "tradition": "china",
+   "date_display": "约前91年（《史记》成书）",
+   "structure": "一篇；先引老子“至治之极”与太史公的批评，次述各地物产与商业，再列先秦至汉的富商事迹，末以“富者人之情性”作结。",
+   "core_arguments": [
+    "“天下熙熙，皆为利来；天下攘攘，皆为利往”：以趋利为人之常情",
+    "农、虞、工、商四者并重：“待农而食之，虞而出之，工而成之，商而通之”",
+    "“富无经业，则货无常主”：财富的流动有其规律，故治国者当顺之而非抑之"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "对老子“至治”说的批评"
+    },
+    {
+     "locator": "中段",
+     "point": "各地物产与商业地理"
+    },
+    {
+     "locator": "后段",
+     "point": "富商列传与“富者人之情性”"
+    },
+    {
+     "locator": "末段",
+     "point": "“富无经业，货无常主”"
+    }
+   ],
+   "editions": [
+    "《史记》（四部丛刊本）卷一百二十九；中华书局点校本《史记》第十册"
+   ],
+   "related_people": [
+    "cn-lianghan-sima-qian",
+    "cn-lianghan-ban-gu",
+    "cn-xianqin-laozi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是为商人辩护的颂词",
+     "why": "它同时批评“末富”的兼并，其立场是“四者并重”与“顺其自然”，不是无条件赞美商业。"
+    },
+    {
+     "claim": "班固的批评说明该篇不合儒家",
+     "why": "班固批评其“崇势利而羞贱贫”，这恰恰显示该篇以经济事实为史，而非以道德为史。"
+    }
+   ],
+   "sources": [
+    "ws-shiji",
+    "ws-hanshu"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -91
   },
   {
    "id": "work-dererum-natura",
@@ -4496,6 +4609,59 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1175
+  },
+  {
+   "id": "work-yu-zhuyuanhui",
+   "title": "《与朱元晦书》",
+   "title_original": "與朱元晦書",
+   "tradition": "china",
+   "date_display": "1188年前后（朱陆往复）",
+   "structure": "往复书信数通（收于《陆九渊集》卷二）；核心为“无极而太极”的读法之争，兼及“为学之方”（尊德性／道问学）。",
+   "core_arguments": [
+    "《易》只言“太极”未言“无极”，“无极”出自《老子》，故疑其援道入儒",
+    "“心即理”：理不在心外，故为学之方在“先立乎其大者”",
+    "批评朱熹的“道问学”路径易流于支离"
+   ],
+   "key_points": [
+    {
+     "locator": "第一书",
+     "point": "对“无极而太极”的质疑"
+    },
+    {
+     "locator": "第二书",
+     "point": "“心即理”与为学之方"
+    },
+    {
+     "locator": "末书",
+     "point": "往复的分歧所在"
+    }
+   ],
+   "editions": [
+    "中华书局《陆九渊集》卷二；《象山集》（四庫全書本）"
+   ],
+   "related_people": [
+    "cn-songming-lu-jiuyuan",
+    "cn-songming-zhu-xi",
+    "cn-songming-zhou-dunyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "朱陆之争是意气之争",
+     "why": "往复书的焦点是“无极而太极”的文本读法与为学次序，都是实质的哲学问题。"
+    },
+    {
+     "claim": "陆九渊否定周敦颐",
+     "why": "他质疑的是“无极”二字的来源与读法，不是全盘否定《太极图说》。"
+    }
+   ],
+   "sources": [
+    "ws-xiangshan",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "朱陆往复书的通数与年代（一般据《陆九渊集》卷二，1188 年前后）有讨论；朱熹一方的书信部分不存或仅存节录，故往复的全貌须依双方文集互校。",
+   "sort_year": 1188
   },
   {
    "id": "work-guide-perplexed",

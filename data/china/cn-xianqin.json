@@ -2658,6 +2658,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-shi-li",
+   "term": "诗言志",
+   "term_latin": "poetry expresses intent",
+   "definition": "中国最早的诗歌功能论（《尚书·舜典》）：“诗言志，歌永言，声依永，律和声。”它把诗的功能定为“表达心志”，成为后世诗学（尤其“言志”与“缘情”之争）的源头。",
+   "usages": [
+    {
+     "name": "《尚书·舜典》",
+     "usage": "“诗言志，歌永言”：诗以言志为本，声律为其形式。"
+    },
+    {
+     "name": "孔子",
+     "id": "cn-xianqin-kongzi",
+     "usage": "“诗可以兴，可以观，可以群，可以怨”：把诗的功能扩展至社会与政治。"
+    },
+    {
+     "name": "《乐记》（后出，承其说）",
+     "usage": "“诗，言其志也”：以乐论统摄诗论。"
+    }
+   ],
+   "related": [
+    "cn-xianqin-li",
+    "cn-xianqin-ren"
+   ],
+   "example": {
+    "text": "“诗言志”的“志”在早期兼含“志向”与“情志”两义；六朝（陆机“诗缘情而绮靡”）之后“缘情”说兴起，宋明又以“言志”为正统——这一滑动使同一命题在不同时代指向不同。",
+    "figure": "《尚书·舜典》",
+    "locator": "《尚书·舜典》"
+   },
+   "sources": [
+    "ws-shangshu",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“诗言志”的出处（《尚书·舜典》与《左传》襄公二十七年所引）文字略有出入；“志”的含义在各时代有滑动，本页分述其层次。"
   }
  ],
  "debates": [

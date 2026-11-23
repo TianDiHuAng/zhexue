@@ -3440,6 +3440,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-mimesis",
+   "term": "模仿",
+   "term_latin": "mimēsis",
+   "definition": "柏拉图与亚里士多德共用的核心概念：艺术（诗、画、音乐）是对现实的“模仿”。柏拉图以此贬低艺术（模仿的模仿，离理念三层），亚里士多德以此肯定艺术（模仿是人的自然倾向，且诗比历史更哲学）。",
+   "usages": [
+    {
+     "name": "柏拉图",
+     "id": "gr-ancient-plato",
+     "usage": "画家的床是“模仿的模仿”，离真理三层（《理想国》卷十）。"
+    },
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "模仿是人的自然本能，且诗通过模仿达到普遍（《诗学》第1—4章）。"
+    },
+    {
+     "name": "后世（对照）",
+     "usage": "近代美学以“表现”取代“模仿”，故 mimesis 的地位下降。"
+    }
+   ],
+   "related": [
+    "gr-ancient-telos"
+   ],
+   "example": {
+    "text": "同一概念在两人手中评价相反，原因在“模仿的对象”不同：柏拉图以理念为实在，故模仿可感物是远离真理；亚里士多德以现实为实在，故模仿现实即是把握普遍。故 mimesis 之争其实是**实在论之争的延伸**。",
+    "figure": "亚里士多德",
+    "locator": "《诗学》第1—4章；《理想国》卷十"
+   },
+   "sources": [
+    "sep-plato",
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

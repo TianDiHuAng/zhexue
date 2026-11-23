@@ -2151,6 +2151,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-differance",
+   "term": "延异",
+   "term_latin": "différance",
+   "definition": "德里达的造词（把 difference 的 e 改为 a，此差异仅在书写中可见、在语音中不可闻）：意义既非在场也非缺席，而是永被延迟的差异网络；它同时含“差异”（différer）与“延迟”（defer）两义。",
+   "usages": [
+    {
+     "name": "德里达",
+     "id": "gr-contemp-derrida",
+     "usage": "延异不是概念，也不是词；它是意义得以可能而永不到场的条件。"
+    },
+    {
+     "name": "索绪尔（被改造者）",
+     "usage": "以“差异”界定符号价值：符号的意义来自与其他符号的差异。"
+    },
+    {
+     "name": "哈贝马斯（批评）",
+     "id": "gr-contemp-habermas",
+     "usage": "以交往理性要求可兑现的有效性主张；延异说无法给出规范标准。"
+    }
+   ],
+   "related": [
+    "gr-contemp-deconstruction",
+    "gr-contemp-nonidentity"
+   ],
+   "example": {
+    "text": "“延异”的 a 只在书写中可见：德里达以此说明**文字不是语音的记录**，而语音本身已含不可闻的差异 —— 这是对“语音中心主义”的直接拆解。",
+    "figure": "德里达",
+    "locator": "《书写与差异》；《哲学的边缘》"
+   },
+   "sources": [
+    "sep-derrida",
+    "sep-habermas"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

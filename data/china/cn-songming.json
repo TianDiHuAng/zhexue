@@ -3669,6 +3669,45 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-wuji-zhi-bian",
+   "term": "无极太极之辩",
+   "term_latin": "the debate on the Ultimateless and the Supreme Ultimate",
+   "definition": "朱陆往复的核心文本之争：“无极而太极”一句当如何读？朱熹以“无极”形容太极之无声无臭，陆九渊疑其为《老子》之“无”，故认为援道入儒。",
+   "usages": [
+    {
+     "name": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "usage": "“无极而太极”只是说太极无形可指，非另立一本原。"
+    },
+    {
+     "name": "陆九渊",
+     "id": "cn-songming-lu-jiuyuan",
+     "usage": "《易》只言“太极”未言“无极”；“无极”出自《老子》。"
+    },
+    {
+     "name": "周敦颐（原文作者）",
+     "id": "cn-songming-zhou-dunyi",
+     "usage": "《太极图说》首句未自注其义，故两读皆有其文本空间。"
+    }
+   ],
+   "related": [
+    "cn-songming-li-qi",
+    "cn-songming-taiji"
+   ],
+   "example": {
+    "text": "这场争论的方法论意义大于结论：它显示**注疏传统中“读法”先于“结论”** —— 同一句的文字训释不同，整个本体论格局就不同。故朱陆之争不只是义理之争，也是解释学之争。",
+    "figure": "陆九渊",
+    "locator": "《陆九渊集·与朱元晦书》"
+   },
+   "sources": [
+    "ws-xiangshan",
+    "ws-taijitushuo",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《太极图说》首句各本有“无极而太极”与“无极而生太极”之异，版本差异直接影响解读；本页并列朱陆两读，不判定孰是。"
   }
  ],
  "debates": [
