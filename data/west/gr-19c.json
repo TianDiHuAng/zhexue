@@ -1562,6 +1562,562 @@
      "note": "1859 年；第四章为自然选择的核心"
     }
    ]
+  },
+  {
+   "id": "gr-19c-peirce",
+   "name": "皮尔士",
+   "latin": "Charles Sanders Peirce",
+   "birth_year": 1839,
+   "death_year": 1914,
+   "birth_display": "1839年",
+   "death_display": "1914年",
+   "birth_note": "生于马萨诸塞州剑桥；据其生平，父为哈佛数学教授。",
+   "death_note": "1914年卒于宾夕法尼亚米尔福德。",
+   "era": "19世纪后半叶的美国。皮尔士是实用主义（pragmatism）的创立者、符号学与现代逻辑（关系逻辑、量词）的奠基者之一；他终生未获稳定教职，著作多为未刊手稿。",
+   "school": "实用主义（符号学与逻辑）",
+   "core_questions": [
+    "概念的意义由什么确定？",
+    "信念如何被固定？",
+    "符号如何指称对象？"
+   ],
+   "arguments": [
+    {
+     "claim": "实用主义原则：概念的意义在于其可设想的行为后果",
+     "premises": [
+      "概念若有意义，须能区别可能的经验差别。",
+      "无行为后果之差的概念在实践中无差别。"
+     ],
+     "inference": "若两个概念在一切可设想的实践后果上无差别，则其区分是空的；故意义即后果的总和。",
+     "conclusion": "概念的意义等于其可设想的行为效果（此为“实用主义格”）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "信念的固定有四种方法，唯有科学方法具自我校正性",
+     "premises": [
+      "固执、权威、先验三法都以非经验因素固定信念。",
+      "科学方法以外部实在为约束，容许错误并修正。"
+     ],
+     "inference": "若前三种方法不能自我校正，则只有以经验检验与共同体探究为基础的科学方法能趋向真理。",
+     "conclusion": "科学方法（探究共同体）是唯一具自我校正性的信念固定方式。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《信念的固定》《如何使我们的观念清楚》《文集》",
+     "edition": "《信念的固定》中译见《皮尔士文选》；*Collected Papers*（Harvard）",
+     "note": "1877；1878；八卷文集"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "康德与苏格兰常识哲学",
+     "id": null,
+     "note": "范畴与批判框架"
+    },
+    {
+     "name": "达尔文与实验科学",
+     "id": "gr-19c-darwin",
+     "note": "演化与经验的取向"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "詹姆斯与杜威",
+     "id": "gr-19c-james",
+     "note": "实用主义的发展"
+    },
+    {
+     "name": "符号学与分析哲学",
+     "id": "",
+     "note": "三元符号关系与量词理论"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "罗素与逻辑实证主义者",
+     "view": "其对“意义即后果”的表述近于操作主义，可能导致意义的还原；且其形而上学（连续论、客观唯心论）被忽视。",
+     "response": "皮尔士一系的回应是：实用主义只是意义澄清的方法，不是形而上学立场；其晚期宇宙论明确超出操作主义。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-peirce",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "皮尔士的实用主义等于“有用即真”",
+     "why": "他强调的是意义澄清与探究的自我校正，不是以效用定义真理；此说更近詹姆斯。"
+    },
+    {
+     "claim": "他只是逻辑学家",
+     "why": "其符号学、范畴论（第一性/第二性/第三性）与宇宙论构成完整体系。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>皮尔士：意义与探究</text><defs><marker id='aPE' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>概念须有可设想的行为后果</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>无后果之差者无意义</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故意义即后果</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故科学方法具自我校正性</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aPE)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aPE)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "皮尔士：实用主义格与探究方法（示意图）",
+   "sources": [
+    "sep-peirce",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "皮尔士以“实用主义格”澄清意义：概念的意义在于其可设想的行为后果，若无实践差别则区分是空的。他又分析信念固定的四种方法（固执、权威、先验、科学），主张唯有以外部实在为约束的科学方法具自我校正性，故探究共同体能趋向真理。其符号学（图像—指示—象征）与关系逻辑是现代逻辑与符号学的源头之一。",
+    "system": [
+     {
+      "name": "实用主义格",
+      "content": "意义＝可设想的行为后果；无后果之差者无意义差别。"
+     },
+     {
+      "name": "四种方法",
+      "content": "固执、权威、先验、科学；唯科学方法自我校正。"
+     },
+     {
+      "name": "三元符号",
+      "content": "符号—对象—解释项；图像、指示、象征三类。"
+     },
+     {
+      "name": "范畴论",
+      "content": "第一性（性质）、第二性（事实）、第三性（规律与中介）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "剑桥与米尔福德（1839—1914）",
+      "change": "受教于哈佛；在美国海岸测量局任职三十年；曾在霍普金斯大学短期任教；晚年贫困，手稿未刊。"
+     }
+    ],
+    "reception": "实用主义由詹姆斯与杜威推广；其符号学影响结构主义与语言哲学；关系逻辑与量词理论被现代逻辑史重估。"
+   },
+   "works_detail": [
+    {
+     "title": "《信念的固定》《如何使我们的观念清楚》",
+     "structure": "两篇论文（1877、1878），为实用主义的纲领。",
+     "core_thesis": "意义即后果；科学方法自我校正。",
+     "editions": "《皮尔士文选》中译；*Collected Papers*",
+     "note": "论文而非专著"
+    }
+   ]
+  },
+  {
+   "id": "gr-19c-james",
+   "name": "威廉·詹姆斯",
+   "latin": "William James",
+   "birth_year": 1842,
+   "death_year": 1910,
+   "birth_display": "1842年",
+   "death_display": "1910年",
+   "birth_note": "生于纽约；据其《回忆与研究》，父为神学家。",
+   "death_note": "1910年卒于新罕布什尔州。",
+   "era": "19世纪末—20世纪初的美国。詹姆斯是心理学（《心理学原理》）与实用主义的代表；他以“意识流”“情绪即身体变化”与“真理的兑现价值”重塑心理学与真理论，并以“信仰的意志”为宗教经验辩护。",
+   "school": "实用主义（彻底经验论）",
+   "core_questions": [
+    "意识的 structure 是什么？",
+    "真理是什么？",
+    "在证据不足时信念可否合理？"
+   ],
+   "arguments": [
+    {
+     "claim": "意识流：意识是连续的、选择性的、不可分割为元素的流",
+     "premises": [
+      "内省显示意识从不是静止元素的拼合。",
+      "注意总是选择某部分而忽略其余。"
+     ],
+     "inference": "若意识是连续且选择性的流，则把它分析为原子元素会失真；故心理学须描述其流动与选择性。",
+     "conclusion": "意识是“意识流”，其统一性与选择性是基本事实。",
+     "kind": "原文"
+    },
+    {
+     "claim": "真理即观念的“兑现价值”（cash value）",
+     "premises": [
+      "观念在实践中被验证、被使用、被证实有效。",
+      "无实践差别的“真理”之争无意义。"
+     ],
+     "inference": "若真理须在经验中被兑现，则真理不是静止的符合关系，而是观念在经验中获得确认的过程。",
+     "conclusion": "真理是观念在经验中被证实的过程（真理的“发生论”）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《心理学原理》《实用主义》《宗教经验之种种》《信仰的意志》",
+     "edition": "《实用主义》中译参商务印书馆；《心理学原理》中译参商务印书馆",
+     "note": "1890；1907；1902；1897"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "皮尔士",
+     "id": "gr-19c-peirce",
+     "note": "实用主义格的启发"
+    },
+    {
+     "name": "达尔文与生理学",
+     "id": "gr-19c-darwin",
+     "note": "演化与生理学取向"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "杜威与工具主义",
+     "id": "",
+     "note": "实用主义的社会化发展"
+    },
+    {
+     "name": "现象学与心理学史",
+     "id": "",
+     "note": "意识流概念被广泛吸收"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "罗素与摩尔",
+     "view": "以“有用即真”消解真理的客观性，是“真理意志”的堕落。",
+     "response": "詹姆斯一系的回应是：真理须被兑现，不等于“有用的就是真的”；兑现是观念与经验的接合过程。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-james",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "詹姆斯主张“相信任何让你舒服的事”",
+     "why": "《信仰的意志》限于“强制选择且证据不足”的情形，且有严格条件，不是任意相信。"
+    },
+    {
+     "claim": "他只是心理学家",
+     "why": "其真理论、彻底经验论与宗教哲学构成系统哲学。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>詹姆斯：意识流与真理的兑现</text><defs><marker id='aWJ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>意识是连续选择性的流</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故不能分析为原子元素</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故真理须在经验中被兑现</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故真理是证实的过程</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aWJ)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aWJ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "威廉·詹姆斯：意识流与真理的兑现（示意图）",
+   "sources": [
+    "sep-james",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "詹姆斯以“意识流”取代元素的心理学：意识是连续、选择性、不可分割的流，故把它分析为原子元素会失真。在真理论上他主张“兑现价值”：真理是观念在经验中被证实、被使用的过程，而非静止的符合关系。他又在《信仰的意志》中论证：在“强制选择且证据不足”的情形下，信念可以合理地先行。",
+    "system": [
+     {
+      "name": "意识流",
+      "content": "连续、选择、不可分割；统一性与选择性是基本事实。"
+     },
+     {
+      "name": "真理的兑现",
+      "content": "真理是证实的过程；无实践差别的争论无意义。"
+     },
+     {
+      "name": "情绪理论",
+      "content": "情绪是对身体变化的感知，而非其原因（与常识相反）。"
+     },
+     {
+      "name": "信仰的意志",
+      "content": "证据不足且必须选择时，信念可合理地先行。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "纽约与哈佛（1842—1910）",
+      "change": "习医后转向心理学与哲学；1875 年在哈佛开设美国第一个心理学课程；1907 年《实用主义》。"
+     }
+    ],
+    "reception": "《心理学原理》奠定美国心理学；实用主义经杜威发展为工具主义；意识流概念影响文学与现代主义；其宗教经验研究开创宗教心理学。"
+   },
+   "works_detail": [
+    {
+     "title": "《实用主义》",
+     "structure": "八讲；以“兑现价值”重述真理与意义。",
+     "core_thesis": "真理是证实的过程；这是该书的核心命题。",
+     "editions": "中译参商务印书馆",
+     "note": "1907 年"
+    }
+   ]
+  },
+  {
+   "id": "gr-19c-dilthey",
+   "name": "狄尔泰",
+   "latin": "Wilhelm Dilthey",
+   "birth_year": 1833,
+   "death_year": 1911,
+   "birth_display": "1833年",
+   "death_display": "1911年",
+   "birth_note": "生于莱茵河畔比布里希；据其生平，父为神职人员。",
+   "death_note": "1911年卒于塞伊斯坦福。",
+   "era": "19世纪末的德国。狄尔泰以“精神科学”（Geisteswissenschaften）的独立方法论著称：自然须“说明”（erklären），精神生活须“理解”（verstehen）；他以“生命—表达—理解”的循环与“历史理性批判”回应历史主义与相对主义的挑战。",
+   "school": "生命哲学（解释学）",
+   "core_questions": [
+    "精神科学能否有独立的方法？",
+    "理解如何可能？",
+    "历史知识是否客观？"
+   ],
+   "arguments": [
+    {
+     "claim": "说明与理解：两种方法对应两类对象",
+     "premises": [
+      "自然现象可从外部以因果说明。",
+      "精神生活的产物（文本、制度、行动）本身含有意义。"
+     ],
+     "inference": "若对象本身承载意义，则把握它须从其内部重构其意义关联，而非仅作外部因果说明；故精神科学有独立方法。",
+     "conclusion": "自然用说明，精神生活用理解；二者不可互相还原。",
+     "kind": "原文"
+    },
+    {
+     "claim": "理解是“生命把握生命”：在表达中重构意义关联",
+     "premises": [
+      "生命通过表达（语言、行为、制度）外化自身。",
+      "理解者与被理解者同属生命。"
+     ],
+     "inference": "若理解者与被理解者共有生命这一根基，则理解不是猜测他人心灵，而是在共同的生命结构中重构意义关联。",
+     "conclusion": "理解以“生命—表达—理解”的循环为结构，故有普遍性而非纯主观。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《精神科学导论》《诠释学的起源》《历史理性批判草稿》",
+     "edition": "《精神科学导论》中译参商务印书馆（若有）；德文以 Gesammelte Schriften 为准",
+     "note": "1883；1900；遗稿"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "施莱尔马赫",
+     "id": null,
+     "note": "解释学循环与作者意图重构"
+    },
+    {
+     "name": "康德与德国历史学派",
+     "id": null,
+     "note": "批判哲学与历史主义的问题"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "海德格尔与伽达默尔",
+     "id": null,
+     "note": "理解的存在论化与哲学解释学"
+    },
+    {
+     "name": "韦伯与社会科学方法论",
+     "id": "",
+     "note": "理解社会学的方法论基础"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "新康德主义者（李凯尔特等）",
+     "view": "以“理解”区分科学会取消方法的统一性，且理解的普遍性无法保证。",
+     "response": "狄尔泰一系的回应是：理解的普遍性来自共同的生命结构，不是心理同情；方法的分化不等于真理的分裂。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-dilthey",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "狄尔泰是心理主义者",
+     "why": "他明确批判心理主义，主张理解以客观化的表达（文本、制度）为对象。"
+    },
+    {
+     "claim": "他的解释学只关心作者原意",
+     "why": "其“生命哲学”把理解扩展为对历史世界的把握，作者意图只是其中一环。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>狄尔泰：说明与理解</text><defs><marker id='aDI2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>自然可从外部因果说明</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>精神产物本身含意义</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故须从内部重构意义</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故理解以共同生命为根基</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aDI2)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aDI2)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "狄尔泰：说明与理解的二分（示意图）",
+   "sources": [
+    "sep-dilthey",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "狄尔泰为“精神科学”确立独立方法：自然可从外部因果地“说明”，而精神生活的产物（文本、制度、行动）本身承载意义，故须从其内部“理解”。他又以“生命—表达—理解”的循环说明理解的可能性：理解者与被理解者共有生命这一根基，故理解不是猜测他人心灵，而是在共同结构中重构意义关联。",
+    "system": [
+     {
+      "name": "说明与理解",
+      "content": "自然用 erklären，精神生活用 verstehen；不可互相还原。"
+     },
+     {
+      "name": "生命—表达—理解",
+      "content": "生命外化为表达，理解在表达中重构意义关联。"
+     },
+     {
+      "name": "历史理性批判",
+      "content": "为历史知识奠定批判基础，回应历史主义与相对主义。"
+     },
+     {
+      "name": "世界观类型",
+      "content": "以世界观类型学处理形而上学体系的历史多样性。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "柏林（1833—1911）",
+      "change": "历任巴塞尔、基尔、布雷斯劳、柏林大学教授；《精神科学导论》（1883）；晚期草稿未完成。"
+     }
+    ],
+    "reception": "其方法论区分成为人文社会科学的基石；解释学经海德格尔与伽达默尔存在论化；韦伯的理解社会学与其问题相承。"
+   },
+   "works_detail": [
+    {
+     "title": "《精神科学导论》",
+     "structure": "第一卷：论精神科学的体系、方法与历史理性批判的纲目。",
+     "core_thesis": "说明与理解之分；生命—表达—理解。",
+     "editions": "中译参商务印书馆（若有）；Gesammelte Schriften I",
+     "note": "1883 年；后续卷为遗稿"
+    }
+   ]
+  },
+  {
+   "id": "gr-19c-bradley",
+   "name": "布拉德雷",
+   "latin": "F. H. Bradley",
+   "birth_year": 1846,
+   "death_year": 1924,
+   "birth_display": "1846年",
+   "death_display": "1924年",
+   "birth_note": "生于伦敦克拉珀姆；据其生平，父为传教士。",
+   "death_note": "1924年卒于牛津。",
+   "era": "19世纪末的英国。布拉德雷是英国唯心论（绝对唯心论）的代表，以《表象与实在》主张关系与多元皆为现象，唯有“绝对”是实在；其《伦理学研究》以“我的 station 与义务”论具体伦理，影响深远。",
+   "school": "绝对唯心论",
+   "core_questions": [
+    "关系是否是实在的？",
+    "实在的整体是什么？",
+    "义务的根据在哪里？"
+   ],
+   "arguments": [
+    {
+     "claim": "关系不能是实在的：关系项与关系本身互相依赖而成无穷后退",
+     "premises": [
+      "若关系是实在的，则关系与关系项之间又需新关系。",
+      "由此陷入无穷后退。"
+     ],
+     "inference": "若关系须由更高关系连接，则关系永远不能自我成立；故关系属现象而非最终实在。",
+     "conclusion": "关系与多元皆属现象；唯有“绝对”是无所不包的单一实在。",
+     "kind": "原文"
+    },
+    {
+     "claim": "义务来自我的“station”（位置）与其职责",
+     "premises": [
+      "人总已在具体的社会位置中（如父子、公民）。",
+      "抽离位置的抽象道德原则无法指导行动。"
+     ],
+     "inference": "若义务须在具体处境中确定，则其根据是位置所内含的职责，而非普遍规则；故道德是“我的位置与它的职责”。",
+     "conclusion": "具体伦理：义务由我所处位置的职责决定。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《表象与实在》《伦理学研究》《逻辑原理》",
+     "edition": "《表象与实在》中译参商务印书馆（若有）；英文本以 Oxford 版为准",
+     "note": "1893；1876；1883"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "黑格尔与德国唯心论",
+     "id": null,
+     "note": "绝对与辩证法的英国传播"
+    },
+    {
+     "name": "康德",
+     "id": null,
+     "note": "现象与实在之分的改造"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "罗素与摩尔",
+     "id": null,
+     "note": "对唯心论的激烈批判（关系实在论）"
+    },
+    {
+     "name": "怀特海与过程哲学",
+     "id": "",
+     "note": "以过程取代绝对"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "罗素与摩尔",
+     "view": "布拉德雷的关系论证依赖“关系须由关系连接”的前提，而逻辑上的多元关系不必如此；其唯心论使一切科学命题降为现象。",
+     "response": "布拉德雷一系的回应是：批判者预设了分析式的清晰性，而实在本是可理解的整体，分析必致矛盾。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-bradley",
+      "sep-russell"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "布拉德雷的唯心论已被罗素驳倒",
+     "why": "摩尔与罗素的批判影响巨大，但布拉德雷的关系论证与其融贯真理论仍在讨论中，不能说已“驳倒”。"
+    },
+    {
+     "claim": "绝对唯心论否认个体",
+     "why": "个体在绝对中不是被取消而是被“吸收并转化”（他的原话是 absorbed 而非 abolished）。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>布拉德雷：关系与绝对</text><defs><marker id='aFB' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>关系须由更高关系连接</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故无穷后退</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故关系属现象</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故唯绝对是实在</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aFB)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aFB)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：前提为原文，图示为重构</text></svg>",
+   "svg_caption": "布拉德雷：关系的无穷后退与绝对（示意图）",
+   "sources": [
+    "sep-bradley",
+    "sep-russell"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "布拉德雷以关系的无穷后退论证关系不可能是最终实在：若关系须由更高关系连接，则永远不能自我成立，故关系与多元皆属现象，唯有“绝对”是无所不包的单一实在。在伦理学上他主张义务来自我所处位置的职责（“我的 station 与它的 duties”），反对抽离处境的抽象规则。",
+    "system": [
+     {
+      "name": "关系的无穷后退",
+      "content": "关系项与关系互相依赖，故关系不能自我成立。"
+     },
+     {
+      "name": "绝对",
+      "content": "无所不包的单一实在；现象在其中被吸收而非取消。"
+     },
+     {
+      "name": "融贯真理论",
+      "content": "真理的程度取决于体系的融贯程度；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "具体伦理",
+      "content": "义务由位置所含的职责决定；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "牛津（1846—1924）",
+      "change": "默顿学院研究员，终身未婚，隐居著述；《伦理学研究》（1876）、《逻辑原理》（1883）、《表象与实在》（1893）。"
+     }
+    ],
+    "reception": "英国唯心论的代表，影响鲍桑葵与后世；罗素与摩尔的批判标志分析哲学兴起；其具体伦理观被伦理学与文学（如《我的位置及其职责》）广泛引用。"
+   },
+   "works_detail": [
+    {
+     "title": "《表象与实在》",
+     "structure": "论现象、实在、关系与绝对；以“现象”章逐一考察关系、性质、时空、因果等。",
+     "core_thesis": "关系属现象；唯绝对是实在；这是该书的核心命题。",
+     "editions": "Oxford 版；中译参商务印书馆（若有）",
+     "note": "1893 年"
+    }
+   ]
   }
  ],
  "concepts": [

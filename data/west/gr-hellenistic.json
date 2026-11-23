@@ -2104,6 +2104,140 @@
      "note": "命题体，需按编号引用"
     }
    ]
+  },
+  {
+   "id": "gr-hellenistic-iamblichus",
+   "name": "扬布利柯",
+   "latin": "Iamblichus of Chalcis",
+   "birth_year": 245,
+   "death_year": 325,
+   "birth_display": "约245年",
+   "death_display": "约325年",
+   "birth_note": "生于叙利亚卡尔基斯；据其传记材料，出身显贵祭司家族。",
+   "death_note": "约325年卒（具体年与地点无确载）。",
+   "era": "公元3—4世纪。扬布利柯是叙利亚学派新柏拉图主义者，普罗提诺—波菲利传统的继承者与改造者；他把普罗提诺的三层级扩展为更繁复的神阶体系，并主张哲学思辨须与神术（theurgy）结合方能完成灵魂上升。",
+   "school": "新柏拉图主义（叙利亚学派）",
+   "core_questions": [
+    "灵魂如何回归本源？",
+    "哲学思辨足够吗？",
+    "神祇的层级如何划分？"
+   ],
+   "arguments": [
+    {
+     "claim": "回归不能只靠思辨，须有神术（theurgy）",
+     "premises": [
+      "灵魂的堕落不仅是认识上的，也是存在上的（它被卷入生成）。",
+      "认识不能改变存在状态。"
+     ],
+     "inference": "若堕落是存在性的，则仅凭认识无法完成回归；须有神圣仪式使灵魂在存在层面被提升。",
+     "conclusion": "哲学思辨须与神术配合，后者才是回归的完成条件。",
+     "kind": "原文"
+    },
+    {
+     "claim": "存在层级比普罗提诺更繁复：一与多之间有中介神阶",
+     "premises": [
+      "超越者与可感世界之间须有足够的中介，否则无法说明生成。",
+      "每一层级须有守护神与统一原理。"
+     ],
+     "inference": "若中介不足则生成不可解释；故须在“一”与理智之间、灵魂与物质之间设定更多层级。",
+     "conclusion": "神阶体系扩展为多层级，每一层有其守护神与统摄原理。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论埃及秘仪》《毕达哥拉斯传》《神学要义》",
+     "edition": "英译见 *Iamblichus: De Mysteriis*（Clarke/Dillon/Hershbell）；《毕达哥拉斯传》见 Loeb",
+     "note": "《论埃及秘仪》为神术辩护的核心文本"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "普罗提诺与波菲利",
+     "id": "gr-hellenistic-plotinus",
+     "note": "新柏拉图主义的三层级框架"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "普罗克洛",
+     "id": "gr-hellenistic-proclus",
+     "note": "层级体系进一步系统化"
+    },
+    {
+     "name": "伪狄奥尼修斯与中世纪神秘主义",
+     "id": "",
+     "note": "神阶与仪式神学的语汇"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "波菲利与哲学派",
+     "view": "以神术求回归是把哲学降为仪式，且无法给出理性的说明。",
+     "response": "扬布利柯一系的回应是：仪式的效力不依赖理性说明，正如存在的提升不依赖认识。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-iamblichus",
+      "sep-plotinus"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "扬布利柯只是迷信的仪式主义者",
+     "why": "其神术理论有明确的存在论根据（堕落是存在性的）；且他同时是严谨的注释家与数学哲学作者。"
+    },
+    {
+     "claim": "神术是贿赂神祇的手段",
+     "why": "其目的是灵魂的秩序化与上升，而非交换利益。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>扬布利柯：神术与层级</text><defs><marker id='aIA' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>堕落是存在性的</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>认识不能改变存在状态</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故须神术完成回归</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故神阶须多层中介</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aIA)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aIA)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "扬布利柯：神术与层级体系（示意图）",
+   "sources": [
+    "sep-iamblichus",
+    "sep-plotinus"
+   ],
+   "needs_verification": true,
+   "pending_notes": "扬布利柯著作多有散佚或仅存残篇与转述；《论埃及秘仪》的作者归属曾受质疑（今多认为出自其学派）。神术理论与普罗提诺—波菲利传统的分歧细节须依专门研究。",
+   "doctrine": {
+    "summary": "扬布利柯把新柏拉图主义推向仪式化与层级化：灵魂的堕落不仅是认识上的也是存在上的，故仅凭思辨无法完成回归，须有神术（theurgy）在存在层面提升灵魂；他又在“一”与可感世界之间设定更多中介神阶，每层有守护神与统摄原理。其说是普罗提诺—波菲利传统的重大改造。",
+    "system": [
+     {
+      "name": "神术",
+      "content": "回归须有仪式实践；其效力不依赖理性说明。"
+     },
+     {
+      "name": "存在性堕落",
+      "content": "灵魂被卷入生成，故认识不足以改变其状态。"
+     },
+     {
+      "name": "多层级神阶",
+      "content": "一与多之间设中介，每层有守护神；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "数学与神学",
+      "content": "以数理结构说明神阶秩序（《神学要义》）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "卡尔基斯与叙利亚（约245—约325）",
+      "change": "出身祭司家族；师从波菲利（一说仅受其学）；在叙利亚建立学派；据传卒于迫害时期。"
+     }
+    ],
+    "reception": "其神术理论影响普罗克洛与后世仪式神学；层级体系经伪狄奥尼修斯进入基督教神秘主义；与哲学派的分歧成为新柏拉图主义内部的重要论争。"
+   },
+   "works_detail": [
+    {
+     "title": "《论埃及秘仪》",
+     "structure": "以问答体为神术辩护，反驳波菲利一系的批评。",
+     "core_thesis": "神术必要；存在性堕落；这是该书的核心命题。",
+     "editions": "Clarke/Dillon/Hershbell 英译",
+     "note": "作者归属曾有争议"
+    }
+   ]
   }
  ],
  "concepts": [

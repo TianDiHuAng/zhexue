@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 474,
+  "entries": 482,
   "by_level": {
-   "L2": 405,
-   "L1": 69
+   "L2": 412,
+   "L1": 70
   },
   "doctrine": {
-   "total": 167,
-   "detail": 167,
+   "total": 175,
+   "detail": 175,
    "auto": 0
   },
-  "needs_verification": 69,
+  "needs_verification": 70,
   "sources": 276,
   "sources_verified": 272
  },
@@ -74,19 +74,19 @@
    "unit_id": "gr-19c",
    "title": "19世纪哲学",
    "region": "west",
-   "philosophers": 10,
+   "philosophers": 14,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -2"
+   "philosophers_slot": "8 上限，余 -6"
   },
   {
    "unit_id": "gr-20c",
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
-   "philosophers": 12,
+   "philosophers": 14,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -4"
+   "philosophers_slot": "8 上限，余 -6"
   },
   {
    "unit_id": "gr-ancient",
@@ -110,19 +110,19 @@
    "unit_id": "gr-german",
    "title": "德国古典哲学",
    "region": "west",
-   "philosophers": 8,
+   "philosophers": 9,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 0"
+   "philosophers_slot": "8 上限，余 -1"
   },
   {
    "unit_id": "gr-hellenistic",
    "title": "希腊化与罗马哲学",
    "region": "west",
-   "philosophers": 14,
+   "philosophers": 15,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -6"
+   "philosophers_slot": "8 上限，余 -7"
   },
   {
    "unit_id": "gr-medieval",
@@ -1806,6 +1806,50 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-19c-peirce",
+   "type": "philosopher",
+   "title": "皮尔士",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-19c-james",
+   "type": "philosopher",
+   "title": "威廉·詹姆斯",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-19c-dilthey",
+   "type": "philosopher",
+   "title": "狄尔泰",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-19c-bradley",
+   "type": "philosopher",
+   "title": "布拉德雷",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-19c-will",
    "type": "concept",
    "title": "意志",
@@ -2077,6 +2121,28 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-popper",
+   "type": "philosopher",
+   "title": "波普尔",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-jaspers",
+   "type": "philosopher",
+   "title": "雅斯贝尔斯",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -2906,6 +2972,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-german-mendelssohn",
+   "type": "philosopher",
+   "title": "门德尔松",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-german-transcendental",
    "type": "concept",
    "title": "先验",
@@ -3200,6 +3277,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-hellenistic-iamblichus",
+   "type": "philosopher",
+   "title": "扬布利柯",
+   "container": "gr-hellenistic",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
