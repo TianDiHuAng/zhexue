@@ -8903,6 +8903,63 @@
    "sort_year": 1150
   },
   {
+   "id": "work-sententiae-lombard",
+   "title": "《箴言四书》",
+   "title_original": "Sententiarum libri quatuor",
+   "tradition": "west",
+   "date_display": "约1150年（彼得·伦巴德）",
+   "structure": "四卷：①论三位一体与神；②论创造、恩典与罪；③论道成肉身与德性；④论圣礼与末世。",
+   "core_arguments": [
+    "以教父（尤其奥古斯丁）的语句汇编为神学的**教科书**",
+    "以“区分”（distinctio）编排问题，为后世的“辨析”体例奠基",
+    "在若干争点上给出自己的判断（如“爱神与爱邻”的关系）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 区分1—3",
+     "point": "三位一体的表述"
+    },
+    {
+     "locator": "卷二 区分",
+     "point": "创造与恩典"
+    },
+    {
+     "locator": "卷三 区分",
+     "point": "道成肉身与德性"
+    },
+    {
+     "locator": "卷四 区分",
+     "point": "圣礼"
+    }
+   ],
+   "editions": [
+    "拉丁原文（Grottaferrata 编本，1971—1981）；英译（Silano, The Sentences）"
+   ],
+   "related_people": [
+    "gr-medieval-abelard",
+    "gr-medieval-aquinas",
+    "gr-medieval-anselm"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是语录汇编，无原创性",
+     "why": "其编排（区分与问题）本身即是一种神学建构，且它在若干争点上给出判断；其成为此后数百年的标准教科书，正因其结构而非仅材料。"
+    },
+    {
+     "claim": "它由阿奎那或阿伯拉尔所作",
+     "why": "作者是**彼得·伦巴德**（Petrus Lombardus）；阿奎那、阿伯拉尔是它的**注疏者**或同代人。"
+    }
+   ],
+   "sources": [
+    "sep-abelard",
+    "sep-aquinas",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《箴言四书》的成书年代（约1150）与各本的区分编号须核 Grottaferrata 编本；其成为标准教科书的制度过程（12—13世纪大学）亦须核。",
+   "sort_year": 1150
+  },
+  {
    "id": "work-nanxuan-ji",
    "title": "《南轩集》",
    "title_original": "南軒集",
@@ -10940,6 +10997,63 @@
    "needs_verification": true,
    "pending_notes": "《四旅程》卷帙浩繁（新版校勘本多卷），其“四旅程”的结构与各旅程的篇目须核萨德拉哲学研究所的校勘本；英译多为选译。",
    "sort_year": 1630
+  },
+  {
+   "id": "work-mingli-tan",
+   "title": "《名理探》",
+   "title_original": "Commentarii Collegii Conimbricensis（《亚里士多德辩证法大全疏解》）",
+   "tradition": "china",
+   "date_display": "1631年（傅汎际译义，李之藻达辞）",
+   "structure": "十卷（原译本分“五公称”“十伦府”等）：译述科英布拉大学对亚里士多德《范畴篇》《解释篇》等的疏解。",
+   "core_arguments": [
+    "以“名理”译 logica：把西方的逻辑学系统引入汉语",
+    "以“五公称”（类、种、差、独、偶）对应波菲利五谓词",
+    "以“十伦府”对应亚里士多德的十范畴"
+   ],
+   "key_points": [
+    {
+     "locator": "卷首",
+     "point": "译名的确立（名理／艺学）"
+    },
+    {
+     "locator": "五公称",
+     "point": "类、种、差、独、偶"
+    },
+    {
+     "locator": "十伦府",
+     "point": "十范畴的汉译"
+    },
+    {
+     "locator": "论命题",
+     "point": "命题与三段论"
+    }
+   ],
+   "editions": [
+    "明崇祯刻本；《四库全书》未收；今有影印本与《明清间耶稣会士译著提要》著录"
+   ],
+   "related_people": [
+    "cn-qingmod-fang-yizhi",
+    "cn-qingmod-gu-yanwu",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是亚里士多德原著的译本",
+     "why": "它译的是**科英布拉大学的疏解**（Commentarii），其中含大量经院注释与引申；故非亚氏原著，而是“经院化的亚里士多德”。"
+    },
+    {
+     "claim": "译名（名理、五公称）只是古雅的措辞",
+     "why": "译名本身是**概念的落地**：以“名理”译 logica 使逻辑学被理解为“关于名的理”，这一取向影响了汉语学界对逻辑的接受方式。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-copleston-history",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《名理探》的译述过程（傅汎际与李之藻的合作）、原译本所据的科英布拉本版本、以及“五公称”“十伦府”等译名的定名过程须核《明清间耶稣会士译著提要》与相关研究。",
+   "sort_year": 1631
   },
   {
    "id": "work-discourse-method",

@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1094,
+  "entries": 1097,
   "by_level": {
    "L2": 785,
-   "L1": 309
+   "L1": 312
   },
   "doctrine": {
    "total": 254,
    "detail": 254,
    "auto": 0
   },
-  "needs_verification": 309,
+  "needs_verification": 312,
   "sources": 396,
   "sources_verified": 396
  },
@@ -9682,6 +9682,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-sententiae-lombard",
+   "type": "work",
+   "title": "《箴言四书》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-nanxuan-ji",
    "type": "work",
    "title": "《南轩集》",
@@ -10071,6 +10082,17 @@
    "type": "work",
    "title": "《四旅程》",
    "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-mingli-tan",
+   "type": "work",
+   "title": "《名理探》",
+   "container": "china",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -11698,6 +11720,17 @@
    "id": "cmp-anatta",
    "type": "comparative",
    "title": "无我与自我束：佛教的 anattā 与休谟的“一束知觉”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-yiming",
+   "type": "comparative",
+   "title": "译名即哲学：名理、逻辑与理",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
