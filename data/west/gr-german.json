@@ -1892,6 +1892,79 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-german-aufklaerung",
+   "term": "启蒙",
+   "term_latin": "Aufklärung",
+   "definition": "康德定义为“人摆脱自己所加之于自己的不成熟状态”，其口号是“要有勇气运用你自己的理智”。德国启蒙的特殊性在于：它既要求理性的公共运用，又须为信仰留出位置。",
+   "usages": [
+    {
+     "name": "康德",
+     "id": "gr-german-kant",
+     "usage": "区分理性的私人运用与公共运用：前者受限，后者须自由。"
+    },
+    {
+     "name": "门德尔松",
+     "id": "gr-german-mendelssohn",
+     "usage": "以“什么是启蒙”同题撰文：启蒙与教化（Bildung）有别，前者关涉理论，后者关涉实践。"
+    },
+    {
+     "name": "哈贝马斯（近代）",
+     "usage": "以“公共领域”重述启蒙的理性公共运用。"
+    }
+   ],
+   "related": [
+    "gr-german-sittlichkeit",
+    "gr-german-transcendental"
+   ],
+   "example": {
+    "text": "康德在《答复这个问题：什么是启蒙？》中说：若问“我们是否生活在启蒙的时代”，答案是“不是，但生活在启蒙的时代”——启蒙是过程而非既成状态，这一区分是理解其历史哲学的关键。",
+    "figure": "康德",
+    "locator": "《什么是启蒙？》"
+   },
+   "sources": [
+    "sep-kant",
+    "sep-mendelssohn"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-german-bildung",
+   "term": "教化（教养）",
+   "term_latin": "Bildung",
+   "definition": "德国唯心论与人文主义的核心概念：不是知识的累积，而是人格在文化中的自我塑造（Bild 兼有“形象”与“塑形”义）。黑格尔以之为精神外化并返回自身的运动。",
+   "usages": [
+    {
+     "name": "黑格尔",
+     "id": "gr-german-hegel",
+     "usage": "教化是精神在异在中自我塑造并返回自身的过程（《精神现象学》）。"
+    },
+    {
+     "name": "门德尔松",
+     "id": "gr-german-mendelssohn",
+     "usage": "区分启蒙（理论）与教化（实践）：前者可普遍，后者关涉具体生活。"
+    },
+    {
+     "name": "洪堡与德国大学理念",
+     "usage": "以研究与教养合一为大学的原则（非哲学人物，仅作背景）。"
+    }
+   ],
+   "related": [
+    "gr-german-absolute-spirit"
+   ],
+   "example": {
+    "text": "黑格尔说“个体必须走完精神所走过的那些阶段”：教化不是学一套现成结论，而是重走人类精神自我形成之路——故他反对以“常识”跳过这个过程的启蒙式 shortcut。",
+    "figure": "黑格尔",
+    "locator": "《精神现象学》序"
+   },
+   "sources": [
+    "sep-hegel",
+    "sep-mendelssohn"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

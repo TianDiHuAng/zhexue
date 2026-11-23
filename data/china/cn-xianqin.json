@@ -2465,6 +2465,45 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-zhongyong",
+   "term": "中庸",
+   "term_latin": "zhongyong",
+   "definition": "儒家德性概念：“中”为不偏，“庸”为常行；合指在具体情境中恰到好处而可长期实践的品质。孔子称“中庸之为德也，其至矣乎”，又叹“民鲜久矣”。",
+   "usages": [
+    {
+     "name": "孔子",
+     "id": "cn-xianqin-kongzi",
+     "usage": "以“过犹不及”说明中：子贡问师与商也孰贤，孔子答“过犹不及”。"
+    },
+    {
+     "name": "孟子",
+     "id": "cn-xianqin-mengzi",
+     "usage": "以“执中无权”批评只守固定中点而不知变通者（《尽心上》）。"
+    },
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "usage": "以“中”为礼义之节，强调以制度定其分寸。"
+    }
+   ],
+   "related": [
+    "cn-xianqin-ren",
+    "cn-xianqin-li"
+   ],
+   "example": {
+    "text": "孔子答子贡“师也过，商也不及”，子贡问“然则师愈与”，孔子答“过犹不及”——此语表明“中”不是折半，而是恰到好处的那一点。",
+    "figure": "孔子",
+    "locator": "《论语·先进》"
+   },
+   "sources": [
+    "ct-analects",
+    "ct-mengzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

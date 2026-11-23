@@ -3314,6 +3314,83 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-species",
+   "term": "种与属",
+   "term_latin": "species and genus",
+   "definition": "中世纪逻辑与形而上学的分类单位：属（genus）统摄若干种（species），种统摄个体。共相之争的核心问题即：种属是实在的，还是仅在心智中？",
+   "usages": [
+    {
+     "name": "波菲利",
+     "usage": "《导论》提出三问而不答：种属是否独立存在、有形无形、是否与可感物分离。"
+    },
+    {
+     "name": "阿伯拉尔",
+     "id": "gr-medieval-abelard",
+     "usage": "概念论：种属是心智从个体抽象出的共同概念。"
+    },
+    {
+     "name": "奥卡姆",
+     "id": "gr-medieval-ockham",
+     "usage": "唯名论：只有个体实在，种属是心念中的记号。"
+    }
+   ],
+   "related": [
+    "gr-medieval-universals",
+    "gr-medieval-essence-existence"
+   ],
+   "example": {
+    "text": "波爱修以“种属如线”为喻说明分类的层级：个体如点，种如线，属如面——分类越往上，内容越稀薄而外延越广，这一“内涵与外延的反比”表述成为中世纪逻辑的通用框架。",
+    "figure": "波爱修",
+    "locator": "《波菲利〈导论〉注释》"
+   },
+   "sources": [
+    "sep-universals-medieval",
+    "sep-boethius",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-sacrament",
+   "term": "圣事",
+   "term_latin": "sacramentum",
+   "definition": "中世纪神学的核心制度概念：圣事是“不可见恩典的可见形式”（可见的记号 + 所赋的恩典）。七项圣事的数目在12世纪定型，其效能（ex opere operato）与施行者的资格问题成为争论焦点。",
+   "usages": [
+    {
+     "name": "托马斯·阿奎那",
+     "id": "gr-medieval-aquinas",
+     "usage": "圣事由“物”（elementum）与“言”（verbum）构成，效能来自基督的许诺而非施行者的功德。"
+    },
+    {
+     "name": "奥卡姆",
+     "id": "gr-medieval-ockham",
+     "usage": "以契约论解释圣事的效能：神自愿设立，故不受事物本性的限制。"
+    },
+    {
+     "name": "波那文图拉",
+     "id": "gr-medieval-bonaventure",
+     "usage": "以圣事为灵魂上升的阶梯，强调其象征与灵修意义。"
+    }
+   ],
+   "related": [
+    "gr-medieval-grace",
+    "gr-medieval-faith-reason"
+   ],
+   "example": {
+    "text": "阿奎那以“水”与“洗礼的言语”说明圣事的结构：单有水不是圣事，单有言语也不是；二者结合才构成记号——这一“物＋言”的结构是其圣事神学的骨架。",
+    "figure": "托马斯·阿奎那",
+    "locator": "《神学大全》III q.60 a.6"
+   },
+   "sources": [
+    "lat-aquinas-summa",
+    "sep-aquinas",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

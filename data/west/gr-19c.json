@@ -2486,6 +2486,80 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-19c-dialectic-marx",
+   "term": "辩证法（马克思）",
+   "term_latin": "dialectics",
+   "definition": "马克思承接黑格尔的辩证法而“颠倒”之：不是观念自我展开，而是物质生产的内在矛盾推动历史。其核心是矛盾的分析与“扬弃”，但拒绝以绝对精神收束。",
+   "usages": [
+    {
+     "name": "马克思",
+     "id": "gr-19c-marx",
+     "usage": "“在黑格尔那里辩证法是倒立着的，必须把它倒过来”。"
+    },
+    {
+     "name": "黑格尔",
+     "usage": "“在黑格尔那里辩证法是倒立着的，必须把它倒过来”：观念的运动须还原为物质生产的内在矛盾。"
+    },
+    {
+     "name": "恩格斯",
+     "id": "gr-19c-engels",
+     "usage": "以“对立统一、质量互变、否定之否定”三条规律概括。"
+    }
+   ],
+   "related": [
+    "gr-19c-histmat",
+    "gr-19c-alienation"
+   ],
+   "example": {
+    "text": "马克思以“手推磨产生封建主的社会，蒸汽磨产生工业资本家的社会”说明技术的辩证：生产力与生产关系的矛盾不是逻辑矛盾，而是历史性的、通过斗争解决的结构性紧张。",
+    "figure": "马克思",
+    "locator": "《哲学的贫困》"
+   },
+   "sources": [
+    "sep-marx",
+    "marx-chinese"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-19c-genius",
+   "term": "天才",
+   "term_latin": "genius",
+   "definition": "19世纪美学与伦理学的核心概念：天才不是技巧的熟练，而是原创的、不可规则化的创造。康德以之为“自然的禀赋”，叔本华、尼采以之为超越庸常的力量。",
+   "usages": [
+    {
+     "name": "康德",
+     "usage": "天才为艺术立法而无规则可循，是“自然的禀赋”（《判断力批判》§46）。"
+    },
+    {
+     "name": "尼采",
+     "id": "gr-19c-nietzsche",
+     "usage": "以“超人”与创造价值者取代浪漫派的天才崇拜。"
+    },
+    {
+     "name": "叔本华",
+     "id": "gr-19c-schopenhauer",
+     "usage": "天才在审美静观中暂时摆脱意志的奴役。"
+    }
+   ],
+   "related": [
+    "gr-19c-absurd",
+    "gr-19c-power-will"
+   ],
+   "example": {
+    "text": "康德的表述值得注意：天才“给艺术立法”，但自己“不知道规则从何而来”——故天才是自然通过主体说话，不是个人意志的任意。这一悖论成为浪漫派天才论的出发点。",
+    "figure": "康德",
+    "locator": "《判断力批判》§46—§47"
+   },
+   "sources": [
+    "sep-kant",
+    "sep-nietzsche"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

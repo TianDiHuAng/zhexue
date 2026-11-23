@@ -1925,6 +1925,81 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-reflective",
+   "term": "反思平衡",
+   "term_latin": "reflective equilibrium",
+   "definition": "罗尔斯的方法论：原则与“深思熟虑的判断”相互调整，直至二者一致。它不是从自明前提演绎，也不是纯直觉主义，而是在两者之间往复修正。",
+   "usages": [
+    {
+     "name": "罗尔斯",
+     "id": "gr-contemp-rawls",
+     "usage": "以反思平衡为正义原则的证成方式；必要时修正判断或原则。"
+    },
+    {
+     "name": "诺齐克（批评）",
+     "id": "gr-contemp-nozick",
+     "usage": "以历史资格论取代契约论证，不依赖平衡程序。"
+    },
+    {
+     "name": "哈贝马斯（对照）",
+     "id": "gr-contemp-habermas",
+     "usage": "以理想的言谈程序取代平衡，把证成程序化。"
+    }
+   ],
+   "related": [
+    "gr-contemp-veil",
+    "gr-contemp-entitlement"
+   ],
+   "example": {
+    "text": "罗尔斯承认反思平衡可能达不到“完全一致”：此时的平衡是“狭义的”（narrow）还是“广义的”（wide），取决于是否把他人对正义的alternative conceptions也纳入考量——这一步使方法论带上公共性。",
+    "figure": "罗尔斯",
+    "locator": "《正义论》§9、§87"
+   },
+   "sources": [
+    "sep-rawls",
+    "iep-nozick"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-biopower",
+   "term": "生命权力",
+   "term_latin": "biopouvoir",
+   "definition": "福柯后期概念：现代权力不只通过禁令与惩罚（主权权力）运作，更通过调节出生率、健康、寿命等“生命过程”来运作——其典型是人口统计、公共卫生与规训机构的结合。",
+   "usages": [
+    {
+     "name": "福柯",
+     "id": "gr-contemp-foucault",
+     "usage": "从“使人死”的主权权力转向“使人活”的生命权力；种族主义是其极端形态。"
+    },
+    {
+     "name": "阿甘本（后续，无词条）",
+     "usage": "以“赤裸生命”与例外状态推进生命权力的分析。"
+    },
+    {
+     "name": "哈贝马斯（对照）",
+     "id": "gr-contemp-habermas",
+     "usage": "以交往理性批评福柯缺乏规范基础。"
+    }
+   ],
+   "related": [
+    "gr-contemp-veil",
+    "gr-contemp-deconstruction"
+   ],
+   "example": {
+    "text": "福柯指出：18世纪起，权力技术从“对个体的规训”与“对人口的调节”两端同时发展——前者造就“驯顺的肉体”，后者管理“生命的过程”；二者结合即生命权力的两面。",
+    "figure": "福柯",
+    "locator": "《性史》第一卷 第五章"
+   },
+   "sources": [
+    "sep-foucault",
+    "iep-foucault"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

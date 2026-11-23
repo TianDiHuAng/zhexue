@@ -2180,6 +2180,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-zhiguan",
+   "term": "止观",
+   "term_latin": "zhi-guan（śamatha-vipaśyanā）",
+   "definition": "佛教修行的两大支柱：止（心一境性，止息散乱）与观（以智慧观照实相）。天台以“止观双修”为核心，智顗《摩诃止观》使其成为完整的修行体系。",
+   "usages": [
+    {
+     "name": "智顗",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以“一念三千”为观境，止观不二：观即于止中观，止即于观中止。"
+    },
+    {
+     "name": "宗密",
+     "id": "cn-suitang-zongmi",
+     "usage": "以“寂知”统摄止观，会通禅与教。"
+    },
+    {
+     "name": "湛然",
+     "id": "cn-suitang-zhanran",
+     "usage": "坚持教观双美，反对偏于义解或偏于顿悟。"
+    }
+   ],
+   "related": [
+    "cn-suitang-yiniansanqian"
+   ],
+   "example": {
+    "text": "智顗说“止观者，泥洹之要门”：若但有止而无观，则如盲人不动；但有观而无止，则如风中灯烛——二者须相即，这是天台“止观不二”的比喻根据。",
+    "figure": "智顗",
+    "locator": "《摩诃止观》卷一上"
+   },
+   "sources": [
+    "ws-mohezhiguan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

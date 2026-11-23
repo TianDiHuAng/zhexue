@@ -2311,6 +2311,81 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-weijin-qingtan",
+   "term": "清谈",
+   "term_latin": "qingtan",
+   "definition": "魏晋士人以玄理为主题的清雅谈论：以《老》《庄》《易》为资，往复辩难，重言辞与理致的优美。它既是学术活动，也是士族身份的标记。",
+   "usages": [
+    {
+     "name": "王弼",
+     "id": "cn-weijin-wangbi",
+     "usage": "正始年间清谈的核心人物，以“圣人体无”诸题著名。"
+    },
+    {
+     "name": "何晏",
+     "id": "cn-weijin-heyan",
+     "usage": "与王弼并称“王何”，为清谈领袖。"
+    },
+    {
+     "name": "乐广（据《世说新语》）",
+     "usage": "以“名教中自有乐地”回应放达，显示清谈内部的分歧。"
+    }
+   ],
+   "related": [
+    "cn-weijin-youwu",
+    "cn-weijin-yanbuyijin"
+   ],
+   "example": {
+    "text": "《世说新语·文学》记支遁与许询、谢安等往复论《庄子·逍遥游》，支遁“作数千言，才藻新奇”，众人遂服——清谈的胜负既在理，也在辞，二者不可分。",
+    "figure": "支遁（据《世说新语》）",
+    "locator": "《世说新语·文学》"
+   },
+   "sources": [
+    "ws-shishuoxinyu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-weijin-xuanxue",
+   "term": "玄学",
+   "term_latin": "xuanxue",
+   "definition": "魏晋以《老子》《庄子》《周易》为“三玄”的哲学思潮：以“有无”“本末”“名教与自然”为核心问题，试图为名教秩序寻找形而上学根据。",
+   "usages": [
+    {
+     "name": "王弼",
+     "id": "cn-weijin-wangbi",
+     "usage": "以“无”为本，主张“崇本息末”。"
+    },
+    {
+     "name": "郭象",
+     "id": "cn-weijin-guoxiang",
+     "usage": "以“独化”取消本原，主张“名教即自然”。"
+    },
+    {
+     "name": "裴頠",
+     "id": "cn-weijin-pei-wei",
+     "usage": "以《崇有论》反驳贵无，维护礼制。"
+    }
+   ],
+   "related": [
+    "cn-weijin-youwu"
+   ],
+   "example": {
+    "text": "玄学之“玄”取自《老子》“玄之又玄”，但魏晋人用它指一种超出章句之学的思辨方式：不是不谈经，而是以经为引子谈“本末有无”——故玄学既是哲学，也是经学方式的转变。",
+    "figure": "王弼",
+    "locator": "《老子指略》"
+   },
+   "sources": [
+    "ws-shishuoxinyu",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

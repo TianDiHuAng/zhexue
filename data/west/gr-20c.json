@@ -2982,6 +2982,78 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-lifeworld",
+   "term": "生活世界",
+   "term_latin": "Lebenswelt",
+   "definition": "胡塞尔晚期概念：一切科学以之为前提的、前科学的直观境域。科学的意义须回溯到生活世界才能被理解，故它是意义的基础而非研究对象之一。",
+   "usages": [
+    {
+     "name": "胡塞尔",
+     "id": "gr-20c-husserl",
+     "usage": "科学的意义沉淀于生活世界；须以“回溯”揭示其起源。"
+    },
+    {
+     "name": "梅洛-庞蒂",
+     "id": "gr-20c-merleau-ponty",
+     "usage": "以知觉场说明生活世界的前对象性结构。"
+    },
+    {
+     "name": "哈贝马斯（改造）",
+     "usage": "以“生活世界”与“系统”的对峙说明现代性的病理。"
+    }
+   ],
+   "related": [
+    "gr-20c-intentionality"
+   ],
+   "example": {
+    "text": "胡塞尔以“伽利略的科学”为例：几何化的自然取代了直观的自然，故科学的成功同时是对生活世界的遗忘——他的现象学要做的正是“回溯”这一遗忘的过程。",
+    "figure": "胡塞尔",
+    "locator": "《欧洲科学的危机与先验现象学》§9"
+   },
+   "sources": [
+    "sep-husserl",
+    "iep-husserl"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-ontology-of-art",
+   "term": "艺术真理",
+   "term_latin": "truth of art",
+   "definition": "海德格尔《艺术作品的本源》的核心论题：艺术的本质是“真理自行设置入作品”。真理不是命题与事实的符合，而是存在者的无蔽（aletheia）；艺术是这种无蔽发生的一种方式。",
+   "usages": [
+    {
+     "name": "海德格尔",
+     "id": "gr-20c-heidegger",
+     "usage": "以梵高的鞋为例：作品开启了“一个世界”并置回“大地”。"
+    },
+    {
+     "name": "阿多诺",
+     "id": "gr-20c-adorno",
+     "usage": "艺术以“非同一者”抵抗概念化，其真理内容是社会的否定性。"
+    },
+    {
+     "name": "黑格尔（对照）",
+     "usage": "以艺术为绝对精神的最低阶段，终将被哲学取代——海德格尔反对这一“终结”说。"
+    }
+   ],
+   "related": [
+    "gr-20c-being-toward-death"
+   ],
+   "example": {
+    "text": "海德格尔分析梵高画的鞋：重要的不是鞋的“质料与形式”，而是它揭示了一个农妇的世界（劳作、土地、季节）——故作品的“物性”不是要被排除的，而是真理发生的场所。",
+    "figure": "海德格尔",
+    "locator": "《艺术作品的本源》"
+   },
+   "sources": [
+    "sep-heidegger",
+    "sep-adorno"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

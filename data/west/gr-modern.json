@@ -4191,6 +4191,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-conatus",
+   "term": "努力（自存努力）",
+   "term_latin": "conatus",
+   "definition": "斯宾诺莎的核心概念：每一事物“努力在其自身的存在中 persevere”，这一努力即其现实本质。它同时是物理的惯性倾向与伦理的欲望根据。",
+   "usages": [
+    {
+     "name": "斯宾诺莎",
+     "id": "gr-modern-spinoza",
+     "usage": "conatus 是事物的现实本质；欲望即被意识到的 conatus。"
+    },
+    {
+     "name": "霍布斯",
+     "id": "gr-modern-hobbes",
+     "usage": "以“自我保全的努力”为自然权利与道德的基础。"
+    },
+    {
+     "name": "莱布尼茨",
+     "id": "gr-modern-leibniz",
+     "usage": "以“欲求”（appetition）说明单子的内在趋向。"
+    }
+   ],
+   "related": [
+    "gr-modern-substance",
+    "gr-modern-idea"
+   ],
+   "example": {
+    "text": "斯宾诺莎说“德性不是别的，就是依自身本性的法则而行动”：因为 conatus 就是本质，故追求自我保存不是自私，而是存在的必然方式——这与其决定论框架一致。",
+    "figure": "斯宾诺莎",
+    "locator": "《伦理学》IV p.18s"
+   },
+   "sources": [
+    "ws-spinoza-ethica",
+    "sep-spinoza"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

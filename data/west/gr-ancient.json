@@ -3214,6 +3214,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-nous",
+   "term": "努斯",
+   "term_latin": "nous（intellect）",
+   "definition": "希腊语“心智／理智”。阿那克萨戈拉以之为推动宇宙旋转的独立本原；亚里士多德以之为主动理智与神（思想思想自身）；柏拉图以之为灵魂的最高部分。",
+   "usages": [
+    {
+     "name": "阿那克萨戈拉",
+     "id": "gr-ancient-anaxagoras",
+     "usage": "努斯最精细、唯一纯粹，推动最初的旋转并安排秩序。"
+    },
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "主动理智 separable 且不朽；《形而上学》Λ 卷以“思想思想自身”为神。"
+    },
+    {
+     "name": "柏拉图",
+     "id": "gr-ancient-plato",
+     "usage": "灵魂的最高部分，能把握理念（《理想国》卷四）。"
+    }
+   ],
+   "related": [
+    "gr-ancient-logos",
+    "gr-ancient-psyche"
+   ],
+   "example": {
+    "text": "阿那克萨戈拉说努斯“支配一切有生命者”，但苏格拉底在《斐多》中失望地发现：他只用机械原因解释宇宙，而不说“这样最好”——这正是目的论与机械论的最早分野。",
+    "figure": "苏格拉底（据柏拉图《斐多》）",
+    "locator": "《斐多》97c—98c"
+   },
+   "sources": [
+    "sep-anaxagoras",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

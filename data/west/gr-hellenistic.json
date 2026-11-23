@@ -2619,6 +2619,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-apatheia",
+   "term": "不动心（无扰）",
+   "term_latin": "apatheia",
+   "definition": "希腊化各派的共同理想：不受情感扰动的状态。斯多亚以之为德性的结果（情感被理性校正），怀疑论以之为悬置判断的结果，伊壁鸠鲁以之为无扰（ataraxia）。同名而路径不同。",
+   "usages": [
+    {
+     "name": "塞涅卡",
+     "id": "gr-hellenistic-seneca",
+     "usage": "以“不受伤害”（invulnerability）说明智者：不是没有感受，而是不被感受奴役。"
+    },
+    {
+     "name": "塞克斯都·恩披里柯",
+     "id": "gr-hellenistic-sextus",
+     "usage": "悬置判断之后“偶然地”随之而来的是宁静。"
+    },
+    {
+     "name": "爱比克泰德",
+     "id": "gr-hellenistic-epictetus",
+     "usage": "只在能力之内求，故不受挫——这是不动心的实践版。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-hedone",
+    "gr-hellenistic-epoche"
+   ],
+   "example": {
+    "text": "塞克斯都强调 ataraxia 是“影子般地跟随”悬置判断而来，不是可以刻意追求的目标：若把宁静当作目标去追求，反而因求之不得而更受扰——这一自我指涉的困难是其论证的精微处。",
+    "figure": "塞克斯都·恩披里柯",
+    "locator": "《皮浪学说要旨》I.25—30"
+   },
+   "sources": [
+    "sep-stoicism",
+    "iep-stoicism"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

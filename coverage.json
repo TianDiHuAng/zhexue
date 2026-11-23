@@ -1,9 +1,9 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 533,
+  "entries": 551,
   "by_level": {
-   "L2": 453,
+   "L2": 471,
    "L1": 80
   },
   "doctrine": {
@@ -30,7 +30,7 @@
    "title": "清代与近代转型",
    "region": "china",
    "philosophers": 11,
-   "concepts": 11,
+   "concepts": 12,
    "debates": 3,
    "philosophers_slot": "8 上限，余 -3"
   },
@@ -48,7 +48,7 @@
    "title": "隋唐佛学",
    "region": "china",
    "philosophers": 12,
-   "concepts": 12,
+   "concepts": 13,
    "debates": 3,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -57,7 +57,7 @@
    "title": "魏晋玄学",
    "region": "china",
    "philosophers": 12,
-   "concepts": 11,
+   "concepts": 13,
    "debates": 3,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -66,7 +66,7 @@
    "title": "先秦诸子",
    "region": "china",
    "philosophers": 12,
-   "concepts": 11,
+   "concepts": 12,
    "debates": 3,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -75,7 +75,7 @@
    "title": "19世纪哲学",
    "region": "west",
    "philosophers": 14,
-   "concepts": 11,
+   "concepts": 13,
    "debates": 3,
    "philosophers_slot": "8 上限，余 -6"
   },
@@ -84,7 +84,7 @@
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
    "philosophers": 17,
-   "concepts": 11,
+   "concepts": 13,
    "debates": 3,
    "philosophers_slot": "8 上限，余 -9"
   },
@@ -93,7 +93,7 @@
    "title": "古希腊哲学",
    "region": "west",
    "philosophers": 19,
-   "concepts": 11,
+   "concepts": 12,
    "debates": 3,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -102,7 +102,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 10,
-   "concepts": 10,
+   "concepts": 12,
    "debates": 3,
    "philosophers_slot": "8 上限，余 -2"
   },
@@ -111,7 +111,7 @@
    "title": "德国古典哲学",
    "region": "west",
    "philosophers": 9,
-   "concepts": 12,
+   "concepts": 14,
    "debates": 3,
    "philosophers_slot": "8 上限，余 -1"
   },
@@ -120,7 +120,7 @@
    "title": "希腊化与罗马哲学",
    "region": "west",
    "philosophers": 15,
-   "concepts": 11,
+   "concepts": 12,
    "debates": 3,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -129,7 +129,7 @@
    "title": "中世纪经院哲学",
    "region": "west",
    "philosophers": 17,
-   "concepts": 11,
+   "concepts": 13,
    "debates": 3,
    "philosophers_slot": "8 上限，余 -9"
   },
@@ -138,7 +138,7 @@
    "title": "近代理性论与经验论",
    "region": "west",
    "philosophers": 23,
-   "concepts": 11,
+   "concepts": 12,
    "debates": 3,
    "philosophers_slot": "8 上限，余 -15"
   }
@@ -654,6 +654,17 @@
    "id": "cn-qingmod-lizaiqizhong",
    "type": "concept",
    "title": "理在气中",
+   "container": "cn-qingmod",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-yinyang",
+   "type": "concept",
+   "title": "阴阳",
    "container": "cn-qingmod",
    "level": "L2",
    "sources": 3,
@@ -1267,6 +1278,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-suitang-zhiguan",
+   "type": "concept",
+   "title": "止观",
+   "container": "cn-suitang",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-suitang-dunjian",
    "type": "debate",
    "title": "顿悟与渐修",
@@ -1553,6 +1575,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-weijin-qingtan",
+   "type": "concept",
+   "title": "清谈",
+   "container": "cn-weijin",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-xuanxue",
+   "type": "concept",
+   "title": "玄学",
+   "container": "cn-weijin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-weijin-mingjiao-ziran-zheng",
    "type": "debate",
    "title": "名教与自然是否相容",
@@ -1835,6 +1879,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-zhongyong",
+   "type": "concept",
+   "title": "中庸",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -2139,6 +2194,28 @@
    "id": "gr-19c-absurd",
    "type": "concept",
    "title": "荒诞",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-19c-dialectic-marx",
+   "type": "concept",
+   "title": "辩证法（马克思）",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-19c-genius",
+   "type": "concept",
+   "title": "天才",
    "container": "gr-19c",
    "level": "L2",
    "sources": 2,
@@ -2480,6 +2557,28 @@
    "id": "gr-20c-being-toward-death",
    "type": "concept",
    "title": "向死存在",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-lifeworld",
+   "type": "concept",
+   "title": "生活世界",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-ontology-of-art",
+   "type": "concept",
+   "title": "艺术真理",
    "container": "gr-20c",
    "level": "L2",
    "sources": 2,
@@ -2851,6 +2950,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-ancient-nous",
+   "type": "concept",
+   "title": "努斯",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-ancient-flux-vs-being",
    "type": "debate",
    "title": "流变还是不变：赫拉克利特与巴门尼德",
@@ -3096,6 +3206,28 @@
    "id": "gr-contemp-recognition",
    "type": "concept",
    "title": "承认",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-contemp-reflective",
+   "type": "concept",
+   "title": "反思平衡",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-contemp-biopower",
+   "type": "concept",
+   "title": "生命权力",
    "container": "gr-contemp",
    "level": "L2",
    "sources": 2,
@@ -3360,6 +3492,28 @@
    "id": "gr-german-irony",
    "type": "concept",
    "title": "反讽",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-german-aufklaerung",
+   "type": "concept",
+   "title": "启蒙",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-german-bildung",
+   "type": "concept",
+   "title": "教化（教养）",
    "container": "gr-german",
    "level": "L2",
    "sources": 2,
@@ -3679,6 +3833,17 @@
    "id": "gr-hellenistic-oikeiosis",
    "type": "concept",
    "title": "亲缘化",
+   "container": "gr-hellenistic",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-hellenistic-apatheia",
+   "type": "concept",
+   "title": "不动心（无扰）",
    "container": "gr-hellenistic",
    "level": "L2",
    "sources": 2,
@@ -4024,6 +4189,28 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-species",
+   "type": "concept",
+   "title": "种与属",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-sacrament",
+   "type": "concept",
+   "title": "圣事",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -4427,6 +4614,17 @@
    "id": "gr-modern-evil-demon",
    "type": "concept",
    "title": "恶魔假设",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-conatus",
+   "type": "concept",
+   "title": "努力（自存努力）",
    "container": "gr-modern",
    "level": "L2",
    "sources": 2,

@@ -2278,6 +2278,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-yinyang",
+   "term": "阴阳",
+   "term_latin": "yin-yang",
+   "definition": "中国哲学最基本的范畴对：阴阳原指日光的向背，后抽象为一切对立而又互补的力量（动静、刚柔、寒暑）。宋明以后成为解释宇宙、身体与政治的通用语汇。",
+   "usages": [
+    {
+     "name": "张载",
+     "usage": "“一物两体，气也”：阴阳是气自身的对待。"
+    },
+    {
+     "name": "王夫之",
+     "id": "cn-qingmod-wang-fuzhi",
+     "usage": "“阴阳者，气之二体”：阴阳非二物，而是气的两方面。"
+    },
+    {
+     "name": "董仲舒",
+     "usage": "以阴阳配刑德，使宇宙论服务于政治伦理。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-lizaiqizhong"
+   ],
+   "example": {
+    "text": "《易·系辞》说“一阴一阳之谓道”，王夫之解为“阴阳之外无道”：道不是阴阳之上的另一个东西，而是阴阳往来的秩序本身——这与其气本论一致。",
+    "figure": "王夫之",
+    "locator": "《周易外传》卷五"
+   },
+   "sources": [
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook",
+    "ct-chunqiufanlu"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [
