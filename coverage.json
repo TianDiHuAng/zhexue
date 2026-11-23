@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 680,
+  "entries": 685,
   "by_level": {
-   "L2": 576,
-   "L1": 104
+   "L2": 580,
+   "L1": 105
   },
   "doctrine": {
    "total": 217,
    "detail": 217,
    "auto": 0
   },
-  "needs_verification": 104,
+  "needs_verification": 105,
   "sources": 320,
   "sources_verified": 316
  },
@@ -6360,6 +6360,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-treatise-emendation",
+   "type": "work",
+   "title": "《知性改进论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-two-treatises",
    "type": "work",
    "title": "《政府论》两篇",
@@ -6426,9 +6437,31 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-persian-letters",
+   "type": "work",
+   "title": "《波斯人信札》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-new-science",
    "type": "work",
    "title": "《新科学》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-philosophical-letters",
+   "type": "work",
+   "title": "《哲学通信》",
    "container": "west",
    "level": "L2",
    "sources": 2,
@@ -6466,6 +6499,17 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-discourse-sciences-arts",
+   "type": "work",
+   "title": "《论科学与艺术》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -6660,6 +6704,17 @@
    "id": "work-religion-hegel",
    "type": "work",
    "title": "《宗教哲学讲演录》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-history-of-philosophy-hegel",
+   "type": "work",
+   "title": "《哲学史讲演录》",
    "container": "west",
    "level": "L1",
    "sources": 2,

@@ -4685,6 +4685,62 @@
    "sort_year": 1677
   },
   {
+   "id": "work-treatise-emendation",
+   "title": "《知性改进论》",
+   "title_original": "Tractatus de intellectus emendatione",
+   "tradition": "west",
+   "date_display": "1677年（遗著，未完成）",
+   "structure": "未完成的稿本；先论人生的最高善与真善的区分，再论认识的不同种类，末论“改进知性”的方法与工具。",
+   "core_arguments": [
+    "须先确定最高善（对神的认识与爱），再改进知性以达成之",
+    "区分四种认识：传闻、模糊经验、推理、直观（scientia intuitiva）",
+    "方法即“真观念”自身：以真观念为规范来审查与产生观念，如以锤造锤"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "最高善与真善的区分"
+    },
+    {
+     "locator": "中段",
+     "point": "四种认识的等级"
+    },
+    {
+     "locator": "后段",
+     "point": "方法作为“真观念”的自我规范"
+    },
+    {
+     "locator": "末段（未完成）",
+     "point": "从真观念推演的计划"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《知性改进论》；Gebhardt 拉丁文本"
+   ],
+   "related_people": [
+    "gr-modern-spinoza",
+    "gr-modern-descartes",
+    "gr-modern-leibniz"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《伦理学》的早期草稿",
+     "why": "二者主题相关但结构不同：《知性改进论》专论方法与认识等级，且未完成。"
+    },
+    {
+     "claim": "斯宾诺莎的方法是纯演绎的",
+     "why": "他主张方法即真观念自身的规范作用，含“反思”的环节，不是从公理单向演绎。"
+    }
+   ],
+   "sources": [
+    "sep-spinoza",
+    "ws-spinoza-ethica"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1677
+  },
+  {
    "id": "work-two-treatises",
    "title": "《政府论》两篇",
    "title_original": "Two Treatises of Government",
@@ -5020,6 +5076,62 @@
    "sort_year": 1714
   },
   {
+   "id": "work-persian-letters",
+   "title": "《波斯人信札》",
+   "title_original": "Lettres persanes",
+   "tradition": "west",
+   "date_display": "1721年（匿名出版）",
+   "structure": "一百六十一封信；以两位波斯旅人（郁斯贝克、黎伽）在巴黎的通信构成，穿插后房（seraglio）的内部故事。",
+   "core_arguments": [
+    "以异乡人的眼光审视法国的风俗、宗教、政治与学术，使“理所当然”显为偶然",
+    "对专制与迷信的讽刺：教宗、君主、学士院皆在讽刺之列",
+    "后房故事是政治寓言：专制主人的猜忌与后房的崩解对应专制政体的内在不稳定"
+   ],
+   "key_points": [
+    {
+     "locator": "第11—14封",
+     "point": "穴居人的寓言（正义与自利）"
+    },
+    {
+     "locator": "第24封",
+     "point": "教宗与君主的讽刺"
+    },
+    {
+     "locator": "第76—80封",
+     "point": "对法国政治与社会的批评"
+    },
+    {
+     "locator": "后房故事",
+     "point": "专制与猜忌的政治寓言"
+    }
+   ],
+   "editions": [
+    "中译参人民文学出版社《波斯人信札》；GF-Flammarion 法文本"
+   ],
+   "related_people": [
+    "gr-modern-montesquieu",
+    "gr-modern-voltaire",
+    "gr-modern-rousseau"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是游记体的讽刺小品",
+     "why": "其中对政体原则（专制靠恐惧、君主靠荣誉、共和靠德性）的讨论，是《论法的精神》的雏形。"
+    },
+    {
+     "claim": "后房故事与政治无关",
+     "why": "多数研究者视其为专制政体的寓言：主人的猜忌与后房的崩溃互为镜像。"
+    }
+   ],
+   "sources": [
+    "sep-montesquieu",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1721
+  },
+  {
    "id": "work-new-science",
    "title": "《新科学》",
    "title_original": "Principi di una scienza nuova",
@@ -5074,6 +5186,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1725
+  },
+  {
+   "id": "work-philosophical-letters",
+   "title": "《哲学通信》",
+   "title_original": "Lettres philosophiques（Lettres anglaises）",
+   "tradition": "west",
+   "date_display": "1734年（法文版；1733年英文版）",
+   "structure": "二十五封信；论英国的宗教派别、议会、商业、培根、洛克、牛顿、蒲柏与悲剧，末几封论帕斯卡。",
+   "core_arguments": [
+    "以英国的实践（宗教宽容、商业与议会）对比法国的专制与迷信",
+    "洛克的认识论与牛顿的物理被呈现为“可用的哲学”，取代笛卡尔的体系",
+    "末段对帕斯卡的批评：把人的悲惨当作信仰的论据是不可接受的"
+   ],
+   "key_points": [
+    {
+     "locator": "第1—7封",
+     "point": "英国的宗教派别与宽容"
+    },
+    {
+     "locator": "第12—13封",
+     "point": "洛克与牛顿"
+    },
+    {
+     "locator": "第14封",
+     "point": "对帕斯卡的批评"
+    },
+    {
+     "locator": "第10封",
+     "point": "商业与自由的关系"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《哲学通信》；Voltaire Foundation 版"
+   ],
+   "related_people": [
+    "gr-modern-voltaire",
+    "gr-modern-locke",
+    "gr-modern-pascal"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是客观的英国见闻录",
+     "why": "它是论战性的著作：以英国为镜批评法国，其选择与评价都有明确立场；出版后即在法国被查禁。"
+    },
+    {
+     "claim": "伏尔泰在此主张无神论",
+     "why": "他是自然神论者（“钟表匠”之神），批评的是启示宗教与教会，不是一切宗教。"
+    }
+   ],
+   "sources": [
+    "sep-voltaire",
+    "sep-locke"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1734
   },
   {
    "id": "work-treatise-human-nature",
@@ -5247,6 +5415,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1748
+  },
+  {
+   "id": "work-discourse-sciences-arts",
+   "title": "《论科学与艺术》",
+   "title_original": "Discours sur les sciences et les arts（第一论）",
+   "tradition": "west",
+   "date_display": "1750年",
+   "structure": "两部分：第一部分论科学与艺术是否使人更道德；第二部分以历史例证（埃及、希腊、罗马、中国）论学术的腐化作用。",
+   "core_arguments": [
+    "科学与艺术的复兴并未净化风俗，反而伴随腐化的加剧",
+    "学问出于虚荣与闲暇，而非德性；故“我们有学者，却少了公民”",
+    "以斯巴达与罗马早期的质朴对比近代的浮华"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "学问与德性的背反"
+    },
+    {
+     "locator": "第一部分",
+     "point": "“我们的灵魂随学术而腐化”的论点"
+    },
+    {
+     "locator": "第二部分",
+     "point": "历史例证（含对中国的评价）"
+    },
+    {
+     "locator": "结论",
+     "point": "重返质朴的呼吁"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《论科学与艺术》；GF-Flammarion 法文本"
+   ],
+   "related_people": [
+    "gr-modern-rousseau",
+    "gr-modern-voltaire",
+    "gr-modern-voltaire"
+   ],
+   "misreadings": [
+    {
+     "claim": "卢梭主张回到原始状态、反对一切学问",
+     "why": "他反对的是以学问代替德性、以虚荣驱动的学术；他本人终身著述并抄乐谱为生。“回到自然”是规范性的批判视角，不是历史建议。"
+    },
+    {
+     "claim": "此文使他一举成名并因此与启蒙派决裂",
+     "why": "它确实使他成名，但与百科全书派的裂痕是逐步形成的（《致达朗贝的信》《社会契约论》之后）。"
+    }
+   ],
+   "sources": [
+    "sep-rousseau",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1750
   },
   {
    "id": "work-discourse-inequality",
@@ -6266,6 +6490,62 @@
    "needs_verification": true,
    "pending_notes": "《宗教哲学讲演录》为遗著，由编者（马海内克等）据多种讲演笔记整理，不同版本的结构与内容有显著出入；本页依通行结构概述，具体表述须核 GW 版。",
    "sort_year": 1832
+  },
+  {
+   "id": "work-history-of-philosophy-hegel",
+   "title": "《哲学史讲演录》",
+   "title_original": "Vorlesungen über die Geschichte der Philosophie",
+   "tradition": "west",
+   "date_display": "1833—1836年（遗著，据讲演整理）",
+   "structure": "导论＋三部分：希腊哲学、中世纪哲学（含阿拉伯与经院）、近代哲学（从培根、笛卡尔到德国唯心论）。",
+   "core_arguments": [
+    "哲学史是“思想自身的发展”：后起的体系扬弃先前的体系，不是彼此驳倒的杂陈",
+    "哲学史与世界史同步：精神的自由意识在哲学中达到自觉",
+    "东方哲学（中国、印度）被置于“前史”，是精神尚未达到自觉的阶段"
+   ],
+   "key_points": [
+    {
+     "locator": "导论",
+     "point": "哲学史作为思想自身发展的论证"
+    },
+    {
+     "locator": "导论",
+     "point": "对“哲学史是错误之堆积”的反驳"
+    },
+    {
+     "locator": "希腊部分",
+     "point": "从泰勒斯到新柏拉图主义"
+    },
+    {
+     "locator": "近代部分",
+     "point": "从笛卡尔到德国唯心论"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《哲学史讲演录》（贺麟、王太庆译）；Suhrkamp 版（第18—20卷）"
+   ],
+   "related_people": [
+    "gr-german-hegel",
+    "gr-ancient-aristotle",
+    "gr-modern-descartes"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是中立的哲学史著作",
+     "why": "它是一部哲学的哲学史：每一阶段都被安排在“精神自我认识”的必然序列中，评价标准是黑格尔自己的体系。"
+    },
+    {
+     "claim": "黑格尔对中国哲学的评价是准确的学术判断",
+     "why": "他依据的汉籍材料极为有限（主要经由传教士译述），其“东方无哲学”的判断今天看来是资料限制与欧洲中心论的产物。"
+    }
+   ],
+   "sources": [
+    "sep-hegel",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《哲学史讲演录》为遗著，由米希勒（K. L. Michelet）据多种讲演笔记整理；对中国与印度哲学的处理所依据的材料极有限，其评价不应作为学术结论引用。",
+   "sort_year": 1833
   },
   {
    "id": "work-aesthetics-hegel",
