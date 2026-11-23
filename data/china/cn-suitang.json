@@ -2253,6 +2253,45 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-xingju",
+   "term": "性具",
+   "term_latin": "inherent inclusion",
+   "definition": "天台宗的核心命题（湛然“无情有性”之说的理论基础）：性（佛性）本具善恶、本具十法界，故一切法皆性所本具，不需另有外来的“缘”来补足。它与华严的“性起”相对。",
+   "usages": [
+    {
+     "name": "智顗",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以“一念三千”说明性具：一念之中具足十界三千。"
+    },
+    {
+     "name": "湛然",
+     "id": "cn-suitang-zhanran",
+     "usage": "“无情有性”：既云性具，则草木瓦石亦具。"
+    },
+    {
+     "name": "法藏（华严，对照）",
+     "id": "cn-suitang-fazang",
+     "usage": "以“性起”为说：一切法由真如随缘而起，与“性具”不同。"
+    }
+   ],
+   "related": [
+    "cn-suitang-yiniansanqian",
+    "cn-suitang-foxing"
+   ],
+   "example": {
+    "text": "“性具”与“性起”的差别在工夫论上有后果：若性具，则修行的重点是“显”而非“生”（本已具足，只须去除遮蔽）；若性起，则须说明真如如何随缘生起诸法。天台与华严的分判在此。",
+    "figure": "湛然",
+    "locator": "《金刚錍》"
+   },
+   "sources": [
+    "ws-mohezhiguan",
+    "book-chan-sourcebook",
+    "sep-madhyamaka"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“性具”一词的确切用法在智顗与湛然之间有所发展（智顗多用“一念三千”，湛然以“性具”立说）；本页并述其义，具体文本须核《摩诃止观》与《金刚錍》。"
   }
  ],
  "debates": [

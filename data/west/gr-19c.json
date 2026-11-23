@@ -2887,6 +2887,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-19c-last-man",
+   "term": "末人",
+   "term_latin": "der letzte Mensch",
+   "definition": "尼采《查拉图斯特拉如是说》序言中的形象：满足于舒适、健康与安全的“最后的人”，他们不再有渴望、不再冒风险，只求“幸福”。“我们发明了幸福”——他们这样说，然后眨眼。",
+   "usages": [
+    {
+     "name": "尼采",
+     "id": "gr-19c-nietzsche",
+     "usage": "末人是群畜道德的产物：以舒适与平等取代卓越与冒险。"
+    },
+    {
+     "name": "密尔（对照）",
+     "id": "gr-19c-mill",
+     "usage": "以“最大幸福”为标准，被尼采视为末人理想的哲学表达。"
+    },
+    {
+     "name": "克尔凯郭尔（平行）",
+     "id": "gr-19c-kierkegaard",
+     "usage": "以“公众”的匿名性批判同一现象（无人承担、无人冒险）。"
+    }
+   ],
+   "related": [
+    "gr-19c-herd",
+    "gr-19c-nihilism"
+   ],
+   "example": {
+    "text": "“末人”的修辞要害在“眨眼”这个动作：它是一种自我满足的、无话可说的状态——不是恶，而是**不再有值得为之受苦的东西**。故尼采的批评不是道德谴责，而是对一种生命形态的诊断。",
+    "figure": "尼采",
+    "locator": "《查拉图斯特拉如是说》序言 §5"
+   },
+   "sources": [
+    "sep-nietzsche",
+    "iep-nietzsche"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

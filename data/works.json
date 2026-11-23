@@ -3889,6 +3889,59 @@
    "sort_year": 830
   },
   {
+   "id": "work-jinchuan",
+   "title": "《金刚錍》",
+   "title_original": "金剛錍",
+   "tradition": "china",
+   "date_display": "约公元9世纪（湛然）",
+   "structure": "一卷；以“金刚錍”（眼科手术用的金针）为喻，论“无情有性”：若佛性遍一切处，则草木瓦石亦有性。",
+   "core_arguments": [
+    "性具：佛性本具一切法，故不隔无情",
+    "若无情无性，则佛性不遍，与“色心不二”相违",
+    "以“真如随缘”说明无情之物亦由真如所起"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "“金刚錍”之喻（去翳见性）"
+    },
+    {
+     "locator": "中段",
+     "point": "色心不二与无情有性"
+    },
+    {
+     "locator": "后段",
+     "point": "对唯识与华严的批评"
+    }
+   ],
+   "editions": [
+    "《大正藏》第46卷；《金刚錍》单行本"
+   ],
+   "related_people": [
+    "cn-suitang-zhanran",
+    "cn-suitang-zhiyi",
+    "cn-suitang-fazang"
+   ],
+   "misreadings": [
+    {
+     "claim": "“无情有性”即万物有灵魂",
+     "why": "它主张无情之物以真如为性，不是说草木有独立的心识与轮回主体。"
+    },
+    {
+     "claim": "它是天台对抗华严的政治论辩",
+     "why": "它有宗派论辩的背景，但其论证核心是“色心不二”与“性具”的义理问题。"
+    }
+   ],
+   "sources": [
+    "ws-mohezhiguan",
+    "book-chan-sourcebook",
+    "sep-madhyamaka"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《金刚錍》的成书年代与作者（湛然）基本无疑，但其“无情有性”的确切含义（是“真如为性”还是“本具三千”）学界有讨论；本页依天台宗文献与哲学史研究概述。",
+   "sort_year": 850
+  },
+  {
    "id": "work-taiji-tushuo",
    "title": "《太极图说》",
    "title_original": "太極圖說",

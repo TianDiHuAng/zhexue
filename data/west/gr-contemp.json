@@ -2113,6 +2113,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-public-reason-idea",
+   "term": "公共理性",
+   "term_latin": "public reason",
+   "definition": "罗尔斯后期概念：公民在讨论宪政根本问题与基本正义时应当使用的理性——其理由须是所有公民都能合理接受的。它与“私人”或“背景文化”的理由相对。",
+   "usages": [
+    {
+     "name": "罗尔斯",
+     "id": "gr-contemp-rawls",
+     "usage": "公共理性的内容是“政治性”的：不依赖任何整全性学说。"
+    },
+    {
+     "name": "哈贝马斯（改造）",
+     "id": "gr-contemp-habermas",
+     "usage": "以交往理性的程序取代内容限制：关键是论证的程序是否可普遍接受。"
+    },
+    {
+     "name": "宗教理由的争论（对照）",
+     "usage": "宗教理由是否须翻译成世俗理由才能进入公共讨论（罗尔斯较严、哈贝马斯较宽）。"
+    }
+   ],
+   "related": [
+    "gr-contemp-overlapping-consensus",
+    "gr-contemp-reflective"
+   ],
+   "example": {
+    "text": "公共理性的限制是**自我施加**的：它不是法律审查，而是公民在公共讨论中对自己理由的约束。这一点常被误解为“禁止宗教言论”——罗尔斯明确说它不限制背景文化中的宗教言说。",
+    "figure": "罗尔斯",
+    "locator": "《政治自由主义》讲演六"
+   },
+   "sources": [
+    "sep-rawls",
+    "iep-rawls",
+    "sep-habermas"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

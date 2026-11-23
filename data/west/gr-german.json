@@ -2038,6 +2038,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-german-cunning-reason",
+   "term": "理性的狡计",
+   "term_latin": "List der Vernunft",
+   "definition": "黑格尔的历史哲学概念：历史通过个人的激情、私利与野心（“特殊性”）来实现普遍的目的；个人以为在追求自己的目标，实际上在执行理性的计划。",
+   "usages": [
+    {
+     "name": "黑格尔",
+     "id": "gr-german-hegel",
+     "usage": "“特殊的东西”相互抵消，而普遍的东西从中产生。"
+    },
+    {
+     "name": "康德（对照）",
+     "id": "gr-german-kant",
+     "usage": "以“非社会的社会性”说明冲突如何促成秩序（黑格尔的先声）。"
+    },
+    {
+     "name": "马克思（改造）",
+     "usage": "以阶级与生产的矛盾取代“理性的计划”：历史的主体不是理性而是生产方式。"
+    }
+   ],
+   "related": [
+    "gr-german-absolute-spirit",
+    "gr-german-dialectic"
+   ],
+   "example": {
+    "text": "“狡计”说有一个难处：若历史终归实现理性的目的，则历史的苦难（战争、暴政）如何被评价？黑格尔的答案是“世界历史不是幸福的土壤”——这一回答被20世纪的批评者视为对苦难的合理化。",
+    "figure": "黑格尔",
+    "locator": "《历史哲学讲演录》导论"
+   },
+   "sources": [
+    "sep-hegel",
+    "sep-kant",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

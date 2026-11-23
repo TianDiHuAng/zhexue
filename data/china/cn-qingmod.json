@@ -2976,6 +2976,45 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-shishi-qiushi",
+   "term": "实事求是",
+   "term_latin": "seeking truth from facts",
+   "definition": "清代考据学的学风纲领（阮元等标举）：以证据定是非，不以家法或权威定是非。它后来被赋予更广的方法论含义（从文献考据到一般的求实态度）。",
+   "usages": [
+    {
+     "name": "阮元",
+     "id": "cn-qingmod-ruan-yuan",
+     "usage": "以“实事求是”为学风，不立汉宋门户。"
+    },
+    {
+     "name": "戴震",
+     "id": "cn-qingmod-dai-zhen",
+     "usage": "以“实事求是”标举考据学风：以证据定是非，不立汉宋门户。"
+    },
+    {
+     "name": "章学诚（批评者）",
+     "id": "cn-qingmod-zhang-xuecheng",
+     "usage": "以“史意”补其碎：考据若无贯通之识，则碎而不通。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-kaoju",
+    "cn-qingmod-liujing-jieshi"
+   ],
+   "example": {
+    "text": "“实事求是”原出《汉书·河间献王传》（“修学好古，实事求是”），本指好古而求实证；清代学者借以标举考据的学风。注意它与现代“从实际出发”的用法有语义滑动。",
+    "figure": "阮元",
+    "locator": "《揅经室集》"
+   },
+   "sources": [
+    "ws-yanjingshi",
+    "ws-wenshi-tongyi",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“实事求是”的语源（《汉书·河间献王传》）与其在清代的用法、以及现代语义，三者不完全重合；本页分述其层次。"
   }
  ],
  "debates": [

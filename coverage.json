@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 813,
+  "entries": 820,
   "by_level": {
-   "L2": 670,
-   "L1": 143
+   "L2": 674,
+   "L1": 146
   },
   "doctrine": {
    "total": 229,
    "detail": 229,
    "auto": 0
   },
-  "needs_verification": 143,
+  "needs_verification": 146,
   "sources": 355,
   "sources_verified": 355
  },
@@ -30,7 +30,7 @@
    "title": "清代与近代转型",
    "region": "china",
    "philosophers": 15,
-   "concepts": 15,
+   "concepts": 16,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -48,7 +48,7 @@
    "title": "隋唐佛学",
    "region": "china",
    "philosophers": 12,
-   "concepts": 14,
+   "concepts": 15,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -75,7 +75,7 @@
    "title": "19世纪哲学",
    "region": "west",
    "philosophers": 16,
-   "concepts": 15,
+   "concepts": 16,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -8"
   },
@@ -102,7 +102,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 10,
-   "concepts": 15,
+   "concepts": 16,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -2"
   },
@@ -111,7 +111,7 @@
    "title": "德国古典哲学",
    "region": "west",
    "philosophers": 9,
-   "concepts": 16,
+   "concepts": 17,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -1"
   },
@@ -120,7 +120,7 @@
    "title": "希腊化与罗马哲学",
    "region": "west",
    "philosophers": 15,
-   "concepts": 16,
+   "concepts": 17,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -912,6 +912,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-shishi-qiushi",
+   "type": "concept",
+   "title": "实事求是",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -1759,6 +1770,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-suitang-xingju",
+   "type": "concept",
+   "title": "性具",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -2953,6 +2975,17 @@
    "id": "gr-19c-herd",
    "type": "concept",
    "title": "群畜",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-19c-last-man",
+   "type": "concept",
+   "title": "末人",
    "container": "gr-19c",
    "level": "L2",
    "sources": 2,
@@ -4314,6 +4347,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-contemp-public-reason-idea",
+   "type": "concept",
+   "title": "公共理性",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-contemp-justice-criterion",
    "type": "debate",
    "title": "分配正义应以什么为标准",
@@ -4673,6 +4717,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-german-cunning-reason",
+   "type": "concept",
+   "title": "理性的狡计",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -5098,6 +5153,17 @@
    "id": "gr-hellenistic-atoms-void",
    "type": "concept",
    "title": "原子与虚空",
+   "container": "gr-hellenistic",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-hellenistic-adiaphora",
+   "type": "concept",
+   "title": "无关紧要者",
    "container": "gr-hellenistic",
    "level": "L2",
    "sources": 3,
@@ -7050,6 +7116,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-jinchuan",
+   "type": "work",
+   "title": "《金刚錍》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

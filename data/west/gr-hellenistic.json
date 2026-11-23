@@ -2809,6 +2809,45 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-adiaphora",
+   "term": "无关紧要者",
+   "term_latin": "adiaphora（indifferents）",
+   "definition": "斯多亚的价值分类：德性与恶是唯一的善与恶，其余（健康、财富、生命、名誉）皆为“无关紧要者”。其中有些“合于自然”故可取（preferred），有些则不可取，但它们不决定幸福。",
+   "usages": [
+    {
+     "name": "芝诺与克吕西波",
+     "id": "gr-hellenistic-zeno",
+     "usage": "健康、财富等为“可取的无紧要者”：可选择，但不构成幸福。"
+    },
+    {
+     "name": "塞涅卡",
+     "id": "gr-hellenistic-seneca",
+     "usage": "以“无关紧要者”说明智者为何能富有而不被财富支配。"
+    },
+    {
+     "name": "伊壁鸠鲁（对照）",
+     "id": "gr-hellenistic-epicurus",
+     "usage": "以快乐与痛苦为判准，故健康等不是“无关紧要”，而是有实值的。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-sage",
+    "gr-hellenistic-oikeiosis"
+   ],
+   "example": {
+    "text": "这一分类解决了斯多亚的难题：若只有德性是善，则健康与生命也无价值，生活无从选择；若健康有价值，则德性不是唯一的善。答案是“可取的无紧要者”——它们有选择的理由，但不构成幸福的条件。",
+    "figure": "克吕西波",
+    "locator": "据《斯多亚学派残篇》（SVF）"
+   },
+   "sources": [
+    "sep-stoicism",
+    "iep-stoicism",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [
