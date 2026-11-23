@@ -7209,6 +7209,63 @@
    "sort_year": 550
   },
   {
+   "id": "work-fahua-xuanyi",
+   "title": "《法华玄义》",
+   "title_original": "法華玄義",
+   "tradition": "china",
+   "date_display": "约593年（智顗讲述，灌顶记录）",
+   "structure": "十卷；以“五重玄义”（释名、辨体、明宗、论用、判教）通释《法华经》经题，并展开“十如是”“一念三千”等说。",
+   "core_arguments": [
+    "以“五重玄义”释经题：名、体、宗、用、教相",
+    "“一念三千”：一念之中具足十法界三世間",
+    "“五时八教”的判教：以《法华》为纯圆"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—卷二",
+     "point": "释名与“妙法莲华”的解"
+    },
+    {
+     "locator": "卷二",
+     "point": "十如是与十法界"
+    },
+    {
+     "locator": "卷三",
+     "point": "一念三千"
+    },
+    {
+     "locator": "卷十",
+     "point": "判教与五时八教"
+    }
+   ],
+   "editions": [
+    "《大正藏》第33卷；中华书局《法华玄义校释》（若有）"
+   ],
+   "related_people": [
+    "cn-suitang-zhiyi",
+    "cn-suitang-fazang",
+    "cn-suitang-xuanzang"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《法华经》的逐句注释",
+     "why": "它释的是**经题**（“妙法莲华经”五字），并由此展开整个教观体系；逐句注释见《法华文句》。"
+    },
+    {
+     "claim": "“一念三千”是“一念之中有三千个世界”的字面计数",
+     "why": "它是**具足**的结构说：一念具足十法界三世間的全部关系，不是空间上的容器计数。"
+    }
+   ],
+   "sources": [
+    "ws-mohezhiguan",
+    "ws-huayan-jinshizi",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《法华玄义》为智顗讲述、灌顶记录，其文本经后世增订；各本（大正藏本与通行本）的卷次与文字有差异，须核校释本。",
+   "sort_year": 593
+  },
+  {
    "id": "work-mohe-zhiguan",
    "title": "《摩诃止观》",
    "title_original": "摩訶止觀",
@@ -7433,6 +7490,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 690
+  },
+  {
+   "id": "work-wujiao-zhang",
+   "title": "《华严五教章》",
+   "title_original": "華嚴五教章",
+   "tradition": "china",
+   "date_display": "约7世纪末（法藏）",
+   "structure": "四卷（十门）：教起前后、判教、教所被机、教诠差别、所诠差别、教所成益等。",
+   "core_arguments": [
+    "五教判释：小乘教、大乘始教、终教、顿教、圆教（《华严》为别教一乘）",
+    "十宗的分判",
+    "以“法界缘起”为华严的核心教理"
+   ],
+   "key_points": [
+    {
+     "locator": "第一门",
+     "point": "教起前后与判教的必要"
+    },
+    {
+     "locator": "第三门",
+     "point": "五教的判释"
+    },
+    {
+     "locator": "第四门",
+     "point": "十宗"
+    },
+    {
+     "locator": "第五门",
+     "point": "法界缘起与六相十玄"
+    }
+   ],
+   "editions": [
+    "《大正藏》第45卷；方立天《华严金师子章校释》可参"
+   ],
+   "related_people": [
+    "cn-suitang-fazang",
+    "cn-suitang-zhiyi",
+    "cn-suitang-zongmi"
+   ],
+   "misreadings": [
+    {
+     "claim": "“五教”是五个历史阶段",
+     "why": "它是**教理的判释**（依教义的深浅与圆满程度），不是时间顺序；与天台的“五时”（时间顺序）不同。"
+    },
+    {
+     "claim": "《五教章》与《金师子章》内容重复",
+     "why": "前者是教义的**系统判释**（含判教、十宗），后者是对武则天的**纲要式说法**（十门浓缩）；层次与用途不同。"
+    }
+   ],
+   "sources": [
+    "ws-huayan-jinshizi",
+    "ws-mohezhiguan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《华严五教章》的卷数与分门在各本间有出入（三卷本与四卷本），其与《华严一乘教义分齐章》的关系须核。",
    "sort_year": 690
   },
   {
@@ -7872,6 +7986,63 @@
     "ws-zhengmeng",
     "sep-chinese-metaphysics",
     "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1076
+  },
+  {
+   "id": "work-ximing",
+   "title": "《西铭》",
+   "title_original": "西銘",
+   "tradition": "china",
+   "date_display": "北宋（张载）；原为《正蒙·乾称篇》首段",
+   "structure": "一篇（二百五十余字）：以“乾称父，坤称母”开篇，以“民吾同胞，物吾与也”为核心，末以“存吾顺事，殁吾宁也”作结。",
+   "core_arguments": [
+    "以天地为父母：人在宇宙中的位置是“子”",
+    "“民吾同胞，物吾与也”：民为同胞、物为同类——故仁爱有其宇宙论的根据",
+    "“存吾顺事，殁吾宁也”：生死安于天理"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "“乾称父，坤称母”"
+    },
+    {
+     "locator": "中段",
+     "point": "“民吾同胞，物吾与也”"
+    },
+    {
+     "locator": "中段",
+     "point": "“大君者，吾父母宗子”"
+    },
+    {
+     "locator": "末段",
+     "point": "“存吾顺事，殁吾宁也”"
+    }
+   ],
+   "editions": [
+    "《张载集》（中华书局）；《正蒙·乾称篇》"
+   ],
+   "related_people": [
+    "cn-songming-zhang-zai",
+    "cn-songming-cheng-yi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《西铭》主张“兼爱”",
+     "why": "二程即辨其与墨家之别：墨家“兼爱”无差等，《西铭》以“理一分殊”保留差等（“大君者吾父母宗子”）。故其“同胞”是有序的同胞。"
+    },
+    {
+     "claim": "它只是一篇短文，无体系",
+     "why": "它以二百余字把宇宙论（乾坤）、伦理（同胞）、政治（宗子）与生死观串成一体；程朱皆视其为理学的纲领性文本。"
+    }
+   ],
+   "sources": [
+    "ws-taijitushuo",
+    "ws-xiangshan",
+    "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
    "pending_notes": "",
@@ -8775,6 +8946,63 @@
    "sort_year": 1265
   },
   {
+   "id": "work-zhuzi-yulei",
+   "title": "《朱子语类》",
+   "title_original": "朱子語類",
+   "tradition": "china",
+   "date_display": "南宋（朱熹讲学语录，黎靖德编于1270年）",
+   "structure": "一百四十卷：按主题分类（理气、鬼神、性理、学、大学、论语、孟子、老庄、释氏、本朝、历代、杂类、作文等）。",
+   "core_arguments": [
+    "理气论：理在气先（逻辑上）而非时间上",
+    "“格物穷理”：即物而穷其理，积累久而豁然贯通",
+    "对佛老的系统批评（尤其“作用是性”与“空”之辨）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "理气与太极"
+    },
+    {
+     "locator": "卷四",
+     "point": "性与心"
+    },
+    {
+     "locator": "卷十五",
+     "point": "格物穷理"
+    },
+    {
+     "locator": "卷一二六",
+     "point": "对释氏的批评"
+    }
+   ],
+   "editions": [
+    "中华书局《朱子语类》（王星贤点校）；黎靖德编本"
+   ],
+   "related_people": [
+    "cn-songming-zhu-xi",
+    "cn-songming-lu-jiuyuan",
+    "cn-songming-zhang-zai"
+   ],
+   "misreadings": [
+    {
+     "claim": "《语类》是朱熹亲笔",
+     "why": "它是**门人记录的语录**（九十七家），由黎靖德汇编；故其文字有口语、重复与记录者的偏差，须与朱熹的亲著（如《四书章句集注》）对读。"
+    },
+    {
+     "claim": "“理在气先”是时间上的先后",
+     "why": "朱熹明确说理气无时间先后（“本无先后之可言”），其“先”是**逻辑上**的（理为气之所以然）。"
+    }
+   ],
+   "sources": [
+    "ws-taijitushuo",
+    "ws-xiangshan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《朱子语类》为门人记录，各条有记录者与年代的差异，且与《朱文公文集》的亲著文字有出入；本页依黎靖德编本与中华书局点校本，具体条目须核。",
+   "sort_year": 1270
+  },
+  {
    "id": "work-tanjing",
    "title": "《六祖坛经》",
    "title_original": "六祖壇經（Platform Sutra）",
@@ -9111,6 +9339,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1520
+  },
+  {
+   "id": "work-daxuewen",
+   "title": "《大学问》",
+   "title_original": "大學問",
+   "tradition": "china",
+   "date_display": "约1527年（王阳明，门人钱德洪录）",
+   "structure": "一篇（问答体）：以“大人者，以天地万物为一体者也”开篇，依次释“明明德”“亲民”“止于至善”与八条目。",
+   "core_arguments": [
+    "“大人者，以天地万物为一体者也”：以“万物一体”为《大学》的纲领",
+    "“明明德”即“致良知”：明德即是良知",
+    "坚持“亲民”读法（非“新民”）：亲民即明明德的推扩"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "“万物一体”"
+    },
+    {
+     "locator": "释“明明德”",
+     "point": "明德即良知"
+    },
+    {
+     "locator": "释“亲民”",
+     "point": "不取“新民”之读"
+    },
+    {
+     "locator": "释八条目",
+     "point": "格致诚正以“致良知”贯之"
+    }
+   ],
+   "editions": [
+    "《王阳明全集》（上海古籍出版社）卷二十六；《传习录》下卷可参"
+   ],
+   "related_people": [
+    "cn-songming-wang-yangming",
+    "cn-songming-zhu-xi",
+    "cn-songming-wang-gen"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《大学》的注疏",
+     "why": "它是**以《大学》为框架的自家纲领**（万物一体、致良知），并非逐句训释；其与朱子《大学章句》的分歧正在“亲民／新民”与“格物”的解释。"
+    },
+    {
+     "claim": "“万物一体”是神秘主义的混同",
+     "why": "它以“良知”的感通说明一体（见孺子入井而恻隐），故一体是**道德的感通**，不是取消差别的混同。"
+    }
+   ],
+   "sources": [
+    "ws-chuanxi",
+    "ws-liji",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1527
   },
   {
    "id": "work-shenyan",

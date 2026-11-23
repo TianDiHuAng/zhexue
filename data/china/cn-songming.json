@@ -4012,6 +4012,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-mingde-qinmin",
+   "term": "明德亲民",
+   "term_latin": "illustrious virtue and renewing the people",
+   "definition": "《大学》三纲的前两项（“大学之道，在明明德，在亲民，在止于至善”）。朱熹改“亲民”为“新民”（使民更新）；王阳明坚持“亲民”读法（亲爱人民）。一字之改，导向两种政治哲学。",
+   "usages": [
+    {
+     "name": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "usage": "从程子读“亲”为“新”：新民，使民革故鼎新。"
+    },
+    {
+     "name": "王阳明",
+     "id": "cn-songming-wang-yangming",
+     "usage": "坚持“亲民”：亲之即仁之，故不须改字。"
+    },
+    {
+     "name": "王艮（泰州，其发挥）",
+     "id": "cn-songming-wang-gen",
+     "usage": "坚持“亲民”读法：亲之即仁之，故不须改字为“新”。"
+    }
+   ],
+   "related": [
+    "cn-songming-zhi-zhi"
+   ],
+   "example": {
+    "text": "这一字之争的实质是**教化与政治的关系**：若“新民”，则明德者（士／君）是教化者，民是被更新的对象；若“亲民”，则明德与亲民是同一件事的两面，教化者与被教化者的距离被缩短。故它不只是训诂问题。",
+    "figure": "王阳明",
+    "locator": "《大学问》；朱熹《大学章句》"
+   },
+   "sources": [
+    "ws-liji",
+    "ws-chuanxi",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

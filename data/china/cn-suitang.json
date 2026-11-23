@@ -3065,6 +3065,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“不增不减”在《起信论》（如来藏系统）与唯识（转依系统）中的表述不同；本页并述两系，具体文本须核各自原典。"
+  },
+  {
+   "id": "cn-suitang-shizhu",
+   "term": "十如是",
+   "term_latin": "the ten suchnesses",
+   "definition": "《法华经·方便品》的十项描述：如是相、性、体、力、作、因、缘、果、报、本末究竟等。智顗以“十如是”与“十法界”“三世間”相叠，构成“一念三千”的骨架。",
+   "usages": [
+    {
+     "name": "智顗",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以十如是释诸法实相：每一法皆具此十面。"
+    },
+    {
+     "name": "法藏（对照）",
+     "id": "cn-suitang-fazang",
+     "usage": "以“六相”说明同一圆融，与天台十如是的进路不同。"
+    },
+    {
+     "name": "《法华经》（原文）",
+     "usage": "“唯佛与佛乃能究尽诸法实相，所谓诸法如是相、如是性……”"
+    }
+   ],
+   "related": [
+    "cn-suitang-panjiao"
+   ],
+   "example": {
+    "text": "“十如是”的意义在于它把“实相”拆成十个可说的面向：不但说“是什么”（相、性、体），还说“如何运作”（力、作、因、缘）与“如何结果”（果、报）。故天台所谓的“实相”不是抽象本体，而是**一个过程的结构**。",
+    "figure": "智顗",
+    "locator": "《法华玄义》卷二"
+   },
+   "sources": [
+    "ws-mohezhiguan",
+    "ws-huayan-jinshizi",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“十如是”的句读在学界有不同读法（尤其“本末究竟等”一句），直接影响其解释；本页依《法华玄义》与天台研究概述，句读问题须核原典。"
   }
  ],
  "debates": [
