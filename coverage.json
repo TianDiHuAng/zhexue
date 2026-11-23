@@ -1,9 +1,9 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 630,
+  "entries": 631,
   "by_level": {
-   "L2": 537,
+   "L2": 538,
    "L1": 93
   },
   "doctrine": {
@@ -6599,6 +6599,17 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-self-other",
+   "type": "comparative",
+   "title": "他者问题：从“仁者爱人”到“他者之面”",
+   "container": "comparative",
+   "level": "L2",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
