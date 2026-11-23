@@ -2938,6 +2938,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-suwang",
+   "term": "素王",
+   "term_latin": "the uncrowned king",
+   "definition": "公羊学对孔子的称谓：孔子虽无王位，然其作《春秋》为天下立法，故“以素王”自任。此说把孔子的地位从“师”提升为“立制者”。",
+   "usages": [
+    {
+     "name": "何休",
+     "id": "cn-lianghan-he-xiu",
+     "usage": "“孔子以素王之法”解《春秋》，故其书法有改制之义。"
+    },
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以孔子为“改制”的立法者（其说为素王论的先声）。"
+    },
+    {
+     "name": "古文家（对照）",
+     "usage": "以“素王”为汉儒附会：孔子是师，非王。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-weiyandayi",
+    "cn-lianghan-tianren"
+   ],
+   "example": {
+    "text": "“素王”说的政治含义很明确：若孔子是立法者，则《春秋》的褒贬就是法的褒贬——故汉儒可以据《春秋》决狱、议政。这一推论正是古文家反对它的原因。",
+    "figure": "何休",
+    "locator": "《春秋公羊解诂》"
+   },
+   "sources": [
+    "ws-hanshu",
+    "ct-chunqiufanlu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

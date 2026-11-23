@@ -5531,6 +5531,45 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-monad",
+   "term": "单子",
+   "term_latin": "monad",
+   "definition": "莱布尼茨的实体概念：单子是单纯的、无部分的、不可分割的实体，故无“窗”可通（无因果相互作用）；其变化由内在的“欲求”展开，其协调由“预定和谐”保证。",
+   "usages": [
+    {
+     "name": "莱布尼茨",
+     "id": "gr-modern-leibniz",
+     "usage": "单子无窗：其表象的秩序由神预先设定（预定和谐）。"
+    },
+    {
+     "name": "斯宾诺莎（对照）",
+     "id": "gr-modern-spinoza",
+     "usage": "只有一个实体，思想与广延是其属性（与无限多单子相反）。"
+    },
+    {
+     "name": "洛克（批评）",
+     "id": "gr-modern-locke",
+     "usage": "以“观念”与“实体”的讨论取代单子论：实体的本质不可知。"
+    }
+   ],
+   "related": [
+    "gr-modern-substance",
+    "gr-modern-conatus"
+   ],
+   "example": {
+    "text": "单子论的一个直接后果是：因果作用不是“推动”，而是“预定和谐”——故心身关系不成难题（它们从不相干），难题转移到“神为何如此设定”。这是把问题搬家而非解决，也正是康德后来批评的“预定和谐是捷径”之处。",
+    "figure": "莱布尼茨",
+    "locator": "《单子论》§7、§78—§81"
+   },
+   "sources": [
+    "sep-leibniz",
+    "book-copleston-history",
+    "emt-leibniz"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

@@ -1,9 +1,9 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 789,
+  "entries": 795,
   "by_level": {
-   "L2": 650,
+   "L2": 656,
    "L1": 139
   },
   "doctrine": {
@@ -12,8 +12,8 @@
    "auto": 0
   },
   "needs_verification": 139,
-  "sources": 337,
-  "sources_verified": 337
+  "sources": 340,
+  "sources_verified": 340
  },
  "units": [
   {
@@ -21,7 +21,7 @@
    "title": "两汉经学与气论",
    "region": "china",
    "philosophers": 16,
-   "concepts": 15,
+   "concepts": 16,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -8"
   },
@@ -30,7 +30,7 @@
    "title": "清代与近代转型",
    "region": "china",
    "philosophers": 15,
-   "concepts": 14,
+   "concepts": 15,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -102,7 +102,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 10,
-   "concepts": 14,
+   "concepts": 15,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -2"
   },
@@ -120,7 +120,7 @@
    "title": "希腊化与罗马哲学",
    "region": "west",
    "philosophers": 15,
-   "concepts": 15,
+   "concepts": 16,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -138,7 +138,7 @@
    "title": "近代理性论与经验论",
    "region": "west",
    "philosophers": 31,
-   "concepts": 17,
+   "concepts": 18,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -23"
   }
@@ -478,6 +478,17 @@
    "id": "cn-lianghan-wuchang",
    "type": "concept",
    "title": "五常",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-suwang",
+   "type": "concept",
+   "title": "素王",
    "container": "cn-lianghan",
    "level": "L2",
    "sources": 3,
@@ -885,6 +896,17 @@
    "id": "cn-qingmod-liujing-jieshi",
    "type": "concept",
    "title": "六经皆史",
+   "container": "cn-qingmod",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-yili-sharen",
+   "type": "concept",
+   "title": "以理杀人",
    "container": "cn-qingmod",
    "level": "L2",
    "sources": 3,
@@ -4237,6 +4259,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-contemp-difference-principle",
+   "type": "concept",
+   "title": "差异原则",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-contemp-justice-criterion",
    "type": "debate",
    "title": "分配正义应以什么为标准",
@@ -4999,6 +5032,17 @@
    "id": "gr-hellenistic-sage",
    "type": "concept",
    "title": "智者（sage）",
+   "container": "gr-hellenistic",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-hellenistic-atoms-void",
+   "type": "concept",
+   "title": "原子与虚空",
    "container": "gr-hellenistic",
    "level": "L2",
    "sources": 3,
@@ -6066,6 +6110,17 @@
    "id": "gr-modern-idea-way",
    "type": "concept",
    "title": "观念的 Way of Ideas",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-monad",
+   "type": "concept",
+   "title": "单子",
    "container": "gr-modern",
    "level": "L2",
    "sources": 3,
@@ -7487,8 +7542,8 @@
    "title": "《社会契约论》",
    "container": "west",
    "level": "L2",
-   "sources": 2,
-   "verified_sources": 2,
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -7544,6 +7599,17 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-hume-dialogues",
+   "type": "work",
+   "title": "《自然宗教对话录》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -7784,8 +7850,8 @@
    "title": "《论自由》",
    "container": "west",
    "level": "L2",
-   "sources": 2,
-   "verified_sources": 2,
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },

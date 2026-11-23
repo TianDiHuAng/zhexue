@@ -116,3 +116,11 @@ WORKFLOW.md 记录旧项目经验是"最多 1 个后台代理"，当时受平台
 - `gr-20c-weber`（韦伯不在册）
 - `gr-20c-nietzsche`（尼采在册，但属 `gr-19c-nietzsche`，单元记错）
 规则：写人物 id 前须 `grep` 一遍 `data/*/*.json` 的 philosophers 列表确认**存在且单元正确**。precheck 目前只覆盖来源 id，人物 id 仍靠 R11 兜底（写完才报）。
+
+## D30 西方原典来源的备用路径
+Project Gutenberg 会整体返回 503（已遇两次：Anselm、第81轮五个文本）。备用顺序：
+1. `zh.wikisource.org`（中文原典首选，配合「(四庫全書本)」「(四部叢刊本)」后缀）
+2. `en.wikisource.org`（西方原典英译，实测 Dialogues/On Liberty/Social Contract 均可开，60—93KB）
+3. `thelatinlibrary.com`（拉丁原文，配索引页检索）
+4. `la.wikisource.org`（拉丁，用 search API 找确切标题）
+Perseus（`per-*`）对该 UA 一律 403，不可用。

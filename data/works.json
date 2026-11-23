@@ -6804,7 +6804,8 @@
    ],
    "sources": [
     "sep-rousseau",
-    "sep-hobbes"
+    "sep-hobbes",
+    "ws-en-rousseau-social"
    ],
    "needs_verification": false,
    "pending_notes": "",
@@ -7090,6 +7091,58 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1777
+  },
+  {
+   "id": "work-hume-dialogues",
+   "title": "《自然宗教对话录》",
+   "title_original": "Dialogues Concerning Natural Religion",
+   "tradition": "west",
+   "date_display": "写于1750年代；1779年（遗著）",
+   "structure": "十二篇对话；主要说话者为 Cleanthes（设计论）、Philo（怀疑论）与 Demea（先验有神论），由 Pamphilus 追述。",
+   "core_arguments": [
+    "设计论（从自然的秩序推知设计者）只能给出或然的结论，不能给出证明",
+    "恶的存在使“无限善且全能”的假设与经验不符（Philo 的恶的问题）",
+    "对话体使结论悬置：Philo 的怀疑论与 Cleanthes 的自然信仰各留余地"
+   ],
+   "key_points": [
+    {
+     "locator": "第2—8篇",
+     "point": "设计论的类比与其弱点"
+    },
+    {
+     "locator": "第10—11篇",
+     "point": "恶的问题"
+    },
+    {
+     "locator": "第12篇",
+     "point": "结论：怀疑论与自然信仰的余地"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《自然宗教对话录》；英文维基文库全文"
+   ],
+   "related_people": [
+    "gr-modern-hume",
+    "gr-medieval-aquinas",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张无神论",
+     "why": "Philo 的结论是“悬置”：设计论的论证不足，但也不否认某种神意；休谟以对话体避免给出自己的定论。"
+    },
+    {
+     "claim": "它是对设计论的简单否定",
+     "why": "它把设计论的最佳版本（Cleanthes）与最强反驳（Philo）都写足了，其力量来自论证的往复而非结论。"
+    }
+   ],
+   "sources": [
+    "ws-en-hume-dialogues",
+    "sep-hume"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1779
   },
   {
    "id": "work-wenshi-tongyi",
@@ -8325,7 +8378,8 @@
    ],
    "sources": [
     "sep-mill",
-    "book-copleston-history"
+    "book-copleston-history",
+    "ws-en-mill-liberty"
    ],
    "needs_verification": false,
    "pending_notes": "",

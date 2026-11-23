@@ -2075,6 +2075,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-difference-principle",
+   "term": "差异原则",
+   "term_latin": "difference principle",
+   "definition": "罗尔斯第二原则的后半：社会与经济的不平等，只有在“最有利于最不利者”时才是正当的。它不要求平均，而要求不平等须对最弱者有补偿性的好处。",
+   "usages": [
+    {
+     "name": "罗尔斯",
+     "id": "gr-contemp-rawls",
+     "usage": "不平等须使最不利者的处境尽可能好（maximin 的直觉）。"
+    },
+    {
+     "name": "诺齐克（批评）",
+     "id": "gr-contemp-nozick",
+     "usage": "以资格论反对：不平等的正当性在于取得的历史是否正当，不在于其结果是否利弱者。"
+    },
+    {
+     "name": "哈贝马斯（对照）",
+     "id": "gr-contemp-habermas",
+     "usage": "以交往程序取代原则推演：正义的内容须由参与者商谈确定。"
+    }
+   ],
+   "related": [
+    "gr-contemp-veil",
+    "gr-contemp-overlapping-consensus"
+   ],
+   "example": {
+    "text": "差异原则最易被误读为“平均主义”：它允许不平等，只是要求这些不平等能被最不利者接受——故它在自由主义与再分配之间取了中间位置。",
+    "figure": "罗尔斯",
+    "locator": "《正义论》§13"
+   },
+   "sources": [
+    "sep-rawls",
+    "iep-rawls"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

@@ -2940,6 +2940,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-yili-sharen",
+   "term": "以理杀人",
+   "term_latin": "killing by principle",
+   "definition": "戴震的批判用语：把一己之“意见”当作“天理”，据此苛责他人，其酷烈甚于以法杀人。它针对的是理学末流以理责人的实践后果。",
+   "usages": [
+    {
+     "name": "戴震",
+     "id": "cn-qingmod-dai-zhen",
+     "usage": "“人死于法，犹有怜之者；死于理，其谁怜之！”"
+    },
+    {
+     "name": "朱熹（被批评者，对照）",
+     "usage": "主张“存天理、灭人欲”，以理为公共的标准。"
+    },
+    {
+     "name": "凌廷堪与清代礼学（旁证）",
+     "usage": "以“礼”代“理”：礼有节文可循，理易流于意见。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-lizaiqizhong"
+   ],
+   "example": {
+    "text": "戴震的锋利之处在于他指出“理”的**社会后果**：法有明文，故冤者可申诉；理无明文，故被责者无处申诉——故“以理杀人”比“以法杀人”更难辩白。",
+    "figure": "戴震",
+    "locator": "《孟子字义疏证》卷上"
+   },
+   "sources": [
+    "ws-mengzi-ziyi",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

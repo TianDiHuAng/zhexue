@@ -2771,6 +2771,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-atoms-void",
+   "term": "原子与虚空",
+   "term_latin": "atoms and void",
+   "definition": "伊壁鸠鲁（承德谟克利特）的本原论：只有原子与虚空是实在的，其余皆为二者的组合与属性。它以“偏斜”（parenklisis）加入非必然的微小偏离，以容纳自由。",
+   "usages": [
+    {
+     "name": "伊壁鸠鲁",
+     "id": "gr-hellenistic-epicurus",
+     "usage": "原子在虚空中下落时有微小“偏斜”，故世界不是严格必然的。"
+    },
+    {
+     "name": "德谟克利特（对照）",
+     "usage": "以原子的必然运动解释一切，不设偏斜。"
+    },
+    {
+     "name": "斯多亚派（批评）",
+     "id": "gr-hellenistic-zeno",
+     "usage": "以连续体与“宇宙同情”反对原子论：世界是统一的活体，不是离散粒子的堆积。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-ekpyrosis",
+    "gr-hellenistic-sage"
+   ],
+   "example": {
+    "text": "“偏斜”是伊壁鸠鲁最受争议的概念：它既是物理学假设（解释原子间的碰撞），又是伦理学的根据（若无偏斜则一切皆必然，自由与责任无从谈起）。",
+    "figure": "伊壁鸠鲁",
+    "locator": "据《名哲言行录》卷十"
+   },
+   "sources": [
+    "sep-epicurus",
+    "sep-stoicism",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [
