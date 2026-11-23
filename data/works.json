@@ -2155,6 +2155,63 @@
    "sort_year": -300
   },
   {
+   "id": "work-guliang",
+   "title": "《春秋穀梁传》",
+   "title_original": "春秋穀梁傳",
+   "tradition": "china",
+   "date_display": "约战国至汉初（传统题穀梁赤）",
+   "structure": "十一卷；与《公羊传》同为《春秋》的“传”，逐条解经，重“正名”与“礼制”的细密分辨。",
+   "core_arguments": [
+    "以“正名”为解经的总纲：一字之褒贬皆有名分之意",
+    "重“礼制”的细辨（如“初税亩”“作丘甲”的批评）",
+    "与《公羊》的“微言大义”相比，《穀梁》更重“例”与“辞”的细致分辨"
+   ],
+   "key_points": [
+    {
+     "locator": "隐公元年",
+     "point": "“元年春王正月”的解"
+    },
+    {
+     "locator": "宣公十五年",
+     "point": "“初税亩”的批评"
+    },
+    {
+     "locator": "成公元年",
+     "point": "“作丘甲”的批评"
+    },
+    {
+     "locator": "全书",
+     "point": "与《公羊》解经风格的对比"
+    }
+   ],
+   "editions": [
+    "钟文烝《春秋穀梁经传补注》中华书局；《春秋穀梁傳》（四部丛刊本）"
+   ],
+   "related_people": [
+    "cn-xianqin-kongzi",
+    "cn-lianghan-dong-zhongshu",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《穀梁传》与《公羊传》主旨相同",
+     "why": "二者同属今文《春秋》学，但《公羊》重“微言大义”与改制，《穀梁》重“正名”与礼制的细辨；汉代的《公》《穀》之争即是两家博士之争。"
+    },
+    {
+     "claim": "它是穀梁赤的亲笔",
+     "why": "其成书经历口传到著录的过程，今本文字出于汉初；作者传统归穀梁赤，实际成书非一人一时。"
+    }
+   ],
+   "sources": [
+    "ws-guliang",
+    "ws-zuozhuan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《穀梁传》的成书过程（口传到著录）与今本的写定年代有讨论；其与《公羊传》的关系（同源异流）亦为经学史的核心问题。",
+   "sort_year": -300
+  },
+  {
    "id": "work-tianxia-pian",
    "title": "《庄子·天下篇》",
    "title_original": "天下篇",
@@ -4645,6 +4702,63 @@
    "sort_year": 240
   },
   {
+   "id": "work-kongzi-jiayu",
+   "title": "《孔子家语》",
+   "title_original": "孔子家語",
+   "tradition": "china",
+   "date_display": "传统题孔门弟子所记；今本经三国魏王肃整理（一说王肃伪作）",
+   "structure": "十卷四十四篇：含《相鲁》《始诛》《王言解》《大婚解》《儒行解》《五仪解》《致思》《三恕》《好生》《观周》《弟子行》《贤君》《辩政》《六本》《辩物》《哀公问政》《在厄》《入官》《困誓》《五帝德》《执辔》《本命解》《论礼》《正论解》《曲礼子贡问》《曲礼子夏问》《曲礼公西赤问》等。",
+   "core_arguments": [
+    "以“王言”与“儒行”补《论语》所略：孔子的政论与儒者的行为规范",
+    "《哀公问政》的“为政在人”与“五仪”（庸人、士人、君子、贤人、圣人）",
+    "《五帝德》与《大戴礼记》相通的帝王谱系"
+   ],
+   "key_points": [
+    {
+     "locator": "《儒行解》",
+     "point": "儒者的十六种行为规范"
+    },
+    {
+     "locator": "《哀公问政》",
+     "point": "为政在人；五仪之教"
+    },
+    {
+     "locator": "《六本》",
+     "point": "立身之本"
+    },
+    {
+     "locator": "《五帝德》",
+     "point": "帝王谱系与德"
+    }
+   ],
+   "editions": [
+    "杨朝明《孔子家语通解》；《孔子家語》（四部丛刊本）"
+   ],
+   "related_people": [
+    "cn-xianqin-kongzi",
+    "cn-xianqin-mengzi",
+    "cn-weijin-wangbi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《孔子家语》是王肃伪造的伪书",
+     "why": "宋代以来有“王肃伪作”之说，但 1973 年河北定县八角廊汉墓、上海博物馆藏战国楚简等出土材料与其部分内容相合，学界多已修正“全伪”说，转为“来源古老而经后人整理”。"
+    },
+    {
+     "claim": "它与《论语》重复故无价值",
+     "why": "它保存了《论语》所略的政论与礼论（如《儒行解》《哀公问政》），且部分内容与出土文献相合，是研究孔门的重要材料。"
+    }
+   ],
+   "sources": [
+    "ws-kongzi-jiayu",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《孔子家语》的真伪是经学史上的大公案：宋代以来主“王肃伪作”说，20世纪出土简帛（定县汉简、上博简）后学界多认为其来源古老而经整理；本页并述两说。",
+   "sort_year": 240
+  },
+  {
    "id": "work-ennreads",
    "title": "《九章集》",
    "title_original": "Ἐννεάδες（Enneads）",
@@ -5088,7 +5202,8 @@
    ],
    "sources": [
     "na-cityofgod",
-    "sep-augustine"
+    "sep-augustine",
+    "ws-en-city-of-god"
    ],
    "needs_verification": false,
    "pending_notes": "",
@@ -5428,7 +5543,8 @@
    "sources": [
     "lat-boethius-consolatio",
     "sep-boethius",
-    "book-gilson-medieval"
+    "book-gilson-medieval",
+    "ws-en-consolation"
    ],
    "needs_verification": true,
    "pending_notes": "《慰藉》的宗教性质与《波菲利〈导论〉注释》两稿年代均有讨论。",
@@ -6098,7 +6214,8 @@
    "sources": [
     "lat-anselm-proslogion",
     "iep-anselm",
-    "book-gilson-medieval"
+    "book-gilson-medieval",
+    "ws-en-proslogion"
    ],
    "needs_verification": false,
    "pending_notes": "",
@@ -7551,7 +7668,8 @@
    ],
    "sources": [
     "sep-hobbes",
-    "sep-locke"
+    "sep-locke",
+    "ws-en-leviathan"
    ],
    "needs_verification": false,
    "pending_notes": "",

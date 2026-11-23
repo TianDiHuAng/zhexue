@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 930,
+  "entries": 934,
   "by_level": {
-   "L2": 742,
-   "L1": 188
+   "L2": 743,
+   "L1": 191
   },
   "doctrine": {
-   "total": 236,
-   "detail": 236,
+   "total": 237,
+   "detail": 237,
    "auto": 0
   },
-  "needs_verification": 188,
+  "needs_verification": 191,
   "sources": 375,
   "sources_verified": 375
  },
@@ -83,10 +83,10 @@
    "unit_id": "gr-20c",
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
-   "philosophers": 21,
-   "concepts": 22,
+   "philosophers": 22,
+   "concepts": 23,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -13"
+   "philosophers_slot": "8 上限，余 -14"
   },
   {
    "unit_id": "gr-ancient",
@@ -3786,6 +3786,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-butler",
+   "type": "philosopher",
+   "title": "朱迪斯·巴特勒",
+   "container": "gr-20c",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-20c-sense-reference",
    "type": "concept",
    "title": "意义与指称",
@@ -4020,6 +4031,17 @@
    "id": "gr-20c-anticipatory-resolution",
    "type": "concept",
    "title": "先行决断",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-performativity",
+   "type": "concept",
+   "title": "述行性",
    "container": "gr-20c",
    "level": "L2",
    "sources": 2,
@@ -7559,6 +7581,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-guliang",
+   "type": "work",
+   "title": "《春秋穀梁传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-tianxia-pian",
    "type": "work",
    "title": "《庄子·天下篇》",
@@ -8043,6 +8076,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-kongzi-jiayu",
+   "type": "work",
+   "title": "《孔子家语》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-ennreads",
    "type": "work",
    "title": "《九章集》",
@@ -8125,8 +8169,8 @@
    "title": "《上帝之城》",
    "container": "west",
    "level": "L2",
-   "sources": 2,
-   "verified_sources": 2,
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -8191,8 +8235,8 @@
    "title": "《哲学的慰藉》",
    "container": "west",
    "level": "L1",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -8323,8 +8367,8 @@
    "title": "《宣讲》",
    "container": "west",
    "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -8609,8 +8653,8 @@
    "title": "《利维坦》",
    "container": "west",
    "level": "L2",
-   "sources": 2,
-   "verified_sources": 2,
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },

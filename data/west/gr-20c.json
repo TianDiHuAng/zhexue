@@ -3175,6 +3175,151 @@
      "note": "1905 年初版，1920 年修订"
     }
    ]
+  },
+  {
+   "id": "gr-20c-butler",
+   "name": "朱迪斯·巴特勒",
+   "latin": "Judith Butler",
+   "birth_year": 1956,
+   "death_year": 2026,
+   "birth_display": "1956年",
+   "death_display": "（在世）",
+   "birth_note": "据其著作与访谈：生于美国俄亥俄州；耶鲁大学博士。",
+   "death_note": "（在世；本条信息截至成稿时）",
+   "era": "20世纪末至今。巴特勒以“性别述行性”成名：《性别麻烦》主张性别不是表达出来的内在本质，而是由反复的言语与行为“述行”地生产出来的效果。她由此发展出对“承认”的批判（谁有资格被承认为“人”）、对脆弱性与非暴力的伦理学，以及近年对“谁算人民”的政治思考。",
+   "school": "后结构主义／女性主义与性别理论",
+   "core_questions": [
+    "性别是本质还是效果？",
+    "谁有资格被“承认”为人？",
+    "脆弱性如何成为伦理与政治的基础？"
+   ],
+   "arguments": [
+    {
+     "claim": "性别述行性：性别是反复引用的行为所产生的效果",
+     "premises": [
+      "没有先在的“性别本质”等待表达。",
+      "被引用的是既有的规范（异性恋矩阵），而引用总是有偏差、可被颠覆。"
+     ],
+     "inference": "若性别是被反复引用的行为所产生的效果，则它不是自然的给定，而是**可被重做的**；故改变的可能性不在“发现真我”，而在对规范的重复方式上。",
+     "conclusion": "性别是述行的效果而非本质的表达（此说改变了女性主义的主体概念）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "承认的框架：谁有资格被承认为“人”",
+     "premises": [
+      "“可承认性”的规范先于具体的承认行为。",
+      "不符合这些规范者（如不符合性别二元者）在“人的资格”上被剥夺。"
+     ],
+     "inference": "若“人”的资格本身由规范分配，则问题不是“如何被更好地承认”，而是**规范本身应当被改造**；故其批判针对的是承认的框架，不只是其中的分配。",
+     "conclusion": "批判的对象是“可承认性”的规范，而非仅是不公平的分配。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《性别麻烦》《身体之重》《脆弱不安的生命》《非暴力的力量》《谁来歌唱“人民”？》",
+     "edition": "《性别麻烦》中译参上海三联书店（若有）；英文原版 Routledge",
+     "note": "1990；1993；2004；2020；2015"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "福柯（对照）",
+     "id": null,
+     "note": "以“话语”与“规训”说明主体的构成"
+    },
+    {
+     "name": "黑格尔与科耶夫的“承认”主题",
+     "id": null,
+     "note": "以“承认”为自我意识的条件"
+    },
+    {
+     "name": "奥斯汀的言语行为理论",
+     "id": null,
+     "note": "以“述行”（performative）为语言的功能之一"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "酷儿理论与性别研究",
+     "id": null,
+     "note": "以述行性为核心概念"
+    },
+    {
+     "name": "当代的承认政治与脆弱性伦理学",
+     "id": null,
+     "note": "以“谁算人”为政治问题"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "本质主义的女性主义",
+     "view": "若性别只是述行的效果，则“女性”作为政治主体失去了共同的基础，集体行动无从组织。",
+     "response": "巴特勒一系的回应是：联盟不必以共同本质为基础，而以**共同的处境与对规范的抵抗**为基础（“联盟政治”而非“身份政治”）。",
+     "kind": "后人解读",
+     "sources": [
+      "iep-butler",
+      "paper-s40926-024-00251-0"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "巴特勒主张性别是“自由选择”的",
+     "why": "述行性不是自由选择：引用规范总在既有规范的强制之下，故其“重做”是有条件的、受约束的。"
+    },
+    {
+     "claim": "她否认身体的存在",
+     "why": "她否认的是身体的“自然性”作为社会意义的根据；其后期更以“脆弱性”强调身体的实际依赖（《脆弱不安的生命》）。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>巴特勒：性别述行与承认的框架</text><defs><marker id='aJB' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>没有先在的性别本质</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>性别由反复引用规范而产生</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故可被重做→反对本质主义</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故须改造承认框架</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aJB)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aJB)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "巴特勒：性别述行性与“可承认性”的批判（示意图）",
+   "sources": [
+    "iep-butler",
+    "paper-s40926-024-00251-0",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "巴特勒的“述行性”与奥斯汀的“述行语”关系、以及述行是否等于“自由选择”，是学界讨论的焦点；本页依 IEP 词条与相关论文（Butler/Hegel/承认）概述，具体论证须核原书。",
+   "doctrine": {
+    "summary": "巴特勒以“性别述行性”立说：没有先在的性别本质等待表达，性别是由反复引用既有规范（异性恋矩阵）的行为所生产的**效果**；而引用总有偏差，故可被重做。她由此把批判转向“承认的框架”本身——不是问“如何被更好地承认”，而是问“可承认性的规范如何分配人的资格”。其后期以“脆弱性”为基础发展非暴力伦理学。",
+    "system": [
+     {
+      "name": "述行性",
+      "content": "性别是被反复引用的行为所产生的效果，非本质的表达。"
+     },
+     {
+      "name": "异性恋矩阵",
+      "content": "使性别可理解的规范框架；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "可承认性",
+      "content": "先于具体承认行为的规范，分配“人”的资格。"
+     },
+     {
+      "name": "脆弱性",
+      "content": "身体的实际依赖，为伦理学与政治的基础；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "美国（1956— ）",
+      "change": "耶鲁大学博士；1990《性别麻烦》；1993《身体之重》；2004《脆弱不安的生命》；2020《非暴力的力量》；任教于加州大学伯克利分校。"
+     }
+    ],
+    "reception": "《性别麻烦》成为酷儿理论的奠基之作；“述行性”成为性别研究与人文学科的核心概念；其后期对“谁算人”与脆弱性的思考影响了当代政治哲学与非暴力理论。"
+   },
+   "works_detail": [
+    {
+     "title": "《性别麻烦》",
+     "structure": "三部分：性别／性／欲望的“主体”问题、福柯与精神分析的批判、对“性别”作为模仿的重新描述。",
+     "core_thesis": "性别是述行的效果，非本质；这是该书的核心命题。",
+     "editions": "中译参上海三联书店（若有）；Routledge 英文版",
+     "note": "1990 年"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -3945,6 +4090,42 @@
    "sources": [
     "sep-heidegger",
     "sep-sartre"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-performativity",
+   "term": "述行性",
+   "term_latin": "performativity",
+   "definition": "巴特勒（承奥斯汀而改造）的概念：性别不是表达内在本质的“行为”，而是反复引用规范所产生的**效果**。故它不是一次性的表演，而是被强制重复的引用——重复之中既有规范的力量，也有颠覆的可能。",
+   "usages": [
+    {
+     "name": "巴特勒",
+     "id": "gr-20c-butler",
+     "usage": "性别是被强制重复的引用；偏差的重复即是颠覆的可能。"
+    },
+    {
+     "name": "奥斯汀（来源）",
+     "usage": "“述行语”：说出即是做（如“我宣布”）。"
+    },
+    {
+     "name": "福柯（背景）",
+     "usage": "以话语与规训说明主体的构成；这一用法须与相邻概念分辨。"
+    }
+   ],
+   "related": [
+    "gr-20c-language-game",
+    "gr-20c-authenticity"
+   ],
+   "example": {
+    "text": "“述行”与“表演”的差别是关键：表演有演员在角色之外，述行没有——故它不是说“我们可以随意扮演性别”，而是说“性别由被强制的重复所维持”。这一区分使其免于“自由选择”的误读。",
+    "figure": "巴特勒",
+    "locator": "《性别麻烦》第三章"
+   },
+   "sources": [
+    "iep-butler",
+    "paper-s40926-024-00251-0"
    ],
    "needs_verification": false,
    "pending_notes": ""
