@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 631,
+  "entries": 636,
   "by_level": {
-   "L2": 538,
-   "L1": 93
+   "L2": 541,
+   "L1": 95
   },
   "doctrine": {
    "total": 215,
    "detail": 215,
    "auto": 0
   },
-  "needs_verification": 93,
+  "needs_verification": 95,
   "sources": 316,
   "sources_verified": 312
  },
@@ -5447,6 +5447,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-chunqiu-fanlu",
+   "type": "work",
+   "title": "《春秋繁露》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-huainanzi",
    "type": "work",
    "title": "《淮南子》",
@@ -5487,6 +5498,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-lunheng",
+   "type": "work",
+   "title": "《论衡》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -5656,6 +5678,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-huangji-jingshi",
+   "type": "work",
+   "title": "《皇极经世》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-zhengmeng",
    "type": "work",
    "title": "《正蒙》",
@@ -5752,6 +5785,28 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-kunzhi-ji",
+   "type": "work",
+   "title": "《困知记》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-shenyan",
+   "type": "work",
+   "title": "《慎言》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {

@@ -1362,6 +1362,63 @@
    "sort_year": -195
   },
   {
+   "id": "work-chunqiu-fanlu",
+   "title": "《春秋繁露》",
+   "title_original": "春秋繁露",
+   "tradition": "china",
+   "date_display": "约前2世纪（今本经后人编次）",
+   "structure": "十七卷八十二篇（今存七十九篇）；《楚庄王》《玉杯》《竹林》《王道》《灭国》《服制》《度制》《人副天数》《阴阳义》《五行之义》《基义》《必仁且智》《实性》《深察名号》等。",
+   "core_arguments": [
+    "天人感应：天与人事以气相通，灾异为谴告",
+    "王道三纲与阴阳五行相配，使伦理秩序有宇宙论根据",
+    "“深察名号”：名号须与实相符，正名是治道之始"
+   ],
+   "key_points": [
+    {
+     "locator": "《必仁且智》",
+     "point": "灾异谴告说"
+    },
+    {
+     "locator": "《基义》",
+     "point": "三纲与阴阳"
+    },
+    {
+     "locator": "《实性》",
+     "point": "性三品与教化（茧卵之喻）"
+    },
+    {
+     "locator": "《深察名号》",
+     "point": "名号与治道"
+    }
+   ],
+   "editions": [
+    "苏舆《春秋繁露义证》中华书局；凌曙注本"
+   ],
+   "related_people": [
+    "cn-lianghan-dong-zhongshu",
+    "cn-lianghan-wang-chong",
+    "cn-lianghan-he-xiu"
+   ],
+   "misreadings": [
+    {
+     "claim": "董仲舒是“罢黜百家”的始作俑者",
+     "why": "“罢黜百家，独尊儒术”是后人对《天人三策》的概括（班固语），其建议是“诸不在六艺之科孔子之术者，皆绝其道”，具体政策由汉武帝与公孙弘等推行。"
+    },
+    {
+     "claim": "《春秋繁露》是董仲舒亲定之本",
+     "why": "今本经后人编次，篇目与文字有出入，部分篇目或非其手笔。"
+    }
+   ],
+   "sources": [
+    "ct-chunqiufanlu",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《春秋繁露》今本八十二篇（存七十九篇）为后人所编，篇目真伪与编次有讨论；“罢黜百家”一语出自班固的概括，非董仲舒原文。",
+   "sort_year": -140
+  },
+  {
    "id": "work-huainanzi",
    "title": "《淮南子》",
    "title_original": "淮南子（淮南鴻烈）",
@@ -1586,6 +1643,67 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 55
+  },
+  {
+   "id": "work-lunheng",
+   "title": "《论衡》",
+   "title_original": "論衡",
+   "tradition": "china",
+   "date_display": "约80年",
+   "structure": "八十四篇（今存八十四篇）；《逢遇》《命禄》《气寿》《自然》《物势》《奇怪》《书虚》《变虚》《异虚》《感虚》《福虚》《祸虚》《龙虚》《雷虚》《道虚》《语增》《儒增》《艺增》《问孔》《刺孟》《谈天》《说日》《实知》《知实》《定贤》《自纪》等。",
+   "core_arguments": [
+    "“疾虚妄”：以效验（可观察的证据）检验流俗之说",
+    "天无意志：天地是自然之气，“天道自然无为”故无谴告",
+    "命与性皆由禀气厚薄决定，与德行无必然关联"
+   ],
+   "key_points": [
+    {
+     "locator": "《自然》",
+     "point": "天道自然无为，无谴告之意"
+    },
+    {
+     "locator": "《书虚》《道虚》等",
+     "point": "逐条辨虚妄"
+    },
+    {
+     "locator": "《问孔》《刺孟》",
+     "point": "对孔孟之言的质疑（其锋芒所指）"
+    },
+    {
+     "locator": "《自纪》",
+     "point": "自述写作宗旨"
+    },
+    {
+     "locator": "《实知》《知实》",
+     "point": "知识须由效验，反对“生而知之”"
+    }
+   ],
+   "editions": [
+    "黄晖《论衡校释》中华书局；刘盼遂《论衡集解》古籍出版社"
+   ],
+   "related_people": [
+    "cn-lianghan-wang-chong",
+    "cn-lianghan-huan-tan",
+    "cn-lianghan-dong-zhongshu"
+   ],
+   "misreadings": [
+    {
+     "claim": "王充是无神论者/唯物论者",
+     "why": "他以“气”解释自然，否定有意志的天，但仍论及命、鬼（《论死》篇否定鬼能害人）；近代“唯物论”标签是后加的框架。"
+    },
+    {
+     "claim": "《问孔》《刺孟》是要推翻儒家",
+     "why": "他质疑的是经书中不合效验之处，其立场仍是儒生式的求真，不是反儒。"
+    }
+   ],
+   "sources": [
+    "ct-lunheng",
+    "ws-xinlun",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 80
   },
   {
    "id": "work-enchiridion",
@@ -2425,6 +2543,63 @@
    "sort_year": 1050
   },
   {
+   "id": "work-huangji-jingshi",
+   "title": "《皇极经世》",
+   "title_original": "皇極經世",
+   "tradition": "china",
+   "date_display": "约1060年",
+   "structure": "十二卷（含《观物内篇》《观物外篇》）；以元会运世推演宇宙与历史的周期，附《先天图》等象数图式。",
+   "core_arguments": [
+    "一元十二会、一会三十运、一运十二世、一世三十年：时间可数结构化",
+    "太极—动静—阴阳—四象—八卦—万物：象数化的生成论",
+    "历史盛衰有周期，人当知命而顺天"
+   ],
+   "key_points": [
+    {
+     "locator": "《观物内篇》",
+     "point": "元会运世的推演"
+    },
+    {
+     "locator": "《观物外篇》",
+     "point": "象数与物理的讨论"
+    },
+    {
+     "locator": "《先天图》",
+     "point": "伏羲六十四卦次序"
+    },
+    {
+     "locator": "总论",
+     "point": "“元会运世”与历史周期"
+    }
+   ],
+   "editions": [
+    "《皇极经世》（道藏本、四库本）；《邵雍集》中华书局点校本"
+   ],
+   "related_people": [
+    "cn-songming-shao-yong",
+    "cn-songming-zhou-dunyi",
+    "cn-songming-zhang-zai"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是占卜之书",
+     "why": "元会运世是对宇宙与历史的结构化推演，其目的在显示秩序与周期，不必然是占卜术。"
+    },
+    {
+     "claim": "其数术体系可精确预测历史",
+     "why": "其价值在框架而非精确预言；具体推演细节繁复且解释空间大。"
+    }
+   ],
+   "sources": [
+    "ws-huangjijingshi",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《皇极经世》的象数体系繁复，部分图式来源（陈抟一系）与具体推演细节学界有讨论；本页只述其框架。",
+   "sort_year": 1060
+  },
+  {
    "id": "work-zhengmeng",
    "title": "《正蒙》",
    "title_original": "正蒙",
@@ -2932,6 +3107,120 @@
    "needs_verification": true,
    "pending_notes": "《坛经》的版本系统（敦煌本、惠昕本、契嵩本、宗宝本）与作者问题是学界长期议题；本页以敦煌本与宗宝本的差异为据，不作单一作者断定。",
    "sort_year": 1290
+  },
+  {
+   "id": "work-kunzhi-ji",
+   "title": "《困知记》",
+   "title_original": "困知記",
+   "tradition": "china",
+   "date_display": "约1520年",
+   "structure": "六卷；上卷论理气（十六条），下卷批评陆王“心即理”与禅学（二十余条），续卷与附录收答友人书及与王阳明往复。",
+   "core_arguments": [
+    "理只是气之理，非气外别有一理",
+    "心具众理而不可说“心即理”：若以心为理，则私意可冒充天理",
+    "格物穷理是校正心之知觉的工夫"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上",
+     "point": "理气为一的论证"
+    },
+    {
+     "locator": "卷下",
+     "point": "对“心即理”与禅学的批评"
+    },
+    {
+     "locator": "续卷",
+     "point": "答友人问"
+    },
+    {
+     "locator": "附录",
+     "point": "与王阳明往复"
+    }
+   ],
+   "editions": [
+    "阎韬点校《困知记》中华书局；《罗钦顺集》"
+   ],
+   "related_people": [
+    "cn-songming-luo-qinshun",
+    "cn-songming-wang-yangming",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "罗钦顺是唯物论者",
+     "why": "其“气”含秩序与生机之义，并非近代机械唯物论的物质；“理”仍有规范性。"
+    },
+    {
+     "claim": "他完全否定程朱",
+     "why": "他承程朱的问题而改其理气关系，仍以格物穷理为工夫。"
+    }
+   ],
+   "sources": [
+    "ws-kunzhiji",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1520
+  },
+  {
+   "id": "work-shenyan",
+   "title": "《慎言》",
+   "title_original": "慎言",
+   "tradition": "china",
+   "date_display": "约1530年",
+   "structure": "十三篇；论气化、理气、天人关系、五行、修养与政事，为札记体。",
+   "core_arguments": [
+    "元气一元：天地未分唯有元气，万物由气化聚散而生",
+    "理在气中：理是气化之条理，无气外之理",
+    "反谶纬：天无意志，灾异有其自然原因"
+   ],
+   "key_points": [
+    {
+     "locator": "《道体篇》",
+     "point": "元气一元"
+    },
+    {
+     "locator": "《乾运篇》",
+     "point": "理在气中"
+    },
+    {
+     "locator": "《五行篇》",
+     "point": "对五行附会的批评"
+    },
+    {
+     "locator": "《君子篇》",
+     "point": "修养与政事"
+    }
+   ],
+   "editions": [
+    "《慎言》（维基文库本）；《王廷相集》中华书局点校本"
+   ],
+   "related_people": [
+    "cn-songming-wang-tingxiang",
+    "cn-songming-luo-qinshun",
+    "cn-songming-zhang-zai"
+   ],
+   "misreadings": [
+    {
+     "claim": "王廷相否认一切天人关联",
+     "why": "他否认的是有意志的天与谶纬谴告，不否认人须顺应自然规律。"
+    },
+    {
+     "claim": "其气学等于唯物论",
+     "why": "“气”含生机与秩序，非机械物质；须放在中国气学传统中理解。"
+    }
+   ],
+   "sources": [
+    "ws-shenyan",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1530
   },
   {
    "id": "work-chuanxilu",
