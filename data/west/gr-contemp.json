@@ -2310,6 +2310,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-public-reason",
+   "title": "公共理性能否约束宗教论证",
+   "question": "在公共讨论中，宗教理由是否必须翻译成世俗理由才能被接受？",
+   "positions": [
+    {
+     "holder": "罗尔斯",
+     "id": "gr-contemp-rawls",
+     "stance": "须有“公共理性”的限制",
+     "reasons": [
+      "公共讨论须以所有公民都能合理接受的理由为据。",
+      "宗教理由可存在于“背景文化”，但在公共论坛须有世俗的对应表述。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "哈贝马斯",
+     "id": "gr-contemp-habermas",
+     "stance": "可互补",
+     "reasons": [
+      "宗教传统可提供世俗理性所缺的意义资源。",
+      "故信徒可以宗教语言进入公共讨论，但须有翻译的意愿。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "沃格林与部分神学家（对照）",
+     "id": null,
+     "stance": "不接受限制",
+     "reasons": [
+      "把宗教理由排除在公共讨论之外，本身是一种世俗主义的偏见。",
+      "故公共理性不应预设世俗主义。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点在“公共讨论的门槛”：罗尔斯要求可公共接受的理由（较严），哈贝马斯要求翻译的意愿（较宽），批评者认为门槛本身就是立场的偏袒。三者的分歧部分是对“多元社会”的假设，部分是对“理性”的界定。",
+   "status": "无定论",
+   "status_note": "这一争论在2000年代的“后世俗”讨论中被充分展开；当代公共神学与政治自由主义仍在处理它。",
+   "sources": [
+    "sep-rawls",
+    "sep-habermas",
+    "sep-derrida"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

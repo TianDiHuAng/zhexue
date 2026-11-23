@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 708,
+  "entries": 720,
   "by_level": {
-   "L2": 598,
-   "L1": 110
+   "L2": 609,
+   "L1": 111
   },
   "doctrine": {
    "total": 219,
    "detail": 219,
    "auto": 0
   },
-  "needs_verification": 110,
+  "needs_verification": 111,
   "sources": 322,
   "sources_verified": 318
  },
@@ -58,7 +58,7 @@
    "region": "china",
    "philosophers": 13,
    "concepts": 13,
-   "debates": 7,
+   "debates": 8,
    "philosophers_slot": "8 上限，余 -5"
   },
   {
@@ -76,7 +76,7 @@
    "region": "west",
    "philosophers": 16,
    "concepts": 14,
-   "debates": 7,
+   "debates": 8,
    "philosophers_slot": "8 上限，余 -8"
   },
   {
@@ -94,7 +94,7 @@
    "region": "west",
    "philosophers": 19,
    "concepts": 12,
-   "debates": 7,
+   "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
   {
@@ -103,7 +103,7 @@
    "region": "west",
    "philosophers": 10,
    "concepts": 12,
-   "debates": 7,
+   "debates": 8,
    "philosophers_slot": "8 上限，余 -2"
   },
   {
@@ -112,7 +112,7 @@
    "region": "west",
    "philosophers": 9,
    "concepts": 14,
-   "debates": 7,
+   "debates": 8,
    "philosophers_slot": "8 上限，余 -1"
   },
   {
@@ -121,7 +121,7 @@
    "region": "west",
    "philosophers": 15,
    "concepts": 12,
-   "debates": 6,
+   "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
   {
@@ -130,7 +130,7 @@
    "region": "west",
    "philosophers": 18,
    "concepts": 14,
-   "debates": 6,
+   "debates": 8,
    "philosophers_slot": "8 上限，余 -10"
   },
   {
@@ -139,7 +139,7 @@
    "region": "west",
    "philosophers": 31,
    "concepts": 12,
-   "debates": 7,
+   "debates": 8,
    "philosophers_slot": "8 上限，余 -23"
   }
  ],
@@ -2037,6 +2037,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-weijin-shengren-wuqing",
+   "type": "debate",
+   "title": "圣人是否有情（再论：情与理的关系）",
+   "container": "cn-weijin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-xianqin-kongzi",
    "type": "philosopher",
    "title": "孔子",
@@ -2788,6 +2799,17 @@
    "id": "gr-19c-individual-history",
    "type": "debate",
    "title": "个人能否脱离历史被理解",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-19c-labor-alienation",
+   "type": "debate",
+   "title": "劳动是自我实现还是自我丧失",
    "container": "gr-19c",
    "level": "L2",
    "sources": 3,
@@ -3665,6 +3687,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-ancient-soul-parts",
+   "type": "debate",
+   "title": "灵魂是否有部分",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-contemp-rawls",
    "type": "philosopher",
    "title": "罗尔斯",
@@ -3976,6 +4009,17 @@
    "id": "gr-contemp-universal-rights",
    "type": "debate",
    "title": "人权是普遍的还是文化的产物",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-contemp-public-reason",
+   "type": "debate",
+   "title": "公共理性能否约束宗教论证",
    "container": "gr-contemp",
    "level": "L2",
    "sources": 3,
@@ -4306,6 +4350,17 @@
    "id": "gr-german-end-of-history",
    "type": "debate",
    "title": "历史是否有终点",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-german-recognition",
+   "type": "debate",
+   "title": "承认是否是一切伦理的基础",
    "container": "gr-german",
    "level": "L2",
    "sources": 3,
@@ -4669,6 +4724,28 @@
    "id": "gr-hellenistic-emotion",
    "type": "debate",
    "title": "情感应当根除还是校正",
+   "container": "gr-hellenistic",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-hellenistic-rhetoric-philosophy",
+   "type": "debate",
+   "title": "修辞术是技艺还是奉承",
+   "container": "gr-hellenistic",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-hellenistic-astrology",
+   "type": "debate",
+   "title": "占星术是否有理",
    "container": "gr-hellenistic",
    "level": "L2",
    "sources": 3,
@@ -5092,6 +5169,28 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-just-war",
+   "type": "debate",
+   "title": "战争能否有正义",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-mendicant",
+   "type": "debate",
+   "title": "托钵修会是否应拥有财产",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -5645,6 +5744,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-modern-property",
+   "type": "debate",
+   "title": "私有财产是自然的还是约定的",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-lunyu",
    "type": "work",
    "title": "《论语》",
@@ -6162,6 +6272,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-de-cive",
+   "type": "work",
+   "title": "《上帝之城》（全本）",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-historia-cal",
    "type": "work",
    "title": "《上帝之城》第十九卷（和平与两座城）",
@@ -6279,6 +6400,17 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-sic-et-non",
+   "type": "work",
+   "title": "《是与否》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": false,
    "updated": "2026-11-23"
   },

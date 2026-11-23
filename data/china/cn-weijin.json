@@ -2855,6 +2855,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-weijin-shengren-wuqing",
+   "title": "圣人是否有情（再论：情与理的关系）",
+   "question": "圣人的“无累于物”是靠消除情感，还是靠情感的自然中节？",
+   "positions": [
+    {
+     "holder": "王弼",
+     "id": "cn-weijin-wangbi",
+     "stance": "有情而无累",
+     "reasons": [
+      "“圣人茂于人者神明，同于人者五情。”",
+      "情之应物是自然的，不须消除，只须不为其所累。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "何晏",
+     "id": "cn-weijin-heyan",
+     "stance": "无情",
+     "reasons": [
+      "圣人以理胜情，故无喜怒哀乐。",
+      "情属于凡人，圣人异于此。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "郭象",
+     "id": "cn-weijin-guoxiang",
+     "stance": "应物而不累",
+     "reasons": [
+      "“独化”之人应物而无待，故不累于物。",
+      "非无情，而是情无所系。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“无累的机制”：消除情感（何晏）／情感自然中节（王弼）／情无所系（郭象）——三者都承认“不为情所累”是圣人特征，但达到它的路径不同，这直接决定了修养工夫是“去情”还是“顺情”。",
+   "status": "大体有定论（王弼说成为主流）",
+   "status_note": "王弼的“有情而无累”成为后世主流表述，但“去情”与“顺情”两种工夫论在宋明理学中仍有回响（如朱熹的“惩忿窒欲”与阳明的“七情顺其自然之流行”）。",
+   "sources": [
+    "ws-shishuoxinyu",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

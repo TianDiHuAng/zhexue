@@ -5682,6 +5682,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-property",
+   "title": "私有财产是自然的还是约定的",
+   "question": "财产权是自然权利（先于国家），还是由法律与约定产生？",
+   "positions": [
+    {
+     "holder": "洛克",
+     "id": "gr-modern-locke",
+     "stance": "自然的（由劳动获得）",
+     "reasons": [
+      "人对自己的人身有所有权，故对其劳动及其成果亦有。",
+      "财产先于国家，国家的作用是保护它。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "霍布斯",
+     "id": "gr-modern-hobbes",
+     "stance": "由主权者确立",
+     "reasons": [
+      "自然状态中无“你的我的”，只有占有。",
+      "故财产权须由主权者的法律确定。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "卢梭",
+     "id": "gr-modern-rousseau",
+     "stance": "私有制是不平等的起源",
+     "reasons": [
+      "“第一个人圈起土地说这是我的”是不平等的开端。",
+      "故财产是社会的产物，而非自然的权利。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“财产的时间位置”：洛克把它放在国家之前（故国家不得侵犯），霍布斯放在国家之后（故由国家界定），卢梭把它视为历史的产物兼不平等的根源。三者的分歧决定了国家与个人权利的优先次序。",
+   "status": "无定论",
+   "status_note": "洛克说成为近代自由主义的基石；卢梭的批评成为社会主义思想的源头之一。",
+   "sources": [
+    "sep-locke",
+    "sep-hobbes",
+    "sep-rousseau"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

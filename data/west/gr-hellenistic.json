@@ -2941,6 +2941,100 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-rhetoric-philosophy",
+   "title": "修辞术是技艺还是奉承",
+   "question": "修辞术能否成为一门知识（technē），还是只是取悦听众的技巧？",
+   "positions": [
+    {
+     "holder": "斯多亚与早期学园（对照）",
+     "id": null,
+     "stance": "须以真理为基础",
+     "reasons": [
+      "真正的修辞须以知识为基础，否则只是奉承。",
+      "故修辞是“善言的科学”，非说服的技艺。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "西塞罗",
+     "id": "gr-hellenistic-cicero",
+     "stance": "罗马式的折中",
+     "reasons": [
+      "理想的演说家须兼有哲学与修辞。",
+      "故修辞是公民教育的核心，非可有可无的技巧。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "塞克斯都·恩披里柯（批评）",
+     "id": "gr-hellenistic-sextus",
+     "stance": "修辞术不存在",
+     "reasons": [
+      "修辞术若为技艺，须有其对象与规则；而说服不依规则。",
+      "故修辞术非技艺，其“规则”只是经验的记录。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“技艺（technē）的判准”：希腊化各家都把“是否有可传授的规则与确定的对象”作为判准；斯多亚与西塞罗认为可满足（故是技艺），塞克斯都以“说服不依规则”否认之。这一分歧决定了修辞能否进入哲学教育。",
+   "status": "无定论",
+   "status_note": "塞克斯都的批评保存了学园与斯多亚的争论材料；西塞罗的《论演说家》成为后世人文教育的依据。",
+   "sources": [
+    "sep-stoicism",
+    "iep-stoicism",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-astrology",
+   "title": "占星术是否有理",
+   "question": "星辰的位置能否决定或预示人的命运？",
+   "positions": [
+    {
+     "holder": "斯多亚派",
+     "id": "gr-hellenistic-zeno",
+     "stance": "有“宇宙同情”",
+     "reasons": [
+      "宇宙是一个统一的活体，各部分相互“同情”。",
+      "故星辰的位置与人事有其关联。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "卡内阿德斯与学园派（对照）",
+     "id": null,
+     "stance": "以双生子的论证反驳",
+     "reasons": [
+      "同时同地出生的双生子命运不同。",
+      "故星辰位置不能决定命运。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "塞克斯都·恩披里柯",
+     "id": "gr-hellenistic-sextus",
+     "stance": "怀疑其可检验",
+     "reasons": [
+      "占星的判断无法被独立验证。",
+      "故其“技艺”地位不成立。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“因果与预兆的区别”：斯多亚的“宇宙同情”是一种因果连带（故可预示），学园派与塞克斯都从“同因不同果”与“不可检验”两面反驳。争论关涉决定论、因果性与占卜知识的地位。",
+   "status": "无定论",
+   "status_note": "学园派的双生子论证成为后世批评占星的经典论据；斯多亚的“同情”说则在文艺复兴的占星与自然哲学中延续。",
+   "sources": [
+    "sep-stoicism",
+    "iep-stoicism",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

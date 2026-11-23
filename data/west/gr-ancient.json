@@ -3573,6 +3573,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-soul-parts",
+   "title": "灵魂是否有部分",
+   "question": "灵魂是统一的，还是可分为理性、激情与欲望三个部分？",
+   "positions": [
+    {
+     "holder": "柏拉图",
+     "id": "gr-ancient-plato",
+     "stance": "三分",
+     "reasons": [
+      "三部分各有其对象与动，故可相互冲突（《理想国》卷四）。",
+      "正义即三部分各司其职。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "stance": "以功能分层而非实体分割",
+     "reasons": [
+      "灵魂是形式，其“部分”是功能层级（营养、感觉、理智）。",
+      "故“部分”不是空间或实体意义上的分割。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "德谟克利特与原子论（对照）",
+     "id": "gr-ancient-democritus",
+     "stance": "以原子解释",
+     "reasons": [
+      "灵魂由精细的球形原子构成。",
+      "故其“统一性”由物质结构保证。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“部分”的意义：柏拉图需要实体性的三分以解释内在冲突，亚里士多德以功能层级取代实体分割，原子论以物质结构取代形式。三者对“灵魂是什么”的答案不同，故“是否有部分”的答案也不同。",
+   "status": "无定论",
+   "status_note": "柏拉图的三分说经新柏拉图主义与基督教神学（意志、理智、欲望）延续；亚里士多德的功能分层则经阿奎那被重新采用。",
+   "sources": [
+    "sep-plato",
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

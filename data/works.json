@@ -2663,6 +2663,63 @@
    "sort_year": 413
   },
   {
+   "id": "work-de-cive",
+   "title": "《上帝之城》（全本）",
+   "title_original": "De civitate Dei contra paganos",
+   "tradition": "west",
+   "date_display": "413—426年",
+   "structure": "二十二卷：前十卷驳异教崇拜（对罗马陷落的指责），后十二卷论两城的起源、进程与结局（至末卷论永福与复活）。",
+   "core_arguments": [
+    "两城（地上之城与上帝之城）由两种爱构成：爱自己以至轻视神 vs 爱神以至轻视自己",
+    "罗马的陷落不因基督教，而因罗马自身的腐化",
+    "历史是两城交织的进程，其终点不在历史之内"
+   ],
+   "key_points": [
+    {
+     "locator": "卷十四 第28章",
+     "point": "两城由两种爱构成"
+    },
+    {
+     "locator": "卷一—卷五",
+     "point": "驳“基督教导致罗马陷落”"
+    },
+    {
+     "locator": "卷十九",
+     "point": "和平与正义的定义"
+    },
+    {
+     "locator": "卷二十二",
+     "point": "复活与永福"
+    }
+   ],
+   "editions": [
+    "吴飞译《上帝之城》上海三联书店（节译本）；Loeb 版（7卷）；CCSL 版"
+   ],
+   "related_people": [
+    "gr-medieval-augustine",
+    "gr-medieval-aquinas",
+    "gr-hellenistic-cicero"
+   ],
+   "misreadings": [
+    {
+     "claim": "奥古斯丁主张教会即上帝之城",
+     "why": "他明确说两城在今世是“交织”的，教会内也有属地上之城者；把二者等同是后世的简化。"
+    },
+    {
+     "claim": "本书是历史哲学，预测历史进程",
+     "why": "它的重点是两城的“终极归宿”，不是历史进程的预测；其历史叙述服务于神学论证。"
+    }
+   ],
+   "sources": [
+    "lat-augustine-conf11",
+    "sep-augustine",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 413
+  },
+  {
    "id": "work-historia-cal",
    "title": "《上帝之城》第十九卷（和平与两座城）",
    "title_original": "De civitate Dei XIX",
@@ -3276,6 +3333,58 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1078
+  },
+  {
+   "id": "work-sic-et-non",
+   "title": "《是与否》",
+   "title_original": "Sic et Non",
+   "tradition": "west",
+   "date_display": "约1122年",
+   "structure": "一百五十八个问题（quaestiones）；每一问题下列教父著作中相互矛盾的说法（“是”与“否”），不加解答。",
+   "core_arguments": [
+    "权威之间确有矛盾，故须以辩证方法（辨明用语、语境、作者真伪）处理",
+    "以矛盾为研究的起点，而非回避它",
+    "理性方法服务于信仰，而非取代它"
+   ],
+   "key_points": [
+    {
+     "locator": "序",
+     "point": "方法说明与“辨明矛盾”的原则"
+    },
+    {
+     "locator": "各问题",
+     "point": "并列相互矛盾的教父说法"
+    },
+    {
+     "locator": "序",
+     "point": "对“辩证术”的辩护"
+    }
+   ],
+   "editions": [
+    "Boyer & McKeon 拉丁—英文本；中译参（若有）"
+   ],
+   "related_people": [
+    "gr-medieval-abelard",
+    "gr-medieval-anselm",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "阿伯拉尔以此否定教父权威",
+     "why": "他要以方法辨明表面的矛盾（用语、语境、真伪），从而维护权威的可理解性。"
+    },
+    {
+     "claim": "它已是经院“quaestio”的完成形态",
+     "why": "它只罗列“是”与“否”而不给解答，是 quaestio 的前身；解答格式由后世（如阿奎那）完成。"
+    }
+   ],
+   "sources": [
+    "sep-abelard",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1122
   },
   {
    "id": "work-historia-calamitatum",

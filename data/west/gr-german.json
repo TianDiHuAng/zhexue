@@ -2296,6 +2296,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-german-recognition",
+   "title": "承认是否是一切伦理的基础",
+   "question": "人是否只有在被他人承认时才成为自我意识的主体？承认可以是平等的吗？",
+   "positions": [
+    {
+     "holder": "费希特",
+     "id": "gr-german-fichte",
+     "stance": "以“召唤”确立",
+     "reasons": [
+      "自我意识须以他者的“召唤”（Aufforderung）为条件。",
+      "故自由是相互的：我的自由以你的自由为限。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "黑格尔",
+     "id": "gr-german-hegel",
+     "stance": "以“斗争”确立而终归不平等",
+     "reasons": [
+      "主奴辩证法：自我意识通过斗争获得承认。",
+      "但主人获得的承认来自奴隶，故不对等，须继续斗争。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "霍耐特与当代承认理论（对照）",
+     "id": null,
+     "stance": "以三种承认领域",
+     "reasons": [
+      "爱、法权、团结是三种承认形式。",
+      "故承认可制度化，但永不完成。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点在“承认的结构”：费希特以相互限制为条件（故承认是对称的规范关系），黑格尔以斗争与不对等为结构（故承认是历史的、可失衡的），当代理论把它分为制度领域。三者对“承认能否平等”的答案不同。",
+   "status": "无定论",
+   "status_note": "黑格尔的主奴辩证法经科耶夫、萨特与拉康的解读影响巨大；霍耐特的承认理论使之成为当代社会哲学的核心议题。",
+   "sources": [
+    "sep-hegel",
+    "sep-kant",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }
