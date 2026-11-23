@@ -8737,6 +8737,63 @@
    "sort_year": 1122
   },
   {
+   "id": "work-theologia-christiana",
+   "title": "《基督教神学》",
+   "title_original": "Theologia Christiana",
+   "tradition": "west",
+   "date_display": "约1123—1124年（阿伯拉尔）",
+   "structure": "五卷：论信仰的根据、神的属性、三位一体、道成肉身与圣礼；行文以“理性论证＋教父引证”并行。",
+   "core_arguments": [
+    "理性可用于**澄清**信仰，而非取消信仰",
+    "以辩证法（dialectica）检验关于神的言说",
+    "对“信仰先于理性”的传统表述作了调整"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "信仰的根据与理性的地位"
+    },
+    {
+     "locator": "卷二",
+     "point": "神的属性"
+    },
+    {
+     "locator": "卷三—四",
+     "point": "三位一体与道成肉身"
+    },
+    {
+     "locator": "卷五",
+     "point": "圣礼"
+    }
+   ],
+   "editions": [
+    "拉丁原文（Migne, PL 178）；英译（选译见相关研究）"
+   ],
+   "related_people": [
+    "gr-medieval-abelard",
+    "gr-medieval-anselm",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "阿伯拉尔主张“理性高于信仰”",
+     "why": "其立场是**以理性澄清信仰**（intellectus fidei），而非以理性取代信仰；其被谴责的若干命题是后人从文本中摘出的，语境常被剥离。"
+    },
+    {
+     "claim": "它只是《是与否》的续篇",
+     "why": "《是与否》是问题汇编（并列矛盾而不解答），《基督教神学》是系统论述；二者体例与目的不同。"
+    }
+   ],
+   "sources": [
+    "sep-abelard",
+    "sep-anselm",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《基督教神学》的成书与修订（与《是与否》的关系、被谴责的命题）须核 Migne 本与阿伯拉尔研究；其“理性与信仰”的立场不宜简化为“理性主义”。",
+   "sort_year": 1124
+  },
+  {
    "id": "work-historia-calamitatum",
    "title": "《我的苦难史》",
    "title_original": "Historia calamitatum（Ad amicum suum consolatoria）",
@@ -9579,6 +9636,63 @@
    "sort_year": 1255
   },
   {
+   "id": "work-sententiae",
+   "title": "《箴言注》",
+   "title_original": "Scriptum super Sententiis",
+   "tradition": "west",
+   "date_display": "约1252—1256年（阿奎那）；彼得·伦巴德《箴言四书》的注疏",
+   "structure": "四卷（对应《箴言四书》）：①论三位一体与神；②论创造与罪；③论道成肉身与德性；④论圣礼与末世。",
+   "core_arguments": [
+    "以“问题—辨析”（quaestio disputata）的体例整理神学：先列反对意见，再给答复",
+    "在“本质与存在”“神的知识与意志”等问题上确立自己的立场",
+    "以亚里士多德的哲学工具重述奥古斯丁的神学传统"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 分辩1—3",
+     "point": "神的知识与意志"
+    },
+    {
+     "locator": "卷一 分辩8",
+     "point": "神中的理念"
+    },
+    {
+     "locator": "卷二 分辩1",
+     "point": "创造与本质"
+    },
+    {
+     "locator": "卷四 分辩",
+     "point": "圣礼与末世"
+    }
+   ],
+   "editions": [
+    "拉丁原文（Scriptum super libros Sententiarum，Moos 编）；英译（选译见相关研究）"
+   ],
+   "related_people": [
+    "gr-medieval-aquinas",
+    "gr-medieval-abelard",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "《箴言注》只是阿奎那的习作，无独立价值",
+     "why": "它是其神学体系的**第一次系统表述**，许多后期《神学大全》的论题在此已成形；且其对“本质与存在”“神的知识”的讨论具有独立价值。"
+    },
+    {
+     "claim": "它是对《箴言四书》的字面注释",
+     "why": "它采用“问题—辨析”的体例，以《箴言》的文本为**出发点**而生发自己的讨论；故非字面注释。"
+    }
+   ],
+   "sources": [
+    "sep-aquinas",
+    "book-copleston-history",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "阿奎那《箴言注》的成书分两阶段（1252—54 的 Scriptum 与 1254—56 的补充），各本的卷次与分辩编号须核 Moos 编本；其与《神学大全》的异同亦须分辨。",
+   "sort_year": 1256
+  },
+  {
    "id": "work-summa",
    "title": "《神学大全》",
    "title_original": "Summa Theologiae",
@@ -9863,6 +9977,63 @@
    "needs_verification": true,
    "pending_notes": "《论第一原理》的成书年代（约1290）与各本章节划分须核梵蒂冈版《司各脱全集》；其与《牛津评注》的关系亦是线索。",
    "sort_year": 1290
+  },
+  {
+   "id": "work-xingli-daquan",
+   "title": "《性理大全》",
+   "title_original": "性理大全",
+   "tradition": "china",
+   "date_display": "1415年（胡广等奉敕编）",
+   "structure": "七十卷：汇集宋儒（周敦颐、二程、张载、朱熹等）的语录与著作，分类编排（理气、鬼神、性理、学、诸儒等）。",
+   "core_arguments": [
+    "以程朱理学为官方教化的标准",
+    "以分类汇编的方式把宋儒的多样化讨论**统一**为可教授的知识体系",
+    "为科举提供经义的理学框架"
+   ],
+   "key_points": [
+    {
+     "locator": "卷首",
+     "point": "编纂的缘起与体例"
+    },
+    {
+     "locator": "理气门",
+     "point": "理气论"
+    },
+    {
+     "locator": "性理门",
+     "point": "性与心"
+    },
+    {
+     "locator": "诸儒门",
+     "point": "宋儒的评述"
+    }
+   ],
+   "editions": [
+    "明内府刻本；《四库全书》本；中华书局影印本（若有）"
+   ],
+   "related_people": [
+    "cn-songming-zhu-xi",
+    "cn-songming-cheng-yi",
+    "cn-songming-zhang-zai"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是宋儒原著的汇刻",
+     "why": "它是**分类汇编**：编者对材料有取舍、删节与编排，故不能等同于原著；其编排本身即一种**立场的表达**（以程朱为宗）。"
+    },
+    {
+     "claim": "它只是科举的工具书",
+     "why": "它确实服务于科举与教化，但同时是明初**官方理学**的定型文本；其取舍影响了此后数百年的理学理解。"
+    }
+   ],
+   "sources": [
+    "ws-taijitushuo",
+    "ws-xiangshan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《性理大全》的编纂过程（胡广等奉敕，1415 年成）与各本卷次须核；其与《四书五经大全》的关系亦是线索。未找到该书的可实开在线全文，故本条依理学研究与通行书目概述。",
+   "sort_year": 1415
   },
   {
    "id": "work-baishaji",

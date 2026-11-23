@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1091,
+  "entries": 1094,
   "by_level": {
    "L2": 785,
-   "L1": 306
+   "L1": 309
   },
   "doctrine": {
    "total": 254,
    "detail": 254,
    "auto": 0
   },
-  "needs_verification": 306,
+  "needs_verification": 309,
   "sources": 396,
   "sources_verified": 396
  },
@@ -9649,6 +9649,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-theologia-christiana",
+   "type": "work",
+   "title": "《基督教神学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-historia-calamitatum",
    "type": "work",
    "title": "《我的苦难史》",
@@ -9814,6 +9825,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-sententiae",
+   "type": "work",
+   "title": "《箴言注》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-summa",
    "type": "work",
    "title": "《神学大全》",
@@ -9862,6 +9884,17 @@
    "type": "work",
    "title": "《论第一原理》",
    "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-xingli-daquan",
+   "type": "work",
+   "title": "《性理大全》",
+   "container": "china",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
