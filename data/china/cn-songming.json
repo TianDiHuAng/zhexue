@@ -3974,6 +3974,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-ti-yong-yi-yuan",
+   "term": "体用一源",
+   "term_latin": "substance and function from one source",
+   "definition": "程颐的命题：“体用一源，显微无间”——体（本体）与用（作用）不是两个东西，而是同一实在的两个面向；故不可离用求体，亦不可舍体言用。此说为朱熹所承，成为理学的本体论纲领。",
+   "usages": [
+    {
+     "name": "程颐",
+     "id": "cn-songming-cheng-yi",
+     "usage": "“体用一源，显微无间”：体用非二，显微无隔。"
+    },
+    {
+     "name": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "usage": "以“理为体、象为用”说明理与万物的关系。"
+    },
+    {
+     "name": "王阳明（改造）",
+     "id": "cn-songming-wang-yangming",
+     "usage": "以“良知为体、见闻为用”重述体用。"
+    }
+   ],
+   "related": [
+    "cn-songming-li-qi"
+   ],
+   "example": {
+    "text": "“体用一源”反对两种极端：一是把体用分为两截（则体成为悬空的抽象），二是以用为体（则取消本体）。故它要求在**同一实在**中理解二者——这一结构使理学既不同于佛家的“空”，也不同于事功之学的“唯用”。",
+    "figure": "程颐",
+    "locator": "《易传序》；《河南程氏遗书》"
+   },
+   "sources": [
+    "ws-taijitushuo",
+    "ws-chuanxi",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

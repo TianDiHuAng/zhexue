@@ -6140,6 +6140,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-conatus-spinoza",
+   "term": "努力（conatus）",
+   "term_latin": "conatus",
+   "definition": "斯宾诺莎的命题：每一事物“努力维持在其存在中”（in suo esse perseverare conatur）。这一努力不是有意识的选择，而是事物的**本质自身**；在人那里，它就是欲望（cupiditas）。",
+   "usages": [
+    {
+     "name": "斯宾诺莎",
+     "id": "gr-modern-spinoza",
+     "usage": "“努力维持自身存在”即是事物的现实本质；在人则为欲望。"
+    },
+    {
+     "name": "霍布斯（对照）",
+     "id": "gr-modern-hobbes",
+     "usage": "以“自我保全”为自然权利的基础，但其路径是契约论的。"
+    },
+    {
+     "name": "莱布尼茨（改造）",
+     "id": "gr-modern-leibniz",
+     "usage": "以“欲求”（appetition）为单子的内在原则，与 conatus 同构。"
+    }
+   ],
+   "related": [
+    "gr-modern-substance",
+    "gr-modern-passions"
+   ],
+   "example": {
+    "text": "conatus 的独特性在于它**取消了目的因**：事物不是为了某个目的而努力，它就是这股努力本身；故斯宾诺莎的伦理学没有“应当”，只有对“能增加还是减少这一努力”的分析——这是其与一切规范伦理学的分界。",
+    "figure": "斯宾诺莎",
+    "locator": "《伦理学》第三部分 命题6—9"
+   },
+   "sources": [
+    "sep-spinoza",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

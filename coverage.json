@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1024,
+  "entries": 1030,
   "by_level": {
-   "L2": 773,
-   "L1": 251
+   "L2": 777,
+   "L1": 253
   },
   "doctrine": {
    "total": 246,
    "detail": 246,
    "auto": 0
   },
-  "needs_verification": 251,
+  "needs_verification": 253,
   "sources": 384,
   "sources_verified": 384
  },
@@ -39,7 +39,7 @@
    "title": "宋明理学与心学",
    "region": "china",
    "philosophers": 20,
-   "concepts": 24,
+   "concepts": 25,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -12"
   },
@@ -138,7 +138,7 @@
    "title": "近代理性论与经验论",
    "region": "west",
    "philosophers": 34,
-   "concepts": 22,
+   "concepts": 23,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -26"
   }
@@ -1611,6 +1611,17 @@
    "id": "cn-songming-li-yi-fen-shu",
    "type": "concept",
    "title": "理一分殊",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-ti-yong-yi-yuan",
+   "type": "concept",
+   "title": "体用一源",
    "container": "cn-songming",
    "level": "L2",
    "sources": 3,
@@ -7603,6 +7614,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-modern-conatus-spinoza",
+   "type": "concept",
+   "title": "努力（conatus）",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-modern-innate-controversy",
    "type": "debate",
    "title": "天赋观念是否存在",
@@ -8945,6 +8967,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-de-libero-arbitrio",
+   "type": "work",
+   "title": "《论自由意志》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-confessions",
    "type": "work",
    "title": "《忏悔录》",
@@ -8989,6 +9022,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-de-trinitate",
+   "type": "work",
+   "title": "《论三位一体》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-historia-cal",
    "type": "work",
    "title": "《上帝之城》第十九卷（和平与两座城）",
@@ -8997,6 +9041,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-retractationes",
+   "type": "work",
+   "title": "《订正论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -9657,6 +9712,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-tractatus-politicus",
+   "type": "work",
+   "title": "《政治论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

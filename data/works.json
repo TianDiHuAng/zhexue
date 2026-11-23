@@ -6467,6 +6467,63 @@
    "sort_year": 350
   },
   {
+   "id": "work-de-libero-arbitrio",
+   "title": "《论自由意志》",
+   "title_original": "De libero arbitrio",
+   "tradition": "west",
+   "date_display": "388—395年（奥古斯丁）",
+   "structure": "三卷（对话体，与埃伏第乌）：卷一论恶的来源（恶是意志的偏离）；卷二论上帝存在的证明与自由意志的价值；卷三论预知与自由意志的相容。",
+   "core_arguments": [
+    "恶不是实体，而是意志的**偏离**（aversion）——故恶的来源不是上帝",
+    "自由意志是上帝的善赐（无它则无正当的生活）",
+    "预知不等于必然：上帝预见人将如何选择，但不强迫其选择"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "恶是意志的偏离"
+    },
+    {
+     "locator": "卷二",
+     "point": "上帝存在的证明"
+    },
+    {
+     "locator": "卷三",
+     "point": "预知与自由的相容"
+    },
+    {
+     "locator": "全书",
+     "point": "“自由意志是善的赐予”"
+    }
+   ],
+   "editions": [
+    "中译参成官泯《论自由意志》（上海人民出版社）；拉丁原文 CCSL／PL"
+   ],
+   "related_people": [
+    "gr-medieval-augustine",
+    "gr-medieval-aquinas",
+    "gr-modern-hobbes"
+   ],
+   "misreadings": [
+    {
+     "claim": "奥古斯丁在此已主张“预定论”",
+     "why": "本书（早期）尚以自由意志为恶的根源；其后期（与伯拉纠论战后）才强化恩典与预定，立场有发展。"
+    },
+    {
+     "claim": "“预知即必然”是奥古斯丁的立场",
+     "why": "卷三明确分辨“预知”与“必然”：预见不使所预见者成为被迫的。"
+    }
+   ],
+   "sources": [
+    "sep-augustine",
+    "book-copleston-history",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论自由意志》属奥古斯丁早期著作，其立场与其后期（反伯拉纠）的恩典论有发展；本页述其书之说，并标出这一发展。",
+   "sort_year": 395
+  },
+  {
    "id": "work-confessions",
    "title": "《忏悔录》",
    "title_original": "Confessiones",
@@ -6697,6 +6754,63 @@
    "sort_year": 413
   },
   {
+   "id": "work-de-trinitate",
+   "title": "《论三位一体》",
+   "title_original": "De Trinitate",
+   "tradition": "west",
+   "date_display": "399—419年（奥古斯丁）",
+   "structure": "十五卷：前七卷以圣经与逻辑确立三一论的教义；后八卷以“心灵的三一”（记忆、理解、意志）为类比，探求人对神的认识与爱。",
+   "core_arguments": [
+    "三一不是三个神，而是一实体三 Persons（位格）",
+    "以心灵的三一为类比：记忆、理解、意志三者是一心的三个面向",
+    "“信仰寻求理解”：先信而后求理解（crede ut intelligas）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—卷七",
+     "point": "三一教义的圣经与逻辑根据"
+    },
+    {
+     "locator": "卷八—卷十",
+     "point": "心灵的三一（记忆、理解、意志）"
+    },
+    {
+     "locator": "卷十四",
+     "point": "智慧与知识的区分"
+    },
+    {
+     "locator": "卷十五",
+     "point": "类比的限度"
+    }
+   ],
+   "editions": [
+    "中译参周伟驰《论三位一体》（商务印书馆）；拉丁原文 CCSL／PL"
+   ],
+   "related_people": [
+    "gr-medieval-augustine",
+    "gr-medieval-aquinas",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "以“心灵的三一”为类比是证明三一",
+     "why": "奥古斯丁明确说类比的**限度**：受造的心灵只能“依稀”映像三一，故类比是引导而非证明。"
+    },
+    {
+     "claim": "《论三位一体》只讲神学，无哲学",
+     "why": "其心灵三一的讨论是西方**自我认识**与意志哲学的源头（记忆、理解、意志的结构直接影响了此后的主体性哲学）。"
+    }
+   ],
+   "sources": [
+    "sep-augustine",
+    "book-copleston-history",
+    "sep-aquinas"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 419
+  },
+  {
    "id": "work-historia-cal",
    "title": "《上帝之城》第十九卷（和平与两座城）",
    "title_original": "De civitate Dei XIX",
@@ -6752,6 +6866,63 @@
    "needs_verification": true,
    "pending_notes": "《上帝之城》卷十九的拉丁原文尚未进本库（现仅用《忏悔录》与 SEP/IEP 词条支撑）；引原句前须补一部拉丁文本或权威译本，并核卷章编号。",
    "sort_year": 420
+  },
+  {
+   "id": "work-retractationes",
+   "title": "《订正论》",
+   "title_original": "Retractationes",
+   "tradition": "west",
+   "date_display": "426—427年（奥古斯丁晚年）",
+   "structure": "二卷：逐部回顾自己一生的著作（共九十三部），指出其中需要修正之处。",
+   "core_arguments": [
+    "自我校订是一种哲学的义务：写作须可被后来的自己修正",
+    "对早期著作的修正（尤其关于自由意志与恩典的表述）",
+    "以“重新审视”呈现思想的发展，而非掩盖变化"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "早期著作的回顾与修正"
+    },
+    {
+     "locator": "卷二",
+     "point": "《忏悔录》《论三位一体》等的说明"
+    },
+    {
+     "locator": "全书",
+     "point": "自我校订的体例"
+    },
+    {
+     "locator": "末章",
+     "point": "对全书写作的总结"
+    }
+   ],
+   "editions": [
+    "拉丁原文 CCSL 57；英译（New City Press,《The Retractations》）"
+   ],
+   "related_people": [
+    "gr-medieval-augustine",
+    "gr-medieval-aquinas",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "《订正论》是“撤回”自己的全部主张",
+     "why": "“retractatio”在此意为“重新审视／修正”，不是“撤回”；他仍坚持大部分主张，只指出需修正之处。"
+    },
+    {
+     "claim": "它只是文献目录",
+     "why": "它同时是**思想自传**：通过对旧作的校订呈现自己的思想发展，是古代罕见的自我批评文本。"
+    }
+   ],
+   "sources": [
+    "sep-augustine",
+    "book-copleston-history",
+    "sep-aquinas"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 427
   },
   {
    "id": "work-shishuo-xinyu",
@@ -10122,6 +10293,62 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1677
+  },
+  {
+   "id": "work-tractatus-politicus",
+   "title": "《政治论》",
+   "title_original": "Tractatus politicus",
+   "tradition": "west",
+   "date_display": "1675—1677（未完成，遗著）",
+   "structure": "十一章（未完成）：论自然权利、论国家的成立、三种政体（民主、贵族、君主）的分析与制度设计。",
+   "core_arguments": [
+    "自然权利与自然力量同延：凡能做的即有权做（故“权利”不是道德许可而是实际能力）",
+    "国家的目的是自由而非服从：“国家的最终目的不是支配人，而是使人自由”",
+    "以制度设计（而非道德劝诫）防止权力的滥用"
+   ],
+   "key_points": [
+    {
+     "locator": "第2章",
+     "point": "自然权利与力量同延"
+    },
+    {
+     "locator": "第3章",
+     "point": "国家的目的"
+    },
+    {
+     "locator": "第8章",
+     "point": "贵族政体的制度设计"
+    },
+    {
+     "locator": "第11章",
+     "point": "君主政体（未完成）"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆（若有）；拉丁原文与英译见 Curley 译本（Treatise on Politics）"
+   ],
+   "related_people": [
+    "gr-modern-spinoza",
+    "gr-modern-hobbes",
+    "gr-modern-rousseau"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《神学政治论》的续篇",
+     "why": "二者主题不同：《神学政治论》处理宗教与哲学的自由，《政治论》处理政体的制度设计；且前者已刊，后者未完成。"
+    },
+    {
+     "claim": "斯宾诺莎主张绝对服从国家",
+     "why": "其国家的目的是**自由**（“使人自由”），且其制度设计处处限制权力的扩张；故与霍布斯的绝对主权论不同。"
+    }
+   ],
+   "sources": [
+    "sep-spinoza",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《政治论》未完成（止于君主政体一章），故其关于君主制的结论不完整；中译本情况与 Curley 译本的用语须核。",
    "sort_year": 1677
   },
   {
