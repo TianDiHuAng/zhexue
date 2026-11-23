@@ -3325,6 +3325,45 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-virtue-knowledge",
+   "term": "德性即知识",
+   "term_latin": "virtue is knowledge",
+   "definition": "苏格拉底的命题：德性（aretē）是知识（epistēmē），故无人自愿作恶，作恶皆因无知。它把伦理学还原为认识问题，也成为后世“意志薄弱”之争的起点。",
+   "usages": [
+    {
+     "name": "苏格拉底",
+     "id": "gr-ancient-socrates",
+     "usage": "“无人自愿作恶”：若知何为善，必行善；作恶者是误判了善。"
+    },
+    {
+     "name": "亚里士多德（批评）",
+     "id": "gr-ancient-aristotle",
+     "usage": "以“意志薄弱”（akrasia）为反例：知善而不为是可能的（《尼各马可伦理学》VII）。"
+    },
+    {
+     "name": "柏拉图",
+     "id": "gr-ancient-plato",
+     "usage": "以灵魂三分修正：欲望可反抗理性，故德性不只是知识（《理想国》卷四）。"
+    }
+   ],
+   "related": [
+    "gr-ancient-arete",
+    "gr-ancient-meson"
+   ],
+   "example": {
+    "text": "这一命题的力量在于它取消了“明知故犯”的借口：若一切恶行都是误判，则纠正恶行的方法是教育而非惩罚——故它同时是一个关于**惩罚正当性**的主张。",
+    "figure": "苏格拉底（据柏拉图《普罗塔戈拉》）",
+    "locator": "《普罗塔戈拉》345c—358d"
+   },
+   "sources": [
+    "sep-plato",
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

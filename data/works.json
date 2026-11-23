@@ -5403,6 +5403,62 @@
    "sort_year": 1651
   },
   {
+   "id": "work-zhouyi-waizhuan",
+   "title": "《周易外传》",
+   "title_original": "周易外傳",
+   "tradition": "china",
+   "date_display": "1655年（据船山自述）；后经修订",
+   "structure": "十二卷（另有《周易内传》六卷为解经之作）；按卦逐卦发挥，以“外传”标明其非经注而是自抒己见。",
+   "core_arguments": [
+    "“天下惟器而已矣”：道在器中，无器则无道",
+    "以“絪缊”说明阴阳二气的氤氲化生：不是由“无”生“有”",
+    "“太虚”即气之本体，非空无：气有聚散而无生灭"
+   ],
+   "key_points": [
+    {
+     "locator": "《系辞上传》第十二章",
+     "point": "“天下惟器而已矣”“道者器之道”"
+    },
+    {
+     "locator": "《系辞下传》第五章",
+     "point": "絪缊化生"
+    },
+    {
+     "locator": "《乾卦》",
+     "point": "太虚即气"
+    },
+    {
+     "locator": "《系辞上传》",
+     "point": "“有”与“无”的辨正"
+    }
+   ],
+   "editions": [
+    "中华书局《周易外传》；《船山遺書》本"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-fuzhi",
+    "cn-songming-zhang-zai",
+    "cn-weijin-wangbi"
+   ],
+   "misreadings": [
+    {
+     "claim": "“天下惟器”是唯物论的物质本体论",
+     "why": "其“器”指具体的制度、器物与事为，“道”即在其条理之中；这是“道器不二”的形而上学，与近代物质本体论不同。"
+    },
+    {
+     "claim": "王夫之主张气有生灭",
+     "why": "他主张气只有聚散而无生灭（“生灭者，气之聚散”），故与“气尽则无”不同。"
+    }
+   ],
+   "sources": [
+    "ws-zhouyi-waizhuan2",
+    "ws-du-sishu"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《周易外传》的成书年代与修订过程（船山自述与后世考证有出入）有讨论；各本（船山遗书本、中华书局本）的分卷与文字略有差异。",
+   "sort_year": 1655
+  },
+  {
    "id": "work-mingyi",
    "title": "《明夷待访录》",
    "title_original": "明夷待訪錄",
@@ -5457,6 +5513,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1663
+  },
+  {
+   "id": "work-du-sishu-daquant",
+   "title": "《读四书大全说》",
+   "title_original": "讀四書大全說",
+   "tradition": "china",
+   "date_display": "1665年",
+   "structure": "十卷；按《大学》《中庸》《论语》《孟子》逐章解说，以批评《四书大全》（明胡广等奉敕撰）所收的朱子学解释为主。",
+   "core_arguments": [
+    "“理在气中”：反对“理在气先”，以气之条理为理",
+    "“理存乎欲”：天理即在人欲的恰当处，非与之对立",
+    "逐条批评朱子学的解释，而以“气”重解四书"
+   ],
+   "key_points": [
+    {
+     "locator": "《大学》部分",
+     "point": "格物与气的关系"
+    },
+    {
+     "locator": "《中庸》部分",
+     "point": "未发已发与气"
+    },
+    {
+     "locator": "《论语》部分",
+     "point": "性与天道"
+    },
+    {
+     "locator": "《孟子》部分",
+     "point": "理与欲"
+    }
+   ],
+   "editions": [
+    "中华书局《读四书大全说》；《船山遺書》本"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-fuzhi",
+    "cn-songming-zhu-xi",
+    "cn-qingmod-dai-zhen"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是对《四书大全》的补充注释",
+     "why": "它以批评为主：逐条驳正《大全》所收朱子学的解释，是“反注”而非“补注”。"
+    },
+    {
+     "claim": "王夫之完全否定朱熹",
+     "why": "他承程朱的问题（理气、心性）而改其结论（理在气中）；其批评针对的是“理在气先”的框架，不是全盘否定。"
+    }
+   ],
+   "sources": [
+    "ws-du-sishu",
+    "ws-zhouyi-waizhuan2"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本书为读书记录体，各条之间有重复与前后不一致之处；其与《周易外传》《张子正蒙注》的关系（何者为其哲学的定论）学界有讨论。",
+   "sort_year": 1665
   },
   {
    "id": "work-pensees",

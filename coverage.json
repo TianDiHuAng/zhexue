@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 776,
+  "entries": 782,
   "by_level": {
-   "L2": 640,
-   "L1": 136
+   "L2": 644,
+   "L1": 138
   },
   "doctrine": {
    "total": 227,
    "detail": 227,
    "auto": 0
   },
-  "needs_verification": 136,
-  "sources": 335,
-  "sources_verified": 335
+  "needs_verification": 138,
+  "sources": 337,
+  "sources_verified": 337
  },
  "units": [
   {
@@ -30,7 +30,7 @@
    "title": "清代与近代转型",
    "region": "china",
    "philosophers": 15,
-   "concepts": 12,
+   "concepts": 13,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -39,7 +39,7 @@
    "title": "宋明理学与心学",
    "region": "china",
    "philosophers": 20,
-   "concepts": 14,
+   "concepts": 15,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -12"
   },
@@ -84,7 +84,7 @@
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
    "philosophers": 21,
-   "concepts": 16,
+   "concepts": 17,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -13"
   },
@@ -93,7 +93,7 @@
    "title": "古希腊哲学",
    "region": "west",
    "philosophers": 19,
-   "concepts": 14,
+   "concepts": 15,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -860,6 +860,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-qingmod-yinyun",
+   "type": "concept",
+   "title": "絪缊",
+   "container": "cn-qingmod",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-qingmod-li-yu",
    "type": "debate",
    "title": "理与欲之争",
@@ -1319,6 +1330,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-xin-tong-xingqing",
+   "type": "concept",
+   "title": "心统性情",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -3368,6 +3390,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-das-man",
+   "type": "concept",
+   "title": "常人",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-20c-metaphysics-meaning",
    "type": "debate",
    "title": "形而上学命题是否有认知意义",
@@ -3815,6 +3848,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-ancient-virtue-knowledge",
+   "type": "concept",
+   "title": "德性即知识",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -7108,6 +7152,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-zhouyi-waizhuan",
+   "type": "work",
+   "title": "《周易外传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-mingyi",
    "type": "work",
    "title": "《明夷待访录》",
@@ -7116,6 +7171,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-du-sishu-daquant",
+   "type": "work",
+   "title": "《读四书大全说》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

@@ -2865,6 +2865,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-yinyun",
+   "term": "絪缊",
+   "term_latin": "yinyun（cosmic intermingling）",
+   "definition": "王夫之用以说明气之化生的核心词：阴阳二气相摩相荡、氤氲不息的状态。它不是“由无生有”，而是气自身的聚散与交感；故世界无始无终，只有聚散。",
+   "usages": [
+    {
+     "name": "王夫之",
+     "id": "cn-qingmod-wang-fuzhi",
+     "usage": "“絪缊，太和之真体”：二气交感而不息，非有一物生之。"
+    },
+    {
+     "name": "张载",
+     "usage": "以“太虚即气”与“一物两体”为其先声。"
+    },
+    {
+     "name": "王弼（对照）",
+     "usage": "以“无”为本：万物“恃无以生”，与絪缊说相反。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-lizaiqizhong"
+   ],
+   "example": {
+    "text": "王夫之以“絪缊”取代“无中生有”：若万物由“无”而生，则“无”成了不可思议的本原；而二气的相摩相荡是可由变化观察的，故不需另设一个“无”。",
+    "figure": "王夫之",
+    "locator": "《周易外传·系辞下传》"
+   },
+   "sources": [
+    "ws-zhouyi-waizhuan2",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

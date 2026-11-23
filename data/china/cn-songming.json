@@ -3591,6 +3591,45 @@
    ],
    "needs_verification": true,
    "pending_notes": "“六经注我”的出处与上下文（《语录》为门人所记）须核中华书局点校本；其与“我注六经”的对举是否为陆氏原话，学界有讨论。"
+  },
+  {
+   "id": "cn-songming-xin-tong-xingqing",
+   "term": "心统性情",
+   "term_latin": "mind unifying nature and feeling",
+   "definition": "张载提出、朱熹采纳的命题：心统摄性与情。性是体（未发），情是用（已发），而心为之主宰；故修养不是在性外求心，也不是在情外求性。",
+   "usages": [
+    {
+     "name": "张载",
+     "id": "cn-songming-zhang-zai",
+     "usage": "“心统性情者也”：心兼体用而言。"
+    },
+    {
+     "name": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "usage": "以“心统性情”为其心性论的基本结构：性为心之体，情为心之用。"
+    },
+    {
+     "name": "陆九渊",
+     "id": "cn-songming-lu-jiuyuan",
+     "usage": "以“心即理”简化之：不须分体用，心即是理。"
+    }
+   ],
+   "related": [
+    "cn-songming-xing-ji-li",
+    "cn-songming-li-qi"
+   ],
+   "example": {
+    "text": "朱子以“心统性情”解决一个困难：若只说“性即理”，则情（喜怒哀乐）无从安放；若只说“心即理”，则性与情之别被抹去。故“统”字是关键——它使心成为体用之间的主宰。",
+    "figure": "朱熹",
+    "locator": "《朱子语类》卷九十八"
+   },
+   "sources": [
+    "ws-taijitushuo",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

@@ -3724,6 +3724,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-das-man",
+   "term": "常人",
+   "term_latin": "das Man",
+   "definition": "海德格尔的生存论概念：日常生活中的“人们”——“人们都这样说”“人们都这样做”。它不是某个群体，而是此在在日常中把判断与选择交给“无人称的谁”的那种存在方式。",
+   "usages": [
+    {
+     "name": "海德格尔",
+     "id": "gr-20c-heidegger",
+     "usage": "“谁”不是这个人或那个人，而是“常人”；此在在常人中丧失其本己性（沉沦）。"
+    },
+    {
+     "name": "萨特（对照）",
+     "id": "gr-20c-sartre",
+     "usage": "以“自欺”（mauvaise foi）说明类似现象：人把自己当作对象或角色以逃避自由。"
+    },
+    {
+     "name": "克尔凯郭尔（先驱）",
+     "usage": "以“公众”（Publikum）与“众人”批判匿名的舆论。"
+    }
+   ],
+   "related": [
+    "gr-20c-authenticity"
+   ],
+   "example": {
+    "text": "“常人”的可怕之处不在它有主张，而在它**取消了主张的责任**：当一切都说“人们都这样”，就没有人为这个“这样”负责——故海德格尔说常人是“无此人称的谁”。",
+    "figure": "海德格尔",
+    "locator": "《存在与时间》§25—§27"
+   },
+   "sources": [
+    "sep-heidegger",
+    "sep-sartre"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [
