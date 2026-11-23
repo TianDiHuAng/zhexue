@@ -1655,6 +1655,146 @@
      "note": "今本经张湛编定，真伪有讨论"
     }
    ]
+  },
+  {
+   "id": "cn-weijin-sengzhao",
+   "name": "僧肇",
+   "latin": "Sengzhao",
+   "birth_year": 384,
+   "death_year": 414,
+   "birth_display": "384年",
+   "death_display": "414年",
+   "birth_note": "据《高僧传》：生于京兆长安，家贫以佣书为业。",
+   "death_note": "414年卒于长安，年仅三十一。",
+   "era": "东晋。僧肇为鸠摩罗什门下“四圣”之一，以《肇论》系统阐发中观义理，被誉为中国佛教哲学成熟的标志；其“不真空”“物不迁”诸论至今被研读。",
+   "school": "般若学（中观）",
+   "core_questions": [
+    "万物是空还是假有？",
+    "动静关系如何理解？",
+    "般若之知是怎样的知？"
+   ],
+   "arguments": [
+    {
+     "claim": "不真空：缘起无自性故空，而假有宛然",
+     "premises": [
+      "万物依缘而起，无独立自性。",
+      "无自性不等于不存在（假有仍然有效）。"
+     ],
+     "inference": "若空是“无自性”而非“无物”，则空不异于假有；故不可把空理解为断灭。",
+     "conclusion": "“不真”故“空”：空是假有的实相，非灭有而后空。",
+     "kind": "原文"
+    },
+    {
+     "claim": "物不迁：动静不二",
+     "premises": [
+      "过去之物只存在于过去，今物只存在于今。",
+      "物不相往来，故无“从过去到现在”的迁移。"
+     ],
+     "inference": "若物各住于其时，则表面上的运动只是现象，实相是“不迁”。",
+     "conclusion": "动静不二：动是现象，不迁是实相（“旋岚偃岳而常静”）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《肇论》（《不真空论》《物不迁论》《般若无知论》《涅槃无名论》）",
+     "edition": "张春波《肇论校释》中华书局；《大正藏》第45册",
+     "note": "四篇；中国佛教哲学最早的系统论著"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "鸠摩罗什与龙树中观",
+     "id": null,
+     "note": "中观义理与译经训练"
+    },
+    {
+     "name": "王弼与郭象的玄学",
+     "id": null,
+     "note": "有无、动静的问题框架"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "三论宗（吉藏）",
+     "id": null,
+     "note": "承其中观解释"
+    },
+    {
+     "name": "天台与华严",
+     "id": null,
+     "note": "不真空与三谛的思想资源"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后世研究者（文献学）",
+     "view": "《涅槃无名论》是否僧肇所作有争议，或为后人所加。",
+     "response": "僧肇一系的回应是：即使个别篇目存疑，前三论的思想体系已足以确立其地位。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-zhaolun",
+      "sep-madhyamaka"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“不真空”主张一切皆无",
+     "why": "它明确反对把空理解为断灭；空是无自性，假有宛然。"
+    },
+    {
+     "claim": "“物不迁”否认运动",
+     "why": "它区分现象与实相：动是现象，不迁是实相；不是否认经验中的运动。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>僧肇：不真空与物不迁</text><defs><marker id='aSZ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>万物缘起无自性</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>无自性不等于无物</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故不真空</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故动静不二，动是现象</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aSZ)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aSZ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "僧肇：不真空与物不迁（示意图）",
+   "sources": [
+    "ws-zhaolun",
+    "sep-madhyamaka",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《涅槃无名论》的作者归属有争议；《宗本义》亦可能为后人所加。本页以《不真空论》《物不迁论》《般若无知论》为主。",
+   "doctrine": {
+    "summary": "僧肇以《肇论》系统阐发中观义理：“不真空”谓万物缘起无自性故空，而假有宛然，空非断灭；“物不迁”谓动静不二，往物不去、今物不来，动是现象而不迁是实相；“般若无知”谓圣智不执取对象而照见实相。其论被视为中国佛教哲学成熟的标志。",
+    "system": [
+     {
+      "name": "不真空",
+      "content": "缘起无自性故空；空不异于假有，非灭有而后空。"
+     },
+     {
+      "name": "物不迁",
+      "content": "动静不二；往物不去、今物不来（“旋岚偃岳而常静”）。"
+     },
+     {
+      "name": "般若无知",
+      "content": "圣智不执取对象，故能照见实相（“虚其心而实其照”）。"
+     },
+     {
+      "name": "涅槃无名",
+      "content": "涅槃超越名相（此篇作者归属有争议）；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "长安（约401—414）",
+      "change": "师从鸠摩罗什，参与译场；著《肇论》诸篇；年仅三十一而卒。"
+     }
+    ],
+    "reception": "其说被视为中国佛教哲学成熟的标志；三论宗承其中观解释；天台、华严吸收其“不真空”的思想资源。"
+   },
+   "works_detail": [
+    {
+     "title": "《肇论》",
+     "structure": "四篇：宗本义、物不迁论、不真空论、般若无知论（涅槃无名论后附）。",
+     "core_thesis": "不真空；物不迁；般若无知；这是该书的核心命题。",
+     "editions": "张春波《肇论校释》中华书局；《大正藏》第45册",
+     "note": "《涅槃无名论》作者归属有争议"
+    }
+   ]
   }
  ],
  "concepts": [

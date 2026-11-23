@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 403,
+  "entries": 406,
   "by_level": {
-   "L2": 341,
-   "L1": 62
+   "L2": 342,
+   "L1": 64
   },
   "doctrine": {
-   "total": 144,
-   "detail": 144,
+   "total": 147,
+   "detail": 147,
    "auto": 0
   },
-  "needs_verification": 62,
-  "sources": 245,
-  "sources_verified": 229
+  "needs_verification": 64,
+  "sources": 248,
+  "sources_verified": 232
  },
  "units": [
   {
@@ -56,10 +56,10 @@
    "unit_id": "cn-weijin",
    "title": "魏晋玄学",
    "region": "china",
-   "philosophers": 10,
+   "philosophers": 11,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -2"
+   "philosophers_slot": "8 上限，余 -3"
   },
   {
    "unit_id": "cn-xianqin",
@@ -83,19 +83,19 @@
    "unit_id": "gr-20c",
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
-   "philosophers": 10,
+   "philosophers": 11,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -2"
+   "philosophers_slot": "8 上限，余 -3"
   },
   {
    "unit_id": "gr-ancient",
    "title": "古希腊哲学",
    "region": "west",
-   "philosophers": 11,
+   "philosophers": 12,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -3"
+   "philosophers_slot": "8 上限，余 -4"
   },
   {
    "unit_id": "gr-contemp",
@@ -1289,6 +1289,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-weijin-sengzhao",
+   "type": "philosopher",
+   "title": "僧肇",
+   "container": "cn-weijin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-weijin-guiwu",
    "type": "concept",
    "title": "贵无",
@@ -2037,6 +2048,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-strawson",
+   "type": "philosopher",
+   "title": "斯特劳森",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-20c-sense-reference",
    "type": "concept",
    "title": "意义与指称",
@@ -2298,6 +2320,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-ancient-thales",
+   "type": "philosopher",
+   "title": "泰勒斯",
+   "container": "gr-ancient",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

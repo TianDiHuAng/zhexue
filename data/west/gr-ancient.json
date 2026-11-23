@@ -1732,6 +1732,141 @@
      "note": "残篇极少，多依转述"
     }
    ]
+  },
+  {
+   "id": "gr-ancient-thales",
+   "name": "泰勒斯",
+   "latin": "Thales of Miletus",
+   "birth_year": -624,
+   "death_year": -546,
+   "birth_display": "约前624年",
+   "death_display": "约前546年",
+   "birth_note": "生卒为推定；据第欧根尼·拉尔修与希罗多德，他曾预言日食（前585年）。",
+   "death_note": "同上；具体卒年不可考。",
+   "era": "公元前6世纪。泰勒斯为米利都学派创始人，被视为西方第一位哲学家；他以自然物（水）解释万物，而不诉诸神话，并因预言日食、测量金字塔而闻名。",
+   "school": "米利都学派",
+   "core_questions": [
+    "万物由什么构成？",
+    "自然现象能否以自然原因解释？",
+    "万物的本原是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "水是万物的本原",
+     "premises": [
+      "一切养分皆湿，热本身由湿而生，生命依赖湿。",
+      "大地浮于水上（古代观察）。"
+     ],
+     "inference": "若万物由之而生、又复归于它，则该物即本原；湿与水遍在于生成过程中，故水是本原。",
+     "conclusion": "水是万物的本原，万物由水生成并复归。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "以自然原因解释现象，不诉诸神话",
+     "premises": [
+      "日食、地震等现象有自然的原因。",
+      "神话解释不能给出可检验的理由。"
+     ],
+     "inference": "若现象有自然原因，则解释应求诸自然而非神意。",
+     "conclusion": "哲学始于以自然解释自然（“从神话到逻各斯”）。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "无著作传世（学说见亚里士多德《形而上学》A.3 等转述）",
+     "edition": "DK 11；亚里士多德《形而上学》A.3 983b；第欧根尼·拉尔修卷一",
+     "note": "无一手文本；其观点由后世转述"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "埃及与巴比伦的几何、天文知识",
+     "id": null,
+     "note": "测量与天象知识的背景"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "阿那克西曼德",
+     "id": "gr-ancient-anaximander",
+     "note": "其学生，以“无定”修正水本原说"
+    },
+    {
+     "name": "整个希腊自然哲学",
+     "id": null,
+     "note": "“本原”问题的开端"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "亚里士多德",
+     "view": "以水为本原缺乏充分论证；且水作为元素不能解释运动与生成的全部。",
+     "response": "泰勒斯一系的回应可重构为：本原须能说明生成与滋养，湿与水的遍在性使其成为最自然的候选。",
+     "kind": "后人解读",
+     "sources": [
+      "iep-thales",
+      "book-guthrie-greek"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "泰勒斯是“科学之父”",
+     "why": "他仍以哲学论证（而非实验）提出本原说；称其为“第一位哲学家”更准确。“科学”是后世的范畴。"
+    },
+    {
+     "claim": "他说“万物充满神”是无神论",
+     "why": "其“神”是内在的自然生命力，与后世无神论不同。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>泰勒斯：水为本原</text><defs><marker id='aTH' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>养分皆湿、热由湿生</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>大地浮于水上</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故水是万物本原</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故以自然解释自然</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aTH)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aTH)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：前提为转述，图示为重构</text></svg>",
+   "svg_caption": "泰勒斯：水本原说的论证（示意图）",
+   "sources": [
+    "iep-thales",
+    "book-guthrie-greek",
+    "sep-presocratics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "泰勒斯无著作传世，其观点全部来自亚里士多德、希罗多德与第欧根尼·拉尔修的转述；具体论证的归属有讨论。",
+   "doctrine": {
+    "summary": "泰勒斯被视为西方第一位哲学家：他以水为万物本原（一切养分皆湿、热由湿生、大地浮于水上），主张以自然原因而非神话解释现象，从而开启“从神话到逻各斯”的转变。其具体论证由后世转述，未必是其原话，但“寻求本原”的提问方式确立了哲学的问题框架。",
+    "system": [
+     {
+      "name": "水为本原",
+      "content": "养分皆湿、热由湿生，故水是万物由之生成并复归者。"
+     },
+     {
+      "name": "自然解释",
+      "content": "日食、地震等现象有自然原因，解释应求诸自然。"
+     },
+     {
+      "name": "万物有灵",
+      "content": "“万物充满神”：自然具内在生命力（与后世无神论不同）。"
+     },
+     {
+      "name": "几何与天文",
+      "content": "以相似三角形测金字塔高、预言日食，显示理性推算的取向。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "米利都（约前624—前546）",
+      "change": "米利都学派创始人；据记载曾预言前585年日食。"
+     }
+    ],
+    "reception": "其“本原”问题开启希腊自然哲学；学生阿那克西曼德以“无定”修正之；亚里士多德《形而上学》A卷的哲学史叙述以其为起点。"
+   },
+   "works_detail": [
+    {
+     "title": "无著作传世（学说见转述）",
+     "structure": "无一手文本；学说见亚里士多德《形而上学》A.3 983b、第欧根尼·拉尔修卷一。",
+     "core_thesis": "水为本原；以自然解释自然；这是该书的核心命题。",
+     "editions": "DK 11；亚里士多德《形而上学》A.3",
+     "note": "全部为转述，须谨慎归属"
+    }
+   ]
   }
  ],
  "concepts": [

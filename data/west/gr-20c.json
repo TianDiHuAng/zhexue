@@ -1640,6 +1640,150 @@
      "note": "第二卷“神话”部分论“他者”的建构"
     }
    ]
+  },
+  {
+   "id": "gr-20c-strawson",
+   "name": "斯特劳森",
+   "latin": "P. F. Strawson",
+   "birth_year": 1919,
+   "death_year": 2006,
+   "birth_display": "1919年",
+   "death_display": "2006年",
+   "birth_note": "生于伦敦；据其生平材料。",
+   "death_note": "2006年卒于牛津。",
+   "era": "20世纪后半叶的牛津分析哲学。斯特劳森以《个体》重建描述形而上学，以《论指称》批评罗素的摹状词理论，并把康德研究带入分析哲学（《感觉的界限》）。",
+   "school": "分析哲学（描述形而上学）",
+   "core_questions": [
+    "我们用以思考世界的基本概念有哪些？",
+    "指称如何运作？",
+    "“描述的形而上学”与“修正的形而上学”有何区别？"
+   ],
+   "arguments": [
+    {
+     "claim": "描述形而上学：分析我们实际拥有的概念框架",
+     "premises": [
+      "我们以物体与人作为基本个别物来思考世界。",
+      "这些概念是思想与经验的必要条件。"
+     ],
+     "inference": "若某些概念是经验得以可能的条件，则哲学的任务是描述它们（而非修正它们）。",
+     "conclusion": "形而上学可以是描述性的：揭示概念图式的核心结构。",
+     "kind": "原文"
+    },
+    {
+     "claim": "摹状词并非总是指称某个对象",
+     "premises": [
+      "“当今法国国王是秃子”在无国王时为假或不当，而非指称一个不存在者。",
+      "指称依赖于语境中的预设与使用。"
+     ],
+     "inference": "若指称由使用与预设决定，则罗素把摹状词一律作量化分析并不充分。",
+     "conclusion": "日常语言的指称实践比罗素的逻辑改写更复杂。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《个体》《论指称》《感觉的界限》",
+     "edition": "《个体》中译参中国人民大学出版社（若有）；《感觉的界限》中译参商务印书馆",
+     "note": "1959；1950；1966"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "康德与亚里士多德",
+     "id": null,
+     "note": "范畴与基本个别物的框架"
+    },
+    {
+     "name": "日常语言哲学（奥斯汀、赖尔）",
+     "id": null,
+     "note": "关注日常用法"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "分析形而上学（克里普克、刘易斯等）",
+     "id": null,
+     "note": "描述形而上学与指称讨论"
+    },
+    {
+     "name": "康德研究",
+     "id": null,
+     "note": "《感觉的界限》影响分析传统的康德解读"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "罗素一系与形式语义学者",
+     "view": "对摹状词的批评诉诸日常直觉，未给出形式化的替代方案。",
+     "response": "斯特劳森式的回应是：形式化须以日常指称实践为解释对象；忽略预设会使理论偏离语言的实际运作。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-strawson",
+      "sep-russell"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "斯特劳森否认形式逻辑的作用",
+     "why": "他反对的是把形式逻辑直接等同于日常语言的指称分析，并非否认逻辑工具。"
+    },
+    {
+     "claim": "描述形而上学不做论证",
+     "why": "它主张通过概念分析揭示必要条件，其本身即一种论证（先验论证）。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>斯特劳森：描述形而上学</text><defs><marker id='aST' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>我们以物体与人为基本个别物</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>这些概念是经验的必要条件</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故哲学应描述概念图式</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故形而上学可以是描述性的</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aST)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aST)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "斯特劳森：描述形而上学的结构（示意图）",
+   "sources": [
+    "sep-strawson",
+    "sep-russell",
+    "sep-kant"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "斯特劳森以“描述形而上学”重建分析哲学中的本体论：我们以物体与人作为基本个别物来思考世界，这些概念是经验得以可能的条件，故哲学的任务是描述而非修正概念图式。他又以《论指称》批评罗素把摹状词一律作量化分析，指出日常指称依赖语境与预设。",
+    "system": [
+     {
+      "name": "描述形而上学",
+      "content": "分析我们实际拥有的概念框架，而非另造更好的框架。"
+     },
+     {
+      "name": "基本个别物",
+      "content": "物体与人是我们思考世界的基本单位（《个体》）。"
+     },
+     {
+      "name": "指称与预设",
+      "content": "摹状词的指称依赖语境与预设，非一律量化分析。"
+     },
+     {
+      "name": "先验论证",
+      "content": "以“经验的可能性条件”论证概念的必然性。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "牛津时期（1947—1968）",
+      "change": "任牛津大学讲师与教授；《论指称》（1950）、《个体》（1959）。"
+     },
+     {
+      "period": "后期（1968—2006）",
+      "change": "《感觉的界限》（1966）、《怀疑主义与自然主义》；晚年论哲学方法。"
+     }
+    ],
+    "reception": "其描述形而上学与分析传统的康德研究影响深远；与罗素的指称之争成为语言哲学的经典；克里普克等后学承其形而上学议程。"
+   },
+   "works_detail": [
+    {
+     "title": "《个体》",
+     "structure": "论特殊事物与 particulars、声音与人物、单子与主体等。",
+     "core_thesis": "描述形而上学；基本个别物；这是该书的核心命题。",
+     "editions": "中译参中国人民大学出版社（若有）；Methuen 英文本",
+     "note": "1959 年；描述形而上学的奠基之作"
+    }
+   ]
   }
  ],
  "concepts": [
