@@ -3908,6 +3908,81 @@
    ],
    "needs_verification": true,
    "pending_notes": "“古路/新路”的分野在14—15世纪各大学的制度化程度不同（巴黎、海德堡、维也纳各有差异）；本页述其一般的哲学含义，制度细节须核中世纪大学史研究。"
+  },
+  {
+   "id": "gr-medieval-formal-distinction",
+   "term": "形式区分",
+   "term_latin": "distinctio formalis",
+   "definition": "司各脱的区分方式：在同一事物中，依其“形式上的不同”而作出的区分（如神的智慧与意志）。它既非实在的区分（不是两个事物），也非仅理性的区分（不是心灵的任意造作），而是**介于两者之间**。",
+   "usages": [
+    {
+     "name": "司各脱",
+     "id": "gr-medieval-duns-scotus",
+     "usage": "形式区分：同一事物中依形式而有的非同一性。"
+    },
+    {
+     "name": "阿奎那（对照）",
+     "id": "gr-medieval-aquinas",
+     "usage": "只承认实在的区分与理性的区分，不设居间者。"
+    },
+    {
+     "name": "奥卡姆（批评）",
+     "id": "gr-medieval-ockham",
+     "usage": "以唯名论消解：若无实在的对应，则区分只是名称。"
+    }
+   ],
+   "related": [
+    "gr-medieval-universals",
+    "gr-medieval-analogy-being"
+   ],
+   "example": {
+    "text": "“形式区分”是为了解决一个两难：若神的智慧与意志是实在不同的两个东西，则神 Composition（复合），与“单纯”相违；若只是理性的区分，则神的属性成了任意的命名。故须有一个**居间的区分**。",
+    "figure": "司各脱",
+    "locator": "《论第一原理》；《牛津评注》"
+   },
+   "sources": [
+    "sep-aquinas",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“形式区分”的确切含义（其“形式”是客观的non-identity 还是概念上的精细分别）在司各脱研究中有长期争论；本页述其问题与位置，不裁定其解释。"
+  },
+  {
+   "id": "gr-medieval-nominalism-ockham",
+   "term": "奥卡姆的剃刀",
+   "term_latin": "Ockham's razor",
+   "definition": "常被表述为“如无必要，勿增实体”（entia non sunt multiplicanda praeter necessitatem）。但这句话并非奥卡姆的原话，而是后世对他“不预设多余实在”的立场的概括；其本人的原则更接近于“能用少数说明的，不用多数”。",
+   "usages": [
+    {
+     "name": "奥卡姆的威廉",
+     "id": "gr-medieval-ockham",
+     "usage": "以个体为唯一实在；共相只是心灵中的符号（fictum）。"
+    },
+    {
+     "name": "阿奎那（对照）",
+     "id": "gr-medieval-aquinas",
+     "usage": "承认共相有其基础（in re 的共同本性）。"
+    },
+    {
+     "name": "司各脱（对照）",
+     "id": "gr-medieval-duns-scotus",
+     "usage": "承认“共同本性”的实在性，故不需剃刀。"
+    }
+   ],
+   "related": [
+    "gr-medieval-universals"
+   ],
+   "example": {
+    "text": "“剃刀”的流行表述有一个问题：它听起来像“越简单越好”的方法论口号，而奥卡姆的用法是**本体论的节约**（不预设多余的实在），二者不同。故引用这句“名言”时须注意它不是原话。",
+    "figure": "奥卡姆的威廉",
+    "locator": "（“剃刀”之名为后世所加）"
+   },
+   "sources": [
+    "sep-aquinas",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“奥卡姆的剃刀”这一名称与“如无必要勿增实体”的表述均非其原话，是后世的概括（类似表述见邓斯·司各脱与其他人）；本页标出这一点。"
   }
  ],
  "debates": [

@@ -2874,6 +2874,83 @@
    ],
    "needs_verification": true,
    "pending_notes": "“一子不二师”的具体表述与适用范围（是否普遍适用于各宗）须核《禅源诸诠集都序》与天台、华严的宗派史；本页取其一般含义并标出宗密兼承的特例。"
+  },
+  {
+   "id": "cn-suitang-yinian-wuming",
+   "term": "一念无明",
+   "term_latin": "one thought of ignorance",
+   "definition": "天台与华严共用的说法：无明不是与真如并列的另一本原，而是“一念”迷失方向的状态。故“无明”无始而有终（可被破），真如则无始无终。",
+   "usages": [
+    {
+     "name": "智顗",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以“一念无明法性心”说明迷悟同源：无明与法性是一念的两面。"
+    },
+    {
+     "name": "法藏",
+     "id": "cn-suitang-fazang",
+     "usage": "以“真如随缘”说明无明如何依真如而起（非另有本原）。"
+    },
+    {
+     "name": "宗密",
+     "id": "cn-suitang-zongmi",
+     "usage": "以“本觉”与“不觉”对举，说明一念之迷。"
+    }
+   ],
+   "related": [
+    "cn-suitang-xingju"
+   ],
+   "example": {
+    "text": "“一念无明”解决的是**二元论的陷阱**：若真如与无明是两个本原，则佛教的“唯一实相”不成立；若只有一个本原，则恶从何来？答案是“一念”——无明不是实体，而是**方向错了的觉**。",
+    "figure": "智顗",
+    "locator": "《摩诃止观》卷五"
+   },
+   "sources": [
+    "ws-mohezhiguan",
+    "ws-dacheng-qixinlun",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“一念无明”在天台与华严的用法有差异（天台重“性具”，华严重“性起”）；本页并述其线索，具体表述须核《摩诃止观》与《大乘起信论》。"
+  },
+  {
+   "id": "cn-suitang-famen-busi",
+   "term": "法门不二",
+   "term_latin": "the dharma-gates are non-dual",
+   "definition": "中国佛教的会通原则：一切法门（教法、修行路径）虽异，其所趣的实相不二。故“不二”不是取消差别，而是说差别不构成对立。它与“判教”互为表里：判教定次第，不二说其归趣。",
+   "usages": [
+    {
+     "name": "智顗",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以“一念三千”与“三谛圆融”说明差别即圆融。"
+    },
+    {
+     "name": "法藏",
+     "id": "cn-suitang-fazang",
+     "usage": "以“六相圆融”说明总别、同异、成坏不相碍。"
+    },
+    {
+     "name": "宗密",
+     "id": "cn-suitang-zongmi",
+     "usage": "以“三宗三教”的配对会通禅与教。"
+    }
+   ],
+   "related": [
+    "cn-suitang-jiaoxiang",
+    "cn-suitang-yizi-buershi"
+   ],
+   "example": {
+    "text": "“不二”的分寸很重要：若把“不二”理解为“无差别”，则判教与修行次第都将失效；故其真正的含义是**差别而无对立** —— 这一点是理解中国佛教圆融说的关键。",
+    "figure": "智顗",
+    "locator": "《法华玄义》"
+   },
+   "sources": [
+    "ws-mohezhiguan",
+    "ws-huayan-jinshizi",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“法门不二”非某一宗的专名，而是各宗共用的会通原则；本页取其一般含义并标出各宗表述的差异。"
   }
  ],
  "debates": [

@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 976,
+  "entries": 985,
   "by_level": {
-   "L2": 756,
-   "L1": 220
+   "L2": 758,
+   "L1": 227
   },
   "doctrine": {
    "total": 237,
    "detail": 237,
    "auto": 0
   },
-  "needs_verification": 220,
+  "needs_verification": 227,
   "sources": 374,
   "sources_verified": 374
  },
@@ -48,7 +48,7 @@
    "title": "隋唐佛学",
    "region": "china",
    "philosophers": 14,
-   "concepts": 23,
+   "concepts": 25,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -6"
   },
@@ -75,7 +75,7 @@
    "title": "19世纪哲学",
    "region": "west",
    "philosophers": 17,
-   "concepts": 19,
+   "concepts": 20,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -9"
   },
@@ -93,7 +93,7 @@
    "title": "古希腊哲学",
    "region": "west",
    "philosophers": 19,
-   "concepts": 29,
+   "concepts": 30,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -129,7 +129,7 @@
    "title": "中世纪经院哲学",
    "region": "west",
    "philosophers": 18,
-   "concepts": 23,
+   "concepts": 25,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -2081,6 +2081,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-suitang-yinian-wuming",
+   "type": "concept",
+   "title": "一念无明",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-suitang-famen-busi",
+   "type": "concept",
+   "title": "法门不二",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-suitang-dunjian",
    "type": "debate",
    "title": "顿悟与渐修",
@@ -3566,6 +3588,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-19c-existential-irony",
+   "type": "concept",
+   "title": "生存的反讽",
+   "container": "gr-19c",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-19c-free-will",
    "type": "debate",
    "title": "自由意志与决定论是否相容",
@@ -4761,6 +4794,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-ancient-rhetoric-psychagogy",
+   "type": "concept",
+   "title": "修辞即灵魂的引导",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -6558,6 +6602,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-medieval-formal-distinction",
+   "type": "concept",
+   "title": "形式区分",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-nominalism-ockham",
+   "type": "concept",
+   "title": "奥卡姆的剃刀",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-medieval-universals-debate",
    "type": "debate",
    "title": "共相是实在还是名称",
@@ -8197,6 +8263,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-de-senectute",
+   "type": "work",
+   "title": "《论老年》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-shuoyuan",
    "type": "work",
    "title": "《说苑》",
@@ -8392,6 +8469,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-lives-philosophers",
+   "type": "work",
+   "title": "《名哲言行录》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -10400,6 +10488,17 @@
    "id": "cmp-silence",
    "type": "comparative",
    "title": "沉默的四种用法：庄子、维特根斯坦、否定神学与海德格尔",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-irony",
+   "type": "comparative",
+   "title": "反讽的三种身份：苏格拉底的诘问、克尔凯郭尔的生存、罗蒂的语汇",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

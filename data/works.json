@@ -741,32 +741,33 @@
    "title_original": "Φαῖδρος（Phaedrus）",
    "tradition": "west",
    "date_display": "约前370年",
-   "structure": "对话体；前半论爱若斯（三篇讲辞与苏格拉底的“灵魂马车”神话），后半论修辞术与辩证术，末以“书写”的批评（图提斯神话）收束。",
+   "structure": "一篇对话（苏格拉底与斐德若在城外散步）；含吕西阿斯的修辞演说、苏格拉底的两篇演说（灵魂马车的比喻）、以及关于修辞术的讨论。",
    "core_arguments": [
-    "灵魂如马车：理性为驭者，激情与欲望为两马，故须协调",
-    "真正的修辞须以真理与灵魂的知识为基础，否则只是迎合",
-    "书写弱化记忆、使言辞脱离作者而不能自辩，故“活的语言”优于文字"
+    "灵魂三分（驭者与两匹马）的比喻：理性与两种欲望的冲突",
+    "爱若斯的四种疯狂：其中“哲学的疯狂”是最高的",
+    "真正的修辞是“灵魂的引导”（psychagōgia）：须先知灵魂的种类",
+    "对书写的批评：文字使记忆衰退，且不能自辩"
    ],
    "key_points": [
     {
-     "locator": "246a—249d",
-     "point": "灵魂马车与羽翼神话"
+     "locator": "230e—234c",
+     "point": "吕西阿斯的演说"
     },
     {
-     "locator": "259e—274b",
-     "point": "修辞术的条件"
+     "locator": "246a—254e",
+     "point": "灵魂马车与两匹马的比喻"
     },
     {
-     "locator": "274b—277a",
-     "point": "图提斯神话与书写的批评"
+     "locator": "265b—266b",
+     "point": "四种疯狂与辩证法"
     },
     {
-     "locator": "277a—279c",
-     "point": "辩证术与“活的言辞”"
+     "locator": "274b—278b",
+     "point": "对书写的批评"
     }
    ],
    "editions": [
-    "中译参《柏拉图全集》人民出版社；Loeb 版（Fowler）"
+    "中译参朱光潜《柏拉图文艺对话集》；英文 Jowett；Hackforth, Plato's Phaedrus"
    ],
    "related_people": [
     "gr-ancient-plato",
@@ -775,12 +776,12 @@
    ],
    "misreadings": [
     {
-     "claim": "柏拉图主张禁止书写",
-     "why": "他批评的是书写的限度（不能自辩、弱化记忆），其自身仍写作对话——对话形式本身就是对这一批评的回应。"
+     "claim": "《斐德若》是修辞学教程",
+     "why": "它前半是修辞的示范与批评，后半转而论灵魂与辩证法；其真正的论题是言辞与灵魂的关系，故它不是技术手册。"
     },
     {
-     "claim": "《斐德罗篇》是修辞学教材",
-     "why": "它论的是修辞的哲学条件，不是技法手册。"
+     "claim": "柏拉图主张废除文字",
+     "why": "其批评针对的是“书写的自足幻觉”（以为文字能替代活的对话），不是要废除书写——他自己正是以书写传达这一批评。"
     }
    ],
    "sources": [
@@ -4373,6 +4374,63 @@
    "sort_year": -44
   },
   {
+   "id": "work-de-senectute",
+   "title": "《论老年》",
+   "title_original": "Cato maior de senectute",
+   "tradition": "west",
+   "date_display": "前44年（西塞罗）",
+   "structure": "一篇对话（老加图主述，西庇阿与莱利乌斯在座）；分四段反驳对老年的四种指控（不能从事政务、体力衰退、丧失快乐、临近死亡）。",
+   "core_arguments": [
+    "老年不是能力的丧失，而是**欲求的平息**：摆脱了青年的情欲，反而更适合理性",
+    "以“农人的耕作”为喻：老年的收获是先前积累的德性与学识",
+    "对死亡的准备：或灵魂不朽（《西庇阿之梦》的立场），或归于自然——两者皆不足惧"
+   ],
+   "key_points": [
+    {
+     "locator": "§15—§26",
+     "point": "反驳“不能从事政务”"
+    },
+    {
+     "locator": "§33—§38",
+     "point": "体力衰退与“以智代力”"
+    },
+    {
+     "locator": "§39—§44",
+     "point": "丧失快乐并非坏事"
+    },
+    {
+     "locator": "§66—§85",
+     "point": "临近死亡的两种可能"
+    }
+   ],
+   "editions": [
+    "中译参王焕生《论老年 论友谊 论责任》；英文 Loeb 本；拉丁原文 thelatinlibrary"
+   ],
+   "related_people": [
+    "gr-hellenistic-cicero",
+    "gr-hellenistic-zeno",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "《论老年》是一篇劝人安于衰老的慰藉文",
+     "why": "它有明确的论证结构（逐一反驳四种指控），并坚持老年“更适合理性”的正面主张；慰藉只是其效果，不是其论证。"
+    },
+    {
+     "claim": "它对死亡取了确定的立场",
+     "why": "它并列两种可能（灵魂不朽／归于自然）而说二者皆不足惧——这是学园派的“或然”策略，不是独断。"
+    }
+   ],
+   "sources": [
+    "sep-stoicism",
+    "iep-stoicism",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -44
+  },
+  {
    "id": "work-shuoyuan",
    "title": "《说苑》",
    "title_original": "說苑",
@@ -5390,6 +5448,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 210
+  },
+  {
+   "id": "work-lives-philosophers",
+   "title": "《名哲言行录》",
+   "title_original": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων",
+   "tradition": "west",
+   "date_display": "约3世纪（第欧根尼·拉尔修）",
+   "structure": "十卷：按学派编排（伊奥尼亚一系：泰勒斯至伊壁鸠鲁；意大利一系：毕达哥拉斯至怀疑论），以“生平＋学说＋佚事＋书信”的体例记录。",
+   "core_arguments": [
+    "以“师承谱系”组织哲学史：学派是父子相继的链条",
+    "保存了大量原典佚文（如伊壁鸠鲁的三封书信、早期自然哲学家的残篇）",
+    "以轶事呈现哲人的“生活方式”，故其史观是“哲人传”而非“学说史”"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "泰勒斯与七贤"
+    },
+    {
+     "locator": "卷七",
+     "point": "斯多亚派（芝诺至克吕西波）"
+    },
+    {
+     "locator": "卷八",
+     "point": "毕达哥拉斯与意大利一系"
+    },
+    {
+     "locator": "卷十",
+     "point": "伊壁鸠鲁的三封书信与《主要原理》"
+    }
+   ],
+   "editions": [
+    "中译参马永翔等译《名哲言行录》（吉林人民出版社）；Loeb 本（Hicks）；希腊原文 OCT"
+   ],
+   "related_people": [
+    "gr-hellenistic-epicurus",
+    "gr-hellenistic-zeno",
+    "gr-ancient-pythagoras"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是可靠的哲学史",
+     "why": "它是**编纂物**：材料来源不一、时有传闻与误解；其价值在保存佚文与轶事，而不在分析。故研究须逐条核对其来源。"
+    },
+    {
+     "claim": "它只是趣闻集",
+     "why": "它保存了大量原典佚文（尤其伊壁鸠鲁的书信与格言），是研究希腊化哲学的一等材料。"
+    }
+   ],
+   "sources": [
+    "iep-stoicism",
+    "sep-stoicism",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《名哲言行录》的材料来源、卷次的编排原则与成书年代（3世纪上半叶）须核 Loeb 本导论与相关研究；其保存的佚文为研究希腊化哲学的主要依据之一。",
+   "sort_year": 230
   },
   {
    "id": "work-renwuzhi",

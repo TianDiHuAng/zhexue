@@ -3887,6 +3887,45 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-rhetoric-psychagogy",
+   "term": "修辞即灵魂的引导",
+   "term_latin": "psychagōgia",
+   "definition": "《斐德若》对修辞的界定：真正的修辞不是说服的技巧，而是“通过言辞引导灵魂”（psychagōgia）——故修辞者须先懂灵魂的种类，才能对不同的人说不同的话。",
+   "usages": [
+    {
+     "name": "柏拉图（《斐德若》）",
+     "id": "gr-ancient-plato",
+     "usage": "修辞是灵魂的引导；须先知灵魂的种类（如农人先识土壤）。"
+    },
+    {
+     "name": "高尔吉亚（被批评者）",
+     "id": "gr-ancient-gorgias",
+     "usage": "以修辞为说服的技艺，不问对象的真伪。"
+    },
+    {
+     "name": "亚里士多德（改造）",
+     "id": "gr-ancient-aristotle",
+     "usage": "以《修辞学》把它系统化为论证与情感的技术。"
+    }
+   ],
+   "related": [
+    "gr-ancient-logos",
+    "gr-ancient-eros"
+   ],
+   "example": {
+    "text": "“灵魂的引导”把修辞从**技巧**变成**知识**：如同医生须懂身体，修辞者须懂灵魂。这一要求使修辞与哲学不可分——故柏拉图对修辞的批评不是否定修辞，而是要求它成为一门有根据的学问。",
+    "figure": "柏拉图",
+    "locator": "《斐德若》270b—271c"
+   },
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek",
+    "mit-plato-republic"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

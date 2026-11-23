@@ -3184,6 +3184,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-19c-existential-irony",
+   "term": "生存的反讽",
+   "term_latin": "existential irony",
+   "definition": "克尔凯郭尔（承苏格拉底的反讽而改造）的概念：反讽不只是修辞，而是一种**生存姿态** —— 以否定性的自由悬置既定的现实，从而使自己不被任何现成规定所穷尽。",
+   "usages": [
+    {
+     "name": "克尔凯郭尔",
+     "id": "gr-19c-kierkegaard",
+     "usage": "苏格拉底的反讽是“无限的绝对否定性”：它使既有现实失效，却不给出新的现实。"
+    },
+    {
+     "name": "苏格拉底（原型的）",
+     "usage": "以诘问使对话者的定义失效（《申辩》《欧悌甫戎》）。"
+    },
+    {
+     "name": "罗蒂（后世的引用）",
+     "usage": "以“反讽主义者”指承认自己终极语汇偶然性的人。"
+    }
+   ],
+   "related": [
+    "gr-19c-nihilism"
+   ],
+   "example": {
+    "text": "克尔凯郭尔对反讽的双面评价值得注意：它既是**自由的开端**（不被现实穷尽），也是**危险**（若停留在否定，则什么也不建立）。故他要求反讽被“教条主义”所节制——这是他区别于浪漫派反讽之处。",
+    "figure": "克尔凯郭尔",
+    "locator": "《论反讽概念》"
+   },
+   "sources": [
+    "sep-kierkegaard",
+    "sep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": true,
+   "pending_notes": "克尔凯郭尔的《论反讽概念》是其学位论文（1841），其中对苏格拉底反讽的解读有其本人的立场；本页并述其说与苏格拉底文本的差异。"
   }
  ],
  "debates": [
