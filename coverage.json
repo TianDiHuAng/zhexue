@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 654,
+  "entries": 657,
   "by_level": {
-   "L2": 558,
-   "L1": 96
+   "L2": 559,
+   "L1": 98
   },
   "doctrine": {
-   "total": 215,
-   "detail": 215,
+   "total": 217,
+   "detail": 217,
    "auto": 0
   },
-  "needs_verification": 96,
-  "sources": 316,
-  "sources_verified": 312
+  "needs_verification": 98,
+  "sources": 320,
+  "sources_verified": 316
  },
  "units": [
   {
@@ -137,10 +137,10 @@
    "unit_id": "gr-modern",
    "title": "近代理性论与经验论",
    "region": "west",
-   "philosophers": 27,
+   "philosophers": 29,
    "concepts": 12,
    "debates": 6,
-   "philosophers_slot": "8 上限，余 -19"
+   "philosophers_slot": "8 上限，余 -21"
   }
  ],
  "entries": [
@@ -5128,6 +5128,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-modern-luther",
+   "type": "philosopher",
+   "title": "路德",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-calvin",
+   "type": "philosopher",
+   "title": "加尔文",
+   "container": "gr-modern",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-modern-idea",
    "type": "concept",
    "title": "观念",
@@ -5972,6 +5994,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-institutes",
+   "type": "work",
+   "title": "《基督教要义》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

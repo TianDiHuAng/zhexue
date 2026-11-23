@@ -3334,6 +3334,62 @@
    "sort_year": 1530
   },
   {
+   "id": "work-institutes",
+   "title": "《基督教要义》",
+   "title_original": "Institutio Christianae Religionis",
+   "tradition": "west",
+   "date_display": "1536年初版；1559年定本",
+   "structure": "1559 定本四卷：卷一论创造者神（含圣经的权威）、卷二论救赎者神（含预定）、卷三论圣灵的恩典（信、悔改、称义）、卷四论教会与圣礼。",
+   "core_arguments": [
+    "圣经的权威来自圣灵的内在见证，不依赖教会的裁定",
+    "神的主权与双重预定是恩典教义的逻辑延伸",
+    "教会须以圣经为准则 reformed（不断改革）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 第7章",
+     "point": "圣灵的内在见证（testimonium internum）"
+    },
+    {
+     "locator": "卷二 第21—23章",
+     "point": "预定论"
+    },
+    {
+     "locator": "卷三 第11章",
+     "point": "称义"
+    },
+    {
+     "locator": "卷四",
+     "point": "教会与圣礼"
+    }
+   ],
+   "editions": [
+    "中译参三联书店《基督教要义》；OS（Opera Selecta）拉丁文本"
+   ],
+   "related_people": [
+    "gr-modern-calvin",
+    "gr-modern-luther",
+    "gr-medieval-augustine"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是系统神学的“新教托马斯”",
+     "why": "它有系统结构，但其方法以圣经注释为基，且明确拒绝经院式的思辨神学（虽仍使用其术语）。"
+    },
+    {
+     "claim": "1536 初版与 1559 定本内容一致",
+     "why": "定本篇幅数倍于初版，预定论的表述与位置都有重大变化。"
+    }
+   ],
+   "sources": [
+    "iep-calvin",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本书 1536 初版与 1559 定本差异显著（篇幅、结构与预定论的位置），引用须注明版本；无 SEP 专属词条，本页依据 IEP 与哲学史。",
+   "sort_year": 1536
+  },
+  {
    "id": "work-chuanxilu",
    "title": "《传习录》",
    "title_original": "傳習錄（Instructions for Practical Living）",

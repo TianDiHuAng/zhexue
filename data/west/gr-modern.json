@@ -4318,6 +4318,285 @@
      "note": "1597 年；17世纪通行教材"
     }
    ]
+  },
+  {
+   "id": "gr-modern-luther",
+   "name": "路德",
+   "latin": "Martin Luther",
+   "birth_year": 1483,
+   "death_year": 1546,
+   "birth_display": "1483年",
+   "death_display": "1546年",
+   "birth_note": "据其自述与传记材料：生于萨克森艾斯莱本，父为矿工后经营矿冶。",
+   "death_note": "1546年卒于艾斯莱本。",
+   "era": "16世纪。路德以“因信称义”引发宗教改革：人称义不靠善功与圣礼，而靠神所赐的信；由此他否定教宗的权威、主张人人可读经，并与伊拉斯谟就意志是否自由公开论战。",
+   "school": "宗教改革（奥古斯丁主义）",
+   "core_questions": [
+    "人如何称义？",
+    "意志是否自由？",
+    "权威在教宗还是在圣经？"
+   ],
+   "arguments": [
+    {
+     "claim": "因信称义：人称义靠信，不靠善功",
+     "premises": [
+      "人在得救之事上完全无力（“唯独恩典”）。",
+      "信是神所赐的义，被“归算”于人而非人所有。"
+     ],
+     "inference": "若人称义靠自己的善功，则基督的死徒然；故称义须是神白白的宣告（forensisch 的“归算”），人以信接受之。",
+     "conclusion": "义是外来的（iustitia aliena）：人同时是义人与罪人（simul iustus et peccator）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "意志的捆绑：在得救之事上意志不能自主",
+     "premises": [
+      "堕落之后意志被罪奴役，只能选择罪。",
+      "若意志自由，则得救有几分靠人，恩典便非全备。"
+     ],
+     "inference": "若意志在得救上能自主，则恩典不是唯一原因；故“意志的捆绑”是“唯独恩典”的逻辑前提。",
+     "conclusion": "意志在得救之事上是被捆绑的；自由只在与神无关的世俗事务上（此为其与伊拉斯谟的分歧点）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《九十五条论纲》《论意志的捆绑》《论基督徒的自由》《圣经》德译",
+     "edition": "《路德文集》中译参中国社会科学出版社／香港；WA（Weimarer Ausgabe）为权威全集",
+     "note": "1517；1525；1520；1522—1534"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "奥古斯丁与保罗",
+     "id": null,
+     "note": "恩典与意志的框架"
+    },
+    {
+     "name": "中世纪神秘主义与唯名论（奥卡姆一系）",
+     "id": null,
+     "note": "其早年训练"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "加尔文与改革宗",
+     "id": "gr-modern-calvin",
+     "note": "预定论与教会改革"
+    },
+    {
+     "name": "近代个人主义与圣经解释",
+     "id": "",
+     "note": "人人读经与良心自由"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "伊拉斯谟",
+     "view": "以“意志的捆绑”取消了人的道德责任，且使神成为罪恶的作者。",
+     "response": "路德一系的回应是：恩典不取消责任，而是恢复意志；神不诱惑人作恶，但任凭人随其本性。",
+     "kind": "原文",
+     "sources": [
+      "sep-luther",
+      "iep-luther"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "路德反对善功故反对道德",
+     "why": "他反对的是“以善功称义”，不是善功本身：信必结出爱的果子（《论基督徒的自由》）。"
+    },
+    {
+     "claim": "路德是个人主义者",
+     "why": "他强调信徒皆祭司与个人读经，但同时主张教会与世俗秩序的客观权威（两王国论）。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>路德：因信称义与意志的捆绑</text><defs><marker id='aLU' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>人在得救上完全无力</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>称义须是神白白的宣告</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故义是外来的、以信接受</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故意志在得救上不能自主</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLU)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLU)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "路德：因信称义与意志的捆绑（示意图）",
+   "sources": [
+    "sep-luther",
+    "iep-luther",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "路德以“因信称义”为核心：人在得救之事上完全无力，故称义是神白白的宣告（归算），人以信接受，成为“同时是义人与罪人”。由此他主张“意志的捆绑”：在得救之事上意志被罪奴役，故恩典是唯一原因——这是他反驳伊拉斯谟的根据，也是“唯独恩典”的逻辑前提。",
+    "system": [
+     {
+      "name": "因信称义",
+      "content": "义是外来的（iustitia aliena），以信接受而非以善功换取。"
+     },
+     {
+      "name": "意志的捆绑",
+      "content": "得救之事上意志不能自主；世俗事务上仍有自由。"
+     },
+     {
+      "name": "唯独圣经",
+      "content": "权威在圣经而非教宗；人人可读经（信徒皆祭司）。"
+     },
+     {
+      "name": "两王国论",
+      "content": "属灵与世俗两个领域的权威各有其职，不相混淆。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "艾斯莱本、维滕堡（1483—1546）",
+      "change": "奥古斯丁会士；1512 年起任维滕堡大学圣经学教授；1517 年《九十五条论纲》；1521 年沃尔姆斯帝国议会后被逐；译经与建立改革宗教会。"
+     }
+    ],
+    "reception": "其改革催生了新教诸宗；德译圣经对德语的形成影响深远；“因信称义”成为新教的核心教义；与伊拉斯谟的论战标志人文主义与宗教改革的分道。"
+   },
+   "works_detail": [
+    {
+     "title": "《九十五条论纲》",
+     "structure": "以“辩论提纲”形式提出九十五条，主要针对赎罪券的效力与教宗的赦罪权。",
+     "core_thesis": "称义不靠赎罪券的功德；悔改是终身的。",
+     "editions": "WA 第1卷；中译见《路德文集》",
+     "note": "1517 年；原为拉丁文辩论提纲"
+    }
+   ]
+  },
+  {
+   "id": "gr-modern-calvin",
+   "name": "加尔文",
+   "latin": "John Calvin",
+   "birth_year": 1509,
+   "death_year": 1564,
+   "birth_display": "1509年",
+   "death_display": "1564年",
+   "birth_note": "据其生平材料：生于法国努瓦永，父为教产代理人与公证人。",
+   "death_note": "1564年卒于日内瓦。",
+   "era": "16世纪。加尔文以《基督教要义》系统化改革宗神学：以“神的绝对主权”为轴，主张预定论（拣选与遗弃）、全然败坏、不可抗拒的恩典；他在日内瓦的教会实践影响了近代政治与资本主义伦理的讨论。",
+   "school": "改革宗（加尔文主义）",
+   "core_questions": [
+    "神的主权与人的自由如何并存？",
+    "谁得救是预定的吗？",
+    "教会与国家的关系如何？"
+   ],
+   "arguments": [
+    {
+     "claim": "双重预定：拣选与遗弃皆出于神的主权旨意",
+     "premises": [
+      "得救完全出于神的恩典，不因人的功德或预见的行为。",
+      "若神的主权是绝对的，则不得救者亦在其旨意之中。"
+     ],
+     "inference": "若得救全然出于神而非人，则其反面亦须由神的旨意说明；故须有拣选与遗弃的“双重预定”。",
+     "conclusion": "预定论是神主权的逻辑延伸，而非独立的残酷教条。",
+     "kind": "原文"
+    },
+    {
+     "claim": "全然败坏与不可抗拒的恩典",
+     "premises": [
+      "堕落之后人完全无力行真善。",
+      "恩典若可抗拒，则得救仍取决于人。"
+     ],
+     "inference": "若人全然败坏且恩典不可抗拒，则得救全然是神的工作；故信徒的确据在于神的信实而非自身表现。",
+     "conclusion": "救恩的次序（ordo salutis）全然由神发起并成全。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《基督教要义》《创世记注释》《罗马书注释》",
+     "edition": "《基督教要义》中译参三联书店；OS（Opera Selecta）拉丁文本",
+     "note": "1536 初版；1559 定本"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "奥古斯丁",
+     "id": null,
+     "note": "预定论与恩典的源头"
+    },
+    {
+     "name": "路德",
+     "id": "gr-modern-luther",
+     "note": "因信称义的启发"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "清教与近代政治",
+     "id": "",
+     "note": "教会治理与抵抗权理论"
+    },
+    {
+     "name": "韦伯命题",
+     "id": "",
+     "note": "新教伦理与资本主义精神的讨论"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "阿米尼乌派与天主教",
+     "view": "双重预定使神成为罪恶的作者，且取消了布道的意义。",
+     "response": "加尔文一系的回应是：堕落是人的责任，预定不取消次要原因与人的义务；布道是神施恩的常规途径。",
+     "kind": "后人解读",
+     "sources": [
+      "iep-calvin",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "加尔文是“暴君”式的独裁者",
+     "why": "他在日内瓦的权力受市议会制约，且其制度设计以多级议会（consistory）为核心，非个人独裁。"
+    },
+    {
+     "claim": "预定论使传教无意义",
+     "why": "他主张布道是神施恩的常规途径（means of grace），故传教仍必要。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>加尔文：神的主权与双重预定</text><defs><marker id='aCA' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>得救全然出于恩典非因功德</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故其反面亦须由神的旨意说明</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故有拣选与遗弃</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故信徒的确据在神的信实</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aCA)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aCA)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "加尔文：神的主权与双重预定（示意图）",
+   "sources": [
+    "iep-calvin",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "加尔文无 SEP 专属词条（sep-calvin 404），本页依据 IEP 词条与 Copleston 哲学史；双重预定在其《基督教要义》中的表述前后有发展（1536 初版与 1559 定本侧重不同），具体章节须核拉丁文本。",
+   "doctrine": {
+    "summary": "加尔文以“神的绝对主权”为轴：得救完全出于恩典而非人的功德，故其反面亦须由神的旨意说明——由此推出拣选与遗弃的“双重预定”。他又主张全然败坏与不可抗拒的恩典，故救恩的次序全然由神发起并成全，信徒的确据在于神的信实而非自身表现。",
+    "system": [
+     {
+      "name": "双重预定",
+      "content": "拣选与遗弃皆出于神的主权旨意；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "全然败坏",
+      "content": "堕落之后人完全无力行真善；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "不可抗拒的恩典",
+      "content": "恩典的效验不由人的接受与否决定；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "教会治理",
+      "content": "以牧师、教师、长老、执事四职与议会制治理。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "努瓦永、巴黎与日内瓦（1509—1564）",
+      "change": "法国受法律与人文教育；1533 年改宗；1536 年《基督教要义》初版；1541 年起主持日内瓦教会；1564 年卒。"
+     }
+    ],
+    "reception": "其神学成为改革宗（长老会、归正会）的基础；《基督教要义》是新教最系统的教义著作；韦伯关于新教伦理与资本主义精神的命题以其为讨论对象。"
+   },
+   "works_detail": [
+    {
+     "title": "《基督教要义》",
+     "structure": "1559 定本四卷：论创造者神、论救赎者神、论圣灵的恩典、论教会与圣礼。",
+     "core_thesis": "神的主权；双重预定；恩典的次序。",
+     "editions": "中译参三联书店；OS 拉丁文本",
+     "note": "1536 初版为小册，1559 定本篇幅数倍"
+    }
+   ]
   }
  ],
  "concepts": [
