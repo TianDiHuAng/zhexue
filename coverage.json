@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 907,
+  "entries": 913,
   "by_level": {
-   "L2": 730,
-   "L1": 177
+   "L2": 732,
+   "L1": 181
   },
   "doctrine": {
-   "total": 233,
-   "detail": 233,
+   "total": 235,
+   "detail": 235,
    "auto": 0
   },
-  "needs_verification": 177,
-  "sources": 361,
-  "sources_verified": 361
+  "needs_verification": 181,
+  "sources": 363,
+  "sources_verified": 363
  },
  "units": [
   {
@@ -47,17 +47,17 @@
    "unit_id": "cn-suitang",
    "title": "隋唐佛学",
    "region": "china",
-   "philosophers": 12,
-   "concepts": 18,
+   "philosophers": 14,
+   "concepts": 19,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -4"
+   "philosophers_slot": "8 上限，余 -6"
   },
   {
    "unit_id": "cn-weijin",
    "title": "魏晋玄学",
    "region": "china",
    "philosophers": 13,
-   "concepts": 16,
+   "concepts": 17,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -5"
   },
@@ -1729,6 +1729,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-suitang-shenxiu",
+   "type": "philosopher",
+   "title": "神秀",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-suitang-chengguan",
+   "type": "philosopher",
+   "title": "澄观",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-suitang-yuanqi",
    "type": "concept",
    "title": "缘起性空",
@@ -1924,6 +1946,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-suitang-yixin-ermen",
+   "type": "concept",
+   "title": "一心二门",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -2331,6 +2364,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-shamen-bujing",
+   "type": "concept",
+   "title": "沙门不敬王者",
+   "container": "cn-weijin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -7944,10 +7988,32 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-hongming-ji",
+   "type": "work",
+   "title": "《弘明集》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-consolation",
    "type": "work",
    "title": "《哲学的慰藉》",
    "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-qixinlun",
+   "type": "work",
+   "title": "《大乘起信论》",
+   "container": "china",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,

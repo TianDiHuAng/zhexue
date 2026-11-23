@@ -2638,6 +2638,42 @@
    ],
    "needs_verification": true,
    "pending_notes": "今本《列子》的成书年代（传统归列御寇，今多认为魏晋人辑录，甚至有伪作之说）是学界长期争论的问题；本页就文本内容述其说，不判定作者与年代。"
+  },
+  {
+   "id": "cn-weijin-shamen-bujing",
+   "term": "沙门不敬王者",
+   "term_latin": "monks do not bow to the king",
+   "definition": "东晋慧远《沙门不敬王者论》的核心主张：出家人不受世俗礼法的约束，故不拜君主。其论证不是否定王权，而是区分“内外之道”——在家奉法（顺化），出家修道（不以礼为累）。",
+   "usages": [
+    {
+     "name": "慧远",
+     "id": "cn-weijin-huiyuan",
+     "usage": "“内外之道可合而明”：在家处俗则顺化，出家则不以礼为累。"
+    },
+    {
+     "name": "桓玄（论辩对手）",
+     "usage": "以“率土之滨莫非王臣”主张沙门亦须致敬。"
+    },
+    {
+     "name": "后世（唐以后）",
+     "usage": "唐代以降沙门致敬之礼渐成定制，慧远之说成为歷史上的一次高峰论辩。"
+    }
+   ],
+   "related": [
+    "cn-weijin-mingjiao-ziran"
+   ],
+   "example": {
+    "text": "慧远的论证要害在“内外”：他不是说沙门高于王者，而是说**两种生活方式的法则不同**——故“不敬”不是抗礼，而是“不在同一礼制之内”。这一区分成为此后政教关系的经典表述。",
+    "figure": "慧远",
+    "locator": "《弘明集》卷五《沙门不敬王者论》"
+   },
+   "sources": [
+    "ws-hongming-ji",
+    "ws-zhaolun",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

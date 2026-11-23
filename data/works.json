@@ -4978,6 +4978,62 @@
    "sort_year": 510
   },
   {
+   "id": "work-hongming-ji",
+   "title": "《弘明集》",
+   "title_original": "弘明集",
+   "tradition": "china",
+   "date_display": "约6世纪初（僧祐编）",
+   "structure": "十四卷；辑录东汉至南朝梁的护法文字（论、书、序、诏、表），按主题排列：明佛论、沙门不敬王者、形神因果、夷夏之辨等。",
+   "core_arguments": [
+    "“沙门不敬王者”：出家者不拜君主的论辩（慧远《沙门不敬王者论》）",
+    "形神因果的争辩：神灭与神不灭（范缜《神灭论》及其反驳）",
+    "夷夏之辨：佛教是否适合中国"
+   ],
+   "key_points": [
+    {
+     "locator": "卷五",
+     "point": "慧远《沙门不敬王者论》"
+    },
+    {
+     "locator": "卷九",
+     "point": "范缜《神灭论》与诸家反驳"
+    },
+    {
+     "locator": "卷一",
+     "point": "牟子《理惑论》"
+    },
+    {
+     "locator": "卷十四",
+     "point": "夷夏之辨"
+    }
+   ],
+   "editions": [
+    "李小荣《弘明集校笺》上海古籍出版社；《大正藏》第52卷"
+   ],
+   "related_people": [
+    "cn-weijin-huiyuan",
+    "cn-weijin-sengzhao"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是佛教的单方面宣传",
+     "why": "它同时收录反佛的文字（如《神灭论》全文因《弘明集》而存），故是**论辩的档案**而非单方宣传。"
+    },
+    {
+     "claim": "“沙门不敬王者”主张政教对立",
+     "why": "慧远的论证是“内外之道”各有其用（在家奉法、出家修道），不是否定王权，而是划定其界限。"
+    }
+   ],
+   "sources": [
+    "ws-hongming-ji",
+    "ws-zhaolun",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 510
+  },
+  {
    "id": "work-consolation",
    "title": "《哲学的慰藉》",
    "title_original": "De Consolatione Philosophiae",
@@ -5033,6 +5089,63 @@
    "needs_verification": true,
    "pending_notes": "《慰藉》的宗教性质与《波菲利〈导论〉注释》两稿年代均有讨论。",
    "sort_year": 524
+  },
+  {
+   "id": "work-qixinlun",
+   "title": "《大乘起信论》",
+   "title_original": "大乘起信論",
+   "tradition": "china",
+   "date_display": "传统题马鸣造、真谛译（6世纪）；今多认为成于中国（6世纪）",
+   "structure": "一卷（分因缘分、立义分、解释分、修行信心分、劝修利益分）；以“一心二门”为总纲。",
+   "core_arguments": [
+    "“一心二门”：心真如门（体）与心生灭门（用）",
+    "“真如随缘”：真如受无明熏习而现有生灭，其性不变",
+    "“本觉”：众生本有觉性，修行是“始觉”合于“本觉”"
+   ],
+   "key_points": [
+    {
+     "locator": "立义分",
+     "point": "一心二门"
+    },
+    {
+     "locator": "解释分",
+     "point": "真如随缘与无明熏习"
+    },
+    {
+     "locator": "解释分",
+     "point": "本觉与始觉"
+    },
+    {
+     "locator": "修行信心分",
+     "point": "止观与念佛"
+    }
+   ],
+   "editions": [
+    "高振农《大乘起信论校释》中华书局；《大正藏》第32卷"
+   ],
+   "related_people": [
+    "cn-suitang-fazang",
+    "cn-suitang-chengguan",
+    "cn-suitang-zongmi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是印度论典的直译",
+     "why": "其梵本不存，且内容与中国的“如来藏”思想高度契合；自隋代起即有“疑伪”之说，今多认为成于中国（6世纪）。"
+    },
+    {
+     "claim": "“真如随缘”是说真如会变成妄法",
+     "why": "它主张真如随缘而**其性不变**（“不变随缘，随缘不变”），故非实体性的转变。"
+    }
+   ],
+   "sources": [
+    "ws-dacheng-qixinlun",
+    "ws-huayan-jinshizi",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《大乘起信论》的成立问题（印度撰述还是中国撰述）自隋代以来争论不断，20世纪中日学界均有集中讨论；本页述其内容与影响，不判定其成立地。",
+   "sort_year": 550
   },
   {
    "id": "work-mohe-zhiguan",

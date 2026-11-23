@@ -1777,6 +1777,288 @@
      "note": "序存集佚"
     }
    ]
+  },
+  {
+   "id": "cn-suitang-shenxiu",
+   "name": "神秀",
+   "latin": "Shenxiu",
+   "birth_year": 606,
+   "death_year": 706,
+   "birth_display": "606年",
+   "death_display": "706年",
+   "birth_note": "据《坛经》与禅宗史料：俗姓李，汴州尉氏人；五十六岁至黄梅参弘忍。",
+   "death_note": "706年卒，谥大通禅师。",
+   "era": "7—8世纪。神秀是北宗禅的代表：以“身是菩提树，心如明镜台”的偈知名，主张“时时勤拂拭”的渐修。其学在唐代前期为禅门的正统（“两京法主，三帝国师”），后因南宗的叙述而被定位为“渐”的一方。",
+   "school": "北宗禅",
+   "core_questions": [
+    "修行是渐还是顿？",
+    "心性本净为何仍需修？",
+    "看心看净是否究竟？"
+   ],
+   "arguments": [
+    {
+     "claim": "渐修：心性本净，但须持续拂拭以除妄念",
+     "premises": [
+      "心如明镜，本可照物，然为尘垢所覆。",
+      "故须“时时勤拂拭”，渐除妄念，镜性自现。"
+     ],
+     "inference": "若垢是渐积的，则其去除亦须渐进；故修行是持续的工夫，而不是一次性的转变。",
+     "conclusion": "修行是渐进的除垢过程（此即南宗所批评的“渐”）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“看心看净”：以观心为工夫的核心",
+     "premises": [
+      "一切善恶皆由心起，故须观心。",
+      "观心则见心之本来清净。"
+     ],
+     "inference": "若万法唯心，则工夫的所在是心；故“看心”“看净”是修行的总纲。",
+     "conclusion": "工夫的核心是观心（此说后为南宗所破：执着于“看”本身仍是执着）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《观心论》《大乘无生方便门》（敦煌本）",
+     "edition": "敦煌写本；《大正藏》第85卷所收相关文献；《坛经》所记其偈",
+     "note": "唐代；20世纪敦煌文献出土后重见"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "弘忍（其师）",
+     "id": null,
+     "note": "东山法门的传承"
+    },
+    {
+     "name": "道信与东山法门",
+     "id": null,
+     "note": "一行三昧与念佛的实践"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "北宗一系与唐代官方佛教",
+     "id": null,
+     "note": "两京法主、三帝国师的地位"
+    },
+    {
+     "name": "南宗兴起后的“渐”叙述",
+     "id": "cn-suitang-huineng",
+     "note": "南北分宗中作为“渐”的代表"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "慧能与《坛经》",
+     "view": "以“菩提本无树”破其偈：若心本无物，则“拂拭”亦是多余。",
+     "response": "神秀一系的回应是：对未悟者而言，“无物”之说易成断灭；渐修是对治的实法。",
+     "kind": "原文",
+     "sources": [
+      "ws-liuzu-tanjing",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "神秀是“未悟者”",
+     "why": "《坛经》的叙述出自南宗，有其宗派立场；神秀在唐代前期是禅门正统，其学有完整的观心体系。"
+    },
+    {
+     "claim": "北宗“渐修”只是低级的方便",
+     "why": "“渐”与“顿”是对**修行结构**的不同主张，不是水平高低；宗密即以“顿悟渐修”会通二者。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>神秀：渐修与看心看净</text><defs><marker id='aSX' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>心如明镜本可照物</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>然为尘垢所覆</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故须时时拂拭</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故修行是渐进过程</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aSX)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aSX)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "神秀：渐修与“看心看净”（示意图）",
+   "sources": [
+    "ws-liuzu-tanjing",
+    "book-chan-sourcebook",
+    "ws-mohezhiguan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "神秀的著作（《观心论》《大乘无生方便门》）主要依敦煌写本传世，20世纪才发现；其思想面貌在相当程度上是由南宗文献（《坛经》、灯录）转述的，须与敦煌本对读。本页并述其说与南宗的叙述立场。",
+   "doctrine": {
+    "summary": "神秀是北宗禅的代表：以“身是菩提树，心如明镜台”的偈知名，主张“时时勤拂拭”的渐修——若垢是渐积的，其去除亦须渐进，故修行是持续除垢的工夫；工夫的核心是“看心看净”。其在唐代前期为禅门正统（两京法主、三帝国师），后因南宗的叙述而被定位为“渐”的一方。",
+    "system": [
+     {
+      "name": "渐修",
+      "content": "渐除妄念，镜性自现；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "看心看净",
+      "content": "以观心为工夫核心；后为南宗所破（执着于“看”仍是执着）。"
+     },
+     {
+      "name": "北宗正统",
+      "content": "唐代前期禅门的主流，非“失败的一方”；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "敦煌文献",
+      "content": "其著作依敦煌写本传世，20世纪方重见；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "尉氏、黄梅与洛阳（606—706）",
+      "change": "五十六岁至黄梅参弘忍；弘忍卒后于荆州玉泉寺传法；武周时入洛阳、长安，为“两京法主，三帝国师”；706 年卒。"
+     }
+    ],
+    "reception": "北宗在唐代前期为禅门正统，其观心体系影响了此后禅净诸家；南北分宗的叙述由南宗（《坛经》、灯录）塑造，20世纪敦煌文献出土后北宗的面貌被重估。"
+   },
+   "works_detail": [
+    {
+     "title": "《观心论》",
+     "structure": "以观心为总纲，论心之本来清净与妄念的生起，附以问答。",
+     "core_thesis": "观心为工夫核心；渐除妄念；这是该书的核心命题。",
+     "editions": "敦煌写本（S.2595 等）；《大正藏》第85卷相关文献",
+     "note": "依敦煌写本传世"
+    }
+   ]
+  },
+  {
+   "id": "cn-suitang-chengguan",
+   "name": "澄观",
+   "latin": "Chengguan",
+   "birth_year": 738,
+   "death_year": 839,
+   "birth_display": "738年",
+   "death_display": "839年",
+   "birth_note": "据华严宗史料：俗姓夏侯，越州山阴人；被称为“华严四祖”“清凉国师”。",
+   "death_note": "839年卒，年一百二。",
+   "era": "8—9世纪。澄观是华严宗的集大成者：以“四法界”（理、事、理事无碍、事事无碍）总括法藏的十玄六相，并将华严与禅、天台会通。其《华严经疏》与《演义钞》成为后世华严学的标准注疏。",
+   "school": "华严宗（四祖）",
+   "core_questions": [
+    "理事关系如何安立？",
+    "事事无碍如何成立？",
+    "华严如何与其他宗派会通？"
+   ],
+   "arguments": [
+    {
+     "claim": "四法界：理、事、理事无碍、事事无碍",
+     "premises": [
+      "事法界即现象界的差别相。",
+      "理法界即真如之理。",
+      "理事无碍即现象与理相即。",
+      "事事无碍即现象与现象互摄。"
+     ],
+     "inference": "若理是一而事是多，则须说明多如何不碍一；若事事亦无碍，则多本身即是圆融的——故四法界是由浅至深的一个次第，而“事事无碍”是其极。",
+     "conclusion": "四法界是华严的层次纲要，以“事事无碍”为究竟。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以“一心”统摄四法界：法界即一心之展现",
+     "premises": [
+      "一切法界不离一心。",
+      "故四法界不是四个世界，而是一心的四种观法。"
+     ],
+     "inference": "若四法界皆即一心，则其“次第”是**观行的次第**而非本体论的层次；故华严的圆融是观法上的圆融。",
+     "conclusion": "四法界是一心的四种观法（此说使华严与禅的“观心”相通）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《华严经疏》《华严经演义钞》《三圣圆融观门》",
+     "edition": "《大正藏》第35—36卷；《三圣圆融观门》见《大正藏》第45卷",
+     "note": "784—798；798；唐代"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "法藏（华严三祖）",
+     "id": "cn-suitang-fazang",
+     "note": "十玄六相的体系"
+    },
+    {
+     "name": "宗密（其弟子）",
+     "id": "cn-suitang-zongmi",
+     "note": "华严与禅的会通"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "后世华严学",
+     "id": null,
+     "note": "四法界成为标准框架"
+    },
+    {
+     "name": "宋代以后“教禅一致”的思潮",
+     "id": null,
+     "note": "华严与禅的融合"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "天台一系",
+     "view": "以“性具”为说，批评华严的“性起”偏于“真心”：若一切由真如随缘而起，则妄法的地位不明。",
+     "response": "澄观一系的回应是：四法界即一心，故妄法亦在一心之内；其“理事无碍”正是为安立差别。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-huayan-jinshizi",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "澄观只是法藏的注释者",
+     "why": "其“四法界”是对法藏十玄六相的**重新架构**，并加入了与禅、天台的会通，是独立的体系。"
+    },
+    {
+     "claim": "四法界是四个不同的世界",
+     "why": "它是一心的四种观法（次第是观行的次第），不是四个本体论层次。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>澄观：四法界与一心</text><defs><marker id='aCG' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>事法界（差别相）</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>理法界（真如理）</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>理事无碍→事事无碍</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故四法界即一心之观</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aCG)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aCG)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "澄观：四法界与“一心”的统摄（示意图）",
+   "sources": [
+    "ws-huayan-jinshizi",
+    "ws-mohezhiguan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "澄观著作卷帙浩繁（《华严经疏》六十卷、《演义钞》九十卷），本页依《华严金师子章》所承的华严体系与佛教史研究概述其“四法界”说；具体文句须核《大正藏》第35—36卷。",
+   "doctrine": {
+    "summary": "澄观以“四法界”（理、事、理事无碍、事事无碍）总括法藏的十玄六相：事是差别相，理是真如，理事相即，而事事互摄——“事事无碍”是其极。他又以“一心”统摄四法界，故四法界不是四个世界，而是**一心的四种观法**，其次第是观行的次第。这一架构使华严与禅的“观心”相通，也使他成为华严宗的集大成者。",
+    "system": [
+     {
+      "name": "四法界",
+      "content": "理、事、理事无碍、事事无碍的层次纲要；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "事事无碍",
+      "content": "现象与现象互摄而不失自相（一室千灯之喻）。"
+     },
+     {
+      "name": "一心统摄",
+      "content": "四法界是一心的四种观法，非四个本体层次。"
+     },
+     {
+      "name": "教禅会通",
+      "content": "与禅、天台的融合，使华严成为“教”的总纲。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "山阴与五台（738—839）",
+      "change": "越州山阴人；历游名山，通华严、天台、禅、律；784—798 撰《华严经疏》；住五台山、终南山；德宗、宪宗、文宗皆尊礼之，称“清凉国师”；839 年卒。"
+     }
+    ],
+    "reception": "“四法界”成为此后华严学与东亚佛教的标准框架；其《华严经疏》《演义钞》为后世注疏的典范；其弟子宗密推进了华严与禅的会通。"
+   },
+   "works_detail": [
+    {
+     "title": "《三圣圆融观门》",
+     "structure": "一卷；以毗卢遮那、文殊、普贤“三圣”相即相入，说明法界圆融。",
+     "core_thesis": "三圣圆融即四法界的另一种表述。",
+     "editions": "《大正藏》第45卷",
+     "note": "篇幅短小，为四法界的浓缩表述"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -2405,6 +2687,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-yixin-ermen",
+   "term": "一心二门",
+   "term_latin": "one mind, two aspects",
+   "definition": "《大乘起信论》的总纲：众生心统摄“心真如门”（体，不变）与“心生灭门”（用，随缘）。二门不是两个心，而是同一心的两个面向。",
+   "usages": [
+    {
+     "name": "《起信论》",
+     "usage": "“依一心法有二种门：一者心真如门，二者心生灭门。”"
+    },
+    {
+     "name": "法藏（承之）",
+     "id": "cn-suitang-fazang",
+     "usage": "以如来藏缘起建立华严的体系，其“真心”即本于此。"
+    },
+    {
+     "name": "智顗（对照）",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以“性具”为说：妄法本具于性，与“真如随缘”的路径不同。"
+    }
+   ],
+   "related": [
+    "cn-suitang-xingju",
+    "cn-suitang-foxing"
+   ],
+   "example": {
+    "text": "“一心二门”解决了一个结构难题：若真如不变，则生灭从何而来？若真如随缘，则其性岂非可变？答案是“二门”：同一心在“体”上不变，在“用”上随缘——故不变与随缘不是矛盾，而是两个面向。",
+    "figure": "《大乘起信论》",
+    "locator": "《大乘起信论·立义分》"
+   },
+   "sources": [
+    "ws-dacheng-qixinlun",
+    "ws-huayan-jinshizi",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《大乘起信论》的成立问题（印度撰述／中国撰述）自隋代以来争论不断，故其思想的归属须谨慎；本页述其义理结构，不判定其成立地。"
   }
  ],
  "debates": [
