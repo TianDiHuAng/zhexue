@@ -1376,6 +1376,285 @@
      "note": "原文见类书，非独立成书"
     }
    ]
+  },
+  {
+   "id": "cn-weijin-ge-hong",
+   "name": "葛洪",
+   "latin": "Ge Hong",
+   "birth_year": 283,
+   "death_year": 343,
+   "birth_display": "283年",
+   "death_display": "343年",
+   "birth_note": "据《晋书·葛洪传》：生于丹阳句容，出身道教世家。",
+   "death_note": "343年卒于罗浮山（一说卒年有异）。",
+   "era": "东晋。葛洪著《抱朴子》，内篇论神仙方术与炼丹，外篇论政事与世务；他系统化早期道教的神仙理论，是道教史上承前启后的关键人物。",
+   "school": "道教（神仙理论）",
+   "core_questions": [
+    "人能否通过修炼成仙？",
+    "玄与道是什么关系？",
+    "如何论证神仙可学而至？"
+   ],
+   "arguments": [
+    {
+     "claim": "神仙可学：以“玄”为万物之本",
+     "premises": [
+      "“玄者，自然之始祖，而万殊之大宗也”。",
+      "万物由玄而生，人亦含玄之气。"
+     ],
+     "inference": "若人含玄之气且可通过服食、导引、炼丹返本，则神仙非天生异类，而是可修而成。",
+     "conclusion": "神仙可学而至，修炼的关键在“守一”与服食金丹。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以经验与史传论证神仙实有",
+     "premises": [
+      "史传所记长生者与方术有验。",
+      "炼丹所得之物（如金丹）有转化之效。"
+     ],
+     "inference": "若史传与实验皆显示延年之效，则神仙之说非虚妄；反对者以“未见”为据是归纳不足。",
+     "conclusion": "神仙实有，唯患人不能勤求。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《抱朴子》（内篇·外篇）",
+     "edition": "王明《抱朴子内篇校释》中华书局；杨明照《抱朴子外篇校笺》中华书局",
+     "note": "内篇二十卷论神仙方术；外篇五十卷论政事世务"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "早期道教与《周易参同契》",
+     "id": null,
+     "note": "炼丹与易学传统"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "陶弘景与上清派",
+     "id": null,
+     "note": "道教神仙理论与炼丹术的传承"
+    },
+    {
+     "name": "后世外丹与内丹学",
+     "id": null,
+     "note": "金丹与守一之说"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "儒家与无神论者",
+     "view": "神仙方术耗费财货、荒废世事；长生之说无验。",
+     "response": "葛洪的回应是：修道与治世可并行（外篇论政），且神仙之效需长期勤求，非短期可验。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-baopuzi",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "葛洪认为人人可立即成仙",
+     "why": "他强调须勤求、择师与长期修炼，且承认资质与条件有别。"
+    },
+    {
+     "claim": "《抱朴子》只是方术手册",
+     "why": "外篇大量讨论政事、世务与人物，是研究东晋社会与思想的重要文献。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>葛洪：玄为本与神仙可学</text><defs><marker id='aGH' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>玄为万物之始祖</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>人含玄之气</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故可修炼返本</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故神仙可学而至</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aGH)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aGH)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "葛洪：玄本论与神仙可学（示意图）",
+   "sources": [
+    "ws-baopuzi",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "葛洪以“玄”为万物之本（“自然之始祖，万殊之大宗”），认为人含玄之气、可通过守一、导引与服食金丹返本，故神仙可学而至；他又以史传与炼丹经验论证神仙实有，反对“以未见为无”的归纳不足。其《抱朴子》内篇论神仙方术、外篇论政事世务，是道教史上的枢纽之作。",
+    "system": [
+     {
+      "name": "玄本论",
+      "content": "玄为自然之始祖、万殊之大宗；万物由玄而生。"
+     },
+     {
+      "name": "神仙可学",
+      "content": "人含玄气，修炼可返本；关键在守一与服食金丹。"
+     },
+     {
+      "name": "经验论证",
+      "content": "以史传与炼丹之效论证神仙实有，反对“未见即无”。"
+     },
+     {
+      "name": "内外篇分工",
+      "content": "内篇论神仙方术，外篇论政事世务，二者并行不废。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "丹阳与句容（283—约320）",
+      "change": "出身道教世家；参与平定石冰之乱，赐爵关内侯。"
+     },
+     {
+      "period": "罗浮山（约320—343）",
+      "change": "晚年隐居罗浮山炼丹著述；《抱朴子》成书于此期。"
+     }
+    ],
+    "reception": "其神仙理论影响陶弘景与上清派；外丹与内丹学溯源于此；外篇是研究东晋社会与政治思想的重要文献。"
+   },
+   "works_detail": [
+    {
+     "title": "《抱朴子》",
+     "structure": "内篇二十卷（神仙、炼丹、守一），外篇五十卷（政事、世务、人物）。",
+     "core_thesis": "玄为本；神仙可学；内外并重；这是该书的核心命题。",
+     "editions": "王明《抱朴子内篇校释》中华书局；杨明照《外篇校笺》中华书局",
+     "note": "内外篇性质不同，须分别阅读"
+    }
+   ]
+  },
+  {
+   "id": "cn-weijin-zhang-zhan",
+   "name": "张湛",
+   "latin": "Zhang Zhan",
+   "birth_year": 330,
+   "death_year": 400,
+   "birth_display": "约330年",
+   "death_display": "约400年",
+   "birth_note": "生卒为推定；据《晋书》与《列子注》序，为东晋人。",
+   "death_note": "同上；具体卒年不可考。",
+   "era": "东晋。张湛整理并为《列子》作注，今本《列子》即经其编定；其注以“至虚”为宗，融合玄学与佛学的空观，是研究魏晋玄学向佛学过渡的重要文本。",
+   "school": "玄学（列子学）",
+   "core_questions": [
+    "万物是否实有？",
+    "生死与变化如何理解？",
+    "至虚与万有的关系是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "至虚为万有之本，万有“自生”而“不能不生”",
+     "premises": [
+      "有形之物皆有待而生，故非自足。",
+      "推至最后，必有一“至虚”者为群有之宗。"
+     ],
+     "inference": "若万有皆有待，则须有一无待者；此无待者为“至虚”，万物由其“不能不生”而自生。",
+     "conclusion": "至虚不是空无，而是群有之所以生的根据。",
+     "kind": "原文"
+    },
+    {
+     "claim": "生死如聚散，不必悦生恶死",
+     "premises": [
+      "气聚则生，气散则死。",
+      "聚散皆是变化，非有得失。"
+     ],
+     "inference": "若生死只是气的聚散，则悦生恶死是基于对“我”的执著。",
+     "conclusion": "顺应变化、不执生死，方合于至虚之道。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《列子注》（即今本《列子》）",
+     "edition": "杨伯峻《列子集释》中华书局；《冲虚至德真经》四部丛刊本",
+     "note": "今本《列子》八篇经张湛编定并注；其真伪与年代学界有讨论"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "王弼与郭象的玄学",
+     "id": "cn-weijin-wangbi",
+     "note": "贵无与独化的思路"
+    },
+    {
+     "name": "佛学般若学的空观",
+     "id": null,
+     "note": "“至虚”与“空”的会通"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "僧肇与般若学",
+     "id": null,
+     "note": "“不真空”论可与之对照"
+    },
+    {
+     "name": "后世道教与《列子》学",
+     "id": null,
+     "note": "《列子》成为道教经典之一"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "清代以来辨伪学者",
+     "view": "今本《列子》多出后人（或即张湛）编纂，非先秦原著。",
+     "response": "张湛一系的回应是：即使文本经编定，其注所表达的“至虚”说是东晋玄学的重要思想，不能以辨伪否定其价值。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-liezi2",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "今本《列子》就是先秦列御寇的原书",
+     "why": "学界多认为今本经张湛编定，掺杂后世材料；其真伪是长期议题。"
+    },
+    {
+     "claim": "“至虚”等于佛教的空",
+     "why": "二者有会通之处，但“至虚”仍以“群有之宗”立论，与般若“无自性”不完全相同。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>张湛：至虚为群有之宗</text><defs><marker id='aZZ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>万有皆有待</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故须有无待者</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>至虚为群有之宗</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>生死如聚散，不执生死</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aZZ)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aZZ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "张湛：至虚与群有的关系（示意图）",
+   "sources": [
+    "ws-liezi2",
+    "sep-chinese-metaphysics",
+    "ws-zhaolun"
+   ],
+   "needs_verification": true,
+   "pending_notes": "今本《列子》的真伪与成书年代（先秦说／魏晋编纂说）是学界长期议题；张湛注的思想归属亦须与文本问题分开讨论。",
+   "doctrine": {
+    "summary": "张湛编定并注解今本《列子》，以“至虚”为群有之宗：万有皆有待，故须有一无待者为根据，此即“至虚”，万物由其“不能不生”而自生；他又以气之聚散解释生死，主张不执生死、顺应变化。其注融合玄学的贵无、独化与佛学空观，是玄学向佛学过渡的重要文本。",
+    "system": [
+     {
+      "name": "至虚",
+      "content": "万有皆有待，故须有无待的“至虚”为群有之宗。"
+     },
+     {
+      "name": "自生",
+      "content": "万物由至虚“不能不生”而自生，非有造物者。"
+     },
+     {
+      "name": "生死聚散",
+      "content": "气聚则生、气散则死；不执生死，顺应变化。"
+     },
+     {
+      "name": "会通空有",
+      "content": "以“至虚”与般若空观相会通，为玄佛过渡铺路。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "东晋（约330—400）",
+      "change": "编定《列子》八篇并作注；其生平记载简略，事迹多不可考。"
+     }
+    ],
+    "reception": "其注是研究魏晋玄学向佛学过渡的关键；今本《列子》因经其编定而成为道教经典；辨伪问题使其思想归属需谨慎处理。"
+   },
+   "works_detail": [
+    {
+     "title": "《列子注》（今本《列子》）",
+     "structure": "八篇：天瑞、黄帝、周穆王、仲尼、汤问、力命、杨朱、说符。",
+     "core_thesis": "至虚为群有之宗；生死如聚散；这是该书的核心命题。",
+     "editions": "杨伯峻《列子集释》中华书局",
+     "note": "今本经张湛编定，真伪有讨论"
+    }
+   ]
   }
  ],
  "concepts": [

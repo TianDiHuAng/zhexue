@@ -1,19 +1,19 @@
 {
- "generated": "2026-11-22",
+ "generated": "2026-11-23",
  "totals": {
-  "entries": 397,
+  "entries": 403,
   "by_level": {
-   "L2": 337,
-   "L1": 60
+   "L2": 341,
+   "L1": 62
   },
   "doctrine": {
-   "total": 138,
-   "detail": 138,
+   "total": 144,
+   "detail": 144,
    "auto": 0
   },
-  "needs_verification": 60,
-  "sources": 240,
-  "sources_verified": 224
+  "needs_verification": 62,
+  "sources": 245,
+  "sources_verified": 229
  },
  "units": [
   {
@@ -29,19 +29,19 @@
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 9,
+   "philosophers": 10,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -1"
+   "philosophers_slot": "8 上限，余 -2"
   },
   {
    "unit_id": "cn-songming",
    "title": "宋明理学与心学",
    "region": "china",
-   "philosophers": 11,
+   "philosophers": 12,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -3"
+   "philosophers_slot": "8 上限，余 -4"
   },
   {
    "unit_id": "cn-suitang",
@@ -56,10 +56,10 @@
    "unit_id": "cn-weijin",
    "title": "魏晋玄学",
    "region": "china",
-   "philosophers": 8,
+   "philosophers": 10,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 0"
+   "philosophers_slot": "8 上限，余 -2"
   },
   {
    "unit_id": "cn-xianqin",
@@ -74,10 +74,10 @@
    "unit_id": "gr-19c",
    "title": "19世纪哲学",
    "region": "west",
-   "philosophers": 9,
+   "philosophers": 10,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -1"
+   "philosophers_slot": "8 上限，余 -2"
   },
   {
    "unit_id": "gr-20c",
@@ -92,10 +92,10 @@
    "unit_id": "gr-ancient",
    "title": "古希腊哲学",
    "region": "west",
-   "philosophers": 10,
+   "philosophers": 11,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -2"
+   "philosophers_slot": "8 上限，余 -3"
   },
   {
    "unit_id": "gr-contemp",
@@ -153,7 +153,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-yang-xiong",
@@ -164,7 +164,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-wang-chong",
@@ -175,7 +175,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-zheng-xuan",
@@ -186,7 +186,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-he-xiu",
@@ -197,7 +197,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-liu-xin",
@@ -208,7 +208,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-wang-fu",
@@ -219,7 +219,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-xun-yue",
@@ -230,7 +230,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-huan-tan",
@@ -241,7 +241,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-tianren",
@@ -252,7 +252,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-qi",
@@ -263,7 +263,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-chenwei",
@@ -274,7 +274,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-xingsanpin",
@@ -285,7 +285,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-weiyandayi",
@@ -296,7 +296,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-sangang",
@@ -307,7 +307,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-ji-xuwang",
@@ -318,7 +318,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-yinyang-wuxing",
@@ -329,7 +329,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-santong",
@@ -340,7 +340,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-yuanqi",
@@ -351,7 +351,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-tianren-debate",
@@ -362,7 +362,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-jinguwen",
@@ -373,7 +373,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-lianghan-xingjiao",
@@ -384,7 +384,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-wang-fuzhi",
@@ -395,7 +395,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-huang-zongxi",
@@ -406,7 +406,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-gu-yanwu",
@@ -417,7 +417,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-dai-zhen",
@@ -428,7 +428,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-kang-youwei",
@@ -439,7 +439,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-tan-sitong",
@@ -450,7 +450,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-yan-fu",
@@ -461,7 +461,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-zhang-taiyan",
@@ -472,7 +472,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-wei-yuan",
@@ -483,7 +483,18 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-gong-zizhen",
+   "type": "philosopher",
+   "title": "龚自珍",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-jingshi-zhizhiyong",
@@ -494,7 +505,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-qibenlun",
@@ -505,7 +516,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-li-cun-yu-yu",
@@ -516,7 +527,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-xueqi-xinzhi",
@@ -527,7 +538,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-tianxia-weizhu",
@@ -538,7 +549,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-gongyang-sanshi",
@@ -549,7 +560,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-datong",
@@ -560,7 +571,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-tianyan",
@@ -571,7 +582,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-kaoju",
@@ -582,7 +593,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-tiyong-fan",
@@ -593,7 +604,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-li-yu",
@@ -604,7 +615,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-tiyong",
@@ -615,7 +626,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-qingmod-kongjiao",
@@ -626,7 +637,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-zhou-dunyi",
@@ -637,7 +648,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-zhang-zai",
@@ -648,7 +659,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-cheng-hao",
@@ -659,7 +670,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-cheng-yi",
@@ -670,7 +681,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-zhu-xi",
@@ -681,7 +692,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-lu-jiuyuan",
@@ -692,7 +703,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-wang-yangming",
@@ -703,7 +714,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-liu-zongzhou",
@@ -714,7 +725,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-shao-yong",
@@ -725,7 +736,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-luo-qinshun",
@@ -736,7 +747,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-wang-tingxiang",
@@ -747,7 +758,18 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-wang-anshi",
+   "type": "philosopher",
+   "title": "王安石",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-li-qi",
@@ -758,7 +780,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-taiji",
@@ -769,7 +791,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-taixu",
@@ -780,7 +802,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-xing-ji-li",
@@ -791,7 +813,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-xin-ji-li",
@@ -802,7 +824,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-ge-wu",
@@ -813,7 +835,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-zhi-xing",
@@ -824,7 +846,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-zhi-liangzhi",
@@ -835,7 +857,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-tianli-renyu",
@@ -846,7 +868,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-daotong",
@@ -857,7 +879,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-zhu-lu",
@@ -868,7 +890,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-li-qi-xianhou",
@@ -879,7 +901,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-songming-zhi-xing-xianhou",
@@ -890,7 +912,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-zhiyi",
@@ -901,7 +923,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-jizang",
@@ -912,7 +934,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-xuanzang",
@@ -923,7 +945,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-kuiji",
@@ -934,7 +956,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-fazang",
@@ -945,7 +967,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-huineng",
@@ -956,7 +978,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-shenhui",
@@ -967,7 +989,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-zhanran",
@@ -978,7 +1000,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-han-yu",
@@ -989,7 +1011,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-li-ao",
@@ -1000,7 +1022,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-wang-tong",
@@ -1011,7 +1033,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-yuanqi",
@@ -1022,7 +1044,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-er-di",
@@ -1033,7 +1055,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-yiniansanqian",
@@ -1044,7 +1066,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-weishi",
@@ -1055,7 +1077,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-foxing",
@@ -1066,7 +1088,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-dunwu",
@@ -1077,7 +1099,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-panjiao",
@@ -1088,7 +1110,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-kongyou",
@@ -1099,7 +1121,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-wuqingyouxing",
@@ -1110,7 +1132,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-zhuanyi",
@@ -1121,7 +1143,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-dunjian",
@@ -1132,7 +1154,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-foxing-benyou",
@@ -1143,7 +1165,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-suitang-kongyou-zheng",
@@ -1154,7 +1176,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-wangbi",
@@ -1165,7 +1187,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-heyan",
@@ -1176,7 +1198,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-jikang",
@@ -1187,7 +1209,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-ruanji",
@@ -1198,7 +1220,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-xiangxiu",
@@ -1209,7 +1231,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-guoxiang",
@@ -1220,7 +1242,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-pei-wei",
@@ -1231,7 +1253,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-ouyang-jian",
@@ -1242,7 +1264,29 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-ge-hong",
+   "type": "philosopher",
+   "title": "葛洪",
+   "container": "cn-weijin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-zhang-zhan",
+   "type": "philosopher",
+   "title": "张湛",
+   "container": "cn-weijin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-guiwu",
@@ -1253,7 +1297,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-youwu",
@@ -1264,7 +1308,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-chongyou",
@@ -1275,7 +1319,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-xuan",
@@ -1286,7 +1330,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-tiyong",
@@ -1297,7 +1341,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-duhua",
@@ -1308,7 +1352,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-mingjiao-ziran",
@@ -1319,7 +1363,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-yan-yi",
@@ -1330,7 +1374,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-caixing",
@@ -1341,7 +1385,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-shengren-youqing",
@@ -1352,7 +1396,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-mingjiao-ziran-zheng",
@@ -1363,7 +1407,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-yan-yi-zheng",
@@ -1374,7 +1418,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-weijin-guiwu-chongyou",
@@ -1385,7 +1429,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-kongzi",
@@ -1396,7 +1440,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-laozi",
@@ -1407,7 +1451,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-mozi",
@@ -1418,7 +1462,7 @@
    "sources": 2,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-mengzi",
@@ -1429,7 +1473,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-zhuangzi",
@@ -1440,7 +1484,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-xunzi",
@@ -1451,7 +1495,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-hanfei",
@@ -1462,7 +1506,7 @@
    "sources": 2,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-gongsunlong",
@@ -1473,7 +1517,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-hui-shi",
@@ -1484,7 +1528,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-ren",
@@ -1495,7 +1539,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-li",
@@ -1506,7 +1550,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-dao",
@@ -1517,7 +1561,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-wuwei",
@@ -1528,7 +1572,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-jianai",
@@ -1539,7 +1583,7 @@
    "sources": 2,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-xingshan",
@@ -1550,7 +1594,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-xinge",
@@ -1561,7 +1605,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-zhengming",
@@ -1572,7 +1616,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-tianren",
@@ -1583,7 +1627,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-xiaoyao",
@@ -1594,7 +1638,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-human-nature",
@@ -1605,7 +1649,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-ai-chadeng",
@@ -1616,7 +1660,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cn-xianqin-wuwei-zhengzhi",
@@ -1627,7 +1671,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-schopenhauer",
@@ -1638,7 +1682,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-kierkegaard",
@@ -1649,7 +1693,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-marx",
@@ -1660,7 +1704,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-mill",
@@ -1671,7 +1715,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-nietzsche",
@@ -1682,7 +1726,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-comte",
@@ -1693,7 +1737,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-engels",
@@ -1704,7 +1748,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-bentham",
@@ -1715,7 +1759,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-spencer",
@@ -1726,7 +1770,18 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-19c-darwin",
+   "type": "philosopher",
+   "title": "达尔文",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-will",
@@ -1737,7 +1792,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-alienation",
@@ -1748,7 +1803,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-utility",
@@ -1759,7 +1814,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-liberty-principle",
@@ -1770,7 +1825,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-power-will",
@@ -1781,7 +1836,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-eternal-recurrence",
@@ -1792,7 +1847,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-nihilism",
@@ -1803,7 +1858,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-positive",
@@ -1814,7 +1869,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-histmat",
@@ -1825,7 +1880,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-ubermensch",
@@ -1836,7 +1891,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-free-will",
@@ -1847,7 +1902,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-morality-basis",
@@ -1858,7 +1913,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-19c-religion-critique",
@@ -1869,7 +1924,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-frege",
@@ -1880,7 +1935,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-husserl",
@@ -1891,7 +1946,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-heidegger",
@@ -1902,7 +1957,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-wittgenstein",
@@ -1913,7 +1968,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-carnap",
@@ -1924,7 +1979,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-sartre",
@@ -1935,7 +1990,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-russell",
@@ -1946,7 +2001,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-quine",
@@ -1957,7 +2012,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-merleau-ponty",
@@ -1968,7 +2023,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-beauvoir",
@@ -1979,7 +2034,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-sense-reference",
@@ -1990,7 +2045,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-intentionality",
@@ -2001,7 +2056,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-reduction",
@@ -2012,7 +2067,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-being-in-world",
@@ -2023,7 +2078,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-authenticity",
@@ -2034,7 +2089,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-language-game",
@@ -2045,7 +2100,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-verification",
@@ -2056,7 +2111,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-self-deception",
@@ -2067,7 +2122,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-existence-essence",
@@ -2078,7 +2133,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-family-resemblance",
@@ -2089,7 +2144,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-metaphysics-meaning",
@@ -2100,7 +2155,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-private-language",
@@ -2111,7 +2166,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-20c-analytic-continental",
@@ -2122,7 +2177,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-pythagoras",
@@ -2133,7 +2188,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-heraclitus",
@@ -2144,7 +2199,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-parmenides",
@@ -2155,7 +2210,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-democritus",
@@ -2166,7 +2221,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-protagoras",
@@ -2177,7 +2232,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-socrates",
@@ -2188,7 +2243,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-plato",
@@ -2199,7 +2254,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-aristotle",
@@ -2210,7 +2265,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-xenophanes",
@@ -2221,7 +2276,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-zeno-elea",
@@ -2232,7 +2287,18 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-ancient-anaximander",
+   "type": "philosopher",
+   "title": "阿那克西曼德",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-arche",
@@ -2243,7 +2309,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-logos",
@@ -2254,7 +2320,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-being",
@@ -2265,7 +2331,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-form",
@@ -2276,7 +2342,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-four-causes",
@@ -2287,7 +2353,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-dynamis",
@@ -2298,7 +2364,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-arete",
@@ -2309,7 +2375,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-eudaimonia",
@@ -2320,7 +2386,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-psyche",
@@ -2331,7 +2397,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-justice",
@@ -2342,7 +2408,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-flux-vs-being",
@@ -2353,7 +2419,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-forms-separate",
@@ -2364,7 +2430,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-ancient-virtue-teachable",
@@ -2375,7 +2441,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-rawls",
@@ -2386,7 +2452,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-nozick",
@@ -2397,7 +2463,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-foucault",
@@ -2408,7 +2474,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-derrida",
@@ -2419,7 +2485,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-habermas",
@@ -2430,7 +2496,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-rorty",
@@ -2441,7 +2507,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-kripke",
@@ -2452,7 +2518,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-davidson",
@@ -2463,7 +2529,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-feyerabend",
@@ -2474,7 +2540,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-anscombe",
@@ -2485,7 +2551,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-veil",
@@ -2496,7 +2562,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-justice-fairness",
@@ -2507,7 +2573,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-entitlement",
@@ -2518,7 +2584,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-power-knowledge",
@@ -2529,7 +2595,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-deconstruction",
@@ -2540,7 +2606,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-discourse",
@@ -2551,7 +2617,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-public-sphere",
@@ -2562,7 +2628,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-postmetaphysical",
@@ -2573,7 +2639,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-ironism",
@@ -2584,7 +2650,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-recognition",
@@ -2595,7 +2661,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-justice-criterion",
@@ -2606,7 +2672,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-modernity",
@@ -2617,7 +2683,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-contemp-representation",
@@ -2628,7 +2694,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-kant",
@@ -2639,7 +2705,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-fichte",
@@ -2650,7 +2716,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-schelling",
@@ -2661,7 +2727,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-hegel",
@@ -2672,7 +2738,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-jacobi",
@@ -2683,7 +2749,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-schleiermacher",
@@ -2694,7 +2760,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-novalis",
@@ -2705,7 +2771,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-schiller",
@@ -2716,7 +2782,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-transcendental",
@@ -2727,7 +2793,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-synthetic-a-priori",
@@ -2738,7 +2804,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-ding-an-sich",
@@ -2749,7 +2815,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-category",
@@ -2760,7 +2826,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-antinomy",
@@ -2771,7 +2837,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-absolute-spirit",
@@ -2782,7 +2848,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-dialectic",
@@ -2793,7 +2859,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-aufheben",
@@ -2804,7 +2870,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-an-sich-fuer-sich",
@@ -2815,7 +2881,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-thing-in-itself",
@@ -2826,7 +2892,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-dialectics",
@@ -2837,7 +2903,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-german-reason-faith",
@@ -2848,7 +2914,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-zeno",
@@ -2859,7 +2925,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-epicurus",
@@ -2870,7 +2936,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-pyrrho",
@@ -2881,7 +2947,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-sextus",
@@ -2892,7 +2958,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-cicero",
@@ -2903,7 +2969,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-plotinus",
@@ -2914,7 +2980,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-seneca",
@@ -2925,7 +2991,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-epictetus",
@@ -2936,7 +3002,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-lucretius",
@@ -2947,7 +3013,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-porphyry",
@@ -2958,7 +3024,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-origen",
@@ -2969,7 +3035,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-supreme-good",
@@ -2980,7 +3046,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-ataraxia",
@@ -2991,7 +3057,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-hedone",
@@ -3002,7 +3068,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-fate",
@@ -3013,7 +3079,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-natural-law",
@@ -3024,7 +3090,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-cosmopolis",
@@ -3035,7 +3101,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-the-one",
@@ -3046,7 +3112,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-epoche",
@@ -3057,7 +3123,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-pronoia",
@@ -3068,7 +3134,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-spermatikos",
@@ -3079,7 +3145,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-knowledge",
@@ -3090,7 +3156,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-freedom",
@@ -3101,7 +3167,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-hellenistic-pleasure",
@@ -3112,7 +3178,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-augustine",
@@ -3123,7 +3189,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-boethius",
@@ -3134,7 +3200,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-avicenna",
@@ -3145,7 +3211,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-anselm",
@@ -3156,7 +3222,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-abelard",
@@ -3167,7 +3233,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-aquinas",
@@ -3178,7 +3244,7 @@
    "sources": 5,
    "verified_sources": 5,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-duns-scotus",
@@ -3189,7 +3255,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-ockham",
@@ -3200,7 +3266,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-maimonides",
@@ -3211,7 +3277,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-averroes",
@@ -3222,7 +3288,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-al-farabi",
@@ -3233,7 +3299,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-faith-reason",
@@ -3244,7 +3310,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-grace",
@@ -3255,7 +3321,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-universals",
@@ -3266,7 +3332,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-essence-existence",
@@ -3277,7 +3343,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-proofs-god",
@@ -3288,7 +3354,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-free-will",
@@ -3299,7 +3365,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-double-truth",
@@ -3310,7 +3376,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-analogy",
@@ -3321,7 +3387,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-haecceitas",
@@ -3332,7 +3398,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-intellect-will",
@@ -3343,7 +3409,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-universals-debate",
@@ -3354,7 +3420,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-ontological-argument",
@@ -3365,7 +3431,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-medieval-will-intellect",
@@ -3376,7 +3442,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-bacon",
@@ -3387,7 +3453,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-descartes",
@@ -3398,7 +3464,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-spinoza",
@@ -3409,7 +3475,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-leibniz",
@@ -3420,7 +3486,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-locke",
@@ -3431,7 +3497,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-berkeley",
@@ -3442,7 +3508,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-hume",
@@ -3453,7 +3519,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-pascal",
@@ -3464,7 +3530,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-hobbes",
@@ -3475,7 +3541,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-rousseau",
@@ -3486,7 +3552,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-montesquieu",
@@ -3497,7 +3563,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-voltaire",
@@ -3508,7 +3574,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-idea",
@@ -3519,7 +3585,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-innate-ideas",
@@ -3530,7 +3596,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-blank-slate",
@@ -3541,7 +3607,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-cogito",
@@ -3552,7 +3618,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-substance",
@@ -3563,7 +3629,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-impression",
@@ -3574,7 +3640,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-causation",
@@ -3585,7 +3651,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-mind-body",
@@ -3596,7 +3662,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-contract",
@@ -3607,7 +3673,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-secondary-quality",
@@ -3618,7 +3684,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-innate-controversy",
@@ -3629,7 +3695,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-causal-necessity",
@@ -3640,7 +3706,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "gr-modern-mind-body-interaction",
@@ -3651,7 +3717,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-lunyu",
@@ -3662,7 +3728,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-mozi",
@@ -3673,7 +3739,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-republic",
@@ -3684,7 +3750,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-daodejing",
@@ -3695,7 +3761,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-metaphysics",
@@ -3706,7 +3772,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-nicomachean",
@@ -3717,7 +3783,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-politics",
@@ -3728,7 +3794,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-zhuangzi",
@@ -3739,7 +3805,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-mengzi",
@@ -3750,7 +3816,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-xunzi",
@@ -3761,7 +3827,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-ennreads",
@@ -3772,7 +3838,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-zhaolun",
@@ -3783,7 +3849,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-city-of-god",
@@ -3794,7 +3860,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-consolation",
@@ -3805,7 +3871,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-chengweishi",
@@ -3816,7 +3882,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-summa",
@@ -3827,7 +3893,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-tanjing",
@@ -3838,7 +3904,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-chuanxilu",
@@ -3849,7 +3915,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-discourse-method",
@@ -3860,7 +3926,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-meditations",
@@ -3871,7 +3937,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-two-treatises",
@@ -3882,7 +3948,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-monadology",
@@ -3893,7 +3959,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-treatise-human-nature",
@@ -3904,7 +3970,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-krv",
@@ -3915,7 +3981,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-cpr-practical",
@@ -3926,7 +3992,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-phenomenology-spirit",
@@ -3937,7 +4003,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-shorter-logic",
@@ -3948,7 +4014,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-on-liberty",
@@ -3959,7 +4025,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-being-time",
@@ -3970,7 +4036,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "work-being-nothingness",
@@ -3981,7 +4047,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cmp-cosmology",
@@ -3992,7 +4058,7 @@
    "sources": 5,
    "verified_sources": 5,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cmp-human-nature",
@@ -4003,7 +4069,7 @@
    "sources": 5,
    "verified_sources": 5,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cmp-knowledge",
@@ -4014,7 +4080,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cmp-ethics",
@@ -4025,7 +4091,7 @@
    "sources": 5,
    "verified_sources": 5,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "cmp-logic",
@@ -4036,7 +4102,7 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-rujia",
@@ -4047,7 +4113,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-daojia",
@@ -4058,7 +4124,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-mojia",
@@ -4069,7 +4135,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-fajia",
@@ -4080,7 +4146,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-mingbian",
@@ -4091,7 +4157,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-yinyang",
@@ -4102,7 +4168,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-xuanxue",
@@ -4113,7 +4179,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-banruo",
@@ -4124,7 +4190,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-tiantai",
@@ -4135,7 +4201,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-huayan",
@@ -4146,7 +4212,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-chan",
@@ -4157,7 +4223,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-weishi",
@@ -4168,7 +4234,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-lixue",
@@ -4179,7 +4245,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-xinxue",
@@ -4190,7 +4256,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-qixue",
@@ -4201,7 +4267,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-puxue",
@@ -4212,7 +4278,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-jinwen",
@@ -4223,7 +4289,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-guwen",
@@ -4234,7 +4300,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-milesian",
@@ -4245,7 +4311,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-pythagorean",
@@ -4256,7 +4322,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-elea",
@@ -4267,7 +4333,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-atomism",
@@ -4278,7 +4344,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-sophist",
@@ -4289,7 +4355,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-platonism",
@@ -4300,7 +4366,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-peripatetic",
@@ -4311,7 +4377,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-stoicism",
@@ -4322,7 +4388,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-epicureanism",
@@ -4333,7 +4399,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-skepticism",
@@ -4344,7 +4410,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-neoplatonism",
@@ -4355,7 +4421,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-patristic",
@@ -4366,7 +4432,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-scholastic",
@@ -4377,7 +4443,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-rationalism",
@@ -4388,7 +4454,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-empiricism",
@@ -4399,7 +4465,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-german-idealism",
@@ -4410,7 +4476,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-utilitarianism",
@@ -4421,7 +4487,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-positivism",
@@ -4432,7 +4498,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-marxism",
@@ -4443,7 +4509,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-phenomenology",
@@ -4454,7 +4520,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-analytic",
@@ -4465,7 +4531,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-existentialism",
@@ -4476,7 +4542,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-structuralism",
@@ -4487,7 +4553,7 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-frankfurt",
@@ -4498,7 +4564,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   },
   {
    "id": "school-pragmatism",
@@ -4509,7 +4575,7 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
-   "updated": "2026-11-22"
+   "updated": "2026-11-23"
   }
  ]
 }

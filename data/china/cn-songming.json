@@ -1807,6 +1807,155 @@
      "note": "明代气学纲要"
     }
    ]
+  },
+  {
+   "id": "cn-songming-wang-anshi",
+   "name": "王安石",
+   "latin": "Wang Anshi",
+   "birth_year": 1021,
+   "death_year": 1086,
+   "birth_display": "1021年",
+   "death_display": "1086年",
+   "birth_note": "据《宋史·王安石传》：生于抚州临川。",
+   "death_note": "1086年卒于江宁；谥“文”，世称“王文公”。",
+   "era": "北宋中期。王安石主持熙宁变法，创“新学”并以《三经新义》为科举依据；其哲学以“道”与“元气”为本，主张“新故相除”的变易观，为变法提供理论根据。",
+   "school": "新学（荆公新学）",
+   "core_questions": [
+    "变法的理论根据是什么？",
+    "道与元气是什么关系？",
+    "经典应如何重新解释以服务时务？"
+   ],
+   "arguments": [
+    {
+     "claim": "“新故相除”：变化是天道之常",
+     "premises": [
+      "“有阴有阳，新故相除者，天也”。",
+      "自然与人事皆在新旧更替中运行。"
+     ],
+     "inference": "若变化是天道之常，则因循守旧反违天道，变法有其宇宙论根据。",
+     "conclusion": "治国当因时变法，不可拘守旧制。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以“道”统摄元气与万物",
+     "premises": [
+      "道是“元气之不动”者，为万物之本。",
+      "元气分化而生阴阳五行与万物。"
+     ],
+     "inference": "若道为元气之本而万物由之生，则理解道即可为制度与伦理提供根据。",
+     "conclusion": "新学以“道”为本，重构经义以服务变法。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《临川先生文集》《三经新义》（残）《老子注》（残）",
+     "edition": "《王荆文公诗笺注》中华书局；《王文公文集》上海人民出版社",
+     "note": "《三经新义》为科举教材，今多残佚"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "孟子与《周礼》",
+     "id": null,
+     "note": "仁政与制度理想的依据"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "宋代新学与变法派",
+     "id": null,
+     "note": "熙宁变法的理论基础"
+    },
+    {
+     "name": "后世对“荆公新学”的批评与重估",
+     "id": "cn-songming-zhu-xi",
+     "note": "朱熹一系对 new 学的批评"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "司马光与旧党",
+     "view": "变法扰民、以《周礼》附会时政；新学穿凿经义。",
+     "response": "王安石一系的回应是：变法是应时之需，经义须重新解释以服务当代，非穿凿。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-wanganshi",
+      "book-chan-sourcebook"
+     ]
+    },
+    {
+     "critic": "朱熹一系",
+     "view": "新学以“道”为元气之本，近于道家，偏离儒家心性之学。",
+     "response": "新学一系的回应是：其“道”仍以仁义为归，只是从宇宙论上为制度立据。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-wanganshi",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "王安石只是政治家，没有哲学",
+     "why": "其“新故相除”的变易观与“道—元气”论是系统的宇宙论与变法理论。"
+    },
+    {
+     "claim": "新学等于法家",
+     "why": "他以《周礼》与孟子为据，目标是仁政与理财，非法家式的严刑。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>王安石：新故相除与变法</text><defs><marker id='aWA' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>阴阳新故相除</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>变化是天道之常</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故因循守旧违天道</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故当因时变法</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aWA)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aWA)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "王安石：新故相除与变法的理论根据（示意图）",
+   "sources": [
+    "ws-wanganshi",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "王安石以“新故相除”为天道之常（“有阴有阳，新故相除者，天也”），故因循守旧反违天道，变法有其宇宙论根据；他又以“道”为元气之不动者、元气分化为阴阳五行与万物，据此重构经义（《三经新义》）以服务熙宁变法。其“新学”是北宋最具政治干预性的哲学体系。",
+    "system": [
+     {
+      "name": "新故相除",
+      "content": "阴阳新故更替是天道之常；因循守旧违天道。"
+     },
+     {
+      "name": "道与元气",
+      "content": "道为元气之不动者；元气分化生阴阳五行与万物。"
+     },
+     {
+      "name": "经义重构",
+      "content": "以《三经新义》重释经典，为变法提供依据。"
+     },
+     {
+      "name": "理财与仁政",
+      "content": "变法以理财、富国、强兵为务，目标仍是仁政。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "地方官与上书（1042—1069）",
+      "change": "历任地方官，上书仁宗言变法；熙宁二年（1069）任参知政事，主持变法。"
+     },
+     {
+      "period": "罢相与晚年（1076—1086）",
+      "change": "两度罢相，退居江宁；新法在党争中反复。"
+     }
+    ],
+    "reception": "新学为熙宁变法的理论基础；朱熹一系批评其近道、穿凿；现代研究重估其变易观与制度思想；后世对其学说的接受与批评构成本领域的重要议题。"
+   },
+   "works_detail": [
+    {
+     "title": "《临川先生文集》",
+     "structure": "诗文与政论合集；含《上仁宗皇帝言事书》《洪范传》等。",
+     "core_thesis": "新故相除；道为本；变法；这是该书的核心命题。",
+     "editions": "《王文公文集》上海人民出版社；《王荆文公诗笺注》中华书局",
+     "note": "文集非单一哲学著作，须择篇阅读"
+    }
+   ]
   }
  ],
  "concepts": [

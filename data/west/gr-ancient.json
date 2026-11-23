@@ -1598,6 +1598,140 @@
      "note": "原初表述与数量有讨论"
     }
    ]
+  },
+  {
+   "id": "gr-ancient-anaximander",
+   "name": "阿那克西曼德",
+   "latin": "Anaximander of Miletus",
+   "birth_year": -610,
+   "death_year": -546,
+   "birth_display": "约前610年",
+   "death_display": "约前546年",
+   "birth_note": "生卒为推定；据第欧根尼·拉尔修，为泰勒斯的学生。",
+   "death_note": "同上；具体卒年不可考。",
+   "era": "公元前6世纪。阿那克西曼德是米利都学派第二代，最早以“无定”（apeiron）为本原，并留下最早的希腊哲学散文残篇；他亦被认为绘制了最早的宇宙地图。",
+   "school": "米利都学派",
+   "core_questions": [
+    "万物的本原若是一种元素，何以能生成对立之物？",
+    "宇宙如何从本原分化？",
+    "万物为何又回归本原？"
+   ],
+   "arguments": [
+    {
+     "claim": "本原是“无定”（apeiron）而非任何一种元素",
+     "premises": [
+      "若本原是水或气等元素，则它不能生成与其对立之物（如干与湿、冷与热）。",
+      "对立之物须由某种中立者分化而出。"
+     ],
+     "inference": "要使对立者都能由本原生成而不被本原消灭，本原须无固定性质，故为“无定”。",
+     "conclusion": "万物的本原是无限的、无规定的“无定”。",
+     "kind": "原文"
+    },
+    {
+     "claim": "万物由无定分化并复归于它，依时间的秩序",
+     "premises": [
+      "对立之物从无定中分离（如热与冷）。",
+      "分离造成“不义”，须相互补偿。"
+     ],
+     "inference": "若对立者的分离打破了平衡，则须有补偿与回归；这一过程依“时间的秩序”进行。",
+     "conclusion": "生成与消亡是无定中对立者分离与复归的循环，带有准法律的秩序含义。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论自然》（残篇）",
+     "edition": "DK 12 B；英译参 Kirk-Raven-Schofield《前苏格拉底哲学家》",
+     "note": "仅存一条较完整残篇（DK 12 B1）与若干转述"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "泰勒斯",
+     "id": null,
+     "note": "米利都学派的创始人，其师"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "阿那克西美尼",
+     "id": null,
+     "note": "以气为本原，承其自然探究"
+    },
+    {
+     "name": "毕达哥拉斯与早期宇宙论",
+     "id": null,
+     "note": "宇宙秩序（kosmos）观念"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "亚里士多德",
+     "view": "“无定”若无形无性，则难以说明它如何产生具体事物；无限者作为本原缺乏生成力。",
+     "response": "阿那克西曼德式的回应可重构为：正因无定无形，才能不被对立中的任何一方吞没，从而持续生成。",
+     "kind": "后人解读",
+     "sources": [
+      "iep-anaximander",
+      "book-guthrie-greek"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“无定”是某种更精细的物质",
+     "why": "它是“无规定者”，不是元素；其功能是避免本原与所生成之物同类相克。"
+    },
+    {
+     "claim": "阿那克西曼德主张世界永恒不变",
+     "why": "他讲的是分离与复归的循环，变化是其宇宙论的核心。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>阿那克西曼德：无定与本原</text><defs><marker id='aAX' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>元素不能生成其对立物</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故本原须无规定</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故本原是无定</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>万物由无定分化并复归</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aAX)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aAX)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为残篇与转述，图示为重构</text></svg>",
+   "svg_caption": "阿那克西曼德：无定作为本原的论证（示意图）",
+   "sources": [
+    "iep-anaximander",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "阿那克西曼德以“无定”（apeiron）为本原：若本原是水或气等有定性的元素，它便不能生成与其对立之物；故本原须无规定、无限，万物由之分离而出并依“时间的秩序”复归于它。其残篇中“不义”与“补偿”的措辞带有准法律的秩序含义，是西方最早的宇宙论散文之一。",
+    "system": [
+     {
+      "name": "无定",
+      "content": "本原无固定性质，故能生成对立之物而不被其吞没。"
+     },
+     {
+      "name": "分离与复归",
+      "content": "对立者从无定中分离，又依时间秩序复归；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "宇宙秩序",
+      "content": "生成与消亡是循环，带有“补偿”与“秩序”的含义。"
+     },
+     {
+      "name": "地悬于中心",
+      "content": "地不需要支撑，因处于中心而无偏向（最早的天文论证之一）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "米利都（约前610—前546）",
+      "change": "泰勒斯的学生；著《论自然》，并被认为绘制了最早的世界地图。"
+     }
+    ],
+    "reception": "其“无定”说是本原问题的重要转折（从元素到无规定者）；宇宙论与地图工作影响后世地理学；残篇是希腊哲学最早的散文。"
+   },
+   "works_detail": [
+    {
+     "title": "《论自然》（残篇）",
+     "structure": "仅存一条较完整残篇（DK 12 B1）及若干转述。",
+     "core_thesis": "无定是本原；分离与复归；这是该书的核心命题。",
+     "editions": "DK 12 B；Kirk-Raven-Schofield《前苏格拉底哲学家》",
+     "note": "残篇极少，多依转述"
+    }
+   ]
   }
  ],
  "concepts": [

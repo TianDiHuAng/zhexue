@@ -1596,6 +1596,149 @@
      "note": "1842 年初刻；影响日本明治维新"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-gong-zizhen",
+   "name": "龚自珍",
+   "latin": "Gong Zizhen",
+   "birth_year": 1792,
+   "death_year": 1841,
+   "birth_display": "1792年",
+   "death_display": "1841年",
+   "birth_note": "据《清史稿》：生于浙江仁和（杭州）。",
+   "death_note": "1841年暴卒于江苏丹阳云阳书院。",
+   "era": "晚清。龚自珍以今文经学与诗文批判衰世，主张“更法”“改图”，是晚清经世思潮与近代改革思想的先声；其《己亥杂诗》影响深远。",
+   "school": "今文经学（经世致用）",
+   "core_questions": [
+    "清朝为何陷入“衰世”？",
+    "如何“更法”以自救？",
+    "人才为何凋零？"
+   ],
+   "arguments": [
+    {
+     "claim": "衰世之象：人才凋零与万马齐喑",
+     "premises": [
+      "衰世并非无人才，而是人才被压抑、不敢有所作为。",
+      "“万马齐喑究可哀”，上下皆以因循为安。"
+     ],
+     "inference": "若人才被压抑而无人敢言，则社会失去自我更新的能力，衰世由此形成。",
+     "conclusion": "须“更法”“改图”，打破压抑人才的制度与风气。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以今文经学的“变”论证改革",
+     "premises": [
+      "公羊学讲三世与改制，历史是变化的。",
+      "“一祖之法无不敝”，法久必弊。"
+     ],
+     "inference": "若法久必弊而经义容许改制，则改革是承经义而非背离。",
+     "conclusion": "当因时更法，以经术为治术。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《己亥杂诗》《定盦文集》《乙丙之际著议》",
+     "edition": "《龚自珍全集》上海人民出版社；《己亥杂诗》中华书局",
+     "note": "诗文与政论，批判衰世、主张更法"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "今文经学（庄存与、刘逢禄）",
+     "id": null,
+     "note": "公羊三世与改制（远承）"
+    },
+    {
+     "name": "顾炎武的经世致用",
+     "id": "cn-qingmod-gu-yanwu",
+     "note": "实学与批判精神"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "康有为与维新变法",
+     "id": "cn-qingmod-kang-youwei",
+     "note": "今文经学与改制的先声"
+    },
+    {
+     "name": "晚清诗文与思想界",
+     "id": null,
+     "note": "“我劝天公重抖擞”的批判精神"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "守旧派",
+     "view": "讥切时政、倡言更法，动摇人心。",
+     "response": "龚自珍的回应是：不更法则衰世难返；批评正是为了自救。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-qing-philosophy",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "龚自珍只是诗人",
+     "why": "其今文经学与政论（《乙丙之际著议》）系统批判衰世、主张更法，是改革思潮的先声。"
+    },
+    {
+     "claim": "他主张全盘西化",
+     "why": "他的改革资源主要是今文经学与传统，尚未涉及西学。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>龚自珍：衰世之象与更法</text><defs><marker id='aGZ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>人才被压抑而不敢为</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故万马齐喑</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>衰世由此形成</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故须更法改图</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aGZ)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aGZ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "龚自珍：衰世诊断与更法主张（示意图）",
+   "sources": [
+    "sep-qing-philosophy",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "龚自珍著作无单一权威点校本进本库来源；本页依据哲学史与清代学术研究概述，具体篇目引文待补原典来源。",
+   "doctrine": {
+    "summary": "龚自珍以“衰世”诊断晚清：衰世非无人才，而是人才被压抑、上下因循，故“万马齐喑”；他据此主张“更法”“改图”，并以今文经学的三世与改制为理论根据（“一祖之法无不敝”）。其诗文与政论是晚清经世思潮与近代改革思想的先声。",
+    "system": [
+     {
+      "name": "衰世诊断",
+      "content": "人才被压抑而不敢为，上下因循，社会失去自我更新能力。"
+     },
+     {
+      "name": "更法改图",
+      "content": "法久必弊，故须因时更法；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "今文改制",
+      "content": "以公羊三世与改制论证改革的正当性；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "人才与风气",
+      "content": "改革的关键在解放人才、改变风气；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "仕宦与著述（1820—1839）",
+      "change": "官至礼部主事；著《乙丙之际著议》等政论。"
+     },
+     {
+      "period": "己亥南归（1839—1841）",
+      "change": "辞官南归，作《己亥杂诗》三百十五首；1841年暴卒。"
+     }
+    ],
+    "reception": "其批判与更法主张影响康有为与维新派；“我劝天公重抖擞”成为改革精神的象征；现代研究视其为近代思想的前奏。"
+   },
+   "works_detail": [
+    {
+     "title": "《己亥杂诗》",
+     "structure": "七绝三百十五首；记录南归途中的见闻与感慨，兼含政论。",
+     "core_thesis": "衰世之叹；更法之志；这是该书的核心命题。",
+     "editions": "《龚自珍全集》上海人民出版社；《己亥杂诗》中华书局",
+     "note": "诗文非系统哲学著作，须结合政论阅读"
+    }
+   ]
   }
  ],
  "concepts": [
