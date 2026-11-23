@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 556,
+  "entries": 562,
   "by_level": {
-   "L2": 474,
+   "L2": 480,
    "L1": 82
   },
   "doctrine": {
-   "total": 196,
-   "detail": 196,
+   "total": 202,
+   "detail": 202,
    "auto": 0
   },
   "needs_verification": 82,
-  "sources": 293,
-  "sources_verified": 289
+  "sources": 305,
+  "sources_verified": 301
  },
  "units": [
   {
@@ -83,10 +83,10 @@
    "unit_id": "gr-20c",
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
-   "philosophers": 17,
+   "philosophers": 18,
    "concepts": 13,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -9"
+   "philosophers_slot": "8 上限，余 -10"
   },
   {
    "unit_id": "gr-ancient",
@@ -128,19 +128,19 @@
    "unit_id": "gr-medieval",
    "title": "中世纪经院哲学",
    "region": "west",
-   "philosophers": 17,
+   "philosophers": 18,
    "concepts": 13,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -9"
+   "philosophers_slot": "8 上限，余 -10"
   },
   {
    "unit_id": "gr-modern",
    "title": "近代理性论与经验论",
    "region": "west",
-   "philosophers": 23,
+   "philosophers": 27,
    "concepts": 12,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -15"
+   "philosophers_slot": "8 上限，余 -19"
   }
  ],
  "entries": [
@@ -2444,6 +2444,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-gadamer",
+   "type": "philosopher",
+   "title": "汉斯-格奥尔格·伽达默尔",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-20c-sense-reference",
    "type": "concept",
    "title": "意义与指称",
@@ -4072,6 +4083,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-medieval-roger-bacon",
+   "type": "philosopher",
+   "title": "罗吉尔·培根",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-medieval-faith-reason",
    "type": "concept",
    "title": "信仰与理性",
@@ -4493,6 +4515,50 @@
    "id": "gr-modern-erasmus",
    "type": "philosopher",
    "title": "伊拉斯谟",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-bayle",
+   "type": "philosopher",
+   "title": "培尔",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-vico",
+   "type": "philosopher",
+   "title": "维柯",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-herder",
+   "type": "philosopher",
+   "title": "赫尔德",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-suarez",
+   "type": "philosopher",
+   "title": "苏阿雷斯",
    "container": "gr-modern",
    "level": "L2",
    "sources": 2,

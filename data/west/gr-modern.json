@@ -3762,6 +3762,562 @@
      "note": "1509 年；1511 年增订"
     }
    ]
+  },
+  {
+   "id": "gr-modern-bayle",
+   "name": "培尔",
+   "latin": "Pierre Bayle",
+   "birth_year": 1647,
+   "death_year": 1706,
+   "birth_display": "1647年",
+   "death_display": "1706年",
+   "birth_note": "生于法国卡拉（今卡尔拉拜）；据其生平材料，父为新教牧师。",
+   "death_note": "1706年卒于鹿特丹。",
+   "era": "17世纪末。培尔以《历史与批判辞典》著称：他以严密的注释罗列各家学说的矛盾与史实错误，从而为宽容辩护——若理性在思辨中必然导致混乱，则信仰不能靠理性强制，宽容才是唯一出路。",
+   "school": "怀疑论（启蒙先驱）",
+   "core_questions": [
+    "理性能否确立宗教真理？",
+    "无神论者能否有道德？",
+    "宽容的根据是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "理性的自我颠覆：一切思辨体系皆可被反驳",
+     "premises": [
+      "各家哲学体系互相矛盾且各有难解之处。",
+      "理性在超越经验的问题上无法达成一致。"
+     ],
+     "inference": "若理性在形而上与神学问题上必然产生不可解的矛盾，则任何以理性为名的强制都无根据；信仰须以别的方式成立。",
+     "conclusion": "理性在思辨领域导致怀疑，故不能作为宗教强制的工具。",
+     "kind": "原文"
+    },
+    {
+     "claim": "无神论者可以有道德：道德的根据不必是宗教信仰",
+     "premises": [
+      "历史上可见无神论者遵守道德。",
+      "社会秩序可由非宗教的动机（名誉、习惯、法律）维持。"
+     ],
+     "inference": "若道德的实践不必依赖对神的信仰，则“无神论者必然败坏”的论点不成立，宽容无神论者也就不危害社会。",
+     "conclusion": "道德可与宗教分离，故对无神论者的宽容不危及秩序。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《历史与批判辞典》《彗星杂感》《论宽容》",
+     "edition": "《辞典》英译见 *The Historical and Critical Dictionary*（Popkin 选译）；法文以 Desmaizeaux 版",
+     "note": "1697；1682；1686"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "笛卡尔与马勒伯朗士",
+     "id": "gr-modern-malebranche",
+     "note": "其批判的形而上学对象"
+    },
+    {
+     "name": "蒙田与古代怀疑论",
+     "id": "gr-modern-montaigne",
+     "note": "怀疑的方法与文风"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "伏尔泰与启蒙",
+     "id": "gr-modern-voltaire",
+     "note": "《辞典》为启蒙的批判工具书"
+    },
+    {
+     "name": "休谟与康德",
+     "id": "gr-modern-hume",
+     "note": "理性界限与信仰问题"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "正统神学家（如茹里厄）",
+     "view": "以怀疑论瓦解信仰的理性基础，等于为不信仰开路。",
+     "response": "培尔一系的回应是：正因理性无力，才不能以暴力强制信仰；宽容是信仰真诚的条件。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-bayle",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "培尔是无神论者",
+     "why": "他自称新教徒，其怀疑论用于护教（ fideism 式）；“无神论者可道德”是论证宽容，不是自白。"
+    },
+    {
+     "claim": "《辞典》只是资料汇编",
+     "why": "其注释中的论证与反讽构成系统的批判，不是中立的编纂。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>培尔：理性的自我颠覆与宽容</text><defs><marker id='aBA' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>诸体系互相矛盾</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故理性不能确立宗教真理</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故强制无根据</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故宽容是唯一出路</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aBA)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aBA)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "培尔：理性批判与宽容（示意图）",
+   "sources": [
+    "sep-bayle",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "培尔以《历史与批判辞典》展示各家体系的互相矛盾与史实错误，据以论证理性在思辨领域必然导致怀疑，故任何以理性为名的宗教强制都无根据——宽容是信仰真诚的条件。他又主张道德不必依赖宗教信仰，故无神论者可以守道德，社会秩序亦可由非宗教动机维持。",
+    "system": [
+     {
+      "name": "理性的自我颠覆",
+      "content": "思辨体系互相矛盾，故理性不能确立宗教真理。"
+     },
+     {
+      "name": "宽容",
+      "content": "强制信仰无根据；宽容是信仰真诚的条件；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "道德与宗教分离",
+      "content": "无神论者可守道德，故宽容不危及秩序；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "批判的注释",
+      "content": "以注释罗列矛盾与史实错误，形成系统的批判方法。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "卡拉、色当与鹿特丹（1647—1706）",
+      "change": "先为天主教徒后改宗新教；在色当与鹿特丹任教；因《辞典》遭教会谴责；1706 年卒。"
+     }
+    ],
+    "reception": "《辞典》成为18世纪启蒙的批判工具书；其宽容论影响伏尔泰；其怀疑论与“信仰主义”的张力是近代宗教哲学的重要议题。"
+   },
+   "works_detail": [
+    {
+     "title": "《历史与批判辞典》",
+     "structure": "以条目与长注构成；注中展开批判与反驳。",
+     "core_thesis": "理性自我颠覆；宽容；道德与宗教分离。",
+     "editions": "Popkin 选译英文本；Desmaizeaux 法文本",
+     "note": "1697 年；再版多次"
+    }
+   ]
+  },
+  {
+   "id": "gr-modern-vico",
+   "name": "维柯",
+   "latin": "Giambattista Vico",
+   "birth_year": 1668,
+   "death_year": 1744,
+   "birth_display": "1668年",
+   "death_display": "1744年",
+   "birth_note": "生于那不勒斯；据其自传，父为书商。",
+   "death_note": "1744年卒于那不勒斯。",
+   "era": "18世纪初。维柯以《新科学》反对笛卡尔式的理性主义：人类只能真正理解自己所创造的东西（verum ipsum factum），故历史与语言、神话、法律的世界比自然界更可知。他提出“各民族共同的历史规律”与三阶段循环。",
+   "school": "历史哲学（反笛卡尔主义）",
+   "core_questions": [
+    "人类能真正认识什么？",
+    "历史有无规律？",
+    "神话与语言如何理解？"
+   ],
+   "arguments": [
+    {
+     "claim": "“真理即创造”（verum ipsum factum）：人只能理解自己所造之物",
+     "premises": [
+      "自然界由神创造，故人只能从外部描述其规律。",
+      "数学与历史的世界由人构造（数学是人的构造，历史是人的行动）。"
+     ],
+     "inference": "若理解等于把握其所以然的构造，则人对自己所造之物（数学、历史、制度）有真正的知识，对自然则只有意识（conscientia）。",
+     "conclusion": "历史与人文世界比自然界更可知，故须有“新科学”研究它。",
+     "kind": "原文"
+    },
+    {
+     "claim": "各民族的历史循三阶段循环：神的时代、英雄时代、人的时代",
+     "premises": [
+      "语言、法律、宗教在各阶段的形态有系统的对应。",
+      "阶段之间以“复归”（ricorso）循环。"
+     ],
+     "inference": "若各民族的制度、语言与神话在同一阶段呈现同构形态，则历史有可比较的共同规律，而非杂乱无章。",
+     "conclusion": "历史有“理想的永恒规律”，各民族依三阶段循环演进。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《新科学》《论意大利人的古代智慧》《自传》",
+     "edition": "《新科学》中译参商务印书馆（若有）；英译见 Bergin & Fisch",
+     "note": "1725 初版；1730 重写；1744 第三版"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "柏拉图、塔西佗与培根",
+     "id": "gr-modern-bacon",
+     "note": "其“四位作者”中的三位（第四为格劳秀斯）"
+    },
+    {
+     "name": "意大利人文主义与修辞学",
+     "id": "",
+     "note": "语文学与论辩训练"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "赫尔德与德国历史主义",
+     "id": "gr-modern-herder",
+     "note": "民族精神与历史理解"
+    },
+    {
+     "name": "马克思与狄尔泰",
+     "id": null,
+     "note": "历史科学与方法论"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "笛卡尔主义者",
+     "view": "以“清晰分明”为知识标准，则历史与语言因不确定而被排除在科学之外。",
+     "response": "维柯的回应是：历史的不确定恰因其为人的创造，故有另一种确定性（语文学的确定性）。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-vico",
+      "iep-vico"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "维柯是“历史循环论者”故反对进步",
+     "why": "其循环含“复归”但不是简单重复，且他承认人的时代有更高的理性；其立场更接近“有规律的发展”。"
+    },
+    {
+     "claim": "《新科学》是历史学著作",
+     "why": "它是哲学著作，论的是历史知识的可能性与“理想的永恒规律”。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>维柯：真理即创造</text><defs><marker id='aVI' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>自然由神创造，人只能外部描述</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>历史与数学由人构造</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故人文世界更可知</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故须有“新科学”研究其规律</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aVI)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aVI)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "维柯：verum ipsum factum 与历史知识（示意图）",
+   "sources": [
+    "sep-vico",
+    "iep-vico"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "维柯以“真理即创造”（verum ipsum factum）反转笛卡尔的知识标准：人只能真正理解自己所造之物，故数学与历史（人的构造）比自然（神的创造）更可知。由此他主张须有“新科学”研究各民族的共同规律，并以“神的时代—英雄时代—人的时代”的三阶段循环与“复归”说明历史的结构。",
+    "system": [
+     {
+      "name": "真理即创造",
+      "content": "人理解自己所造之物；故历史比自然更可知。"
+     },
+     {
+      "name": "三阶段",
+      "content": "神的、英雄的、人的时代；语言、法律、宗教形态对应。"
+     },
+     {
+      "name": "复归（ricorso）",
+      "content": "阶段循环而非直线；但非简单重复；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "语文学的确定性",
+      "content": "以词源、神话、古法为据的另一种知识确定性。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "那不勒斯（1668—1744）",
+      "change": "那不勒斯大学修辞学教授；家境清贫；《新科学》三版（1725、1730、1744）；生前影响有限。"
+     }
+    ],
+    "reception": "其历史哲学影响赫尔德、黑格尔与马克思的历史观；“真理即创造”经意大利唯心论（克罗齐）传播；现代研究视其为历史主义与解释学的先声。"
+   },
+   "works_detail": [
+    {
+     "title": "《新科学》",
+     "structure": "五卷：原理、诗的智慧、发现真正的荷马、诸民族的发展、复归。",
+     "core_thesis": "真理即创造；三阶段循环；这是该书的核心命题。",
+     "editions": "Bergin & Fisch 英译；中译参商务印书馆（若有）",
+     "note": "1744 年第三版为定本"
+    }
+   ]
+  },
+  {
+   "id": "gr-modern-herder",
+   "name": "赫尔德",
+   "latin": "Johann Gottfried Herder",
+   "birth_year": 1744,
+   "death_year": 1803,
+   "birth_display": "1744年",
+   "death_display": "1803年",
+   "birth_note": "生于东普鲁士莫龙根；据其生平材料，父为教师。",
+   "death_note": "1803年卒于魏玛。",
+   "era": "18世纪后半叶的德国。赫尔德是狂飙突进与德国历史主义的奠基者：他主张每个民族有其不可替代的“民族精神”（Volksgeist）与语言世界，故不能用一套普遍标准评判所有文化；他又以语言起源与民歌收集影响浪漫主义。",
+   "school": "历史主义（民族精神）",
+   "core_questions": [
+    "各民族文化能否用同一标准评判？",
+    "语言与思想的关系如何？",
+    "历史是进步还是各民族的各自展开？"
+   ],
+   "arguments": [
+    {
+     "claim": "每一民族有其不可通约的语言与精神，故须“设身处地”理解",
+     "premises": [
+      "语言塑造思维方式，不同语言的世界不可完全互译。",
+      "各民族的制度、诗歌与宗教是其精神的表现。"
+     ],
+     "inference": "若语言与精神互相构成，则理解一个民族须进入其语言与传统，而非以外部标准评判。",
+     "conclusion": "历史的单位是民族，理解的方法是“同情式的进入”（Einfühlung），而非普遍标准的度量。",
+     "kind": "原文"
+    },
+    {
+     "claim": "历史是各民族文化各自展开的“人性的花园”，非单一线性进步",
+     "premises": [
+      "每一时代有其自身的价值与幸福。",
+      "以“现在”为尺度评判过去，会抹去其独特意义。"
+     ],
+     "inference": "若每一时代与民族都有其自身的完善标准，则历史不是朝向单一目标的直线，而是多样形态的展开。",
+     "conclusion": "历史是各民族的多样展开，不能用单一进步尺度衡量。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论语言的起源》《关于人类历史哲学的观念》《民歌集》",
+     "edition": "《论语言的起源》中译参商务印书馆；《观念》英译见 Cambridge Texts",
+     "note": "1772；1784—91；1778—79"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "哈曼与康德",
+     "id": null,
+     "note": "哈曼的语言神秘主义；与康德的争论"
+    },
+    {
+     "name": "卢梭与民歌传统",
+     "id": "gr-modern-rousseau",
+     "note": "自然与情感"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "浪漫主义与民族主义",
+     "id": "",
+     "note": "民族语言与民歌的收集"
+    },
+    {
+     "name": "狄尔泰与伽达默尔",
+     "id": null,
+     "note": "理解与解释学"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "康德与启蒙普遍主义者",
+     "view": "以民族精神为历史单位会滑向相对主义，取消普遍的道德与理性标准。",
+     "response": "赫尔德一系的回应是：多样性不取消人性，各民族是同一人性的不同展开；理解而非评判才是普遍性的形式。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-herder",
+      "sep-kant"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "赫尔德是民族主义者",
+     "why": "他主张各民族平等并有独特价值，反对的是文化等级论，不是民族优越论；其思想被后来的民族主义挪用。"
+    },
+    {
+     "claim": "他的历史哲学是非理性的",
+     "why": "他强调情感与语言，但方法是语文学与比较研究，不是反理性。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>赫尔德：民族精神与理解</text><defs><marker id='aHD' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>语言塑造思维</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故各民族世界不可完全互译</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故理解须设身处地</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故历史是多样展开而非单线</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aHD)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aHD)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "赫尔德：民族精神与同情式理解（示意图）",
+   "sources": [
+    "sep-herder",
+    "sep-kant"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "赫尔德以语言与民族精神为历史理解的单位：语言塑造思维，故不同语言的世界不可完全互译，理解须“设身处地”进入其传统，而非以外部标准度量。由此他主张历史是各民族文化各自展开的“人性的花园”，不能用单一线性进步尺度衡量——每一时代有其自身的价值。其说是德国历史主义与浪漫主义的奠基。",
+    "system": [
+     {
+      "name": "民族精神（Volksgeist）",
+      "content": "各民族的语言、诗歌与制度是其精神的表现。"
+     },
+     {
+      "name": "同情式理解",
+      "content": "以进入而非评判的方式理解他者文化；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "历史的多样展开",
+      "content": "各时代与民族有其自身标准，非单线进步；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "语言起源",
+      "content": "语言非神授也非契约，而是人的自然能力的展开（《论语言的起源》）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "莫龙根、里加与魏玛（1744—1803）",
+      "change": "在东普鲁士与里加任教与布道；1776 年起在魏玛任宫廷牧师；与歌德交往；晚年与康德论战。"
+     }
+    ],
+    "reception": "其历史主义影响狄尔泰、斯宾格勒与伽达默尔；民歌收集推动浪漫主义；其民族观念被后世民族主义挪用，与他本人的平等主义立场有别。"
+   },
+   "works_detail": [
+    {
+     "title": "《关于人类历史哲学的观念》",
+     "structure": "四部分：论地球与人类、论各民族的语言与诗歌、论希腊罗马等、论近代。",
+     "core_thesis": "民族精神；历史多样展开；这是该书的核心命题。",
+     "editions": "Cambridge Texts 英译本",
+     "note": "1784—91；未完成"
+    }
+   ]
+  },
+  {
+   "id": "gr-modern-suarez",
+   "name": "苏阿雷斯",
+   "latin": "Francisco Suárez",
+   "birth_year": 1548,
+   "death_year": 1617,
+   "birth_display": "1548年",
+   "death_display": "1617年",
+   "birth_note": "生于西班牙格拉纳达；据其生平材料，出身律师家庭。",
+   "death_note": "1617年卒于里斯本。",
+   "era": "16—17世纪。苏阿雷斯是晚期经院哲学（“第二经院”）的代表，耶稣会士；其《形而上学辩论集》系统整理并改造了阿奎那与司各脱的学说，对格劳秀斯、笛卡尔、莱布尼茨与近代国际法都有直接影响。",
+   "school": "晚期经院（耶稣会）",
+   "core_questions": [
+    "本质与存在是实在区分还是概念区分？",
+    "法律的效力来自何处？",
+    "个体化的原理是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "本质与存在是“概念的区分”，而非实在的区分",
+     "premises": [
+      "实在的区分须在两个实在者之间。",
+      "受造物的本质与存在不是两个实在的事物。"
+     ],
+     "inference": "若本质与存在不是两个实在者，则其区分只能是理性的（概念）区分，而非阿奎那式的实在区分。",
+     "conclusion": "本质与存在在受造物中仅以概念区分，此说为近代本质主义铺路。",
+     "kind": "原文"
+    },
+    {
+     "claim": "法律是“理性的命令”，其效力来自立法者的意志与理性",
+     "premises": [
+      "法律须是规则，而规则由理性构成。",
+      "法律的约束力须有正当的立法者。"
+     ],
+     "inference": "若法律是理性的命令且须有正当权威，则其效力既非纯意志也非纯理性，而是二者的结合。",
+     "conclusion": "法律是“指向共同善的理性命令”，由有权者颁布。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《形而上学辩论集》《论法律》《为天主教信仰辩护》",
+     "edition": "拉丁文以 Opera omnia（Vivès）为准；《论法律》有英译选本",
+     "note": "《辩论集》为其哲学总纲"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "托马斯·阿奎那",
+     "id": null,
+     "note": "其基本框架"
+    },
+    {
+     "name": "司各脱与奥卡姆",
+     "id": null,
+     "note": "本质与存在、个体化问题的对话者"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "格劳秀斯与近代国际法",
+     "id": "gr-modern-grotius",
+     "note": "自然法与万民法"
+    },
+    {
+     "name": "笛卡尔与莱布尼茨",
+     "id": "gr-modern-descartes",
+     "note": "本质与存在的区分问题"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "托马斯主义者",
+     "view": "以概念区分取代实在区分，使受造物的存在失去其本体的分量，近于本质主义。",
+     "response": "苏阿雷斯一系的回应是：存在不是“另一个事物”，而是使本质得以实现的活动，故不需实在区分。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-suarez",
+      "sep-aquinas"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "苏阿雷斯只是阿奎那的注释者",
+     "why": "他系统改造了阿奎那、司各脱与奥卡姆，其本质／存在学说与法律理论都是独立的。"
+    },
+    {
+     "claim": "他是“第二经院”的边缘人物",
+     "why": "他是该学派最系统的形而上学家，其著作在17世纪欧洲大学广泛使用。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>苏阿雷斯：本质与存在</text><defs><marker id='aSU' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>实在区分须在两个实在者之间</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>受造物的本质与存在非两物</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故只能是概念区分</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故存在使本质得以实现</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aSU)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aSU)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "苏阿雷斯：本质与存在的概念区分（示意图）",
+   "sources": [
+    "sep-suarez",
+    "sep-aquinas"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "苏阿雷斯以“概念的区分”取代阿奎那的“实在区分”：实在的区分须在两个实在者之间，而受造物的本质与存在不是两个事物，故其区分只能是理性的区分——这一步为近代本质主义与笛卡尔的思路铺路。在法律上他主张法律是“指向共同善的理性命令”，由正当权威颁布，其效力既非纯意志也非纯理性。",
+    "system": [
+     {
+      "name": "概念区分",
+      "content": "本质与存在在受造物中非实在二分，仅以概念区分。"
+     },
+     {
+      "name": "法律的定义",
+      "content": "指向共同善的理性命令，由有权者颁布；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "万民法",
+      "content": "以万民（各民族）为共同体的法，影响近代国际法。"
+     },
+     {
+      "name": "个体化",
+      "content": "以“物质的量”（materia quantitate signata）说明个体化，修正阿奎那。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "格拉纳达、罗马与里斯本（1548—1617）",
+      "change": "耶稣会士；在罗马与西班牙讲学；受教皇之邀著《为天主教信仰辩护》驳英王詹姆斯一世；卒于里斯本。"
+     }
+    ],
+    "reception": "其形而上学影响了笛卡尔与莱布尼茨的术语；法律理论经格劳秀斯进入近代国际法；17世纪欧洲大学以其为教材。"
+   },
+   "works_detail": [
+    {
+     "title": "《形而上学辩论集》",
+     "structure": "五十四篇辩论；论存在者、本质与存在、因果、个体化。",
+     "core_thesis": "概念区分；个体化；因果；这是该书的核心命题。",
+     "editions": "Vivès 拉丁本；英译选集",
+     "note": "1597 年；17世纪通行教材"
+    }
+   ]
   }
  ],
  "concepts": [

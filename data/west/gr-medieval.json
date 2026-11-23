@@ -2883,6 +2883,145 @@
      "note": "部分仅存转译"
     }
    ]
+  },
+  {
+   "id": "gr-medieval-roger-bacon",
+   "name": "罗吉尔·培根",
+   "latin": "Roger Bacon",
+   "birth_year": 1214,
+   "death_year": 1292,
+   "birth_display": "约1214年",
+   "death_display": "约1292年",
+   "birth_note": "生于英格兰伊尔切斯特（一说比塞斯特）；据其著作与方济各会档案。",
+   "death_note": "约1292年卒于牛津。",
+   "era": "13世纪牛津。罗吉尔·培根是方济各会士，以倡导“实验科学”（scientia experimentalis）与语言学习著称；他批评当时神学与法学教育的空疏，主张以数学、光学与经验研究自然，被视为近代科学精神的先声。",
+   "school": "方济各会（实验科学倡导者）",
+   "core_questions": [
+    "知识的可靠根据是什么？",
+    "权威与论证是否足够？",
+    "如何避免谬误？"
+   ],
+   "arguments": [
+    {
+     "claim": "认识有四种障碍：脆弱权威、习惯、大众意见、以假智自饰",
+     "premises": [
+      "多数人依权威与习俗而信，不追问理由。",
+      "以“自以为知”掩盖无知，使人不求真知。"
+     ],
+     "inference": "若上述四种是谬误的来源，则求真须先清除它们，其法为语言、数学与经验。",
+     "conclusion": "须以原文语言、数学与经验研究取代权威与习俗。",
+     "kind": "原文"
+    },
+    {
+     "claim": "实验科学（scientia experimentalis）高于论证的技艺",
+     "premises": [
+      "论证可推出结论，但不能保证其与现实相符。",
+      "经验可检验并发现论证所不能及的新事实。"
+     ],
+     "inference": "若知识的确定性须与实在相符，则须有实验作为检验与发现的双重工具；故此“科学”是其他科学的“女王”。",
+     "conclusion": "实验科学既检验又扩展知识，是诸科学的枢纽。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《大著作》《小著作》《第三著作》《论艺术与自然的秘密》",
+     "edition": "拉丁文以 Opera hactenus inedita（Clarendon）为准；英译见 *The Opus Majus*（Burke）",
+     "note": "《大著作》为其体系总纲"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "亚里士多德与阿拉伯光学（阿尔哈曾）",
+     "id": null,
+     "note": "自然哲学与光学传统"
+    },
+    {
+     "name": "格罗斯泰斯特",
+     "id": "",
+     "note": "牛津的数学与光学先驱"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "近代实验科学",
+     "id": "",
+     "note": "经验与数学结合的方法论"
+    },
+    {
+     "name": "牛津计算学派",
+     "id": "",
+     "note": "数学化的自然研究"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "同代方济各会与巴黎学者",
+     "view": "其批评过激，且对实验科学的“至上性”估价被认为夸大了经验的作用，忽视了演绎与形而上学。",
+     "response": "培根一系的回应是：经验与论证互补，缺一则知识不完整。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-roger-bacon",
+      "book-gilson-medieval"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "罗吉尔·培根是“近代实验科学的创始人”",
+     "why": "他有方法论纲领但缺乏决定性的实验成果；称之为“先声”或“倡导者”更准确。"
+    },
+    {
+     "claim": "他反对亚里士多德",
+     "why": "他大量采用亚里士多德与阿拉伯科学，反对的是对亚氏的盲目崇拜与错误译本。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>罗吉尔·培根：四障碍与实验</text><defs><marker id='aRB' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>权威与习俗使人不追问理由</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>论证不能保证与实在相符</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故须清除四障碍</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故实验科学检验并扩展知识</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aRB)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aRB)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "罗吉尔·培根：四障碍与实验科学（示意图）",
+   "sources": [
+    "sep-roger-bacon",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "罗吉尔·培根提出认识的四种障碍——脆弱权威、习惯、大众意见、以假智自饰——并主张以原文语言、数学与经验研究清除之。他又主张“实验科学”（scientia experimentalis）高于论证的技艺：论证能推出结论却不能保证与现实相符，唯有经验能检验并发现新事实，故实验科学是诸科学的枢纽。",
+    "system": [
+     {
+      "name": "四障碍",
+      "content": "权威、习惯、大众意见、假智；求真的第一步是清除它们。"
+     },
+     {
+      "name": "实验科学",
+      "content": "既检验论证的结论，又发现论证所不及的新事实。"
+     },
+     {
+      "name": "语言与数学",
+      "content": "原文语言是理解经典的前提；数学是自然研究的形式。"
+     },
+     {
+      "name": "光学与透视",
+      "content": "以几何研究视觉与传播，承阿拉伯光学（阿尔哈曾）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "牛津与巴黎（约1214—约1292）",
+      "change": "牛津与巴黎大学学习；方济各会士；因批评时学被限制讲学；著《大著作》（1267）呈教皇克雷芒四世。"
+     }
+    ],
+    "reception": "其方法论纲领被视为近代科学精神的先声；对语言与数学的强调影响了牛津传统；其“实验科学”概念在科学史上被反复援引。"
+   },
+   "works_detail": [
+    {
+     "title": "《大著作》",
+     "structure": "七部分：论谬误的四个原因、哲学与神学的关系、语言学习、数学、光学、实验科学、道德哲学。",
+     "core_thesis": "四障碍；实验科学；这是该书的核心命题。",
+     "editions": "Burke 英译《The Opus Majus》；Clarendon 拉丁本",
+     "note": "1267 年呈教皇"
+    }
+   ]
   }
  ],
  "concepts": [

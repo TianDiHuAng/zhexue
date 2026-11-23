@@ -2615,6 +2615,145 @@
      "note": "1961 年"
     }
    ]
+  },
+  {
+   "id": "gr-20c-gadamer",
+   "name": "汉斯-格奥尔格·伽达默尔",
+   "latin": "Hans-Georg Gadamer",
+   "birth_year": 1900,
+   "death_year": 2002,
+   "birth_display": "1900年",
+   "death_display": "2002年",
+   "birth_note": "生于德国马堡；据其自述，父为药学教授。",
+   "death_note": "2002年卒于海德堡。",
+   "era": "20世纪。伽达默尔以《真理与方法》建立哲学解释学：理解不是重构作者原意的方法，而是“视域融合”（Horizontverschmelzung）的事件；前见（Vorurteil）不是须清除的障碍，而是理解得以可能的条件。",
+   "school": "哲学解释学",
+   "core_questions": [
+    "理解如何可能？",
+    "前见是障碍还是条件？",
+    "人文科学的真理与科学真理有何不同？"
+   ],
+   "arguments": [
+    {
+     "claim": "前见是理解的条件，不是须清除的偏见",
+     "premises": [
+      "任何理解都从特定的传统与前见出发。",
+      "完全“无前见”的理解不可能。"
+     ],
+     "inference": "若理解总已在前见中进行，则启蒙式的“清除一切前见”本身是不可能的；故须区分“合法的前见”与“盲目的前见”。",
+     "conclusion": "前见是理解的条件；解释学的任务不是消除它，而是检验其合法性。",
+     "kind": "原文"
+    },
+    {
+     "claim": "视域融合：理解是文本的视域与解释者的视域交融的事件",
+     "premises": [
+      "文本有其历史视域，解释者有其当下视域。",
+      "理解不是进入文本的视域而放弃自己的视域。"
+     ],
+     "inference": "若理解要求二者相遇而生出新的意义，则理解是“融合”而非“复原”；故同一文本在不同时代有不同的真理。",
+     "conclusion": "理解是视域融合的事件，意义在历史中不断生成。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《真理与方法》《哲学解释学》《短篇著作集》",
+     "edition": "《真理与方法》中译参商务印书馆；德文以 GW（Mohr）为准",
+     "note": "1960；1967；1967—77"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "海德格尔",
+     "id": null,
+     "note": "理解作为此在的存在方式"
+    },
+    {
+     "name": "施莱尔马赫与狄尔泰",
+     "id": null,
+     "note": "解释学的浪漫主义与方法论阶段"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "利科与哈贝马斯",
+     "id": null,
+     "note": "解释学的批判性发展"
+    },
+    {
+     "name": "德里达与解构",
+     "id": null,
+     "note": "与伽达默尔的论战（善意与断裂）"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "哈贝马斯与阿佩尔",
+     "view": "以解释学缺乏批判与规范基础，无法揭露系统性的扭曲。",
+     "response": "伽达默尔一系的回应是：解释学本身含批判的可能，因为传统并非同质，理解总在检验前见的合法性。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-gadamer",
+      "iep-gadamer"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "伽达默尔主张“作者已死”、意义任意",
+     "why": "他强调视域融合受文本与传统约束，不是任意解读；与解构的“无限漂移”不同。"
+    },
+    {
+     "claim": "他否认方法",
+     "why": "他反对的是把方法论普遍化，不是反对方法本身。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>伽达默尔：前见与视域融合</text><defs><marker id='aHG' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>理解总已从传统与前见出发</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故无前见的理解不可能</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故须检验前见的合法性</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故理解是视域融合的事件</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aHG)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aHG)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "伽达默尔：前见、视域融合与解释学（示意图）",
+   "sources": [
+    "sep-gadamer",
+    "iep-gadamer"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "伽达默尔以“前见是理解的条件”反驳启蒙式的偏见清除：任何理解都从特定的传统与前见出发，完全无前见的理解不可能，故解释学的任务是检验前见的合法性而非消除它。他又以“视域融合”说明理解的结构：文本的历史视域与解释者的当下视域相遇而生出新意义，故理解是事件而非复原。",
+    "system": [
+     {
+      "name": "前见",
+      "content": "理解的条件；须区分合法与盲目的前见；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "视域融合",
+      "content": "文本视域与解释者视域的交融；意义在历史中生成。"
+     },
+     {
+      "name": "效果历史（Wirkungsgeschichte）",
+      "content": "我们总已在历史的效果之中，故须自觉其作用。"
+     },
+     {
+      "name": "应用（Anwendung）",
+      "content": "理解总已包含把文本应用于当下处境；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "马堡、莱比锡与海德堡（1900—2002）",
+      "change": "师从海德格尔；1949 年起任海德堡大学教授；1960 年《真理与方法》；2002 年卒，享年 102 岁。"
+     }
+    ],
+    "reception": "《真理与方法》成为哲学解释学的奠基之作；其与德里达的论战是20世纪后期的重要事件；其思想影响文学理论、法学解释与神学。"
+   },
+   "works_detail": [
+    {
+     "title": "《真理与方法》",
+     "structure": "三部分：艺术经验中的真理、人文科学中理解的问题、语言作为解释学的视域。",
+     "core_thesis": "前见；视域融合；效果历史；这是该书的核心命题。",
+     "editions": "中译参商务印书馆；GW（Mohr）",
+     "note": "1960 年"
+    }
+   ]
   }
  ],
  "concepts": [
