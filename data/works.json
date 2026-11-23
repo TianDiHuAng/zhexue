@@ -11375,6 +11375,63 @@
    "sort_year": 1690
   },
   {
+   "id": "work-du-tongjian-lun",
+   "title": "《读通鉴论》",
+   "title_original": "讀通鑑論",
+   "tradition": "china",
+   "date_display": "清初（王夫之，1619—1692）；遗著",
+   "structure": "三十卷（附《叙论》四篇）：按《资治通鉴》所载历代史事逐条评论，自秦至五代。",
+   "core_arguments": [
+    "“理势合一”：历史有其“势”，而“理”即在势中，非势外另有理",
+    "以“夷夏之辨”与“君子小人之辨”论政治",
+    "反对“正统论”：以“治乱”与“生民之生死”为衡，不以血统为正"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一（秦）",
+     "point": "郡县与封建之辨"
+    },
+    {
+     "locator": "《叙论》",
+     "point": "反对正统论"
+    },
+    {
+     "locator": "卷末（五代）",
+     "point": "理势合一"
+    },
+    {
+     "locator": "各卷",
+     "point": "对历代人物的评断"
+    }
+   ],
+   "editions": [
+    "中华书局《读通鉴论》（王孝鱼点校）"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-fuzhi",
+    "cn-songming-zhu-xi",
+    "cn-qingmod-gu-yanwu"
+   ],
+   "misreadings": [
+    {
+     "claim": "“理势合一”是历史决定论",
+     "why": "其“势”不是盲目的必然，而是**众人之合力**所成；理即在其中，故人仍可“知其势”而有所作为。"
+    },
+    {
+     "claim": "它是《资治通鉴》的注疏",
+     "why": "它是**史论**：借史事发挥自己的政治与历史哲学，与《通鉴》的编纂体例无关。"
+    }
+   ],
+   "sources": [
+    "ws-du-tongjian-lun",
+    "ws-mingru-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《读通鉴论》为遗著，其版本（船山全书本与中华书局点校本）篇目与文字有差异；本页依中华书局点校本概述。",
+   "sort_year": 1690
+  },
+  {
    "id": "work-historical-critical-dictionary",
    "title": "《历史与批判辞典》",
    "title_original": "Dictionnaire historique et critique",
@@ -13857,6 +13914,63 @@
    "needs_verification": true,
    "pending_notes": "《历史哲学讲演录》为遗著，由编者（甘斯、后来的编者）据多种讲演笔记整理，不同版本内容有出入；其对非欧民族的评价带有明显的19世纪欧洲中心论，阅读须辨。",
    "sort_year": 1837
+  },
+  {
+   "id": "work-songyuan-xuean",
+   "title": "《宋元学案》",
+   "title_original": "宋元學案",
+   "tradition": "china",
+   "date_display": "清（黄宗羲始撰，全祖望续修，1838年刊）",
+   "structure": "一百卷：以“学案”为体例，每案列一学派的人物、传记、语录与附录；共九十一个学案。",
+   "core_arguments": [
+    "以“学案”呈现学术谱系：学派而非个人为单元",
+    "“一本万殊”：同出一源而分支流",
+    "兼收各家，不以一门为独尊"
+   ],
+   "key_points": [
+    {
+     "locator": "卷首",
+     "point": "学案的体例与“一本万殊”"
+    },
+    {
+     "locator": "《安定学案》",
+     "point": "胡瑗（宋学之初）"
+    },
+    {
+     "locator": "《濂溪学案》《明道学案》《伊川学案》",
+     "point": "理学诸系"
+    },
+    {
+     "locator": "《象山学案》",
+     "point": "心学一系"
+    }
+   ],
+   "editions": [
+    "中华书局《宋元学案》（陈金生等点校）；《黄宗羲全集》本"
+   ],
+   "related_people": [
+    "cn-qingmod-huang-zongxi",
+    "cn-songming-zhu-xi",
+    "cn-songming-lu-jiuyuan"
+   ],
+   "misreadings": [
+    {
+     "claim": "它出于黄宗羲一人之手",
+     "why": "黄宗羲发凡起例并完成部分学案，后由其子黄百家与全祖望续修（全祖望修订最多），刊行更晚（1838）；故其成书是**三代人**的工作。"
+    },
+    {
+     "claim": "它是客观的学术史",
+     "why": "其“学案”体例本身含有判教（如对朱陆的评价），且选录语录有其立场；故须读其**编排**与**按语**。"
+    }
+   ],
+   "sources": [
+    "ws-songyuan-xuean",
+    "ws-mingru-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《宋元学案》的成书过程复杂（黄宗羲—黄百家—全祖望—王梓材等），各本卷次与学案数（通行为91个学案）有差异；本页依中华书局点校本概述。",
+   "sort_year": 1838
   },
   {
    "id": "work-fear-trembling",

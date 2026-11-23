@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1061,
+  "entries": 1064,
   "by_level": {
    "L2": 786,
-   "L1": 275
+   "L1": 278
   },
   "doctrine": {
    "total": 248,
    "detail": 248,
    "auto": 0
   },
-  "needs_verification": 275,
-  "sources": 387,
-  "sources_verified": 387
+  "needs_verification": 278,
+  "sources": 389,
+  "sources_verified": 389
  },
  "units": [
   {
@@ -10100,6 +10100,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-du-tongjian-lun",
+   "type": "work",
+   "title": "《读通鉴论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-historical-critical-dictionary",
    "type": "work",
    "title": "《历史与批判辞典》",
@@ -10580,6 +10591,17 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-songyuan-xuean",
+   "type": "work",
+   "title": "《宋元学案》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -11335,6 +11357,17 @@
    "id": "cmp-irony",
    "type": "comparative",
    "title": "反讽的三种身份：苏格拉底的诘问、克尔凯郭尔的生存、罗蒂的语汇",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-liyifenshu",
+   "type": "comparative",
+   "title": "理一分殊与分有：两种“一与多”的结构",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
