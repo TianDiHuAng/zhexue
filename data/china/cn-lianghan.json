@@ -2266,6 +2266,82 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-dayitong",
+   "term": "大一统",
+   "term_latin": "great unity",
+   "definition": "《公羊传》隐公元年“何言乎王正月？大一统也”的表述，经董仲舒与汉代政治实践成为“天下归于一元”的政治—宇宙论原则：正朔、礼乐、政令皆统于天子。",
+   "usages": [
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以“大一统”为“天地之常经，古今之通谊”。"
+    },
+    {
+     "name": "何休",
+     "id": "cn-lianghan-he-xiu",
+     "usage": "以公羊义例释“大一统”，强调正朔所自出。"
+    },
+    {
+     "name": "刘歆",
+     "id": "cn-lianghan-liu-xin",
+     "usage": "以古文经学的立场重理“一统”与正朔之义，与今文家的解释相争。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-tianren"
+   ],
+   "example": {
+    "text": "“大一统”的原义是“重视一统之始”（“大”为动词，“一统”指正朔之始），非“疆域广大而统一”——这一训诂差异使该词在近代被赋予民族国家的含义，与汉儒的政治宇宙论不同。",
+    "figure": "《公羊传》隐公元年",
+    "locator": "《春秋公羊传》"
+   },
+   "sources": [
+    "ct-chunqiufanlu",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-wuyi",
+   "term": "五经博士与经学制度",
+   "term_latin": "the Five Classics erudites",
+   "definition": "汉武帝立五经博士、置弟子员，使经学成为选官与教化的制度基础。它把“独尊儒术”从主张变成制度，也把经学的家法、章句与师承固定下来。",
+   "usages": [
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以《天人三策》推动“兴太学、置明师”的制度建议。"
+    },
+    {
+     "name": "刘歆",
+     "id": "cn-lianghan-liu-xin",
+     "usage": "以校书与立古文博士的行动，改变经学制度的格局。"
+    },
+    {
+     "name": "王充",
+     "id": "cn-lianghan-wang-chong",
+     "usage": "批评章句之学的烦琐：“说章句者，终日言而不离章句”。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-weiyandayi"
+   ],
+   "example": {
+    "text": "王充的批评点出了一个制度后果：经学一旦与选官挂钩，章句的烦琐便与利禄相连——故“疾虚妄”不只是认识论主张，也是对学术制度的批判。",
+    "figure": "王充",
+    "locator": "《论衡·谢短》"
+   },
+   "sources": [
+    "ct-lunheng",
+    "ws-xinlun",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "五经博士的设置年代与员额（武帝置五经博士、宣帝增至十二博士等）在《汉书·儒林传》与《百官公卿表》中记载有出入，本页只述其制度意义。"
   }
  ],
  "debates": [

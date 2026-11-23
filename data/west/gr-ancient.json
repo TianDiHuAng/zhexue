@@ -3252,6 +3252,79 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-telos",
+   "term": "目的（telos）",
+   "term_latin": "telos（end, purpose）",
+   "definition": "希腊哲学的核心概念：事物“为了什么”以及它所趋向的完成状态。亚里士多德以“四因”中的目的因说明自然过程，并主张“自然不做无用之事”。",
+   "usages": [
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "自然物的目的在其形式（eidos）之中，故“橡子为了橡树”。"
+    },
+    {
+     "name": "柏拉图",
+     "id": "gr-ancient-plato",
+     "usage": "以善的理念为一切趋向的终极目的（《理想国》卷六）。"
+    },
+    {
+     "name": "德谟克利特与原子论（对照）",
+     "id": "gr-ancient-democritus",
+     "usage": "以原子的必然运动解释一切，不需目的因。"
+    }
+   ],
+   "related": [
+    "gr-ancient-four-causes"
+   ],
+   "example": {
+    "text": "亚里士多德以“燕子筑巢、蜘蛛结网”说明自然的目的性：这些活动没有经过思虑却达成有用的结果，故自然有内在目的，不同于人为设计（也不需要一个设计者）。",
+    "figure": "亚里士多德",
+    "locator": "《物理学》II.8"
+   },
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-meson",
+   "term": "中道",
+   "term_latin": "mesotēs（the mean）",
+   "definition": "亚里士多德的德性结构：德性是“在两个恶（过度与不足）之间、相对于我们而言的中道”，由实践智慧（phronēsis）确定。它不是算术平均，也不是折中。",
+   "usages": [
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "勇敢是鲁莽与怯懦之间的中道，且“相对于我们”而非绝对的中点。"
+    },
+    {
+     "name": "柏拉图",
+     "id": "gr-ancient-plato",
+     "usage": "以灵魂三部分的秩序（各司其职）说明德性，未用“中道”结构。"
+    },
+    {
+     "name": "儒家“中庸”（对照）",
+     "usage": "“过犹不及”与中道结构相近，但儒家以礼义定其分寸，亚里士多德以实践智慧与情境判断定之。"
+    }
+   ],
+   "related": [
+    "gr-ancient-arete"
+   ],
+   "example": {
+    "text": "亚里士多德自己承认“中道”不是精确的规则：饮食的中道对摔跤手与对普通人不同——故德性须由实践智慧在具体情境中确定，这正是它区别于技艺规则之处。",
+    "figure": "亚里士多德",
+    "locator": "《尼各马可伦理学》II.6—7"
+   },
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

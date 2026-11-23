@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 735,
+  "entries": 745,
   "by_level": {
-   "L2": 619,
-   "L1": 116
+   "L2": 625,
+   "L1": 120
   },
   "doctrine": {
    "total": 221,
    "detail": 221,
    "auto": 0
   },
-  "needs_verification": 116,
+  "needs_verification": 120,
   "sources": 325,
   "sources_verified": 321
  },
@@ -21,7 +21,7 @@
    "title": "两汉经学与气论",
    "region": "china",
    "philosophers": 12,
-   "concepts": 12,
+   "concepts": 14,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -66,7 +66,7 @@
    "title": "先秦诸子",
    "region": "china",
    "philosophers": 12,
-   "concepts": 12,
+   "concepts": 14,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -93,7 +93,7 @@
    "title": "古希腊哲学",
    "region": "west",
    "philosophers": 19,
-   "concepts": 12,
+   "concepts": 14,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -120,7 +120,7 @@
    "title": "希腊化与罗马哲学",
    "region": "west",
    "philosophers": 15,
-   "concepts": 12,
+   "concepts": 14,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -138,7 +138,7 @@
    "title": "近代理性论与经验论",
    "region": "west",
    "philosophers": 31,
-   "concepts": 12,
+   "concepts": 14,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -23"
   }
@@ -406,6 +406,28 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-dayitong",
+   "type": "concept",
+   "title": "大一统",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-wuyi",
+   "type": "concept",
+   "title": "五经博士与经学制度",
+   "container": "cn-lianghan",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -2312,6 +2334,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-xianqin-zhongshu",
+   "type": "concept",
+   "title": "忠恕",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-quan",
+   "type": "concept",
+   "title": "权",
+   "container": "cn-xianqin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-xianqin-human-nature",
    "type": "debate",
    "title": "人性善恶之争",
@@ -3643,6 +3687,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-ancient-telos",
+   "type": "concept",
+   "title": "目的（telos）",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-ancient-meson",
+   "type": "concept",
+   "title": "中道",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-ancient-flux-vs-being",
    "type": "debate",
    "title": "流变还是不变：赫拉克利特与巴门尼德",
@@ -4710,6 +4776,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-hellenistic-ekpyrosis",
+   "type": "concept",
+   "title": "宇宙轮回（火灭与再生）",
+   "container": "gr-hellenistic",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-hellenistic-lekton",
+   "type": "concept",
+   "title": "意言（lekton）",
+   "container": "gr-hellenistic",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-hellenistic-knowledge",
    "type": "debate",
    "title": "知识是否可能：学园派与斯多亚派",
@@ -5718,6 +5806,28 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-general-will",
+   "type": "concept",
+   "title": "公意",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-passions",
+   "type": "concept",
+   "title": "情念",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },

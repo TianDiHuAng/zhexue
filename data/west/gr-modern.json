@@ -5342,6 +5342,80 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-general-will",
+   "term": "公意",
+   "term_latin": "volonté générale",
+   "definition": "卢梭的核心概念：公意不是众人意志的总和（volonté de tous），而是指向共同善的意志。它以公民身份为前提，故“人人服从公意即服从自己”。",
+   "usages": [
+    {
+     "name": "卢梭",
+     "id": "gr-modern-rousseau",
+     "usage": "公意只关涉共同利益，故其对象永远是普遍的（不能指向某个特定的人或事）。"
+    },
+    {
+     "name": "洛克与代议制一系（对照）",
+     "id": "gr-modern-locke",
+     "usage": "以代表的同意为正当性来源，不设“公意”这一实体性意志。"
+    },
+    {
+     "name": "贡斯当与近代自由主义（批评）",
+     "usage": "以“古代人的自由”与“现代人的自由”之别，批评公意易为整体主义张目。"
+    }
+   ],
+   "related": [
+    "gr-modern-contract"
+   ],
+   "example": {
+    "text": "卢梭的关键区分是“众意”与“公意”：众意是各人私意的加总（故可有派系操纵），公意只看共同利益——故他反对派系，主张公民直接表达，以避免众意冒充公意。",
+    "figure": "卢梭",
+    "locator": "《社会契约论》卷二第3章"
+   },
+   "sources": [
+    "sep-rousseau",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-passions",
+   "term": "情念",
+   "term_latin": "the passions",
+   "definition": "近代道德心理学的基本范畴：情感、欲望与情绪的统称。休谟主张“理性是、且只应当是情念的奴隶”，斯宾诺莎以 conatus 解释情念的必然性，笛卡尔则以松果体说明其生理机制。",
+   "usages": [
+    {
+     "name": "休谟",
+     "id": "gr-modern-hume",
+     "usage": "理性不能单独推动行动，故道德区别来自道德感而非理性。"
+    },
+    {
+     "name": "斯宾诺莎",
+     "id": "gr-modern-spinoza",
+     "usage": "情念是被动的观念，其力量取决于我们对它的理解；故“不哭不笑而理解”是自由之路。"
+    },
+    {
+     "name": "笛卡尔（对照）",
+     "usage": "以动物精气与松果体说明情念的生理机制，主张意志可调节之。"
+    }
+   ],
+   "related": [
+    "gr-modern-idea",
+    "gr-modern-conatus"
+   ],
+   "example": {
+    "text": "休谟的论证：理性只处理观念的关系与事实，而行动须由某种欲求推动；故“应当”不能由“是”推出（事实与价值的鸿沟），也可看作情念与理性分工的结论。",
+    "figure": "休谟",
+    "locator": "《人性论》II.3.3；III.1.1"
+   },
+   "sources": [
+    "sep-hume",
+    "sep-spinoza",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

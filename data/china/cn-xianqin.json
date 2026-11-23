@@ -2504,6 +2504,84 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-zhongshu",
+   "term": "忠恕",
+   "term_latin": "zhongshu",
+   "definition": "孔子“一以贯之”之道的两面：忠是尽己（“己欲立而立人”），恕是推己（“己所不欲，勿施于人”）。它不是两条德目，而是一套以己度人的实践方法。",
+   "usages": [
+    {
+     "name": "孔子",
+     "id": "cn-xianqin-kongzi",
+     "usage": "“吾道一以贯之”，曾子释为“夫子之道，忠恕而已矣”。"
+    },
+    {
+     "name": "孟子",
+     "id": "cn-xianqin-mengzi",
+     "usage": "以“强恕而行，求仁莫近焉”说明恕是求仁的近路。"
+    },
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "usage": "以“君子有三恕”把它制度化为处位的自我约束。"
+    }
+   ],
+   "related": [
+    "cn-xianqin-ren",
+    "cn-xianqin-zhongyong"
+   ],
+   "example": {
+    "text": "孔子答子贡“有一言而可以终身行之者乎”，曰“其恕乎！己所不欲，勿施于人”——以“终身行之”标出其可操作性，这正是“恕”区别于抽象仁德之处。",
+    "figure": "孔子",
+    "locator": "《论语·卫灵公》"
+   },
+   "sources": [
+    "ct-analects",
+    "ct-mengzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-quan",
+   "term": "权",
+   "term_latin": "quan（weighing）",
+   "definition": "儒家的实践判断概念：本指秤锤，引申为在具体情境中对“经”（常道）的权衡变通。“权”不是任意，而是唯变所适而不失其正。",
+   "usages": [
+    {
+     "name": "孔子",
+     "id": "cn-xianqin-kongzi",
+     "usage": "“可与立，未可与权”：能守经者多，能权衡者少。"
+    },
+    {
+     "name": "孟子",
+     "id": "cn-xianqin-mengzi",
+     "usage": "“执中无权，犹执一也”：守固定中点而不知变通，反失其中。"
+    },
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "usage": "以“道”统“权”：权变须以道为归，否则为权谋。"
+    }
+   ],
+   "related": [
+    "cn-xianqin-zhongyong",
+    "cn-xianqin-li"
+   ],
+   "example": {
+    "text": "孟子以“嫂溺援之以手”为例：男女授受不亲是“经”，嫂溺而援是“权”——若执经而不权，则“豺狼也”。这一例说明权不是废弃经，而是在具体情境中实现经。",
+    "figure": "孟子",
+    "locator": "《孟子·离娄上》"
+   },
+   "sources": [
+    "ct-mengzi",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“权”在儒家内部有不同限定（孟子以仁义为权之准，荀子以道统权，汉儒有“反经为权”之说）；本页只述其共同结构，具体分歧须核原文。"
   }
  ],
  "debates": [
