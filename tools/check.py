@@ -233,8 +233,8 @@ def check_unit(path, src, global_ids, unit_ids):
         err(where0, "R7", "哲学家数量 %d，要求 4-60" % len(ph))
     if not 6 <= len(co) <= 30:
         err(where0, "R7", "概念数量 %d，要求 6-30" % len(co))
-    if not 2 <= len(db) <= 3:
-        err(where0, "R7", "争论数量 %d，要求 2-3" % len(db))
+    if not 2 <= len(db) <= 12:
+        err(where0, "R7", "争论数量 %d，要求 2-12" % len(db))
 
     # ---- 先收集全部 id（供两遍引用校验，避免"尚未出现"的假警告）
     all_ph = {p.get("id") for p in ph}

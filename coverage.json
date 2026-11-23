@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 568,
+  "entries": 582,
   "by_level": {
-   "L2": 486,
-   "L1": 82
+   "L2": 499,
+   "L1": 83
   },
   "doctrine": {
    "total": 205,
    "detail": 205,
    "auto": 0
   },
-  "needs_verification": 82,
+  "needs_verification": 83,
   "sources": 305,
   "sources_verified": 301
  },
@@ -22,7 +22,7 @@
    "region": "china",
    "philosophers": 11,
    "concepts": 11,
-   "debates": 3,
+   "debates": 4,
    "philosophers_slot": "8 上限，余 -3"
   },
   {
@@ -31,7 +31,7 @@
    "region": "china",
    "philosophers": 11,
    "concepts": 12,
-   "debates": 3,
+   "debates": 4,
    "philosophers_slot": "8 上限，余 -3"
   },
   {
@@ -40,7 +40,7 @@
    "region": "china",
    "philosophers": 14,
    "concepts": 11,
-   "debates": 3,
+   "debates": 4,
    "philosophers_slot": "8 上限，余 -6"
   },
   {
@@ -49,7 +49,7 @@
    "region": "china",
    "philosophers": 12,
    "concepts": 13,
-   "debates": 3,
+   "debates": 4,
    "philosophers_slot": "8 上限，余 -4"
   },
   {
@@ -58,7 +58,7 @@
    "region": "china",
    "philosophers": 12,
    "concepts": 13,
-   "debates": 3,
+   "debates": 4,
    "philosophers_slot": "8 上限，余 -4"
   },
   {
@@ -67,7 +67,7 @@
    "region": "china",
    "philosophers": 12,
    "concepts": 12,
-   "debates": 3,
+   "debates": 4,
    "philosophers_slot": "8 上限，余 -4"
   },
   {
@@ -76,7 +76,7 @@
    "region": "west",
    "philosophers": 16,
    "concepts": 13,
-   "debates": 3,
+   "debates": 4,
    "philosophers_slot": "8 上限，余 -8"
   },
   {
@@ -85,7 +85,7 @@
    "region": "west",
    "philosophers": 19,
    "concepts": 13,
-   "debates": 3,
+   "debates": 4,
    "philosophers_slot": "8 上限，余 -11"
   },
   {
@@ -94,7 +94,7 @@
    "region": "west",
    "philosophers": 19,
    "concepts": 12,
-   "debates": 3,
+   "debates": 4,
    "philosophers_slot": "8 上限，余 -11"
   },
   {
@@ -103,7 +103,7 @@
    "region": "west",
    "philosophers": 10,
    "concepts": 12,
-   "debates": 3,
+   "debates": 4,
    "philosophers_slot": "8 上限，余 -2"
   },
   {
@@ -112,7 +112,7 @@
    "region": "west",
    "philosophers": 9,
    "concepts": 14,
-   "debates": 3,
+   "debates": 4,
    "philosophers_slot": "8 上限，余 -1"
   },
   {
@@ -121,7 +121,7 @@
    "region": "west",
    "philosophers": 15,
    "concepts": 12,
-   "debates": 3,
+   "debates": 4,
    "philosophers_slot": "8 上限，余 -7"
   },
   {
@@ -130,7 +130,7 @@
    "region": "west",
    "philosophers": 18,
    "concepts": 13,
-   "debates": 3,
+   "debates": 4,
    "philosophers_slot": "8 上限，余 -10"
   },
   {
@@ -139,7 +139,7 @@
    "region": "west",
    "philosophers": 27,
    "concepts": 12,
-   "debates": 3,
+   "debates": 4,
    "philosophers_slot": "8 上限，余 -19"
   }
  ],
@@ -416,6 +416,17 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-xingde",
+   "type": "debate",
+   "title": "任德还是任刑",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -698,6 +709,17 @@
    "id": "cn-qingmod-kongjiao",
    "type": "debate",
    "title": "孔教是否当立",
+   "container": "cn-qingmod",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-kaoju-yili",
+   "type": "debate",
+   "title": "考据能否代替义理",
    "container": "cn-qingmod",
    "level": "L2",
    "sources": 3,
@@ -1014,6 +1036,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-songming-tianli-renyu-zhi",
+   "type": "debate",
+   "title": "天理人欲是截然二分，还是同一欲的过与不及",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-suitang-zhiyi",
    "type": "philosopher",
    "title": "智顗",
@@ -1314,6 +1347,17 @@
    "id": "cn-suitang-kongyou-zheng",
    "type": "debate",
    "title": "空有之争：三论与唯识",
+   "container": "cn-suitang",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-suitang-panjiao-zhizheng",
+   "type": "debate",
+   "title": "何者为最高教法：天台、华严还是唯识",
    "container": "cn-suitang",
    "level": "L2",
    "sources": 3,
@@ -1630,6 +1674,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-weijin-shengqing",
+   "type": "debate",
+   "title": "圣人有情还是无情",
+   "container": "cn-weijin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-xianqin-kongzi",
    "type": "philosopher",
    "title": "孔子",
@@ -1919,6 +1974,17 @@
    "id": "cn-xianqin-wuwei-zhengzhi",
    "type": "debate",
    "title": "无为而治是否可行",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-yili",
+   "type": "debate",
+   "title": "义利之辨",
    "container": "cn-xianqin",
    "level": "L2",
    "sources": 4,
@@ -2271,6 +2337,17 @@
    "id": "gr-19c-religion-critique",
    "type": "debate",
    "title": "宗教批判的限度",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-19c-evolution-progress",
+   "type": "debate",
+   "title": "进化是否等于进步",
    "container": "gr-19c",
    "level": "L2",
    "sources": 3,
@@ -2664,6 +2741,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-phenomenology-naturalism",
+   "type": "debate",
+   "title": "现象学与自然主义是否相容",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-ancient-pythagoras",
    "type": "philosopher",
    "title": "毕达哥拉斯",
@@ -3038,6 +3126,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-ancient-zeno-motion",
+   "type": "debate",
+   "title": "运动是否真实：芝诺悖论能否被回应",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-contemp-rawls",
    "type": "philosopher",
    "title": "罗尔斯",
@@ -3309,6 +3408,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-contemp-deconstruction-relativism",
+   "type": "debate",
+   "title": "解构是否导致相对主义",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -3591,6 +3701,17 @@
    "id": "gr-german-reason-faith",
    "type": "debate",
    "title": "理性与信仰的界限",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-german-aesthetic-universality",
+   "type": "debate",
+   "title": "审美判断是否有普遍性",
    "container": "gr-german",
    "level": "L2",
    "sources": 3,
@@ -3921,6 +4042,17 @@
    "id": "gr-hellenistic-pleasure",
    "type": "debate",
    "title": "快乐主义是否等于纵欲",
+   "container": "gr-hellenistic",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-hellenistic-ataraxia-way",
+   "type": "debate",
+   "title": "不动心如何达到：三条路径之争",
    "container": "gr-hellenistic",
    "level": "L2",
    "sources": 3,
@@ -4295,6 +4427,17 @@
    "id": "gr-medieval-will-intellect",
    "type": "debate",
    "title": "意志与理智孰为优先",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-eternity-world",
+   "type": "debate",
+   "title": "世界是否有开端：永恒说与创造说",
    "container": "gr-medieval",
    "level": "L2",
    "sources": 3,
@@ -4761,6 +4904,17 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-substance-one-many",
+   "type": "debate",
+   "title": "实体是一个、两个，还是无限多",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": false,
    "updated": "2026-11-23"
   },

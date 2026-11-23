@@ -2649,6 +2649,54 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-yili",
+   "title": "义利之辨",
+   "question": "义与利是对立的，还是可以统一的？君子是否应当言利？",
+   "positions": [
+    {
+     "holder": "孟子",
+     "id": "cn-xianqin-mengzi",
+     "stance": "重义轻利",
+     "reasons": [
+      "“何必曰利？亦有仁义而已矣”：以利为开端则上下交征利而国危。",
+      "“生亦我所欲也，义亦我所欲也，二者不可得兼，舍生而取义者也。”"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "墨子",
+     "id": "cn-xianqin-mozi",
+     "stance": "义即利（公利）",
+     "reasons": [
+      "“义，利也”：义不是与利对立，而是天下之公利。",
+      "兼相爱则交相利，故利民即义。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "stance": "义利两有而义为先",
+     "reasons": [
+      "“义与利者，人之所两有也”：两者皆为人之所有，不必去利。",
+      "“先义而后利者荣，先利而后义者辱”：次序而非有无是关键。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点不在“要不要利”，而在“利”指谁之利、以及义与利是同一层次的对立还是不同层次的次序。孟子所斥者为“以利为先”的动机结构；墨子以公利定义义；荀子则把问题转为次序问题。",
+   "status": "无定论",
+   "status_note": "三家之说在后世长期并存：宋明理学多承孟子一系的“义利之辨”，清儒（如颜元、戴震）则批评其轻视事功。现代研究指出，三家的分歧部分源于“利”字所指不同（私利／公利／功利效果）。",
+   "sources": [
+    "ct-mengzi",
+    "ct-mozi",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

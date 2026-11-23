@@ -4936,6 +4936,54 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-substance-one-many",
+   "title": "实体是一个、两个，还是无限多",
+   "question": "独立自存者（实体）究竟有几个？这决定了心身、自由与神的世界位置。",
+   "positions": [
+    {
+     "holder": "笛卡尔",
+     "id": "gr-modern-descartes",
+     "stance": "两个（相对的）实体",
+     "reasons": [
+      "心灵与身体各自是实体，其本质分别是思维与广延。",
+      "严格说只有上帝是绝对实体；二者是相对的实体。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "斯宾诺莎",
+     "id": "gr-modern-spinoza",
+     "stance": "只有一个",
+     "reasons": [
+      "实体是自因的，若有多个则互相限制，不再自因。",
+      "思想与广延是同一实体的两种属性，非两个实体。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "莱布尼茨",
+     "id": "gr-modern-leibniz",
+     "stance": "无限多（单子）",
+     "reasons": [
+      "实体须是单纯的，故必有无数的单纯实体（单子）。",
+      "单子无窗，其协调由预定和谐保证。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“实体的判准”：笛卡尔以“不需他物即存在”为准（故严格说只有上帝），斯宾诺莎以“自因”为准（故只能有一个），莱布尼茨以“单纯性”为准（故必须无限多）。判准不同，数目便不同——这不是同一问题的三种答案。",
+   "status": "无定论",
+   "status_note": "三说在17—18世纪并行；康德以“实体”为知性范畴，取消了这一形而上学的实体数目问题；现代分析形而上学以“基础性”（fundamentality）重述类似问题。",
+   "sources": [
+    "ws-spinoza-ethica",
+    "emt-leibniz",
+    "sep-spinoza",
+    "sep-leibniz"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

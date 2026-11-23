@@ -2202,6 +2202,54 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-xingde",
+   "title": "任德还是任刑",
+   "question": "治国应以教化为主，还是以刑名为急？",
+   "positions": [
+    {
+     "holder": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "stance": "任德不任刑",
+     "reasons": [
+      "“天道之大者在阴阳：阳为德，阴为刑，刑主杀而德主生。”",
+      "“为政而任刑，不顺于天”：故王者当“任德教而不任刑”。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "贾谊",
+     "id": "cn-lianghan-jia-yi",
+     "stance": "礼法并用而以礼为主",
+     "reasons": [
+      "秦以法治而速亡，故须以礼制补之。",
+      "礼以定分际，法以止奸邪，二者不可偏废。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "法家一系（对照）",
+     "id": null,
+     "stance": "以法为治之本",
+     "reasons": [
+      "以赏罚为二柄，不待教化而能使民。",
+      "人性趋利避害，故法比教化可靠。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点在于“人可教与否”以及“治的时限”：任德须长期教化，任刑可短期见效。董仲舒以阴阳论证德主刑辅的宇宙论根据；贾谊则以秦亡为经验论据，主张礼法并用。",
+   "status": "无定论",
+   "status_note": "汉代实际政治是“霸王道杂之”（宣帝语），德刑并用；董仲舒的“德主刑辅”成为后世正统表述，但法家的制度技术在历代官僚制中延续。",
+   "sources": [
+    "ct-chunqiufanlu",
+    "ws-xinshu-jia",
+    "ws-shangjunshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

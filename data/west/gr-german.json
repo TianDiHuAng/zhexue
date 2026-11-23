@@ -2108,6 +2108,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-german-aesthetic-universality",
+   "title": "审美判断是否有普遍性",
+   "question": "“这很美”只是个人偏好，还是可以要求他人同意？",
+   "positions": [
+    {
+     "holder": "康德",
+     "id": "gr-german-kant",
+     "stance": "主观而普遍",
+     "reasons": [
+      "审美判断不依赖概念，故非客观知识。",
+      "但它要求普遍同意：基于“共通感”（sensus communis），故非私人偏好。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "黑格尔",
+     "id": "gr-german-hegel",
+     "stance": "美是理念的感性显现，有客观内容",
+     "reasons": [
+      "美不是纯主观的快感，而是理念在感性中的显现。",
+      "艺术史的各阶段显示美有客观的展开逻辑。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "经验主义一系（对照）",
+     "id": null,
+     "stance": "审美是个人趣味",
+     "reasons": [
+      "“趣味无争辩”：审美反应是经验与心理的事实。",
+      "所谓的普遍同意只是统计上的相似。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点在“普遍同意”的性质：康德说的是“应当同意”（规范性要求），不是“事实上都同意”（统计事实）。混淆二者，就会把他的主张读成经验主义或读成客观主义——二者都不准确。",
+   "status": "部分有定论（康德的表述方式已被澄清），实质问题无定论",
+   "status_note": "康德的“主观的普遍性”成为现代美学的标准框架；分析美学中的“审美判断”讨论（如休谟的趣味标准、丹托的艺术界）仍在此问题范围内。",
+   "sources": [
+    "sep-kant",
+    "sep-hegel",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

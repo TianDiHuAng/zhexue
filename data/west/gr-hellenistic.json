@@ -2800,6 +2800,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-ataraxia-way",
+   "title": "不动心如何达到：三条路径之争",
+   "question": "斯多亚、伊壁鸠鲁与怀疑论都以“不受扰”为目标，但达到它的方法完全不同——哪一条成立？",
+   "positions": [
+    {
+     "holder": "芝诺（季蒂昂）",
+     "id": "gr-hellenistic-zeno",
+     "stance": "以理性校正判断",
+     "reasons": [
+      "情感源于错误的判断（如“财富是善”）。",
+      "以理性校正判断，则情感自然平复，故德性即知识。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "伊壁鸠鲁",
+     "id": "gr-hellenistic-epicurus",
+     "stance": "以削减欲望与解除恐惧",
+     "reasons": [
+      "痛苦源于不必要的欲望与对死亡、神灵的恐惧。",
+      "以自然知识解除恐惧，以节制削减欲望，则得静态快乐。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "塞克斯都·恩披里柯",
+     "id": "gr-hellenistic-sextus",
+     "stance": "以悬置判断",
+     "reasons": [
+      "对每一论题皆有同等有力的反论，故不能判定。",
+      "悬置判断之后，宁静“偶然地跟随”而来。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“受扰的根源”：斯多亚说是错误判断（故须改造理性），伊壁鸠鲁说是多余欲望与恐惧（故须改造欲望与知识），怀疑论说是独断的判定本身（故须停止判定）。三者对“什么是治疗”给出不同答案，因此不可简单合并。",
+   "status": "无定论",
+   "status_note": "三派在希腊化时期长期竞争；罗马斯多亚成为主流实践哲学；怀疑论的论式经塞克斯都保存，在文艺复兴后影响近代怀疑论。现代认知行为疗法常被追溯到斯多亚与伊壁鸠鲁的路径。",
+   "sources": [
+    "sep-stoicism",
+    "sep-epicurus",
+    "iep-stoicism"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

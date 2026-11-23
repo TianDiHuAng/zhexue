@@ -3674,6 +3674,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-eternity-world",
+   "title": "世界是否有开端：永恒说与创造说",
+   "question": "世界在时间上有一个开端，还是永恒存在？二者能否与神的创造相容？",
+   "positions": [
+    {
+     "holder": "阿威罗伊",
+     "id": "gr-medieval-averroes",
+     "stance": "世界永恒而依赖神",
+     "reasons": [
+      "运动无始：亚里士多德已证明运动不能有开端。",
+      "永恒依存即是“创造”：创造指本体论的依赖，非时间的开端。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "波那文图拉",
+     "id": "gr-medieval-bonaventure",
+     "stance": "世界有开端",
+     "reasons": [
+      "无限已过去的序列不可能被逐次完成。",
+      "创造论要求世界在存在上有一个开端，否则神与世界的区分被削弱。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "托马斯·阿奎那",
+     "id": "gr-medieval-aquinas",
+     "stance": "理性不能决定，信仰择其一",
+     "reasons": [
+      "世界有开端无法被理性证明（无限序列在神的能力下并非不可能）。",
+      "世界永恒亦无法被理性证明；故此事由启示决定。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“创造”的含义：若创造指时间中的开端，则永恒说与之冲突；若创造指永恒的本体论依赖（阿威罗伊、阿奎那的表述），则二者可相容。1277 年巴黎谴责涉及此议题的多项命题，说明当时的争论何等激烈。",
+   "status": "无定论（信仰上定为创造，哲学上未有定论）",
+   "status_note": "阿奎那的“理性不能决定”成为天主教的正统表述；阿威罗伊的永恒说在拉丁世界引发“拉丁阿威罗伊主义”与谴责；近代宇宙论（大爆炸）使该问题以新的形式重现，但二者层次不同。",
+   "sources": [
+    "sep-aquinas",
+    "sep-ibn-rushd",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

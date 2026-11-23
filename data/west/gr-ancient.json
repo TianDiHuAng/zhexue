@@ -3385,6 +3385,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-zeno-motion",
+   "title": "运动是否真实：芝诺悖论能否被回应",
+   "question": "若空间与时间可无限分割，运动如何可能？亚里士多德的回应是否成功？",
+   "positions": [
+    {
+     "holder": "芝诺（爱利亚的）",
+     "id": "gr-ancient-zeno-elea",
+     "stance": "运动不可完成",
+     "reasons": [
+      "二分法：到中点须先到四分之一，无穷后退。",
+      "飞矢不动：每一瞬时皆静止，静止不能组成运动。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "stance": "以潜能／现实与连续性回应",
+     "reasons": [
+      "时间与线段是连续的，不是由不可分的点拼成。",
+      "运动是潜能的实现，不能以“每一瞬时的状态”来分割。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "近代数学（对照）",
+     "id": null,
+     "stance": "以极限与无穷级数化解",
+     "reasons": [
+      "无穷级数可收敛于有限值，故“无限段”可由有限时间走完。",
+      "连续统的构成问题转为数学基础问题。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点是“无限”的意义：芝诺用的是“不可完成的无穷”，亚里士多德以“潜在无限”区分之，近代数学以收敛级数计算之。三者各自回应了不同的层面——但“连续统如何构成”仍是未决问题。",
+   "status": "部分解决（数学层面），哲学层面无定论",
+   "status_note": "极限理论解决了二分法与阿基里斯在计算上的困难，但“飞矢不动”涉及的“瞬时状态与变化”问题，在形而上学与物理哲学中仍被讨论。",
+   "sources": [
+    "sep-zeno-elea",
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

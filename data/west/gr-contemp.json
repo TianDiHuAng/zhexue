@@ -2122,6 +2122,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-deconstruction-relativism",
+   "title": "解构是否导致相对主义",
+   "question": "若意义永远延迟、语境永远开放，是否还有真假与正义的标准？",
+   "positions": [
+    {
+     "holder": "德里达",
+     "id": "gr-contemp-derrida",
+     "stance": "不导致相对主义：正义不可解构",
+     "reasons": [
+      "解构揭示的是等级结构的可动摇性，不是取消一切标准。",
+      "“正义是不可解构的”：正因其不可解构，才可据以批判现存法。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "哈贝马斯",
+     "id": "gr-contemp-habermas",
+     "stance": "须有规范基础",
+     "reasons": [
+      "解构缺乏可辩护的规范程序，无法区分有效共识与被扭曲的共识。",
+      "故须以交往理性重建规范基础。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "罗蒂",
+     "id": "gr-contemp-rorty",
+     "stance": "不必担忧：以减少残酷为标准",
+     "reasons": [
+      "不需要形而上学或本质标准，只需以“减少残酷”为公共目标。",
+      "故相对主义的指责预设了不必要的“基础”需求。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“标准从何而来”：德里达以“不可解构的正义”保留规范性的缺口；哈贝马斯要求程序性的规范基础；罗蒂主张以实践性的伦理目标取代基础。三者都不接受“一切等价”，但各自给出的“不相对主义”的理由不同。",
+   "status": "无定论",
+   "status_note": "这一争论在1990年代的“德法之争”中被反复讨论；当代政治哲学中“后基础主义”与“规范主义”的分歧仍以类似形式存在。",
+   "sources": [
+    "sep-derrida",
+    "sep-habermas",
+    "sep-rawls"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

@@ -2350,6 +2350,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-panjiao-zhizheng",
+   "title": "何者为最高教法：天台、华严还是唯识",
+   "question": "佛陀一代教法中，哪一部经、哪一宗才是“了义”？",
+   "positions": [
+    {
+     "holder": "智顗",
+     "id": "cn-suitang-zhiyi",
+     "stance": "以《法华》为纯圆",
+     "reasons": [
+      "五时八教：前四时为方便，《法华》开权显实，故为纯圆。",
+      "“一念三千”全体具足，故为究竟。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "法藏",
+     "id": "cn-suitang-fazang",
+     "stance": "以《华严》为圆教",
+     "reasons": [
+      "五教十宗：《华严》事事无碍，故为别教一乘。",
+      "“法界缘起”圆融无碍，非《法华》所能尽。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "窥基",
+     "id": "cn-suitang-kuiji",
+     "stance": "以唯识为了义",
+     "reasons": [
+      "三时教判：《解深密经》为第三时了义教。",
+      "《法华》《华严》为一乘方便说，唯识三性方为了义。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点不在经典的文字高下，而在“判教的尺度”：天台以“开权显实”为尺度，华严以“事事无碍”为尺度，唯识以“三性三无性”为尺度。尺度不同，“了义”的所指便不同。",
+   "status": "无定论",
+   "status_note": "唐代三家各自传承，宋以后天台与华严余绪并流，唯识一度衰微（近代由杨仁山、欧阳竞无从日本取回文献而复兴）。判教之争的影响是形成了中国佛教的宗派自觉。",
+   "sources": [
+    "ws-mohezhiguan",
+    "book-chan-sourcebook",
+    "sep-madhyamaka"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

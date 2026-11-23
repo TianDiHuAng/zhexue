@@ -2529,6 +2529,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-weijin-shengqing",
+   "title": "圣人有情还是无情",
+   "question": "圣人是否有喜怒哀乐？若有，是否会被情感所累？",
+   "positions": [
+    {
+     "holder": "何晏",
+     "id": "cn-weijin-heyan",
+     "stance": "圣人无情",
+     "reasons": [
+      "圣人以理胜情，故无喜怒哀乐之动。",
+      "情是凡人之所以为凡人的根据，圣人异于此。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "王弼",
+     "id": "cn-weijin-wangbi",
+     "stance": "圣人有情而不为情所累",
+     "reasons": [
+      "“圣人茂于人者神明也，同于人者五情也。”",
+      "“神明茂，故能体冲和以通无；五情同，故不能无哀乐以应物。”"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "向秀、郭象一系",
+     "id": "cn-weijin-guoxiang",
+     "stance": "圣人同于物而应之",
+     "reasons": [
+      "圣人并非无情，而是“应物而无累于物”。",
+      "以“独化”说解：情之应物是自然的，不须消除。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点是“情”与“理”的关系：若圣人无情，则圣凡之间有一存在论的断裂；若圣人有情，则须说明何以不被情所困。王弼以“应物而无累”给出折中方案，成为后世主流。",
+   "status": "大体有定论（王弼说成为主流）",
+   "status_note": "王弼的“圣人有情而不为情所累”在其后成为主流表述，但何晏的“圣人无情”说并未消失，宋明理学中的“圣人之情”讨论仍延续此问题。",
+   "sources": [
+    "ws-shishuoxinyu",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

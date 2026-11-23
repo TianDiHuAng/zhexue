@@ -3454,6 +3454,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-phenomenology-naturalism",
+   "title": "现象学与自然主义是否相容",
+   "question": "意识的第一人称描述，能否被自然科学的第三人称说明所吸收？",
+   "positions": [
+    {
+     "holder": "胡塞尔",
+     "id": "gr-20c-husserl",
+     "stance": "不相容：须有本质描述的科学",
+     "reasons": [
+      "自然主义把意识当作自然对象，遗漏了意向性与第一人称给予。",
+      "故须有“本质科学”（现象学）作为一切科学的基础。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "蒯因",
+     "id": "gr-20c-quine",
+     "stance": "相容：自然化认识论",
+     "reasons": [
+      "认识论应成为心理学的一章，以经验方法研究知识如何获得。",
+      "不存在“第一哲学”的独立领地。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "梅洛-庞蒂",
+     "id": "gr-20c-merleau-ponty",
+     "stance": "部分相容：以身体为中介",
+     "reasons": [
+      "身体既是自然的（物理的）又是体验的（现象的）。",
+      "故现象学描述与自然科学并非两个世界，而是同一存在的两面。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“第一人称是否可被还原”：胡塞尔要求为其保留独立的方法论地位；蒯因把它并入经验科学；梅洛-庞蒂以“身体”作为两者的交界。当代“意识研究”的争论（如查尔默斯的“困难问题”）在很大程度上延续了这一分歧。",
+   "status": "无定论",
+   "status_note": "自然化现象学（neurophenomenology）等方案试图折中；但“困难问题”表明，第一人称经验的可还原性仍是开放问题。",
+   "sources": [
+    "sep-husserl",
+    "sep-quine",
+    "sep-merleau-ponty"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }
