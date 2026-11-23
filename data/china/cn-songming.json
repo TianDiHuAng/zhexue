@@ -3274,6 +3274,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-liuxiang-zhuwo",
+   "term": "六经注我",
+   "term_latin": "classics as confirmation of the mind",
+   "definition": "陆九渊的命题：“学苟知本，六经皆我注脚。”意为经典的价值在于印证本心之理，非提供外在权威；故读经须以本心为准则。",
+   "usages": [
+    {
+     "name": "陆九渊",
+     "id": "cn-songming-lu-jiuyuan",
+     "usage": "“六经注我，我注六经”：知本则经为我所用。"
+    },
+    {
+     "name": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "usage": "以经为求道的必由之路：须循序而致精，不可躐等。"
+    },
+    {
+     "name": "王阳明",
+     "id": "cn-songming-wang-yangming",
+     "usage": "以良知为准则：经义须与良知相印，否则为口耳之学。"
+    }
+   ],
+   "related": [
+    "cn-songming-wenjian-dexing"
+   ],
+   "example": {
+    "text": "此语常被读作“不必读书”，但陆九渊紧接说“知本”是前提：若不知本，则读书愈多愈蔽；故其主张是**次序**问题，不是有无问题。",
+    "figure": "陆九渊",
+    "locator": "《陆九渊集·语录上》"
+   },
+   "sources": [
+    "ws-xiangshan",
+    "ws-chuanxi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“六经注我”的出处与上下文（《语录》为门人所记）须核中华书局点校本；其与“我注六经”的对举是否为陆氏原话，学界有讨论。"
   }
  ],
  "debates": [

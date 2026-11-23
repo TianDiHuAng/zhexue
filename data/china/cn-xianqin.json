@@ -2621,6 +2621,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-he-tong",
+   "term": "和同之辨",
+   "term_latin": "he vs tong（harmony vs sameness）",
+   "definition": "西周末至春秋的核心论题：“和”是不同者的相济（如五味相调、五声相和），“同”是同者的叠加（如以水济水）。政治上的“和”要求容纳异见，“同”则是阿从。",
+   "usages": [
+    {
+     "name": "史伯（据《国语·郑语》）",
+     "usage": "“和实生物，同则不继”：以他平他谓之和，故能丰长而物归之。"
+    },
+    {
+     "name": "晏婴（据《左传》昭公二十年）",
+     "usage": "以“羹”与“琴”为喻：君臣之际当“可否相济”，若“君所谓可，臣亦曰可”，则是“同”而非“和”。"
+    },
+    {
+     "name": "孔子",
+     "id": "cn-xianqin-kongzi",
+     "usage": "“君子和而不同，小人同而不和”。"
+    }
+   ],
+   "related": [
+    "cn-xianqin-zhongyong",
+    "cn-xianqin-ren"
+   ],
+   "example": {
+    "text": "晏婴的比喻最清楚：以水济水，谁能食之？若琴瑟只弹一个音，谁能听之？——故“同”不是和谐，而是取消差异后的死寂；“和”须以差异为前提。",
+    "figure": "晏婴",
+    "locator": "《左传》昭公二十年"
+   },
+   "sources": [
+    "ws-guoyu",
+    "ws-zuozhuan",
+    "ct-analects"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

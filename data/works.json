@@ -1,6 +1,62 @@
 {
  "works": [
   {
+   "id": "work-shangshu",
+   "title": "《尚书》",
+   "title_original": "尚書",
+   "tradition": "china",
+   "date_display": "内容跨西周至战国；今文二十九篇为可靠部分",
+   "structure": "五十八篇（今本）：虞书、夏书、商书、周书；含典、谟、训、诰、誓、命六种文体。",
+   "core_arguments": [
+    "“皇天无亲，惟德是辅”：天命以德为转移的依据",
+    "“民惟邦本，本固邦宁”：民为政治之本的表述",
+    "以“诰”“誓”的形式呈现政治权威的言辞结构"
+   ],
+   "key_points": [
+    {
+     "locator": "《蔡仲之命》",
+     "point": "“皇天无亲，惟德是辅”"
+    },
+    {
+     "locator": "《五子之歌》",
+     "point": "“民惟邦本，本固邦宁”"
+    },
+    {
+     "locator": "《洪范》",
+     "point": "五行与治国大法"
+    },
+    {
+     "locator": "《大诰》《康诰》",
+     "point": "周初的政治训诰"
+    }
+   ],
+   "editions": [
+    "孙星衍《尚书今古文注疏》中华书局；《尚書》（四部叢刊本）"
+   ],
+   "related_people": [
+    "cn-xianqin-kongzi",
+    "cn-xianqin-mengzi",
+    "cn-lianghan-dong-zhongshu"
+   ],
+   "misreadings": [
+    {
+     "claim": "今本五十八篇都是先秦原作",
+     "why": "其中二十五篇（“古文尚书”）自宋代起被疑，清代阎若璩《尚书古文疏证》定为伪作，今学界通认；可靠者为“今文二十九篇”。"
+    },
+    {
+     "claim": "《尚书》是孔子的著作",
+     "why": "孔子与《尚书》的编定关系是传统说法，其文献来源跨数百年，非一人之作。"
+    }
+   ],
+   "sources": [
+    "ws-shangshu",
+    "ws-liji"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“古文尚书”二十五篇的真伪经阎若璩《尚书古文疏证》论证为伪，今学界基本公认；但“今文二十九篇”内部各篇的年代仍有讨论。",
+   "sort_year": -500
+  },
+  {
    "id": "work-lunyu",
    "title": "《论语》",
    "title_original": "論語（Analects）",
@@ -114,6 +170,117 @@
    ],
    "needs_verification": true,
    "pending_notes": "《墨经》六篇（经上下、经说上下、大取、小取）的作者与年代、以及《墨子》各篇的成书层次，学界有长期讨论。",
+   "sort_year": -400
+  },
+  {
+   "id": "work-zuozhuan",
+   "title": "《春秋左氏传》",
+   "title_original": "春秋左傳",
+   "tradition": "china",
+   "date_display": "约前4世纪（编定）",
+   "structure": "三十卷；以《春秋》经文为纲，逐年记事（鲁隐公元年至哀公二十七年），含大量外交辞令、战事叙述与“君子曰”的评断。",
+   "core_arguments": [
+    "“礼，经国家、定社稷、序民人、利后嗣者也”：礼是政治秩序的总纲",
+    "“太上有立德，其次有立功，其次有立言”：三不朽的价值序列",
+    "以“君子曰”的评断把史事转为伦理判断"
+   ],
+   "key_points": [
+    {
+     "locator": "隐公十一年",
+     "point": "“礼，经国家、定社稷”的礼论"
+    },
+    {
+     "locator": "襄公二十四年",
+     "point": "三不朽（立德、立功、立言）"
+    },
+    {
+     "locator": "昭公二十年",
+     "point": "“和”与“同”之别（晏婴论和同）"
+    },
+    {
+     "locator": "全书“君子曰”",
+     "point": "史评的体例"
+    }
+   ],
+   "editions": [
+    "楊伯峻《春秋左传注》中华书局；《春秋左傳》（四部叢刊本）"
+   ],
+   "related_people": [
+    "cn-xianqin-kongzi",
+    "cn-xianqin-mengzi",
+    "cn-lianghan-dong-zhongshu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《左传》是《春秋》的单纯注解",
+     "why": "它自成一部独立的编年史（记事远多于经文），并把伦理判断以“君子曰”的形式加入，非注释体。"
+    },
+    {
+     "claim": "其作者为左丘明（孔子同时人）",
+     "why": "传统说法如此，但成书年代与作者自唐代（啖助、赵匡）以来即有争议，今多认为成于战国。"
+    }
+   ],
+   "sources": [
+    "ws-zuozhuan",
+    "ws-guoyu"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《左传》的作者与成书年代是聚讼之题（左丘明说、战国成书说、刘歆伪作说等）；本页只述其内容与伦理观点，不判定作者。",
+   "sort_year": -400
+  },
+  {
+   "id": "work-guoyu",
+   "title": "《国语》",
+   "title_original": "國語",
+   "tradition": "china",
+   "date_display": "约前4世纪（编定）",
+   "structure": "二十一卷；分周、鲁、齐、晋、郑、楚、吴、越八语，记西周末至春秋各国的言语与政事。",
+   "core_arguments": [
+    "以“语”为体：记言为主，以言论见政治得失",
+    "“防民之口，甚于防川”：邵公谏厉王弭谤，论言论与政治的关系",
+    "以各国之语并列，示同一时期不同政治体的问题"
+   ],
+   "key_points": [
+    {
+     "locator": "《周语上》",
+     "point": "邵公谏弭谤（“防民之口，甚于防川”）"
+    },
+    {
+     "locator": "《晋语》",
+     "point": "晋国诸事与伦理判断"
+    },
+    {
+     "locator": "《越语》",
+     "point": "范蠡的时势论"
+    },
+    {
+     "locator": "全书体例",
+     "point": "分国记言的编纂"
+    }
+   ],
+   "editions": [
+    "上海古籍出版社《国语》点校本；《國語》（四部叢刊本）"
+   ],
+   "related_people": [
+    "cn-xianqin-kongzi",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《国语》与《左传》是同一书的两个部分",
+     "why": "传统有“春秋外传”之说，但二者体例不同（一为编年记事，一为国别记言），当分读。"
+    },
+    {
+     "claim": "“防民之口”是主张压制言论",
+     "why": "原文是**谏阻**厉王弭谤：“防民之口，甚于防川”意为堵塞言论比堵河更危险，故主张疏导。"
+    }
+   ],
+   "sources": [
+    "ws-guoyu",
+    "ws-zuozhuan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《国语》的作者（传统归左丘明）与成书过程有争议；各“语”的来源与年代不一，非一时一人之作。",
    "sort_year": -400
   },
   {
@@ -2038,6 +2205,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": -104
+  },
+  {
+   "id": "work-liji",
+   "title": "《礼记》",
+   "title_original": "禮記",
+   "tradition": "china",
+   "date_display": "编定于西汉（戴圣辑）；内容跨战国至汉初",
+   "structure": "四十九篇；含《曲礼》《檀弓》《王制》《月令》《礼运》《学记》《乐记》《中庸》《大学》等。",
+   "core_arguments": [
+    "“礼运”的大同与小康之分：大同是“天下为公”，小康是“天下为家”",
+    "《学记》：教学相长、藏息相辅的教育论",
+    "《乐记》：乐与礼相配，乐合同、礼别异"
+   ],
+   "key_points": [
+    {
+     "locator": "《礼运》",
+     "point": "大同与小康"
+    },
+    {
+     "locator": "《学记》",
+     "point": "“教学相长”“藏焉修焉，息焉游焉”"
+    },
+    {
+     "locator": "《乐记》",
+     "point": "“乐合同，礼别异”"
+    },
+    {
+     "locator": "《中庸》《大学》",
+     "point": "后被抽出为“四书”之二"
+    }
+   ],
+   "editions": [
+    "王文锦《礼记译解》中华书局；《禮記》（四部叢刊本）"
+   ],
+   "related_people": [
+    "cn-xianqin-kongzi",
+    "cn-xianqin-xunzi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《礼记》是孔子的著作",
+     "why": "它是西汉戴圣辑录的论礼文献汇编，内容跨战国至汉初，非一人之作。"
+    },
+    {
+     "claim": "“大同”是孔子的政治理想",
+     "why": "《礼运》一篇的成书年代与学派归属有争议（或认为含道家、墨家影响），不能径归孔子。"
+    }
+   ],
+   "sources": [
+    "ws-liji",
+    "ws-shangshu"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《礼运》大同章的思想来源（儒家／道家／墨家）学界长期争论；《礼记》各篇年代不一，非一时之作。",
+   "sort_year": -100
   },
   {
    "id": "work-dererum-natura",
@@ -4164,6 +4387,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1200
+  },
+  {
+   "id": "work-xiangshan-ji",
+   "title": "《象山集》",
+   "title_original": "象山集",
+   "tradition": "china",
+   "date_display": "约1205年（门人编）；后世增补",
+   "structure": "三十六卷（通行本）：书、奏表、记、序赠、杂著、诗、祭文、行状、语录（《语录》上下卷为门人所记）。",
+   "core_arguments": [
+    "“心即理”：理不在心外，故不必外求",
+    "“先立乎其大者”：工夫的入手在立本，不在逐事穷索",
+    "“六经注我，我注六经”：经典是印证而非来源"
+   ],
+   "key_points": [
+    {
+     "locator": "《与李宰书》",
+     "point": "“心即理”的表述"
+    },
+    {
+     "locator": "《语录》",
+     "point": "“先立乎其大者”"
+    },
+    {
+     "locator": "《语录》",
+     "point": "“六经注我”"
+    },
+    {
+     "locator": "《与朱元晦书》",
+     "point": "朱陆之辩（无极太极）"
+    }
+   ],
+   "editions": [
+    "中华书局《陆九渊集》点校本；《象山集》（四庫全書本）"
+   ],
+   "related_people": [
+    "cn-songming-lu-jiuyuan",
+    "cn-songming-zhu-xi",
+    "cn-songming-wang-yangming"
+   ],
+   "misreadings": [
+    {
+     "claim": "陆九渊主张不读书",
+     "why": "他说“六经注我”，意为经典须由本心印证；他本人博览群书，且主张“发明本心”后仍须读书。"
+    },
+    {
+     "claim": "“心即理”是主观唯心论",
+     "why": "其“心”是“同心同德”的普遍之心（“东海有圣人出焉，此心同也”），不是个人的心理状态。"
+    }
+   ],
+   "sources": [
+    "ws-xiangshan",
+    "ws-chuanxi"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1205
   },
   {
    "id": "work-summa",

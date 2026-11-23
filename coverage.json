@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 763,
+  "entries": 770,
   "by_level": {
-   "L2": 636,
-   "L1": 127
+   "L2": 638,
+   "L1": 132
   },
   "doctrine": {
    "total": 224,
    "detail": 224,
    "auto": 0
   },
-  "needs_verification": 127,
-  "sources": 328,
-  "sources_verified": 328
+  "needs_verification": 132,
+  "sources": 335,
+  "sources_verified": 335
  },
  "units": [
   {
@@ -39,7 +39,7 @@
    "title": "宋明理学与心学",
    "region": "china",
    "philosophers": 18,
-   "concepts": 13,
+   "concepts": 14,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -66,7 +66,7 @@
    "title": "先秦诸子",
    "region": "china",
    "philosophers": 12,
-   "concepts": 15,
+   "concepts": 16,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -1278,6 +1278,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-songming-liuxiang-zhuwo",
+   "type": "concept",
+   "title": "六经注我",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-songming-zhu-lu",
    "type": "debate",
    "title": "尊德性还是道问学：朱陆之辩",
@@ -2392,6 +2403,17 @@
    "id": "cn-xianqin-zhijue",
    "type": "concept",
    "title": "知言",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-he-tong",
+   "type": "concept",
+   "title": "和同之辨",
    "container": "cn-xianqin",
    "level": "L2",
    "sources": 3,
@@ -5997,6 +6019,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-shangshu",
+   "type": "work",
+   "title": "《尚书》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-lunyu",
    "type": "work",
    "title": "《论语》",
@@ -6011,6 +6044,28 @@
    "id": "work-mozi",
    "type": "work",
    "title": "《墨子》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-zuozhuan",
+   "type": "work",
+   "title": "《春秋左氏传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-guoyu",
+   "type": "work",
+   "title": "《国语》",
    "container": "china",
    "level": "L1",
    "sources": 2,
@@ -6390,6 +6445,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-liji",
+   "type": "work",
+   "title": "《礼记》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -6803,6 +6869,17 @@
    "id": "work-xiuxue-jiyan",
    "type": "work",
    "title": "《习学记言序目》",
+   "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-xiangshan-ji",
+   "type": "work",
+   "title": "《象山集》",
    "container": "china",
    "level": "L2",
    "sources": 2,
