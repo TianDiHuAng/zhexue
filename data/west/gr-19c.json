@@ -3122,6 +3122,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-19c-individual-history",
+   "title": "个人能否脱离历史被理解",
+   "question": "历史中的个人是时代与结构的产物，还是有其不可还原的独创性？",
+   "positions": [
+    {
+     "holder": "黑格尔",
+     "id": null,
+     "stance": "个人是时代精神的器官",
+     "reasons": [
+      "“伟人”是时代意志的执行者（理性的狡计）。",
+      "个人的意义在其于精神进程中的功能。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "卡莱尔与浪漫史学（对照）",
+     "id": null,
+     "stance": "英雄创造历史",
+     "reasons": [
+      "历史是伟人传记的延长。",
+      "制度与结构只是伟人意志的体现。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "狄尔泰",
+     "id": "gr-19c-dilthey",
+     "stance": "个体与历史互为条件",
+     "reasons": [
+      "个人只能在文化系统中被理解。",
+      "但文化系统也由个体的体验与表达构成。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“解释的方向”：黑格尔自上而下（时代→个人），卡莱尔自下而上（个人→时代），狄尔泰主张双向循环（个体与系统互为条件）。三者的分歧是历史解释的基本方向之争。",
+   "status": "无定论",
+   "status_note": "现代历史学与社会理论（结构—能动之争）仍在处理这一问题的不同版本。",
+   "sources": [
+    "sep-hegel",
+    "sep-dilthey",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

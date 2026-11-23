@@ -3526,6 +3526,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-forms-selfpredication",
+   "title": "理念论能否解释“分有”",
+   "question": "若理念是分离存在的，可感物如何“分有”它？第三人论证是否致命？",
+   "positions": [
+    {
+     "holder": "柏拉图",
+     "id": "gr-ancient-plato",
+     "stance": "分有（methexis）",
+     "reasons": [
+      "可感物因分有同名理念而成为其所是。",
+      "分有是“模仿”或“在场”，但确切机制在对话中未定。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "stance": "第三人论证",
+     "reasons": [
+      "若人分有人之理念，则人与理念之间有第三个“人”需说明。",
+      "无限后退，故分离的理念无法解释存在。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "柏拉图后期的自我批评（《巴门尼德篇》，对照）",
+     "id": "gr-ancient-plato",
+     "stance": "承认困难",
+     "reasons": [
+      "《巴门尼德篇》让少年苏格拉底承认分有的困难。",
+      "但仍坚持若无理念则知识无对象。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“解释的要求”：柏拉图需要一个说明“多中之一”的机制，亚里士多德要求这一机制不得引入新的同类项。第三人论证之所以有力，是因为它只要求解释的自洽，而不否认理念的存在。",
+   "status": "无定论",
+   "status_note": "亚里士多德的批评成为后世的标准质疑；新柏拉图主义以“流溢”重构分有，试图回避第三人论证（是否成功仍有争论）。",
+   "sources": [
+    "sep-plato",
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

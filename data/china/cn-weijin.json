@@ -2808,6 +2808,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-weijin-shengren-zhiji",
+   "title": "圣人之迹可否效法",
+   "question": "圣人的事迹（迹）可否作为效法的对象，还是“迹”与“所以迹”必须分开？",
+   "positions": [
+    {
+     "holder": "郭象",
+     "id": "cn-weijin-guoxiang",
+     "stance": "迹与所以迹不可混",
+     "reasons": [
+      "圣人之“迹”是其一时一地的作为，不可普遍效法。",
+      "“所以迹”是其自然无为之本，效其迹则失其本。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "王弼",
+     "id": "cn-weijin-wangbi",
+     "stance": "得意忘言",
+     "reasons": [
+      "言象是得“意”的工具，执著于言象则失意。",
+      "圣人之迹如言象，当得意而忘之。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "裴頠",
+     "id": "cn-weijin-pei-wei",
+     "stance": "礼制即圣人制作",
+     "reasons": [
+      "圣人之制（礼乐刑政）是“有”的秩序，不可废。",
+      "以“所以迹”为名而废礼制，是贵无之弊。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“效法的对象”：若可效其迹，则圣人之制有规范力（裴頠）；若须忘其迹而求其所以迹，则既有的制度形式失去绝对权威（郭象、王弼）。这一分歧直接关涉名教是否可废。",
+   "status": "无定论",
+   "status_note": "郭象的“迹／所以迹”之分是玄学的重要命题；宋明理学以“道統”重立圣人之迹的权威，与此路径不同。",
+   "sources": [
+    "ct-zhuangzi",
+    "ws-shishuoxinyu",
+    "ws-chongyoulun"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

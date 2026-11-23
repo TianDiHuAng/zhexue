@@ -2263,6 +2263,53 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-universal-rights",
+   "title": "人权是普遍的还是文化的产物",
+   "question": "人权是人之为人皆有的权利，还是特定文化（西方近代）的产物？",
+   "positions": [
+    {
+     "holder": "罗尔斯",
+     "id": "gr-contemp-rawls",
+     "stance": "可普遍化",
+     "reasons": [
+      "在原初状态中，立约者不知自己的社会位置与文化归属。",
+      "故所选原则不偏向任何特定文化。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "麦金太尔（对照）",
+     "id": null,
+     "stance": "权利是近代虚构",
+     "reasons": [
+      "“自然权利”概念在古典与中世纪伦理学中不存在。",
+      "以普遍人权为名推行特定制度，是文化的自我膨胀。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "哈贝马斯",
+     "id": "gr-contemp-habermas",
+     "stance": "以交往程序普遍化",
+     "reasons": [
+      "规范的有效性来自所有受影响者的同意。",
+      "故普遍性不是内容的普遍，而是程序的条件。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“普遍性的类型”：罗尔斯主张内容的可普遍化（无人知其位置故不偏），麦金太尔主张历史的生成（无历史根据故虚构），哈贝马斯主张程序的普遍性（同意程序而非内容）。三者对“普遍”的理解不同。",
+   "status": "无定论",
+   "status_note": "这一争论在1990年代的“亚洲价值”辩论与人权普遍性讨论中被反复援引；当代政治哲学仍在处理文化差异与人权的张力。",
+   "sources": [
+    "sep-rawls",
+    "sep-habermas",
+    "sep-derrida"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

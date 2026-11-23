@@ -1,9 +1,9 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 674,
+  "entries": 680,
   "by_level": {
-   "L2": 570,
+   "L2": 576,
    "L1": 104
   },
   "doctrine": {
@@ -58,7 +58,7 @@
    "region": "china",
    "philosophers": 13,
    "concepts": 13,
-   "debates": 6,
+   "debates": 7,
    "philosophers_slot": "8 上限，余 -5"
   },
   {
@@ -76,7 +76,7 @@
    "region": "west",
    "philosophers": 16,
    "concepts": 13,
-   "debates": 6,
+   "debates": 7,
    "philosophers_slot": "8 上限，余 -8"
   },
   {
@@ -85,7 +85,7 @@
    "region": "west",
    "philosophers": 19,
    "concepts": 14,
-   "debates": 7,
+   "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
   {
@@ -94,7 +94,7 @@
    "region": "west",
    "philosophers": 19,
    "concepts": 12,
-   "debates": 6,
+   "debates": 7,
    "philosophers_slot": "8 上限，余 -11"
   },
   {
@@ -103,7 +103,7 @@
    "region": "west",
    "philosophers": 10,
    "concepts": 12,
-   "debates": 6,
+   "debates": 7,
    "philosophers_slot": "8 上限，余 -2"
   },
   {
@@ -139,7 +139,7 @@
    "region": "west",
    "philosophers": 29,
    "concepts": 12,
-   "debates": 6,
+   "debates": 7,
    "philosophers_slot": "8 上限，余 -21"
   }
  ],
@@ -1905,6 +1905,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-weijin-shengren-zhiji",
+   "type": "debate",
+   "title": "圣人之迹可否效法",
+   "container": "cn-weijin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-xianqin-kongzi",
    "type": "philosopher",
    "title": "孔子",
@@ -2620,6 +2631,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-19c-individual-history",
+   "type": "debate",
+   "title": "个人能否脱离历史被理解",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-20c-frege",
    "type": "philosopher",
    "title": "弗雷格",
@@ -3060,6 +3082,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-psychoanalysis-science",
+   "type": "debate",
+   "title": "精神分析是科学吗",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-ancient-pythagoras",
    "type": "philosopher",
    "title": "毕达哥拉斯",
@@ -3467,6 +3500,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-ancient-forms-selfpredication",
+   "type": "debate",
+   "title": "理念论能否解释“分有”",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-contemp-rawls",
    "type": "philosopher",
    "title": "罗尔斯",
@@ -3767,6 +3811,17 @@
    "id": "gr-contemp-animal",
    "type": "debate",
    "title": "动物是否有道德地位",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-contemp-universal-rights",
+   "type": "debate",
+   "title": "人权是普遍的还是文化的产物",
    "container": "gr-contemp",
    "level": "L2",
    "sources": 3,
@@ -5373,6 +5428,17 @@
    "id": "gr-modern-innate-moral",
    "type": "debate",
    "title": "道德原则是天生的还是习得的",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-miracles",
+   "type": "debate",
+   "title": "神迹能否作为宗教的证据",
    "container": "gr-modern",
    "level": "L2",
    "sources": 3,
