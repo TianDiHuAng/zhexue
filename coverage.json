@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 588,
+  "entries": 597,
   "by_level": {
-   "L2": 504,
-   "L1": 84
+   "L2": 511,
+   "L1": 86
   },
   "doctrine": {
-   "total": 205,
-   "detail": 205,
+   "total": 211,
+   "detail": 211,
    "auto": 0
   },
-  "needs_verification": 84,
-  "sources": 305,
-  "sources_verified": 301
+  "needs_verification": 86,
+  "sources": 311,
+  "sources_verified": 307
  },
  "units": [
   {
@@ -29,19 +29,19 @@
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 11,
+   "philosophers": 13,
    "concepts": 12,
    "debates": 4,
-   "philosophers_slot": "8 上限，余 -3"
+   "philosophers_slot": "8 上限，余 -5"
   },
   {
    "unit_id": "cn-songming",
    "title": "宋明理学与心学",
    "region": "china",
-   "philosophers": 14,
+   "philosophers": 18,
    "concepts": 11,
    "debates": 4,
-   "philosophers_slot": "8 上限，余 -6"
+   "philosophers_slot": "8 上限，余 -10"
   },
   {
    "unit_id": "cn-suitang",
@@ -552,6 +552,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-qingmod-fang-yizhi",
+   "type": "philosopher",
+   "title": "方以智",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-ruan-yuan",
+   "type": "philosopher",
+   "title": "阮元",
+   "container": "cn-qingmod",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-qingmod-jingshi-zhizhiyong",
    "type": "concept",
    "title": "经世致用",
@@ -874,6 +896,50 @@
    "id": "cn-songming-chen-xianzhang",
    "type": "philosopher",
    "title": "陈献章",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-hu-hong",
+   "type": "philosopher",
+   "title": "胡宏",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-zhang-shi",
+   "type": "philosopher",
+   "title": "张栻",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-chen-liang",
+   "type": "philosopher",
+   "title": "陈亮",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-ye-shi",
+   "type": "philosopher",
+   "title": "叶适",
    "container": "cn-songming",
    "level": "L2",
    "sources": 2,
@@ -5414,6 +5480,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-xiuxue-jiyan",
+   "type": "work",
+   "title": "《习学记言序目》",
+   "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-summa",
    "type": "work",
    "title": "《神学大全》",
@@ -5466,6 +5543,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-wuli-xiaoshi",
+   "type": "work",
+   "title": "《物理小识》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -5704,6 +5792,17 @@
    "type": "work",
    "title": "《美育书简》",
    "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-xingming-guxun",
+   "type": "work",
+   "title": "《性命古训》",
+   "container": "china",
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,

@@ -2541,6 +2541,62 @@
    "sort_year": 1190
   },
   {
+   "id": "work-xiuxue-jiyan",
+   "title": "《习学记言序目》",
+   "title_original": "習學記言序目",
+   "tradition": "china",
+   "date_display": "约1200年",
+   "structure": "五十卷；对经（易、书、诗、周礼、礼记、论语、孟子等）、史（史记至五代史）、诸子（老子至文中子）逐条评断。",
+   "core_arguments": [
+    "道在物中：道不离器物与制度",
+    "以事功验义理：评断学术须看其能否经世",
+    "批评“道学”之名：标榜心性而废实务者误国"
+   ],
+   "key_points": [
+    {
+     "locator": "卷首",
+     "point": "论“道”不在物外"
+    },
+    {
+     "locator": "论《周易》",
+     "point": "以制度与人事解经"
+    },
+    {
+     "locator": "论诸子",
+     "point": "对老庄、荀子、扬雄的评断"
+    },
+    {
+     "locator": "论史",
+     "point": "以功业评历代政治"
+    }
+   ],
+   "editions": [
+    "《水心集》（四庫全書本）；中华书局《叶适集》点校本"
+   ],
+   "related_people": [
+    "cn-songming-ye-shi",
+    "cn-songming-chen-liang",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是读书笔记，无体系",
+     "why": "逐条评断背后有统一的方法（道在物中、以事功验义理），全书贯穿着同一立场。"
+    },
+    {
+     "claim": "叶适否定义理",
+     "why": "他以另一套义理（事功与制度）评断经史，不是取消义理。"
+    }
+   ],
+   "sources": [
+    "ws-shuixinji",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1200
+  },
+  {
    "id": "work-summa",
    "title": "《神学大全》",
    "title_original": "Summa Theologiae",
@@ -2826,6 +2882,60 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1637
+  },
+  {
+   "id": "work-wuli-xiaoshi",
+   "title": "《物理小识》",
+   "title_original": "物理小識",
+   "tradition": "china",
+   "date_display": "约1640年",
+   "structure": "十二卷；分天类、历类、风雷雨旸类、地类、占候类、人身类、鬼神类、方术类、医药类、饮食类、衣服类、金石类、器用类、草木类、鸟兽类等。",
+   "core_arguments": [
+    "质测与通几分工：具体科学与根本哲学相辅而不相代",
+    "以实证与实测记录自然现象，兼采中西之学",
+    "“一在二中”：对立相因，统一在对立之中"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 天类",
+     "point": "天文历算与西学的吸收"
+    },
+    {
+     "locator": "卷三 人身类",
+     "point": "身体与医学"
+    },
+    {
+     "locator": "卷七 金石类",
+     "point": "物性记载"
+    },
+    {
+     "locator": "总论",
+     "point": "质测与通几之分"
+    }
+   ],
+   "editions": [
+    "商务印书馆排印本；《通雅》（四庫全書本）可参"
+   ],
+   "related_people": [
+    "cn-qingmod-fang-yizhi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是纯技术手册",
+     "why": "它含明确的自然哲学框架（质测／通几之分），并非只是方术记录。"
+    },
+    {
+     "claim": "它的知识全部来自西学",
+     "why": "它兼采中西：既有西洋历算，也大量记录中国传统博物与方术知识。"
+    }
+   ],
+   "sources": [
+    "ws-tongya",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《物理小识》为方以智与其子方中通等合编，各条来源不一（部分采自前人笔记与西学译著）；具体条目的来源须逐条核对。",
+   "sort_year": 1640
   },
   {
    "id": "work-meditations",
@@ -4076,6 +4186,61 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1795
+  },
+  {
+   "id": "work-xingming-guxun",
+   "title": "《性命古训》",
+   "title_original": "性命古訓",
+   "tradition": "china",
+   "date_display": "约1800年",
+   "structure": "以经传古训逐条考“性”“命”二字的用法与流变，附《论语论仁论》《孟子论仁论》等。",
+   "core_arguments": [
+    "“性命”的义理须由古训确定，后世附益不可据",
+    "以训诂方法重审核心概念，可揭露哲学体系的无根之处",
+    "“实事求是”：以证据定是非，不立汉宋门户"
+   ],
+   "key_points": [
+    {
+     "locator": "论“性”",
+     "point": "古训中“性”的本义与流变"
+    },
+    {
+     "locator": "论“命”",
+     "point": "“命”与“天命”的用法"
+    },
+    {
+     "locator": "《论语论仁论》",
+     "point": "以古训论仁"
+    },
+    {
+     "locator": "序",
+     "point": "方法与宗旨"
+    }
+   ],
+   "editions": [
+    "《揅經室集》（四部叢刊本）"
+   ],
+   "related_people": [
+    "cn-qingmod-ruan-yuan",
+    "cn-qingmod-dai-zhen"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是字词考据",
+     "why": "它以考据做哲学：通过澄清字义来重审宋儒的性命之学。"
+    },
+    {
+     "claim": "它主张完全废弃义理",
+     "why": "它要求义理有字义之根，不是取消义理。"
+    }
+   ],
+   "sources": [
+    "ws-yanjingshi",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1800
   },
   {
    "id": "work-phenomenology-spirit",

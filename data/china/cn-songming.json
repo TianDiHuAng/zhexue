@@ -2235,6 +2235,562 @@
      "note": "四库本题《白沙子集》"
     }
    ]
+  },
+  {
+   "id": "cn-songming-hu-hong",
+   "name": "胡宏",
+   "latin": "Hu Hong",
+   "birth_year": 1105,
+   "death_year": 1161,
+   "birth_display": "1105年",
+   "death_display": "1161年",
+   "birth_note": "据《宋元学案》：生于福建崇安，胡安国之子。",
+   "death_note": "1161年卒。",
+   "era": "南宋初。胡宏是湖湘学派的奠基者，以《知言》立说：性为天下之大本，心以成性；他反对以“性”为空理，主张性含善恶之几而“好恶”为其动。其学与程朱、陆王均不相同，是南宋道学的第三条路线。",
+   "school": "湖湘学派",
+   "core_questions": [
+    "性与心是什么关系？",
+    "性是否有善恶？",
+    "工夫应落在何处？"
+   ],
+   "arguments": [
+    {
+     "claim": "性为天下之大本，心以成性",
+     "premises": [
+      "万物皆由此性而出，故性不是一物而是一切之根据。",
+      "心能“成性”：非性在心外，而是心尽性而后性成。"
+     ],
+     "inference": "若性只是理而无心之实现，则性为悬空之物；故须说“心以成性”，使性在人的践行中成立。",
+     "conclusion": "性为本体而心为其实现，二者不离而不可混同。",
+     "kind": "原文"
+    },
+    {
+     "claim": "性不能无善恶之几：以“好恶”言性之动",
+     "premises": [
+      "性发而为好恶，好恶即性之动。",
+      "若只说性善，则好恶之别无从说明。"
+     ],
+     "inference": "若性之动有好恶，则性不是抽象的同质之善，而有其几微之辨；故工夫在“察其几”。",
+     "conclusion": "性含好恶之几，故工夫在于辨其几微，而非只说复性。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《知言》《五峰集》《皇王大纪》",
+     "edition": "《知言》（四庫全書本）；《胡宏集》中华书局点校本",
+     "note": "《知言》为其哲学纲领"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "胡安国与二程",
+     "id": "cn-songming-cheng-yi",
+     "note": "家学与洛学传承"
+    },
+    {
+     "name": "张载",
+     "id": "cn-songming-zhang-zai",
+     "note": "以性为万物之源的思路"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "张栻",
+     "id": "cn-songming-zhang-shi",
+     "note": "其弟子，湖湘学派的主要传人"
+    },
+    {
+     "name": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "note": "与湖湘学派的论辩（中和之辩）"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "朱熹",
+     "view": "以“心以成性”混淆了性与心，且“性有好恶”近于以情言性。",
+     "response": "胡宏一系的回应是：性非悬空之理，必在心之实践中成立；好恶是性之几，非情之属。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-zhiyan",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "胡宏是程朱一系的支流",
+     "why": "其“性本心用”说与程朱的“性即理”不同，且与陆王的“心即理”亦不同。"
+    },
+    {
+     "claim": "《知言》只是语录汇编",
+     "why": "它是系统的哲学著作，有明确的本体论与工夫论结构。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>胡宏：性本而心以成性</text><defs><marker id='aHH' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>性为天下之大本</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>心能尽性而后性成</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故性非悬空之理</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故工夫在察好恶之几</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aHH)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aHH)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "胡宏：性为本、心以成性（示意图）",
+   "sources": [
+    "ws-zhiyan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "胡宏以“性为天下之大本”立说：万物皆由此性而出，故性不是一物而是一切之根据；但性不能无心之实现，故说“心以成性”——心尽性而后性成。他又以“好恶”言性之动，主张性含善恶之几，故工夫在于察其几微，而非只说复性。其学是南宋道学的第三条路线。",
+    "system": [
+     {
+      "name": "性为本",
+      "content": "性是一切之根据，非一物；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "心以成性",
+      "content": "性须在心的践行中成立，故性与心不离而不混。"
+     },
+     {
+      "name": "好恶之几",
+      "content": "性发而为好恶，故工夫在辨其几微；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "湖湘学派",
+      "content": "以性为宗、以心为用，与程朱陆王均不同；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "崇安与衡山（1105—1161）",
+      "change": "胡安国之子；以荫补官；因秦桧当政隐居衡山讲学二十余年；著《知言》。"
+     }
+    ],
+    "reception": "其学由张栻传承，与朱熹有“中和之辩”；湖湘学派在南宋道学中自成一路；现代研究关注其“性本心用”说的独立地位。"
+   },
+   "works_detail": [
+    {
+     "title": "《知言》",
+     "structure": "六卷；论性、心、好恶、天理人欲。",
+     "core_thesis": "性为本；心以成性；好恶之几；这是该书的核心命题。",
+     "editions": "《知言》（四庫全書本）；《胡宏集》中华书局",
+     "note": "南宋湖湘学派纲领"
+    }
+   ]
+  },
+  {
+   "id": "cn-songming-zhang-shi",
+   "name": "张栻",
+   "latin": "Zhang Shi",
+   "birth_year": 1133,
+   "death_year": 1180,
+   "birth_display": "1133年",
+   "death_display": "1180年",
+   "birth_note": "据《宋史·道学传》：生于绵竹，张浚之子。",
+   "death_note": "1180年卒于江陵。",
+   "era": "南宋。张栻是胡宏的弟子、湖湘学派的主将，与朱熹、吕祖谦并称“东南三贤”；他以“心主性情”与“先察识后涵养”立说，与朱熹往复论辩“中和”之义，是南宋道学最关键的一场内部争论的主角之一。",
+   "school": "湖湘学派",
+   "core_questions": [
+    "未发之中如何体认？",
+    "工夫是先察识还是先涵养？",
+    "心与性情的关系如何？"
+   ],
+   "arguments": [
+    {
+     "claim": "先察识而后涵养：工夫须在已发处见端倪",
+     "premises": [
+      "未发之中难以直接把捉，须在已发的情感中发现其端。",
+      "察识其端，然后加以涵养，方有着落。"
+     ],
+     "inference": "若未发不可直指，则工夫须从已发处入手：先察识良心之发见，再以涵养固之。",
+     "conclusion": "工夫次第是“先察识，后涵养”，与朱熹的“先涵养”相对。",
+     "kind": "原文"
+    },
+    {
+     "claim": "心主性情：心统摄性与情",
+     "premises": [
+      "性为体，情为用，而心统之。",
+      "若心外有性，则性不可见；若心外有情，则情无所主。"
+     ],
+     "inference": "若性体情用而心统摄之，则修养不是去情，也不是离性，而是在心上做统摄的工夫。",
+     "conclusion": "心为主宰，统摄性情；故工夫在心上，不在分别性与情。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《南轩集》《论语解》《孟子说》《仁说》",
+     "edition": "《南軒集》（四庫全書本）；《张栻全集》长春出版社",
+     "note": "诗文集与经解并行"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "胡宏",
+     "id": "cn-songming-hu-hong",
+     "note": "其师，湖湘学派的本体论"
+    },
+    {
+     "name": "二程",
+     "id": "cn-songming-cheng-yi",
+     "note": "“中和”问题的来源"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "note": "与之论辩“中和”，后来自立“中和新说”"
+    },
+    {
+     "name": "吕祖谦与浙东学术",
+     "id": "",
+     "note": "东南三贤的交往"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "朱熹",
+     "view": "“先察识”易流于只求速效而缺乏平日涵养，且以心统性情之说有“心为已发”的嫌疑。",
+     "response": "张栻一系的回应是：察识不是取代涵养，而是给涵养一个着落处；心之统摄正是其主宰义。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-nanxuan",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "张栻只是胡宏的传声筒",
+     "why": "他在“中和之辩”中有独立主张，并对朱熹“中和新说”的形成起了关键作用。"
+    },
+    {
+     "claim": "湖湘学派在朱熹之后消失",
+     "why": "其学由张栻弟子传承，且“察识”工夫被后世（如刘宗周）重估。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>张栻：先察识后涵养</text><defs><marker id='aZS' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>未发之中不可直指</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故须于已发处见端倪</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故先察识而后涵养</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故心统摄性情</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aZS)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aZS)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "张栻：察识与涵养的次第（示意图）",
+   "sources": [
+    "ws-nanxuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "张栻以“先察识而后涵养”立工夫次第：未发之中难以直指，故须在已发的情感中发现良心之端，再以涵养固之——这与朱熹的“先涵养”相对，是“中和之辩”的核心分歧。他又主张“心主性情”：性为体、情为用而心统摄之，故修养不是去情，也不是离性，而是在心上做统摄的工夫。",
+    "system": [
+     {
+      "name": "先察识后涵养",
+      "content": "工夫从已发处入手，见端而后涵养；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "心主性情",
+      "content": "心统摄性（体）与情（用），故工夫在心上。"
+     },
+     {
+      "name": "中和之辩",
+      "content": "与朱熹往复论未发已发，促成朱子“中和新说”。"
+     },
+     {
+      "name": "仁说",
+      "content": "以“爱之理、心之德”言仁，与朱熹的《仁说》互相影响。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "绵竹、长沙与江陵（1133—1180）",
+      "change": "张浚之子；师从胡宏；主持岳麓书院教事；与朱熹、吕祖谦并称东南三贤；1180 年卒。"
+     }
+    ],
+    "reception": "其“察识”工夫影响了朱熹中和新说的形成；湖湘学派由此成为南宋道学的重要一支；岳麓书院的教学传统与其相关。"
+   },
+   "works_detail": [
+    {
+     "title": "《南轩集》",
+     "structure": "诗文集与经解；《仁说》《论语解》《孟子说》为其哲学核心。",
+     "core_thesis": "先察识后涵养；心主性情；这是该书的核心命题。",
+     "editions": "《南軒集》（四庫全書本）；《张栻全集》",
+     "note": "四十四卷"
+    }
+   ]
+  },
+  {
+   "id": "cn-songming-chen-liang",
+   "name": "陈亮",
+   "latin": "Chen Liang",
+   "birth_year": 1143,
+   "death_year": 1194,
+   "birth_display": "1143年",
+   "death_display": "1194年",
+   "birth_note": "据《宋史》：生于婺州永康，世称“龙川先生”。",
+   "death_note": "1194年卒（状元及第后次年）。",
+   "era": "南宋。陈亮是永康学派的代表，与朱熹展开著名的“王霸义利之辩”：他反对以“三代”为唯一标准评判历史，主张“义利双行、王霸并用”，认为汉唐之君亦有“天运”之功，故道不在事外。",
+   "school": "永康学派（事功之学）",
+   "core_questions": [
+    "三代与汉唐能否用同一标准评判？",
+    "道是否在事外？",
+    "义与利能否分开？"
+   ],
+   "arguments": [
+    {
+     "claim": "道在事中：不得舍三代而谈道，亦不得以三代废汉唐",
+     "premises": [
+      "道非悬空之物，而在具体的历史功业中显现。",
+      "汉唐之君能“顺天应人”，故其功业亦是道之所在。"
+     ],
+     "inference": "若道在事外，则历史全是无道之行；若道在事中，则汉唐之功业虽不完美，仍可有道之成分。",
+     "conclusion": "道不离事，故历史评判须兼顾功业与义理，不能以三代为唯一尺度。",
+     "kind": "原文"
+    },
+    {
+     "claim": "义利双行、王霸并用",
+     "premises": [
+      "义与利非对立：公利即义。",
+      "王与霸非截然二分：霸者亦有其功。"
+     ],
+     "inference": "若义利、王霸截然对立，则历史中无一处合道；故须以“能否成天下之公利”为尺度，使二者可以并存。",
+     "conclusion": "义利双行、王霸并用：以公利与功业为尺度评判历史。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《龙川文集》《龙川词》《酌古论》",
+     "edition": "《龍川集》（四庫全書本）；《陈亮集》中华书局点校本",
+     "note": "政论与书信（与朱熹往复）为其哲学核心"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "王安石与事功传统",
+     "id": "cn-songming-wang-anshi",
+     "note": "以制度与事功为学"
+    },
+    {
+     "name": "浙东学术（吕祖谦等）",
+     "id": "",
+     "note": "重史学与文献"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "叶适",
+     "id": "cn-songming-ye-shi",
+     "note": "永嘉学派，与之同调"
+    },
+    {
+     "name": "清代与近代重估",
+     "id": "",
+     "note": "事功之学被重估为经世传统"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "朱熹",
+     "view": "以功业论道，则道成为外在的成败，义的独立性被取消；且汉唐之君“心”不正，不能称有道。",
+     "response": "陈亮一系的回应是：若道只在三代，则千五百年历史皆为无道，这本身不合理；道须在事中见。",
+     "kind": "原文",
+     "sources": [
+      "ws-longchuanji",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "陈亮反对道德",
+     "why": "他反对的是“以三代废汉唐”的道德主义评判，不是道德本身；其尺度仍是“公利”。"
+    },
+    {
+     "claim": "陈亮是功利主义者",
+     "why": "其“义利双行”不同于边沁式的功利计算，而是以历史功业与公利论道。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>陈亮：道在事中与义利双行</text><defs><marker id='aCL' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>道非悬空而在功业中</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>汉唐之君亦顺天应人</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故道在事中</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故义利双行、王霸并用</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aCL)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aCL)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "陈亮：道在事中与王霸义利之辩（示意图）",
+   "sources": [
+    "ws-longchuanji",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "陈亮以“道在事中”反驳朱熹：道不是悬空的理，而在具体历史功业中显现；汉唐之君虽不完美，其“顺天应人”之功业亦是道之所在，故不能以三代为唯一尺度废黜千五百年历史。由此他主张“义利双行、王霸并用”，以“能否成天下之公利”为评判尺度。其与朱熹的往复是南宋最重要的论辩之一。",
+    "system": [
+     {
+      "name": "道在事中",
+      "content": "道不离具体功业，非悬空之理；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "义利双行",
+      "content": "公利即义，故二者不对立；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "王霸并用",
+      "content": "霸者亦有其功，不能以王霸二分废之；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "历史评判",
+      "content": "以功业与公利为尺度，非仅以动机论；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "永康（1143—1194）",
+      "change": "婺州永康人；多次上书言恢复；与朱熹往复论辩；1193 年状元及第，次年卒。"
+     }
+    ],
+    "reception": "其与朱熹的“王霸义利之辩”成为南宋道学的核心争论；永康学派与永嘉学派（叶适）共同构成浙东事功之学；近代被重估为经世传统的重要资源。"
+   },
+   "works_detail": [
+    {
+     "title": "《龙川文集》",
+     "structure": "三十卷；政论、书信与词；与朱熹的往复书为其哲学核心。",
+     "core_thesis": "道在事中；义利双行；这是该书的核心命题。",
+     "editions": "《龍川集》（四庫全書本）；《陈亮集》中华书局",
+     "note": "与朱子的往复书见卷二十"
+    }
+   ]
+  },
+  {
+   "id": "cn-songming-ye-shi",
+   "name": "叶适",
+   "latin": "Ye Shi",
+   "birth_year": 1150,
+   "death_year": 1223,
+   "birth_display": "1150年",
+   "death_display": "1223年",
+   "birth_note": "据《宋史》：生于温州永嘉，世称“水心先生”。",
+   "death_note": "1223年卒，谥“忠定”。",
+   "era": "南宋。叶适是永嘉学派的集大成者，以“事功”与“道在物中”立说：他批评程朱“以道为己任”而脱离实务，主张以制度、财赋、兵政为学问的实地，其《习学记言》对经史诸子逐一评断。",
+   "school": "永嘉学派（事功之学）",
+   "core_questions": [
+    "道在物外还是在物中？",
+    "义理与事功能否分开？",
+    "如何评判经史？"
+   ],
+   "arguments": [
+    {
+     "claim": "道在物中：道不离器物与制度",
+     "premises": [
+      "道若在物外，则与人的日用无关。",
+      "器物制度中自有其秩序与理。"
+     ],
+     "inference": "若道在物中，则学问须落在制度、财赋、兵政等实事上，而非空谈性命。",
+     "conclusion": "道在物中，故经世之学即道学，不必另立“道学”之名。",
+     "kind": "原文"
+    },
+    {
+     "claim": "批评“道学”之名：以道统自任者反而废实务",
+     "premises": [
+      "以道统自任者标榜心性而轻视实务。",
+      "其结果是把治国之事委之于“小人”，而自居其名。"
+     ],
+     "inference": "若道学之名使人可以不言实务而自称有道，则此名适足以误国；故须以事功验之。",
+     "conclusion": "以事功检验义理，反对以“道学”之名脱离实务。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《习学记言序目》《水心文集》《水心别集》",
+     "edition": "《水心集》（四庫全書本）；《叶适集》中华书局点校本",
+     "note": "《习学记言》为读书札记体的哲学史评断"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "薛季宣与陈傅良",
+     "id": "",
+     "note": "永嘉学派的先驱"
+    },
+    {
+     "name": "陈亮",
+     "id": "cn-songming-chen-liang",
+     "note": "永康学派，同调"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "清代与近代的经世传统",
+     "id": "",
+     "note": "事功之学的重估"
+    },
+    {
+     "name": "浙东史学",
+     "id": "",
+     "note": "重文献与制度"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "朱熹一系",
+     "view": "以事功论道，则道随成败而转移，义的绝对性丧失。",
+     "response": "叶适一系的回应是：道若与成败无关，则“道”成了对现实无所言说的空名。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-shuixinji",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "叶适否定义理",
+     "why": "他否定的是脱离实务的义理，不是义理本身；其《习学记言》正是以义理评断经史。"
+    },
+    {
+     "claim": "永嘉学派只是经济之学",
+     "why": "它有明确的本体论主张（道在物中）与方法论（以经史验事功）。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>叶适：道在物中与事功</text><defs><marker id='aYS' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>道若在物外则与日用无关</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>器物制度自有其理</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故道在物中</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故经世之学即道学</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aYS)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aYS)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "叶适：道在物中与事功之学（示意图）",
+   "sources": [
+    "ws-shuixinji",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "叶适以“道在物中”立说：道若在物外则与日用无关，而器物制度中自有其秩序与理，故学问须落在制度、财赋、兵政等实事上。由此他批评“道学”之名——以道统自任者标榜心性而轻视实务，反使治国之事委之于人；故须以事功检验义理。其《习学记言》以这一立场逐一评断经史诸子。",
+    "system": [
+     {
+      "name": "道在物中",
+      "content": "道不离器物制度，非悬空之理；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以事功验义理",
+      "content": "义理须在实务中受检验；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "批评道学之名",
+      "content": "标榜道统而废实务，适足以误国；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "经史评断",
+      "content": "《习学记言》以制度与事功为标准评断历代学术。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "永嘉（1150—1223）",
+      "change": "温州永嘉人；淳熙五年进士；官至宝文阁待制；晚年讲学；《习学记言序目》五十卷。"
+     }
+    ],
+    "reception": "永嘉学派由其集大成，与永康学派（陈亮）并为浙东事功之学；清代与近代被重估为经世传统；其“道在物中”说是南宋道学内部的重要异见。"
+   },
+   "works_detail": [
+    {
+     "title": "《习学记言序目》",
+     "structure": "五十卷；对经、史、诸子的逐条评断。",
+     "core_thesis": "道在物中；以事功验义理；这是该书的核心命题。",
+     "editions": "《水心集》（四庫全書本）；中华书局《叶适集》",
+     "note": "读书札记体，非系统论著"
+    }
+   ]
   }
  ],
  "concepts": [

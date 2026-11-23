@@ -1879,6 +1879,284 @@
      "note": "《四存编》之一"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-fang-yizhi",
+   "name": "方以智",
+   "latin": "Fang Yizhi",
+   "birth_year": 1611,
+   "death_year": 1671,
+   "birth_display": "1611年",
+   "death_display": "1671年",
+   "birth_note": "据《清史稿》：生于安徽桐城，出身官宦学术世家。",
+   "death_note": "1671年卒于江西万安（一说自沉）。",
+   "era": "明清之际。方以智以“质测”与“通几”区分科学与哲学：质测研究具体事物的规律，通几把握万物之所以然的根本原理；他主张二者相辅而不相代，其《物理小识》是17世纪中国最重要的博物与自然哲学著作之一。",
+   "school": "实学（质测与通几）",
+   "core_questions": [
+    "科学与哲学的关系如何？",
+    "知识如何分类？",
+    "对立者如何统一？"
+   ],
+   "arguments": [
+    {
+     "claim": "质测与通几：具体科学与根本哲学分工而不相代",
+     "premises": [
+      "质测（如天文、物理、医药）研究具体事物的规律。",
+      "通几（哲学）把握万物之所以然的根本原理。"
+     ],
+     "inference": "若以通几代质测，则空疏而无实；若以质测代通几，则碎而无本；故二者相辅而不相代。",
+     "conclusion": "学问分“质测”与“通几”两层，各有其法而互相依赖。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“一在二中”：对立者相因而不相离",
+     "premises": [
+      "一切对立（阴阳、动静、有无）皆相待而立。",
+      "相待者不能孤立存在，故必有一“合”的层面。"
+     ],
+     "inference": "若对立者相待而立，则其统一不是取消对立，而是在对立中见其相通；故说“一在二中”。",
+     "conclusion": "对立者相因相成，统一在对立之中而非之上。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《物理小识》《通雅》《东西均》《药地炮庄》",
+     "edition": "《通雅》（四庫全書本）；《物理小识》商务印书馆；《东西均》中华书局",
+     "note": "《物理小识》为博物与自然哲学，《东西均》为哲学纲领"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "家学与西学（利玛窦一系）",
+     "id": "",
+     "note": "天文历算与西洋知识的接触"
+    },
+    {
+     "name": "王阳明与泰州学派",
+     "id": null,
+     "note": "“一在二中”的思路"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "清代考据学",
+     "id": "",
+     "note": "《通雅》的音韵与博物方法"
+    },
+    {
+     "name": "近代科学史研究",
+     "id": "",
+     "note": "“质测”与自然科学的关系"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "清代正统学者",
+     "view": "其学杂糅三教，且《药地炮庄》以禅解庄，不入醇儒之列。",
+     "response": "方以智一系的回应是：学问本须兼综，判教式的“醇”反而遮蔽了实际问题。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-tongya",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "方以智是“中国的培根”",
+     "why": "其“质测”确有经验科学的取向，但他同时主张“通几”，并非纯粹经验论；“中国培根”是类比而非定位。"
+    },
+    {
+     "claim": "《物理小识》是纯技术手册",
+     "why": "它含明确的自然哲学框架（质测／通几之分）。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>方以智：质测与通几</text><defs><marker id='aFY2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>质测研究具体规律</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>通几把握根本原理</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故二者相辅不相代</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故一在二中，对立相因</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aFY2)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aFY2)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "方以智：质测、通几与“一在二中”（示意图）",
+   "sources": [
+    "ws-tongya",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "方以智著作卷帙浩繁且部分长期以抄本流传（《东西均》至20世纪才刊行），各本文字有出入；本页所述依《通雅》与哲学史研究，具体引文须核中华书局点校本。",
+   "doctrine": {
+    "summary": "方以智以“质测”与“通几”区分两层学问：质测研究具体事物的规律，通几把握万物之所以然的根本原理；以通几代质测则空疏，以质测代通几则碎而无本，故二者相辅而不相代。他又以“一在二中”说明对立者的统一不在其上而在其中——统一不是取消对立，而是在对立中见其相通。",
+    "system": [
+     {
+      "name": "质测",
+      "content": "具体科学：天文、物理、医药等具体规律；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "通几",
+      "content": "哲学：万物之所以然的根本原理；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "一在二中",
+      "content": "统一在对立之中，非在对立之上；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "合二而一",
+      "content": "对立者相因相成，不可孤立；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "桐城与金陵（1611—1671）",
+      "change": "崇祯十三年进士；南明时任职；明亡后为僧（法名大智）；晚年居江西；1671 年卒。"
+     }
+    ],
+    "reception": "《通雅》的音韵与博物方法影响清代考据学；《物理小识》是研究17世纪中国自然知识的关键文献；“质测／通几”之分被现代科学史研究者反复讨论。"
+   },
+   "works_detail": [
+    {
+     "title": "《物理小识》",
+     "structure": "十二卷；分天、地、人身、医药、器用等类，记自然现象与实物知识。",
+     "core_thesis": "质测；通几；一在二中；这是该书的核心命题。",
+     "editions": "商务印书馆；《通雅》（四庫全書本）可参",
+     "note": "与其子方中通等合编"
+    }
+   ]
+  },
+  {
+   "id": "cn-qingmod-ruan-yuan",
+   "name": "阮元",
+   "latin": "Ruan Yuan",
+   "birth_year": 1764,
+   "death_year": 1849,
+   "birth_display": "1764年",
+   "death_display": "1849年",
+   "birth_note": "据《清史稿》：生于江苏仪征。",
+   "death_note": "1849年卒于扬州，谥“文达”。",
+   "era": "清中期。阮元是乾嘉学派的总结者与组织者：他主持编纂《十三经注疏校勘记》《皇清经解》，创办学海堂，以“实事求是”为学风；其《性命古训》以训诂方法重审“性命”概念，是清代“由字通词、由词通道”的典型实践。",
+   "school": "乾嘉考据学",
+   "core_questions": [
+    "经典如何正确理解？",
+    "“性命”等概念的本义是什么？",
+    "汉学与宋学如何调处？"
+   ],
+   "arguments": [
+    {
+     "claim": "以训诂求义理：先明字义而后可论义理",
+     "premises": [
+      "后世的义理讨论常脱离字义，积非成是。",
+      "古训可据者当以经传与汉儒注为凭。"
+     ],
+     "inference": "若义理建立在误读的字义上，则其体系虽精而无根；故须先校勘、训诂，再论义理。",
+     "conclusion": "训诂是义理的基础；“性命”等核心概念须回到古训。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“实事求是”：以证据为准，不立门户",
+     "premises": [
+      "汉学与宋学各有其长，亦各有其蔽。",
+      "学风当以证据与是非为准，不以家法为准。"
+     ],
+     "inference": "若以家法定是非，则学问沦为门户；故当以证据为准，兼采汉宋之长。",
+     "conclusion": "学风是“实事求是”，不立汉宋门户。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《性命古训》《十三经注疏校勘记》《皇清经解》《畴人传》",
+     "edition": "《揅經室集》（四部叢刊本）；《十三经注疏校勘记》中华书局",
+     "note": "《性命古训》为其哲学方法的核心示范"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "戴震与惠栋",
+     "id": "cn-qingmod-dai-zhen",
+     "note": "由字通词的方法"
+    },
+    {
+     "name": "焦循与王念孙",
+     "id": "",
+     "note": "乾嘉考据的同代学人"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "晚清今文经学（康有为等）",
+     "id": "",
+     "note": "对乾嘉学术的反动"
+    },
+    {
+     "name": "近代“整理国故”",
+     "id": "",
+     "note": "以科学方法整理经典"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "今文经学与宋学一系",
+     "view": "训诂只能定字义，不能定义理之是非；且以汉儒注为凭，是以权威代思考。",
+     "response": "阮元一系的回应是：不据古训则义理无根；但“实事求是”并不排斥判断，只是要求判断有据。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-yanjingshi",
+      "sep-qing-philosophy"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "阮元只是编纂家",
+     "why": "其《性命古训》与《论语论仁论》是以训诂做哲学的方法示范，有明确的方法论主张。"
+    },
+    {
+     "claim": "他主张完全回到汉学",
+     "why": "他倡“实事求是”而不立门户，且大量采用宋儒可取之处。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>阮元：训诂求义理</text><defs><marker id='aRY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>义理常脱离字义而积非成是</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>古训可据者当以经传汉注为凭</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故须先训诂而后论义理</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故学风当实事求是，不立门户</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aRY)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aRY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "阮元：训诂求义理与实事求是（示意图）",
+   "sources": [
+    "ws-yanjingshi",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "阮元以“以训诂求义理”为方法：后世的义理讨论常脱离字义而积非成是，故须先校勘、训诂，再论义理——其《性命古训》即以古训重审“性命”概念。他又倡“实事求是”，以证据而非家法定是非，兼采汉宋之长而不立门户。他是乾嘉学术的组织者与总结者。",
+    "system": [
+     {
+      "name": "训诂求义理",
+      "content": "义理须建立在字义校勘之上；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "实事求是",
+      "content": "以证据为准，不以汉宋家法为准；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "性命古训",
+      "content": "以古训重审核心概念，揭露后世附益；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "学术组织",
+      "content": "主持《十三经注疏校勘记》《皇清经解》，创办学海堂。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "仪征、北京与扬州（1764—1849）",
+      "change": "乾隆五十四年进士；历任浙江、两广总督；创办学海堂；晚年归扬州；谥文达。"
+     }
+    ],
+    "reception": "其校勘与编纂成为清代学术的基础设施；“性命古训”的方法影响傅斯年等近代学者；学海堂培养了大批学人。"
+   },
+   "works_detail": [
+    {
+     "title": "《性命古训》",
+     "structure": "以经传古训考“性命”二字的本义与流变。",
+     "core_thesis": "训诂求义理；性命之古义；这是该书的核心命题。",
+     "editions": "《揅經室集》（四部叢刊本）",
+     "note": "清代以训诂做哲学的典范"
+    }
+   ]
   }
  ],
  "concepts": [
