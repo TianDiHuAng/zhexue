@@ -14907,6 +14907,120 @@
    "sort_year": 1962
   },
   {
+   "id": "work-pour-marx",
+   "title": "《保卫马克思》",
+   "title_original": "Pour Marx",
+   "tradition": "west",
+   "date_display": "1965年（阿尔都塞）",
+   "structure": "六篇论文（1960—65）：《论青年马克思》《马克思主义与人道主义》《矛盾与多元决定》《关于唯物辩证法》《卡尔·马克思的〈1844年手稿〉》《关于“真正的人道主义”》。",
+   "core_arguments": [
+    "马克思在1845年前后有“认识论断裂”：从人道主义意识形态转向历史科学",
+    "“多元决定”：社会矛盾不是单一经济原因的直线表现，而是由结构总体所决定",
+    "“理论实践”：理论有其自身的实践与对象，不是对现实的被动反映"
+   ],
+   "key_points": [
+    {
+     "locator": "《论青年马克思》",
+     "point": "断裂的分期与判据"
+    },
+    {
+     "locator": "《矛盾与多元决定》",
+     "point": "结构因果性与多元决定"
+    },
+    {
+     "locator": "《关于唯物辩证法》",
+     "point": "理论实践"
+    },
+    {
+     "locator": "《马克思主义与人道主义》",
+     "point": "人道主义作为意识形态"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆（顾良译）；法文 La Découverte 版；英译 Verso（For Marx）"
+   ],
+   "related_people": [
+    "gr-20c-althusser",
+    "gr-19c-marx",
+    "gr-20c-gramsci"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张“青年马克思”毫无价值",
+     "why": "它主张的是**概念的断裂**：早期文本是意识形态，不能作为科学的根据；但这不等于说它无价值——其问题（异化、人的解放）仍规定了后期科学的问题域。"
+    },
+    {
+     "claim": "“多元决定”否认经济的最终决定作用",
+     "why": "它主张经济是“最终层面”的决定，但在具体历史中由结构的总体（多元）决定其形态——故不是多元论，而是“结构因果性”。"
+    }
+   ],
+   "sources": [
+    "sep-althusser",
+    "sep-marx",
+    "marx-chinese"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“认识论断裂”的分期（1845年）与判据在马克思主义研究中争论极大；阿尔都塞本人在《自我批评材料》（1974）中对“理论主义”作了修正。本页述其说与其争论。",
+   "sort_year": 1965
+  },
+  {
+   "id": "work-lire-le-capital",
+   "title": "《读资本论》",
+   "title_original": "Lire Le Capital",
+   "tradition": "west",
+   "date_display": "1965年（阿尔都塞、巴利巴尔等）",
+   "structure": "四人合著的集体阅读（阿尔都塞、巴利巴尔、埃斯塔布莱、马舍雷）；1968年再版删去部分篇章，仅存阿尔都塞与巴利巴尔之文。",
+   "core_arguments": [
+    "“症候阅读”：从文本的沉默、缺口与失衡处读出其未言的前提",
+    "“结构因果性”：结构不是外在的原因，而是在其效果中在场",
+    "《资本论》的对象不是既定的经济事实，而是被理论生产出来的“概念对象”"
+   ],
+   "key_points": [
+    {
+     "locator": "阿尔都塞《序》",
+     "point": "症候阅读的方法"
+    },
+    {
+     "locator": "巴利巴尔之文",
+     "point": "结构因果性与整体"
+    },
+    {
+     "locator": "阿尔都塞之文",
+     "point": "《资本论》的对象"
+    },
+    {
+     "locator": "全书",
+     "point": "“读”作为一种理论实践"
+    }
+   ],
+   "editions": [
+    "英译 Verso（Ben Brewster 译）；法文 Maspero 版（1965）／1968 再版"
+   ],
+   "related_people": [
+    "gr-20c-althusser",
+    "gr-19c-marx",
+    "gr-20c-lacan"
+   ],
+   "misreadings": [
+    {
+     "claim": "“症候阅读”是文本解释学的技巧",
+     "why": "它预设了“文本的无意识”（理论的沉默由其概念结构决定），故它是**认识论**的，不是解释学趣味的；其目标是重建文本的问题框架。"
+    },
+    {
+     "claim": "它是对《资本论》的逐章讲解",
+     "why": "它是**重读**：以“读”为理论实践，重建《资本论》的对象与问题框架，而非复述其结论。"
+    }
+   ],
+   "sources": [
+    "sep-althusser",
+    "sep-marx",
+    "marx-chinese"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《读资本论》1965 年初版与 1968 年再版的篇目差异（后者删去朗西埃、马舍雷等人的部分）须核；中译本的完整性亦须留意。",
+   "sort_year": 1965
+  },
+  {
    "id": "work-order-of-things",
    "title": "《词与物》",
    "title_original": "Les mots et les choses",

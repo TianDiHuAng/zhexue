@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1019,
+  "entries": 1024,
   "by_level": {
-   "L2": 771,
-   "L1": 248
+   "L2": 773,
+   "L1": 251
   },
   "doctrine": {
-   "total": 245,
-   "detail": 245,
+   "total": 246,
+   "detail": 246,
    "auto": 0
   },
-  "needs_verification": 248,
+  "needs_verification": 251,
   "sources": 384,
   "sources_verified": 384
  },
@@ -83,10 +83,10 @@
    "unit_id": "gr-20c",
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
-   "philosophers": 25,
-   "concepts": 26,
+   "philosophers": 26,
+   "concepts": 28,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -17"
+   "philosophers_slot": "8 上限，余 -18"
   },
   {
    "unit_id": "gr-ancient",
@@ -4028,6 +4028,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-althusser",
+   "type": "philosopher",
+   "title": "阿尔都塞",
+   "container": "gr-20c",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-20c-sense-reference",
    "type": "concept",
    "title": "意义与指称",
@@ -4310,6 +4321,28 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-isa",
+   "type": "concept",
+   "title": "意识形态国家机器",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-symptomatic-reading",
+   "type": "concept",
+   "title": "症候阅读",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -10559,6 +10592,28 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-pour-marx",
+   "type": "work",
+   "title": "《保卫马克思》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-lire-le-capital",
+   "type": "work",
+   "title": "《读资本论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
