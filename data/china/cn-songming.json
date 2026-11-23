@@ -3539,6 +3539,100 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-liyifenshu",
+   "title": "理一分殊如何理解",
+   "question": "“理一而分殊”：万物同具一理，何以又有差别？",
+   "positions": [
+    {
+     "holder": "程颐",
+     "id": "cn-songming-cheng-yi",
+     "stance": "以“分”明差别",
+     "reasons": [
+      "“理一分殊”：理虽一，而其表现因分位而异。",
+      "如“爱”有差等，非无差别的兼爱。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "stance": "以“月印万川”为喻",
+     "reasons": [
+      "同一月影现于万川，月本身不变。",
+      "故万物各具一理，而理非分割。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "陆九渊",
+     "id": "cn-songming-lu-jiuyuan",
+     "stance": "以“心同理同”简化",
+     "reasons": [
+      "“东海有圣人出焉，此心同也，此理同也。”",
+      "故不须层层分殊，直指本心即可。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“一与多的关系”：程朱以“分位”说明差别（理一而所处之位不同），陆九渊以“心同理同”抹平差别（不须分殊）。这一分歧直接关涉工夫的入手：穷理（须逐一格物）还是立心（直指本心）。",
+   "status": "无定论",
+   "status_note": "朱陆在此题上的分歧是“尊德性／道问学”之争的形而上学根据；现代研究多以“月印万川”为理解理一分殊的关键喻。",
+   "sources": [
+    "book-chan-sourcebook",
+    "ct-chuanxilu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-xinjili-xingjili",
+   "title": "心即理还是性即理",
+   "question": "理是心的本然（心即理），还是性的内容（性即理）？这一字之差决定了工夫的方向。",
+   "positions": [
+    {
+     "holder": "程朱",
+     "id": "cn-songming-zhu-xi",
+     "stance": "性即理",
+     "reasons": [
+      "性是天所命之理，心是性的载体。",
+      "心有人心道心之别，故不能径说心即理。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "陆王",
+     "id": "cn-songming-wang-yangming",
+     "stance": "心即理",
+     "reasons": [
+      "“心即理也，天下又有心外之事、心外之理乎？”",
+      "若理在心外，则心与理为二，工夫无入手处。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "罗钦顺（批评）",
+     "id": "cn-songming-luo-qinshun",
+     "stance": "理在气中，心具众理",
+     "reasons": [
+      "“心即理”使私意可冒充天理，缺乏校正的标准。",
+      "理是气之理，心能具之而非即是之。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“理与心是否同一”：若同一，则工夫是“去蔽”（阳明），若为二，则工夫是“穷理以合于心”（朱熹），若“具而非即”，则须以格物校正心的知觉（罗钦顺）。三者各有其工夫论后果。",
+   "status": "无定论",
+   "status_note": "朱陆之辩由此展开；明代心学（阳明）成为主流之一，罗钦顺、王廷相等气学一系则从“理气”角度提出第三种方案。",
+   "sources": [
+    "ct-chuanxilu",
+    "ws-kunzhiji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

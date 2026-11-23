@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 696,
+  "entries": 708,
   "by_level": {
-   "L2": 589,
-   "L1": 107
+   "L2": 598,
+   "L1": 110
   },
   "doctrine": {
    "total": 219,
    "detail": 219,
    "auto": 0
   },
-  "needs_verification": 107,
+  "needs_verification": 110,
   "sources": 322,
   "sources_verified": 318
  },
@@ -22,7 +22,7 @@
    "region": "china",
    "philosophers": 12,
    "concepts": 12,
-   "debates": 6,
+   "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
   {
@@ -31,7 +31,7 @@
    "region": "china",
    "philosophers": 15,
    "concepts": 12,
-   "debates": 6,
+   "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
   {
@@ -40,7 +40,7 @@
    "region": "china",
    "philosophers": 18,
    "concepts": 13,
-   "debates": 6,
+   "debates": 8,
    "philosophers_slot": "8 上限，余 -10"
   },
   {
@@ -49,7 +49,7 @@
    "region": "china",
    "philosophers": 12,
    "concepts": 13,
-   "debates": 5,
+   "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
   {
@@ -67,7 +67,7 @@
    "region": "china",
    "philosophers": 12,
    "concepts": 12,
-   "debates": 6,
+   "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
   {
@@ -112,7 +112,7 @@
    "region": "west",
    "philosophers": 9,
    "concepts": 14,
-   "debates": 6,
+   "debates": 7,
    "philosophers_slot": "8 上限，余 -1"
   },
   {
@@ -467,6 +467,28 @@
    "id": "cn-lianghan-yinyang-zaiyi",
    "type": "debate",
    "title": "灾异是谴告还是自然",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-bachu",
+   "type": "debate",
+   "title": "“罢黜百家”是否可行",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-chunqiuweihan",
+   "type": "debate",
+   "title": "《春秋》是否为汉制法",
    "container": "cn-lianghan",
    "level": "L2",
    "sources": 3,
@@ -835,6 +857,28 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-qianjia",
+   "type": "debate",
+   "title": "乾嘉学术是否逃避现实",
+   "container": "cn-qingmod",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-mingyi",
+   "type": "debate",
+   "title": "《明夷待访录》是否具有民主性",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -1245,6 +1289,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-songming-liyifenshu",
+   "type": "debate",
+   "title": "理一分殊如何理解",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-xinjili-xingjili",
+   "type": "debate",
+   "title": "心即理还是性即理",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-suitang-zhiyi",
    "type": "philosopher",
    "title": "智顗",
@@ -1571,6 +1637,39 @@
    "level": "L2",
    "sources": 4,
    "verified_sources": 4,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-suitang-jielv",
+   "type": "debate",
+   "title": "戒律应以何为准：道宣与义净之争",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-suitang-jingtu",
+   "type": "debate",
+   "title": "念佛是否足以往生",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-suitang-chanjiao",
+   "type": "debate",
+   "title": "禅与教是否可离",
+   "container": "cn-suitang",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -2264,6 +2363,28 @@
    "level": "L2",
    "sources": 4,
    "verified_sources": 4,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-faxianwang",
+   "type": "debate",
+   "title": "法先王还是法后王",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-shangtong",
+   "type": "debate",
+   "title": "“尚同”是否等于专制",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -4174,6 +4295,17 @@
    "id": "gr-german-beautiful-sublime",
    "type": "debate",
    "title": "崇高高于美还是与美并列",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-german-end-of-history",
+   "type": "debate",
+   "title": "历史是否有终点",
    "container": "gr-german",
    "level": "L2",
    "sources": 3,

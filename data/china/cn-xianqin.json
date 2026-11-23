@@ -2793,6 +2793,100 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-faxianwang",
+   "title": "法先王还是法后王",
+   "question": "治国当以三代之制为典范，还是以当代的实情与近世之君为法？",
+   "positions": [
+    {
+     "holder": "孟子",
+     "id": "cn-xianqin-mengzi",
+     "stance": "法先王",
+     "reasons": [
+      "“遵先王之法而过者，未之有也。”",
+      "仁政的样板在尧舜三代，故当以之为准。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "stance": "法后王",
+     "reasons": [
+      "“欲观圣王之迹，则于其粲然者矣，后王是也。”",
+      "后王之制详密可考，先王之道则简约难明。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "商鞅与韩非",
+     "id": "cn-xianqin-shang-yang",
+     "stance": "不法古",
+     "reasons": [
+      "“便国不法古”：世事变而法当变。",
+      "以先王之法治当世，如守株待兔。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“典范的可考性”：孟子的先王是价值典范（不必详考其制），荀子的后王是可考的详密制度，商韩则否认任何古今通用的典范。三者的分歧部分是“典范是否须可考”，部分是“历史是否连续”。",
+   "status": "无定论",
+   "status_note": "荀子的“法后王”常被误认为法家，其实他仍以礼义为归；汉以后“法先王”成为正统表述，而制度实践多承秦制。",
+   "sources": [
+    "ct-mengzi",
+    "ct-xunzi",
+    "ct-hanfeizi"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-shangtong",
+   "title": "“尚同”是否等于专制",
+   "question": "墨子主张“天下之百姓皆上同于天子”，这是否取消了不同意见的空间？",
+   "positions": [
+    {
+     "holder": "墨子",
+     "id": "cn-xianqin-mozi",
+     "stance": "尚同",
+     "reasons": [
+      "天下之乱起于“一人一义”，故须统一义的标准。",
+      "上同于天：天子亦须上同于天，非无限权力。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "孟子与儒家（对照）",
+     "id": "cn-xianqin-mengzi",
+     "stance": "以道事君",
+     "reasons": [
+      "君臣以义合，君不义则谏，谏而不听则可去。",
+      "故不以“上同”为治，而以“格君心之非”为务。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "近世批评（对照）",
+     "id": null,
+     "stance": "尚同易为专制张目",
+     "reasons": [
+      "“上同”在实践中易成为压制异见的根据。",
+      "以“天”约束天子，缺乏制度性的制衡。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "焦点在“上同的限度”：墨子的“上同”以上同于天为终点（天子不是最终标准），故理论上不是无限权力；但缺少制度化的制衡机制，实践上易滑向专制。这一争论的关键是“理论约束”与“制度约束”之别。",
+   "status": "无定论",
+   "status_note": "墨家的尚同说在秦汉后失传其学；近代学者（如梁启超）对其评价分歧甚大——或视为“民约论”雏形，或视为极权思想的先声。",
+   "sources": [
+    "ct-mozi",
+    "ct-mengzi",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }

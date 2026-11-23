@@ -2521,6 +2521,100 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-bachu",
+   "title": "“罢黜百家”是否可行",
+   "question": "以政令独尊一家之学，能否真正统一思想？",
+   "positions": [
+    {
+     "holder": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "stance": "以教化统一",
+     "reasons": [
+      "“诸不在六艺之科孔子之术者，皆绝其道，勿使并进。”",
+      "统一思想则人心定，政令行。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "司马谈",
+     "id": null,
+     "stance": "兼容诸家",
+     "reasons": [
+      "六家各有其长，“一致而百虑，同归而殊涂”。",
+      "以政令独尊一家，则失诸家之长。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "王充（后出，对照）",
+     "id": "cn-lianghan-wang-chong",
+     "stance": "以效验为准",
+     "reasons": [
+      "学说的取舍当以效验为准，不以政令为准。",
+      "以政令定学术，则真伪莫辨。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“统一的方式”：董仲舒主张以教化与政令统一（思想秩序为政治秩序服务），司马谈主张兼容（各家各有其用），王充主张以效验检验（真理标准独立于政令）。三者对“思想秩序如何可能”的判断不同。",
+   "status": "无定论",
+   "status_note": "汉武帝实际采取的是“霸王道杂之”的实用政策；董仲舒的建议被部分采纳（立五经博士），但“罢黜百家”作为事实描述有夸大。",
+   "sources": [
+    "ct-chunqiufanlu",
+    "ct-lunheng",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-chunqiuweihan",
+   "title": "《春秋》是否为汉制法",
+   "question": "孔子作《春秋》，是否为汉朝预先立下制度？",
+   "positions": [
+    {
+     "holder": "公羊家（何休一系）",
+     "id": "cn-lianghan-he-xiu",
+     "stance": "为汉制法",
+     "reasons": [
+      "孔子“西狩获麟”而作《春秋》，托新王之法。",
+      "汉继周而王，故当取《春秋》之制。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "古文家（对照）",
+     "id": null,
+     "stance": "《春秋》是史",
+     "reasons": [
+      "《春秋》记鲁史，非为汉立法。",
+      "以“为汉制法”解经，是以谶纬附会。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "王充（批评）",
+     "id": "cn-lianghan-wang-chong",
+     "stance": "质疑孔子预知",
+     "reasons": [
+      "孔子不能预知数百年后的汉事。",
+      "“为汉制法”之说，是把偶然的文本读成预言。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在“经典的时间指向”：若经典可指向未来（为后世立法），则《春秋》是政治纲领；若经典只指向其时代，则它是史。这一分歧在汉代直接关涉经学的政治功能。",
+   "status": "无定论",
+   "status_note": "“为汉制法”是汉代公羊学的核心命题，也是谶纬的土壤；古文经学与王充的批评构成对立面。清代今文家（康有为）重提此说以助变法。",
+   "sources": [
+    "ct-chunqiufanlu",
+    "ct-lunheng",
+    "ws-xinlun"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ]
 }
