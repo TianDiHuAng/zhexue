@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1071,
+  "entries": 1074,
   "by_level": {
    "L2": 786,
-   "L1": 285
+   "L1": 288
   },
   "doctrine": {
-   "total": 250,
-   "detail": 250,
+   "total": 253,
+   "detail": 253,
    "auto": 0
   },
-  "needs_verification": 285,
-  "sources": 392,
-  "sources_verified": 392
+  "needs_verification": 288,
+  "sources": 395,
+  "sources_verified": 395
  },
  "units": [
   {
@@ -83,10 +83,10 @@
    "unit_id": "gr-20c",
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
-   "philosophers": 26,
+   "philosophers": 29,
    "concepts": 28,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -18"
+   "philosophers_slot": "8 上限，余 -21"
   },
   {
    "unit_id": "gr-ancient",
@@ -4207,6 +4207,39 @@
    "id": "gr-20c-althusser",
    "type": "philosopher",
    "title": "阿尔都塞",
+   "container": "gr-20c",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-benjamin",
+   "type": "philosopher",
+   "title": "本雅明",
+   "container": "gr-20c",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-horkheimer",
+   "type": "philosopher",
+   "title": "霍克海默",
+   "container": "gr-20c",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-marcuse",
+   "type": "philosopher",
+   "title": "马尔库塞",
    "container": "gr-20c",
    "level": "L1",
    "sources": 3,
