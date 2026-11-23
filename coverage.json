@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 657,
+  "entries": 662,
   "by_level": {
-   "L2": 559,
-   "L1": 98
+   "L2": 562,
+   "L1": 100
   },
   "doctrine": {
    "total": 217,
    "detail": 217,
    "auto": 0
   },
-  "needs_verification": 98,
+  "needs_verification": 100,
   "sources": 320,
   "sources_verified": 316
  },
@@ -5568,6 +5568,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-yijing",
+   "type": "work",
+   "title": "《周易》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-xunzi",
    "type": "work",
    "title": "《荀子》",
@@ -5597,6 +5608,28 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-daxue",
+   "type": "work",
+   "title": "《大学》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-zhongyong",
+   "type": "work",
+   "title": "《中庸》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -5718,6 +5751,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-chongyoulun",
+   "type": "work",
+   "title": "《崇有论》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -6198,6 +6242,17 @@
    "id": "work-historical-critical-dictionary",
    "type": "work",
    "title": "《历史与批判辞典》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-treatise-berkeley",
+   "type": "work",
+   "title": "《人类知识原理》",
    "container": "west",
    "level": "L2",
    "sources": 2,

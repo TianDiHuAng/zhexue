@@ -1137,6 +1137,64 @@
    "sort_year": -300
   },
   {
+   "id": "work-yijing",
+   "title": "《周易》",
+   "title_original": "周易（易經）",
+   "tradition": "china",
+   "date_display": "经文成于西周；《十翼》成于战国至汉",
+   "structure": "六十四卦，每卦有卦画、卦辞、爻辞；另有《彖》《象》《系辞》《文言》《说卦》《序卦》《杂卦》七种十篇（“十翼”）。",
+   "core_arguments": [
+    "一阴一阳之谓道：变化由阴阳的对待与推移而成",
+    "穷则变，变则通，通则久：变化有其节律与出路",
+    "以象尽意：卦爻之象是把握变化的方式，故“书不尽言，言不尽意”而“立象以尽意”"
+   ],
+   "key_points": [
+    {
+     "locator": "《系辞上》",
+     "point": "一阴一阳之谓道；易与天地准"
+    },
+    {
+     "locator": "《系辞下》",
+     "point": "穷则变，变则通"
+    },
+    {
+     "locator": "《系辞上》",
+     "point": "立象以尽意"
+    },
+    {
+     "locator": "乾、坤两卦",
+     "point": "健顺之德与“自强不息”“厚德载物”"
+    }
+   ],
+   "editions": [
+    "周振甫《周易译注》中华书局；王弼《周易注》（四部丛刊本）；高亨《周易古经今注》"
+   ],
+   "related_people": [
+    "cn-xianqin-kongzi",
+    "cn-weijin-wangbi",
+    "cn-songming-shao-yong",
+    "cn-songming-zhou-dunyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《周易》是占卜之书，故与哲学无关",
+     "why": "占卜是其原始功能，但《系辞》等传的部分把它转化为一套关于变化与秩序的哲学；二者在同一文本中共存。"
+    },
+    {
+     "claim": "孔子作《十翼》",
+     "why": "《十翼》非一时一人之作，成于战国至汉，传统“孔子作”之说自宋代（欧阳修）起即受质疑。"
+    }
+   ],
+   "sources": [
+    "ct-yijing",
+    "ws-taijitushuo",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《周易》经传的作者与成书年代是聚讼之题（“孔子作十翼”说自欧阳修《易童子问》起受质疑）；本页只述其哲学内容，不判定作者。",
+   "sort_year": -300
+  },
+  {
    "id": "work-xunzi",
    "title": "《荀子》",
    "title_original": "荀子（Xunzi）",
@@ -1304,6 +1362,120 @@
    ],
    "needs_verification": true,
    "pending_notes": "《商君书》非一人手笔，各篇年代与作者有讨论；本页所述以学派立场为限，具体字句须核蒋礼鸿或高亨校本。",
+   "sort_year": -250
+  },
+  {
+   "id": "work-daxue",
+   "title": "《大学》",
+   "title_original": "大學",
+   "tradition": "china",
+   "date_display": "约战国至秦汉（原为《礼记》一篇）",
+   "structure": "经文一章、传文十章（朱熹《大学章句》的分法）；核心为“三纲领”（明明德、亲民、止于至善）与“八条目”（格物、致知、诚意、正心、修身、齐家、治国、平天下）。",
+   "core_arguments": [
+    "修身为本：自天子以至于庶人，壹是皆以修身为本",
+    "八条目是环环相扣的次序：格物→致知→诚意→正心→修身→齐家→治国→平天下",
+    "“絜矩之道”：以己度人，是治国的方法"
+   ],
+   "key_points": [
+    {
+     "locator": "经文",
+     "point": "三纲领与八条目"
+    },
+    {
+     "locator": "传文“格物致知”章",
+     "point": "朱子补传（“即物穷理”）"
+    },
+    {
+     "locator": "传文“诚意”章",
+     "point": "慎独"
+    },
+    {
+     "locator": "传文“絜矩”章",
+     "point": "以己度人的治国之道"
+    }
+   ],
+   "editions": [
+    "朱熹《四书章句集注》中华书局；王文锦《礼记译解》中华书局"
+   ],
+   "related_people": [
+    "cn-songming-zhu-xi",
+    "cn-songming-wang-yangming",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "“格物致知”章是原文",
+     "why": "朱熹认为该章佚失而作“补传”，此补传是其自己的哲学，非《大学》原文。"
+    },
+    {
+     "claim": "《大学》是孔子所作",
+     "why": "它原为《礼记》一篇，作者不详；其地位由韩愈、二程、朱熹逐步提升为“四书”之首。"
+    }
+   ],
+   "sources": [
+    "ct-daxue",
+    "ct-zhongyong",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -250
+  },
+  {
+   "id": "work-zhongyong",
+   "title": "《中庸》",
+   "title_original": "中庸",
+   "tradition": "china",
+   "date_display": "约战国（原为《礼记》一篇）",
+   "structure": "三十三章（朱熹分章）；以“天命之谓性”开篇，论中和、诚、成己成物，末以“无声无臭”收束。",
+   "core_arguments": [
+    "天命之谓性：人性由天所命，故“率性之谓道”",
+    "“喜怒哀乐之未发谓之中，发而皆中节谓之和”：中是体，和是用",
+    "“诚者天之道，诚之者人之道”：诚是贯通天人的枢纽"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "天命之谓性；中和"
+    },
+    {
+     "locator": "第二十章",
+     "point": "诚者天之道；博学审问慎思明辨笃行"
+    },
+    {
+     "locator": "第二十二章",
+     "point": "尽性→尽人之性→尽物之性→与天地参"
+    },
+    {
+     "locator": "第三十三章",
+     "point": "“无声无臭”的收束"
+    }
+   ],
+   "editions": [
+    "朱熹《四书章句集注》中华书局；王文锦《礼记译解》"
+   ],
+   "related_people": [
+    "cn-xianqin-kongzi",
+    "cn-xianqin-mengzi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "“中庸”是折中调和",
+     "why": "“中”是不偏不倚的恰当，“庸”是常行；并非无原则的折中（孔子已斥“乡愿”）。"
+    },
+    {
+     "claim": "《中庸》为子思所作确凿无疑",
+     "why": "传统归于子思，但成书年代与作者学界有讨论，可能含战国后期乃至秦汉的层次。"
+    }
+   ],
+   "sources": [
+    "ct-zhongyong",
+    "ct-daxue",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《中庸》的作者与成书年代学界有讨论（子思作之说为传统说法，现代研究多认为含有战国后期层次）。",
    "sort_year": -250
   },
   {
@@ -1928,6 +2100,59 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 250
+  },
+  {
+   "id": "work-chongyoulun",
+   "title": "《崇有论》",
+   "title_original": "崇有論",
+   "tradition": "china",
+   "date_display": "约297年",
+   "structure": "一篇（存于《晋书·裴頠传》）；先驳“贵无”之弊，再立“崇有”之旨，末论礼制与名教之不可废。",
+   "core_arguments": [
+    "“无”不能生“有”：无既无形无为，则不能作为万物的本原",
+    "“济有者皆有”：一切成全有的也是有的，故本原仍是“有”",
+    "贵无之论在实践上导致放达废礼，故须以“有”与礼制立教"
+   ],
+   "key_points": [
+    {
+     "locator": "首段",
+     "point": "驳“无中生有”之不可能"
+    },
+    {
+     "locator": "中段",
+     "point": "“济有者皆有”的论证"
+    },
+    {
+     "locator": "末段",
+     "point": "贵无之风与礼制崩坏的关系"
+    }
+   ],
+   "editions": [
+    "《晋书》卷三十五《裴頠传》；《中国哲学史资料选辑》中华书局"
+   ],
+   "related_people": [
+    "cn-weijin-pei-wei",
+    "cn-weijin-wangbi",
+    "cn-weijin-guoxiang"
+   ],
+   "misreadings": [
+    {
+     "claim": "《崇有论》主张“唯物质论”",
+     "why": "裴頠的“有”是具体存在者的总称，其立场是反对以“无”为本原，并非近代唯物论。"
+    },
+    {
+     "claim": "它与王弼的贵无只是立场相反",
+     "why": "二者的分歧在“本原能否是无”这一论证层面，裴頠以“济有者皆有”作正面论证，不是简单的立场对立。"
+    }
+   ],
+   "sources": [
+    "ws-chongyoulun",
+    "ws-shishuoxinyu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 297
   },
   {
    "id": "work-baopuzi",
@@ -4400,6 +4625,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1697
+  },
+  {
+   "id": "work-treatise-berkeley",
+   "title": "《人类知识原理》",
+   "title_original": "A Treatise Concerning the Principles of Human Knowledge",
+   "tradition": "west",
+   "date_display": "1710年",
+   "structure": "导论（论抽象观念）＋正文第1—156节；先立“存在即被感知”，再驳物质实体，末论其实践与神学意涵。",
+   "core_arguments": [
+    "存在即被感知（esse est percipi）：可感物的存在在于被感知",
+    "抽象观念（尤其“物质实体”的抽象观念）不可能：一切观念都是具体的",
+    "故无需假定一个不可感知的物质实体作为观念的原因；观念的原因是精神（有限心灵与上帝）"
+   ],
+   "key_points": [
+    {
+     "locator": "导论 第6—25节",
+     "point": "对抽象观念的批评"
+    },
+    {
+     "locator": "第1—6节",
+     "point": "esse est percipi"
+    },
+    {
+     "locator": "第8—24节",
+     "point": "驳物质实体"
+    },
+    {
+     "locator": "第25—33节",
+     "point": "观念的原因：精神"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《人类知识原理》；Cambridge 版（Jessop 编）"
+   ],
+   "related_people": [
+    "gr-modern-berkeley",
+    "gr-modern-locke",
+    "gr-modern-hume"
+   ],
+   "misreadings": [
+    {
+     "claim": "贝克莱否认外部世界的存在",
+     "why": "他否认的是**不可感知的物质实体**，可感世界仍然存在——其存在在于被感知（或被神感知）。"
+    },
+    {
+     "claim": "他的立场是主观唯心论的唯我论",
+     "why": "他以神作为观念持续存在的原因，明确反对唯我论。"
+    }
+   ],
+   "sources": [
+    "emt-berkeley",
+    "sep-berkeley"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1710
   },
   {
    "id": "work-monadology",
