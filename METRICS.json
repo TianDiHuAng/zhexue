@@ -372,5 +372,27 @@
   "needs_verification": 64,
   "sources": 256,
   "sources_verified": 241
+ },
+ {
+  "date": "2026-11-23",
+  "entries": 443,
+  "by_level": {
+   "L2": 379,
+   "L1": 64
+  },
+  "needs_verification": 64,
+  "sources": 256,
+  "sources_verified": 241
+ },
+ {
+  "date": "2026-11-23",
+  "entries": 443,
+  "by_level": {
+   "L2": 379,
+   "L1": 64
+  },
+  "needs_verification": 64,
+  "sources": 246,
+  "sources_verified": 242
  }
 ]

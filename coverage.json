@@ -1,9 +1,9 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 442,
+  "entries": 443,
   "by_level": {
-   "L2": 378,
+   "L2": 379,
    "L1": 64
   },
   "doctrine": {
@@ -12,8 +12,8 @@
    "auto": 0
   },
   "needs_verification": 64,
-  "sources": 256,
-  "sources_verified": 241
+  "sources": 246,
+  "sources_verified": 242
  },
  "units": [
   {
@@ -4531,6 +4531,17 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-language-limits",
+   "type": "comparative",
+   "title": "道可道与不可说：中西“语言界限”的四种表述",
+   "container": "comparative",
+   "level": "L2",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
