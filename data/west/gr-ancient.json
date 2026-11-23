@@ -3627,6 +3627,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-prohairesis",
+   "term": "选择（prohairesis）",
+   "term_latin": "prohairesis",
+   "definition": "亚里士多德的“选择”：不是欲望、也不是意见，而是**经过考虑（bouleusis）的、在我们能力之内的欲求**。它是德性与行为之间的关键环节，故也是责任归属的根据。",
+   "usages": [
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "选择是“经过考虑的欲求”（orexis bouleutikē），故既非纯情也非纯知。"
+    },
+    {
+     "name": "苏格拉底（对照）",
+     "id": "gr-ancient-socrates",
+     "usage": "以德性即知识，故“选择”不是独立环节。"
+    },
+    {
+     "name": "斯多亚（改造）",
+     "usage": "以“同意”（sunkatathesis）为关键环节，取代亚里士多德的“选择”。"
+    }
+   ],
+   "related": [
+    "gr-ancient-hexis",
+    "gr-ancient-meson"
+   ],
+   "example": {
+    "text": "“选择”的精细处在于它同时含“知”与“欲”：没有考虑则不是选择（动物与儿童无选择），没有欲求则不是选择（纯理论判断不是选择）。故亚里士多德用它来说明**责任**：只有出于选择的行动才可被 praise 或 blame。",
+    "figure": "亚里士多德",
+    "locator": "《尼各马可伦理学》III.2—III.3"
+   },
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

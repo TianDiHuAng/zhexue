@@ -2188,6 +2188,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-german-speculative",
+   "term": "思辨（思辨命题）",
+   "term_latin": "das Spekulative / spekulativer Satz",
+   "definition": "黑格尔的“思辨”不是“空想”，而是**在矛盾中把握统一**的思维方式；其“思辨命题”指主谓关系不是外在附加，而是概念自身的展开（“实体即主体”）。",
+   "usages": [
+    {
+     "name": "黑格尔",
+     "id": "gr-german-hegel",
+     "usage": "思辨命题中，谓语不是偶然属性，而是实体的自我展开。"
+    },
+    {
+     "name": "康德（对照）",
+     "id": "gr-german-kant",
+     "usage": "以“辩证”为幻相的来源，思辨须受批判的限制。"
+    },
+    {
+     "name": "日常用法（对照）",
+     "usage": "“思辨”常被读作“脱离经验的空想”，与黑格尔的用法相反。"
+    }
+   ],
+   "related": [
+    "gr-german-dialectic",
+    "gr-german-transcendental-illusion"
+   ],
+   "example": {
+    "text": "“思辨”一词的日常义与哲学术义正好相反：日常义是“空想无据”，黑格尔义是“在矛盾中把握必然的统一”。故读黑格尔时若按日常义理解，会完全错失其方法。",
+    "figure": "黑格尔",
+    "locator": "《精神现象学》序"
+   },
+   "sources": [
+    "sep-hegel",
+    "sep-kant",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 877,
+  "entries": 884,
   "by_level": {
-   "L2": 718,
-   "L1": 159
+   "L2": 722,
+   "L1": 162
   },
   "doctrine": {
    "total": 229,
    "detail": 229,
    "auto": 0
   },
-  "needs_verification": 159,
+  "needs_verification": 162,
   "sources": 355,
   "sources_verified": 355
  },
@@ -66,7 +66,7 @@
    "title": "先秦诸子",
    "region": "china",
    "philosophers": 12,
-   "concepts": 24,
+   "concepts": 26,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -93,7 +93,7 @@
    "title": "古希腊哲学",
    "region": "west",
    "philosophers": 19,
-   "concepts": 22,
+   "concepts": 23,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -111,7 +111,7 @@
    "title": "德国古典哲学",
    "region": "west",
    "philosophers": 9,
-   "concepts": 20,
+   "concepts": 21,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -1"
   },
@@ -2730,6 +2730,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-xianqin-xuxin",
+   "type": "concept",
+   "title": "虚一而静",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-xianqin-jingyin",
+   "type": "concept",
+   "title": "静因之道",
+   "container": "cn-xianqin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-xianqin-human-nature",
    "type": "debate",
    "title": "人性善恶之争",
@@ -4292,6 +4314,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-ancient-prohairesis",
+   "type": "concept",
+   "title": "选择（prohairesis）",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-ancient-flux-vs-being",
    "type": "debate",
    "title": "流变还是不变：赫拉克利特与巴门尼德",
@@ -5087,6 +5120,17 @@
    "id": "gr-german-transcendental-illusion",
    "type": "concept",
    "title": "先验幻相",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-german-speculative",
+   "type": "concept",
+   "title": "思辨（思辨命题）",
    "container": "gr-german",
    "level": "L2",
    "sources": 3,
@@ -6954,6 +6998,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-xinshu",
+   "type": "work",
+   "title": "《管子·心术》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-metaphysics",
    "type": "work",
    "title": "《形而上学》",
@@ -7188,6 +7243,17 @@
    "id": "work-lilun",
    "type": "work",
    "title": "《荀子·礼论》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-jiebi",
+   "type": "work",
+   "title": "《荀子·解蔽》",
    "container": "china",
    "level": "L2",
    "sources": 3,
@@ -7738,6 +7804,17 @@
    "id": "work-taiji-tushuo",
    "type": "work",
    "title": "《太极图说》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-tongshu",
+   "type": "work",
+   "title": "《通书》",
    "container": "china",
    "level": "L1",
    "sources": 3,

@@ -2955,6 +2955,80 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-xuxin",
+   "term": "虚一而静",
+   "term_latin": "emptiness, unity, and stillness",
+   "definition": "《荀子·解蔽》的认知工夫：“人何以知道？曰：心。心何以知？曰：虚壹而静。”—— 虚（不因已有之知妨碍新受）、壹（不因彼一害此一）、静（不因梦境与想象扰乱）。",
+   "usages": [
+    {
+     "name": "荀子",
+     "id": "cn-xianqin-xunzi",
+     "usage": "“虚壹而静，谓之大清明”：心达到此三状态即能知“道”。"
+    },
+    {
+     "name": "庄子（对照）",
+     "id": "cn-xianqin-zhuangzi",
+     "usage": "以“心斋”“坐忘”为路：去掉中介，与道为一。"
+    },
+    {
+     "name": "朱熹（后出，改造）",
+     "usage": "以“虚心涵泳”承其意，然以格物为穷理之路。"
+    }
+   ],
+   "related": [
+    "cn-xianqin-tianxing-youchang"
+   ],
+   "example": {
+    "text": "“虚壹而静”与庄子的“心斋”形似而实不同：庄子的“虚”是**去掉一切中介**（离形去知），荀子的“虚”是**不让已有之知妨碍新受**（“不以所已臧害所将受”）—— 故荀子仍保留认知的主体与对象的结构。",
+    "figure": "荀子",
+    "locator": "《荀子·解蔽》"
+   },
+   "sources": [
+    "ct-xunzi",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-xianqin-jingyin",
+   "term": "静因之道",
+   "term_latin": "the way of stillness and accordance",
+   "definition": "《管子》四篇（《心术》上下、《白心》、《内业》）的核心：心须“静”，然后能“因”（顺应）事物的自然条理。“静”是去主观的干扰，“因”是不加造作地应物。",
+   "usages": [
+    {
+     "name": "《管子》四篇作者",
+     "usage": "“静则得之，躁则失之”：心静则能因物之则。"
+    },
+    {
+     "name": "荀子（承其说）",
+     "id": "cn-xianqin-xunzi",
+     "usage": "以“虚壹而静”论心的认知条件，与“静因”说相通。"
+    },
+    {
+     "name": "韩非（承其说）",
+     "id": "cn-xianqin-hanfei",
+     "usage": "以“因”为君的治术（《解老》《喻老》中的“因”）。"
+    }
+   ],
+   "related": [
+    "cn-xianqin-dao"
+   ],
+   "example": {
+    "text": "“静因之道”是黄老之学的认识论与治术的交汇点：在认知上，心静才能如实反映；在政治上，君“静”而臣“动”，君因臣之能而用之——同一“因”字贯通两域。",
+    "figure": "《管子·心术上》",
+    "locator": "《管子·心术上》"
+   },
+   "sources": [
+    "ct-hanfeizi",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《管子》四篇的作者与年代（郭沫若定为宋钘尹文遗著，学界多有异议）有讨论；本页依四篇文本述其说，不判定作者。"
   }
  ],
  "debates": [

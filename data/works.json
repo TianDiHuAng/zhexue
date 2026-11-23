@@ -1016,6 +1016,63 @@
    "sort_year": -350
   },
   {
+   "id": "work-xinshu",
+   "title": "《管子·心术》",
+   "title_original": "心術",
+   "tradition": "china",
+   "date_display": "约前4—前3世纪（稷下学术）",
+   "structure": "上下两篇（与《白心》《内业》合称《管子》四篇）；上篇论心之功能与“静因之道”，下篇论“气”与“精”的关系。",
+   "core_arguments": [
+    "心之在体，如君之位：九窍各有职而心为之主",
+    "“静因之道”：心静则能因物之则，不以主观干扰",
+    "“气”与“精”：精气之聚散决定生命与智慧"
+   ],
+   "key_points": [
+    {
+     "locator": "《心术上》",
+     "point": "心为主与九窍之职"
+    },
+    {
+     "locator": "《心术上》",
+     "point": "“静因之道”"
+    },
+    {
+     "locator": "《心术下》",
+     "point": "“气”与“精”"
+    },
+    {
+     "locator": "与《内业》的关系",
+     "point": "精气说的展开"
+    }
+   ],
+   "editions": [
+    "黎翔凤《管子校注》中华书局；《管子》（四部丛刊本）"
+   ],
+   "related_people": [
+    "cn-xianqin-hanfei",
+    "cn-xianqin-laozi",
+    "cn-xianqin-xunzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《管子》是管仲亲著",
+     "why": "《管子》为稷下学者的著作汇编（含汉人附益），非管仲所撰；四篇的作者与年代有讨论。"
+    },
+    {
+     "claim": "“静因”是纯粹的政治权术",
+     "why": "它同时是认识论（心静则能如实反映）与治术（君静而臣动），二者共用“因”字的逻辑。"
+    }
+   ],
+   "sources": [
+    "ct-hanfeizi",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《管子》四篇（心术上下、白心、内业）的作者，郭沫若定为宋钘、尹文遗著，学界多有异议；其成书年代与稷下学术的关系仍有讨论。",
+   "sort_year": -350
+  },
+  {
    "id": "work-metaphysics",
    "title": "《形而上学》",
    "title_original": "Τὰ μετὰ τὰ φυσικά（Metaphysics）",
@@ -2263,6 +2320,63 @@
    "sources": [
     "ct-xunzi",
     "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -280
+  },
+  {
+   "id": "work-jiebi",
+   "title": "《荀子·解蔽》",
+   "title_original": "解蔽",
+   "tradition": "china",
+   "date_display": "约前3世纪",
+   "structure": "一篇；先论“凡人之患，蔽于一曲而暗于大理”，次列诸家之蔽，再立“虚壹而静”的认知工夫，末以“大清明”之境作结。",
+   "core_arguments": [
+    "“蔽于一曲而暗于大理”：一切认知错误都源于以偏概全",
+    "“虚壹而静”：心能知“道”的三个条件",
+    "“大清明”：心达到此境则能“坐于室而见四海”"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "“蔽于一曲而暗于大理”"
+    },
+    {
+     "locator": "中段",
+     "point": "诸家之蔽（对墨、庄、惠等的一一批评）"
+    },
+    {
+     "locator": "中段",
+     "point": "“虚壹而静”"
+    },
+    {
+     "locator": "末段",
+     "point": "“大清明”"
+    }
+   ],
+   "editions": [
+    "王先谦《荀子集解》中华书局；李涤生《荀子集释》"
+   ],
+   "related_people": [
+    "cn-xianqin-xunzi",
+    "cn-xianqin-zhuangzi",
+    "cn-xianqin-mozi"
+   ],
+   "misreadings": [
+    {
+     "claim": "“虚”是道家的“无”",
+     "why": "荀子的“虚”是“不以所已臧害所将受”——即不让已有知识妨碍新认识，不是取消一切内容。"
+    },
+    {
+     "claim": "《解蔽》只是批评诸子",
+     "why": "批评诸子只是其前半；其正面主张（虚壹而静、大清明）是系统的认知论。"
+    }
+   ],
+   "sources": [
+    "ct-xunzi",
+    "ct-zhuangzi",
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
@@ -5074,6 +5188,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《太极图说》首句“无极而太极”的读法与图式来源（道教渊源说／周敦颐自创说）是朱陆之辩与后世考据的核心议题；本页并列诸说，不作裁定。",
+   "sort_year": 1050
+  },
+  {
+   "id": "work-tongshu",
+   "title": "《通书》",
+   "title_original": "通書（易通）",
+   "tradition": "china",
+   "date_display": "约11世纪（北宋）",
+   "structure": "四十章（通行本）；以《诚》上下开篇，次论“诚几德”“圣”“师”“思”“志学”，末及“动静”“乐”等。",
+   "core_arguments": [
+    "“诚者，圣人之本”：以“诚”为最高范畴，兼宇宙论与伦理",
+    "“几”：动而未形之微处，善恶由此分",
+    "“主静立极”：以静为修养的入手（后为朱熹所修正）"
+   ],
+   "key_points": [
+    {
+     "locator": "《诚上》《诚下》",
+     "point": "诚为圣人之本"
+    },
+    {
+     "locator": "《诚几德》",
+     "point": "“几”的善恶之几"
+    },
+    {
+     "locator": "《圣》",
+     "point": "“诚、神、几”三者"
+    },
+    {
+     "locator": "《动静》",
+     "point": "“主静立人极”"
+    }
+   ],
+   "editions": [
+    "中华书局《周敦颐集》；《通书》单行本"
+   ],
+   "related_people": [
+    "cn-songming-zhou-dunyi",
+    "cn-songming-zhu-xi",
+    "cn-songming-cheng-yi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《通书》以“无极”为最高范畴",
+     "why": "《通书》的核心范畴是“诚”，不是“无极”；“无极而太极”出自《太极图说》。"
+    },
+    {
+     "claim": "“主静”是周敦颐的定论",
+     "why": "“主静”一词在其文本中出现有限，且程朱一系改以“主敬”代之；其确切的修养论地位有讨论。"
+    }
+   ],
+   "sources": [
+    "ws-taijitushuo",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《通书》的章数与编次各本有出入（朱熹定为四十章）；“主静”在其思想中的地位、以及《通书》与《太极图说》的先后关系，学界有讨论。",
    "sort_year": 1050
   },
   {
