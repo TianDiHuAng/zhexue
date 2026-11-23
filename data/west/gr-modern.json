@@ -5301,6 +5301,156 @@
      "note": "1516 年拉丁文初版"
     }
    ]
+  },
+  {
+   "id": "gr-modern-mulla-sadra",
+   "name": "穆拉·萨德拉",
+   "latin": "Mullā Ṣadrā (Ṣadr al-Dīn Shīrāzī)",
+   "birth_year": 1571,
+   "death_year": 1640,
+   "birth_display": "1571年",
+   "death_display": "1640年",
+   "birth_note": "据其著作与传记：生于设拉子，游学于伊斯法罕，后隐居设拉子附近的库姆村（Kahak）长期修行与著述。",
+   "death_note": "1640年卒于巴士拉（朝觐途中）。",
+   "era": "17世纪的波斯。穆拉·萨德拉是后期伊斯兰哲学（“超验智慧”，al-ḥikma al-mutaʿāliya）的集大成者：他以“存在的优先性”（aṣālat al-wujūd）与“存在的统一而分级”（tashkīk al-wujūd）综合伊本·西那、苏哈拉瓦迪（照明）与伊本·阿拉比（存在单一论三支），并提出“实体运动”（al-ḥaraka al-jawhariyya）——存在本身在持续地生成。",
+   "school": "超验智慧（后期伊斯兰哲学）",
+   "core_questions": [
+    "存在与本质何者优先？",
+    "存在是统一的还是多样的？",
+    "变化只在偶性上还是在实体上？"
+   ],
+   "arguments": [
+    {
+     "claim": "存在的优先性：存在是根本，本质是抽象",
+     "premises": [
+      "伊本·西那以“本质”为事物的首要规定（存在附加于本质）。",
+      "但若存在只是附加，则何以此物存在而彼物不存在？"
+     ],
+     "inference": "若追问“何以存在”，则本质无法回答（本质只是“什么”，不给出“有”）；故存在才是根本，本质是从存在中抽象出的限定。此说颠倒了伊本·西那的次序。",
+     "conclusion": "存在优先于本质（此说与伊本·西那正相反）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "实体运动：变化在存在的实体中持续发生",
+     "premises": [
+      "亚里士多德以变化限于偶性（性质、数量、位置），实体不变。",
+      "但若存在本身是“流溢的”，则实体也在持续生成。"
+     ],
+     "inference": "若存在是持续的活动而非静态的“有”，则最根本的变化是**实体的运动**——自然不是“静态实体的偶性变化”，而是存在自身的持续生成。",
+     "conclusion": "变化在实体层面持续发生（此说改造了亚里士多德的运动论）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《超验智慧四旅程》《存在的哲学》《理智与可理解之物》",
+     "edition": "《四旅程》阿拉伯／波斯文校勘本；英文选译见相关研究",
+     "note": "17世纪"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "伊本·西那",
+     "id": null,
+     "note": "本质优先论（其批判对象）"
+    },
+    {
+     "name": "苏哈拉瓦迪",
+     "id": null,
+     "note": "照明说的资源"
+    },
+    {
+     "name": "伊本·阿拉比",
+     "id": null,
+     "note": "存在单一论的资源"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "后期的伊朗哲学（伊斯法罕学派）",
+     "id": null,
+     "note": "以“超验智慧”为宗"
+    },
+    {
+     "name": "近代的比较哲学研究",
+     "id": null,
+     "note": "以“实体运动”与过程哲学相比"
+    },
+    {
+     "name": "20世纪的伊斯兰复兴思想",
+     "id": null,
+     "note": "以其说回应现代性"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "传统派学者",
+     "view": "其“存在单一而分级”说与伊本·阿拉比的“存在单一论”被指责为泛神论；其“实体运动”说亦被视为违反亚里士多德。",
+     "response": "萨德拉一系的回应是：其“统一而分级”恰保留了创造者与被造物的层级差异，较伊本·西那的二分更能安立“受造者的实在性”。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-mulla-sadra",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "萨德拉只是“折衷者”",
+     "why": "其“存在的优先性”与“实体运动”是原创的论题，且其方法（把三支传统重置于“存在”之下）构成了新的体系，不是拼贴。"
+    },
+    {
+     "claim": "“实体运动”只是物理学说",
+     "why": "它是**本体论**的：意在说明存在本身的分级与流动性，其根据在“存在是单一而分级”的结构，不在经验观察。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>穆拉·萨德拉：存在的优先性与实体运动</text><defs><marker id='aMS2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>伊本·西那以本质为首要</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>但本质不能解释“有”</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故存在优先于本质</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故变化在实体层面持续</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aMS2)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aMS2)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "穆拉·萨德拉：存在的优先性与实体运动（示意图）",
+   "sources": [
+    "sep-mulla-sadra",
+    "sep-ibn-sina",
+    "sep-ibn-arabi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "穆拉·萨德拉的著作以阿拉伯语与波斯语写成，其术语（aṣāla、tashkīk）在英译中有不同处理；本页依 SEP 词条与相关研究概述，具体论证须核《四旅程》校勘本。",
+   "doctrine": {
+    "summary": "穆拉·萨德拉综合伊本·西那、苏哈拉瓦迪与伊本·阿拉比，提出“超验智慧”：以“存在的优先性”（存在是根本，本质是抽象）颠倒伊本·西那的本质优先论；以“存在的统一而分级”说明存在既是一又有多层次的强弱；又以“实体运动”说明变化不只发生在偶性上，存在本身在持续生成。此三说构成后期伊斯兰哲学的基本框架。",
+    "system": [
+     {
+      "name": "存在的优先性",
+      "content": "存在是根本，本质是从存在抽象出的限定；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "存在的统一而分级",
+      "content": "存在既一又多（强度不同），非并列的多种存在。"
+     },
+     {
+      "name": "实体运动",
+      "content": "变化在实体层面持续发生，存在自身在生成。"
+     },
+     {
+      "name": "超验智慧",
+      "content": "以“存在”统摄哲学、照明说与苏非灵知；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "设拉子与巴士拉（1571—1640）",
+      "change": "生于设拉子；游学伊斯法罕（师从密尔·达马德与巴哈丁·阿米里）；后隐居库姆村修行多年；晚年回设拉子讲学；1640 年卒于朝觐途中（巴士拉）。"
+     }
+    ],
+    "reception": "穆拉·萨德拉的“超验智慧”成为此后伊朗哲学的主流（伊斯法罕学派之后的“萨德拉学派”）；其“实体运动”与“存在的分级”在当代比较哲学（尤其与过程哲学、怀特海）中被反复讨论。"
+   },
+   "works_detail": [
+    {
+     "title": "《四旅程》",
+     "structure": "四部（对应灵修的四个旅程）：从受造界到真主、在真主中、从真主回到受造界、在受造界中与真主同行；以存在论为骨架，兼含灵修论。",
+     "core_thesis": "存在的优先性与实体运动；这是该书的核心命题。",
+     "editions": "阿拉伯／波斯文校勘本（Sadra Islamic Philosophy Institute）；英文选译",
+     "note": "17世纪"
+    }
+   ]
   }
  ],
  "concepts": [

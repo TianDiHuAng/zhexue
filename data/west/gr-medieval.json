@@ -3615,6 +3615,156 @@
      "note": "约1230年"
     }
    ]
+  },
+  {
+   "id": "gr-medieval-suhrawardi",
+   "name": "苏哈拉瓦迪",
+   "latin": "al-Suhrawardī (Shihāb al-Dīn Yaḥyā al-Suhrawardī)",
+   "birth_year": 1154,
+   "death_year": 1191,
+   "birth_display": "1154年",
+   "death_display": "1191年",
+   "birth_note": "据其著作与传记：生于伊朗西北的苏哈拉瓦德，游学于伊斯法罕与阿塞拜疆，后赴阿勒颇。",
+   "death_note": "1191年卒于阿勒颇（被处死，年三十八）。",
+   "era": "12世纪的波斯。苏哈拉瓦迪（“被处死者”，al-maqtūl）开创“照明哲学”（ḥikmat al-ishrāq）：他以“光”为最高本原，以光的等级（“光中之光”与诸光）解释存在；并区分“论述性的哲学”（以论证为路）与“直观性的哲学”（以神秘经验为路），主张二者须合一。其学说把伊本·西那的形而上学与古波斯的光明传统、苏非修行结合。",
+   "school": "照明哲学（ishrāqī）",
+   "core_questions": [
+    "存在的本原是什么？",
+    "知识与光照是何关系？",
+    "哲学与神秘经验能否合一？"
+   ],
+   "arguments": [
+    {
+     "claim": "以“光”为本原：存在的等级即光的等级",
+     "premises": [
+      "凡存在者，其显现与“光”同构：物的“显现”即是其对光的关系。",
+      "“光中之光”（nūr al-anwār）是绝对的无限之光。"
+     ],
+     "inference": "若存在的本质是**显现性**，则最根本的范畴是“光”而非“存在”或“实体”；故其本体论是光的层级，而非亚里士多德式的实体层级。",
+     "conclusion": "存在即显现，故以“光”为本原（此说区别于伊本·西那的“存在”优先）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "直观与论证须合一",
+     "premises": [
+      "仅凭论证者，其知如“听说”；仅凭直观者，其知不可传达。",
+      "故须以论证整理直观所得，以直观确认论证所得。"
+     ],
+     "inference": "若哲学的真理须被“看见”而不仅是“推出”，则哲学的方法不能只是论证；故其哲学是“论述”与“照明”的结合。",
+     "conclusion": "哲学须兼有论证与直观（此说为后期伊斯兰哲学奠定了新的方法框架）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《照明哲学》（Ḥikmat al-ishrāq）《光的结构》《反对哲学家》",
+     "edition": "《照明哲学》英译 Walbridge & Ziai；阿拉伯／波斯文校勘本",
+     "note": "12世纪末"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "伊本·西那",
+     "id": null,
+     "note": "以存在论与流溢说为其批判与改造的对象"
+    },
+    {
+     "name": "法拉比",
+     "id": "gr-medieval-al-farabi",
+     "note": "以流溢层级为框架"
+    },
+    {
+     "name": "古波斯的光明传统",
+     "id": null,
+     "note": "以“光”与“暗”的二元体系为资源"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "穆拉·萨德拉（承之）",
+     "id": null,
+     "note": "以其“照明”说与“本质的优先性”论为其资源"
+    },
+    {
+     "name": "后期的伊朗哲学（伊斯法罕学派）",
+     "id": null,
+     "note": "以照明哲学为背景"
+    },
+    {
+     "name": "西方研究（如科贝特）",
+     "id": null,
+     "note": "以“照明哲学”为伊斯兰神秘主义哲学的核心"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "正统的宗教权威",
+     "view": "其学说把“光”置于存在之上，且与古波斯（非伊斯兰）传统相接，故被视为异端；他本人因此被处死。",
+     "response": "其学派的回应是：光说并不取消启示，而是以“显现”重新表达“创造”与“神的自我显现”。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-suhrawardi",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "苏哈拉瓦迪是“纯粹的伊本·西那派”",
+     "why": "他批判伊本·西那的“本质优先”与流溢说，以“光”取代“存在”为第一范畴，故是**改造**而非继承。"
+    },
+    {
+     "claim": "“照明哲学”只是神秘主义，不是哲学",
+     "why": "它有其本体论（光的层级）、认识论（直观与论证的合一）与逻辑学，是完整的哲学体系。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>苏哈拉瓦迪：光为本原与照明</text><defs><marker id='aSU' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>存在即显现</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故以光为本原</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>而光的显现分等级</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故直观与论证须合一</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aSU)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aSU)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "苏哈拉瓦迪：光的层级与“照明”的认识（示意图）",
+   "sources": [
+    "sep-suhrawardi",
+    "sep-ibn-sina",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "苏哈拉瓦迪的著作混合阿拉伯语与波斯语，其“照明哲学”的术语与伊本·西那的用法有别；本页依 SEP 词条与 Walbridge & Ziai 英译概述，具体术语须核原典。",
+   "doctrine": {
+    "summary": "苏哈拉瓦迪开创“照明哲学”：以“光”为最高本原——凡存在者的本质即其**显现性**，故最根本的范畴是“光”而非“存在”或“实体”；“光中之光”为绝对的无光之光。他又主张论述性的哲学（论证）与直观性的哲学（照明）须合一：仅凭论证者如“听说”，仅凭直观者不可传达。其学融合伊本·西那的形而上学、古波斯的光明传统与苏非修行，因其学被视为异端而被处死（年三十八）。",
+    "system": [
+     {
+      "name": "光为本原",
+      "content": "存在即显现，故以光的等级为本体论框架；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "光中之光",
+      "content": "绝对的无光之光，即其“神”的表述；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "照明（ishrāq）",
+      "content": "以直观与光照获得真理，非仅由论证；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "论证与直观合一",
+      "content": "哲学须兼有二路，缺一不可；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "苏哈拉瓦德、伊斯法罕与阿勒颇（1154—1191）",
+      "change": "生于伊朗西北；游学伊斯法罕与阿塞拜疆；后赴阿勒颇受当地总督庇护；因其学说与影响被宗教学者指控，1191 年被处死。"
+     }
+    ],
+    "reception": "苏哈拉瓦迪的照明哲学成为后期伊朗哲学（伊斯法罕学派、穆拉·萨德拉）的重要源头；其“论证与直观合一”的方法论影响了整个波斯哲学传统；其殉道亦成为伊斯兰思想自由的标志性事件。"
+   },
+   "works_detail": [
+    {
+     "title": "《照明哲学》",
+     "structure": "两编：第一编以亚里士多德式的逻辑与形而上学清理“论述”的基础；第二编以光的层级展开“照明”的本体论与灵修论。",
+     "core_thesis": "以光为本原；论证与直观合一；这是该书的核心命题。",
+     "editions": "Walbridge & Ziai 英译（The Philosophy of Illumination）；校勘本",
+     "note": "12世纪末"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -4728,6 +4878,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“偶因论”一词为后世所加（主要用以描述安萨里与马勒布朗士），安萨里本人的立场是否已是一种系统的偶因论，学界有争论；本页并述其说与阿奎那的批评。"
+  },
+  {
+   "id": "gr-medieval-ishraq",
+   "term": "照明（ishrāq）",
+   "term_latin": "ishrāq / illumination",
+   "definition": "苏哈拉瓦迪的核心概念：真理不仅由论证“推出”，更由光“照明”而见。故哲学的最高形态是“照明哲学”——以论证清理地基，以直观（光的照亮）获得洞见。",
+   "usages": [
+    {
+     "name": "苏哈拉瓦迪",
+     "id": "gr-medieval-suhrawardi",
+     "usage": "论述性的哲学与直观性的哲学须合一。"
+    },
+    {
+     "name": "伊本·西那（其“东方哲学”的残篇）",
+     "usage": "其未完成的“东方哲学”已暗示以直观补论证。"
+    },
+    {
+     "name": "穆拉·萨德拉（承之）",
+     "usage": "以“超验智慧”综合论证与灵知。"
+    }
+   ],
+   "related": [
+    "gr-medieval-illumination",
+    "gr-medieval-essence-existence"
+   ],
+   "example": {
+    "text": "“照明”与“论证”的差别不是方法偏好，而是**知识来源**的差别：论证只能传达已经看见的东西，不能代替看见本身。故其哲学以“看见”为目标，而论证是它的语法——这一立场使伊斯兰哲学在此后走出一条与拉丁经院不同的路。",
+    "figure": "苏哈拉瓦迪",
+    "locator": "《照明哲学》导论"
+   },
+   "sources": [
+    "sep-suhrawardi",
+    "sep-ibn-sina",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“照明”在苏哈拉瓦迪与后世（穆拉·萨德拉）的用法有差异；本页取其基本含义（直观之知与论证之知的合一），具体表述须核原典。"
   }
  ],
  "debates": [

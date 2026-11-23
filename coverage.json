@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1030,
+  "entries": 1035,
   "by_level": {
    "L2": 777,
-   "L1": 253
+   "L1": 258
   },
   "doctrine": {
-   "total": 246,
-   "detail": 246,
+   "total": 248,
+   "detail": 248,
    "auto": 0
   },
-  "needs_verification": 253,
-  "sources": 384,
-  "sources_verified": 384
+  "needs_verification": 258,
+  "sources": 386,
+  "sources_verified": 386
  },
  "units": [
   {
@@ -128,19 +128,19 @@
    "unit_id": "gr-medieval",
    "title": "中世纪经院哲学",
    "region": "west",
-   "philosophers": 22,
-   "concepts": 29,
+   "philosophers": 23,
+   "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -14"
+   "philosophers_slot": "8 上限，余 -15"
   },
   {
    "unit_id": "gr-modern",
    "title": "近代理性论与经验论",
    "region": "west",
-   "philosophers": 34,
+   "philosophers": 35,
    "concepts": 23,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -26"
+   "philosophers_slot": "8 上限，余 -27"
   }
  ],
  "entries": [
@@ -6591,6 +6591,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-medieval-suhrawardi",
+   "type": "philosopher",
+   "title": "苏哈拉瓦迪",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-medieval-faith-reason",
    "type": "concept",
    "title": "信仰与理性",
@@ -6902,6 +6913,17 @@
    "id": "gr-medieval-occasionalism",
    "type": "concept",
    "title": "偶因论",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-ishraq",
+   "type": "concept",
+   "title": "照明（ishrāq）",
    "container": "gr-medieval",
    "level": "L1",
    "sources": 3,
@@ -7364,6 +7386,17 @@
    "id": "gr-modern-more",
    "type": "philosopher",
    "title": "托马斯·莫尔",
+   "container": "gr-modern",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-mulla-sadra",
+   "type": "philosopher",
+   "title": "穆拉·萨德拉",
    "container": "gr-modern",
    "level": "L1",
    "sources": 3,
@@ -9363,6 +9396,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-hikmat-ishraq",
+   "type": "work",
+   "title": "《照明哲学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-xiuxue-jiyan",
    "type": "work",
    "title": "《习学记言序目》",
@@ -9547,6 +9591,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-asfar",
+   "type": "work",
+   "title": "《四旅程》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

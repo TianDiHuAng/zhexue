@@ -8491,6 +8491,63 @@
    "sort_year": 1190
   },
   {
+   "id": "work-hikmat-ishraq",
+   "title": "《照明哲学》",
+   "title_original": "Ḥikmat al-ishrāq",
+   "tradition": "west",
+   "date_display": "约1190年（苏哈拉瓦迪）",
+   "structure": "两编：第一编（逻辑与形而上学）清理“论述”的地基；第二编（光的层级与灵修）展开“照明”的本体论。",
+   "core_arguments": [
+    "以“光”为本原：存在即显现",
+    "光的层级：光中之光→诸理智之光→灵魂之光→偶性之光",
+    "论证与直观须合一：哲学的最高形态是“照明”"
+   ],
+   "key_points": [
+    {
+     "locator": "第一编",
+     "point": "对伊本·西那的批判与逻辑学"
+    },
+    {
+     "locator": "第二编 章1—3",
+     "point": "光中之光与光的层级"
+    },
+    {
+     "locator": "第二编 章4",
+     "point": "诸光的秩序与“支配之光”"
+    },
+    {
+     "locator": "第二编 末章",
+     "point": "灵修的阶段"
+    }
+   ],
+   "editions": [
+    "Walbridge & Ziai 英译（The Philosophy of Illumination）；阿拉伯文校勘本（Corbin）"
+   ],
+   "related_people": [
+    "gr-medieval-suhrawardi",
+    "gr-medieval-avicenna",
+    "gr-modern-mulla-sadra"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是伊本·西那哲学的注释",
+     "why": "第一编即以批判伊本·西那的“本质优先”与流溢说为务；第二编更以“光”取代“存在”为第一范畴，是独立的体系。"
+    },
+    {
+     "claim": "“照明”是比喻说法",
+     "why": "它是一个严格的本体论范畴：存在者的实在性即其显现性，故“光”的层级就是存在的层级。"
+    }
+   ],
+   "sources": [
+    "sep-suhrawardi",
+    "sep-ibn-sina",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《照明哲学》的阿拉伯文与波斯文成分、以及各本的差异须核 Corbin 校勘本与 Walbridge & Ziai 英译；其术语的英译处理（light／nur）亦有讨论。",
+   "sort_year": 1190
+  },
+  {
    "id": "work-xiuxue-jiyan",
    "title": "《习学记言序目》",
    "title_original": "習學記言序目",
@@ -9451,6 +9508,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1620
+  },
+  {
+   "id": "work-asfar",
+   "title": "《四旅程》",
+   "title_original": "al-Asfār al-arbaʿa",
+   "tradition": "west",
+   "date_display": "17世纪（穆拉·萨德拉）",
+   "structure": "四部（“旅程”）：①从受造界到真主（自然与形而上学）；②在真主中（神的属性与知识）；③从真主回到受造界（灵魂与复活）；④在受造界中与真主同行（灵修与政治）。",
+   "core_arguments": [
+    "存在的优先性：存在是根本，本质是抽象",
+    "存在的统一而分级：存在既一又多（强度不同）",
+    "实体运动：变化在实体层面持续发生"
+   ],
+   "key_points": [
+    {
+     "locator": "第一旅程",
+     "point": "存在的优先性与分级"
+    },
+    {
+     "locator": "第一旅程",
+     "point": "实体运动"
+    },
+    {
+     "locator": "第二旅程",
+     "point": "神的 knowledge 与属性"
+    },
+    {
+     "locator": "第三旅程",
+     "point": "灵魂的起源与复活"
+    }
+   ],
+   "editions": [
+    "阿拉伯／波斯文校勘本（Sadra Islamic Philosophy Institute）；英文选译见相关研究"
+   ],
+   "related_people": [
+    "gr-modern-mulla-sadra",
+    "gr-medieval-avicenna",
+    "gr-medieval-suhrawardi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是一部神学大全",
+     "why": "它虽以灵修的“四旅程”为结构，但其核心是**存在论**（存在的优先性、分级、实体运动），是哲学著作。"
+    },
+    {
+     "claim": "“实体运动”是物理学的运动学说",
+     "why": "它是本体论的：意在说明存在自身的生成与流动，其根据在“存在单一而分级”的结构，不在经验观察。"
+    }
+   ],
+   "sources": [
+    "sep-mulla-sadra",
+    "sep-ibn-sina",
+    "sep-ibn-arabi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《四旅程》卷帙浩繁（新版校勘本多卷），其“四旅程”的结构与各旅程的篇目须核萨德拉哲学研究所的校勘本；英译多为选译。",
+   "sort_year": 1630
   },
   {
    "id": "work-discourse-method",
