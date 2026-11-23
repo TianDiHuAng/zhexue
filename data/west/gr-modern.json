@@ -5856,6 +5856,41 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-is-ought",
+   "term": "是与应当",
+   "term_latin": "is–ought",
+   "definition": "休谟提出的鸿沟：从“是什么”的描述性前提，不能直接推出“应当如何”的规范性结论。它成为后世元伦理学（情感主义、非认知主义）与自然主义之争的起点。",
+   "usages": [
+    {
+     "name": "休谟",
+     "id": "gr-modern-hume",
+     "usage": "“这个应当表示某种新的关系……须被指出并说明”。"
+    },
+    {
+     "name": "康德（回应）",
+     "usage": "以实践理性的自律为规范性来源，不走“从是到应当”的推论。"
+    },
+    {
+     "name": "麦金太尔与自然主义（批评）",
+     "usage": "以“功能性概念”（如“好表”“好农人”）说明从事实到价值的过渡是可能的。"
+    }
+   ],
+   "related": [
+    "gr-modern-passions"
+   ],
+   "example": {
+    "text": "休谟的原意常被放大：他要说的是**从描述到规范需要额外的说明**，不是说规范没有根据；其自己的根据是情感（道德感），故他不是“取消道德”，而是把它置于情感之上。",
+    "figure": "休谟",
+    "locator": "《人性论》III.1.1"
+   },
+   "sources": [
+    "sep-hume",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

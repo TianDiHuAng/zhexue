@@ -2731,6 +2731,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "《天下篇》的作者与年代（庄子自撰或后学所作）学界有讨论；其作为“最早的中国哲学史文献”的地位则无争议。"
+  },
+  {
+   "id": "cn-xianqin-wudu",
+   "term": "五蠹",
+   "term_latin": "the five vermin",
+   "definition": "韩非的批判对象：学者（儒墨）、言谈者（纵横家）、带剑者（游侠）、患御者（逃避兵役者）、商工之民。他认为这五种人无益于耕战而消耗国力，故称“蛀虫”。",
+   "usages": [
+    {
+     "name": "韩非",
+     "id": "cn-xianqin-hanfei",
+     "usage": "“此五者，邦之蠹也”：不除则国贫而乱。"
+    },
+    {
+     "name": "商鞅（先声）",
+     "id": "cn-xianqin-shang-yang",
+     "usage": "以农战为本，排斥“六虱”（礼乐诗书等）。"
+    },
+    {
+     "name": "孟子（被批评者，对照）",
+     "id": "cn-xianqin-mengzi",
+     "usage": "以仁义与士人的尊严为政治的根据。"
+    }
+   ],
+   "related": [
+    "cn-xianqin-zhongyong"
+   ],
+   "example": {
+    "text": "“五蠹”的论证结构是功利主义的：以“是否有益于耕战”为唯一判准，故学者、游侠、商工皆成“蠹”。这一判准的彻底性正是法家的力量，也是其排斥文化多样性的根源。",
+    "figure": "韩非",
+    "locator": "《韩非子·五蠹》"
+   },
+   "sources": [
+    "ct-hanfeizi",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

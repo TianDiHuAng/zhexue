@@ -3051,6 +3051,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-qilue",
+   "term": "七略与四部",
+   "term_latin": "the Seven Epitomes and the Four Divisions",
+   "definition": "中国目录学的两个阶段：刘歆《七略》（辑略、六艺略、诸子略、诗赋略、兵书略、术数略、方技略）为最早的图书分类；《隋书·经籍志》以后确立“经史子集”四部，沿用至清。",
+   "usages": [
+    {
+     "name": "刘歆",
+     "id": "cn-lianghan-liu-xin",
+     "usage": "《七略》为《汉书·艺文志》所本，是现存最早的分类体系之祖。"
+    },
+    {
+     "name": "班固",
+     "id": "cn-lianghan-ban-gu",
+     "usage": "《艺文志》删《七略》之要，存六略三十八种。"
+    },
+    {
+     "name": "《隋志》以后（对照）",
+     "usage": "四部分类取代七略，成为此后一千余年的标准。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-weiyandayi",
+    "cn-lianghan-sangang"
+   ],
+   "example": {
+    "text": "从七略到四部不只是类目的合并，而是**知识格局的变化**：七略中“兵书”“术数”“方技”独立成略（占三略），四部则把它们压入“子部”——这一压缩反映了知识分类重心的转移。",
+    "figure": "班固",
+    "locator": "《汉书·艺文志》"
+   },
+   "sources": [
+    "ws-hanshu",
+    "ws-shiji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

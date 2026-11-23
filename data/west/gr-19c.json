@@ -2962,6 +2962,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-19c-ideology",
+   "term": "意识形态",
+   "term_latin": "Ideologie / ideology",
+   "definition": "术语的两次转义：法国思想家德·特拉西创之以指“观念的科学”；马克思与恩格斯在《德意志意识形态》中把它转为贬义——指颠倒的、受阶级利益支配的意识（“他们不知道自己在做什么”）。",
+   "usages": [
+    {
+     "name": "马克思与恩格斯",
+     "id": "gr-19c-marx",
+     "usage": "意识形态是“颠倒的意识”：它把特殊利益表现为普遍利益。"
+    },
+    {
+     "name": "德·特拉西（原义）",
+     "usage": "“观念学”（idéologie）：对观念来源的系统研究，属启蒙的认识论计划。"
+    },
+    {
+     "name": "曼海姆（改造，对照）",
+     "usage": "以“知识社会学”区分“特殊的”与“总体的”意识形态，试图使之成为中立的分析工具。"
+    }
+   ],
+   "related": [
+    "gr-19c-alienation",
+    "gr-19c-histmat"
+   ],
+   "example": {
+    "text": "转义的关键在“颠倒”：不是“有偏见”，而是**把历史地形成的东西当作自然的**（如把市场交换当作人性使然）——故意识形态批判的任务是揭示其历史性，而非指责其不诚实。",
+    "figure": "马克思与恩格斯",
+    "locator": "《德意志意识形态》"
+   },
+   "sources": [
+    "sep-marx",
+    "marx-chinese"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

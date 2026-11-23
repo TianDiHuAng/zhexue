@@ -1,9 +1,9 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 843,
+  "entries": 851,
   "by_level": {
-   "L2": 688,
+   "L2": 696,
    "L1": 155
   },
   "doctrine": {
@@ -21,7 +21,7 @@
    "title": "两汉经学与气论",
    "region": "china",
    "philosophers": 16,
-   "concepts": 18,
+   "concepts": 19,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -8"
   },
@@ -66,7 +66,7 @@
    "title": "先秦诸子",
    "region": "china",
    "philosophers": 12,
-   "concepts": 18,
+   "concepts": 19,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -75,7 +75,7 @@
    "title": "19世纪哲学",
    "region": "west",
    "philosophers": 16,
-   "concepts": 17,
+   "concepts": 18,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -8"
   },
@@ -111,7 +111,7 @@
    "title": "德国古典哲学",
    "region": "west",
    "philosophers": 9,
-   "concepts": 18,
+   "concepts": 19,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -1"
   },
@@ -138,7 +138,7 @@
    "title": "近代理性论与经验论",
    "region": "west",
    "philosophers": 33,
-   "concepts": 18,
+   "concepts": 19,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -25"
   }
@@ -511,6 +511,17 @@
    "id": "cn-lianghan-tianren-sance",
    "type": "concept",
    "title": "天人三策",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-qilue",
+   "type": "concept",
+   "title": "七略与四部",
    "container": "cn-lianghan",
    "level": "L2",
    "sources": 3,
@@ -2631,6 +2642,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-xianqin-wudu",
+   "type": "concept",
+   "title": "五蠹",
+   "container": "cn-xianqin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-xianqin-human-nature",
    "type": "debate",
    "title": "人性善恶之争",
@@ -3074,6 +3096,17 @@
    "id": "gr-19c-resentment",
    "type": "concept",
    "title": "怨恨",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-19c-ideology",
+   "type": "concept",
+   "title": "意识形态",
    "container": "gr-19c",
    "level": "L2",
    "sources": 2,
@@ -4897,6 +4930,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-german-world-history",
+   "type": "concept",
+   "title": "世界历史",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-german-thing-in-itself",
    "type": "debate",
    "title": "物自体是否可被取消",
@@ -6437,6 +6481,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-modern-is-ought",
+   "type": "concept",
+   "title": "是与应当",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-modern-innate-controversy",
    "type": "debate",
    "title": "天赋观念是否存在",
@@ -6577,6 +6632,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-jianai",
+   "type": "work",
+   "title": "《墨子·兼爱》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -6921,6 +6987,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-wudu",
+   "type": "work",
+   "title": "《韩非子·五蠹》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-yueji",
    "type": "work",
    "title": "《乐记》",
@@ -7155,6 +7232,17 @@
    "id": "work-lunheng",
    "type": "work",
    "title": "《论衡》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-yiwenzhi",
+   "type": "work",
+   "title": "《汉书·艺文志》",
    "container": "china",
    "level": "L2",
    "sources": 3,

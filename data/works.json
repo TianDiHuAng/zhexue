@@ -284,6 +284,63 @@
    "sort_year": -400
   },
   {
+   "id": "work-jianai",
+   "title": "《墨子·兼爱》",
+   "title_original": "兼愛",
+   "tradition": "china",
+   "date_display": "约前4世纪",
+   "structure": "三篇（上、中、下）；以“圣人以治天下为事者也，不可不察乱之所自起”开篇，归乱源于“不相爱”，再以“兼相爱、交相利”为药。",
+   "core_arguments": [
+    "乱起于“不相爱”：亏人自利则乱",
+    "“兼相爱则治，交相恶则乱”：故兼爱是治乱之本",
+    "以“医之攻人之疾者”为喻：对症下药，故兼爱是实用之方"
+   ],
+   "key_points": [
+    {
+     "locator": "上篇",
+     "point": "乱之所自起与“兼相爱”"
+    },
+    {
+     "locator": "中篇",
+     "point": "以“孝”论证兼爱不违亲情"
+    },
+    {
+     "locator": "下篇",
+     "point": "对“兼爱难行”的回应"
+    },
+    {
+     "locator": "三篇",
+     "point": "“交相利”的功利论证"
+    }
+   ],
+   "editions": [
+    "孙诒让《墨子间诂》中华书局；吴毓江《墨子校注》"
+   ],
+   "related_people": [
+    "cn-xianqin-mozi",
+    "cn-xianqin-mengzi",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "兼爱是取消亲情",
+     "why": "《兼爱中》明确以“孝子之为亲度”论证：兼爱使人“视人之亲若其亲”，故不违孝，而是扩大之。"
+    },
+    {
+     "claim": "兼爱是纯粹的道义要求",
+     "why": "墨子的论证是功利性的（“交相利”）：兼爱之所以当行，因其能致治去乱。"
+    }
+   ],
+   "sources": [
+    "ct-mozi",
+    "ct-mengzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -400
+  },
+  {
    "id": "work-apology",
    "title": "《苏格拉底的申辩》",
    "title_original": "Ἀπολογία Σωκράτους（Apologia Socratis）",
@@ -2041,6 +2098,63 @@
    "sort_year": -250
   },
   {
+   "id": "work-wudu",
+   "title": "《韩非子·五蠹》",
+   "title_original": "五蠹",
+   "tradition": "china",
+   "date_display": "约前3世纪",
+   "structure": "一篇；先以“上古竞于道德，中世逐于智谋，当今争于气力”论时势之变，次列五种“邦之蠹”（学者、言谈者、带剑者、患御者、商工之民），末以“不期修古，不法常可”作结。",
+   "core_arguments": [
+    "时势变则治法变：“世异则事异，事异则备变”",
+    "五蠹无益于耕战而消耗国力，故为国之蛀虫",
+    "以“参验”（实际效验）为判准，反对“微妙之言”"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "上古／中世／当今的三阶段"
+    },
+    {
+     "locator": "中段",
+     "point": "五蠹的列举与批评"
+    },
+    {
+     "locator": "中段",
+     "point": "“儒以文乱法，侠以武犯禁”"
+    },
+    {
+     "locator": "末段",
+     "point": "“不期修古，不法常可”"
+    }
+   ],
+   "editions": [
+    "王先慎《韩非子集解》中华书局；陈奇猷《韩非子新校注》"
+   ],
+   "related_people": [
+    "cn-xianqin-hanfei",
+    "cn-xianqin-shang-yang",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "韩非主张焚书",
+     "why": "他主张“以法为教、以吏为师”，即不以儒墨之言为教化内容；焚书是秦代的具体政策，不能直接归于韩非的文本。"
+    },
+    {
+     "claim": "五蠹之说主张消灭商人",
+     "why": "他批评的是商工之民“修治苦窳之器、聚弗靡之财”的投机行为，其判准是“是否有益于耕战”，不是消灭某个阶层。"
+    }
+   ],
+   "sources": [
+    "ct-hanfeizi",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -250
+  },
+  {
    "id": "work-yueji",
    "title": "《乐记》",
    "title_original": "樂記",
@@ -3279,6 +3393,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 80
+  },
+  {
+   "id": "work-yiwenzhi",
+   "title": "《汉书·艺文志》",
+   "title_original": "藝文志",
+   "tradition": "china",
+   "date_display": "约82年（《汉书》成书）",
+   "structure": "十志之一；分六略：六艺、诸子、诗赋、兵书、术数、方技（另有序为辑略），共三十八种、五百九十六家。每略有序，每家有小序。",
+   "core_arguments": [
+    "承刘歆《七略》“删其要”而成，是现存最早的图书分类目录",
+    "诸子略分十家，并明言“其可观者九家而已”（小说家不与）",
+    "以“王道”与“方技”为两头：六艺为经，方技为用"
+   ],
+   "key_points": [
+    {
+     "locator": "六艺略序",
+     "point": "六艺为诸子之源"
+    },
+    {
+     "locator": "诸子略序",
+     "point": "十家分类与“可观者九家”"
+    },
+    {
+     "locator": "兵书略",
+     "point": "兵书独立成略（后并入子部）"
+    },
+    {
+     "locator": "方技略",
+     "point": "医经、经方等实用知识"
+    }
+   ],
+   "editions": [
+    "《汉书》（四部丛刊本）卷三十；中华书局点校本《汉书》第六册；张舜徽《汉书艺文志通释》"
+   ],
+   "related_people": [
+    "cn-lianghan-ban-gu",
+    "cn-lianghan-liu-xin",
+    "cn-lianghan-sima-tan"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是班固的独创",
+     "why": "它承刘歆《七略》“删其要”而成；班固的贡献在删定与体例，非全部独创。"
+    },
+    {
+     "claim": "“十家”是十个平等学派",
+     "why": "班固明言“诸子十家，其可观者九家而已”，小说家不在“可观”之列。"
+    }
+   ],
+   "sources": [
+    "ws-hanshu",
+    "ws-shiji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 82
   },
   {
    "id": "work-enchiridion",

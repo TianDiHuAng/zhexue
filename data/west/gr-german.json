@@ -2112,6 +2112,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-german-world-history",
+   "term": "世界历史",
+   "term_latin": "Weltgeschichte",
+   "definition": "黑格尔的历史哲学概念：世界历史不是事件的堆积，而是“自由意识的进展”——东方只知一人自由、希腊罗马知部分自由、日耳曼世界知全体自由。故历史有方向与终点。",
+   "usages": [
+    {
+     "name": "黑格尔",
+     "id": "gr-german-hegel",
+     "usage": "世界历史是精神的自我认识，其“终点”在全体自由的实现。"
+    },
+    {
+     "name": "康德（先声）",
+     "id": "gr-german-kant",
+     "usage": "以“普遍历史”的理念为历史理解的调节性原则（非构成性原则）。"
+    },
+    {
+     "name": "马克思（改造）",
+     "usage": "以生产方式的演替取代精神的进展。"
+    }
+   ],
+   "related": [
+    "gr-german-cunning-reason",
+    "gr-german-dialectic"
+   ],
+   "example": {
+    "text": "这一框架的困难在于**欧洲中心论**：把日耳曼世界置于“全体自由”的位置，则其他文明被安排在“未达自觉”的阶段。20世纪的批评（如历史社会学的多元现代性）正针对此。",
+    "figure": "黑格尔",
+    "locator": "《历史哲学讲演录》导论"
+   },
+   "sources": [
+    "sep-hegel",
+    "sep-kant",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [
