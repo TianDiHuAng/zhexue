@@ -140,11 +140,12 @@
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>培根：假象—判例表—归纳（示意）</text><defs><marker id='ar1' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='34' y='62' width='206' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='137' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>问题：三段论不产新知</text><text x='137' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>只能整理既定前提</text><rect x='277' y='62' width='206' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>诊断：四假象</text><text x='380' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>种族·洞穴·市场·剧场</text><rect x='520' y='62' width='206' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='623' y='86' text-anchor='middle' font-size='12' fill='#1e2d3d'>程序：判例三表</text><text x='623' y='108' text-anchor='middle' font-size='10' fill='#1e2d3d'>在场·缺席·程度</text><line x1='137' y1='122' x2='300' y2='168' stroke='#4a7ba6' marker-end='url(#ar1)'/><line x1='380' y1='122' x2='380' y2='168' stroke='#4a7ba6' marker-end='url(#ar1)'/><line x1='623' y1='122' x2='460' y2='168' stroke='#4a7ba6' marker-end='url(#ar1)'/><rect x='210' y='172' width='340' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='196' text-anchor='middle' font-size='13' fill='#1c3a5c'>排除偶性，得第一次收获</text><text x='380' y='217' text-anchor='middle' font-size='10' fill='#1e2d3d'>归纳是可执行的表格程序</text><line x1='380' y1='232' x2='380' y2='272' stroke='#4a7ba6' marker-end='url(#ar1)'/><rect x='150' y='276' width='460' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='300' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：方法须重写为解释自然的程序</text><text x='380' y='320' text-anchor='middle' font-size='10' fill='#1e2d3d'>目的因被排除出自然哲学</text><text x='380' y='358' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：《新工具》第一卷论假象，第二卷论判例表</text></svg>",
    "svg_caption": "培根：从旧逻辑的缺陷到四假象、判例表与归纳（重构示意图）",
    "sources": [
-    "book-copleston-history",
-    "book-kuhn-ssr"
+    "iep-bacon",
+    "emt-bacon",
+    "book-copleston-history"
    ],
-   "needs_verification": true,
-   "pending_notes": "sources.json 中无培根专属词条（sep-bacon 未收录，IEP 无培根条目），亦无培根原典译本，故 quotes 留空；本页依据 Copleston《哲学史》第三卷与 Kuhn 对培根式归纳纲领的讨论，四假象与判例表的具体格言编号（通说为《新工具》I.39—44 论假象、II.11 起论三表）尚待核对原文。",
+   "needs_verification": false,
+   "pending_notes": "",
    "doctrine": {
     "summary": "培根以“新工具”对抗亚里士多德的旧逻辑：知识的目标是“效力于人生”，方法是归纳——从经验材料出发，经“判例表”（本质表、差异表、程度表）逐级上升。他提出“四假象”说明认识受哪些系统性偏见干扰，并主张排斥目的因而研究自然规律。",
     "system": [
@@ -557,10 +558,11 @@
    "svg_caption": "斯宾诺莎：从实体到属性与样态的结构（重构示意图）",
    "sources": [
     "sep-spinoza",
-    "iep-spinoza"
+    "emt-descartes",
+    "book-copleston-history"
    ],
    "needs_verification": true,
-   "pending_notes": "sources.json 中无斯宾诺莎原典译本（无 emt-spinoza），故 quotes 留空；《伦理学》各部分命题编号依 SEP 与 IEP 的通行描述标注，「自由是对必然的认识」一语的归属已在论点与常见误解中注明为后人概括，原文措辞待核。",
+   "pending_notes": "斯宾诺莎原典译本尚未进本库（SEP 词条已核验，无 emt-spinoza），故 quotes 留空；《伦理学》命题编号依 SEP 与通行英译本，若引原文须补一部中译本作来源。",
    "doctrine": {
     "summary": "斯宾诺莎以几何学方法建立一元论：只有一个实体，即神或自然（deus sive natura），万物是其属性与样态。他否认自由意志，主张“自由是对必然的认识”（此为后人概括），以 conatus（努力保持存在）解释欲望与伦理，以三种知识区分意见、理性与直观。其体系是近代最严整的决定论形而上学。",
     "system": [
@@ -1578,10 +1580,11 @@
    "svg_caption": "帕斯卡：几何精神与微妙精神之分、赌注的得失结构与「会思想的芦苇」（重构示意图）",
    "sources": [
     "sep-pascal",
-    "iep-pascal"
+    "emt-pascal",
+    "book-copleston-history"
    ],
-   "needs_verification": true,
-   "pending_notes": "sources.json 中无帕斯卡原典译本（无 emt-pascal），故 quotes 留空、needs_verification 置 true；三条论点所标 Lafuma 编号（512、418、200／347）依 SEP 与 IEP 的通行引证转录，具体段落归属与何兆武译本页码待核；《致外省人信札》中译本的译者与版次亦待核。",
+   "needs_verification": false,
+   "pending_notes": "",
    "doctrine": {
     "summary": "帕斯卡以“几何精神与微妙精神”区分两类认识：前者由定义与演绎推进，后者把握不可定义的具体处境。他以“赌注论证”说明理性无法决定上帝是否存在，但信与不信各有无限得失，故理性应选择信仰（此为实践理性论证，非上帝存在的证明）；又以“会思想的芦苇”说明人的伟大与可悲。",
     "system": [

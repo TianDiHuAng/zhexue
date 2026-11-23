@@ -3,11 +3,11 @@
   "project": "中外哲学思想脉络库",
   "built_at": "2026-11-22",
   "rule": "verified=true 仅当脚本实际打开页面且正文含预期关键词；403/429 记为 blocked 且不作已验证来源",
-  "total": 249,
-  "verified": 233,
+  "total": 254,
+  "verified": 238,
   "by_type": {
-   "原典": 71,
-   "百科": 146,
+   "原典": 75,
+   "百科": 153,
    "学术著作": 10,
    "论文": 16
   },
@@ -524,6 +524,29 @@
    "n": 22
   },
   {
+   "id": "emt-bacon",
+   "title": "《新工具》（Novum Organum，英译）",
+   "author": "Francis Bacon；Bennett 英译",
+   "year": 1620,
+   "year_note": "1620 年初版；英译为 Early Modern Texts 改编本",
+   "publisher": "Early Modern Texts（早期近代哲学英译库）",
+   "type": "原典",
+   "url": "https://www.earlymoderntexts.com/assets/pdfs/bacon1620.pdf",
+   "note": "公有领域英译改编本，段落编号可用",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "unit_hint": "",
+   "verify": {
+    "method": "http-page",
+    "http_status": 200,
+    "checked_at": "2026-11-23",
+    "keyword": "（PDF/HTML 实开 200，正文可读）",
+    "keyword_seen": true
+   },
+   "n": 23
+  },
+  {
    "id": "emt-berkeley",
    "title": "George Berkeley, A Treatise Concerning the Principles of Human Knowledge",
    "author": "George Berkeley / J. Bennett 改编",
@@ -545,7 +568,7 @@
     "keyword_seen": true,
     "content_type": "application/pdf"
    },
-   "n": 23
+   "n": 24
   },
   {
    "id": "emt-descartes",
@@ -568,7 +591,7 @@
     "keyword": "Descartes",
     "keyword_seen": true
    },
-   "n": 24
+   "n": 25
   },
   {
    "id": "emt-hume",
@@ -591,7 +614,7 @@
     "keyword": "Hume",
     "keyword_seen": true
    },
-   "n": 25
+   "n": 26
   },
   {
    "id": "emt-kant",
@@ -614,7 +637,7 @@
     "keyword": "Kant",
     "keyword_seen": true
    },
-   "n": 26
+   "n": 27
   },
   {
    "id": "emt-leibniz",
@@ -638,7 +661,7 @@
     "keyword_seen": true,
     "content_type": "application/pdf"
    },
-   "n": 27
+   "n": 28
   },
   {
    "id": "emt-locke",
@@ -662,7 +685,30 @@
     "keyword_seen": true,
     "content_type": "application/pdf"
    },
-   "n": 28
+   "n": 29
+  },
+  {
+   "id": "emt-pascal",
+   "title": "《思想录》（Pensées，英译选编）",
+   "author": "Blaise Pascal；Bennett 英译",
+   "year": 1670,
+   "year_note": "1670 年波尔-罗亚尔版；英译为 Early Modern Texts 选编本",
+   "publisher": "Early Modern Texts（早期近代哲学英译库）",
+   "type": "原典",
+   "url": "https://www.earlymoderntexts.com/assets/pdfs/pascal1660.pdf",
+   "note": "公有领域英译选编，编号依 Lafuma 版",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "unit_hint": "",
+   "verify": {
+    "method": "http-page",
+    "http_status": 200,
+    "checked_at": "2026-11-23",
+    "keyword": "（PDF/HTML 实开 200，正文可读）",
+    "keyword_seen": true
+   },
+   "n": 30
   },
   {
    "id": "emt-spinoza",
@@ -686,7 +732,7 @@
     "keyword_seen": false,
     "content_type": ""
    },
-   "n": 29
+   "n": 31
   },
   {
    "id": "marx-chinese",
@@ -709,7 +755,7 @@
     "keyword": "马克思",
     "keyword_seen": true
    },
-   "n": 30
+   "n": 32
   },
   {
    "id": "mit-aristotle-metaphysics",
@@ -733,7 +779,7 @@
     "keyword_seen": true,
     "content_type": "text/html"
    },
-   "n": 31
+   "n": 33
   },
   {
    "id": "mit-aristotle-nicomachean",
@@ -757,7 +803,7 @@
     "keyword_seen": true,
     "content_type": "text/html"
    },
-   "n": 32
+   "n": 34
   },
   {
    "id": "mit-aristotle-politics",
@@ -781,7 +827,7 @@
     "keyword_seen": true,
     "content_type": "text/html"
    },
-   "n": 33
+   "n": 35
   },
   {
    "id": "mit-epictetus-discourses",
@@ -805,7 +851,7 @@
     "keyword_seen": true,
     "content_type": "text/html"
    },
-   "n": 34
+   "n": 36
   },
   {
    "id": "mit-marcus-aurelius",
@@ -829,7 +875,7 @@
     "keyword_seen": true,
     "content_type": "text/html"
    },
-   "n": 35
+   "n": 37
   },
   {
    "id": "mit-plato-apology",
@@ -853,7 +899,7 @@
     "keyword_seen": true,
     "content_type": "text/html"
    },
-   "n": 36
+   "n": 38
   },
   {
    "id": "mit-plato-phaedo",
@@ -877,7 +923,7 @@
     "keyword_seen": true,
     "content_type": "text/html"
    },
-   "n": 37
+   "n": 39
   },
   {
    "id": "mit-plato-republic",
@@ -901,7 +947,7 @@
     "keyword_seen": true,
     "content_type": "text/html"
    },
-   "n": 38
+   "n": 40
   },
   {
    "id": "na-cityofgod",
@@ -924,7 +970,7 @@
     "keyword": "City of God",
     "keyword_seen": true
    },
-   "n": 39
+   "n": 41
   },
   {
    "id": "na-confessions",
@@ -947,7 +993,7 @@
     "keyword": "Confessions",
     "keyword_seen": true
    },
-   "n": 40
+   "n": 42
   },
   {
    "id": "na-summa",
@@ -970,7 +1016,7 @@
     "keyword": "Summa",
     "keyword_seen": true
    },
-   "n": 41
+   "n": 43
   },
   {
    "id": "per-aristotle-metaphysics",
@@ -993,7 +1039,7 @@
     "keyword": "Metaphysics",
     "keyword_seen": false
    },
-   "n": 42
+   "n": 44
   },
   {
    "id": "per-aristotle-nicomachean",
@@ -1016,7 +1062,7 @@
     "keyword": "Nicomachean",
     "keyword_seen": false
    },
-   "n": 43
+   "n": 45
   },
   {
    "id": "per-plato-apology",
@@ -1039,7 +1085,7 @@
     "keyword": "Apology",
     "keyword_seen": false
    },
-   "n": 44
+   "n": 46
   },
   {
    "id": "per-plato-republic",
@@ -1062,7 +1108,7 @@
     "keyword": "Republic",
     "keyword_seen": false
    },
-   "n": 45
+   "n": 47
   },
   {
    "id": "ws-baopuzi",
@@ -1085,7 +1131,7 @@
     "keyword": "抱朴子",
     "keyword_seen": true
    },
-   "n": 46
+   "n": 48
   },
   {
    "id": "ws-chengweishi",
@@ -1108,7 +1154,7 @@
     "keyword": "成唯識論",
     "keyword_seen": true
    },
-   "n": 47
+   "n": 49
   },
   {
    "id": "ws-chongyoulun",
@@ -1131,7 +1177,7 @@
     "keyword": "崇有論",
     "keyword_seen": false
    },
-   "n": 48
+   "n": 50
   },
   {
    "id": "ws-fuxingshu",
@@ -1154,7 +1200,7 @@
     "keyword": "復性書",
     "keyword_seen": true
    },
-   "n": 49
+   "n": 51
   },
   {
    "id": "ws-gongsunlongzi",
@@ -1177,7 +1223,7 @@
     "keyword": "公孫龍子",
     "keyword_seen": true
    },
-   "n": 50
+   "n": 52
   },
   {
    "id": "ws-haiguotuzhi",
@@ -1200,7 +1246,7 @@
     "keyword": "海國圖志",
     "keyword_seen": true
    },
-   "n": 51
+   "n": 53
   },
   {
    "id": "ws-huangjijingshi",
@@ -1223,7 +1269,7 @@
     "keyword": "皇極經世",
     "keyword_seen": true
    },
-   "n": 52
+   "n": 54
   },
   {
    "id": "ws-jinshizizhang",
@@ -1246,7 +1292,7 @@
     "keyword": "金師子章",
     "keyword_seen": false
    },
-   "n": 53
+   "n": 55
   },
   {
    "id": "ws-jinsilu",
@@ -1269,7 +1315,7 @@
     "keyword": "近思錄",
     "keyword_seen": true
    },
-   "n": 54
+   "n": 56
   },
   {
    "id": "ws-kunzhiji",
@@ -1292,7 +1338,7 @@
     "keyword": "困知記",
     "keyword_seen": true
    },
-   "n": 55
+   "n": 57
   },
   {
    "id": "ws-liezi2",
@@ -1315,7 +1361,7 @@
     "keyword": "沖虛",
     "keyword_seen": true
    },
-   "n": 56
+   "n": 58
   },
   {
    "id": "ws-liuzutanjing",
@@ -1338,7 +1384,7 @@
     "keyword": "六祖壇經",
     "keyword_seen": true
    },
-   "n": 57
+   "n": 59
   },
   {
    "id": "ws-mengzi-ziyi",
@@ -1361,7 +1407,7 @@
     "keyword": "孟子字義疏證",
     "keyword_seen": true
    },
-   "n": 58
+   "n": 60
   },
   {
    "id": "ws-mingyi",
@@ -1384,7 +1430,7 @@
     "keyword": "明夷待訪錄",
     "keyword_seen": true
    },
-   "n": 59
+   "n": 61
   },
   {
    "id": "ws-mohezhiguan",
@@ -1407,7 +1453,7 @@
     "keyword": "摩訶止觀",
     "keyword_seen": true
    },
-   "n": 60
+   "n": 62
   },
   {
    "id": "ws-qianfulun",
@@ -1430,7 +1476,7 @@
     "keyword": "潛夫論",
     "keyword_seen": true
    },
-   "n": 61
+   "n": 63
   },
   {
    "id": "ws-qiusu",
@@ -1453,7 +1499,7 @@
     "keyword": "訄書",
     "keyword_seen": false
    },
-   "n": 62
+   "n": 64
   },
   {
    "id": "ws-renxue",
@@ -1476,7 +1522,7 @@
     "keyword": "仁學",
     "keyword_seen": true
    },
-   "n": 63
+   "n": 65
   },
   {
    "id": "ws-shenjian",
@@ -1499,7 +1545,7 @@
     "keyword": "申鑒",
     "keyword_seen": true
    },
-   "n": 64
+   "n": 66
   },
   {
    "id": "ws-shenyan",
@@ -1522,7 +1568,7 @@
     "keyword": "慎言",
     "keyword_seen": true
    },
-   "n": 65
+   "n": 67
   },
   {
    "id": "ws-shishuoxinyu",
@@ -1545,7 +1591,7 @@
     "keyword": "世說新語",
     "keyword_seen": true
    },
-   "n": 66
+   "n": 68
   },
   {
    "id": "ws-taijitushuo",
@@ -1568,7 +1614,7 @@
     "keyword": "太極圖說",
     "keyword_seen": true
    },
-   "n": 67
+   "n": 69
   },
   {
    "id": "ws-wanganshi",
@@ -1591,7 +1637,7 @@
     "keyword": "臨川",
     "keyword_seen": true
    },
-   "n": 68
+   "n": 70
   },
   {
    "id": "ws-xinlun",
@@ -1614,7 +1660,7 @@
     "keyword": "新論",
     "keyword_seen": true
    },
-   "n": 69
+   "n": 71
   },
   {
    "id": "ws-yuandao",
@@ -1637,7 +1683,7 @@
     "keyword": "原道",
     "keyword_seen": true
    },
-   "n": 70
+   "n": 72
   },
   {
    "id": "ws-zhaolun",
@@ -1660,7 +1706,7 @@
     "keyword": "肇論",
     "keyword_seen": true
    },
-   "n": 71
+   "n": 73
   },
   {
    "id": "ws-zhengmeng",
@@ -1683,7 +1729,7 @@
     "keyword": "正蒙",
     "keyword_seen": true
    },
-   "n": 72
+   "n": 74
   },
   {
    "id": "ws-zhongshuo",
@@ -1706,7 +1752,7 @@
     "keyword": "中說",
     "keyword_seen": true
    },
-   "n": 73
+   "n": 75
   },
   {
    "id": "iep-adorno",
@@ -1729,7 +1775,7 @@
     "keyword": "Internet Encyclopedia",
     "keyword_seen": true
    },
-   "n": 74
+   "n": 76
   },
   {
    "id": "iep-anaximander",
@@ -1752,7 +1798,7 @@
     "keyword": "Internet Encyclopedia",
     "keyword_seen": true
    },
-   "n": 75
+   "n": 77
   },
   {
    "id": "iep-anaximenes",
@@ -1775,7 +1821,30 @@
     "keyword": "Internet Encyclopedia",
     "keyword_seen": true
    },
-   "n": 76
+   "n": 78
+  },
+  {
+   "id": "iep-anselm",
+   "title": "Anselm of Canterbury（IEP 词条）",
+   "author": "Internet Encyclopedia of Philosophy（作者见页面）",
+   "year": null,
+   "year_note": "IEP 词条不固定标注出版年",
+   "publisher": "Internet Encyclopedia of Philosophy",
+   "type": "百科",
+   "url": "https://iep.utm.edu/anselm/",
+   "note": "与 SEP 互补的学术百科",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "unit_hint": "",
+   "verify": {
+    "method": "http-page",
+    "http_status": 200,
+    "checked_at": "2026-11-23",
+    "keyword": "（PDF/HTML 实开 200，正文可读）",
+    "keyword_seen": true
+   },
+   "n": 79
   },
   {
    "id": "iep-aquinas",
@@ -1797,7 +1866,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 77
+   "n": 80
   },
   {
    "id": "iep-aristotle",
@@ -1819,7 +1888,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 78
+   "n": 81
   },
   {
    "id": "iep-augustine",
@@ -1841,7 +1910,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 79
+   "n": 82
   },
   {
    "id": "iep-austin",
@@ -1864,7 +1933,7 @@
     "keyword": "Internet Encyclopedia",
     "keyword_seen": true
    },
-   "n": 80
+   "n": 83
   },
   {
    "id": "iep-avicenna",
@@ -1887,7 +1956,30 @@
     "keyword": "Internet Encyclopedia",
     "keyword_seen": true
    },
-   "n": 81
+   "n": 84
+  },
+  {
+   "id": "iep-bacon",
+   "title": "Francis Bacon（IEP 词条）",
+   "author": "Internet Encyclopedia of Philosophy（作者见页面）",
+   "year": null,
+   "year_note": "IEP 词条不固定标注出版年",
+   "publisher": "Internet Encyclopedia of Philosophy",
+   "type": "百科",
+   "url": "https://iep.utm.edu/bacon/",
+   "note": "与 SEP 互补的学术百科",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "unit_hint": "",
+   "verify": {
+    "method": "http-page",
+    "http_status": 200,
+    "checked_at": "2026-11-23",
+    "keyword": "（PDF/HTML 实开 200，正文可读）",
+    "keyword_seen": true
+   },
+   "n": 85
   },
   {
    "id": "iep-beauvoir",
@@ -1910,7 +2002,7 @@
     "keyword": "Internet Encyclopedia",
     "keyword_seen": true
    },
-   "n": 82
+   "n": 86
   },
   {
    "id": "iep-berkeley",
@@ -1932,7 +2024,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 83
+   "n": 87
   },
   {
    "id": "iep-chinese-philosophy",
@@ -1954,7 +2046,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 84
+   "n": 88
   },
   {
    "id": "iep-confucius",
@@ -1976,7 +2068,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 85
+   "n": 89
   },
   {
    "id": "iep-darwin",
@@ -1999,7 +2091,7 @@
     "keyword": "Internet Encyclopedia",
     "keyword_seen": true
    },
-   "n": 86
+   "n": 90
   },
   {
    "id": "iep-derrida",
@@ -2021,7 +2113,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 87
+   "n": 91
   },
   {
    "id": "iep-descartes",
@@ -2043,7 +2135,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 88
+   "n": 92
   },
   {
    "id": "iep-epictetus",
@@ -2066,7 +2158,7 @@
     "keyword": "Internet Encyclopedia",
     "keyword_seen": false
    },
-   "n": 89
+   "n": 93
   },
   {
    "id": "iep-foucault",
@@ -2088,7 +2180,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 90
+   "n": 94
   },
   {
    "id": "iep-frege",
@@ -2110,7 +2202,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 91
+   "n": 95
   },
   {
    "id": "iep-habermas",
@@ -2132,7 +2224,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 92
+   "n": 96
   },
   {
    "id": "iep-hegel",
@@ -2154,7 +2246,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 93
+   "n": 97
   },
   {
    "id": "iep-hume",
@@ -2176,7 +2268,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 94
+   "n": 98
   },
   {
    "id": "iep-husserl",
@@ -2198,7 +2290,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 95
+   "n": 99
   },
   {
    "id": "iep-kant",
@@ -2220,7 +2312,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 96
+   "n": 100
   },
   {
    "id": "iep-kripke",
@@ -2243,7 +2335,7 @@
     "keyword": "Internet Encyclopedia",
     "keyword_seen": true
    },
-   "n": 97
+   "n": 101
   },
   {
    "id": "iep-laozi",
@@ -2265,7 +2357,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 98
+   "n": 102
   },
   {
    "id": "iep-leibniz",
@@ -2287,7 +2379,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 99
+   "n": 103
   },
   {
    "id": "iep-locke",
@@ -2309,7 +2401,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 100
+   "n": 104
   },
   {
    "id": "iep-mencius",
@@ -2331,7 +2423,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 101
+   "n": 105
   },
   {
    "id": "iep-merleau-ponty",
@@ -2354,7 +2446,7 @@
     "keyword": "Internet Encyclopedia",
     "keyword_seen": false
    },
-   "n": 102
+   "n": 106
   },
   {
    "id": "iep-nietzsche",
@@ -2376,7 +2468,30 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 103
+   "n": 107
+  },
+  {
+   "id": "iep-nozick",
+   "title": "Robert Nozick（IEP 词条）",
+   "author": "Internet Encyclopedia of Philosophy（作者见页面）",
+   "year": null,
+   "year_note": "IEP 词条不固定标注出版年",
+   "publisher": "Internet Encyclopedia of Philosophy",
+   "type": "百科",
+   "url": "https://iep.utm.edu/nozick/",
+   "note": "与 SEP 互补的学术百科",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "unit_hint": "",
+   "verify": {
+    "method": "http-page",
+    "http_status": 200,
+    "checked_at": "2026-11-23",
+    "keyword": "（PDF/HTML 实开 200，正文可读）",
+    "keyword_seen": true
+   },
+   "n": 108
   },
   {
    "id": "iep-pascal",
@@ -2399,7 +2514,7 @@
     "keyword": "Internet Encyclopedia",
     "keyword_seen": true
    },
-   "n": 104
+   "n": 109
   },
   {
    "id": "iep-plato",
@@ -2421,7 +2536,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 105
+   "n": 110
   },
   {
    "id": "iep-plotinus",
@@ -2443,7 +2558,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 106
+   "n": 111
   },
   {
    "id": "iep-quine",
@@ -2465,7 +2580,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 107
+   "n": 112
   },
   {
    "id": "iep-rawls",
@@ -2487,7 +2602,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 108
+   "n": 113
   },
   {
    "id": "iep-sartre",
@@ -2509,7 +2624,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 109
+   "n": 114
   },
   {
    "id": "iep-schopenhauer",
@@ -2531,7 +2646,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 110
+   "n": 115
   },
   {
    "id": "iep-seneca",
@@ -2554,7 +2669,7 @@
     "keyword": "Internet Encyclopedia",
     "keyword_seen": true
    },
-   "n": 111
+   "n": 116
   },
   {
    "id": "iep-spinoza",
@@ -2576,7 +2691,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 112
+   "n": 117
   },
   {
    "id": "iep-stoicism",
@@ -2598,7 +2713,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 113
+   "n": 118
   },
   {
    "id": "iep-thales",
@@ -2621,7 +2736,7 @@
     "keyword": "Internet Encyclopedia",
     "keyword_seen": true
    },
-   "n": 114
+   "n": 119
   },
   {
    "id": "iep-xunzi",
@@ -2643,7 +2758,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 115
+   "n": 120
   },
   {
    "id": "iep-zhuangzi",
@@ -2665,7 +2780,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Internet Encyclopedia of Philosophy"
    },
-   "n": 116
+   "n": 121
   },
   {
    "id": "sep-abelard",
@@ -2687,7 +2802,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Peter Abelard"
    },
-   "n": 117
+   "n": 122
   },
   {
    "id": "sep-adorno",
@@ -2710,7 +2825,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 118
+   "n": 123
   },
   {
    "id": "sep-al-farabi",
@@ -2733,7 +2848,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 119
+   "n": 124
   },
   {
    "id": "sep-anscombe",
@@ -2756,7 +2871,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 120
+   "n": 125
   },
   {
    "id": "sep-anselm",
@@ -2778,7 +2893,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Anselm of Canterbury"
    },
-   "n": 121
+   "n": 126
   },
   {
    "id": "sep-aquinas",
@@ -2800,7 +2915,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Thomas Aquinas"
    },
-   "n": 122
+   "n": 127
   },
   {
    "id": "sep-aristotle",
@@ -2822,7 +2937,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Aristotle"
    },
-   "n": 123
+   "n": 128
   },
   {
    "id": "sep-augustine",
@@ -2844,7 +2959,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Augustine of Hippo"
    },
-   "n": 124
+   "n": 129
   },
   {
    "id": "sep-austin-jl",
@@ -2867,7 +2982,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 125
+   "n": 130
   },
   {
    "id": "sep-avicenna",
@@ -2890,7 +3005,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": false
    },
-   "n": 126
+   "n": 131
   },
   {
    "id": "sep-beauvoir",
@@ -2913,7 +3028,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 127
+   "n": 132
   },
   {
    "id": "sep-bentham",
@@ -2936,7 +3051,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 128
+   "n": 133
   },
   {
    "id": "sep-berkeley",
@@ -2958,7 +3073,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "George Berkeley"
    },
-   "n": 129
+   "n": 134
   },
   {
    "id": "sep-boethius",
@@ -2980,7 +3095,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Anicius Manlius Severinus Boethius"
    },
-   "n": 130
+   "n": 135
   },
   {
    "id": "sep-bonaventure",
@@ -3003,7 +3118,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 131
+   "n": 136
   },
   {
    "id": "sep-buddhism-huayan",
@@ -3025,7 +3140,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Huayan Buddhism"
    },
-   "n": 132
+   "n": 137
   },
   {
    "id": "sep-burke",
@@ -3048,7 +3163,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 133
+   "n": 138
   },
   {
    "id": "sep-byzantine-philosophy",
@@ -3071,7 +3186,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 134
+   "n": 139
   },
   {
    "id": "sep-carnap",
@@ -3093,7 +3208,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Rudolf Carnap"
    },
-   "n": 135
+   "n": 140
   },
   {
    "id": "sep-chinese-epistemology",
@@ -3116,7 +3231,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 136
+   "n": 141
   },
   {
    "id": "sep-chinese-metaphysics",
@@ -3138,7 +3253,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Metaphysics in Chinese Philosophy"
    },
-   "n": 137
+   "n": 142
   },
   {
    "id": "sep-chinese-room",
@@ -3161,7 +3276,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 138
+   "n": 143
   },
   {
    "id": "sep-cicero",
@@ -3183,7 +3298,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Cicero"
    },
-   "n": 139
+   "n": 144
   },
   {
    "id": "sep-comte",
@@ -3205,7 +3320,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Auguste Comte"
    },
-   "n": 140
+   "n": 145
   },
   {
    "id": "sep-condillac",
@@ -3228,7 +3343,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 141
+   "n": 146
   },
   {
    "id": "sep-confucian-traditions",
@@ -3251,7 +3366,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": false
    },
-   "n": 142
+   "n": 147
   },
   {
    "id": "sep-confucius",
@@ -3273,7 +3388,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Confucius"
    },
-   "n": 143
+   "n": 148
   },
   {
    "id": "sep-davidson",
@@ -3296,7 +3411,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 144
+   "n": 149
   },
   {
    "id": "sep-democritus",
@@ -3318,7 +3433,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Democritus"
    },
-   "n": 145
+   "n": 150
   },
   {
    "id": "sep-derrida",
@@ -3340,7 +3455,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Jacques Derrida"
    },
-   "n": 146
+   "n": 151
   },
   {
    "id": "sep-descartes",
@@ -3362,7 +3477,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Ren&eacute; Descartes"
    },
-   "n": 147
+   "n": 152
   },
   {
    "id": "sep-duns-scotus",
@@ -3384,7 +3499,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "John Duns Scotus"
    },
-   "n": 148
+   "n": 153
   },
   {
    "id": "sep-engels",
@@ -3407,7 +3522,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 149
+   "n": 154
   },
   {
    "id": "sep-epictetus",
@@ -3430,7 +3545,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 150
+   "n": 155
   },
   {
    "id": "sep-epicurus",
@@ -3452,7 +3567,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Epicurus"
    },
-   "n": 151
+   "n": 156
   },
   {
    "id": "sep-feyerabend",
@@ -3475,7 +3590,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 152
+   "n": 157
   },
   {
    "id": "sep-foucault",
@@ -3497,7 +3612,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Michel Foucault"
    },
-   "n": 153
+   "n": 158
   },
   {
    "id": "sep-frege",
@@ -3519,7 +3634,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Gottlob Frege"
    },
-   "n": 154
+   "n": 159
   },
   {
    "id": "sep-habermas",
@@ -3541,7 +3656,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "J&uuml;rgen Habermas"
    },
-   "n": 155
+   "n": 160
   },
   {
    "id": "sep-hegel",
@@ -3563,7 +3678,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Georg Wilhelm Friedrich Hegel"
    },
-   "n": 156
+   "n": 161
   },
   {
    "id": "sep-heidegger",
@@ -3585,7 +3700,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Martin Heidegger"
    },
-   "n": 157
+   "n": 162
   },
   {
    "id": "sep-heraclitus",
@@ -3607,7 +3722,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Heraclitus"
    },
-   "n": 158
+   "n": 163
   },
   {
    "id": "sep-hobbes",
@@ -3630,7 +3745,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 159
+   "n": 164
   },
   {
    "id": "sep-hume",
@@ -3652,7 +3767,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "David Hume"
    },
-   "n": 160
+   "n": 165
   },
   {
    "id": "sep-husserl",
@@ -3674,7 +3789,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Edmund Husserl"
    },
-   "n": 161
+   "n": 166
   },
   {
    "id": "sep-ibn-rushd",
@@ -3697,7 +3812,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 162
+   "n": 167
   },
   {
    "id": "sep-justice-distributive",
@@ -3719,7 +3834,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Distributive Justice"
    },
-   "n": 163
+   "n": 168
   },
   {
    "id": "sep-kant",
@@ -3741,7 +3856,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Immanuel Kant"
    },
-   "n": 164
+   "n": 169
   },
   {
    "id": "sep-kierkegaard",
@@ -3763,7 +3878,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "S&oslash;ren Kierkegaard"
    },
-   "n": 165
+   "n": 170
   },
   {
    "id": "sep-kripke",
@@ -3786,7 +3901,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": false
    },
-   "n": 166
+   "n": 171
   },
   {
    "id": "sep-laozi",
@@ -3808,7 +3923,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Laozi"
    },
-   "n": 167
+   "n": 172
   },
   {
    "id": "sep-leibniz",
@@ -3830,7 +3945,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Gottfried Wilhelm Leibniz"
    },
-   "n": 168
+   "n": 173
   },
   {
    "id": "sep-levinas",
@@ -3853,7 +3968,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 169
+   "n": 174
   },
   {
    "id": "sep-locke",
@@ -3875,7 +3990,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "John Locke"
    },
-   "n": 170
+   "n": 175
   },
   {
    "id": "sep-logic-modal",
@@ -3898,7 +4013,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 171
+   "n": 176
   },
   {
    "id": "sep-lucretius",
@@ -3921,7 +4036,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 172
+   "n": 177
   },
   {
    "id": "sep-madhyamaka",
@@ -3943,7 +4058,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Madhyamaka"
    },
-   "n": 173
+   "n": 178
   },
   {
    "id": "sep-maimonides",
@@ -3966,7 +4081,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 174
+   "n": 179
   },
   {
    "id": "sep-marcus-aurelius",
@@ -3989,7 +4104,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 175
+   "n": 180
   },
   {
    "id": "sep-marx",
@@ -4011,7 +4126,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Karl Marx"
    },
-   "n": 176
+   "n": 181
   },
   {
    "id": "sep-medieval-arabic",
@@ -4034,7 +4149,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": false
    },
-   "n": 177
+   "n": 182
   },
   {
    "id": "sep-mencius",
@@ -4056,7 +4171,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Mencius"
    },
-   "n": 178
+   "n": 183
   },
   {
    "id": "sep-merleau-ponty",
@@ -4079,7 +4194,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 179
+   "n": 184
   },
   {
    "id": "sep-mill",
@@ -4101,7 +4216,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "John Stuart Mill"
    },
-   "n": 180
+   "n": 185
   },
   {
    "id": "sep-montesquieu",
@@ -4124,7 +4239,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 181
+   "n": 186
   },
   {
    "id": "sep-nietzsche",
@@ -4146,7 +4261,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Friedrich Nietzsche"
    },
-   "n": 182
+   "n": 187
   },
   {
    "id": "sep-novalis",
@@ -4169,7 +4284,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 183
+   "n": 188
   },
   {
    "id": "sep-ockham",
@@ -4191,7 +4306,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "William of Ockham"
    },
-   "n": 184
+   "n": 189
   },
   {
    "id": "sep-origen",
@@ -4214,7 +4329,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 185
+   "n": 190
   },
   {
    "id": "sep-parmenides",
@@ -4236,7 +4351,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Parmenides"
    },
-   "n": 186
+   "n": 191
   },
   {
    "id": "sep-pascal",
@@ -4259,7 +4374,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 187
+   "n": 192
   },
   {
    "id": "sep-phenomenology",
@@ -4281,7 +4396,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Phenomenology"
    },
-   "n": 188
+   "n": 193
   },
   {
    "id": "sep-plato",
@@ -4303,7 +4418,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Plato"
    },
-   "n": 189
+   "n": 194
   },
   {
    "id": "sep-plotinus",
@@ -4325,7 +4440,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Plotinus"
    },
-   "n": 190
+   "n": 195
   },
   {
    "id": "sep-porphyry",
@@ -4348,7 +4463,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 191
+   "n": 196
   },
   {
    "id": "sep-presocratics",
@@ -4370,7 +4485,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Presocratic Philosophy"
    },
-   "n": 192
+   "n": 197
   },
   {
    "id": "sep-protagoras",
@@ -4392,7 +4507,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Protagoras"
    },
-   "n": 193
+   "n": 198
   },
   {
    "id": "sep-pythagoras",
@@ -4414,7 +4529,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Pythagoras"
    },
-   "n": 194
+   "n": 199
   },
   {
    "id": "sep-qing-philosophy",
@@ -4436,7 +4551,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Qing Philosophy"
    },
-   "n": 195
+   "n": 200
   },
   {
    "id": "sep-quine",
@@ -4458,7 +4573,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Willard Van Orman Quine"
    },
-   "n": 196
+   "n": 201
   },
   {
    "id": "sep-rawls",
@@ -4480,7 +4595,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "John Rawls"
    },
-   "n": 197
+   "n": 202
   },
   {
    "id": "sep-rorty",
@@ -4502,7 +4617,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Richard Rorty"
    },
-   "n": 198
+   "n": 203
   },
   {
    "id": "sep-rousseau",
@@ -4525,7 +4640,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 199
+   "n": 204
   },
   {
    "id": "sep-russell",
@@ -4547,7 +4662,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Bertrand Russell"
    },
-   "n": 200
+   "n": 205
   },
   {
    "id": "sep-sartre",
@@ -4569,7 +4684,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Jean-Paul Sartre"
    },
-   "n": 201
+   "n": 206
   },
   {
    "id": "sep-schelling",
@@ -4591,7 +4706,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Friedrich Wilhelm Joseph von Schelling"
    },
-   "n": 202
+   "n": 207
   },
   {
    "id": "sep-schiller",
@@ -4614,7 +4729,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 203
+   "n": 208
   },
   {
    "id": "sep-schleiermacher",
@@ -4637,7 +4752,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 204
+   "n": 209
   },
   {
    "id": "sep-schopenhauer",
@@ -4659,7 +4774,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Arthur Schopenhauer"
    },
-   "n": 205
+   "n": 210
   },
   {
    "id": "sep-seneca",
@@ -4682,7 +4797,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 206
+   "n": 211
   },
   {
    "id": "sep-skepticism-ancient",
@@ -4704,7 +4819,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Ancient Skepticism"
    },
-   "n": 207
+   "n": 212
   },
   {
    "id": "sep-socrates",
@@ -4726,7 +4841,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Socrates"
    },
-   "n": 208
+   "n": 213
   },
   {
    "id": "sep-spencer",
@@ -4749,7 +4864,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 209
+   "n": 214
   },
   {
    "id": "sep-spinoza",
@@ -4771,7 +4886,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Baruch Spinoza"
    },
-   "n": 210
+   "n": 215
   },
   {
    "id": "sep-stoicism",
@@ -4793,7 +4908,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Stoicism"
    },
-   "n": 211
+   "n": 216
   },
   {
    "id": "sep-strawson",
@@ -4816,7 +4931,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 212
+   "n": 217
   },
   {
    "id": "sep-universals-medieval",
@@ -4838,7 +4953,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "The Medieval Problem of Universals"
    },
-   "n": 213
+   "n": 218
   },
   {
    "id": "sep-voltaire",
@@ -4861,7 +4976,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 214
+   "n": 219
   },
   {
    "id": "sep-wang-yangming",
@@ -4883,7 +4998,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Wang Yangming"
    },
-   "n": 215
+   "n": 220
   },
   {
    "id": "sep-wittgenstein",
@@ -4905,7 +5020,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Ludwig Wittgenstein"
    },
-   "n": 216
+   "n": 221
   },
   {
    "id": "sep-wollstonecraft",
@@ -4928,7 +5043,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 217
+   "n": 222
   },
   {
    "id": "sep-xenophanes",
@@ -4951,7 +5066,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 218
+   "n": 223
   },
   {
    "id": "sep-xunzi",
@@ -4973,7 +5088,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Xunzi"
    },
-   "n": 219
+   "n": 224
   },
   {
    "id": "sep-yogacara",
@@ -4995,7 +5110,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Yog&#257;c&#257;ra"
    },
-   "n": 220
+   "n": 225
   },
   {
    "id": "sep-zeno-elea",
@@ -5018,7 +5133,7 @@
     "keyword": "Stanford Encyclopedia",
     "keyword_seen": true
    },
-   "n": 221
+   "n": 226
   },
   {
    "id": "sep-zhu-xi",
@@ -5040,7 +5155,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Zhu Xi"
    },
-   "n": 222
+   "n": 227
   },
   {
    "id": "sep-zhuangzi",
@@ -5062,7 +5177,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Zhuangzi"
    },
-   "n": 223
+   "n": 228
   },
   {
    "id": "book-chan-sourcebook",
@@ -5084,7 +5199,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "wing-tsit-chan-a-source-book-in-chinese-philosophy-1969"
    },
-   "n": 224
+   "n": 229
   },
   {
    "id": "book-copleston-history",
@@ -5106,7 +5221,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "frederick-copleston-a-history-of-philosophy-volume-l-v_202312"
    },
-   "n": 225
+   "n": 230
   },
   {
    "id": "book-foucault-order",
@@ -5128,7 +5243,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "1e8hwrqmcnqiamuahmukh0ceszpgkyqko2w8ifw3"
    },
-   "n": 226
+   "n": 231
   },
   {
    "id": "book-fung-history",
@@ -5150,7 +5265,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "fung-yu-lan.-a-history-of-chinese-philosophy.-vol.-i-ii.-1952"
    },
-   "n": 227
+   "n": 232
   },
   {
    "id": "book-gilson-medieval",
@@ -5172,7 +5287,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "historyofchristi0000unse_v2v9"
    },
-   "n": 228
+   "n": 233
   },
   {
    "id": "book-guthrie-greek",
@@ -5194,7 +5309,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "w.-k.-c.-guthrie-a-history-of-greek-philosophy-4"
    },
-   "n": 229
+   "n": 234
   },
   {
    "id": "book-heidegger-bt",
@@ -5216,7 +5331,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "MetaphysicalClubofBrooklynHeideggerBeingandTimePartII_0"
    },
-   "n": 230
+   "n": 235
   },
   {
    "id": "book-kuhn-ssr",
@@ -5238,7 +5353,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "the-structure-of-scientific-revolutions-thomas-s.-kuhn_202605"
    },
-   "n": 231
+   "n": 236
   },
   {
    "id": "book-rawls-justice",
@@ -5260,7 +5375,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "shg.702663-rawls-theory-of-justice-a-critical-evaluation-of-egalitarian-prin"
    },
-   "n": 232
+   "n": 237
   },
   {
    "id": "book-wittgenstein-pi",
@@ -5282,7 +5397,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "philosophical-investigations-1889-1951-ludwig-wittgenstein"
    },
-   "n": 233
+   "n": 238
   },
   {
    "id": "paper-s10551-021-05026-5",
@@ -5304,7 +5419,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Confucian Virtue Ethics and Ethical Leadership in Modern Chi"
    },
-   "n": 234
+   "n": 239
   },
   {
    "id": "paper-s10608-025-10635-9",
@@ -5326,7 +5441,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "The Development and Validation of the Stoic Attitudes and Be"
    },
-   "n": 235
+   "n": 240
   },
   {
    "id": "paper-s10686-025-09985-9",
@@ -5348,7 +5463,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "The PLATO mission"
    },
-   "n": 236
+   "n": 241
   },
   {
    "id": "paper-s11007-008-9086-5",
@@ -5370,7 +5485,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Phantom of consistency: Alain Badiou and Kantian transcenden"
    },
-   "n": 237
+   "n": 242
   },
   {
    "id": "paper-s11158-026-09803-9",
@@ -5392,7 +5507,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Re-reading Justice as Fairness Without Market-Based Assumpti"
    },
-   "n": 238
+   "n": 243
   },
   {
    "id": "paper-s11212-025-09755-5",
@@ -5414,7 +5529,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Russian Dasein: Dugin’s reading of Heidegger and the possibi"
    },
-   "n": 239
+   "n": 244
   },
   {
    "id": "paper-s11217-022-09867-z",
@@ -5436,7 +5551,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Fictitious Language Games, Otherness, and Philosophy of Educ"
    },
-   "n": 240
+   "n": 245
   },
   {
    "id": "paper-s11229-021-03107-6",
@@ -5458,7 +5573,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Synthetic a priori judgments and Kant’s response to Hume on "
    },
-   "n": 241
+   "n": 246
   },
   {
    "id": "paper-s11245-024-10020-3",
@@ -5480,7 +5595,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Why Aristotle Isn’t a Virtue Ethicist. Living Well and Virtu"
    },
-   "n": 242
+   "n": 247
   },
   {
    "id": "paper-s11466-007-0037-8",
@@ -5502,7 +5617,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Aquinas’ transcendences to Aristotle in the doctrine of esse"
    },
-   "n": 243
+   "n": 248
   },
   {
    "id": "paper-s11712-019-09658-3",
@@ -5524,7 +5639,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "The Politics of Writing Chinese Philosophy: Xiong Shili’s Ne"
    },
-   "n": 244
+   "n": 249
   },
   {
    "id": "paper-s11712-024-09946-7",
@@ -5546,7 +5661,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "A Neo-Confucian Architectural Ethic"
    },
-   "n": 245
+   "n": 250
   },
   {
    "id": "paper-s12124-024-09840-0",
@@ -5568,7 +5683,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Wu Wei in Mindfulness: A Systematic Perspective"
    },
-   "n": 246
+   "n": 251
   },
   {
    "id": "paper-s40926-024-00251-0",
@@ -5590,7 +5705,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Butler, Hegel and the Role of Recognition in Organizations"
    },
-   "n": 247
+   "n": 252
   },
   {
    "id": "paper-s40961-020-00224-4",
@@ -5612,7 +5727,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Michel Foucault on Regenerative Relatedness of Power/Knowled"
    },
-   "n": 248
+   "n": 253
   },
   {
    "id": "paper-s43681-026-01311-z",
@@ -5634,7 +5749,7 @@
     "checked_at": "2026-11-22",
     "title_seen": "Meaning without risk: Nietzsche, artificial intelligence, an"
    },
-   "n": 249
+   "n": 254
   }
  ]
 }

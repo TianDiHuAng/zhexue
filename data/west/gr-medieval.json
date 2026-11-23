@@ -766,12 +766,12 @@
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>安瑟尔谟：由概念到存在的推论</text><defs><marker id='arm3' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='48' y='56' width='208' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='152' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>前提一：概念在心中</text><text x='152' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>愚人也听懂“无与伦比之大者”</text><rect x='504' y='56' width='208' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='608' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>反设：只在心中</text><text x='608' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>则可设想更伟大者在现实</text><line x1='256' y1='86' x2='330' y2='86' stroke='#4a7ba6' marker-end='url(#arm3)'/><line x1='504' y1='86' x2='430' y2='86' stroke='#4a7ba6' marker-end='url(#arm3)'/><rect x='334' y='56' width='92' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='80' text-anchor='middle' font-size='12' fill='#1c3a5c'>矛盾</text><text x='380' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>与定义冲突</text><line x1='380' y1='116' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#arm3)'/><rect x='180' y='160' width='400' height='62' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='184' text-anchor='middle' font-size='13' fill='#1c3a5c'>故不能只在心中存在</text><text x='380' y='206' text-anchor='middle' font-size='10' fill='#1e2d3d'>第 3 章再进一步：不能设想其不存在</text><line x1='380' y1='222' x2='380' y2='258' stroke='#4a7ba6' marker-end='url(#arm3)'/><rect x='110' y='262' width='540' height='62' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='286' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论：其存在是必然的，非偶然事实</text><text x='380' y='308' text-anchor='middle' font-size='10' fill='#1e2d3d'>高尼罗以“迷失岛”反驳，安瑟尔谟答以唯一性条件</text><text x='380' y='356' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：论证的文字见《宣讲》第 2—3 章，本图为结构重构</text></svg>",
    "svg_caption": "安瑟尔谟：由“无与伦比之大者”到其必然存在的论证结构（重构示意图）",
    "sources": [
-    "sep-anselm",
-    "sep-universals-medieval",
-    "book-gilson-medieval"
+    "iep-anselm",
+    "book-gilson-medieval",
+    "sep-aquinas"
    ],
    "needs_verification": true,
-   "pending_notes": "《宣讲》《独白》暂无已通过核验的原典在线来源（sources.json 中只有《忏悔录》《上帝之城》《神学大全》三部原典 verified），故本页未收直引；引文待补原典来源。",
+   "pending_notes": "IEP 安瑟尔谟词条已实开核验（原缺词条的问题已解决）；但《宣讲》《独白》尚无已核验的原典在线来源，故 quotes 留空，论证步骤依词条与中世纪哲学史对照。",
    "doctrine": {
     "summary": "安瑟尔谟以“信仰寻求理解”（fides quaerens intellectum）为纲领，主张先信后以理性探究信仰的内容。其《宣讲》第 2—3 章提出“本体论论证”：可设想无与伦比之大者（id quo maius cogitare non potest）若只存在于心中，则还可设想其存在于现实中，故它必存在于现实；高尼罗以“迷失岛”反驳。",
     "system": [

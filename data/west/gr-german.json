@@ -1639,6 +1639,46 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-german-intellectual-intuition",
+   "term": "智性直观",
+   "term_latin": "intellektuelle Anschauung",
+   "definition": "德国唯心论的核心概念：不通过概念中介而直接把握绝对者（主体与客体的同一）的那种认识能力。康德否认人具有智性直观（只承认上帝有），费希特、谢林则把它设为哲学的开端。",
+   "usages": [
+    {
+     "name": "康德",
+     "id": "gr-german-kant",
+     "usage": "人只有感性直观；智性直观不属于人，故“物自体”不可被认识。"
+    },
+    {
+     "name": "谢林",
+     "id": "gr-german-schelling",
+     "usage": "智性直观是把握“绝对者＝主客无差别”的唯一工具，艺术直观是其客观化形式。"
+    },
+    {
+     "name": "费希特",
+     "id": "gr-german-fichte",
+     "usage": "“自我设定自身”即一种智性直观：在行动中直接意识到自身的活动。"
+    }
+   ],
+   "related": [
+    "gr-german-absolute-spirit",
+    "gr-german-dialectic",
+    "gr-german-ding-an-sich"
+   ],
+   "example": {
+    "text": "谢林说，哲学若要从“绝对者”出发，就不能再用概念去分割它，只能以智性直观在自身中直接把握主客未分的状态；艺术则把这一直观客观化，故“艺术是哲学的器官”。",
+    "figure": "谢林",
+    "locator": "《先验唯心论体系》导论"
+   },
+   "sources": [
+    "sep-schelling",
+    "sep-kant",
+    "sep-hegel"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

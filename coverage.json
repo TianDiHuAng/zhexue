@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 409,
+  "entries": 418,
   "by_level": {
-   "L2": 344,
-   "L1": 65
+   "L2": 355,
+   "L1": 63
   },
   "doctrine": {
    "total": 150,
    "detail": 150,
    "auto": 0
   },
-  "needs_verification": 65,
-  "sources": 249,
-  "sources_verified": 233
+  "needs_verification": 63,
+  "sources": 254,
+  "sources_verified": 238
  },
  "units": [
   {
@@ -111,7 +111,7 @@
    "title": "德国古典哲学",
    "region": "west",
    "philosophers": 8,
-   "concepts": 9,
+   "concepts": 10,
    "debates": 3,
    "philosophers_slot": "8 上限，余 0"
   },
@@ -2515,8 +2515,8 @@
    "title": "诺齐克",
    "container": "gr-contemp",
    "level": "L1",
-   "sources": 2,
-   "verified_sources": 2,
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -2636,8 +2636,8 @@
    "title": "资格",
    "container": "gr-contemp",
    "level": "L1",
-   "sources": 2,
-   "verified_sources": 2,
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -2935,6 +2935,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-german-intellectual-intuition",
+   "type": "concept",
+   "title": "智性直观",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -3515,10 +3526,10 @@
    "type": "philosopher",
    "title": "培根",
    "container": "gr-modern",
-   "level": "L1",
-   "sources": 2,
-   "verified_sources": 2,
-   "needs_verification": true,
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -3538,8 +3549,8 @@
    "title": "斯宾诺莎",
    "container": "gr-modern",
    "level": "L1",
-   "sources": 2,
-   "verified_sources": 2,
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -3592,10 +3603,10 @@
    "type": "philosopher",
    "title": "帕斯卡",
    "container": "gr-modern",
-   "level": "L1",
-   "sources": 2,
-   "verified_sources": 2,
-   "needs_verification": true,
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -3907,6 +3918,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-baopuzi",
+   "type": "work",
+   "title": "《抱朴子》",
+   "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-zhaolun",
    "type": "work",
    "title": "《肇论》",
@@ -3944,6 +3966,28 @@
    "type": "work",
    "title": "《成唯识论》",
    "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-yuandao",
+   "type": "work",
+   "title": "《原道》",
+   "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-guide-perplexed",
+   "type": "work",
+   "title": "《迷途指津》",
+   "container": "west",
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
@@ -4006,6 +4050,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-leviathan",
+   "type": "work",
+   "title": "《利维坦》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-two-treatises",
    "type": "work",
    "title": "《政府论》两篇",
@@ -4039,6 +4094,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-spirit-laws",
+   "type": "work",
+   "title": "《论法的精神》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-social-contract",
+   "type": "work",
+   "title": "《社会契约论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-krv",
    "type": "work",
    "title": "《纯粹理性批判》",
@@ -4053,6 +4130,17 @@
    "id": "work-cpr-practical",
    "type": "work",
    "title": "《实践理性批判》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-aesthetic-letters",
+   "type": "work",
+   "title": "《美育书简》",
    "container": "west",
    "level": "L2",
    "sources": 2,
@@ -4086,6 +4174,17 @@
    "id": "work-on-liberty",
    "type": "work",
    "title": "《论自由》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-origin-species",
+   "type": "work",
+   "title": "《物种起源》",
    "container": "west",
    "level": "L2",
    "sources": 2,
