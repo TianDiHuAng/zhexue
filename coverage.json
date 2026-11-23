@@ -1,29 +1,29 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 745,
+  "entries": 750,
   "by_level": {
-   "L2": 625,
-   "L1": 120
+   "L2": 627,
+   "L1": 123
   },
   "doctrine": {
-   "total": 221,
-   "detail": 221,
+   "total": 222,
+   "detail": 222,
    "auto": 0
   },
-  "needs_verification": 120,
-  "sources": 325,
-  "sources_verified": 321
+  "needs_verification": 123,
+  "sources": 329,
+  "sources_verified": 325
  },
  "units": [
   {
    "unit_id": "cn-lianghan",
    "title": "两汉经学与气论",
    "region": "china",
-   "philosophers": 12,
+   "philosophers": 13,
    "concepts": 14,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -4"
+   "philosophers_slot": "8 上限，余 -5"
   },
   {
    "unit_id": "cn-qingmod",
@@ -274,6 +274,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-sima-tan",
+   "type": "philosopher",
+   "title": "司马谈",
+   "container": "cn-lianghan",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -6283,6 +6294,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-liujia-yaozhi",
+   "type": "work",
+   "title": "《论六家要旨》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-dererum-natura",
    "type": "work",
    "title": "《物性论》",
@@ -6298,6 +6320,28 @@
    "type": "work",
    "title": "《论义务》",
    "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-taixuan",
+   "type": "work",
+   "title": "《太玄》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-fayan",
+   "type": "work",
+   "title": "《法言》",
+   "container": "china",
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
@@ -6342,6 +6386,17 @@
    "type": "work",
    "title": "《手册》",
    "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-qianfu-lun",
+   "type": "work",
+   "title": "《潜夫论》",
+   "container": "china",
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,

@@ -1872,6 +1872,62 @@
    "sort_year": -139
   },
   {
+   "id": "work-liujia-yaozhi",
+   "title": "《论六家要旨》",
+   "title_original": "論六家要旨",
+   "tradition": "china",
+   "date_display": "约前110年（录于《史记·太史公自序》）",
+   "structure": "一篇：先总论“六家”之分工，再逐一评阴阳、儒、墨、名、法、道德六家之“得”与“失”，末推重道家。",
+   "core_arguments": [
+    "六家各得一偏，故各有其得亦各有其失",
+    "道家能“因阴阳之大顺，采儒墨之善，撮名法之要”，故能兼综",
+    "评断的判准是“务为治”，非形而上学真伪"
+   ],
+   "key_points": [
+    {
+     "locator": "总论",
+     "point": "六家分工与“务为治”"
+    },
+    {
+     "locator": "评阴阳家",
+     "point": "“大祥而众忌讳，使人拘而多所畏”"
+    },
+    {
+     "locator": "评儒家",
+     "point": "“博而寡要，劳而少功”"
+    },
+    {
+     "locator": "评道家",
+     "point": "“因阴阳之大顺……指约而易操，事少而功多”"
+    }
+   ],
+   "editions": [
+    "《史記》（四部叢刊本）卷一百三十；中华书局点校本《史记》第十册"
+   ],
+   "related_people": [
+    "cn-lianghan-sima-tan",
+    "cn-xianqin-laozi",
+    "cn-lianghan-lu-jia"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是司马迁的作品",
+     "why": "它是司马谈的论述，由司马迁录入《太史公自序》；父子立场不同（司马迁更近儒家）。"
+    },
+    {
+     "claim": "它确立了“六家”的定论",
+     "why": "《汉书·艺文志》改为“十家”（增纵横、杂、农、小说），后世目录学多承班固。"
+    }
+   ],
+   "sources": [
+    "ws-shiji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本文见《史记·太史公自序》与《汉书·司马迁传》，两处文字略有出入；作者归属（司马谈口述、司马迁录入）为学界通行看法，但具体段落的分工仍有讨论。",
+   "sort_year": -110
+  },
+  {
    "id": "work-dererum-natura",
    "title": "《物性论》",
    "title_original": "De rerum natura",
@@ -1983,6 +2039,117 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": -44
+  },
+  {
+   "id": "work-taixuan",
+   "title": "《太玄》",
+   "title_original": "太玄經",
+   "tradition": "china",
+   "date_display": "约公元5年",
+   "structure": "仿《易》而作：以“方、州、部、家”四重划分八十一首，每首九赞，共七百二十九赞；附《玄首》《玄测》《玄攡》等。",
+   "core_arguments": [
+    "以“玄”为万物之本原，兼摄阴阳而与《易》的“太极”相当",
+    "以三方九州二十七部八十一家取代六十四卦的体系",
+    "历法与卦气相结合，构成一个宇宙论图式"
+   ],
+   "key_points": [
+    {
+     "locator": "《玄首》",
+     "point": "“玄”的本原义"
+    },
+    {
+     "locator": "《玄测》",
+     "point": "八十一首的占测"
+    },
+    {
+     "locator": "《玄攡》",
+     "point": "体系的方法说明"
+    },
+    {
+     "locator": "全书结构",
+     "point": "方州部家的四重划分"
+    }
+   ],
+   "editions": [
+    "《太玄經》（四庫全書本）；司马光《太玄经集注》"
+   ],
+   "related_people": [
+    "cn-lianghan-yang-xiong",
+    "cn-weijin-wangbi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《太玄》是占卜手册",
+     "why": "它有占测的形式，但其“玄”的本原论与四重划分是宇宙论构造，拟《易》而自成体系。"
+    },
+    {
+     "claim": "它被当时广泛接受",
+     "why": "其体系艰深，当时“观之者难知，学之者难成”，后世注家亦少（司马光为其一）。"
+    }
+   ],
+   "sources": [
+    "ws-taixuan",
+    "ws-fayan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《太玄》的八十一首与历法（七十二候、二十四气）的对应关系细节繁复，各本注解有出入；本页只述其体系结构，具体推演须核司马光集注本。",
+   "sort_year": 5
+  },
+  {
+   "id": "work-fayan",
+   "title": "《法言》",
+   "title_original": "法言",
+   "tradition": "china",
+   "date_display": "约公元10年",
+   "structure": "十三卷；仿《论语》的问答体，论学、修身、问明、寡见、重黎、渊骞等。",
+   "core_arguments": [
+    "以“尚智”取代“尚德”的单一取向：智与德不可偏废",
+    "批评谶纬与神仙方术，主张“非其鬼而祭之，谄也”式的理性",
+    "以孟子为正统，反对荀子与申韩"
+   ],
+   "key_points": [
+    {
+     "locator": "《学行》",
+     "point": "学以修性"
+    },
+    {
+     "locator": "《问明》",
+     "point": "智与明"
+    },
+    {
+     "locator": "《重黎》",
+     "point": "论历史人物与谶纬"
+    },
+    {
+     "locator": "《渊骞》",
+     "point": "评诸子"
+    }
+   ],
+   "editions": [
+    "《法言》（四庫全書本）；汪荣宝《法言义疏》中华书局"
+   ],
+   "related_people": [
+    "cn-lianghan-yang-xiong",
+    "cn-xianqin-kongzi",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《法言》只是模仿《论语》的赝品",
+     "why": "它虽仿《论语》体例，但以“尚智”与反谶纬为特色，是西汉末的思想回应，非简单模仿。"
+    },
+    {
+     "claim": "扬雄是纯儒家",
+     "why": "他兼采道家（《太玄》拟《易》而杂以老学），其“尚智”亦与孔孟的重点不同。"
+    }
+   ],
+   "sources": [
+    "ws-fayan",
+    "ws-taixuan"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 10
   },
   {
    "id": "work-de-providentia",
@@ -2212,6 +2379,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 120
+  },
+  {
+   "id": "work-qianfu-lun",
+   "title": "《潜夫论》",
+   "title_original": "潛夫論",
+   "tradition": "china",
+   "date_display": "约公元150年",
+   "structure": "三十六篇；《赞学》《务本》《遏利》《论荣》《贤难》《明暗》《考绩》《本政》《潜叹》《忠贵》《浮侈》《慎微》等。",
+   "core_arguments": [
+    "“务本”：治国以富民为本，富民以重农为本",
+    "批评浮侈与吏治腐败，主张“考绩”以核名实",
+    "以气论解释人性与命，反对谶纬的命定"
+   ],
+   "key_points": [
+    {
+     "locator": "《务本》",
+     "point": "以农为本的治道"
+    },
+    {
+     "locator": "《浮侈》",
+     "point": "对奢侈风气的批评"
+    },
+    {
+     "locator": "《考绩》",
+     "point": "核名实的吏治主张"
+    },
+    {
+     "locator": "《赞学》",
+     "point": "学以成才"
+    }
+   ],
+   "editions": [
+    "《潛夫論》（四部叢刊本）；汪继培《潜夫论笺》中华书局"
+   ],
+   "related_people": [
+    "cn-lianghan-wang-fu",
+    "cn-lianghan-wang-chong",
+    "cn-lianghan-dong-zhongshu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《潜夫论》只是政论，无哲学",
+     "why": "其气论人性、命论与“务本”的治道论都有明确的哲学预设（反谶纬、重实效）。"
+    },
+    {
+     "claim": "王符是王充的直接门人",
+     "why": "二人思想相近（都重实效、反虚妄），但无师承关系，王符略晚于王充。"
+    }
+   ],
+   "sources": [
+    "ws-qianfulun",
+    "ct-lunheng"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 150
   },
   {
    "id": "work-marcus-meditations",

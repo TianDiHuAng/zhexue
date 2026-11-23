@@ -1854,6 +1854,145 @@
      "note": "汉初黄老与儒术交汇的文本"
     }
    ]
+  },
+  {
+   "id": "cn-lianghan-sima-tan",
+   "name": "司马谈",
+   "latin": "Sima Tan",
+   "birth_year": -165,
+   "death_year": -110,
+   "birth_display": "约前165年",
+   "death_display": "前110年",
+   "birth_note": "据《史记·太史公自序》：左冯翊夏阳人，司马迁之父，官至太史令。",
+   "death_note": "前110年卒（因未能随汉武帝封禅而愤恨致病）。",
+   "era": "西汉中期。司马谈以《论六家要旨》首次系统评断先秦至汉初的六个学派（阴阳、儒、墨、名、法、道德），并明确推重道家；其分类框架成为后世“六家”说的源头，也是中国最早的学术史论述之一。",
+   "school": "黄老道家（兼综诸家）",
+   "core_questions": [
+    "诸子应如何分类？",
+    "六家各有何长短？",
+    "治学当以何家为归？"
+   ],
+   "arguments": [
+    {
+     "claim": "六家各有所长，而道家能兼综其长",
+     "premises": [
+      "阴阳、儒、墨、名、法各有其“得”与“失”。",
+      "道家“因阴阳之大顺，采儒墨之善，撮名法之要”，故能兼之。"
+     ],
+     "inference": "若六家各得一偏，则能兼其长而去其短者为最高；故司马谈推重道家（黄老），而非独尊一家。",
+     "conclusion": "六家各有所长，道家（黄老）能兼综，故为治学之归。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以“务为治”为判准评断诸子",
+     "premises": [
+      "六家的共同目标是“务为治”（求治）。",
+      "其差别在于所执之“术”与其“失”。"
+     ],
+     "inference": "若判准是“能否治”，则评断诸子不着眼于其形而上学的真伪，而着眼于其治术的得失。",
+     "conclusion": "以“治”为判准的学术史评断，而非以真伪为判准。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论六家要旨》（见《史记·太史公自序》）",
+     "edition": "《史記》（四部叢刊本）；中华书局点校本《史记》第十册",
+     "note": "司马谈口述，司马迁录于《太史公自序》"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "黄老之学与汉初政治",
+     "id": "cn-lianghan-lu-jia",
+     "note": "“无为”与“因循”的治术"
+    },
+    {
+     "name": "先秦诸子",
+     "id": null,
+     "note": "道家的思想资源"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "司马迁",
+     "id": null,
+     "note": "承其父之学而撰《史记》，但立场更近儒家"
+    },
+    {
+     "name": "班固与《汉书·艺文志》",
+     "id": null,
+     "note": "以“十家”取代“六家”，并批评道家"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "班固",
+     "view": "以“六家”的分类过于简化，且推重道家“绝去礼学、兼弃仁义”之弊。",
+     "response": "司马谈一系的回应是：其判准是治术的得失，非道德的高低；故其推重道家是就“治”而言。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-shiji",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "司马谈是道家信徒故贬低儒家",
+     "why": "他明言儒家“序君臣父子之礼，列夫妇长幼之别，不可易也”，其评断是“各有得失”，非一味贬斥。"
+    },
+    {
+     "claim": "“六家”分类自司马谈起即为定论",
+     "why": "《汉书·艺文志》改为“十家”（增纵横、杂、农、小说），后世目录学多承班固而非司马谈。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>司马谈：六家要旨与“务为治”</text><defs><marker id='aST' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>六家各得其一偏</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>道家能兼采其长</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故治学以道为归</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故判准是“能否治”而非真伪</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aST)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aST)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "司马谈：六家要旨与以“治”为判准（示意图）",
+   "sources": [
+    "ws-shiji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论六家要旨》为司马迁录入《太史公自序》，其文字与《汉书·司马迁传》所录略有出入；“六家”的确切所指与其推重“道德家”的程度，学界有不同解读。本页无专属研究文献可引（仅有原典与通论性百科），故标待核实。",
+   "doctrine": {
+    "summary": "司马谈以《论六家要旨》首次系统评断先秦至汉初六派：阴阳、儒、墨、名、法、道德。其判准是“务为治”——六家各得一偏，各有其“得”与“失”；而道家能“因阴阳之大顺，采儒墨之善，撮名法之要”，故为治学之归。这一以“能否治”为判准的学术史评断，成为后世“六家”说的源头。",
+    "system": [
+     {
+      "name": "六家分类",
+      "content": "阴阳、儒、墨、名、法、道德六派；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "各有得失",
+      "content": "六家各得一偏，故各有其长亦各有其失；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "道家兼综",
+      "content": "能兼采诸家之长，故为治学之归；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以“治”为判准",
+      "content": "评断诸子着眼于治术得失，非形而上学真伪。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "夏阳与长安（约前165—前110）",
+      "change": "太史令；精天文历算；前110 年汉武帝封禅泰山，他被留于洛阳不得参与，愤恨致病而死；临终嘱司马迁续修史书。"
+     }
+    ],
+    "reception": "《论六家要旨》是中国最早的学术史论述之一，“六家”说由此确立（后为班固“十家”所修正）；其对道家的推重反映汉初黄老之学的余绪；司马迁的《史记》承其学术视野。"
+   },
+   "works_detail": [
+    {
+     "title": "《论六家要旨》",
+     "structure": "一篇；先总论六家之要，再逐一评其得失，末推重道家。",
+     "core_thesis": "六家各有得失，道家兼综；以“治”为判准。",
+     "editions": "《史記》（四部叢刊本）卷一百三十；中华书局点校本",
+     "note": "由司马迁录入《太史公自序》"
+    }
+   ]
   }
  ],
  "concepts": [
