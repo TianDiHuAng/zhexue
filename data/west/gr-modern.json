@@ -3206,6 +3206,423 @@
      "note": "1440 年"
     }
    ]
+  },
+  {
+   "id": "gr-modern-burke",
+   "name": "伯克",
+   "latin": "Edmund Burke",
+   "birth_year": 1729,
+   "death_year": 1797,
+   "birth_display": "1729年",
+   "death_display": "1797年",
+   "birth_note": "生于都柏林；据其生平材料，父为律师。",
+   "death_note": "1797年卒于白金汉郡比肯斯菲尔德。",
+   "era": "18世纪后半叶的英国。伯克是辉格党政治家与政治思想家，以《对法国大革命的反思》奠定保守主义：他反对以抽象权利重建社会，主张以历史积累的制度、习惯与偏见（prejudice）为政治智慧的载体。",
+   "school": "保守主义（政治哲学）",
+   "core_questions": [
+    "社会能否按抽象原则重建？",
+    "传统与理性的关系如何？",
+    "权利从何而来？"
+   ],
+   "arguments": [
+    {
+     "claim": "社会是世代之间的合伙：不能由当代人任意处置",
+     "premises": [
+      "社会不仅是活着的人的结合，也包括已死与未生者。",
+      "制度承载着长期试错的经验。"
+     ],
+     "inference": "若社会是跨世代的合伙，则当代人只是受托者，无权以抽象原则整体推翻既定安排。",
+     "conclusion": "政治改革须依历史积累与具体情境，不能以抽象权利整体重建。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“偏见”有其智慧：先于论证的习惯判断常比个人理性更可靠",
+     "premises": [
+      "个人理性有限且易错。",
+      "长期存续的习惯与偏见凝聚了无数人的经验。"
+     ],
+     "inference": "若个人理性有限而传统凝聚了集体经验，则在多数情形下依传统判断比依个人推理更稳妥。",
+     "conclusion": "“偏见”（prejudice，字面为“预先判断”）是理性的补充而非对立面。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《对法国大革命的反思》《论崇高与美》《为自然社会的辩护》",
+     "edition": "《反思》中译参商务印书馆；《论崇高与美》中译参上海三联书店",
+     "note": "1790；1757；1756"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "英国宪政传统与普通法",
+     "id": "",
+     "note": "制度积累与先例的权威"
+    },
+    {
+     "name": "孟德斯鸠",
+     "id": "gr-modern-montesquieu",
+     "note": "分权与制度条件"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "近代保守主义与自由主义（哈耶克等）",
+     "id": "",
+     "note": "自发秩序与传统的作用"
+    },
+    {
+     "name": "浪漫主义政治思想",
+     "id": "",
+     "note": "情感、崇高与共同体"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "潘恩与激进派",
+     "view": "以世代合伙论否定了当代人的自主权，为既得利益辩护；抽象权利正是对抗暴政的武器。",
+     "response": "伯克一系的回应是：抽象权利不指明具体制度，易被权力借名；历史权利与具体救济更可靠。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-burke",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "伯克反对一切改革",
+     "why": "他支持过美国殖民地诉求与议会改革，反对的是以抽象原则整体重建（如法国）。"
+    },
+    {
+     "claim": "他是反动派",
+     "why": "其立场是“审慎改革”而非复辟；他区分“改革”与“拆毁”。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>伯克：世代合伙与偏见</text><defs><marker id='aBK' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>社会含已死未生者</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故当代人只是受托者</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故不能整体推翻既定安排</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故偏见是理性的补充</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aBK)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aBK)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "伯克：社会作为世代合伙（示意图）",
+   "sources": [
+    "sep-burke",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "伯克以“社会是世代之间的合伙”反对以抽象权利整体重建：社会不仅包括活着的人，也包括已死与未生者，故当代人只是受托者，无权推翻既定安排。他又为“偏见”（prejudice，预先判断）辩护：个人理性有限，而长期存续的习惯凝聚了无数人的经验，故传统判断常比个人推理可靠。其说是近代保守主义的奠基文本。",
+    "system": [
+     {
+      "name": "世代合伙",
+      "content": "社会跨世代；当代人是受托者而非所有者；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "偏见",
+      "content": "预先判断；传统凝聚集体经验，补个人理性之不足。"
+     },
+     {
+      "name": "审慎改革",
+      "content": "区分“改革”与“拆毁”；改革须依具体情境。"
+     },
+     {
+      "name": "崇高与美",
+      "content": "崇高源于自我保存的恐惧与震撼，美源于社会交往的快感（《论崇高与美》）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "都柏林、伦敦与比肯斯菲尔德（1729—1797）",
+      "change": "爱尔兰出生；1750 年代在伦敦办刊；1765 年起任议员；支持美国殖民地诉求；1790 年《反思》攻击法国大革命原则。"
+     }
+    ],
+    "reception": "其《反思》成为保守主义经典；对法国大革命的批评引发潘恩《人权论》的直接回应；其美学（崇高与美）影响康德与浪漫主义。"
+   },
+   "works_detail": [
+    {
+     "title": "《对法国大革命的反思》",
+     "structure": "论革命原则、抽象权利、传统与改革。",
+     "core_thesis": "世代合伙；偏见；审慎改革；这是该书的核心命题。",
+     "editions": "中译参商务印书馆",
+     "note": "1790 年"
+    }
+   ]
+  },
+  {
+   "id": "gr-modern-wollstonecraft",
+   "name": "沃斯通克拉夫特",
+   "latin": "Mary Wollstonecraft",
+   "birth_year": 1759,
+   "death_year": 1797,
+   "birth_display": "1759年",
+   "death_display": "1797年",
+   "birth_note": "生于伦敦斯皮塔佛德；据其书信与传记，父为织工后经营农场失败。",
+   "death_note": "1797年因产后并发症卒于伦敦。",
+   "era": "18世纪末的英国。沃斯通克拉夫特以《女权辩护》回应伯克与卢梭：若女性被排除于理性教育之外，则其“柔弱”是人为的结果；她主张以理性与公民教育使女性成为独立的主体，是近代女权思想的奠基者。",
+   "school": "启蒙女性主义（理性主义）",
+   "core_questions": [
+    "女性的“柔弱”是天生的还是造就的？",
+    "教育应否因性别而异？",
+    "女性权利的依据是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "女性的“柔弱”是教育的结果，不是天性",
+     "premises": [
+      "女性自幼被教导取悦他人、注重外表而非理性。",
+      "若给予同等教育，女性可显示同等的理性能力。"
+     ],
+     "inference": "若差异随教育条件而变，则所谓“女性气质”是人为产物；故其柔弱不能作为排除教育的理由。",
+     "conclusion": "性别差异多为教育造成，故教育须以理性为目标、不因性别而异。",
+     "kind": "原文"
+    },
+    {
+     "claim": "权利与义务相配：既为公民，则须有公民的教育与权利",
+     "premises": [
+      "有义务者须有相应的权利与判断能力。",
+      "女性承担社会与家庭的义务。"
+     ],
+     "inference": "若女性承担义务而无相应权利与教育，则义务无从履行；故须给予同等教育与公民权利。",
+     "conclusion": "女性应享有与义务相配的教育与政治权利（含参政权）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《女权辩护》《玛丽：一部小说》《瑞典、挪威与丹麦书简》",
+     "edition": "《女权辩护》中译参商务印书馆；英文本以 Oxford World's Classics 为准",
+     "note": "1792；1798；1796"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "启蒙理性主义与洛克",
+     "id": "gr-modern-locke",
+     "note": "教育与环境的作用"
+    },
+    {
+     "name": "潘恩与激进派",
+     "id": "",
+     "note": "自然权利与公民权利"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "19—20世纪女权运动",
+     "id": null,
+     "note": "教育与参政权的诉求；波伏瓦承其问题"
+    },
+    {
+     "name": "近代教育思想",
+     "id": "",
+     "note": "理性教育与人格独立"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "卢梭与当时的教育观念",
+     "view": "女性宜以取悦与柔顺为教（《爱弥儿》第五卷）；沃斯通克拉夫特直接反驳此点。",
+     "response": "沃斯通克拉夫特的回应是：柔顺是奴役的德性，不是女性的天性；以取悦为目标的教育使人失去判断力。",
+     "kind": "原文",
+     "sources": [
+      "sep-wollstonecraft",
+      "sep-rousseau"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "她主张女性模仿男性",
+     "why": "她主张以理性与人格独立为目标，不是模仿男性；她批评的正是把性别角色当作自然。"
+    },
+    {
+     "claim": "《女权辩护》只谈教育",
+     "why": "它也论政治权利、婚姻制度与公民身份，教育只是其入手处。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>沃斯通克拉夫特：教育与权利</text><defs><marker id='aMW' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>女性自幼被教以取悦</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故柔弱是人为结果</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故教育不应因性别而异</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故权利须与义务相配</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aMW)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aMW)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "沃斯通克拉夫特：教育与权利的论证（示意图）",
+   "sources": [
+    "sep-wollstonecraft",
+    "sep-rousseau"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "沃斯通克拉夫特以“柔弱是教育的结果”反驳性别天性的说法：女性自幼被教以取悦他人与注重外表，若给予同等教育，其理性能力并不逊色。由此她主张教育须以理性为目标而不因性别而异，且权利须与义务相配——女性既承担社会与家庭义务，则须有相应的教育与公民权利（含参政权）。其《女权辩护》是近代女权思想的奠基文本。",
+    "system": [
+     {
+      "name": "性别差异多为教育造成",
+      "content": "柔弱是人为产物，不能作为排除教育的理由。"
+     },
+     {
+      "name": "理性教育",
+      "content": "教育的目标是独立判断与人格，而非取悦；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "权利与义务相配",
+      "content": "承担义务者须有相应权利与判断能力；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "批评卢梭",
+      "content": "《爱弥儿》第五卷把女性教养成取悦者，恰是奴役的德性。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "伦敦与巴黎（1759—1797）",
+      "change": "自学成才；办学校、做家庭教师与译述；1792 年《女权辩护》；1797 年生女（玛丽·雪莱）后卒。"
+     }
+    ],
+    "reception": "《女权辩护》成为女权思想的奠基文本；其对卢梭教育的批评影响后世教育理论；波伏瓦《第二性》承其问题意识。"
+   },
+   "works_detail": [
+    {
+     "title": "《女权辩护》",
+     "structure": "十三章；论人类权利、性别差异、教育、婚姻与政治。",
+     "core_thesis": "性别差异是教育造成的；权利与义务相配。",
+     "editions": "中译参商务印书馆；Oxford World's Classics",
+     "note": "1792 年"
+    }
+   ]
+  },
+  {
+   "id": "gr-modern-condillac",
+   "name": "孔狄亚克",
+   "latin": "Étienne Bonnot de Condillac",
+   "birth_year": 1714,
+   "death_year": 1780,
+   "birth_display": "1714年",
+   "death_display": "1780年",
+   "birth_note": "生于法国格勒诺布尔；据其生平材料，出身法官家庭。",
+   "death_note": "1780年卒于博尼埃。",
+   "era": "18世纪法国启蒙。孔狄亚克把洛克的经验论推向彻底的感觉主义：一切心灵能力皆由感觉转化而来；他以“雕像”思想实验逐级说明感觉如何生成注意、记忆、比较、判断与意志。",
+   "school": "感觉主义（经验论）",
+   "core_questions": [
+    "心灵的能力从何而来？",
+    "语言与思维的关系如何？",
+    "知识的界限在哪里？"
+   ],
+   "arguments": [
+    {
+     "claim": "一切心灵能力都由感觉转化而来",
+     "premises": [
+      "若设想一尊雕像仅有嗅觉，则它能感受愉快与痛苦。",
+      "注意、记忆、比较、判断皆是感觉在强弱与连结上的变化。"
+     ],
+     "inference": "若逐级赋予单一感官并观察其能力生成，则可说明全部心灵能力不需另设天赋官能。",
+     "conclusion": "感觉是唯一来源，心灵能力是感觉的转化形式（感觉主义）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "语言是分析的工具：无符号则思维无法反省自身",
+     "premises": [
+      "反省需要把感觉区分并固定下来。",
+      "符号使区分得以稳定并传递。"
+     ],
+     "inference": "若无符号，则感觉只是流动的印象；故语言（符号）是分析与反省的条件，也塑造思维方式。",
+     "conclusion": "语言不只是表达工具，而是思维与反省的构成条件。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《感觉论》《人类知识起源论》《逻辑》",
+     "edition": "《感觉论》中译参商务印书馆（若有）；法文以 Œuvres 为准",
+     "note": "1754；1746；1780"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "洛克",
+     "id": "gr-modern-locke",
+     "note": "经验论与观念来源"
+    },
+    {
+     "name": "笛卡尔与马勒伯朗士",
+     "id": "gr-modern-malebranche",
+     "note": "其批评对象（天赋观念与偶因论）"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "法国唯物主义者（拉美特利、狄德罗）",
+     "id": "",
+     "note": "感觉主义的进一步激进化"
+    },
+    {
+     "name": "近代语言哲学与心理学",
+     "id": "",
+     "note": "语言与思维关系的讨论"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "唯理派与天赋观念论者",
+     "view": "以感觉为唯一来源取消了必然性与主动综合，无法说明数学与逻辑的确定性。",
+     "response": "孔狄亚克一系的回应是：必然性可由感觉的连结方式说明；但其说明是否充分，正是后世（康德）的批评点。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-condillac",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "孔狄亚克只是洛克的翻译者",
+     "why": "他把洛克的经验论改造为彻底的感觉主义，并提出“雕像”方法与语言构成论。"
+    },
+    {
+     "claim": "感觉主义否认思维",
+     "why": "它把思维解释为感觉的转化，不是否认思维存在。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>孔狄亚克：感觉与符号</text><defs><marker id='aCD' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>一切能力由感觉转化</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>注意记忆比较皆是感觉的变化</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故不需天赋官能</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故语言是反省的条件</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aCD)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aCD)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "孔狄亚克：感觉的转化与符号（示意图）",
+   "sources": [
+    "sep-condillac",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "孔狄亚克把洛克的经验论推向彻底的感觉主义：一切心灵能力（注意、记忆、比较、判断、意志）都是感觉在强弱与连结上的转化，不需另设天赋官能；他以“雕像”思想实验逐级赋予单一感官来说明这一生成过程。他又主张语言（符号）不只是表达工具，而是分析与反省的构成条件——无符号则感觉只是流动的印象。",
+    "system": [
+     {
+      "name": "感觉主义",
+      "content": "感觉是唯一来源；心灵能力是感觉的转化；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "雕像实验",
+      "content": "逐级赋予单一感官，观察能力的生成；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "语言构成论",
+      "content": "符号使区分稳定，是反省与思维的条件；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "批评天赋观念",
+      "content": "反对笛卡尔与马勒伯朗士的天赋观念与偶因论。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "格勒诺布尔与巴黎（1714—1780）",
+      "change": "出身法官家庭；与狄德罗、卢梭交往；曾任帕尔马王子教师；《感觉论》（1754）；晚年隐居著述。"
+     }
+    ],
+    "reception": "其感觉主义影响法国唯物主义者与19世纪心理学；语言构成论预示了语言相对性的讨论；“雕像”方法成为思想实验的经典。"
+   },
+   "works_detail": [
+    {
+     "title": "《感觉论》",
+     "structure": "四部分；以雕像逐级获得嗅觉、听觉、视觉等说明能力生成。",
+     "core_thesis": "感觉的转化；符号与反省；这是该书的核心命题。",
+     "editions": "中译参商务印书馆（若有）；Œuvres 法文本",
+     "note": "1754 年"
+    }
+   ]
   }
  ],
  "concepts": [

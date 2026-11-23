@@ -2198,6 +2198,423 @@
      "note": "1949 年"
     }
    ]
+  },
+  {
+   "id": "gr-20c-adorno",
+   "name": "阿多诺",
+   "latin": "Theodor W. Adorno",
+   "birth_year": 1903,
+   "death_year": 1969,
+   "birth_display": "1903年",
+   "death_display": "1969年",
+   "birth_note": "生于法兰克福；据其生平材料，父为犹太酒商，母为歌唱家。",
+   "death_note": "1969年卒于瑞士菲斯普。",
+   "era": "20世纪中叶。阿多诺是法兰克福学派第一代核心，与霍克海默合著《启蒙辩证法》；他以“否定的辩证法”拒绝同一性思维，以“文化工业”批判大众文化，并以“奥斯维辛之后写诗是野蛮的”提出历史灾难后的哲学任务。",
+   "school": "批判理论（否定的辩证法）",
+   "core_questions": [
+    "启蒙为何走向自我毁灭？",
+    "同一性思维有何问题？",
+    "艺术在文化工业中还有何可能？"
+   ],
+   "arguments": [
+    {
+     "claim": "启蒙的辩证法：启蒙以支配为目标，最终反过来支配自身",
+     "premises": [
+      "启蒙以“祛魅”和计算把握世界，把一切化约为可支配的对象。",
+      "把理性化约为工具合理性，则目的被手段吞没。"
+     ],
+     "inference": "若理性只被用作支配工具，则它无法反思自身的目的；故启蒙的胜利同时是它的自我毁灭（神话的回归）。",
+     "conclusion": "启蒙与神话互为表里：工具理性的极致产生新的神话（如种族、市场、技术）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "否定的辩证法：拒绝以概念同一化非同一者",
+     "premises": [
+      "概念总要把特殊归入普遍，从而抹去其特殊。",
+      "同一性思维是压迫的认识论形式。"
+     ],
+     "inference": "若概念必然抹去非同一者，则辩证法不应终止于综合，而应坚持否定性——让非同一者不被吞没。",
+     "conclusion": "辩证法须保持否定性，不以“总体”消解矛盾（此即对黑格尔的批评）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《启蒙辩证法》（与霍克海默合著）《否定的辩证法》《美学理论》",
+     "edition": "《启蒙辩证法》中译参上海人民出版社；《否定的辩证法》中译参商务印书馆",
+     "note": "1947；1966；1970（遗著）"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "黑格尔与马克思",
+     "id": null,
+     "note": "辩证法与异化批判"
+    },
+    {
+     "name": "本雅明与勋伯格",
+     "id": "",
+     "note": "碎片化思维与现代主义艺术"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "哈贝马斯与第二代批判理论",
+     "id": null,
+     "note": "交往理性的转向"
+    },
+    {
+     "name": "后现代主义与文化研究",
+     "id": "",
+     "note": "对同一性思维的批判"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "哈贝马斯",
+     "view": "否定的辩证法陷入“表演性矛盾”：以论证否定论证，无法给出规范基础。",
+     "response": "阿多诺一系的回应是：理论的自我反思不必提供肯定纲领，批判本身即是实践的一环。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-adorno",
+      "iep-adorno"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "阿多诺反对一切理性",
+     "why": "他反对的是工具理性／同一性思维，不是理性本身；其“非同一性”仍是理性的自我批判。"
+    },
+    {
+     "claim": "“奥斯维辛之后写诗是野蛮的”是禁止艺术",
+     "why": "该句是对“在灾难后继续用美掩盖”的批判，其《美学理论》同时主张艺术仍有抵抗的可能。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>阿多诺：启蒙辩证法与否定的辩证法</text><defs><marker id='aAD' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>启蒙以计算支配世界</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>工具理性吞没目的</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故启蒙回归神话</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故辩证法须坚持否定性</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aAD)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aAD)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "阿多诺：启蒙辩证法与否定性（示意图）",
+   "sources": [
+    "sep-adorno",
+    "iep-adorno"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "阿多诺以“启蒙的辩证法”指出：启蒙以计算与支配把握世界，把理性化约为工具合理性，则目的被手段吞没，故启蒙的胜利同时是自我毁灭——工具理性的极致产生新的神话。由此他主张“否定的辩证法”：概念总要把特殊归入普遍而抹去其特殊，故辩证法不应终止于综合，而应坚持否定性，让非同一者不被吞没。",
+    "system": [
+     {
+      "name": "启蒙辩证法",
+      "content": "工具理性的极致产生新神话；启蒙与神话互为表里。"
+     },
+     {
+      "name": "否定的辩证法",
+      "content": "拒绝以总体消解矛盾；坚持否定性；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "文化工业",
+      "content": "大众文化以标准化生产伪个性，使批判意识萎缩。"
+     },
+     {
+      "name": "非同一者",
+      "content": "哲学的任务是让不能被概念穷尽者显现；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "法兰克福与流亡（1903—1969）",
+      "change": "1920年代在法兰克福社会研究所；纳粹上台后流亡英美；1950年代返德；1969 年在学生运动冲突中去世。"
+     }
+    ],
+    "reception": "其批判理论影响1960年代学生运动与文化研究；《美学理论》成为现代艺术哲学的重要文本；与哈贝马斯的转向构成法兰克福学派内部的分水岭。"
+   },
+   "works_detail": [
+    {
+     "title": "《启蒙辩证法》",
+     "structure": "七篇附论与导论；论启蒙、文化工业、反犹主义。",
+     "core_thesis": "启蒙辩证法；文化工业；这是该书的核心命题。",
+     "editions": "中译参上海人民出版社",
+     "note": "1947 年；与霍克海默合著"
+    }
+   ]
+  },
+  {
+   "id": "gr-20c-ayer",
+   "name": "艾耶尔",
+   "latin": "A. J. Ayer",
+   "birth_year": 1910,
+   "death_year": 1989,
+   "birth_display": "1910年",
+   "death_display": "1989年",
+   "birth_note": "生于伦敦；据其自传，父为瑞士裔金融从业者。",
+   "death_note": "1989年卒于伦敦。",
+   "era": "20世纪中叶的英国。艾耶尔以26岁所著《语言、真理与逻辑》把维也纳学派的逻辑实证主义引入英语世界：以“证实原则”判定义，以“情感主义”解释伦理命题，其文风与论辩影响了整整一代分析哲学家。",
+   "school": "逻辑实证主义",
+   "core_questions": [
+    "什么使一个陈述有意义？",
+    "伦理命题是知识吗？",
+    "形而上学命题错在哪里？"
+   ],
+   "arguments": [
+    {
+     "claim": "证实原则：陈述的意义在于其被经验证实的可能方式",
+     "premises": [
+      "有意义的陈述或为分析命题（依定义为真），或为可经验检验的经验命题。",
+      "形而上学陈述不具备上述两种性质。"
+     ],
+     "inference": "若一个陈述既非分析又无法指出任何可设想的经验检验，则它不表达事实，只是“伪陈述”。",
+     "conclusion": "形而上学陈述是无认知意义的；哲学的任务是语言分析。",
+     "kind": "原文"
+    },
+    {
+     "claim": "伦理命题表达情感，不陈述事实",
+     "premises": [
+      "“偷窃是错的”不可被经验证实或否证。",
+      "它表达说话者的情感与态度，并试图影响他人。"
+     ],
+     "inference": "若伦理命题不能被检验，则它不是知识命题；故伦理学是情感与态度的表达（情感主义）。",
+     "conclusion": "伦理判断无真值，只有情感与劝说的功能。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《语言、真理与逻辑》《经验知识的基础》《二十世纪哲学》",
+     "edition": "《语言、真理与逻辑》中译参上海译文出版社",
+     "note": "1936；1940；1982"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "维也纳学派与卡尔纳普",
+     "id": "gr-20c-carnap",
+     "note": "证实原则与反形而上学"
+    },
+    {
+     "name": "罗素与摩尔",
+     "id": "gr-20c-russell",
+     "note": "分析方法与常识实在论"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "战后分析哲学",
+     "id": "",
+     "note": "语言分析的普及"
+    },
+    {
+     "name": "伦理学中的情感主义",
+     "id": "",
+     "note": "元伦理学的非认知主义"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "蒯因与斯特劳森",
+     "view": "证实原则本身既非分析又不可证实，故按自身标准无意义（自我反驳）；且它无法处理理论术语与整体论。",
+     "response": "艾耶尔后期的回应是：放宽为“弱证实”，并要求语境化的检验；但他也承认原表述过强。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-ayer",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "艾耶尔否认伦理有任何意义",
+     "why": "他否认的是伦理命题的**认知**意义，不是其在生活中的作用；情感表达与劝说仍有功能。"
+    },
+    {
+     "claim": "《语言、真理与逻辑》代表了逻辑实证主义的最终形态",
+     "why": "它是最有影响的普及文本，但证实原则此后被大幅修正（卡尔纳普、亨佩尔、蒯因）。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>艾耶尔：证实原则与情感主义</text><defs><marker id='aAY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>有意义的陈述或分析或可检验</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>形而上学两皆不是</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故其为伪陈述</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故伦理命题仅表达情感</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aAY)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aAY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "艾耶尔：证实原则与伦理情感主义（示意图）",
+   "sources": [
+    "sep-ayer",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "艾耶尔以“证实原则”判定义：有意义的陈述或为分析命题、或可被经验检验；形而上学陈述两者皆非，故为“伪陈述”，哲学的任务是语言分析。由此他主张伦理命题不可被检验，只表达情感与态度并试图影响他人——即元伦理学中的情感主义。其《语言、真理与逻辑》把逻辑实证主义引入英语世界。",
+    "system": [
+     {
+      "name": "证实原则",
+      "content": "意义在于可设想的经验检验方式；否则为伪陈述。"
+     },
+     {
+      "name": "情感主义",
+      "content": "伦理判断无真值，只有情感与劝说功能；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "哲学即分析",
+      "content": "哲学不提供知识，而澄清语言；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "弱证实",
+      "content": "后期放宽为“可被经验使或然”的检验；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "伦敦与牛津（1910—1989）",
+      "change": "伊顿与牛津基督堂学院；1936 年《语言、真理与逻辑》；二战从事情报工作；1946 年起任牛津逻辑学教授。"
+     }
+    ],
+    "reception": "该书成为逻辑实证主义在英语世界的标准读本；其情感主义推动元伦理学的发展；证实原则的自我反驳成为分析哲学自我修正的经典案例。"
+   },
+   "works_detail": [
+    {
+     "title": "《语言、真理与逻辑》",
+     "structure": "六章：拒斥形而上学、哲学的功能、分析先验、经验基础、真理与或然、伦理与神学。",
+     "core_thesis": "证实原则；情感主义；这是该书的核心命题。",
+     "editions": "中译参上海译文出版社",
+     "note": "1936 年；作者时年 26 岁"
+    }
+   ]
+  },
+  {
+   "id": "gr-20c-levinas",
+   "name": "列维纳斯",
+   "latin": "Emmanuel Levinas",
+   "birth_year": 1906,
+   "death_year": 1995,
+   "birth_display": "1906年",
+   "death_display": "1995年",
+   "birth_note": "生于立陶宛考纳斯；据其生平材料，出身犹太家庭。",
+   "death_note": "1995年卒于巴黎。",
+   "era": "20世纪后半叶的法国。列维纳斯受胡塞尔与海德格尔训练，却以“伦理学是第一哲学”颠倒其存在论优先：他者之面（visage）向我提出无条件的召唤，责任先于自由。其思想深刻影响德里达、利科与当代伦理学。",
+   "school": "现象学（他者伦理学）",
+   "core_questions": [
+    "伦理学为何是第一哲学？",
+    "他者如何向我显现？",
+    "责任是先于自由吗？"
+   ],
+   "arguments": [
+    {
+     "claim": "他者之面：面对他者即被无条件地召唤",
+     "premises": [
+      "他者的面容不可被我的认知框架完全把握（它溢出概念）。",
+      "面容同时是“不可杀人”的禁令与“你要负责”的召唤。"
+     ],
+     "inference": "若他者的面容溢出我的把握，则我不能把他者化约为我的表象；故面对他者即处于被召唤、被要求的地位。",
+     "conclusion": "伦理关系先于认识关系：我被召唤在先，认识在后。",
+     "kind": "原文"
+    },
+    {
+     "claim": "责任先于自由：我是被选定的",
+     "premises": [
+      "在我自由选择之前，我已处于对他者的责任中。",
+      "责任不可推卸、不可转移。"
+     ],
+     "inference": "若责任来自他者的召唤而非我的承诺，则它不是自由选择的结果，而是先于自由的条件。",
+     "conclusion": "主体性即责任：我是“为他者”的存在。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《总体与无限》《别于存在或超越本质》",
+     "edition": "《总体与无限》中译参北京大学出版社；《别于存在》中译参商务印书馆（若有）",
+     "note": "1961；1974"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "胡塞尔与海德格尔",
+     "id": "gr-20c-husserl",
+     "note": "现象学方法（同时批评其存在论优先）"
+    },
+    {
+     "name": "罗森茨维格与犹太思想",
+     "id": "",
+     "note": "启示与“他者”的宗教资源"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "德里达",
+     "id": null,
+     "note": "对“他者”的解构性阅读"
+    },
+    {
+     "name": "利科与当代伦理学",
+     "id": "",
+     "note": "责任伦理与他者问题"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "德里达与部分现象学家",
+     "view": "以“无限的他者”为起点，无法说明制度、正义与第三者的关系（社会正义需要比较与分配）。",
+     "response": "列维纳斯一系的回应是：正义是“第三者的出现”所要求的，爱与正义同源于责任，不是取代。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-levinas",
+      "sep-derrida"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "列维纳斯反对存在论",
+     "why": "他反对的是以存在论为第一哲学，不是否认存在问题；其后期以“别于存在”表述超越。"
+    },
+    {
+     "claim": "他的伦理学是神学的",
+     "why": "其论证是现象学的描述，宗教语汇服务于描述；他明确不以启示为论证前提。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>列维纳斯：他者之面与责任</text><defs><marker id='aLV' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>他者面容溢出我的概念</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故不可被化约为表象</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故面对即被召唤</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故责任先于自由</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLV)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLV)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "列维纳斯：他者之面与先于自由的责任（示意图）",
+   "sources": [
+    "sep-levinas",
+    "sep-husserl"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "列维纳斯以“他者之面”颠倒存在论的优先：他者的面容溢出我的概念框架，故不能被化约为我的表象；而面容同时是“不可杀人”的禁令与“你要负责”的召唤，故面对他者即处于被要求的地位——伦理关系先于认识关系。他又主张责任先于自由：责任来自他者的召唤而非我的承诺，故主体性即“为他者”的存在。",
+    "system": [
+     {
+      "name": "他者之面",
+      "content": "溢出概念，不可被总体化；同时是禁令与召唤。"
+     },
+     {
+      "name": "伦理学是第一哲学",
+      "content": "伦理关系先于存在论与认识论；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "责任先于自由",
+      "content": "我是被选定的，责任不可推卸；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "第三者与正义",
+      "content": "第三者的出现使比较与分配成为必要，正义由此而生。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "考纳斯、斯特拉斯堡与巴黎（1906—1995）",
+      "change": "1920年代在弗莱堡师从胡塞尔与海德格尔；1930年代在巴黎讲学；战俘营经历影响其思想；1961 年《总体与无限》；1974 年《别于存在》。"
+     }
+    ],
+    "reception": "其“他者伦理学”成为法国现象学之后的转折点；德里达《暴力与形而上学》即以其为对话者；当代责任伦理、护理伦理与宗教哲学广泛援引。"
+   },
+   "works_detail": [
+    {
+     "title": "《总体与无限》",
+     "structure": "四部分：同一与他者、内在性与经济、面容与外在性、超越总体。",
+     "core_thesis": "他者之面；伦理学为第一哲学；这是该书的核心命题。",
+     "editions": "中译参北京大学出版社",
+     "note": "1961 年"
+    }
+   ]
   }
  ],
  "concepts": [

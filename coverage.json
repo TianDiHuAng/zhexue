@@ -1,14 +1,14 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 496,
+  "entries": 503,
   "by_level": {
-   "L2": 419,
+   "L2": 426,
    "L1": 77
   },
   "doctrine": {
-   "total": 184,
-   "detail": 184,
+   "total": 190,
+   "detail": 190,
    "auto": 0
   },
   "needs_verification": 77,
@@ -83,10 +83,10 @@
    "unit_id": "gr-20c",
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
-   "philosophers": 14,
+   "philosophers": 17,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -6"
+   "philosophers_slot": "8 上限，余 -9"
   },
   {
    "unit_id": "gr-ancient",
@@ -137,10 +137,10 @@
    "unit_id": "gr-modern",
    "title": "近代理性论与经验论",
    "region": "west",
-   "philosophers": 19,
+   "philosophers": 22,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -11"
+   "philosophers_slot": "8 上限，余 -14"
   }
  ],
  "entries": [
@@ -2246,6 +2246,39 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-adorno",
+   "type": "philosopher",
+   "title": "阿多诺",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-ayer",
+   "type": "philosopher",
+   "title": "艾耶尔",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-levinas",
+   "type": "philosopher",
+   "title": "列维纳斯",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-20c-sense-reference",
    "type": "concept",
    "title": "意义与指称",
@@ -4028,6 +4061,39 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-modern-burke",
+   "type": "philosopher",
+   "title": "伯克",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-wollstonecraft",
+   "type": "philosopher",
+   "title": "沃斯通克拉夫特",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-condillac",
+   "type": "philosopher",
+   "title": "孔狄亚克",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-modern-idea",
    "type": "concept",
    "title": "观念",
@@ -5120,6 +5186,17 @@
    "id": "cmp-fate-freedom",
    "type": "comparative",
    "title": "命与力：中西“命运”问题的四副面孔",
+   "container": "comparative",
+   "level": "L2",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-education",
+   "type": "comparative",
+   "title": "教化与教育：中西“如何成人”的四种方案",
    "container": "comparative",
    "level": "L2",
    "sources": 4,
