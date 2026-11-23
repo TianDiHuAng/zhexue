@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 510,
+  "entries": 518,
   "by_level": {
-   "L2": 431,
-   "L1": 79
+   "L2": 438,
+   "L1": 80
   },
   "doctrine": {
-   "total": 193,
-   "detail": 193,
+   "total": 196,
+   "detail": 196,
    "auto": 0
   },
-  "needs_verification": 79,
-  "sources": 290,
-  "sources_verified": 286
+  "needs_verification": 80,
+  "sources": 293,
+  "sources_verified": 289
  },
  "units": [
   {
@@ -92,10 +92,10 @@
    "unit_id": "gr-ancient",
    "title": "古希腊哲学",
    "region": "west",
-   "philosophers": 18,
+   "philosophers": 19,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -10"
+   "philosophers_slot": "8 上限，余 -11"
   },
   {
    "unit_id": "gr-contemp",
@@ -128,10 +128,10 @@
    "unit_id": "gr-medieval",
    "title": "中世纪经院哲学",
    "region": "west",
-   "philosophers": 15,
+   "philosophers": 17,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -7"
+   "philosophers_slot": "8 上限，余 -9"
   },
   {
    "unit_id": "gr-modern",
@@ -2620,6 +2620,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-ancient-theophrastus",
+   "type": "philosopher",
+   "title": "泰奥弗拉斯托斯",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-ancient-arche",
    "type": "concept",
    "title": "本原",
@@ -3731,6 +3742,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-medieval-wodeham",
+   "type": "philosopher",
+   "title": "亚当·沃德汉姆",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-philoponus",
+   "type": "philosopher",
+   "title": "菲洛波诺斯",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-medieval-faith-reason",
    "type": "concept",
    "title": "信仰与理性",
@@ -4314,6 +4347,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-phaedo",
+   "type": "work",
+   "title": "《斐多篇》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-theaetetus",
+   "type": "work",
+   "title": "《泰阿泰德篇》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-timaeus",
    "type": "work",
    "title": "《蒂迈欧篇》",
@@ -4333,6 +4388,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-laws",
+   "type": "work",
+   "title": "《法律篇》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -4372,6 +4438,28 @@
    "id": "work-categories",
    "type": "work",
    "title": "《范畴篇》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-de-anima",
+   "type": "work",
+   "title": "《论灵魂》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-rhetoric",
+   "type": "work",
+   "title": "《修辞学》",
    "container": "west",
    "level": "L2",
    "sources": 2,

@@ -230,6 +230,118 @@
    "sort_year": -380
   },
   {
+   "id": "work-phaedo",
+   "title": "《斐多篇》",
+   "title_original": "Φαίδων（Phaedo）",
+   "tradition": "west",
+   "date_display": "约前380年",
+   "structure": "以苏格拉底临终对话为框架：论哲学家的死亡练习、灵魂不朽的三个论证、理念论的引入、末以神话与临终场景收束。",
+   "core_arguments": [
+    "哲学是“练习死亡”：灵魂须脱离身体才能把握真理",
+    "灵魂不朽的论证：相反者相生、回忆说、单纯性论证",
+    "理念因（eidos）是事物之所以如此的原因"
+   ],
+   "key_points": [
+    {
+     "locator": "64a—69e",
+     "point": "哲学作为死亡的练习"
+    },
+    {
+     "locator": "70c—72e",
+     "point": "相反者相生论证"
+    },
+    {
+     "locator": "72e—77a",
+     "point": "回忆说"
+    },
+    {
+     "locator": "78b—80c",
+     "point": "单纯性论证"
+    }
+   ],
+   "editions": [
+    "杨绛译《斐多》辽宁人民出版社／商务印书馆；中译另参《柏拉图对话集》商务印书馆"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-socrates",
+    "gr-ancient-pythagoras"
+   ],
+   "misreadings": [
+    {
+     "claim": "《斐多篇》记录了苏格拉底的原话",
+     "why": "它是柏拉图的文学重构，中期对话的理念论不可能出自历史上的苏格拉底。"
+    },
+    {
+     "claim": "灵魂不朽的论证是决定性的",
+     "why": "对话中辛米亚斯与克贝斯提出反驳，论证的说服力至今仍有争议。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -380
+  },
+  {
+   "id": "work-theaetetus",
+   "title": "《泰阿泰德篇》",
+   "title_original": "Θεαίτητος（Theaetetus）",
+   "tradition": "west",
+   "date_display": "约前369年",
+   "structure": "以“知识是什么”为问：依次考察“知识即感觉”“知识即真信念”“知识即真信念加说明（logos）”，末归“无解”（aporia）。",
+   "core_arguments": [
+    "知识非感觉：感觉是私人的、流动的，而知识须普遍可传达（对普罗塔戈拉“人是尺度”的批评）",
+    "知识非仅真信念：真信念可因说服而来而无知识",
+    "知识非真信念加说明：说明的三种解释皆归失败"
+   ],
+   "key_points": [
+    {
+     "locator": "151d—187a",
+     "point": "知识即感觉与普罗塔戈拉"
+    },
+    {
+     "locator": "187b—201c",
+     "point": "真信念与假信念的可能"
+    },
+    {
+     "locator": "201c—210a",
+     "point": "真信念加说明的三种解释"
+    },
+    {
+     "locator": "210a—d",
+     "point": "无结论的收束"
+    }
+   ],
+   "editions": [
+    "中译参《柏拉图全集》人民出版社；Loeb 版（Fowler）"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-protagoras",
+    "gr-20c-russell"
+   ],
+   "misreadings": [
+    {
+     "claim": "《泰阿泰德篇》给出知识的定义",
+     "why": "它恰恰以“无解”收束；定义的失败本身是对话的结论。"
+    },
+    {
+     "claim": "柏拉图在此放弃理念论",
+     "why": "对话转向知识论问题，理念论是否仍被预设是学界讨论的问题，不能据此断言放弃。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -369
+  },
+  {
    "id": "work-timaeus",
    "title": "《蒂迈欧篇》",
    "title_original": "Τίμαιος（Timaeus）",
@@ -340,6 +452,62 @@
    ],
    "needs_verification": true,
    "pending_notes": "作者与成书年代：传统说为春秋末老聃，学界另有战国中晚期成书说与文本层累说；郭店简本（约前300年）的发现使年代上限提前，但不足以判定作者。",
+   "sort_year": -350
+  },
+  {
+   "id": "work-laws",
+   "title": "《法律篇》",
+   "title_original": "Νόμοι（Leges）",
+   "tradition": "west",
+   "date_display": "约前350年（未完成）",
+   "structure": "十二卷对话（主要说话者为“雅典人”、克莱尼亚斯与麦吉卢斯）：论立法的目的、政制设计、教育与刑法，末卷附夜间议事会。",
+   "core_arguments": [
+    "立法的目的不是战争与财富，而是德性（arete）与节制",
+    "法律须有“序言”以说服而非仅强制",
+    "混合政制（君主制与民主制的混合）最稳定"
+   ],
+   "key_points": [
+    {
+     "locator": "卷三",
+     "point": "政制循环与混合政制"
+    },
+    {
+     "locator": "卷四 718b—724b",
+     "point": "法律的序言（说服而非强制）"
+    },
+    {
+     "locator": "卷七",
+     "point": "教育与体育、文艺的立法"
+    },
+    {
+     "locator": "卷十",
+     "point": "神的存在与法律的根据"
+    }
+   ],
+   "editions": [
+    "中译参《柏拉图全集》人民出版社（王晓朝译）；Loeb 版（Bury）"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-aristotle",
+    "gr-modern-rousseau"
+   ],
+   "misreadings": [
+    {
+     "claim": "《法律篇》是《理想国》的退化版",
+     "why": "它放弃了哲人王与共产方案，转而设计可实行的法治城邦，是自觉的转向而非退化。"
+    },
+    {
+     "claim": "柏拉图主张法治而非哲学",
+     "why": "法律仍以德性为目的，哲学并未被放弃，只是制度设计更现实。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": -350
   },
   {
@@ -565,6 +733,118 @@
    "sources": [
     "sep-aristotle",
     "sep-porphyry"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -340
+  },
+  {
+   "id": "work-de-anima",
+   "title": "《论灵魂》",
+   "title_original": "Περὶ ψυχῆς（De Anima）",
+   "tradition": "west",
+   "date_display": "约前4世纪",
+   "structure": "三卷：卷一评述前人灵魂说并提出灵魂的定义；卷二论营养、感觉与想象；卷三论理智（主动／被动）与欲求。",
+   "core_arguments": [
+    "灵魂是自然有机体的“第一现实性”（entelecheia），即其生命功能的形式",
+    "感觉是接受可感形式而不接受质料",
+    "主动理智（nous poiētikos） separable、不朽，被动理智随身体消亡"
+   ],
+   "key_points": [
+    {
+     "locator": "II.1 412a—b",
+     "point": "灵魂作为第一现实性"
+    },
+    {
+     "locator": "II.12 424a",
+     "point": "感觉接受形式而非质料"
+    },
+    {
+     "locator": "III.4—5 429a—430a",
+     "point": "被动理智与主动理智"
+    },
+    {
+     "locator": "III.10—11",
+     "point": "欲求与运动"
+    }
+   ],
+   "editions": [
+    "吴寿彭译《灵魂论及其他》商务印书馆；Loeb 版（Hett）"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-medieval-aquinas",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "亚里士多德主张灵魂不朽",
+     "why": "只有主动理智被说成 separable 且不朽；个体灵魂作为形式随身体消亡，此点与柏拉图对立。"
+    },
+    {
+     "claim": "灵魂是身体中的“驾驶员”",
+     "why": "灵魂是身体的形式（现实性），不是与身体并列的实体。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": true,
+   "pending_notes": "主动理智的地位（是否属于个体灵魂、是否等于神）是亚里士多德研究中最著名的争议之一，本页并列诸说而不裁定。",
+   "sort_year": -340
+  },
+  {
+   "id": "work-rhetoric",
+   "title": "《修辞学》",
+   "title_original": "Ῥητορική（Rhetorica）",
+   "tradition": "west",
+   "date_display": "约前4世纪",
+   "structure": "三卷：卷一论修辞的种类与说服的三要素（ethos／pathos／logos）；卷二论情感与性格；卷三论风格与布局。",
+   "core_arguments": [
+    "修辞是“在每一情形中找出可用的说服手段”的能力，不是说服本身",
+    "说服的三要素：演说者的品格、听众的情感、论证本身",
+    "或然前提（eikos）与例证（paradeigma）是修辞论证的主要形式"
+   ],
+   "key_points": [
+    {
+     "locator": "I.2 1356a",
+     "point": "三种说服手段"
+    },
+    {
+     "locator": "I.3",
+     "point": "三种修辞（议事、法庭、展示）"
+    },
+    {
+     "locator": "II.1—11",
+     "point": "情感分析"
+    },
+    {
+     "locator": "III.1—12",
+     "point": "风格与布局"
+    }
+   ],
+   "editions": [
+    "罗念生译《修辞学》上海人民出版社；Loeb 版（Freese）"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-gorgias",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "亚里士多德贬斥修辞",
+     "why": "他把修辞视为与辩证术对应的技艺，批评的是滥用（如高尔吉亚式），不是修辞本身。"
+    },
+    {
+     "claim": "《修辞学》只是写作手册",
+     "why": "它是关于说服的系统的理论，含情感与性格的分析，属实践哲学。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek"
    ],
    "needs_verification": false,
    "pending_notes": "",

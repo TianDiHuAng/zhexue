@@ -2684,6 +2684,145 @@
      "note": "逸事为主，不作逐字史料"
     }
    ]
+  },
+  {
+   "id": "gr-ancient-theophrastus",
+   "name": "泰奥弗拉斯托斯",
+   "latin": "Theophrastus",
+   "birth_year": -371,
+   "death_year": -287,
+   "birth_display": "约前371年",
+   "death_display": "约前287年",
+   "birth_note": "生于列斯堡岛埃勒索斯；据第欧根尼·拉尔修卷五，原名提尔塔摩斯。",
+   "death_note": "约前287年卒于雅典。",
+   "era": "公元前4世纪后半叶。泰奥弗拉斯托斯是亚里士多德的学生与继承人，主持逍遥学派三十余年；他系统化并修正了亚里士多德的逻辑学、植物学与形而上学，其《人物志》开创了性格描写文体。",
+   "school": "逍遥学派",
+   "core_questions": [
+    "亚里士多德体系中哪些部分需要修正？",
+    "植物如何分类？",
+    "性格可否被类型化描写？"
+   ],
+   "arguments": [
+    {
+     "claim": "对亚里士多德目的论的修正：自然的目的常被质料所阻",
+     "premises": [
+      "亚里士多德的自然目的论说明“为何如此”。",
+      "但观察显示许多自然产物并不完美。"
+     ],
+     "inference": "若自然产物常有缺陷与例外，则目的因须与质料因并用说明：目的“常被质料所阻”（hylē 的必然性）。",
+     "conclusion": "目的论成立但需以质料必然性作补充，故自然并非处处合目的。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以“类比”处理植物的部分：植物无动物式的器官与灵魂层次",
+     "premises": [
+      "植物无感觉与运动。",
+      "但植物有营养、生长与繁殖的功能。"
+     ],
+     "inference": "若植物缺少动物式的器官而仍有相应功能，则其部分只能以“类比”而非同源地理解。",
+     "conclusion": "植物学须以自己的分类与功能概念建立，不能照搬动物学。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《植物志》《植物成因论》《人物志》《形而上学》（残）",
+     "edition": "《植物志》Loeb 版（Hort）；《人物志》中译参商务印书馆",
+     "note": "《植物志》九卷；《人物志》三十篇性格素描"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "note": "其师；逻辑学、形而上学与生物学框架"
+    },
+    {
+     "name": "柏拉图学园",
+     "id": "gr-ancient-plato",
+     "note": "早期教育背景"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "逍遥学派后续与斯特拉托",
+     "id": "",
+     "note": "自然研究的传承"
+    },
+    {
+     "name": "近代植物分类学",
+     "id": "",
+     "note": "植物学传统的源头"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后世亚里士多德主义者",
+     "view": "其对目的论的“质料阻碍”修正在正统派看来削弱了目的论的力量。",
+     "response": "泰奥弗拉斯托斯一系的回应是：修正使目的论更符合观察，而非取消它。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-theophrastus",
+      "book-guthrie-greek"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "泰奥弗拉斯托斯只是亚里士多德的抄录者",
+     "why": "他修正了目的论、建立了独立的植物分类，并开创性格描写文体。"
+    },
+    {
+     "claim": "他的《形而上学》是对亚里士多德的注释",
+     "why": "它是对亚里士多德《形而上学》问题的独立讨论（aporiai），有其自身立场。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>泰奥弗拉斯托斯：目的与质料</text><defs><marker id='aTH2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>亚里士多德的目的论说明为何如此</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>但观察显示常有缺陷</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故须以质料必然性补充</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故自然并非处处合目的</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aTH2)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aTH2)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "泰奥弗拉斯托斯：目的论与质料必然性（示意图）",
+   "sources": [
+    "sep-theophrastus",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "泰奥弗拉斯托斯继承并修正亚里士多德：自然的目的论成立，但常被质料的必然性所阻，故须以质料因补充目的因——自然并非处处合目的。在植物学上他以“类比”处理植物部分，因植物无感觉与运动、缺少动物式器官，故其分类与功能概念须独立建立。其《人物志》开创性格描写文体。",
+    "system": [
+     {
+      "name": "目的的阻碍",
+      "content": "目的常被质料必然性所阻；目的论需质料因补充。"
+     },
+     {
+      "name": "植物学的独立",
+      "content": "以类比而非同源理解植物部分，建立独立分类。"
+     },
+     {
+      "name": "性格类型",
+      "content": "《人物志》以三十篇素描刻画性格类型，开文体之先。"
+     },
+     {
+      "name": "逻辑学的整理",
+      "content": "对亚里士多德逻辑学的系统整理与补充；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "埃勒索斯与雅典（约前371—约287）",
+      "change": "先学于柏拉图学园，后从亚里士多德；亚里士多德死后继承学园（吕克昂），主持三十余年；据说享年八十五。"
+     }
+    ],
+    "reception": "其植物学著作成为古代植物学的标准文献；《人物志》影响后世性格描写文学；其对目的论的修正预示了后来经验科学的态度。"
+   },
+   "works_detail": [
+    {
+     "title": "《植物志》",
+     "structure": "九卷；按形态与用途分类描述植物。",
+     "core_thesis": "以类比建立植物分类；目的与质料并重。",
+     "editions": "Loeb 版（Hort）；中译参商务印书馆（若有）",
+     "note": "古代植物学的主要文献"
+    }
+   ]
   }
  ],
  "concepts": [

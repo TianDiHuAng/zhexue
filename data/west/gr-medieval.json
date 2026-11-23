@@ -2605,6 +2605,284 @@
      "note": "布道由门人记录，文本状况复杂"
     }
    ]
+  },
+  {
+   "id": "gr-medieval-wodeham",
+   "name": "亚当·沃德汉姆",
+   "latin": "Adam Wodeham",
+   "birth_year": 1295,
+   "death_year": 1358,
+   "birth_display": "约1295年",
+   "death_display": "1358年",
+   "birth_note": "生于英格兰（温彻斯特一带，具体地不详）；据其著作与牛津档案。",
+   "death_note": "1358年卒（地点不详）。",
+   "era": "14世纪牛津。沃德汉姆是奥卡姆的学生，方济各会士；他以“复杂意项”（complexe significabile）区分“被知者”与心灵行为，主张知识的对象是命题所意指的事态而非心灵中的命题，是14世纪语义学与认识论的关键人物。",
+   "school": "唯名论（牛津方济各学派）",
+   "core_questions": [
+    "知识的对象是什么？",
+    "命题所意指的是什么？",
+    "直观认识如何保证实在性？"
+   ],
+   "arguments": [
+    {
+     "claim": "复杂意项：命题所意指者是“可被意指的事态”，不是心灵中的命题",
+     "premises": [
+      "知识（scientia）的对象是被知者为真的东西。",
+      "心灵中的命题是认识行为，不是被知的对象。"
+     ],
+     "inference": "若知识对象是心灵中的命题，则知识将只关于心灵；故须区分“命题”（心灵行为）与“复杂意项”（命题所意指的事态）。",
+     "conclusion": "知识的对象是 complexe significabile（可被命题意指的事态），它在心灵之外。",
+     "kind": "原文"
+    },
+    {
+     "claim": "直观认识直接把握存在的事物，抽象认识把握其本质",
+     "premises": [
+      "直观认识（notitia intuitiva）在事物在场时产生。",
+      "抽象认识可从概念把握本质，不必有对象在场。"
+     ],
+     "inference": "若知识与事物直接相关，则须有直观认识作为实在性的保证；抽象认识则解释普遍概念的形成。",
+     "conclusion": "直观认识保证实在性，抽象认识说明普遍性；二者分工。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《〈箴言四书〉注》（Oxford 与 Lectura 两稿）",
+     "edition": "拉丁文本以 Gál-Marsh 等校订本为准；英译见相关选集",
+     "note": "牛津讲演稿为其主要著作"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "奥卡姆的威廉",
+     "id": "gr-medieval-ockham",
+     "note": "唯名论与意项逻辑"
+    },
+    {
+     "name": "司各脱",
+     "id": "gr-medieval-duns-scotus",
+     "note": "认识论与个体化问题"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "14—15世纪牛津与巴黎的逻辑学",
+     "id": "",
+     "note": "复杂意项与语义学的传播"
+    },
+    {
+     "name": "近代早期认识论（观念对象问题）",
+     "id": "",
+     "note": "“知识对象”问题的延续"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "实在论者与部分同代人",
+     "view": "把知识对象置于心灵之外的事态，则“事态”成为一种奇怪的实体，违背奥卡姆式的俭省原则。",
+     "response": "沃德汉姆一系的回应是：复杂意项不是实体，而是命题所意指的方式，故不必增加本体论负担。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-wodeham",
+      "book-gilson-medieval"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "沃德汉姆只是奥卡姆的追随者",
+     "why": "他在知识对象问题上明确偏离奥卡姆，提出复杂意项说，是独立的贡献。"
+    },
+    {
+     "claim": "复杂意项是一种柏拉图式的命题实体",
+     "why": "他明确说它不是实体，而是“可被意指者”，故与传统实在论不同。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>沃德汉姆：复杂意项</text><defs><marker id='aWD' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>知识对象是被知为真者</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>心灵命题是认识行为</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故二者须区分</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故对象是命题所意指的事态</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aWD)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aWD)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "沃德汉姆：复杂意项与知识对象（示意图）",
+   "sources": [
+    "sep-wodeham",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "沃德汉姆以“复杂意项”（complexe significabile）区分知识的对象与心灵行为：知识（scientia）的对象是被知为真者，而心灵中的命题只是认识行为；故须设“命题所意指的事态”为对象，它在心灵之外。他又区分直观认识（保证实在性）与抽象认识（说明普遍性）。其说是14世纪语义学与认识论的关键环节。",
+    "system": [
+     {
+      "name": "复杂意项",
+      "content": "命题所意指的事态；不是心灵中的命题，也不是实体。"
+     },
+     {
+      "name": "直观／抽象认识",
+      "content": "直观保证实在性；抽象说明普遍概念的形成。"
+     },
+     {
+      "name": "知识即关于命题的真",
+      "content": "知识以命题为形式，以事态为对象；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "偏离奥卡姆",
+      "content": "在知识对象问题上与老师不同，提出独立方案。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "牛津与伦敦（约1295—1358）",
+      "change": "方济各会士；在牛津讲《箴言四书》；与沃尔特·查顿等人交往；1358 年卒。"
+     }
+    ],
+    "reception": "其复杂意项说影响了14—15世纪的逻辑与认识论；近代早期“观念的对象”问题可视为其延续；现代研究关注其在语义学史上的地位。"
+   },
+   "works_detail": [
+    {
+     "title": "《〈箴言四书〉注》",
+     "structure": "牛津讲演稿（Ordinatio）与讲读稿（Lectura）；论知识与命题对象。",
+     "core_thesis": "复杂意项；直观与抽象认识；这是该书的核心命题。",
+     "editions": "拉丁校订本；英译选集",
+     "note": "讲演稿，非成书"
+    }
+   ]
+  },
+  {
+   "id": "gr-medieval-philoponus",
+   "name": "菲洛波诺斯",
+   "latin": "John Philoponus",
+   "birth_year": 490,
+   "death_year": 570,
+   "birth_display": "约490年",
+   "death_display": "约570年",
+   "birth_note": "生于埃及亚历山大里亚；据其著作署名，为语法学家阿摩尼乌斯的学生。",
+   "death_note": "约570年卒（地点不详）。",
+   "era": "6世纪。菲洛波诺斯是亚历山德里亚的新柏拉图主义—基督教哲学家，以对亚里士多德物理学的批评著称：他以“冲力”说反驳“介质回推”的抛体解释，并主张世界在时间上有开端，故与辛普里丘等异教注释家论战。",
+   "school": "基督教新柏拉图主义（亚里士多德注释）",
+   "core_questions": [
+    "抛体离手后为何继续运动？",
+    "世界是否有开端？",
+    "亚里士多德的物理学错在哪里？"
+   ],
+   "arguments": [
+    {
+     "claim": "冲力说：抛体带有被赋予的动力，而非由介质回推",
+     "premises": [
+      "亚里士多德以介质（空气）的回推解释抛体运动。",
+      "在真空中介质回推不可能，故亚氏解释不成立。"
+     ],
+     "inference": "若抛体运动不依赖介质回推，则须假定推动者在推动时赋予物体某种动力（冲力），其随阻力与时间衰减。",
+     "conclusion": "抛体运动由冲力维持；此说为近代惯性概念的前身。",
+     "kind": "原文"
+    },
+    {
+     "claim": "世界有开端：无限过去的序列不可完成",
+     "premises": [
+      "若世界无开端，则已过去的无限序列被完成。",
+      "无限序列不可被逐次完成。"
+     ],
+     "inference": "若过去的时间无开端，则至今已完成了无限多个时刻；这与“逐次完成”不相容，故世界有开端。",
+     "conclusion": "世界在时间上有开端（此说与亚里士多德的“世界永恒”直接对立）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论灵魂》《驳亚里士多德〈物理学〉》《论世界的永恒性（驳普罗克洛）》",
+     "edition": "英译见 *Philoponus: Against Aristotle on the Eternity of the World*（Wildberg）；*Corollaries on Place and Void*（Furley）",
+     "note": "以希腊文写成；部分仅存叙利亚文或阿拉伯文转译"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "阿摩尼乌斯与亚历山德里亚注释传统",
+     "id": "",
+     "note": "亚里士多德注释的训练"
+    },
+    {
+     "name": "新柏拉图主义（普罗克洛）",
+     "id": null,
+     "note": "其批评对象之一"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "辛普里丘与异教注释家",
+     "id": "",
+     "note": "与之论战"
+    },
+    {
+     "name": "中世纪阿拉伯与拉丁的冲力说",
+     "id": null,
+     "note": "冲力概念的传承"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "辛普里丘与亚历山大里亚的异教哲学家",
+     "view": "以基督教信仰为前提解经，且其冲力说违背亚里士多德的权威。",
+     "response": "菲洛波诺斯一系的回应是：亚氏的解释在真空情形下失效，故须修正；哲学论证不应以权威代替。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-philoponus",
+      "sep-plotinus"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "菲洛波诺斯是“中世纪的布里丹”",
+     "why": "他的冲力说早于布里丹六百余年，且二者论证语境不同；说他“预示”更为准确。"
+    },
+    {
+     "claim": "他只是注释家",
+     "why": "他对亚里士多德物理学的批评是原创性的，且在自然哲学史上具有转折意义。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>菲洛波诺斯：冲力与世界的开端</text><defs><marker id='aPH' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>介质回推不能解释真空中的抛体</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故须假定冲力</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故亚氏物理学须修正</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故无限过去不可能被完成，世界有开端</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aPH)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aPH)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "菲洛波诺斯：冲力说与世界的开端（示意图）",
+   "sources": [
+    "sep-philoponus",
+    "sep-plotinus"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "菲洛波诺斯以两条论证挑战亚里士多德：其一，若抛体运动依赖介质回推，则真空中不可能；故须假定推动者赋予物体“冲力”（impetus），其随阻力与时间衰减——这是近代惯性概念的重要前身。其二，若过去的时间无开端，则已完成的无限序列不可能，故世界在时间上有开端。其说与辛普里丘等异教注释家激烈论战。",
+    "system": [
+     {
+      "name": "冲力",
+      "content": "抛体带有被赋予的动力；不需要介质回推；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "世界的开端",
+      "content": "无限过去不可被逐次完成，故时间有开端；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "批评亚里士多德物理学",
+      "content": "在真空与抛体问题上亚氏解释失效；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "基督教与新柏拉图主义",
+      "content": "以基督教的创造论重解新柏拉图主义框架；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "亚历山大里亚（约490—约570）",
+      "change": "师从阿摩尼乌斯；以语法学与哲学著作谋生；因“三神论”争议受关注；其著作部分仅存叙利亚文或阿拉伯文译本。"
+     }
+    ],
+    "reception": "其冲力说经阿拉伯世界传至拉丁西方，被视为布里丹与近代惯性的前身；世界的开端之辩成为中世纪“世界永恒”争论的重要文本。"
+   },
+   "works_detail": [
+    {
+     "title": "《驳亚里士多德〈物理学〉》",
+     "structure": "对亚氏物理学多处论点的批评，含抛体与真空问题。",
+     "core_thesis": "冲力说；亚氏解释在真空中失效。",
+     "editions": "Wildberg 英译；Furley《Corollaries on Place and Void》",
+     "note": "部分仅存转译"
+    }
+   ]
   }
  ],
  "concepts": [
