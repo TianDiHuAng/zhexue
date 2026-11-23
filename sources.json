@@ -4,7 +4,7 @@
   "built_at": "2026-11-22",
   "rule": "verified=true 仅当脚本实际打开页面且正文含预期关键词；403/429 记为 blocked 且不作已验证来源",
   "total": 254,
-  "verified": 238,
+  "verified": 239,
   "by_type": {
    "原典": 75,
    "百科": 153,
@@ -711,30 +711,6 @@
    "n": 30
   },
   {
-   "id": "emt-spinoza",
-   "title": "Benedict de Spinoza, Ethics（节译改编本）",
-   "author": "Spinoza / J. Bennett 改编",
-   "year": 1677,
-   "year_note": "1677 年遗著初版；现代英语节译",
-   "publisher": "Early Modern Texts（J. Bennett 改编本）",
-   "type": "原典",
-   "url": "https://www.earlymoderntexts.com/assets/pdfs/spinoza1677.pdf",
-   "url2": null,
-   "link_ok": false,
-   "verified": false,
-   "note": "第一部分论神、实体与样态",
-   "unit_hint": "",
-   "verify": {
-    "method": "http-page",
-    "http_status": 404,
-    "checked_at": "2026-11-22",
-    "keyword": "Spinoza",
-    "keyword_seen": false,
-    "content_type": ""
-   },
-   "n": 31
-  },
-  {
    "id": "marx-chinese",
    "title": "马克思恩格斯著作中文版（马克思主义文库）",
    "author": "Marx, Engels（中共中央马恩列斯著作编译局译）",
@@ -755,7 +731,7 @@
     "keyword": "马克思",
     "keyword_seen": true
    },
-   "n": 32
+   "n": 31
   },
   {
    "id": "mit-aristotle-metaphysics",
@@ -779,7 +755,7 @@
     "keyword_seen": true,
     "content_type": "text/html"
    },
-   "n": 33
+   "n": 32
   },
   {
    "id": "mit-aristotle-nicomachean",
@@ -803,7 +779,7 @@
     "keyword_seen": true,
     "content_type": "text/html"
    },
-   "n": 34
+   "n": 33
   },
   {
    "id": "mit-aristotle-politics",
@@ -827,7 +803,7 @@
     "keyword_seen": true,
     "content_type": "text/html"
    },
-   "n": 35
+   "n": 34
   },
   {
    "id": "mit-epictetus-discourses",
@@ -851,7 +827,7 @@
     "keyword_seen": true,
     "content_type": "text/html"
    },
-   "n": 36
+   "n": 35
   },
   {
    "id": "mit-marcus-aurelius",
@@ -875,7 +851,7 @@
     "keyword_seen": true,
     "content_type": "text/html"
    },
-   "n": 37
+   "n": 36
   },
   {
    "id": "mit-plato-apology",
@@ -899,7 +875,7 @@
     "keyword_seen": true,
     "content_type": "text/html"
    },
-   "n": 38
+   "n": 37
   },
   {
    "id": "mit-plato-phaedo",
@@ -923,7 +899,7 @@
     "keyword_seen": true,
     "content_type": "text/html"
    },
-   "n": 39
+   "n": 38
   },
   {
    "id": "mit-plato-republic",
@@ -947,7 +923,7 @@
     "keyword_seen": true,
     "content_type": "text/html"
    },
-   "n": 40
+   "n": 39
   },
   {
    "id": "na-cityofgod",
@@ -970,7 +946,7 @@
     "keyword": "City of God",
     "keyword_seen": true
    },
-   "n": 41
+   "n": 40
   },
   {
    "id": "na-confessions",
@@ -993,7 +969,7 @@
     "keyword": "Confessions",
     "keyword_seen": true
    },
-   "n": 42
+   "n": 41
   },
   {
    "id": "na-summa",
@@ -1016,7 +992,7 @@
     "keyword": "Summa",
     "keyword_seen": true
    },
-   "n": 43
+   "n": 42
   },
   {
    "id": "per-aristotle-metaphysics",
@@ -1039,7 +1015,7 @@
     "keyword": "Metaphysics",
     "keyword_seen": false
    },
-   "n": 44
+   "n": 43
   },
   {
    "id": "per-aristotle-nicomachean",
@@ -1062,7 +1038,7 @@
     "keyword": "Nicomachean",
     "keyword_seen": false
    },
-   "n": 45
+   "n": 44
   },
   {
    "id": "per-plato-apology",
@@ -1085,7 +1061,7 @@
     "keyword": "Apology",
     "keyword_seen": false
    },
-   "n": 46
+   "n": 45
   },
   {
    "id": "per-plato-republic",
@@ -1108,7 +1084,7 @@
     "keyword": "Republic",
     "keyword_seen": false
    },
-   "n": 47
+   "n": 46
   },
   {
    "id": "ws-baopuzi",
@@ -1131,7 +1107,7 @@
     "keyword": "抱朴子",
     "keyword_seen": true
    },
-   "n": 48
+   "n": 47
   },
   {
    "id": "ws-chengweishi",
@@ -1154,7 +1130,7 @@
     "keyword": "成唯識論",
     "keyword_seen": true
    },
-   "n": 49
+   "n": 48
   },
   {
    "id": "ws-chongyoulun",
@@ -1177,7 +1153,7 @@
     "keyword": "崇有論",
     "keyword_seen": false
    },
-   "n": 50
+   "n": 49
   },
   {
    "id": "ws-fuxingshu",
@@ -1200,7 +1176,7 @@
     "keyword": "復性書",
     "keyword_seen": true
    },
-   "n": 51
+   "n": 50
   },
   {
    "id": "ws-gongsunlongzi",
@@ -1223,7 +1199,7 @@
     "keyword": "公孫龍子",
     "keyword_seen": true
    },
-   "n": 52
+   "n": 51
   },
   {
    "id": "ws-haiguotuzhi",
@@ -1246,7 +1222,7 @@
     "keyword": "海國圖志",
     "keyword_seen": true
    },
-   "n": 53
+   "n": 52
   },
   {
    "id": "ws-huangjijingshi",
@@ -1269,7 +1245,7 @@
     "keyword": "皇極經世",
     "keyword_seen": true
    },
-   "n": 54
+   "n": 53
   },
   {
    "id": "ws-jinshizizhang",
@@ -1292,7 +1268,7 @@
     "keyword": "金師子章",
     "keyword_seen": false
    },
-   "n": 55
+   "n": 54
   },
   {
    "id": "ws-jinsilu",
@@ -1315,7 +1291,7 @@
     "keyword": "近思錄",
     "keyword_seen": true
    },
-   "n": 56
+   "n": 55
   },
   {
    "id": "ws-kunzhiji",
@@ -1338,7 +1314,7 @@
     "keyword": "困知記",
     "keyword_seen": true
    },
-   "n": 57
+   "n": 56
   },
   {
    "id": "ws-liezi2",
@@ -1361,7 +1337,7 @@
     "keyword": "沖虛",
     "keyword_seen": true
    },
-   "n": 58
+   "n": 57
   },
   {
    "id": "ws-liuzutanjing",
@@ -1384,7 +1360,7 @@
     "keyword": "六祖壇經",
     "keyword_seen": true
    },
-   "n": 59
+   "n": 58
   },
   {
    "id": "ws-mengzi-ziyi",
@@ -1407,7 +1383,7 @@
     "keyword": "孟子字義疏證",
     "keyword_seen": true
    },
-   "n": 60
+   "n": 59
   },
   {
    "id": "ws-mingyi",
@@ -1430,7 +1406,7 @@
     "keyword": "明夷待訪錄",
     "keyword_seen": true
    },
-   "n": 61
+   "n": 60
   },
   {
    "id": "ws-mohezhiguan",
@@ -1453,7 +1429,7 @@
     "keyword": "摩訶止觀",
     "keyword_seen": true
    },
-   "n": 62
+   "n": 61
   },
   {
    "id": "ws-qianfulun",
@@ -1476,7 +1452,7 @@
     "keyword": "潛夫論",
     "keyword_seen": true
    },
-   "n": 63
+   "n": 62
   },
   {
    "id": "ws-qiusu",
@@ -1499,7 +1475,7 @@
     "keyword": "訄書",
     "keyword_seen": false
    },
-   "n": 64
+   "n": 63
   },
   {
    "id": "ws-renxue",
@@ -1522,7 +1498,7 @@
     "keyword": "仁學",
     "keyword_seen": true
    },
-   "n": 65
+   "n": 64
   },
   {
    "id": "ws-shenjian",
@@ -1545,7 +1521,7 @@
     "keyword": "申鑒",
     "keyword_seen": true
    },
-   "n": 66
+   "n": 65
   },
   {
    "id": "ws-shenyan",
@@ -1568,7 +1544,7 @@
     "keyword": "慎言",
     "keyword_seen": true
    },
-   "n": 67
+   "n": 66
   },
   {
    "id": "ws-shishuoxinyu",
@@ -1589,6 +1565,29 @@
     "http_status": 200,
     "checked_at": "2026-11-22",
     "keyword": "世說新語",
+    "keyword_seen": true
+   },
+   "n": 67
+  },
+  {
+   "id": "ws-spinoza-ethica",
+   "title": "《伦理学》（Ethica，拉丁文本）",
+   "author": "Benedictus de Spinoza",
+   "year": 1677,
+   "year_note": "1677 年遗著（Opera Posthuma）；拉丁文本，命题编号为国际通行编号",
+   "publisher": "维基文库（拉丁语版 Wikisource）",
+   "type": "原典",
+   "url": "https://la.wikisource.org/wiki/Ethica",
+   "note": "拉丁原文；命题编号（如 E1p11）为通行引用方式",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "unit_hint": "",
+   "verify": {
+    "method": "http-page",
+    "http_status": 200,
+    "checked_at": "2026-11-23",
+    "keyword": "页面关键词命中（明夷／Ethica）",
     "keyword_seen": true
    },
    "n": 68

@@ -1024,6 +1024,64 @@
    "sort_year": 805
   },
   {
+   "id": "work-zhengmeng",
+   "title": "《正蒙》",
+   "title_original": "正蒙",
+   "tradition": "china",
+   "date_display": "约1076年",
+   "structure": "十七篇：《太和》《参两》《天道》《神化》《诚明》《大心》《中正》《至当》等，以“太虚即气”为纲，末篇《乾称》（含《西铭》）为总收。",
+   "core_arguments": [
+    "太虚即气：虚空不是无，而是气的本然状态",
+    "一物两体：气含阴阳对待，故有变化",
+    "民胞物与：以乾坤为父母，故天下之人皆同胞（《西铭》）"
+   ],
+   "key_points": [
+    {
+     "locator": "《太和篇》",
+     "point": "“太虚无形，气之本体”"
+    },
+    {
+     "locator": "《参两篇》",
+     "point": "“一物两体，气也”"
+    },
+    {
+     "locator": "《大心篇》",
+     "point": "“大其心则能体天下之物”"
+    },
+    {
+     "locator": "《乾称篇》",
+     "point": "《西铭》：“民吾同胞，物吾与也”"
+    }
+   ],
+   "editions": [
+    "章锡琛点校《张载集》中华书局",
+    "《张子全书》四库本可参"
+   ],
+   "related_people": [
+    "cn-songming-zhang-zai",
+    "cn-songming-cheng-yi",
+    "cn-songming-luo-qinshun"
+   ],
+   "misreadings": [
+    {
+     "claim": "张载的“气”是唯物论的物质",
+     "why": "“气”含神化与能动之义，不是近代力学的物质；“太虚即气”要破的是“空无”之见。"
+    },
+    {
+     "claim": "《西铭》只是伦理短文",
+     "why": "它把宇宙论（乾坤父母）与伦理学（民胞物与）连为一体，是理学“天人一体”的纲领。"
+    }
+   ],
+   "sources": [
+    "ws-zhengmeng",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1076
+  },
+  {
    "id": "work-guide-perplexed",
    "title": "《迷途指津》",
    "title_original": "Dalālat al-ḥāʾirīn（Guide of the Perplexed）",
@@ -1531,11 +1589,11 @@
     }
    ],
    "sources": [
-    "sep-qing-philosophy",
-    "book-chan-sourcebook"
+    "ws-mingyi",
+    "sep-qing-philosophy"
    ],
-   "needs_verification": true,
-   "pending_notes": "《明夷待访录》无已核验的原典在线来源进本库，篇目与引文依清代学术研究与哲学史著作转述；引原句须补一部点校本作来源。",
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": 1663
   },
   {
@@ -1646,11 +1704,11 @@
     }
    ],
    "sources": [
-    "sep-spinoza",
-    "book-copleston-history"
+    "ws-spinoza-ethica",
+    "sep-spinoza"
    ],
-   "needs_verification": true,
-   "pending_notes": "原典译本尚未进本库（无 emt-spinoza），故不作逐字引文；命题编号依 SEP 词条与通行英译本，若引原文须补一部中译本作来源。",
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": 1677
   },
   {
@@ -2623,6 +2681,64 @@
    "sort_year": 1953
   },
   {
+   "id": "work-order-of-things",
+   "title": "《词与物》",
+   "title_original": "Les mots et les choses",
+   "tradition": "west",
+   "date_display": "1966年",
+   "structure": "十章，按“相似—再现—历史”的知识型（épistémè）断代展开：文艺复兴（相似）、古典时代（再现与分类）、现代（历史与人的诞生）；末章宣告“人之死”。",
+   "core_arguments": [
+    "每一时代有一套“知识型”，决定什么能被视为知识",
+    "古典时代的“再现”秩序在18世纪末断裂，现代的人文科学由此诞生",
+    "“人”是近代知识型的产物，随该知识型的瓦解而消失"
+   ],
+   "key_points": [
+    {
+     "locator": "序言",
+     "point": "博尔赫斯动物分类引出的“异托邦”笑意"
+    },
+    {
+     "locator": "第1章",
+     "point": "宫娥图与再现的疑难"
+    },
+    {
+     "locator": "第5章",
+     "point": "古典时代的分类学与“财富的分析”"
+    },
+    {
+     "locator": "第10章",
+     "point": "人文科学的三角与“人之死”"
+    }
+   ],
+   "editions": [
+    "莫伟民译《词与物》上海三联书店",
+    "Gallimard 法文本"
+   ],
+   "related_people": [
+    "gr-contemp-foucault",
+    "gr-20c-husserl",
+    "gr-contemp-habermas"
+   ],
+   "misreadings": [
+    {
+     "claim": "福柯主张“人不存在”",
+     "why": "他说的是“人”作为知识型中的经验—先验双重体是近代产物；这是知识史的断言，不是人类学否定。"
+    },
+    {
+     "claim": "知识型是福柯的主观框架",
+     "why": "它是对一个时代话语规则的重构，其证据来自具体学科的档案，而非任意分期。"
+    }
+   ],
+   "sources": [
+    "sep-foucault",
+    "iep-foucault",
+    "book-foucault-order"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1966
+  },
+  {
    "id": "work-theory-justice",
    "title": "《正义论》",
    "title_original": "A Theory of Justice",
@@ -2678,6 +2794,64 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1971
+  },
+  {
+   "id": "work-anarchy-state-utopia",
+   "title": "《无政府、国家与乌托邦》",
+   "title_original": "Anarchy, State, and Utopia",
+   "tradition": "west",
+   "date_display": "1974年",
+   "structure": "三部分：一、自然状态理论（如何由无政府状态中会长出“最小国家”而不侵犯权利）；二、超越最小国家（反驳再分配）；三、乌托邦（以“乌托邦框架”容纳多种生活方式）。",
+   "core_arguments": [
+    "以“看不见的手”解释国家如何在不侵犯权利的前提下产生",
+    "资格理论：持有的正义在于历史来源正当（获取、转让、矫正三原则），而非结果格局",
+    "最小国家是唯一可被正当化的国家；再分配性税收在性质上等同于强制劳动"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分 第2—5章",
+     "point": "自然状态与“看不见的手”说明"
+    },
+    {
+     "locator": "第二部分 第7章",
+     "point": "资格理论与张伯伦论证"
+    },
+    {
+     "locator": "第8章",
+     "point": "对“平等”与“自我所有权”的论证"
+    },
+    {
+     "locator": "第三部分 第10章",
+     "point": "乌托邦框架：以自由联合容纳多元生活"
+    }
+   ],
+   "editions": [
+    "姚大志译《无政府、国家与乌托邦》中国社会科学出版社",
+    "Basic Books 英文本"
+   ],
+   "related_people": [
+    "gr-contemp-nozick",
+    "gr-contemp-rawls",
+    "gr-modern-locke"
+   ],
+   "misreadings": [
+    {
+     "claim": "诺齐克主张无政府",
+     "why": "他以“看不见的手”论证国家可以正当地产生，结论是“最小国家”，不是无政府。"
+    },
+    {
+     "claim": "张伯伦论证证明不平等总是正当",
+     "why": "它只证明“符合资格原则”的分布是正当的，并不主张任何实际不平等都符合资格原则。"
+    }
+   ],
+   "sources": [
+    "iep-nozick",
+    "sep-rawls",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "中译本页码与原文措辞未逐一核对（张伯伦论证的具体数字为通行例示）；论述依 IEP 诺齐克词条与罗尔斯研究对照。",
+   "sort_year": 1974
   }
  ]
 }

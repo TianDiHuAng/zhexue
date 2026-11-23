@@ -557,12 +557,12 @@
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>斯宾诺莎：实体—属性—样态（示意）</text><defs><marker id='ar3' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='60' y='58' width='200' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='160' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>定义与公理</text><text x='160' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>自因·属性·样态</text><rect x='500' y='58' width='200' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='600' y='82' text-anchor='middle' font-size='12' fill='#1e2d3d'>多者相互限制</text><text x='600' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>故非实体</text><line x1='260' y1='86' x2='330' y2='86' stroke='#4a7ba6' marker-end='url(#ar3)'/><line x1='500' y1='86' x2='430' y2='86' stroke='#4a7ba6' marker-end='url(#ar3)'/><rect x='334' y='60' width='92' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='82' text-anchor='middle' font-size='12' fill='#1c3a5c'>唯一实体</text><text x='380' y='102' text-anchor='middle' font-size='10' fill='#1e2d3d'>神即自然</text><line x1='380' y1='116' x2='380' y2='156' stroke='#4a7ba6' marker-end='url(#ar3)'/><rect x='230' y='160' width='300' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='184' text-anchor='middle' font-size='13' fill='#1c3a5c'>两个属性：思想与广延</text><text x='380' y='204' text-anchor='middle' font-size='10' fill='#1e2d3d'>同一秩序，互不因果（平行）</text><line x1='380' y1='220' x2='380' y2='258' stroke='#4a7ba6' marker-end='url(#ar3)'/><rect x='180' y='262' width='400' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='286' text-anchor='middle' font-size='13' fill='#1c3a5c'>样态：conatus 即现实本质</text><text x='380' y='306' text-anchor='middle' font-size='10' fill='#1e2d3d'>自由＝依自身本性而行</text><text x='380' y='356' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：《伦理学》第一部分定义三、第二部分命题七、第三部分命题六</text></svg>",
    "svg_caption": "斯宾诺莎：从实体到属性与样态的结构（重构示意图）",
    "sources": [
+    "ws-spinoza-ethica",
     "sep-spinoza",
-    "emt-descartes",
     "book-copleston-history"
    ],
-   "needs_verification": true,
-   "pending_notes": "斯宾诺莎原典译本尚未进本库（SEP 词条已核验，无 emt-spinoza），故 quotes 留空；《伦理学》命题编号依 SEP 与通行英译本，若引原文须补一部中译本作来源。",
+   "needs_verification": false,
+   "pending_notes": "",
    "doctrine": {
     "summary": "斯宾诺莎以几何学方法建立一元论：只有一个实体，即神或自然（deus sive natura），万物是其属性与样态。他否认自由意志，主张“自由是对必然的认识”（此为后人概括），以 conatus（努力保持存在）解释欲望与伦理，以三种知识区分意见、理性与直观。其体系是近代最严整的决定论形而上学。",
     "system": [

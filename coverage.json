@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 429,
+  "entries": 432,
   "by_level": {
-   "L2": 363,
-   "L1": 66
+   "L2": 368,
+   "L1": 64
   },
   "doctrine": {
    "total": 150,
    "detail": 150,
    "auto": 0
   },
-  "needs_verification": 66,
+  "needs_verification": 64,
   "sources": 254,
-  "sources_verified": 238
+  "sources_verified": 239
  },
  "units": [
   {
@@ -3548,10 +3548,10 @@
    "type": "philosopher",
    "title": "斯宾诺莎",
    "container": "gr-modern",
-   "level": "L1",
+   "level": "L2",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -3995,6 +3995,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-zhengmeng",
+   "type": "work",
+   "title": "《正蒙》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-guide-perplexed",
    "type": "work",
    "title": "《迷途指津》",
@@ -4087,10 +4098,10 @@
    "type": "work",
    "title": "《明夷待访录》",
    "container": "china",
-   "level": "L1",
+   "level": "L2",
    "sources": 2,
    "verified_sources": 2,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -4109,10 +4120,10 @@
    "type": "work",
    "title": "《伦理学》",
    "container": "west",
-   "level": "L1",
+   "level": "L2",
    "sources": 2,
    "verified_sources": 2,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -4303,6 +4314,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-order-of-things",
+   "type": "work",
+   "title": "《词与物》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-theory-justice",
    "type": "work",
    "title": "《正义论》",
@@ -4311,6 +4333,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-anarchy-state-utopia",
+   "type": "work",
+   "title": "《无政府、国家与乌托邦》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
