@@ -3368,6 +3368,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-life-world",
+   "term": "生活世界（再论：作为意义基础）",
+   "term_latin": "Lebenswelt",
+   "definition": "胡塞尔晚期的核心概念：一切科学以之为前提的前科学的直观境域。科学的意义沉淀于生活世界，故须“回溯”以揭示其起源；它不是众多对象领域之一，而是意义的基础。",
+   "usages": [
+    {
+     "name": "胡塞尔",
+     "id": "gr-20c-husserl",
+     "usage": "以“伽利略的科学”为例：几何化的自然取代直观的自然，故科学的成功同时是对生活世界的遗忘。"
+    },
+    {
+     "name": "梅洛-庞蒂",
+     "id": "gr-20c-merleau-ponty",
+     "usage": "以知觉场说明生活世界的前对象性结构：身体先于对象化而“在”世界中。"
+    },
+    {
+     "name": "哈贝马斯（改造，对照）",
+     "usage": "以“生活世界”与“系统”的对峙说明现代性的病理：系统侵入生活世界即“ colonization ”。"
+    }
+   ],
+   "related": [
+    "gr-20c-intentionality"
+   ],
+   "example": {
+    "text": "胡塞尔的回溯不是回到“更原始的体验”以取代科学，而是揭示科学概念的意义来源：如几何学的“公理”在生活世界中已有其前科学的起源（测量、划界、比较）。",
+    "figure": "胡塞尔",
+    "locator": "《欧洲科学的危机》附论《几何学的起源》"
+   },
+   "sources": [
+    "sep-husserl",
+    "iep-husserl"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

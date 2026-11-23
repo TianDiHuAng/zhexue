@@ -7944,6 +7944,62 @@
    "sort_year": 1927
   },
   {
+   "id": "work-crisis-sciences",
+   "title": "《欧洲科学的危机与先验现象学》",
+   "title_original": "Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie",
+   "tradition": "west",
+   "date_display": "1936年（部分刊行）；1954年（全集本）",
+   "structure": "三部分：一、科学作为普遍科学的观念及其危机；二、从生活世界回溯到先验主体性；三、先验现象学作为“第一哲学”的构想（附《几何学的起源》为最重要附论）。",
+   "core_arguments": [
+    "科学的危机不是科学的不精确，而是其意义的失落：它遗忘了生活世界（Lebenswelt）这一前提",
+    "以“伽利略的科学”为例：几何化的自然取代了直观的自然，故科学的成功同时是对生活世界的遗忘",
+    "回溯（Rückfrage）到先验主体性，方能恢复科学的意义基础"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分 §1—§9",
+     "point": "科学的危机与生活世界的遗忘"
+    },
+    {
+     "locator": "第二部分 §28—§38",
+     "point": "生活世界的先验结构"
+    },
+    {
+     "locator": "附论《几何学的起源》",
+     "point": "几何学的意义沉淀与回溯"
+    },
+    {
+     "locator": "第三部分",
+     "point": "先验现象学作为第一哲学"
+    }
+   ],
+   "editions": [
+    "王炳文译《欧洲科学的危机与超越论的现象学》商务印书馆；Husserliana VI"
+   ],
+   "related_people": [
+    "gr-20c-husserl",
+    "gr-20c-heidegger",
+    "gr-contemp-habermas"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是胡塞尔晚年的悲观退守",
+     "why": "它是对科学意义的系统诊断与重建方案（生活世界的回溯），不是退守，而是其现象学的最终形态。"
+    },
+    {
+     "claim": "“生活世界”是一个新的研究对象",
+     "why": "它是前科学的直观境域，是意义的基础，不是众多对象领域之一。"
+    }
+   ],
+   "sources": [
+    "sep-husserl",
+    "iep-husserl"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本书为未完成稿：第一、二部分于1936年在贝尔格莱德刊行，全文1954年由比梅尔编入 Husserliana VI；编排与文本状况影响解读，具体章节须核全集本。",
+   "sort_year": 1936
+  },
+  {
    "id": "work-being-nothingness",
    "title": "《存在与虚无》",
    "title_original": "L'Être et le néant",
@@ -8058,6 +8114,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1945
+  },
+  {
+   "id": "work-dialectic-enlightenment",
+   "title": "《启蒙辩证法》",
+   "title_original": "Dialektik der Aufklärung",
+   "tradition": "west",
+   "date_display": "1947年（1944年油印本）",
+   "structure": "导论＋六篇附论：论启蒙的概念、论文化工业、论反犹主义的要素、论《奥德赛》等。",
+   "core_arguments": [
+    "启蒙以“祛魅”与计算把握世界，把一切化约为可支配的对象",
+    "工具理性的极致产生新的神话（种族、市场、技术），故启蒙回归神话",
+    "文化工业以标准化生产“伪个性”，使批判意识萎缩"
+   ],
+   "key_points": [
+    {
+     "locator": "导论",
+     "point": "启蒙与神话的辩证"
+    },
+    {
+     "locator": "附论一《启蒙的概念》",
+     "point": "工具理性与支配"
+    },
+    {
+     "locator": "附论二《文化工业》",
+     "point": "标准化与伪个性"
+    },
+    {
+     "locator": "附论三",
+     "point": "反犹主义的要素"
+    }
+   ],
+   "editions": [
+    "中译参上海人民出版社《启蒙辩证法》；Suhrkamp 版（GS 第3卷）"
+   ],
+   "related_people": [
+    "gr-20c-adorno",
+    "gr-german-hegel",
+    "gr-contemp-habermas"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张彻底放弃启蒙与科学",
+     "why": "它要的是“对启蒙的自我反思”（启蒙的自我修正），不是回到神话；书中明言“启蒙只有对自己施行暴力才能打破迷信”。"
+    },
+    {
+     "claim": "它是霍克海默与阿多诺的合著但风格统一",
+     "why": "二人分工写作，附论风格与论证方式有差异（如《文化工业》与《反犹主义要素》的侧重不同）。"
+    }
+   ],
+   "sources": [
+    "sep-adorno",
+    "iep-adorno"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1947
   },
   {
    "id": "work-second-sex",
@@ -8393,6 +8505,62 @@
     "sep-foucault",
     "iep-foucault",
     "book-foucault-order"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1966
+  },
+  {
+   "id": "work-negative-dialectics",
+   "title": "《否定的辩证法》",
+   "title_original": "Negative Dialektik",
+   "tradition": "west",
+   "date_display": "1966年",
+   "structure": "三部分：与本体论的关系、否定的辩证法（概念与否定）、模型（论自由、世界精神与自然史）。",
+   "core_arguments": [
+    "同一性思维是压迫的认识论形式：概念总要把特殊归入普遍而抹去其特殊",
+    "辩证法不应终止于综合，而应坚持否定性，让“非同一者”不被吞没",
+    "“整体是不真的”（Das Ganze ist das Unwahre）：对黑格尔总体说的直接反转"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "对海德格尔本体论的批评"
+    },
+    {
+     "locator": "第二部分",
+     "point": "概念与否定、非同一者"
+    },
+    {
+     "locator": "第三部分《论自由》",
+     "point": "自由与因果性"
+    },
+    {
+     "locator": "第三部分《世界精神与自然史》",
+     "point": "自然史与历史"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《否定的辩证法》；Suhrkamp 版（GS 第6卷）"
+   ],
+   "related_people": [
+    "gr-20c-adorno",
+    "gr-german-hegel",
+    "gr-contemp-derrida"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张取消一切概念与理性",
+     "why": "它要求概念对自身施以“自我反思”，以呈现非同一者；这仍是理性的工作，不是非理性主义。"
+    },
+    {
+     "claim": "“整体是不真的”是一句反体系的格言",
+     "why": "它是针对黑格尔“整体即真理”的论证性反转，其根据是同一性思维对特殊的压抑。"
+    }
+   ],
+   "sources": [
+    "sep-adorno",
+    "iep-adorno"
    ],
    "needs_verification": false,
    "pending_notes": "",

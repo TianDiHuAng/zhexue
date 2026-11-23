@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 720,
+  "entries": 726,
   "by_level": {
-   "L2": 609,
-   "L1": 111
+   "L2": 614,
+   "L1": 112
   },
   "doctrine": {
    "total": 219,
    "detail": 219,
    "auto": 0
   },
-  "needs_verification": 111,
+  "needs_verification": 112,
   "sources": 322,
   "sources_verified": 318
  },
@@ -84,7 +84,7 @@
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
    "philosophers": 19,
-   "concepts": 14,
+   "concepts": 15,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -102,7 +102,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 10,
-   "concepts": 12,
+   "concepts": 13,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -2"
   },
@@ -129,7 +129,7 @@
    "title": "中世纪经院哲学",
    "region": "west",
    "philosophers": 18,
-   "concepts": 14,
+   "concepts": 15,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -3181,6 +3181,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-life-world",
+   "type": "concept",
+   "title": "生活世界（再论：作为意义基础）",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-20c-metaphysics-meaning",
    "type": "debate",
    "title": "形而上学命题是否有认知意义",
@@ -3932,6 +3943,17 @@
    "id": "gr-contemp-biopower",
    "type": "concept",
    "title": "生命权力",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-contemp-nonidentity",
+   "type": "concept",
+   "title": "非同一者",
    "container": "gr-contemp",
    "level": "L2",
    "sources": 2,
@@ -5098,6 +5120,17 @@
    "id": "gr-medieval-quaestio",
    "type": "concept",
    "title": "经院方法（quaestio）",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-synderesis",
+   "type": "concept",
+   "title": "良知（synderesis）",
    "container": "gr-medieval",
    "level": "L2",
    "sources": 3,
@@ -7306,6 +7339,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-crisis-sciences",
+   "type": "work",
+   "title": "《欧洲科学的危机与先验现象学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-being-nothingness",
    "type": "work",
    "title": "《存在与虚无》",
@@ -7324,6 +7368,17 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-dialectic-enlightenment",
+   "type": "work",
+   "title": "《启蒙辩证法》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -7390,6 +7445,17 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-negative-dialectics",
+   "type": "work",
+   "title": "《否定的辩证法》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": false,
    "updated": "2026-11-23"
   },

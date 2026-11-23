@@ -2000,6 +2000,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-nonidentity",
+   "term": "非同一者",
+   "term_latin": "das Nichtidentische",
+   "definition": "阿多诺的核心概念：不能被概念完全把握的特殊者。它不是另一个对象，而是概念化过程中被排除、被压抑的那个“剩余”；否定的辩证法即让这一剩余显现。",
+   "usages": [
+    {
+     "name": "阿多诺",
+     "usage": "概念总要把特殊归入普遍，故非同一者只能在概念的“自我反思”中被指示，不能被正面定义。"
+    },
+    {
+     "name": "黑格尔（对照）",
+     "usage": "非同一者被扬弃于总体之中：矛盾在更高环节中被和解。"
+    },
+    {
+     "name": "德里达（同向异路）",
+     "id": "gr-contemp-derrida",
+     "usage": "以“延异”说明意义永不到场，与“非同一者”的结构相近，但路径是文本阅读而非辩证法。"
+    }
+   ],
+   "related": [
+    "gr-contemp-deconstruction",
+    "gr-contemp-veil"
+   ],
+   "example": {
+    "text": "阿多诺说“整体是不真的”：这不是否定体系的形式，而是指出以总体消解矛盾必然压抑特殊——故“非同一者”的显现本身就是对总体性的批判。",
+    "figure": "阿多诺",
+    "locator": "《否定的辩证法》"
+   },
+   "sources": [
+    "sep-adorno",
+    "iep-adorno"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

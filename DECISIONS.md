@@ -106,3 +106,6 @@ WORKFLOW.md 记录旧项目经验是"最多 1 个后台代理"，当时受平台
 
 ## D27 人物页 misc 字段只接受元组列表
 `misconceptions` 必须是 `[("常见说法", "为什么不对"), ...]` 的纯元组列表。第59轮与第65轮各出现一次把 `{"claim":...,"why":...}` 混入的写法，导致 SyntaxError。检查要点：人物页里只有 `arguments`／`criticisms`／`influenced` 等用字典，`misconceptions` 与 `usages`（概念页）一律用元组。
+
+## D28 来源引用改为工具强制校验
+连续三轮（第63、65、68轮）出现凭记忆引用不存在的来源 id（iep-animals / sep-freud / sep-fichte）。规则写在文档里无效，改为工具强制：新增 `tools/precheck_src.py`，每轮临时脚本开头 `from precheck_src import require; require([...全部引用的来源 id...])`，未通过即抛出 AssertionError，不写盘。已用假 id 实测：退出码 1 并列出未知 id。

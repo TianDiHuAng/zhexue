@@ -3569,6 +3569,45 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-synderesis",
+   "term": "良知（synderesis）",
+   "term_latin": "synderesis / conscientia",
+   "definition": "经院伦理学的区分：synderesis 是人心对伦理第一原理的自然倾向（不可磨灭，但可被遮蔽），conscientia 是把它应用于具体行为的心智活动（可错）。",
+   "usages": [
+    {
+     "name": "托马斯·阿奎那",
+     "id": "gr-medieval-aquinas",
+     "usage": "synderesis 是“对伦理原理的自然习得”，conscientia 是其应用；故错误在应用而不在原理。"
+    },
+    {
+     "name": "奥卡姆",
+     "id": "gr-medieval-ockham",
+     "usage": "以意志优先：conscientia 的“约束力”来自神的命令与正确的理性判断，故其错误可使人负有义务去做客观上错的事。"
+    },
+    {
+     "name": "方济各一系（对照）",
+     "id": "gr-medieval-bonaventure",
+     "usage": "synderesis 是灵魂朝向善的自然倾向，与意志的燃烧之爱相关。"
+    }
+   ],
+   "related": [
+    "gr-medieval-intellect-will",
+    "gr-medieval-sacrament"
+   ],
+   "example": {
+    "text": "阿奎那的区分解决了一个困难：若良知会错，则“服从良知”可能导致恶行。他的回答是：错误在应用（conscientia），而原理（synderesis）不会错——故须以正确的理性校正应用。",
+    "figure": "托马斯·阿奎那",
+    "locator": "《神学大全》I q.79 a.12—13；I-II q.19"
+   },
+   "sources": [
+    "lat-aquinas-summa",
+    "sep-aquinas",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [
