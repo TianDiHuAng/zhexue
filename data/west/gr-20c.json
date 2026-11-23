@@ -3472,6 +3472,306 @@
      "note": "1913／1916 年"
     }
    ]
+  },
+  {
+   "id": "gr-20c-gramsci",
+   "name": "葛兰西",
+   "latin": "Antonio Gramsci",
+   "birth_year": 1891,
+   "death_year": 1937,
+   "birth_display": "1891年",
+   "death_display": "1937年",
+   "birth_note": "据其传记与《狱中札记》：生于撒丁岛阿莱斯，1911年入都灵大学，1919年参与创办《新秩序》。",
+   "death_note": "1937年卒于罗马（狱中）。",
+   "era": "20世纪初的意大利。葛兰西是意大利共产党的创始者之一，1926年被捕，在狱中写成《狱中札记》。其核心贡献是“文化领导权”（egemonia）：统治不只靠强制（国家），还靠**同意**（市民社会）；故革命须先争夺文化领导权。他又以“有机知识分子”论知识分子的社会功能。",
+   "school": "马克思主义（文化领导权理论）",
+   "core_questions": [
+    "统治如何被维持？",
+    "革命为何在西方失败？",
+    "知识分子的作用是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "文化领导权：统治=强制＋同意",
+     "premises": [
+      "国家是强制性的机器（军队、警察、法庭）。",
+      "而“市民社会”（教会、学校、报刊、工会）生产对统治的**同意**。"
+     ],
+     "inference": "若统治的稳定依赖同意，则革命不能只夺取国家机器；须先在市民社会中争夺文化领导权——否则夺得的国家机器无法维持。",
+     "conclusion": "统治由强制与同意两部分构成，故革命须争夺文化领导权（此即其对“西方革命失败”的解释）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "有机知识分子：知识分子不是独立的阶层",
+     "premises": [
+      "每一社会集团都“有机地”产生自己的知识分子。",
+      "传统知识分子（如教士）则自认为独立于阶级。"
+     ],
+     "inference": "若知识分子有其阶级的“有机”来源，则其功能不是中立的求真，而是组织本集团的世界观；故争夺领导权也意味着争夺知识分子的组织能力。",
+     "conclusion": "知识分子是阶级的“有机”组织者（此说改变了知识社会学的框架）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《狱中札记》《南方问题》《新秩序》文集",
+     "edition": "《狱中札记》中译参中国社会科学出版社（选译本）；意大利文 Einaudi 版",
+     "note": "1929—1935；1926；1919—1920"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "马克思",
+     "id": null,
+     "note": "以阶级与国家为框架"
+    },
+    {
+     "name": "克罗齐（批评对象）",
+     "id": null,
+     "note": "以“伦理—政治史”为自由主义史观"
+    },
+    {
+     "name": "马基雅维利（其引用）",
+     "id": null,
+     "note": "以“现代君主”喻政党"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "阿尔都塞（同调与分歧）",
+     "id": null,
+     "note": "以“意识形态国家机器”回应其市民社会论"
+    },
+    {
+     "name": "伯明翰学派与文化研究",
+     "id": null,
+     "note": "以“领导权”为文化分析的核心概念"
+    },
+    {
+     "name": "后殖民理论（如萨义德）",
+     "id": null,
+     "note": "以“领导权”分析殖民知识的生产"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "经济决定论者",
+     "view": "以经济基础为唯一的解释因素，批评“文化领导权”是唯心主义的偏移。",
+     "response": "葛兰西一系的回应是：领导权不是取代经济，而是说明**统治如何被维持**；其“阵地战”概念仍以生产方式为背景。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-gramsci",
+      "sep-marx"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "葛兰西是“纯文化主义者”",
+     "why": "其“领导权”始终与国家权力相连（“国家=强制+同意”）；他并未放弃政治经济学，而是反对**机械的经济决定论**。"
+    },
+    {
+     "claim": "“文化领导权”是“软实力”的同义词",
+     "why": "后者是国家对外的影响力；葛兰西的“领导权”是**阶级之间的支配关系**，其核心是市民社会中的组织与同意。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>葛兰西：文化领导权与国家</text><defs><marker id='aAG2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>国家＝强制＋同意</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>同意由市民社会生产</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故革命须争夺领导权</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故知识分子是阶级的有机组织者</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aAG2)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aAG2)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "葛兰西：强制与同意的双重结构（示意图）",
+   "sources": [
+    "sep-gramsci",
+    "sep-marx",
+    "marx-chinese"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "葛兰西以“文化领导权”说明统治的双重结构：国家是强制性的机器，而“市民社会”（教会、学校、报刊、工会）生产对统治的同意；故统治的稳定依赖同意，革命因而不能只夺取国家机器，须先在市民社会中争夺领导权。他又以“有机知识分子”论知识分子的功能：每一社会集团都产生自己的知识分子，其作用是组织本集团的世界观。",
+    "system": [
+     {
+      "name": "文化领导权（egemonia）",
+      "content": "统治由强制与同意构成；同意在市民社会中生产。"
+     },
+     {
+      "name": "阵地战",
+      "content": "在市民社会中长期争夺领导权（相对于“运动战”）。"
+     },
+     {
+      "name": "有机知识分子",
+      "content": "每一社会集团所产生的、组织其世界观的知识分子。"
+     },
+     {
+      "name": "现代君主",
+      "content": "以政党为“现代君主”，承担组织与领导的功能。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "撒丁岛、都灵与罗马（1891—1937）",
+      "change": "1911 年入都灵大学；1919 年创办《新秩序》；1921 年参与创建意大利共产党；1926 年被捕；1929—1935 年在狱中写《札记》；1937 年卒于狱中医院。"
+     }
+    ],
+    "reception": "“文化领导权”成为文化研究、后殖民理论与教育社会学的核心概念；其“阵地战”与“有机知识分子”论影响了20世纪后半叶的左翼政治理论；《狱中札记》被视为马克思主义政治哲学的经典。"
+   },
+   "works_detail": [
+    {
+     "title": "《狱中札记》",
+     "structure": "三十余本笔记，含“历史唯物主义与克罗齐的哲学”“知识分子与文化领导权”“马基雅维利论”“国家”等专题；体例为札记与草案。",
+     "core_thesis": "领导权、阵地战、有机知识分子。",
+     "editions": "意大利文 Einaudi 版（Gramsci, Quaderni del carcere）；中译参选译本",
+     "note": "1929—1935 年狱中写成"
+    }
+   ]
+  },
+  {
+   "id": "gr-20c-lacan",
+   "name": "拉康",
+   "latin": "Jacques Lacan",
+   "birth_year": 1901,
+   "death_year": 1981,
+   "birth_display": "1901年",
+   "death_display": "1981年",
+   "birth_note": "据其传记与研讨班记录：生于巴黎，原习医学与精神科，1932年以妄想症论文获博士。",
+   "death_note": "1981年卒于巴黎。",
+   "era": "20世纪中后期的法国。拉康以“回到弗洛伊德”为口号，把精神分析重置于语言与结构之中：无意识是“像语言一样被结构的”；主体由“象征界”的法则构成，而其核心是一个永远无法填补的“缺失”（manque）。其“镜像阶段”“大他者”“实在界”等概念影响了哲学、文学理论与电影理论。",
+   "school": "精神分析（结构主义与后结构主义之间）",
+   "core_questions": [
+    "无意识如何被结构？",
+    "主体如何形成？",
+    "欲望的对象是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "无意识像语言一样被结构",
+     "premises": [
+      "弗洛伊德的“移置”“凝缩”与语言学的“换喻”“隐喻”同构。",
+      "梦的运作遵循能指的法则。"
+     ],
+     "inference": "若无意识遵循能指的法则，则它不是本能的混沌，而是一个**结构**；故精神分析的倾听是对能指链的解读。",
+     "conclusion": "无意识是能指的结构（此说把精神分析置于语言之上）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "镜像阶段：自我是想象性的误认",
+     "premises": [
+      "婴儿在镜中认出自己的形象，并为此欢欣。",
+      "但那个形象是**完整的**，而婴儿实际是不协调的。"
+     ],
+     "inference": "若自我由镜中的完整形象构成，则自我从一开始就是**误认**（méconnaissance）：它是对一个虚构统一性的认同——故“自我”不是主体，而是想象界的产物。",
+     "conclusion": "自我是想象性的误认，不是主体的真相（主体在象征界）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《文集》（Écrits）《研讨班》（ Séminaire，二十六卷）《电视》",
+     "edition": "《文集》中译参（若有）；法文 Seuil 版；英译 Écrits（Fink 译）",
+     "note": "1966；1953—1980；1974"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "弗洛伊德",
+     "id": null,
+     "note": "以“回到弗洛伊德”为口号"
+    },
+    {
+     "name": "索绪尔（语言学）",
+     "id": null,
+     "note": "以能指与差异为无意识的结构模型"
+    },
+    {
+     "name": "黑格尔与科耶夫（欲望与承认）",
+     "id": null,
+     "note": "以“欲望是他者的欲望”为线索"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "阿尔都塞（同代人）",
+     "id": null,
+     "note": "以“症候阅读”与主体的构成互为参照"
+    },
+    {
+     "name": "福柯与德里达（同代人）",
+     "id": null,
+     "note": "既有交锋也有借用"
+    },
+    {
+     "name": "电影理论与女性主义理论",
+     "id": null,
+     "note": "以镜像阶段与“凝视”为分析工具"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "德里达",
+     "view": "以“能指的无限滑动”批评其仍设一个“缺失”作为中心。",
+     "response": "拉康一系的回应是：缺失不是中心，而是结构性的空位——它恰是能指链条得以运作的条件。",
+     "kind": "原文",
+     "sources": [
+      "sep-lacan",
+      "sep-foucault"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "拉康是“结构主义者”",
+     "why": "他借用结构语言学，但以“实在界”超出符号化的残余为极限；其立场介于结构主义与后结构主义之间。"
+    },
+    {
+     "claim": "其作品只是晦涩的修辞",
+     "why": "其“研讨班”有明确的技术议程（如“博罗梅奥结”用以说明三界的拓扑关系）；其难度部分来自教学的修辞策略与口传性质。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>拉康：无意识的结构与镜像阶段</text><defs><marker id='aJL' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>无意识遵循能指法则</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故自我是想象性的误认</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>而主体由象征界构成</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>而实在界是符号化的残余</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aJL)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aJL)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "拉康：三界（想象、象征、实在）与主体的构成（示意图）",
+   "sources": [
+    "sep-lacan",
+    "sep-hegel",
+    "sep-foucault"
+   ],
+   "needs_verification": true,
+   "pending_notes": "拉康的“实在界”“大他者”等术语在不同年代有重要演变（其研讨班逐年调整图式）；本页依 SEP 词条与《文集》英译概述，具体表述须按其研讨班年代分辨。",
+   "doctrine": {
+    "summary": "拉康以“回到弗洛伊德”为口号，把精神分析重置于语言之上：无意识不是本能的混沌，而是像语言一样被结构的（移置／凝缩与换喻／隐喻同构）。其“镜像阶段”说明自我是想象性的**误认**——对镜中完整形象的认同掩盖了身体的不协调；而主体由“象征界”的法则构成，其核心是一个无法填补的缺失。其“实在界”则是符号化的残余。",
+    "system": [
+     {
+      "name": "无意识的结构",
+      "content": "无意识遵循能指的法则，故可被解读；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "镜像阶段",
+      "content": "自我由镜中完整形象的误认构成；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "三界",
+      "content": "想象界（形象）、象征界（语言与法则）、实在界（符号化的残余）。"
+     },
+     {
+      "name": "缺失（manque）",
+      "content": "主体结构性的空位，欲望由此而生；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "巴黎（1901—1981）",
+      "change": "1932 年以妄想症论文获医学博士；1930 年代参与超现实主义圈；1953 年起开设研讨班；1964 年创立巴黎弗洛伊德学院；1980 年解散之；1981 年卒。"
+     }
+    ],
+    "reception": "拉康的“镜像阶段”与三界说成为电影理论、文学批评与女性主义理论的基本工具；“回到弗洛伊德”的口号改变了法国精神分析的走向；其研讨班的影响远超临床领域。"
+   },
+   "works_detail": [
+    {
+     "title": "《文集》（Écrits）",
+     "structure": "收录 1930—60 年代的重要论文（《镜像阶段》《无意识中字的机构》《主体的颠覆》等），体例为论辩性长文。",
+     "core_thesis": "无意识的结构；镜像阶段的误认。",
+     "editions": "法文 Seuil 版；英译 Écrits（Bruce Fink 译）",
+     "note": "1966 年"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -4318,6 +4618,76 @@
    ],
    "needs_verification": true,
    "pending_notes": "“质料的先天”与胡塞尔“本质直观”的关系、以及它是否真的避开了心理主义，是现象学伦理学的核心争论；本页并述其说与康德的形式先天之别。"
+  },
+  {
+   "id": "gr-20c-hegemony",
+   "term": "文化领导权",
+   "term_latin": "egemonia / hegemony",
+   "definition": "葛兰西的概念：统治阶级的支配不只靠强制，还靠被统治者的**同意**；而同意是在“市民社会”（学校、教会、报刊、工会）中被生产与组织的。故革命须先在此争夺领导权（“阵地战”）。",
+   "usages": [
+    {
+     "name": "葛兰西",
+     "id": "gr-20c-gramsci",
+     "usage": "国家＝强制＋同意；同意在市民社会中生产。"
+    },
+    {
+     "name": "阿尔都塞（改造）",
+     "usage": "以“意识形态国家机器”重述同一问题：主体在机器中被“召唤”为主体。"
+    },
+    {
+     "name": "马克思（背景）",
+     "usage": "以经济基础与上层建筑为框架，但未展开“同意”的机制。"
+    }
+   ],
+   "related": [],
+   "example": {
+    "text": "“领导权”的要害是它把**支配的维持**变成问题：若统治只靠强制，则任何国家都随时可被推翻；故稳定的统治必含同意。这一视角使文化、教育与媒体成为政治分析的核心对象——而不只是“上层建筑的反映”。",
+    "figure": "葛兰西",
+    "locator": "《狱中札记·知识分子与文化领导权》"
+   },
+   "sources": [
+    "sep-gramsci",
+    "sep-marx",
+    "sep-althusser"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-mirror-stage",
+   "term": "镜像阶段",
+   "term_latin": "stade du miroir",
+   "definition": "拉康的概念（1936年提出）：6—18个月的婴儿在镜中认出自己的形象并欢欣，但那个形象是**完整的**，而婴儿的实际身体是不协调的。故“自我”由对一个虚构统一性的认同而成——自我即误认。",
+   "usages": [
+    {
+     "name": "拉康",
+     "id": "gr-20c-lacan",
+     "usage": "自我（moi）是想象界的产物；主体（sujet）在象征界。"
+    },
+    {
+     "name": "弗洛伊德（对照）",
+     "usage": "以自我为心理 apparatus 的调节机构，未将其视为误认。"
+    },
+    {
+     "name": "阿尔都塞（借用）",
+     "usage": "以“召唤”说明主体的同一误认结构。"
+    }
+   ],
+   "related": [
+    "gr-20c-lifeworld",
+    "gr-20c-self-deception"
+   ],
+   "example": {
+    "text": "镜像阶段的哲学分量在于它**颠倒了常识**：通常认为自我是认识的主体，拉康说自我首先是一个被认同的形象（对象）；故“认识自己”在结构上是不可能的——主体只能在象征界中通过语言被代表，而那个代表永远是缺席的。",
+    "figure": "拉康",
+    "locator": "《文集·镜像阶段》"
+   },
+   "sources": [
+    "sep-lacan",
+    "sep-hegel"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

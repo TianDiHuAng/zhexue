@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1013,
+  "entries": 1019,
   "by_level": {
-   "L2": 768,
-   "L1": 245
+   "L2": 771,
+   "L1": 248
   },
   "doctrine": {
-   "total": 241,
-   "detail": 241,
+   "total": 245,
+   "detail": 245,
    "auto": 0
   },
-  "needs_verification": 245,
+  "needs_verification": 248,
   "sources": 384,
   "sources_verified": 384
  },
@@ -83,10 +83,10 @@
    "unit_id": "gr-20c",
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
-   "philosophers": 23,
-   "concepts": 24,
+   "philosophers": 25,
+   "concepts": 26,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -15"
+   "philosophers_slot": "8 上限，余 -17"
   },
   {
    "unit_id": "gr-ancient",
@@ -128,10 +128,10 @@
    "unit_id": "gr-medieval",
    "title": "中世纪经院哲学",
    "region": "west",
-   "philosophers": 20,
+   "philosophers": 22,
    "concepts": 29,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -12"
+   "philosophers_slot": "8 上限，余 -14"
   },
   {
    "unit_id": "gr-modern",
@@ -4006,6 +4006,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-gramsci",
+   "type": "philosopher",
+   "title": "葛兰西",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-lacan",
+   "type": "philosopher",
+   "title": "拉康",
+   "container": "gr-20c",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-20c-sense-reference",
    "type": "concept",
    "title": "意义与指称",
@@ -4267,6 +4289,28 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-hegemony",
+   "type": "concept",
+   "title": "文化领导权",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-mirror-stage",
+   "type": "concept",
+   "title": "镜像阶段",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -6288,8 +6332,8 @@
    "title": "阿维森纳（伊本·西那）",
    "container": "gr-medieval",
    "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 5,
+   "verified_sources": 5,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -6376,8 +6420,8 @@
    "title": "法拉比",
    "container": "gr-medieval",
    "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -6473,6 +6517,28 @@
    "id": "gr-medieval-al-ghazali",
    "type": "philosopher",
    "title": "安萨里",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-ibn-rushd",
+   "type": "philosopher",
+   "title": "伊本·鲁世德",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-ibn-arabi",
+   "type": "philosopher",
+   "title": "伊本·阿拉比",
    "container": "gr-medieval",
    "level": "L1",
    "sources": 3,

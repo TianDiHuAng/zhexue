@@ -600,7 +600,9 @@
    "sources": [
     "iep-avicenna",
     "book-gilson-medieval",
-    "sep-aquinas"
+    "sep-aquinas",
+    "sep-ibn-sina",
+    "sep-al-farabi"
    ],
    "needs_verification": false,
    "pending_notes": "",
@@ -2013,7 +2015,8 @@
    "sources": [
     "sep-al-farabi",
     "sep-ibn-rushd",
-    "book-gilson-medieval"
+    "book-gilson-medieval",
+    "sep-ibn-sina"
    ],
    "needs_verification": false,
    "pending_notes": "",
@@ -3310,6 +3313,306 @@
      "core_thesis": "因果无必然性；形而上学须受启示检验。",
      "editions": "Marmura 英译（The Incoherence of the Philosophers）；阿拉伯原文校勘本",
      "note": "1095 年"
+    }
+   ]
+  },
+  {
+   "id": "gr-medieval-ibn-rushd",
+   "name": "伊本·鲁世德",
+   "latin": "Ibn Rushd (Averroes)",
+   "birth_year": 1126,
+   "death_year": 1198,
+   "birth_display": "1126年",
+   "death_display": "1198年",
+   "birth_note": "据阿拉伯与拉丁传记文献：生于科尔多瓦（安达卢斯），出身法学世家，曾任塞维利亚与科尔多瓦的法官。",
+   "death_note": "1198年卒于马拉喀什。",
+   "era": "12世纪的安达卢斯。伊本·鲁世德（拉丁名 Averroes）是亚里士多德最忠实的阿拉伯注释者（“注释者”之名即指他）：他反对伊本·西那的流溢说与“本质—存在”之分，主张回到亚里士多德的原意；在《矛盾的矛盾》中逐条反驳安萨里。其“双重真理”式的立场（哲学与宗教各在其领域内为真）在拉丁欧洲引发了著名的“阿威罗伊主义”争论。",
+   "school": "阿拉伯亚里士多德主义（安达卢斯）",
+   "core_questions": [
+    "亚里士多德的原意是什么？",
+    "哲学与宗教能否并存？",
+    "世界是永恒的还是有开端的？"
+   ],
+   "arguments": [
+    {
+     "claim": "回到亚里士多德：反对流溢说与“本质—存在”之分",
+     "premises": [
+      "伊本·西那以流溢的层级解释多，并以本质—存在之分说明受造物。",
+      "但亚里士多德并无“流溢”与“本质—存在”之分。"
+     ],
+     "inference": "若注释的目的是呈现作者的原意，则不应以新柏拉图的概念覆盖亚里士多德；故伊本·鲁世德以“注释”恢复其体系。",
+     "conclusion": "哲学史的方法在于**恢复原意**，而非以新体系覆盖（此即其“注释者”之名的由来）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "哲学与宗教：两种真理，各有其领域",
+     "premises": [
+      "宗教以修辞与象征向大众传达实践所需的真理。",
+      "哲学以论证向少数人揭示同一真理的思辨面向。"
+     ],
+     "inference": "若二者所指的是同一真理的不同层次，则它们不必冲突；冲突只发生在**越界**之时（以哲学论证的结论强加于大众，或以宗教的字面义限制哲学）。",
+     "conclusion": "哲学与宗教各有领域，冲突源于越界（此说被拉丁欧洲称为“双重真理”）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《矛盾的矛盾》（Tahāfut al-tahāfut）《亚里士多德〈形而上学〉注》《论宗教与哲学的一致》",
+     "edition": "《矛盾的矛盾》英译 van den Bergh；《论宗教与哲学的一致》英译 Hourani",
+     "note": "12世纪"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "亚里士多德",
+     "id": null,
+     "note": "以其注释工作恢复其原意"
+    },
+    {
+     "name": "安萨里（论战对手）",
+     "id": "gr-medieval-al-ghazali",
+     "note": "《哲学家的矛盾》的二十命题"
+    },
+    {
+     "name": "伊本·西那（批评对象）",
+     "id": "gr-medieval-avicenna",
+     "note": "其流溢说与本质—存在之分"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "阿奎那（拉丁接受与批评）",
+     "id": "gr-medieval-aquinas",
+     "note": "以“阿威罗伊主义”为批评对象（尤其“唯一理智”说）"
+    },
+    {
+     "name": "西格尔与巴黎的阿威罗伊主义",
+     "id": null,
+     "note": "1270／1277 年的谴责事件"
+    },
+    {
+     "name": "但丁（其地位）",
+     "id": null,
+     "note": "《神曲》中将其置于“贤者”之列"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "安萨里",
+     "view": "以《矛盾》指哲学家在二十个命题上论证不足。",
+     "response": "伊本·鲁世德的回应是：安萨里的反驳多为辩证的（针对不同读者的修辞），并未真正击中论证；且他对亚里士多德的转述有误。",
+     "kind": "原文",
+     "sources": [
+      "sep-ibn-rushd",
+      "sep-al-ghazali"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "伊本·鲁世德主张“双重真理”",
+     "why": "他从未说“同一命题可以同时为真与假”；其主张是**两种话语各有领域与层次**。故“双重真理”是拉丁欧洲的标签，不是他的原话。"
+    },
+    {
+     "claim": "他只是“注释家”，无原创",
+     "why": "其“唯一理智”说（人类共享一个主动／被动理智）是极具争议的原创主张，1270 年代巴黎的谴责正针对此说。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>伊本·鲁世德：恢复原意与两种真理</text><defs><marker id='aIR' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>伊本·西那以流溢覆盖亚里士多德</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故须恢复原意</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>而宗教与哲学各有领域</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故冲突源于越界</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aIR)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aIR)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "伊本·鲁世德：注释的还原与两种真理的领域（示意图）",
+   "sources": [
+    "sep-ibn-rushd",
+    "sep-al-ghazali",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“双重真理”是拉丁阿威罗伊主义的标签，非伊本·鲁世德的原话；其“唯一理智”说（人类共享一个理智）的确切内容与 1270／1277 年巴黎谴责的条目须核相关研究。",
+   "doctrine": {
+    "summary": "伊本·鲁世德以“注释者”之名恢复亚里士多德的原意：反对伊本·西那的流溢说与“本质—存在”之分，认为它们以新柏拉图概念覆盖了亚里士多德。在《矛盾的矛盾》中他逐条反驳安萨里，主张哲学与宗教各有领域——宗教以修辞向大众传达实践真理，哲学以论证向少数人揭示思辨真理，冲突只源于越界。其“唯一理智”说在拉丁欧洲引发“阿威罗伊主义”争论。",
+    "system": [
+     {
+      "name": "恢复原意",
+      "content": "注释的目的是呈现作者原意，不以新体系覆盖。"
+     },
+     {
+      "name": "两种真理的领域",
+      "content": "哲学（论证）与宗教（修辞）各在其领域为真。"
+     },
+     {
+      "name": "唯一理智",
+      "content": "人类共享一个理智（此说引发拉丁世界的争论）。"
+     },
+     {
+      "name": "反流溢说",
+      "content": "多不需层级的流溢，世界可永恒而无生成；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "科尔多瓦与马拉喀什（1126—1198）",
+      "change": "出身法学世家；曾任塞维利亚与科尔多瓦法官；为亚里士多德著作作三种注释（短、中、长）；晚年因政治风波被流放，后召回复职；1198 年卒于马拉喀什。"
+     }
+    ],
+    "reception": "伊本·鲁世德被称为“注释者”，其注释在拉丁欧洲成为亚里士多德研究的必读；其“阿威罗伊主义”在巴黎大学引发 1270／1277 年的谴责；但丁将其置于《神曲》的贤者之列。"
+   },
+   "works_detail": [
+    {
+     "title": "《矛盾的矛盾》",
+     "structure": "逐条反驳安萨里《哲学家的矛盾》的二十命题，以“论证的层次”区分辩证的反驳与证明的反驳。",
+     "core_thesis": "哲学与宗教各有领域；冲突源于越界。",
+     "editions": "van den Bergh 英译（Averroes' Tahafut al-Tahafut）；阿拉伯原文校勘本",
+     "note": "12世纪"
+    }
+   ]
+  },
+  {
+   "id": "gr-medieval-ibn-arabi",
+   "name": "伊本·阿拉比",
+   "latin": "Ibn ʿArabī",
+   "birth_year": 1165,
+   "death_year": 1240,
+   "birth_display": "1165年",
+   "death_display": "1240年",
+   "birth_note": "据其著作与传记：生于穆尔西亚（安达卢斯），后长期游历，晚年定居大马士革。",
+   "death_note": "1240年卒于大马士革。",
+   "era": "12—13世纪。伊本·阿拉比被称为“最伟大的导师”（al-Shaykh al-Akbar）：其“存在单一论”（waḥdat al-wujūd）主张存在只有一个，万物是它的显现（tajallī）；其“想象”（khayāl）与“介于之间的世界”之说，把哲学的本体论与苏非的灵修经验结合，成为此后伊斯兰思想中最有争议也最有影响的一支。",
+   "school": "苏非形而上学（存在单一论）",
+   "core_questions": [
+    "存在是一还是多？",
+    "万物与神是何关系？",
+    "想象在认识中居于何位？"
+   ],
+   "arguments": [
+    {
+     "claim": "存在单一论：存在只有一个",
+     "premises": [
+      "万物皆有存在，而其存在不是各自独立的。",
+      "若存在是共同的，则“多”只能是它的显现（tajallī）而非分割。"
+     ],
+     "inference": "若存在只有一个，则万物不是“与神并列的存在者”，而是神的名称与属性的显现；故“神”与“世界”不是两个实体，而是**一与多的显现关系**。此说与正统的“创造者—受造物”二分有张力。",
+     "conclusion": "存在唯一，万物是其显现（此说被后世称为“存在单一论”）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "想象（khayāl）与“介于之间的世界”",
+     "premises": [
+      "纯粹的精神无形象，纯粹的物质无意义。",
+      "而人有“想象”的能力，能在形象中见意义。"
+     ],
+     "inference": "若想象是介于精神与感官之间的能力，则它是**本体论上的中介**（“想象的世界”），不只是心理的虚构；故先知的异象与诗的形象都参与实在的层级。",
+     "conclusion": "想象是本体论的中介，不只是心理虚构。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《麦加的启示》《智慧的珍宝》《存在的环》",
+     "edition": "《智慧的珍宝》英译（Austin, Bezels of Wisdom）；《存在的环》英译",
+     "note": "1200—1230年代"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "伊本·西那（其术语来源）",
+     "id": "gr-medieval-avicenna",
+     "note": "以“必然／可能”与流溢为其本体论资源"
+    },
+    {
+     "name": "安萨里（苏非传统）",
+     "id": "gr-medieval-al-ghazali",
+     "note": "以“尝味”与灵修经验为正统的一部分"
+    },
+    {
+     "name": "新柏拉图主义",
+     "id": null,
+     "note": "以“一”的显现为存在层级"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "后世苏非（如鲁米一系）",
+     "id": null,
+     "note": "以“存在单一论”为形上框架"
+    },
+    {
+     "name": "伊本·泰米叶与正统派的批评",
+     "id": null,
+     "note": "以其“存在单一论”为泛神论"
+    },
+    {
+     "name": "近代西方（如科贝特、丘蒂特）的研究",
+     "id": null,
+     "note": "以“存在单一论”为伊斯兰形而上学的核心"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "正统派神学家（如伊本·泰米叶）",
+     "view": "“存在单一论”把造物主与被造物混同，破坏“创造者—受造物”的区别。",
+     "response": "伊本·阿拉比一系的回应是：显现不等于同一——万物是神的**名称的显现**，而非神本身；故其说并不取消超越性。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-ibn-arabi",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“存在单一论”是伊本·阿拉比的原话",
+     "why": "该术语是后世（尤其17世纪）为概括其说而造的标签，并非他本人的用语；其本人更常用“显现”“名称”等。"
+    },
+    {
+     "claim": "他主张“万物即神”（泛神论）",
+     "why": "其说强调显现者与被显现者的**层级差异**；是否构成泛神论，是学界长期争论的问题，不能简单判定。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>伊本·阿拉比：存在单一论与想象</text><defs><marker id='aIA' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>万物之存在非各自独立</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故多只是存在的显现</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故神与世界非两实体</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>而想象是精神与感官之间的中介</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aIA)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aIA)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "伊本·阿拉比：存在单一论与“想象”的中介（示意图）",
+   "sources": [
+    "sep-ibn-arabi",
+    "book-copleston-history",
+    "sep-ibn-sina"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“存在单一论”（waḥdat al-wujūd）一名为后世所加，伊本·阿拉比本人是否持此说、其“显现”说是否构成泛神论，学界有长期争论；本页并述其说与正统派的批评，不裁定其性质。",
+   "doctrine": {
+    "summary": "伊本·阿拉比以“存在单一论”立说：存在只有一个，万物不是与神并列的存在者，而是神的名称与属性的显现（tajallī）；故神与世界不是两个实体，而是一与多的显现关系。他又以“想象”（khayāl）为介于精神与感官之间的中介——故先知的异象与诗的形象都参与实在的层级，不只是心理虚构。",
+    "system": [
+     {
+      "name": "存在单一论",
+      "content": "存在唯一，万物是其显现（后世所加的标签）。"
+     },
+     {
+      "name": "显现（tajallī）",
+      "content": "万物为神之名称与属性的显现；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "想象（khayāl）",
+      "content": "介于精神与感官之间的本体论中介；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "完美的凡人（al-insān al-kāmil）",
+      "content": "以人为宇宙的缩影与显现的中心；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "穆尔西亚与大马士革（1165—1240）",
+      "change": "生于安达卢斯穆尔西亚；青年时受苏非导师指导；游历北非、麦加、安纳托利亚；晚年定居大马士革；1240 年卒。"
+     }
+    ],
+    "reception": "伊本·阿拉比的著作成为此后苏非形而上学的核心文本；其“存在单一论”经后世（如贾米、鲁米注释者）系统化，影响了波斯、土耳其与南亚的伊斯兰思想；正统派的批评（如伊本·泰米叶）也持续至今。"
+   },
+   "works_detail": [
+    {
+     "title": "《智慧的珍宝》",
+     "structure": "二十七章，每章以一位先知为“智慧”的承载者，论其显现方式；为存在单一论的浓缩表述。",
+     "core_thesis": "存在唯一；万物为显现；这是该书的核心命题。",
+     "editions": "Austin 英译（Bezels of Wisdom）；阿拉伯原文校勘本",
+     "note": "约1230年"
     }
    ]
   }
