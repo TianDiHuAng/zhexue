@@ -4727,6 +4727,62 @@
    "sort_year": 1509
   },
   {
+   "id": "work-prince",
+   "title": "《君主论》",
+   "title_original": "Il Principe",
+   "tradition": "west",
+   "date_display": "1513年写成；1532年刊行（遗著）",
+   "structure": "二十六章：君主国的种类与获取方式（1—11）、军队（12—14）、君主的行为与品质（15—23）、命运与能力（24—25）、末章吁请驱逐外族（26）。",
+   "core_arguments": [
+    "讨论“事情的实际真相”而非“事物的想象”",
+    "君主须学会“不善”的运用：德性随处境调整",
+    "命运主宰一半，另一半须以有准备的能力（virtù）应对"
+   ],
+   "key_points": [
+    {
+     "locator": "第15章",
+     "point": "有效真理与“应当”之别"
+    },
+    {
+     "locator": "第18章",
+     "point": "“狮子与狐狸”：守信与背信的时机"
+    },
+    {
+     "locator": "第25章",
+     "point": "fortuna 与 virtù"
+    },
+    {
+     "locator": "第26章",
+     "point": "吁请驱逐外族、统一意大利"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《君主论》；英文维基文库 The Prince 全文"
+   ],
+   "related_people": [
+    "gr-modern-machiavelli",
+    "gr-ancient-aristotle",
+    "gr-modern-hobbes"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“为达目的不择手段”的纲领",
+     "why": "它描述政治的实际运作并提出救国的吁请；马基雅维利在《论李维》中更推重共和与法治。"
+    },
+    {
+     "claim": "它主张君主应尽量作恶",
+     "why": "第15—18章的条件句很明确：在必要时才“善用”不善，且须避免招致轻视与憎恨。"
+    }
+   ],
+   "sources": [
+    "ws-en-prince",
+    "sep-machiavelli"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1513
+  },
+  {
    "id": "work-kunzhi-ji",
    "title": "《困知记》",
    "title_original": "困知記",
@@ -7036,6 +7092,62 @@
    "sort_year": 1772
   },
   {
+   "id": "work-wealth-nations",
+   "title": "《国富论》",
+   "title_original": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+   "tradition": "west",
+   "date_display": "1776年",
+   "structure": "五篇：论劳动生产力与产品分配（含分工）、论资本积累与运用、论各国富裕的不同路径、论政治经济学体系（重商主义与重农学派）、论君主或国家的收入（含赋税与公债）。",
+   "core_arguments": [
+    "分工是劳动生产力提高的首要原因，而分工受市场范围限制",
+    "价格由劳动、资本与土地的报酬构成；市场价格围绕自然价格波动",
+    "“看不见的手”：自利的交换产生非意图的公共福利"
+   ],
+   "key_points": [
+    {
+     "locator": "第一篇 第1—3章",
+     "point": "分工与市场范围"
+    },
+    {
+     "locator": "第一篇 第7章",
+     "point": "自然价格与市场价格"
+    },
+    {
+     "locator": "第四篇 第2章",
+     "point": "“看不见的手”"
+    },
+    {
+     "locator": "第五篇 第1章",
+     "point": "分工使工人愚钝（教育问题）"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《国富论》；英文维基文库全文；Glasgow Edition"
+   ],
+   "related_people": [
+    "gr-modern-smith",
+    "gr-modern-hume",
+    "gr-19c-marx"
+   ],
+   "misreadings": [
+    {
+     "claim": "斯密主张政府什么都不做",
+     "why": "第五篇详细讨论国家应承担的职能（国防、司法、公共工程与教育），其“自由放任”是有范围的。"
+    },
+    {
+     "claim": "“看不见的手”是全书的核心",
+     "why": "该词在全书仅出现一次；其被赋予的中心地位主要来自20世纪的经济学叙事。"
+    }
+   ],
+   "sources": [
+    "ws-en-wealth-nations",
+    "iep-smith"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1776
+  },
+  {
    "id": "work-mengzi-ziyi",
    "title": "《孟子字义疏证》",
    "title_original": "孟子字義疏證",
@@ -8940,6 +9052,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1883
+  },
+  {
+   "id": "work-origin-family",
+   "title": "《家庭、私有制和国家的起源》",
+   "title_original": "Der Ursprung der Familie, des Privateigentums und des Staats",
+   "tradition": "west",
+   "date_display": "1884年",
+   "structure": "九章：史前文化阶段、家庭形式的历史、易洛魁人的氏族、希腊与罗马的氏族、凯尔特与德意志人、国家的形成（雅典、罗马、德意志）、野蛮与文明。",
+   "core_arguments": [
+    "家庭形式随生产方式变化：一夫一妻制与私有制的兴起相关",
+    "国家是阶级矛盾不可调和的产物，并随阶级的消亡而消亡",
+    "“两种生产”（生活资料的生产与人自身的生产）共同制约历史"
+   ],
+   "key_points": [
+    {
+     "locator": "第1章",
+     "point": "史前文化阶段（蒙昧与野蛮）"
+    },
+    {
+     "locator": "第2章",
+     "point": "家庭形式的历史与一夫一妻制"
+    },
+    {
+     "locator": "第5、9章",
+     "point": "雅典、罗马、德意志国家的形成"
+    },
+    {
+     "locator": "第9章",
+     "point": "文明与国家的本质"
+    }
+   ],
+   "editions": [
+    "《马克思恩格斯选集》第4卷人民出版社；英文维基文库全译本"
+   ],
+   "related_people": [
+    "gr-19c-engels",
+    "gr-19c-marx",
+    "gr-20c-weber"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是恩格斯独立的人类学研究",
+     "why": "它以马克思对摩尔根《古代社会》的摘录为基础写成；其民族学材料多取自摩尔根，而摩尔根的具体结论部分已被后世人类学修正。"
+    },
+    {
+     "claim": "“国家消亡”是恩格斯的政治纲领",
+     "why": "它是一个关于国家历史性的论断（国家随阶级而生，亦将随阶级而亡），其具体含义与实现条件在马克思主义内部有长期争论。"
+    }
+   ],
+   "sources": [
+    "ws-en-origin-family",
+    "sep-marx",
+    "marx-chinese"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本书的民族学材料（摩尔根的《古代社会》）在20世纪人类学中被大幅修正，故其经验基础须与理论命题分看；本书与马克思遗稿的关系（依据马克思摘录写成）见恩格斯自序。",
+   "sort_year": 1884
   },
   {
    "id": "work-feuerbach-end",

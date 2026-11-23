@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 805,
+  "entries": 809,
   "by_level": {
-   "L2": 665,
-   "L1": 140
+   "L2": 667,
+   "L1": 142
   },
   "doctrine": {
-   "total": 227,
-   "detail": 227,
+   "total": 228,
+   "detail": 228,
    "auto": 0
   },
-  "needs_verification": 140,
-  "sources": 344,
-  "sources_verified": 344
+  "needs_verification": 142,
+  "sources": 350,
+  "sources_verified": 350
  },
  "units": [
   {
@@ -137,10 +137,10 @@
    "unit_id": "gr-modern",
    "title": "近代理性论与经验论",
    "region": "west",
-   "philosophers": 31,
+   "philosophers": 32,
    "concepts": 18,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -23"
+   "philosophers_slot": "8 上限，余 -24"
   }
  ],
  "entries": [
@@ -5986,6 +5986,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-modern-smith",
+   "type": "philosopher",
+   "title": "亚当·斯密",
+   "container": "gr-modern",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-modern-idea",
    "type": "concept",
    "title": "观念",
@@ -7196,6 +7207,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-prince",
+   "type": "work",
+   "title": "《君主论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-kunzhi-ji",
    "type": "work",
    "title": "《困知记》",
@@ -7647,6 +7669,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-wealth-nations",
+   "type": "work",
+   "title": "《国富论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-mengzi-ziyi",
    "type": "work",
    "title": "《孟子字义疏证》",
@@ -8018,6 +8051,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-origin-family",
+   "type": "work",
+   "title": "《家庭、私有制和国家的起源》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

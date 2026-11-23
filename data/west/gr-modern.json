@@ -4875,6 +4875,152 @@
      "note": "署“米拉波”之名出版"
     }
    ]
+  },
+  {
+   "id": "gr-modern-smith",
+   "name": "亚当·斯密",
+   "latin": "Adam Smith",
+   "birth_year": 1723,
+   "death_year": 1790,
+   "birth_display": "1723年",
+   "death_display": "1790年",
+   "birth_note": "据其传记材料：生于苏格兰柯科迪，父为海关官员。",
+   "death_note": "1790年卒于爱丁堡。",
+   "era": "18世纪苏格兰启蒙。斯密以《道德情操论》论道德情感（同情、公正的旁观者），以《国富论》论分工与市场（“看不见的手”）；他并非只讲自利，而是同时写道德哲学与政治经济学，二者共用一个“交换—同情”的人性论。",
+   "school": "苏格兰启蒙（道德哲学与政治经济学）",
+   "core_questions": [
+    "道德的判断从何而来？",
+    "自利如何导致公共福利？",
+    "分工的后果是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "同情（sympathy）与“公正的旁观者”：道德判断源于情感的共鸣",
+     "premises": [
+      "我们通过想象自己处于他人处境而感受其情感（同情）。",
+      "道德判断是把行为置于“公正的旁观者”的视角来审视。"
+     ],
+     "inference": "若道德判断源于情感的共鸣，则其普遍性不来自抽象规则，而来自“公正的旁观者”这一可共享的立场。",
+     "conclusion": "道德判断来自同情与公正的旁观者，而非理性的规则推演。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“看不见的手”：自利的交换在市场中导致非意图的公共福利",
+     "premises": [
+      "人出于自利而交换，但其结果超出其意图。",
+      "价格与分工的秩序不是任何人设计的结果。"
+     ],
+     "inference": "若无数自利的交换在价格机制中互相调整，则公共福利可由非意图的方式达成；故不需要一个计划者。",
+     "conclusion": "市场秩序是“自发秩序”：非意图的结果优于设计的结果。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《道德情操论》《国富论》《法学讲稿》",
+     "edition": "《道德情操论》中译参商务印书馆；《国富论》中译参商务印书馆；英文维基文库 The Wealth of Nations 全文",
+     "note": "1759；1776；1762—63（学生笔记）"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "哈奇森与休谟",
+     "id": "gr-modern-hume",
+     "note": "道德感学说与苏格兰启蒙"
+    },
+    {
+     "name": "重农学派与魁奈",
+     "id": null,
+     "note": "经济循环与自由放任"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "李嘉图与古典经济学",
+     "id": null,
+     "note": "价值与分配理论"
+    },
+    {
+     "name": "马克思（批评者）",
+     "id": null,
+     "note": "对古典经济学的批判继承"
+    },
+    {
+     "name": "韦伯（问题意识）",
+     "id": null,
+     "note": "资本主义精神的问题"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "马克思与19世纪社会主义者",
+     "view": "“看不见的手”把市场的无政府状态美化为秩序，掩盖了剥削与危机。",
+     "response": "斯密一系的回应是：他并不否认分工的弊病（他曾警告分工使工人愚钝），其“看不见的手”是一个关于非意图结果的命题，不是对一切干预的否定。",
+     "kind": "后人解读",
+     "sources": [
+      "iep-smith",
+      "ws-en-wealth-nations",
+      "sep-marx"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "斯密只讲自利，故是“经济人”之父",
+     "why": "《道德情操论》以同情为核心；他本人视《国富论》为道德哲学的一部分。"
+    },
+    {
+     "claim": "“看不见的手”是全书的中心概念",
+     "why": "该词在《国富论》中仅出现一次，在《道德情操论》中出现一次；其地位被后世（尤其20世纪）显著放大。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>斯密：同情与看不见的手</text><defs><marker id='aAS' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>道德判断源于情感共鸣</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故以“公正的旁观者”为立场</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>自利交换产生非意图的秩序</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故不需计划者</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aAS)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aAS)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "斯密：同情、公正的旁观者与市场秩序（示意图）",
+   "sources": [
+    "iep-smith",
+    "ws-en-wealth-nations",
+    "sep-hume"
+   ],
+   "needs_verification": true,
+   "pending_notes": "斯密无 SEP 专属词条（sep-smith 404），本页依据 IEP 词条、《国富论》英译全文与休谟词条（苏格兰启蒙背景）。“看不见的手”在其著作中仅出现两次，其被赋予的中心地位主要来自20世纪的经济学叙事，须注意这一接受史的放大效应。",
+   "doctrine": {
+    "summary": "斯密有两条互补的线索：在《道德情操论》中，道德判断源于同情（想象自己处于他人处境）与“公正的旁观者”这一可共享立场，故其普遍性不来自抽象规则；在《国富论》中，无数自利的交换通过价格与分工形成非意图的秩序（“看不见的手”），故公共福利不需要一个计划者。二者共用一个“交换—同情”的人性论。",
+    "system": [
+     {
+      "name": "同情",
+      "content": "通过想象进入他人处境而共鸣，是道德判断的根源。"
+     },
+     {
+      "name": "公正的旁观者",
+      "content": "道德判断的可共享立场，非抽象规则；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "看不见的手",
+      "content": "自利交换的非意图结果；在著作中仅出现两次。"
+     },
+     {
+      "name": "分工",
+      "content": "效率之源，但斯密本人警告其使工人愚钝；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "柯科迪、格拉斯哥与爱丁堡（1723—1790）",
+      "change": "格拉斯哥大学道德哲学教授；1759 年《道德情操论》；1764—66 游历法国；1776 年《国富论》；1790 年卒。"
+     }
+    ],
+    "reception": "《国富论》成为古典经济学的奠基之作；《道德情操论》在当代“斯密问题”（自利与同情是否矛盾）的讨论中被重新重视；其“自发秩序”经哈耶克发展为一种社会理论。"
+   },
+   "works_detail": [
+    {
+     "title": "《国富论》",
+     "structure": "五篇：论劳动生产力与分配、论资本积累、论各国富裕的不同路径、论政治经济学体系、论君主或国家的收入。",
+     "core_thesis": "分工、市场与看不见的手；这是该书的核心命题。",
+     "editions": "中译参商务印书馆；英文维基文库全文",
+     "note": "1776 年"
+    }
+   ]
   }
  ],
  "concepts": [
