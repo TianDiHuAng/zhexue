@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 963,
+  "entries": 966,
   "by_level": {
-   "L2": 749,
-   "L1": 214
+   "L2": 751,
+   "L1": 215
   },
   "doctrine": {
    "total": 237,
    "detail": 237,
    "auto": 0
   },
-  "needs_verification": 214,
+  "needs_verification": 215,
   "sources": 374,
   "sources_verified": 374
  },
@@ -93,7 +93,7 @@
    "title": "古希腊哲学",
    "region": "west",
    "philosophers": 19,
-   "concepts": 24,
+   "concepts": 26,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -4699,6 +4699,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-ancient-eros",
+   "type": "concept",
+   "title": "爱若斯",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-ancient-chora",
+   "type": "concept",
+   "title": "载体（chōra）",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-ancient-flux-vs-being",
    "type": "debate",
    "title": "流变还是不变：赫拉克利特与巴门尼德",
@@ -7438,6 +7460,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-parmenides",
+   "type": "work",
+   "title": "《巴门尼德》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-theaetetus",
    "type": "work",
    "title": "《泰阿泰德篇》",
@@ -7454,8 +7487,8 @@
    "title": "《蒂迈欧篇》",
    "container": "west",
    "level": "L1",
-   "sources": 2,
-   "verified_sources": 2,
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-23"
   },

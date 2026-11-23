@@ -3703,6 +3703,79 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-eros",
+   "term": "爱若斯",
+   "term_latin": "erōs",
+   "definition": "柏拉图的“爱”：不是占有而是**缺乏者的追求**——爱若斯是“丰盈与匮乏之子”，故永远在途中。它由个别的美上升至美本身（《会饮》的阶梯），故爱是认识论与本体论的动力，不只是情感。",
+   "usages": [
+    {
+     "name": "柏拉图（《会饮》中的狄奥提玛）",
+     "id": "gr-ancient-plato",
+     "usage": "爱是“对美与善的永远拥有”的欲求；由个别之美上升至美本身。"
+    },
+    {
+     "name": "亚里士多德（对照）",
+     "id": "gr-ancient-aristotle",
+     "usage": "以 philia（友爱）为相互的善意，与 erōs 的“缺乏—追求”结构不同。"
+    },
+    {
+     "name": "新柏拉图主义（承之）",
+     "usage": "以 erōs 为灵魂回归太一的动力（普罗提诺）。"
+    }
+   ],
+   "related": [
+    "gr-ancient-philia"
+   ],
+   "example": {
+    "text": "erōs 的结构值得注意：它既非神也非人，而是**中介**（metaxy）——正因为不占有，才能追求；若已占有，则不再爱。故柏拉图的爱论与他的认识论同构：求知也是对“尚未拥有”的追求。",
+    "figure": "柏拉图",
+    "locator": "《会饮》201d—212c"
+   },
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek",
+    "mit-plato-republic"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-chora",
+   "term": "载体（chōra）",
+   "term_latin": "chōra",
+   "definition": "《蒂迈欧》中的第三种东西：既非存在（理念）也非生成（可感物），而是万物“在其中”被生成的那个“容器”。它“不接收任何形状而自身可被一切形状占据”，故几乎不可言说——蒂迈欧称之为“如梦一般”的认识对象。",
+   "usages": [
+    {
+     "name": "柏拉图（蒂迈欧）",
+     "id": "gr-ancient-plato",
+     "usage": "chōra 是“万物的接纳者”，非存在非生成而为第三类。"
+    },
+    {
+     "name": "亚里士多德（批评）",
+     "id": "gr-ancient-aristotle",
+     "usage": "以“质料”取代 chōra：质料是潜能，不是空间性的容器。"
+    },
+    {
+     "name": "德里达（后世的解读）",
+     "usage": "以 chōra 为“不可能被命名的场所”，见《Khôra》。"
+    }
+   ],
+   "related": [
+    "gr-ancient-mimesis"
+   ],
+   "example": {
+    "text": "chōra 的困难在于它**不能被归入任何一类**：若说它“是”什么，就已给了它形状；故蒂迈欧只能用比喻（容器、母亲、印记的蜡块）。这一点使它成为后世“不可言说者”讨论的经典案例。",
+    "figure": "柏拉图",
+    "locator": "《蒂迈欧》48e—52d"
+   },
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [
