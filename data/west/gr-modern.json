@@ -5161,6 +5161,146 @@
      "note": "1791—1792 年"
     }
    ]
+  },
+  {
+   "id": "gr-modern-more",
+   "name": "托马斯·莫尔",
+   "latin": "Thomas More",
+   "birth_year": 1478,
+   "death_year": 1535,
+   "birth_display": "1478年",
+   "death_display": "1535年",
+   "birth_note": "据其传记材料与《乌托邦》序：生于伦敦，父为法官。",
+   "death_note": "1535年因拒认《至尊法案》被处死。",
+   "era": "16世纪初的英国。莫尔是人文主义者、律师与政治家：以《乌托邦》借异域制度反照英国的社会弊病（“羊吃人”的圈地），以对话体保留判断的余地；他因拒绝承认国王为教会最高首脑而被处死。",
+   "school": "文艺复兴人文主义",
+   "core_questions": [
+    "理想政制的根据是什么？",
+    "私有制是否可以被取消？",
+    "信仰与政治权威的界限在哪？"
+   ],
+   "arguments": [
+    {
+     "claim": "私有制是不平等的根源",
+     "premises": [
+      "凡有私有制的地方，一切以金钱衡量。",
+      "故公共事务无从公正，多数人陷于贫困。"
+     ],
+     "inference": "若财富的分配决定了政治的实际运作，则要改造政治须先改造财产制度；故乌托邦以财产公有与劳动义务为制度基础。",
+     "conclusion": "私有制使公正不可能，故理想政制须以财产公有为前提。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以异域的制度反照现实：对话体保留判断的余地",
+     "premises": [
+      "叙述者（希斯洛德）盛赞乌托邦的制度。",
+      "而对话中的“莫尔”本人保留：我愿它实现，但不能全然相信。"
+     ],
+     "inference": "若作者让叙述者与自己的代言人分处两端，则读者须自行判断——故《乌托邦》是**讽喻性的批判**，不是纲领。",
+     "conclusion": "对话体的双声结构使《乌托邦》保持讽喻性质，不构成政治纲领。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《乌托邦》《理查三世史》《关于圣餐的对话》",
+     "edition": "《乌托邦》中译参商务印书馆；英文维基文库 Ralph Robinson 1551 英译全文",
+     "note": "1516；1513；1533"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "伊拉斯谟与基督教人文主义",
+     "id": null,
+     "note": "《愚人颂》一系的人文主义批评"
+    },
+    {
+     "name": "柏拉图《理想国》",
+     "id": null,
+     "note": "以理想政制反照现实的范式"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "近代乌托邦文学与社会批判传统",
+     "id": null,
+     "note": "以异域制度作批判的文体"
+    },
+    {
+     "name": "空想社会主义（19世纪）",
+     "id": null,
+     "note": "以“乌托邦”为名的社会构想"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "现实政治论者",
+     "view": "《乌托邦》的公有方案不切实际，且其讽喻性质使它无从作为纲领。",
+     "response": "莫尔一系的回应是：它的功能是**批判**而非设计；对话体的保留正是作者的态度。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-en-utopia",
+      "sep-machiavelli"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《乌托邦》是莫尔的共产主义纲领",
+     "why": "它是对话体的讽喻之作，末尾莫尔本人保留（“我愿它实现，但…不能全然相信”）。"
+    },
+    {
+     "claim": "“乌托邦”意为“美好的地方”",
+     "why": "该词兼含 eu-topia（好地方）与 ou-topia（无地方），双关正是其用意。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>莫尔：私有制批判与讽喻</text><defs><marker id='aTM' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>私有制使一切以金钱衡量</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故公共事务无从公正</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故理想政制须财产公有</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>而对话体保留判断</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aTM)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aTM)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "莫尔：私有制批判与讽喻结构（示意图）",
+   "sources": [
+    "ws-en-utopia",
+    "sep-machiavelli",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "莫尔无 SEP／IEP 专属词条（sep-more／iep-more 均 404），本页依据《乌托邦》英译全文、SEP 马基雅维利词条（同一文艺复兴政治想象语境）与哲学史（Copleston）；属语境性引用而非专门研究，具体解读须核耶鲁版（Yale Utopia）与《剑桥 Companion to More》。",
+   "doctrine": {
+    "summary": "莫尔以《乌托邦》借异域制度反照英国的社会弊病：私有制使一切以金钱衡量，故公共事务无从公正，理想政制须以财产公有与劳动义务为前提。但《乌托邦》是对话体——叙述者盛赞其制度，而对话中的“莫尔”本人保留（“我愿它实现，但…不能全然相信”），故它是**讽喻性的批判**而非政治纲领。他因拒认《至尊法案》被处死，其死亦成为信仰与政治权威界限的经典案例。",
+    "system": [
+     {
+      "name": "私有制的批判",
+      "content": "凡有私有制则一切以金钱衡量，公正无从；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "财产公有与劳动义务",
+      "content": "乌托邦的制度基础（六小时劳动、无货币）。"
+     },
+     {
+      "name": "讽喻与双声",
+      "content": "叙述者的盛赞与“莫尔”的保留构成双声，故非纲领。"
+     },
+     {
+      "name": "信仰与权威",
+      "content": "拒认《至尊法案》而被处死：良心与政治权力的界限。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "伦敦（1478—1535）",
+      "change": "牛津求学；律师；1516 年《乌托邦》；1529 年任大法官；1534 年拒认《至尊法案》；1535 年被处死；1935 年封圣。"
+     }
+    ],
+    "reception": "《乌托邦》开创了以“乌托邦”为名的社会批判文体，影响从培根《新大西岛》到19世纪空想社会主义；其殉道成为天主教与英国国教冲突的标志性事件。"
+   },
+   "works_detail": [
+    {
+     "title": "《乌托邦》",
+     "structure": "两部：第一部为对话（论英国社会弊病，含“羊吃人”的圈地批评）；第二部为乌托邦岛的制度描述。",
+     "core_thesis": "私有制批判；财产公有；讽喻性双声。",
+     "editions": "中译参商务印书馆；英文维基文库（Ralph Robinson 1551 英译）",
+     "note": "1516 年拉丁文初版"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -5963,6 +6103,40 @@
     "iep-smith",
     "ws-en-wealth-nations",
     "sep-hume"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-soft-despotism",
+   "term": "软专制",
+   "term_latin": "despotisme doux",
+   "definition": "托克维尔的概念：民主社会中一种新的专制形态——它不暴虐，而是“温和地”把公民置于监护之下，替他们操心一切，使他们在舒适中失去政治能力。",
+   "usages": [
+    {
+     "name": "托克维尔",
+     "usage": "它“把公民永久地留在童年”：平等使人愿意交出判断。"
+    },
+    {
+     "name": "密尔（平行）",
+     "usage": "以“个性的丧失”描述同一现象。"
+    },
+    {
+     "name": "福柯（后世的呼应）",
+     "usage": "以“生命权力”与“规训”描述温和的支配形式。"
+    }
+   ],
+   "related": [
+    "gr-modern-contract"
+   ],
+   "example": {
+    "text": "“软专制”的可怕处在于它**不引人反抗**：它不剥夺权利，只使人失去行使权利的能力；故托克维尔说，自由会在“无害的舒适”中被放弃。",
+    "figure": "托克维尔",
+    "locator": "《论美国的民主》下卷 第四部分 第6章"
+   },
+   "sources": [
+    "ws-en-tocqueville",
+    "sep-mill"
    ],
    "needs_verification": false,
    "pending_notes": ""

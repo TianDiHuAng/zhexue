@@ -880,6 +880,10 @@ def main():
         if os.path.exists(p):
             os.remove(p)
 
+    # GitHub Pages：禁用 Jekyll（站点是纯静态 HTML，不需要 Jekyll 处理）
+    with open(os.path.join(SITE, ".nojekyll"), "w", encoding="utf-8") as fh:
+        fh.write("")
+
     write("index.html", render_home(units, people, concepts, debates, schools, sources))
     write("about.html", render_about(units, people, concepts, debates, sources))
     write("graph.html", render_graph(units, people))

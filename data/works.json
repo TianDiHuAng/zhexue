@@ -9806,6 +9806,63 @@
    "sort_year": 1835
   },
   {
+   "id": "work-democracy-america",
+   "title": "《论美国的民主》",
+   "title_original": "De la démocratie en Amérique",
+   "tradition": "west",
+   "date_display": "1835年（上卷）；1840年（下卷）",
+   "structure": "两卷：上卷论美国的制度（联邦制、司法审查、地方自治、结社、政党）；下卷论平等对思想、情感与道德的影响（个人主义、物质主义、软专制）。",
+   "core_arguments": [
+    "平等的条件不可阻挡，且它同时带来自由与新的奴役",
+    "“多数人的暴政”：多数的意见形成舆论的强制",
+    "“软专制”：行政集权下的温和监护",
+    "自救条件：结社、地方自治、陪审制、法学家精神"
+   ],
+   "key_points": [
+    {
+     "locator": "上卷 第二部分 第7章",
+     "point": "多数人的暴政"
+    },
+    {
+     "locator": "下卷 第二部分 第4章",
+     "point": "个人主义"
+    },
+    {
+     "locator": "下卷 第四部分 第6章",
+     "point": "软专制"
+    },
+    {
+     "locator": "上卷 第二部分 第5—9章",
+     "point": "结社与地方自治"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆（董果良译）；英文维基文库全文；Liberty Fund 版"
+   ],
+   "related_people": [
+    "gr-19c-tocqueville",
+    "gr-19c-mill",
+    "gr-modern-montesquieu"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是赞美美国的书",
+     "why": "下卷对民主社会的危险（个人主义、物质主义、软专制）作了系统分析；其立场是分析而非颂扬。"
+    },
+    {
+     "claim": "“多数人的暴政”只指制度性的压迫",
+     "why": "其要点在于**舆论的强制**：少数在法律上不败，却在社会中被孤立——故其压迫落在精神而非身体。"
+    }
+   ],
+   "sources": [
+    "ws-en-tocqueville",
+    "sep-mill"
+   ],
+   "needs_verification": true,
+   "pending_notes": "托克维尔无专属 SEP／IEP 词条，本页第二来源取 SEP 密尔词条（密尔对该书的评论见其全集）；属语境性引用，具体论证须核原书与 Cambridge Companion to Tocqueville。",
+   "sort_year": 1835
+  },
+  {
    "id": "work-nature-emerson",
    "title": "《自然》",
    "title_original": "Nature",

@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 888,
+  "entries": 894,
   "by_level": {
-   "L2": 722,
-   "L1": 166
+   "L2": 725,
+   "L1": 169
   },
   "doctrine": {
-   "total": 231,
-   "detail": 231,
+   "total": 233,
+   "detail": 233,
    "auto": 0
   },
-  "needs_verification": 166,
+  "needs_verification": 169,
   "sources": 357,
   "sources_verified": 357
  },
@@ -74,10 +74,10 @@
    "unit_id": "gr-19c",
    "title": "19世纪哲学",
    "region": "west",
-   "philosophers": 16,
-   "concepts": 18,
+   "philosophers": 17,
+   "concepts": 19,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -8"
+   "philosophers_slot": "8 上限，余 -9"
   },
   {
    "unit_id": "gr-20c",
@@ -93,7 +93,7 @@
    "title": "古希腊哲学",
    "region": "west",
    "philosophers": 19,
-   "concepts": 23,
+   "concepts": 24,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -137,10 +137,10 @@
    "unit_id": "gr-modern",
    "title": "近代理性论与经验论",
    "region": "west",
-   "philosophers": 33,
-   "concepts": 21,
+   "philosophers": 34,
+   "concepts": 22,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -25"
+   "philosophers_slot": "8 上限，余 -26"
   }
  ],
  "entries": [
@@ -3038,6 +3038,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-19c-tocqueville",
+   "type": "philosopher",
+   "title": "托克维尔",
+   "container": "gr-19c",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-19c-will",
    "type": "concept",
    "title": "意志",
@@ -3232,6 +3243,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-19c-tyranny-majority",
+   "type": "concept",
+   "title": "多数人的暴政",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -4339,6 +4361,17 @@
    "id": "gr-ancient-prohairesis",
    "type": "concept",
    "title": "选择（prohairesis）",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-ancient-elenchus",
+   "type": "concept",
+   "title": "诘问（elenchus）",
    "container": "gr-ancient",
    "level": "L2",
    "sources": 2,
@@ -6503,6 +6536,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-modern-more",
+   "type": "philosopher",
+   "title": "托马斯·莫尔",
+   "container": "gr-modern",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-modern-idea",
    "type": "concept",
    "title": "观念",
@@ -6730,6 +6774,17 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-soft-despotism",
+   "type": "concept",
+   "title": "软专制",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -8728,6 +8783,17 @@
    "id": "work-aesthetics-hegel",
    "type": "work",
    "title": "《美学讲演录》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-democracy-america",
+   "type": "work",
+   "title": "《论美国的民主》",
    "container": "west",
    "level": "L1",
    "sources": 2,

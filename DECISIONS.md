@@ -143,3 +143,15 @@ Perseus（`per-*`）对该 UA 一律 403，不可用。
 2. `清史稿·儒林传`／`清史列傳`（含本传，字数多、可逐条引）
 3. 正史列传（`史記`／`漢書` 已有）
 这三类比二手研究更硬：它们是同时代或近同时代的传记材料。故 C8 的四人全部由此解除。
+
+## D34 缺百科词条的人物如何处理
+第96轮的托克维尔与莫尔：`sep-tocqueville`/`iep-tocqueville`/`sep-more`/`iep-more` 全部 404。处理方式（不硬凑、不假装）：
+1. 第一条来源用**原典全文**（en.wikisource 的 Democracy in America 92KB、Utopia 58KB）；
+2. 第二条用**语境性学术来源**（sep-mill 因密尔评论过该书；sep-machiavelli 因同属文艺复兴政治想象），并在 pending_notes 明说"属语境性引用而非专门研究"；
+3. `needs_verification: True`，具体论证指向原书与剑桥 Companion。
+原则：**宁可标待核实，也不把语境性引用伪装成专门研究**。
+
+## D35 部署方式
+站点发布走 GitHub Actions（`.github/workflows/pages.yml`）：check.py（门）→ gen_state + gen_site → check_links.py（门）→ upload-pages-artifact → deploy-pages。
+`site/.nojekyll` 由 `gen_site.py` 每次生成（纯静态 HTML 不需 Jekyll）。
+仍需人工一步：仓库 Settings → Pages → Source = "GitHub Actions"。

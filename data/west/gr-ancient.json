@@ -3664,6 +3664,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-elenchus",
+   "term": "诘问（elenchus）",
+   "term_latin": "elenchus",
+   "definition": "苏格拉底的方法：通过连续追问使对话者的定义露出矛盾，从而使其承认“不知道自己知道什么”。它不是驳倒对手的技巧，而是**清空伪知识**以引起求知的欲望。",
+   "usages": [
+    {
+     "name": "苏格拉底",
+     "id": "gr-ancient-socrates",
+     "usage": "以诘问使对方自相矛盾；其“无知之知”正是诘问的结果。"
+    },
+    {
+     "name": "柏拉图（记录者）",
+     "id": "gr-ancient-plato",
+     "usage": "早期对话（《欧悌甫戎》《拉刻斯》等）多以诘问无结论收场（aporia）。"
+    },
+    {
+     "name": "亚里士多德（区分）",
+     "id": "gr-ancient-aristotle",
+     "usage": "以辩证推理（dialectic）处理 endoxa，与诘问有方法上的承继。"
+    }
+   ],
+   "related": [
+    "gr-ancient-virtue-knowledge",
+    "gr-ancient-doxa"
+   ],
+   "example": {
+    "text": "诘问的关键是它**不提供答案**：早期对话常以“aporia”（无路可走）收场——这不是失败，而是方法的目的：先破除伪知识，才可能开始真正的求知。",
+    "figure": "柏拉图",
+    "locator": "《申辩》21b—23b；《欧悌甫戎》"
+   },
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

@@ -1,0 +1,57 @@
+name: Deploy to GitHub Pages
+
+# 站点是纯静态 HTML+CSS（零 JS、离线可用），由 tools/gen_site.py 从 data/*.json 确定性生成。
+# 本工作流：跑校验 → 生成 site/ → 发布到 GitHub Pages。
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 数据校验（必须零错误）
+        run: |
+          python tools/check.py
+          # check.py 以非零退出码表示有错误；警告为信息性（见 DECISIONS D23）
+
+      - name: 生成站点
+        run: |
+          python tools/gen_state.py
+          python tools/gen_site.py
+
+      - name: 断链检查（必须零断链）
+        run: python tools/check_links.py
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
