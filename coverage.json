@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 774,
+  "entries": 776,
   "by_level": {
    "L2": 640,
-   "L1": 134
+   "L1": 136
   },
   "doctrine": {
-   "total": 225,
-   "detail": 225,
+   "total": 227,
+   "detail": 227,
    "auto": 0
   },
-  "needs_verification": 134,
+  "needs_verification": 136,
   "sources": 335,
   "sources_verified": 335
  },
@@ -38,10 +38,10 @@
    "unit_id": "cn-songming",
    "title": "宋明理学与心学",
    "region": "china",
-   "philosophers": 18,
+   "philosophers": 20,
    "concepts": 14,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -10"
+   "philosophers_slot": "8 上限，余 -12"
   },
   {
    "unit_id": "cn-suitang",
@@ -1143,6 +1143,28 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-wang-gen",
+   "type": "philosopher",
+   "title": "王艮",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-zhan-ruoshui",
+   "type": "philosopher",
+   "title": "湛若水",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

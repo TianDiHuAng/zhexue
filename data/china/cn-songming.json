@@ -2791,6 +2791,285 @@
      "note": "读书札记体，非系统论著"
     }
    ]
+  },
+  {
+   "id": "cn-songming-wang-gen",
+   "name": "王艮",
+   "latin": "Wang Gen",
+   "birth_year": 1483,
+   "death_year": 1541,
+   "birth_display": "1483年",
+   "death_display": "1541年",
+   "birth_note": "据《明儒学案·泰州学案》：泰州安丰场人，灶丁出身，后师事王阳明。",
+   "death_note": "1541年卒。",
+   "era": "16世纪。王艮是泰州学派的开创者：他以“百姓日用即道”把心学推向民间，主张“淮南格物”——格物即“安身”，身安则天下安；其学重视身体、日常与平民，与阳明学的精英取向不同。",
+   "school": "泰州学派（心学的一支）",
+   "core_questions": [
+    "道在哪里？",
+    "格物应如何解？",
+    "圣人是否可学？"
+   ],
+   "arguments": [
+    {
+     "claim": "百姓日用即道：道不在高远处，而在日常实践",
+     "premises": [
+      "“圣人之道，无异于百姓日用；凡有异者，皆谓之异端。”",
+      "道若离日用，则成为少数人的装饰。"
+     ],
+     "inference": "若道在百姓日用之中，则判断学问真伪的标准是“能否在日常中实行”，而非其理论的精微。",
+     "conclusion": "道在日常，故学问须以能否实行于日用为判准。",
+     "kind": "原文"
+    },
+    {
+     "claim": "淮南格物：格物即“安身”",
+     "premises": [
+      "“格”如“格式”之格，指“絜矩”于身。",
+      "“安身”是本，“安天下”是末：身安而后天下安。"
+     ],
+     "inference": "若“身”是天下国家的根本（“身与天下国家，一物也”），则格物的首要对象是自身的安顿，而非外物的考究。",
+     "conclusion": "格物即安身：以自身的安顿为本，推而及于天下。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《王心斋先生遗集》（含《语录》《答问补遗》）",
+     "edition": "《明儒学案·泰州学案》所录；《王心斋先生遗集》",
+     "note": "《语录》为其核心文本，经门人记录"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "王阳明",
+     "id": "cn-songming-wang-yangming",
+     "note": "其师；良知与格物之说"
+    },
+    {
+     "name": "泰州学派的民间讲学传统",
+     "id": null,
+     "note": "以日用与教化为事"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "李贽与泰州后学",
+     "id": null,
+     "note": "“穿衣吃饭即是人伦物理”的激进化"
+    },
+    {
+     "name": "颜钧、何心隐",
+     "id": null,
+     "note": "泰州学派的行动传统"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "刘宗周与东林一系",
+     "view": "以“百姓日用即道”取消工夫的严整，易流于“现成良知”的放任。",
+     "response": "王艮一系的回应是：日用即道不是放任，而是以“安身”为实地工夫；其“格物”正是有规矩的。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-mingru-xuean",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "王艮是“平民思想家”故无哲学",
+     "why": "其“淮南格物”与“百姓日用即道”是明确的哲学主张，涉及本体与工夫的关系。"
+    },
+    {
+     "claim": "泰州学派只是阳明学的旁支",
+     "why": "它在明代中后期影响极大（李贽、何心隐皆出其脉络），其平民取向构成阳明学内部的重要分化。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>王艮：百姓日用即道与安身</text><defs><marker id='aWG' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>道不在高远而在日用</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故学问以能否实行为判准</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>身与天下国家为一物</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故格物即安身</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aWG)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aWG)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "王艮：百姓日用即道与淮南格物（示意图）",
+   "sources": [
+    "ws-mingru-xuean",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "王艮的《语录》由门人记录，各本编次与文字有出入；《明儒学案·泰州学案》所录为选辑，非全文。本页所述依学案所录与通行本，具体条目须核《王心斋先生遗集》。",
+   "doctrine": {
+    "summary": "王艮以“百姓日用即道”立说：圣人之道无异于百姓日用，凡有异者即异端；故判断学问真伪的标准是“能否在日常中实行”，而非理论的精微。他由此提出“淮南格物”——格物即“安身”：身与天下国家为一物，身安而后天下安，故格物的首要对象是自身的安顿而非外物的考究。",
+    "system": [
+     {
+      "name": "百姓日用即道",
+      "content": "道在日常实践之中，离日用者为异端；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "淮南格物",
+      "content": "格物即安身：以自身安顿为本，推及天下；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "身与天下国家为一物",
+      "content": "故安身即是安天下，非二事；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "乐学",
+      "content": "以“乐”为学的究竟（《乐学歌》），区别于苦修的工夫论。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "泰州安丰场（1483—1541）",
+      "change": "灶丁出身，自学；三十八岁师事王阳明；阳明卒后回泰州讲学，开泰州学派；门人有王栋、王襞、颜钧等。"
+     }
+    ],
+    "reception": "泰州学派由他开创，成为明代中后期最有行动力的学派之一；其“百姓日用即道”被李贽等人推向更激进的方向；其平民讲学方式影响了明代的会社与讲会传统。"
+   },
+   "works_detail": [
+    {
+     "title": "《王心斋先生遗集》",
+     "structure": "含《语录》《答问补遗》《乐学歌》及诗文；《明儒学案·泰州学案》为其选辑。",
+     "core_thesis": "百姓日用即道；淮南格物（安身）。",
+     "editions": "《明儒学案》所录；《王心斋先生遗集》通行本",
+     "note": "门人记录，非自撰成书"
+    }
+   ]
+  },
+  {
+   "id": "cn-songming-zhan-ruoshui",
+   "name": "湛若水",
+   "latin": "Zhan Ruoshui",
+   "birth_year": 1466,
+   "death_year": 1560,
+   "birth_display": "1466年",
+   "death_display": "1560年",
+   "birth_note": "据《明儒学案·甘泉学案》：广东增城人，官至南京礼、吏、兵三部尚书。",
+   "death_note": "1560年卒，年九十五。",
+   "era": "15—16世纪。湛若水是陈献章（白沙）的弟子、甘泉学派的开创者；他主张“随处体认天理”，以此调和“心”与“理”，并与王阳明展开长期论辩（“格物”之争）。其学在明代中后期与阳明学并峙。",
+   "school": "甘泉学派（白沙一系）",
+   "core_questions": [
+    "天理在哪里体认？",
+    "格物应如何解？",
+    "心与理是一是二？"
+   ],
+   "arguments": [
+    {
+     "claim": "随处体认天理：工夫不限于静坐，而在日用应事中体认",
+     "premises": [
+      "若只在静中体认，则动时便失。",
+      "故须在事为、应接、读书、居处中“随处体认”。"
+     ],
+     "inference": "若天理只在静中可得，则工夫与生活为二；故体认须贯串动静，随处而行。",
+     "conclusion": "“随处体认天理”是贯串动静的工夫，纠正“主静”可能导致的偏枯。",
+     "kind": "原文"
+    },
+    {
+     "claim": "格物即“至其理”：格物是造道之功，不限于“正念头”",
+     "premises": [
+      "“格者，至也”：格物即“至物”，即于事事物物上至其理。",
+      "若只说“正念头”，则物之理被忽略。"
+     ],
+     "inference": "若格物只在心上做，则事理无从讲求；故格物须兼“心”与“物”，在应事中至其理。",
+     "conclusion": "格物兼心与物：既正心，亦穷事理（此为其与阳明分歧处）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《甘泉文集》《春秋正传》《圣学格物通》",
+     "edition": "《明儒学案·甘泉学案》所录；《甘泉先生文集》",
+     "note": "《圣学格物通》为其格物说的系统表述"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "陈献章",
+     "id": "cn-songming-chen-xianzhang",
+     "note": "其师；静坐自得之学"
+    },
+    {
+     "name": "程朱的格物说",
+     "id": "cn-songming-zhu-xi",
+     "note": "“即物穷理”的框架"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "王阳明",
+     "id": "cn-songming-wang-yangming",
+     "note": "与之论辩格物，往复多次"
+    },
+    {
+     "name": "明代中后期的甘泉学派",
+     "id": null,
+     "note": "与阳明学并峙的讲学网络"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "王阳明",
+     "view": "“随处体认天理”仍是“求之于外”：若理在心外，则体认是逐物。",
+     "response": "湛若水一系的回应是：心与理非二，“随处”不是求外，而是不限定于静处；故体认即是心的自明。",
+     "kind": "原文",
+     "sources": [
+      "ws-mingru-xuean",
+      "ws-chuanxi"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "湛若水是阳明学的附庸",
+     "why": "他与阳明长期论辩，其学承白沙而自成体系，在明代中后期与阳明学并峙（“王湛之学”）。"
+    },
+    {
+     "claim": "“随处体认”等于朱子的“即物穷理”",
+     "why": "他强调“体认”是心的自明，与朱子以心外之理为对象的穷理不同；其立场介于朱王之间。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>湛若水：随处体认天理</text><defs><marker id='aZR' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>只在静中体认则动时便失</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故体认须贯串动静</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故“格者至也”，于事上至其理</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故格物兼心与物</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aZR)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aZR)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "湛若水：随处体认天理与格物说（示意图）",
+   "sources": [
+    "ws-mingru-xuean",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "湛若水的著作卷帙浩繁（《甘泉先生文集》有多种版本），《明儒学案·甘泉学案》为选辑；本页所述依学案与通行研究，具体条目须核文集。",
+   "doctrine": {
+    "summary": "湛若水以“随处体认天理”为工夫总纲：若只在静中体认，则动时便失，故体认须贯串动静、在日用应事中行。他又以“格者至也”解格物，主张格物是于事事物物上“至其理”，兼心与物——这正是他与王阳明（格物即正念头）长期论辩的焦点。",
+    "system": [
+     {
+      "name": "随处体认天理",
+      "content": "工夫贯串动静，不限于静坐；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "格物即至其理",
+      "content": "于事上至其理，兼心与物；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "心与理非二",
+      "content": "“随处”不是求外，而是心之自明不限静处。"
+     },
+     {
+      "name": "与阳明并峙",
+      "content": "王湛之学在明代中后期并行，讲学网络各自成系。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "增城与南京（1466—1560）",
+      "change": "陈献章弟子；弘治十八年进士；历任南京国子监祭酒、礼吏兵三部尚书；所至建书院讲学；年九十五卒。"
+     }
+    ],
+    "reception": "甘泉学派与阳明学并峙，构成明代心学的两大脉络；其“随处体认”说影响了明代中后期的讲学与书院教育；与阳明的格物之辩是明代哲学的重要文本。"
+   },
+   "works_detail": [
+    {
+     "title": "《圣学格物通》",
+     "structure": "一百卷；按《大学》八条目分类，辑经史以证格物之说。",
+     "core_thesis": "格物即至其理；随处体认天理；这是该书的核心命题。",
+     "editions": "《明儒学案》所录；《甘泉先生文集》",
+     "note": "百卷，体例为分类辑证"
+    }
+   ]
   }
  ],
  "concepts": [
