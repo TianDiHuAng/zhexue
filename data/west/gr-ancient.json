@@ -3813,6 +3813,80 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-phronesis-politike",
+   "term": "政治技艺",
+   "term_latin": "politikē technē",
+   "definition": "《政治家》的核心问题：政治是一种“知识”（technē）还是一种“制度”？若是知识，则它属于少数懂它的人（故最佳政体是“专家统治”）；若是制度，则法治优于人治。柏拉图在两者间往复，最终给出“以知识为根据、以法律为次优”的双层答案。",
+   "usages": [
+    {
+     "name": "柏拉图（《政治家》中的爱利亚客人）",
+     "id": "gr-ancient-plato",
+     "usage": "政治是“关于 herd 的照料之术”；法治是“次优”（第二好的航程）。"
+    },
+    {
+     "name": "亚里士多德（改造）",
+     "id": "gr-ancient-aristotle",
+     "usage": "以“实践智慧”取代“专家知识”：政治学是实践之学，非精确科学。"
+    },
+    {
+     "name": "波普尔（后世的批评）",
+     "usage": "以“谁应当统治”的问题本身为陷阱，主张以制度取代“哲人王”。"
+    }
+   ],
+   "related": [
+    "gr-ancient-phronesis",
+    "gr-ancient-meson"
+   ],
+   "example": {
+    "text": "“第二好的航程”（deuteros plous）是《政治家》的关键隐喻：最好的船是随风的（专家统治），但当风不可靠时，须划桨（法治）。故柏拉图晚期对法治的肯定不是转向，而是**在知识不可得时的次优设计**。",
+    "figure": "柏拉图",
+    "locator": "《政治家》294a—303b"
+   },
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek",
+    "mit-plato-republic"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-false-pleasures",
+   "term": "虚假的快乐",
+   "term_latin": "false pleasures",
+   "definition": "《斐莱布》的核心论题：快乐有真伪之别。错误不仅属于判断，也属于快乐——因为我们常因错误的预期或错误的比较而“快乐”，而那种快乐本身是虚妄的。故快乐不能作为最高的善。",
+   "usages": [
+    {
+     "name": "柏拉图（《斐莱布》中的苏格拉底）",
+     "id": "gr-ancient-plato",
+     "usage": "快乐有真伪；混合的生活（理性＋快乐）优于纯粹快乐或纯粹理性。"
+    },
+    {
+     "name": "昔勒尼派（对照）",
+     "usage": "以当下的快乐为唯一标准，不承认“虚假的快乐”。"
+    },
+    {
+     "name": "伊壁鸠鲁（改造）",
+     "usage": "以“无痛无扰”为快乐，己经把它理性化（故与“虚假快乐”说有形似）。"
+    }
+   ],
+   "related": [
+    "gr-ancient-eudaimonia",
+    "gr-ancient-doxa"
+   ],
+   "example": {
+    "text": "“虚假的快乐”之说很反直觉：快乐不是感觉吗？感觉怎么会假？柏拉图的回答是——快乐常伴随**判断**（“我以为这对我好”），若判断错，则快乐亦错。故他拒绝把快乐当作无内容的“感受”。",
+    "figure": "柏拉图",
+    "locator": "《斐莱布》36c—50e"
+   },
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

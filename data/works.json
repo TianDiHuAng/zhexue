@@ -1019,6 +1019,121 @@
    "sort_year": -360
   },
   {
+   "id": "work-politicus",
+   "title": "《政治家》",
+   "title_original": "Politicus",
+   "tradition": "west",
+   "date_display": "约前360（柏拉图晚期）",
+   "structure": "一篇对话（爱利亚客人主讲，青年苏格拉底对答）；含划分法定义政治家、宇宙的循环神话、六种政体的排序、以及“以知识为根据 vs 以法律为根据”的双层答案。",
+   "core_arguments": [
+    "政治是“关于群（herd）的照料之术”，但须与牧人、医生、教育家区分",
+    "宇宙的循环神话：神治时代与自主时代的交替",
+    "“第二好的航程”：法治是知识不可得时的次优",
+    "政体排序：以法治为准，君主制与民主制各有其两极性"
+   ],
+   "key_points": [
+    {
+     "locator": "258b—267c",
+     "point": "划分法与政治家的定义"
+    },
+    {
+     "locator": "268d—274e",
+     "point": "宇宙循环的神话"
+    },
+    {
+     "locator": "291a—303b",
+     "point": "六种政体与法治的“次优”"
+    },
+    {
+     "locator": "305e—311c",
+     "point": "政治技艺与其他技艺的关系"
+    }
+   ],
+   "editions": [
+    "中译参吴天岳相关译本；英文 Jowett；Oxford Classical Text"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-aristotle",
+    "gr-ancient-socrates"
+   ],
+   "misreadings": [
+    {
+     "claim": "《政治家》主张哲学王的绝对统治",
+     "why": "它确实以“知识”为最优，但同时给出“第二好的航程”——法治。故其结论是双层的，不能只取前半。"
+    },
+    {
+     "claim": "六种政体的排序以民主制为最坏",
+     "why": "它以**是否守法**为准，故有法的民主制在某序列中优于无法的君主制；排序是两维的（谁统治 × 是否守法），不是单一的等级。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek",
+    "mit-plato-republic"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -360
+  },
+  {
+   "id": "work-philebus",
+   "title": "《斐莱布》",
+   "title_original": "Philebus",
+   "tradition": "west",
+   "date_display": "约前355（柏拉图晚期）",
+   "structure": "一篇对话（苏格拉底与斐莱布、普罗塔库斯）；论快乐是否为最高的善，含“四类存在”的划分（无限、有限、混合、原因）与“虚假的快乐”。",
+   "core_arguments": [
+    "快乐不是最高的善：有真伪之别，且纯快乐的生活不可取",
+    "混合的生活（理性＋快乐）为第二，纯粹理性（知识）的生活为一等",
+    "以四类（无限、有限、混合、原因）划分存在，并以“尺度与比例”为善的根据"
+   ],
+   "key_points": [
+    {
+     "locator": "11a—14b",
+     "point": "快乐 vs 智慧之争"
+    },
+    {
+     "locator": "23c—27c",
+     "point": "四类存在的划分"
+    },
+    {
+     "locator": "36c—50e",
+     "point": "虚假的快乐"
+    },
+    {
+     "locator": "64c—67b",
+     "point": "善的诸特征（尺度、比例、美、真）"
+    }
+   ],
+   "editions": [
+    "中译参王大庆／陈康相关译本；英文 Jowett；Hackforth, Plato's Examination of Pleasure"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-aristotle",
+    "gr-hellenistic-epicurus"
+   ],
+   "misreadings": [
+    {
+     "claim": "《斐莱布》主张禁欲",
+     "why": "它主张**混合的生活**（理性与快乐的适当混合）优于纯粹快乐或纯粹理性，故不是禁欲。"
+    },
+    {
+     "claim": "“虚假的快乐”是比喻说法",
+     "why": "它是一个严格的主张：快乐常伴随判断（关于所期待之物的真假），故其真假可随判断而变。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《斐莱布》的“四类”（无限、有限、混合、原因）与“善的诸特征”之间的关系是柏拉图晚期本体论的解释难点；本页只述其框架与论旨，具体解释学界分歧较大。",
+   "sort_year": -355
+  },
+  {
    "id": "work-daodejing",
    "title": "《老子》（道德经）",
    "title_original": "道德經（Daodejing）",
@@ -3974,6 +4089,63 @@
    "sort_year": -55
   },
   {
+   "id": "work-de-re-publica",
+   "title": "《论共和国》",
+   "title_original": "De re publica",
+   "tradition": "west",
+   "date_display": "前54—前51年（西塞罗）",
+   "structure": "六卷（对话体，残缺，部分由帕利姆普塞斯特残片补出）：论政体的种类与循环、罗马宪政的混合政体、正义与不正义之争（卡涅阿德斯）、教育、以及卷六《西庇阿之梦》。",
+   "core_arguments": [
+    "混合政体优于单一政体：罗马的宪政是混合政体的典范",
+    "以“人民的共同利益”定义“共和国”（res publica = res populi）",
+    "卷六《西庇阿之梦》：以宇宙的尺度确立政治荣誉的限度"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 §39—§45",
+     "point": "三种政体与循环"
+    },
+    {
+     "locator": "卷一 §70",
+     "point": "“共和国是人民的事业”"
+    },
+    {
+     "locator": "卷三",
+     "point": "正义与不正义之争"
+    },
+    {
+     "locator": "卷六",
+     "point": "西庇阿之梦"
+    }
+   ],
+   "editions": [
+    "中译参王焕生《论共和国 论法律》（中国政法大学出版社）；英文 Loeb 本；拉丁原文 thelatinlibrary"
+   ],
+   "related_people": [
+    "gr-hellenistic-cicero",
+    "gr-ancient-plato",
+    "gr-modern-montesquieu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《论共和国》是柏拉图《理想国》的翻译",
+     "why": "它借用对话体与部分问题（正义、政体），但其答案是**罗马宪政的混合政体**与历史的经验，不是哲人王的理想国。"
+    },
+    {
+     "claim": "西塞罗是纯粹的斯多亚派",
+     "why": "他属学园派（新学园）的“或然论”，其立场在各对话中随角色而变，不能径归一派。"
+    }
+   ],
+   "sources": [
+    "sep-stoicism",
+    "iep-stoicism",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论共和国》原书残缺（部分卷帙仅存引文），今本的完整性依赖 1819 年发现的帕利姆普塞斯特残片；本页依 Loeb 本与西塞罗研究概述。",
+   "sort_year": -52
+  },
+  {
    "id": "work-dadai-liji",
    "title": "《大戴礼记》",
    "title_original": "大戴禮記",
@@ -4141,6 +4313,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《论义务》与帕奈提乌斯《论义务》的关系（前者对后者的依赖与偏离）须核；其拉丁文本的校勘以 Winterbottom（OCT）为通行。",
+   "sort_year": -44
+  },
+  {
+   "id": "work-de-amicitia",
+   "title": "《论友谊》",
+   "title_original": "De amicitia",
+   "tradition": "west",
+   "date_display": "前44年（西塞罗）",
+   "structure": "一篇对话（莱利乌斯主述，两位女婿在座）；论友谊的根据、界限、与德性的关系，末以莱利乌斯论友人之死作结。",
+   "core_arguments": [
+    "友谊只能存在于好人之间（“友谊是德性的伴侣”）",
+    "友谊不是出于需要（有用），而是出于爱与德性的相契",
+    "对友谊的界限：不可为友而作不义之事"
+   ],
+   "key_points": [
+    {
+     "locator": "§18—§32",
+     "point": "友谊的根据（非有用）"
+    },
+    {
+     "locator": "§40—§61",
+     "point": "友谊的界限与“不可为不义”"
+    },
+    {
+     "locator": "§74—§87",
+     "point": "友谊的规则"
+    },
+    {
+     "locator": "§100—§104",
+     "point": "莱利乌斯论友人之死"
+    }
+   ],
+   "editions": [
+    "中译参王焕生《论老年 论友谊 论责任》（中国政法大学出版社）；英文 Loeb 本"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-hellenistic-cicero",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "《论友谊》主张友谊高于道德",
+     "why": "它明确禁止“为友而作不义之事”：友谊的界限是德性，故德性优先。"
+    },
+    {
+     "claim": "它是西塞罗的个人自述",
+     "why": "它以莱利乌斯之口追述与西庇阿的友谊，是**借历史人物的虚构对话**，非自传。"
+    }
+   ],
+   "sources": [
+    "sep-stoicism",
+    "iep-stoicism",
+    "sep-aristotle"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": -44
   },
   {

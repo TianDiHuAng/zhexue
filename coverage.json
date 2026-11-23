@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 970,
+  "entries": 976,
   "by_level": {
-   "L2": 752,
-   "L1": 218
+   "L2": 756,
+   "L1": 220
   },
   "doctrine": {
    "total": 237,
    "detail": 237,
    "auto": 0
   },
-  "needs_verification": 218,
+  "needs_verification": 220,
   "sources": 374,
   "sources_verified": 374
  },
@@ -93,7 +93,7 @@
    "title": "古希腊哲学",
    "region": "west",
    "philosophers": 19,
-   "concepts": 27,
+   "concepts": 29,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -4743,6 +4743,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-ancient-phronesis-politike",
+   "type": "concept",
+   "title": "政治技艺",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-ancient-false-pleasures",
+   "type": "concept",
+   "title": "虚假的快乐",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-ancient-flux-vs-being",
    "type": "debate",
    "title": "流变还是不变：赫拉克利特与巴门尼德",
@@ -7526,6 +7548,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-politicus",
+   "type": "work",
+   "title": "《政治家》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-philebus",
+   "type": "work",
+   "title": "《斐莱布》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-daodejing",
    "type": "work",
    "title": "《老子》（道德经）",
@@ -8098,6 +8142,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-de-re-publica",
+   "type": "work",
+   "title": "《论共和国》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-dadai-liji",
    "type": "work",
    "title": "《大戴礼记》",
@@ -8128,6 +8183,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-de-amicitia",
+   "type": "work",
+   "title": "《论友谊》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
