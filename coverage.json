@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1049,
+  "entries": 1056,
   "by_level": {
-   "L2": 782,
-   "L1": 267
+   "L2": 783,
+   "L1": 273
   },
   "doctrine": {
    "total": 248,
    "detail": 248,
    "auto": 0
   },
-  "needs_verification": 267,
-  "sources": 386,
-  "sources_verified": 386
+  "needs_verification": 273,
+  "sources": 387,
+  "sources_verified": 387
  },
  "units": [
   {
@@ -57,7 +57,7 @@
    "title": "魏晋玄学",
    "region": "china",
    "philosophers": 13,
-   "concepts": 23,
+   "concepts": 27,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -5"
   },
@@ -2705,6 +2705,50 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-jise",
+   "type": "concept",
+   "title": "即色",
+   "container": "cn-weijin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-xinwu",
+   "type": "concept",
+   "title": "心无",
+   "container": "cn-weijin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-wu-buqian",
+   "type": "concept",
+   "title": "物不迁",
+   "container": "cn-weijin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-yangsheng",
+   "type": "concept",
+   "title": "养生",
+   "container": "cn-weijin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -9022,6 +9066,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-wangbi-ji",
+   "type": "work",
+   "title": "《王弼集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-ennreads",
    "type": "work",
    "title": "《九章集》",
@@ -9036,6 +9091,17 @@
    "id": "work-sheng-wu-aile",
    "type": "work",
    "title": "《声无哀乐论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-jikang-ji",
+   "type": "work",
+   "title": "《嵇康集》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -9206,6 +9272,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-gaoseng-zhuan",
+   "type": "work",
+   "title": "《高僧传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

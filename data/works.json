@@ -6189,6 +6189,63 @@
    "sort_year": 240
   },
   {
+   "id": "work-wangbi-ji",
+   "title": "《王弼集》",
+   "title_original": "王弼集",
+   "tradition": "china",
+   "date_display": "三国魏（王弼，226—249）；后世辑本",
+   "structure": "通行辑本含《周易注》《老子道德经注》《论语释疑》（辑佚）及《老子指略》《周易略例》等。",
+   "core_arguments": [
+    "“以无为本”：万物以“无”为本，无不可为“一”名",
+    "“得意忘言”：言是得意的工具，得鱼忘筌",
+    "“圣人体无”：孔子体无而不言，老子言无而未体"
+   ],
+   "key_points": [
+    {
+     "locator": "《老子指略》",
+     "point": "以无为本"
+    },
+    {
+     "locator": "《周易略例·明象》",
+     "point": "得意忘言"
+    },
+    {
+     "locator": "《论语释疑》",
+     "point": "圣人体无"
+    },
+    {
+     "locator": "《周易注》",
+     "point": "以“无”释“太极”"
+    }
+   ],
+   "editions": [
+    "楼宇烈《王弼集校释》（中华书局）"
+   ],
+   "related_people": [
+    "cn-weijin-wangbi",
+    "cn-weijin-heyan",
+    "cn-weijin-guoxiang"
+   ],
+   "misreadings": [
+    {
+     "claim": "“以无为本”是虚无主义",
+     "why": "“无”在其说中是**本原**（不可名状的统一性），不是“什么都没有”；其目的是为名教寻找形上根据，故其立场是建设性的。"
+    },
+    {
+     "claim": "《王弼集》是王弼自编的文集",
+     "why": "其著作多为注与论（《周易注》《老子注》等），今本为后人所辑（楼宇烈校释本）；且《论语释疑》仅存辑佚。"
+    }
+   ],
+   "sources": [
+    "ws-shishuo-xinyu",
+    "ws-zhaolun",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "王弼著作的辑本情况复杂（《论语释疑》为辑佚，《老子指略》据《云笈七签》等辑出）；本页依楼宇烈《王弼集校释》，具体篇目的真伪与辑源须核。",
+   "sort_year": 245
+  },
+  {
    "id": "work-ennreads",
    "title": "《九章集》",
    "title_original": "Ἐννεάδες（Enneads）",
@@ -6300,6 +6357,63 @@
    "needs_verification": true,
    "pending_notes": "《声无哀乐论》全文见《嵇康集》（今本经后人辑校，鲁迅与戴明扬校本较通行）；本页依玄学研究与《世说新语》所记概述，具体文句须核校本。",
    "sort_year": 250
+  },
+  {
+   "id": "work-jikang-ji",
+   "title": "《嵇康集》",
+   "title_original": "嵇康集",
+   "tradition": "china",
+   "date_display": "三国魏（嵇康，223—262）；后世辑本",
+   "structure": "十卷（通行辑本）：诗、赋、书、论、赞、箴、诫等；核心为《养生论》《声无哀乐论》《释私论》《难自然好学论》《与山巨源绝交书》。",
+   "core_arguments": [
+    "“越名教而任自然”：名教若违自然，则非真名教",
+    "“声无哀乐”：音乐本身无哀乐，哀乐在听者",
+    "“养生”：导养得理可尽性命，形神相亲"
+   ],
+   "key_points": [
+    {
+     "locator": "《养生论》",
+     "point": "导养与形神"
+    },
+    {
+     "locator": "《声无哀乐论》",
+     "point": "声无哀乐"
+    },
+    {
+     "locator": "《释私论》",
+     "point": "越名教而任自然"
+    },
+    {
+     "locator": "《与山巨源绝交书》",
+     "point": "“七不堪”与政治姿态"
+    }
+   ],
+   "editions": [
+    "戴明扬《嵇康集校注》（人民文学出版社）；鲁迅《嵇康集》校本"
+   ],
+   "related_people": [
+    "cn-weijin-jikang",
+    "cn-weijin-ruanji",
+    "cn-weijin-xiangxiu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《声无哀乐论》否认音乐的作用",
+     "why": "它否认的是“声本身有哀乐”，而非音乐无效用；其结论是哀乐由听者之心而生，故治乱在政教，不在声。"
+    },
+    {
+     "claim": "嵇康是“反礼法”的放任者",
+     "why": "其“越名教”有明确的条件（名教须合自然），且他本人严于自律（《家诫》可见）；故其锋芒针对虚伪的礼法，不是一切规范。"
+    }
+   ],
+   "sources": [
+    "ws-shishuo-xinyu",
+    "ws-hongming-ji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《嵇康集》原集十五卷已佚，今本为后世辑本（明黄省曾本、鲁迅校本、戴明扬校注本），篇目与文字有差异；本页依戴明扬校注本概述。",
+   "sort_year": 260
   },
   {
    "id": "work-yan-jin-yi-lun",
@@ -7149,6 +7263,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 510
+  },
+  {
+   "id": "work-gaoseng-zhuan",
+   "title": "《高僧传》",
+   "title_original": "高僧傳",
+   "tradition": "china",
+   "date_display": "梁（慧皎，519年）",
+   "structure": "十四卷：分“译经、义解、神异、习禅、明律、亡身、诵经、兴福、经师、唱导”十科，正传二百五十七人，附见二百余人。",
+   "core_arguments": [
+    "以“十科”分类僧传：不以时间而以行业分类",
+    "保存了大量佛教初传期的思想与制度史料",
+    "以“高”为标准：入传者须有德业可称"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—三",
+     "point": "译经（摄摩腾、竺法兰、鸠摩罗什等）"
+    },
+    {
+     "locator": "卷四—八",
+     "point": "义解（道安、慧远、僧肇等）"
+    },
+    {
+     "locator": "卷十一",
+     "point": "习禅与明律"
+    },
+    {
+     "locator": "卷十三—十四",
+     "point": "经师、唱导与序录"
+    }
+   ],
+   "editions": [
+    "汤用彤校注《高僧传》（中华书局）；《大正藏》第50卷"
+   ],
+   "related_people": [
+    "cn-weijin-sengzhao",
+    "cn-weijin-huiyuan",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是传记汇编",
+     "why": "其“十科”分类本身即是一种**僧伽理想的表述**（以何为“高”）；且其序录对佛教史的方法有明确说明。"
+    },
+    {
+     "claim": "所载事迹皆可据为史实",
+     "why": "其中“神异”一科多含传说，须与经录、正史对读；其史料价值在读其**记载方式**与其所据文献。"
+    }
+   ],
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "ws-hongming-ji",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《高僧传》的正传与附见人数各本统计有差异（通行为正传257人、附见200余人）；其“神异”类记载的史料性质须分辨。本页依汤用彤校注本概述。",
+   "sort_year": 519
   },
   {
    "id": "work-consolation",

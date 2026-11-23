@@ -2890,6 +2890,155 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-weijin-jise",
+   "term": "即色",
+   "term_latin": "the immediately real is the forms",
+   "definition": "支道林（支遁）的般若学主张（“即色宗”）：色（物质现象）本身不是自有的，而是因缘所成——故“即色”而空，不须灭色求空。它与“本无宗”的差别在于不把“无”当作本原。",
+   "usages": [
+    {
+     "name": "支道林",
+     "usage": "“即色者，明色不自色，故虽色而非色也”：色无自性，故当下即空。"
+    },
+    {
+     "name": "道安（本无宗）",
+     "usage": "以“本无”为说：一切法本性空寂，故以“无”为本。"
+    },
+    {
+     "name": "僧肇（批评者）",
+     "id": "cn-weijin-sengzhao",
+     "usage": "《不真空论》评“即色”只说色不自色，未及“假号不真”的一面。"
+    }
+   ],
+   "related": [
+    "cn-weijin-guiwu",
+    "cn-weijin-youwu"
+   ],
+   "example": {
+    "text": "“即色”与“本无”的分歧看似细微，实则关键：若以“无”为本原，则仍是**本末的二元**；若“即色”而空，则空不离现象。僧肇的批评正是要把这一“即”推到“不真空”——现象本非真，故不须另立一个“无”。",
+    "figure": "支道林",
+    "locator": "《即色游玄论》（佚，见《世说新语》刘注与《肇论》所引）"
+   },
+   "sources": [
+    "ws-zhaolun",
+    "ws-shishuo-xinyu",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“即色宗”的文献多已散佚，今仅存《肇论·不真空论》所引与《世说新语》刘孝标注的片段；本页述其主张与大略，具体文本须核辑佚。"
+  },
+  {
+   "id": "cn-weijin-xinwu",
+   "term": "心无",
+   "term_latin": "mind is without [attachment to] the external",
+   "definition": "支愍度（一作支敏度）的般若学主张（“心无宗”）：空不在外境，而在**心不执著**于外境。故其“空”是主观的（无心于物），不是客观的（物本身空）。",
+   "usages": [
+    {
+     "name": "支愍度",
+     "usage": "“心无者，无心于万物，万物未尝无”：空是心不执，非物不有。"
+    },
+    {
+     "name": "僧肇（批评者）",
+     "id": "cn-weijin-sengzhao",
+     "usage": "《不真空论》评“心无”为“得在于神静，失在于物虚”——只及心的不执，未及物的不真。"
+    },
+    {
+     "name": "道安（本无宗）",
+     "usage": "以“本无”为说，与“心无”的路径不同。"
+    }
+   ],
+   "related": [
+    "cn-weijin-youwu"
+   ],
+   "example": {
+    "text": "僧肇对“心无”的评语最精确：**“得在于神静，失在于物虚”** ——它抓住了修行的要点（心不执），却漏掉了本体论的要点（物本非真）。这八个字是理解六家七宗差异的钥匙。",
+    "figure": "支愍度",
+    "locator": "《心无义》（佚，见《肇论·不真空论》所引）"
+   },
+   "sources": [
+    "ws-zhaolun",
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“心无义”的文本已佚，今仅存《肇论·不真空论》的评述与《高僧传》的记载；本页依此二源概述，具体措辞须核辑佚。"
+  },
+  {
+   "id": "cn-weijin-wu-buqian",
+   "term": "物不迁",
+   "term_latin": "things do not move",
+   "definition": "僧肇《物不迁论》的命题：万物并不迁移——“昔物自在昔，不从今以至昔；今物自在今，不从昔以至今”。故所谓“运动”是**各住其时的显现**，不是同一物在时间中移动。",
+   "usages": [
+    {
+     "name": "僧肇",
+     "id": "cn-weijin-sengzhao",
+     "usage": "“旋风偃岳而常静，江河竞注而不流”：动与静不二。"
+    },
+    {
+     "name": "《庄子》（其资源）",
+     "usage": "以“藏舟于壑”与“无动静”的相对说为背景。"
+    },
+    {
+     "name": "郭象（对照）",
+     "id": "cn-weijin-guoxiang",
+     "usage": "以“独化”说明变化，与“物不迁”的静态说不同。"
+    }
+   ],
+   "related": [
+    "cn-weijin-youwu"
+   ],
+   "example": {
+    "text": "“物不迁”最容易被误读为“世界静止”。其实它是一个**时间分析的命题**：过去的事物只存在于过去，故它没有“来到现在”；现在的事物只在现在，故它没有“从过去来”。由此，运动只是各刹那的显现——这与佛教的“刹那灭”说相通。",
+    "figure": "僧肇",
+    "locator": "《肇论·物不迁论》"
+   },
+   "sources": [
+    "ws-zhaolun",
+    "ws-hongming-ji",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-weijin-yangsheng",
+   "term": "养生",
+   "term_latin": "nourishing life",
+   "definition": "嵇康《养生论》的主张：神仙虽由禀受，但常人若“导养得理”，可延年。养生的关键在于**去声色滋味之累**与**以理化情**——故它是形神并养，而非只养形。",
+   "usages": [
+    {
+     "name": "嵇康",
+     "id": "cn-weijin-jikang",
+     "usage": "“导养得理，以尽性命”：养生须形神相亲。"
+    },
+    {
+     "name": "向秀（质疑者）",
+     "id": "cn-weijin-xiangxiu",
+     "usage": "《难养生论》质疑：嗜欲出于自然，绝之是否违反自然？"
+    },
+    {
+     "name": "葛洪（对照）",
+     "id": "cn-weijin-ge-hong",
+     "usage": "以金丹服食为长生之术，与嵇康的“导养”不同路。"
+    }
+   ],
+   "related": [
+    "cn-weijin-sheng-wu-aile",
+    "cn-weijin-mingjiao-ziran"
+   ],
+   "example": {
+    "text": "嵇康《养生论》与向秀《难养生论》的往复是玄学中罕见的**正反双方文本俱存**的论辩：一方主张以理节制情欲，一方主张情欲即自然。故它不只是养生术，而是“自然”如何理解之争。",
+    "figure": "嵇康",
+    "locator": "《养生论》；向秀《难养生论》"
+   },
+   "sources": [
+    "ws-hongming-ji",
+    "ws-shishuo-xinyu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "嵇康《养生论》与向秀《难养生论》的往复文本见《嵇康集》与《全晋文》；其“神仙可否学致”的问题与葛洪的立场不同，须分辨。"
   }
  ],
  "debates": [
