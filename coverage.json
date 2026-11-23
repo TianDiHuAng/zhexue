@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1078,
+  "entries": 1083,
   "by_level": {
    "L2": 786,
-   "L1": 292
+   "L1": 297
   },
   "doctrine": {
    "total": 254,
    "detail": 254,
    "auto": 0
   },
-  "needs_verification": 292,
+  "needs_verification": 297,
   "sources": 396,
   "sources_verified": 396
  },
@@ -8549,6 +8549,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-mojing",
+   "type": "work",
+   "title": "《墨经》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-tianxia-pian",
    "type": "work",
    "title": "《庄子·天下篇》",
@@ -9429,6 +9440,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-nyayapravesa",
+   "type": "work",
+   "title": "《因明入正理论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-chengweishi",
    "type": "work",
    "title": "《成唯识论》",
@@ -9569,6 +9591,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-monologion",
+   "type": "work",
+   "title": "《独白》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -11526,6 +11559,28 @@
    "level": "L1",
    "sources": 4,
    "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-mingzhi",
+   "type": "comparative",
+   "title": "名与指：公孙龙、密尔与弗雷格的三条路",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-akrasia",
+   "type": "comparative",
+   "title": "知而不行：亚里士多德的 akrasia 与朱子的“知未至”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 5,
+   "verified_sources": 5,
    "needs_verification": true,
    "updated": "2026-11-23"
   },

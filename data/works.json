@@ -3071,6 +3071,64 @@
    "sort_year": -300
   },
   {
+   "id": "work-mojing",
+   "title": "《墨经》",
+   "title_original": "墨經",
+   "tradition": "china",
+   "date_display": "战国（墨家后学，约前4—前3世纪）；《墨子》中的《经上》《经下》《经说上》《经说下》",
+   "structure": "四篇（《经上》《经下》《经说上》《经说下》），另有《大取》《小取》二篇论辩学；体例为“经”与“说”相配的条目式。",
+   "core_arguments": [
+    "“辩”的目的：“明是非之分，审治乱之纪，明同异之处，察名实之理”",
+    "“名”的分类：达名、类名、私名",
+    "“类”与“故”：推理须依“类”与“故”（理由）",
+    "光学与力学的经验研究（小孔成像、杠杆、滑轮）"
+   ],
+   "key_points": [
+    {
+     "locator": "《经上》",
+     "point": "名、辞、说、辩的定义"
+    },
+    {
+     "locator": "《经下》",
+     "point": "类与故"
+    },
+    {
+     "locator": "《经说下》",
+     "point": "光学与力学条目"
+    },
+    {
+     "locator": "《小取》",
+     "point": "辩的七种方法（或、假、效、辟、侔、援、推）"
+    }
+   ],
+   "editions": [
+    "孙诒让《墨子间诂》（中华书局）；谭戒甫《墨辩发微》；高亨《墨经校诠》"
+   ],
+   "related_people": [
+    "cn-xianqin-mozi",
+    "cn-xianqin-gongsunlong",
+    "cn-xianqin-hui-shi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《墨经》是墨子的手笔",
+     "why": "它是**墨家后学**的著作（与墨子时代相隔百余年），其中包含与墨子本人不同的逻辑学与科学内容；故不能与《墨子》前十篇同等看待。"
+    },
+    {
+     "claim": "其“辩”只是诡辩术",
+     "why": "《小取》明确以“明是非之分、审治乱之纪”为目的，并规范“辟、侔、援、推”等方法的限度；其立场与诡辩相反。"
+    }
+   ],
+   "sources": [
+    "ct-mozi",
+    "ws-gongsunlongzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《墨经》文字错讹极多（“经说”体例与脱简问题），各家校释（孙诒让、高亨、谭戒甫）分歧很大；本页依通行校释本概述，具体条目的原文须逐条核对。",
+   "sort_year": -300
+  },
+  {
    "id": "work-tianxia-pian",
    "title": "《庄子·天下篇》",
    "title_original": "天下篇",
@@ -7607,6 +7665,63 @@
    "sort_year": 610
   },
   {
+   "id": "work-nyayapravesa",
+   "title": "《因明入正理论》",
+   "title_original": "Nyāyapraveśa",
+   "tradition": "china",
+   "date_display": "约6世纪（陈那弟子商羯罗主造；玄奘647年译）",
+   "structure": "一卷：以“能立与能破”“似能立与似能破”为纲，立“三支作法”（宗、因、喻）与“九句因”“三十三过”。",
+   "core_arguments": [
+    "三支作法：宗（命题）、因（理由）、喻（例证）",
+    "“因三相”：遍是宗法性、同品定有性、异品遍无性",
+    "三十三种过失（似能立与似能破）"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "能立与能破"
+    },
+    {
+     "locator": "三支作法",
+     "point": "宗、因、喻"
+    },
+    {
+     "locator": "因三相",
+     "point": "判断因是否正确"
+    },
+    {
+     "locator": "末段",
+     "point": "三十三过"
+    }
+   ],
+   "editions": [
+    "《大正藏》第32卷；中译参玄奘译本；现代注疏见《因明入正理论》研究"
+   ],
+   "related_people": [
+    "cn-suitang-xuanzang",
+    "cn-suitang-kuiji",
+    "cn-xianqin-mozi"
+   ],
+   "misreadings": [
+    {
+     "claim": "因明只是佛教的逻辑学",
+     "why": "它是印度**共同的论辩学**（尼耶也派等亦治之），佛教取其作为论证工具；玄奘译传后成为汉传因明的根本论典。"
+    },
+    {
+     "claim": "三支作法与三段论相同",
+     "why": "三支的“喻”含**例证**（同喻、异喻），其功能超出三段论的大前提；且“因三相”是对理由的**双重检验**（同品、异品），故结构不同。"
+    }
+   ],
+   "sources": [
+    "ws-mohezhiguan",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《因明入正理论》为玄奘译，其梵本与汉译的对应、以及“因三相”的表述在汉传（窥基《大疏》）与藏传因明中有差异；本页依汉译本与因明研究概述。",
+   "sort_year": 647
+  },
+  {
    "id": "work-chengweishi",
    "title": "《成唯识论》",
    "title_original": "成唯識論（Cheng Weishi Lun）",
@@ -8332,6 +8447,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1076
+  },
+  {
+   "id": "work-monologion",
+   "title": "《独白》",
+   "title_original": "Monologion",
+   "tradition": "west",
+   "date_display": "1076年（安瑟尔谟）",
+   "structure": "八十章：以“独白”（无对话者）的方式，从“有至善者”出发论证神的存在与属性（三位一体在最后部分）。",
+   "core_arguments": [
+    "以事物的善的等级推出“至善者”的存在",
+    "“至善者”必是最高存在，且由其自身而存在",
+    "以“言”（Verbum）说明神的自我认识（通向三位一体）"
+   ],
+   "key_points": [
+    {
+     "locator": "第1—3章",
+     "point": "善的等级与至善者"
+    },
+    {
+     "locator": "第4—14章",
+     "point": "至善者的属性（自存、无限）"
+    },
+    {
+     "locator": "第15—48章",
+     "point": "创造与“言”"
+    },
+    {
+     "locator": "第49—80章",
+     "point": "三位一体的推理"
+    }
+   ],
+   "editions": [
+    "拉丁原文 S. Anselmi Opera Omnia（Schmitt 编）；英译 Monologion（Hopkins & Richardson）"
+   ],
+   "related_people": [
+    "gr-medieval-anselm",
+    "gr-medieval-augustine",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "《独白》就是本体论论证",
+     "why": "本体论论证见《宣讲》（Proslogion）；《独白》走的是**从善的等级上升**的路径（更近于新柏拉图式的推论），二者方法不同。"
+    },
+    {
+     "claim": "它不需要信仰前提",
+     "why": "安瑟尔谟的原题是“论神性的本质的沉思范例”（exemplum meditandi de ratione fidei）：其目的是**以理性理解已信的内容**（fides quaerens intellectum），故不是无前提的证明。"
+    }
+   ],
+   "sources": [
+    "sep-augustine",
+    "sep-aquinas",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《独白》原名与《宣讲》的关系（前者为后者的前身）须核 Schmitt 编本导论；其“从善的等级上升”的论证与奥古斯丁《论自由意志》的关系亦是线索。",
    "sort_year": 1076
   },
   {
