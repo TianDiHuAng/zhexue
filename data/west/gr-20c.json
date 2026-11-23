@@ -3760,6 +3760,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-20c-thrownness",
+   "term": "被抛",
+   "term_latin": "Geworfenheit",
+   "definition": "海德格尔的生存论概念：此在总已处于某种处境之中——出生的时代、身体、语言、历史，皆非其选择。此在的生存是“被抛的筹划”：一方面被交付给处境，一方面在其中筹划自身。",
+   "usages": [
+    {
+     "name": "海德格尔",
+     "id": "gr-20c-heidegger",
+     "usage": "此在是“被抛的筹划”：处境不可选，筹划仍在其手。"
+    },
+    {
+     "name": "萨特（分歧）",
+     "id": "gr-20c-sartre",
+     "usage": "以“存在先于本质”强调自由：人被判定为自由，故“被抛”不构成限制。"
+    },
+    {
+     "name": "阿多诺（批评）",
+     "id": "gr-20c-adorno",
+     "usage": "以“非同一者”指出：被抛的处境（社会结构）不能仅由生存论描述吸收。"
+    }
+   ],
+   "related": [
+    "gr-20c-das-man"
+   ],
+   "example": {
+    "text": "“被抛”与“筹划”的张力是海德格尔自由观的核心：自由不是“无条件的”，而是在**已被交付的处境中**的筹划。这与萨特的“绝对自由”形成鲜明对比——萨特读海德格尔时正是在这一点上分歧。",
+    "figure": "海德格尔",
+    "locator": "《存在与时间》§38、§58"
+   },
+   "sources": [
+    "sep-heidegger",
+    "sep-sartre"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

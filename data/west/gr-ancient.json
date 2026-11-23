@@ -3364,6 +3364,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-ancient-aletheia",
+   "term": "无蔽",
+   "term_latin": "aletheia（unconcealment）",
+   "definition": "希腊语“真理”的字面义：不隐藏、被揭开。海德格尔据此主张真理的原初意义不是“命题与事实相符”，而是“存在者的被揭示状态”；命题的真假只是其派生形态。",
+   "usages": [
+    {
+     "name": "海德格尔（据此重释）",
+     "usage": "真理是“无蔽”：存在者在其不被遮蔽的状态中被看见。"
+    },
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "以命题的真假（符合）为真理的所在（《形而上学》Γ.7）。"
+    },
+    {
+     "name": "柏拉图",
+     "id": "gr-ancient-plato",
+     "usage": "以“洞穴”的隐喻说明从遮蔽到无蔽的转向（《理想国》卷七）。"
+    }
+   ],
+   "related": [
+    "gr-ancient-being",
+    "gr-ancient-logos"
+   ],
+   "example": {
+    "text": "海德格尔的重释是有争议的：字源上的 a-letheia（不-遮蔽）确实成立，但希腊人是否**以此字源义**使用“真理”一词，学界多有质疑（此即所谓“词源谬误”之嫌）。本页并列其说与其争议。",
+    "figure": "海德格尔",
+    "locator": "《存在与时间》§44"
+   },
+   "sources": [
+    "sep-heidegger",
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“无蔽”的重释涉及词源论证的有效性：字源义不等于使用义，海德格尔是否犯“词源谬误”是学界长期争论点；本页并列而不裁定。"
   }
  ],
  "debates": [

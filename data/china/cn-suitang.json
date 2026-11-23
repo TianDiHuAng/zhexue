@@ -2217,6 +2217,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-suitang-babu-zhongdao",
+   "term": "八不中道",
+   "term_latin": "the eight negations",
+   "definition": "《中论》开篇的八个否定：不生亦不灭、不常亦不断、不一亦不异、不来亦不出。它以否定一切极端（生灭、常断、一异、来去）来显示缘起性空，故“中道”不是折中而是离两边。",
+   "usages": [
+    {
+     "name": "龙树（《中论》作者）",
+     "usage": "以“八不”破四对极端，归于缘起。"
+    },
+    {
+     "name": "智顗",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以三谛圆融重解八不：即空即假即中。"
+    },
+    {
+     "name": "吉藏（三论宗）",
+     "usage": "以“破邪显正”解八不：破而不立，故无所得。"
+    }
+   ],
+   "related": [
+    "cn-suitang-er-di"
+   ],
+   "example": {
+    "text": "“八不”的格式值得注意：它成对出现（生/灭、常/断、一/异、来/出），每一对都被同时否定——故它不是选择一边，也不是取其中，而是显示“两边”本身不可成立。",
+    "figure": "龙树",
+    "locator": "《中论》卷一《观因缘品》"
+   },
+   "sources": [
+    "ws-mohezhiguan",
+    "book-chan-sourcebook",
+    "sep-madhyamaka"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

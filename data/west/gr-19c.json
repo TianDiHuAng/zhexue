@@ -2877,6 +2877,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-19c-herd",
+   "term": "群畜",
+   "term_latin": "Herde / herd",
+   "definition": "尼采对现代“大众道德”的贬称：以平等、同情与舒适为价值，抹平差异，使人成为“群畜”。它不是指某个阶级，而是指一种价值类型与其心理机制。",
+   "usages": [
+    {
+     "name": "尼采",
+     "id": "gr-19c-nietzsche",
+     "usage": "群畜道德以“平等”为名抹平等级，其结果是“末人”的舒适与平庸。"
+    },
+    {
+     "name": "功利主义（被批评者，对照）",
+     "id": "gr-19c-mill",
+     "usage": "以“最大多数人的最大幸福”为标准，被尼采视为群畜道德的典型表述。"
+    },
+    {
+     "name": "克尔凯郭尔（平行）",
+     "id": "gr-19c-kierkegaard",
+     "usage": "以“公众”批判匿名的舆论，与“群畜”有结构上的相似。"
+    }
+   ],
+   "related": [
+    "gr-19c-nihilism",
+    "gr-19c-power-will"
+   ],
+   "example": {
+    "text": "“群畜”这一概念的麻烦在于它是**贬称**而非描述：一旦用它，就已经站在了它所批判的立场之外。故尼采的批评者常说：他的“高贵”缺乏独立的判准，只能以贬低对手来定义自身。",
+    "figure": "尼采",
+    "locator": "《论道德的谱系》第一篇；《善恶的彼岸》"
+   },
+   "sources": [
+    "sep-nietzsche",
+    "iep-nietzsche"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

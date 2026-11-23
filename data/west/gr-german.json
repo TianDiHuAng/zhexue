@@ -2002,6 +2002,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-german-reflective-judgment",
+   "term": "反思判断力",
+   "term_latin": "reflektierende Urteilskraft",
+   "definition": "康德的区分：规定判断力是从普遍（规则）出发去统摄特殊；反思判断力是从特殊出发去**寻找**普遍。审美判断与目的论判断属后者，故它们不依既定概念而仍要求普遍性。",
+   "usages": [
+    {
+     "name": "康德",
+     "id": "gr-german-kant",
+     "usage": "审美判断是反思判断力：无概念而要求普遍同意。"
+    },
+    {
+     "name": "黑格尔（批评）",
+     "id": "gr-german-hegel",
+     "usage": "反思判断力的“主观合目的性”仍是主观的，须由概念的辩证运动补足。"
+    },
+    {
+     "name": "歌德与浪漫派（接受）",
+     "usage": "以“原型现象”承接反思判断力的思路（由特殊见普遍）。"
+    }
+   ],
+   "related": [
+    "gr-german-transcendental"
+   ],
+   "example": {
+    "text": "这一区分解决了一个难题：审美判断既不依概念（故非知识），又要求普遍同意（故非偏好）。答案就在“反思”二字——它从特殊出发去寻找一个尚未给定的普遍，故其普遍性是“要求的”而非“证明的”。",
+    "figure": "康德",
+    "locator": "《判断力批判》导论 §IV—§V"
+   },
+   "sources": [
+    "sep-kant",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

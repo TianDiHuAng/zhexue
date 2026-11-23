@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 799,
+  "entries": 805,
   "by_level": {
-   "L2": 660,
-   "L1": 139
+   "L2": 665,
+   "L1": 140
   },
   "doctrine": {
    "total": 227,
    "detail": 227,
    "auto": 0
   },
-  "needs_verification": 139,
+  "needs_verification": 140,
   "sources": 344,
   "sources_verified": 344
  },
@@ -48,7 +48,7 @@
    "title": "隋唐佛学",
    "region": "china",
    "philosophers": 12,
-   "concepts": 13,
+   "concepts": 14,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -75,7 +75,7 @@
    "title": "19世纪哲学",
    "region": "west",
    "philosophers": 16,
-   "concepts": 14,
+   "concepts": 15,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -8"
   },
@@ -84,7 +84,7 @@
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
    "philosophers": 21,
-   "concepts": 17,
+   "concepts": 18,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -13"
   },
@@ -93,7 +93,7 @@
    "title": "古希腊哲学",
    "region": "west",
    "philosophers": 19,
-   "concepts": 15,
+   "concepts": 16,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -111,7 +111,7 @@
    "title": "德国古典哲学",
    "region": "west",
    "philosophers": 9,
-   "concepts": 15,
+   "concepts": 16,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -1"
   },
@@ -1751,6 +1751,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-suitang-babu-zhongdao",
+   "type": "concept",
+   "title": "八不中道",
+   "container": "cn-suitang",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-suitang-dunjian",
    "type": "debate",
    "title": "顿悟与渐修",
@@ -2939,6 +2950,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-19c-herd",
+   "type": "concept",
+   "title": "群畜",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-19c-free-will",
    "type": "debate",
    "title": "自由意志与决定论是否相容",
@@ -3445,6 +3467,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-20c-thrownness",
+   "type": "concept",
+   "title": "被抛",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-20c-metaphysics-meaning",
    "type": "debate",
    "title": "形而上学命题是否有认知意义",
@@ -3904,6 +3937,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-ancient-aletheia",
+   "type": "concept",
+   "title": "无蔽",
+   "container": "gr-ancient",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -4614,6 +4658,17 @@
    "id": "gr-german-spirit-absolute",
    "type": "concept",
    "title": "绝对精神（再论：作为结果）",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-german-reflective-judgment",
+   "type": "concept",
+   "title": "反思判断力",
    "container": "gr-german",
    "level": "L2",
    "sources": 2,
@@ -8458,6 +8513,17 @@
    "sources": 4,
    "verified_sources": 4,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-death",
+   "type": "comparative",
+   "title": "死亡与不朽：庄子、伊壁鸠鲁与海德格尔",
+   "container": "comparative",
+   "level": "L2",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
