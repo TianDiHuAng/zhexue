@@ -2118,6 +2118,284 @@
      "note": "1893 年"
     }
    ]
+  },
+  {
+   "id": "gr-19c-emerson",
+   "name": "爱默生",
+   "latin": "Ralph Waldo Emerson",
+   "birth_year": 1803,
+   "death_year": 1882,
+   "birth_display": "1803年",
+   "death_display": "1882年",
+   "birth_note": "生于波士顿；据其生平材料，父为一位论派牧师。",
+   "death_note": "1882年卒于马萨诸塞州康科德。",
+   "era": "19世纪美国。爱默生是美国超验主义的核心人物：他以《自然》宣告人应“用自己的眼睛”看世界，主张“自立”（Self-Reliance）——不模仿、不依赖传统与舆论，而是听从内心的“超灵”。",
+   "school": "超验主义",
+   "core_questions": [
+    "人与自然的关系是什么？",
+    "人为何应当自立？",
+    "传统与权威的地位如何？"
+   ],
+   "arguments": [
+    {
+     "claim": "“自立”：信任自己的思想，不以外在权威为标准",
+     "premises": [
+      "每个人心中都有与宇宙相通的神性（超灵）。",
+      "模仿他人即是放弃自己的独特位置。"
+     ],
+     "inference": "若每个人心中都有神性，则真理不必外求；故顺从自己的直觉是德性，模仿是堕落。",
+     "conclusion": "自立是伦理与认识的双重要求：不依赖传统，也不依赖舆论。",
+     "kind": "原文"
+    },
+    {
+     "claim": "自然是精神的象征：物质世界是精神的“外在化”",
+     "premises": [
+      "自然的美、秩序与用途都指向某种精神意义。",
+      "人若以功利的眼光看自然，则只见其表层。"
+     ],
+     "inference": "若自然是精神的象征，则认识自然即是认识自我；故须以“诗意的”眼光而非仅功利的眼光看世界。",
+     "conclusion": "自然是精神的隐喻，人通过它认识自身的神性。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《自然》《论文集》《代表人物》《日记》",
+     "edition": "《自然》中译参商务印书馆（若有）；《爱默生集》三联书店",
+     "note": "1836；1841/1844；1850"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "柯勒律治与卡莱尔",
+     "id": "",
+     "note": "德国唯心论与浪漫主义的转介"
+    },
+    {
+     "name": "柏拉图与新柏拉图主义",
+     "id": null,
+     "note": "“超灵”与理念的类比"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "梭罗与超验主义群体",
+     "id": "gr-19c-thoreau",
+     "note": "《瓦尔登湖》的实践"
+    },
+    {
+     "name": "尼采与实用主义",
+     "id": "gr-19c-nietzsche",
+     "note": "自立与价值重估的呼应"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "同时代批评者与后世学者",
+     "view": "自立论忽视社会条件与传统的历史价值，易流于个人主义的天真。",
+     "response": "爱默生一系的回应是：自立不是孤立，而是以真诚的方式与他人和传统发生关系。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-emerson",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "爱默生只是文学散文家",
+     "why": "其《自然》《自立》是系统的哲学主张，涉及认识论、伦理学与宗教哲学。"
+    },
+    {
+     "claim": "超验主义是德国唯心论的简单移植",
+     "why": "它在美国语境中与民主、个人自由结合，形成了独立的形态。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>爱默生：自立与自然的象征</text><defs><marker id='aEM' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>每人心中有与宇宙相通的神性</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故真理不必外求</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故顺从直觉是德性</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故自然是精神的象征</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aEM)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aEM)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "爱默生：自立、超灵与自然的象征（示意图）",
+   "sources": [
+    "sep-emerson",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "爱默生以“自立”为核心：每个人心中都有与宇宙相通的神性（超灵），故真理不必外求，顺从自己的直觉是德性，模仿他人则是放弃自己的独特位置。他又主张自然是精神的象征——物质世界是精神的外在化，故须以诗意的而非仅功利的眼光看世界，认识自然即是认识自我。",
+    "system": [
+     {
+      "name": "自立",
+      "content": "信任自己的思想；不以外在权威为标准；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "超灵（Over-Soul）",
+      "content": "个体心灵与宇宙神性相通的统一者；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "自然是象征",
+      "content": "物质世界是精神的隐喻，认识自然即认识自我。"
+     },
+     {
+      "name": " Compensation（补偿）",
+      "content": "宇宙的平衡：每一得必有相应的失；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "波士顿与康科德（1803—1882）",
+      "change": "哈佛毕业；曾任一位论派牧师，1832 年辞职；1836 年《自然》；与梭罗等形成超验主义群体；晚年讲学著述。"
+     }
+    ],
+    "reception": "其自立论成为美国个人主义与民主精神的思想资源；超验主义影响了梭罗、惠特曼与实用主义；尼采读其著作并致意。"
+   },
+   "works_detail": [
+    {
+     "title": "《自然》",
+     "structure": "导论与八章：自然、商品、美、语言、纪律、唯心论、精神、展望。",
+     "core_thesis": "自然是精神的象征；人须自立地看世界。",
+     "editions": "中译参商务印书馆（若有）；Harvard 版",
+     "note": "1836 年匿名出版"
+    }
+   ]
+  },
+  {
+   "id": "gr-19c-thoreau",
+   "name": "梭罗",
+   "latin": "Henry David Thoreau",
+   "birth_year": 1817,
+   "death_year": 1862,
+   "birth_display": "1817年",
+   "death_display": "1862年",
+   "birth_note": "生于马萨诸塞州康科德；据其生平材料，父为铅笔制造商。",
+   "death_note": "1862年卒于康科德（肺结核）。",
+   "era": "19世纪美国。梭罗是爱默生的弟子与超验主义的实践者：他在瓦尔登湖畔独居两年，以《瓦尔登湖》记录“简朴生活”的实验；又以《论公民的不服从》提出个人良知高于不义法律，影响后世非暴力抵抗运动。",
+   "school": "超验主义（实践者）",
+   "core_questions": [
+    "人真正需要什么？",
+    "不义的法律应当服从吗？",
+    "自然对人有何意义？"
+   ],
+   "arguments": [
+    {
+     "claim": "简朴：削减到生活的最低必要，方能看清何为必要",
+     "premises": [
+      "多数人被“工具”与“舒适”所奴役（为旅行而修铁路，却失去了走路的能力）。",
+      "生活的必需品只有食物、住所、衣物与燃料。"
+     ],
+     "inference": "若人的目的不是占有而是生活，则削减外在需求是回到生活本身的唯一捷径；故简朴是手段而非苦行。",
+     "conclusion": "简朴是通达自由与清醒的条件，不是道德苦行。",
+     "kind": "原文"
+    },
+    {
+     "claim": "公民的不服从：个人良知高于不义的法律",
+     "premises": [
+      "个人是道德判断的主体，政府只是工具。",
+      "若法律要求人做不义之事，则服从即为共谋。"
+     ],
+     "inference": "若政府的正当性来自个人良知的让渡，则当政府行不义时，个人有权且应当不服从，并接受其后果（入狱）。",
+     "conclusion": "个人良知高于法律；不服从是非暴力地撤回对不义的共谋。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《瓦尔登湖》《论公民的不服从》《缅因森林》《日记》",
+     "edition": "《瓦尔登湖》徐迟译上海译文出版社；《论公民的不服从》中译见多种文选",
+     "note": "1854；1849；1864"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "爱默生",
+     "id": "gr-19c-emerson",
+     "note": "超验主义与自立"
+    },
+    {
+     "name": "印度与希腊经典",
+     "id": "",
+     "note": "《 Bhagavad Gita 》与古典阅读"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "甘地与马丁·路德·金",
+     "id": "",
+     "note": "非暴力抵抗的行动纲领"
+    },
+    {
+     "name": "美国环境主义与自然写作",
+     "id": "",
+     "note": "自然观察与简朴生活"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "同时代与后世批评者",
+     "view": "其简朴生活依赖他人的土地与社会条件，且“退出”而非“改革”有逃避之嫌。",
+     "response": "梭罗一系的回应是：不服从是公开的行动（入狱），不是私下的退避；简朴则是检验何为必要的实验。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-thoreau",
+      "sep-emerson"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "梭罗是隐士，与社会无关",
+     "why": "他并未脱离社会：常回康科德、为逃亡奴隶提供帮助、公开反对美墨战争。"
+    },
+    {
+     "claim": "《瓦尔登湖》是自然文学而非哲学",
+     "why": "它同时是伦理学与政治哲学的实践论证：以生活实验检验“何为必要”。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>梭罗：简朴与不服从</text><defs><marker id='aTH' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>多数人为工具所奴役</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>必需品只有四类</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故简朴是回到生活的捷径</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故良知高于不义之法</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aTH)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aTH)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "梭罗：简朴生活与公民不服从（示意图）",
+   "sources": [
+    "sep-thoreau",
+    "sep-emerson"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "梭罗以“简朴”为核心：多数人为工具与舒适所奴役，而生活的必需品只有食物、住所、衣物与燃料，故削减外在需求是回到生活本身的捷径——简朴是手段而非苦行。他又以《论公民的不服从》提出个人良知高于不义法律：当政府行不义时，个人有权且应当不服从并接受后果。其思想影响后世非暴力抵抗运动。",
+    "system": [
+     {
+      "name": "简朴",
+      "content": "削减到最低必要；是通达自由的条件，非苦行。"
+     },
+     {
+      "name": "公民的不服从",
+      "content": "良知高于法律；不服从是撤回对不义的共谋。"
+     },
+     {
+      "name": "自然观察",
+      "content": "以细致的自然记录作为认识自我与宇宙的方式。"
+     },
+     {
+      "name": "反奴隶制与反战",
+      "content": "因拒绝缴纳支持奴隶制与美墨战争的税而入狱一夜。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "康科德与瓦尔登湖（1817—1862）",
+      "change": "哈佛毕业；与爱默生交往；1845—47 于瓦尔登湖畔独居；因拒税入狱一夜；晚年整理日记与自然观察。"
+     }
+    ],
+    "reception": "《论公民的不服从》影响了甘地与马丁·路德·金；《瓦尔登湖》成为自然写作与环境主义的经典；其“简朴”在消费社会中持续被援引。"
+   },
+   "works_detail": [
+    {
+     "title": "《瓦尔登湖》",
+     "structure": "十八篇；以一年四季的结构记录湖畔生活与经济核算。",
+     "core_thesis": "简朴；自然是精神的教科书；这是该书的核心命题。",
+     "editions": "徐迟译上海译文出版社",
+     "note": "1854 年"
+    }
+   ]
   }
  ],
  "concepts": [

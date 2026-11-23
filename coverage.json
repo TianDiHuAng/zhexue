@@ -1,14 +1,14 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 562,
+  "entries": 568,
   "by_level": {
-   "L2": 480,
+   "L2": 486,
    "L1": 82
   },
   "doctrine": {
-   "total": 202,
-   "detail": 202,
+   "total": 205,
+   "detail": 205,
    "auto": 0
   },
   "needs_verification": 82,
@@ -74,19 +74,19 @@
    "unit_id": "gr-19c",
    "title": "19世纪哲学",
    "region": "west",
-   "philosophers": 14,
+   "philosophers": 16,
    "concepts": 13,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -6"
+   "philosophers_slot": "8 上限，余 -8"
   },
   {
    "unit_id": "gr-20c",
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
-   "philosophers": 18,
+   "philosophers": 19,
    "concepts": 13,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -10"
+   "philosophers_slot": "8 上限，余 -11"
   },
   {
    "unit_id": "gr-ancient",
@@ -2081,6 +2081,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-19c-emerson",
+   "type": "philosopher",
+   "title": "爱默生",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-19c-thoreau",
+   "type": "philosopher",
+   "title": "梭罗",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-19c-will",
    "type": "concept",
    "title": "意志",
@@ -2447,6 +2469,17 @@
    "id": "gr-20c-gadamer",
    "type": "philosopher",
    "title": "汉斯-格奥尔格·伽达默尔",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-20c-ricoeur",
+   "type": "philosopher",
+   "title": "利科",
    "container": "gr-20c",
    "level": "L2",
    "sources": 2,
@@ -5535,6 +5568,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-nature-emerson",
+   "type": "work",
+   "title": "《自然》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-lectures-history-philosophy",
    "type": "work",
    "title": "《历史哲学讲演录》",
@@ -5549,6 +5593,17 @@
    "id": "work-fear-trembling",
    "type": "work",
    "title": "《恐惧与颤栗》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-walden",
+   "type": "work",
+   "title": "《瓦尔登湖》",
    "container": "west",
    "level": "L2",
    "sources": 2,
@@ -5719,6 +5774,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-time-narrative",
+   "type": "work",
+   "title": "《时间与叙事》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {

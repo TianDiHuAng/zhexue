@@ -2754,6 +2754,145 @@
      "note": "1960 年"
     }
    ]
+  },
+  {
+   "id": "gr-20c-ricoeur",
+   "name": "利科",
+   "latin": "Paul Ricoeur",
+   "birth_year": 1913,
+   "death_year": 2005,
+   "birth_display": "1913年",
+   "death_display": "2005年",
+   "birth_note": "生于法国瓦朗斯；据其生平材料，出身新教家庭。",
+   "death_note": "2005年卒于巴黎。",
+   "era": "20世纪后半叶的法国。利科以“解释学现象学”著称：他把文本、象征与叙事作为理解的中介，主张“文本的自主性”与“占有”（appropriation）的辩证；其《时间与叙事》以叙事解决时间经验的疑难。",
+   "school": "解释学现象学",
+   "core_questions": [
+    "文本的意义由作者意图决定吗？",
+    "叙事如何构成时间经验？",
+    "解释与批判如何共存？"
+   ],
+   "arguments": [
+    {
+     "claim": "文本的自主性：意义不再等同于作者意图",
+     "premises": [
+      "文本一旦写成，便脱离了作者与最初听众。",
+      "文本的“世界”是它投射出的一种可能的存在方式。"
+     ],
+     "inference": "若文本脱离作者而独立，则解释不是重构原意，而是展开文本所投射的世界；故“占有”是读者在文本世界中扩展自身。",
+     "conclusion": "解释是展开文本的世界并据以自我理解，而非复原作者心理。",
+     "kind": "原文"
+    },
+    {
+     "claim": "叙事构成时间经验：历史叙事与虚构叙事共同塑造“人的时间”",
+     "premises": [
+      "奥古斯丁的时间疑难（心灵延展）与亚里士多德的情节（muthos）各有其不能。",
+      "叙事把散乱的事件编排为有意义的整体。"
+     ],
+     "inference": "若时间经验须通过情节被把握，则叙事不是时间的再现，而是时间的构成；故“叙事同一性”是人格与共同体的构成方式。",
+     "conclusion": "叙事是时间经验的中介；人格同一性以叙事方式成立。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《意志哲学》《恶的象征》《时间与叙事》《 Oneself as Another 》",
+     "edition": "《恶的象征》中译参上海人民出版社；《时间与叙事》中译参三联书店",
+     "note": "1950；1960；1983—85；1990"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "胡塞尔与海德格尔",
+     "id": "gr-20c-husserl",
+     "note": "现象学方法"
+    },
+    {
+     "name": "伽达默尔与解释学",
+     "id": "gr-20c-gadamer",
+     "note": "视域融合与文本理解"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "叙事学与历史哲学",
+     "id": "",
+     "note": "情节、叙事同一性"
+    },
+    {
+     "name": "伦理学与政治哲学",
+     "id": "",
+     "note": "自我与他者的关系"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "哈贝马斯与批判理论",
+     "view": "解释学缺乏对意识形态的批判，可能与传统同谋。",
+     "response": "利科一系的回应是：解释学须与批判社会科学互补——“怀疑的解释学”与“信任的解释学”各有其职。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-ricoeur",
+      "iep-ricoeur"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "利科是伽达默尔的追随者",
+     "why": "他既受其影响，又引入结构分析与精神分析的“怀疑的解释学”，路径更宽。"
+    },
+    {
+     "claim": "他的解释学是主观主义的",
+     "why": "他强调文本的自主性与世界的投射，恰恰限制了解释的任意性。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>利科：文本自主与叙事</text><defs><marker id='aRI' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>文本脱离作者而独立</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故意义不等于作者意图</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故解释是展开文本的世界</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故叙事构成时间经验</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aRI)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aRI)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "利科：文本自主性、占有与叙事（示意图）",
+   "sources": [
+    "sep-ricoeur",
+    "iep-ricoeur"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "利科以“文本的自主性”改造解释学：文本一旦写成便脱离作者与最初听众，故解释不是复原作者心理，而是展开文本所投射的世界，并由读者“占有”以扩展自身。他又在《时间与叙事》中主张叙事不是时间的再现而是时间的构成——情节把散乱事件编排为有意义的整体，人格与共同体的同一性由此成立。",
+    "system": [
+     {
+      "name": "文本自主性",
+      "content": "意义不等于作者意图；文本投射一个世界；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "占有（appropriation）",
+      "content": "读者在文本的世界中扩展自我理解；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "叙事构成时间",
+      "content": "情节编排使时间经验成为人的时间；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "怀疑的解释学",
+      "content": "与精神分析、意识形态批判互补：既信任意义也怀疑其遮蔽。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "瓦朗斯、斯特拉斯堡与巴黎（1913—2005）",
+      "change": "新教背景；二战战俘营中读雅斯贝尔斯；历任斯特拉斯堡、南泰尔、芝加哥大学教授；2005 年卒。"
+     }
+    ],
+    "reception": "其解释学影响神学、历史学与文学理论；“叙事同一性”成为当代人格同一性讨论的重要方案；与哈贝马斯的互补论影响批判理论。"
+   },
+   "works_detail": [
+    {
+     "title": "《时间与叙事》",
+     "structure": "三卷：情节与历史叙事、虚构叙事的时间塑形、叙事的时间。",
+     "core_thesis": "叙事构成时间经验；叙事同一性。",
+     "editions": "中译参三联书店；Seuil 法文本",
+     "note": "1983—85"
+    }
+   ]
   }
  ],
  "concepts": [

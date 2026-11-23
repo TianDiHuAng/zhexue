@@ -4138,6 +4138,61 @@
    "sort_year": 1821
   },
   {
+   "id": "work-nature-emerson",
+   "title": "《自然》",
+   "title_original": "Nature",
+   "tradition": "west",
+   "date_display": "1836年",
+   "structure": "导论＋八章：自然、商品、美、语言、纪律、唯心论、精神、展望。",
+   "core_arguments": [
+    "人应“用自己的眼睛”看自然，而非依赖前人的描述",
+    "自然是精神的象征：物质世界是精神的外在化",
+    "美与语言是自然向精神上升的两级阶梯"
+   ],
+   "key_points": [
+    {
+     "locator": "导论",
+     "point": "“我们的时代是回溯的”——为何须重新直接看世界"
+    },
+    {
+     "locator": "第4章 语言",
+     "point": "自然是精神的象征（三层：语词、格言、象征）"
+    },
+    {
+     "locator": "第6章 唯心论",
+     "point": "观念先于物质"
+    },
+    {
+     "locator": "第8章 展望",
+     "point": "人作为“自然的眼睛”"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆（若有）；Harvard 版 Collected Works vol.1"
+   ],
+   "related_people": [
+    "gr-19c-emerson",
+    "gr-19c-thoreau"
+   ],
+   "misreadings": [
+    {
+     "claim": "《自然》是科学自然志",
+     "why": "它是哲学与宗教的论著，论自然是精神的象征，不是自然观察记录。"
+    },
+    {
+     "claim": "爱默生主张回到原始自然",
+     "why": "他主张以新的眼光看自然，不是退回原始状态。"
+    }
+   ],
+   "sources": [
+    "sep-emerson",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1836
+  },
+  {
    "id": "work-lectures-history-philosophy",
    "title": "《历史哲学讲演录》",
    "title_original": "Vorlesungen über die Philosophie der Geschichte",
@@ -4249,6 +4304,61 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1843
+  },
+  {
+   "id": "work-walden",
+   "title": "《瓦尔登湖》",
+   "title_original": "Walden; or, Life in the Woods",
+   "tradition": "west",
+   "date_display": "1854年",
+   "structure": "十八篇；以一年四季为结构（ Economy 、 Where I Lived 、 Reading 、 Sounds …… Spring 、 Conclusion ），首篇“经济”为全书的核算与纲领。",
+   "core_arguments": [
+    "生活的必需品只有食物、住所、衣物与燃料",
+    "多数人为工具与舒适所奴役，失去了生活本身",
+    "简朴是通达自由与清醒的条件，不是苦行"
+   ],
+   "key_points": [
+    {
+     "locator": "Economy",
+     "point": "生活必需品与“何为真正的生活”的核算"
+    },
+    {
+     "locator": "Where I Lived",
+     "point": "住所与所有权的反思"
+    },
+    {
+     "locator": "The Pond in Winter",
+     "point": "自然观察与季节循环"
+    },
+    {
+     "locator": "Conclusion",
+     "point": "“我步入丛林”的理由与“不同的鼓声”"
+    }
+   ],
+   "editions": [
+    "徐迟译《瓦尔登湖》上海译文出版社；Princeton 版 Walden"
+   ],
+   "related_people": [
+    "gr-19c-thoreau",
+    "gr-19c-emerson"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是隐居手册",
+     "why": "梭罗并非离群索居：他常回镇上、助逃亡奴隶、公开反战；独居是实验而非退隐。"
+    },
+    {
+     "claim": "它的主张是回到原始生活",
+     "why": "它要求的是削减非必要需求以看清必要，不是拒绝文明。"
+    }
+   ],
+   "sources": [
+    "sep-thoreau",
+    "sep-emerson"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1854
   },
   {
    "id": "work-on-liberty",
@@ -5103,6 +5213,62 @@
    "needs_verification": true,
    "pending_notes": "中译本页码与原文措辞未逐一核对（张伯伦论证的具体数字为通行例示）；论述依 IEP 诺齐克词条与罗尔斯研究对照。",
    "sort_year": 1974
+  },
+  {
+   "id": "work-time-narrative",
+   "title": "《时间与叙事》",
+   "title_original": "Temps et récit",
+   "tradition": "west",
+   "date_display": "1983—1985年",
+   "structure": "三卷：卷一论情节与历史叙事（奥古斯丁的时间疑难与亚里士多德的情节），卷二论虚构叙事的时间塑形，卷三论叙事的时间（历史与虚构的交织）。",
+   "core_arguments": [
+    "奥古斯丁的时间疑难（心灵延展）与亚里士多德的情节概念须互补",
+    "叙事以“情节化”（mise en intrigue）把散乱事件编排为整体",
+    "历史叙事与虚构叙事共同构成“人的时间”，故叙事不是再现而是构成"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 第一部分",
+     "point": "奥古斯丁《忏悔录》卷十一的时间疑难"
+    },
+    {
+     "locator": "卷一 第二部分",
+     "point": "亚里士多德《诗学》的情节（muthos）"
+    },
+    {
+     "locator": "卷二",
+     "point": "虚构叙事的时间塑形"
+    },
+    {
+     "locator": "卷三",
+     "point": "历史与虚构的交织、叙事同一性"
+    }
+   ],
+   "editions": [
+    "中译参三联书店（若有）；Seuil 法文本"
+   ],
+   "related_people": [
+    "gr-20c-ricoeur",
+    "gr-20c-gadamer",
+    "gr-medieval-augustine"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是一部叙事学技术手册",
+     "why": "它是哲学著作：论叙事如何构成时间经验与人格同一性。"
+    },
+    {
+     "claim": "利科认为历史与虚构无别",
+     "why": "他主张二者“交织”而非等同：历史受档案约束，虚构则展开可能世界。"
+    }
+   ],
+   "sources": [
+    "sep-ricoeur",
+    "iep-ricoeur"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1983
   }
  ]
 }
