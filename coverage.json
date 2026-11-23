@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 940,
+  "entries": 946,
   "by_level": {
-   "L2": 744,
-   "L1": 196
+   "L2": 745,
+   "L1": 201
   },
   "doctrine": {
    "total": 237,
    "detail": 237,
    "auto": 0
   },
-  "needs_verification": 196,
+  "needs_verification": 201,
   "sources": 374,
   "sources_verified": 374
  },
@@ -57,7 +57,7 @@
    "title": "魏晋玄学",
    "region": "china",
    "philosophers": 13,
-   "concepts": 18,
+   "concepts": 20,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -5"
   },
@@ -2458,6 +2458,28 @@
    "id": "cn-weijin-sheng-wu-aile",
    "type": "concept",
    "title": "声无哀乐",
+   "container": "cn-weijin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-geyi",
+   "type": "concept",
+   "title": "格义",
+   "container": "cn-weijin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-xingjin-shenmie",
+   "type": "concept",
+   "title": "形尽神灭之辩",
    "container": "cn-weijin",
    "level": "L1",
    "sources": 3,
@@ -8109,6 +8131,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-shenjian",
+   "type": "work",
+   "title": "《申鉴》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-zhonglun-xugan",
    "type": "work",
    "title": "《中论》（徐幹）",
@@ -8314,6 +8347,17 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-zhongshuo",
+   "type": "work",
+   "title": "《中说》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -8645,6 +8689,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-fenshu",
+   "type": "work",
+   "title": "《焚书》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -9525,6 +9580,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-renxue",
+   "type": "work",
+   "title": "《仁学》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {

@@ -4706,6 +4706,63 @@
    "sort_year": 175
   },
   {
+   "id": "work-shenjian",
+   "title": "《申鉴》",
+   "title_original": "申鑒",
+   "tradition": "china",
+   "date_display": "约200年（荀悦）",
+   "structure": "五卷：政体、时事、俗嫌、杂言上、杂言下。每卷由若干短论组成，体例近于《荀子》的札记而更简。",
+   "core_arguments": [
+    "“性三品”：性有善、恶、无善恶（中之性），故教化有其界限与可能",
+    "“法教并行”：法与教相辅，不可偏废",
+    "对“俗嫌”（世俗忌讳）的批评：以理性辨正忌讳之说"
+   ],
+   "key_points": [
+    {
+     "locator": "《政体》",
+     "point": "法与教的关系"
+    },
+    {
+     "locator": "《时事》",
+     "point": "对当时政事的议论"
+    },
+    {
+     "locator": "《俗嫌》",
+     "point": "对世俗忌讳的辨正"
+    },
+    {
+     "locator": "《杂言下》",
+     "point": "性三品与教化"
+    }
+   ],
+   "editions": [
+    "《申鉴》（四部丛刊本）；中华书局《申鉴注校补》（若有）"
+   ],
+   "related_people": [
+    "cn-lianghan-xun-yue",
+    "cn-lianghan-wang-chong",
+    "cn-lianghan-dong-zhongshu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《申鉴》是政论集，无哲学",
+     "why": "其“性三品”说是汉魏人性论的关键环节（上承董仲舒、下启韩愈），属明确的哲学主张。"
+    },
+    {
+     "claim": "荀悦与荀子同宗，思想亦同",
+     "why": "荀悦是东汉末人（荀淑之孙），其学兼采儒法、重“法教并行”，与荀子的性恶论不同。"
+    }
+   ],
+   "sources": [
+    "ws-shenjian",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 200
+  },
+  {
    "id": "work-zhonglun-xugan",
    "title": "《中论》（徐幹）",
    "title_original": "中論",
@@ -5778,6 +5835,63 @@
    "needs_verification": true,
    "pending_notes": "《摩诃止观》由弟子灌顶据智顗讲说记录整理，卷数有十卷／二十卷之说，各本分卷与文字有出入；本页依通行本结构概述。",
    "sort_year": 594
+  },
+  {
+   "id": "work-zhongshuo",
+   "title": "《中说》",
+   "title_original": "中說（文中子）",
+   "tradition": "china",
+   "date_display": "隋（王通，584—617）；今本经后人整理",
+   "structure": "十卷：王道、天地、事君、周公、问易、礼乐、述史、魏相、立命、关朗；仿《论语》的语录体。",
+   "core_arguments": [
+    "“三教可一”：以儒为主而容纳佛道（“三教于是乎可一矣”）",
+    "以“中”为道统的核心：“中”是不偏的常道",
+    "续《诗》《书》、正《礼》《乐》：以“续经”自任"
+   ],
+   "key_points": [
+    {
+     "locator": "《王道篇》",
+     "point": "王道与三教可一"
+    },
+    {
+     "locator": "《天地篇》",
+     "point": "“中”的界定"
+    },
+    {
+     "locator": "《述史篇》",
+     "point": "对史法的议论"
+    },
+    {
+     "locator": "《立命篇》",
+     "point": "命与性的关系"
+    }
+   ],
+   "editions": [
+    "张沛《中说校注》中华书局；《文中子中说》（四部丛刊本）"
+   ],
+   "related_people": [
+    "cn-suitang-wang-tong",
+    "cn-suitang-han-yu",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《中说》是王通亲笔",
+     "why": "它是门人仿《论语》体记录的语录（其子王福畤等整理），今本又经后人增饰，故非亲笔。"
+    },
+    {
+     "claim": "“三教可一”是主张三教平等",
+     "why": "其立场是**以儒为主而容纳**佛道，不是三教并列；王通仍以“周孔之道”为纲。"
+    }
+   ],
+   "sources": [
+    "ws-zhongshuo",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《中说》的成书与增饰情况（王通门人记录／其子整理／后人增饰）学界有讨论；其“续经”之作（《元经》《续诗》等）多已亡佚或真伪可疑。",
+   "sort_year": 610
   },
   {
    "id": "work-chengweishi",
@@ -7454,6 +7568,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1580
+  },
+  {
+   "id": "work-fenshu",
+   "title": "《焚书》",
+   "title_original": "焚書",
+   "tradition": "china",
+   "date_display": "1590年（李贽）；后遭禁毁",
+   "structure": "六卷；含书答、杂述、读史短文与诗，以书信与短论为主，锋芒指向道学与假道学。",
+   "core_arguments": [
+    "“童心说”：以“童心”（最初一念之本心）为真，以“道理闻见”的遮蔽为假",
+    "“穿衣吃饭即是人伦物理”：反对离日用而言理",
+    "以“是非”的相对性批评“以孔子之是非为是非”"
+   ],
+   "key_points": [
+    {
+     "locator": "《童心说》",
+     "point": "童心与闻见之蔽"
+    },
+    {
+     "locator": "《答邓石阳》",
+     "point": "“穿衣吃饭即是人伦物理”"
+    },
+    {
+     "locator": "《藏书》相关短论",
+     "point": "对历史人物的翻案评断"
+    },
+    {
+     "locator": "书答诸篇",
+     "point": "对假道学的批评"
+    }
+   ],
+   "editions": [
+    "中华书局《焚书·续焚书》；《李贽文集》"
+   ],
+   "related_people": [
+    "cn-songming-li-zhi",
+    "cn-songming-wang-gen",
+    "cn-songming-wang-yangming"
+   ],
+   "misreadings": [
+    {
+     "claim": "李贽主张“穿衣吃饭”就是全部伦理",
+     "why": "他以日用为伦理的**实地**，反对离日用而空言天理；但他并未取消伦理的判断（《童心说》仍有真伪之别）。"
+    },
+    {
+     "claim": "《焚书》是因被焚而得名",
+     "why": "书名出自其自述“所言颇切近世学者膏肓……故焚之”——是**自焚其稿**之意，后书仍刊行并被官方禁毁。"
+    }
+   ],
+   "sources": [
+    "ws-fenshu",
+    "ws-mingru-xuean",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《焚书》在明清两代多次遭禁毁，今本的篇目与文字有版本差异（初刻、重刻与后世辑本）；本页依中华书局本与明末思想研究概述。",
+   "sort_year": 1590
   },
   {
    "id": "work-advancement-learning",
@@ -11953,6 +12124,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1887
+  },
+  {
+   "id": "work-renxue",
+   "title": "《仁学》",
+   "title_original": "仁學",
+   "tradition": "china",
+   "date_display": "1896—1897年（谭嗣同）；1899年刊行于《清议报》",
+   "structure": "二卷五十篇；以“以太”“仁”“通”为核心概念，融合佛学、西学与儒学，末以“冲决网罗”为号召。",
+   "core_arguments": [
+    "“仁以通为第一义”：通（中外、上下、男女、人我之通）即仁的实现",
+    "以“以太”为宇宙的介质（借西学物理的概念，近于“气”）",
+    "“冲决网罗”：冲决名教、君主与家族的束缚"
+   ],
+   "key_points": [
+    {
+     "locator": "《仁学》自序",
+     "point": "“冲决网罗”的宣言"
+    },
+    {
+     "locator": "卷上",
+     "point": "以太、仁、通"
+    },
+    {
+     "locator": "卷下",
+     "point": "对君主与名教的批判"
+    },
+    {
+     "locator": "卷下",
+     "point": "对“三纲”的批评"
+    }
+   ],
+   "editions": [
+    "中华书局《谭嗣同全集》；《仁学》单行本"
+   ],
+   "related_people": [
+    "cn-qingmod-tan-sitong",
+    "cn-qingmod-kang-youwei",
+    "cn-songming-wang-yangming"
+   ],
+   "misreadings": [
+    {
+     "claim": "《仁学》是一部佛学著作",
+     "why": "它以佛学为重要的思想资源（尤其唯识与华严），但同时大量使用西学（以太、平等、民权）与儒学概念，是**杂糅的构造**，不属任何一家。"
+    },
+    {
+     "claim": "“以太”就是物理学的以太",
+     "why": "他借用以太之名，但赋予它“仁”“心力”的意义，故其以太是**哲学性的**概念，不待物理学的证实或否证。"
+    }
+   ],
+   "sources": [
+    "ws-renxue",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《仁学》的成书（1896—97 稿本）与刊行（1899《清议报》）过程、以及各本的文字差异须核中华书局《谭嗣同全集》；其“以太”与西学的关系是研究焦点。",
+   "sort_year": 1897
   },
   {
    "id": "work-logical-investigations",
