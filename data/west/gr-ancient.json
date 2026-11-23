@@ -3402,6 +3402,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“无蔽”的重释涉及词源论证的有效性：字源义不等于使用义，海德格尔是否犯“词源谬误”是学界长期争论点；本页并列而不裁定。"
+  },
+  {
+   "id": "gr-ancient-phronesis",
+   "term": "实践智慧",
+   "term_latin": "phronēsis（practical wisdom）",
+   "definition": "亚里士多德的德性之一：在具体情境中判断“对我而言何为善、如何行动”的能力。它不是科学的知识（epistēmē，关涉必然），也不是技艺（technē，关涉制作），而是关涉行动的判断力。",
+   "usages": [
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "usage": "phronēsis 确定“中道”的具体位置，故德性离之则盲。"
+    },
+    {
+     "name": "苏格拉底（对照）",
+     "id": "gr-ancient-socrates",
+     "usage": "以德性即知识：把实践问题还原为认识问题，故不需独立的判断力。"
+    },
+    {
+     "name": "柏拉图（对照）",
+     "id": "gr-ancient-plato",
+     "usage": "以对理念的知识为最高，实践判断处于较低层次。"
+    }
+   ],
+   "related": [
+    "gr-ancient-meson",
+    "gr-ancient-arete"
+   ],
+   "example": {
+    "text": "亚里士多德说 phronēsis 不可教（不像技艺可传授规则）：它须由经验积累，且其判断不可被规则穷尽——故他称其为“另一种眼睛”。这一点使其实践哲学与规则伦理学（如康德的义务论）形成对照。",
+    "figure": "亚里士多德",
+    "locator": "《尼各马可伦理学》VI.5、VI.11"
+   },
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

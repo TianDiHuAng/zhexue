@@ -2076,6 +2076,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-german-unhappy-consciousness",
+   "term": "苦恼意识",
+   "term_latin": "das unglückliche Bewusstsein",
+   "definition": "黑格尔《精神现象学》的形态之一：意识在自身之内分裂为“变化的我”与“不变的彼岸”，并试图在二者之间建立统一而未果。其典型是宗教意识中的虔敬与近代的“哀怨”。",
+   "usages": [
+    {
+     "name": "黑格尔",
+     "id": "gr-german-hegel",
+     "usage": "苦恼意识是自我意识的一个阶段，其扬弃在理性与精神的更高形态中。"
+    },
+    {
+     "name": "帕斯卡（对照）",
+     "usage": "以“人的悲惨”与“神的恩典”的对峙说明类似结构（黑格尔曾论及）。"
+    },
+    {
+     "name": "克尔凯郭尔（平行）",
+     "usage": "以“信仰的跳跃”回应同一分裂，但拒绝黑格尔的“扬弃”。"
+    }
+   ],
+   "related": [
+    "gr-german-absolute-spirit",
+    "gr-german-dialectic"
+   ],
+   "example": {
+    "text": "“苦恼意识”之所以是“苦恼”的，不是因为它在彼岸找不到神，而是因为**它把自己放在了彼岸**：分裂由它自己设定，故其痛苦是自我造成的——这正是黑格尔式辩证的要害。",
+    "figure": "黑格尔",
+    "locator": "《精神现象学》第四章 B"
+   },
+   "sources": [
+    "sep-hegel",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

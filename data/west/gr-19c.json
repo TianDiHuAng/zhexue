@@ -2925,6 +2925,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-19c-resentment",
+   "term": "怨恨",
+   "term_latin": "Ressentiment",
+   "definition": "尼采（承克尔凯郭尔的用法并改造）的谱系学概念：弱者对被强者的压抑性反应——它不是主动的恨，而是把无力复仇转化为价值判断（“他们的强大是恶的”）。",
+   "usages": [
+    {
+     "name": "尼采",
+     "id": "gr-19c-nietzsche",
+     "usage": "以怨恨解释“奴隶道德”的起源：善与恶的区分是价值的反转。"
+    },
+    {
+     "name": "克尔凯郭尔（原用法）",
+     "id": "gr-19c-kierkegaard",
+     "usage": "以“怨恨”指对卓越者的隐秘敌意（《现时代的批判》）。"
+    },
+    {
+     "name": "舍勒（改造，对照）",
+     "usage": "以“怨恨”作社会学分析：它源于无力与比较（《道德建构中的怨恨》）。"
+    }
+   ],
+   "related": [
+    "gr-19c-herd",
+    "gr-19c-nihilism"
+   ],
+   "example": {
+    "text": "怨恨的关键机制是**延迟**：它不是立刻的报复，而是把无法报复的处境转化为一套“价值”，从而使无力变成美德。故尼采说它是“道德中的奴隶起义”。",
+    "figure": "尼采",
+    "locator": "《论道德的谱系》第一篇 §10"
+   },
+   "sources": [
+    "sep-nietzsche",
+    "iep-nietzsche"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

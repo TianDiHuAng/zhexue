@@ -3630,6 +3630,45 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-songming-wangba-yili",
+   "term": "王霸义利之辨",
+   "term_latin": "the debate on kingship, hegemony, righteousness and profit",
+   "definition": "陈亮与朱熹往复论辩的核心：三代之治是否唯一标准？汉唐之功业是否合道？义与利是否截然对立？陈亮主“义利双行、王霸并用”，朱熹主以三代为唯一尺度。",
+   "usages": [
+    {
+     "name": "陈亮",
+     "id": "cn-songming-chen-liang",
+     "usage": "“道在事中”：汉唐之君顺天应人，其功业亦是道之所在。"
+    },
+    {
+     "name": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "usage": "“三代专以天理行，汉唐专以人欲行”：汉唐之功业出于利心，不得称有道。"
+    },
+    {
+     "name": "叶适（同调）",
+     "id": "cn-songming-ye-shi",
+     "usage": "以“道在物中”与事功之学呼应陈亮。"
+    }
+   ],
+   "related": [
+    "cn-songming-li-qi",
+    "cn-songming-tianli-renyu"
+   ],
+   "example": {
+    "text": "争论的要害在“评判尺度”：朱熹以**动机**（是否出于天理）为尺度，故汉唐无功；陈亮以**功效**（是否成天下之公利）为尺度，故汉唐有道。二者不是对同一标准的取值不同，而是尺度本身不同。",
+    "figure": "陈亮",
+    "locator": "《龙川文集》卷二十《与朱元晦书》"
+   },
+   "sources": [
+    "ws-longchuanji",
+    "ws-xiangshan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

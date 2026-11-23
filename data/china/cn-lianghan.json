@@ -2976,6 +2976,81 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-fafen-zhi",
+   "term": "发愤著书",
+   "term_latin": "writing out of indignation",
+   "definition": "司马迁在《报任安书》中提出的著述动机说：古来著述者多因处境困厄而发愤（文王拘而演《周易》、仲尼厄而作《春秋》等），故著述是对困厄的升华而非闲暇的产物。",
+   "usages": [
+    {
+     "name": "司马迁",
+     "id": "cn-lianghan-sima-qian",
+     "usage": "“此人皆意有所郁结，不得通其道，故述往事、思来者。”"
+    },
+    {
+     "name": "孔子",
+     "usage": "以“述而不作”为自处，与“发愤著书”的动机说形成对照。"
+    },
+    {
+     "name": "韩愈（后出，承其说）",
+     "usage": "以“不平则鸣”承之：文章多出于不得其平。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-weiyandayi",
+    "cn-lianghan-tianren"
+   ],
+   "example": {
+    "text": "“发愤著书”说的关键在“郁结”二字：不是苦难本身产生文章，而是**不得通其道**的阻塞产生著述的动力——故它是一个关于“表达受阻”的理论，而非“苦难崇拜”。",
+    "figure": "司马迁",
+    "locator": "《报任安书》"
+   },
+   "sources": [
+    "ws-hanshu",
+    "ws-shiji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-tianren-sance",
+   "term": "天人三策",
+   "term_latin": "the Three Answers on Heaven and Humanity",
+   "definition": "董仲舒应答汉武帝策问的三篇对策（载《汉书·董仲舒传》）：第一策论天人相与与教化，第二策论礼乐与更化，第三策论“大一统”与“诸不在六艺之科者皆绝其道”。",
+   "usages": [
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以“天人相与之际”论灾异谴告，以“更化”论制度改革。"
+    },
+    {
+     "name": "汉武帝（策问者）",
+     "usage": "以“三代受命，其符安在？灾异之变，何缘而起？”发问。"
+    },
+    {
+     "name": "班固（记录者）",
+     "id": "cn-lianghan-ban-gu",
+     "usage": "《汉书》本传所载为今本的主要来源。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-tianren",
+    "cn-lianghan-genghua"
+   ],
+   "example": {
+    "text": "三策的第三策最著名：“诸不在六艺之科孔子之术者，皆绝其道，勿使并进”——注意其对象是**选官与教化**（博士、太学），不是全面禁书；后世概括为“罢黜百家”，范围被放大。",
+    "figure": "董仲舒",
+    "locator": "《汉书·董仲舒传》"
+   },
+   "sources": [
+    "ws-hanshu",
+    "ct-chunqiufanlu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

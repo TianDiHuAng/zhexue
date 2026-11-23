@@ -2095,6 +2095,63 @@
    "sort_year": -139
   },
   {
+   "id": "work-tianren-sance",
+   "title": "《天人三策》",
+   "title_original": "天人三策",
+   "tradition": "china",
+   "date_display": "前134年（元光元年；一说建元元年）",
+   "structure": "三篇对策：第一策论天人相与、命与性、教化；第二策论礼乐、更化与官吏选拔；第三策论“大一统”与学术统一。",
+   "core_arguments": [
+    "“天人相与之际”：灾异为天之所以谴告，故人君当畏天",
+    "“更化”：汉承秦弊，须解弦更张、变而更化",
+    "“大一统”：以六艺之科统一选官与教化"
+   ],
+   "key_points": [
+    {
+     "locator": "第一策",
+     "point": "天人相与与灾异谴告"
+    },
+    {
+     "locator": "第二策",
+     "point": "更化与兴太学、置明师"
+    },
+    {
+     "locator": "第三策",
+     "point": "大一统与“诸不在六艺之科者皆绝其道”"
+    },
+    {
+     "locator": "第一策",
+     "point": "性三品与教化的界限（“中民之性”）"
+    }
+   ],
+   "editions": [
+    "《汉书·董仲舒传》（四部丛刊本）；中华书局点校本；《春秋繁露义证》可参"
+   ],
+   "related_people": [
+    "cn-lianghan-dong-zhongshu",
+    "cn-lianghan-ban-gu",
+    "cn-lianghan-wang-chong"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张全面禁绝百家之书",
+     "why": "其对象是**选官与教化**（博士、太学）——“绝其道，勿使并进”指不以之为仕进之途，不是焚禁其书。"
+    },
+    {
+     "claim": "“罢黜百家”出自原文",
+     "why": "该语是班固在《汉书·武帝纪赞》中的概括，非三策原文。"
+    }
+   ],
+   "sources": [
+    "ws-hanshu",
+    "ct-chunqiufanlu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三策的年代（建元元年／元光元年）与《汉书》所录的文字（有后人润饰之疑）学界有讨论；本页依《汉书》本传所录。",
+   "sort_year": -134
+  },
+  {
    "id": "work-liujia-yaozhi",
    "title": "《论六家要旨》",
    "title_original": "論六家要旨",
@@ -2261,6 +2318,62 @@
    "needs_verification": true,
    "pending_notes": "《礼运》大同章的思想来源（儒家／道家／墨家）学界长期争论；《礼记》各篇年代不一，非一时之作。",
    "sort_year": -100
+  },
+  {
+   "id": "work-bao-ren-an",
+   "title": "《报任安书》",
+   "title_original": "報任安書",
+   "tradition": "china",
+   "date_display": "约前93年（一说前91年）",
+   "structure": "一篇书信；先陈己之受刑与处境，次述著史之志与“发愤著书”之论，末以“要之死日，然后是非乃定”收束。",
+   "core_arguments": [
+    "“究天人之际，通古今之变，成一家之言”：著史的纲领",
+    "“发愤著书”：古来著述多出于困厄（文王、仲尼、屈原、左丘明、孙子、韩非等）",
+    "“人固有一死，或重于泰山，或轻于鸿毛”：以著述立于不死"
+   ],
+   "key_points": [
+    {
+     "locator": "前段",
+     "point": "李陵之祸与受刑的处境"
+    },
+    {
+     "locator": "中段",
+     "point": "“究天人之际，通古今之变”"
+    },
+    {
+     "locator": "中段",
+     "point": "发愤著书的谱系"
+    },
+    {
+     "locator": "末段",
+     "point": "“是非乃定”与著述之志"
+    }
+   ],
+   "editions": [
+    "《汉书·司马迁传》所录（四部丛刊本《漢書》）；中华书局点校本《汉书》"
+   ],
+   "related_people": [
+    "cn-lianghan-sima-qian",
+    "cn-lianghan-ban-gu",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "“发愤著书”是说苦难必然产生伟大作品",
+     "why": "原文的机制是“意有所郁结，不得通其道”——动力来自**表达受阻**，不是苦难本身。"
+    },
+    {
+     "claim": "它只是自辩之辞",
+     "why": "它有自辩的成分，但同时提出了系统的著史纲领与著述动机论。"
+    }
+   ],
+   "sources": [
+    "ws-hanshu",
+    "ws-shiji"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《报任安书》今存于《汉书·司马迁传》（《史记》不载），其年代（前93／前91）与个别文字的读法有讨论；本页依《汉书》所录。",
+   "sort_year": -93
   },
   {
    "id": "work-dererum-natura",

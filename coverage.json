@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 820,
+  "entries": 828,
   "by_level": {
-   "L2": 674,
-   "L1": 146
+   "L2": 680,
+   "L1": 148
   },
   "doctrine": {
    "total": 229,
    "detail": 229,
    "auto": 0
   },
-  "needs_verification": 146,
+  "needs_verification": 148,
   "sources": 355,
   "sources_verified": 355
  },
@@ -21,7 +21,7 @@
    "title": "两汉经学与气论",
    "region": "china",
    "philosophers": 16,
-   "concepts": 16,
+   "concepts": 18,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -8"
   },
@@ -39,7 +39,7 @@
    "title": "宋明理学与心学",
    "region": "china",
    "philosophers": 20,
-   "concepts": 15,
+   "concepts": 16,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -12"
   },
@@ -75,7 +75,7 @@
    "title": "19世纪哲学",
    "region": "west",
    "philosophers": 16,
-   "concepts": 16,
+   "concepts": 17,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -8"
   },
@@ -93,7 +93,7 @@
    "title": "古希腊哲学",
    "region": "west",
    "philosophers": 19,
-   "concepts": 16,
+   "concepts": 17,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -111,7 +111,7 @@
    "title": "德国古典哲学",
    "region": "west",
    "philosophers": 9,
-   "concepts": 17,
+   "concepts": 18,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -1"
   },
@@ -489,6 +489,28 @@
    "id": "cn-lianghan-suwang",
    "type": "concept",
    "title": "素王",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-fafen-zhi",
+   "type": "concept",
+   "title": "发愤著书",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-tianren-sance",
+   "type": "concept",
+   "title": "天人三策",
    "container": "cn-lianghan",
    "level": "L2",
    "sources": 3,
@@ -1391,6 +1413,17 @@
    "id": "cn-songming-xin-tong-xingqing",
    "type": "concept",
    "title": "心统性情",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-wangba-yili",
+   "type": "concept",
+   "title": "王霸义利之辨",
    "container": "cn-songming",
    "level": "L2",
    "sources": 3,
@@ -2994,6 +3027,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-19c-resentment",
+   "type": "concept",
+   "title": "怨恨",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-19c-free-will",
    "type": "debate",
    "title": "自由意志与决定论是否相容",
@@ -3984,6 +4028,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-ancient-phronesis",
+   "type": "concept",
+   "title": "实践智慧",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-ancient-flux-vs-being",
    "type": "debate",
    "title": "流变还是不变：赫拉克利特与巴门尼德",
@@ -4728,6 +4783,17 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-german-unhappy-consciousness",
+   "type": "concept",
+   "title": "苦恼意识",
+   "container": "gr-german",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -6767,6 +6833,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-tianren-sance",
+   "type": "work",
+   "title": "《天人三策》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-liujia-yaozhi",
    "type": "work",
    "title": "《论六家要旨》",
@@ -6792,6 +6869,17 @@
    "id": "work-liji",
    "type": "work",
    "title": "《礼记》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-bao-ren-an",
+   "type": "work",
+   "title": "《报任安书》",
    "container": "china",
    "level": "L1",
    "sources": 2,
