@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 458,
+  "entries": 466,
   "by_level": {
-   "L2": 393,
-   "L1": 65
+   "L2": 397,
+   "L1": 69
   },
   "doctrine": {
-   "total": 151,
-   "detail": 151,
+   "total": 159,
+   "detail": 159,
    "auto": 0
   },
-  "needs_verification": 65,
-  "sources": 249,
-  "sources_verified": 245
+  "needs_verification": 69,
+  "sources": 276,
+  "sources_verified": 272
  },
  "units": [
   {
@@ -92,10 +92,10 @@
    "unit_id": "gr-ancient",
    "title": "古希腊哲学",
    "region": "west",
-   "philosophers": 12,
+   "philosophers": 18,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -4"
+   "philosophers_slot": "8 上限，余 -10"
   },
   {
    "unit_id": "gr-contemp",
@@ -119,10 +119,10 @@
    "unit_id": "gr-hellenistic",
    "title": "希腊化与罗马哲学",
    "region": "west",
-   "philosophers": 12,
+   "philosophers": 14,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -4"
+   "philosophers_slot": "8 上限，余 -6"
   },
   {
    "unit_id": "gr-medieval",
@@ -2356,6 +2356,72 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-ancient-anaximenes",
+   "type": "philosopher",
+   "title": "阿那克西美尼",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-ancient-empedocles",
+   "type": "philosopher",
+   "title": "恩培多克勒",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-ancient-anaxagoras",
+   "type": "philosopher",
+   "title": "阿那克萨戈拉",
+   "container": "gr-ancient",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-ancient-gorgias",
+   "type": "philosopher",
+   "title": "高尔吉亚",
+   "container": "gr-ancient",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-ancient-leucippus",
+   "type": "philosopher",
+   "title": "留基伯",
+   "container": "gr-ancient",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-ancient-diogenes-sinope",
+   "type": "philosopher",
+   "title": "第欧根尼（西诺佩的）",
+   "container": "gr-ancient",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-ancient-arche",
    "type": "concept",
    "title": "本原",
@@ -3111,6 +3177,28 @@
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-hellenistic-chrysippus",
+   "type": "philosopher",
+   "title": "克律西波",
+   "container": "gr-hellenistic",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-hellenistic-proclus",
+   "type": "philosopher",
+   "title": "普罗克洛",
+   "container": "gr-hellenistic",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": false,
    "updated": "2026-11-23"
   },

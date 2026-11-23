@@ -1867,6 +1867,823 @@
      "note": "全部为转述，须谨慎归属"
     }
    ]
+  },
+  {
+   "id": "gr-ancient-anaximenes",
+   "name": "阿那克西美尼",
+   "latin": "Anaximenes of Miletus",
+   "birth_year": -585,
+   "death_year": -528,
+   "birth_display": "约前585年",
+   "death_display": "约前528年",
+   "birth_note": "生卒为推定；据第欧根尼·拉尔修，为阿那克西曼德的学生。",
+   "death_note": "同上；具体卒年不可考。",
+   "era": "公元前6世纪后半叶。阿那克西美尼是米利都学派第三代，以“气”为本原，用稀散与凝聚说明万物生成，把本原问题从“是什么”推进到“如何生成”，是早期希腊哲学中第一个给出定量化机制的方案。",
+   "school": "米利都学派",
+   "core_questions": [
+    "万物的本原是什么？",
+    "本原如何生成万物？",
+    "灵魂与气息的关系是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "气是本原，稀散与凝聚生成万物",
+     "premises": [
+      "气在稀散时成为火，在凝聚时成为水、土、石。",
+      "观察可见气息（pneuma）与生命、呼吸相联。"
+     ],
+     "inference": "若同一本原能通过稀散与凝聚生成不同的物，则不必假设多个本原；气兼具流动性与可凝聚性，正好满足这一要求。",
+     "conclusion": "气是万物的本原，其形态变化由稀散与凝聚的度量决定。",
+     "kind": "原文"
+    },
+    {
+     "claim": "灵魂是气息，故万物亦有某种“生气”",
+     "premises": [
+      "人的生命依赖呼吸，气息离去则死。",
+      "气遍在于宇宙。"
+     ],
+     "inference": "若灵魂即气息而气息遍在，则宇宙本身具有某种生命性，万物分有之。",
+     "conclusion": "灵魂是气，宇宙是有生命的整体。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论自然》（残篇）",
+     "edition": "DK 13 B；英译参 Kirk-Raven-Schofield《前苏格拉底哲学家》",
+     "note": "仅存数条残篇与转述"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "阿那克西曼德",
+     "id": "gr-ancient-anaximander",
+     "note": "其师，以“无定”为本原"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "阿那克萨戈拉与原子论",
+     "id": "gr-ancient-anaxagoras",
+     "note": "把“稀散凝聚”的机制推进为“分离与组合”"
+    },
+    {
+     "name": "斯多亚派的 pneuma",
+     "id": null,
+     "note": "气息作为贯通宇宙的能动原理"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "亚里士多德",
+     "view": "以气为本原仍属物质因，不能说明运动的最初来源；且气本身有确定性，难以解释对立物的生成。",
+     "response": "阿那克西美尼一系的回应可重构为：稀散与凝聚本身就是运动原理，故不必另设动力因。",
+     "kind": "后人解读",
+     "sources": [
+      "iep-anaximenes",
+      "book-guthrie-greek"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "阿那克西美尼认为气是近代意义上的气体",
+     "why": "他用的是“气息／雾气”的直观，兼具生命与运动之义，不是化学气体。"
+    },
+    {
+     "claim": "他的学说比阿那克西曼德退步",
+     "why": "以有定性的气取代“无定”看似退步，但换来了可操作的生成机制，是方法论上的推进。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>阿那克西美尼：气与稀散凝聚</text><defs><marker id='aAXM' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>气稀散为火</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>气凝聚为水、土、石</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故一气可生万物</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故灵魂即气息，宇宙有生气</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aAXM)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aAXM)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为残篇与转述，图示为重构</text></svg>",
+   "svg_caption": "阿那克西美尼：稀散与凝聚的生成机制（示意图）",
+   "sources": [
+    "iep-anaximenes",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "阿那克西美尼以“气”为本原，并用稀散与凝聚解释万物生成：气稀散则成火，凝聚则成水、土、石。这一方案的意义不在选择哪一种元素，而在给出了**可操作的生成机制**——同一本原通过量的变化产生不同的物。他又以气息解释灵魂，主张宇宙具有某种生命性。",
+    "system": [
+     {
+      "name": "气为本原",
+      "content": "气兼具流动性与可凝聚性，故能生成万物而不被对立物吞没。"
+     },
+     {
+      "name": "稀散与凝聚",
+      "content": "量的变化（稀／浓）产生不同的质，是早期希腊最早的机制化解释。"
+     },
+     {
+      "name": "气息与灵魂",
+      "content": "灵魂即气息；气息遍在，故宇宙有生命性；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "米利都（约前585—前528）",
+      "change": "阿那克西曼德的学生；活动于米利都，该城在前494年被波斯攻陷。"
+     }
+    ],
+    "reception": "其机制化思路被阿那克萨戈拉的“分离”与原子论的“组合”继承；斯多亚的 pneuma 概念可溯至此；亚里士多德《形而上学》A卷将其列为物质因的第三例。"
+   },
+   "works_detail": [
+    {
+     "title": "《论自然》（残篇）",
+     "structure": "仅存数条残篇（DK 13）与后世转述。",
+     "core_thesis": "气为本原；稀散凝聚；这是该书的核心命题。",
+     "editions": "DK 13；Kirk-Raven-Schofield",
+     "note": "残篇极少，多依转述"
+    }
+   ]
+  },
+  {
+   "id": "gr-ancient-empedocles",
+   "name": "恩培多克勒",
+   "latin": "Empedocles",
+   "birth_year": -494,
+   "death_year": -434,
+   "birth_display": "约前494年",
+   "death_display": "约前434年",
+   "birth_note": "生卒为推定；据第欧根尼·拉尔修与苏达辞书，出身西西里阿克拉加斯贵族。",
+   "death_note": "同上；传说他跳入埃特纳火山，属逸事，不可据。",
+   "era": "公元前5世纪。恩培多克勒以四根（火、气、水、土）与两力（爱、争）解释宇宙，是第一位系统提出多元本原与循环宇宙论的哲学家；他以诗体写作，兼有宗教净化与自然哲学两面。",
+   "school": "多元论（四根说）",
+   "core_questions": [
+    "万物由什么构成？",
+    "生成与消亡是真实的吗？",
+    "推动元素结合与分离的力量是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "四根：万物由火、气、水、土混合而成",
+     "premises": [
+      "任何生成都不从无而来，也不归于无。",
+      "可观察的物可分解为四种基本性质（热、冷、湿、干）的载体。"
+     ],
+     "inference": "若生成不是从无到有，则所谓生灭只能是四根的混合与分离；故四根是常住的本原。",
+     "conclusion": "万物由四根按不同比例混合而成，生灭是混合与分离。",
+     "kind": "原文"
+    },
+    {
+     "claim": "爱使四根结合，争使之分离",
+     "premises": [
+      "四根自身被动，需要动力才能结合或分离。",
+      "宇宙呈现结合与分离的交替（球体时期与分离时期）。"
+     ],
+     "inference": "若四根被动而宇宙有结合与分离的循环，则须有两种相反的力；恩培多克勒名之为爱与争。",
+     "conclusion": "爱与争是宇宙的两大动力，宇宙史是其交替的循环。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论自然》《净化篇》（残篇）",
+     "edition": "DK 31 B；英译参 Kirk-Raven-Schofield；Loeb 版（Lamb）",
+     "note": "诗体；《论自然》论四根，《净化篇》论灵魂与轮回"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "巴门尼德",
+     "id": "gr-ancient-parmenides",
+     "note": "“无物能从无来”的前提"
+    },
+    {
+     "name": "毕达哥拉斯学派",
+     "id": "gr-ancient-pythagoras",
+     "note": "灵魂轮回与净化观念"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "亚里士多德",
+     "id": "gr-ancient-aristotle",
+     "note": "承其四元素说并加以太与目的论"
+    },
+    {
+     "name": "原子论",
+     "id": "gr-ancient-democritus",
+     "note": "以不可分的原子取代四根，取消爱与争"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "亚里士多德",
+     "view": "四根只能解释物质，仍须目的因说明自然的有序；且爱与争作为动力因表述含糊。",
+     "response": "恩培多克勒一系的回应可重构为：爱与争是物理性的聚散之力，不必拟人化理解。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-empedocles",
+      "book-guthrie-greek"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "恩培多克勒只是神秘主义者",
+     "why": "《论自然》是严格自然哲学，《净化篇》是宗教诗；两面并存，不能只取一面。"
+    },
+    {
+     "claim": "四根说是“四元素说”的完成形态",
+     "why": "他把四根视为可混合的实在，亚里士多德才把它系统化为元素理论并加以太。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>恩培多克勒：四根与两力</text><defs><marker id='aEM' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>无物能从无来</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故生灭只能是混合与分离</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>四根为常住本原</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>爱结合、争分离，宇宙循环</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aEM)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aEM)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "恩培多克勒：四根与爱争二力（示意图）",
+   "sources": [
+    "sep-empedocles",
+    "iep-empedocles",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "恩培多克勒以“四根”（火、气、水、土）与“两力”（爱、争）解释宇宙：既然无物能从无而来，生灭就只能是四根的混合与分离；四根自身被动，故须有爱使之结合、争使之分离，宇宙史即二者的交替循环。其体系是早期希腊最重要的多元论方案，兼有诗体自然哲学与宗教净化两面。",
+    "system": [
+     {
+      "name": "四根",
+      "content": "火、气、水、土常住不灭，万物由其按比例混合。"
+     },
+     {
+      "name": "爱与争",
+      "content": "两种相反的力，使四根结合或分离；宇宙史是其循环。"
+     },
+     {
+      "name": "生灭即混合分离",
+      "content": "反对从无生有，故“生成”只是组合方式的改变。"
+     },
+     {
+      "name": "灵魂与净化",
+      "content": "《净化篇》主张灵魂轮回，须以洁净生活求解脱。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "阿克拉加斯（约前494—前434）",
+      "change": "西西里阿克拉加斯人；据说参与民主政治；诗体写作；死于希腊本土（具体地点不详）。"
+     }
+    ],
+    "reception": "四根说经亚里士多德系统化成为元素理论；爱与争预示了后来的动力因概念；《净化篇》的轮回说影响新柏拉图主义与诺斯替思想。"
+   },
+   "works_detail": [
+    {
+     "title": "《论自然》（残篇）",
+     "structure": "两卷诗体，约两千行残存五百余行（DK 31 B1—B111）。",
+     "core_thesis": "四根；爱与争；宇宙循环；这是该书的核心命题。",
+     "editions": "DK 31；Kirk-Raven-Schofield；Loeb（Lamb）",
+     "note": "残篇；与《净化篇》须分别读"
+    }
+   ]
+  },
+  {
+   "id": "gr-ancient-anaxagoras",
+   "name": "阿那克萨戈拉",
+   "latin": "Anaxagoras of Clazomenae",
+   "birth_year": -500,
+   "death_year": -428,
+   "birth_display": "约前500年",
+   "death_display": "约前428年",
+   "birth_note": "生卒为推定；据第欧根尼·拉尔修，约前480年至雅典。",
+   "death_note": "同上；卒于兰萨库斯。",
+   "era": "公元前5世纪。阿那克萨戈拉是第一个把哲学带到雅典的人，伯里克利之友；他以“种子”与“努斯（理智）”解释宇宙，因主张日月为炽石而被控不敬神，被迫离开雅典。",
+   "school": "多元论（种子说）",
+   "core_questions": [
+    "万物的构成单位是什么？",
+    "运动与秩序的最初来源是什么？",
+    "“生成”是真实的吗？"
+   ],
+   "arguments": [
+    {
+     "claim": "万物由无限多的“种子”构成，一切在一切之中",
+     "premises": [
+      "没有任何性质能从无中产生（如毛发不能从非毛发产生）。",
+      "可观察物可无限分割而仍具性质。"
+     ],
+     "inference": "若性质不能从无生，则每一物中必已含有各种性质的种子；所谓生成只是种子的聚合与分离。",
+     "conclusion": "万物由无限多的种子构成，每一物中“一切在一切之中”。",
+     "kind": "原文"
+    },
+    {
+     "claim": "努斯（理智）是运动的最初来源",
+     "premises": [
+      "种子自身静止，需要外力才能开始旋转。",
+      "宇宙的秩序（旋转、分离、天体运行）有方向性。"
+     ],
+     "inference": "若种子被动而宇宙有秩序，则须有一能推动且能安排的力量；阿那克萨戈拉称之为努斯。",
+     "conclusion": "努斯是万物中最精细、唯一纯粹的，它推动并安排了宇宙的旋转。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论自然》（残篇）",
+     "edition": "DK 59 B；英译参 Kirk-Raven-Schofield；参《名哲言行录》卷二",
+     "note": "残篇约二十余条"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "巴门尼德与米利都学派",
+     "id": "gr-ancient-anaximander",
+     "note": "“无物能从无来”与机制化解释的传统"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "苏格拉底与柏拉图",
+     "id": "gr-ancient-socrates",
+     "note": "努斯概念被苏格拉底期待为“善的安排”，后失望（《斐多》）"
+    },
+    {
+     "name": "原子论",
+     "id": "gr-ancient-democritus",
+     "note": "以原子取代种子，以必然取代努斯"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "苏格拉底（据《斐多》）",
+     "view": "阿那克萨戈拉提出努斯却不以“何以最好”解释宇宙，仍用物理必然说明。",
+     "response": "阿那克萨戈拉一系的回应可重构为：努斯只负责最初的推动，其后由机械过程展开；目的论解释不在其任务内。",
+     "kind": "原文",
+     "sources": [
+      "sep-anaxagoras",
+      "book-guthrie-greek"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“一切在一切之中”是说万物混同无别",
+     "why": "它指种子层面的普遍含藏；显性性质由占优势的种子决定，故物仍有差别。"
+    },
+    {
+     "claim": "努斯是人格神",
+     "why": "努斯是精细的物质性理智，不是人格神；亚里士多德批评它只被当作“机械降神”。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>阿那克萨戈拉：种子与努斯</text><defs><marker id='aANA' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>性质不能从无生</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故万物中已含各种种子</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故一切在一切之中</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>努斯推动最初的旋转</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aANA)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aANA)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "阿那克萨戈拉：种子与努斯的双重本原（示意图）",
+   "sources": [
+    "sep-anaxagoras",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "阿那克萨戈拉以“种子”与“努斯”解释宇宙：既然性质不能从无产生，则每一物中必已含有各种性质的种子，所谓生成只是种子的聚合与分离（“一切在一切之中”）；种子自身静止，故须有努斯（理智）推动最初的旋转并安排秩序。其说把“物质构成”与“运动来源”分为两个本原，是早期希腊哲学的关键转折。",
+    "system": [
+     {
+      "name": "种子",
+      "content": "无限多、含各种性质；显性性质由占优势者决定。"
+     },
+     {
+      "name": "一切在一切之中",
+      "content": "每一物都含藏万物的种子，故无绝对的生成与消灭。"
+     },
+     {
+      "name": "努斯",
+      "content": "最精细、唯一纯粹的理智，推动最初的旋转，安排秩序。"
+     },
+     {
+      "name": "天体是炽石",
+      "content": "日月为燃烧的石头，故被控不敬神——这是哲学与城邦宗教冲突的早期案例。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "克拉佐美尼与雅典（约前500—前428）",
+      "change": "约前480年赴雅典，与伯里克利交往；约前450年被控不敬神，退居兰萨库斯。"
+     }
+    ],
+    "reception": "努斯概念经苏格拉底与柏拉图改造为目的论的核心；原子论以必然取代努斯；其“种子”说被视为对巴门尼德“无物能从无来”的一种回应方案。"
+   },
+   "works_detail": [
+    {
+     "title": "《论自然》（残篇）",
+     "structure": "残篇约二十余条（DK 59 B），以散文写成。",
+     "core_thesis": "种子；努斯；一切在一切之中；这是该书的核心命题。",
+     "editions": "DK 59；Kirk-Raven-Schofield",
+     "note": "散文体，是雅典最早的哲学著作之一"
+    }
+   ]
+  },
+  {
+   "id": "gr-ancient-gorgias",
+   "name": "高尔吉亚",
+   "latin": "Gorgias of Leontini",
+   "birth_year": -483,
+   "death_year": -375,
+   "birth_display": "约前483年",
+   "death_display": "约前375年",
+   "birth_note": "生卒为推定；据第欧根尼·拉尔修与苏达辞书，生于西西里伦蒂尼。",
+   "death_note": "同上；据说活到一百余岁。",
+   "era": "公元前5世纪后半叶。高尔吉亚是智者派最著名的修辞教师，前427年出使雅典而名声大振；其《论非存在》以三个命题否定巴门尼德的存在论，是极端怀疑论与语言批判的早期样本。",
+   "school": "智者派（修辞学与怀疑论）",
+   "core_questions": [
+    "存在是什么？能被思想与言说吗？",
+    "修辞术的正当性何在？",
+    "语言能传达什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "三个命题：无物存在；即使存在也不可知；即使可知也不可传达",
+     "premises": [
+      "巴门尼德以“存在”为唯一真理，但其论证依赖语言。",
+      "若存在者须可思想与言说，则思想与言说本身的性质会限制存在的可断言性。"
+     ],
+     "inference": "若思想、言说与存在三者不能保证同构，则从“可思想”推不出“存在”，从“存在”推不出“可传达”。",
+     "conclusion": "存在不可被确立，纵使存在也不可知，纵使可知也不可传达给他人。",
+     "kind": "原文"
+    },
+    {
+     "claim": "语言是强大的主宰，以最微小的形体成就最神圣的事",
+     "premises": [
+      "语言不能传递事物本身，只能传递说服。",
+      "说服可作用于灵魂而不依赖事实。"
+     ],
+     "inference": "若语言的作用机制是说服而非传达，则修辞的力量独立于真假；故修辞术须被认真对待，也须被警惕。",
+     "conclusion": "修辞是以语言塑造信念的技艺，其效力不依赖真理。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论非存在》或《论自然》（残篇）",
+     "edition": "DK 82 B；转述见塞克斯都《驳杂学家》与亚里士多德《修辞学》",
+     "note": "题名与归属有讨论；三段命题由塞克斯都保存"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "巴门尼德",
+     "id": "gr-ancient-parmenides",
+     "note": "其三个命题逐条针对巴门尼德的存在论"
+    },
+    {
+     "name": "恩培多克勒与西西里修辞传统",
+     "id": "gr-ancient-empedocles",
+     "note": "修辞与诗体论辩的训练"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "柏拉图与亚里士多德",
+     "id": "gr-ancient-plato",
+     "note": "《高尔吉亚篇》以修辞术为奉承之术，非技艺"
+    },
+    {
+     "name": "伊索克拉底与修辞教育",
+     "id": "",
+     "note": "把修辞纳入公民教育"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "柏拉图（《高尔吉亚篇》）",
+     "view": "修辞术不以真理为目标，只是取悦听众的奉承；修辞者不知善恶却能使城邦信从其言。",
+     "response": "高尔吉亚一系的回应可重构为：修辞是工具，其善恶取决于使用者；且说服本身是政治生活的必要条件。",
+     "kind": "原文",
+     "sources": [
+      "iep-gorgias",
+      "book-guthrie-greek"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "高尔吉亚是彻底的虚无主义者",
+     "why": "三个命题是修辞性的论辩演示（显示任何命题都可被两面论证），未必是其生活信念。"
+    },
+    {
+     "claim": "《论非存在》是完整的虚无主义体系",
+     "why": "它只存转述与残篇，且以反巴门尼德为目标，其本身是否主张虚无有争议。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>高尔吉亚：三个命题与修辞之力</text><defs><marker id='aGO' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>存在须可思可言</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>但思想、言说与存在不同构</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故无物存在／不可知／不可传达</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故修辞以说服而非真理起作用</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aGO)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aGO)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：三命题为原文，图示为重构</text></svg>",
+   "svg_caption": "高尔吉亚：三个命题与修辞术（示意图）",
+   "sources": [
+    "iep-gorgias",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论非存在》原书已佚，三个命题由塞克斯都·恩披里柯《驳杂学家》与伪亚里士多德《墨里索斯、克塞诺芬尼、高尔吉亚》转述；其题名、论证细节与是否反映本人立场，学界有讨论。",
+   "doctrine": {
+    "summary": "高尔吉亚以三个命题——无物存在、即使存在也不可知、即使可知也不可传达——逐条拆解巴门尼德的存在论：若思想、言说与存在不能保证同构，则从“可思想”推不出“存在”。他更以修辞实践说明语言的力量在于说服而非传达，故修辞术既强大又危险。其说是智者派怀疑论与语言批判的最早系统样本。",
+    "system": [
+     {
+      "name": "三个命题",
+      "content": "无物存在／不可知／不可传达：针对存在、认识与语言三层。"
+     },
+     {
+      "name": "语言即说服",
+      "content": "语言不传递事物本身，而塑造信念；其效力独立于真假。"
+     },
+     {
+      "name": "两面论证",
+      "content": "任一命题皆可被两面有力论证，故论辩的胜负不等于真理。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "伦蒂尼与雅典（约前483—前375）",
+      "change": "前427年出使雅典，以修辞术震动一时；在希腊各地授徒收费；据说寿逾百岁。"
+     }
+    ],
+    "reception": "其怀疑论论证经塞克斯都保存，成为古代怀疑论的重要文献；修辞教育经伊索克拉底进入公民训练；柏拉图《高尔吉亚篇》以其为对话者，塑造了后世对智者的负面印象。"
+   },
+   "works_detail": [
+    {
+     "title": "《论非存在》（残篇与转述）",
+     "structure": "原书已佚；三命题由塞克斯都《驳杂学家》与伪亚里士多德著作转述。",
+     "core_thesis": "无物存在；不可知；不可传达；这是该书的核心命题。",
+     "editions": "DK 82 B；塞克斯都《驳杂学家》VII.65—87",
+     "note": "转述为主，原文不可得"
+    }
+   ]
+  },
+  {
+   "id": "gr-ancient-leucippus",
+   "name": "留基伯",
+   "latin": "Leucippus",
+   "birth_year": -500,
+   "death_year": -430,
+   "birth_display": "约前500年",
+   "death_display": "约前430年",
+   "birth_note": "生卒与籍贯均无定论：一说米利都，一说阿布德拉或埃利亚。",
+   "death_note": "同上；其存在本身曾被疑（伊壁鸠鲁否认其存在）。",
+   "era": "公元前5世纪中叶。留基伯通常被视为原子论的创立者，德谟克利特为其继承者与系统化者；因材料极少，二人的学说常被合称“留基伯—德谟克利特原子论”。",
+   "school": "原子论",
+   "core_questions": [
+    "万物由什么构成？",
+    "虚空是否存在？",
+    "运动如何可能？"
+   ],
+   "arguments": [
+    {
+     "claim": "原子与虚空是万物的本原",
+     "premises": [
+      "若存在是“一”而不动，则无法解释多样与运动（巴门尼德的困难）。",
+      "若万物可无限分割，则无最终单位，无法说明稳定结构。"
+     ],
+     "inference": "要同时保住“存在者不可分”与“运动与多样”，须设定不可分的微粒（原子）与它们运动于其中的空隙（虚空）。",
+     "conclusion": "原子与虚空是万物的本原；原子不可分、永恒，虚空是非存在但同样实在。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "运动是永恒的，无需第一推动",
+     "premises": [
+      "原子自永恒即在虚空中运动。",
+      "生成与消亡只是原子的结合与分离。"
+     ],
+     "inference": "若原子永恒运动，则不需另设运动的开端；宇宙的秩序可由原子的必然运动产生。",
+     "conclusion": "运动无始，宇宙由原子的机械运动构成，无需目的因。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《大宇宙秩序》（残篇）",
+     "edition": "DK 67 B；转述见第欧根尼·拉尔修卷九、亚里士多德《论生成与消亡》",
+     "note": "残篇仅数条，多依转述"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "巴门尼德与芝诺",
+     "id": "gr-ancient-parmenides",
+     "note": "以“不可分的存在”与反运动悖论提出难题"
+    },
+    {
+     "name": "米利都学派",
+     "id": "gr-ancient-anaximander",
+     "note": "本原与机制化解释的传统"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "德谟克利特",
+     "id": "gr-ancient-democritus",
+     "note": "系统化原子论，加入形状、次序、位置的区别"
+    },
+    {
+     "name": "伊壁鸠鲁与卢克莱修",
+     "id": null,
+     "note": "承原子论并加“偏斜”"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "亚里士多德",
+     "view": "原子论以虚空解释运动，但虚空中的运动缺乏介质与目的；且原子的“必然”无法说明自然的有序。",
+     "response": "原子论一系的回应可重构为：秩序由原子运动的必然性与无限时间中的组合产生，不需目的因。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-leucippus",
+      "book-guthrie-greek"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "留基伯是否真实存在",
+     "why": "伊壁鸠鲁据说不承认其存在；但亚里士多德与第欧根尼均提及，学界一般接受其历史性。"
+    },
+    {
+     "claim": "原子论是无神论",
+     "why": "它取消了神对世界的干预，但德谟克利特仍论及神灵影像；不宜简单称为无神论。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>留基伯：原子与虚空</text><defs><marker id='aLE' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>巴门尼德的“一”难解释多样与运动</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故须有不可分的微粒与空隙</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故原子＋虚空为本原</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故运动永恒，无需第一推动</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLE)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLE)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：前提为重构，图示为示意</text></svg>",
+   "svg_caption": "留基伯：原子与虚空作为本原（示意图）",
+   "sources": [
+    "sep-leucippus",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": true,
+   "pending_notes": "留基伯的材料极少：生卒、籍贯均无定论；其著作仅存残篇与转述，且古代即有“是否真有其人”的怀疑。本页所述多依亚里士多德与第欧根尼的转述，具体主张在留基伯与德谟克利特之间的归属难以截然分开。",
+   "doctrine": {
+    "summary": "留基伯通常被视为原子论的创立者：要同时保住“存在者不可分”与“运动与多样”，须设定不可分的微粒（原子）与运动于其中的空隙（虚空）；原子永恒运动，故不需第一推动，生成与消亡只是原子的结合与分离。因材料极少，其说与德谟克利特常被合称“留基伯—德谟克利特原子论”。",
+    "system": [
+     {
+      "name": "原子",
+      "content": "不可分、永恒、形状与大小各异；后来德谟克利特补入次序与位置。"
+     },
+     {
+      "name": "虚空",
+      "content": "非存在但同样实在，是运动得以可能的条件。"
+     },
+     {
+      "name": "运动永恒",
+      "content": "无第一推动；秩序由必然的组合产生；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "必然",
+      "content": "一切依必然发生，无目的因；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "米利都／阿布德拉（约前500—前430）",
+      "change": "籍贯与生卒无定论；与德谟克利特并称原子论的创立者；古代曾疑其存在。"
+     }
+    ],
+    "reception": "原子论经德谟克利特系统化、伊壁鸠鲁与卢克莱修传承，成为近代机械论自然观的重要古代来源；其“虚空”概念在近代物理学中被重新讨论。"
+   },
+   "works_detail": [
+    {
+     "title": "《大宇宙秩序》（残篇）",
+     "structure": "残篇仅数条（DK 67 B）；主要依亚里士多德与第欧根尼·拉尔修转述。",
+     "core_thesis": "原子与虚空；运动永恒；这是该书的核心命题。",
+     "editions": "DK 67；亚里士多德《论生成与消亡》I.8",
+     "note": "残篇极少，归属有讨论"
+    }
+   ]
+  },
+  {
+   "id": "gr-ancient-diogenes-sinope",
+   "name": "第欧根尼（西诺佩的）",
+   "latin": "Diogenes of Sinope",
+   "birth_year": -412,
+   "death_year": -323,
+   "birth_display": "约前412年",
+   "death_display": "约前323年",
+   "birth_note": "生卒为推定；据第欧根尼·拉尔修卷六，生于黑海边的西诺佩，因“改铸货币”被逐。",
+   "death_note": "同上；传说卒于科林斯，死因有多种逸闻。",
+   "era": "公元前4世纪。第欧根尼是犬儒学派的标志性人物，以彻底的自足（autarkeia）与“按照自然生活”实践哲学；他不著书（或著作尽佚），其思想通过逸事与后世记述流传，是哲学史上“以生活为论证”的极端案例。",
+   "school": "犬儒学派",
+   "core_questions": [
+    "幸福需要什么？",
+    "习俗与自然的关系是什么？",
+    "哲学能否不用文字而只用生活来表达？"
+   ],
+   "arguments": [
+    {
+     "claim": "幸福在于自足，故须削减欲望而非增加所有",
+     "premises": [
+      "习俗所要求的财富、名声、体面都是外在的、不由己的。",
+      "欲望越少，所需越少，受挫的可能也越少。"
+     ],
+     "inference": "若幸福取决于不受挫，而受挫源于欲望超出能力，则削减欲望是最短路径；故自足即幸福。",
+     "conclusion": "幸福在于自足（autarkeia），故应把需要降到自然的最低限。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "按自然生活，故习俗的羞耻与身份是可弃的",
+     "premises": [
+      "自然本身不区分体面与不体面（如饮食、排泄、居所）。",
+      "习俗把这些区分当作自然之分，从而制造虚假的需要。"
+     ],
+     "inference": "若羞耻基于习俗而非自然，则践踏习俗的“无耻”行为恰是对自然的回归，且具教育作用。",
+     "conclusion": "按自然生活即拒绝习俗的虚假区分；哲学以行为示范而非文字传达。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "无著作传世（言行见第欧根尼·拉尔修卷六等）",
+     "edition": "DG VI；另见《希腊 Anthology》与后世传记",
+     "note": "其对话与悲剧是否真作，古代即有争议"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "安提斯泰尼",
+     "id": "",
+     "note": "犬儒学派创始人，苏格拉底的学生"
+    },
+    {
+     "name": "苏格拉底",
+     "id": "gr-ancient-socrates",
+     "note": "以生活实践哲学、轻视外物"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "斯多亚派",
+     "id": null,
+     "note": "承其自足与“按自然生活”，但去掉其无耻的激进面"
+    },
+    {
+     "name": "近代“回归自然”思潮",
+     "id": null,
+     "note": "简化生活与习俗批判的回响"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "斯多亚派与后世哲学家",
+     "view": "犬儒式的无耻是对习俗的表演性挑衅，其教育效果依赖观众，未必能普遍化；斯多亚以“合宜”（decorum）修正之。",
+     "response": "第欧根尼一系的回应可重构为：挑衅是唤醒手段，目的在使人看见习俗的任意性，而非要求人人如此生活。",
+     "kind": "后人解读",
+     "sources": [
+      "iep-diogenes",
+      "iep-cynics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "第欧根尼只是个乞丐式的怪人",
+     "why": "其行为有明确的哲学纲领：自足、按自然、以行为论证；柏拉图称其为“发疯的苏格拉底”正说明其与苏格拉底路线的亲缘。"
+    },
+    {
+     "claim": "犬儒主义等于玩世不恭",
+     "why": "古代犬儒以德性与自足为目标，近代“cynicism”的玩世不恭是语义的滑坡。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>第欧根尼：自足与按自然生活</text><defs><marker id='aDI' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>习俗之物不由己</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故受挫源于欲望超出能力</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故削减欲望即幸福</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故按自然生活，弃习俗之耻</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aDI)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aDI)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：前提为重构，图示为示意</text></svg>",
+   "svg_caption": "第欧根尼：自足与习俗批判（示意图）",
+   "sources": [
+    "iep-diogenes",
+    "iep-cynics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "第欧根尼无著作传世（归于他的对话与悲剧真伪古代即有争议）；其言行主要见第欧根尼·拉尔修卷六，多为逸事，可靠性不一。本页所述为后世所记的“犬儒立场”，不当作逐字史料。",
+   "doctrine": {
+    "summary": "第欧根尼以生活实践哲学：幸福在于自足（autarkeia），故须削减欲望而非增加所有；习俗所要求的财富与体面都是外在的，受挫源于欲望超出能力，故减法是最短路径。他又主张“按自然生活”，以践踏习俗的挑衅行为作为教育手段，使哲学以行为而非文字传达。其言行多存逸事，须与史料可靠度分开看。",
+    "system": [
+     {
+      "name": "自足",
+      "content": "削减欲望至自然最低限，则不受挫，故幸福。"
+     },
+     {
+      "name": "按自然生活",
+      "content": "习俗的羞耻区分是人为的；回归自然即拒绝这些区分。"
+     },
+     {
+      "name": "以行为论证",
+      "content": "不著书，以生活方式示范哲学；挑衅具教育意图。"
+     },
+     {
+      "name": "自由（parrhēsia）",
+      "content": "直言无讳，对权势不假辞色；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "西诺佩与雅典／科林斯（约前412—前323）",
+      "change": "生于西诺佩，被逐后至雅典，师事安提斯泰尼；晚年据说在科林斯。"
+     }
+    ],
+    "reception": "斯多亚派承其自足与“按自然生活”而修正其激进面；近代“回归自然”与简化生活思潮有其回响；其形象成为西方“以生活为哲学”的原型。"
+   },
+   "works_detail": [
+    {
+     "title": "无著作传世",
+     "structure": "言行见第欧根尼·拉尔修卷六；归于他的对话与悲剧真伪有争议。",
+     "core_thesis": "自足；按自然生活；这是该书的核心命题。",
+     "editions": "DG VI；Hicks 英译（Loeb）",
+     "note": "逸事为主，不作逐字史料"
+    }
+   ]
   }
  ],
  "concepts": [
