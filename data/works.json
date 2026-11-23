@@ -577,6 +577,120 @@
    "sort_year": -250
   },
   {
+   "id": "work-hanfeizi",
+   "title": "《韩非子》",
+   "title_original": "韓非子",
+   "tradition": "china",
+   "date_display": "约前3世纪",
+   "structure": "五十五篇；《五蠹》《显学》《孤愤》《说难》《解老》《喻老》《定法》《二柄》《难势》为核心；《解老》《喻老》为最早的《老子》注。",
+   "core_arguments": [
+    "以法、术、势三者构成不依赖统治者德性的治理机器",
+    "历史进化：“世异则事异，事异则备变”，反对法先王",
+    "以“参验”检验言论：无用之辩不若实事之效"
+   ],
+   "key_points": [
+    {
+     "locator": "《五蠹》",
+     "point": "“世异则事异，事异则备变”"
+    },
+    {
+     "locator": "《定法》",
+     "point": "法与术的区别与互补"
+    },
+    {
+     "locator": "《难势》",
+     "point": "势（权位）的必要性与限度"
+    },
+    {
+     "locator": "《解老》",
+     "point": "对《老子》“道”与“理”的改造"
+    }
+   ],
+   "editions": [
+    "王先慎《韩非子集解》中华书局；陈奇猷《韩非子新校注》上海古籍出版社"
+   ],
+   "related_people": [
+    "cn-xianqin-hanfei",
+    "cn-xianqin-xunzi",
+    "cn-xianqin-laozi"
+   ],
+   "misreadings": [
+    {
+     "claim": "韩非主张纯粹严刑峻法",
+     "why": "他以“法、术、势”并举，且强调赏罚的“必”与“信”，不是单靠重刑。"
+    },
+    {
+     "claim": "《解老》《喻老》只是注解《老子》",
+     "why": "他借《老子》改造出“理”的概念（“万物各异理”），为法家的规律观立法。"
+    }
+   ],
+   "sources": [
+    "ct-hanfeizi",
+    "sep-chinese-metaphysics",
+    "iep-chinese-philosophy"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -250
+  },
+  {
+   "id": "work-dererum-natura",
+   "title": "《物性论》",
+   "title_original": "De rerum natura",
+   "tradition": "west",
+   "date_display": "约前1世纪中叶",
+   "structure": "六卷，拉丁六音步诗体：卷一—二论原子与虚空，卷三论灵魂与死亡，卷四论知觉与爱，卷五论世界与文明，卷六论天象与疾病（末以雅典瘟疫收）。",
+   "core_arguments": [
+    "无物能由无生：生成需种子与条件，故有不可分的原子与虚空",
+    "灵魂由原子构成并随身体消散，故死亡与我们无关",
+    "认识自然可解除对神灵惩罚的恐惧，从而获得安宁"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 265—328",
+     "point": "无物能由无生、无物归于无"
+    },
+    {
+     "locator": "卷二 80—141",
+     "point": "原子的偏斜（clinamen）"
+    },
+    {
+     "locator": "卷三 830—1094",
+     "point": "死亡与我们无关的论证"
+    },
+    {
+     "locator": "卷五 925—1457",
+     "point": "文明史：技艺与语言的起源"
+    }
+   ],
+   "editions": [
+    "方书春译《物性论》商务印书馆",
+    "Loeb Classical Library（Rouse/Smith）"
+   ],
+   "related_people": [
+    "gr-hellenistic-lucretius",
+    "gr-hellenistic-epicurus",
+    "gr-ancient-democritus"
+   ],
+   "misreadings": [
+    {
+     "claim": "《物性论》是科学教科书",
+     "why": "它是哲学诗，目的在解除恐惧、导向安宁；原子论是论证工具。"
+    },
+    {
+     "claim": "卢克莱修否认一切价值",
+     "why": "其快乐主义指静态的无扰，友谊与智慧本身即是其构成，不是纵欲。"
+    }
+   ],
+   "sources": [
+    "sep-lucretius",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -55
+  },
+  {
    "id": "work-ennreads",
    "title": "《九章集》",
    "title_original": "Ἐννεάδες（Enneads）",
@@ -1080,6 +1194,64 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1076
+  },
+  {
+   "id": "work-proslogion",
+   "title": "《宣讲》",
+   "title_original": "Proslogion",
+   "tradition": "west",
+   "date_display": "1077—1078年",
+   "structure": "序＋二十六章，以祷告体写成：“信仰寻求理解”（fides quaerens intellectum）；第 II—IV 章为“本体论论证”的核心，第 XIV—XXVI 章论神的属性与灵魂的寻求。",
+   "core_arguments": [
+    "“我们相信你是那无可再想得更伟大者”（aliquid quo nihil maius cogitari possit）",
+    "若“无可再想得更伟大者”只存在于心中，则还可想其存在于现实中，故它必在现实中",
+    "愚人心中也有此概念，故不能说它不存在（回应《诗篇》‘愚人心里说没有神’）"
+   ],
+   "key_points": [
+    {
+     "locator": "第 II 章",
+     "point": "“无可再想得更伟大者”的定义与论证"
+    },
+    {
+     "locator": "第 III 章",
+     "point": "“不能被想为不存在”"
+    },
+    {
+     "locator": "第 IV 章",
+     "point": "愚人如何“心中有了”却仍否认"
+    },
+    {
+     "locator": "第 XIV—XVIII 章",
+     "point": "神的单纯性与属性"
+    }
+   ],
+   "editions": [
+    "拉丁原文见 The Latin Library；中译参《安瑟尔谟》选集（商务印书馆/道风书社）",
+    "高尼罗《为愚人辩》为同时代反驳，宜对照阅读"
+   ],
+   "related_people": [
+    "gr-medieval-anselm",
+    "gr-medieval-aquinas",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "安瑟尔谟的论证是“从概念推出存在”的诡辩",
+     "why": "其前提是“上帝”被定义为无可再想得更伟大者，论证依赖“存在比仅存在于心中更伟大”这一比较判断；康德的批评针对的是“存在不是实在谓词”，与安瑟尔谟的原意层次不同。"
+    },
+    {
+     "claim": "安瑟尔谟认为理性可以证明信仰的全部内容",
+     "why": "他的口号是“信仰寻求理解”：先信，再求理解，理性在信仰之内工作。"
+    }
+   ],
+   "sources": [
+    "lat-anselm-proslogion",
+    "iep-anselm",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1078
   },
   {
    "id": "work-guide-perplexed",
@@ -2282,6 +2454,120 @@
    "sort_year": 1817
   },
   {
+   "id": "work-world-will",
+   "title": "《作为意志和表象的世界》",
+   "title_original": "Die Welt als Wille und Vorstellung",
+   "tradition": "west",
+   "date_display": "1818年（1844年增订）",
+   "structure": "四篇＋附录：一、认识论（表象的世界），二、本体论（意志的客体化），三、美学（理念与艺术），四、伦理学（意志的否定）；附录为对康德哲学的批评。",
+   "core_arguments": [
+    "世界是我的表象：一切对象都在主体—客体关系中",
+    "物自体即意志：身体的活动与意志是同一事物的两面",
+    "欲求本质上是缺乏，故满足即无聊，人生在痛苦与无聊间摆荡；解脱在审美静观与意志的自我否定"
+   ],
+   "key_points": [
+    {
+     "locator": "第一篇 §1—§7",
+     "point": "“世界是我的表象”"
+    },
+    {
+     "locator": "第二篇 §18—§22",
+     "point": "身体的意志与客体化"
+    },
+    {
+     "locator": "第三篇 §34—§36",
+     "point": "审美静观与理念"
+    },
+    {
+     "locator": "第四篇 §68—§71",
+     "point": "意志的自我否定与解脱"
+    }
+   ],
+   "editions": [
+    "石冲白译《作为意志和表象的世界》商务印书馆",
+    "KSA 版第 1、2 卷（de Gruyter）"
+   ],
+   "related_people": [
+    "gr-19c-schopenhauer",
+    "gr-german-kant",
+    "gr-19c-nietzsche"
+   ],
+   "misreadings": [
+    {
+     "claim": "叔本华主张人生毫无价值因此应当自杀",
+     "why": "他明确反对自杀：自杀是否定个体而非否定意志，故不能解脱。"
+    },
+    {
+     "claim": "意志是心理学意义上的“意愿”",
+     "why": "它是形而上学的本体（物自体），一切现象皆是其客体化，包括无意识的自然力。"
+    }
+   ],
+   "sources": [
+    "sep-schopenhauer",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1818
+  },
+  {
+   "id": "work-fear-trembling",
+   "title": "《恐惧与颤栗》",
+   "title_original": "Frygt og Bæven",
+   "tradition": "west",
+   "date_display": "1843年",
+   "structure": "以化名“沉默的约翰尼斯”（Johannes de silentio）署名；含“序幕”“颂扬亚伯拉罕”“问题一/二/三”与“尾声”。",
+   "core_arguments": [
+    "信仰是“悖论”：个体以个别者身份高于普遍伦理（目的论悬置）",
+    "亚伯拉罕献以撒不可用伦理语言辩护，只能以信仰的激情“跳跃”",
+    "无法用客观论证进入信仰；信仰是激情与冒险，不是结论"
+   ],
+   "key_points": [
+    {
+     "locator": "问题一",
+     "point": "是否存在对伦理的目的论悬置"
+    },
+    {
+     "locator": "问题二",
+     "point": "是否存在对上帝的绝对义务"
+    },
+    {
+     "locator": "问题三",
+     "point": "亚伯拉罕向谁辩护？——不可说"
+    },
+    {
+     "locator": "尾声",
+     "point": "“或者”不是体系中的一页"
+    }
+   ],
+   "editions": [
+    "京不特译《恐惧与颤栗》中国社会科学出版社；刘继译贵州人民出版社",
+    "Hannay 英译（Penguin）"
+   ],
+   "related_people": [
+    "gr-19c-kierkegaard",
+    "gr-german-hegel",
+    "gr-20c-sartre"
+   ],
+   "misreadings": [
+    {
+     "claim": "克尔凯郭尔本人主张杀子式的信仰",
+     "why": "他以至化名写作，呈现的是信仰的悖论与恐惧，不是伦理建议；化名作者与本人的关系须区分。"
+    },
+    {
+     "claim": "此书是反伦理的",
+     "why": "它把手伦理悬置限于信仰的极端情形，并全程强调恐惧与颤栗——这正是伦理感未消失的证据。"
+    }
+   ],
+   "sources": [
+    "sep-kierkegaard",
+    "sep-hegel"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1843
+  },
+  {
    "id": "work-on-liberty",
    "title": "《论自由》",
    "title_original": "On Liberty",
@@ -2448,6 +2734,64 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1883
+  },
+  {
+   "id": "work-tractatus",
+   "title": "《逻辑哲学论》",
+   "title_original": "Logisch-philosophische Abhandlung (Tractatus)",
+   "tradition": "west",
+   "date_display": "1921年（德文）/1922年（英德对照）",
+   "structure": "以十进制编号的命题构成（1—7 及小数层级），无章节；末命题 7 为“对于不可说的东西，必须保持沉默”。",
+   "core_arguments": [
+    "语言与世界共有“逻辑形式”，命题是事实的图像（图象说）",
+    "命题的意义在于其真值条件；逻辑命题是重言式，不说世界",
+    "可说者与不可说者的界限：伦理、美学、生命意义在界限之外"
+   ],
+   "key_points": [
+    {
+     "locator": "1—2.063",
+     "point": "世界是事实的总和；图象说"
+    },
+    {
+     "locator": "4.0312",
+     "point": "命题的“逻辑形式”不可被命题自身说出"
+    },
+    {
+     "locator": "6.41—6.43",
+     "point": "伦理不可说；世界的意义在世界之外"
+    },
+    {
+     "locator": "7",
+     "point": "“必须保持沉默”"
+    }
+   ],
+   "editions": [
+    "贺绍甲译《逻辑哲学论》商务印书馆",
+    "Ogden/Ramsey 英德对照本；K Fischer 德文本"
+   ],
+   "related_people": [
+    "gr-20c-wittgenstein",
+    "gr-20c-russell",
+    "gr-20c-carnap"
+   ],
+   "misreadings": [
+    {
+     "claim": "《逻辑哲学论》主张形而上学无意义因而取消哲学",
+     "why": "它划定可说的界限，但把“不可说者”看得极重（伦理、神秘之物）；其态度近于伦理的而非实证主义的取消。"
+    },
+    {
+     "claim": "图象说是关于心理图像的学说",
+     "why": "“图象”是逻辑同构关系，不是脑中的画面。"
+    }
+   ],
+   "sources": [
+    "sep-wittgenstein",
+    "book-wittgenstein-pi",
+    "sep-russell"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1921
   },
   {
    "id": "work-being-time",

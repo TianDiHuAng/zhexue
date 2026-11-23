@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 432,
+  "entries": 438,
   "by_level": {
-   "L2": 368,
-   "L1": 64
+   "L2": 375,
+   "L1": 63
   },
   "doctrine": {
    "total": 150,
    "detail": 150,
    "auto": 0
   },
-  "needs_verification": 64,
-  "sources": 254,
-  "sources_verified": 239
+  "needs_verification": 63,
+  "sources": 255,
+  "sources_verified": 240
  },
  "units": [
   {
@@ -3284,10 +3284,10 @@
    "type": "philosopher",
    "title": "安瑟尔谟",
    "container": "gr-medieval",
-   "level": "L1",
+   "level": "L2",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -3907,6 +3907,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-hanfeizi",
+   "type": "work",
+   "title": "《韩非子》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-dererum-natura",
+   "type": "work",
+   "title": "《物性论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-ennreads",
    "type": "work",
    "title": "《九章集》",
@@ -3999,6 +4021,17 @@
    "type": "work",
    "title": "《正蒙》",
    "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-proslogion",
+   "type": "work",
+   "title": "《宣讲》",
+   "container": "west",
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,
@@ -4237,6 +4270,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-world-will",
+   "type": "work",
+   "title": "《作为意志和表象的世界》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-fear-trembling",
+   "type": "work",
+   "title": "《恐惧与颤栗》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-on-liberty",
    "type": "work",
    "title": "《论自由》",
@@ -4266,6 +4321,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-tractatus",
+   "type": "work",
+   "title": "《逻辑哲学论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
