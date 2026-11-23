@@ -2835,6 +2835,45 @@
    ],
    "needs_verification": true,
    "pending_notes": "“判教”与“教相判释”在用法上有广狭之别（前者通指分类，后者特指天台、华严的体系化判释）；本页取其狭义，具体名目须核各家原典。"
+  },
+  {
+   "id": "cn-suitang-yizi-buershi",
+   "term": "一子不二师",
+   "term_latin": "one master, no second teacher",
+   "definition": "中国佛教宗派传承的一个原则：法脉须出于一系，不得兼承二师（以免法统混乱）。它与“判教”互为表里——判教定教义的位次，法脉定人的位次。",
+   "usages": [
+    {
+     "name": "天台一系",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以智顗为实际的奠基者，后世追溯龙树为初祖（“金口相承”与“今师相承”两系）。"
+    },
+    {
+     "name": "禅宗（对照）",
+     "id": "cn-suitang-huineng",
+     "usage": "以“以心传心”的谱系取代师徒的单一承继，然仍重法脉的纯正。"
+    },
+    {
+     "name": "宗密（会通者）",
+     "id": "cn-suitang-zongmi",
+     "usage": "兼承华严与禅（荷泽一系），其“一子不二师”的处理成为特例。"
+    }
+   ],
+   "related": [
+    "cn-suitang-jiaoxiang",
+    "cn-suitang-panjiao"
+   ],
+   "example": {
+    "text": "“一子不二师”的意义在于它把**知识的权威**系于**人的谱系**：不但要教义正确，还要法脉纯正。故中国佛教的宗派不只是学派的分别，更是传承组织的分别——这一点与西方中世纪的“师承”（如 via antiqua / via moderna）有可比性而不同构。",
+    "figure": "宗密",
+    "locator": "《禅源诸诠集都序》"
+   },
+   "sources": [
+    "ws-chanyuan",
+    "ws-mohezhiguan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“一子不二师”的具体表述与适用范围（是否普遍适用于各宗）须核《禅源诸诠集都序》与天台、华严的宗派史；本页取其一般含义并标出宗密兼承的特例。"
   }
  ],
  "debates": [

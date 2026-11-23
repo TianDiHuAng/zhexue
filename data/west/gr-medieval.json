@@ -3871,6 +3871,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“神的理念”在奥古斯丁（原型说）与阿奎那（神之认识）之间的含义有实质差异；本页并述两说，具体文本须核《神学大全》I q.15 与《论八十三个不同问题》。"
+  },
+  {
+   "id": "gr-medieval-via-antiqua",
+   "term": "古路与新路",
+   "term_latin": "via antiqua / via moderna",
+   "definition": "中世纪晚期大学中的两条学术路线：古路（via antiqua）以实在论（司各脱、阿奎那的追随者）为宗，新路（via moderna）以唯名论（奥卡姆一系）为宗。它既是哲学立场的分野，也是**教师聘任与学位授予**的制度分野。",
+   "usages": [
+    {
+     "name": "奥卡姆的威廉",
+     "id": "gr-medieval-ockham",
+     "usage": "新路（现代路线）的奠基：以个体为唯一实在，共相只是符号。"
+    },
+    {
+     "name": "司各脱",
+     "id": "gr-medieval-duns-scotus",
+     "usage": "古路（精细博士）一系，主张共相有其“共同本性”。"
+    },
+    {
+     "name": "大学制度（背景）",
+     "usage": "两条路线各有其教师席位与学位要求，故争论兼有制度性。"
+    }
+   ],
+   "related": [
+    "gr-medieval-universals",
+    "gr-medieval-quaestio"
+   ],
+   "example": {
+    "text": "“古路/新路”的命名本身值得注意：把唯名论称为“现代”（moderna）在当时是**贬称**（新即可疑），后来才成为时代之名（“现代”由此进入历史语汇）。故一个哲学术语可以变成历史分期的名称。",
+    "figure": "奥卡姆的威廉",
+    "locator": "（术语见14—15世纪大学文献）"
+   },
+   "sources": [
+    "sep-aquinas",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“古路/新路”的分野在14—15世纪各大学的制度化程度不同（巴黎、海德堡、维也纳各有差异）；本页述其一般的哲学含义，制度细节须核中世纪大学史研究。"
   }
  ],
  "debates": [
