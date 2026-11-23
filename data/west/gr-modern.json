@@ -3623,6 +3623,145 @@
      "note": "1754 年"
     }
    ]
+  },
+  {
+   "id": "gr-modern-erasmus",
+   "name": "伊拉斯谟",
+   "latin": "Desiderius Erasmus",
+   "birth_year": 1466,
+   "death_year": 1536,
+   "birth_display": "1466年",
+   "death_display": "1536年",
+   "birth_note": "生于鹿特丹（生年有1466/1467/1469诸说）；据其书信，为神父之子。",
+   "death_note": "1536年卒于巴塞尔。",
+   "era": "16世纪北方文艺复兴。伊拉斯谟以校勘希腊文新约、编订教父著作与《愚人颂》著称；他主张“基督的哲学”（philosophia Christi）与内在虔敬，反对经院繁琐与教会的腐化，却拒绝加入宗教改革。",
+   "school": "基督教人文主义",
+   "core_questions": [
+    "真正的虔敬是什么？",
+    "教会改革应走哪条路？",
+    "自由意志是否存在？"
+   ],
+   "arguments": [
+    {
+     "claim": "“基督的哲学”重于仪式与争辩：虔敬在于内在的效法",
+     "premises": [
+      "基督的教导是生活的准则，而非思辨的对象。",
+      "经院争辩与外在仪式常遮蔽这一核心。"
+     ],
+     "inference": "若基督的教导是生活的准则，则虔敬的本质在于效法其生活，而非仪式的精确或形而上学的争辩。",
+     "conclusion": "以“基督的哲学”取代繁琐神学，主张内在虔敬与宽容。",
+     "kind": "原文"
+    },
+    {
+     "claim": "自由意志与恩典协作（与路德之争）",
+     "premises": [
+      "若人完全被动，则劝勉与道德努力失去意义。",
+      "恩典是主要的，但人的意志并非全然无能。"
+     ],
+     "inference": "若意志全然被动，则劝人向善与责备恶行皆无根据；故须承认意志在恩典之下的协作作用。",
+     "conclusion": "意志在恩典之下仍有协作的作用（此为其与路德的分歧点）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《愚人颂》《论自由意志》《新约校勘本》《基督君主的教育》",
+     "edition": "《愚人颂》中译参商务印书馆；《论自由意志》中译参华夏出版社（若有）",
+     "note": "1509；1524；1516；1516"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "古典文学与教父著作",
+     "id": "",
+     "note": "以“回到源头”（ad fontes）校勘原文"
+    },
+    {
+     "name": "意大利人文主义（瓦拉等）",
+     "id": "",
+     "note": "文本校勘与修辞学"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "宗教改革与反宗教改革双方",
+     "id": "",
+     "note": "其校勘本成为双方共用的文本基础"
+    },
+    {
+     "name": "近代宽容思想与人文教育",
+     "id": "",
+     "note": "内在虔敬与批判精神"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "路德",
+     "view": "《论自由意志》把人的能力说得过高，削弱了恩典的绝对必要性（路德以《论意志的捆绑》回应）。",
+     "response": "伊拉斯谟一系的回应是：若意志全然捆绑，则道德劝勉与责任皆成空言；恩典不取消人的协作，而是使其可能。",
+     "kind": "原文",
+     "sources": [
+      "sep-erasmus",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "伊拉斯谟是宗教改革的支持者",
+     "why": "他批评教会弊端却拒绝加入改革，且与路德就自由意志公开论战。"
+    },
+    {
+     "claim": "《愚人颂》是无神论的讽刺",
+     "why": "它是基督教人文主义的作品，讽刺的对象是人的愚妄与教会的腐化，结尾转向对基督的赞颂。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>伊拉斯谟：基督的哲学与自由意志</text><defs><marker id='aER' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>基督的教导是生活准则</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>经院争辩遮蔽其核心</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故虔敬在于内在效法</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故意志在恩典下仍有协作</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aER)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aER)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "伊拉斯谟：基督的哲学与意志之争（示意图）",
+   "sources": [
+    "sep-erasmus",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "伊拉斯谟以“基督的哲学”（philosophia Christi）为核心：基督的教导是生活的准则而非思辨对象，故虔敬在于内在效法，而非仪式的精确或经院争辩。他又与路德就自由意志论战，主张意志在恩典之下仍有协作作用——若意志全然被动，则劝勉与责备皆无根据。其校勘的希腊文新约成为16世纪文本研究的基础。",
+    "system": [
+     {
+      "name": "基督的哲学",
+      "content": "虔敬在于效法基督的生活，非仪式与争辩；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "回到源头",
+      "content": "以校勘原文（ad fontes）取代繁琐注释。"
+     },
+     {
+      "name": "意志的协作",
+      "content": "恩典为主，但意志并非全然无能；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "宽容与和平",
+      "content": "反对以神学争辩分裂教会，主张以仁爱为先。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "鹿特丹、巴黎、巴塞尔（1466—1536）",
+      "change": "奥古斯丁会士（后获豁免）；游历欧洲讲学与著述；1516 年希腊文新约；与路德论战（1524）；晚年居巴塞尔。"
+     }
+    ],
+    "reception": "其新约校勘与教父编订影响近代文本学；《愚人颂》成为文艺复兴讽刺文学的典范；其与路德的论战标志人文主义与宗教改革的分道。"
+   },
+   "works_detail": [
+    {
+     "title": "《愚人颂》",
+     "structure": "以“愚夫人”自述的讽刺体；结尾转向基督的赞颂。",
+     "core_thesis": "以愚妄反衬真智慧；批评教会腐化。",
+     "editions": "中译参商务印书馆",
+     "note": "1509 年；1511 年增订"
+    }
+   ]
   }
  ],
  "concepts": [

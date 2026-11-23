@@ -117,6 +117,61 @@
    "sort_year": -400
   },
   {
+   "id": "work-symposium",
+   "title": "《会饮篇》",
+   "title_original": "Συμπόσιον（Symposium）",
+   "tradition": "west",
+   "date_display": "约前385年",
+   "structure": "七篇对爱若斯（Eros）的颂辞：斐德罗、鲍萨尼亚、厄律克西马库、阿里斯托芬、阿伽通、苏格拉底（转述第俄提玛）、阿尔喀比亚德。",
+   "core_arguments": [
+    "爱是对美与善的欲求，因其不占有而恒在匮乏中",
+    "爱的阶梯：从个别形体之美到制度之美、知识之美，最终到美本身",
+    "阿里斯托芬的“球形人”神话：爱是对完整性的追求"
+   ],
+   "key_points": [
+    {
+     "locator": "189c—193d",
+     "point": "阿里斯托芬的球形人神话"
+    },
+    {
+     "locator": "201d—212c",
+     "point": "第俄提玛的教诲与爱的阶梯"
+    },
+    {
+     "locator": "210a—212a",
+     "point": "美的阶梯（body→soul→institutions→knowledge→Beauty）"
+    },
+    {
+     "locator": "215a—222b",
+     "point": "阿尔喀比亚德对苏格拉底的赞颂"
+    }
+   ],
+   "editions": [
+    "刘小枫译《会饮》华夏出版社；中译另参商务印书馆《柏拉图对话集》"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-socrates"
+   ],
+   "misreadings": [
+    {
+     "claim": "《会饮篇》主张禁欲",
+     "why": "它把爱理解为上升的动力，不是否定爱，而是使其转向更高的对象。"
+    },
+    {
+     "claim": "苏格拉底的讲辞代表柏拉图本人的观点",
+     "why": "对话是戏剧性的，第俄提玛的教诲由苏格拉底转述，柏拉图本人的立场不能直接等同。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -385
+  },
+  {
    "id": "work-republic",
    "title": "《理想国》",
    "title_original": "Πολιτεία（Republic）",
@@ -173,6 +228,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": -380
+  },
+  {
+   "id": "work-timaeus",
+   "title": "《蒂迈欧篇》",
+   "title_original": "Τίμαιος（Timaeus）",
+   "tradition": "west",
+   "date_display": "约前360年",
+   "structure": "对话体；前半为苏格拉底重述《理想国》的政制，主体为蒂迈欧的宇宙生成论（匠人、世界灵魂、元素几何），末段论人体与疾病。",
+   "core_arguments": [
+    "宇宙是可感世界中最好的产物，由匠人（demiurge）依永恒模型塑造",
+    "世界有灵魂，由同与异的circles构成，故有理性秩序",
+    "四元素由两种直角三角形的组合而成"
+   ],
+   "key_points": [
+    {
+     "locator": "27c—29d",
+     "point": "匠人、模型与“可信的故事”"
+    },
+    {
+     "locator": "34b—37c",
+     "point": "世界灵魂的构成"
+    },
+    {
+     "locator": "53c—56c",
+     "point": "元素的几何构成"
+    },
+    {
+     "locator": "90a—d",
+     "point": "人的灵魂与宇宙秩序"
+    }
+   ],
+   "editions": [
+    "谢文郁译《蒂迈欧篇》上海人民出版社；Loeb 版（Bury）"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-pythagoras",
+    "gr-hellenistic-plotinus"
+   ],
+   "misreadings": [
+    {
+     "claim": "《蒂迈欧篇》是柏拉图的“创世记”",
+     "why": "他自称这是“可信的故事”（eikos mythos），其宇宙论的地位（字面还是隐喻）是学界长期争论。"
+    },
+    {
+     "claim": "匠人是上帝",
+     "why": "匠人是神话式的构造者，其与“善的理念”的关系在对话中并不明确。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《蒂迈欧篇》的宇宙论应作字面读还是隐喻读，学界长期争论；元素的几何构成细节与其数学来源亦有讨论。",
+   "sort_year": -360
   },
   {
    "id": "work-daodejing",
@@ -343,6 +454,117 @@
    "sources": [
     "mit-aristotle-nicomachean",
     "iep-aristotle"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -340
+  },
+  {
+   "id": "work-organon",
+   "title": "《工具论》",
+   "title_original": "Ὄργανον（Organon）",
+   "tradition": "west",
+   "date_display": "约前4世纪（后世编定）",
+   "structure": "六篇：《范畴篇》《解释篇》《前分析篇》《后分析篇》《论题篇》《辩谬篇》；由后世（疑为安德罗尼柯）编为一集，作为研究的“工具”。",
+   "core_arguments": [
+    "三段论是有效推理的基本形式：由前提的必然联系得出结论",
+    "证明（apodeixis）须由真而首要的前提出发",
+    "辩证推理以普遍接受的意见（endoxa）为出发点"
+   ],
+   "key_points": [
+    {
+     "locator": "《范畴篇》",
+     "point": "十范畴与实体（ousia）的优先性"
+    },
+    {
+     "locator": "《解释篇》",
+     "point": "命题与未来偶然（海战问题）"
+    },
+    {
+     "locator": "《前分析篇》I.4",
+     "point": "三段论的格与式"
+    },
+    {
+     "locator": "《后分析篇》I.2",
+     "point": "证明的前提须真、首要、直接"
+    }
+   ],
+   "editions": [
+    "余纪元等译《亚里士多德全集》第1卷中国人民大学出版社；Loeb 版（Cooke/Tredennick）"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "cn-xianqin-gongsunlong"
+   ],
+   "misreadings": [
+    {
+     "claim": "《工具论》是亚里士多德自己编定的著作",
+     "why": "六篇的编定与命名出于后世（疑为安德罗尼柯），非其本人手定的单一著作。"
+    },
+    {
+     "claim": "三段论是心理过程的描述",
+     "why": "它是形式的有效性理论，与心理过程无关。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": -340
+  },
+  {
+   "id": "work-categories",
+   "title": "《范畴篇》",
+   "title_original": "Κατηγορίαι（Categoriae）",
+   "tradition": "west",
+   "date_display": "约前4世纪",
+   "structure": "十五章；前十章论十范畴与实体、种属、属差；后五章论对立、先后、运动等。",
+   "core_arguments": [
+    "十范畴穷尽了对某物的一切非复合表述",
+    "第一实体（个别事物）在存在与定义上优先于第二实体（种属）",
+    "实体能容纳相反性质而自身同一"
+   ],
+   "key_points": [
+    {
+     "locator": "第1—5章",
+     "point": "十范畴与第一／第二实体"
+    },
+    {
+     "locator": "第6章",
+     "point": "数量与关系"
+    },
+    {
+     "locator": "第10章",
+     "point": "对立（相关、相反、缺乏与拥有）"
+    },
+    {
+     "locator": "第5章",
+     "point": "实体不增减、可容相反"
+    }
+   ],
+   "editions": [
+    "余纪元等译《亚里士多德全集》第1卷；Loeb 版（Cooke）",
+    "中译另参《范畴篇·解释篇》商务印书馆"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-hellenistic-porphyry"
+   ],
+   "misreadings": [
+    {
+     "claim": "十范畴是语法分类",
+     "why": "它是存在与述谓的分类（什么、多少、何种、相关等），不限于语法。"
+    },
+    {
+     "claim": "“实体”在全书中的含义一致",
+     "why": "《范畴篇》的第一实体是个别事物，《形而上学》Z 卷的实体讨论则更复杂，二者关系是学界长期议题。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "sep-porphyry"
    ],
    "needs_verification": false,
    "pending_notes": "",

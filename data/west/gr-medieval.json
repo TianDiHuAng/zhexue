@@ -2327,6 +2327,284 @@
      "note": "14 世纪；其逻辑著作影响更大"
     }
    ]
+  },
+  {
+   "id": "gr-medieval-albert",
+   "name": "大阿尔伯特",
+   "latin": "Albertus Magnus",
+   "birth_year": 1200,
+   "death_year": 1280,
+   "birth_display": "约1200年",
+   "death_display": "1280年",
+   "birth_note": "生于德国劳英根；据其生平材料，出身贵族。",
+   "death_note": "1280年卒于科隆。",
+   "era": "13世纪。大阿尔伯特是多明我会学者、阿奎那之师，被称为“全能博士”；他系统注释亚里士多德全集并吸收阿拉伯注释（阿维森纳、阿威罗伊），为拉丁西方接纳亚里士多德科学奠定基础。",
+   "school": "经院哲学（亚里士多德主义）",
+   "core_questions": [
+    "亚里士多德哲学与基督教信仰能否相容？",
+    "自然知识的独立性如何？",
+    "共相的问题如何解决？"
+   ],
+   "arguments": [
+    {
+     "claim": "亚里士多德哲学可被吸收而不危及信仰：区分哲学与神学的领域",
+     "premises": [
+      "哲学以理性研究受造物，神学以启示研究上帝与救赎。",
+      "二者方法不同，故结论冲突时须辨明层次。"
+     ],
+     "inference": "若哲学与神学各有其方法与对象，则哲学的独立探究不必以神学结论为前提；信仰的权威限于其本领域。",
+     "conclusion": "哲学在自身领域内自主，神学在其领域内为最高；此为“双重真理”之争的经院式处理。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以注释与编纂接纳亚里士多德科学与阿拉伯注释",
+     "premises": [
+      "亚里士多德著作经阿拉伯译本与注释传入拉丁西方。",
+      "阿维森纳与阿威罗伊的注释提供了理解框架。"
+     ],
+     "inference": "若不理解阿拉伯注释，则亚里士多德难被准确理解；故须先注释、再辨正，而非简单排斥。",
+     "conclusion": "以注释传统为中介，使亚里士多德科学成为拉丁学术的共同基础。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论受造物大全》《神学大全》（即《Sentences 注》）《矿物学》《动物学》",
+     "edition": "拉丁文以 Opera omnia（Borgnet 编）为准；英译见 *Albertus Magnus on Animals*",
+     "note": "注释与百科全书式著作并行"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "亚里士多德与阿拉伯注释家",
+     "id": null,
+     "note": "注释对象与科学框架"
+    },
+    {
+     "name": "阿维森纳与阿威罗伊",
+     "id": "gr-medieval-averroes",
+     "note": "阿拉伯注释传统"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "托马斯·阿奎那",
+     "id": "gr-medieval-aquinas",
+     "note": "其学生，承其亚里士多德主义"
+    },
+    {
+     "name": "13世纪巴黎大学与科隆学派",
+     "id": "",
+     "note": "亚里士多德科学的制度化"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "保守神学家（如波那文图拉一系）",
+     "view": "过度依赖亚里士多德与异教注释，会使神学受制于世俗哲学。",
+     "response": "大阿尔伯特一系的回应是：区分领域，哲学在其领域内自主；错误须以论证辨正，而非以禁令排除。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-albert-great",
+      "book-gilson-medieval"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "大阿尔伯特只是阿奎那的过渡人物",
+     "why": "他本人是百科全书式的学者（矿物、动物、植物皆有研究），其注释工作是独立贡献。"
+    },
+    {
+     "claim": "他主张“双重真理”（同一命题在哲学真、在神学假）",
+     "why": "该表述出自后世的拉丁阿威罗伊主义者；他的立场是领域之分，不是同一命题的双重真值。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>大阿尔伯特：领域之分与注释</text><defs><marker id='aAB' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>哲学研究受造物</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>神学研究上帝与救赎</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故方法与对象不同</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故哲学在其领域内自主</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aAB)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aAB)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "大阿尔伯特：领域之分与亚里士多德的接纳（示意图）",
+   "sources": [
+    "sep-albert-great",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "大阿尔伯特以“领域之分”接纳亚里士多德：哲学以理性研究受造物，神学以启示研究上帝与救赎，二者方法与对象不同，故哲学在自身领域内自主；结论冲突时须辨明层次，而非以禁令排除。他又以注释与编纂为中介，把亚里士多德科学与阿拉伯注释（阿维森纳、阿威罗伊）引入拉丁学术，为阿奎那奠定基础。",
+    "system": [
+     {
+      "name": "领域之分",
+      "content": "哲学与神学各有方法与对象；哲学在其领域内自主。"
+     },
+     {
+      "name": "以注释为中介",
+      "content": "先准确理解阿拉伯注释，再辨正，而非简单排斥。"
+     },
+     {
+      "name": "百科全书式研究",
+      "content": "矿物、动物、植物皆有系统研究，不限于神学。"
+     },
+     {
+      "name": "共相问题",
+      "content": "持温和实在论立场，认为共相在个体中有其基础。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "劳英根、巴黎与科隆（约1200—1280）",
+      "change": "多明我会士；1240年代在巴黎讲授；阿奎那为其学生；1260年起任雷根斯堡主教后辞职，回科隆讲学。"
+     }
+    ],
+    "reception": "其注释工作使亚里士多德科学成为13世纪拉丁学术的共同基础；阿奎那承其路径；1931 年被封为教会圣师。"
+   },
+   "works_detail": [
+    {
+     "title": "《论受造物大全》",
+     "structure": "宇宙论与受造物的系统论述；具体体例见推荐版本。",
+     "core_thesis": "领域之分；以注释接纳亚里士多德。",
+     "editions": "Opera omnia（Borgnet 编）",
+     "note": "卷帙浩繁，非单一论著"
+    }
+   ]
+  },
+  {
+   "id": "gr-medieval-eckhart",
+   "name": "埃克哈特",
+   "latin": "Meister Eckhart",
+   "birth_year": 1260,
+   "death_year": 1328,
+   "birth_display": "约1260年",
+   "death_display": "约1328年",
+   "birth_note": "生于图林根霍赫海姆；据其生平材料，出身贵族家庭。",
+   "death_note": "约1328年卒于阿维尼翁或科隆（具体地点不详）。",
+   "era": "13—14世纪。埃克哈特是多明我会神秘神学家与布道家，以德语布道著称；他主张灵魂深处有“灵魂的火花”与神同一，人须“离弃”（Abgeschiedenheit）一切受造的形象，使神在灵魂中诞生。其部分命题在1329年被教宗若望二十二世谴责。",
+   "school": "德国神秘主义（多明我会）",
+   "core_questions": [
+    "灵魂如何与神合一？",
+    "“离弃”是什么意思？",
+    "受造物与神的关系如何？"
+   ],
+   "arguments": [
+    {
+     "claim": "灵魂的根基与神同一：神在灵魂中诞生",
+     "premises": [
+      "灵魂有一不受造的部分（“火花”“根基”）。",
+      "神在此根基中认识自身、爱自身。"
+     ],
+     "inference": "若灵魂的根基非受造，则它与神不是外在关系而是同一；故救赎不是从外部获取，而是让神在此根基中“诞生”。",
+     "conclusion": "神在灵魂中的诞生是内在事件，非外在赏赐。",
+     "kind": "原文"
+    },
+    {
+     "claim": "离弃（Abgeschiedenheit）高于一切德行",
+     "premises": [
+      "一切德行仍带有“我”的作为与占有。",
+      "离弃是彻底的空无与不占有。"
+     ],
+     "inference": "若德行仍以“我”为主词，则仍隔着一层；故彻底的离弃（无所求、无所执）高于任何具体德行。",
+     "conclusion": "离弃是最高的“德行”，因为它使神得以自由地在灵魂中工作。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《德语布道集》《拉丁著作集》《论离弃》",
+     "edition": "《德语布道集》中译参商务印书馆（若有）；拉丁著作见 LW（Kohlhammer）",
+     "note": "布道与短论；命题在 1329 年教谕 In agro dominico 中被部分谴责"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "伪狄奥尼修斯",
+     "id": "",
+     "note": "否定神学与层级上升"
+    },
+    {
+     "name": "新柏拉图主义传统",
+     "id": null,
+     "note": "“一”与灵魂的回归"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "陶勒与苏索（德语神秘主义）",
+     "id": "",
+     "note": "其布道的门人传承"
+    },
+    {
+     "name": "近代德国思辨（波墨、谢林、海德格尔）",
+     "id": "",
+     "note": "“无根基”与离弃的思辨回响"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "教廷与部分多明我会士",
+     "view": "其“灵魂与神同一”“受造物是无”等表述混淆了造物主与受造物，近于泛神论（1329 年部分命题受谴责）。",
+     "response": "埃克哈特一系的回应是：这些表述是布道性的、指向体验的，不是形而上学的定义；他本人始终区分神与受造物。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-mysticism",
+      "book-gilson-medieval"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "埃克哈特是泛神论者",
+     "why": "其表述多为布道修辞，且他明确区分神与受造物；谴责针对的是部分命题的表述方式。"
+    },
+    {
+     "claim": "神秘主义等于反理性",
+     "why": "其体系高度依赖新柏拉图主义与经院训练，是理性的神学，不是非理性主义。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>埃克哈特：灵魂根基与离弃</text><defs><marker id='aEK' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>灵魂有非受造的根基</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>神在此根基中认识自身</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故救赎是神在灵魂中诞生</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故离弃高于一切德行</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aEK)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aEK)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "埃克哈特：灵魂的根基与“离弃”（示意图）",
+   "sources": [
+    "sep-mysticism",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": true,
+   "pending_notes": "埃克哈特无专属 SEP／IEP 词条（两个站点检索均 404），本页依据 SEP“神秘主义”词条与 Gilson 的中世纪哲学史；其德语布道与拉丁著作的文本状况复杂（部分为门人记录），1329 年教谕谴责了 28 个命题中的一部分，具体归属须核原文。",
+   "doctrine": {
+    "summary": "埃克哈特主张灵魂有一不受造的“根基”或“火花”，神在此根基中认识自身、爱自身，故救赎不是从外部获取而是让神在灵魂中“诞生”。由此他提出“离弃”（Abgeschiedenheit）高于一切德行：因德行仍带有“我”的作为与占有，而彻底的空无才使神得以自由工作。其部分命题在1329年被教廷谴责。",
+    "system": [
+     {
+      "name": "灵魂的根基",
+      "content": "灵魂有非受造的部分；神在此中认识自身；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "神的诞生",
+      "content": "救赎是神在灵魂中的内在事件，非外在赏赐。"
+     },
+     {
+      "name": "离弃",
+      "content": "无所求、无所执；高于任何具体德行；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "存在与认识",
+      "content": "在神中，认识与存在是同一（其拉丁著作的核心论题）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "图林根、巴黎与科隆（约1260—约1328）",
+      "change": "多明我会士；在巴黎两度任神学教授；任萨克森与波希米亚省会长；晚年于科隆受审查，死于阿维尼翁。"
+     }
+    ],
+    "reception": "其布道影响了陶勒与苏索，形成德语神秘主义传统；近代德国思辨（波墨、谢林、海德格尔）对其有持续兴趣；1329 年部分命题受谴责，但其正统性至今仍有讨论。"
+   },
+   "works_detail": [
+    {
+     "title": "《德语布道集》",
+     "structure": "布道与短论；《论离弃》《论神的慰藉》为其中名篇。",
+     "core_thesis": "灵魂根基；离弃；这是该书的核心命题。",
+     "editions": "Kohlhammer 拉丁著作集（LW）；中译参商务印书馆（若有）",
+     "note": "布道由门人记录，文本状况复杂"
+    }
+   ]
   }
  ],
  "concepts": [

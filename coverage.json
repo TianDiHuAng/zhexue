@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 503,
+  "entries": 510,
   "by_level": {
-   "L2": 426,
-   "L1": 77
+   "L2": 431,
+   "L1": 79
   },
   "doctrine": {
-   "total": 190,
-   "detail": 190,
+   "total": 193,
+   "detail": 193,
    "auto": 0
   },
-  "needs_verification": 77,
-  "sources": 286,
-  "sources_verified": 282
+  "needs_verification": 79,
+  "sources": 290,
+  "sources_verified": 286
  },
  "units": [
   {
@@ -128,19 +128,19 @@
    "unit_id": "gr-medieval",
    "title": "中世纪经院哲学",
    "region": "west",
-   "philosophers": 13,
+   "philosophers": 15,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -5"
+   "philosophers_slot": "8 上限，余 -7"
   },
   {
    "unit_id": "gr-modern",
    "title": "近代理性论与经验论",
    "region": "west",
-   "philosophers": 22,
+   "philosophers": 23,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -14"
+   "philosophers_slot": "8 上限，余 -15"
   }
  ],
  "entries": [
@@ -3709,6 +3709,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-medieval-albert",
+   "type": "philosopher",
+   "title": "大阿尔伯特",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-eckhart",
+   "type": "philosopher",
+   "title": "埃克哈特",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-medieval-faith-reason",
    "type": "concept",
    "title": "信仰与理性",
@@ -4094,6 +4116,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-modern-erasmus",
+   "type": "philosopher",
+   "title": "伊拉斯谟",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-modern-idea",
    "type": "concept",
    "title": "观念",
@@ -4259,6 +4292,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-symposium",
+   "type": "work",
+   "title": "《会饮篇》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-republic",
    "type": "work",
    "title": "《理想国》",
@@ -4267,6 +4311,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-timaeus",
+   "type": "work",
+   "title": "《蒂迈欧篇》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -4295,6 +4350,28 @@
    "id": "work-nicomachean",
    "type": "work",
    "title": "《尼各马可伦理学》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-organon",
+   "type": "work",
+   "title": "《工具论》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-categories",
+   "type": "work",
+   "title": "《范畴篇》",
    "container": "west",
    "level": "L2",
    "sources": 2,
