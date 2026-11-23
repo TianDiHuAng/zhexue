@@ -8162,6 +8162,64 @@
    "sort_year": 1060
   },
   {
+   "id": "work-zhangzai-ji",
+   "title": "《张载集》",
+   "title_original": "張載集",
+   "tradition": "china",
+   "date_display": "北宋（张载，1020—1077）；中华书局整理本",
+   "structure": "含《正蒙》《横渠易说》《经学理窟》《张子语录》《文集》《拾遗》等。",
+   "core_arguments": [
+    "“太虚即气”：虚空即气之散而未聚者",
+    "“一物两体”：气含对立，故有变化",
+    "“变化气质”：以学问改造禀受之偏",
+    "“民吾同胞，物吾与也”（《西铭》）"
+   ],
+   "key_points": [
+    {
+     "locator": "《正蒙·太和》",
+     "point": "太虚即气"
+    },
+    {
+     "locator": "《正蒙·参两》",
+     "point": "一物两体"
+    },
+    {
+     "locator": "《正蒙·大心》",
+     "point": "见闻之知与德性之知"
+    },
+    {
+     "locator": "《经学理窟》",
+     "point": "变化气质"
+    }
+   ],
+   "editions": [
+    "章锡琛点校《张载集》（中华书局）"
+   ],
+   "related_people": [
+    "cn-songming-zhang-zai",
+    "cn-songming-cheng-yi",
+    "cn-qingmod-wang-fuzhi"
+   ],
+   "misreadings": [
+    {
+     "claim": "“太虚即气”主张虚空就是空气",
+     "why": "“气”在其说中是**能聚散的存在本原**，不是物理的“空气”；“太虚”是气的本然状态（散而未聚），故它是一个本体论命题。"
+    },
+    {
+     "claim": "张载是“唯物主义者”",
+     "why": "其“气”不能简单等同于物质（它同时也是“神”与“虚”的一面）；以现代范畴套用会抹去其“太虚”的超越性维度。"
+    }
+   ],
+   "sources": [
+    "ws-taijitushuo",
+    "ws-xiangshan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1070
+  },
+  {
    "id": "work-zhengmeng",
    "title": "《正蒙》",
    "title_original": "正蒙",
@@ -8661,6 +8719,63 @@
    "sources": [
     "ws-jinsilu",
     "ws-xiangshan"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1175
+  },
+  {
+   "id": "work-lu-jiuyuan-ji",
+   "title": "《陆九渊集》",
+   "title_original": "陸九淵集",
+   "tradition": "china",
+   "date_display": "南宋（陆九渊，1139—1193）；中华书局整理本",
+   "structure": "三十六卷：书、奏表、记、序赠、杂著、诗、祭文、行状、语录、年谱等。",
+   "core_arguments": [
+    "“心即理”：心与理不二，故不必外求",
+    "“发明本心”：工夫在“先立乎其大者”",
+    "“六经注我”：经典是印证本心的工具"
+   ],
+   "key_points": [
+    {
+     "locator": "《与李宰书》",
+     "point": "“心即理”"
+    },
+    {
+     "locator": "《与曾宅之》",
+     "point": "“发明本心”"
+    },
+    {
+     "locator": "《语录》",
+     "point": "“六经注我，我注六经”"
+    },
+    {
+     "locator": "鹅湖之会（年谱）",
+     "point": "与朱熹的论争"
+    }
+   ],
+   "editions": [
+    "钟哲点校《陆九渊集》（中华书局）"
+   ],
+   "related_people": [
+    "cn-songming-lu-jiuyuan",
+    "cn-songming-zhu-xi",
+    "cn-songming-wang-yangming"
+   ],
+   "misreadings": [
+    {
+     "claim": "“心即理”是说“我心里想的都对”",
+     "why": "其“心”是本心（与理同一的普遍心），不是个人的意见之心；故“心即理”要求的恰是**去除意见**以见本心。"
+    },
+    {
+     "claim": "“六经注我”是轻视经典",
+     "why": "其意为经典是**印证本心**的工具，故读经须以本心为衡；这与轻视经典不同，而是颠倒了二者次序。"
+    }
+   ],
+   "sources": [
+    "ws-xiangshan",
+    "ws-taijitushuo",
+    "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
    "pending_notes": "",
@@ -9342,6 +9457,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "陈献章的哲学文字多为书札与诗，体系性表述有限；其“静坐”说的确切含义与“近禅”之讥须核《陈献章集》与明代学术史研究。",
+   "sort_year": 1480
+  },
+  {
+   "id": "work-chen-xianzhang-ji",
+   "title": "《陈献章集》",
+   "title_original": "陳獻章集",
+   "tradition": "china",
+   "date_display": "明（陈献章，1428—1500）；中华书局整理本",
+   "structure": "含诗、书、序、记、论、说、铭、墓志等；核心为论“静坐”与“自得”的书信。",
+   "core_arguments": [
+    "“为学须从静中坐养出个端倪来”：以静坐为入手",
+    "“自得”：学问须自己得之于心，不由外来",
+    "“以自然为宗”：诗与学皆须自然"
+   ],
+   "key_points": [
+    {
+     "locator": "《与贺克恭黄门》",
+     "point": "静坐见端倪"
+    },
+    {
+     "locator": "《与林缉熙》",
+     "point": "自得之学"
+    },
+    {
+     "locator": "《论诗》",
+     "point": "以自然为宗"
+    },
+    {
+     "locator": "《复张东白》",
+     "point": "与朱学的距离"
+    }
+   ],
+   "editions": [
+    "孙通海点校《陈献章集》（中华书局）"
+   ],
+   "related_people": [
+    "cn-songming-chen-xianzhang",
+    "cn-songming-wang-yangming",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "陈献章主张“废弃读书”",
+     "why": "其“静坐”是**入手**，非全部；他仍重读书（其诗文中屡言穷理），只是主张先“养出端倪”再读书，次序与朱学不同。"
+    },
+    {
+     "claim": "他是阳明学的直接前身",
+     "why": "其学与阳明有承接（重本心、重自得），但“静坐”与“致良知”的路径不同；以“前身”概括会抹去这一差异。"
+    }
+   ],
+   "sources": [
+    "ws-baishaji",
+    "ws-mingru-xuean",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《陈献章集》的整理本以孙通海点校本为通行；其“静坐”的具体做法与其与朱学的距离，须核其书信原文与《明儒学案·白沙学案》。",
    "sort_year": 1480
   },
   {

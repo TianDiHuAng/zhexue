@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1056,
+  "entries": 1061,
   "by_level": {
-   "L2": 783,
-   "L1": 273
+   "L2": 786,
+   "L1": 275
   },
   "doctrine": {
    "total": 248,
    "detail": 248,
    "auto": 0
   },
-  "needs_verification": 273,
+  "needs_verification": 275,
   "sources": 387,
   "sources_verified": 387
  },
@@ -39,7 +39,7 @@
    "title": "宋明理学与心学",
    "region": "china",
    "philosophers": 20,
-   "concepts": 28,
+   "concepts": 30,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -12"
   },
@@ -1660,6 +1660,28 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-bianhua-qizhi",
+   "type": "concept",
+   "title": "变化气质",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-zhonghe",
+   "type": "concept",
+   "title": "未发已发",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -9451,6 +9473,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-zhangzai-ji",
+   "type": "work",
+   "title": "《张载集》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-zhengmeng",
    "type": "work",
    "title": "《正蒙》",
@@ -9546,6 +9579,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-lu-jiuyuan-ji",
+   "type": "work",
+   "title": "《陆九渊集》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -9674,6 +9718,17 @@
    "id": "work-baishaji",
    "type": "work",
    "title": "《陈白沙集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-chen-xianzhang-ji",
+   "type": "work",
+   "title": "《陈献章集》",
    "container": "china",
    "level": "L1",
    "sources": 3,
