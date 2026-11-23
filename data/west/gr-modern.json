@@ -4597,6 +4597,284 @@
      "note": "1536 初版为小册，1559 定本篇幅数倍"
     }
    ]
+  },
+  {
+   "id": "gr-modern-diderot",
+   "name": "狄德罗",
+   "latin": "Denis Diderot",
+   "birth_year": 1713,
+   "death_year": 1784,
+   "birth_display": "1713年",
+   "death_display": "1784年",
+   "birth_note": "据其生平材料：生于法国朗格勒，父为制刀匠。",
+   "death_note": "1784年卒于巴黎。",
+   "era": "18世纪法国启蒙。狄德罗是《百科全书》的主编与灵魂人物：他把知识分类为“记忆—理性—想象”三大领域，以机械论与感觉论解释自然，又以《拉摩的侄儿》与《达朗贝之梦》展示思想的实验性与文学性。",
+   "school": "百科全书派（启蒙唯物主义）",
+   "core_questions": [
+    "知识的统一如何可能？",
+    "物质能否具有感受性？",
+    "决定论与道德是否相容？"
+   ],
+   "arguments": [
+    {
+     "claim": "物质具有感受性：生命与意识可由物质组织的复杂化产生",
+     "premises": [
+      "无机的物质在特定组织中可产生感受性（“胚芽”说）。",
+      "故不需另设一个灵魂实体以解释生命与意识。"
+     ],
+     "inference": "若感受性是物质组织的结果，则生命与心灵不必是另一种实体；故可用同一套原理解释自然与心灵。",
+     "conclusion": "以物质的组织与变化解释生命与意识，不需灵魂实体。",
+     "kind": "原文"
+    },
+    {
+     "claim": "决定论与道德相容：道德判断针对行为的效果与可改善性",
+     "premises": [
+      "人的行为由生理与环境必然决定。",
+      "但可通过对环境与教育的改造使人变善。"
+     ],
+     "inference": "若行为被决定，则责备其“自由选择”无意义；但改造条件仍能改变行为，故道德与教育仍有其位置。",
+     "conclusion": "道德的重心从“自由意志的责罚”转向“条件的改造”。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《百科全书》（主编）《达朗贝之梦》《拉摩的侄儿》《对自然的解释》",
+     "edition": "《狄德罗哲学选集》商务印书馆；DPV（Œuvres complètes，Hermann）",
+     "note": "1751—1772；1769；1762 前后；1753"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "培根与洛克",
+     "id": "gr-modern-locke",
+     "note": "经验论与知识分类"
+    },
+    {
+     "name": "牛顿与机械论",
+     "id": "gr-modern-galileo",
+     "note": "自然科学的模型"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "霍尔巴赫与法国唯物论",
+     "id": "gr-modern-holbach",
+     "note": "自然体系"
+    },
+    {
+     "name": "19世纪唯物主义与进化论",
+     "id": "",
+     "note": "物质与生命的连续性"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "卢梭",
+     "view": "以物质感受性解释一切，则人的自由与道德责任无从成立。",
+     "response": "狄德罗一系的回应是：道德以可改造性为基础，不需形而上学的自由意志。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-diderot",
+      "sep-rousseau"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "狄德罗是系统唯物论者",
+     "why": "他的立场前后有变化（从自然神论到唯物论再到更不确定的“实验哲学”）；《达朗贝之梦》是对话体的探索，不是教条。"
+    },
+    {
+     "claim": "《百科全书》是反宗教的宣传品",
+     "why": "它确有批判性，但其编纂原则是知识的系统整理，且多次遭查禁与删改。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>狄德罗：物质感受性与决定论</text><defs><marker id='aDI' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>物质在特定组织中产生感受性</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故生命与意识不需另一实体</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故行为由生理与环境决定</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故道德转向条件的改造</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aDI)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aDI)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "狄德罗：物质感受性与道德的相容（示意图）",
+   "sources": [
+    "sep-diderot",
+    "sep-holbach"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "狄德罗以“物质具有感受性”解释生命与意识：无机的物质在特定组织中可产生感受性，故不需另设灵魂实体。由此他面对决定论与道德的张力：人的行为由生理与环境必然决定，但可通过对环境与教育的改造使人变善——道德的重心由“自由意志的责罚”转向“条件的改造”。他是《百科全书》的主编。",
+    "system": [
+     {
+      "name": "物质感受性",
+      "content": "物质组织复杂化即产生生命与意识；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "决定论与道德相容",
+      "content": "道德以可改造性为基础，不依赖形而上学的自由意志。"
+     },
+     {
+      "name": "知识的统一",
+      "content": "以记忆、理性、想象三分统摄全部知识（《百科全书》的知识树）。"
+     },
+     {
+      "name": "实验哲学",
+      "content": "以假设与实验交替推进，不追求最终体系；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "朗格勒与巴黎（1713—1784）",
+      "change": "早年译述与著述；1749 年因《论盲人书简》入狱；1751 年起主编《百科全书》（至 1772 年）；晚年著《拉摩的侄儿》等。"
+     }
+    ],
+    "reception": "《百科全书》是启蒙时代知识的集大成；其物质感受性说影响了19世纪的唯物主义与生命科学讨论；《拉摩的侄儿》被黑格尔与马克思高度评价。"
+   },
+   "works_detail": [
+    {
+     "title": "《达朗贝之梦》",
+     "structure": "三篇对话（达朗贝、狄德罗、毕赛尔小姐的梦）；论物质感受性、生命起源与物种变化。",
+     "core_thesis": "物质感受性；生命由物质组织产生。",
+     "editions": "DPV 第17卷；中译见《狄德罗哲学选集》",
+     "note": "1769 年写成，生前未刊"
+    }
+   ]
+  },
+  {
+   "id": "gr-modern-holbach",
+   "name": "霍尔巴赫",
+   "latin": "Paul-Henri Thiry d'Holbach",
+   "birth_year": 1723,
+   "death_year": 1789,
+   "birth_display": "1723年",
+   "death_display": "1789年",
+   "birth_note": "据其生平材料：生于德国埃德斯海姆，后承袭舅父的法国男爵封号。",
+   "death_note": "1789年卒于巴黎。",
+   "era": "18世纪法国。霍尔巴赫是启蒙唯物论最系统的表述者：以《自然体系》主张自然是唯一的存在，一切由必然的因果链决定，宗教源于无知与恐惧；其沙龙是百科全书派的聚会中心。",
+   "school": "机械唯物论（无神论）",
+   "core_questions": [
+    "自然之外是否还有神？",
+    "人是否有自由意志？",
+    "宗教的起源是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "自然是唯一的存在：不需神作为解释",
+     "premises": [
+      "自然是物质与运动的总体，其规律自足。",
+      "设一个神并不解释任何现象，只是把无知命名为原因。"
+     ],
+     "inference": "若自然的规律自足，则神是一个多余的假设；故“无神论”是解释上的节约，而非道德上的放纵。",
+     "conclusion": "自然是唯一实体，神是多余假设。",
+     "kind": "原文"
+    },
+    {
+     "claim": "决定论：一切事件皆由必然的因果链决定",
+     "premises": [
+      "物质运动有固定的规律。",
+      "人的意志是大脑状态的结果，亦在此链条中。"
+     ],
+     "inference": "若一切皆由因果链决定，则“自由意志”是幻觉；但人可认识必然性并据此行动，故仍有“被启蒙的自由”。",
+     "conclusion": "自由不是无因，而是认识并顺应必然。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《自然体系》《揭穿了的基督教》《社会体系》",
+     "edition": "《自然的体系》商务印书馆；《霍尔巴赫著作集》",
+     "note": "1770（匿名，署“米拉波”）；1761；1773"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "洛克与牛顿",
+     "id": "gr-modern-locke",
+     "note": "经验论与机械自然观"
+    },
+    {
+     "name": "狄德罗",
+     "id": "gr-modern-diderot",
+     "note": "百科全书派的同人"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "19世纪唯物论与无神论",
+     "id": null,
+     "note": "宗教批判与唯物主义"
+    },
+    {
+     "name": "决定论与自由意志之争",
+     "id": "",
+     "note": "相容论与不相容论"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "伏尔泰与自然神论者",
+     "view": "彻底的无神论会导致道德的崩溃，且其体系无法解释秩序与目的。",
+     "response": "霍尔巴赫一系的回应是：道德可由自利与社会契约解释，不需神的赏罚；秩序可由规律解释，不需设计者。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-holbach",
+      "sep-voltaire"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "霍尔巴赫是“庸俗唯物论”的代表",
+     "why": "其表述确较机械（一切皆运动与因果），但《自然体系》对宗教起源的心理—社会分析相当细致。"
+    },
+    {
+     "claim": "他主张人完全被动",
+     "why": "他区分“被迫”与“被启蒙后的自主”，认为认识必然性即是自由的形式。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>霍尔巴赫：自然自足与决定论</text><defs><marker id='aHO' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>自然是物质与运动的总体</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>其规律自足不需神</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故神是多余假设</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故一切由因果链决定</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aHO)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aHO)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "霍尔巴赫：自然的自足与决定论（示意图）",
+   "sources": [
+    "sep-holbach",
+    "sep-voltaire"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "霍尔巴赫以《自然体系》主张自然是物质与运动的总体，其规律自足，故设一个神并不解释任何现象——无神论是解释上的节约。他又主张严格的因果决定论：一切事件（含人的意志）皆在必然链条中，故“自由意志”是幻觉，但人可认识必然性并据此行动，此即“被启蒙的自由”。",
+    "system": [
+     {
+      "name": "自然自足",
+      "content": "自然是唯一实体，神是多余的假设；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "因果决定论",
+      "content": "一切事件皆在必然的因果链中；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "宗教的起源",
+      "content": "无知与恐惧使人造神；宗教与专制相互支持。"
+     },
+     {
+      "name": "被启蒙的自由",
+      "content": "认识必然性并顺应之，即为自由的形式；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "埃德斯海姆与巴黎（1723—1789）",
+      "change": "德国出生、法国受教育；承袭男爵封号；其巴黎沙龙是百科全书派的中心；以笔名发表大量无神论著作。"
+     }
+    ],
+    "reception": "《自然体系》是18世纪无神论最系统的著作；其宗教批判影响了费尔巴哈与马克思；决定论与自由的相容论问题在其著作中以较粗糙的形式出现，成为后世讨论的起点。"
+   },
+   "works_detail": [
+    {
+     "title": "《自然体系》",
+     "structure": "两部分：论自然与其规律、论神（及其不存在）；附论人的自由与道德。",
+     "core_thesis": "自然自足；因果决定论；宗教源于无知。",
+     "editions": "《自然的体系》商务印书馆；1770 年匿名本",
+     "note": "署“米拉波”之名出版"
+    }
+   ]
   }
  ],
  "concepts": [

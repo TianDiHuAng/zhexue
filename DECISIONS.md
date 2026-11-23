@@ -103,3 +103,6 @@ WORKFLOW.md 记录旧项目经验是"最多 1 个后台代理"，当时受平台
 
 ## D26 id 唯一性的比对范围
 `R9` 要求 id 在所有条目类型间全局唯一（概念／争论／人物／流派／著作共用命名空间）。第57轮两次撞车的原因都是只比对了同类：`cn-xianqin-tianren` 已是概念 id 又被用作争论 id；`iep-animals` 被误当成已有来源是凭记忆而非查表。规则：新 id 必须先与 `concepts + debates + philosophers + schools + works` 五类全部比对，来源 id 必须查 `sources.json` 而不凭记忆。
+
+## D27 人物页 misc 字段只接受元组列表
+`misconceptions` 必须是 `[("常见说法", "为什么不对"), ...]` 的纯元组列表。第59轮与第65轮各出现一次把 `{"claim":...,"why":...}` 混入的写法，导致 SyntaxError。检查要点：人物页里只有 `arguments`／`criticisms`／`influenced` 等用字典，`misconceptions` 与 `usages`（概念页）一律用元组。

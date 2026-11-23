@@ -5642,6 +5642,118 @@
    "sort_year": 1762
   },
   {
+   "id": "work-rames-nephew",
+   "title": "《拉摩的侄儿》",
+   "title_original": "Le Neveu de Rameau",
+   "tradition": "west",
+   "date_display": "1762年前后写成；1805年（歌德德译本）；1823年（法文原稿）",
+   "structure": "对话体；叙述者“我”（哲学家）与“他”（音乐家拉摩的侄儿）在咖啡馆的长谈，涉及道德、天才、教育、社会寄生与自我意识。",
+   "core_arguments": [
+    "“他”以无耻自居却洞察社会的虚伪：道德在社会中是可交易的外衣",
+    "天才与恶可以共存：社会的“有用”与“可敬”并不一致",
+    "自我意识的辩证：寄生者的自我嘲弄反而揭示了社会的真相"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "“我”与“他”的对照设定"
+    },
+    {
+     "locator": "中段",
+     "point": "道德与利益的可交易性"
+    },
+    {
+     "locator": "后段",
+     "point": "天才与恶的关系"
+    },
+    {
+     "locator": "结尾",
+     "point": "“他”的自我认识"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《拉摩的侄儿》；DPV 第12卷"
+   ],
+   "related_people": [
+    "gr-modern-diderot",
+    "gr-german-hegel",
+    "gr-19c-marx"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是道德劝善的对话",
+     "why": "它不给出道德结论：拉摩的侄儿的自白既有无耻也有诚实，对话在张力中结束。"
+    },
+    {
+     "claim": "黑格尔与马克思的引用使它成为“辩证法”的范例",
+     "why": "黑格尔在《精神现象学》中称其为“分裂的意识”，马克思在《神圣家族》中引用；但这是接受史，不是原作的意图。"
+    }
+   ],
+   "sources": [
+    "sep-diderot",
+    "sep-hegel"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1762
+  },
+  {
+   "id": "work-system-nature",
+   "title": "《自然体系》",
+   "title_original": "Système de la nature",
+   "tradition": "west",
+   "date_display": "1770年（匿名，署“米拉波”之名）",
+   "structure": "两部分：第一部分论自然与其规律、物质与运动、秩序与无秩序；第二部分论神、其属性之矛盾、宗教的起源与危害；附论人的自由、道德与政治。",
+   "core_arguments": [
+    "自然是物质与运动的总体，不需外在的推动者",
+    "神的概念自相矛盾（无限善与恶的存在不相容）",
+    "宗教源于无知与恐惧，并与专制相互支持"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分 第1—6章",
+     "point": "物质、运动与规律"
+    },
+    {
+     "locator": "第二部分 第1—7章",
+     "point": "神的概念之矛盾"
+    },
+    {
+     "locator": "第二部分 第8—13章",
+     "point": "宗教的起源与危害"
+    },
+    {
+     "locator": "附论",
+     "point": "决定论与道德"
+    }
+   ],
+   "editions": [
+    "《自然的体系》商务印书馆；1770 年匿名本（署 Mirabaud）"
+   ],
+   "related_people": [
+    "gr-modern-holbach",
+    "gr-modern-diderot",
+    "gr-19c-marx"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张自然是“机械的”故无任何秩序",
+     "why": "它主张自然是**有规律的**（必然的因果链），恰恰以其规律性取代神意。"
+    },
+    {
+     "claim": "它的无神论是道德放纵的辩护",
+     "why": "它另有《社会体系》论道德与政治，主张以自利与社会契约建立秩序。"
+    }
+   ],
+   "sources": [
+    "sep-holbach",
+    "sep-diderot"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1770
+  },
+  {
    "id": "work-origin-language",
    "title": "《论语言的起源》",
    "title_original": "Abhandlung über den Ursprung der Sprache",

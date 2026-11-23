@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 685,
+  "entries": 689,
   "by_level": {
-   "L2": 580,
+   "L2": 584,
    "L1": 105
   },
   "doctrine": {
-   "total": 217,
-   "detail": 217,
+   "total": 219,
+   "detail": 219,
    "auto": 0
   },
   "needs_verification": 105,
-  "sources": 320,
-  "sources_verified": 316
+  "sources": 322,
+  "sources_verified": 318
  },
  "units": [
   {
@@ -137,10 +137,10 @@
    "unit_id": "gr-modern",
    "title": "近代理性论与经验论",
    "region": "west",
-   "philosophers": 29,
+   "philosophers": 31,
    "concepts": 12,
    "debates": 7,
-   "philosophers_slot": "8 上限，余 -21"
+   "philosophers_slot": "8 上限，余 -23"
   }
  ],
  "entries": [
@@ -5238,6 +5238,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-modern-diderot",
+   "type": "philosopher",
+   "title": "狄德罗",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-holbach",
+   "type": "philosopher",
+   "title": "霍尔巴赫",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-modern-idea",
    "type": "concept",
    "title": "观念",
@@ -6539,6 +6561,28 @@
    "id": "work-emile",
    "type": "work",
    "title": "《爱弥儿》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-rames-nephew",
+   "type": "work",
+   "title": "《拉摩的侄儿》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-system-nature",
+   "type": "work",
+   "title": "《自然体系》",
    "container": "west",
    "level": "L2",
    "sources": 2,
