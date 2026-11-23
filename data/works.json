@@ -7431,6 +7431,63 @@
    "sort_year": 1790
   },
   {
+   "id": "work-vindication-rights-woman",
+   "title": "《女权辩护》",
+   "title_original": "A Vindication of the Rights of Woman",
+   "tradition": "west",
+   "date_display": "1792年",
+   "structure": "十三章：论人类的权利与义务、论性别差异的流行意见、论教育、论婚姻、论政治权利等。",
+   "core_arguments": [
+    "女性所显示的“柔弱”是教育的结果，不是天性：若给同等教育，其理性能力并不逊色",
+    "把女性教养成取悦者，是把奴役的德性当作天性（针对卢梭《爱弥儿》第五卷）",
+    "权利须与义务相配：女性既承担社会与家庭义务，则须有相应的教育与公民权利"
+   ],
+   "key_points": [
+    {
+     "locator": "第2章",
+     "point": "论性别差异的流行意见"
+    },
+    {
+     "locator": "第5章",
+     "point": "对卢梭教育方案的直接批评"
+    },
+    {
+     "locator": "第9章",
+     "point": "论父母与子女的义务"
+    },
+    {
+     "locator": "第12—13章",
+     "point": "论国民教育"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆《女权辩护》；英文维基文库全文；Oxford World's Classics"
+   ],
+   "related_people": [
+    "gr-modern-wollstonecraft",
+    "gr-modern-rousseau",
+    "gr-20c-beauvoir"
+   ],
+   "misreadings": [
+    {
+     "claim": "她主张女性模仿男性",
+     "why": "她主张以理性与人格独立为目标，不是模仿男性；她批评的正是把性别角色当作自然。"
+    },
+    {
+     "claim": "本书只谈教育",
+     "why": "它也论政治权利、婚姻制度与公民身份；教育只是其入手处。"
+    }
+   ],
+   "sources": [
+    "ws-en-wollstonecraft-vindication",
+    "sep-wollstonecraft",
+    "sep-rousseau"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1792
+  },
+  {
    "id": "work-aesthetic-letters",
    "title": "《美育书简》",
    "title_original": "Über die ästhetische Erziehung des Menschen",
@@ -8274,6 +8331,63 @@
    "sort_year": 1847
   },
   {
+   "id": "work-communist-manifesto",
+   "title": "《共产党宣言》",
+   "title_original": "Manifest der Kommunistischen Partei",
+   "tradition": "west",
+   "date_display": "1848年",
+   "structure": "四部分：一、资产者与无产者；二、无产者与共产党人；三、社会主义的和共产主义的文献；四、共产党人对各种反对党派的态度。",
+   "core_arguments": [
+    "“至今一切社会的历史都是阶级斗争的历史”（1888 年英文版加注：指有文字记载的历史）",
+    "资产阶级在历史上起了革命的作用，但生产的社会化与占有的私人性之间产生矛盾",
+    "共产党人的最近目的是“使无产阶级形成为阶级，推翻资产阶级的统治，由无产阶级夺取政权”"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "阶级斗争与资产阶级的历史作用"
+    },
+    {
+     "locator": "第二部分",
+     "point": "共产党的目的与过渡措施"
+    },
+    {
+     "locator": "第三部分",
+     "point": "对“封建的”“小资产阶级的”“德国的”社会主义的批评"
+    },
+    {
+     "locator": "第四部分",
+     "point": "对各反对党派的态度"
+    }
+   ],
+   "editions": [
+    "《马克思恩格斯选集》第1卷人民出版社；英文维基文库全文"
+   ],
+   "related_people": [
+    "gr-19c-marx",
+    "gr-19c-engels",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "“一切社会的历史都是阶级斗争的历史”是无条件表述",
+     "why": "1888 年英文版恩格斯加注限定为“有文字记载的历史”；原句的适用范围由此明确。"
+    },
+    {
+     "claim": "它是马克思与恩格斯的成熟理论体系",
+     "why": "它是论战性的政治宣言（1848 年），《资本论》的系统论证在其后；二者文体与论证层次不同。"
+    }
+   ],
+   "sources": [
+    "ws-en-communist-manifesto",
+    "sep-marx",
+    "marx-chinese"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1848
+  },
+  {
    "id": "work-walden",
    "title": "《瓦尔登湖》",
    "title_original": "Walden; or, Life in the Woods",
@@ -8608,6 +8722,62 @@
    "sort_year": 1867
   },
   {
+   "id": "work-subjection-women",
+   "title": "《妇女的屈从地位》",
+   "title_original": "The Subjection of Women",
+   "tradition": "west",
+   "date_display": "1869年",
+   "structure": "四章：论法律对女性的不平等、论婚姻法与家庭、论女性的就业与教育、论改革的方向。",
+   "core_arguments": [
+    "现存的不平等是“法律与习俗”的产物，不是自然的安排：它使女性从属于男性",
+    "以“经验”为不平等辩护是循环论证：不平等本身排除了检验女性能力的机会",
+    "改革的目标是法律上的平等（财产、婚姻、选举）与开放的就业"
+   ],
+   "key_points": [
+    {
+     "locator": "第1章",
+     "point": "法律的不平等与“自然”的辩护"
+    },
+    {
+     "locator": "第2章",
+     "point": "婚姻法中的从属"
+    },
+    {
+     "locator": "第3章",
+     "point": "就业与教育"
+    },
+    {
+     "locator": "第4章",
+     "point": "改革的方向"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆（若有）；英文维基文库全文"
+   ],
+   "related_people": [
+    "gr-19c-mill",
+    "gr-modern-wollstonecraft",
+    "gr-20c-beauvoir"
+   ],
+   "misreadings": [
+    {
+     "claim": "密尔主张女性在各方面与男性完全相同",
+     "why": "他主张的是法律与机会的平等；关于能力差异，他的论点是“现有经验不足以判断”，不是断定无差异。"
+    },
+    {
+     "claim": "本书是他《论自由》的应用",
+     "why": "其原则相通（自由与个性），但本书的论证重心在法律与婚姻制度的具体不平等。"
+    }
+   ],
+   "sources": [
+    "ws-en-mill-subjection",
+    "sep-mill"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1869
+  },
+  {
    "id": "work-dialectics-nature",
    "title": "《自然辩证法》",
    "title_original": "Dialektik der Natur",
@@ -8825,6 +8995,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "“哲学基本问题”与“两大阵营”的表述出自恩格斯而非马克思；恩格斯与马克思思想的一致性是西方马克思主义的长期议题，本页并列而不裁定。",
+   "sort_year": 1886
+  },
+  {
+   "id": "work-beyond-good-evil",
+   "title": "《善恶的彼岸》",
+   "title_original": "Jenseits von Gut und Böse",
+   "tradition": "west",
+   "date_display": "1886年",
+   "structure": "九章＋序与终曲：论哲学家的偏见、自由精神、宗教性、箴言与间奏、论道德的自然史、我们学者、我们的德性、民族与国家、什么是高贵。",
+   "core_arguments": [
+    "哲学家的“体系”往往是为其本能作辩护（“每一种哲学都是一种隐秘的意志的告白”）",
+    "道德的判断须有其“自然史”：追溯其起源与功能，而非接受其自明的权威",
+    "价值有等级：以“高贵”与“群畜”之别取代善与恶的二分"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "论哲学家的偏见"
+    },
+    {
+     "locator": "第五章",
+     "point": "论道德的自然史"
+    },
+    {
+     "locator": "第九章",
+     "point": "什么是高贵"
+    },
+    {
+     "locator": "序",
+     "point": "“假定真理是一个女人”"
+    }
+   ],
+   "editions": [
+    "中译参商务印书馆（若有）；KSA 第5卷；英文维基文库全文"
+   ],
+   "related_people": [
+    "gr-19c-nietzsche",
+    "gr-19c-schopenhauer",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张“一切皆允许”",
+     "why": "它批判既有道德的权威，但不是取消一切价值；尼采要求的是价值的重估与等级的重建。"
+    },
+    {
+     "claim": "它是格言的无系统汇编",
+     "why": "格言体是其方法（迫使读者自己思考），但九章的结构有明显的论题推进。"
+    }
+   ],
+   "sources": [
+    "ws-en-nietzsche-beyond",
+    "sep-nietzsche",
+    "iep-nietzsche"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": 1886
   },
   {

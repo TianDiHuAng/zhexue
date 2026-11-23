@@ -1,9 +1,9 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 795,
+  "entries": 799,
   "by_level": {
-   "L2": 656,
+   "L2": 660,
    "L1": 139
   },
   "doctrine": {
@@ -12,8 +12,8 @@
    "auto": 0
   },
   "needs_verification": 139,
-  "sources": 340,
-  "sources_verified": 340
+  "sources": 344,
+  "sources_verified": 344
  },
  "units": [
   {
@@ -7669,6 +7669,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-vindication-rights-woman",
+   "type": "work",
+   "title": "《女权辩护》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-aesthetic-letters",
    "type": "work",
    "title": "《美育书简》",
@@ -7834,6 +7845,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-communist-manifesto",
+   "type": "work",
+   "title": "《共产党宣言》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-walden",
    "type": "work",
    "title": "《瓦尔登湖》",
@@ -7900,6 +7922,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-subjection-women",
+   "type": "work",
+   "title": "《妇女的屈从地位》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-dialectics-nature",
    "type": "work",
    "title": "《自然辩证法》",
@@ -7941,6 +7974,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-beyond-good-evil",
+   "type": "work",
+   "title": "《善恶的彼岸》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
