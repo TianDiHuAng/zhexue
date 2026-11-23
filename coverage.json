@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 1083,
+  "entries": 1088,
   "by_level": {
    "L2": 786,
-   "L1": 297
+   "L1": 302
   },
   "doctrine": {
    "total": 254,
    "detail": 254,
    "auto": 0
   },
-  "needs_verification": 297,
+  "needs_verification": 302,
   "sources": 396,
   "sources_verified": 396
  },
@@ -9748,6 +9748,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-sishu-zhangju",
+   "type": "work",
+   "title": "《四书章句集注》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-xiuxue-jiyan",
    "type": "work",
    "title": "《习学记言序目》",
@@ -9781,6 +9792,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-de-ente-et-essentia",
+   "type": "work",
+   "title": "《论存在与本质》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-summa",
    "type": "work",
    "title": "《神学大全》",
@@ -9810,6 +9832,17 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-de-primo-principio",
+   "type": "work",
+   "title": "《论第一原理》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -11577,6 +11610,28 @@
    "id": "cmp-akrasia",
    "type": "comparative",
    "title": "知而不行：亚里士多德的 akrasia 与朱子的“知未至”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 5,
+   "verified_sources": 5,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-analogia",
+   "type": "comparative",
+   "title": "存在的类比与“理一分殊”：两种处理“同名异指”的方案",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-aiyu",
+   "type": "comparative",
+   "title": "爱欲、爱智与仁：三种“爱”的结构",
    "container": "comparative",
    "level": "L1",
    "sources": 5,

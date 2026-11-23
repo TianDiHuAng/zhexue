@@ -9234,6 +9234,63 @@
    "sort_year": 1190
   },
   {
+   "id": "work-sishu-zhangju",
+   "title": "《四书章句集注》",
+   "title_original": "四書章句集注",
+   "tradition": "china",
+   "date_display": "南宋（朱熹，1177年《集注》成；1190年合刊）",
+   "structure": "含《大学章句》《中庸章句》《论语集注》《孟子集注》四部；以“章句”与“集注”两体并用。",
+   "core_arguments": [
+    "以“理”释“性”：性即理",
+    "“格物致知”：即物穷理，积累而豁然贯通",
+    "《大学》的“三纲八目”为为学次第的纲领"
+   ],
+   "key_points": [
+    {
+     "locator": "《大学章句》序",
+     "point": "三纲八目与“格物补传”"
+    },
+    {
+     "locator": "《中庸章句》序",
+     "point": "“人心道心”与道统"
+    },
+    {
+     "locator": "《论语集注》",
+     "point": "以理学释仁"
+    },
+    {
+     "locator": "《孟子集注》",
+     "point": "性善与“四端”"
+    }
+   ],
+   "editions": [
+    "中华书局《四书章句集注》（点校本）；朱熹《四书或问》可参"
+   ],
+   "related_people": [
+    "cn-songming-zhu-xi",
+    "cn-xianqin-kongzi",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“注释”，不构成独立的哲学",
+     "why": "它以注释为体，但处处以自己的理学框架重释经典（如以“理”释“性”、以“格物”释“格物”）；元代以后成为科举定本，其影响远逾一般注疏。"
+    },
+    {
+     "claim": "《大学章句》的“格物补传”是原文",
+     "why": "朱熹明言《大学》原文有阙，故“补传”是他所补（一百三十四字）；这一“补”本身即其哲学的重构。"
+    }
+   ],
+   "sources": [
+    "ws-liji",
+    "ws-taijitushuo",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《四书章句集注》的成书与修订过程（《集注》与《或问》的关系）须核；其“格物补传”非《大学》原文，是朱熹所补，须与古本《大学》分辨。",
+   "sort_year": 1190
+  },
+  {
    "id": "work-xiuxue-jiyan",
    "title": "《习学记言序目》",
    "title_original": "習學記言序目",
@@ -9401,6 +9458,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1205
+  },
+  {
+   "id": "work-de-ente-et-essentia",
+   "title": "《论存在与本质》",
+   "title_original": "De ente et essentia",
+   "tradition": "west",
+   "date_display": "约1252—1256年（阿奎那，青年著作）",
+   "structure": "六章：本质（essentia）的含义、本质在复合实体与纯形式中的情形、本质与逻辑种的 relations、神中的本质与存在之同一。",
+   "core_arguments": [
+    "本质是“定义所表示者”（quod significat definitio）",
+    "在受造物中本质与存在（esse）相异：存在由外而来",
+    "在神中本质与存在同一：神是“自有的存在”（ipsum esse）"
+   ],
+   "key_points": [
+    {
+     "locator": "第1章",
+     "point": "本质的含义"
+    },
+    {
+     "locator": "第2章",
+     "point": "复合实体的本质与质料"
+    },
+    {
+     "locator": "第4章",
+     "point": "本质与存在在受造物中的相异"
+    },
+    {
+     "locator": "第6章",
+     "point": "神中本质与存在的同一"
+    }
+   ],
+   "editions": [
+    "拉丁原文 Opera omnia（Leonine）；英译（Maurer, On Being and Essence）"
+   ],
+   "related_people": [
+    "gr-medieval-aquinas",
+    "gr-medieval-avicenna",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《神学大全》的节本",
+     "why": "它是**青年时期的独立论著**（约1252—56），以“本质”为专题，行文为经院式的定义与分辨；其结论虽与后期一致，但论证的路径与语境不同。"
+    },
+    {
+     "claim": "“本质与存在的相异”是阿奎那的原创",
+     "why": "该区分源自**伊本·西那**（本质不包含存在）；阿奎那的改造在于把“存在”理解为**现实活动**（actus essendi），而不只是一个附加的“有”。"
+    }
+   ],
+   "sources": [
+    "sep-aquinas",
+    "book-copleston-history",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论存在与本质》的成书年代（约1252—56）与真伪在学界大体一致，但各本的章节划分有差异；本页依 Leonine 本与 Maurer 英译概述。",
+   "sort_year": 1255
   },
   {
    "id": "work-summa",
@@ -9572,6 +9686,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《坛经》的版本系统（敦煌本、惠昕本、契嵩本、宗宝本）与作者问题是学界长期议题；本页以敦煌本与宗宝本的差异为据，不作单一作者断定。",
+   "sort_year": 1290
+  },
+  {
+   "id": "work-de-primo-principio",
+   "title": "《论第一原理》",
+   "title_original": "De primo principio",
+   "tradition": "west",
+   "date_display": "约1290年（司各脱）",
+   "structure": "四章：论存在者的秩序、论第一因的无限性、论第一因的智慧与意志、论第一因的三位一体（末章较短）。",
+   "core_arguments": [
+    "以“存在者”的秩序推出一个第一因",
+    "第一因必是无限的（否则可有更大的）",
+    "第一因以智慧与意志创造（故不是必然流溢）"
+   ],
+   "key_points": [
+    {
+     "locator": "第1章",
+     "point": "存在者的三重秩序"
+    },
+    {
+     "locator": "第2章",
+     "point": "第一因的无限性"
+    },
+    {
+     "locator": "第3章",
+     "point": "智慧与意志"
+    },
+    {
+     "locator": "第4章",
+     "point": "三位一体"
+    }
+   ],
+   "editions": [
+    "拉丁原文 Opera omnia（Vatican）；英译（Wolter, A Treatise on God as First Principle）"
+   ],
+   "related_people": [
+    "gr-medieval-duns-scotus",
+    "gr-medieval-aquinas",
+    "gr-medieval-avicenna"
+   ],
+   "misreadings": [
+    {
+     "claim": "它重复了阿奎那的五路证明",
+     "why": "其路径不同：司各脱从**存在者的秩序与无限性**出发，且强调第一因的**自由创造**（反对必然流溢），故其结论与阿奎那有别。"
+    },
+    {
+     "claim": "它是自然神学的著作，与信仰无关",
+     "why": "其末章转向三位一体，说明其目的是以理性**趋近**信仰的奥秘（虽哲学只能达到“无限存在者”，不能达到三位一体）。"
+    }
+   ],
+   "sources": [
+    "sep-aquinas",
+    "book-copleston-history",
+    "sep-augustine"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论第一原理》的成书年代（约1290）与各本章节划分须核梵蒂冈版《司各脱全集》；其与《牛津评注》的关系亦是线索。",
    "sort_year": 1290
   },
   {
