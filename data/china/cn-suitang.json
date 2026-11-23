@@ -2725,6 +2725,41 @@
    ],
    "needs_verification": true,
    "pending_notes": "《大乘起信论》的成立问题（印度撰述／中国撰述）自隋代以来争论不断，故其思想的归属须谨慎；本页述其义理结构，不判定其成立地。"
+  },
+  {
+   "id": "cn-suitang-buzhenkong",
+   "term": "不真空",
+   "term_latin": "not-truly-empty",
+   "definition": "僧肇《不真空论》的核心命题：万物“不真”故“空”，不是“不存在”故空。它以“缘起”说明现象无自性，同时避免把“空”当作另一个实体。",
+   "usages": [
+    {
+     "name": "僧肇",
+     "usage": "“不真故空”：物无自性而非无物。"
+    },
+    {
+     "name": "王弼（对照）",
+     "usage": "以“无”为本：贵无之说易被理解为“以无为实体”。"
+    },
+    {
+     "name": "《中论》（来源）",
+     "usage": "以“缘起性空”与“八不”破有无二边。"
+    }
+   ],
+   "related": [
+    "cn-suitang-er-di"
+   ],
+   "example": {
+    "text": "“不真空”针对的是两种误读：一是“空即无所有”（断见），二是“空外别有实理”（常见）。僧肇的表述是“不真”即“空”——故空是**对自性的否定**，不是对存在的否定。",
+    "figure": "僧肇",
+    "locator": "《肇论·不真空论》"
+   },
+   "sources": [
+    "ws-zhaolun",
+    "ws-mohezhiguan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

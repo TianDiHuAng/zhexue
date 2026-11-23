@@ -3719,6 +3719,82 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-transcendentals",
+   "term": "超越属性",
+   "term_latin": "transcendentalia",
+   "definition": "经院哲学的“超越者”：凡存在者皆有的属性——一（unum）、真（verum）、善（bonum），后世加“美”（pulchrum）。它们“超越”一切范畴，因而不属于某一类存在者。",
+   "usages": [
+    {
+     "name": "阿奎那",
+     "id": "gr-medieval-aquinas",
+     "usage": "存在、一、真、善可互换（convertuntur）：凡存在者皆一、皆真、皆善。"
+    },
+    {
+     "name": "亚里士多德（来源）",
+     "usage": "以“存在之為存在”的诸属性为形而上学对象。"
+    },
+    {
+     "name": "司各脱（改造）",
+     "id": "gr-medieval-duns-scotus",
+     "usage": "以“存在”为最普遍的概念，超越属性由此推得。"
+    }
+   ],
+   "related": [
+    "gr-medieval-esse",
+    "gr-medieval-analogy-being"
+   ],
+   "example": {
+    "text": "“超越属性”的妙处在于它们**不可分类**：任何分类都须先有存在者，而这些属性属于一切存在者，故它们先于范畴——这一结构使经院形而上学得以用最少的词覆盖最大的范围。",
+    "figure": "阿奎那",
+    "locator": "《论真理》q.1；《神学大全》I, q.11"
+   },
+   "sources": [
+    "sep-aquinas",
+    "sep-aristotle",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-theological-virtues",
+   "term": "神学德性",
+   "term_latin": "virtutes theologicae",
+   "definition": "阿奎那的三德：信（fides）、望（spes）、爱（caritas）。与“理智德性”“道德德性”不同，它们的对象直接是上帝，且**由上帝注入**而非由习惯养成。",
+   "usages": [
+    {
+     "name": "阿奎那",
+     "id": "gr-medieval-aquinas",
+     "usage": "信、望、爱以神为对象，非人力所可自致（infusae）。"
+    },
+    {
+     "name": "亚里士多德（对照）",
+     "usage": "德性由习惯养成（hexis），不需“注入”。"
+    },
+    {
+     "name": "奥古斯丁（先声）",
+     "id": "gr-medieval-augustine",
+     "usage": "以爱（caritas）为一切德性的形式。"
+    }
+   ],
+   "related": [
+    "gr-medieval-grace",
+    "gr-medieval-synderesis"
+   ],
+   "example": {
+    "text": "“神学德性”与“道德德性”的差别是**来源**而非**重要性**：道德德性可由训练获得（如勇敢），神学德性却只能被给予——故阿奎那的伦理学在自然与恩典之间画了一条不可跨越的线（此即其与纯自然主义伦理学的分歧点）。",
+    "figure": "阿奎那",
+    "locator": "《神学大全》I-II, q.62"
+   },
+   "sources": [
+    "sep-aquinas",
+    "sep-augustine",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

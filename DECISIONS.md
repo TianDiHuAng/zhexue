@@ -155,3 +155,9 @@ Perseus（`per-*`）对该 UA 一律 403，不可用。
 站点发布走 GitHub Actions（`.github/workflows/pages.yml`）：check.py（门）→ gen_state + gen_site → check_links.py（门）→ upload-pages-artifact → deploy-pages。
 `site/.nojekyll` 由 `gen_site.py` 每次生成（纯静态 HTML 不需 Jekyll）。
 仍需人工一步：仓库 Settings → Pages → Source = "GitHub Actions"。
+
+## D36 D31 的著作版：写著作前先 grep 标题
+第100轮两次撞车：《肇论》（work-zhaolun / work-zhaolun-full）、《弘明集》（work-hongmingji / work-hongming-ji）。
+成因同 D31：id 是新的，所以 precheck 通过，但**同一部书已经存在**。
+规程：新增著作前，先 `grep -o '"title": "[^"]*"' data/works.json` 查中文书名，再决定 id。
+兜底仍是 F 步体检的全站 `<title>` 去重（第100轮正是靠它抓出的）。

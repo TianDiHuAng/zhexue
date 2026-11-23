@@ -4359,6 +4359,63 @@
    "sort_year": 250
   },
   {
+   "id": "work-sheng-wu-aile",
+   "title": "《声无哀乐论》",
+   "title_original": "聲無哀樂論",
+   "tradition": "china",
+   "date_display": "约3世纪（嵇康）",
+   "structure": "一篇（设“秦客”与“东野主人”问答八难八答）；核心为声音与情感的关系，兼及“移风易俗”的乐教问题。",
+   "core_arguments": [
+    "声音本身只有“和”与“不和”（谐与不谐），无“哀”与“乐”",
+    "哀乐是听者心中先有的情感被触发，故“声无哀乐”",
+    "由此否定“乐”可以移风易俗：风俗之变在政教，不在声"
+   ],
+   "key_points": [
+    {
+     "locator": "第一难",
+     "point": "“声无哀乐”的提出"
+    },
+    {
+     "locator": "中段",
+     "point": "“先有之情”与“触而发之”"
+    },
+    {
+     "locator": "后段",
+     "point": "对“移风易俗”的批评"
+    },
+    {
+     "locator": "末段",
+     "point": "“和”与“不和”的审美判断"
+    }
+   ],
+   "editions": [
+    "鲁迅《嵇康集》校本；戴明扬《嵇康集校注》人民文学出版社"
+   ],
+   "related_people": [
+    "cn-weijin-jikang",
+    "cn-xianqin-kongzi",
+    "cn-weijin-wangbi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张音乐没有审美价值",
+     "why": "它承认“声有和与不和”（谐与不谐），故保留了审美判断；否定的只是“声含哀乐之情”这一情感内容说。"
+    },
+    {
+     "claim": "它主张音乐与政治无关",
+     "why": "它否定的是“乐”能移风易俗的因果，不是否认音乐与政治的同构关系；其论辩针对的是汉儒的乐教说。"
+    }
+   ],
+   "sources": [
+    "ws-shishuo-xinyu",
+    "ws-hongming-ji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《声无哀乐论》全文见《嵇康集》（今本经后人辑校，鲁迅与戴明扬校本较通行）；本页依玄学研究与《世说新语》所记概述，具体文句须核校本。",
+   "sort_year": 250
+  },
+  {
    "id": "work-chongyoulun",
    "title": "《崇有论》",
    "title_original": "崇有論",
@@ -4584,59 +4641,59 @@
   {
    "id": "work-zhaolun",
    "title": "《肇论》",
-   "title_original": "肇論（Zhaolun）",
+   "title_original": "肇論",
    "tradition": "china",
-   "date_display": "约5世纪初（东晋）",
-   "structure": "四篇：《宗本义》《物不迁论》《不真空论》《般若无知论》（另有《涅槃无名论》为后附）。以中观义理回应玄学的“有无”之辨，是中国佛教哲学最早的系统论著。",
+   "date_display": "约5世纪初（僧肇）",
+   "structure": "四篇（通行本）：《物不迁论》《不真空论》《般若无知论》《涅槃无名论》（末篇真伪有争议）。",
    "core_arguments": [
-    "不真空：万物缘起而无自性，故空；然空不异于假有，非灭有而后空（《不真空论》）",
-    "物不迁：动静不二，往物不去、今物不来，故“旋岚偃岳而常静”（《物不迁论》）",
-    "般若无知：圣智不执取对象，故能照见实相（《般若无知论》）"
+    "《物不迁论》：万物“不迁”——动在因缘的相续，而物各住其位",
+    "《不真空论》：“不真故空”，破有无二边",
+    "《般若无知论》：般若“无知”而“无所不知”（不取相故无知，无所不照故无不知）"
    ],
    "key_points": [
     {
-     "locator": "《不真空论》",
-     "point": "“不真”故“空”：以缘起破自性，而不坏假名"
+     "locator": "《物不迁论》",
+     "point": "“旋风偃岳而常静”"
     },
     {
-     "locator": "《物不迁论》",
-     "point": "“求向物于向，于向未尝无；责向物于今，于今未尝有”"
+     "locator": "《不真空论》",
+     "point": "“不真故空”"
     },
     {
      "locator": "《般若无知论》",
-     "point": "“虚其心而实其照”"
+     "point": "“无知”而“无所不知”"
     },
     {
-     "locator": "《宗本义》",
-     "point": "以“本无”会通般若与玄学"
+     "locator": "《涅槃无名论》",
+     "point": "涅槃不可名（真伪有争议）"
     }
    ],
    "editions": [
-    "《大正藏》第45册",
-    "张春波《肇论校释》，中华书局",
-    "英译见 Walter Liebenthal, *Chao Lun: The Treatises of Sengzhao*"
+    "张春波《肇论校释》中华书局；《大正藏》第45卷"
    ],
    "related_people": [
-    "cn-suitang-jizang",
+    "cn-weijin-sengzhao",
+    "cn-weijin-huiyuan",
     "cn-weijin-wangbi"
    ],
    "misreadings": [
     {
-     "claim": "《肇论》主张“一切皆无”",
-     "why": "“不真空”明确反对把空理解为断灭；空是“无自性”，假有宛然。"
+     "claim": "《物不迁论》主张一切静止不动",
+     "why": "它主张的是“动”不由一物从此刻移至下一刻（物各住其位），变化是因缘的相续——故“不迁”是对“迁”的重新解释，不是否认变化。"
     },
     {
-     "claim": "僧肇只是翻译家",
-     "why": "《肇论》被视为中国佛教哲学成熟的标志，其对“物不迁”的论证有创造性，不只是译文拼接。"
+     "claim": "《涅槃无名论》是僧肇所作",
+     "why": "该篇的真伪自唐代以来有争议，学界多有怀疑；前三篇的归属则无异议。"
     }
    ],
    "sources": [
     "ws-zhaolun",
-    "sep-madhyamaka"
+    "ws-mohezhiguan",
+    "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "《涅槃无名论》是否僧肇所作有争议（或为后人所加）；《宗本义》的作者归属亦有讨论。",
-   "sort_year": 400
+   "pending_notes": "《涅槃无名论》的真伪（是否为僧肇所作）自唐代以来有争议；本页并述四篇之说，并对末篇标出存疑。",
+   "sort_year": 405
   },
   {
    "id": "work-city-of-god",
@@ -4924,61 +4981,6 @@
   },
   {
    "id": "work-hongmingji",
-   "title": "《弘明集》",
-   "title_original": "弘明集",
-   "tradition": "china",
-   "date_display": "约510年",
-   "structure": "十四卷；僧祐编集东汉至梁的护法文献，含牟子《理惑论》、慧远《沙门不敬王者论》《三报论》、范泰与何承天往复等。",
-   "core_arguments": [
-    "佛法与名教可以相容：出家不废忠孝之本",
-    "形尽神不灭：业报相续的根据",
-    "夷夏之辨与儒佛之争的往复"
-   ],
-   "key_points": [
-    {
-     "locator": "卷一",
-     "point": "牟子《理惑论》"
-    },
-    {
-     "locator": "卷五",
-     "point": "慧远《沙门不敬王者论》"
-    },
-    {
-     "locator": "卷三",
-     "point": "宗炳《明佛论》与神不灭之争"
-    },
-    {
-     "locator": "卷九—十",
-     "point": "夷夏之辨的往复"
-    }
-   ],
-   "editions": [
-    "《弘明集》（四部叢刊本）；中华书局《弘明集校笺》"
-   ],
-   "related_people": [
-    "cn-weijin-huiyuan",
-    "cn-weijin-sengzhao"
-   ],
-   "misreadings": [
-    {
-     "claim": "《弘明集》是佛经",
-     "why": "它是中国人所作的护法文献汇编，非译经。"
-    },
-    {
-     "claim": "所收文献皆主张一致",
-     "why": "其中包含反驳方的文章（如何承天、范泰），是往复论辩的记录。"
-    }
-   ],
-   "sources": [
-    "ws-hongmingji2",
-    "book-chan-sourcebook"
-   ],
-   "needs_verification": true,
-   "pending_notes": "《弘明集》所收文献的作者、年代与文本传承多有讨论；部分篇章（如《理惑论》）的成书年代学界有争议。",
-   "sort_year": 510
-  },
-  {
-   "id": "work-hongming-ji",
    "title": "《弘明集》",
    "title_original": "弘明集",
    "tradition": "china",

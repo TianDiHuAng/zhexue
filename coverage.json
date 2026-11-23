@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 913,
+  "entries": 917,
   "by_level": {
-   "L2": 732,
-   "L1": 181
+   "L2": 735,
+   "L1": 182
   },
   "doctrine": {
    "total": 235,
    "detail": 235,
    "auto": 0
   },
-  "needs_verification": 181,
+  "needs_verification": 182,
   "sources": 363,
   "sources_verified": 363
  },
@@ -48,7 +48,7 @@
    "title": "隋唐佛学",
    "region": "china",
    "philosophers": 14,
-   "concepts": 19,
+   "concepts": 20,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -6"
   },
@@ -57,7 +57,7 @@
    "title": "魏晋玄学",
    "region": "china",
    "philosophers": 13,
-   "concepts": 17,
+   "concepts": 18,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -5"
   },
@@ -129,7 +129,7 @@
    "title": "中世纪经院哲学",
    "region": "west",
    "philosophers": 18,
-   "concepts": 18,
+   "concepts": 20,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -1960,6 +1960,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-suitang-buzhenkong",
+   "type": "concept",
+   "title": "不真空",
+   "container": "cn-suitang",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-suitang-dunjian",
    "type": "debate",
    "title": "顿悟与渐修",
@@ -2375,6 +2386,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-sheng-wu-aile",
+   "type": "concept",
+   "title": "声无哀乐",
+   "container": "cn-weijin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
@@ -6228,6 +6250,28 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-medieval-transcendentals",
+   "type": "concept",
+   "title": "超越属性",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-medieval-theological-virtues",
+   "type": "concept",
+   "title": "神学德性",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-medieval-universals-debate",
    "type": "debate",
    "title": "共相是实在还是名称",
@@ -7867,6 +7911,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-sheng-wu-aile",
+   "type": "work",
+   "title": "《声无哀乐论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-chongyoulun",
    "type": "work",
    "title": "《崇有论》",
@@ -7916,8 +7971,8 @@
    "title": "《肇论》",
    "container": "china",
    "level": "L1",
-   "sources": 2,
-   "verified_sources": 2,
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -7978,17 +8033,6 @@
   },
   {
    "id": "work-hongmingji",
-   "type": "work",
-   "title": "《弘明集》",
-   "container": "china",
-   "level": "L1",
-   "sources": 2,
-   "verified_sources": 2,
-   "needs_verification": true,
-   "updated": "2026-11-23"
-  },
-  {
-   "id": "work-hongming-ji",
    "type": "work",
    "title": "《弘明集》",
    "container": "china",

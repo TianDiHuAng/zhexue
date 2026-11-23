@@ -2674,6 +2674,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-weijin-sheng-wu-aile",
+   "term": "声无哀乐",
+   "term_latin": "sound has no sorrow or joy",
+   "definition": "嵇康《声无哀乐论》的核心命题：音乐（声音）本身不含哀乐之情，哀乐是听者心中先有的情感被触发。故“乐”不能移风易俗——这一命题直接挑战了儒家的乐教传统。",
+   "usages": [
+    {
+     "name": "嵇康",
+     "id": "cn-weijin-jikang",
+     "usage": "“声音自当以善恶为主，则无关于哀乐”：声只有和与不和，无哀与乐。"
+    },
+    {
+     "name": "儒家乐教（被批评者）",
+     "usage": "以“乐”与政通、可以移风易俗（《乐记》一系）。"
+    },
+    {
+     "name": "《乐记》（对照）",
+     "usage": "“其哀心感者，其声噍以杀”：以声为心之情的表现。"
+    }
+   ],
+   "related": [
+    "cn-weijin-mingjiao-ziran"
+   ],
+   "example": {
+    "text": "嵇康的论证要害在“先有之情”：同一段音乐，喜者听之而喜，悲者听之而悲——故哀乐在听者，不在声。这一分析使他能同时承认“声有和与不和”（审美判断）而否认“声有哀乐”（情感内容）。",
+    "figure": "嵇康",
+    "locator": "《声无哀乐论》"
+   },
+   "sources": [
+    "ws-shishuo-xinyu",
+    "ws-hongming-ji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《声无哀乐论》全文见《嵇康集》（今本经后人辑校，鲁迅《嵇康集》校本较通行）；本页依玄学研究与《世说新语》所记，具体文句须核《嵇康集》。"
   }
  ],
  "debates": [
