@@ -1638,6 +1638,145 @@
      "note": "今本经后人整理，有附益成分"
     }
    ]
+  },
+  {
+   "id": "cn-suitang-zongmi",
+   "name": "宗密",
+   "latin": "Guifeng Zongmi",
+   "birth_year": 780,
+   "death_year": 841,
+   "birth_display": "780年",
+   "death_display": "841年",
+   "birth_note": "据《宋高僧传》：生于果州西充，俗姓何。",
+   "death_note": "841年卒于长安，谥“定慧禅师”。",
+   "era": "中唐。宗密为华严宗五祖，又承荷泽神会一系的禅法；他以《禅源诸诠集都序》主张“禅教一致”，以《原人论》判摄儒道释三教，是唐代佛教内部整合的代表。",
+   "school": "华严宗（禅教一致）",
+   "core_questions": [
+    "禅与教（经论）是否对立？",
+    "三教（儒道释）如何判摄？",
+    "众生本觉为何不觉？"
+   ],
+   "arguments": [
+    {
+     "claim": "禅教一致：禅是佛心，教是佛语，不可偏废",
+     "premises": [
+      "禅者以心传心，教者以经论传义。",
+      "偏禅则废教证，偏教则失心要。"
+     ],
+     "inference": "若心与语同出于佛，则禅与教本是一事的两面；故须“以教照心、以心证教”。",
+     "conclusion": "禅教一致：参禅须依教理印证，研教须以心证为归。",
+     "kind": "原文"
+    },
+    {
+     "claim": "三教判摄：以“本觉”为最高，儒道为“人天”之教",
+     "premises": [
+      "儒道讲修身治世，未及本觉真心。",
+      "佛教直指本觉真心。"
+     ],
+     "inference": "若以“迷悟之本”为判准，则儒道属世间善法，佛教为了义；故三教可并存而有层次。",
+     "conclusion": "三教并存而以佛教（本觉）为究竟，儒道为教化世间的层次。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《禅源诸诠集都序》《原人论》《圆觉经大疏》",
+     "edition": "《禪源諸詮集都序》维基文库本；中华书局《禅源诸诠集都序》校释",
+     "note": "《都序》论禅教一致；《原人论》判摄三教"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "澄观与华严宗",
+     "id": "",
+     "note": "华严教理的传承"
+    },
+    {
+     "name": "荷泽神会",
+     "id": "cn-suitang-shenhui",
+     "note": "南宗禅的“知”与“寂知”之说"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "宋代禅教融合",
+     "id": "",
+     "note": "教禅一致的延续"
+    },
+    {
+     "name": "宋明理学（借其判教以自省）",
+     "id": "",
+     "note": "三教关系问题的框架"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "禅门与教下",
+     "view": "以教理判禅，是把“教外别传”重新纳入教相；禅者以“不立文字”相拒。",
+     "response": "宗密一系的回应是：不立文字不等于废教，只是不以文字为究竟；印证仍须教理。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-chanyuan",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "宗密是纯华严学者",
+     "why": "他兼承荷泽禅法，其“禅教一致”正是两面兼综的产物。"
+    },
+    {
+     "claim": "《原人论》贬斥儒道",
+     "why": "它判儒道为“人天”层次而未否定其教化功能，其判摄是层次论而非简单的排斥。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>宗密：禅教一致与三教判摄</text><defs><marker id='aZM' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>禅以心传、教以经论</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>心语同出於佛</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故禅教不可偏废</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故三教可判摄而有层次</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aZM)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aZM)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "宗密：禅教一致与三教判摄（示意图）",
+   "sources": [
+    "ws-chanyuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "宗密以《禅源诸诠集都序》主张“禅教一致”：禅是佛心、教是佛语，偏禅则废教证、偏教则失心要，故须以教照心、以心证教。他又以《原人论》判摄三教：以“本觉真心”为判准，儒道属“人天”层次的世间善法，佛教为了义——这是层次论而非简单排斥。其学是唐代佛教内部整合的代表。",
+    "system": [
+     {
+      "name": "禅教一致",
+      "content": "心与语同出于佛，故参禅须依教印证，研教须以心证为归。"
+     },
+     {
+      "name": "三教判摄",
+      "content": "以本觉为究竟，儒道为人天层次；并存而有高下。"
+     },
+     {
+      "name": "本觉与不觉",
+      "content": "众生本觉真心，因无明而不觉；修行是返本。"
+     },
+     {
+      "name": "华严教理",
+      "content": "以法界缘起与四法界说明事理无碍；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "西充、长安与终南山（780—841）",
+      "change": "少习儒书，后出家；师澄观学华严；住终南山圭峰，世称“圭峰禅师”；841 年卒。"
+     }
+    ],
+    "reception": "其“禅教一致”成为宋代以后佛教的主流取向之一；《原人论》的判教框架影响宋明儒佛之辨；其著作是研究唐代禅教关系的关键材料。"
+   },
+   "works_detail": [
+    {
+     "title": "《禅源诸诠集都序》",
+     "structure": "四卷；序述禅与教的关系，并收录诸家禅语（集已佚，序存）。",
+     "core_thesis": "禅教一致；这是该书的核心命题。",
+     "editions": "维基文库《禪源諸詮集都序》；中华书局校释本",
+     "note": "序存集佚"
+    }
+   ]
   }
  ],
  "concepts": [

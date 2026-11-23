@@ -1795,6 +1795,145 @@
      "note": "《涅槃无名论》作者归属有争议"
     }
    ]
+  },
+  {
+   "id": "cn-weijin-huiyuan",
+   "name": "慧远",
+   "latin": "Huiyuan",
+   "birth_year": 334,
+   "death_year": 416,
+   "birth_display": "334年",
+   "death_display": "416年",
+   "birth_note": "据《高僧传》：生于雁门楼烦，俗姓贾。",
+   "death_note": "416年卒于庐山，年八十三。",
+   "era": "东晋。慧远居庐山三十余年，主持东林寺，为南方佛教领袖；他倡“沙门不敬王者”，以《沙门不敬王者论》辩护僧团的独立地位，并以“形尽神不灭”回应神灭论，主张念佛往生。",
+   "school": "佛教（庐山慧远·净土与般若）",
+   "core_questions": [
+    "僧团应否礼敬王者？",
+    "形尽之后神是否存在？",
+    "如何修得往生？"
+   ],
+   "arguments": [
+    {
+     "claim": "沙门不敬王者：出家人非王化之所及",
+     "premises": [
+      "出家者以求道为目标，不在世俗的名分体系内。",
+      "礼敬王者属于名教之内的规范。"
+     ],
+     "inference": "若出家人的目标与身份不在名教体系内，则名教的礼敬规范不适用于他们；故“沙门不敬王者”不是抗命，而是身份之别。",
+     "conclusion": "僧团有其独立的规范基础，不服从世俗的礼敬要求。",
+     "kind": "原文"
+    },
+    {
+     "claim": "形尽神不灭：神非随形体而灭",
+     "premises": [
+      "神（精神）无形，故不受形体聚散的限定。",
+      "如火之传薪，薪尽而火可传。"
+     ],
+     "inference": "若神无形则其存在不依形体的存亡；故形体虽尽，神可相续，此为轮回与往生的根据。",
+     "conclusion": "形尽而神不灭，故业报相续、往生可能。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《沙门不敬王者论》《明报应论》《三报论》（收入《弘明集》）",
+     "edition": "《弘明集》（四部叢刊本）；中华书局《弘明集校笺》",
+     "note": "《沙门不敬王者论》五篇；《三报论》论现报、生报、后报"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "道安",
+     "id": "",
+     "note": "其师，般若学与僧团规范的奠基者"
+    },
+    {
+     "name": "鸠摩罗什译籍",
+     "id": "",
+     "note": "般若与中观的思想资源"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "净土宗",
+     "id": "",
+     "note": "念佛往生与庐山莲社的传统"
+    },
+    {
+     "name": "僧肇与三论学",
+     "id": "cn-weijin-sengzhao",
+     "note": "般若学的义理发展"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "桓玄与世俗政权",
+     "view": "沙门不敬王者是抗礼，僧团不服王化则国家难以统御。",
+     "response": "慧远一系的回应是：出家者不在名分体系内，故不构成抗礼；其论以“身份之别”而非“权力对抗”立说。",
+     "kind": "原文",
+     "sources": [
+      "ws-hongmingji2",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "慧远主张僧人可以不守国法",
+     "why": "他辨的是“礼敬”这一名教规范，不是免除一切世俗法律义务。"
+    },
+    {
+     "claim": "形尽神不灭是佛教的独有命题",
+     "why": "它与中土固有的魂魄观念、以及后来的神灭论之争交织，须放在论辩语境中看。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>慧远：沙门不敬王者与神不灭</text><defs><marker id='aHY2' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>出家者不在名分体系</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>礼敬属名教规范</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故名教之礼不适用</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故形尽而神可相续</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aHY2)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aHY2)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "慧远：沙门不敬王者与形尽神不灭（示意图）",
+   "sources": [
+    "ws-hongmingji2",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "慧远著作主要依《弘明集》《高僧传》保存，原文与后人编订的界限须辨；《沙门不敬王者论》的论辩背景（桓玄与王谧之争）宜与《弘明集》前后文对读。",
+   "doctrine": {
+    "summary": "慧远以“沙门不敬王者”为僧团的独立地位辩护：出家者以求道为目标、不在世俗名分体系内，故名教的礼敬规范不适用于他们——这是身份之别，不是权力对抗。他又以“形尽神不灭”回应神灭论：神无形故不随形体聚散，如火传薪，薪尽而火可传，此为业报相续与往生的根据。",
+    "system": [
+     {
+      "name": "沙门不敬王者",
+      "content": "出家者不在名分体系内，故名教之礼不适用。"
+     },
+     {
+      "name": "形尽神不灭",
+      "content": "神无形，不依形体存亡；如火传薪；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "三报论",
+      "content": "现报、生报、后报：业报不必立即显现，故善恶与苦乐的不对应可被解释。"
+     },
+     {
+      "name": "念佛往生",
+      "content": "以念佛与观想求往生净土，为净土信仰的早期形态。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "雁门、襄阳与庐山（334—416）",
+      "change": "少习儒道，后从道安出家；襄阳陷落后南游，居庐山三十余年；与鸠摩罗什通信；416 年卒。"
+     }
+    ],
+    "reception": "其论成为政教关系的经典文本；神不灭说引发后世神灭论之争（范缜《神灭论》即针对此类论证）；庐山被尊为净土宗的早期祖庭。"
+   },
+   "works_detail": [
+    {
+     "title": "《沙门不敬王者论》",
+     "structure": "五篇，收入《弘明集》卷五；论出家者与名教的关系。",
+     "core_thesis": "沙门不敬王者；形尽神不灭；这是该书的核心命题。",
+     "editions": "《弘明集》四部叢刊本；中华书局校笺本",
+     "note": "原文见《弘明集》，非单行本"
+    }
+   ]
   }
  ],
  "concepts": [

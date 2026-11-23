@@ -2096,6 +2096,145 @@
      "note": "1578 年前后成书；屡遭禁毁"
     }
    ]
+  },
+  {
+   "id": "cn-songming-chen-xianzhang",
+   "name": "陈献章",
+   "latin": "Chen Xianzhang",
+   "birth_year": 1428,
+   "death_year": 1500,
+   "birth_display": "1428年",
+   "death_display": "1500年",
+   "birth_note": "据《明史·儒林传》：生于广东新会白沙里，世称“白沙先生”。",
+   "death_note": "1500年卒于新会。",
+   "era": "明中期。陈献章由朱学转向“自得”之学：主张“静坐”以见“此心之体”，不依傍书册与传注；其学上承陆九渊而下开王阳明，是明代心学转向的关键人物。",
+   "school": "心学（江门学派）",
+   "core_questions": [
+    "学问如何“自得”？",
+    "心与理是一是二？",
+    "静坐是不是工夫？"
+   ],
+   "arguments": [
+    {
+     "claim": "为学须“自得”：理不在书册，而在自心之体认",
+     "premises": [
+      "书册所载是前人所得，非己所得。",
+      "依傍传注则终身只是他人之见。"
+     ],
+     "inference": "若学问的目标是自得于心，则工夫须落在自心的体认上，而非积累文义；故须“静坐”以使心体呈露。",
+     "conclusion": "“自得”是学问的实质，静坐是其方法；不离日用而不依书册。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“天地我立，万化我出”：心与宇宙同体",
+     "premises": [
+      "心之体无内外、无古今。",
+      "若心体与宇宙同体，则万物不在心外。"
+     ],
+     "inference": "若心体无内外之分，则所谓“天地”“万化”皆在此心的感应中呈现；故学以见心体为极。",
+     "conclusion": "心体与宇宙同体，故工夫是“见心”而非“穷物”。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《白沙子集》《白沙子全集》",
+     "edition": "《陳白沙集》（四庫全書本）；中华书局点校本《陈献章集》",
+     "note": "诗文与书信，含《复张廷实》《与林郡博》等论学书"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "陆九渊",
+     "id": "cn-songming-lu-jiuyuan",
+     "note": "心即理与易简工夫"
+    },
+    {
+     "name": "周敦颐与二程",
+     "id": "cn-songming-cheng-hao",
+     "note": "“静”与“诚”的修养传统"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "王阳明",
+     "id": "cn-songming-wang-yangming",
+     "note": "致良知与静坐工夫的承继"
+    },
+    {
+     "name": "湛若水与江门学派",
+     "id": "",
+     "note": "白沙学的门人传承"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "朱学一系（如胡居仁）",
+     "view": "废弃书册与传注，则学问无据，易入禅寂。",
+     "response": "陈献章一系的回应是：不离日用、不废书册，只是不以文义为究竟。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-baishaji",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "陈献章主张完全不用读书",
+     "why": "他强调“自得”而不废书册，其诗文与经史功底甚深。"
+    },
+    {
+     "claim": "静坐等于禅宗的坐禅",
+     "why": "其静坐以“见心体”与儒家伦理为归，与禅宗的目标不同（他本人亦辨儒释之别）。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>陈献章：自得与心体</text><defs><marker id='aCX' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>书册所载是他人所得</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>依傍传注则非己得</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故学问须自得于心</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故静坐以见心体</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aCX)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aCX)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
+   "svg_caption": "陈献章：自得、静坐与心体（示意图）",
+   "sources": [
+    "ws-baishaji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "陈献章以“自得”为学问的实质：书册所载是前人所得而非己所得，依傍传注则终身只是他人之见，故工夫须落在自心的体认上，方法则是“静坐”以使心体呈露。他又主张“天地我立，万化我出”——心体无内外，故工夫是“见心”而非“穷物”。其学上承陆九渊而下开王阳明，是明代心学转向的关键。",
+    "system": [
+     {
+      "name": "自得",
+      "content": "学问的目标是自得于心，非积累文义；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "静坐",
+      "content": "使心体呈露的方法；不离日用而不依书册；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "心与宇宙同体",
+      "content": "心体无内外古今，故“天地我立，万化我出”。"
+     },
+     {
+      "name": "儒释之辨",
+      "content": "其静坐以儒家伦理为归，与禅宗目标不同；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "新会白沙（1428—1500）",
+      "change": "广东新会人；科举屡试不第，后绝意仕进；讲学乡里，门人如湛若水等；世称“白沙先生”。"
+     }
+    ],
+    "reception": "其学被视为明代心学的先声，王阳明承其“自得”与静坐；江门学派由其门人湛若水发展；现代研究关注其与陆王之间的过渡地位。"
+   },
+   "works_detail": [
+    {
+     "title": "《白沙子集》",
+     "structure": "诗文集；论学书信为其哲学核心材料。",
+     "core_thesis": "自得；静坐；心体；这是该书的核心命题。",
+     "editions": "《陳白沙集》四庫全書本；中华书局《陈献章集》",
+     "note": "四库本题《白沙子集》"
+    }
+   ]
   }
  ],
  "concepts": [

@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 491,
+  "entries": 496,
   "by_level": {
-   "L2": 416,
-   "L1": 75
+   "L2": 419,
+   "L1": 77
   },
   "doctrine": {
-   "total": 181,
-   "detail": 181,
+   "total": 184,
+   "detail": 184,
    "auto": 0
   },
-  "needs_verification": 75,
-  "sources": 283,
-  "sources_verified": 279
+  "needs_verification": 77,
+  "sources": 286,
+  "sources_verified": 282
  },
  "units": [
   {
@@ -38,28 +38,28 @@
    "unit_id": "cn-songming",
    "title": "宋明理学与心学",
    "region": "china",
-   "philosophers": 13,
+   "philosophers": 14,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -5"
+   "philosophers_slot": "8 上限，余 -6"
   },
   {
    "unit_id": "cn-suitang",
    "title": "隋唐佛学",
    "region": "china",
-   "philosophers": 11,
+   "philosophers": 12,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -3"
+   "philosophers_slot": "8 上限，余 -4"
   },
   {
    "unit_id": "cn-weijin",
    "title": "魏晋玄学",
    "region": "china",
-   "philosophers": 11,
+   "philosophers": 12,
    "concepts": 10,
    "debates": 3,
-   "philosophers_slot": "8 上限，余 -3"
+   "philosophers_slot": "8 上限，余 -4"
   },
   {
    "unit_id": "cn-xianqin",
@@ -816,6 +816,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-songming-chen-xianzhang",
+   "type": "philosopher",
+   "title": "陈献章",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-songming-li-qi",
    "type": "concept",
    "title": "理气",
@@ -1080,6 +1091,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-suitang-zongmi",
+   "type": "philosopher",
+   "title": "宗密",
+   "container": "cn-suitang",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-suitang-yuanqi",
    "type": "concept",
    "title": "缘起性空",
@@ -1340,6 +1362,17 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-weijin-huiyuan",
+   "type": "philosopher",
+   "title": "慧远",
+   "container": "cn-weijin",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": true,
    "updated": "2026-11-23"
   },
@@ -4413,6 +4446,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-hongmingji",
+   "type": "work",
+   "title": "《弘明集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-consolation",
    "type": "work",
    "title": "《哲学的慰藉》",
@@ -4438,6 +4482,17 @@
    "id": "work-yuandao",
    "type": "work",
    "title": "《原道》",
+   "container": "china",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-chanyuan",
+   "type": "work",
+   "title": "《禅源诸诠集都序》",
    "container": "china",
    "level": "L2",
    "sources": 2,

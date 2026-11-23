@@ -1428,6 +1428,61 @@
    "sort_year": 420
   },
   {
+   "id": "work-hongmingji",
+   "title": "《弘明集》",
+   "title_original": "弘明集",
+   "tradition": "china",
+   "date_display": "约510年",
+   "structure": "十四卷；僧祐编集东汉至梁的护法文献，含牟子《理惑论》、慧远《沙门不敬王者论》《三报论》、范泰与何承天往复等。",
+   "core_arguments": [
+    "佛法与名教可以相容：出家不废忠孝之本",
+    "形尽神不灭：业报相续的根据",
+    "夷夏之辨与儒佛之争的往复"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "牟子《理惑论》"
+    },
+    {
+     "locator": "卷五",
+     "point": "慧远《沙门不敬王者论》"
+    },
+    {
+     "locator": "卷三",
+     "point": "宗炳《明佛论》与神不灭之争"
+    },
+    {
+     "locator": "卷九—十",
+     "point": "夷夏之辨的往复"
+    }
+   ],
+   "editions": [
+    "《弘明集》（四部叢刊本）；中华书局《弘明集校笺》"
+   ],
+   "related_people": [
+    "cn-weijin-huiyuan",
+    "cn-weijin-sengzhao"
+   ],
+   "misreadings": [
+    {
+     "claim": "《弘明集》是佛经",
+     "why": "它是中国人所作的护法文献汇编，非译经。"
+    },
+    {
+     "claim": "所收文献皆主张一致",
+     "why": "其中包含反驳方的文章（如何承天、范泰），是往复论辩的记录。"
+    }
+   ],
+   "sources": [
+    "ws-hongmingji2",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《弘明集》所收文献的作者、年代与文本传承多有讨论；部分篇章（如《理惑论》）的成书年代学界有争议。",
+   "sort_year": 510
+  },
+  {
    "id": "work-consolation",
    "title": "《哲学的慰藉》",
    "title_original": "De Consolatione Philosophiae",
@@ -1591,6 +1646,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 805
+  },
+  {
+   "id": "work-chanyuan",
+   "title": "《禅源诸诠集都序》",
+   "title_original": "禪源諸詮集都序",
+   "tradition": "china",
+   "date_display": "约830年",
+   "structure": "四卷；序述“禅源”与“诸诠”的关系，判摄禅门诸家与教下诸宗，主张禅教一致。原集一百卷已佚，今存其序。",
+   "core_arguments": [
+    "禅是佛心、教是佛语，二者不可偏废",
+    "以“本觉”为判准，判摄禅门三宗与教下三教",
+    "参禅须依教印证，研教须以心证为归"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "禅源与诸诠的名义"
+    },
+    {
+     "locator": "卷二",
+     "point": "禅门三宗的判摄"
+    },
+    {
+     "locator": "卷三",
+     "point": "教下三教的配对"
+    },
+    {
+     "locator": "卷四",
+     "point": "禅教一致的总结"
+    }
+   ],
+   "editions": [
+    "维基文库《禪源諸詮集都序》；中华书局校释本"
+   ],
+   "related_people": [
+    "cn-suitang-zongmi",
+    "cn-suitang-shenhui",
+    "cn-suitang-fazang"
+   ],
+   "misreadings": [
+    {
+     "claim": "此书是禅宗语录的汇编",
+     "why": "原集是语录汇编（已佚），今存的“都序”是宗密对全部材料的判摄性导论。"
+    },
+    {
+     "claim": "禅教一致是取消禅的特殊性",
+     "why": "它要求二者互证，不是以教代禅或反之。"
+    }
+   ],
+   "sources": [
+    "ws-chanyuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 830
   },
   {
    "id": "work-taiji-tushuo",
