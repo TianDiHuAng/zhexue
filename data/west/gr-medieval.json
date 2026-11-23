@@ -965,13 +965,21 @@
      "why": "《我的苦难史》与两人往返的书信讨论同意、罪与救赎；爱洛依丝以“若意图纯洁，行为是否仍有罪”追问，是理解其意图伦理的重要语境。"
     }
    ],
-   "quotes": [],
+   "quotes": [
+    {
+     "text": "Sepe humanos affectus ... amplius exempla quam verba",
+     "source_id": "lat-abelard-consolatoria",
+     "locator": "《致友人书》开篇 cap. I（中段以 …… 标示省略）",
+     "kind": "原文"
+    }
+   ],
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='32' text-anchor='middle' font-size='19' fill='#1c3a5c'>阿伯拉尔：正反并列与意图判准</text><defs><marker id='arm4' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='210' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>正：权威引文 A</text><text x='145' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>“凡不出于信心的都是罪”</text><rect x='510' y='56' width='210' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='615' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>反：权威引文 B</text><text x='615' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>同一论题下的相反表述</text><line x1='250' y1='86' x2='330' y2='86' stroke='#4a7ba6' marker-end='url(#arm4)'/><line x1='510' y1='86' x2='430' y2='86' stroke='#4a7ba6' marker-end='url(#arm4)'/><rect x='334' y='56' width='92' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='80' text-anchor='middle' font-size='12' fill='#1c3a5c'>辨析</text><text x='380' y='101' text-anchor='middle' font-size='10' fill='#1e2d3d'>词义·语境·意图</text><line x1='380' y1='116' x2='380' y2='152' stroke='#4a7ba6' marker-end='url(#arm4)'/><rect x='140' y='156' width='480' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='180' text-anchor='middle' font-size='13' fill='#1c3a5c'>共相：既非实物，亦非空名</text><text x='380' y='202' text-anchor='middle' font-size='10' fill='#1e2d3d'>相似性为据，概念为述说方式</text><line x1='380' y1='216' x2='380' y2='250' stroke='#4a7ba6' marker-end='url(#arm4)'/><rect x='96' y='254' width='568' height='66' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='278' text-anchor='middle' font-size='13' fill='#1c3a5c'>结论一：罪在意图，不在行为外形</text><text x='380' y='300' text-anchor='middle' font-size='10' fill='#1e2d3d'>“杀人与杀人罪不同”（《伦理学》第 4 章）</text><text x='380' y='356' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：《是与否》汇集一百五十余论题，本图为结构示意</text></svg>",
    "svg_caption": "阿伯拉尔：正反并列的辩证结构与意图判准（重构示意图）",
    "sources": [
     "sep-abelard",
     "sep-universals-medieval",
-    "book-gilson-medieval"
+    "book-gilson-medieval",
+    "lat-abelard-consolatoria"
    ],
    "needs_verification": false,
    "pending_notes": "",

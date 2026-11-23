@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 443,
+  "entries": 446,
   "by_level": {
-   "L2": 379,
-   "L1": 64
+   "L2": 381,
+   "L1": 65
   },
   "doctrine": {
    "total": 150,
    "detail": 150,
    "auto": 0
   },
-  "needs_verification": 64,
-  "sources": 246,
-  "sources_verified": 242
+  "needs_verification": 65,
+  "sources": 248,
+  "sources_verified": 244
  },
  "units": [
   {
@@ -3296,8 +3296,8 @@
    "title": "阿伯拉尔",
    "container": "gr-medieval",
    "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -3984,6 +3984,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-historia-cal",
+   "type": "work",
+   "title": "《上帝之城》第十九卷（和平与两座城）",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-consolation",
    "type": "work",
    "title": "《哲学的慰藉》",
@@ -4042,6 +4053,17 @@
    "id": "work-proslogion",
    "type": "work",
    "title": "《宣讲》",
+   "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-historia-calamitatum",
+   "type": "work",
+   "title": "《我的苦难史》",
    "container": "west",
    "level": "L2",
    "sources": 3,
@@ -4537,6 +4559,17 @@
    "id": "cmp-language-limits",
    "type": "comparative",
    "title": "道可道与不可说：中西“语言界限”的四种表述",
+   "container": "comparative",
+   "level": "L2",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cmp-self-cultivation",
+   "type": "comparative",
+   "title": "修身与治疗：中西“自我技术”的两种路径",
    "container": "comparative",
    "level": "L2",
    "sources": 4,

@@ -974,6 +974,63 @@
    "sort_year": 413
   },
   {
+   "id": "work-historia-cal",
+   "title": "《上帝之城》第十九卷（和平与两座城）",
+   "title_original": "De civitate Dei XIX",
+   "tradition": "west",
+   "date_display": "约420年",
+   "structure": "《上帝之城》共二十二卷；第十九卷论“终极的善”与两座城（地上之城／上帝之城）的关系，是全书政治哲学的核心。",
+   "core_arguments": [
+    "终极的善是和平（pax）：万物都追求某种秩序中的安宁",
+    "地上之城的和平是暂时的、有条件的；上帝之城的和平是永恒的",
+    "两座城在此世交织，不可制度性地截然分开"
+   ],
+   "key_points": [
+    {
+     "locator": "XIX.11—13",
+     "point": "和平的定义与秩序（ordo）"
+    },
+    {
+     "locator": "XIX.13",
+     "point": "“和平是秩序的安宁”（pax omnium rerum tranquillitas ordinis）"
+    },
+    {
+     "locator": "XIX.17",
+     "point": "两座城的区分依“爱”而定：爱自己 vs 爱上帝"
+    },
+    {
+     "locator": "XIX.26—28",
+     "point": "此世生活的张力与终末的安息"
+    }
+   ],
+   "editions": [
+    "吴飞译《上帝之城》商务印书馆（卷十九可单读）；Dyson 英译（Cambridge）"
+   ],
+   "related_people": [
+    "gr-medieval-augustine",
+    "gr-medieval-aquinas",
+    "gr-modern-hobbes"
+   ],
+   "misreadings": [
+    {
+     "claim": "两座城＝教会与国家",
+     "why": "奥古斯丁明确说两城在此世交织、难以制度性区分；把二者等同于教会与国家是后世的简化（常见于教会政治论）。"
+    },
+    {
+     "claim": "奥古斯丁否定地上之城的价值",
+     "why": "他承认地上之城的和平是真实的善，只是有限、不稳定，故不能充当终极的善。"
+    }
+   ],
+   "sources": [
+    "na-confessions",
+    "sep-augustine",
+    "iep-augustine"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《上帝之城》卷十九的拉丁原文尚未进本库（现仅用《忏悔录》与 SEP/IEP 词条支撑）；引原句前须补一部拉丁文本或权威译本，并核卷章编号。",
+   "sort_year": 420
+  },
+  {
    "id": "work-consolation",
    "title": "《哲学的慰藉》",
    "title_original": "De Consolatione Philosophiae",
@@ -1305,6 +1362,59 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1078
+  },
+  {
+   "id": "work-historia-calamitatum",
+   "title": "《我的苦难史》",
+   "title_original": "Historia calamitatum（Ad amicum suum consolatoria）",
+   "tradition": "west",
+   "date_display": "约1132年",
+   "structure": "书信体自述，无分章（后世编次约十五节）：出身与求学、与爱洛依丝的爱情与私婚、被阉割、修道、与伯尔纳的论争、被谴责。",
+   "core_arguments": [
+    "以自述呈现“意图伦理”的处境：行为的可责性在于意图而非外在结果",
+    "辩证神学与正统权威的冲突：理性方法在信仰领域内的限度",
+    "学者与修道制度之间的张力"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "“范例比言辞更能激发或平息人的情感”"
+    },
+    {
+     "locator": "中段",
+     "point": "与爱洛依丝的爱情与私婚"
+    },
+    {
+     "locator": "后段",
+     "point": "与伯尔纳的论争与 condemned 命题"
+    }
+   ],
+   "editions": [
+    "拉丁原文见 The Latin Library（abelard/historia.html）；中译参《阿伯拉尔与爱洛依丝书信集》"
+   ],
+   "related_people": [
+    "gr-medieval-abelard",
+    "gr-medieval-anselm",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "此书只是爱情自白",
+     "why": "爱情只是前半；全书主旨是学者的处境与神学论争，是理解12世纪智识生活的第一手材料。"
+    },
+    {
+     "claim": "阿伯拉尔是理性主义者",
+     "why": "他主张以理性理解信仰，但保留信仰高于理性之处；其“概念论”也不是唯理主义。"
+    }
+   ],
+   "sources": [
+    "lat-abelard-consolatoria",
+    "sep-abelard",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1132
   },
   {
    "id": "work-guide-perplexed",
