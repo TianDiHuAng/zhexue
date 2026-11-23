@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 782,
+  "entries": 789,
   "by_level": {
-   "L2": 644,
-   "L1": 138
+   "L2": 650,
+   "L1": 139
   },
   "doctrine": {
    "total": 227,
    "detail": 227,
    "auto": 0
   },
-  "needs_verification": 138,
+  "needs_verification": 139,
   "sources": 337,
   "sources_verified": 337
  },
@@ -21,7 +21,7 @@
    "title": "两汉经学与气论",
    "region": "china",
    "philosophers": 16,
-   "concepts": 14,
+   "concepts": 15,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -8"
   },
@@ -30,7 +30,7 @@
    "title": "清代与近代转型",
    "region": "china",
    "philosophers": 15,
-   "concepts": 13,
+   "concepts": 14,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -102,7 +102,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 10,
-   "concepts": 13,
+   "concepts": 14,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -2"
   },
@@ -120,7 +120,7 @@
    "title": "希腊化与罗马哲学",
    "region": "west",
    "philosophers": 15,
-   "concepts": 14,
+   "concepts": 15,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -138,7 +138,7 @@
    "title": "近代理性论与经验论",
    "region": "west",
    "philosophers": 31,
-   "concepts": 15,
+   "concepts": 17,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -23"
   }
@@ -472,6 +472,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-wuchang",
+   "type": "concept",
+   "title": "五常",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -863,6 +874,17 @@
    "id": "cn-qingmod-yinyun",
    "type": "concept",
    "title": "絪缊",
+   "container": "cn-qingmod",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-qingmod-liujing-jieshi",
+   "type": "concept",
+   "title": "六经皆史",
    "container": "cn-qingmod",
    "level": "L2",
    "sources": 3,
@@ -4204,6 +4226,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-contemp-overlapping-consensus",
+   "type": "concept",
+   "title": "重叠共识",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-contemp-justice-criterion",
    "type": "debate",
    "title": "分配正义应以什么为标准",
@@ -4960,6 +4993,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-hellenistic-sage",
+   "type": "concept",
+   "title": "智者（sage）",
+   "container": "gr-hellenistic",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -6004,6 +6048,28 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-state-of-war",
+   "type": "concept",
+   "title": "战争状态",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-modern-idea-way",
+   "type": "concept",
+   "title": "观念的 Way of Ideas",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -7155,6 +7221,17 @@
    "id": "work-zhouyi-waizhuan",
    "type": "work",
    "title": "《周易外传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-zhengmeng-zhu",
+   "type": "work",
+   "title": "《张子正蒙注》",
    "container": "china",
    "level": "L1",
    "sources": 2,

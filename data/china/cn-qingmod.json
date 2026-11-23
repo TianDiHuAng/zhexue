@@ -2901,6 +2901,45 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-qingmod-liujing-jieshi",
+   "term": "六经皆史",
+   "term_latin": "the Six Classics are all history",
+   "definition": "章学诚的命题：六经所记皆三代之典章政事，故理解经典须以史学方法（知人论世）而非仅以训诂；义理在史事之中。",
+   "usages": [
+    {
+     "name": "章学诚",
+     "id": "cn-qingmod-zhang-xuecheng",
+     "usage": "“六经皆史也”：经典是史事记载，非超历史的教条。"
+    },
+    {
+     "name": "戴震（对照）",
+     "id": "cn-qingmod-dai-zhen",
+     "usage": "以训诂求义理：先明字义而后可论义理（与章学诚的路径不同）。"
+    },
+    {
+     "name": "黄宗羲（先声）",
+     "id": "cn-qingmod-huang-zongxi",
+     "usage": "以“学案”体处理学术史，已含“经史相通”的取向。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-kaoju",
+    "cn-qingmod-lizaiqizhong"
+   ],
+   "example": {
+    "text": "“六经皆史”的锋芒所向是乾嘉考据：若经典是史事，则治经须问“三代之制如何运作”，而非只校一字之异同——故章学诚批评考据“碎而不通”，其根据正在此命题。",
+    "figure": "章学诚",
+    "locator": "《文史通义·易教上》"
+   },
+   "sources": [
+    "ws-wenshi-tongyi",
+    "sep-qing-philosophy",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

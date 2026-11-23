@@ -5459,6 +5459,62 @@
    "sort_year": 1655
   },
   {
+   "id": "work-zhengmeng-zhu",
+   "title": "《张子正蒙注》",
+   "title_original": "張子正蒙注",
+   "tradition": "china",
+   "date_display": "约1660年（王夫之晚年）",
+   "structure": "九卷；按《正蒙》原书篇目（太和、参两、天道、神化、动物、诚明、大心、中正、至当等）逐篇作注并发挥。",
+   "core_arguments": [
+    "“太虚即气”：虚空不是空无，而是气的本然状态",
+    "“气之聚散”取代“有无”：无生灭，只有聚散",
+    "以“絪缊”解释二气交感不息"
+   ],
+   "key_points": [
+    {
+     "locator": "《太和篇》注",
+     "point": "太虚即气、絪缊"
+    },
+    {
+     "locator": "《参两篇》注",
+     "point": "阴阳与动静"
+    },
+    {
+     "locator": "《神化篇》注",
+     "point": "神与化的关系"
+    },
+    {
+     "locator": "《大心篇》注",
+     "point": "对“心”的界定"
+    }
+   ],
+   "editions": [
+    "中华书局《张子正蒙注》；《船山遺書》本"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-fuzhi",
+    "cn-songming-zhang-zai",
+    "cn-qingmod-dai-zhen"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《正蒙》的忠实注释",
+     "why": "王夫之借注发挥己说（尤其“太虚即气”与“絪缊”），与张载原意有距离；这是“注以立说”，不是章句之学。"
+    },
+    {
+     "claim": "张载本人主张“太虚即气”，王夫之只是复述",
+     "why": "张载的“太虚”是否等同于“气”，学界有争论；王夫之的解读强化了这一等式，属清代气学的读法。"
+    }
+   ],
+   "sources": [
+    "ws-zhouyi-waizhuan2",
+    "ws-du-sishu"
+   ],
+   "needs_verification": true,
+   "pending_notes": "张载《正蒙》原文的“太虚”与“气”的关系学界有不同解读（是否等同）；王夫之的注强化了“太虚即气”的读法，此读法与其自身的气本论相合，须与张载原文分看。",
+   "sort_year": 1660
+  },
+  {
    "id": "work-mingyi",
    "title": "《明夷待访录》",
    "title_original": "明夷待訪錄",

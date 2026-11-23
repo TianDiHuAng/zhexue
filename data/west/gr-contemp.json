@@ -2036,6 +2036,45 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-overlapping-consensus",
+   "term": "重叠共识",
+   "term_latin": "overlapping consensus",
+   "definition": "罗尔斯后期概念：不同整全性学说（宗教、哲学、道德）的公民，可以从各自的立场出发，共同认可同一套政治正义原则——共识不在形而上学层面，而在政治层面重叠。",
+   "usages": [
+    {
+     "name": "罗尔斯",
+     "id": "gr-contemp-rawls",
+     "usage": "重叠共识不是妥协，而是各学说在自身内部为政治原则找到根据。"
+    },
+    {
+     "name": "哈贝马斯（对照）",
+     "id": "gr-contemp-habermas",
+     "usage": "以交往程序的合理性取代重叠共识：共识须由论证产生，而非各学说的事后认可。"
+    },
+    {
+     "name": "诺齐克（批评）",
+     "id": "gr-contemp-nozick",
+     "usage": "以资格论取代契约论：正义不需共识，只需历史地正当的持有。"
+    }
+   ],
+   "related": [
+    "gr-contemp-veil",
+    "gr-contemp-reflective"
+   ],
+   "example": {
+    "text": "重叠共识的关键是“不在形而上学层面求同”：罗尔斯放弃以某种人性论或善观念为公共基础，转而只要求各学说在政治领域“重叠”——这是从《正义论》到《政治自由主义》的重大转折。",
+    "figure": "罗尔斯",
+    "locator": "《政治自由主义》讲演四"
+   },
+   "sources": [
+    "sep-rawls",
+    "iep-rawls",
+    "sep-habermas"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

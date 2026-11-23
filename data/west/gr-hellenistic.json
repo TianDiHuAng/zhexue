@@ -2732,6 +2732,45 @@
    ],
    "needs_verification": true,
    "pending_notes": "意言的本体论地位（是否“某物”、是否有形体）是斯多亚研究中最困难的问题之一，古代即有争论（塞克斯都的两难即针对此）；本页并列其困难。"
+  },
+  {
+   "id": "gr-hellenistic-sage",
+   "term": "智者（sage）",
+   "term_latin": "ho sophos / sapiens",
+   "definition": "希腊化各派的理想人格：不是全知者，而是**不受扰、自足、不可被剥夺幸福**的人。斯多亚的智者唯有德性为善，伊壁鸠鲁的智者以无扰为乐，怀疑论的智者不判定故不争。",
+   "usages": [
+    {
+     "name": "斯多亚派",
+     "id": "gr-hellenistic-zeno",
+     "usage": "智者自足：外物为“无关紧要者”，故其幸福不可被剥夺。"
+    },
+    {
+     "name": "伊壁鸠鲁",
+     "id": "gr-hellenistic-epicurus",
+     "usage": "智者以静态快乐为目标：无痛与无扰。"
+    },
+    {
+     "name": "塞克斯都·恩披里柯",
+     "id": "gr-hellenistic-sextus",
+     "usage": "智者不判定，故不与人争，得宁静。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-ataraxia",
+    "gr-hellenistic-oikeiosis"
+   ],
+   "example": {
+    "text": "“智者”的奇怪之处在于它几乎无人可及：斯多亚承认苏格拉底之后或许无人是智者，但他们仍以此为标准——故它是一个**调节性的理想**（regulative ideal），不是统计上的常见类型。",
+    "figure": "斯多亚派",
+    "locator": "据《斯多亚学派残篇》（SVF）"
+   },
+   "sources": [
+    "sep-stoicism",
+    "iep-stoicism",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

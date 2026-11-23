@@ -5454,6 +5454,83 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-state-of-war",
+   "term": "战争状态",
+   "term_latin": "state of war",
+   "definition": "霍布斯与洛克共用的概念，但含义不同：霍布斯视自然状态本身即战争状态（一切人反对一切人的潜在敌对）；洛克则区分二者——自然状态有自然法约束，战争状态是有人违反自然法并以暴力相加时的状态。",
+   "usages": [
+    {
+     "name": "霍布斯",
+     "id": "gr-modern-hobbes",
+     "usage": "自然状态即战争状态：竞争、猜疑与荣誉使人互为威胁。"
+    },
+    {
+     "name": "洛克",
+     "id": "gr-modern-locke",
+     "usage": "自然状态与战争状态须区分：前者有自然法，后者是暴力的实际施加。"
+    },
+    {
+     "name": "卢梭（对照）",
+     "id": "gr-modern-rousseau",
+     "usage": "自然状态是和平自足的；战争是社会的产物。"
+    }
+   ],
+   "related": [
+    "gr-modern-contract"
+   ],
+   "example": {
+    "text": "洛克的区分有明确的政治用途：若自然状态本身即战争状态，则人们须让渡全部权力给主权者（霍布斯）；若二者可分，则政府的失职使它自身进入战争状态，人民有权抵抗（洛克）。故这一概念区分直接支撑了不同的政治结论。",
+    "figure": "洛克",
+    "locator": "《政府论》下篇 第3章、第19章"
+   },
+   "sources": [
+    "sep-hobbes",
+    "sep-locke",
+    "sep-rousseau"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-idea-way",
+   "term": "观念的 Way of Ideas",
+   "term_latin": "way of ideas",
+   "definition": "近代认识论的共同框架：心灵直接把握的对象是“观念”（idea），外部事物须通过观念被认识。笛卡尔、洛克、贝克莱、休谟都在此框架内工作，而其分歧在于观念之外还有什么。",
+   "usages": [
+    {
+     "name": "洛克",
+     "id": "gr-modern-locke",
+     "usage": "观念来自感觉与反省，心灵如白板。"
+    },
+    {
+     "name": "贝克莱",
+     "id": "gr-modern-berkeley",
+     "usage": "存在即被感知：不需假定观念之外的物质实体。"
+    },
+    {
+     "name": "休谟",
+     "id": "gr-modern-hume",
+     "usage": "观念是印象的微弱复本；因果必然性只是习惯性的联想。"
+    }
+   ],
+   "related": [
+    "gr-modern-idea",
+    "gr-modern-secondary-quality"
+   ],
+   "example": {
+    "text": "“观念的 Way”之所以重要，是因为它把认识论问题设定为“观念与对象的关系”问题——而一旦如此设定，“外部世界如何被认识”就成了难题（贝克莱与休谟正是由此推进）。这一框架的瓦解（20世纪）也是分析哲学转向语言的原因之一。",
+    "figure": "洛克（据其《人类理解论》）",
+    "locator": "《人类理解论》导论"
+   },
+   "sources": [
+    "sep-locke",
+    "sep-hume",
+    "book-copleston-history"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

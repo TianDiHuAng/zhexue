@@ -2900,6 +2900,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "五经博士的设置年代与员额（武帝置五经博士、宣帝增至十二博士等）在《汉书·儒林传》与《百官公卿表》中记载有出入，本页只述其制度意义。"
+  },
+  {
+   "id": "cn-lianghan-wuchang",
+   "term": "五常",
+   "term_latin": "the five constants",
+   "definition": "仁义礼智信五种恒常之德。它与“三纲”配合成“三纲五常”，但二者的性质不同：三纲是关系的规范（谁服从谁），五常是德性的条目（人当如何）。",
+   "usages": [
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以“仁义礼智信”为“五常之道”，与五行相配。"
+    },
+    {
+     "name": "朱熹（后出，对照）",
+     "usage": "以五常配“性”之五目：仁义礼智为性之四德，信贯四者。"
+    },
+    {
+     "name": "王充（批评）",
+     "id": "cn-lianghan-wang-chong",
+     "usage": "以“性三品”说明德性的差异：五常非人人具足，须视禀气。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-sangang",
+    "cn-lianghan-yinyang-wuxing"
+   ],
+   "example": {
+    "text": "“三纲”与“五常”常被连称，但前者是**关系的等级**（君为臣纲），后者是**德性的条目**（仁、义、礼、智、信）。把五常说成人人平等的德性、同时把三纲说成不可移的秩序，二者之间的张力是汉以后儒学的一个长期问题。",
+    "figure": "董仲舒",
+    "locator": "《举贤良对策》"
+   },
+   "sources": [
+    "ws-hanshu",
+    "ct-chunqiufanlu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [
