@@ -2228,6 +2228,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-lianghan-genghua",
+   "term": "更化",
+   "term_latin": "genghua（reform）",
+   "definition": "董仲舒《天人三策》的核心主张：汉承秦弊，须“更化”即改变制度与教化方式，方能“善治”。它与法家的“便国不法古”不同，其根据是天道与历史经验，而非功利计算。",
+   "usages": [
+    {
+     "name": "董仲舒",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "“窃譬之琴瑟不调，甚者必解而更张之，乃可鼓也；为政而不行，甚者必变而更化之，乃可理也。”"
+    },
+    {
+     "name": "贾谊",
+     "id": "cn-lianghan-jia-yi",
+     "usage": "以秦亡为鉴主张“改正朔、易服色、制法度”，属更化的另一表述。"
+    },
+    {
+     "name": "汉初黄老一系（对照）",
+     "usage": "主张“因循”而不扰民：更化反而生事。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-tianren",
+    "cn-lianghan-weiyandayi"
+   ],
+   "example": {
+    "text": "董仲舒以“解弦更张”为喻：琴瑟不调须解弦重张，政令不行须变而更化——这一比喻把“改革”说成修复秩序的自然要求，而非否定传统。",
+    "figure": "董仲舒",
+    "locator": "《汉书·董仲舒传》"
+   },
+   "sources": [
+    "ct-chunqiufanlu",
+    "ws-xinshu-jia",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

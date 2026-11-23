@@ -2838,6 +2838,45 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-19c-progress",
+   "term": "进步",
+   "term_latin": "progress",
+   "definition": "19世纪的核心信念：人类历史在知识、道德与制度上持续改善。其哲学根据各异（理性的展开、实证知识的累积、进化的适应），而怀疑者（如尼采）视之为近代的世俗神学。",
+   "usages": [
+    {
+     "name": "孔德",
+     "id": "gr-19c-comte",
+     "usage": "三阶段法则：思想从神学经形而上学到实证，故进步是知识的必然进程。"
+    },
+    {
+     "name": "斯宾塞",
+     "id": "gr-19c-spencer",
+     "usage": "进化即进步：从同质到异质的分化与整合。"
+    },
+    {
+     "name": "尼采",
+     "id": "gr-19c-nietzsche",
+     "usage": "进步是“末人”的自我安慰：价值的等级下降而非上升。"
+    }
+   ],
+   "related": [
+    "gr-19c-absurd",
+    "gr-19c-nihilism"
+   ],
+   "example": {
+    "text": "孔德以三阶段法则为“进步”提供规律性的根据：神学阶段以拟人化的意志解释世界，形而上学阶段以抽象实体解释，实证阶段则以观察与规律解释——进步因此被说成不可逆的认知进程。",
+    "figure": "孔德",
+    "locator": "《实证哲学教程》"
+   },
+   "sources": [
+    "sep-comte",
+    "sep-spencer",
+    "sep-nietzsche"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

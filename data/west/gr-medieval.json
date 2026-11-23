@@ -3530,6 +3530,45 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-medieval-quaestio",
+   "term": "经院方法（quaestio）",
+   "term_latin": "quaestio disputata",
+   "definition": "中世纪大学的论证格式：先陈述问题（quaestio），列出正方与反方论据（videtur quod / sed contra），再以“respondeo”给出解答，最后逐一回应反对意见。它是把矛盾作为研究起点的技术。",
+   "usages": [
+    {
+     "name": "托马斯·阿奎那",
+     "id": "gr-medieval-aquinas",
+     "usage": "《神学大全》每一“问”（quaestio）由若干“条”（articulus）组成，条即一 quaestio。"
+    },
+    {
+     "name": "阿伯拉尔",
+     "id": "gr-medieval-abelard",
+     "usage": "《是与否》（Sic et Non）并列教父相互矛盾的说法，为 quaestio 方法的前身。"
+    },
+    {
+     "name": "奥卡姆",
+     "id": "gr-medieval-ockham",
+     "usage": "以 quaestio 形式处理逻辑与神学问题，其《箴言注》即此格式。"
+    }
+   ],
+   "related": [
+    "gr-medieval-faith-reason",
+    "gr-medieval-universals"
+   ],
+   "example": {
+    "text": "《神学大全》I q.2 a.3（神是否存在）的结构：先列三条反对（世界中有恶、可归于自然、可有无限后退），再引“我是自有永有的”，然后 respondeo 给出解答，末逐条反驳——这一格式本身就是“信仰寻求理解”的技术化。",
+    "figure": "托马斯·阿奎那",
+    "locator": "《神学大全》I q.2 a.3"
+   },
+   "sources": [
+    "lat-aquinas-summa",
+    "sep-aquinas",
+    "book-gilson-medieval"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

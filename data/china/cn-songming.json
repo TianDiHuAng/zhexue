@@ -3235,6 +3235,45 @@
    ],
    "needs_verification": true,
    "pending_notes": "“德性所知，不萌于见闻”一语见《正蒙·大心篇》，各本文字基本一致；但张载是否主张德性之知完全独立于闻见，学界有不同解读（“不萌”是来源义还是根据义）。"
+  },
+  {
+   "id": "cn-songming-zhujing2",
+   "term": "主敬",
+   "term_latin": "zhujing（holding in reverence）",
+   "definition": "程朱一系的修养工夫：以“敬”贯穿动静，使心常有所主而不散乱。它与“静坐”不同（敬不限于静），也与“主静”相辨（周敦颐主静、二程主敬）。",
+   "usages": [
+    {
+     "name": "程颐",
+     "id": "cn-songming-cheng-yi",
+     "usage": "“涵养须用敬，进学则在致知”：敬与致知为一对工夫。"
+    },
+    {
+     "name": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "usage": "“敬”是“圣门第一义”：未发时主敬，已发时致知省察。"
+    },
+    {
+     "name": "陈献章",
+     "id": "cn-songming-chen-xianzhang",
+     "usage": "以静坐为入手，与主敬路径不同（故有“主静”与“主敬”之争）。"
+    }
+   ],
+   "related": [
+    "cn-songming-gewu",
+    "cn-songming-li-qi"
+   ],
+   "example": {
+    "text": "朱子说“敬只是常惺惺法”：心常警醒而不昏昧，故不必强制把捉，也不必弃事绝物——这一表述把“敬”与佛教的“静”区别开来。",
+    "figure": "朱熹",
+    "locator": "《朱子语类》卷十二"
+   },
+   "sources": [
+    "ct-chuanxilu",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 689,
+  "entries": 696,
   "by_level": {
-   "L2": 584,
-   "L1": 105
+   "L2": 589,
+   "L1": 107
   },
   "doctrine": {
    "total": 219,
    "detail": 219,
    "auto": 0
   },
-  "needs_verification": 105,
+  "needs_verification": 107,
   "sources": 322,
   "sources_verified": 318
  },
@@ -21,7 +21,7 @@
    "title": "两汉经学与气论",
    "region": "china",
    "philosophers": 12,
-   "concepts": 11,
+   "concepts": 12,
    "debates": 6,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -39,7 +39,7 @@
    "title": "宋明理学与心学",
    "region": "china",
    "philosophers": 18,
-   "concepts": 12,
+   "concepts": 13,
    "debates": 6,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -75,7 +75,7 @@
    "title": "19世纪哲学",
    "region": "west",
    "philosophers": 16,
-   "concepts": 13,
+   "concepts": 14,
    "debates": 7,
    "philosophers_slot": "8 上限，余 -8"
   },
@@ -129,7 +129,7 @@
    "title": "中世纪经院哲学",
    "region": "west",
    "philosophers": 18,
-   "concepts": 13,
+   "concepts": 14,
    "debates": 6,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -390,6 +390,17 @@
    "id": "cn-lianghan-mingjia",
    "type": "concept",
    "title": "名教",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-genghua",
+   "type": "concept",
+   "title": "更化",
    "container": "cn-lianghan",
    "level": "L2",
    "sources": 3,
@@ -1154,6 +1165,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-songming-zhujing2",
+   "type": "concept",
+   "title": "主敬",
+   "container": "cn-songming",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-23"
   },
   {
@@ -2561,6 +2583,17 @@
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "gr-19c-progress",
+   "type": "concept",
+   "title": "进步",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-23"
   },
@@ -4853,6 +4886,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "gr-medieval-quaestio",
+   "type": "concept",
+   "title": "经院方法（quaestio）",
+   "container": "gr-medieval",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "gr-medieval-universals-debate",
    "type": "debate",
    "title": "共相是实在还是名称",
@@ -6822,6 +6866,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-poverty-philosophy",
+   "type": "work",
+   "title": "《哲学的贫困》",
+   "container": "west",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-walden",
    "type": "work",
    "title": "《瓦尔登湖》",
@@ -6888,6 +6943,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-dialectics-nature",
+   "type": "work",
+   "title": "《自然辩证法》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-anti-duhring",
    "type": "work",
    "title": "《反杜林论》",
@@ -6907,6 +6973,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-feuerbach-end",
+   "type": "work",
+   "title": "《路德维希·费尔巴哈与德国古典哲学的终结》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-23"
   },
   {
