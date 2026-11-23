@@ -1,29 +1,29 @@
 {
  "generated": "2026-11-23",
  "totals": {
-  "entries": 917,
+  "entries": 922,
   "by_level": {
-   "L2": 735,
-   "L1": 182
+   "L2": 739,
+   "L1": 183
   },
   "doctrine": {
-   "total": 235,
-   "detail": 235,
+   "total": 236,
+   "detail": 236,
    "auto": 0
   },
-  "needs_verification": 182,
-  "sources": 363,
-  "sources_verified": 363
+  "needs_verification": 183,
+  "sources": 366,
+  "sources_verified": 366
  },
  "units": [
   {
    "unit_id": "cn-lianghan",
    "title": "两汉经学与气论",
    "region": "china",
-   "philosophers": 16,
-   "concepts": 19,
+   "philosophers": 17,
+   "concepts": 21,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -8"
+   "philosophers_slot": "8 上限，余 -9"
   },
   {
    "unit_id": "cn-qingmod",
@@ -321,6 +321,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "cn-lianghan-xu-gan",
+   "type": "philosopher",
+   "title": "徐幹",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "cn-lianghan-tianren",
    "type": "concept",
    "title": "天人感应",
@@ -522,6 +533,28 @@
    "id": "cn-lianghan-qilue",
    "type": "concept",
    "title": "七略与四部",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-sangang-liuji",
+   "type": "concept",
+   "title": "三纲六纪",
+   "container": "cn-lianghan",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "cn-lianghan-guiyan",
+   "type": "concept",
+   "title": "贵验",
    "container": "cn-lianghan",
    "level": "L2",
    "sources": 3,
@@ -7834,6 +7867,17 @@
    "updated": "2026-11-23"
   },
   {
+   "id": "work-baihutong",
+   "type": "work",
+   "title": "《白虎通》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-23"
+  },
+  {
    "id": "work-lunheng",
    "type": "work",
    "title": "《论衡》",
@@ -7882,6 +7926,17 @@
    "type": "work",
    "title": "《沉思录》",
    "container": "west",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-23"
+  },
+  {
+   "id": "work-zhonglun-xugan",
+   "type": "work",
+   "title": "《中论》（徐幹）",
+   "container": "china",
    "level": "L2",
    "sources": 3,
    "verified_sources": 3,

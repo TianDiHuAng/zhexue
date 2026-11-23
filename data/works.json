@@ -3961,6 +3961,63 @@
    "sort_year": 62
   },
   {
+   "id": "work-baihutong",
+   "title": "《白虎通》",
+   "title_original": "白虎通",
+   "tradition": "china",
+   "date_display": "79年（白虎观会议）；今本经后人整理",
+   "structure": "四十四篇（通行本）；按“爵、号、谥、五祀、社稷、礼乐、封公侯、京师、五行、三军、诛伐、谏诤、乡射、致仕、辟雍、灾变、耕桑、封禅、巡狩、考黜、王者不臣、蓍龟、圣人、八风、商贾、文质、三正、三教、三纲六纪、情性、寿命、宗族、姓名、天地、日月、四时、衣裳、五刑、五经、嫁娶、绋冕、丧服、崩薨”等目排列。",
+   "core_arguments": [
+    "以“白虎观会议”的经义结论为纲，统一五经异义",
+    "“三纲六纪”：以纲纪为礼制的骨架（三纲：君臣、父子、夫妇）",
+    "以阴阳五行解释礼制与政教（如“五行者，何谓也”诸条）"
+   ],
+   "key_points": [
+    {
+     "locator": "《三纲六纪》",
+     "point": "三纲六纪的界定"
+    },
+    {
+     "locator": "《情性》",
+     "point": "以阴阳论性情"
+    },
+    {
+     "locator": "《五行》",
+     "point": "五行与政教"
+    },
+    {
+     "locator": "《五经》",
+     "point": "以经义统一制度"
+    }
+   ],
+   "editions": [
+    "陈立《白虎通疏证》中华书局；《白虎通》（四部丛刊本）"
+   ],
+   "related_people": [
+    "cn-lianghan-ban-gu",
+    "cn-lianghan-dong-zhongshu",
+    "cn-lianghan-he-xiu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《白虎通》是班固的个人著作",
+     "why": "它是白虎观会议的经义结论，由班固等整理成书（“撰集其事”），非一人之论。"
+    },
+    {
+     "claim": "“三纲”在此书首次提出",
+     "why": "“三纲”之说先见于《韩非子》《春秋繁露》一系；《白虎通》的作用是把它**法典化**为统一的经义。"
+    }
+   ],
+   "sources": [
+    "ws-baihutong",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "今本《白虎通》的篇目与文字经后人整理，与白虎观会议的原始结论之间有多少距离，学界有讨论；本页依陈立《疏证》与通行本。",
+   "sort_year": 79
+  },
+  {
    "id": "work-lunheng",
    "title": "《论衡》",
    "title_original": "論衡",
@@ -4246,6 +4303,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 175
+  },
+  {
+   "id": "work-zhonglun-xugan",
+   "title": "《中论》（徐幹）",
+   "title_original": "中論",
+   "tradition": "china",
+   "date_display": "约200—217年",
+   "structure": "二十篇；前六篇（治学、法象、修本、虚道、贵验、贵言）论为学与修身，中段（艺纪、核辩、爵禄、谴交）论名实与交游，后段（务本、审大臣、亡国、民数）论政。",
+   "core_arguments": [
+    "“名者所以名实”：名须副实",
+    "“辩而无实”是学风之病：学问的归宿在行",
+    "“贵验”：以实效检验言论"
+   ],
+   "key_points": [
+    {
+     "locator": "《贵验》",
+     "point": "以实效检验言论"
+    },
+    {
+     "locator": "《核辩》",
+     "point": "对“辩而无实”的批评"
+    },
+    {
+     "locator": "《谴交》",
+     "point": "对交游标榜的批评"
+    },
+    {
+     "locator": "《民数》",
+     "point": "以人口数为治道之本"
+    }
+   ],
+   "editions": [
+    "《中论》四部丛刊本；维基文库全文；中华书局解诂本（若有）"
+   ],
+   "related_people": [
+    "cn-lianghan-xu-gan",
+    "cn-lianghan-wang-chong",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《中论》与龙树的《中论》是同一书",
+     "why": "二者同名而异书：徐幹《中论》是汉末儒家子书，龙树《中论》（Madhyamakakārikā）是佛教中观派论典。"
+    },
+    {
+     "claim": "它是纯粹的道德训诫",
+     "why": "它有明确的名实论与学问论（《贵验》《核辩》），涉及语言与实在的关系。"
+    }
+   ],
+   "sources": [
+    "ws-zhonglun",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 210
   },
   {
    "id": "work-renwuzhi",
