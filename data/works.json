@@ -14179,6 +14179,63 @@
    "sort_year": 1205
   },
   {
+   "id": "work-shujing-jizhuan",
+   "title": "《书经集传》",
+   "title_original": "書經集傳（書集傳）",
+   "tradition": "china",
+   "date_display": "南宋（蔡沈，1167—1230；受朱熹之命作）",
+   "structure": "六卷：依《尚书》篇目逐篇训释，先解字义，次释章旨，兼采汉唐注疏与朱子之说；为元明科举《书》义的标准。",
+   "core_arguments": [
+    "以“理”解《书》：天命即理之显，故“皇天无亲，惟德是辅”",
+    "“人心惟危，道心惟微”的阐释：以“道心”为理之所在",
+    "疑《书》之伪篇：对部分晚出篇目有所别择"
+   ],
+   "key_points": [
+    {
+     "locator": "〈大禹谟〉",
+     "point": "人心道心"
+    },
+    {
+     "locator": "〈洪范〉",
+     "point": "五行与皇极"
+    },
+    {
+     "locator": "〈召诰〉",
+     "point": "天命与德"
+    },
+    {
+     "locator": "全书",
+     "point": "以理释经"
+    }
+   ],
+   "editions": [
+    "中华书局《书集传》（点校本）；《四库全书》本"
+   ],
+   "related_people": [
+    "cn-songming-zhu-xi",
+    "cn-xianqin-kongzi",
+    "cn-qingmod-yan-fu"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是蔡沈的独立经解",
+     "why": "它是受**朱熹之命**而作，且多本朱子之说；故其性质是“朱学的经解定本”，元代以后成为科举的《书》义标准。"
+    },
+    {
+     "claim": "《书经集传》不知《古文尚书》有伪",
+     "why": "其对部分晚出篇目已有所疑（承朱子之疑）；但系统的“伪古文”判定是清代阎若璩的贡献。"
+    }
+   ],
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ws-taijitushuo",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《书经集传》的卷数与其与朱熹《书》说的关系须核中华书局点校本；“人心道心”章的阐释亦须核原文。",
+   "sort_year": 1209
+  },
+  {
    "id": "work-beixi-ziyi",
    "title": "《北溪字义》",
    "title_original": "北溪字義（性理字義）",
@@ -17129,6 +17186,120 @@
    "needs_verification": true,
    "pending_notes": "张载《正蒙》原文的“太虚”与“气”的关系学界有不同解读（是否等同）；王夫之的注强化了“太虚即气”的读法，此读法与其自身的气本论相合，须与张载原文分看。",
    "sort_year": 1660
+  },
+  {
+   "id": "work-mengzi-shishuo",
+   "title": "《孟子师说》",
+   "title_original": "孟子師說",
+   "tradition": "china",
+   "date_display": "明末清初（黄宗羲，1610—1695）",
+   "structure": "二卷：依《孟子》篇目（告子、尽心等），先述其师刘宗周之说，再以己意疏解，逐章发明“心即理”之旨。",
+   "core_arguments": [
+    "以“心即理”解《孟子》：理不在心外，故“仁义内在”",
+    "“气”为一元：理是气之条理，非别有一物",
+    "对朱子“性即理”的批评：若理在心外，则“求理于外”"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上〈告子上〉",
+     "point": "性善与心即理"
+    },
+    {
+     "locator": "卷上〈尽心上〉",
+     "point": "尽心知性"
+    },
+    {
+     "locator": "卷下",
+     "point": "对朱子说的辨析"
+    },
+    {
+     "locator": "全书",
+     "point": "述师说而断以己意"
+    }
+   ],
+   "editions": [
+    "中华书局《黄宗羲全集》第一册；《四库全书》本"
+   ],
+   "related_people": [
+    "cn-qingmod-huang-zongxi",
+    "cn-xianqin-mengzi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是黄宗羲的独立著作",
+     "why": "其题即“师说”：所主为**其师刘宗周**之说，黄宗羲以己意疏解之；故其性质是“述而兼作”，须分辨哪一层是谁的。"
+    },
+    {
+     "claim": "“心即理”是说心可以任意规定理",
+     "why": "其说是：理是心的**条理**（不是心的任意），故“心即理”与“师心自用”相反；黄宗羲本人屡辨此点。"
+    }
+   ],
+   "sources": [
+    "ws-mingyi",
+    "ct-mengzi",
+    "ws-taijitushuo"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《孟子师说》的卷数与“述师说”的层次须核《黄宗羲全集》本；其与刘宗周《孟子解》的关系亦须分辨。",
+   "sort_year": 1660
+  },
+  {
+   "id": "work-poxie-lun",
+   "title": "《破邪论》",
+   "title_original": "破邪論",
+   "tradition": "china",
+   "date_display": "明末清初（黄宗羲）",
+   "structure": "一卷：以札记体辨世俗之“邪说”（论地狱、魂魄、祭祀、堪舆、时日等）。",
+   "core_arguments": [
+    "以“气”的聚散解生死：死则气散，非有常住之魂在地狱受罪",
+    "对“地狱”“轮回”之说的批评：其说使人为善出于畏，而非出于性",
+    "祭祀之义在“报”与“敬”，不在鬼神的实有"
+   ],
+   "key_points": [
+    {
+     "locator": "〈地狱〉",
+     "point": "气散与无地狱"
+    },
+    {
+     "locator": "〈魂魄〉",
+     "point": "魂魄与生死"
+    },
+    {
+     "locator": "〈祭祀〉",
+     "point": "祭义在报敬"
+    },
+    {
+     "locator": "〈堪舆〉〈时日〉",
+     "point": "世俗之惑"
+    }
+   ],
+   "editions": [
+    "中华书局《黄宗羲全集》第十一册；《昭代丛书》本"
+   ],
+   "related_people": [
+    "cn-qingmod-huang-zongxi",
+    "cn-lianghan-wang-chong",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“反宗教”的著作",
+     "why": "其所破的是**世俗的功利信仰**（畏地狱而为善、求风水以邀福），而非一切宗教；其“祭祀”之说仍主“报”与“敬”。"
+    },
+    {
+     "claim": "其“气散无鬼”是唯物论的口号",
+     "why": "其说以“气”的聚散为生死之理，属**气本论**的推论；用“唯物／唯心”的标签会抹掉其与理学的问题关联。"
+    }
+   ],
+   "sources": [
+    "ws-mingyi",
+    "ws-zhuzi-yulei",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《破邪论》的篇目与其成书年代须核《黄宗羲全集》第十一册；“地狱”“魂魄”诸条的原文亦须核。",
+   "sort_year": 1662
   },
   {
    "id": "work-mingyi",

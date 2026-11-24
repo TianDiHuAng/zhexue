@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1364,
+  "entries": 1369,
   "by_level": {
    "L2": 781,
-   "L1": 583
+   "L1": 588
   },
   "doctrine": {
    "total": 274,
    "detail": 274,
    "auto": 0
   },
-  "needs_verification": 583,
+  "needs_verification": 588,
   "sources": 416,
   "sources_verified": 416
  },
@@ -30,7 +30,7 @@
    "title": "南北朝佛道与形神之争",
    "region": "china",
    "philosophers": 12,
-   "concepts": 18,
+   "concepts": 19,
    "debates": 6,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -1070,6 +1070,17 @@
    "id": "cn-nanbei-jiaoguan",
    "type": "concept",
    "title": "教观",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-yishu",
+   "type": "concept",
+   "title": "义疏",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -11517,6 +11528,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-shujing-jizhuan",
+   "type": "work",
+   "title": "《书经集传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-beixi-ziyi",
    "type": "work",
    "title": "《北溪字义》",
@@ -12085,6 +12107,28 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-mengzi-shishuo",
+   "type": "work",
+   "title": "《孟子师说》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-poxie-lun",
+   "type": "work",
+   "title": "《破邪论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -14677,6 +14721,17 @@
    "id": "cmp-tiyong",
    "type": "comparative",
    "title": "体用二分与“形式—质料”：能不能只取一半？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shuoshi",
+   "type": "comparative",
+   "title": "“师说”与“我思”：权威在文本里还是在心里？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

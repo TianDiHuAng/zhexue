@@ -2473,6 +2473,42 @@
    ],
    "needs_verification": true,
    "pending_notes": "“教观双美”的表述在宋代天台（知礼等）的著作中定型，智顗本人多用“教观”而未以“双美”标榜；本页取其结构义，具体表述须核。"
+  },
+  {
+   "id": "cn-nanbei-yishu",
+   "term": "义疏",
+   "term_latin": "commentary and subcommentary",
+   "definition": "南北朝至隋唐的解经体裁：兼释经文与注文（“疏”不破注，或间出己意），逐句解其字义与义理。佛教的“义疏”与儒家的“义疏”同此体裁，是“义学”的文本载体。",
+   "usages": [
+    {
+     "name": "皇侃（其代表）",
+     "usage": "《论语义疏》为南朝义疏的代表。"
+    },
+    {
+     "name": "智顗一系（其用）",
+     "usage": "天台诸部以义疏的体裁立其教观。"
+    },
+    {
+     "name": "孔颖达（其综合）",
+     "usage": "《五经正义》为唐代义疏的官定综合。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-yixue",
+    "cn-nanbei-jiaoguan"
+   ],
+   "example": {
+    "text": "“义疏”的要害是它把“注”也当作解释的对象：疏家须先解经，再解注，故其文本是**双层的**。这一体裁使“师说”得以传承（也得以僵化）—— 南北朝到唐代的经学，正是靠义疏维系其师承谱系的。",
+    "figure": "皇侃",
+    "locator": "《论语义疏》"
+   },
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "ws-mohezhiguan",
+    "ws-zhuzi-yulei"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“义疏”体裁的源流（南朝讲义→唐代正义）与其“疏不破注”的惯例须核；佛教义疏与儒家义疏的关系亦须分辨。"
   }
  ],
  "debates": [
