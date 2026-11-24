@@ -20330,6 +20330,63 @@
    "sort_year": 1927
   },
   {
+   "id": "work-was-ist-metaphysik",
+   "title": "《形而上学是什么？》",
+   "title_original": "Was ist Metaphysik?",
+   "tradition": "west",
+   "date_display": "1929年（海德格尔就职演说）；1943年后附《后记》，1949年附《导言》",
+   "structure": "一篇演说：从“无”的问题入手，追问形而上学的基本问题；后世版本附《后记》（1943）与《导言》（1949）。",
+   "core_arguments": [
+    "科学只研究“存在者”，而“无”不是存在者，故科学对“无”无话可说",
+    "“无”在**畏**（Angst）中被启示：畏不是怕某物，而是对“无”的体验",
+    "形而上学是“超出存在者”的追问：故“无”是形而上学的地基"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "科学与无"
+    },
+    {
+     "locator": "中段",
+     "point": "畏与无"
+    },
+    {
+     "locator": "末段",
+     "point": "形而上学的基本问题"
+    },
+    {
+     "locator": "附录",
+     "point": "《后记》与《导言》的自我解释"
+    }
+   ],
+   "editions": [
+    "德文全集第9卷（Wegmarken）；中译参《路标》（孙周兴译，商务印书馆）"
+   ],
+   "related_people": [
+    "gr-20c-heidegger",
+    "gr-20c-husserl",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张“无”是一种神秘的存在",
+     "why": "海德格尔明确说“无”不是存在者，也不是另一类东西；它是**存在者整体的否定**在畏中的显现。故其“无”是方法性的，不是本体论上的一个对象。"
+    },
+    {
+     "claim": "它与《存在与时间》无关",
+     "why": "它是《存在与时间》未完成部分的**过渡**（从“此在”的分析转向“存在本身”的问题）；故须与后者对读。"
+    }
+   ],
+   "sources": [
+    "sep-heidegger",
+    "sep-husserl",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《形而上学是什么？》1929 年演说与后世版本（附《后记》1943、《导言》1949）差异重要：海德格尔在《导言》中对原文有修正；本页依德文全集第9卷与 SEP 词条概述。",
+   "sort_year": 1929
+  },
+  {
    "id": "work-logik-der-forschung",
    "title": "《科学发现的逻辑》",
    "title_original": "Logik der Forschung",
@@ -20896,6 +20953,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1953
+  },
+  {
+   "id": "work-identitaet-differenz",
+   "title": "《同一与差异》",
+   "title_original": "Identität und Differenz",
+   "tradition": "west",
+   "date_display": "1957年（海德格尔）",
+   "structure": "两篇：《同一律》（1957年演讲）与《形而上学的存在—神—逻辑学机制》（1956—57年）。",
+   "core_arguments": [
+    "“同一律”（A=A）被传统逻辑读作“A 是 A”，而其本源是“让同一者归属于同一者”",
+    "“同一”须从“存在”与“人”的**相互归属**（ Zusammengehörigkeit）理解",
+    "形而上学是“存在—神—逻辑学”（Onto-Theo-Logik）：它以“存在者的存在”与“最高存在者”双重建构"
+   ],
+   "key_points": [
+    {
+     "locator": "《同一律》",
+     "point": "同一与相互归属"
+    },
+    {
+     "locator": "《同一律》后段",
+     "point": "跳跃（Sprung）"
+    },
+    {
+     "locator": "《存在—神—逻辑学机制》",
+     "point": "形而上学的双重结构"
+    },
+    {
+     "locator": "末段",
+     "point": "克服形而上学的方向"
+    }
+   ],
+   "editions": [
+    "德文全集第11卷；中译参《同一与差异》（孙周兴等译，商务印书馆）"
+   ],
+   "related_people": [
+    "gr-20c-heidegger",
+    "gr-german-hegel",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是黑格尔式的“同一哲学”",
+     "why": "海德格尔的“同一”是**相互归属**（存在与人的共属），不是黑格尔的“绝对精神的自我同一”；故二者正相反。"
+    },
+    {
+     "claim": "“存在—神—逻辑学”是一个贬义的标签",
+     "why": "它是**结构的描述**：形而上学必然以“根据”（逻辑学）与“最高者”（神）来思考存在者整体；海德格尔的诊断是“此结构有其必然性，故不可简单抛弃”。"
+    }
+   ],
+   "sources": [
+    "sep-heidegger",
+    "sep-hegel",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《同一与差异》两篇的成文与演讲年代（1956—57）须核；其“存在—神—逻辑学”的诊断与黑格尔的关系须分辨。本页依德文全集第11卷与相关研究概述。",
+   "sort_year": 1957
   },
   {
    "id": "work-two-concepts-liberty",
@@ -21627,6 +21741,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《论文字学》的“原初文字”（archi-écriture）与“延异”的关系须核法文原版与 Spivak 英译的长序；其与《书写与差异》的先后与互补亦须分辨。",
+   "sort_year": 1967
+  },
+  {
+   "id": "work-wegmarken",
+   "title": "《路标》",
+   "title_original": "Wegmarken",
+   "tradition": "west",
+   "date_display": "1967年编定（海德格尔；收1919—1961年间的论文）",
+   "structure": "收十四篇（1967年版）：含《现象学与神学》《论根据的本质》《形而上学是什么？》《柏拉图的真理学说》《论人文主义书信》《论存在问题》等。",
+   "core_arguments": [
+    "“真理”不是命题与物的符合，而是**无蔽**（aletheia）",
+    "“根据”须回到“存在”的真理中理解（《论根据的本质》）",
+    "“人道主义”须从“存在”而非“人”出发重新理解（《论人文主义书信》）"
+   ],
+   "key_points": [
+    {
+     "locator": "《论根据的本质》",
+     "point": "根据与自由"
+    },
+    {
+     "locator": "《柏拉图的真理学说》",
+     "point": "真理即无蔽"
+    },
+    {
+     "locator": "《论人文主义书信》",
+     "point": "存在与人"
+    },
+    {
+     "locator": "《论存在问题》",
+     "point": "存在与存在者之别"
+    }
+   ],
+   "editions": [
+    "德文全集第9卷；中译参《路标》（孙周兴译，商务印书馆）"
+   ],
+   "related_people": [
+    "gr-20c-heidegger",
+    "gr-ancient-plato",
+    "gr-20c-sartre"
+   ],
+   "misreadings": [
+    {
+     "claim": "《路标》是一部系统的著作",
+     "why": "它是**论文的结集**（跨四十余年），其所收各篇的问题与用语有变化；故不宜当作一部体系书读。"
+    },
+    {
+     "claim": "“真理即无蔽”是对柏拉图的发展",
+     "why": "海德格尔认为柏拉图已完成“真理的转向”（从无蔽转向理念的正确性），故其说是对柏拉图的**批评性解读**，不是继承。"
+    }
+   ],
+   "sources": [
+    "sep-heidegger",
+    "sep-plato",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《路标》1967 年版所收篇目与后世增补（如第10版）有差异；本页依德文全集第9卷与 SEP 词条概述，具体篇目须核。",
    "sort_year": 1967
   },
   {

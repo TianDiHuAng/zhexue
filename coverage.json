@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1236,
+  "entries": 1240,
   "by_level": {
    "L2": 792,
-   "L1": 444
+   "L1": 448
   },
   "doctrine": {
    "total": 264,
    "detail": 264,
    "auto": 0
   },
-  "needs_verification": 444,
+  "needs_verification": 448,
   "sources": 409,
   "sources_verified": 409
  },
@@ -12309,6 +12309,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-was-ist-metaphysik",
+   "type": "work",
+   "title": "《形而上学是什么？》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-logik-der-forschung",
    "type": "work",
    "title": "《科学发现的逻辑》",
@@ -12416,6 +12427,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-identitaet-differenz",
+   "type": "work",
+   "title": "《同一与差异》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -12554,6 +12576,17 @@
    "id": "work-de-la-grammatologie",
    "type": "work",
    "title": "《论文字学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-wegmarken",
+   "type": "work",
+   "title": "《路标》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -13269,6 +13302,17 @@
    "id": "cmp-buhe",
    "type": "comparative",
    "title": "“不和”与“无分则争”：马基雅维利与荀子论冲突",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-wu-yu-wu",
+   "type": "comparative",
+   "title": "“无”的两种说法：海德格尔的畏与道家的无",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
