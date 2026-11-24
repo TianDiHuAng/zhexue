@@ -351,4 +351,4 @@ D66 说"链接通 ≠ 来源对"。第254轮把它拆成两部分并做成工具
 2. 必须人做：--sample N 随机列出 N 条，实开核对落地页标题与 title 是否相符。
 首次运行修正两处判定：type 集合漏了"学术著作"（9 条误报）；note<10 字在历史数据有 150 条，降为提示不追溯。
 已加入 CI，部署管道成六道闸（查重→来源自洽→引用有效性→数据校验→生成→断链）。
-另：METRICS.json 新增 last_health_check_round/next_health_check_round，防体检漏做（已连续漏两次）。
+另：新出 HEALTH_STATE.json（last_health_check_round / next_health_check_round），防体检漏做（已连续漏两次）。
