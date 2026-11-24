@@ -2807,6 +2807,301 @@
      "note": "815 年"
     }
    ]
+  },
+  {
+   "id": "cn-suitang-liu-zhiji",
+   "name": "刘知幾",
+   "latin": "Liu Zhiji",
+   "birth_year": 661,
+   "death_year": 721,
+   "birth_display": "661年",
+   "death_display": "721年",
+   "birth_note": "据《旧唐书》本传：字子玄，彭城人，唐代史学家；长安中始任史官，历修国史，后以“史才”自负，著《史通》。",
+   "death_note": "721年卒（《旧唐书》本传）。",
+   "era": "唐代史学理论的奠基者。其《史通》以“六家二体”梳理史书的体例，以“才、学、识”三长论史家的素养，并以“疑古”“惑经”把史法施于经典本身。故其位置是：把“史学”从“记事的技艺”提升为**有方法的学问** —— 而这一提升的代价，是他与同时的史馆制度长期不合。",
+   "school": "唐代史学理论",
+   "core_questions": [
+    "史书的体例有几种？",
+    "史家须有何种素养？",
+    "经典的记载可否以史法核之？"
+   ],
+   "arguments": [
+    {
+     "claim": "六家二体：史体可归为二",
+     "premises": [
+      "史书的体例虽多，其源不出六家（《尚书》《春秋》《左传》《国语》《史记》《汉书》）。",
+      "而六家又可归为编年与纪传二体。"
+     ],
+     "inference": "若体例可归为二，则论史体须先辨“编年”与“纪传”之长短；故其说是**体例的分类学**，不是书目的罗列。",
+     "conclusion": "六家二体（此说成为后世论史体的框架）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "才、学、识三长：识尤为难得",
+     "premises": [
+      "史家须有文才（能述）、学（能考）、识（能断）。",
+      "而三者之中，识最难：无识则才学无所用。"
+     ],
+     "inference": "若识为最难，则史家的培养不能止于博览，须有“断”的能力；故其说是对**史学主体**的要求，非仅技术。",
+     "conclusion": "才学识三长（此说为后世史家所宗）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《史通》",
+     "edition": "上海古籍出版社《史通通释》（浦起龙）",
+     "note": "710"
+    },
+    {
+     "title": "《唐书》（参与修撰）",
+     "edition": "见《旧唐书》本传",
+     "note": "唐"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "刘勰（其文论之先）",
+     "id": null,
+     "note": "以“文心”论文体的方法，为其论史体之先声"
+    },
+    {
+     "name": "司马迁、班固（其评骘对象）",
+     "id": null,
+     "note": "纪传体与断代史的典范"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "章学诚（其后学）",
+     "id": null,
+     "note": "以“六经皆史”承其史学的独立"
+    },
+    {
+     "name": "后世的史体论",
+     "id": null,
+     "note": "以六家二体为框架"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "同时的史馆同僚",
+     "view": "指其“疑古惑经”过于苛刻，且以个人的史识非议官修的制度。",
+     "response": "刘知幾的回应（见《史通》自序与诸篇）：史之责在“实录直书”，若以官修的忌讳为准则，则史不成史。",
+     "kind": "原文",
+     "sources": [
+      "ws-jiutangshu",
+      "ws-shangshu"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《史通》是“史学史”",
+     "why": "它以**体例与作法**为核心（六家二体、本纪世家、载言载文），故是史学理论；其外篇才涉史官沿革。"
+    },
+    {
+     "claim": "其“疑古惑经”是反经",
+     "why": "所疑者是**经典的记载方法**（以史法核之），不是否认经的地位；其立场是史家之识的独立，不是反儒。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>刘知幾：六家二体与三长</text><defs><marker id='aLZ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>史体源出六家</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而归于编年与纪传二体</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>而史家须才学识三长</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故识为最难</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLZ)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLZ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "刘知幾：“六家二体”与“才、学、识”三长（示意图）",
+   "sources": [
+    "ws-jiutangshu",
+    "ws-shangshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "刘知幾无 SEP 专条（已试 liu-zhiji，404）；本页依《旧唐书》本传、《史通》原文（浦起龙《通释》本）与 SEP“中国形而上学”词条，**属语境性引用而非专门研究**。其生卒（661—721）与史馆经历须核。",
+   "doctrine": {
+    "summary": "刘知幾以《史通》立史学理论：以“六家二体”梳理史书体例，以“才、学、识”三长论史家素养（识尤为难得），并以“疑古”“惑经”把史法施于经典本身。故其功在把史学提升为**有方法的学问**；其代价是与史馆制度长期不合。",
+    "system": [
+     {
+      "name": "六家二体",
+      "content": "史体源出六家，而归于编年与纪传二体；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "才学识三长",
+      "content": "才、学、识为史家所须，而识最难；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "疑古惑经",
+      "content": "以史法核经典之记载，非否认经的地位；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "实录直书",
+      "content": "史之责在直书，不以忌讳为准；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "彭城与长安（661—721）",
+      "change": "永隆元年进士；长安中任史官；历修国史；710 年前后成《史通》；因与监修不合，自领史职；721 年卒。"
+     }
+    ],
+    "reception": "《史通》成为后世论史体的框架（六家二体），其“才学识”之说为史家所宗；其“疑古惑经”则开后世史学独立的先声，章学诚“六经皆史”即承其绪。"
+   },
+   "works_detail": [
+    {
+     "title": "《史通》",
+     "structure": "二十卷四十九篇：内篇论体例与作法，外篇论史官沿革与史学流变。",
+     "core_thesis": "史体有二，史家有三长，史法可施于经。",
+     "editions": "上海古籍出版社《史通通释》",
+     "note": "710 年"
+    }
+   ]
+  },
+  {
+   "id": "cn-suitang-du-you",
+   "name": "杜佑",
+   "latin": "Du You",
+   "birth_year": 735,
+   "death_year": 812,
+   "birth_display": "735年",
+   "death_display": "812年",
+   "birth_note": "据《旧唐书》本传：字君卿，京兆万年人，唐代政治家与史学家；历官至宰相，以三十年之力撰《通典》。",
+   "death_note": "812年卒（《旧唐书》本传）。",
+   "era": "唐代制度史的奠基者。其《通典》以“制度沿革”为史，分食货、选举、职官、礼、乐、兵、刑法、州郡、边防九门，且以“食货为先” —— 这一编排本身即主张：经济是治道之本。故其位置是把“史学”从“记人”转向“记事之制”，为后世“三通”之首。",
+   "school": "唐代制度史（政书）",
+   "core_questions": [
+    "史学的对象应是人事还是典章？",
+    "治道之本在何处？",
+    "制度的评价应以何为准？"
+   ],
+   "arguments": [
+    {
+     "claim": "以“制度沿革”为史，不以“人事褒贬”为史",
+     "premises": [
+      "人事的褒贬易涉主观，而典章有其实迹可循。",
+      "且治道之要在于制度的因革。"
+     ],
+     "inference": "若史学以制度为对象，则其可以“因革”为线索，避免褒贬的任意；故其说是**史学的对象转移**（从人转到制）。",
+     "conclusion": "以制度沿革为史（此说开“政书”一体）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "食货为先：以经济为治道之本",
+     "premises": [
+      "民之生养在食货。",
+      "而教化与礼乐须以生养为先。"
+     ],
+     "inference": "若生养不足则教化无所施，故食货须列于九门之首；此一次序即是对“以礼为首”的传统编排的**反驳**。",
+     "conclusion": "食货为先（此说是编排，也是主张）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《通典》",
+     "edition": "中华书局《通典》点校本（王文锦等）",
+     "note": "801"
+    },
+    {
+     "title": "《理道要诀》（佚）",
+     "edition": "见《旧唐书》本传",
+     "note": "唐"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "刘知幾（其同代）",
+     "id": "cn-suitang-liu-zhiji",
+     "note": "同以史学的方法自立，而其对象不同（体例 vs 制度）"
+    },
+    {
+     "name": "刘禹锡（其论友）",
+     "id": "cn-suitang-liu-yuxi",
+     "note": "以“法弛则言天”呼应其对制度的重视"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "马端临《文献通考》（其后）",
+     "id": null,
+     "note": "承其“政书”之体而扩之"
+    },
+    {
+     "name": "章学诚（其同调）",
+     "id": null,
+     "note": "以“六经皆史”推其制度之学的意蕴"
+    },
+    {
+     "name": "后世的制度史",
+     "id": null,
+     "note": "以“三通”为范式"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "同时的道学家（隐含）",
+     "view": "指其以制度为史，轻忽了“道”与“心性”的根本；若治道只在制度，则人的教化何在？",
+     "response": "杜佑一系的回应是：教化亦须有制度为其条件（食货不足则礼乐无所施）；故其说不是否认教化，而是**为教化立其物质前提**。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-jiutangshu",
+      "ct-liji"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《通典》是“类书”",
+     "why": "类书类聚以供检阅；《通典》则叙沿革、明因革，且有其评价（食货为先），故是制度史。"
+    },
+    {
+     "claim": "其“食货为先”只是编排次序",
+     "why": "此次序本身即主张：以经济为治道之本，与以礼为首的传统编排形成对照。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>杜佑：以制度沿革为史</text><defs><marker id='aDY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>人事褒贬易涉主观</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而典章有其实迹</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故以因革为线索</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故食货为先</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aDY)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aDY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "杜佑：以制度沿革为史与“食货为先”（示意图）",
+   "sources": [
+    "ws-jiutangshu",
+    "ct-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "杜佑无 SEP 专条（已试 du-you，404）；本页依《旧唐书》本传、《通典》原文（中华书局点校本）与 SEP“中国形而上学”词条，**属语境性引用而非专门研究**。其生卒（735—812）与《通典》的成书过程须核。",
+   "doctrine": {
+    "summary": "杜佑以《通典》立制度史：以“制度沿革”为史的对象，分九门叙其因革，且以“食货为先” —— 这一次序即主张：经济是治道之本。故其功在把史学从“记人”转向“记事之制”，为后世“三通”之首。",
+    "system": [
+     {
+      "name": "以制度沿革为史",
+      "content": "史的对象是典章的因革，不是人事的褒贬；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "食货为先",
+      "content": "经济为治道之本，故列九门之首；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "九门之序",
+      "content": "食货、选举、职官、礼、乐、兵、刑法、州郡、边防。"
+     },
+     {
+      "name": "为教化立其物质前提",
+      "content": "食货不足则礼乐无所施；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "万年与长安（735—812）",
+      "change": "以荫入仕；历官至宰相（检校司空、同中书门下平章事）；积三十年之力撰《通典》；约 801 年成书；812 年卒。"
+     }
+    ],
+    "reception": "《通典》为“三通”之首，开“政书”一体；其“食货为先”的编排成为后世制度史的范式；其对制度与教化的关系的处理，也为清代“经世”之学所重。"
+   },
+   "works_detail": [
+    {
+     "title": "《通典》",
+     "structure": "二百卷九门：食货、选举、职官、礼、乐、兵、刑法、州郡、边防，各门叙其沿革。",
+     "core_thesis": "以制度沿革为史，食货为先；这是该书的核心命题。",
+     "editions": "中华书局点校本（具体版次待核）",
+     "note": "约801 年"
+    }
+   ]
   }
  ],
  "concepts": [

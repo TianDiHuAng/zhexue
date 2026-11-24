@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1388,
+  "entries": 1390,
   "by_level": {
    "L2": 781,
-   "L1": 607
+   "L1": 609
   },
   "doctrine": {
-   "total": 280,
-   "detail": 280,
+   "total": 282,
+   "detail": 282,
    "auto": 0
   },
-  "needs_verification": 607,
+  "needs_verification": 609,
   "sources": 418,
   "sources_verified": 418
  },
@@ -56,10 +56,10 @@
    "unit_id": "cn-suitang",
    "title": "隋唐佛学",
    "region": "china",
-   "philosophers": 19,
+   "philosophers": 21,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -11"
+   "philosophers_slot": "8 上限，余 -13"
   },
   {
    "unit_id": "cn-weijin",
@@ -2577,6 +2577,28 @@
    "id": "cn-suitang-liu-yuxi",
    "type": "philosopher",
    "title": "刘禹锡",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-suitang-liu-zhiji",
+   "type": "philosopher",
+   "title": "刘知幾",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-suitang-du-you",
+   "type": "philosopher",
+   "title": "杜佑",
    "container": "cn-suitang",
    "level": "L1",
    "sources": 3,
