@@ -17280,6 +17280,63 @@
    "sort_year": 1838
   },
   {
+   "id": "work-wesen-christentums",
+   "title": "《基督教的本质》",
+   "title_original": "Das Wesen des Christentums",
+   "tradition": "west",
+   "date_display": "1841年（费尔巴哈）",
+   "structure": "两部分（导论与正文）：论宗教的一般本质、论宗教的对象（神即人的本质的投射）、以及辨证（宗教的真理即人）。",
+   "core_arguments": [
+    "神是人的本质的**异化**投射：“人把自己的本质对象化，然后向它膜拜”",
+    "宗教的秘密是人类学的：神学即人类学",
+    "故宗教的批判是**人的自我意识的恢复**"
+   ],
+   "key_points": [
+    {
+     "locator": "导论",
+     "point": "宗教的一般本质"
+    },
+    {
+     "locator": "第一部分",
+     "point": "神作为人的本质的投射"
+    },
+    {
+     "locator": "第二部分",
+     "point": "宗教的辨证"
+    },
+    {
+     "locator": "结论",
+     "point": "神学即人类学"
+    }
+   ],
+   "editions": [
+    "德文 Gesammelte Werke（Berlin）；中译参《基督教的本质》（荣震华译，商务印书馆）"
+   ],
+   "related_people": [
+    "gr-german-hegel",
+    "gr-19c-marx",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是“无神论”的宣传",
+     "why": "其论证是**人类学**的：宗教的对象是人的本质；故它不是简单地否认神，而是重新解释“神”这一表象的内容。"
+    },
+    {
+     "claim": "“异化”是马克思的术语",
+     "why": "“异化”（Entfremdung）在费尔巴哈与黑格尔处已有其用法；马克思的“异化劳动”是对**费尔巴哈式的宗教异化**的转用。"
+    }
+   ],
+   "sources": [
+    "sep-ludwig-feuerbach",
+    "sep-hegel",
+    "sep-marx"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《基督教的本质》1841 年初版与 1843 年第二版（增补）有差异；本页依中译本与 SEP 词条概述。",
+   "sort_year": 1841
+  },
+  {
    "id": "work-fear-trembling",
    "title": "《恐惧与颤栗》",
    "title_original": "Frygt og Bæven",

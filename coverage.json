@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1186,
+  "entries": 1189,
   "by_level": {
    "L2": 789,
-   "L1": 397
+   "L1": 400
   },
   "doctrine": {
    "total": 261,
    "detail": 261,
    "auto": 0
   },
-  "needs_verification": 397,
-  "sources": 404,
-  "sources_verified": 404
+  "needs_verification": 400,
+  "sources": 405,
+  "sources_verified": 405
  },
  "units": [
   {
@@ -129,7 +129,7 @@
    "title": "希腊化与罗马哲学",
    "region": "west",
    "philosophers": 15,
-   "concepts": 18,
+   "concepts": 19,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -6710,6 +6710,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-hellenistic-phantasia-kataleptike",
+   "type": "concept",
+   "title": "把握性的印象",
+   "container": "gr-hellenistic",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-hellenistic-knowledge",
    "type": "debate",
    "title": "知识是否可能：学园派与斯多亚派",
@@ -11561,6 +11572,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-wesen-christentums",
+   "type": "work",
+   "title": "《基督教的本质》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-fear-trembling",
    "type": "work",
    "title": "《恐惧与颤栗》",
@@ -12719,6 +12741,17 @@
    "id": "cmp-oikeiosis",
    "type": "comparative",
    "title": "亲适与推恩：斯多亚的同心圆与儒家的差等之爱",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-yihua",
+   "type": "comparative",
+   "title": "异化的两种来源：费尔巴哈的投射与道家的“失性”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

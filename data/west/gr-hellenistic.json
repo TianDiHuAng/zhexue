@@ -2888,6 +2888,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“预象”（prolēpsis）在伊壁鸠鲁、斯多亚与后期怀疑论的记载中含义有差异；本页取伊壁鸠鲁派的基本义，具体文本须核《致希罗多德的信》与第欧根尼·拉尔修卷十。"
+  },
+  {
+   "id": "gr-hellenistic-phantasia-kataleptike",
+   "term": "把握性的印象",
+   "term_latin": "phantasia kataleptikē",
+   "definition": "斯多亚派的认识论判准：某些印象自身带有“被把握”的标记，使人不能不 assent（同意）。故真理的判准不在命题，而在**印象的性质**——这是古代认识论中最接近“自明性”的学说。",
+   "usages": [
+    {
+     "name": "斯多亚派（芝诺、克律西波）",
+     "id": "gr-hellenistic-zeno",
+     "usage": "以“把握性的印象”为判准，德性与知识由此起。"
+    },
+    {
+     "name": "阿尔凯西劳斯与学园派（批评者）",
+     "usage": "以“悬置判断”（epochē）反驳：没有印象能保证自身为真。"
+    },
+    {
+     "name": "塞克斯都（记载者）",
+     "id": "gr-hellenistic-sextus",
+     "usage": "以怀疑论的转述保存了这一争论。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-epoche",
+    "gr-hellenistic-sage"
+   ],
+   "example": {
+    "text": "这一判准的困难在于它要求印象“自我担保”：若判准须由另一印象来确认，则无穷倒退；若印象自证，则它与“主观确信”难以分辨。学园派的“悬置”正是攻此一点，而斯多亚的回应则须诉诸“智者”的训练。",
+    "figure": "斯多亚派",
+    "locator": "《名哲言行录》卷七；西塞罗《学园派》"
+   },
+   "sources": [
+    "sep-stoicism",
+    "book-copleston-history",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“把握性的印象”的希腊文（phantasia kataleptikē）与其中译（把握性的／把握住的）不统一；本页取通行译法，具体论证须核《名哲言行录》卷七与西塞罗《学园派》。"
   }
  ],
  "debates": [
