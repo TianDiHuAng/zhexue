@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1423,
+  "entries": 1428,
   "by_level": {
    "L2": 781,
-   "L1": 642
+   "L1": 647
   },
   "doctrine": {
    "total": 284,
    "detail": 284,
    "auto": 0
   },
-  "needs_verification": 642,
+  "needs_verification": 647,
   "sources": 418,
   "sources_verified": 418
  },
@@ -30,7 +30,7 @@
    "title": "南北朝佛道与形神之争",
    "region": "china",
    "philosophers": 12,
-   "concepts": 24,
+   "concepts": 25,
    "debates": 6,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -1136,6 +1136,17 @@
    "id": "cn-nanbei-chunqiu-bifa",
    "type": "concept",
    "title": "春秋笔法",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-lunyi",
+   "type": "concept",
+   "title": "论义",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -11836,6 +11847,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-shiji-zhuan",
+   "type": "work",
+   "title": "《诗集传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-jiali",
    "type": "work",
    "title": "《家礼》",
@@ -11916,6 +11938,28 @@
    "id": "work-chenliang-ji",
    "type": "work",
    "title": "《陈亮集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-chuci-jizhu",
+   "type": "work",
+   "title": "《楚辞集注》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-cantongqi-kaoyi",
+   "type": "work",
+   "title": "《参同契考异》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -15326,6 +15370,17 @@
    "id": "cmp-gonggongxing",
    "type": "comparative",
    "title": "公共性的瓦解与“人心之公”：两种“公”的危机",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-yinshi",
+   "type": "comparative",
+   "title": "“淫诗说”与“净化说”：诗中的不正当之情",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

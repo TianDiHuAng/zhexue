@@ -2692,6 +2692,42 @@
    ],
    "needs_verification": true,
    "pending_notes": "“春秋笔法”说的源流（董仲舒《春秋繁露》—司马迁—胡安国）须核；“笔法”是否《春秋》本有之义，学界有争论，本页并述而不裁定。"
+  },
+  {
+   "id": "cn-nanbei-lunyi",
+   "term": "论义",
+   "term_latin": "doctrinal discussion (lunyi)",
+   "definition": "南北朝佛教讲席的一种体式：不是逐句注疏，而是就某一义目**立论并答问**（“设问—作答”的结构），其成果常被辑为“论”。它以问题为纲，故比义疏自由，也更能见论辩的现场。",
+   "usages": [
+    {
+     "name": "吉藏（其三论）",
+     "usage": "以“论”的体式破诸家之说；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "慧远（其遗风）",
+     "usage": "东晋庐山一系的论辩之风为其先声。"
+    },
+    {
+     "name": "智顗（其玄义）",
+     "usage": "以“玄义”的体式释经，兼有论的性质。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-yishu",
+    "cn-nanbei-yixue"
+   ],
+   "example": {
+    "text": "“论义”与“义疏”之别，是理解中古佛教知识生产的钥匙：义疏以**经**为纲（忠于文本），论义以**问题**为纲（忠于辩难）。前者便于传承，后者便于创新 —— 而两者往往在同一讲席上并存。",
+    "figure": "吉藏",
+    "locator": "《三论玄义》"
+   },
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "ws-xugaoseng-zhuan",
+    "ws-mohezhiguan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“论义”的体式（设问作答）与讲席的实况须核《高僧传》《续高僧传》；本页取其体式义，具体例证须核各家“论”的原文。"
   }
  ],
  "debates": [

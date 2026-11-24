@@ -14814,6 +14814,63 @@
    "sort_year": 1175
   },
   {
+   "id": "work-shiji-zhuan",
+   "title": "《诗集传》",
+   "title_original": "詩集傳",
+   "tradition": "china",
+   "date_display": "南宋（朱熹，1130—1200；1170年代成稿，后屡改）",
+   "structure": "八卷（今本二十卷）：逐篇训释《诗经》，每篇有解题、章旨与音韵。",
+   "core_arguments": [
+    "以“淫诗”说《国风》：部分情诗是**淫奔者自作**，非“美刺”之作",
+    "废《诗序》：不以小序的作者之解为据，直寻诗文之意",
+    "以“叶韵”与“古音”求诗之韵读"
+   ],
+   "key_points": [
+    {
+     "locator": "〈国风〉诸篇",
+     "point": "淫诗说与废序"
+    },
+    {
+     "locator": "〈雅〉〈颂〉",
+     "point": "祭祀与政教"
+    },
+    {
+     "locator": "解题",
+     "point": "以诗文为据"
+    },
+    {
+     "locator": "音释",
+     "point": "叶韵与古音"
+    }
+   ],
+   "editions": [
+    "中华书局《诗集传》（点校本）；《朱子全书》本"
+   ],
+   "related_people": [
+    "cn-songming-zhu-xi",
+    "cn-songming-cheng-yi",
+    "cn-qingmod-dai-zhen"
+   ],
+   "misreadings": [
+    {
+     "claim": "“淫诗说”是道学的道德审查",
+     "why": "其效果恰相反：说这些诗是“淫奔者自作”，即承认诗中可以**有**不正当之情（而非把一切诗都读成美刺），故它是解经上的**松绑**；但朱熹仍主张“读之以为戒”，故其立场复杂，须分辨。"
+    },
+    {
+     "claim": "废《诗序》是“疑古”",
+     "why": "他所废的是**小序的作者之解**（以为不可尽信），其据是“诗文本身”；故其方法是“以经解经”，与清代的辨伪不同。"
+    }
+   ],
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《诗集传》的卷数（今本八卷／二十卷之别）与成稿年代须核中华书局点校本；“淫诗说”的原文与其后学（王柏）的推衍亦须分辨。",
+   "sort_year": 1175
+  },
+  {
    "id": "work-jiali",
    "title": "《家礼》",
    "title_original": "家禮",
@@ -15263,6 +15320,120 @@
    "needs_verification": true,
    "pending_notes": "《陈亮集》的编次（邓广铭增订本）与《甲辰答朱元晦书》的原文须核；“义利双行”的确切表述亦须核原书。",
    "sort_year": 1190
+  },
+  {
+   "id": "work-chuci-jizhu",
+   "title": "《楚辞集注》",
+   "title_original": "楚辭集注",
+   "tradition": "china",
+   "date_display": "南宋（朱熹，1190年代）",
+   "structure": "八卷：含《离骚》《九歌》《天问》《九章》《远游》《卜居》《渔父》诸篇的注释，另附《辨证》二卷、《后语》六卷。",
+   "core_arguments": [
+    "以“忠君爱国”解屈原：其人其辞皆出于忠愤",
+    "辨《楚辞》诸篇的作者与真伪（如疑《卜居》《渔父》为后人作）",
+    "以“比兴”说辞：其意象皆有寄托"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一（离骚）",
+     "point": "忠愤与比兴"
+    },
+    {
+     "locator": "《辨证》",
+     "point": "辨作者与文字"
+    },
+    {
+     "locator": "《后语》",
+     "point": "历代拟骚之作"
+    },
+    {
+     "locator": "全书",
+     "point": "以义理说辞"
+    }
+   ],
+   "editions": [
+    "中华书局《楚辞集注》（点校本）；《朱子全书》本"
+   ],
+   "related_people": [
+    "cn-songming-zhu-xi",
+    "cn-xianqin-kongzi",
+    "cn-qingmod-dai-zhen"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是文学注释",
+     "why": "其注以“忠君爱国”为纲，实为**以义理说辞**（把屈原塑为忠臣的典范）；故其注释本身即一种伦理与政治的读法。"
+    },
+    {
+     "claim": "朱熹对屈原全无批评",
+     "why": "他一面推其忠，一面谓其“过于中庸”（怨诽之过）；故其评价是**有保留的推重**，不是无条件的颂扬。"
+    }
+   ],
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《楚辞集注》的卷数与《辨证》《后语》的关系须核中华书局点校本；其对《卜居》《渔父》的疑作者之说亦须核。",
+   "sort_year": 1195
+  },
+  {
+   "id": "work-cantongqi-kaoyi",
+   "title": "《参同契考异》",
+   "title_original": "參同契考異（周易參同契考異）",
+   "tradition": "china",
+   "date_display": "南宋（朱熹，1190年代；署“空同道士邹䜣”）",
+   "structure": "一卷：校订《周易参同契》的文字异同，并略释其丹药与易象之说。",
+   "core_arguments": [
+    "以“纳甲”说《参同契》的易象与丹法的对应",
+    "校勘为主：辨文字的异同，不轻改原文",
+    "以“先天”之学读丹经：易与丹同出一理"
+   ],
+   "key_points": [
+    {
+     "locator": "卷首",
+     "point": "参同契的来历"
+    },
+    {
+     "locator": "校文",
+     "point": "文字异同"
+    },
+    {
+     "locator": "释纳甲",
+     "point": "易象与丹法"
+    },
+    {
+     "locator": "卷末",
+     "point": "朱子的态度"
+    }
+   ],
+   "editions": [
+    "中华书局《朱子全书》所收；《四库全书》本"
+   ],
+   "related_people": [
+    "cn-songming-zhu-xi",
+    "cn-songming-zhou-dunyi",
+    "cn-qingmod-dai-zhen"
+   ],
+   "misreadings": [
+    {
+     "claim": "朱熹因此书而成为“炼丹家”",
+     "why": "其书以**校勘**为主（考异），其自署化名亦见其谨慎；故其对此学的态度是“涉猎与校订”，不是炼丹的实践者。"
+    },
+    {
+     "claim": "它与理学无关",
+     "why": "其“纳甲”与“先天”之说的关联，正见其易学的一部分；故其书是理解朱子易学的旁证，不可略过。"
+    }
+   ],
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ws-taijitushuo",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《参同契考异》的署名（空同道士邹䜣）与成书年代须核《朱子全书》本；其与《周易参同契》的关系亦须分辨。",
+   "sort_year": 1197
   },
   {
    "id": "work-xiuxue-jiyan",
