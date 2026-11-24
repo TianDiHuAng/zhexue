@@ -35890,6 +35890,63 @@
    "sort_year": 1969
   },
   {
+   "id": "work-logique-sens",
+   "title": "《意义的逻辑》",
+   "title_original": "Logique du sens",
+   "tradition": "west",
+   "date_display": "1969（德勒兹）",
+   "structure": "三十四篇系列（séries）：以《爱丽丝漫游奇境》与斯多亚的逻辑为引，论意义、事件与表面。",
+   "core_arguments": [
+    "意义不是存在（不是实体），而是**表面的事件**（événement）",
+    "以“**表层**”与“**深度**”之别：意义在表面生成",
+    "以“**意义的悖论**”：意义既生产又不可穷尽（“无意义”内在于意义）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—五系列",
+     "point": "表面与深度"
+    },
+    {
+     "locator": "系列 13—16",
+     "point": "事件与意义"
+    },
+    {
+     "locator": "系列 20—27",
+     "point": "意义与无意义"
+    },
+    {
+     "locator": "全书",
+     "point": "以系列行哲学"
+    }
+   ],
+   "editions": [
+    "法文（Minuit）；英译（The Logic of Sense, Columbia）；中译参《意义的逻辑》（版次待核）"
+   ],
+   "related_people": [
+    "gr-contemp-deleuze",
+    "gr-contemp-foucault",
+    "gr-20c-husserl"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“文学评论集”",
+     "why": "其书以《爱丽丝》等为**材料的引子**，其论旨是意义的形而上学（事件、表面、悖论）；故其为哲学的著作。"
+    },
+    {
+     "claim": "其“意义”是语言学的意义",
+     "why": "其“意义”是**存在论的事件**（在表面生成的差异），非语词的语义；故须分辨其与语言学的层次。"
+    }
+   ],
+   "sources": [
+    "sep-deleuze",
+    "sep-foucault",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《意义的逻辑》三十四系列的编次与 1969 年初版须核 Minuit 版与哥伦比亚英译本；“事件”“表面”的原文亦须核。",
+   "sort_year": 1969
+  },
+  {
    "id": "work-aesthetische-theorie",
    "title": "《美学理论》",
    "title_original": "Ästhetische Theorie",
@@ -36002,6 +36059,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1971
+  },
+  {
+   "id": "work-legitimationskrise",
+   "title": "《合法化危机》",
+   "title_original": "Legitimationsprobleme im Spätkapitalismus",
+   "tradition": "west",
+   "date_display": "1973（哈贝马斯）",
+   "structure": "四章：社会科学的危机概念、晚期资本主义的结构、合法化问题、以及理论的结论。",
+   "core_arguments": [
+    "晚期资本主义有四种危机倾向：**经济、合理性、合法化、动机**",
+    "危机的重心从经济转向**合法化**（国家的干预须以共识为据）",
+    "故须以“**商谈**”重建规范的基础"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "危机概念"
+    },
+    {
+     "locator": "第二章",
+     "point": "晚期资本主义的结构"
+    },
+    {
+     "locator": "第三章",
+     "point": "合法化问题"
+    },
+    {
+     "locator": "第四章",
+     "point": "理论的结论"
+    }
+   ],
+   "editions": [
+    "德文（Suhrkamp）；英译（Legitimation Crisis, Beacon）；中译参《合法化危机》（刘北成等译）"
+   ],
+   "related_people": [
+    "gr-contemp-habermas",
+    "gr-19c-marx",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“马克思主义的危机论”",
+     "why": "其分析借马克思的范畴而**转向规范问题**（合法化与动机），故其为批判理论的改铸，非正统的危机论。"
+    },
+    {
+     "claim": "其“合法化”是“统治的正当性辩护”",
+     "why": "其“合法化”指**共识的形成是否可能**（可批判的），故其为规范的概念，非辩护的技术。"
+    }
+   ],
+   "sources": [
+    "sep-habermas",
+    "sep-marx",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《合法化危机》四章与 1973 年初版须核 Suhrkamp 版与刘北成译本；“四种危机倾向”的原文亦须核。",
+   "sort_year": 1973
   },
   {
    "id": "work-anarchy-state-utopia",
@@ -36399,6 +36513,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《命名与必然性》1970 年讲演与 1980 年成书（增补序言）有差异；本页依成书版与 SEP“克里普克”词条概述。",
+   "sort_year": 1980
+  },
+  {
+   "id": "work-mille-plateaux",
+   "title": "《千高原》",
+   "title_original": "Mille plateaux（《资本主义与精神分裂》卷二）",
+   "tradition": "west",
+   "date_display": "1980（德勒兹与加塔利）",
+   "structure": "十五个“高原”（plateaux）：以地质学、植物学、音乐与人类学的意象论“根茎”“装配”与“机器”。",
+   "core_arguments": [
+    "“**根茎**”（rhizome）对“树状”：思想是无中心、多入口的网络",
+    "“**装配**”（agencement）：欲望、话语与制度的具体配置",
+    "“**逃逸线**”（ligne de fuite）：配置内部生出变化的线"
+   ],
+   "key_points": [
+    {
+     "locator": "高原一",
+     "point": "根茎"
+    },
+    {
+     "locator": "高原 4—5",
+     "point": "语言学与装配"
+    },
+    {
+     "locator": "高原 9—10",
+     "point": "界域与逃逸线"
+    },
+    {
+     "locator": "全书",
+     "point": "以高原为体例"
+    }
+   ],
+   "editions": [
+    "法文（Minuit）；英译（A Thousand Plateaus, Minnesota）；中译参《千高原》（姜宇辉译）"
+   ],
+   "related_people": [
+    "gr-contemp-deleuze",
+    "gr-19c-marx",
+    "gr-20c-husserl"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“根茎”是“反结构”的宣言",
+     "why": "其“根茎”与“树状”是**两种配置**（皆有用），故其说不废结构，而是要求注意配置的多样；故非单纯的反结构。"
+    },
+    {
+     "claim": "其书是“无体例的拼贴”",
+     "why": "其十五“高原”各可独立而互相指涉（其体例本身即是其论旨的演示）；故其为有意的形式，非拼贴。"
+    }
+   ],
+   "sources": [
+    "sep-deleuze",
+    "sep-marx",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《千高原》十五高原的编次与 1980 年初版须核 Minuit 版与姜宇辉译本；“根茎”“装配”“逃逸线”的译法亦须核。",
    "sort_year": 1980
   },
   {

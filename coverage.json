@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1696,
+  "entries": 1700,
   "by_level": {
    "L2": 779,
-   "L1": 917
+   "L1": 921
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 917,
+  "needs_verification": 921,
   "sources": 422,
   "sources_verified": 422
  },
@@ -16533,6 +16533,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-logique-sens",
+   "type": "work",
+   "title": "《意义的逻辑》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-aesthetische-theorie",
    "type": "work",
    "title": "《美学理论》",
@@ -16552,6 +16563,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-legitimationskrise",
+   "type": "work",
+   "title": "《合法化危机》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -16624,6 +16646,17 @@
    "id": "work-naming-necessity",
    "type": "work",
    "title": "《命名与必然性》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-mille-plateaux",
+   "type": "work",
+   "title": "《千高原》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -18329,6 +18362,17 @@
    "id": "cmp-shuxie",
    "type": "comparative",
    "title": "“书写先于言语”与“言不尽意”：文字是次等的吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-genjing",
+   "type": "comparative",
+   "title": "“根茎”与“道通为一”：思想该有中心吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
