@@ -737,7 +737,16 @@ def render_sources(sources):
     return page("来源列表", d, "来源", "\n".join(body))
 
 
-def render_about(units, people, concepts, debates, sources):
+def _misreading_count(people=None, works=None):
+    n = 0
+    for p in (people or {}).values() if isinstance(people, dict) else (people or []):
+        n += len(p.get("misconceptions") or [])
+    for w in (works or []):
+        n += len(w.get("misreadings") or [])
+    return n
+
+
+def render_about(units, people, concepts, debates, sources, works):
     d = 0
     body = ["<h1>方法与体例</h1>",
             "<p>本站是一个纯静态的中外哲学资料库：数据层是 JSON，页面由脚本确定性渲染，没有 JavaScript、"
@@ -756,18 +765,22 @@ def render_about(units, people, concepts, debates, sources):
             "<h2>四、争议的处理</h2>",
             "<p>对学界有实质分歧的问题（如《老子》成书年代、《坛经》作者、向秀/郭象《庄子注》著作权），"
             "页面并列各方说法及其依据，不替读者下结论，也不对任何流派作贬抑性表述。</p>",
-            "<h2>五、五个入口</h2>",
+            "<h2>五、误读索引</h2>",
+            "<p>本站的招牌之一是“把常被说错的地方说清楚”。所有人物的“常见误解”与所有著作的“常见误读”"
+            "已聚合为 <a href=\"%smisreadings.html\">误读索引</a>（当前 %d 条），每条写明“常被误认为什么”与“为什么不是”，"
+            "并可回链到原页。它与“待核实”不同：后者是存疑，前者是有把握的判断。</p>" % (rel(d), _misreading_count(people, works)),
+            "<h2>六、五个入口</h2>",
             "<p><b>人</b>（哲学家页）、<b>概念</b>（概念页）、<b>争论</b>（争论页）、<b>流派</b>（流派页）、"
             "<b>文本</b>（著作页）五个入口互为索引；另有<b>比较视野</b>：并列中西两种提问方式及其论证结构，"
             "说明可比与不可比之处，不追求统一表述。</p>",
-            "<h2>六、本站规模</h2>",
+            "<h2>七、本站规模</h2>",
             "<table><tr><th>项目</th><th>数量</th></tr>"
             "<tr><td>时期单元</td><td>%d</td></tr><tr><td>哲学家</td><td>%d</td></tr>"
             "<tr><td>概念</td><td>%d</td></tr><tr><td>争论</td><td>%d</td></tr>"
             "<tr><td>来源</td><td>%d（已验证 %d）</td></tr></table>"
             % (len(units), len(people), len(concepts), len(debates), len(sources),
                sum(1 for s in sources.values() if s.get("verified"))),
-            "<h2>七、免责</h2>",
+            "<h2>八、免责</h2>",
             "<p>本站用于学习与索引，不构成学术结论。任何引用请回到原典与所标注的专业研究，"
             "并核对紙本版本的页码。</p>"]
     return page("方法与体例", d, "体例", "\n".join(body))
@@ -921,7 +934,7 @@ def main():
         fh.write("")
 
     write("index.html", render_home(units, people, concepts, debates, schools, sources))
-    write("about.html", render_about(units, people, concepts, debates, sources))
+    write("about.html", render_about(units, people, concepts, debates, sources, works))
     write("graph.html", render_graph(units, people))
 
     for region, label in (("china", "中国"), ("west", "西方")):

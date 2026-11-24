@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1289,
+  "entries": 1293,
   "by_level": {
    "L2": 779,
-   "L1": 510
+   "L1": 514
   },
   "doctrine": {
    "total": 268,
    "detail": 268,
    "auto": 0
   },
-  "needs_verification": 510,
+  "needs_verification": 514,
   "sources": 409,
   "sources_verified": 409
  },
@@ -10043,6 +10043,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-de-pulchro",
+   "type": "work",
+   "title": "《论美》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-yan-jin-yi-lun",
    "type": "work",
    "title": "《言尽意论》",
@@ -10080,6 +10091,28 @@
    "type": "work",
    "title": "《列子》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-de-ordine",
+   "type": "work",
+   "title": "《论秩序》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-soliloquia",
+   "type": "work",
+   "title": "《独语录》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -13852,6 +13885,17 @@
    "id": "cmp-wuxing",
    "type": "comparative",
    "title": "四因与“道”：两种说明“为什么”的方式",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-mei",
+   "type": "comparative",
+   "title": "美在形式与“大美不言”：普罗提诺与庄子的美论",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

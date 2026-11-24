@@ -7785,6 +7785,63 @@
    "sort_year": 260
   },
   {
+   "id": "work-de-pulchro",
+   "title": "《论美》",
+   "title_original": "Περὶ τοῦ καλοῦ（Enneades I.6）",
+   "tradition": "west",
+   "date_display": "普罗提诺（204—270）；《九章集》第一卷第六篇",
+   "structure": "一篇论文（《九章集》I.6）：论美的等级、美的认识与“上升”的阶梯。",
+   "core_arguments": [
+    "美不在对称（对称的美是派生的），而在**分享形式**（eidos）",
+    "灵魂须“净化”与“成形”才能见美：美是**同者识同者**",
+    "美是上升的阶梯：由形体之美到灵魂之美，再到“太一”之美"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "形体美与对称"
+    },
+    {
+     "locator": "中段",
+     "point": "灵魂的美与净化"
+    },
+    {
+     "locator": "后段",
+     "point": "内在的转向"
+    },
+    {
+     "locator": "末段",
+     "point": "上升到太一之美"
+    }
+   ],
+   "editions": [
+    "《九章集》（Henry-Schwyzer 本）；英译（Enneads, Loeb／Gerson）"
+   ],
+   "related_people": [
+    "gr-hellenistic-plotinus",
+    "gr-ancient-plato",
+    "gr-hellenistic-proclus"
+   ],
+   "misreadings": [
+    {
+     "claim": "普罗提诺主张“美就是对称”",
+     "why": "他明确说对称只是**形体美**的条件，而美本身在“分享形式”；故其说是对“对称论”的**批评**。"
+    },
+    {
+     "claim": "其“上升”是审美的享受",
+     "why": "其“上升”是**灵魂的转向与净化**（ethics 与 knowledge 合一），不是审美愉悦；故其说是修行论，不只是美学。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论美》（《九章集》I.6）的篇次与“对称论”批评的原文须核 Henry-Schwyzer 本或其英译；其与《理想国》第六卷“美的阶梯”的关系亦须分辨。",
+   "sort_year": 260
+  },
+  {
    "id": "work-yan-jin-yi-lun",
    "title": "《言尽意论》",
    "title_original": "言盡意論",
@@ -8005,6 +8062,120 @@
    "needs_verification": true,
    "pending_notes": "今本《列子》的成书年代与真伪（传统归列御寇，今多认为魏晋辑录，另有伪作说）是学界长期争论的问题；本页就文本内容述其说，不判定作者与年代。",
    "sort_year": 350
+  },
+  {
+   "id": "work-de-ordine",
+   "title": "《论秩序》",
+   "title_original": "De ordine",
+   "tradition": "west",
+   "date_display": "386年（奥古斯丁，早期对话）",
+   "structure": "二卷：与友人的对话，论“秩序”（ordo）如何贯通万物与人的理性，以及恶在秩序中的位置。",
+   "core_arguments": [
+    "万物皆有其“秩序”：善与恶皆在整体的秩序中各得其位",
+    "理性的任务是**发现秩序**，而非抱怨局部的不合",
+    "“秩序”的最终根据在神（“秩序之神”）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "秩序与恶的问题"
+    },
+    {
+     "locator": "卷一",
+     "point": "理性的发现"
+    },
+    {
+     "locator": "卷二",
+     "point": "自由技艺与秩序"
+    },
+    {
+     "locator": "卷二",
+     "point": "秩序之神"
+    }
+   ],
+   "editions": [
+    "拉丁原文（CCSL 29）；英译（On Order, New City Press）"
+   ],
+   "related_people": [
+    "gr-medieval-augustine",
+    "gr-hellenistic-plotinus",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "“一切皆有秩序”是乐观的辩护",
+     "why": "其论点是**方法论的**：局部的不合须在更大的整体中看，否则无从判断；故它不是“一切皆好”的断言，而是“判断须有整体视野”。"
+    },
+    {
+     "claim": "它与《忏悔录》的立场相同",
+     "why": "它是**早期**对话（386），其“秩序”说近于新柏拉图式的宇宙论；晚年《订正论》对它有所修正。故须分辨早期与晚期。"
+    }
+   ],
+   "sources": [
+    "sep-augustine",
+    "sep-medieval-philosophy",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论秩序》386 年的对话性质与其“秩序”说的新柏拉图来源须核 CCSL 29；其与《订正论》中的自我修正亦须分辨。",
+   "sort_year": 386
+  },
+  {
+   "id": "work-soliloquia",
+   "title": "《独语录》",
+   "title_original": "Soliloquia",
+   "tradition": "west",
+   "date_display": "386—387年（奥古斯丁，早期对话）",
+   "structure": "二卷：以“与自己的理性对话”的形式，论“认识神与灵魂”的两件事，以及真理、错误与不朽。",
+   "core_arguments": [
+    "“我渴望认识神与灵魂，此外无他”（其纲领）",
+    "以问答与定义的方法推进：真理、错误、不朽",
+    "理性的自我对话是一种**方法的实验**：把内心的争辩写成对话"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "认识神与灵魂"
+    },
+    {
+     "locator": "卷一",
+     "point": "真理与错误"
+    },
+    {
+     "locator": "卷二",
+     "point": "不朽的论证"
+    },
+    {
+     "locator": "卷二",
+     "point": "理性的对话形式"
+    }
+   ],
+   "editions": [
+    "拉丁原文（CCSL 89）；英译（Soliloquies, New City Press）"
+   ],
+   "related_people": [
+    "gr-medieval-augustine",
+    "gr-ancient-plato",
+    "gr-medieval-anselm"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是奥古斯丁的“私人日记”",
+     "why": "它是**文学形式的哲学对话**（与“理性”对话），其体裁是刻意设计的（把内心的争辩外化为问答），不是日记。"
+    },
+    {
+     "claim": "其“不朽”论证是神学的",
+     "why": "卷二的不朽论证以“真理的永恒”与“灵魂与真理的关系”为据，其形式是**哲学的推论**（近于新柏拉图式的论证），故不可径视为教义宣告。"
+    }
+   ],
+   "sources": [
+    "sep-augustine",
+    "sep-plato",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《独语录》的成书（386—387）与其对话体裁的设计须核 CCSL 89；其不朽论证的逻辑结构与新柏拉图来源亦须核。",
+   "sort_year": 387
   },
   {
    "id": "work-de-magistro",
