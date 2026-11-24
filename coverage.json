@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1344,
+  "entries": 1349,
   "by_level": {
    "L2": 781,
-   "L1": 563
+   "L1": 568
   },
   "doctrine": {
    "total": 272,
    "detail": 272,
    "auto": 0
   },
-  "needs_verification": 563,
+  "needs_verification": 568,
   "sources": 413,
   "sources_verified": 413
  },
@@ -39,7 +39,7 @@
    "title": "清代与近代转型",
    "region": "china",
    "philosophers": 19,
-   "concepts": 19,
+   "concepts": 20,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -1554,6 +1554,17 @@
    "id": "cn-qingmod-gongyang-xue",
    "type": "concept",
    "title": "公羊学（清代复兴）",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-xing-ri-sheng",
+   "type": "concept",
+   "title": "性日生日成",
    "container": "cn-qingmod",
    "level": "L1",
    "sources": 3,
@@ -11990,6 +12001,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-huangshu",
+   "type": "work",
+   "title": "《黄书》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-zhengmeng-zhu",
    "type": "work",
    "title": "《张子正蒙注》",
@@ -12023,6 +12045,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-shangshu-yinyi",
+   "type": "work",
+   "title": "《尚书引义》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-du-sishu-daquant",
    "type": "work",
    "title": "《读四书大全说》",
@@ -12030,6 +12063,17 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-siwenlu",
+   "type": "work",
+   "title": "《思问录》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -14457,6 +14501,17 @@
    "id": "cmp-gongxiang",
    "type": "comparative",
    "title": "共相之争与“名实之辨”：两种“共”的问题",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-qiwu",
+   "type": "comparative",
+   "title": "道在器中与“形式在质料中”：王夫之与亚里士多德",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

@@ -16904,6 +16904,63 @@
    "sort_year": 1655
   },
   {
+   "id": "work-huangshu",
+   "title": "《黄书》",
+   "title_original": "黃書",
+   "tradition": "china",
+   "date_display": "明末清初（王夫之，1656年前后）",
+   "structure": "一卷（含《原极》《宰制》《慎选》《任官》《大正》《离合》《制治》等篇）：论华夷之辨、治道与制度。",
+   "core_arguments": [
+    "“夷夏之辨”以文化与本末为断，不徒以血统",
+    "治道须“厚其本”：以农桑与教化固其根本",
+    "对“孤秦陋宋”的批评：秦之私天下、宋之弱其本"
+   ],
+   "key_points": [
+    {
+     "locator": "〈原极〉",
+     "point": "本末与治道"
+    },
+    {
+     "locator": "〈宰制〉",
+     "point": "制度与分权"
+    },
+    {
+     "locator": "〈离合〉",
+     "point": "华夷之辨"
+    },
+    {
+     "locator": "全书",
+     "point": "厚本之论"
+    }
+   ],
+   "editions": [
+    "中华书局《黄书·噩梦》（王孝鱼点校）；《船山全书》本"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-fuzhi",
+    "cn-qingmod-huang-zongxi",
+    "cn-qingmod-gu-yanwu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《黄书》是“种族主义”的著作",
+     "why": "其“夷夏之辨”以**文化与治道**为断（“夷”可进于“夏”），并非纯血统论；但其表述有强烈的时代情绪，故须分辨而不宜美化。"
+    },
+    {
+     "claim": "它是“反清复明”的宣传品",
+     "why": "其内容多为**制度与治道**的讨论（厚本、分权、任官），非一时的宣传；其写作在明清之际，故有强烈的现实关怀，但不止于此。"
+    }
+   ],
+   "sources": [
+    "ws-mingyi",
+    "ws-du-tongjian-lun",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《黄书》的成书年代（1656年前后）与篇目须核王孝鱼点校本；“夷夏之辨”的表述须逐条核原文，且其时代情绪须如实标出。",
+   "sort_year": 1656
+  },
+  {
    "id": "work-zhengmeng-zhu",
    "title": "《张子正蒙注》",
    "title_original": "張子正蒙注",
@@ -17073,6 +17130,63 @@
    "sort_year": 1663
   },
   {
+   "id": "work-shangshu-yinyi",
+   "title": "《尚书引义》",
+   "title_original": "尚書引義",
+   "tradition": "china",
+   "date_display": "明末清初（王夫之，1619—1692）",
+   "structure": "六卷：依《尚书》篇目引申其义，论天人之际、理气、性情与治道。",
+   "core_arguments": [
+    "“理在气中”：理不是气之外的实体，而是气之条理",
+    "“性日生日成”：人性不是一成不变的本体，而是在“日生日成”中形成",
+    "对“以理杀人”的批评：离气而言理，则理成为外在的桎梏"
+   ],
+   "key_points": [
+    {
+     "locator": "〈皋陶谟〉",
+     "point": "性与习"
+    },
+    {
+     "locator": "〈洪范〉",
+     "point": "理与气"
+    },
+    {
+     "locator": "〈召诰〉",
+     "point": "天命与人事"
+    },
+    {
+     "locator": "全书",
+     "point": "即事言理"
+    }
+   ],
+   "editions": [
+    "中华书局《尚书引义》（王孝鱼点校）；《船山全书》本"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-fuzhi",
+    "cn-songming-zhu-xi",
+    "cn-qingmod-dai-zhen"
+   ],
+   "misreadings": [
+    {
+     "claim": "王夫之是“唯物主义者”，故与理学无关",
+     "why": "他的“理在气中”是在**理学内部**的修正（反朱子的“理先气后”），其问题意识仍是理气心性；故不宜用“唯物／唯心”的标签取代其内部脉络。"
+    },
+    {
+     "claim": "“性日生日成”是说人性可变，故无本性",
+     "why": "其说是：性在“日生日成”中不断成就，故性不是既成的实体而是**生成的过程**；这不是否认性，而是重定了“性”的意义。"
+    }
+   ],
+   "sources": [
+    "ws-mingyi",
+    "ws-zhuzi-yulei",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《尚书引义》的卷数与篇目（六卷）须核王孝鱼点校本与《船山全书》；其“性日生日成”的表述亦须核原文。",
+   "sort_year": 1663
+  },
+  {
    "id": "work-du-sishu-daquant",
    "title": "《读四书大全说》",
    "title_original": "讀四書大全說",
@@ -17126,6 +17240,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "本书为读书记录体，各条之间有重复与前后不一致之处；其与《周易外传》《张子正蒙注》的关系（何者为其哲学的定论）学界有讨论。",
+   "sort_year": 1665
+  },
+  {
+   "id": "work-siwenlu",
+   "title": "《思问录》",
+   "title_original": "思問錄",
+   "tradition": "china",
+   "date_display": "明末清初（王夫之）",
+   "structure": "内外两篇：内篇多论理气、心性与天人之际，外篇多论经史、治道与人事；全书为札记体，逐条记其所思。",
+   "core_arguments": [
+    "“太虚即气”：虚空不是空无，而是气的存在方式",
+    "“天下惟器而已”：道在器中，无器则无道",
+    "对“无”的批评：以“无”为体，则一切落空"
+   ],
+   "key_points": [
+    {
+     "locator": "内篇",
+     "point": "太虚即气"
+    },
+    {
+     "locator": "内篇",
+     "point": "道器之辨"
+    },
+    {
+     "locator": "外篇",
+     "point": "经史与人事"
+    },
+    {
+     "locator": "全书",
+     "point": "札记体的思路"
+    }
+   ],
+   "editions": [
+    "中华书局《思问录·俟解》（王孝鱼点校）；《船山全书》本"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-fuzhi",
+    "cn-weijin-wangbi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "“天下惟器”是说只有物质",
+     "why": "其“器”是**具体的事物与制度**（含礼乐刑政），故“道在器中”是本体论的命题（道不离事），不是唯物论的宣言。"
+    },
+    {
+     "claim": "“太虚即气”是唯物论的气一元论",
+     "why": "其说以“气”为实在，但“气”含“神”“理”为其条理；故其说是对“虚无”的批评，不宜简化为近代的唯物主义。"
+    }
+   ],
+   "sources": [
+    "ws-mingyi",
+    "ct-rizhilu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《思问录》内外篇的成书与其“太虚即气”“天下惟器”的原文须核中华书局点校本；其与《张子正蒙注》的关系亦须分辨。",
    "sort_year": 1665
   },
   {

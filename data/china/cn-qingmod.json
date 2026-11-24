@@ -3711,6 +3711,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "清代公羊学的谱系（庄存与—刘逢禄—龚魏—康）与其与汉代公羊学的异同须核；本页依相关研究概述。"
+  },
+  {
+   "id": "cn-qingmod-xing-ri-sheng",
+   "term": "性日生日成",
+   "term_latin": "human nature as daily formation",
+   "definition": "王夫之的性论：人性不是一成不变的本体，而是在“日生日成”中不断形成 —— 天以其“命”日新，人以其“受”日成。故性既非“本有”的既成物，亦非“始有”的突现，而是**生成的过程**。此说针对朱子的“性即理”（性为既成的理），亦针对“性恶／性善”的静态论。",
+   "usages": [
+    {
+     "name": "王夫之（其提出）",
+     "id": "cn-qingmod-wang-fuzhi",
+     "usage": "以“性日生日成”重定性的意义。"
+    },
+    {
+     "name": "朱熹（其批评对象）",
+     "usage": "以“性即理”立既成之性；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "戴震（其同调）",
+     "id": "cn-qingmod-dai-zhen",
+     "usage": "以“血气心知”说性，亦反对既成之性。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-kaoju"
+   ],
+   "example": {
+    "text": "“性日生日成”的要害是把“性”从名词变成动词：性不是你先有的东西，而是你日复一日在成的东西。这一转换使“修养”不再是“复其初”，而是“成其终” —— 故它与朱子的“复性”、与告子的“生之谓性”皆不同路。",
+    "figure": "王夫之",
+    "locator": "《尚书引义》"
+   },
+   "sources": [
+    "ws-mingyi",
+    "ws-zhuzi-yulei",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“性日生日成”的原文见《尚书引义》卷三，其确切表述与“日生”的两义（天之日命／人之日成）须核王孝鱼点校本。"
   }
  ],
  "debates": [
