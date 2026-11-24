@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1545,
+  "entries": 1551,
   "by_level": {
    "L2": 781,
-   "L1": 764
+   "L1": 770
   },
   "doctrine": {
-   "total": 308,
-   "detail": 308,
+   "total": 309,
+   "detail": 309,
    "auto": 0
   },
-  "needs_verification": 764,
+  "needs_verification": 770,
   "sources": 419,
   "sources_verified": 419
  },
@@ -119,10 +119,10 @@
    "unit_id": "gr-german",
    "title": "德国古典哲学",
    "region": "west",
-   "philosophers": 12,
-   "concepts": 24,
+   "philosophers": 13,
+   "concepts": 25,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -4"
+   "philosophers_slot": "8 上限，余 -5"
   },
   {
    "unit_id": "gr-hellenistic",
@@ -7172,6 +7172,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-german-herder",
+   "type": "philosopher",
+   "title": "赫尔德",
+   "container": "gr-german",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-german-transcendental",
    "type": "concept",
    "title": "先验",
@@ -7428,6 +7439,17 @@
    "id": "gr-german-edle-einfalt",
    "type": "concept",
    "title": "高贵的单纯与静穆的伟大",
+   "container": "gr-german",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-german-volksgeist",
+   "type": "concept",
+   "title": "民族精神",
    "container": "gr-german",
    "level": "L1",
    "sources": 3,
@@ -13882,6 +13904,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-auch-eine-philosophie",
+   "type": "work",
+   "title": "《关于人类教育的另一种历史哲学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-liushu-yinjun-biao",
    "type": "work",
    "title": "《六书音均表》",
@@ -13912,6 +13945,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-volkslieder",
+   "type": "work",
+   "title": "《民歌集》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13967,6 +14011,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-ideen-philosophie-geschichte",
+   "type": "work",
+   "title": "《人类历史哲学的观念》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -16668,6 +16723,17 @@
    "id": "cmp-jingmu",
    "type": "comparative",
    "title": "“静穆的伟大”与“平淡”：克制是力量还是无力？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-minzujingshen",
+   "type": "comparative",
+   "title": "“民族精神”与“一国有一国之文学”：文化的单位是什么？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

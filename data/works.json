@@ -22876,6 +22876,63 @@
    "sort_year": 1772
   },
   {
+   "id": "work-auch-eine-philosophie",
+   "title": "《关于人类教育的另一种历史哲学》",
+   "title_original": "Auch eine Philosophie der Geschichte zur Bildung der Menschheit",
+   "tradition": "west",
+   "date_display": "1774（赫尔德）",
+   "structure": "一部（不分卷）：以“人类的成长”为喻，论各时代自有其幸福与标准，反对以“启蒙的现在”为标准裁判过去。",
+   "core_arguments": [
+    "每个时代有其自身的“重心”与幸福，不可用他时代的标准衡量",
+    "历史不是向“理性”的单调进步，而是各民族的生长与衰谢",
+    "“另一种”（Auch eine）是**反讽的标题**：针对启蒙的历史目的论"
+   ],
+   "key_points": [
+    {
+     "locator": "篇首",
+     "point": "反讽的标题"
+    },
+    {
+     "locator": "论各时代的重心",
+     "point": "不可以今绳古"
+    },
+    {
+     "locator": "论进步",
+     "point": "非单线进步"
+    },
+    {
+     "locator": "结论",
+     "point": "以人道为归"
+    }
+   ],
+   "editions": [
+    "德文 Reclam 版；英译（This Too a Philosophy of History, Cambridge）；中译参《反纯粹理性》选集（版次待核）"
+   ],
+   "related_people": [
+    "gr-german-herder",
+    "gr-german-kant",
+    "gr-german-hamann"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“保守主义的反启蒙”",
+     "why": "其反对者是**单线的进步论**与以今绳古，非启蒙本身；其“人道”之归仍是启蒙的理想。故其为“多元的启蒙”，不是反启蒙。"
+    },
+    {
+     "claim": "其“各时代皆有其幸福”是相对主义",
+     "why": "其说不废评价，只要求**先理解**（以彼时的条件与语言为据）；故其为历史主义的开端，不是价值的取消。"
+    }
+   ],
+   "sources": [
+    "sep-herder",
+    "sep-kant",
+    "sep-aesthetics-18th-german"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《关于人类教育的另一种历史哲学》的书名译法与“各时代的重心”一节须核 Reclam／Cambridge 版。",
+   "sort_year": 1774
+  },
+  {
    "id": "work-liushu-yinjun-biao",
    "title": "《六书音均表》",
    "title_original": "六書音均表",
@@ -23044,6 +23101,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1777
+  },
+  {
+   "id": "work-volkslieder",
+   "title": "《民歌集》",
+   "title_original": "Volkslieder（ Stimmen der Völker in Liedern ）",
+   "tradition": "west",
+   "date_display": "1778—1779（赫尔德编）",
+   "structure": "两卷：辑译各国（德国、英国、北欧、斯拉夫、西班牙等）的民歌与谣曲，附论其“民族的声音”。",
+   "core_arguments": [
+    "民歌是民族的**原初之声**：其价值在自然与真",
+    "以“辑译”保存民间的诗：不以文人的雅化改之",
+    "各民族的歌各见其精神，故可借以理解其文化"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "德国与北欧的歌谣"
+    },
+    {
+     "locator": "卷二",
+     "point": "斯拉夫与南欧的歌谣"
+    },
+    {
+     "locator": "附论",
+     "point": "民歌与民族精神"
+    },
+    {
+     "locator": "全书",
+     "point": "辑译的方法"
+    }
+   ],
+   "editions": [
+    "德文 Reclam 版；英译（The Folk Songs of the Peoples, 选译）"
+   ],
+   "related_people": [
+    "gr-german-herder",
+    "gr-german-hamann",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“文学选集”",
+     "why": "其编选有**理论的用意**（民歌为民族的原初之声，故为理解文化的门径）；故其为“民族学的诗学”，非单纯选集。"
+    },
+    {
+     "claim": "其“民歌”是原始的粗糙之作",
+     "why": "其“自然与真”是**价值**（非幼稚）；其说为浪漫派的民歌观与近代的民俗学开路。"
+    }
+   ],
+   "sources": [
+    "sep-herder",
+    "sep-aesthetics-18th-german",
+    "ws-wenxin-diaolong"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《民歌集》的初版（1778—1779）与后改名《各民族的声音》须核 Reclam 版；其辑译的来源亦须核。",
+   "sort_year": 1778
   },
   {
    "id": "work-hume-dialogues",
@@ -23324,6 +23438,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1781
+  },
+  {
+   "id": "work-ideen-philosophie-geschichte",
+   "title": "《人类历史哲学的观念》",
+   "title_original": "Ideen zur Philosophie der Geschichte der Menschheit",
+   "tradition": "west",
+   "date_display": "1784—1791（赫尔德，四部）",
+   "structure": "四部二十卷：由地球与气候、人的天赋、语言的起源，论各民族文化的成长与人类的“人道”（Humanität）之进程。",
+   "core_arguments": [
+    "每个民族有其“民族精神”（Volksgeist），由其语言、气候与历史而成",
+    "文化是**有机的成长**（如植物），各有其壮盛与衰谢，不可用一把尺量尽",
+    "历史的目的在“人道”（Humanität）的实现：人的形成（Bildung）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "地球、气候与人"
+    },
+    {
+     "locator": "第二部",
+     "point": "语言与民族的成长"
+    },
+    {
+     "locator": "第三部",
+     "point": "文化的有机性"
+    },
+    {
+     "locator": "第四部",
+     "point": "人道与人类的进程"
+    }
+   ],
+   "editions": [
+    "德文 Reclam／Suhrkamp 版；英译（Ideas for the Philosophy of the History of Mankind, Princeton）；中译参《人类历史哲学的观念》（商务等，版次待核）"
+   ],
+   "related_people": [
+    "gr-german-herder",
+    "gr-german-kant",
+    "gr-german-winckelmann"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“历史哲学”体系的完成",
+     "why": "其书是**观念的、散文式的**探索（非严密的体系），且屡与康德的“世界公民史观”争辩；故其为“以有机体解历史”的开创之作，不是体系。"
+    },
+    {
+     "claim": "其“民族精神”是种族论",
+     "why": "其“民族精神”由**语言、气候与历史**养成，是可理解的文化个性，非生物学的种族；20世纪的种族论对其说的挪用须分辨，不可倒推为原意。"
+    }
+   ],
+   "sources": [
+    "sep-herder",
+    "sep-kant",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《人类历史哲学的观念》的四部结构与“Humanität”一词的译法须核 Reclam／Princeton 版；其与康德《世界公民观点下的普遍历史理念》的往复亦须分辨。",
+   "sort_year": 1784
   },
   {
    "id": "work-groundwork",
