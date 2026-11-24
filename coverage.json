@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1226,
+  "entries": 1231,
   "by_level": {
    "L2": 792,
-   "L1": 434
+   "L1": 439
   },
   "doctrine": {
    "total": 264,
    "detail": 264,
    "auto": 0
   },
-  "needs_verification": 434,
+  "needs_verification": 439,
   "sources": 409,
   "sources_verified": 409
  },
@@ -21,7 +21,7 @@
    "title": "两汉经学与气论",
    "region": "china",
    "philosophers": 17,
-   "concepts": 27,
+   "concepts": 28,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -9"
   },
@@ -630,6 +630,17 @@
    "id": "cn-lianghan-shiyi",
    "type": "concept",
    "title": "师法家法",
+   "container": "cn-lianghan",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-lianghan-xingming",
+   "type": "concept",
+   "title": "刑名",
    "container": "cn-lianghan",
    "level": "L1",
    "sources": 3,
@@ -8789,6 +8800,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-shen-buhai",
+   "type": "work",
+   "title": "《申子》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-politics",
    "type": "work",
    "title": "《政治学》",
@@ -8991,6 +9013,28 @@
    "type": "work",
    "title": "《致希罗多德的信》",
    "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-heguanzi",
+   "type": "work",
+   "title": "《鹖冠子》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-guiguzi",
+   "type": "work",
+   "title": "《鬼谷子》",
+   "container": "china",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -13159,6 +13203,17 @@
    "id": "cmp-yili-sharen",
    "type": "comparative",
    "title": "“以理杀人”与“实践智慧”：戴震与亚里士多德对“规则”的警惕",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shu",
+   "type": "comparative",
+   "title": "“术”与“修辞”：鬼谷子的捭阖与亚里士多德的劝说",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

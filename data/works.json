@@ -2329,6 +2329,63 @@
    "sort_year": -340
   },
   {
+   "id": "work-shen-buhai",
+   "title": "《申子》",
+   "title_original": "申子",
+   "tradition": "china",
+   "date_display": "战国（申不害，约前385—前337）；原书六篇已佚，今存辑佚",
+   "structure": "原书六篇（已佚）；今存辑本（《群书治要》卷三十六所引《大体》篇等），另有类书与史注的零散引文。",
+   "core_arguments": [
+    "以“术”为君道：君以“刑名”察臣，而不亲事事",
+    "“术”与“法”相辅：法是公开的，术是君所独用的",
+    "“无为”在此是**君术**：君静而臣动，君不言而责其名"
+   ],
+   "key_points": [
+    {
+     "locator": "《大体》（辑佚）",
+     "point": "君术与刑名"
+    },
+    {
+     "locator": "辑佚",
+     "point": "术与法的关系"
+    },
+    {
+     "locator": "辑佚",
+     "point": "无为的君术义"
+    },
+    {
+     "locator": "史传",
+     "point": "相韩之政"
+    }
+   ],
+   "editions": [
+    "严可均《全上古三代秦汉三国六朝文》辑本；《群书治要》卷三十六所引"
+   ],
+   "related_people": [
+    "cn-xianqin-hanfei",
+    "cn-xianqin-xunzi",
+    "cn-lianghan-ban-gu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《申子》今存全本",
+     "why": "原书六篇已佚，今仅存辑佚（《群书治要》所引《大体》等）；故只能据残篇立论。"
+    },
+    {
+     "claim": "“术”就是阴谋",
+     "why": "在申不害的用法中，“术”是**君主任免与考核臣下的方法**（刑名参同）；其“阴”在于君不显露好恶，不在欺诈。"
+    }
+   ],
+   "sources": [
+    "ws-hanshu",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《申子》原书六篇已佚，今存《群书治要》所引与辑佚；本页依辑本与法家研究概述，具体篇目与文字须核。",
+   "sort_year": -340
+  },
+  {
    "id": "work-politics",
    "title": "《政治学》",
    "title_original": "Πολιτικά（Politics）",
@@ -3411,6 +3468,120 @@
    ],
    "needs_verification": true,
    "pending_notes": "《致希罗多德的信》为残篇（存于第欧根尼·拉尔修卷十），其文本有脱漏；本页依 Loeb 本与希腊化哲学研究概述。",
+   "sort_year": -300
+  },
+  {
+   "id": "work-heguanzi",
+   "title": "《鹖冠子》",
+   "title_original": "鶡冠子",
+   "tradition": "china",
+   "date_display": "传战国（鹖冠子）；今本或经后人增益（有争议）",
+   "structure": "十九篇（通行本）：含《博选》《著希》《夜行》《天则》《环流》《道端》《近迭》《世兵》等，兼论道、法、兵、阴阳。",
+   "core_arguments": [
+    "“道”有“天则”：天道有常，故可“执一”以御万",
+    "以“气”与“时”论治乱：政令须合时",
+    "“兵”与“道”相通：以道御兵，不以兵逞"
+   ],
+   "key_points": [
+    {
+     "locator": "《博选》",
+     "point": "选贤"
+    },
+    {
+     "locator": "《天则》",
+     "point": "天道有常"
+    },
+    {
+     "locator": "《环流》",
+     "point": "循环与变化"
+    },
+    {
+     "locator": "《世兵》",
+     "point": "以道御兵"
+    }
+   ],
+   "editions": [
+    "《道藏》本；中华书局《鹖冠子校注》（黄怀信）"
+   ],
+   "related_people": [
+    "cn-xianqin-zhuangzi",
+    "cn-xianqin-xunzi",
+    "cn-xianqin-hanfei"
+   ],
+   "misreadings": [
+    {
+     "claim": "今本《鹖冠子》即战国原作",
+     "why": "今本的真伪与增益问题自唐宋以来即有争论（柳宗元已疑之）；故只能标“传鹖冠子撰，今本或经增益”。"
+    },
+    {
+     "claim": "它是杂家拼凑",
+     "why": "其以“道”统摄法、兵、阴阳，有自身的纲领（“天则”“环流”）；故是**自成体系**的子书，非拼凑。"
+    }
+   ],
+   "sources": [
+    "ct-zhuangzi",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "今本《鹖冠子》的真伪与增益问题（柳宗元《辨鹖冠子》以来）在学界有长期争论；本页只述其内容与纲领，不裁定真伪。篇数通行19篇，各本有异。",
+   "sort_year": -300
+  },
+  {
+   "id": "work-guiguzi",
+   "title": "《鬼谷子》",
+   "title_original": "鬼谷子",
+   "tradition": "china",
+   "date_display": "传战国（鬼谷子）；今本或成于汉魏（有争议）",
+   "structure": "十四篇（通行本，含《捭阖》《反应》《内揵》《抵巇》《飞箝》《忤合》《揣》《摩》《权》《谋》《决》《符言》等）：论游说与权谋之术。",
+   "core_arguments": [
+    "“捭阖”：开与闭的两种应对（依对方之情而用之）",
+    "“反应”：以反问与静观探对方的实情",
+    "“揣”“摩”：以情与势推知对方的意"
+   ],
+   "key_points": [
+    {
+     "locator": "《捭阖》",
+     "point": "开闭之术"
+    },
+    {
+     "locator": "《反应》",
+     "point": "以反求正"
+    },
+    {
+     "locator": "《揣》《摩》",
+     "point": "揣情摩意"
+    },
+    {
+     "locator": "《符言》",
+     "point": "君术的总纲"
+    }
+   ],
+   "editions": [
+    "《道藏》本；中华书局《鬼谷子集校集注》（许富宏）"
+   ],
+   "related_people": [
+    "cn-xianqin-hanfei",
+    "cn-xianqin-xunzi",
+    "cn-xianqin-zhuangzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是纵横家的“兵书”",
+     "why": "其对象不是战场而是**游说与人事**（捭阖、揣摩）；故属“术”而非“兵”。"
+    },
+    {
+     "claim": "它教人欺诈",
+     "why": "其核心是**知情的技艺**（探对方的实情而后应对）；其伦理评价取决于用途 —— 故不宜径直读作“教人欺诈”，亦不宜视为道德哲学。"
+    }
+   ],
+   "sources": [
+    "ct-xunzi",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《鬼谷子》的作者（鬼谷子）与成书年代（战国／汉魏）在学界有争论；本页只述其内容与术的性格，不裁定真伪。篇数通行14篇（含佚篇），各本有异。",
    "sort_year": -300
   },
   {

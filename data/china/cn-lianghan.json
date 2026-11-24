@@ -3523,6 +3523,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“师法”与“家法”的区别（一师之说 vs 一家之守）在各家论述中不完全统一；本页取通行区分，具体例证须核《汉书·儒林传》。"
+  },
+  {
+   "id": "cn-lianghan-xingming",
+   "term": "刑名",
+   "term_latin": "xing-ming（forms and names）",
+   "definition": "汉代的“刑名”兼二义：①法家的“刑名参同”（以名责实、依实定赏罚）；②汉儒以“名”论政的“名实”。汉宣帝自道“汉家自有制度，本以霸王道杂之”，即以“刑名”之术与儒术并用。",
+   "usages": [
+    {
+     "name": "汉宣帝（其用）",
+     "usage": "“霸王道杂之”：以刑名之术核吏治。"
+    },
+    {
+     "name": "董仲舒（其批评）",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以“德教”为本，反对专任刑罚。"
+    },
+    {
+     "name": "王充（其评）",
+     "id": "cn-lianghan-wang-chong",
+     "usage": "以“效验”论名实，讥“虚名”之害。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-shiyi",
+    "cn-lianghan-shishi-qiushen"
+   ],
+   "example": {
+    "text": "“刑名”之所以在汉代重要，是因为它给“儒术”提供了一个**可操作的核吏手段**：儒术讲教化，刑名讲考核；二者并用，才有“霸王道杂之”的治术。故汉代政治的实况，往往在两者之间。",
+    "figure": "汉宣帝",
+    "locator": "《汉书·元帝纪》"
+   },
+   "sources": [
+    "ws-hanshu",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“刑名”的两种用法（法家的刑名参同 vs 汉儒的名实论）须分辨；本页并述二义，具体例证须核《汉书》与汉代政治思想研究。"
   }
  ],
  "debates": [
