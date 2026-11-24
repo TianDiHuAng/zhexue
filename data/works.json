@@ -34416,6 +34416,63 @@
    "sort_year": 1953
   },
   {
+   "id": "work-from-logical-point",
+   "title": "《从逻辑的观点看》",
+   "title_original": "From a Logical Point of View",
+   "tradition": "west",
+   "date_display": "1953（蒯因）",
+   "structure": "九篇论文：〈论何物存在〉、〈经验论的两个教条〉、〈同一性、实指与量词〉等。",
+   "core_arguments": [
+    "**本体论的承诺**：理论“说有什么”，即其量词所及之物",
+    "“**翻译的不确定性**”（相关论文）：翻译无唯一正确的标准",
+    "以逻辑分析取代“意义的分析”：哲学是**科学的延续**"
+   ],
+   "key_points": [
+    {
+     "locator": "〈论何物存在〉",
+     "point": "本体论承诺"
+    },
+    {
+     "locator": "〈两个教条〉",
+     "point": "分析性的破除"
+    },
+    {
+     "locator": "〈同一性〉",
+     "point": "同一与量词"
+    },
+    {
+     "locator": "全书",
+     "point": "以逻辑行哲学"
+    }
+   ],
+   "editions": [
+    "英文本（Harvard UP）；中译参《从逻辑的观点看》（江天骥等译）"
+   ],
+   "related_people": [
+    "gr-20c-russell",
+    "gr-contemp-davidson",
+    "gr-20c-wittgenstein"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“本体论承诺”是相对主义",
+     "why": "其说主张**本体论问题随理论而定**，但仍以逻辑与经验为约束；故其为“承诺”的分析，非“什么都行”。"
+    },
+    {
+     "claim": "其书是“论文集而已”",
+     "why": "诸篇共同构成一个纲领（以逻辑取代意义的分析），故其为**有统一主张的文集**。"
+    }
+   ],
+   "sources": [
+    "sep-quine",
+    "sep-davidson",
+    "sep-russell"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《从逻辑的观点看》九篇的篇目与 1953 年初版须核 Harvard UP 版与江天骥译本；“本体论承诺”的原文亦须核。",
+   "sort_year": 1953
+  },
+  {
    "id": "work-eros-civilization",
    "title": "《爱欲与文明》",
    "title_original": "Eros and Civilization",
