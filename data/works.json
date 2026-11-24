@@ -7380,6 +7380,63 @@
    "sort_year": 519
   },
   {
+   "id": "work-boethius-opera",
+   "title": "《波爱修集》",
+   "title_original": "Opuscula sacra（五部神学短论）",
+   "tradition": "west",
+   "date_display": "约512—523年（波爱修）",
+   "structure": "五篇短论：《论三位一体》《是否可言“天父、天父之子、圣灵皆为神”》《论善的实质》《论位格》《论公教信仰》。",
+   "core_arguments": [
+    "以亚里士多德的十范畴与“存在／实质”区分处理三位一体",
+    "“位格”（persona）的定义：理性的、个别的本体（naturae rationalis individua substantia）",
+    "以哲学方法（而非仅教义权威）处理神学命题"
+   ],
+   "key_points": [
+    {
+     "locator": "《论三位一体》",
+     "point": "以范畴处理三一"
+    },
+    {
+     "locator": "《论善的实质》",
+     "point": "善与存在的互通"
+    },
+    {
+     "locator": "《论位格》",
+     "point": "位格的定义"
+    },
+    {
+     "locator": "《论公教信仰》",
+     "point": "信仰的纲要"
+    }
+   ],
+   "editions": [
+    "拉丁原文（Migne, PL 64）；英译（Loeb, Theological Tractates）"
+   ],
+   "related_people": [
+    "gr-medieval-boethius",
+    "gr-medieval-aquinas",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "《波爱修集》即《哲学的慰藉》",
+     "why": "《慰藉》是散文与诗交错的哲学著作；《短论集》是五篇**神学短论**，体例与问题均不同。二者常被合称其“全集”。"
+    },
+    {
+     "claim": "其“位格”定义是神学的产物",
+     "why": "其定义（理性的个别本体）来自**语法与逻辑**的讨论（他与当时关于基督论的争论相关），故其出身是逻辑学的。"
+    }
+   ],
+   "sources": [
+    "sep-medieval-philosophy",
+    "book-copleston-history",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "波爱修无 SEP 专属词条（sep-boethius 未探得）；本页依 SEP“中世纪哲学”条目的语境性说明与 Loeb 本《神学短论》——属语境性引用而非专门研究。其五篇短论的真伪与次序须核 Loeb 本导论。",
+   "sort_year": 520
+  },
+  {
    "id": "work-consolation",
    "title": "《哲学的慰藉》",
    "title_original": "De Consolatione Philosophiae",
@@ -9750,6 +9807,120 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1205
+  },
+  {
+   "id": "work-breves",
+   "title": "《短论集》",
+   "title_original": "Opuscula（短论合集）",
+   "tradition": "west",
+   "date_display": "13世纪（波那文图拉等的短篇神学论著）",
+   "structure": "以短篇论著（opuscula）为体：每一篇处理一个具体问题（如“论三位一体的奥秘”“论基督的知识”“论天使”），体例为“问题—辨析—答复”。",
+   "core_arguments": [
+    "短论的体例使具体问题得以独立处理，不受大全体系的编排约束",
+    "以“辨析”（quaestio）为方法：先列反对意见，再给答复",
+    "神学与哲学的界线在短论中被反复辩明"
+   ],
+   "key_points": [
+    {
+     "locator": "体例",
+     "point": "问题—辨析—答复"
+    },
+    {
+     "locator": "论三位一体",
+     "point": "三一的表述"
+    },
+    {
+     "locator": "论基督的知识",
+     "point": "基督的人性知识"
+    },
+    {
+     "locator": "论天使",
+     "point": "纯形式与质料"
+    }
+   ],
+   "editions": [
+    "各作者的全集本（如波那文图拉《全集》Quaracchi 版）；单篇英译散见各译本"
+   ],
+   "related_people": [
+    "gr-medieval-aquinas",
+    "gr-medieval-duns-scotus",
+    "gr-medieval-anselm"
+   ],
+   "misreadings": [
+    {
+     "claim": "《短论集》是某一位作者的专名",
+     "why": "它是**体裁名**：13世纪许多神学家都有各自的《短论集》（opuscula）；故须指明作者与篇目，不能当作单一著作。"
+    },
+    {
+     "claim": "短论比大全次要",
+     "why": "短论因不受体系编排的约束，常能更集中地处理难点（如波那文图拉的短论在其思想中有核心地位）。"
+    }
+   ],
+   "sources": [
+    "sep-medieval-philosophy",
+    "sep-aquinas",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《短论集》为**体裁名**而非单一著作，不同作者各有其 opuscula；本页取 13 世纪的一般体例说明，具体篇目须按作者核定。因此本条标为待核实。",
+   "sort_year": 1250
+  },
+  {
+   "id": "work-de-causis",
+   "title": "《论原因》",
+   "title_original": "Liber de causis",
+   "tradition": "west",
+   "date_display": "约9世纪（阿拉伯语编纂）；12世纪译为拉丁语",
+   "structure": "三十一则命题（propositiones）：每条先述命题，再作解释；以“第一因”“理智”“灵魂”的层级为纲。",
+   "core_arguments": [
+    "第一因高于一切范畴（故不可被“存在”等谓词限定）",
+    "理智（intelligentia）由第一因流出，各有其层级",
+    "灵魂居于理智与形体之间，故有中介性"
+   ],
+   "key_points": [
+    {
+     "locator": "命题1—3",
+     "point": "第一因的超越性"
+    },
+    {
+     "locator": "命题4—9",
+     "point": "理智的层级"
+    },
+    {
+     "locator": "命题10—12",
+     "point": "灵魂的中介"
+    },
+    {
+     "locator": "全书",
+     "point": "与《神学要素》的对应"
+    }
+   ],
+   "editions": [
+    "拉丁原文（Pattin 编）；英译（Brand, Creation as Emanation）"
+   ],
+   "related_people": [
+    "gr-medieval-aquinas",
+    "gr-medieval-avicenna",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是亚里士多德的著作",
+     "why": "中世纪曾把它归为亚里士多德（故称“亚里士多德《论原因》”），但今知它是**阿拉伯语的编纂物**，材料主要取自普罗克洛《神学要素》（经伪普罗提诺《神学》转手）。"
+    },
+    {
+     "claim": "它只是新柏拉图主义的异端",
+     "why": "阿奎那为其作注并加以采纳（把“创造”与“流溢”调和），故它在13世纪是**可被正统接纳**的文本。"
+    }
+   ],
+   "sources": [
+    "sep-neoplatonism",
+    "sep-aquinas",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论原因》的作者与成书（阿拉伯语编纂，约9世纪；12世纪译为拉丁语）及其与普罗克洛《神学要素》的关系须核 Pattin 编本与 Brand 英译；中世纪的“亚里士多德《论原因》”归属是著名的误置。",
+   "sort_year": 1250
   },
   {
    "id": "work-de-ente-et-essentia",

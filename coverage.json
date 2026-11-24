@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1103,
+  "entries": 1107,
   "by_level": {
    "L2": 785,
-   "L1": 318
+   "L1": 322
   },
   "doctrine": {
    "total": 255,
    "detail": 255,
    "auto": 0
   },
-  "needs_verification": 318,
+  "needs_verification": 322,
   "sources": 399,
   "sources_verified": 399
  },
@@ -9396,6 +9396,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-boethius-opera",
+   "type": "work",
+   "title": "《波爱修集》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-consolation",
    "type": "work",
    "title": "《哲学的慰藉》",
@@ -9855,6 +9866,28 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-breves",
+   "type": "work",
+   "title": "《短论集》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-de-causis",
+   "type": "work",
+   "title": "《论原因》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -11801,6 +11834,17 @@
    "level": "L1",
    "sources": 4,
    "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-weige",
+   "type": "comparative",
+   "title": "位格与“人”：persona、hypostasis 与儒家的“人”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 5,
+   "verified_sources": 5,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
