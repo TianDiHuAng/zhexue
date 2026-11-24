@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1323,
+  "entries": 1327,
   "by_level": {
    "L2": 780,
-   "L1": 543
+   "L1": 547
   },
   "doctrine": {
    "total": 271,
    "detail": 271,
    "auto": 0
   },
-  "needs_verification": 543,
+  "needs_verification": 547,
   "sources": 412,
   "sources_verified": 412
  },
@@ -13112,6 +13112,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-two-dogmas",
+   "type": "work",
+   "title": "《经验主义的两个教条》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-investigations",
    "type": "work",
    "title": "《哲学研究》",
@@ -13196,6 +13207,17 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-word-and-object",
+   "type": "work",
+   "title": "《语词与对象》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -13401,6 +13423,17 @@
    "id": "work-taking-rights-seriously",
    "type": "work",
    "title": "《认真对待权利》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-essential-tension",
+   "type": "work",
+   "title": "《必要的张力》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -14226,6 +14259,17 @@
    "id": "cmp-gonggonglingyu",
    "type": "comparative",
    "title": "公共领域与“处士横议”：阿伦特与先秦的“议”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-zhengti",
+   "type": "comparative",
+   "title": "整体论与“理一分殊”：知识的网与理的结构",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

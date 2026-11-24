@@ -22933,6 +22933,63 @@
    "sort_year": 1951
   },
   {
+   "id": "work-two-dogmas",
+   "title": "《经验主义的两个教条》",
+   "title_original": "Two Dogmas of Empiricism",
+   "tradition": "west",
+   "date_display": "1951年（蒯因论文）；后收于《从逻辑的观点看》（1953）",
+   "structure": "一篇论文（六节）：①背景（分析与综合的区分）；②定义循环；③同义性；④语义规则；⑤证实说；⑥经验论的一个新立场（整体论）。",
+   "core_arguments": [
+    "“分析真理”（仅凭意义为真）与“综合真理”（凭事实为真）的区分**站不住**",
+    "“同义性”无法在不预设“分析性”的情况下说明（循环）",
+    "知识是**整体**面对经验的：任何陈述都可被修正（“整体论”／“信念之网”）"
+   ],
+   "key_points": [
+    {
+     "locator": "第1—2节",
+     "point": "分析与综合的区分"
+    },
+    {
+     "locator": "第3节",
+     "point": "同义性的循环"
+    },
+    {
+     "locator": "第5节",
+     "point": "证实说"
+    },
+    {
+     "locator": "第6节",
+     "point": "整体论"
+    }
+   ],
+   "editions": [
+    "原刊 Philosophical Review（1951）；收于 From a Logical Point of View（Harvard）；中译参《从逻辑的观点看》（江天骥等译）"
+   ],
+   "related_people": [
+    "gr-20c-quine",
+    "gr-contemp-kripke",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "蒯因主张“一切信念同等可修正”",
+     "why": "他说的是“没有**原则上**不可修正的陈述”，但同时也说核心的逻辑与数学**极难**被修正（“保守主义”与“最小改动”的原则）；故不是平等的可错论。"
+    },
+    {
+     "claim": "他取消了分析与综合的区分",
+     "why": "他取消的是**这一区分的哲学根据**（以“意义”为独立的解释项）；他并不否认有些真理“依意义而为真”这一现象，只否认其可被独立界定。"
+    }
+   ],
+   "sources": [
+    "sep-quine",
+    "sep-kant",
+    "sep-reference"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《经验主义的两个教条》1951 年原刊与 1953 年文集版文字有细微修订；本页依文集版与 SEP“蒯因”词条概述。",
+   "sort_year": 1951
+  },
+  {
    "id": "work-investigations",
    "title": "《哲学研究》",
    "title_original": "Philosophische Untersuchungen",
@@ -23380,6 +23437,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "第二卷为遗著（1985 年由阿莱特·埃尔凯姆整理），文本状况复杂；本书与《存在与虚无》的关系、以及“存在主义马克思主义”是否成立，学界长期争论。",
+   "sort_year": 1960
+  },
+  {
+   "id": "work-word-and-object",
+   "title": "《语词与对象》",
+   "title_original": "Word and Object",
+   "tradition": "west",
+   "date_display": "1960年（蒯因）",
+   "structure": "六章：语言与真理、翻译与意义、指称的消除、 Vagueness、指称如何学习、以及“本体论的相对性”。",
+   "core_arguments": [
+    "“翻译的不确定性”（indeterminacy of translation）：可构造出彼此不相容而皆与行为相符的翻译手册",
+    "“本体论的相对性”：何物存在取决于所选的框架，没有框架外的“绝对”问题",
+    "“gavagai”思想实验：土人的“gavagai”可译为“兔”“兔的部分”或“兔的时段”"
+   ],
+   "key_points": [
+    {
+     "locator": "第二章",
+     "point": "翻译的不确定性"
+    },
+    {
+     "locator": "第二章",
+     "point": "gavagai 之例"
+    },
+    {
+     "locator": "第四章",
+     "point": "指称的消除"
+    },
+    {
+     "locator": "第六章",
+     "point": "本体论的相对性"
+    }
+   ],
+   "editions": [
+    "英文 MIT 版；中译参《语词与对象》（陈启伟等译，中国人民大学出版社）"
+   ],
+   "related_people": [
+    "gr-20c-quine",
+    "gr-contemp-kripke",
+    "gr-20c-wittgenstein"
+   ],
+   "misreadings": [
+    {
+     "claim": "“翻译的不确定性”是说翻译不可能",
+     "why": "它说的是：**在行为证据之外**没有事实能决定哪一本翻译手册正确；故翻译是可能的，但“唯一正确”的翻译没有事实根据。"
+    },
+    {
+     "claim": "蒯因是相对主义者",
+     "why": "其“本体论的相对性”是**方法论的**（相对于一个理论框架谈存在），并非“怎样都行”；他本人坚持科学框架的优先。"
+    }
+   ],
+   "sources": [
+    "sep-quine",
+    "sep-reference",
+    "sep-wittgenstein"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《语词与对象》的六章结构与“翻译不确定性”的论证须核 MIT 版原文；其与后期维特根斯坦“遵守规则”之辩的关系亦须分辨。",
    "sort_year": 1960
   },
   {
@@ -24460,6 +24574,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《认真对待权利》所收论文的原始发表年代与各篇论点有演进；本页依中译本与 SEP“权利”词条概述，德沃金本人的专条 SEP 未收（故属语境性引用）。",
+   "sort_year": 1977
+  },
+  {
+   "id": "work-essential-tension",
+   "title": "《必要的张力》",
+   "title_original": "The Essential Tension",
+   "tradition": "west",
+   "date_display": "1977年（库恩论文集，1959—1975）",
+   "structure": "十四篇论文：分“编史学与科学史”“元历史学”“科学的进步”等部分；含〈必要的张力：科学研究中的传统与创新〉。",
+   "core_arguments": [
+    "科学同时需要**传统**（常规科学）与**创新**（革命）：“必要的张力”",
+    "对“科学是累积的”之批评的进一步澄清",
+    "科学教育与教科书的角色（它们塑造了“常规科学”的视野）"
+   ],
+   "key_points": [
+    {
+     "locator": "〈必要的张力〉",
+     "point": "传统与创新的张力"
+    },
+    {
+     "locator": "〈发现的逻辑还是研究的心理学〉",
+     "point": "对波普尔的回应"
+    },
+    {
+     "locator": "〈科学史与科学哲学的关系〉",
+     "point": "两学科的关系"
+    },
+    {
+     "locator": "〈科学的进步〉",
+     "point": "进步概念的重述"
+    }
+   ],
+   "editions": [
+    "英文 Chicago 版；中译参《必要的张力》（纪树立等译，福建人民出版社）"
+   ],
+   "related_people": [
+    "gr-20c-popper",
+    "gr-20c-quine",
+    "gr-20c-adorno"
+   ],
+   "misreadings": [
+    {
+     "claim": "库恩主张科学是非理性的",
+     "why": "他强调“范式转换”不是纯逻辑的推演，但也强调**常规科学**的严格训练与解谜；故其说是对“理性”的**重新描述**（含社会与教育的维度），不是非理性主义。"
+    },
+    {
+     "claim": "“不可通约”是说范式之间无法比较",
+     "why": "不可通约指**无共同的标准**可逐条衡量，不指完全无法理解或交流；故它要求的是“翻译”与会话，而非“不可比”。"
+    }
+   ],
+   "sources": [
+    "sep-popper",
+    "sep-quine",
+    "sep-wittgenstein"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《必要的张力》所收论文的原始发表年代（1959—1975）与各篇论点有演进；库恩本人的专条 SEP 未收（故属语境性引用），本页依中译本与科学哲学研究概述。",
    "sort_year": 1977
   },
   {
