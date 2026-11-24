@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1349,
+  "entries": 1353,
   "by_level": {
    "L2": 781,
-   "L1": 568
+   "L1": 572
   },
   "doctrine": {
    "total": 272,
    "detail": 272,
    "auto": 0
   },
-  "needs_verification": 568,
+  "needs_verification": 572,
   "sources": 413,
   "sources_verified": 413
  },
@@ -147,7 +147,7 @@
    "title": "近代理性论与经验论",
    "region": "west",
    "philosophers": 35,
-   "concepts": 23,
+   "concepts": 24,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -27"
   }
@@ -8635,6 +8635,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-modern-impartial-spectator",
+   "type": "concept",
+   "title": "公正的旁观者",
+   "container": "gr-modern",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-modern-innate-controversy",
    "type": "debate",
    "title": "天赋观念是否存在",
@@ -12353,6 +12364,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-theory-moral-sentiments",
+   "type": "work",
+   "title": "《道德情操论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-yuanshan",
    "type": "work",
    "title": "《原善》",
@@ -12581,6 +12603,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-religion-within-limits",
+   "type": "work",
+   "title": "《单纯理性限度内的宗教》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -14512,6 +14545,17 @@
    "id": "cmp-qiwu",
    "type": "comparative",
    "title": "道在器中与“形式在质料中”：王夫之与亚里士多德",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-ceyin",
+   "type": "comparative",
+   "title": "同情与“恻隐之心”：两种“感”的道德力量",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

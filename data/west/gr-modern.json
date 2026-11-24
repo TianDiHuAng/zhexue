@@ -6328,6 +6328,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-modern-impartial-spectator",
+   "term": "公正的旁观者",
+   "term_latin": "impartial spectator",
+   "definition": "斯密的道德判断的尺度：我们设想一个**公正的、知情的、不涉利害的旁观者**会如何感受与评判，并以此校正自己偏私的情感。故它不是“多数人的意见”，而是一个**理想化的立场**（后世常以“理想的观察者”承之）。",
+   "usages": [
+    {
+     "name": "亚当·斯密",
+     "id": "gr-modern-smith",
+     "usage": "以公正的旁观者为道德判断的尺度。"
+    },
+    {
+     "name": "休谟（其同代）",
+     "id": "gr-modern-hume",
+     "usage": "以“道德感”与“同胞感”说判断，不立旁观者。"
+    },
+    {
+     "name": "罗尔斯（其承）",
+     "usage": "以“无知之幕”承其理想化的立场。"
+    }
+   ],
+   "related": [
+    "gr-modern-moral-sense",
+    "gr-modern-sympathy-smith"
+   ],
+   "example": {
+    "text": "“公正的旁观者”的要害是把道德的**客观性**放在一个理想化的立场上，而不是放在规则或神命上。它的力量是能解释“我们如何纠正偏见”；它的困难是：这个旁观者本身是我们设想的，故其“公正”何以不是我们偏见的投射？—— 这一困难正是后世“理想观察者”理论的核心争点。",
+    "figure": "亚当·斯密",
+    "locator": "《道德情操论》第三部分"
+   },
+   "sources": [
+    "sep-hume",
+    "sep-rousseau",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“公正的旁观者”在《道德情操论》中的表述有演变（尤其第六版）；其与休谟“道德感”说之别亦须分辨。"
   }
  ],
  "debates": [

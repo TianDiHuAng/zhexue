@@ -17740,6 +17740,10 @@
     {
      "claim": "洛克的理论是民主理论",
      "why": "他主张的是有产者的代议制与抵抗权，选举权范围有限，与现代普选民主不同。"
+    },
+    {
+     "claim": "洛克的“自然状态”是和平的，霍布斯的是战争的",
+     "why": "二者的自然状态都是**分析性的构造**（用以说明政治权威的根据），不是历史描述；洛克的自然状态也有不便（缺裁判者），故须政府。"
     }
    ],
    "sources": [
@@ -18698,6 +18702,10 @@
     {
      "claim": "卢梭否定一切文明",
      "why": "他批判的是不平等与依附，而非技艺本身；《社会契约论》正是要重建合法的社会。"
+    },
+    {
+     "claim": "卢梭主张“回到自然状态”",
+     "why": "其自然状态是**分析的构造**（用以诊断现存社会），不是历史目标；他并不主张弃绝社会，而是主张以“公意”重建社会。且其自然状态中人不善不恶（自爱与怜悯），故不可浪漫化为黄金时代。"
     }
    ],
    "sources": [
@@ -18707,6 +18715,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1755
+  },
+  {
+   "id": "work-theory-moral-sentiments",
+   "title": "《道德情操论》",
+   "title_original": "The Theory of Moral Sentiments",
+   "tradition": "west",
+   "date_display": "1759年（亚当·斯密；后多次修订）",
+   "structure": "七部分：论 propriety（合宜）、论功过与赏罚、论判断的依据、论效用、论习俗与时尚、论德性、论道德哲学的体系。",
+   "core_arguments": [
+    "道德判断来自**同情**（sympathy）：旁观者设想自己处于当事人的处境",
+    "“公正的旁观者”（impartial spectator）是道德判断的尺度",
+    "德性在于“合宜”与“功过”的统一，不在效用"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "同情与合宜"
+    },
+    {
+     "locator": "第二部分",
+     "point": "功过与赏罚"
+    },
+    {
+     "locator": "第三部分",
+     "point": "公正的旁观者"
+    },
+    {
+     "locator": "第六部分",
+     "point": "德性的品格"
+    }
+   ],
+   "editions": [
+    "英文 Glasgow 版／Liberty Fund 版；中译参《道德情操论》（蒋自强等译，商务印书馆）"
+   ],
+   "related_people": [
+    "gr-modern-smith",
+    "gr-modern-hume",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "斯密是“经济人”的鼓吹者",
+     "why": "《道德情操论》以**同情**与“公正的旁观者”为道德的基础，与“只求私利”的读法相反；且斯密本人多次修订此书（最后一版在 1790）。故“斯密问题”（两书是否有矛盾）本身就是一个需要分辨的题目。"
+    },
+    {
+     "claim": "“同情”是一种情感的直接感染",
+     "why": "在斯密那里，“同情”是**设想的投射**（我们想象若处其境会如何感受），而非情绪传染；故它带有认知与想象的结构。"
+    }
+   ],
+   "sources": [
+    "sep-rousseau",
+    "sep-hume",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《道德情操论》1759 初版与 1790 第六版差异甚大（尤其第六部分）；本页依通行本与相关研究概述，SEP 无斯密专条（故属语境性引用）。",
+   "sort_year": 1759
   },
   {
    "id": "work-yuanshan",
@@ -19892,6 +19957,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1792
+  },
+  {
+   "id": "work-religion-within-limits",
+   "title": "《单纯理性限度内的宗教》",
+   "title_original": "Die Religion innerhalb der Grenzen der bloßen Vernunft",
+   "tradition": "west",
+   "date_display": "1793年（康德）",
+   "structure": "四篇：论人性中的根本恶、论善的原则与恶的原则的争斗、论善的原则对恶的原则的胜利与上帝之国的建立、论事奉上帝与伪事奉。",
+   "core_arguments": [
+    "人性中有“根本恶”（radical evil）的倾向：把自爱置于道德法则之上",
+    "“伦理共同体”（教会）是善的原则胜利的社会形式",
+    "“纯粹理性宗教”与“启示宗教”的关系：前者是后者的理性内核"
+   ],
+   "key_points": [
+    {
+     "locator": "第一篇",
+     "point": "根本恶"
+    },
+    {
+     "locator": "第二篇",
+     "point": "善的原则与人格性的理念"
+    },
+    {
+     "locator": "第三篇",
+     "point": "伦理共同体"
+    },
+    {
+     "locator": "第四篇",
+     "point": "事奉与伪事奉"
+    }
+   ],
+   "editions": [
+    "德文科学院版（AA VI）；英译（Religion within the Boundaries of Mere Reason, Cambridge）；中译参《单纯理性限度内的宗教》（李秋零译）"
+   ],
+   "related_people": [
+    "gr-german-kant",
+    "gr-medieval-augustine",
+    "gr-modern-rousseau"
+   ],
+   "misreadings": [
+    {
+     "claim": "康德的“根本恶”是说人性本恶",
+     "why": "其说是：人有**把自爱置于道德法则之上的倾向**（这是自由的选择，不是本性的必然）；故“根本恶”是**自由的颠倒**，不是本性论的悲观主义。"
+    },
+    {
+     "claim": "康德在此放弃理性而诉诸启示",
+     "why": "他主张“纯粹理性宗教”是启示宗教的理性内核，启示只是其“外壳”；故其说是把启示**译入**理性的限度内，不是放弃理性。"
+    }
+   ],
+   "sources": [
+    "sep-kant",
+    "sep-augustine",
+    "sep-rousseau"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《单纯理性限度内的宗教》1793 年初版与 1794 年第二版的差异须核科学院版；其“根本恶”与“伦理共同体”的表述亦须核原文。",
+   "sort_year": 1793
   },
   {
    "id": "work-aesthetic-letters",
