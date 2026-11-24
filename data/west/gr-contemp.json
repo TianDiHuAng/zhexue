@@ -2738,6 +2738,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“范式”在库恩 1962 年初版与后记（1969）中的用法有调整（后期以“学科基质”替代其广义）；本页取通行义。"
+  },
+  {
+   "id": "gr-contemp-diskursethik",
+   "term": "商谈伦理",
+   "term_latin": "discourse ethics",
+   "definition": "哈贝马斯（承阿佩尔）的伦理学：一个规范之所以正当，在于**凡受影响者都能作为理性的商谈参与者予以接受**。故其标准不是“最大幸福”也不是“可普遍化”的独白检验，而是**主体间的、程序性的**可接受性。",
+   "usages": [
+    {
+     "name": "哈贝马斯（其立）",
+     "id": "gr-contemp-habermas",
+     "usage": "以商谈程序为规范正当性的标准。"
+    },
+    {
+     "name": "康德（其源）",
+     "usage": "以“可普遍化”为道德检验，然为独白式的。"
+    },
+    {
+     "name": "罗尔斯（其对照）",
+     "id": "gr-contemp-rawls",
+     "usage": "以“无知之幕”下的选择为程序，然为契约式的。"
+    }
+   ],
+   "related": [
+    "gr-contemp-public-sphere",
+    "gr-contemp-reflective"
+   ],
+   "example": {
+    "text": "“商谈伦理”的要害是把道德的检验从“我一个人能否愿意它成为普遍法则”移到“**我们**能否在无强制的商谈中共同接受”。这一步把伦理学从主体哲学转到主体间性；其困难是：现实的商谈总有权力与时间的不对称，故“理想商谈”只能作为**批判的标尺**，不能作为实际程序。",
+    "figure": "哈贝马斯",
+    "locator": "《道德意识与交往行为》"
+   },
+   "sources": [
+    "sep-habermas",
+    "sep-kant",
+    "sep-rawls"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“商谈伦理”的原则（D 原则与 U 原则）须核哈贝马斯《道德意识与交往行为》；其与阿佩尔的“先验语用学”之别亦须分辨。"
   }
  ],
  "debates": [

@@ -27373,6 +27373,10 @@
     {
      "claim": "“生活世界的殖民化”是悲观的诊断",
      "why": "其目的是为**交往理性的制度化**留出空间（法律与公共领域），故它是一个批判的纲领，不是终局论。"
+    },
+    {
+     "claim": "它主张“以对话取代制度”",
+     "why": "其说是：制度（系统）不可废，但须受**生活世界的共识**约束；故其方案是“系统的民主化”，不是以对话取消制度。另“交往理性”也不是可操作的程序，而是**有效性主张的预设**。"
     }
    ],
    "sources": [
@@ -27496,6 +27500,120 @@
    "needs_verification": true,
    "pending_notes": "《性史》的计划（原拟六卷）与实际出版（三卷＋遗著第四卷）的差异须核；第二、三卷的“自我技术”转向与第一卷的“权力”分析之间的关系亦有争论。",
    "sort_year": 1984
+  },
+  {
+   "id": "work-philosophische-diskurs",
+   "title": "《现代性的哲学话语》",
+   "title_original": "Der philosophische Diskurs der Moderne",
+   "tradition": "west",
+   "date_display": "1985年（哈贝马斯）",
+   "structure": "十二讲：从黑格尔到尼采、海德格尔、福柯、德里达，论“现代性”的自我确证与其批判者。",
+   "core_arguments": [
+    "现代性的问题在“自我确证”：它不借外力而须自证其正当",
+    "对“后现代”的批评：其“解构”仍依赖现代性的前提",
+    "出路在“交往理性”：以程序的合理性取代主体的合理性"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—三讲",
+     "point": "黑格尔的现代性概念"
+    },
+    {
+     "locator": "第四—七讲",
+     "point": "尼采与后结构主义"
+    },
+    {
+     "locator": "第八—十讲",
+     "point": "海德格尔与福柯"
+    },
+    {
+     "locator": "末讲",
+     "point": "交往理性的出路"
+    }
+   ],
+   "editions": [
+    "德文 Suhrkamp 版；英译（The Philosophical Discourse of Modernity, MIT）；中译参《现代性的哲学话语》（曹卫东等译）"
+   ],
+   "related_people": [
+    "gr-contemp-habermas",
+    "gr-contemp-foucault",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“反后现代”的论战之作",
+     "why": "其方法是**内在批评**：指出后现代的“解构”仍以主体哲学为前提（故未能真正走出）；故其性质是“诊断”，不是简单的反对。"
+    },
+    {
+     "claim": "其“交往理性”是回到启蒙",
+     "why": "它不要回到“主体理性”，而以**主体间性**取代之；故其是“启蒙的修正”，不是“启蒙的重复”。"
+    }
+   ],
+   "sources": [
+    "sep-habermas",
+    "sep-hegel",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《现代性的哲学话语》十二讲的编排与各讲对象须核英译本；其与福柯、德里达的论争亦须分辨。",
+   "sort_year": 1985
+  },
+  {
+   "id": "work-faktizitaet-geltung",
+   "title": "《在事实与规范之间》",
+   "title_original": "Faktizität und Geltung",
+   "tradition": "west",
+   "date_display": "1992年（哈贝马斯）",
+   "structure": "九章：论法的合法性、权利体系、法治国的原则、程序主义的民主概念、公民社会与公共领域。",
+   "core_arguments": [
+    "法的合法性来自**商谈的程序**：凡受影响者皆可参与理性的商谈",
+    "“程序主义”的民主：民主的正当性在程序的合理性，不在实质的价值共识",
+    "公共领域是“介于国家与社会之间”的商谈空间"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—二章",
+     "point": "法的合法性与权利体系"
+    },
+    {
+     "locator": "第三—四章",
+     "point": "法治国的原则"
+    },
+    {
+     "locator": "第七—八章",
+     "point": "程序主义与公共领域"
+    },
+    {
+     "locator": "第九章",
+     "point": "宪法与公民社会"
+    }
+   ],
+   "editions": [
+    "德文 Suhrkamp 版；英译（Between Facts and Norms, MIT）；中译参《在事实与规范之间》（童世骏译）"
+   ],
+   "related_people": [
+    "gr-contemp-habermas",
+    "gr-contemp-rawls",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张“程序可以生成一切正当性”",
+     "why": "其程序有**实质的前提**（基本权利须先行保障）；故其说是“程序与权利的相互构成”，不是程序万能。"
+    },
+    {
+     "claim": "其“公共领域”是舆论场",
+     "why": "公共领域是**商谈的空间**（以有效性主张为取向），不是意见的市场；故其标准是“可辩护”，不是“多数”。"
+    }
+   ],
+   "sources": [
+    "sep-habermas",
+    "sep-rawls",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《在事实与规范之间》的章节结构与“程序主义”的表述须核英译本；“权利体系”一章与罗尔斯的异同亦须分辨。",
+   "sort_year": 1992
   },
   {
    "id": "work-political-liberalism",

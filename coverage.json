@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1414,
+  "entries": 1418,
   "by_level": {
    "L2": 781,
-   "L1": 633
+   "L1": 637
   },
   "doctrine": {
    "total": 284,
    "detail": 284,
    "auto": 0
   },
-  "needs_verification": 633,
+  "needs_verification": 637,
   "sources": 418,
   "sources_verified": 418
  },
@@ -111,7 +111,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 12,
-   "concepts": 24,
+   "concepts": 25,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -6504,6 +6504,17 @@
    "id": "gr-contemp-fanshi",
    "type": "concept",
    "title": "范式",
+   "container": "gr-contemp",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-contemp-diskursethik",
+   "type": "concept",
+   "title": "商谈伦理",
    "container": "gr-contemp",
    "level": "L1",
    "sources": 3,
@@ -14278,6 +14289,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-philosophische-diskurs",
+   "type": "work",
+   "title": "《现代性的哲学话语》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-faktizitaet-geltung",
+   "type": "work",
+   "title": "《在事实与规范之间》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-political-liberalism",
    "type": "work",
    "title": "《政治自由主义》",
@@ -15227,6 +15260,17 @@
    "id": "cmp-tiyongyiyuan",
    "type": "comparative",
    "title": "“体用一源”与“形式在质料中”：两种“不二”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shangtan",
+   "type": "comparative",
+   "title": "商谈伦理与“己所不欲”：两种检验规范的方式",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
