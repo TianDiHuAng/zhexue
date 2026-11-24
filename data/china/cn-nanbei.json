@@ -2656,6 +2656,42 @@
    ],
    "needs_verification": true,
    "pending_notes": "“因明”的传入（真谛、玄奘两系）与其与陈那、法称因明的关系须核；本页取其一般义，具体论式须核《因明入正理论》原文。"
+  },
+  {
+   "id": "cn-nanbei-chunqiu-bifa",
+   "term": "春秋笔法",
+   "term_latin": "the subtle rhetoric of the Spring and Autumn Annals",
+   "definition": "对《春秋》书法的一种解释传统：认为其记事之用字（如“弑”“杀”“薨”“卒”）皆有**褒贬**之义，故史书的书写本身即是一种判断。汉代（董仲舒、司马迁）已具此说，宋代（胡安国）以之统经，遂成为经学与史学的共同资源。",
+   "usages": [
+    {
+     "name": "胡安国（其统经）",
+     "usage": "以“义例”统《春秋》，使笔法成为解经的纲。"
+    },
+    {
+     "name": "司马迁（其承）",
+     "usage": "以“《春秋》之义”说史书的褒贬。"
+    },
+    {
+     "name": "朱熹（其评议）",
+     "usage": "对“以例说经”有所保留，主张先明经义。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-yixue",
+    "cn-nanbei-yishu"
+   ],
+   "example": {
+    "text": "“春秋笔法”的要害是它把“怎么写”当成“怎么判断”：一个字的选择即是一次裁决。这一传统的力量是它使史学有了批判的维度（史家可以“书法”刺讥）；其危险是它使记事服从于义例（史实可能被书法扭曲）。故后世的史学（如章学诚）一面承其批判精神，一面戒其“以例绳事”。",
+    "figure": "胡安国",
+    "locator": "《春秋胡氏传》"
+   },
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ws-taijitushuo",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“春秋笔法”说的源流（董仲舒《春秋繁露》—司马迁—胡安国）须核；“笔法”是否《春秋》本有之义，学界有争论，本页并述而不裁定。"
   }
  ],
  "debates": [

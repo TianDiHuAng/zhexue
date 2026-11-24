@@ -14075,6 +14075,63 @@
    "sort_year": 1132
   },
   {
+   "id": "work-chunqiu-hushi-zhuan",
+   "title": "《春秋胡氏传》",
+   "title_original": "春秋胡氏傳（春秋傳）",
+   "tradition": "china",
+   "date_display": "南宋（胡安国，1074—1138；约1130年代成书）",
+   "structure": "三十卷：依《春秋》经文逐条发明“义例”，以“尊王攘夷”“复仇”为大义。",
+   "core_arguments": [
+    "《春秋》为“经”而非“史”：其义在**褒贬**，不在记事",
+    "“尊王攘夷”：以华夷之辨与君臣之分说《春秋》的书法",
+    "“复仇”：以《春秋》为南宋复仇雪耻的根据"
+   ],
+   "key_points": [
+    {
+     "locator": "隐公—桓公",
+     "point": "义例与书法"
+    },
+    {
+     "locator": "僖公—文公",
+     "point": "攘夷与霸主"
+    },
+    {
+     "locator": "宣公—襄公",
+     "point": "楚与华夷"
+    },
+    {
+     "locator": "全书",
+     "point": "以义例统经"
+    }
+   ],
+   "editions": [
+    "《四库全书》本；《通志堂经解》本"
+   ],
+   "related_people": [
+    "cn-songming-zhu-xi",
+    "cn-songming-hu-hong",
+    "cn-suitang-han-yu"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《春秋》的“注释”",
+     "why": "其书以**义例**统经：每条下先立“书法”之义，再以史事证之。故其性质是“以义解经”的经学建构，不是训诂式的注释。"
+    },
+    {
+     "claim": "其“攘夷”只是种族论",
+     "why": "其“夷夏”以**礼与义**为断（“中国而用夷礼则夷之”），故其判准是文化的；但其时代情绪强烈（南渡之后），须如实标出。"
+    }
+   ],
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ws-taijitushuo",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《春秋胡氏传》的卷数与成书年代须核《四库全书》本；其“义例”的具体条目亦须逐条核。",
+   "sort_year": 1136
+  },
+  {
    "id": "work-zhiyan",
    "title": "《知言》",
    "title_original": "知言",
@@ -14245,6 +14302,63 @@
    "sort_year": 1170
   },
   {
+   "id": "work-yiluo-yuanlu",
+   "title": "《伊洛渊源录》",
+   "title_original": "伊洛淵源錄",
+   "tradition": "china",
+   "date_display": "南宋（朱熹，1130—1200；1170年代）",
+   "structure": "十四卷：以周敦颐、程颢、程颐为中心，录其师友与门人的言行，以明“道学”的传承。",
+   "core_arguments": [
+    "以“渊源”立谱系：道学之传自周程而下，有师承可考",
+    "以“言行”为据：不取空言，取行实与讲学之迹",
+    "为“道学”立一可考的传承，以别于杂学"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—二",
+     "point": "周敦颐与二程"
+    },
+    {
+     "locator": "卷三—八",
+     "point": "程门诸子"
+    },
+    {
+     "locator": "卷九—十四",
+     "point": "私淑与流衍"
+    },
+    {
+     "locator": "全书",
+     "point": "以谱系明道学"
+    }
+   ],
+   "editions": [
+    "中华书局《伊洛渊源录》；《朱子全书》本"
+   ],
+   "related_people": [
+    "cn-songming-zhu-xi",
+    "cn-songming-cheng-yi",
+    "cn-songming-zhou-dunyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是一部“学术史”",
+     "why": "其体是**传记与言行录**，其目的在立谱系（谁传谁）；故其为“道学的谱系建构”，与后世的“学案”（如《明儒学案》）体例不同。"
+    },
+    {
+     "claim": "其所立谱系是客观的史实",
+     "why": "谱系的编排本身是一种**选择与评价**（谁入、谁不入）；故其书是“建构”的史料，须与史实相参。"
+    }
+   ],
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ws-mingru-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《伊洛渊源录》的卷数与编纂年代须核《朱子全书》本；其谱系的选择标准亦须分辨（谁被排除）。",
+   "sort_year": 1173
+  },
+  {
    "id": "work-jinsilu",
    "title": "《近思录》",
    "title_original": "近思錄",
@@ -14356,6 +14470,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1175
+  },
+  {
+   "id": "work-jiali",
+   "title": "《家礼》",
+   "title_original": "家禮",
+   "tradition": "china",
+   "date_display": "南宋（传朱熹；今本或有后人增补）",
+   "structure": "五卷：通礼、冠礼、昏礼、丧礼、祭礼，各以“仪节”与“器物”叙之。",
+   "core_arguments": [
+    "以“礼”下于庶民：把古礼简化为士庶可行的家礼",
+    "“通礼”立祠堂之制：以祠堂为家族祭祀与教化的中心",
+    "仪节须可行：以“从俗”与“从简”为原则"
+   ],
+   "key_points": [
+    {
+     "locator": "〈通礼〉",
+     "point": "祠堂与族规"
+    },
+    {
+     "locator": "〈冠礼〉〈昏礼〉",
+     "point": "成人之礼与婚仪"
+    },
+    {
+     "locator": "〈丧礼〉",
+     "point": "丧服与丧仪"
+    },
+    {
+     "locator": "〈祭礼〉",
+     "point": "祭祀的仪节"
+    }
+   ],
+   "editions": [
+    "中华书局《家礼》；《朱子全书》本"
+   ],
+   "related_people": [
+    "cn-songming-zhu-xi",
+    "cn-xianqin-xunzi",
+    "cn-qingmod-gu-yanwu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《家礼》确为朱熹亲撰",
+     "why": "其作者问题（朱熹亲撰／后人增补）在学界有争论（清代已有辨疑）；故本页标“传朱熹”，并说明今本或有后人增补。"
+    },
+    {
+     "claim": "它只是“仪式手册”",
+     "why": "其“通礼”立祠堂之制，把家族祭祀与教化制度化；故其书是**社会的构造**（宗族秩序的仪式化），不只是仪节清单。"
+    }
+   ],
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ws-liji",
+    "ct-xunzi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《家礼》的作者问题（朱熹亲撰／后人增补）在学界有争论；本页标“传朱熹”并说明，具体考订须核《朱子全书》与清代辨疑之作。",
+   "sort_year": 1180
   },
   {
    "id": "work-yu-zhuyuanhui",

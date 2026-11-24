@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1401,
+  "entries": 1406,
   "by_level": {
    "L2": 781,
-   "L1": 620
+   "L1": 625
   },
   "doctrine": {
    "total": 283,
    "detail": 283,
    "auto": 0
   },
-  "needs_verification": 620,
+  "needs_verification": 625,
   "sources": 418,
   "sources_verified": 418
  },
@@ -30,7 +30,7 @@
    "title": "南北朝佛道与形神之争",
    "region": "china",
    "philosophers": 12,
-   "concepts": 23,
+   "concepts": 24,
    "debates": 6,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -1125,6 +1125,17 @@
    "id": "cn-nanbei-yinming",
    "type": "concept",
    "title": "因明",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-chunqiu-bifa",
+   "type": "concept",
+   "title": "春秋笔法",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -11649,6 +11660,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-chunqiu-hushi-zhuan",
+   "type": "work",
+   "title": "《春秋胡氏传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-zhiyan",
    "type": "work",
    "title": "《知言》",
@@ -11682,6 +11704,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-yiluo-yuanlu",
+   "type": "work",
+   "title": "《伊洛渊源录》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-jinsilu",
    "type": "work",
    "title": "《近思录》",
@@ -11701,6 +11734,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-jiali",
+   "type": "work",
+   "title": "《家礼》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -15084,6 +15128,17 @@
    "id": "cmp-yinming",
    "type": "comparative",
    "title": "三支作法与三段论：两种论证的形式",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-bifa",
+   "type": "comparative",
+   "title": "春秋笔法与“修辞即判断”：书写能做什么？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
