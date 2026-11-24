@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1717,
+  "entries": 1721,
   "by_level": {
    "L2": 779,
-   "L1": 938
+   "L1": 942
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 938,
+  "needs_verification": 942,
   "sources": 423,
   "sources_verified": 423
  },
@@ -15686,6 +15686,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-grundlagen-arithmetik",
+   "type": "work",
+   "title": "《算术基础》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-feuerbach-end",
    "type": "work",
    "title": "《路德维希·费尔巴哈与德国古典哲学的终结》",
@@ -16027,6 +16038,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-prison-notebooks",
+   "type": "work",
+   "title": "《狱中札记》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-begriff-des-politischen",
    "type": "work",
    "title": "《政治的概念》",
@@ -16052,6 +16074,17 @@
    "id": "work-logik-der-forschung",
    "type": "work",
    "title": "《科学发现的逻辑》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-kunstwerk-reproduzierbarkeit",
+   "type": "work",
+   "title": "《机械复制时代的艺术作品》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -18560,6 +18593,17 @@
    "id": "cmp-ouran",
    "type": "comparative",
    "title": "“偶然”与“无常”：没有终极根据，人如何自处？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-guangyun",
+   "type": "comparative",
+   "title": "“光晕凋落”与“文以载道”：复制与传述会伤及作品吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

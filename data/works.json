@@ -31514,6 +31514,63 @@
    "sort_year": 1884
   },
   {
+   "id": "work-grundlagen-arithmetik",
+   "title": "《算术基础》",
+   "title_original": "Die Grundlagen der Arithmetik",
+   "tradition": "west",
+   "date_display": "1884（弗雷格）",
+   "structure": "一部（含导论与三章）：以“数是什么”为问，批评当时的心理主义与形式主义。",
+   "core_arguments": [
+    "“**数**”不是心理的表象，也不是物的性质，而是**概念的外延**（类的类）",
+    "每条数词须有**语境原则**（只在命题中才有意义）",
+    "故须以**逻辑**为算术的根据（逻辑主义之始）"
+   ],
+   "key_points": [
+    {
+     "locator": "导论",
+     "point": "心理主义与形式主义之弊"
+    },
+    {
+     "locator": "第一章",
+     "point": "数的定义"
+    },
+    {
+     "locator": "第二章",
+     "point": "数与概念的外延"
+    },
+    {
+     "locator": "第三章",
+     "point": "逻辑主义的路向"
+    }
+   ],
+   "editions": [
+    "德文（Meiner 版）；英译（The Foundations of Arithmetic, Northwestern）；中译参《算术基础》（王路译）"
+   ],
+   "related_people": [
+    "gr-20c-frege",
+    "gr-20c-russell",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“数学的技术著作”",
+     "why": "其书以**数的定义**为枢纽，并由此立逻辑主义；故其为数学哲学与逻辑哲学的奠基之作，非技术的算术书。"
+    },
+    {
+     "claim": "其“逻辑主义”成功建立了算术",
+     "why": "其计划后因**罗素悖论**而受挫（其《算术的基本法则》第二卷即遭此困）；故其结论须与后来的失败并观。"
+    }
+   ],
+   "sources": [
+    "sep-frege",
+    "sep-russell",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《算术基础》的成书（1884）与三章结构须核 Meiner 版与王路译本；“语境原则”的原文亦须核，其逻辑主义与罗素悖论的关系须并观。",
+   "sort_year": 1884
+  },
+  {
    "id": "work-feuerbach-end",
    "title": "《路德维希·费尔巴哈与德国古典哲学的终结》",
    "title_original": "Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie",
@@ -33278,6 +33335,63 @@
    "sort_year": 1929
   },
   {
+   "id": "work-prison-notebooks",
+   "title": "《狱中札记》",
+   "title_original": "Quaderni del carcere",
+   "tradition": "west",
+   "date_display": "1929—1935 写（葛兰西；1948 起刊）",
+   "structure": "数十册笔记（今编为诸“卷”）：论历史唯物主义、知识分子、文化霸权与国家。",
+   "core_arguments": [
+    "“**文化霸权**”（egemonia）：统治不只靠暴力，更靠**同意**的组织",
+    "“**有机知识分子**”：知识分子不是超然的阶层，而属于一定的社会集团",
+    "“**阵地战**”对“运动战”：在西方的市民社会里，须先争夺文化的阵地"
+   ],
+   "key_points": [
+    {
+     "locator": "论知识分子",
+     "point": "有机知识分子"
+    },
+    {
+     "locator": "论国家",
+     "point": "强制与同意"
+    },
+    {
+     "locator": "论阵地战",
+     "point": "市民社会的阵地"
+    },
+    {
+     "locator": "论哲学",
+     "point": "人人都是哲学家"
+    }
+   ],
+   "editions": [
+    "意大利文（Einaudi）；英译（Selections from the Prison Notebooks, International Publishers）；中译参《狱中札记》（曹雷雨等译）"
+   ],
+   "related_people": [
+    "gr-20c-gramsci",
+    "gr-19c-marx",
+    "gr-modern-machiavelli"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“霸权”是“文化侵略”",
+     "why": "其“霸权”是**同意的组织**（统治者与被统治者的关系如何被构成），故其为分析的概念，非“侵略”的指控。"
+    },
+    {
+     "claim": "其“阵地战”是“放弃革命”",
+     "why": "其说主张在**市民社会**须先争夺阵地（区别于俄国的运动战），故其为策略的调整，非放弃。"
+    }
+   ],
+   "sources": [
+    "sep-gramsci",
+    "sep-marx",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《狱中札记》的笔记编次与 1948 年起的分卷刊行须核 Einaudi 版与曹雷雨译本；“文化霸权”“阵地战”的原文亦须核。",
+   "sort_year": 1929
+  },
+  {
    "id": "work-begriff-des-politischen",
    "title": "《政治的概念》",
    "title_original": "Der Begriff des Politischen",
@@ -33447,6 +33561,63 @@
    "needs_verification": true,
    "pending_notes": "《科学发现的逻辑》1934 年德文初版与 1959 年英译本（增补甚多）有重大差异；本页依英译本与 SEP 词条概述，具体章节须核两版。",
    "sort_year": 1934
+  },
+  {
+   "id": "work-kunstwerk-reproduzierbarkeit",
+   "title": "《机械复制时代的艺术作品》",
+   "title_original": "Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit",
+   "tradition": "west",
+   "date_display": "1935—1936（本雅明）",
+   "structure": "一篇（存数种稿本）：以摄影与电影为例，论复制技术如何改变艺术的功能与知觉方式。",
+   "core_arguments": [
+    "复制技术摧毁了作品的“**光晕**”（Aura，独一无二的此时此地）",
+    "艺术的功能由**仪式**转向**政治**",
+    "电影使大众成为**参与者**（同时亦易被政治审美化）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一节",
+     "point": "光晕的凋落"
+    },
+    {
+     "locator": "第二—四节",
+     "point": "仪式与政治"
+    },
+    {
+     "locator": "表演与电影",
+     "point": "演员的自我异化"
+    },
+    {
+     "locator": "末节",
+     "point": "政治审美化与艺术政治化"
+    }
+   ],
+   "editions": [
+    "德文（Gesammelte Schriften I/2）；英译（Illuminations, Schocken）；中译参《机械复制时代的艺术作品》（王才勇译）"
+   ],
+   "related_people": [
+    "gr-20c-benjamin",
+    "gr-19c-marx",
+    "gr-20c-adorno"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“光晕凋落”是怀旧的哀叹",
+     "why": "其论旨是**技术与艺术的辩证**（既有丧失，亦有解放的可能）；故其为诊断，非单纯的怀旧。"
+    },
+    {
+     "claim": "其“政治审美化”是赞美法西斯",
+     "why": "其末节恰是**批评**法西斯把政治审美化，而主张以“艺术的政治化”相对；故其为批判的论断。"
+    }
+   ],
+   "sources": [
+    "sep-benjamin",
+    "sep-marx",
+    "sep-adorno"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《机械复制时代的艺术作品》的多稿本（1935／1936／1939）须核 Gesammelte Schriften I/2；“光晕”（Aura）的原文与译法亦须核。",
+   "sort_year": 1935
   },
   {
    "id": "work-crisis-sciences",
