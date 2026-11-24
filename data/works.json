@@ -21991,6 +21991,63 @@
    "sort_year": 1620
   },
   {
+   "id": "work-saggiatore",
+   "title": "《试金者》",
+   "title_original": "Il Saggiatore",
+   "tradition": "west",
+   "date_display": "1623（伽利略）",
+   "structure": "一篇（书信体论辩，附权衡的比喻）：驳 Grassi 关于彗星的解释。",
+   "core_arguments": [
+    "“**自然之书以数学的语言写成**”：其字母为三角形、圆与其他图形",
+    "故知识的可靠在于**测量与证明**，不在权威",
+    "以“**试金者**”（天平）为喻：论辩须称量，不可只凭言辞"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "试金者的比喻"
+    },
+    {
+     "locator": "中段",
+     "point": "自然之书与数学"
+    },
+    {
+     "locator": "论彗星",
+     "point": "对 Grassi 的驳辩"
+    },
+    {
+     "locator": "全篇",
+     "point": "以书信行论战"
+    }
+   ],
+   "editions": [
+    "意大利文（Opere, Edizione Nazionale VI）；英译（The Assayer, in Discoveries and Opinions of Galileo）；中译少见"
+   ],
+   "related_people": [
+    "gr-modern-galileo",
+    "gr-modern-descartes",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“天文学的观测报告”",
+     "why": "其书是**方法论与认识论的论辩**（以彗星之争为由，论知识的标准），故其为科学哲学的文献，非观测记录。"
+    },
+    {
+     "claim": "“自然之书以数学写成”是“数学即真理”",
+     "why": "其语是说**自然的可测量性**（故数学为认识之钥），非“数学自身即真理”；其仍以经验与实验为据。"
+    }
+   ],
+   "sources": [
+    "sep-galileo",
+    "sep-descartes",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《试金者》的 1623 年初版与 Edizione Nazionale VI 文本须核；“自然之书以数学的语言写成”一语的原文位置亦须核。中译少。",
+   "sort_year": 1623
+  },
+  {
    "id": "work-de-jure-belli-ac-pacis",
    "title": "《战争与和平法》",
    "title_original": "De jure belli ac pacis",
@@ -22330,6 +22387,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1637
+  },
+  {
+   "id": "work-due-nuove-scienze",
+   "title": "《两种新科学》",
+   "title_original": "Discorsi e dimostrazioni matematiche intorno a due nuove scienze",
+   "tradition": "west",
+   "date_display": "1638（伽利略）",
+   "structure": "四日谈（另附附录）：论材料的强度、匀速与加速运动、以及抛射的复合运动。",
+   "core_arguments": [
+    "以“**理想化与数学推演**”为法：先立理想条件（无阻力），再以实验校核",
+    "**落体定律**：落体所经的距离与时间的平方成比例",
+    "以“**复合运动**”说抛射：水平匀速与竖直加速的合成"
+   ],
+   "key_points": [
+    {
+     "locator": "第一日",
+     "point": "材料强度"
+    },
+    {
+     "locator": "第三日",
+     "point": "匀速与加速运动"
+    },
+    {
+     "locator": "第四日",
+     "point": "抛射运动"
+    },
+    {
+     "locator": "全书",
+     "point": "以对话行论证"
+    }
+   ],
+   "editions": [
+    "意大利文（Edizione Nazionale VIII）；英译（Two New Sciences, Wisconsin）；中译参《关于两门新科学的对话》（武际可译）"
+   ],
+   "related_people": [
+    "gr-modern-galileo",
+    "gr-ancient-aristotle",
+    "gr-modern-descartes"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“实验记录”",
+     "why": "其书以**数学推演**为先（理想化的定律），实验为校核；故其为“数学—实验”的方法论著作，非记录汇编。"
+    },
+    {
+     "claim": "其结论已被相对论推翻，故无价值",
+     "why": "其定律在**低速的极限**内仍有效（相对论在其适用域内还原为它）；故其为**有效的近似**，非被废弃之说。"
+    }
+   ],
+   "sources": [
+    "sep-galileo",
+    "sep-aristotle",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《两种新科学》四日谈的结构与 1638 年初版须核 Edizione Nazionale VIII 与武际可译本；“距离与时间的平方成比例”的表述亦须核。",
+   "sort_year": 1638
   },
   {
    "id": "work-wuli-xiaoshi",

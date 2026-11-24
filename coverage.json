@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1776,
+  "entries": 1779,
   "by_level": {
    "L2": 779,
-   "L1": 997
+   "L1": 1000
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 997,
+  "needs_verification": 1000,
   "sources": 423,
   "sources_verified": 423
  },
@@ -13838,6 +13838,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-saggiatore",
+   "type": "work",
+   "title": "《试金者》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-de-jure-belli-ac-pacis",
    "type": "work",
    "title": "《战争与和平法》",
@@ -13901,6 +13912,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-due-nuove-scienze",
+   "type": "work",
+   "title": "《两种新科学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -19209,6 +19231,17 @@
    "id": "cmp-jiaoxiangsheng",
    "type": "comparative",
    "title": "“天人交相胜”与“明于天人之分”：天与人各管什么？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shijinzhe",
+   "type": "comparative",
+   "title": "“自然之书以数学写成”与“理在气中”：认识自然凭什么？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
