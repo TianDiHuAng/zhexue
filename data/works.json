@@ -9386,6 +9386,120 @@
    "sort_year": 250
   },
   {
+   "id": "work-dazhuang-lun",
+   "title": "《达庄论》",
+   "title_original": "《达庄论》（阮籍）",
+   "tradition": "china",
+   "date_display": "三国魏（阮籍）",
+   "structure": "一篇（赋体论说文）：设“先生”与“缙绅”问答，以通《庄子》之意。",
+   "core_arguments": [
+    "“**天地生于自然**”：以自然为万物之本，反对“名教”的造作",
+    "“**至道之极，混一不分**”：以“齐”说万物（近《齐物论》）",
+    "故其“达”是**通于自然**，非放任"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "先生与缙绅的问答"
+    },
+    {
+     "locator": "中段",
+     "point": "天地生于自然"
+    },
+    {
+     "locator": "论齐",
+     "point": "混一不分"
+    },
+    {
+     "locator": "全篇",
+     "point": "以赋体行论"
+    }
+   ],
+   "editions": [
+    "《阮籍集》（中华书局点校本）；《全三国文》卷四十五"
+   ],
+   "related_people": [
+    "cn-weijin-ruanji",
+    "cn-xianqin-zhuangzi",
+    "cn-weijin-xiangxiu"
+   ],
+   "misreadings": [
+    {
+     "claim": "其说是“纵欲放任”",
+     "why": "其“达”是**通于自然**（以齐物为归），非放任；其《咏怀》诗亦多忧生之嗟，可见并非无所守。"
+    },
+    {
+     "claim": "其与《大人先生传》同旨",
+     "why": "二篇皆以自然抗名教，然《达庄论》是**论理的**（以问答立义），《大人先生传》是**寓言的**（以人物行讽刺）；本页分别立说，不混为一。"
+    }
+   ],
+   "sources": [
+    "sep-chinese-metaphysics",
+    "ct-zhuangzi",
+    "ws-wenxin-diaolong"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《达庄论》的文本须核《阮籍集》点校本与《全三国文》卷四十五；“天地生于自然”一语的原文亦须核。",
+   "sort_year": 250
+  },
+  {
+   "id": "work-daren-xiansheng-zhuan",
+   "title": "《大人先生传》",
+   "title_original": "《大人先生传》（阮籍）",
+   "tradition": "china",
+   "date_display": "三国魏（阮籍）",
+   "structure": "一篇（传体寓言）：以“大人先生”为理想人物，讥世之“君子”为虱处裈中。",
+   "core_arguments": [
+    "“**大人先生**”与“道”同体：超出礼法之外",
+    "以“**虱处裈中**”讥世之守礼者：自以为得其所，实困于裈",
+    "故其讽刺以**境界的对比**为法，非以论证"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "大人先生的形象"
+    },
+    {
+     "locator": "中段",
+     "point": "与君子之辩"
+    },
+    {
+     "locator": "虱处裈中",
+     "point": "讽刺的比喻"
+    },
+    {
+     "locator": "全篇",
+     "point": "以寓言行讽刺"
+    }
+   ],
+   "editions": [
+    "《阮籍集》（中华书局点校本）；《全三国文》卷四十六"
+   ],
+   "related_people": [
+    "cn-weijin-ruanji",
+    "cn-xianqin-zhuangzi",
+    "cn-xianqin-laozi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其为“狂放之士的自画像”",
+     "why": "其文以**寓言人物**立理想境界（非自叙），故其为寓言的著作，非自传。"
+    },
+    {
+     "claim": "其“虱处裈中”是人身攻击",
+     "why": "其讥的是**以礼法自限而不自知**的一类人（境界之讥），故其为寓言式的批判，非私人的攻讦。"
+    }
+   ],
+   "sources": [
+    "sep-chinese-metaphysics",
+    "ct-zhuangzi",
+    "ct-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《大人先生传》的文本须核《阮籍集》点校本与《全三国文》卷四十六；“虱处裈中”一喻的原文亦须核。",
+   "sort_year": 250
+  },
+  {
    "id": "work-jikang-ji",
    "title": "《嵇康集》",
    "title_original": "嵇康集",
@@ -15726,6 +15840,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《六一诗话》的则数与“诗话”一体的起源须核郑文校点本；“状难写之景”一段的归属（梅尧臣语）亦须核。",
+   "sort_year": 1070
+  },
+  {
+   "id": "work-wang-wengong-wenji",
+   "title": "《王文公文集》",
+   "title_original": "《临川先生文集》（王安石）",
+   "tradition": "china",
+   "date_display": "北宋（王安石；今存诸刻本）",
+   "structure": "一百卷（今存本）：诗、文、书、奏议、杂著等，含其经学与政论之作。",
+   "core_arguments": [
+    "“**新法**”的理论根据：以“理财”与“立法”为治国之要",
+    "“**性命之理**”与“道德之教”：以经义说性命（其学被称为“荆公新学”）",
+    "“**天变不足畏，人言不足恤**”：以人事为成败之据"
+   ],
+   "key_points": [
+    {
+     "locator": "书奏诸卷",
+     "point": "新法与理财"
+    },
+    {
+     "locator": "杂著",
+     "point": "性命与道德"
+    },
+    {
+     "locator": "论天变",
+     "point": "人事为据"
+    },
+    {
+     "locator": "全书",
+     "point": "以文集见其学"
+    }
+   ],
+   "editions": [
+    "《临川先生文集》（中华书局点校本）；宋刻《王文公文集》影印本可参"
+   ],
+   "related_people": [
+    "cn-songming-wang-anshi",
+    "cn-xianqin-mengzi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其为“法家而非儒”",
+     "why": "其以**经义**（《周礼》《孟子》）为新法之据，故其为儒家的一个激进形态，非纯粹法家；然朱子一系斥其“以利心行王道”，此争须并述。"
+    },
+    {
+     "claim": "“三不足”出自其亲口",
+     "why": "“天变不足畏，人言不足恤，祖宗不足法”之语**见于史家记述**（《宋史》本传等），是否为其原话学界有讨论；本页标出，不作定论。"
+    }
+   ],
+   "sources": [
+    "sep-chinese-metaphysics",
+    "ct-mengzi",
+    "ws-shiji"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《王文公文集》（《临川先生文集》）的卷次与点校本须核；“三不足”之语的出处（《宋史》本传等）与其是否原话须并述而不裁定。",
    "sort_year": 1070
   },
   {

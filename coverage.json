@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1764,
+  "entries": 1768,
   "by_level": {
    "L2": 779,
-   "L1": 985
+   "L1": 989
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 985,
+  "needs_verification": 989,
   "sources": 423,
   "sources_verified": 423
  },
@@ -11396,6 +11396,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-dazhuang-lun",
+   "type": "work",
+   "title": "《达庄论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-daren-xiansheng-zhuan",
+   "type": "work",
+   "title": "《大人先生传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-jikang-ji",
    "type": "work",
    "title": "《嵇康集》",
@@ -12620,6 +12642,17 @@
    "id": "work-liuyi-shihua",
    "type": "work",
    "title": "《六一诗话》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-wang-wengong-wenji",
+   "type": "work",
+   "title": "《王文公文集》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -19077,6 +19110,17 @@
    "id": "cmp-quanru",
    "type": "comparative",
    "title": "“废习俗”与“越名教而任自然”：反礼法能走多远？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-dazhuang",
+   "type": "comparative",
+   "title": "“达庄”与“逍遥”：自由是齐物还是游世？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
