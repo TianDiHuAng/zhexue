@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1298,
+  "entries": 1302,
   "by_level": {
    "L2": 779,
-   "L1": 519
+   "L1": 523
   },
   "doctrine": {
    "total": 270,
    "detail": 270,
    "auto": 0
   },
-  "needs_verification": 519,
-  "sources": 409,
-  "sources_verified": 409
+  "needs_verification": 523,
+  "sources": 410,
+  "sources_verified": 410
  },
  "units": [
   {
@@ -12870,6 +12870,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-begriff-des-politischen",
+   "type": "work",
+   "title": "《政治的概念》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-logik-der-forschung",
    "type": "work",
    "title": "《科学发现的逻辑》",
@@ -13222,6 +13233,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-taking-rights-seriously",
+   "type": "work",
+   "title": "《认真对待权利》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-theorie-kommunikativen",
    "type": "work",
    "title": "《交往行为理论》",
@@ -13247,6 +13269,17 @@
    "id": "work-histoire-sexualite",
    "type": "work",
    "title": "《性史》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-political-liberalism",
+   "type": "work",
+   "title": "《政治自由主义》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -13951,6 +13984,17 @@
    "id": "cmp-mei",
    "type": "comparative",
    "title": "美在形式与“大美不言”：普罗提诺与庄子的美论",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-gonggong",
+   "type": "comparative",
+   "title": "公共理性与“天下有道”：罗尔斯与儒家的公共论证",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

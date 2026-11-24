@@ -22018,6 +22018,63 @@
    "sort_year": 1929
   },
   {
+   "id": "work-begriff-des-politischen",
+   "title": "《政治的概念》",
+   "title_original": "Der Begriff des Politischen",
+   "tradition": "west",
+   "date_display": "1927年讲演；1932年成书；1963年增补",
+   "structure": "一篇长文（附《中立化与去政治化的时代》等）：以“敌友之分”界定政治的领域。",
+   "core_arguments": [
+    "政治的领域由“**敌友之分**”（Freund/Feind）界定，而非由道德、经济或审美界定",
+    "“敌人”是**公敌**（hostis），不是私仇（inimicus）",
+    "自由主义以“中立化”取消政治，其结果是被更强者以政治的方式击败"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "政治的判准"
+    },
+    {
+     "locator": "中段",
+     "point": "公敌与私仇"
+    },
+    {
+     "locator": "后段",
+     "point": "中立化与去政治化"
+    },
+    {
+     "locator": "附录",
+     "point": "时代诊断"
+    }
+   ],
+   "editions": [
+    "德文 Duncker & Humblot 版；英译（The Concept of the Political, Chicago）；中译参《政治的概念》（刘小枫编，上海人民出版社）"
+   ],
+   "related_people": [
+    "gr-contemp-rawls",
+    "gr-modern-hobbes",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“鼓吹战争”的书",
+     "why": "其“敌友之分”是**分析性的判准**（政治领域的划界），不是规范性的号召；他并明言政治不等于战争，战争的正当性须另论。"
+    },
+    {
+     "claim": "其“敌友”是个人恩怨",
+     "why": "他明确区分**公敌**（hostis，集体性的他者）与**私仇**（inimicus）；故其说是国家与集体层面的，不是个人层面的。"
+    }
+   ],
+   "sources": [
+    "sep-hobbes",
+    "sep-kant",
+    "sep-rights"
+   ],
+   "needs_verification": true,
+   "pending_notes": "施米特无 SEP 专条（故属语境性引用）；《政治的概念》1927 讲演、1932 成书与 1963 增补的文本有实质差异，本页依英译本与相关研究概述。其与纳粹的关系是必须分辨的背景，本页只述其论点，不作辩护也不作定罪。",
+   "sort_year": 1932
+  },
+  {
    "id": "work-logik-der-forschung",
    "title": "《科学发现的逻辑》",
    "title_original": "Logik der Forschung",
@@ -23830,6 +23887,63 @@
    "sort_year": 1976
   },
   {
+   "id": "work-taking-rights-seriously",
+   "title": "《认真对待权利》",
+   "title_original": "Taking Rights Seriously",
+   "tradition": "west",
+   "date_display": "1977年（德沃金）",
+   "structure": "十三篇论文：论规则与原则、疑难案件、权利与功利、公民不服从、自由主义等。",
+   "core_arguments": [
+    "法律不只有**规则**，还有**原则**与政策；法官在疑难案件中依原则裁判",
+    "权利是“**王牌**”（trump）：它优先于集体的功利计算",
+    "对“法律实证主义”（以规则为唯一法源）的批评"
+   ],
+   "key_points": [
+    {
+     "locator": "第二章",
+     "point": "规则、原则与政策"
+    },
+    {
+     "locator": "第三章",
+     "point": "疑难案件与司法裁量"
+    },
+    {
+     "locator": "第七章",
+     "point": "权利作为王牌"
+    },
+    {
+     "locator": "第九章",
+     "point": "公民不服从"
+    }
+   ],
+   "editions": [
+    "英文 Harvard 版；中译参《认真对待权利》（信春鹰、吴玉章译，中国大百科全书出版社）"
+   ],
+   "related_people": [
+    "gr-contemp-rawls",
+    "gr-modern-hobbes",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“原则”说是“法官可任意造法”",
+     "why": "其原则须来自**制度的道德传统**（如先例与宪法所体现的原则），故受约束；它不是任意的裁量，而是“依原则的裁判”。"
+    },
+    {
+     "claim": "“权利作为王牌”是说权利绝对不受限制",
+     "why": "其说指权利**优先于**功利计算，但权利之间仍须权衡（如“严肃对待”即指权衡须有理由）；故非绝对主义。"
+    }
+   ],
+   "sources": [
+    "sep-rights",
+    "sep-rawls",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《认真对待权利》所收论文的原始发表年代与各篇论点有演进；本页依中译本与 SEP“权利”词条概述，德沃金本人的专条 SEP 未收（故属语境性引用）。",
+   "sort_year": 1977
+  },
+  {
    "id": "work-theorie-kommunikativen",
    "title": "《交往行为理论》",
    "title_original": "Theorie des kommunikativen Handelns",
@@ -23998,6 +24112,63 @@
    "needs_verification": true,
    "pending_notes": "《性史》的计划（原拟六卷）与实际出版（三卷＋遗著第四卷）的差异须核；第二、三卷的“自我技术”转向与第一卷的“权力”分析之间的关系亦有争论。",
    "sort_year": 1984
+  },
+  {
+   "id": "work-political-liberalism",
+   "title": "《政治自由主义》",
+   "title_original": "Political Liberalism",
+   "tradition": "west",
+   "date_display": "1993年（罗尔斯；1996年增订版）",
+   "structure": "八讲（增订版）：基本理念、公民的能力与代表、政治建构主义、公共理性、基本善、作为公平的正义之论证。",
+   "core_arguments": [
+    "“理性多元论”是自由制度的**必然结果**，不是可消除的分歧",
+    "正义观念须是“政治的”而非“整全的”：它不预设任何一种善生活",
+    "“公共理性”：宪政根本问题上的论证须用一切公民都能合理接受的理由"
+   ],
+   "key_points": [
+    {
+     "locator": "第一讲",
+     "point": "理性多元论与政治的正义观念"
+    },
+    {
+     "locator": "第二讲",
+     "point": "公民的两种道德能力"
+    },
+    {
+     "locator": "第三讲",
+     "point": "政治建构主义"
+    },
+    {
+     "locator": "第六讲",
+     "point": "公共理性"
+    }
+   ],
+   "editions": [
+    "英文 Columbia 版（增订版 1996）；中译参《政治自由主义》（万俊人译，译林出版社）"
+   ],
+   "related_people": [
+    "gr-contemp-rawls",
+    "gr-contemp-berlin",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《正义论》的修订版",
+     "why": "它是**重新奠基**：把《正义论》的“整全性自由主义”改为“政治的自由主义”，以回应“理性多元论”的事实；故其立场有实质变化。"
+    },
+    {
+     "claim": "“公共理性”要求公民放弃自己的宗教或道德信念",
+     "why": "它只要求：在**宪政根本问题**的公共论证中使用可共享的理由；公民在私人生活与“背景文化”中仍可依其整全信念生活。"
+    }
+   ],
+   "sources": [
+    "sep-rawls",
+    "sep-berlin",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《政治自由主义》1993 初版与 1996 增订版（增《答哈贝马斯》等）差异重要；本页依增订版与 SEP 词条概述。",
+   "sort_year": 1993
   }
  ]
 }
