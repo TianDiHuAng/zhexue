@@ -13615,6 +13615,64 @@
    "sort_year": 900
   },
   {
+   "id": "work-shifa-ibn-sina",
+   "title": "《治疗论》",
+   "title_original": "Kitāb al-Shifāʾ（治愈之书）",
+   "tradition": "west",
+   "date_display": "约1020年代（伊本·西那）",
+   "structure": "四部：逻辑、自然学、数学、形而上学（Ilāhiyyāt）；其中“形而上学”部为伊斯兰哲学的核心文本。",
+   "core_arguments": [
+    "“存在”的研究属形而上学：存在之为存在（不是任何具体的存在者）",
+    "“必然存在”与“偶然存在”之分：由偶然者的系列推出一个“必然存在者”",
+    "“本质与存在”的区分：在偶然者中二者相异，在必然者中同一",
+    "“飞行的人”思想实验：以悬空无感之人证明灵魂的自我意识"
+   ],
+   "key_points": [
+    {
+     "locator": "〈逻辑〉部",
+     "point": "范畴与证明"
+    },
+    {
+     "locator": "〈自然学〉部",
+     "point": "灵魂与形体"
+    },
+    {
+     "locator": "〈形而上学〉部",
+     "point": "必然与偶然存在"
+    },
+    {
+     "locator": "〈形而上学〉部",
+     "point": "本质与存在及“飞行的人”"
+    }
+   ],
+   "editions": [
+    "阿拉伯文本（Cairo 版）；英译（The Metaphysics of The Healing, Brigham Young）；中译参《论灵魂》（商务，节译）"
+   ],
+   "related_people": [
+    "gr-medieval-avicenna",
+    "gr-medieval-al-ghazali",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“必然存在”之证是“上帝存在的证明”",
+     "why": "其论证的结论是**一个必然存在者**，而后须再证其属性（意志、全能等）；故不可径视为“上帝存在的证明”，其间有层次。"
+    },
+    {
+     "claim": "“本质与存在”之分是基督教的“存在者之分”",
+     "why": "其说在**偶然者**中区分本质与存在，在必然者中则同一；故与阿奎那后来在“存在者”中的区分须分辨，不可混同。"
+    }
+   ],
+   "sources": [
+    "sep-ibn-sina",
+    "sep-al-farabi",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《治疗论》四部的结构（尤其“形而上学”部）与“必然存在”之证的层次须核 Cairo 版与英译本；“飞行的人”一节的原文亦须核。",
+   "sort_year": 1020
+  },
+  {
    "id": "work-taiji-tushuo",
    "title": "《太极图说》",
    "title_original": "太極圖說",
@@ -14357,6 +14415,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《书传》的卷数与作者（苏轼／苏辙续成）须核《三苏全书》本；其疑经之说亦须逐条核。",
+   "sort_year": 1095
+  },
+  {
+   "id": "work-tahafut-falasifa",
+   "title": "《哲学家的矛盾》",
+   "title_original": "Tahāfut al-Falāsifa（哲学家的崩溃）",
+   "tradition": "west",
+   "date_display": "1095（安萨里）",
+   "structure": "二十个论题：以反驳伊本·西那与法拉比的形而上学为主，末四题论其“世界的永恒”之说。",
+   "core_arguments": [
+    "世界非永恒：以“无限系列不可实现”论证世界有始",
+    "哲学家不能证明上帝只是“第一推动者”而无意志",
+    "因果非必然：以“习惯”说因果（真主可随时造其“常道”）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—四题",
+     "point": "世界的永恒性"
+    },
+    {
+     "locator": "第十—十七题",
+     "point": "因果与奇迹"
+    },
+    {
+     "locator": "第十八—二十题",
+     "point": "灵魂与复活"
+    },
+    {
+     "locator": "全书",
+     "point": "以辩证驳哲学家"
+    }
+   ],
+   "editions": [
+    "阿拉伯文本（Bouyges 校订）；英译（The Incoherence of the Philosophers, Brigham Young）；中译少见"
+   ],
+   "related_people": [
+    "gr-medieval-al-ghazali",
+    "gr-medieval-averroes",
+    "gr-medieval-avicenna"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“反哲学的”",
+     "why": "其所驳者是**特定哲学家的特定论证**（尤其“世界永恒”），并以逻辑的方法驳之；故其为“以哲学驳哲学”，非取消哲学。"
+    },
+    {
+     "claim": "其“因果是习惯”是否认因果",
+     "why": "其意是：因果非**逻辑的必然**（真主可随时另造），而经验中的“常道”是可信的；故其说在神学与科学之间留有空间，非全盘否定因果。"
+    }
+   ],
+   "sources": [
+    "sep-al-ghazali",
+    "sep-ibn-sina",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《哲学家的矛盾》二十题的次序与“因果即习惯”一题的原文须核 Bouyges 校本；其在拉丁西方的接受（ Averroes 的回应）亦须分辨。",
    "sort_year": 1095
   },
   {
@@ -15491,6 +15606,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《家礼》的作者问题（朱熹亲撰／后人增补）在学界有争论；本页标“传朱熹”并说明，具体考订须核《朱子全书》与清代辨疑之作。",
+   "sort_year": 1180
+  },
+  {
+   "id": "work-tahafut-tahafut",
+   "title": "《矛盾的矛盾》",
+   "title_original": "Tahāfut al-Tahāfut（矛盾的崩溃）",
+   "tradition": "west",
+   "date_display": "约1180（伊本·鲁世德）",
+   "structure": "逐题回应安萨里的《哲学家的矛盾》，以亚里士多德—新柏拉图主义的哲学为其立场。",
+   "core_arguments": [
+    "世界永恒与“造于无”之争：以亚里士多德的“潜能与现实”解之",
+    "因果有其必然：否认“习惯”之说，主张自然的因果秩序",
+    "哲学与启示不相悖：以“双重真理”式的分层容二者"
+   ],
+   "key_points": [
+    {
+     "locator": "论世界永恒",
+     "point": "潜能与现实"
+    },
+    {
+     "locator": "论因果",
+     "point": "自然的必然"
+    },
+    {
+     "locator": "论灵魂",
+     "point": "理智与复活"
+    },
+    {
+     "locator": "全书",
+     "point": "逐题回应"
+    }
+   ],
+   "editions": [
+    "阿拉伯文本（Bouyges 校订）；英译（Tahafut al-Tahafut, Luzac）；中译少见"
+   ],
+   "related_people": [
+    "gr-medieval-averroes",
+    "gr-medieval-al-ghazali",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“为哲学辩护”的单纯之作",
+     "why": "其书逐题回应，兼有对安萨里的**让步**（如承认哲学家某些论证不足）；故其为“以辩证相驳”，非单面辩护。"
+    },
+    {
+     "claim": "其“双重真理”是分离信仰与理性",
+     "why": "其意是**同一真理的两种表述**（哲学为其精微的形式），非两个互不相干的真理；故“双重真理”之名实为后人的概括，须分辨。"
+    }
+   ],
+   "sources": [
+    "sep-ibn-rushd",
+    "sep-al-ghazali",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《矛盾的矛盾》的体例（逐题回应）与“双重真理”之说的归属（伊本·鲁世德本人是否如此表述）须核；其拉丁西方的接受亦须核。",
    "sort_year": 1180
   },
   {

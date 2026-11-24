@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1565,
+  "entries": 1570,
   "by_level": {
    "L2": 780,
-   "L1": 785
+   "L1": 790
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 785,
+  "needs_verification": 790,
   "sources": 419,
   "sources_verified": 419
  },
@@ -147,7 +147,7 @@
    "title": "近代理性论与经验论",
    "region": "west",
    "philosophers": 35,
-   "concepts": 24,
+   "concepts": 25,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -27"
   }
@@ -9405,6 +9405,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-modern-biyou-cunzai",
+   "type": "concept",
+   "title": "必然存在",
+   "container": "gr-modern",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-modern-innate-controversy",
    "type": "debate",
    "title": "天赋观念是否存在",
@@ -12133,6 +12144,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-shifa-ibn-sina",
+   "type": "work",
+   "title": "《治疗论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-taiji-tushuo",
    "type": "work",
    "title": "《太极图说》",
@@ -12269,6 +12291,17 @@
    "type": "work",
    "title": "《书传》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-tahafut-falasifa",
+   "type": "work",
+   "title": "《哲学家的矛盾》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -12489,6 +12522,17 @@
    "type": "work",
    "title": "《家礼》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-tahafut-tahafut",
+   "type": "work",
+   "title": "《矛盾的矛盾》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -16888,6 +16932,17 @@
    "id": "cmp-zhenli",
    "type": "comparative",
    "title": "“真理即证实”与“知之为知之”：真在哪里被判定？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-biyou",
+   "type": "comparative",
+   "title": "“必然存在”与“无极而太极”：从何者说起？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
