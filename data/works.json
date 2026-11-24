@@ -12878,6 +12878,63 @@
    "sort_year": 1580
   },
   {
+   "id": "work-de-la-causa",
+   "title": "《论原因、本原与太一》",
+   "title_original": "De la causa, principio et uno",
+   "tradition": "west",
+   "date_display": "1584年（布鲁诺）",
+   "structure": "五篇对话：第一篇论原因与本原之别，第二篇论形式与质料的合一，第三篇论无限宇宙与诸世界，第四、五篇论太一与万物的统一；体例为对话体，论辩层层推进。",
+   "core_arguments": [
+    "宇宙是无限的，故无中心（对亚里士多德宇宙论的突破）",
+    "“太一”即宇宙的统一：形式与质料、潜能与现实在其中合一",
+    "“万物有灵”（anima mundi）：宇宙自身是活的"
+   ],
+   "key_points": [
+    {
+     "locator": "第一篇",
+     "point": "原因与本原之辨"
+    },
+    {
+     "locator": "第二篇",
+     "point": "形式与质料的合一"
+    },
+    {
+     "locator": "第三篇",
+     "point": "无限宇宙与诸世界"
+    },
+    {
+     "locator": "第五篇",
+     "point": "太一"
+    }
+   ],
+   "editions": [
+    "意大利文 Opere italiane；英译（Cause, Principle and Unity，剑桥版）"
+   ],
+   "related_people": [
+    "gr-modern-bruno",
+    "gr-modern-cusanus",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "布鲁诺的“无限宇宙”已是近代科学的宇宙",
+     "why": "其“无限”是**形而上学**的（太一的无限、宇宙作为神的显现），没有近代的物理定律与无限空间几何；故不可径直视为近代科学。"
+    },
+    {
+     "claim": "他是“泛神论者”，故其说是无神论",
+     "why": "其“万物在神中”与“神在万物中”是泛神论的结构，但他本人并不否认神；故与无神论不同。"
+    }
+   ],
+   "sources": [
+    "sep-bruno",
+    "sep-medieval-philosophy",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "布鲁诺“无限宇宙”与库萨的尼古拉的关系、以及其“太一”说的解释（是否泛神论）学界有争论；本页依剑桥英译本与 SEP 词条概述，具体篇目须核意大利文原版。",
+   "sort_year": 1584
+  },
+  {
    "id": "work-fenshu",
    "title": "《焚书》",
    "title_original": "焚書",
@@ -14797,34 +14854,32 @@
    "title_original": "A Treatise of Human Nature",
    "tradition": "west",
    "date_display": "1739—1740年（三卷）",
-   "structure": "卷一论知性，卷二论情感，卷三论道德。以“印象与观念”为基本材料，试图以实验方法建立人的科学。",
+   "structure": "三卷：①论知性（观念的起源、因果、怀疑论）；②论情感（骄傲与谦卑、爱与恨、意志）；③论道德（德与恶、正义、同情）。",
    "core_arguments": [
-    "一切观念来自印象；无印象对应者无意义（卷一）",
-    "因果推理基于习惯与联想，非理性洞见；归纳无理性根据（卷一）",
-    "是与应当的区分：从描述推不出规范（卷三）"
+    "一切观念来自印象：无印象则无观念",
+    "因果不是理性的推论，而是**习惯**的联想（因果怀疑论）",
+    "“是”不能推出“应当”：事实与价值的分野"
    ],
    "key_points": [
     {
-     "locator": "I.1.1",
-     "point": "印象与观念的区分及其优先性"
+     "locator": "第一卷 第1章",
+     "point": "印象与观念"
     },
     {
-     "locator": "I.3.6",
-     "point": "因果必然性的“习惯”解释"
+     "locator": "第一卷 第3章",
+     "point": "因果与习惯"
     },
     {
-     "locator": "I.4.6",
-     "point": "人格同一性的怀疑论结论"
+     "locator": "第二卷",
+     "point": "情感与意志"
     },
     {
-     "locator": "III.1.1",
-     "point": "“是”与“应当”的鸿沟"
+     "locator": "第三卷 第1章",
+     "point": "是—应当"
     }
    ],
    "editions": [
-    "关文运译、郑之骧校《人性论》，商务印书馆",
-    "Norton & Norton 编本，Oxford University Press",
-    "J. Bennett 现代英语改编本，见 Early Modern Texts（辅助阅读）"
+    "英文 Clarendon 版（Norton & Norton 编）；中译参《人性论》（关文运译，商务印书馆）"
    ],
    "related_people": [
     "gr-modern-hume",
@@ -14833,12 +14888,12 @@
    ],
    "misreadings": [
     {
-     "claim": "休谟否认因果存在",
-     "why": "他不否认因果的日常有效性，只否认其有理性或经验的必然性根据；因果是习惯性的联想。"
+     "claim": "休谟主张因果不存在",
+     "why": "他主张的是：因果的必然性不能由理性或经验证明，其根据是习惯的联想。故他保留了因果的实践有效性，只否定其理性根据。"
     },
     {
-     "claim": "休谟是彻底的怀疑论者",
-     "why": "他在实践中主张“自然信念”，怀疑论是理论的边界，不是生活的主张。"
+     "claim": "“是—应当”的分野是说事实与价值无关",
+     "why": "其要点是推论的问题：从描述性的前提推不出规范性的结论，须另有说明；故不是否认关联，而是否认其“自动”推出。"
     }
    ],
    "sources": [
@@ -15019,6 +15074,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1750
+  },
+  {
+   "id": "work-enquiry-morals",
+   "title": "《道德原则研究》",
+   "title_original": "An Enquiry Concerning the Principles of Morals",
+   "tradition": "west",
+   "date_display": "1751年（休谟）",
+   "structure": "九节（另附一篇《论趣味的标准》为附录之一）：论道德的区分、仁爱、正义、政治社会、效用与品格。",
+   "core_arguments": [
+    "道德的区别来自**道德感**（moral sentiment），不是理性的发现",
+    "“效用”与“品格”是赞许的两个主要来源",
+    "正义是“人为之德”（artificial virtue）：因社会的需要而成立"
+   ],
+   "key_points": [
+    {
+     "locator": "第一节",
+     "point": "道德区分的一般根据"
+    },
+    {
+     "locator": "第二节",
+     "point": "仁爱"
+    },
+    {
+     "locator": "第三节",
+     "point": "正义是人为之德"
+    },
+    {
+     "locator": "第九节",
+     "point": "结论：德性的总论"
+    }
+   ],
+   "editions": [
+    "英文 Clarendon 版（Beauchamp 编）；中译参《道德原则研究》（曾晓平译，商务印书馆）"
+   ],
+   "related_people": [
+    "gr-modern-hume",
+    "gr-modern-hobbes",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "休谟是“情感主义者”，故道德是主观的",
+     "why": "其“道德感”不是个人的好恶，而是**人性中普遍的**赞许机制（同情）；故其立场是自然主义的，不是主观主义。"
+    },
+    {
+     "claim": "“正义是人为之德”意味着正义是虚构",
+     "why": "“人为”（artificial）指**由制度与惯例而成**，不是“虚假”；其效用是真实的，故其约束力也是真实的。"
+    }
+   ],
+   "sources": [
+    "sep-hume",
+    "book-copleston-history",
+    "sep-aristotle"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 1751
   },
   {
    "id": "work-discourse-inequality",

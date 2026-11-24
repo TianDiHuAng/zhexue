@@ -3113,6 +3113,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“三报”的表述见慧远《三报论》，其与印度业报说的异同（尤其“无我”与“受报者”的张力）须核；本页依《弘明集》与佛教研究概述。"
+  },
+  {
+   "id": "cn-weijin-mingli",
+   "term": "名理",
+   "term_latin": "the study of names and principles",
+   "definition": "魏晋玄学与清谈的核心技艺：以“名”（概念、名分）与“理”（所以然之故）为对象的分析。它既是清谈的谈资，也是玄学的方法——以辨析名理达到“理”的自觉。",
+   "usages": [
+    {
+     "name": "王弼",
+     "id": "cn-weijin-wangbi",
+     "usage": "以《老子指略》《周易略例》立名理之方法（“得意忘言”）。"
+    },
+    {
+     "name": "裴頠",
+     "usage": "以《崇有论》从名理上反驳“贵无”。"
+    },
+    {
+     "name": "欧阳建",
+     "id": "cn-weijin-ouyang-jian",
+     "usage": "以《言尽意论》论名与意的关系。"
+    }
+   ],
+   "related": [
+    "cn-weijin-yan-yi",
+    "cn-weijin-youwu"
+   ],
+   "example": {
+    "text": "“名理”之所以是玄学的关键，在于它把**谈**变成了**学**：清谈若不讲名理，就只是机锋；有了名理，才有可辩可传的论。故魏晋玄学的“思辨性”正落在这一技艺上。",
+    "figure": "王弼",
+    "locator": "《老子指略》；《世说新语·文学》"
+   },
+   "sources": [
+    "ws-shishuo-xinyu",
+    "ws-zhaolun",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“名理”在魏晋兼指“辨名析理”的方法与“刑名之理”（政治的名实），二义须分辨；本页取其方法义，具体用法须核《世说新语》与玄学研究。"
   }
  ],
  "debates": [
