@@ -4816,6 +4816,304 @@
      "note": "1688 年"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-shen-deqian",
+   "name": "沈德潜",
+   "latin": "Shen Deqian",
+   "birth_year": 1673,
+   "death_year": 1769,
+   "birth_display": "1673年",
+   "death_display": "1769年",
+   "birth_note": "据《清史稿》文苑传：字确士，号归愚，江苏长洲人；乾隆四年进士（年已六十七），官至礼部侍郎；以诗受知于高宗，主盟诗坛。",
+   "death_note": "1769年卒（《清史稿》文苑传）。",
+   "era": "清中叶。沈德潜以“**格调**”说与“**温柔敦厚**”的诗教主盟诗坛：诗须有格（体制气象）与调（声律音节），其用在涵养性情，不在逞才。其说针对王士禛“神韵”的空疏，而以“诗教”为其根据 —— 故其位置是：把诗学重新系于**教化与规范**。",
+   "school": "清中叶格调派",
+   "core_questions": [
+    "诗之规范何在？",
+    "诗之用是涵养还是逞才？",
+    "神韵之说何以不足？"
+   ],
+   "arguments": [
+    {
+     "claim": "诗须有格与调，二者兼至",
+     "premises": [
+      "诗有体制与气象（格）。",
+      "亦有声律与音节（调）。"
+     ],
+     "inference": "若二者缺一，则诗或板滞或浮滑；故其说以“格调”为标准，兼取体制与声律。",
+     "conclusion": "格调说（此说与神韵说相对）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "诗之用在温柔敦厚",
+     "premises": [
+      "诗者，志之所之，而可以兴观群怨。",
+      "其效在涵养性情。"
+     ],
+     "inference": "若诗之用在涵养，则其评价须及于**性情之正**，不只于辞句之美；故其说以诗教为断。",
+     "conclusion": "以诗教论诗（此说把诗学重新系于教化）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《说诗晬语》",
+     "edition": "人民文学出版社霍松林校注本（版次待核）",
+     "note": "1731"
+    },
+    {
+     "title": "《国朝诗别裁集》",
+     "edition": "清乾隆刻本（版次待核）",
+     "note": "清"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "叶燮（其师）",
+     "id": "cn-qingmod-ye-xie",
+     "note": "其“正变”之说为沈氏所承"
+    },
+    {
+     "name": "孔子（其诗教之据）",
+     "id": null,
+     "note": "“兴观群怨”“温柔敦厚”之说所本"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "清中叶的诗坛",
+     "id": null,
+     "note": "其说为科场与诗坛所重"
+    },
+    {
+     "name": "袁枚的性灵说（其反）",
+     "id": null,
+     "note": "以“性灵”反其“格调”"
+    },
+    {
+     "name": "后世对“诗教”的讨论",
+     "id": null,
+     "note": "常以其为典型"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "袁枚（性灵派）",
+     "view": "以格调绳诗，则诗为“格”所限；诗之佳在真性情，不在体制声律之合。且“温柔敦厚”易为假道学之护符。",
+     "response": "沈德潜一系的回应是：无格调则诗为叫嚣，无情性之正则诗为淫靡；故二者不可偏废（其亦重“性情”，只是以“正”为限）。",
+     "kind": "原文",
+     "sources": [
+      "ws-wenxin-diaolong",
+      "ws-liji"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“格调”就是“格律”",
+     "why": "其“格”指**体制与气象**，“调”指声律音节；故其说不止于平仄。"
+    },
+    {
+     "claim": "其“温柔敦厚”是教条",
+     "why": "其说是**诗教**的传统（《礼记·经解》），锋芒实对“以才气驰骋”的诗风。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>沈德潜：格调与诗教</text><defs><marker id='aSD' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>诗有体制气象</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>亦有声律音节</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故以格调为断</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>而其用在涵养性情</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aSD)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aSD)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "沈德潜：“格调”说与“温柔敦厚”的诗教（示意图）",
+   "sources": [
+    "ws-liji",
+    "ws-wenxin-diaolong",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "沈德潜无 SEP 专条（已试 shen-deqian，404）；本页依《清史稿》文苑传、《说诗晬语》原文（霍松林校注本），**属语境性引用而非专门研究**。其生卒（1673—1769）与晚达之事须核。",
+   "doctrine": {
+    "summary": "沈德潜以“格调”说与“温柔敦厚”的诗教主盟诗坛：诗须有格（体制气象）与调（声律音节），其用在涵养性情而不在逞才。其说针对王士禛“神韵”的空疏，以诗教为根据——故其位置是把诗学重新系于教化与规范。",
+    "system": [
+     {
+      "name": "格调",
+      "content": "格指体制气象，调指声律音节，二者须兼至。"
+     },
+     {
+      "name": "温柔敦厚",
+      "content": "诗之用在涵养性情，故以性情之正为断；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以诗教论诗",
+      "content": "兴观群怨与温柔敦厚为其评价的根据；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "性情之正",
+      "content": "其亦重性情，但以“正”为限，此为与性灵说之别。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "长洲与北京（1673—1769）",
+      "change": "乾隆四年进士（年六十七）；官至礼部侍郎；以诗受知于高宗；1731 年成《说诗晬语》；主盟诗坛；1769 年卒。"
+     }
+    ],
+    "reception": "其格调说在清中叶为诗坛与科场所重；袁枚的性灵说即针对其说而发，遂成清代诗学的两大对立；其《国朝诗别裁集》亦为清诗的重要选本。"
+   },
+   "works_detail": [
+    {
+     "title": "《说诗晬语》",
+     "structure": "二卷：以格调为纲，论体制、作法、源流与历代诗人。",
+     "core_thesis": "诗须格调兼至，而以诗教为用；这是该书的核心命题。",
+     "editions": "人民文学出版社霍松林校注本",
+     "note": "1731 年"
+    }
+   ]
+  },
+  {
+   "id": "cn-qingmod-yuan-mei",
+   "name": "袁枚",
+   "latin": "Yuan Mei",
+   "birth_year": 1716,
+   "death_year": 1798,
+   "birth_display": "1716年",
+   "death_display": "1798年",
+   "birth_note": "据《清史稿》文苑传：字子才，号简斋、随园主人，浙江钱塘人；乾隆四年进士，官江宁知县，三十三岁辞官筑随园，以诗文名天下。",
+   "death_note": "1798年卒（《清史稿》文苑传）。",
+   "era": "清中叶。袁枚以“**性灵**”说反对沈德潜的“格调”：诗之佳在真性情与灵机，不在摹古与用典；其“诗无定格”直指格调之说。故其位置是：把诗的标准从“规范”拉回**诗人的性情**—— 这一转向使清诗摆脱了拟古的笼罩，也招致“轻佻”之讥。",
+   "school": "清中叶性灵派",
+   "core_questions": [
+    "诗之佳在何处？",
+    "摹古与用典是否有益？",
+    "性情与规范孰先？"
+   ],
+   "arguments": [
+    {
+     "claim": "诗之佳在真性情与灵机",
+     "premises": [
+      "诗之动人者，在其情之真。",
+      "而摹古与用典往往掩其真。"
+     ],
+     "inference": "若动人者在真，则评价的标准是**性情的真与灵**，非体制声律之合；故其说以性灵为宗。",
+     "conclusion": "性灵说（此说针对格调而发）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "诗无定格，著我而已",
+     "premises": [
+      "诗之体裁与作法，代有不同。",
+      "而“我”只有一个。"
+     ],
+     "inference": "若诗须有“我”，则不可以古人的格调绳今人；故其说以“著我”为归。",
+     "conclusion": "著我（此说为性灵说的核心主张）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《随园诗话》",
+     "edition": "人民文学出版社顾学颉校点本（版次待核）",
+     "note": "1790年代"
+    },
+    {
+     "title": "《小仓山房文集》",
+     "edition": "《袁枚全集》本（版次待核）",
+     "note": "乾隆间"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "汤显祖（其情论之前例）",
+     "id": null,
+     "note": "“情至”说与性灵同一取向"
+    },
+    {
+     "name": "晚明的“情”的思潮",
+     "id": null,
+     "note": "为其性灵说之背景"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "清中晚的诗坛",
+     "id": null,
+     "note": "性灵一派风行一时"
+    },
+    {
+     "name": "现代的“个性”论诗",
+     "id": null,
+     "note": "常以其为中国的“自我表现”说的代表"
+    },
+    {
+     "name": "沈德潜一系的反批评",
+     "id": "cn-qingmod-shen-deqian",
+     "note": "以其说为“轻佻”"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "沈德潜一系（格调派）",
+     "view": "专主性灵则诗流于轻佻：既无体制之正，又失诗教之厚，遂使诗成为才子的游戏。",
+     "response": "袁枚一系的回应是：其“性灵”非“放纵”，而是“真”（其亦重学，尝言“不学而能”者非诗）；且诗教之厚不在于体制，而在于情之正。",
+     "kind": "原文",
+     "sources": [
+      "ws-wenxin-diaolong",
+      "ws-liji"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“性灵”是“随意”",
+     "why": "其“性灵”指**真性情与灵机**，仍要求才与学的支撑；所反对者是“摹古”与“以典为诗”。"
+    },
+    {
+     "claim": "袁枚只是“才子”，无学",
+     "why": "其《文集》有论学论政之作，其博涉可知；“才子”之名掩其学，非其实。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>袁枚：性灵与著我</text><defs><marker id='aYM' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>诗之感人在情之真</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而摹古用典掩其真</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故以性灵为断</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故诗须有我在</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aYM)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aYM)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "袁枚：“性灵”说与“著我”（示意图）",
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "袁枚无 SEP 专条（已试 yuan-mei，404）；本页依《清史稿》文苑传、《随园诗话》（顾学颉校点本）与《小仓山房文集》，**属语境性引用而非专门研究**。其生卒（1716—1798）与辞官筑园之事须核。",
+   "doctrine": {
+    "summary": "袁枚以“性灵”说反对沈德潜的“格调”：诗之佳在真性情与灵机，不在摹古与用典；其“诗无定格”“著我”直指格调之说。故其位置是把诗的标准从“规范”拉回诗人的性情；此说在其学派中具有纲领性的地位。",
+    "system": [
+     {
+      "name": "性灵",
+      "content": "诗之佳在真性情与灵机，非体制声律之合；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "著我",
+      "content": "诗须有“我”在，不可以古人的格调绳今人。"
+     },
+     {
+      "name": "诗无定格",
+      "content": "体裁作法代有不同，故无一定之格；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "反摹古",
+      "content": "摹古与用典掩其真，故为其所斥；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "钱塘与江宁（1716—1798）",
+      "change": "乾隆四年进士；官江宁等地知县；三十三岁辞官，筑随园于江宁；以诗文名天下；1790 年代成《随园诗话》；1798 年卒。"
+     }
+    ],
+    "reception": "性灵说风行清中晚诗坛，与格调说成清代诗学的两大对立；其说亦为现代“自我表现”论者所引；然“轻佻”之讥亦随之不去。"
+   },
+   "works_detail": [
+    {
+     "title": "《随园诗话》",
+     "structure": "十六卷（附补遗十卷）：以性灵为纲，记诗事、评诗人、论诗法。",
+     "core_thesis": "诗以性灵为宗，诗无定格；这是该书的核心命题。",
+     "editions": "人民文学出版社顾学颉校点本",
+     "note": "1790 年代"
+    }
+   ]
   }
  ],
  "concepts": [

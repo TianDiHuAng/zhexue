@@ -2811,6 +2811,41 @@
    ],
    "needs_verification": true,
    "pending_notes": "“具身”与“嵌入”的区分（embodied／embedded／enacted／extended 四说）须核 SEP“Embodied Cognition”词条；本页取其一般义。"
+  },
+  {
+   "id": "gr-contemp-tazhe",
+   "term": "他者",
+   "term_latin": "the Other",
+   "definition": "当代哲学的核心范畴：他者不是“另一个自我”，而是**不可被我同化、不可被我完全理解**者。列维纳斯以“他者的面容”为伦理的起点（“伦理学是第一哲学”）；萨特以“他人的注视”说自我的对象化；此后“承认”“差异政治”皆由此出。",
+   "usages": [
+    {
+     "name": "列维纳斯（其立）",
+     "usage": "以“面容”说对他者的无限责任。"
+    },
+    {
+     "name": "萨特（其说）",
+     "usage": "以“注视”说自我在他者目光下的对象化。"
+    },
+    {
+     "name": "黑格尔（其远源）",
+     "usage": "以“承认”说自我意识须经他者而成。"
+    }
+   ],
+   "related": [
+    "gr-contemp-reflective"
+   ],
+   "example": {
+    "text": "“他者”的要害是把**不可同化性**当作关系的条件：若他者只是“另一个我”，则一切关系都是自我的扩展；而若他者不可同化，则关系就含有**伦理的债务**（我无法以理解来抵消对他的责任）。这一范畴使当代伦理学从“主体的自由”转向“对他者的责任”。",
+    "figure": "列维纳斯",
+    "locator": "《总体与无限》"
+   },
+   "sources": [
+    "sep-levinas",
+    "sep-hegel",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“他者”的三条路径（列维纳斯的面容／萨特的注视／黑格尔的承认）须核 SEP 相关词条；本页取其一般义。"
   }
  ],
  "debates": [

@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1503,
+  "entries": 1510,
   "by_level": {
    "L2": 781,
-   "L1": 722
+   "L1": 729
   },
   "doctrine": {
-   "total": 299,
-   "detail": 299,
+   "total": 301,
+   "detail": 301,
    "auto": 0
   },
-  "needs_verification": 722,
+  "needs_verification": 729,
   "sources": 418,
   "sources_verified": 418
  },
@@ -38,10 +38,10 @@
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 31,
+   "philosophers": 33,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -23"
+   "philosophers_slot": "8 上限，余 -25"
   },
   {
    "unit_id": "cn-songming",
@@ -111,7 +111,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 12,
-   "concepts": 26,
+   "concepts": 27,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -1598,6 +1598,28 @@
    "id": "cn-qingmod-wang-shizhen",
    "type": "philosopher",
    "title": "王士禛",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-shen-deqian",
+   "type": "philosopher",
+   "title": "沈德潜",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-yuan-mei",
+   "type": "philosopher",
+   "title": "袁枚",
    "container": "cn-qingmod",
    "level": "L1",
    "sources": 3,
@@ -6834,6 +6856,17 @@
    "id": "gr-contemp-fuqiang-yishi",
    "type": "concept",
    "title": "嵌入与具身",
+   "container": "gr-contemp",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-contemp-tazhe",
+   "type": "concept",
+   "title": "他者",
    "container": "gr-contemp",
    "level": "L1",
    "sources": 3,
@@ -13409,6 +13442,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-shuoshi-zuiyu",
+   "type": "work",
+   "title": "《说诗晬语》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-philosophical-letters",
    "type": "work",
    "title": "《哲学通信》",
@@ -13596,6 +13640,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-xiaocangshanfang-wenji",
+   "type": "work",
+   "title": "《小仓山房文集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-origin-language",
    "type": "work",
    "title": "《论语言的起源》",
@@ -13731,6 +13786,17 @@
    "id": "work-du-shu-za-zhi",
    "type": "work",
    "title": "《读书杂志》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-suiyuan-shihua",
+   "type": "work",
+   "title": "《随园诗话》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -16206,6 +16272,17 @@
    "id": "cmp-shenyun",
    "type": "comparative",
    "title": "“神韵”与“气氛”：不可言说者如何被说出？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-gezhi",
+   "type": "comparative",
+   "title": "格调与性灵：诗该守规矩还是该像我？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

@@ -21342,6 +21342,63 @@
    "sort_year": 1725
   },
   {
+   "id": "work-shuoshi-zuiyu",
+   "title": "《说诗晬语》",
+   "title_original": "說詩晬語",
+   "tradition": "china",
+   "date_display": "清（沈德潜，1673—1769；1731年成）",
+   "structure": "二卷：以“格调”为纲，论诗的体制、作法、源流与历代诗人的得失。",
+   "core_arguments": [
+    "“格调”说：诗须有格（体制）与调（声律），二者兼至",
+    "“温柔敦厚”为诗教：诗之用在涵养性情，不在逞才",
+    "“以意为匠，以法为工”：意与法须相辅"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上",
+     "point": "格调与诗教"
+    },
+    {
+     "locator": "卷下",
+     "point": "作法与源流"
+    },
+    {
+     "locator": "论历代",
+     "point": "汉魏唐宋的得失"
+    },
+    {
+     "locator": "全书",
+     "point": "以格调为纲"
+    }
+   ],
+   "editions": [
+    "人民文学出版社《原诗·一瓢诗话·说诗晬语》（霍松林校注）"
+   ],
+   "related_people": [
+    "cn-qingmod-shen-deqian",
+    "cn-qingmod-ye-xie",
+    "cn-songming-yan-yu"
+   ],
+   "misreadings": [
+    {
+     "claim": "“格调”就是“格律”",
+     "why": "其“格”指**体制与气象**（诗的格局），“调”指声律与音节；故其说不止于平仄，兼及诗的品格。"
+    },
+    {
+     "claim": "其“温柔敦厚”是教条",
+     "why": "其说是**诗教**的传统（《礼记·经解》），主张诗以涵养性情为用；故其锋芒实对“以才气驰骋”的诗风。"
+    }
+   ],
+   "sources": [
+    "ws-liji",
+    "ws-wenxin-diaolong",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《说诗晬语》的卷数与成书（1731）须核霍松林校注本；“格调”说的表述与该书与《国朝诗别裁集》的关系亦须核。",
+   "sort_year": 1731
+  },
+  {
    "id": "work-philosophical-letters",
    "title": "《哲学通信》",
    "title_original": "Lettres philosophiques（Lettres anglaises）",
@@ -22306,6 +22363,63 @@
    "sort_year": 1770
   },
   {
+   "id": "work-xiaocangshanfang-wenji",
+   "title": "《小仓山房文集》",
+   "title_original": "小倉山房文集",
+   "tradition": "china",
+   "date_display": "清（袁枚；乾隆间陆续刊）",
+   "structure": "三十五卷（通行本）：含书、序、论、记、传、碑志与杂著，其论诗论文之见多在其中。",
+   "core_arguments": [
+    "“性情之外无诗”：以性情为诗文之本",
+    "“著我”：诗文须有“我”在（与摹古相对）",
+    "论“才、学、识”：三者不可偏废，而以才为用"
+   ],
+   "key_points": [
+    {
+     "locator": "论诗诸篇",
+     "point": "性情与著我"
+    },
+    {
+     "locator": "书札",
+     "point": "论文与论学"
+    },
+    {
+     "locator": "传记碑志",
+     "point": "人物与风俗"
+    },
+    {
+     "locator": "杂著",
+     "point": "才学识之说"
+    }
+   ],
+   "editions": [
+    "《袁枚全集》本（江苏古籍出版社）；上海古籍出版社本"
+   ],
+   "related_people": [
+    "cn-qingmod-yuan-mei",
+    "cn-qingmod-shen-deqian",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "袁枚只是“才子”，无学",
+     "why": "其《文集》有论学、论文、论政之作，且其博涉可知；故“才子”之名掩其学，非其实。"
+    },
+    {
+     "claim": "“著我”是个人主义",
+     "why": "其“我”指**真性情的所在**（不依傍古人），非近代意义上的个人主义；其说仍以“性情之正”为限。"
+    }
+   ],
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《小仓山房文集》的卷数（通行三十五卷）须核《袁枚全集》本；“著我”与“性情之外无诗”的原文亦须核。",
+   "sort_year": 1770
+  },
+  {
    "id": "work-origin-language",
    "title": "《论语言的起源》",
    "title_original": "Abhandlung über den Ursprung der Sprache",
@@ -23038,6 +23152,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《读书杂志》的分种与卷数（通行八十二卷）须核中华书局影印本；其校读之例与其子王引之的作品之别亦须分辨。",
+   "sort_year": 1790
+  },
+  {
+   "id": "work-suiyuan-shihua",
+   "title": "《随园诗话》",
+   "title_original": "隨園詩話",
+   "tradition": "china",
+   "date_display": "清（袁枚，1716—1798；1790年代成）",
+   "structure": "十六卷（附《补遗》十卷）：以“性灵”为纲，记诗事、评诗人、论诗法。",
+   "core_arguments": [
+    "“性灵”说：诗之佳在“真性情”，不在摹古与用典",
+    "“诗无定格”：反对以格调绳诗（针对沈德潜）",
+    "“才、学、识”以才为先？不，其说重“才”与“情”而轻“学”"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—八",
+     "point": "性灵与真性情"
+    },
+    {
+     "locator": "卷九—十六",
+     "point": "评诗与诗事"
+    },
+    {
+     "locator": "《补遗》",
+     "point": "续评与杂记"
+    },
+    {
+     "locator": "全书",
+     "point": "以性灵反格调"
+    }
+   ],
+   "editions": [
+    "人民文学出版社《随园诗话》（顾学颉校点）"
+   ],
+   "related_people": [
+    "cn-qingmod-yuan-mei",
+    "cn-qingmod-shen-deqian",
+    "cn-songming-tang-xianzu"
+   ],
+   "misreadings": [
+    {
+     "claim": "“性灵”是“随意”",
+     "why": "其“性灵”指**真性情与灵机**（诗人的才与情），故其说仍要求“才”与“学”的支撑（其本人极博）；所反对者是“摹古”与“以典为诗”。"
+    },
+    {
+     "claim": "它与沈德潜的争论只是“门户”",
+     "why": "其争是**诗学标准之争**：格调以体制声律为准，性灵以真性情为准；故其争有其理论的内容。"
+    }
+   ],
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《随园诗话》的正编十六卷与《补遗》十卷须核顾学颉校点本；“性灵”说的表述与其与沈德潜的争论亦须核。",
    "sort_year": 1790
   },
   {
