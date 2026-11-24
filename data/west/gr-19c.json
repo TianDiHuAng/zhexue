@@ -3485,6 +3485,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“伤害原则”的原文（《论自由》第一章）须核 Toronto 版全集；“伤害”的界定与密尔自己的限定（如对未成年人与未开化民族的例外）亦须标出。"
+  },
+  {
+   "id": "gr-19c-apollo-dionysus",
+   "term": "酒神与日神",
+   "term_latin": "the Dionysian and the Apollonian",
+   "definition": "尼采《悲剧的诞生》的一对范畴：**日神**（Apollo）是梦、形象、个体化的原理，故为造型艺术之境；**酒神**（Dionysus）是醉、浑然、个体化原理的破毁，故为音乐之境。悲剧生于二者的结合：酒神的深渊由日神的形象而得以观看。",
+   "usages": [
+    {
+     "name": "尼采（其立）",
+     "id": "gr-19c-nietzsche",
+     "usage": "以二者论悲剧的起源与苏格拉底主义之弊。"
+    },
+    {
+     "name": "叔本华（其源）",
+     "id": "gr-19c-schopenhauer",
+     "usage": "其“意志”与“表象”之分是其雏形。"
+    },
+    {
+     "name": "瓦格纳（其对象）",
+     "usage": "其乐剧被尼采视为酒神精神的重生（后决裂）。"
+    }
+   ],
+   "related": [
+    "gr-19c-genius"
+   ],
+   "example": {
+    "text": "“酒神与日神”的要害是给**艺术的两种根**命名：一种把人推向形象的清明（日神），一种把人卷入浑然的一体（酒神）。其力量在于它能解释“为何悲剧既可怕又令人欣喜”；其困难在于二者的关系（是对立、是结合，还是酒神终究为主？）—— 尼采自己后来的表述也一再变动。",
+    "figure": "尼采",
+    "locator": "《悲剧的诞生》第1—4节"
+   },
+   "sources": [
+    "sep-nietzsche",
+    "sep-schopenhauer",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“酒神／日神”的原文（《悲剧的诞生》第1—4节）须核 KSA 版；其与叔本华“意志／表象”的对应关系亦须分辨。"
   }
  ],
  "debates": [

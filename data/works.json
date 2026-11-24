@@ -3790,8 +3790,7 @@
    ],
    "related_people": [
     "gr-hellenistic-epicurus",
-    "gr-hellenistic-lucretius",
-    "gr-hellenistic-atoms-void"
+    "gr-hellenistic-lucretius"
    ],
    "misreadings": [
     {
@@ -11610,7 +11609,7 @@
    "related_people": [
     "cn-suitang-jizang",
     "cn-weijin-sengzhao",
-    "cn-nanbei-foxing"
+    "cn-nanbei-zhendi"
    ],
    "misreadings": [
     {
@@ -12582,7 +12581,7 @@
    "related_people": [
     "cn-suitang-xuanzang",
     "cn-suitang-zhiyi",
-    "cn-nanbei-foxing"
+    "cn-nanbei-zhendi"
    ],
    "misreadings": [
     {
@@ -27647,6 +27646,63 @@
    "sort_year": 1848
   },
   {
+   "id": "work-parerga-supplementa",
+   "title": "《附录与补遗》",
+   "title_original": "Parerga und Paralipomena",
+   "tradition": "west",
+   "date_display": "1851（叔本华）",
+   "structure": "两卷：短论与格言（含《论人生的智慧》《论伦理学的两个基本问题》的补充、《论大学的哲学》等）。",
+   "core_arguments": [
+    "以“人生的智慧”论处世的技艺（非道德的学说，而是实践的劝告）",
+    "以“意欲”为一切苦的根：故其处世之方在减少意欲的纠缠",
+    "以格言体行哲学：其文风平易而多讥刺"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一《论人生的智慧》",
+     "point": "处世与幸福"
+    },
+    {
+     "locator": "卷二",
+     "point": "伦理学与美学补论"
+    },
+    {
+     "locator": "《论大学哲学》",
+     "point": "对学院的讥刺"
+    },
+    {
+     "locator": "全书",
+     "point": "格言体"
+    }
+   ],
+   "editions": [
+    "德文 Haffmans 版；英译（Parerga and Paralipomena, Cambridge）；中译参《附录与补遗》（节译，版次待核）"
+   ],
+   "related_people": [
+    "gr-19c-schopenhauer",
+    "gr-19c-nietzsche",
+    "gr-hellenistic-epicurus"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“通俗哲学”",
+     "why": "其书通俗易读，然其根在其形而上学的**意志说**（此书为“补遗”，非独立体系）；故不可与其体系割裂而读。"
+    },
+    {
+     "claim": "其“人生智慧”是享乐主义",
+     "why": "其目标是**减少痛苦**（而非增加快乐），故其说更近于“消极的幸福论”（与伊壁鸠鲁同调）。"
+    }
+   ],
+   "sources": [
+    "sep-schopenhauer",
+    "sep-nietzsche",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《附录与补遗》两卷的篇目与 1851 年初版须核 Haffmans 版；“人生智慧”与意志说的关系亦须分辨。",
+   "sort_year": 1851
+  },
+  {
    "id": "work-walden",
    "title": "《瓦尔登湖》",
    "title_original": "Walden; or, Life in the Woods",
@@ -28152,6 +28208,63 @@
    "sort_year": 1870
   },
   {
+   "id": "work-geburt-tragoedie",
+   "title": "《悲剧的诞生》",
+   "title_original": "Die Geburt der Tragödie aus dem Geiste der Musik",
+   "tradition": "west",
+   "date_display": "1872（尼采）",
+   "structure": "一部（二十五节，附《自我批判的尝试》）：以**日神**与**酒神**两种冲动论希腊悲剧的起源。",
+   "core_arguments": [
+    "日神（梦的形象）与酒神（醉的浑然）是两种艺术冲动",
+    "悲剧生于二者的结合：酒神的合唱由日神的形象而显现",
+    "苏格拉底式的理性主义杀死了悲剧（故其书是对“理论人”的批判）"
+   ],
+   "key_points": [
+    {
+     "locator": "第1—4节",
+     "point": "日神与酒神"
+    },
+    {
+     "locator": "第7—10节",
+     "point": "悲剧的生成"
+    },
+    {
+     "locator": "第14—15节",
+     "point": "苏格拉底主义"
+    },
+    {
+     "locator": "第24—25节",
+     "point": "再生之望"
+    }
+   ],
+   "editions": [
+    "德文 KSA 版；英译（The Birth of Tragedy, Cambridge）；中译参《悲剧的诞生》（周国平译）"
+   ],
+   "related_people": [
+    "gr-19c-nietzsche",
+    "gr-19c-schopenhauer",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“古典学著作”",
+     "why": "其书以古典学为材料而行**哲学的批判**（对理性主义与近代文化的诊断），故当时遭古典学界抨击；其为哲学之书。"
+    },
+    {
+     "claim": "其“酒神”是纵欲的辩护",
+     "why": "其“酒神”是**形而上学的浑然**（个体化原理的破毁而回归太一），故其说有严格的哲学内涵，非纵欲之说。"
+    }
+   ],
+   "sources": [
+    "sep-nietzsche",
+    "sep-schopenhauer",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《悲剧的诞生》的节数与 1872 年初版须核 KSA 版；“日神／酒神”的德文原文（apollinisch／dionysisch）与此译亦须核。",
+   "sort_year": 1872
+  },
+  {
    "id": "work-dialectics-nature",
    "title": "《自然辩证法》",
    "title_original": "Dialektik der Natur",
@@ -28258,6 +28371,63 @@
    "needs_verification": true,
    "pending_notes": "“辩证法三规律”的概括出自恩格斯而非马克思，学界对二人辩证法的一致性有长期讨论；本书由恩格斯独立写成，马克思仅审阅部分手稿。",
    "sort_year": 1878
+  },
+  {
+   "id": "work-froehliche-wissenschaft",
+   "title": "《快乐的科学》",
+   "title_original": "Die fröhliche Wissenschaft",
+   "tradition": "west",
+   "date_display": "1882（尼采；1887 增订）",
+   "structure": "五卷（含《序曲》与《附录》）：以格言体论知识的快乐、上帝之死、艺术与认识。",
+   "core_arguments": [
+    "“上帝死了”：最高价值的自行贬黜（并非无神论的宣言，而是诊断）",
+    "“永恒轮回”首次出现（第341节“最重的重负”）",
+    "以“快乐的科学”对抗沉重的真理：认识亦可为欢愉"
+   ],
+   "key_points": [
+    {
+     "locator": "第三卷 §125",
+     "point": "疯子与上帝之死"
+    },
+    {
+     "locator": "第四卷 §341",
+     "point": "永恒轮回"
+    },
+    {
+     "locator": "第五卷",
+     "point": "我们无畏者"
+    },
+    {
+     "locator": "全书",
+     "point": "格言体的哲学"
+    }
+   ],
+   "editions": [
+    "德文 KSA 版；英译（The Gay Science, Cambridge）；中译参《快乐的科学》（黄明嘉译）"
+   ],
+   "related_people": [
+    "gr-19c-nietzsche",
+    "gr-19c-schopenhauer",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "“上帝死了”是胜利的宣告",
+     "why": "其段落的主角是**疯子**，而听众是嘲笑的众人；故其为**诊断与哀悼**（价值崩塌后的虚无），非胜利的宣告。"
+    },
+    {
+     "claim": "“永恒轮回”是一个宇宙论学说",
+     "why": "其首次出现于“最重的重负”一节，是**生存的试金石**（你能否愿意一切重来）；故其义在伦理与生存，非物理学。"
+    }
+   ],
+   "sources": [
+    "sep-nietzsche",
+    "sep-kant",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《快乐的科学》的五卷与 §125、§341 的原文须核 KSA 版；“上帝死了”与“永恒轮回”的释义亦须分辨。",
+   "sort_year": 1882
   },
   {
    "id": "work-zarathustra",
@@ -30284,8 +30454,7 @@
    ],
    "related_people": [
     "gr-20c-merleau-ponty",
-    "gr-20c-husserl",
-    "gr-contemp-fuqiang-yishi"
+    "gr-20c-husserl"
    ],
    "misreadings": [
     {

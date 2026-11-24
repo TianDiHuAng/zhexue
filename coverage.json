@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1600,
+  "entries": 1605,
   "by_level": {
    "L2": 780,
-   "L1": 820
+   "L1": 825
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 820,
+  "needs_verification": 825,
   "sources": 419,
   "sources_verified": 419
  },
@@ -84,7 +84,7 @@
    "title": "19世纪哲学",
    "region": "west",
    "philosophers": 18,
-   "concepts": 23,
+   "concepts": 24,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -5030,6 +5030,17 @@
    "id": "gr-19c-harm-principle",
    "type": "concept",
    "title": "伤害原则",
+   "container": "gr-19c",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-19c-apollo-dionysus",
+   "type": "concept",
+   "title": "酒神与日神",
    "container": "gr-19c",
    "level": "L1",
    "sources": 3,
@@ -14927,6 +14938,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-parerga-supplementa",
+   "type": "work",
+   "title": "《附录与补遗》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-walden",
    "type": "work",
    "title": "《瓦尔登湖》",
@@ -15026,6 +15048,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-geburt-tragoedie",
+   "type": "work",
+   "title": "《悲剧的诞生》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-dialectics-nature",
    "type": "work",
    "title": "《自然辩证法》",
@@ -15044,6 +15077,17 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-froehliche-wissenschaft",
+   "type": "work",
+   "title": "《快乐的科学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -17273,6 +17317,17 @@
    "id": "cmp-jueduimingling",
    "type": "comparative",
    "title": "“绝对命令”与“己欲立而立人”：道德的根据在哪里？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-jiushen",
+   "type": "comparative",
+   "title": "“酒神与日神”与“乘物以游心”：醉与游，孰为至境？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

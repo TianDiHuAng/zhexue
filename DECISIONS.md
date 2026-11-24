@@ -317,3 +317,12 @@ D60 的四次拦截（俱舍论、梅洛-庞蒂、赫尔德、自然的分类）
 第237轮把它落成 tools/dupcheck.py，检查五类重复：id、人物中文重名、人物拉丁名重复、著作/比较篇标题重复、概念术语重复。
 治的正是"同一人／同一书的第二个 id 或第二个译名"——这类错误查标题抓不到，只能全库交叉比对。
 用法：python tools/dupcheck.py（有重复则退出码 1）；今后并入每轮体检清单。
+
+## D62 引用有效性检查器：tools/refcheck.py
+Dupcheck 管"有没有重复"，管不了"引用是否有效"。第242轮建立 refcheck.py：
+检查 related_people / influenced / influenced_by / usages[].id / related / sources 中的每个 id，
+是否落在全库已有的 id 上（跨单元亦须存在）。
+首次运行即抓到 4 处潜伏错误——把**概念 id 当人物 id** 用在 works.json 的 related_people 里
+（gr-hellenistic-atoms-void、cn-nanbei-foxing×2、gr-contemp-fuqiang-yishi）。
+这类错误不违反任何单条规则，页面也正常生成，只有全库交叉比对才现形。已全部修正。
+下一步：把 refcheck.py 并入 CI（与 dupcheck 并列）。
