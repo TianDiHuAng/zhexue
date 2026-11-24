@@ -9599,6 +9599,29 @@
     "title_seen": "Meaning without risk: Nietzsche, artificial intelligence, an"
    },
    "n": 418
+  },
+  {
+   "id": "sep-aesthetics-18th-german",
+   "title": "18th Century German Aesthetics（SEP 词条）",
+   "author": "Guyer, Paul / Hamm, Christian",
+   "year": 2007,
+   "year_note": "首版 2007，最新实质修订 2026 见页面",
+   "publisher": "Stanford Encyclopedia of Philosophy（斯坦福大学）",
+   "type": "百科",
+   "url": "https://plato.stanford.edu/entries/aesthetics-18th-german/",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "同行评审的学术百科；本库美学（温克尔曼、莱辛、康德前史）条目的主要依据",
+   "unit_hint": "",
+   "verify": {
+    "method": "http-page+citation_meta",
+    "http_status": 200,
+    "checked_at": "2026-11-24",
+    "keyword": "Stanford Encyclopedia",
+    "keyword_seen": true
+   },
+   "n": 419
   }
  ]
 }

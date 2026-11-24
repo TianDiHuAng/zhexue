@@ -1761,6 +1761,155 @@
      "note": "1759 年"
     }
    ]
+  },
+  {
+   "id": "gr-german-winckelmann",
+   "name": "温克尔曼",
+   "latin": "Johann Joachim Winckelmann",
+   "birth_year": 1717,
+   "death_year": 1768,
+   "birth_display": "1717年",
+   "death_display": "1768年",
+   "birth_note": "据通行传记：生于普鲁士施滕达尔，鞋匠之子；研神学与古典语文，曾任图书馆员与古物专员，后赴罗马、任梵蒂冈古物总监；1768年在的里雅斯特遇刺身亡。",
+   "death_note": "1768年被刺身亡于的里雅斯特。",
+   "era": "德国古典学的奠基者。温克尔曼以“**高贵的单纯与静穆的伟大**”一语立希腊艺术的规范，又以《古代艺术史》把艺术置于**历史与社会条件**中考察（艺术之盛系于自由）。故其位置是：美学从“鉴赏的规则”转为**艺术的历史** —— 其后的莱辛、赫尔德、黑格尔皆由此出发。",
+   "school": "德国古典学与艺术史（新古典主义）",
+   "core_questions": [
+    "艺术的最高典范何在？",
+    "艺术何以有兴衰？",
+    "鉴赏可教吗？"
+   ],
+   "arguments": [
+    {
+     "claim": "希腊艺术的极致是“高贵的单纯与静穆的伟大”",
+     "premises": [
+      "希腊雕刻在极度的痛苦中（如拉奥孔）仍保持形体的静。",
+      "而静中之深，比外露的表情更动人。"
+     ],
+     "inference": "若静穆高于表情，则艺术的规范不在强烈的情感表现，而在**形体与情感的统一**；故其说以静穆为审美的标准。",
+     "conclusion": "静穆的伟大（此说为新古典主义的纲领）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "艺术的兴衰系于社会条件",
+     "premises": [
+      "艺术有其起源、成熟与衰落。",
+      "而其盛衰与气候、政制、习俗相关。"
+     ],
+     "inference": "若艺术系于社会条件，则艺术史须以**历史**的方法研究，而非仅品评作品；故其书为“艺术史”的奠基。",
+     "conclusion": "艺术史的方法（此说使艺术研究成为历史学科）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《希腊美术的模仿论》",
+     "edition": "德文 Reclam 版（中译参《论希腊艺术》）",
+     "note": "1755"
+    },
+    {
+     "title": "《古代艺术史》",
+     "edition": "英译 Getty 版／德文 Reclam 版",
+     "note": "1764"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "柏拉图（其资源）",
+     "id": null,
+     "note": "“美的理念”为其静穆之说的远源"
+    },
+    {
+     "name": "柏克（其同代）",
+     "id": null,
+     "note": "同论崇高与美，而其说相反（柏克重情感之激荡）"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "莱辛（其论敌）",
+     "id": "gr-german-lessing",
+     "note": "《拉奥孔》即针对其“静穆”说而发"
+    },
+    {
+     "name": "赫尔德与歌德",
+     "id": null,
+     "note": "二人皆受其古典理想之影响"
+    },
+    {
+     "name": "黑格尔的艺术史哲学",
+     "id": null,
+     "note": "以艺术为“精神”的显现，承其历史的进路"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "莱辛（《拉奥孔》）",
+     "view": "以“静穆”为标准，则混同了诗与画：诗的优势正在于**表现过程与激情**，以画的标准要求诗则诗亡。",
+     "response": "温克尔曼一系的回应是：其“静穆”是**造型艺术**的规范（非一切艺术的规范）；故其说与诗无涉，二人的分歧实为媒介之别。",
+     "kind": "原文",
+     "sources": [
+      "sep-aesthetics-18th-german",
+      "sep-burke"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“高贵的单纯与静穆的伟大”是风格描述",
+     "why": "它是一个**规范性的命题**（静穆高于表情），故其说是审美的标准。"
+    },
+    {
+     "claim": "其“模仿希腊”是复古",
+     "why": "其意在**学其精神**（静穆与单纯），非摹其形。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>温克尔曼：静穆与艺术史</text><defs><marker id='aWK' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>希腊雕刻在痛苦中仍静</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而静中之深更动人</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故静穆为审美的标准</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>而艺术之盛衰系于社会条件</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aWK)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aWK)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "温克尔曼：“静穆的伟大”与艺术史的方法（示意图）",
+   "sources": [
+    "sep-aesthetics-18th-german",
+    "sep-burke",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "温克尔曼无 SEP 专条（其论见 SEP“18世纪德国美学”词条第4.2节，已核）；本页依该词条、《希腊美术的模仿论》与《古代艺术史》（Getty 英译本），**属语境性引用而非专门研究**。其生卒（1717—1768）与遇刺之事须核。",
+   "doctrine": {
+    "summary": "温克尔曼以“高贵的单纯与静穆的伟大”立希腊艺术的规范，又以《古代艺术史》把艺术置于历史与社会条件中考察（艺术之盛系于自由）。故其位置是美学从“鉴赏的规则”转为艺术的历史——其后的莱辛、赫尔德、黑格尔皆由此出发。",
+    "system": [
+     {
+      "name": "高贵的单纯与静穆的伟大",
+      "content": "静穆高于表情，故形体与情感的统一为审美的标准。"
+     },
+     {
+      "name": "艺术史的方法",
+      "content": "艺术有起源、成熟与衰落，故须以历史方法研究。"
+     },
+     {
+      "name": "自由与艺术",
+      "content": "希腊艺术之盛系于其自由的社会条件；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "风格分期",
+      "content": "以古风、崇高、优美、模仿、衰落分期，为风格史之始。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "施滕达尔与罗马（1717—1768）",
+      "change": "生于鞋匠之家；研神学与古典语文；任图书馆员与古物专员；1755 年《希腊美术的模仿论》；1764 年《古代艺术史》；赴罗马任梵蒂冈古物总监；1768 年遇刺身亡。"
+     }
+    ],
+    "reception": "其“静穆”说成为新古典主义的纲领，经歌德与席勒而下及德国的古典理想；其《古代艺术史》则使艺术研究成为历史学科，为赫尔德与黑格尔的艺术史哲学开路。"
+   },
+   "works_detail": [
+    {
+     "title": "《古代艺术史》",
+     "structure": "以埃及至罗马为序，论各民族艺术的起源、发展、衰落及其与社会条件的关系。",
+     "core_thesis": "艺术有其历史，其盛衰系于自由与社会条件。",
+     "editions": "英译 Getty 版",
+     "note": "1764 年"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -2594,6 +2743,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“崇高”的两分（数学的／力学的）与§23—29的论证须核《判断力批判》；其与柏克《论崇高与美》的关系亦须分辨。"
+  },
+  {
+   "id": "gr-german-edle-einfalt",
+   "term": "高贵的单纯与静穆的伟大",
+   "term_latin": "noble simplicity and quiet grandeur",
+   "definition": "温克尔曼论希腊艺术的著名断语（edle Einfalt und stille Größe）：希腊雕刻在最强烈的痛苦中仍保持形体的静定，故其美不在表情的激越，而在**形体与情感的统一**。此语成为新古典主义的纲领，也招致莱辛的反驳（诗与画的媒介不同）。",
+   "usages": [
+    {
+     "name": "温克尔曼（其立）",
+     "id": "gr-german-winckelmann",
+     "usage": "以拉奥孔为例立此断语；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "莱辛（其反驳）",
+     "id": "gr-german-lessing",
+     "usage": "以诗画界限反驳“以静穆绳诗”。"
+    },
+    {
+     "name": "歌德（其承）",
+     "usage": "以之为古典理想的表述；这一用法须与相邻概念分辨。"
+    }
+   ],
+   "related": [
+    "gr-german-erhabene"
+   ],
+   "example": {
+    "text": "“高贵的单纯与静穆的伟大”的要害是把**克制**当作力量的证明：不是没有痛苦，而是痛苦不外露 —— 故其伟大在“容得下”。这一命题的力量在于它给“古典”下了可感的定义；其危险是它可能把一切强烈的情感判为“低级”，从而使艺术失去冲突的维度（莱辛与后世的批评即在此）。",
+    "figure": "温克尔曼",
+    "locator": "《希腊美术的模仿论》"
+   },
+   "sources": [
+    "sep-aesthetics-18th-german",
+    "sep-burke",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "该断语的德文原文与语境（《希腊美术的模仿论》论拉奥孔一节）须核 Reclam 版；其中译有“高贵的单纯与静穆的伟大”“崇高的单纯与静穆的壮丽”等异译。"
   }
  ],
  "debates": [

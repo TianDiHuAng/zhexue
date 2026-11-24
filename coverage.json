@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1539,
+  "entries": 1545,
   "by_level": {
    "L2": 781,
-   "L1": 758
+   "L1": 764
   },
   "doctrine": {
-   "total": 307,
-   "detail": 307,
+   "total": 308,
+   "detail": 308,
    "auto": 0
   },
-  "needs_verification": 758,
-  "sources": 418,
-  "sources_verified": 418
+  "needs_verification": 764,
+  "sources": 419,
+  "sources_verified": 419
  },
  "units": [
   {
@@ -119,10 +119,10 @@
    "unit_id": "gr-german",
    "title": "德国古典哲学",
    "region": "west",
-   "philosophers": 11,
-   "concepts": 23,
+   "philosophers": 12,
+   "concepts": 24,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -3"
+   "philosophers_slot": "8 上限，余 -4"
   },
   {
    "unit_id": "gr-hellenistic",
@@ -7161,6 +7161,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-german-winckelmann",
+   "type": "philosopher",
+   "title": "温克尔曼",
+   "container": "gr-german",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-german-transcendental",
    "type": "concept",
    "title": "先验",
@@ -7406,6 +7417,17 @@
    "id": "gr-german-erhabene",
    "type": "concept",
    "title": "崇高",
+   "container": "gr-german",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-german-edle-einfalt",
+   "type": "concept",
+   "title": "高贵的单纯与静穆的伟大",
    "container": "gr-german",
    "level": "L1",
    "sources": 3,
@@ -13662,6 +13684,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-gedanken-nachahmung",
+   "type": "work",
+   "title": "《希腊美术的模仿论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-theory-moral-sentiments",
    "type": "work",
    "title": "《道德情操论》",
@@ -13725,6 +13758,28 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-winckelmann-kleine-schriften",
+   "type": "work",
+   "title": "《未刊稿短论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-geschichte-der-kunst",
+   "type": "work",
+   "title": "《古代艺术史》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -16602,6 +16657,17 @@
    "id": "cmp-shihuajingjie",
    "type": "comparative",
    "title": "“诗画界限”与“诗中有画”：两种艺术分工",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-jingmu",
+   "type": "comparative",
+   "title": "“静穆的伟大”与“平淡”：克制是力量还是无力？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

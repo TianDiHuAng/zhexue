@@ -21857,6 +21857,63 @@
    "sort_year": 1755
   },
   {
+   "id": "work-gedanken-nachahmung",
+   "title": "《希腊美术的模仿论》",
+   "title_original": "Gedanken über die Nachahmung der griechischen Werke",
+   "tradition": "west",
+   "date_display": "1755（温克尔曼）",
+   "structure": "一篇论文（不分卷）：论何以须模仿希腊，并提出“高贵的单纯与静穆的伟大”一语。",
+   "core_arguments": [
+    "希腊艺术之优在“ noble simplicity and quiet grandeur ”：形体之静与情感之深",
+    "故今人学艺之道在**模仿希腊**（非模仿自然）",
+    "“静穆”高于“表情”：拉奥孔的痛苦不外露，故更伟大"
+   ],
+   "key_points": [
+    {
+     "locator": "篇首",
+     "point": "何以须学希腊"
+    },
+    {
+     "locator": "论拉奥孔",
+     "point": "静穆的伟大"
+    },
+    {
+     "locator": "论色彩",
+     "point": "形体先于色彩"
+    },
+    {
+     "locator": "结论",
+     "point": "模仿的路径"
+    }
+   ],
+   "editions": [
+    "德文 Reclam 版；英译（Reflections on the Imitation of Greek Works）；中译参《论希腊艺术》（诸译本，版次待核）"
+   ],
+   "related_people": [
+    "gr-german-winckelmann",
+    "gr-german-lessing",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "“高贵的单纯与静穆的伟大”是风格描述",
+     "why": "它是一个**规范性的命题**：静穆高于表情，故其说是审美的标准，不只是描述。"
+    },
+    {
+     "claim": "其“模仿希腊”是复古",
+     "why": "其意在**学其精神**（静穆与单纯），非摹其形；且其本人以“模仿自然”与“模仿希腊”并提，故非简单复古。"
+    }
+   ],
+   "sources": [
+    "sep-aesthetics-18th-german",
+    "sep-burke",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《希腊美术的模仿论》的原文与“高贵的单纯与静穆的伟大”一语须核 Reclam 版；其中译情况亦须核。",
+   "sort_year": 1755
+  },
+  {
    "id": "work-theory-moral-sentiments",
    "title": "《道德情操论》",
    "title_original": "The Theory of Moral Sentiments",
@@ -22196,6 +22253,120 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1762
+  },
+  {
+   "id": "work-winckelmann-kleine-schriften",
+   "title": "《未刊稿短论》",
+   "title_original": "Kleine Schriften（遗稿与短论）",
+   "tradition": "west",
+   "date_display": "1760年代（温克尔曼；身后辑刊）",
+   "structure": "诸篇短论与书信（后人辑为《短著集》）：含论希腊雕刻的发现、论寓意、论鉴赏，以及关于拉奥孔与赫库兰尼姆发现的报道。",
+   "core_arguments": [
+    "以“直观”为鉴赏的根据：须亲见原作而后能判断",
+    "论“寓意”（Allegorie）：造型艺术的意味须不假文字",
+    "以考古的发现校文献：其工作在艺术史与考古之间"
+   ],
+   "key_points": [
+    {
+     "locator": "论赫库兰尼姆",
+     "point": "新发现的意义"
+    },
+    {
+     "locator": "论寓意",
+     "point": "图像与意义"
+    },
+    {
+     "locator": "论鉴赏",
+     "point": "直观的判断"
+    },
+    {
+     "locator": "书信",
+     "point": "其方法的自述"
+    }
+   ],
+   "editions": [
+    "德文 Reclam 版；英译（Writings on Art, Getty）"
+   ],
+   "related_people": [
+    "gr-german-winckelmann",
+    "gr-german-lessing",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "这些是“零散札记”",
+     "why": "其短论有**方法的一致性**（直观、考古与历史并举），并多与《古代艺术史》互补；故其为研究的组成部分。"
+    },
+    {
+     "claim": "其考古报道只是“见闻”",
+     "why": "其对赫库兰尼姆发现的报道，为当时的古典学提供了**新证据**，并推动了艺术史与考古的结合。"
+    }
+   ],
+   "sources": [
+    "sep-aesthetics-18th-german",
+    "sep-burke",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《短著集》的辑刊与篇目须核 Reclam／Getty 版；其论寓意的原文亦须核。",
+   "sort_year": 1762
+  },
+  {
+   "id": "work-geschichte-der-kunst",
+   "title": "《古代艺术史》",
+   "title_original": "Geschichte der Kunst des Alterthums",
+   "tradition": "west",
+   "date_display": "1764（温克尔曼）",
+   "structure": "一部（不分卷，分章）：以埃及、腓尼基、波斯、希腊、伊特鲁里亚、罗马为序，论各民族艺术的起源、发展、衰落与其**气候、政制、习俗**的关系。",
+   "core_arguments": [
+    "艺术有其**历史**：起源—成熟—衰落，如有机体",
+    "艺术的兴衰系于**自由**与整体的社会条件（故希腊之盛在自由）",
+    "以“风格”（Stil）分期：古风、崇高、优美、模仿、衰落"
+   ],
+   "key_points": [
+    {
+     "locator": "论埃及与东方",
+     "point": "艺术的起源"
+    },
+    {
+     "locator": "论希腊",
+     "point": "自由与艺术之盛"
+    },
+    {
+     "locator": "论风格",
+     "point": "四期的划分"
+    },
+    {
+     "locator": "论衰落",
+     "point": "罗马与衰落之因"
+    }
+   ],
+   "editions": [
+    "德文 Reclam／Insel 版；英译（History of the Art of Antiquity, Getty）；中译参《古代艺术史》（节译本，版次待核）"
+   ],
+   "related_people": [
+    "gr-german-winckelmann",
+    "gr-german-hegel",
+    "gr-german-lessing"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“艺术品的目录”",
+     "why": "其书以**历史分期与社会条件**为纲（艺术何以兴、何以衰），故其为“艺术史”的奠基之作，非著录。"
+    },
+    {
+     "claim": "其“自由”之说只是政论",
+     "why": "其说把艺术的高下系于社会条件，为后世艺术社会学与黑格尔的艺术史哲学开路；故其为**理论**的论断。"
+    }
+   ],
+   "sources": [
+    "sep-aesthetics-18th-german",
+    "sep-herder",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《古代艺术史》的章节与“四期”的划分须核 Getty 英译本；其与赫尔德、黑格尔艺术史观的关系亦须分辨。",
+   "sort_year": 1764
   },
   {
    "id": "work-mengzi-sishu-lu",
