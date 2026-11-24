@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1302,
+  "entries": 1305,
   "by_level": {
    "L2": 779,
-   "L1": 523
+   "L1": 526
   },
   "doctrine": {
    "total": 270,
    "detail": 270,
    "auto": 0
   },
-  "needs_verification": 523,
+  "needs_verification": 526,
   "sources": 410,
   "sources_verified": 410
  },
@@ -11275,6 +11275,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-de-veritate-fidei",
+   "type": "work",
+   "title": "《论公教信仰的真理》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-summa",
    "type": "work",
    "title": "《神学大全》",
@@ -11289,6 +11300,17 @@
    "id": "work-summa-contra-gentiles",
    "type": "work",
    "title": "《反异教大全》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-opus-maius",
+   "type": "work",
+   "title": "《大著作》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -13995,6 +14017,17 @@
    "id": "cmp-gonggong",
    "type": "comparative",
    "title": "公共理性与“天下有道”：罗尔斯与儒家的公共论证",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-xinyangqiuli",
+   "type": "comparative",
+   "title": "信仰寻求理解与“下学上达”：安瑟伦与儒家的两条上升路",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
