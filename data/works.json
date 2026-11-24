@@ -20563,6 +20563,63 @@
    "sort_year": 1620
   },
   {
+   "id": "work-de-jure-belli-ac-pacis",
+   "title": "《战争与和平法》",
+   "title_original": "De jure belli ac pacis",
+   "tradition": "west",
+   "date_display": "1625（格劳秀斯）",
+   "structure": "三卷：论权利与正义的一般原理、论战争的原因与正当性、论战时与战后的权利。",
+   "core_arguments": [
+    "**自然法**独立于神意：其效力“纵使上帝不存在”（etiamsi daremus non esse Deum）亦不稍减",
+    "以“**社会性**”（appetitus societatis）为自然法之根：人自然地欲求有序的共同生活",
+    "战争有**正义之因**（自卫、复归其所有、惩罚），故战争亦受法之约束"
+   ],
+   "key_points": [
+    {
+     "locator": "绪论",
+     "point": "法与战争"
+    },
+    {
+     "locator": "卷一",
+     "point": "权利与正义"
+    },
+    {
+     "locator": "卷二",
+     "point": "战争的正当原因"
+    },
+    {
+     "locator": "卷三",
+     "point": "战时的权利与节制"
+    }
+   ],
+   "editions": [
+    "拉丁文本（De jure belli ac pacis, Leiden）；英译（The Rights of War and Peace, Liberty Fund）；中译参《战争与和平法》（何勤华等译）"
+   ],
+   "related_people": [
+    "gr-modern-grotius",
+    "gr-modern-hobbes",
+    "gr-modern-suarez"
+   ],
+   "misreadings": [
+    {
+     "claim": "其自然法是“神学的命令”",
+     "why": "其关键恰是**自然法不依赖于神意**（那一句“纵使上帝不存在”）：故其说为近代自然法的世俗化奠基。"
+    },
+    {
+     "claim": "其书是为战争辩护",
+     "why": "其书以“**法**”约束战争（正当原因、战时的节制、战后的复归）；故其旨是**限制**战争，非辩护。"
+    }
+   ],
+   "sources": [
+    "sep-grotius",
+    "sep-hobbes",
+    "sep-suarez"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《战争与和平法》的三卷与 1625 年初版须核 Leiden 版与 Liberty Fund 英译本；“etiamsi daremus”一语的原文位置亦须核。",
+   "sort_year": 1625
+  },
+  {
    "id": "work-new-atlantis",
    "title": "《新大西岛》",
    "title_original": "New Atlantis",
@@ -22033,6 +22090,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1670
+  },
+  {
+   "id": "work-recherche-verite",
+   "title": "《真理的探求》",
+   "title_original": "De la recherche de la vérité",
+   "tradition": "west",
+   "date_display": "1674—1675（马勒伯朗士）",
+   "structure": "六卷（分三册）：论感官、想象、知性、倾向、情欲与方法的错误之源。",
+   "core_arguments": [
+    "错误之源在感官、想象与情欲；故须以**方法**校正",
+    "“**在上帝中见一切**”（vision en Dieu）：我们所见之理，非受造的观念，而是上帝之中的理",
+    "“**偶因论**”（occasionalism）：身心之交与物之动，皆以神的意志为唯一的真因"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—三",
+     "point": "感官与想象的错误"
+    },
+    {
+     "locator": "卷四—五",
+     "point": "倾向与情欲"
+    },
+    {
+     "locator": "卷六",
+     "point": "方法"
+    },
+    {
+     "locator": "全书",
+     "point": "在上帝中见一切"
+    }
+   ],
+   "editions": [
+    "法文 Robinet 版（Vrin）；英译（The Search after Truth, Cambridge）；中译参《真理的探求》（节译，版次待核）"
+   ],
+   "related_people": [
+    "gr-modern-malebranche",
+    "gr-modern-descartes",
+    "gr-modern-spinoza"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“在上帝中见一切”是泛神论",
+     "why": "其说以**受造物与上帝的无限区别**为前提（受造的观念不足以为知），故其不是万物即神；但此说与斯宾诺莎的接近处曾引起争论，须分辨。"
+    },
+    {
+     "claim": "其“偶因论”是否认因果",
+     "why": "其意是：受造物只有**偶因**（occasion），真因是神的意志；故其说不否认因果，而是重新安置因果的所在。"
+    }
+   ],
+   "sources": [
+    "sep-malebranche",
+    "sep-descartes",
+    "sep-locke"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《真理的探求》六卷的结构与 1674—1675 年初版须核 Vrin 版与剑桥英译本；“在上帝中见一切”“偶因论”的原文亦须核。中译多为节译。",
+   "sort_year": 1674
   },
   {
    "id": "work-mingru-xuean",
@@ -24192,6 +24306,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《英国史》的六卷与成书（1754—1761）须核 Liberty Fund 版；“意见为治国根基”的表述与其政治 essays 的关系亦须核。",
+   "sort_year": 1754
+  },
+  {
+   "id": "work-traite-sensations",
+   "title": "《感觉论》",
+   "title_original": "Traité des sensations",
+   "tradition": "west",
+   "date_display": "1754（孔狄亚克）",
+   "structure": "四部（含绪论与“回忆录”）：以一座逐渐获得各感官的雕像为喻，论感觉如何生成一切心灵的能力。",
+   "core_arguments": [
+    "以“**雕像**”为喻：依次赋予嗅觉、听觉、视觉、味觉、触觉",
+    "一切心灵能力（注意、记忆、比较、判断、欲求）皆由**感觉**转化而来",
+    "触觉为“**外物存在**”之信的唯一教师（其余感官只给主观状态）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "单感官的雕像"
+    },
+    {
+     "locator": "第二部",
+     "point": "欲望与意志"
+    },
+    {
+     "locator": "第三部",
+     "point": "外物的判断"
+    },
+    {
+     "locator": "第四部",
+     "point": "触觉与外界"
+    }
+   ],
+   "editions": [
+    "法文（Vrin 版）；英译（Treatise on Sensations, 少见）；中译参《感觉论》（版次待核）"
+   ],
+   "related_people": [
+    "gr-modern-condillac",
+    "gr-modern-locke",
+    "gr-modern-berkeley"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“洛克的通俗化”",
+     "why": "其书以**雕像的构造**为方法（发生学的分析），并主张感觉转化为一切能力；故其有独立的方法与结论，非简单通俗化。"
+    },
+    {
+     "claim": "其“感觉论”否认外物",
+     "why": "其说以**触觉**为外物存在的教师，故不否认外物，而是把“外物之信”安置在触觉的经验上。"
+    }
+   ],
+   "sources": [
+    "sep-condillac",
+    "sep-locke",
+    "sep-descartes"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《感觉论》四部的结构与 1754 年初版须核 Vrin 版；“雕像”之喻与触觉之说亦须核。中译待核。",
    "sort_year": 1754
   },
   {

@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1654,
+  "entries": 1658,
   "by_level": {
    "L2": 779,
-   "L1": 875
+   "L1": 879
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 875,
+  "needs_verification": 879,
   "sources": 420,
   "sources_verified": 420
  },
@@ -13563,6 +13563,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-de-jure-belli-ac-pacis",
+   "type": "work",
+   "title": "《战争与和平法》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-new-atlantis",
    "type": "work",
    "title": "《新大西岛》",
@@ -13846,6 +13857,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-recherche-verite",
+   "type": "work",
+   "title": "《真理的探求》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -14259,6 +14281,17 @@
    "id": "work-history-england-hume",
    "type": "work",
    "title": "《英国史》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-traite-sensations",
+   "type": "work",
+   "title": "《感觉论》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -17867,6 +17900,17 @@
    "id": "cmp-shixi",
    "type": "comparative",
    "title": "“师夷长技”与“知之為知之”：承认不如人，是何种德性？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-ziranfa",
+   "type": "comparative",
+   "title": "“纵使上帝不存在”与“天行有常”：法的根据能不靠神吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
