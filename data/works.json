@@ -14874,6 +14874,63 @@
    "sort_year": 1124
   },
   {
+   "id": "work-theologia-scholastica",
+   "title": "《神学要义》",
+   "title_original": "Theologia 'Scholastica'（神学要义）",
+   "tradition": "west",
+   "date_display": "约1120年代（阿伯拉尔）",
+   "structure": "三卷：以“信仰须以理据支持”为纲，论三位一体、上帝的属性与人的救赎，兼用辩证法处理神学的难题。",
+   "core_arguments": [
+    "以**辩证法**入神学：先立诸家的疑难，再以理性辨析",
+    "“先疑而后信”：怀疑是探求的起点（与安瑟尔谟的“信仰寻求理解”相承而更激进）",
+    "以“善”与“至善”论上帝：非以存在的等级论之"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "三位一体的辩证"
+    },
+    {
+     "locator": "卷二",
+     "point": "上帝的属性"
+    },
+    {
+     "locator": "卷三",
+     "point": "救赎与善"
+    },
+    {
+     "locator": "全书",
+     "point": "以疑为门"
+    }
+   ],
+   "editions": [
+    "拉丁文本（Migne, PL 178）；英译（Theologia Scholastica 节译，少见）；中译少见"
+   ],
+   "related_people": [
+    "gr-medieval-abelard",
+    "gr-medieval-anselm",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“神学的体系”",
+     "why": "其书是**以辩证法处理疑难**的尝试（屡遭谴责），并非后来经院式的严密体系；故其为“辩证神学”的早期形态。"
+    },
+    {
+     "claim": "其“先疑而后信”是怀疑主义",
+     "why": "其“疑”是**探求的方法**（quaestio），终点仍是信仰；故其为方法上的怀疑，不是立场上的怀疑。"
+    }
+   ],
+   "sources": [
+    "sep-abelard",
+    "sep-anselm",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《神学要义》的卷数与成书年代须核 Migne 版；“先疑而后信”的表述与其遭谴责的经过亦须核。中译极少，本页多为义述。",
+   "sort_year": 1125
+  },
+  {
    "id": "work-guishan-ji",
    "title": "《龟山集》",
    "title_original": "龜山集",
@@ -16685,6 +16742,63 @@
    "sort_year": 1250
   },
   {
+   "id": "work-sentences-commentary",
+   "title": "《箴言四书注》",
+   "title_original": "Scriptum super Sententiis（箴言四书注）",
+   "tradition": "west",
+   "date_display": "1252—1256（托马斯·阿奎那）",
+   "structure": "四卷：依彼得·隆巴德《箴言四书》的分章，逐条设问辨析（quaestio），为经院神学的标准体式。",
+   "core_arguments": [
+    "以“设问—正反—解答”（quaestio disputata）为体式：经院方法在此定形",
+    "以亚里士多德的四因与实体论重解神学命题",
+    "“存在”与“本质”的区分在此初具其形"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "上帝与三位一体"
+    },
+    {
+     "locator": "卷二",
+     "point": "创造与天使"
+    },
+    {
+     "locator": "卷三",
+     "point": "道成肉身与德性"
+    },
+    {
+     "locator": "卷四",
+     "point": "圣事与终末"
+    }
+   ],
+   "editions": [
+    "拉丁文本（Scriptum super libros Sententiarum, Paris）；英译选本（Thomas Aquinas: Selected Writings）"
+   ],
+   "related_people": [
+    "gr-medieval-aquinas",
+    "gr-medieval-abelard",
+    "gr-medieval-albert"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“《神学大全》的草稿”",
+     "why": "其书独立成体系（四卷设问），且《大全》的结构与体式有别；故其为阿奎那的**早期巨著**，非草稿。"
+    },
+    {
+     "claim": "经院的“设问体”是繁琐的形式",
+     "why": "其“设问—正反—解答”是**强制公平的论证程序**（须先立对方最强之说）；故其为方法，不只是形式。"
+    }
+   ],
+   "sources": [
+    "sep-aquinas",
+    "sep-abelard",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《箴言四书注》的卷数与成书（1252—1256）须核巴黎版；“设问体”的格式（正反与解答）亦须核。",
+   "sort_year": 1252
+  },
+  {
    "id": "work-de-ente-et-essentia",
    "title": "《论存在与本质》",
    "title_original": "De ente et essentia",
@@ -17876,6 +17990,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《论李维》的成稿年代（约1517）与刊行（1531）须核；其与《君主论》的关系（是否矛盾）是学界长期争论，本页并述两说。",
+   "sort_year": 1517
+  },
+  {
+   "id": "work-ninety-five-theses",
+   "title": "《九十五条论纲》",
+   "title_original": "Disputatio pro declaratione virtutis indulgentiarum（九十五条论纲）",
+   "tradition": "west",
+   "date_display": "1517（马丁·路德）",
+   "structure": "九十五条论题（拉丁文）：就赎罪券的效力提出辩难，邀人公开辩论。",
+   "core_arguments": [
+    "赎罪券不能赦免罪的罪咎，只能免教会的刑罚",
+    "“因信称义”：称义出于恩典与信，非出于人的功德与购买",
+    "以“唯独圣经”与“信徒皆祭司”为纲（其后展开）"
+   ],
+   "key_points": [
+    {
+     "locator": "第1—4条",
+     "point": "悔改的意义"
+    },
+    {
+     "locator": "第20—28条",
+     "point": "赎罪券的效力"
+    },
+    {
+     "locator": "第40—52条",
+     "point": "功德与恩典"
+    },
+    {
+     "locator": "第90—95条",
+     "point": "以辩难相邀"
+    }
+   ],
+   "editions": [
+    "拉丁文本（WA 1）；英译（Luther's Works 31）；中译参《路德文集》（版次待核）"
+   ],
+   "related_people": [
+    "gr-modern-luther",
+    "gr-medieval-aquinas",
+    "gr-modern-calvin"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“抗议书”",
+     "why": "其文体是**学术辩难的论题**（disputatio），邀人辩论；其“抗议”之效是后来的事，故不可径视为抗议文书。"
+    },
+    {
+     "claim": "其主张是“不要事工”",
+     "why": "其反对者是**以购买功德为称义之途**，非反对善行；其“因信称义”之后仍须善工（其后的争论在此）。"
+    }
+   ],
+   "sources": [
+    "sep-luther",
+    "sep-aquinas",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《九十五条论纲》的条次与第20—28条的表述须核 WA 1；其与《基督教要义》之别亦须分辨。",
    "sort_year": 1517
   },
   {

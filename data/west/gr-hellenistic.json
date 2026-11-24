@@ -3079,6 +3079,41 @@
    ],
    "needs_verification": true,
    "pending_notes": "“五谓词”的希腊文与拉丁译名（genos/genera、eidos/species 等）须核；其与亚里士多德《论题篇》的“四谓词”之别亦须分辨。"
+  },
+  {
+   "id": "gr-hellenistic-ipsum-esse",
+   "term": "存在本身",
+   "term_latin": "existence itself (ipsum esse)",
+   "definition": "中世纪形而上学（尤其托马斯·阿奎那）的核心范畴：上帝不是“一个存在者”（ens），而是**存在本身**（ipsum esse）—— 故其名为“我是我所是”（Ego sum qui sum）。其要点是：在一切受造物中“本质”与“存在”实在相异（essentia 与 esse），唯在上帝中二者同一。",
+   "usages": [
+    {
+     "name": "阿奎那（其立）",
+     "usage": "以“存在本身”说上帝，并立本质与存在的实在区分。"
+    },
+    {
+     "name": "阿维森纳（其先）",
+     "usage": "以“必然／偶然”之分启其端（但在偶然者中分）。"
+    },
+    {
+     "name": "埃克哈特（其转）",
+     "usage": "以“存在”与“神性”之别推至神秘主义。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-the-one"
+   ],
+   "example": {
+    "text": "“存在本身”的要害是把**存在**与**存在者**分开：一切存在者都“有”存在，而上帝就是存在。故其说使“上帝存在的证明”变成“何以有物存在”的追问（而非“在存在者中找一个最强者”）；其危险在于它极易滑向“存在是一个属性”的误解 —— 而这正是海德格尔后来要重提“存在之遗忘”的缘由。",
+    "figure": "阿奎那",
+    "locator": "《神学大全》第一部，第三问"
+   },
+   "sources": [
+    "sep-aquinas",
+    "sep-anselm",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“存在本身”（ipsum esse）与本质／存在的实在区分须核《神学大全》I, q.3—4 与《论存在与本质》；其与阿维森纳的异同亦须分辨。"
   }
  ],
  "debates": [

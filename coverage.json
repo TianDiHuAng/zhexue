@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1570,
+  "entries": 1575,
   "by_level": {
    "L2": 780,
-   "L1": 790
+   "L1": 795
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 790,
+  "needs_verification": 795,
   "sources": 419,
   "sources_verified": 419
  },
@@ -129,7 +129,7 @@
    "title": "希腊化与罗马哲学",
    "region": "west",
    "philosophers": 15,
-   "concepts": 23,
+   "concepts": 24,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -7986,6 +7986,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-hellenistic-ipsum-esse",
+   "type": "concept",
+   "title": "存在本身",
+   "container": "gr-hellenistic",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-hellenistic-knowledge",
    "type": "debate",
    "title": "知识是否可能：学园派与斯多亚派",
@@ -12386,6 +12397,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-theologia-scholastica",
+   "type": "work",
+   "title": "《神学要义》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-guishan-ji",
    "type": "work",
    "title": "《龟山集》",
@@ -12738,6 +12760,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-sentences-commentary",
+   "type": "work",
+   "title": "《箴言四书注》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-de-ente-et-essentia",
    "type": "work",
    "title": "《论存在与本质》",
@@ -12961,6 +12994,17 @@
    "id": "work-discorsi",
    "type": "work",
    "title": "《论李维》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-ninety-five-theses",
+   "type": "work",
+   "title": "《九十五条论纲》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -16943,6 +16987,17 @@
    "id": "cmp-biyou",
    "type": "comparative",
    "title": "“必然存在”与“无极而太极”：从何者说起？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-cunzaibenshen",
+   "type": "comparative",
+   "title": "“存在本身”与“无”：从有说起，还是从无说起？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
