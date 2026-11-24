@@ -1,28 +1,16 @@
 # GAPS_WORKS.md —— 尚无著作页关联的哲学家名单（D63）
 
 统计方式：`data/works.json` 中所有 `related_people` 的并集，减去哲学家全集。
-用途：按序消化，使覆盖均衡。最近更新：第 251 轮。
+用途：按序消化，使覆盖均衡。最近更新：第 255 轮。
 
-当前剩余：**34 人**
-
-## cn-lianghan
-- 郑玄（`cn-lianghan-zheng-xuan`）
+当前剩余：**25 人**
 
 ## cn-nanbei
-- 菩提达摩（`cn-nanbei-damo`）
-- 竺道生（`cn-nanbei-daosheng`）
-- 范缜（`cn-nanbei-fanzhen`）
 - 慧皎（`cn-nanbei-huijiao`）
 
 ## cn-qingmod
 - 梁漱溟（`cn-qingmod-liang-shuming`）
 - 魏源（`cn-qingmod-wei-yuan`）
-
-## cn-suitang
-- 神秀（`cn-suitang-shenxiu`）
-
-## cn-weijin
-- 张湛（`cn-weijin-zhang-zhan`）
 
 ## cn-xianqin
 - 杨朱（`cn-xianqin-yang-zhu`）
@@ -32,7 +20,6 @@
 
 ## gr-20c
 - 朱迪斯·巴特勒（`gr-20c-butler`）
-- 雅斯贝尔斯（`gr-20c-jaspers`）
 - 库恩（`gr-20c-kuhn`）
 - 卢卡奇（`gr-20c-lukacs`）
 
@@ -53,8 +40,6 @@
 - 克律西波（`gr-hellenistic-chrysippus`）
 - 扬布利柯（`gr-hellenistic-iamblichus`）
 - 奥利金（`gr-hellenistic-origen`）
-- 皮浪（`gr-hellenistic-pyrrho`）
-- 塞克斯都·恩披里柯（`gr-hellenistic-sextus`）
 
 ## gr-medieval
 - 布里丹（`gr-medieval-buridan`）

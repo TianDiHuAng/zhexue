@@ -8078,6 +8078,63 @@
    "sort_year": 175
   },
   {
+   "id": "work-maoshi-jian",
+   "title": "《毛诗笺》",
+   "title_original": "（郑玄笺《毛诗》）",
+   "tradition": "china",
+   "date_display": "东汉（郑玄，127—200）",
+   "structure": "依《毛诗》三十卷之次，逐篇作笺；今存于《毛诗正义》（《十三经注疏》）之中。",
+   "core_arguments": [
+    "以“笺”申毛：申明《毛传》而补其未备（“注诗宗毛为主，毛义若隐略，则更表明”）",
+    "以礼说诗：以周礼的制度与史事解诗之义",
+    "以“美刺”说诗之功用：诗之为教，在美刺时政"
+   ],
+   "key_points": [
+    {
+     "locator": "《国风》诸笺",
+     "point": "以礼说诗"
+    },
+    {
+     "locator": "《雅》《颂》诸笺",
+     "point": "美刺与祭祀"
+    },
+    {
+     "locator": "郑玄《诗谱》",
+     "point": "诗的时代与地域"
+    },
+    {
+     "locator": "全书",
+     "point": "申毛兼补"
+    }
+   ],
+   "editions": [
+    "《毛诗正义》（十三经注疏，中华书局影印）；郑玄《诗谱》附见"
+   ],
+   "related_people": [
+    "cn-lianghan-zheng-xuan",
+    "cn-xianqin-kongzi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“郑玄自己的诗学”",
+     "why": "其书体例是**申明《毛传》**（笺以申毛），虽有补充与订正，然非另立一说；故其为注体之书，与朱熹《诗集传》的改弦更张不同。"
+    },
+    {
+     "claim": "其“以礼说诗”是穿凿",
+     "why": "其以礼说诗有其**时代的依据**（诗与礼乐相联），宋以后（如朱熹）讥其穿凿，是**解诗方法的转向**；故本页并述两说而不裁定。"
+    }
+   ],
+   "sources": [
+    "ws-hongmingji2",
+    "sep-chinese-metaphysics",
+    "ct-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《毛诗笺》的体例（申毛兼补）与郑玄《诗谱》须核《十三经注疏》本；“以礼说诗”与宋人批评的往复亦须核，本页并述而不裁定。",
+   "sort_year": 180
+  },
+  {
    "id": "work-shenjian",
    "title": "《申鉴》",
    "title_original": "申鑒",
@@ -8246,6 +8303,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《释名》的篇数与作者（刘熙）须核王先谦《疏证补》；其声训的可靠性亦须逐条核（清人的纠正）。",
+   "sort_year": 200
+  },
+  {
+   "id": "work-outlines-pyrrhonism",
+   "title": "《皮浪学说纲要》",
+   "title_original": "Πυρρώνειοι ὑποτυπώσεις（Pyrrhōneioi hypotypōseis）",
+   "tradition": "west",
+   "date_display": "约200年（塞克斯都·恩披里柯）",
+   "structure": "三卷：第一卷论怀疑的一般方式与诸“论式”，第二、三卷逐一批驳独断的学问（逻辑、物理、伦理）。",
+   "core_arguments": [
+    "**悬置**（epochē）：对每一论题皆可立同等有力的反论，故不判定",
+    "“十式”（早期）与“五式”（后期）：以差异、相对、循环等法展示对立",
+    "悬置之后随之而来的是“**宁静**”（ataraxia）：不是求得的，而是偶然随之而生的"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "怀疑的诸式与悬置"
+    },
+    {
+     "locator": "卷二",
+     "point": "驳逻辑与物理"
+    },
+    {
+     "locator": "卷三",
+     "point": "驳伦理"
+    },
+    {
+     "locator": "全书",
+     "point": "以“同等有力”为法"
+    }
+   ],
+   "editions": [
+    "希腊文本（Mutschmann 本）；英译（Outlines of Scepticism, Cambridge）；中译参《皮浪学说纲要》（包利民等译）"
+   ],
+   "related_people": [
+    "gr-hellenistic-sextus",
+    "gr-hellenistic-pyrrho",
+    "gr-hellenistic-epicurus"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“否定一切知识的怀疑论”",
+     "why": "其目标是**悬置判断**而非否定知识；且其“宁静”并非由否定而得，而是**偶然随之而生**；故其说与“独断的否定”有别。"
+    },
+    {
+     "claim": "其“十式”是逻辑的证明",
+     "why": "诸式是**论辩的器械**（使人看见对立），非证明“无物可知”的定理；故其为方法，非学说。"
+    }
+   ],
+   "sources": [
+    "sep-skepticism-ancient",
+    "sep-plato",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《皮浪学说纲要》三卷的卷目与成书（约200年）须核 Mutschmann 本与剑桥英译本；“十式”“五式”的次序亦须核。",
    "sort_year": 200
   },
   {
@@ -13576,6 +13690,63 @@
    "needs_verification": true,
    "pending_notes": "《南海寄归内法传》的章数（通行四十章）与成书年须核王邦维校注本；其对中土僧制的具体批评亦须逐章核。",
    "sort_year": 691
+  },
+  {
+   "id": "work-guanxin-lun",
+   "title": "《观心论》",
+   "title_original": "（敦煌写本，传神秀）",
+   "tradition": "china",
+   "date_display": "唐（传神秀；敦煌本）",
+   "structure": "一卷（敦煌写本，S.2595 等）：以问答体论“观心”为修行之本。",
+   "core_arguments": [
+    "“心者，万法之根本”：一切法由心而生，故观心即是观一切",
+    "“背境观心”：不缘外境，返照自心",
+    "“离念”与“看心看净”：北宗禅的修行纲目（与南宗“无念”相对）"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "心为万法之本"
+    },
+    {
+     "locator": "问答",
+     "point": "背境观心"
+    },
+    {
+     "locator": "论修行",
+     "point": "离念与看净"
+    },
+    {
+     "locator": "写本",
+     "point": "敦煌本的存佚"
+    }
+   ],
+   "editions": [
+    "敦煌写本（S.2595 等）；校本参《神会和尚禅话录》附论与相关研究（版次待考）"
+   ],
+   "related_people": [
+    "cn-suitang-shenxiu",
+    "cn-suitang-huineng",
+    "cn-nanbei-damo"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是神秀的亲笔无疑",
+     "why": "其书**传为神秀**所作，敦煌本出土后始重见；其作者与成书仍有讨论，故本页标“传神秀”，**标而不裁**。"
+    },
+    {
+     "claim": "北宗的“看心看净”是“执着于清净”",
+     "why": "其“看净”是**观心之方便**（对治散乱），非以“净”为一物而执之；南宗的批评（“看心看净，却是障道因缘”）是针对其**方法的次第**，须分辨。"
+    }
+   ],
+   "sources": [
+    "ws-liuzu-tanjing",
+    "ws-hongmingji2",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《观心论》的敦煌写本编号（S.2595 等）与作者归属须核；其与《坛经》所记北宗说的异同亦须核。本页对作者**标而不裁**。",
+   "sort_year": 700
   },
   {
    "id": "work-shitong",
