@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1768,
+  "entries": 1772,
   "by_level": {
    "L2": 779,
-   "L1": 989
+   "L1": 993
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 989,
+  "needs_verification": 993,
   "sources": 423,
   "sources_verified": 423
  },
@@ -11506,6 +11506,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-baopuzi-neipian",
+   "type": "work",
+   "title": "《抱朴子内篇》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-liezi-zhu",
    "type": "work",
    "title": "《列子注》",
@@ -12433,6 +12444,17 @@
    "id": "work-kaiyuan-shijiao-lu",
    "type": "work",
    "title": "《开元释教录》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-huayan-jingshu",
+   "type": "work",
+   "title": "《华严经疏》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -15557,6 +15579,17 @@
    "id": "work-songyuan-xuean",
    "type": "work",
    "title": "《宋元学案》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-jihai-zashi",
+   "type": "work",
+   "title": "《己亥杂诗》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -19121,6 +19154,17 @@
    "id": "cmp-dazhuang",
    "type": "comparative",
    "title": "“达庄”与“逍遥”：自由是齐物还是游世？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-xiulian",
+   "type": "comparative",
+   "title": "“金丹可成”与“顺生”：身体能被改造到什么程度？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

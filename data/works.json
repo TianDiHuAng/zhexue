@@ -9950,6 +9950,63 @@
    "sort_year": 317
   },
   {
+   "id": "work-baopuzi-neipian",
+   "title": "《抱朴子内篇》",
+   "title_original": "《抱朴子内篇》（葛洪）",
+   "tradition": "china",
+   "date_display": "东晋（葛洪）",
+   "structure": "二十卷：论神仙、炼丹、养生与方术（其《外篇》则论人间的得失与政事）。",
+   "core_arguments": [
+    "“**神仙可学**”：以金丹为至要（“金丹之为物，烧之愈久，变化愈妙”）",
+    "以“**玄**”为万物之本：“玄者，自然之始祖，而万殊之大宗也”",
+    "故其学以**养生—炼丹—成仙**为次第"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一〈畅玄〉",
+     "point": "玄为万物之本"
+    },
+    {
+     "locator": "卷四〈金丹〉",
+     "point": "金丹为至要"
+    },
+    {
+     "locator": "卷十三〈极言〉",
+     "point": "养生与节欲"
+    },
+    {
+     "locator": "全书",
+     "point": "内外篇分工"
+    }
+   ],
+   "editions": [
+    "王明《抱朴子内篇校释》（中华书局）；《道藏》本可参"
+   ],
+   "related_people": [
+    "cn-weijin-ge-hong",
+    "cn-xianqin-laozi",
+    "cn-weijin-xiangxiu"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“迷信方术的汇编”",
+     "why": "其书有**理论的骨架**（以“玄”为本、以“气”说变化），且对当时的方术多有辨析与批评；故其为道教的系统著作，非杂凑。"
+    },
+    {
+     "claim": "其“金丹”之说可作实验化学的史料而直取其结论",
+     "why": "其炼丹的记录可为**化学史的材料**，然其理论前提（服丹长生）不成立；故材料与结论须分开对待。"
+    }
+   ],
+   "sources": [
+    "sep-chinese-metaphysics",
+    "ct-zhuangzi",
+    "ws-shiji"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《抱朴子内篇》二十卷的卷目须核王明《校释》本；“玄者，自然之始祖”与“金丹”诸语的原文亦须核。其炼丹记录可作化学史材料，然其长生之前提不成立，须分开对待。",
+   "sort_year": 320
+  },
+  {
    "id": "work-liezi-zhu",
    "title": "《列子注》",
    "title_original": "（张湛注《列子》）",
@@ -14776,6 +14833,63 @@
    "needs_verification": true,
    "pending_notes": "《开元释教录》的卷数（二十卷）与七目的名目须核《大正藏》第55卷；“入藏”判定的具体条目亦须核。",
    "sort_year": 730
+  },
+  {
+   "id": "work-huayan-jingshu",
+   "title": "《华严经疏》",
+   "title_original": "《大方广佛华严经疏》（澄观）",
+   "tradition": "china",
+   "date_display": "唐（澄观；另撰《随疏演义钞》）",
+   "structure": "六十卷（另有《随疏演义钞》九十卷）：依《华严经》逐品疏释，建立四法界之说。",
+   "core_arguments": [
+    "以“**四法界**”说华严的义理：事法界、理法界、理事无碍、事事无碍",
+    "“**事事无碍**”为华严的极致：一即一切，一切即一",
+    "故其学以“**圆融**”为纲（与天台的“判教”相区别）"
+   ],
+   "key_points": [
+    {
+     "locator": "疏序",
+     "point": "教与观的统一"
+    },
+    {
+     "locator": "论四法界",
+     "point": "事事无碍"
+    },
+    {
+     "locator": "论法界缘起",
+     "point": "一即一切"
+    },
+    {
+     "locator": "全书",
+     "point": "以疏释经"
+    }
+   ],
+   "editions": [
+    "《大正藏》第35册；《卍续藏》诸本可参"
+   ],
+   "related_people": [
+    "cn-suitang-chengguan",
+    "cn-suitang-falin",
+    "cn-nanbei-huisi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“事事无碍”是“万物混同”",
+     "why": "其说以**缘起**为据（事与事因缘相即而无碍），故其非混同，而是**关系的圆融**。"
+    },
+    {
+     "claim": "其疏只是“注解”",
+     "why": "其疏实为**华严宗的义理建构**（四法界、法界缘起皆于此定型），故其为创造性的诠释，非字句注解。"
+    }
+   ],
+   "sources": [
+    "ws-liuzutanjing",
+    "sep-chinese-metaphysics",
+    "ct-zhuangzi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《华严经疏》六十卷与《演义钞》九十卷的卷次须核《大正藏》第35—36册；“四法界”“事事无碍”的原文亦须核。",
+   "sort_year": 784
   },
   {
    "id": "work-fuxingshu",
@@ -30905,6 +31019,63 @@
    "needs_verification": true,
    "pending_notes": "《宋元学案》的成书过程复杂（黄宗羲—黄百家—全祖望—王梓材等），各本卷次与学案数（通行为91个学案）有差异；本页依中华书局点校本概述。",
    "sort_year": 1838
+  },
+  {
+   "id": "work-jihai-zashi",
+   "title": "《己亥杂诗》",
+   "title_original": "《己亥杂诗》（龚自珍）",
+   "tradition": "china",
+   "date_display": "1839（龚自珍）",
+   "structure": "三百一十五首（以七绝为主）：记其辞官南归途中的见闻、交游与感慨，兼含政论。",
+   "core_arguments": [
+    "“**我劝天公重抖擞，不拘一格降人才**”：对人才与变法的呼唤",
+    "“**九州生气恃风雷**”：以风雷喻变局",
+    "以“**尊情**”为诗之本：其诗以情为骨（与其“宥情”之说相合）"
+   ],
+   "key_points": [
+    {
+     "locator": "第五首",
+     "point": "九州生气恃风雷"
+    },
+    {
+     "locator": "第一二五首",
+     "point": "我劝天公重抖擞"
+    },
+    {
+     "locator": "诸首",
+     "point": "辞官与南归"
+    },
+    {
+     "locator": "全书",
+     "point": "以诗存史与存情"
+    }
+   ],
+   "editions": [
+    "《龚自珍全集》（上海古籍出版社）；刘逸生《龚自珍己亥杂诗注》可参"
+   ],
+   "related_people": [
+    "cn-qingmod-gong-zizhen",
+    "cn-qingmod-wei-yuan",
+    "cn-xianqin-zhuangzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其诗只是“伤感的纪行”",
+     "why": "其诗含**政论与思想的锋芒**（人才、变法、风俗），故其为“以诗存史”，非纯纪行。"
+    },
+    {
+     "claim": "“我劝天公”是宗教的祈求",
+     "why": "其“天公”是**修辞的呼告**（借以言变法之愿），故其为政论的诗化，非宗教的祈祷。"
+    }
+   ],
+   "sources": [
+    "sep-chinese-metaphysics",
+    "ws-wenxin-diaolong",
+    "ws-shiji"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《己亥杂诗》三百一十五首的数目与编次须核《龚自珍全集》与刘逸生注本；“我劝天公重抖擞”一首的原文与系年亦须核。",
+   "sort_year": 1839
   },
   {
    "id": "work-wesen-christentums",
