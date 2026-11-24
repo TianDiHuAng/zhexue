@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1433,
+  "entries": 1438,
   "by_level": {
    "L2": 781,
-   "L1": 652
+   "L1": 657
   },
   "doctrine": {
    "total": 284,
    "detail": 284,
    "auto": 0
   },
-  "needs_verification": 652,
+  "needs_verification": 657,
   "sources": 418,
   "sources_verified": 418
  },
@@ -39,7 +39,7 @@
    "title": "清代与近代转型",
    "region": "china",
    "philosophers": 22,
-   "concepts": 23,
+   "concepts": 24,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -14"
   },
@@ -1708,6 +1708,17 @@
    "id": "cn-qingmod-puxi-yishi",
    "type": "concept",
    "title": "谱系意识",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-boxue-yuwen",
+   "type": "concept",
+   "title": "博学于文",
    "container": "cn-qingmod",
    "level": "L1",
    "sources": 3,
@@ -12573,6 +12584,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-yinxue-wushu",
+   "type": "work",
+   "title": "《音学五书》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-dongxi-jun",
    "type": "work",
    "title": "《东西均》",
@@ -12631,6 +12653,17 @@
    "id": "work-mengzi-shishuo",
    "type": "work",
    "title": "《孟子师说》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-tianxia-junguo-libing-shu",
+   "type": "work",
+   "title": "《天下郡国利病书》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -12789,6 +12822,17 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-tinglin-wenji",
+   "type": "work",
+   "title": "《亭林文集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -15436,6 +15480,17 @@
    "id": "cmp-puxi",
    "type": "comparative",
    "title": "谱系与“哲学史”：谁有资格入史？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-guwen",
+   "type": "comparative",
+   "title": "古音与“历史语言学”：声音能证明什么？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

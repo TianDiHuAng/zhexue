@@ -18501,6 +18501,63 @@
    "sort_year": 1641
   },
   {
+   "id": "work-yinxue-wushu",
+   "title": "《音学五书》",
+   "title_original": "音學五書",
+   "tradition": "china",
+   "date_display": "明末清初（顾炎武；1643年成，后屡改）",
+   "structure": "五种三十八卷：〈音论〉〈诗本音〉〈易音〉〈唐韵正〉〈古音表〉。",
+   "core_arguments": [
+    "古音与今音不同：以《诗》《易》的韵读求古音",
+    "“古人韵缓”：古韵的部类较宽，不可以今韵绳之",
+    "以**归纳**求古韵的分部：由韵文之用韵归纳其类"
+   ],
+   "key_points": [
+    {
+     "locator": "〈音论〉",
+     "point": "古今音之别"
+    },
+    {
+     "locator": "〈诗本音〉",
+     "point": "以诗韵求古音"
+    },
+    {
+     "locator": "〈唐韵正〉",
+     "point": "唐宋韵的校正"
+    },
+    {
+     "locator": "〈古音表〉",
+     "point": "古韵的分部"
+    }
+   ],
+   "editions": [
+    "中华书局《音学五书》（点校本）；《顾炎武全集》本"
+   ],
+   "related_people": [
+    "cn-qingmod-gu-yanwu",
+    "cn-qingmod-dai-zhen",
+    "cn-qingmod-ruan-yuan"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“音韵学的资料汇编”",
+     "why": "其方法是**归纳的**：由《诗》《易》的韵文归纳古韵的部类，并以此正唐宋韵之失；故它是方法的奠基（清代古音学的开端），不只是资料。"
+    },
+    {
+     "claim": "其分部已完全正确",
+     "why": "其古韵分十部，后经江永、段玉裁、戴震等逐步加密（至王念孙、江有诰而大体完备）；故它是**开端**，不是终点。"
+    }
+   ],
+   "sources": [
+    "ct-rizhilu",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《音学五书》的五种与卷数须核中华书局点校本；其古韵十部与后世分部的演变亦须分辨。",
+   "sort_year": 1643
+  },
+  {
    "id": "work-dongxi-jun",
    "title": "《东西均》",
    "title_original": "東西均",
@@ -18839,6 +18896,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《孟子师说》的卷数与“述师说”的层次须核《黄宗羲全集》本；其与刘宗周《孟子解》的关系亦须分辨。",
+   "sort_year": 1660
+  },
+  {
+   "id": "work-tianxia-junguo-libing-shu",
+   "title": "《天下郡国利病书》",
+   "title_original": "天下郡國利病書",
+   "tradition": "china",
+   "date_display": "明末清初（顾炎武，1613—1682；积二十余年之力）",
+   "structure": "一百二十卷（通行本）：按省府分卷，辑录方志、奏议、文集中的**利病**（赋役、水利、兵防、漕运等）之论。",
+   "core_arguments": [
+    "以“利病”为纲：治道之要在知一地的实情（赋役、水利、兵防）",
+    "以**辑录**为法：不立空论，先聚材料",
+    "以“郡国”为单位：制度须就地方而言"
+   ],
+   "key_points": [
+    {
+     "locator": "北直隶—山东",
+     "point": "赋役与水利"
+    },
+    {
+     "locator": "江南",
+     "point": "漕运与田制"
+    },
+    {
+     "locator": "西北",
+     "point": "兵防与马政"
+    },
+    {
+     "locator": "全书",
+     "point": "以利病辑录"
+    }
+   ],
+   "editions": [
+    "上海古籍出版社《顾炎武全集》本；《四部丛刊》三编本"
+   ],
+   "related_people": [
+    "cn-qingmod-gu-yanwu",
+    "cn-qingmod-huang-zongxi",
+    "cn-qingmod-wang-fuzhi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“地理书”",
+     "why": "其体虽按地域分卷，其纲却是**利病**（制度的实况与弊病）；故其性质是“制度与经济的资料汇编”，不是地理志。"
+    },
+    {
+     "claim": "它是顾炎武的“完整著作”",
+     "why": "其书为**长编未定稿**（顾氏生前未定），且材料多系辑录；故须以“未定稿”视之。"
+    }
+   ],
+   "sources": [
+    "ct-rizhilu",
+    "ws-mingyi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《天下郡国利病书》的卷数（通行一百二十卷）与“未定稿”的性质须核《顾炎武全集》本；其材料的来源亦须逐一核。",
    "sort_year": 1660
   },
   {
@@ -19632,6 +19746,63 @@
    "needs_verification": true,
    "pending_notes": "《政治论》未完成（止于君主政体一章），故其关于君主制的结论不完整；中译本情况与 Curley 译本的用语须核。",
    "sort_year": 1677
+  },
+  {
+   "id": "work-tinglin-wenji",
+   "title": "《亭林文集》",
+   "title_original": "亭林文集（顧亭林詩文集）",
+   "tradition": "china",
+   "date_display": "明末清初（顾炎武；后人编定）",
+   "structure": "六卷（通行本），另有《余集》《诗集》；含书、序、记、论、墓志与书信。",
+   "core_arguments": [
+    "“博学于文，行己有耻”：学问与节操并重",
+    "“经学即理学”：反对空谈心性，主张由经以求道",
+    "“天下兴亡，匹夫有责”：以天下之是非为是非，不以一姓之兴亡为断"
+   ],
+   "key_points": [
+    {
+     "locator": "《与友人论学书》",
+     "point": "博学于文，行己有耻"
+    },
+    {
+     "locator": "《与人书》",
+     "point": "经学即理学"
+    },
+    {
+     "locator": "《日知录序》",
+     "point": "著书的自述"
+    },
+    {
+     "locator": "《文集》诸篇",
+     "point": "治道与风俗"
+    }
+   ],
+   "editions": [
+    "中华书局《顾亭林诗文集》（华忱之点校）"
+   ],
+   "related_people": [
+    "cn-qingmod-gu-yanwu",
+    "cn-qingmod-huang-zongxi",
+    "cn-songming-wang-yangming"
+   ],
+   "misreadings": [
+    {
+     "claim": "“天下兴亡，匹夫有责”是顾炎武的原话",
+     "why": "此为后人（梁启超等）对《日知录》“保天下者，匹夫之贱与有责焉”的**概括**；其原文的“亡国”与“亡天下”之分更重要，须分辨。"
+    },
+    {
+     "claim": "“经学即理学”是取消理学",
+     "why": "其意是：理学的根据须回到经学（由经以求道），故不是取消，而是**重新奠基**。"
+    }
+   ],
+   "sources": [
+    "ct-rizhilu",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《亭林文集》的卷数与“天下兴亡，匹夫有责”的出处（《日知录》卷十三“正始”条）须核华忱之点校本；此语的概括过程亦须核。",
+   "sort_year": 1680
   },
   {
    "id": "work-two-treatises",

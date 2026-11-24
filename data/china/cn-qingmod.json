@@ -4301,6 +4301,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“谱系意识”的体例（渊源录、宗传、学案）须核各家原书；本页取其学术史的方法义，具体谱系须逐一核。"
+  },
+  {
+   "id": "cn-qingmod-boxue-yuwen",
+   "term": "博学于文",
+   "term_latin": "wide learning in culture",
+   "definition": "顾炎武的为学纲领（与“行己有耻”并举）：“博学于文”不是博览群书，而是**就经史与制度求其条理**（“文”含典籍、制度、风俗）；其反面是“空谈心性”。故其说是清代实学的纲领，也是对晚明心学末流的纠正。",
+   "usages": [
+    {
+     "name": "顾炎武（其立）",
+     "id": "cn-qingmod-gu-yanwu",
+     "usage": "以《与友人论学书》立此纲领；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "孔子（其源）",
+     "usage": "“博学于文”语出《论语·雍也》。"
+    },
+    {
+     "name": "戴震（其承）",
+     "id": "cn-qingmod-dai-zhen",
+     "usage": "以“由字通词，由词通道”承其方法。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-kaoju"
+   ],
+   "example": {
+    "text": "“博学于文”的要害是把“文”从**书本**扩展到**制度与风俗**：故其学不止于训诂，而及于郡国利病、音韵、金石。这一扩展使清代的实学有了“通经致用”的规模；其代价则是学问的门类日益繁细，义理渐退为背景。",
+    "figure": "顾炎武",
+    "locator": "《亭林文集·与友人论学书》"
+   },
+   "sources": [
+    "ct-rizhilu",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“博学于文，行己有耻”的原文（《亭林文集》卷三《与友人论学书》）须核华忱之点校本；其与《论语》“博学于文”的异同亦须分辨。"
   }
  ],
  "debates": [
