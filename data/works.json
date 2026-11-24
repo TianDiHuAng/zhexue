@@ -28347,6 +28347,63 @@
    "sort_year": 1810
   },
   {
+   "id": "work-zwei-buecher",
+   "title": "《两卷集》",
+   "title_original": "Zwei Bücher（《哲学全书》之原始稿）",
+   "tradition": "west",
+   "date_display": "1808—1817（黑格尔；讲演与手稿）",
+   "structure": "两部（导论与主体部分）：以“意识—自我意识—理性—精神—宗教—绝对知识”的阶次为纲（后成《哲学全书》之雏形）。",
+   "core_arguments": [
+    "以**意识的经验**为进路：由感性确定性至绝对知识",
+    "“实体即主体”：真理是**自身的展开过程**",
+    "以“辩证的运动”为方法：否定性内在于概念之中"
+   ],
+   "key_points": [
+    {
+     "locator": "导论",
+     "point": "意识的经验"
+    },
+    {
+     "locator": "第一部",
+     "point": "意识与自我意识"
+    },
+    {
+     "locator": "第二部",
+     "point": "理性与精神"
+    },
+    {
+     "locator": "全书",
+     "point": "以阶次展开"
+    }
+   ],
+   "editions": [
+    "德文（Meiner 版，耶拿时期手稿）；英译少见；中译参《黑格尔全集》相关卷（版次待核）"
+   ],
+   "related_people": [
+    "gr-german-hegel",
+    "gr-german-schelling",
+    "gr-19c-marx"
+   ],
+   "misreadings": [
+    {
+     "claim": "它与《精神现象学》是同一书",
+     "why": "其为**《哲学全书》的原始稿**（1808—1817 的讲演与手稿），与 1807 年的《精神现象学》体例与用途不同；故二者须分辨。"
+    },
+    {
+     "claim": "其“辩证的运动”是外在的方法",
+     "why": "其法是**概念自身的运动**（否定性内在于内容），故非外加的技术，而是内容的展开方式。"
+    }
+   ],
+   "sources": [
+    "sep-hegel",
+    "sep-kant",
+    "sep-marx"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《两卷集》的成书（1808—1817 讲演与手稿）与 Meiner 版编次须核；其与《精神现象学》《哲学全书》的关系亦须分辨。中译待核。",
+   "sort_year": 1812
+  },
+  {
    "id": "work-wissenschaft-logik",
    "title": "《大逻辑》",
    "title_original": "Wissenschaft der Logik",

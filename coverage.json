@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1676,
+  "entries": 1677,
   "by_level": {
    "L2": 779,
-   "L1": 897
+   "L1": 898
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 897,
+  "needs_verification": 898,
   "sources": 420,
   "sources_verified": 420
  },
@@ -15063,6 +15063,17 @@
    "type": "work",
    "title": "《雕菰集》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-zwei-buecher",
+   "type": "work",
+   "title": "《两卷集》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
