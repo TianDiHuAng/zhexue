@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1463,
+  "entries": 1470,
   "by_level": {
    "L2": 781,
-   "L1": 682
+   "L1": 689
   },
   "doctrine": {
-   "total": 289,
-   "detail": 289,
+   "total": 291,
+   "detail": 291,
    "auto": 0
   },
-  "needs_verification": 682,
+  "needs_verification": 689,
   "sources": 418,
   "sources_verified": 418
  },
@@ -38,10 +38,10 @@
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 27,
-   "concepts": 28,
+   "philosophers": 29,
+   "concepts": 29,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -19"
+   "philosophers_slot": "8 上限，余 -21"
   },
   {
    "unit_id": "cn-songming",
@@ -1518,6 +1518,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-qingmod-wang-guowei",
+   "type": "philosopher",
+   "title": "王国维",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-luo-zhenyu",
+   "type": "philosopher",
+   "title": "罗振玉",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-qingmod-jingshi-zhizhiyong",
    "type": "concept",
    "title": "经世致用",
@@ -1818,6 +1840,17 @@
    "id": "cn-qingmod-yili-shuoshu",
    "type": "concept",
    "title": "以例说书",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-erzhong-zhengju",
+   "type": "concept",
+   "title": "二重证据法",
    "container": "cn-qingmod",
    "level": "L1",
    "sources": 3,
@@ -14080,6 +14113,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-renjian-cihua",
+   "type": "work",
+   "title": "《人间词话》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-songyuan-xiqu-kao",
+   "type": "work",
+   "title": "《宋元戏曲考》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-formalism-material",
    "type": "work",
    "title": "《伦理学中的形式主义与质料的价值伦理学》",
@@ -14116,6 +14171,17 @@
    "id": "work-dongxi-wenhua",
    "type": "work",
    "title": "《东西文化及其哲学》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-guanteang-jilin",
+   "type": "work",
+   "title": "《观堂集林》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -15766,6 +15832,17 @@
    "id": "cmp-qiwen",
    "type": "comparative",
    "title": "甲骨与“新材”：新材料能否改旧学？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-jingjie",
+   "type": "comparative",
+   "title": "“境界”与“审美理念”：艺术能显示什么？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

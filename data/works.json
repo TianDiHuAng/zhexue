@@ -25685,6 +25685,120 @@
    "sort_year": 1905
   },
   {
+   "id": "work-renjian-cihua",
+   "title": "《人间词话》",
+   "title_original": "人間詞話",
+   "tradition": "china",
+   "date_display": "清末民初（王国维，1908—1909年连载）",
+   "structure": "六十四则（通行本）：以“境界”为纲，论词的本体、创作与批评。",
+   "core_arguments": [
+    "“词以境界为最上”：有境界则自成高格",
+    "“造境”与“写境”、“有我之境”与“无我之境”之分",
+    "“三种境界”：古今成大事业大学问者必经的三层（晏殊、柳永、辛弃疾之句）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一则",
+     "point": "境界为最上"
+    },
+    {
+     "locator": "第二—六则",
+     "point": "造境与写境"
+    },
+    {
+     "locator": "有我无我",
+     "point": "两种境界"
+    },
+    {
+     "locator": "末诸则",
+     "point": "三种境界与批评"
+    }
+   ],
+   "editions": [
+    "中华书局《人间词话》（徐调孚校注）；《王国维全集》本"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-guowei",
+    "gr-german-kant",
+    "cn-qingmod-zhang-taiyan"
+   ],
+   "misreadings": [
+    {
+     "claim": "“境界”只是“景物”",
+     "why": "其“境界”含景物与情感的交融（“能写真景物真感情者谓之有境界”）；故其说不止于写景。"
+    },
+    {
+     "claim": "“三种境界”是词的三层风格",
+     "why": "其所指是**成大事业大学问者的心境历程**（迷惘—执着—顿悟），借词句为喻；故不可误为词体的分类。"
+    }
+   ],
+   "sources": [
+    "sep-kant",
+    "sep-chinese-metaphysics",
+    "ws-liji"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《人间词话》的则数（通行六十四则）与其与康德美学的关系须核中华书局校注本；“境界”说的表述亦须核原文。",
+   "sort_year": 1908
+  },
+  {
+   "id": "work-songyuan-xiqu-kao",
+   "title": "《宋元戏曲考》",
+   "title_original": "宋元戲曲考（宋元戏曲史）",
+   "tradition": "china",
+   "date_display": "1913年（王国维）",
+   "structure": "十六章：上古至五代之戏剧、宋之滑稽戏、宋之小说杂戏、宋之乐曲、宋官本杂剧、金院本、元杂剧的渊源与时代、元剧之文章、元院本、南戏等。",
+   "core_arguments": [
+    "以“史”的眼光看戏曲：戏曲有其渊源与演变，非“小道”",
+    "“元剧之文章”最佳：以“自然”与“意境”评元曲",
+    "以文献与曲本相参：考其体制、角色与演出"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—四章",
+     "point": "戏曲的渊源"
+    },
+    {
+     "locator": "第五—九章",
+     "point": "宋金杂剧与院本"
+    },
+    {
+     "locator": "第十—十二章",
+     "point": "元杂剧"
+    },
+    {
+     "locator": "第十三—十六章",
+     "point": "南戏与余论"
+    }
+   ],
+   "editions": [
+    "中华书局《宋元戏曲史》；《王国维全集》本"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-guowei",
+    "cn-qingmod-liang-qichao",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“戏曲的目录”",
+     "why": "其书以**史的演变**为纲（渊源、体制、角色、文章），并以“自然”“意境”评其文学价值；故它是“戏曲史”的开山之作。"
+    },
+    {
+     "claim": "其抬高元曲是“文人趣味”",
+     "why": "其评价的标准是“自然”（不假雕饰）与“意境”，与其《人间词话》的标准一致；故其说是**理论的**，不只是趣味。"
+    }
+   ],
+   "sources": [
+    "sep-chinese-metaphysics",
+    "sep-kant",
+    "ws-liji"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《宋元戏曲考》的章数与成书（1913）须核中华书局《宋元戏曲史》；其与《人间词话》的评价标准之关系亦须分辨。",
+   "sort_year": 1913
+  },
+  {
    "id": "work-formalism-material",
    "title": "《伦理学中的形式主义与质料的价值伦理学》",
    "title_original": "Der Formalismus in der Ethik und die materiale Wertethik",
@@ -25911,6 +26025,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《东西文化及其哲学》是梁漱溟1920—21年的讲演整理，其“三种路向”说在后续著作（《中国文化要义》）中有修正；本页依商务印书馆本与梁漱溟研究概述。",
+   "sort_year": 1921
+  },
+  {
+   "id": "work-guanteang-jilin",
+   "title": "《观堂集林》",
+   "title_original": "觀堂集林",
+   "tradition": "china",
+   "date_display": "清末民初（王国维，1877—1927；1921年初编）",
+   "structure": "二十四卷：含《艺林》（经史小学）、《史林》（古史与甲骨金石）、《缀林》（诗文序跋）诸部。",
+   "core_arguments": [
+    "“二重证据法”：以地下之材料（甲骨、金石、简牍）与纸上之材料互证",
+    "以“新材”校旧史：以卜辞正《史记·殷本纪》的世系",
+    "以“小学”为治古史的门径：字义不明则史事无从"
+   ],
+   "key_points": [
+    {
+     "locator": "《艺林》诸卷",
+     "point": "小学与经义"
+    },
+    {
+     "locator": "《史林》诸卷",
+     "point": "殷卜辞与古史"
+    },
+    {
+     "locator": "《缀林》诸卷",
+     "point": "诗文与序跋"
+    },
+    {
+     "locator": "全书",
+     "point": "二重证据"
+    }
+   ],
+   "editions": [
+    "中华书局《观堂集林》（影印本）；《王国维全集》本"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-guowei",
+    "cn-qingmod-luo-zhenyu",
+    "cn-qingmod-sun-yirang"
+   ],
+   "misreadings": [
+    {
+     "claim": "“二重证据法”是“以新材料附会旧说”",
+     "why": "其方法是**互证**：地下材料与纸上材料相互检验，故有改旧说者（如殷先公先王的次序）；其实质是“以新校旧”，非“以新证旧”。"
+    },
+    {
+     "claim": "王国维只是“考据家”",
+     "why": "其《人间词话》有独立的文学理论（境界说），其《宋元戏曲考》开戏曲史之门；故其学兼及文学与美学，不只考据。"
+    }
+   ],
+   "sources": [
+    "ws-shiji",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《观堂集林》的卷数与分部须核中华书局影印本；“二重证据法”的表述（《古史新证》）亦须核。",
    "sort_year": 1921
   },
   {

@@ -4205,6 +4205,314 @@
      "note": "1899 年"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-wang-guowei",
+   "name": "王国维",
+   "latin": "Wang Guowei",
+   "birth_year": 1877,
+   "death_year": 1927,
+   "birth_display": "1877年",
+   "death_display": "1927年",
+   "birth_note": "据其自述与年谱：字静安，号观堂，浙江海宁人；早年治哲学与文学（康德、叔本华），后转治甲骨、金石与古史，晚年任清华国学研究院导师。",
+   "death_note": "1927年自沉于颐和园昆明湖。",
+   "era": "清末民初。王国维是中国现代学术的奠基者之一：早年以《红楼梦评论》《人间词话》把康德、叔本华的美学用于中国文学；中年转治甲骨与古史，以“**二重证据法**”以地下材料与纸上材料互证（以卜辞正《史记·殷本纪》）；又以《宋元戏曲考》开戏曲史之门。故其位置是：把旧学的考据与新学的理论合于一身 —— 而其限度亦在此：两途始终未能真正合一。",
+   "school": "近代学术（考据与美学的双栖）",
+   "core_questions": [
+    "古史如何以新材重建？",
+    "文学的价值以何为标准？",
+    "中西之学能否相通？"
+   ],
+   "arguments": [
+    {
+     "claim": "二重证据法：地下材料与纸上材料互证",
+     "premises": [
+      "纸上之材料（文献）或有讹误与后人增饰。",
+      "而地下之材料（甲骨、金石）未经后人改写。"
+     ],
+     "inference": "若两方互证，则可以从其异同判定史事；故其方法不是“以新材证旧说”，而是**以新材校旧史**（有改旧说者）。",
+     "conclusion": "二重证据法（此方法奠定现代古史研究的基础）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "词以境界为最上",
+     "premises": [
+      "文学的价值在其能否动人。",
+      "而动人者在“真景物真感情”的交融（境界）。"
+     ],
+     "inference": "若价值在境界，则批评的标准不在格律与用典，而在其能否“写得出”；故其说把批评从格律转向**体验**。",
+     "conclusion": "境界说（此说为现代词学的起点）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《人间词话》",
+     "edition": "中华书局徐调孚校注本（版次待核）",
+     "note": "1908"
+    },
+    {
+     "title": "《宋元戏曲考》",
+     "edition": "中华书局《宋元戏曲史》（版次待核）",
+     "note": "1913"
+    },
+    {
+     "title": "《观堂集林》",
+     "edition": "中华书局影印本（版次待核）",
+     "note": "1921"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "康德与叔本华（其美学资源）",
+     "id": null,
+     "note": "早年治其哲学，用以论《红楼梦》与词"
+    },
+    {
+     "name": "孙诒让（其考据之前辈）",
+     "id": "cn-qingmod-sun-yirang",
+     "note": "甲骨考释的前驱"
+    },
+    {
+     "name": "罗振玉（其合作者）",
+     "id": null,
+     "note": "甲骨与敦煌材料的提供者"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "清华国学研究院一系",
+     "id": null,
+     "note": "与梁启超、陈寅恪等共开现代学术"
+    },
+    {
+     "name": "现代的词学与戏曲史",
+     "id": null,
+     "note": "以其书为起点"
+    },
+    {
+     "name": "古史辨与二重证据的后续",
+     "id": null,
+     "note": "其方法被广泛承用"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "疑古一系（其后）",
+     "view": "二重证据法仍以文献为纲：若文献本身的年代可疑，则“互证”只是循环；故须先辨文献。",
+     "response": "王国维一系的回应是：互证正是辨文献之法 —— 地下材料能定文献的年代与真伪（如其以卜辞定《殷本纪》的世系）；故其方法不是循环，而是**交叉检验**。",
+     "kind": "原文",
+     "sources": [
+      "ws-shiji",
+      "ws-hanshu"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“二重证据法”是“以新材料附会旧说”",
+     "why": "其方法是**互证**，且有改旧说者（如殷先公先王的次序）；其实质是“以新校旧”。"
+    },
+    {
+     "claim": "王国维只是“考据家”",
+     "why": "其《人间词话》有独立的文学理论（境界说），《宋元戏曲考》开戏曲史之门；故其学兼及文学与美学。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>王国维：二重证据与境界</text><defs><marker id='aWG' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>纸上之材料或有增饰</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>地下之材料未经改写</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故二者互证可定史事</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>而文学之价值在境界</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aWG)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aWG)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "王国维：“二重证据法”与“境界说”（示意图）",
+   "sources": [
+    "ws-shiji",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "王国维无 SEP 专条（已试 wang-guowei，404）；本页依《观堂集林》《古史新证》《人间词话》原文与相关研究，**属语境性引用而非专门研究**。其生卒（1877—1927）与自沉之事须核年谱。",
+   "doctrine": {
+    "summary": "王国维把旧学的考据与新学的理论合于一身：以“二重证据法”（地下材料与纸上材料互证）重建古史，以“境界说”重定文学批评的标准，以《宋元戏曲考》开戏曲史之门。故其位置是“两途的合体” —— 而其限度亦在此：考据与美学始终未能真正合一。",
+    "system": [
+     {
+      "name": "二重证据法",
+      "content": "地下材料与纸上材料互证，以新材校旧史；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "境界说",
+      "content": "词以境界为最上：真景物与真感情的交融；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "有我之境与无我之境",
+      "content": "以主体的位置分境界的两型；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以自然评元曲",
+      "content": "元剧之佳在其自然，不假雕饰；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "海宁与北京（1877—1927）",
+      "change": "早年治哲学（康德、叔本华），作《红楼梦评论》；1908—1909 年《人间词话》；1911 年赴日；1913 年《宋元戏曲考》；1916 年归国；1921 年《观堂集林》；1925 年任清华国学研究院导师；1927 年自沉。"
+     }
+    ],
+    "reception": "其“二重证据法”成为现代古史研究的基本方法；《人间词话》为现代词学的起点；《宋元戏曲考》开戏曲史之门；其自沉之事亦成为近代学术史的一大议题。"
+   },
+   "works_detail": [
+    {
+     "title": "《人间词话》",
+     "structure": "六十四则：以境界为纲，论词的本体、创作与批评。",
+     "core_thesis": "词以境界为最上，有境界则自成高格。",
+     "editions": "中华书局徐调孚校注本",
+     "note": "1908 年"
+    }
+   ]
+  },
+  {
+   "id": "cn-qingmod-luo-zhenyu",
+   "name": "罗振玉",
+   "latin": "Luo Zhenyu",
+   "birth_year": 1866,
+   "death_year": 1940,
+   "birth_display": "1866年",
+   "death_display": "1940年",
+   "birth_note": "据其自述与年谱：字叔蕴，号雪堂，浙江上虞人（生于淮安）；清末任学部参事，精于甲骨、金石、简牍与敦煌文献的收集与刊布。",
+   "death_note": "1940年卒于旅顺。",
+   "era": "清末民初。罗振玉的贡献主要不在理论，而在**材料**：他最早认定与收藏甲骨（并考定其出土地为安阳小屯），刊布《铁云藏龟》之后的多种著录，又与王国维共治简牍（《流沙坠简》）。故其位置是“新材料的收集者与刊布者” —— 没有这一步，二重证据法无从施行。其政治立场（参与伪满洲国）是必须分辨的背景，故本页只述其学术工作，不作辩护。",
+   "school": "近代金石甲骨之学（材料的收集与刊布）",
+   "core_questions": [
+    "新材料如何被认定与刊布？",
+    "甲骨出于何地、属何时代？",
+    "材料与考释是何关系？"
+   ],
+   "arguments": [
+    {
+     "claim": "甲骨的出土地可考，故其时代可定",
+     "premises": [
+      "甲骨多出于安阳小屯。",
+      "而小屯即《史记》所记的殷墟。"
+     ],
+     "inference": "若出土地与文献所记的殷墟相合，则甲骨为商代之物；故此一认定使甲骨从“药材”变为“史料”。",
+     "conclusion": "以出土地定甲骨的年代（此认定是甲骨学的前提）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "材料的刊布先于考释",
+     "premises": [
+      "甲骨易碎且散佚，若不即行拓墨与影印，则材料将亡。",
+      "而考释须以材料的全貌为据。"
+     ],
+     "inference": "若材料先亡则考释无从，故其工作的重心在**刊布**（著录、拓本、影印）；此一顺序与其“学术分工”的自觉有关。",
+     "conclusion": "先刊布后考释（此分工使甲骨学得以成立）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《流沙坠简》（与王国维合著）",
+     "edition": "中华书局重印本（版次待核）",
+     "note": "1914"
+    },
+    {
+     "title": "《三代吉金文存》",
+     "edition": "中华书局重印本（版次待核）",
+     "note": "1937"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "孙诒让（其前驱）",
+     "id": "cn-qingmod-sun-yirang",
+     "note": "首位考释甲骨者"
+    },
+    {
+     "name": "清代金石学（其背景）",
+     "id": "cn-qingmod-wang-fuzhi",
+     "note": "金石与文献互证的学风"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "王国维（其合作者）",
+     "id": "cn-qingmod-wang-guowei",
+     "note": "由其提供材料而共治简牍"
+    },
+    {
+     "name": "董作宾、郭沫若等（其后）",
+     "id": null,
+     "note": "承其材料与著录而推进甲骨学"
+    },
+    {
+     "name": "敦煌学",
+     "id": null,
+     "note": "其刊布为敦煌研究之始"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后世的学术批评者",
+     "view": "其材料的刊布有功，但其考释时有武断处；且其政治立场（伪满洲国）使其中晚年的学术声誉受损。",
+     "response": "罗振玉一系的回应（学术层面）：材料的工作与政治的选择应分开评价 —— 其著录之功不可没，其政治之失亦不可掩。本页按此分开处理。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-shiji",
+      "ws-hanshu"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "罗振玉是“甲骨的最早发现者”",
+     "why": "最早认定甲骨为古物的是王懿荣（1899），罗振玉是**最早考定其出土地**（安阳小屯即殷墟）并大量收藏刊布者；故其功在“定地”与“刊布”，不在“发现”。"
+    },
+    {
+     "claim": "其学术贡献因其政治立场而可废",
+     "why": "材料的工作（收藏、拓墨、影印、编目）有客观的学术价值；其政治立场须如实标出、另作评价。本页即按此分开处理。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>罗振玉：材料先于考释</text><defs><marker id='aLZ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>甲骨出于安阳小屯</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>即《史记》所记之殷墟</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故其为商代之物</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故刊布先于考释</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLZ)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLZ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "罗振玉：以出土地定甲骨的年代与“材料先于考释”（示意图）",
+   "sources": [
+    "ws-shiji",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "罗振玉无 SEP 专条（已试 luo-zhenyu，404）；本页依其《殷虚书契》诸序、《流沙坠简》与相关研究，**属语境性引用而非专门研究**。其生卒（1866—1940）与甲骨认定的先后（王懿荣—刘鹗—罗振玉）须核。其政治立场已如实标出，本页只评其学术。",
+   "doctrine": {
+    "summary": "罗振玉的贡献主要在材料：他最早考定甲骨出于安阳小屯（即殷墟），大量收藏并刊布甲骨与简牍（《流沙坠简》与王国维合著），使“二重证据法”有了可用的材料。故其位置是“新材料的收集者与刊布者” —— 没有这一步，二重证据无从施行。其政治立场已如实标出，本页只述其学术。",
+    "system": [
+     {
+      "name": "以出土地定年代",
+      "content": "甲骨出于小屯即殷墟，故为商代之物；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "材料先于考释",
+      "content": "若材料亡则考释无从，故刊布为先；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "著录与影印",
+      "content": "以拓本、影印保存散佚的材料；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "学术与政治分开",
+      "content": "其政治选择另作评价，不掩其著录之功；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "上虞与旅顺（1866—1940）",
+      "change": "清末任学部参事；1900 年代起收集甲骨；1911 年赴日；1914 年与王国维合著《流沙坠简》；1937 年《三代吉金文存》；后参与伪满洲国；1940 年卒于旅顺。"
+     }
+    ],
+    "reception": "其甲骨与简牍的刊布为甲骨学与敦煌学奠定材料基础；与王国维的合作促成“二重证据法”的施行；其政治立场则使其评价长期分裂 —— 本页按学术与政治分开处理。"
+   },
+   "works_detail": [
+    {
+     "title": "《流沙坠简》",
+     "structure": "与王国维合著：分类考释敦煌与罗布淖尔所出的汉晋简牍。",
+     "core_thesis": "以简牍与文献互证，重建汉晋的边塞制度。",
+     "editions": "中华书局重印本（具体版次待核）",
+     "note": "1914 年"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -5242,6 +5550,45 @@
    ],
    "needs_verification": true,
    "pending_notes": "“以例说书”的八十八例须核《古书疑义举例》原文；其与王引之“以例正读”的关系亦须分辨。"
+  },
+  {
+   "id": "cn-qingmod-erzhong-zhengju",
+   "term": "二重证据法",
+   "term_latin": "the method of double evidence",
+   "definition": "王国维提出的方法：以**地下之新材料**（甲骨、金石、简牍）与**纸上之材料**（文献）相互印证，以定古史之实。其要点是二者**交叉检验**（非以新材附会旧说），故有以卜辞改正《史记·殷本纪》世系之例。",
+   "usages": [
+    {
+     "name": "王国维（其立）",
+     "id": "cn-qingmod-wang-guowei",
+     "usage": "以《古史新证》立此方法；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "罗振玉（其材料）",
+     "id": "cn-qingmod-luo-zhenyu",
+     "usage": "以其收藏与刊布提供地下材料；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "孙诒让（其前驱）",
+     "id": "cn-qingmod-sun-yirang",
+     "usage": "首位考释甲骨，为其方法之先声。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-yili-shuoshu",
+    "cn-qingmod-kaoju"
+   ],
+   "example": {
+    "text": "“二重证据法”的要害是把**材料的独立性**当作证据的条件：地下材料未经后人改写，故可与文献互校。这一方法使古史研究从“以文献证文献”转为“以实物校文献”；其限度是：材料的释读本身仍须可靠，否则“互证”只是两层误读的相合。",
+    "figure": "王国维",
+    "locator": "《古史新证》"
+   },
+   "sources": [
+    "ws-shiji",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“二重证据法”的原文（《古史新证》第一章）须核《王国维全集》；其与“三重证据法”（后加民族学材料）之别亦须分辨。"
   }
  ],
  "debates": [
