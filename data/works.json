@@ -33263,6 +33263,63 @@
    "sort_year": 1988
   },
   {
+   "id": "work-soi-meme-autre",
+   "title": "《作为他者的自身》",
+   "title_original": "Soi-même comme un autre",
+   "tradition": "west",
+   "date_display": "1990（利科）",
+   "structure": "十讲（Studies）：论“谁”说话的言说者、行动者、叙事的自身、伦理与道德的自身、本体的自身。",
+   "core_arguments": [
+    "“同一性”有两义：**idem**（同一、不变）与 **ipse**（自身、自持）",
+    "人格的连续由**叙事**构成（第八—九讲）",
+    "伦理的自身以“与他者的关系”为构成（第十讲）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—四讲",
+     "point": "言说者与行动者"
+    },
+    {
+     "locator": "第五—六讲",
+     "point": "idem 与 ipse"
+    },
+    {
+     "locator": "第七—九讲",
+     "point": "叙事认同"
+    },
+    {
+     "locator": "第十讲",
+     "point": "伦理的自身"
+    }
+   ],
+   "editions": [
+    "法文 Seuil 版；英译（Oneself as Another, Chicago）；中译参《作为一个他者的自身》（佘碧平译）"
+   ],
+   "related_people": [
+    "gr-20c-ricoeur",
+    "gr-20c-levinas",
+    "gr-20c-heidegger"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“自我哲学”",
+     "why": "其书以“他者”为自我的构成（书名即此意），故其为**关系性的自身论**，非自我中心之学。"
+    },
+    {
+     "claim": "其“叙事认同”否认人格的实在",
+     "why": "其以叙事的**真理性要求**为条件（故事须与行动相合），故其说不否认实在，只是重述其被把握的方式。"
+    }
+   ],
+   "sources": [
+    "sep-ricoeur",
+    "sep-levinas",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《作为他者的自身》的十讲结构与 idem／ipse 之分须核 Seuil 版与佘碧平译本；“叙事认同”诸讲的原文亦须核。",
+   "sort_year": 1990
+  },
+  {
    "id": "work-faktizitaet-geltung",
    "title": "《在事实与规范之间》",
    "title_original": "Faktizität und Geltung",

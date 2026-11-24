@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1610,
+  "entries": 1612,
   "by_level": {
    "L2": 780,
-   "L1": 830
+   "L1": 832
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 830,
+  "needs_verification": 832,
   "sources": 419,
   "sources_verified": 419
  },
@@ -16038,6 +16038,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-soi-meme-autre",
+   "type": "work",
+   "title": "《作为他者的自身》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-faktizitaet-geltung",
    "type": "work",
    "title": "《在事实与规范之间》",
@@ -17383,6 +17394,17 @@
    "id": "cmp-chujing",
    "type": "comparative",
    "title": "“处境”与“命”：自由在哪里遇见限制？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-miandrong",
+   "type": "comparative",
+   "title": "“面容”与“恻隐之心”：对他者的责任从何而来？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
