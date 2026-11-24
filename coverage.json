@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1510,
+  "entries": 1515,
   "by_level": {
    "L2": 781,
-   "L1": 729
+   "L1": 734
   },
   "doctrine": {
    "total": 301,
    "detail": 301,
    "auto": 0
   },
-  "needs_verification": 729,
+  "needs_verification": 734,
   "sources": 418,
   "sources_verified": 418
  },
@@ -111,7 +111,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 12,
-   "concepts": 27,
+   "concepts": 28,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -6867,6 +6867,17 @@
    "id": "gr-contemp-tazhe",
    "type": "concept",
    "title": "他者",
+   "container": "gr-contemp",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-contemp-xushi-rentong",
+   "type": "concept",
+   "title": "叙事认同",
    "container": "gr-contemp",
    "level": "L1",
    "sources": 3,
@@ -13706,6 +13717,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-jiaochou-tongyi",
+   "type": "work",
+   "title": "《校雠通义》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-wenshi-tongyi",
    "type": "work",
    "title": "《文史通义》",
@@ -13736,6 +13758,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-shiqi-shi-shangque",
+   "type": "work",
+   "title": "《十七史商榷》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13857,6 +13890,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-nianer-shi-zhaji",
+   "type": "work",
+   "title": "《廿二史札记》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -16283,6 +16327,17 @@
    "id": "cmp-gezhi",
    "type": "comparative",
    "title": "格调与性灵：诗该守规矩还是该像我？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shixue",
+   "type": "comparative",
+   "title": "“六经皆史”与“历史主义”：过去能以自身为标准吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

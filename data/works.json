@@ -22698,6 +22698,63 @@
    "sort_year": 1779
   },
   {
+   "id": "work-jiaochou-tongyi",
+   "title": "《校雠通义》",
+   "title_original": "校讎通義",
+   "tradition": "china",
+   "date_display": "清（章学诚，1738—1801；1779年成，后改定）",
+   "structure": "三卷（通行本，内篇）：论目录之学，以“辨章学术，考镜源流”为纲，兼论《七略》《汉志》的得失。",
+   "core_arguments": [
+    "“辨章学术，考镜源流”：目录不是书目，而是学术的谱系",
+    "“互著”与“别裁”：一书可入两类，一篇可析入他类（目录的技术）",
+    "以“六经皆史”为目录的根据：经亦是史，故不可别立于史之外"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "辨章学术考镜源流"
+    },
+    {
+     "locator": "卷二",
+     "point": "互著与别裁"
+    },
+    {
+     "locator": "卷三",
+     "point": "汉志的得失"
+    },
+    {
+     "locator": "全书",
+     "point": "以目录为学术史"
+    }
+   ],
+   "editions": [
+    "中华书局《文史通义校注》（附《校雠通义》，叶瑛校注）"
+   ],
+   "related_people": [
+    "cn-qingmod-zhang-xuecheng",
+    "cn-qingmod-dai-zhen",
+    "cn-qingmod-zhang-taiyan"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“编目方法”",
+     "why": "其“互著／别裁”确是技术，然其纲是“**辨章学术，考镜源流**”：目录须见学术的源流与分合；故其为“以目录为学术史”，非编目手册。"
+    },
+    {
+     "claim": "其“六经皆史”是贬经",
+     "why": "其意是：六经为先王之政典（史的实录），故其地位不因“史”而贬，反因“实录”而尊；故其说与“贬经”相反。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《校雠通义》的成书（1779）与卷数（通行三卷）须核叶瑛校注本；“互著”“别裁”的表述亦须核。",
+   "sort_year": 1779
+  },
+  {
    "id": "work-wenshi-tongyi",
    "title": "《文史通义》",
    "title_original": "文史通義",
@@ -22867,6 +22924,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1785
+  },
+  {
+   "id": "work-shiqi-shi-shangque",
+   "title": "《十七史商榷》",
+   "title_original": "十七史商榷",
+   "tradition": "china",
+   "date_display": "清（王鸣盛，1722—1797；1787年成）",
+   "structure": "一百卷：依《史记》至《新五代史》十七史的次序，逐卷考订其文字、史事、地理与职官，并论史法。",
+   "core_arguments": [
+    "以“考订”为主：文字、地理、职官、史事皆须有据",
+    "“史法”与“史识”并重：不止校字，亦论其书法",
+    "以“实事求是”为的：不立空论"
+   ],
+   "key_points": [
+    {
+     "locator": "《史记》《汉书》诸卷",
+     "point": "文字与史事"
+    },
+    {
+     "locator": "《后汉书》以下",
+     "point": "制度与地理"
+    },
+    {
+     "locator": "论史法诸条",
+     "point": "书法与体例"
+    },
+    {
+     "locator": "全书",
+     "point": "考订为主"
+    }
+   ],
+   "editions": [
+    "中华书局《十七史商榷》（黄曙辉点校）；商务印书馆本"
+   ],
+   "related_people": [
+    "cn-qingmod-zhang-xuecheng",
+    "cn-qingmod-gu-yanwu",
+    "cn-qingmod-dai-zhen"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“史书的校勘记”",
+     "why": "其书不止校字，兼考史事、制度与史法（“史识”）；故其为“以考订为基础的史学批评”。"
+    },
+    {
+     "claim": "其“实事求是”是“只考据不议论”",
+     "why": "其“实事求是”是对**空论**的反对，非对议论的禁止；其本人论史法处多有断制。"
+    }
+   ],
+   "sources": [
+    "ws-shiji",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《十七史商榷》的卷数与成书（1787）须核黄曙辉点校本；“实事求是”一语在其书中的用法亦须核。",
+   "sort_year": 1787
   },
   {
    "id": "work-cpr-practical",
@@ -23492,6 +23606,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1795
+  },
+  {
+   "id": "work-nianer-shi-zhaji",
+   "title": "《廿二史札记》",
+   "title_original": "廿二史劄記",
+   "tradition": "china",
+   "date_display": "清（赵翼，1727—1814；1795年成）",
+   "structure": "三十六卷（附《补遗》）：按史分卷，札记各史的体例、史事与人物，末附《史法》诸条。",
+   "core_arguments": [
+    "以“札记”治史：不就一书作注，而就诸史比较其异同",
+    "“史法”之论：史书的体例与曲笔，皆有其故",
+    "以“势”论史：制度与风气的变迁有其势，非一人之力"
+   ],
+   "key_points": [
+    {
+     "locator": "《史记》《汉书》诸条",
+     "point": "史法与体例"
+    },
+    {
+     "locator": "《唐书》以下",
+     "point": "制度的变迁"
+    },
+    {
+     "locator": "《补遗》",
+     "point": "史事的补正"
+    },
+    {
+     "locator": "全书",
+     "point": "以比较治史"
+    }
+   ],
+   "editions": [
+    "中华书局《廿二史札记校证》（王树民校证）"
+   ],
+   "related_people": [
+    "cn-qingmod-zhang-xuecheng",
+    "cn-qingmod-gu-yanwu",
+    "cn-qingmod-dai-zhen"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“读史笔记”",
+     "why": "其书虽以札记成，然有**系统的问题**（史法、制度之变、风气之移）；故其为“以比较治史”的著作，非随手笔记。"
+    },
+    {
+     "claim": "其“以势论史”是宿命论",
+     "why": "其“势”指**制度与风气积累而成的趋向**，非不可改的天命；故其说仍留人之作为的余地。"
+    }
+   ],
+   "sources": [
+    "ws-shiji",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《廿二史札记》的卷数与成书（1795）须核王树民校证本；其“史法”诸条的原文亦须核。",
    "sort_year": 1795
   },
   {

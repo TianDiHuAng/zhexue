@@ -2846,6 +2846,41 @@
    ],
    "needs_verification": true,
    "pending_notes": "“他者”的三条路径（列维纳斯的面容／萨特的注视／黑格尔的承认）须核 SEP 相关词条；本页取其一般义。"
+  },
+  {
+   "id": "gr-contemp-xushi-rentong",
+   "term": "叙事认同",
+   "term_latin": "narrative identity",
+   "definition": "利科（承麦金太尔）的范畴：人格的同一性不是一块不变的实体，而是**由讲述而成的故事**——“谁”的问题须由“他经历了什么故事”来回答。其“同一性”（idem，同一）与“自身性”（ipse，自身）之分，使“变中的同一”得以说明。",
+   "usages": [
+    {
+     "name": "利科（其立）",
+     "usage": "以“叙事”说自身性的构成；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "麦金太尔（其先）",
+     "usage": "以“叙事统一性”说德性与人生的整体。"
+    },
+    {
+     "name": "海德格尔（其远源）",
+     "usage": "以“在世”与“时间性”说人之存在的整体。"
+    }
+   ],
+   "related": [
+    "gr-contemp-tazhe"
+   ],
+   "example": {
+    "text": "“叙事认同”的要害是把**时间**放进人格的同一性里：若自我是一块实体，则变化即成丧失；若自我是一个故事，则变化可以是情节的推进。其困难是：故事须有讲述者，而“谁来讲述我的故事”本身又是个权力问题 —— 故这一范畴同时通向伦理学与政治。",
+    "figure": "利科",
+    "locator": "《作为他者的自身》"
+   },
+   "sources": [
+    "sep-ricoeur",
+    "sep-heidegger",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“叙事认同”与 idem／ipse 之分须核利科《作为他者的自身》；本页取其一般义。"
   }
  ],
  "debates": [
