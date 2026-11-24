@@ -34645,6 +34645,63 @@
    "sort_year": 1947
   },
   {
+   "id": "work-de-lexistence-a-existant",
+   "title": "《从存在到存在者》",
+   "title_original": "De l'existence à l'existant",
+   "tradition": "west",
+   "date_display": "1947（列维纳斯）",
+   "structure": "一部（凡五章）：论“**有**”（il y a）、疲劳、失眠与“**实显**”（hypostase）。",
+   "core_arguments": [
+    "“**有**”（il y a）：无存在者的存在 —— 无人称的、无从逃遁的“在场”",
+    "以“**疲劳**”与“**失眠**”经验之：意识在其中无法脱身",
+    "“**实显**”（hypostase）：由无名的“有”中生出存在者（主体）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "与存在的关系"
+    },
+    {
+     "locator": "第二章",
+     "point": "疲劳与瞬间"
+    },
+    {
+     "locator": "第三章",
+     "point": "il y a 与失眠"
+    },
+    {
+     "locator": "第四—五章",
+     "point": "实显与主体"
+    }
+   ],
+   "editions": [
+    "法文（Vrin）；英译（Existence and Existents, Duquesne）；中译参《从存在到存在者》（吴蕙仪译）"
+   ],
+   "related_people": [
+    "gr-20c-levinas",
+    "gr-20c-husserl",
+    "gr-20c-heidegger"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“存在主义的又一本”",
+     "why": "其书恰以“**有**”（无人称的存在）批判海德格尔式的“向死而在”：其焦点不在“我的存在”，而在**存在本身的无人称性**；故其路数与萨特一系有别。"
+    },
+    {
+     "claim": "其“有”是“虚无”",
+     "why": "其“有”不是“无”，而是**过度的在场**（无存在者的、压迫性的“在”）；故其为“有”的批判，非虚无主义。"
+    }
+   ],
+   "sources": [
+    "sep-levinas",
+    "sep-husserl",
+    "sep-heidegger"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《从存在到存在者》的成书（1947）与五章结构须核 Vrin 版与吴蕙仪译本；“il y a”“实显”（hypostase）的原文与译法亦须核。",
+   "sort_year": 1947
+  },
+  {
    "id": "work-second-sex",
    "title": "《第二性》",
    "title_original": "Le Deuxième Sexe",
@@ -35040,6 +35097,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《爱欲与文明》十一章的结构与 1955 年初版须核 Beacon 版与黄勇译本；“基本压抑／剩余压抑”的原文亦须核。",
+   "sort_year": 1955
+  },
+  {
+   "id": "work-aventures-dialectique",
+   "title": "《辩证法的历险》",
+   "title_original": "Les Aventures de la dialectique",
+   "tradition": "west",
+   "date_display": "1955（梅洛-庞蒂）",
+   "structure": "五章（含跋）：论马克斯·韦伯、卢卡奇、萨特与“**超布尔什维主义**”。",
+   "core_arguments": [
+    "辩证法是**处境中的理性**：不可化为“客观规律”亦不可化为“主观意志”",
+    "批评萨特的“**极端布尔什维主义**”：以纯粹的意志跳过历史的厚度",
+    "主张“**交织**”（entrelacs）的政治理性：无终点的批判"
+   ],
+   "key_points": [
+    {
+     "locator": "论韦伯",
+     "point": "理性化的两难"
+    },
+    {
+     "locator": "论卢卡奇",
+     "point": "正统与物化"
+    },
+    {
+     "locator": "论萨特",
+     "point": "极端布尔什维主义"
+    },
+    {
+     "locator": "跋",
+     "point": "交织的政治"
+    }
+   ],
+   "editions": [
+    "法文（Gallimard）；英译（Adventures of the Dialectic, Northwestern）；中译参《辩证法的历险》（杨大春等译）"
+   ],
+   "related_people": [
+    "gr-20c-merleau-ponty",
+    "gr-20c-sartre",
+    "gr-19c-marx"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“反马克思主义”的",
+     "why": "其书以**辩证法的真义**为准绳批评当日的马克思主义者（卢卡奇、萨特），故其为内部的批评，非全盘否定。"
+    },
+    {
+     "claim": "其“交织”是“折中”",
+     "why": "其“交织”是**处境中互相纠缠的历史结构**（无干净的立场可站），故其为分析的范畴，非折中。"
+    }
+   ],
+   "sources": [
+    "sep-merleau-ponty",
+    "sep-marx",
+    "sep-sartre"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《辩证法的历险》五章的篇目与 1955 年初版须核 Gallimard 版与杨大春译本；“极端布尔什维主义”一语（指萨特）的原文亦须核。",
    "sort_year": 1955
   },
   {
@@ -37198,6 +37312,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1975
+  },
+  {
+   "id": "work-metaphore-vive",
+   "title": "《活的隐喻》",
+   "title_original": "La métaphore vive",
+   "tradition": "west",
+   "date_display": "1975（利科）",
+   "structure": "八论（ études）：由亚里士多德的修辞学到现代语义学与解释学。",
+   "core_arguments": [
+    "隐喻不只是修辞的装饰：它有**认识的功效**（“见其同”）",
+    "以“**张力**”说隐喻：字面的荒谬与比喻的洞见并存",
+    "故隐喻作品如小型诗作：它**构造**世界而非描述世界"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—二论",
+     "point": "修辞学到语义学"
+    },
+    {
+     "locator": "第三—五论",
+     "point": "隐喻与语义的更新"
+    },
+    {
+     "locator": "第六—七论",
+     "point": "隐喻与指称"
+    },
+    {
+     "locator": "第八论",
+     "point": "隐喻与哲学话语"
+    }
+   ],
+   "editions": [
+    "法文（Seuil）；英译（The Rule of Metaphor, Toronto）；中译参《活的隐喻》（汪堂家译）"
+   ],
+   "related_people": [
+    "gr-20c-ricoeur",
+    "gr-ancient-aristotle",
+    "gr-20c-heidegger"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“修辞学的研究”",
+     "why": "其论旨是**隐喻的认识论与存在论**（隐喻如何重新描述世界），故其为解释学与形而上学的著作，非修辞技艺。"
+    },
+    {
+     "claim": "其“张力”是“矛盾”",
+     "why": "其“张力”是**字面与比喻之间的相互成全**（不是逻辑矛盾），故其为意义的生成机制。"
+    }
+   ],
+   "sources": [
+    "sep-ricoeur",
+    "sep-aristotle",
+    "sep-heidegger"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《活的隐喻》八论的篇次与 1975 年初版须核 Seuil 版与汪堂家译本；“张力”“指称”的原文亦须核。",
    "sort_year": 1975
   },
   {

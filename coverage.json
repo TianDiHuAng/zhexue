@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1729,
+  "entries": 1733,
   "by_level": {
    "L2": 779,
-   "L1": 950
+   "L1": 954
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 950,
+  "needs_verification": 954,
   "sources": 423,
   "sources_verified": 423
  },
@@ -16291,6 +16291,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-de-lexistence-a-existant",
+   "type": "work",
+   "title": "《从存在到存在者》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-second-sex",
    "type": "work",
    "title": "《第二性》",
@@ -16360,6 +16371,17 @@
    "id": "work-eros-civilization",
    "type": "work",
    "title": "《爱欲与文明》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-aventures-dialectique",
+   "type": "work",
+   "title": "《辩证法的历险》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -16783,6 +16805,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-metaphore-vive",
+   "type": "work",
+   "title": "《活的隐喻》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -18692,6 +18725,17 @@
    "id": "cmp-shengming",
    "type": "comparative",
    "title": "“生活世界”与“日用即道”：意义的地基在哪里？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-aiyo",
+   "type": "comparative",
+   "title": "“有”与“无何有之乡”：无物之在，是压迫还是安处？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
