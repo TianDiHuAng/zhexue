@@ -5459,6 +5459,120 @@
    "sort_year": -45
   },
   {
+   "id": "work-de-finibus",
+   "title": "《论至善与至恶》",
+   "title_original": "De finibus bonorum et malorum",
+   "tradition": "west",
+   "date_display": "前45年（西塞罗）",
+   "structure": "五卷对话：①伊壁鸠鲁派（托尔夸图斯）②伊壁鸠鲁派（续）③斯多亚派（加图）④学园派（瓦罗）⑤安提奥库斯与折衷（皮索）。",
+   "core_arguments": [
+    "至善的诸说：快乐（伊壁鸠鲁）、德性（斯多亚）、德性与外物之合（逍遥派）",
+    "对各说的**内在一致性与自足性**逐一检验",
+    "西塞罗本人倾于“以德性为主、兼取外物”的折衷立场"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—二",
+     "point": "伊壁鸠鲁派的快乐说"
+    },
+    {
+     "locator": "卷三",
+     "point": "斯多亚派的德性说"
+    },
+    {
+     "locator": "卷四",
+     "point": "对斯多亚的批评"
+    },
+    {
+     "locator": "卷五",
+     "point": "折衷的至善"
+    }
+   ],
+   "editions": [
+    "拉丁原文（OCT, Reynolds）；英译（De Finibus, Cambridge）；中译参（若有）"
+   ],
+   "related_people": [
+    "gr-hellenistic-cicero",
+    "gr-hellenistic-epicurus",
+    "gr-hellenistic-zeno"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是西塞罗“自己的学说”",
+     "why": "它是**对诸派的逐一陈述与检验**（对话体）；西塞罗本人的折衷立场只在末卷显出其倾向，故不能当作一家之言。"
+    },
+    {
+     "claim": "斯多亚派否认一切外物有价值",
+     "why": "其区分“善”（只有德性）与“可取之物”（健康、财富等“中性物”）：外物可取，但不是善。这一区分是理解其“自足”说的关键。"
+    }
+   ],
+   "sources": [
+    "sep-stoicism",
+    "sep-epicurus",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论至善与至恶》五卷的说话人与所代表的学派须逐一核（尤其卷五安提奥库斯的立场）；本页依 OCT 与希腊化哲学研究概述。",
+   "sort_year": -45
+  },
+  {
+   "id": "work-tusculanae",
+   "title": "《图斯库卢姆谈话录》",
+   "title_original": "Tusculanae disputationes",
+   "tradition": "west",
+   "date_display": "前45年（西塞罗）",
+   "structure": "五卷：论死亡、论痛苦、论悲伤、论其余的心灵烦扰、论德性是否自足于幸福。",
+   "core_arguments": [
+    "死亡不是恶（若灵魂有死则无知觉，若无死则更好）",
+    "德性自足于幸福：外物的得失不改变幸福",
+    "哲学是“灵魂的医术”（medicina animi）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "死亡不足畏"
+    },
+    {
+     "locator": "卷二",
+     "point": "痛苦"
+    },
+    {
+     "locator": "卷三",
+     "point": "悲伤"
+    },
+    {
+     "locator": "卷五",
+     "point": "德性自足"
+    }
+   ],
+   "editions": [
+    "拉丁原文（OCT）；英译（Tusculan Disputations, Loeb）；中译参（若有）"
+   ],
+   "related_people": [
+    "gr-hellenistic-cicero",
+    "gr-hellenistic-zeno",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“安慰文”的合集",
+     "why": "其体例是**学派的论辩**（每卷先立论再反驳），并非单纯的劝慰；其目的是以哲学论证治“心灵的病”。"
+    },
+    {
+     "claim": "“德性自足”意味着外物无关紧要",
+     "why": "其说与斯多亚的“可取之物”说相通：外物可取而非善，故其得失不改变幸福——这不是“无关紧要”的冷漠，而是**价值的排序**。"
+    }
+   ],
+   "sources": [
+    "sep-stoicism",
+    "sep-plato",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《图斯库卢姆谈话录》五卷的成书与各卷的学派来源（斯多亚、学园派）须核；本页依 OCT 与相关研究概述。",
+   "sort_year": -45
+  },
+  {
    "id": "work-de-officiis",
    "title": "《论义务》",
    "title_original": "De officiis",

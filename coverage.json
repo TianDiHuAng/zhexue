@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1213,
+  "entries": 1218,
   "by_level": {
    "L2": 792,
-   "L1": 421
+   "L1": 426
   },
   "doctrine": {
    "total": 264,
    "detail": 264,
    "auto": 0
   },
-  "needs_verification": 421,
+  "needs_verification": 426,
   "sources": 408,
   "sources_verified": 408
  },
@@ -30,7 +30,7 @@
    "title": "南北朝佛道与形神之争",
    "region": "china",
    "philosophers": 6,
-   "concepts": 6,
+   "concepts": 8,
    "debates": 2,
    "philosophers_slot": "8 上限，余 2"
   },
@@ -850,6 +850,28 @@
    "id": "cn-nanbei-baihei",
    "type": "concept",
    "title": "白黑论",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-cibei",
+   "type": "concept",
+   "title": "慈悲",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-fangbian",
+   "type": "concept",
+   "title": "方便",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -9361,6 +9383,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-de-finibus",
+   "type": "work",
+   "title": "《论至善与至恶》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-tusculanae",
+   "type": "work",
+   "title": "《图斯库卢姆谈话录》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-de-officiis",
    "type": "work",
    "title": "《论义务》",
@@ -13016,6 +13060,17 @@
    "id": "cmp-jijiziyou",
    "type": "comparative",
    "title": "积极自由与“自得”：伯林与庄子的“自己”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-beizhi",
+   "type": "comparative",
+   "title": "悲智双运与“仁智并举”：两种“情”与“理”的结合",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

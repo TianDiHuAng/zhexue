@@ -1113,6 +1113,79 @@
    ],
    "needs_verification": true,
    "pending_notes": "《白黑论》原文今多存于《弘明集》所收的往复论辩中，其单行本已佚；本页依《弘明集》与佛教研究概述。"
+  },
+  {
+   "id": "cn-nanbei-cibei",
+   "term": "慈悲",
+   "term_latin": "karuṇā（compassion）",
+   "definition": "大乘佛教的核心德目：与“智慧”并为两翼。其义不止于“同情”，而是**与众生同苦并欲拔其苦**；故其对象是“一切众生”，其动力是“同体”（他人的苦即我的苦）。",
+   "usages": [
+    {
+     "name": "《大般涅槃经》一系",
+     "usage": "以“佛性本有”说明为何能“同体大悲”。"
+    },
+    {
+     "name": "竺道生",
+     "id": "cn-nanbei-daosheng",
+     "usage": "以“一阐提亦得成佛”推至“无一众生可弃”。"
+    },
+    {
+     "name": "儒家“仁”（对照）",
+     "usage": "以“亲亲而仁民”的差等之爱为序。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-foxing",
+    "cn-nanbei-yichanti"
+   ],
+   "example": {
+    "text": "“慈悲”的难点在它与“智慧”的关系：若执着于“我在救众生”，则不名为慈悲（因为仍有“我—他”的对立）；故经论说“悲智双运”——慈悲须以“无自性”的智慧为体，才不至于变成占有。这一结构是理解大乘伦理的关键。",
+    "figure": "《大般涅槃经》",
+    "locator": "《大般涅槃经》卷十五（举例，须核）"
+   },
+   "sources": [
+    "ws-hongming-ji",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“慈悲”的梵文（karuṇā／maitrī 的区分）与汉译（慈悲／大悲）须分辨；本页取其大乘的一般义，具体经论依据须核。"
+  },
+  {
+   "id": "cn-nanbei-fangbian",
+   "term": "方便",
+   "term_latin": "upāya（skillful means）",
+   "definition": "大乘佛教的教化概念：为引导不同根器的众生，佛与菩萨以**应机的方法**说法，其形式可随宜，而所指不变。故“方便”不是权宜之计，而是**慈悲与智慧在教化中的结合**。",
+   "usages": [
+    {
+     "name": "《维摩诘经》一系",
+     "usage": "以“方便”与“般若”为菩萨行的双翼。"
+    },
+    {
+     "name": "竺道生",
+     "id": "cn-nanbei-daosheng",
+     "usage": "以“顿悟”说为“方便”的层次作论证。"
+    },
+    {
+     "name": "《法华经》一系（对照）",
+     "usage": "以“开权显实”说明方便与真实的关系。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-foxing"
+   ],
+   "example": {
+    "text": "“方便”的哲学难点在于：若形式可随宜，则如何防止“随宜”变成“任意”？其答案在“所指不变”——方便须以**实相**为归趣，否则即沦为“相似法”。故“方便”与“真实”的关系，是大乘解释学的核心问题。",
+    "figure": "《维摩诘经》",
+    "locator": "《维摩诘经·法供养品》（举例，须核）"
+   },
+   "sources": [
+    "ws-hongming-ji",
+    "book-chan-sourcebook",
+    "ws-mohezhiguan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“方便”（upāya）与“方便胜智”（upāya-kauśalya）的区分、以及“开权显实”的用法须核；本页取一般义。"
   }
  ],
  "debates": [
