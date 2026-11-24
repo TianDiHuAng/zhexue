@@ -2209,6 +2209,311 @@
      "note": "653 年颁行"
     }
    ]
+  },
+  {
+   "id": "cn-suitang-daoxuan",
+   "name": "道宣",
+   "latin": "Daoxuan",
+   "birth_year": 596,
+   "death_year": 667,
+   "birth_display": "596年",
+   "death_display": "667年",
+   "birth_note": "据《宋高僧传》与《续高僧传》后续记载：俗姓钱，丹徒人（一说长城），唐初律学与佛教史学的中心人物；居终南山，世称“南山律师”。",
+   "death_note": "667年卒（《宋高僧传》本传）。",
+   "era": "唐代律学与佛教史学的奠基者。其《四分律行事钞》以“止持／作持”两分统摄戒律，并以大乘意解小乘律，使《四分律》成为汉传佛教的主流；其《续高僧传》《大唐内典录》则续成佛教史与经录的体例。故其位置是“定一家之律，续一代之史”—— 二者都以**体例**为功。",
+   "school": "唐代律学（南山律）与佛教史学",
+   "core_questions": [
+    "戒律应依何部为准？",
+    "僧团的行事如何规范化？",
+    "佛教史与经录应以何为体例？"
+   ],
+   "arguments": [
+    {
+     "claim": "以“止持／作持”两分统摄戒律",
+     "premises": [
+      "戒律的条文可分为“应禁”与“应行”两类。",
+      "而僧团的存在须靠“行”的作法（受戒、说戒、安居）维持。"
+     ],
+     "inference": "若两类各有其条，则律学须分别判定“作了没有”（止持）与“作了没作”（作持）；故其体系是**行为的两分**，而非条文的堆积。",
+     "conclusion": "止持作持（此分判使律学成为制度之学）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以大乘意解小乘律：三聚净戒的会通",
+     "premises": [
+      "《四分律》属法藏部（小乘）律。",
+      "而汉地佛教以大乘为归。"
+     ],
+     "inference": "若以小乘律为行而大乘为心，则须说明二者如何会通；道宣的解法是“以大乘意解之”，即以三聚净戒统摄戒条 —— 其结果使《四分律》得以在中国独盛。",
+     "conclusion": "以大乘解小乘律（此会使《四分律》成为主流）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《四分律行事钞》",
+     "edition": "《大正藏》第40卷",
+     "note": "约626"
+    },
+    {
+     "title": "《续高僧传》",
+     "edition": "《大正藏》第50卷；中华书局点校本",
+     "note": "645"
+    },
+    {
+     "title": "《大唐内典录》",
+     "edition": "《大正藏》第55卷",
+     "note": "664"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "慧皎（其体例之先）",
+     "id": null,
+     "note": "以“高僧传”十科为其续传的范式"
+    },
+    {
+     "name": "智首（其师）",
+     "id": null,
+     "note": "隋唐律学的传承者，道宣从其学"
+    },
+    {
+     "name": "佛陀耶舍（其律本）",
+     "id": null,
+     "note": "《四分律》的译者"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "鉴真、义净等（其后学）",
+     "id": null,
+     "note": "南山律一系在唐代东传"
+    },
+    {
+     "name": "宋元明清的律学",
+     "id": null,
+     "note": "以《行事钞》为根本的注疏传统"
+    },
+    {
+     "name": "佛教史学",
+     "id": null,
+     "note": "以《续高僧传》为范式"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后世的律学批评者",
+     "view": "指其“以大乘解小乘律”混淆了部派律的性质：律是僧团的成文法，不宜以“心”解之。",
+     "response": "道宣一系的回应是：戒律的实行须有“心”的根据（三聚净戒），否则戒成为外在的约束；且汉地的僧团实践已如此。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-xugaoseng-zhuan",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《行事钞》是抄录《四分律》",
+     "why": "它“删繁补阙”：以《四分律》为主而统摄诸部（《十诵》《僧祇》等），并以大乘意解之。"
+    },
+    {
+     "claim": "道宣只依《四分律》而排斥他部",
+     "why": "其书大量引他部律以补不足，其方法是“会通”而非排他。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>道宣：止持作持与南山律</text><defs><marker id='aDX' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>戒条分应禁与应行</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故止持作持两分</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>而小乘律须以大乘意解</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故《四分律》独盛</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aDX)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aDX)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "道宣：“止持／作持”与以大乘意解小乘律（示意图）",
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "道宣无 SEP 专条（已试 daoxuan，404）；本页依《续高僧传》《宋高僧传》相关记载与《行事钞》原文（《大正藏》第40卷），**属语境性引用而非专门研究**。其生卒（596—667）与“南山”一系的传承须核。",
+   "doctrine": {
+    "summary": "道宣以《四分律行事钞》立南山律：以“止持／作持”两分统摄戒律，并以大乘意（三聚净戒）解小乘律，使《四分律》成为汉传主流。其《续高僧传》《大唐内典录》续成佛教史与经录的体例。故其功在**体例** —— 定一家之律，续一代之史。",
+    "system": [
+     {
+      "name": "止持作持",
+      "content": "戒条分为应禁与应行，各有其判定；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以大乘解小乘律",
+      "content": "以三聚净戒统摄戒条，使《四分律》可行于汉地。"
+     },
+     {
+      "name": "南山律",
+      "content": "以《行事钞》为根本的律学传统；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "续传与经录",
+      "content": "以十科续僧传，以十门立经录；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "丹徒与终南山（596—667）",
+      "change": "隋末出家；从智首学律；居终南山；626 年前后成《行事钞》；645 年《续高僧传》；664 年《大唐内典录》；曾参与玄奘译场；667 年卒。"
+     }
+    ],
+    "reception": "南山律成为汉传佛教的主流律学，宋元以降的律宗皆以《行事钞》为根本；《续高僧传》与《大唐内典录》则成为佛教史与经录的范式。"
+   },
+   "works_detail": [
+    {
+     "title": "《四分律行事钞》",
+     "structure": "三卷三十篇：上卷受戒结界、中卷说戒自恣衣药、下卷诸部杂行与瞻病送终。",
+     "core_thesis": "以止持作持统摄戒律，以大乘意解小乘律。",
+     "editions": "《大正藏》第40卷",
+     "note": "约626 年"
+    }
+   ]
+  },
+  {
+   "id": "cn-suitang-falin",
+   "name": "法琳",
+   "latin": "Falin",
+   "birth_year": 572,
+   "death_year": 640,
+   "birth_display": "572年",
+   "death_display": "640年",
+   "birth_note": "据《续高僧传》本传：俗姓陈，颍川人，唐初僧人，以护法论争著称；因《辩正论》与“老子化胡”之争闻名。",
+   "death_note": "640年卒于益州（《续高僧传》本传）。",
+   "era": "唐初佛道论争的代表人物。其《辩正论》以史传与经录为据，辨道教的源流与“老子化胡”之说的虚妄，并论证佛教之于王化的正当性。其论争的胜负不只在义理，更在**史料**—— 唐初的佛道先后之争，实质上是一场文献考辨与政治立场的交织。",
+   "school": "唐初佛道论争（护法）",
+   "core_questions": [
+    "三教的先后应如何判定？",
+    "“老子化胡”之说有无史据？",
+    "佛教之于王化的正当性何在？"
+   ],
+   "arguments": [
+    {
+     "claim": "以史传与经录为据，辨三教先后",
+     "premises": [
+      "“老子化胡”之说见于《老子化胡经》等道经。",
+      "而其书的年代与来历可疑。"
+     ],
+     "inference": "若其书的来历可疑，则其所主张的“化胡”先后亦无据；故其方法是**文献考辨**，而非单纯争胜。",
+     "conclusion": "以文献辨三教先后（此方法与后世的辨伪学相通）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以“因果”“报应”论佛教的教化之功",
+     "premises": [
+      "王化所需者在民之向善。",
+      "而佛教的因果报应之说正可劝善。"
+     ],
+     "inference": "若佛教能助王化，则其地位不应在道教之下；故其论证是**功能论的**（以教化之功定位宗教）。",
+     "conclusion": "以教化之功论佛教的地位（此说为后世护法论的常调）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《辩正论》（《辨正论》）",
+     "edition": "《大正藏》第52卷",
+     "note": "约626"
+    },
+    {
+     "title": "《破邪论》",
+     "edition": "《大正藏》第52卷",
+     "note": "唐初"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "傅奕（其论敌）",
+     "id": null,
+     "note": "唐初反佛的代表，其上疏促成了佛道论争"
+    },
+    {
+     "name": "高祖、太宗（其政治背景）",
+     "id": null,
+     "note": "朝廷的取舍决定了论争的胜负"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "韩愈（其后续）",
+     "id": "cn-suitang-han-yu",
+     "note": "中唐的排佛承其余绪（立场相反）"
+    },
+    {
+     "name": "后世的佛道论衡",
+     "id": null,
+     "note": "以史料为据的论争成为常态"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "傅奕一系",
+     "view": "指其护法之论“以教化的功效”取代“教义的真理”：若以有用定高下，则真理成了手段。",
+     "response": "法琳一系的回应是：宗教的地位本须论其教化之功（这是当时的公共论证方式）；至于教义的真理，须另以经论相校。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-xugaoseng-zhuan",
+      "ws-jiutangshu"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《辩正论》是纯粹的护教宣传",
+     "why": "其论证大量依赖史传与经录（如《老子化胡经》的源流考辨），故是“以文献为据的论争”；其失误在史料取舍的偏向，而非全无根据。"
+    },
+    {
+     "claim": "它对道教的批评是“反宗教”",
+     "why": "其所争的是三教的先后与地位，不是否定道教的教化；故须分辨其为“论争”而非“否定”。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>法琳：以文献辨三教先后</text><defs><marker id='aFL' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>化胡经来历可疑</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故化胡之说无据</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>而佛教有教化之功</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故其位不应在道教下</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aFL)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aFL)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "法琳：以史传与经录辨“老子化胡”之说（示意图）",
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "ws-jiutangshu",
+    "ws-gaoseng-zhuan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "法琳无 SEP 专条（已试 falin，404）；本页依《续高僧传》本传、《旧唐书》相关记载与《辩正论》原文（《大正藏》第52卷），**属语境性引用而非专门研究**。唐初佛道论争的经过与傅奕上疏的年份须核。",
+   "doctrine": {
+    "summary": "法琳是唐初佛道论争的代表：其《辩正论》以史传与经录为据，辨“老子化胡”之说的虚妄，并以“因果报应”的教化之功论佛教的地位。其方法近于后世的辨伪学，其失误在史料取舍的偏向；其论争的胜负亦系于朝廷的取舍，而非纯义理。",
+    "system": [
+     {
+      "name": "以文献辨先后",
+      "content": "化胡经的来历可疑，故其说无据；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "教化之功",
+      "content": "以因果报应劝善，故佛教有助于王化；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "论争与政治",
+      "content": "胜负系于朝廷取舍，非纯义理；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "护法的分寸",
+      "content": "所争为地位，非否定道教；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "颍川与长安（572—640）",
+      "change": "隋末出家；唐初居长安；以《破邪论》《辩正论》参与佛道论争；因论争获谴，流放益州；640 年卒于益州。"
+     }
+    ],
+    "reception": "其《辩正论》成为唐初护法文献的代表；其以文献考辨参与论争的方式，与后世（尤其清代）的辨伪学相通；唐初佛道之争的结果则影响了三教关系的格局。"
+   },
+   "works_detail": [
+    {
+     "title": "《辩正论》",
+     "structure": "八卷十二篇：三教先后之辨、对化胡说的批驳、因果报应与护法论证。",
+     "core_thesis": "以史传经录辨三教先后，以教化之功定佛教之位。",
+     "editions": "《大正藏》第52卷",
+     "note": "约626 年"
+    }
+   ]
   }
  ],
  "concepts": [

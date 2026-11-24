@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1375,
+  "entries": 1377,
   "by_level": {
    "L2": 781,
-   "L1": 594
+   "L1": 596
   },
   "doctrine": {
-   "total": 276,
-   "detail": 276,
+   "total": 278,
+   "detail": 278,
    "auto": 0
   },
-  "needs_verification": 594,
+  "needs_verification": 596,
   "sources": 418,
   "sources_verified": 418
  },
@@ -56,10 +56,10 @@
    "unit_id": "cn-suitang",
    "title": "隋唐佛学",
    "region": "china",
-   "philosophers": 15,
+   "philosophers": 17,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -7"
+   "philosophers_slot": "8 上限，余 -9"
   },
   {
    "unit_id": "cn-weijin",
@@ -2522,6 +2522,28 @@
    "id": "cn-suitang-kong-yingda",
    "type": "philosopher",
    "title": "孔颖达",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-suitang-daoxuan",
+   "type": "philosopher",
+   "title": "道宣",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-suitang-falin",
+   "type": "philosopher",
+   "title": "法琳",
    "container": "cn-suitang",
    "level": "L1",
    "sources": 3,
