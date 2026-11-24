@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1688,
+  "entries": 1692,
   "by_level": {
    "L2": 779,
-   "L1": 909
+   "L1": 913
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 909,
+  "needs_verification": 913,
   "sources": 422,
   "sources_verified": 422
  },
@@ -14949,6 +14949,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-briefe-asthetische",
+   "type": "work",
+   "title": "《审美教育书简》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-guangya-shuzheng",
    "type": "work",
    "title": "《广雅疏证》",
@@ -15030,6 +15041,17 @@
    "type": "work",
    "title": "《十驾斋养新录》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-ueber-religion",
+   "type": "work",
+   "title": "《论宗教》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -15254,6 +15276,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-glaubenslehre",
+   "type": "work",
+   "title": "《基督教信仰》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -18241,6 +18274,17 @@
    "id": "cmp-yaoyue",
    "type": "comparative",
    "title": "“跳跃”与“知止”：证明走到尽头怎么办？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-youxi",
+   "type": "comparative",
+   "title": "“游戏冲动”与“游于艺”：自由何以可能？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

@@ -27721,6 +27721,63 @@
    "sort_year": 1795
   },
   {
+   "id": "work-briefe-asthetische",
+   "title": "《审美教育书简》",
+   "title_original": "Über die ästhetische Erziehung des Menschen in einer Reihe von Briefen",
+   "tradition": "west",
+   "date_display": "1795（席勒）",
+   "structure": "二十七封信：由“人性的分裂”论至“审美状态”与“美的形式”。",
+   "core_arguments": [
+    "近代的分工使人**分裂**（“碎片”），故须由审美恢复其完整",
+    "人有两种冲动：**形式冲动**与**感性冲动**，二者由“**游戏冲动**”相合",
+    "“人只有当他是完整意义上的人时才游戏，且只有当他在游戏时才是完整的人”"
+   ],
+   "key_points": [
+    {
+     "locator": "第六—七信",
+     "point": "时代的分裂"
+    },
+    {
+     "locator": "第十二—十三信",
+     "point": "两种冲动"
+    },
+    {
+     "locator": "第十四—十五信",
+     "point": "游戏冲动"
+    },
+    {
+     "locator": "第二十六—二十七信",
+     "point": "审美状态"
+    }
+   ],
+   "editions": [
+    "德文（Schillers Werke, Nationalausgabe）；英译（On the Aesthetic Education of Man, Oxford）；中译参《审美教育书简》（冯至等译）"
+   ],
+   "related_people": [
+    "gr-german-schiller",
+    "gr-german-kant",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“游戏”是消遣",
+     "why": "其“游戏冲动”是**感性与形式的自由相合**（非消遣），故其为人的完整存在的状态；此语的德文 Spiel 兼含“游戏”与“自由活动”。"
+    },
+    {
+     "claim": "其说是“审美的逃避”",
+     "why": "其书以**政治的自由**为最终关切（审美教育为政治自由的前提），故其为政治哲学的著作，非逃避。"
+    }
+   ],
+   "sources": [
+    "sep-schiller",
+    "sep-kant",
+    "sep-aesthetics-18th-german"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《审美教育书简》二十七信的结构与 1795 年刊行须核 Nationalausgabe 与冯至译本；“游戏冲动”的原文（Spieltrieb）亦须核。",
+   "sort_year": 1795
+  },
+  {
    "id": "work-guangya-shuzheng",
    "title": "《广雅疏证》",
    "title_original": "廣雅疏證",
@@ -28174,6 +28231,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《十驾斋养新录》的卷数与《余录》的关系须核江苏古籍出版社点校本；“养新”之义的原文亦须核。",
+   "sort_year": 1799
+  },
+  {
+   "id": "work-ueber-religion",
+   "title": "《论宗教》",
+   "title_original": "Über die Religion. Reden an die Gebildeten unter ihren Verächtern",
+   "tradition": "west",
+   "date_display": "1799（施莱尔马赫）",
+   "structure": "五篇讲演：论宗教的本质、论宗教的教育、论宗教的培育、论宗教的会社、论诸宗教。",
+   "core_arguments": [
+    "宗教的本质是“**绝对依赖之感**”（此语在后期的《基督教信仰》中定型，本书已含其端）",
+    "宗教不是形而上学，也不是道德：故不可由二者取代",
+    "以“**直观与情感**”为宗教的所在，而非教义与制度"
+   ],
+   "key_points": [
+    {
+     "locator": "第二讲",
+     "point": "宗教的本质"
+    },
+    {
+     "locator": "第三讲",
+     "point": "宗教的培育"
+    },
+    {
+     "locator": "第四讲",
+     "point": "宗教的会社"
+    },
+    {
+     "locator": "第五讲",
+     "point": "诸宗教的差别"
+    }
+   ],
+   "editions": [
+    "德文（KGA I/2）；英译（On Religion: Speeches, Cambridge）；中译参《论宗教》（邓安庆译）"
+   ],
+   "related_people": [
+    "gr-german-schleiermacher",
+    "gr-german-kant",
+    "gr-german-novalis"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“绝对依赖之感”是情绪主义",
+     "why": "其“感”（Gefühl）是**对无限的直接把握**（近于直观），故其为宗教的“所在”之说，非情绪的相对主义。"
+    },
+    {
+     "claim": "其书是“为宗教辩护的护教文”",
+     "why": "其书的对象是“**有教养的蔑视者**”（启蒙的知识人），其论法是以哲学的语言重述宗教；故其为宗教哲学的奠基之作，非护教。"
+    }
+   ],
+   "sources": [
+    "sep-schleiermacher",
+    "sep-kant",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论宗教》五讲与 1799 年初版须核 KGA I/2 与邓安庆译本；“绝对依赖之感”的表述在本书与《基督教信仰》中的差异亦须核。",
    "sort_year": 1799
   },
   {
@@ -29312,6 +29426,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1821
+  },
+  {
+   "id": "work-glaubenslehre",
+   "title": "《基督教信仰》",
+   "title_original": "Der christliche Glaube nach den Grundsätzen der evangelischen Kirche",
+   "tradition": "west",
+   "date_display": "1821—1822（施莱尔马赫；1830 修订）",
+   "structure": "一部（含导论与命题体）：以“**绝对依赖之感**”为纲，重述基督教的教义。",
+   "core_arguments": [
+    "教义是**虔敬的情感**的表述（非形而上学与道德的命题）",
+    "“绝对依赖之感”为一切宗教的共同根据",
+    "以“**感受**”与“**表述**”的关系重排传统的教义学"
+   ],
+   "key_points": [
+    {
+     "locator": "导论",
+     "point": "教义学的性质"
+    },
+    {
+     "locator": "第一部",
+     "point": "虔敬与依赖之感"
+    },
+    {
+     "locator": "第二部",
+     "point": "罪与救赎"
+    },
+    {
+     "locator": "全书",
+     "point": "以情感重述教义"
+    }
+   ],
+   "editions": [
+    "德文（KGA I/13）；英译（The Christian Faith, T&T Clark）；中译少见"
+   ],
+   "related_people": [
+    "gr-german-schleiermacher",
+    "gr-medieval-aquinas",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“情感”是主观的任意",
+     "why": "其“感”是**普遍的、可传达的**（人与人共有），故其说不落于私人的任意；此点其后为黑格尔所讥（“一切皆系于情感”），本页并述。"
+    },
+    {
+     "claim": "其书是“教义的复述”",
+     "why": "其书**重排**了传统的教义学（以情感为纲），并为十九世纪的神学奠基；故其为重构，非复述。"
+    }
+   ],
+   "sources": [
+    "sep-schleiermacher",
+    "sep-aquinas",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《基督教信仰》的导论与 1821／1830 两版须核 KGA I/13；黑格尔对其“情感”的批评亦须核。中译少，本页多为义述。",
    "sort_year": 1821
   },
   {
