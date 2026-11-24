@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1623,
+  "entries": 1628,
   "by_level": {
-   "L2": 780,
-   "L1": 843
+   "L2": 779,
+   "L1": 849
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 843,
+  "needs_verification": 849,
   "sources": 419,
   "sources_verified": 419
  },
@@ -11576,10 +11576,10 @@
    "type": "work",
    "title": "《订正论》",
    "container": "west",
-   "level": "L2",
+   "level": "L1",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -12298,6 +12298,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-de-prima-philosophia",
+   "type": "work",
+   "title": "《论第一哲学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-periphyseon",
    "type": "work",
    "title": "《论自然的区分》",
@@ -12650,6 +12661,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-four-books-sentences",
+   "type": "work",
+   "title": "《四部语录》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-nanxuan-ji",
    "type": "work",
    "title": "《南轩集》",
@@ -12969,6 +12991,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-itinerarium-mentis",
+   "type": "work",
+   "title": "《心灵走向上帝的旅程》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-quaestiones-disputatae",
    "type": "work",
    "title": "《辩论问题集》",
@@ -13060,6 +13093,17 @@
    "id": "work-de-primo-principio",
    "type": "work",
    "title": "《论第一原理》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-summa-logicae-ockham",
+   "type": "work",
+   "title": "《逻辑大全》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -17526,6 +17570,17 @@
    "id": "cmp-nishen",
    "type": "comparative",
    "title": "“牛马画神”与“绝地天通”：神为什么不能长得像人？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-tidao",
+   "type": "comparative",
+   "title": "“受造物是迹”与“格物穷理”：由物可以上溯其源吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

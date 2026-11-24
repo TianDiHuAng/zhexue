@@ -10340,7 +10340,7 @@
     "book-copleston-history",
     "sep-aquinas"
    ],
-   "needs_verification": false,
+   "needs_verification": true,
    "pending_notes": " 汉译另有《订正录》《回顾录》《更正录》等名（见别名表）；retractare 意为“重新审视／修正”，非“撤回”。",
    "sort_year": 427
   },
@@ -14017,6 +14017,63 @@
    "sort_year": 850
   },
   {
+   "id": "work-de-prima-philosophia",
+   "title": "《论第一哲学》",
+   "title_original": "Fī al-Falsafa al-Ūlā（致穆塔西姆书）",
+   "tradition": "west",
+   "date_display": "约9世纪（金迪）",
+   "structure": "四部：论哲学的地位、论万物的有始、论天体、论神性（ unity 与创造）。",
+   "core_arguments": [
+    "哲学是“对事物本质的认识”，与启示不相悖：真理不违真理",
+    "以“有始”论证世界由造物者创造（以亚里士多德的运动论证为据）",
+    "“真一”（al-wāḥid）无杂多：由一生多须经中介的层次"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "哲学的地位"
+    },
+    {
+     "locator": "第二部",
+     "point": "世界的有始"
+    },
+    {
+     "locator": "第三部",
+     "point": "天体与因果"
+    },
+    {
+     "locator": "第四部",
+     "point": "真一与创造"
+    }
+   ],
+   "editions": [
+    "阿拉伯文本（Risāla fī al-falsafa al-ūlā, Cairo）；英译（Al-Kindī's Metaphysics, SUNY）；中译少见"
+   ],
+   "related_people": [
+    "gr-medieval-al-kindi",
+    "gr-medieval-al-farabi",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“把希腊哲学照搬进伊斯兰”",
+     "why": "其书**改造**了亚里士多德与新柏拉图的材料（如“由一生多”须经中介），以回应伊斯兰的神学问题；故其为创造性的综合。"
+    },
+    {
+     "claim": "其“哲学与启示不悖”是折中",
+     "why": "其立场是**同一种真理的两种表达**（理性与启示），故其为一种知识论的主张，非无原则的折中。"
+    }
+   ],
+   "sources": [
+    "sep-al-kindi",
+    "sep-aristotle",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论第一哲学》的四部结构与成书（约9世纪）须核 Cairo 版与英译本；“由一生多”的原文亦须核。中译少，本页多为义述。",
+   "sort_year": 850
+  },
+  {
    "id": "work-periphyseon",
    "title": "《论自然的区分》",
    "title_original": "Periphyseon (De divisione naturae)",
@@ -15843,6 +15900,63 @@
    "sort_year": 1150
   },
   {
+   "id": "work-four-books-sentences",
+   "title": "《四部语录》",
+   "title_original": "Libri IV Sententiarum",
+   "tradition": "west",
+   "date_display": "约1150（彼得·隆巴德）",
+   "structure": "四卷：论上帝与三位一体、论创造与罪、论道成肉身与德性、论圣事与终末。",
+   "core_arguments": [
+    "以“教父语录的汇编”立神学的教材：后世注家（阿奎那、波那文图拉、奥卡姆）皆注此书",
+    "以“设问”式的编排为经院方法铺路（虽未用严格的 quaestio 体）",
+    "以奥古斯丁为纲，兼取安瑟尔谟与“四句宗”"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "三位一体"
+    },
+    {
+     "locator": "卷二",
+     "point": "创造与罪"
+    },
+    {
+     "locator": "卷三",
+     "point": "道成肉身与德性"
+    },
+    {
+     "locator": "卷四",
+     "point": "圣事与终末"
+    }
+   ],
+   "editions": [
+    "拉丁文本（Spicilegium Bonaventurianum 等）；英译（The Sentences, 四卷，Mediaeval Sources）"
+   ],
+   "related_people": [
+    "gr-medieval-abelard",
+    "gr-medieval-aquinas",
+    "gr-medieval-bonaventure"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“隆巴德本人的神学体系”",
+     "why": "其书是**教父语录的汇编与编排**（sententiae 即“意见”），其创见在**编排与取舍**，非自成体系；故其为教材，非体系。"
+    },
+    {
+     "claim": "其影响在神学之外无足轻重",
+     "why": "其为**十二至十六世纪神学教育的基础教材**，几乎所有大注家皆注此书；故其在思想史上的位置极重。"
+    }
+   ],
+   "sources": [
+    "sep-abelard",
+    "sep-aquinas",
+    "sep-bonaventure"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《四部语录》的四卷结构与成书（约1150）须核 Mediaeval Sources 英译本；其与经院“设问体”的关系亦须核。",
+   "sort_year": 1150
+  },
+  {
    "id": "work-nanxuan-ji",
    "title": "《南轩集》",
    "title_original": "南軒集",
@@ -17488,6 +17602,63 @@
    "sort_year": 1259
   },
   {
+   "id": "work-itinerarium-mentis",
+   "title": "《心灵走向上帝的旅程》",
+   "title_original": "Itinerarium mentis in Deum",
+   "tradition": "west",
+   "date_display": "1259（波那文图拉）",
+   "structure": "七章：由受造物之迹（vestigia）、其形象（imago）、至存在本身（esse），层层上升而至神秘的安息。",
+   "core_arguments": [
+    "受造物是上帝的“迹”（vestigium）：由外物可上溯其源",
+    "人心是上帝的“形象”（imago）：由内省可上溯三位一体",
+    "终以“安息”（requies）为归：知识止处，爱而安之"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—二章",
+     "point": "受造物的迹"
+    },
+    {
+     "locator": "第三—四章",
+     "point": "心灵的形象"
+    },
+    {
+     "locator": "第五—六章",
+     "point": "存在与善"
+    },
+    {
+     "locator": "第七章",
+     "point": "神秘的安息"
+    }
+   ],
+   "editions": [
+    "拉丁文本（Opera omnia, Quaracchi）；英译（The Journey of the Mind to God, Hackett）；中译少见"
+   ],
+   "related_people": [
+    "gr-medieval-bonaventure",
+    "gr-medieval-aquinas",
+    "gr-medieval-augustine"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“神秘的灵修小册”",
+     "why": "其书有严格的**阶次结构**（由迹而像而存在），且大量用亚里士多德与奥古斯丁的范畴；故其为哲学的神学，非仅灵修。"
+    },
+    {
+     "claim": "其与阿奎那同一路数",
+     "why": "其取**奥古斯丁—方济各**一系（重意志与爱），与阿奎那的亚里士多德—多明我一路有别；故二者是同代的两条路。"
+    }
+   ],
+   "sources": [
+    "sep-bonaventure",
+    "sep-aquinas",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《心灵走向上帝的旅程》的七章结构与 1259 年成书须核 Quaracchi 版；“迹／像／存在”三阶的原文亦须核。中译少，本页多为义述。",
+   "sort_year": 1259
+  },
+  {
    "id": "work-quaestiones-disputatae",
    "title": "《辩论问题集》",
    "title_original": "Quaestiones disputatae",
@@ -18000,6 +18171,63 @@
    "needs_verification": true,
    "pending_notes": "《论第一原理》的成书年代（约1290）与各本章节划分须核梵蒂冈版《司各脱全集》；其与《牛津评注》的关系亦是线索。",
    "sort_year": 1290
+  },
+  {
+   "id": "work-summa-logicae-ockham",
+   "title": "《逻辑大全》",
+   "title_original": "Summa logicae",
+   "tradition": "west",
+   "date_display": "约1323（奥卡姆的威廉）",
+   "structure": "三部：论词项（de terminis）、论命题、论论证；为十四世纪逻辑的集大成之作。",
+   "core_arguments": [
+    "以“词项”为逻辑的单位：**指代**（suppositio）理论区分词项的用法",
+    "共相只是**心灵中的概念**（或是语词），不是心外的实在（此为唯名论的核心）",
+    "“如无必要，勿增实体”：以经济的解释排斥多余的本体（后称“奥卡姆剃刀”）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "词项与指代"
+    },
+    {
+     "locator": "第二部",
+     "point": "命题"
+    },
+    {
+     "locator": "第三部",
+     "point": "论证与推论"
+    },
+    {
+     "locator": "全书",
+     "point": "唯名论与经济的解释"
+    }
+   ],
+   "editions": [
+    "拉丁文本（Opera philosophica, St. Bonaventure）；英译（Ockham's Theory of Terms, Notre Dame）"
+   ],
+   "related_people": [
+    "gr-medieval-ockham",
+    "gr-medieval-duns-scotus",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "其唯名论是“否认共相的用处”",
+     "why": "其说承认共相为**心灵的概念**（有逻辑的用处），只是否认其为心外的实在；故其为“概念的唯名论”，非取消共相。"
+    },
+    {
+     "claim": "“奥卡姆剃刀”是“越简单越好”",
+     "why": "其原意是**不设多余的本体**（非以简单为标准选理论）；其应用于神学与自然哲学，皆有具体的论证语境。"
+    }
+   ],
+   "sources": [
+    "sep-ockham",
+    "sep-buridan",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《逻辑大全》的三部结构与成书（约1323）须核 St. Bonaventure 版；“指代”理论与“剃刀”的原文表述亦须核。",
+   "sort_year": 1323
   },
   {
    "id": "work-xingli-daquan",
