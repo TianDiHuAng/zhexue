@@ -32820,6 +32820,63 @@
    "sort_year": 1913
   },
   {
+   "id": "work-konfuzianismus-taoismus",
+   "title": "《儒教与道教》",
+   "title_original": "Konfuzianismus und Taoismus（《中国宗教》第一卷）",
+   "tradition": "west",
+   "date_display": "1915（韦伯）",
+   "structure": "一部（诸章）：论中国的社会结构（城市、官僚、宗族）与儒教、道教之伦理。",
+   "core_arguments": [
+    "中国的“**士人**”阶层以经典与礼仪为其资格，故其理性是**适应世界**的（非改造世界）",
+    "缺乏“**入世的禁欲**”（innerweltliche Askese）：故无近代资本主义的“精神”",
+    "以此与清教对照：同为理性化，方向不同"
+   ],
+   "key_points": [
+    {
+     "locator": "论社会结构",
+     "point": "城市与官僚"
+    },
+    {
+     "locator": "论儒教",
+     "point": "士人与礼"
+    },
+    {
+     "locator": "论道教",
+     "point": "道教与民间"
+    },
+    {
+     "locator": "全书",
+     "point": "与清教相对照"
+    }
+   ],
+   "editions": [
+    "德文（Mohr Siebeck, MWG I/19）；英译（The Religion of China, Free Press）；中译参《儒教与道教》（洪天富译）"
+   ],
+   "related_people": [
+    "gr-20c-weber",
+    "cn-xianqin-kongzi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“对中国文化的贬低”",
+     "why": "其书以**理性化的比较**为纲（中国亦有高度的理性化，唯方向不同），故其为类型学的比较，非贬低；然其**时代的偏见与材料的限制**须如实标出。"
+    },
+    {
+     "claim": "其“儒教”是“宗教”",
+     "why": "其“儒教”是**士人的伦理与礼制**（近于“教化”而非救赎宗教），韦伯本人亦指出其“非救赎宗教”的性质；故须分辨。"
+    }
+   ],
+   "sources": [
+    "sep-weber",
+    "sep-chinese-metaphysics",
+    "ct-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《儒教与道教》的成书（1915）与 MWG I/19 须核洪天富译本；其中对中国材料的**时代局限与偏见**须如实标出，不作美化。",
+   "sort_year": 1915
+  },
+  {
    "id": "work-formalism-material",
    "title": "《伦理学中的形式主义与质料的价值伦理学》",
    "title_original": "Der Formalismus in der Ethik und die materiale Wertethik",
@@ -32932,6 +32989,63 @@
    "needs_verification": true,
    "pending_notes": "《小说理论》两部分的篇目与 1916／1920 的成书须核 Luchterhand 版与 MIT 英译本；“先验的无家可归”的原文亦须核。",
    "sort_year": 1916
+  },
+  {
+   "id": "work-wissenschaft-beruf",
+   "title": "《以学术为业》",
+   "title_original": "Wissenschaft als Beruf",
+   "tradition": "west",
+   "date_display": "1917 讲演／1919 刊（韦伯）",
+   "structure": "一篇讲演：论学术的外部条件（物质与制度）与其内在的“天命”。",
+   "core_arguments": [
+    "学术已进入**专业化**与“**计算**”的时代，个人的“体验”不再是其根据",
+    "学术不回答“我们应当做什么”：它只提供**手段**与**技术的批判**",
+    "故学者须承担“**价值中立**”的代价：清醒而无慰藉"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "学术的外部条件"
+    },
+    {
+     "locator": "中段",
+     "point": "进步与意义的难题"
+    },
+    {
+     "locator": "末段",
+     "point": "价值中立与天命"
+    },
+    {
+     "locator": "全篇",
+     "point": "以讲演行诊断"
+    }
+   ],
+   "editions": [
+    "德文（Gesammelte Aufsätze zur Wissenschaftslehre）；英译（Science as a Vocation）；中译参《学术与政治》（冯克利译）"
+   ],
+   "related_people": [
+    "gr-20c-weber",
+    "gr-german-kant",
+    "gr-19c-marx"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“价值中立”是“没有立场”",
+     "why": "其“价值中立”是**方法的规约**（学术不替人抉择目的），而学者本人在政治场合仍可有立场；故须分辨方法的与个人的层次。"
+    },
+    {
+     "claim": "其说是“对学术的悲观否定”",
+     "why": "其末段恰以“**天命**”（Beruf）相勉：在无慰藉处仍尽责。故其为清醒的肯定，非否定。"
+    }
+   ],
+   "sources": [
+    "sep-weber",
+    "sep-kant",
+    "sep-marx"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《以学术为业》的讲演（1917）与刊行（1919）须核 Gesammelte Aufsätze zur Wissenschaftslehre 与冯克利译本；“价值中立”一语的原文亦须核。",
+   "sort_year": 1917
   },
   {
    "id": "work-geist-utopie",
@@ -33160,6 +33274,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《观堂集林》的卷数与分部须核中华书局影印本；“二重证据法”的表述（《古史新证》）亦须核。",
+   "sort_year": 1921
+  },
+  {
+   "id": "work-wirtschaft-gesellschaft",
+   "title": "《经济与社会》",
+   "title_original": "Wirtschaft und Gesellschaft",
+   "tradition": "west",
+   "date_display": "1921—1922（韦伯；遗稿刊行）",
+   "structure": "若干部（今编为诸章）：论社会学的基本概念、支配的类型、阶级与身份、宗教共同体等。",
+   "core_arguments": [
+    "社会学以“**社会行动**”为对象，须以**理解**（Verstehen）为其方法",
+    "“**支配**”的三种纯粹类型：传统的、卡里斯玛的、**法理的**",
+    "“**理想类型**”（Idealtypus）为分析的工具，非常实的描述"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "社会行动与理解"
+    },
+    {
+     "locator": "支配的类型",
+     "point": "三种正当性"
+    },
+    {
+     "locator": "阶级与身份",
+     "point": "阶层的两轴"
+    },
+    {
+     "locator": "全书",
+     "point": "以理想类型为法"
+    }
+   ],
+   "editions": [
+    "德文（Mohr Siebeck, MWG I/22—23）；英译（Economy and Society, California）；中译参《经济与社会》（阎克文译）"
+   ],
+   "related_people": [
+    "gr-20c-weber",
+    "gr-19c-marx",
+    "gr-modern-machiavelli"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“理想类型”是“理想的模型”",
+     "why": "其“理想类型”是**分析的概念构造**（由片面强调而成），与“应当如此”的规范理想无关；故其为方法的概念，非价值的主张。"
+    },
+    {
+     "claim": "其“支配”三类型是历史的阶段",
+     "why": "三类型是**纯粹的型**（现实中常相混合），故其非历史的分期，而是分析的工具。"
+    }
+   ],
+   "sources": [
+    "sep-weber",
+    "sep-marx",
+    "sep-foucault"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《经济与社会》的遗稿编次（MWG I/22—23）与 1921／1922 刊行须核 Mohr Siebeck 版与阎克文译本；“理想类型”“支配三类型”的原文亦须核。",
    "sort_year": 1921
   },
   {

@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1721,
+  "entries": 1725,
   "by_level": {
    "L2": 779,
-   "L1": 942
+   "L1": 946
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 942,
+  "needs_verification": 946,
   "sources": 423,
   "sources_verified": 423
  },
@@ -15939,6 +15939,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-konfuzianismus-taoismus",
+   "type": "work",
+   "title": "《儒教与道教》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-formalism-material",
    "type": "work",
    "title": "《伦理学中的形式主义与质料的价值伦理学》",
@@ -15953,6 +15964,17 @@
    "id": "work-theory-novel",
    "type": "work",
    "title": "《小说理论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-wissenschaft-beruf",
+   "type": "work",
+   "title": "《以学术为业》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -15998,6 +16020,17 @@
    "type": "work",
    "title": "《观堂集林》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-wirtschaft-gesellschaft",
+   "type": "work",
+   "title": "《经济与社会》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -18604,6 +18637,17 @@
    "id": "cmp-guangyun",
    "type": "comparative",
    "title": "“光晕凋落”与“文以载道”：复制与传述会伤及作品吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shiren",
+   "type": "comparative",
+   "title": "“适应世界”与“修身以应世”：理性化的两个方向",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
