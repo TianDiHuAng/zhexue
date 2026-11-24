@@ -8344,6 +8344,120 @@
    "sort_year": 409
   },
   {
+   "id": "work-satyasiddhi",
+   "title": "《成实论》",
+   "title_original": "Satyasiddhi-śāstra（成實論）",
+   "tradition": "china",
+   "date_display": "诃梨跋摩造（约4世纪）；鸠摩罗什411—412年译",
+   "structure": "十六卷（罗什译本，二百二品）：分“发聚”（教理总纲）、“苦谛聚”、“集谛聚”、“灭谛聚”、“道谛聚”五聚，依四谛组织。",
+   "core_arguments": [
+    "以“四谛”为纲组织教理：苦、集、灭、道",
+    "以“二谛”（世谛与第一义谛）说明说法的层次",
+    "对说一切有部的“法有”说有所批评，近于经量部"
+   ],
+   "key_points": [
+    {
+     "locator": "〈发聚〉",
+     "point": "教理总纲与二谛"
+    },
+    {
+     "locator": "〈苦谛聚〉",
+     "point": "五阴与四大"
+    },
+    {
+     "locator": "〈集谛聚〉",
+     "point": "业与烦恼"
+    },
+    {
+     "locator": "〈灭谛聚〉〈道谛聚〉",
+     "point": "灭与道"
+    }
+   ],
+   "editions": [
+    "《大正藏》第32卷；梵本残片与汉译对照研究（如 H. W. Bailey 等）"
+   ],
+   "related_people": [
+    "cn-suitang-jizang",
+    "cn-weijin-sengzhao",
+    "cn-nanbei-sengyou"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“小乘”的著作，故与中国佛教无关",
+     "why": "它在南朝极盛（“成实师”成一大宗派），且其“二谛”与“灭谛”的讨论直接参与了南北朝的义学争论；故是中国佛教史的重要一环。"
+    },
+    {
+     "claim": "它完全属于说一切有部",
+     "why": "它对有部的“法有”说有所批评（近于经量部），故其部派归属在学界有争论。"
+    }
+   ],
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《成实论》的部派归属（有部／经量部）与作者（诃梨跋摩）在学界有争论；本页依罗什译本与佛教研究概述，具体品目须核《大正藏》第32卷。",
+   "sort_year": 412
+  },
+  {
+   "id": "work-dharmaguptaka-vinaya",
+   "title": "《四分律》",
+   "title_original": "四分律（Dharmaguptaka-vinaya）",
+   "tradition": "china",
+   "date_display": "佛陀耶舍、竺佛念410—412年译（姚秦）",
+   "structure": "六十卷：分四部分（初分、二分、三分、四分），含比丘戒、比丘尼戒、受戒犍度与僧团制度。",
+   "core_arguments": [
+    "以“四分”组织戒律：戒条、僧团行事与制度",
+    "以“止持”（不作恶）与“作持”（应作）分摄戒律",
+    "戒律是僧团存续的制度基础"
+   ],
+   "key_points": [
+    {
+     "locator": "初分",
+     "point": "比丘戒"
+    },
+    {
+     "locator": "二分",
+     "point": "比丘尼戒与受戒"
+    },
+    {
+     "locator": "三分",
+     "point": "安居、自恣等犍度"
+    },
+    {
+     "locator": "四分",
+     "point": "僧团制度与诤事"
+    }
+   ],
+   "editions": [
+    "《大正藏》第22卷；道宣《四分律行事钞》为其注疏的代表"
+   ],
+   "related_people": [
+    "cn-nanbei-sengyou",
+    "cn-nanbei-sengchou",
+    "cn-suitang-xuanzang"
+   ],
+   "misreadings": [
+    {
+     "claim": "《四分律》是“中国的律”",
+     "why": "它是**昙无德部**（法藏部）的律典，由印度传来；中国因道宣一系的弘扬而独盛，故是“在中国盛行的律”，不是“中国造的律”。"
+    },
+    {
+     "claim": "戒律只是行为规范，与哲学无关",
+     "why": "戒律涉及**僧团的制度、忏悔与判断**（“诤事”如何灭），其中含制度理性与伦理推理；故为佛教伦理学与制度思想的核心材料。"
+    }
+   ],
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《四分律》的译出（410—412）与其部派归属（法藏部）须核；道宣一系独盛的原因须结合唐代僧制理解。",
+   "sort_year": 412
+  },
+  {
    "id": "work-city-of-god",
    "title": "《上帝之城》",
    "title_original": "De Civitate Dei",
@@ -8970,6 +9084,63 @@
    "needs_verification": true,
    "pending_notes": "《神灭论》的原文见《弘明集》卷九与《梁书·范缜传》，二者文字有差异；“形神相即”的确切论证与其“刃利”之喻的解释须核原典。",
    "sort_year": 507
+  },
+  {
+   "id": "work-dasabhumika",
+   "title": "《十地经论》",
+   "title_original": "Daśabhūmika-sūtra-śāstra（十地經論）",
+   "tradition": "china",
+   "date_display": "世亲造；菩提流支、勒那摩提等508年前后译",
+   "structure": "十二卷：释《华严经·十地品》，以“十地”为纲，每地分“所说”“解释”等层次。",
+   "core_arguments": [
+    "以“十地”说明菩萨修行的阶次",
+    "以“阿梨耶识”（阿赖耶识）为诸法的所依",
+    "“三界唯心”的命题在此得到系统的论证"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "十地的总纲"
+    },
+    {
+     "locator": "初地",
+     "point": "发心与证真"
+    },
+    {
+     "locator": "诸地",
+     "point": "修行与地地之德"
+    },
+    {
+     "locator": "末卷",
+     "point": "佛地的果德"
+    }
+   ],
+   "editions": [
+    "《大正藏》第26卷；敦煌残卷与新出梵本残片"
+   ],
+   "related_people": [
+    "cn-suitang-xuanzang",
+    "cn-nanbei-sengchou",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是《华严经》的注释",
+     "why": "它建立了“地论师”一系（南北二道），并成为唯识学与华严宗的共同资源；故其影响远超注释。"
+    },
+    {
+     "claim": "其译出无争议",
+     "why": "其译出涉及菩提流支、勒那摩提与佛陀扇多三人的合作与分歧（“南北二道”之分的起因之一），故须分辨译场的情况。"
+    }
+   ],
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "ws-dacheng-qixinlun"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《十地经论》的译出（508年前后）与“南北二道”之分的关系须核；其与《大乘起信论》的真伪之争亦有牵连（二者常被并论）。",
+   "sort_year": 508
   },
   {
    "id": "work-hongmingji",

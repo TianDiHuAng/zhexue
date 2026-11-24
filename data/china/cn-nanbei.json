@@ -1942,6 +1942,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“禅观”一词在南北朝兼指具体法门（四念处、不净观等）与一般修禅；本页取北朝次第禅的用法，具体法门须核《续高僧传》与相关研究。"
+  },
+  {
+   "id": "cn-nanbei-jiamo",
+   "term": "羯磨",
+   "term_latin": "karman（僧团议事）",
+   "definition": "僧团处理事务的程序：受戒、忏悔、分配、诤事的裁断，皆须由僧众按一定程序共同议决（“白”“白二”“白四”等）。故其规范不靠权威的命令，而靠**程序**的成立。",
+   "usages": [
+    {
+     "name": "僧祐（律师传统）",
+     "id": "cn-nanbei-sengyou",
+     "usage": "以戒律与羯磨维持僧团的秩序与存续。"
+    },
+    {
+     "name": "僧稠（其行持）",
+     "id": "cn-nanbei-sengchou",
+     "usage": "戒净则观成：羯磨所成的清净是修禅的前提。"
+    },
+    {
+     "name": "道宣（其系统化）",
+     "usage": "以《四分律》的羯磨法整理僧团的行事。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-chan-guan"
+   ],
+   "example": {
+    "text": "“白四羯磨”：先白告一次，再三问而表决；成否取决于僧众的和合，而非主持者的意志——故其权威来自程序本身。",
+    "figure": "僧祐",
+    "locator": "《四分律》"
+   },
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“羯磨”的诸种作法（白、白二、白四）与《四分律》的具体规定须核；本页取其程序义，具体条文须核原书。"
   }
  ],
  "debates": [
