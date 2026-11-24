@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1639,
+  "entries": 1642,
   "by_level": {
    "L2": 779,
-   "L1": 860
+   "L1": 863
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 860,
+  "needs_verification": 863,
   "sources": 420,
   "sources_verified": 420
  },
@@ -11363,6 +11363,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-liezi-zhu",
+   "type": "work",
+   "title": "《列子注》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-liezi",
    "type": "work",
    "title": "《列子》",
@@ -11641,6 +11652,17 @@
    "id": "work-shenmie-lun",
    "type": "work",
    "title": "《神灭论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-fanzhen-ji",
+   "type": "work",
+   "title": "《范缜集》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -17702,6 +17724,17 @@
    "id": "cmp-guize",
    "type": "comparative",
    "title": "“遵守规则”与“言必信”：规则的确定性从哪里来？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shenmie",
+   "type": "comparative",
+   "title": "“形质神用”与“身心二元”：精神能离身而存吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

@@ -9209,6 +9209,63 @@
    "sort_year": 317
   },
   {
+   "id": "work-liezi-zhu",
+   "title": "《列子注》",
+   "title_original": "（张湛注《列子》）",
+   "tradition": "china",
+   "date_display": "东晋（张湛注；今存八卷）",
+   "structure": "八卷：天瑞、黄帝、周穆王、仲尼、汤问、力命、杨朱、说符；张湛注与篇目并传。",
+   "core_arguments": [
+    "以“**至虚**”为万物之宗：虚者无物，而万物由之生",
+    "“群有以至虚为宗，万品以终灭为验”：以“终灭”言变化之实",
+    "融玄学与佛理：以“虚”通“空”，为东晋玄佛合流之证"
+   ],
+   "key_points": [
+    {
+     "locator": "〈天瑞〉注",
+     "point": "至虚为宗"
+    },
+    {
+     "locator": "〈力命〉",
+     "point": "力与命"
+    },
+    {
+     "locator": "〈杨朱〉",
+     "point": "杨朱篇的真伪与张注"
+    },
+    {
+     "locator": "张湛序",
+     "point": "以虚为宗"
+    }
+   ],
+   "editions": [
+    "杨伯峻《列子集释》（中华书局）为通行校注本；张湛注见其中"
+   ],
+   "related_people": [
+    "cn-weijin-zhang-zhan",
+    "cn-weijin-wangbi",
+    "cn-weijin-guoxiang"
+   ],
+   "misreadings": [
+    {
+     "claim": "《列子》是先秦列御寇所作",
+     "why": "今本《列子》**多认为魏晋人编纂**（有取于佛经与向、郭之注），非先秦原书；张湛的注与其编纂相关，故本页标“张湛注”，不径归列御寇。"
+    },
+    {
+     "claim": "其“至虚”即佛教的“空”",
+     "why": "其“至虚”是**玄学的“无”**的延伸（以虚为宗），虽与般若学的“空”有交涉，然其义并不等同；故须分辨玄佛合流中的“格义”成分。"
+    }
+   ],
+   "sources": [
+    "ws-zhengao",
+    "sep-chinese-metaphysics",
+    "ws-taijitushuo"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《列子》今本的真伪与成书（魏晋编纂说）须核杨伯峻《列子集释》的序与相关研究；张湛注“至虚为宗”的原文亦须核。本页对作者问题**标而不裁**。",
+   "sort_year": 330
+  },
+  {
    "id": "work-liezi",
    "title": "《列子》",
    "title_original": "列子",
@@ -10684,6 +10741,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《神灭论》的原文见《弘明集》卷九与《梁书·范缜传》，二者文字有差异；“形神相即”的确切论证与其“刃利”之喻的解释须核原典。",
+   "sort_year": 507
+  },
+  {
+   "id": "work-fanzhen-ji",
+   "title": "《范缜集》",
+   "title_original": "（辑本；其《神灭论》为全篇仅存者）",
+   "tradition": "china",
+   "date_display": "南朝齐梁（范缜，约450—515；今存辑本）",
+   "structure": "原集已佚；今存以《神灭论》一篇为主，另有《答曹舍人》等散篇，辑本收之。",
+   "core_arguments": [
+    "“形者神之质，神者形之用”：形为质、神为用，犹刃之与利",
+    "“神即形也，形即神也”：形神相即，不得相离",
+    "故“神灭”：形亡则神灭，如刃没而利无"
+   ],
+   "key_points": [
+    {
+     "locator": "《神灭论》",
+     "point": "形质神用"
+    },
+    {
+     "locator": "《神灭论》",
+     "point": "刃利之喻"
+    },
+    {
+     "locator": "《答曹舍人》",
+     "point": "对“神不灭”的答辩"
+    },
+    {
+     "locator": "辑本",
+     "point": "散篇的存佚"
+    }
+   ],
+   "editions": [
+    "辑本见《全梁文》卷四十五等；校注本须核（版次待考）"
+   ],
+   "related_people": [
+    "cn-nanbei-fanzhen",
+    "cn-nanbei-damo",
+    "cn-nanbei-daosheng"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“神灭”是“否认精神”",
+     "why": "其说以“**用**”言神（形之use），故不否认精神的存在，只否认其可离形而独存；故其为形神关系之说，非取消论。"
+    },
+    {
+     "claim": "其论只是“反佛的政治表态”",
+     "why": "其论证以**刃利之喻**为核心（形质神用），是哲学的分析；而其反佛的立场则在当时“神不灭”论争的语境中形成，两者不可混为一谈。"
+    }
+   ],
+   "sources": [
+    "ws-hongmingji2",
+    "sep-chinese-metaphysics",
+    "ws-zhengao"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《神灭论》的原文以《弘明集》所收为通行本，须核；《范缜集》为辑本，其散篇的存佚与编次亦须考。",
    "sort_year": 507
   },
   {

@@ -344,3 +344,11 @@ dupcheck 原只看"中文名相同"与"拉丁名相同"，抓不到"译名不同
 1. 登记来源时须看**落地页标题**，不能只看 HTTP 200；
 2. 每次实开核验，若标题与所登记 title 不符，一律更正登记，并在 note 记明；
 3. 定期抽检：比对各来源 url 与其 title 是否相符。
+
+## D67 来源登记结构体检器：tools/srccheck.py
+D66 说"链接通 ≠ 来源对"。第254轮把它拆成两部分并做成工具：
+1. 可自动化：id 唯一／url 为 http(s)／title 非空／verified 时 verify 三字段齐全且 http_status=200／link_ok=true／type 在允许集合／url≠url2；
+2. 必须人做：--sample N 随机列出 N 条，实开核对落地页标题与 title 是否相符。
+首次运行修正两处判定：type 集合漏了"学术著作"（9 条误报）；note<10 字在历史数据有 150 条，降为提示不追溯。
+已加入 CI，部署管道成六道闸（查重→来源自洽→引用有效性→数据校验→生成→断链）。
+另：METRICS.json 新增 last_health_check_round/next_health_check_round，防体检漏做（已连续漏两次）。

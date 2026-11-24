@@ -31,6 +31,9 @@ jobs:
         run: python tools/dupcheck.py
         # D61：检查 id／人物中文名／人物拉丁名／著作与比较篇标题／概念术语五类重复
 
+      - name: 来源登记自洽（结构体检，D67）
+        run: python tools/srccheck.py
+
       - name: 引用有效性（必须全部可解析）
         run: python tools/refcheck.py
         # D62：检查所有指向 id 的引用是否落在全库已有 id 上（跨单元亦须存在）
