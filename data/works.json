@@ -9984,6 +9984,63 @@
    "sort_year": 565
   },
   {
+   "id": "work-dacheng-zhiguan",
+   "title": "《大乘止观法门》",
+   "title_original": "大乘止觀法門",
+   "tradition": "china",
+   "date_display": "传陈隋（慧思；作者归属有异说）",
+   "structure": "四卷（通行本）：分“止门”“观门”与“止观双修”，以“如来藏”为体，论“自性清净心”的观行。",
+   "core_arguments": [
+    "以“自性清净心”（如来藏）为一切法的依止",
+    "“止”是依真如而住，“观”是依真如而起照",
+    "“三性”与“如来藏”的会通：依他、遍计、圆成即是一心的三面"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 止门",
+     "point": "依真如止"
+    },
+    {
+     "locator": "卷二 观门",
+     "point": "依真如观"
+    },
+    {
+     "locator": "卷三",
+     "point": "三性与一心"
+    },
+    {
+     "locator": "卷四",
+     "point": "止观双修与证相"
+    }
+   ],
+   "editions": [
+    "《大正藏》第46卷"
+   ],
+   "related_people": [
+    "cn-nanbei-huisi",
+    "cn-suitang-zhiyi",
+    "cn-nanbei-zhendi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它确为慧思所作",
+     "why": "其作者归属有异说（有归于慧思，亦有疑为后出者）；故须标“传慧思，作者归属有异说”。"
+    },
+    {
+     "claim": "它与天台的止观相同",
+     "why": "它以“如来藏”为体，近于《大乘起信论》一路；天台以“一念三千”与“三谛”为纲，二者进路不同。"
+    }
+   ],
+   "sources": [
+    "ws-mohezhiguan",
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《大乘止观法门》的作者归属（慧思／后出）在学界有争论；本页只述其内容与教理位置，不裁定作者；其与《大乘起信论》的关系须核。",
+   "sort_year": 580
+  },
+  {
    "id": "work-yanshi-jiaxun",
    "title": "《颜氏家训》",
    "title_original": "顏氏家訓",
@@ -10038,6 +10095,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《颜氏家训》的成书年代（约6世纪末）与篇数（通行20篇）须核王利器集解本；其《归心》篇的儒佛立场与《书证》《音辞》的文献学价值须分别评估。",
+   "sort_year": 590
+  },
+  {
+   "id": "work-sijiao-yi",
+   "title": "《四教义》",
+   "title_original": "四教義",
+   "tradition": "china",
+   "date_display": "隋（智顗，538—597；门人灌顶记）",
+   "structure": "十二卷（通行本）：以“藏、通、别、圆”四教为纲，逐教辨其名、义、位、断惑与证果。",
+   "core_arguments": [
+    "以四教判摄一代教法：藏教（小乘）、通教、别教、圆教",
+    "四教各有其“位”（修证的阶次）与“断惑”的方式",
+    "圆教为究竟：一色一香无非中道"
+   ],
+   "key_points": [
+    {
+     "locator": "藏教义",
+     "point": "小乘的位与断惑"
+    },
+    {
+     "locator": "通教义",
+     "point": "通于大小乘"
+    },
+    {
+     "locator": "别教义",
+     "point": "别于小乘的次第"
+    },
+    {
+     "locator": "圆教义",
+     "point": "圆融的究竟"
+    }
+   ],
+   "editions": [
+    "《大正藏》第46卷"
+   ],
+   "related_people": [
+    "cn-suitang-zhiyi",
+    "cn-suitang-jizang",
+    "cn-suitang-xuanzang"
+   ],
+   "misreadings": [
+    {
+     "claim": "四教是四个“宗派”",
+     "why": "四教是**判教**的范畴（教法的类型与层次），不是四个宗派；同一宗派可以依四教自我定位。"
+    },
+    {
+     "claim": "判教只是分类癖",
+     "why": "判教的功能是**安置修行**：不同的教法对应不同的机与位，故判教是“如何修”的问题，不只是分类。"
+    }
+   ],
+   "sources": [
+    "ws-mohezhiguan",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《四教义》的卷数（通行十二卷）与四教义的细目须核《大正藏》第46卷；其与《法华玄义》判教的异同亦须分辨。",
    "sort_year": 590
   },
   {
@@ -10152,6 +10266,59 @@
    "needs_verification": true,
    "pending_notes": "《摩诃止观》由弟子灌顶据智顗讲说记录整理，卷数有十卷／二十卷之说，各本分卷与文字有出入；本页依通行本结构概述。",
    "sort_year": 594
+  },
+  {
+   "id": "work-jingtu-shiyi-lun",
+   "title": "《净土十疑论》",
+   "title_original": "淨土十疑論",
+   "tradition": "china",
+   "date_display": "传隋（智顗；作者归属有异说）",
+   "structure": "一卷：以十组问答释净土修行的疑难（如“为何求生净土”“带业能否往生”“十念如何成就”等）。",
+   "core_arguments": [
+    "以“易行道”与“念佛三昧”回应疑难",
+    "“带业往生”的论证：以信愿为往生的条件",
+    "以“心净则土净”会通唯心的说法与净土的实在"
+   ],
+   "key_points": [
+    {
+     "locator": "第一疑",
+     "point": "为何不求生他方"
+    },
+    {
+     "locator": "诸疑",
+     "point": "带业与十念"
+    },
+    {
+     "locator": "末疑",
+     "point": "唯心与净土"
+    }
+   ],
+   "editions": [
+    "《大正藏》第47卷"
+   ],
+   "related_people": [
+    "cn-suitang-zhiyi",
+    "cn-nanbei-tanluan",
+    "cn-suitang-jizang"
+   ],
+   "misreadings": [
+    {
+     "claim": "它确为智顗所作",
+     "why": "其作者归属有异说（或归于智顗，或疑为后人所撰）；故须标“传智顗，作者归属有异说”。"
+    },
+    {
+     "claim": "“带业往生”是“不必断惑”的放纵",
+     "why": "其说是：往生的条件在信愿（他力），而修行仍须持戒念佛；故不是放纵，而是**改变解脱的时序**（先往生，后断惑）。"
+    }
+   ],
+   "sources": [
+    "ws-mohezhiguan",
+    "book-chan-sourcebook",
+    "ws-xugaoseng-zhuan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《净土十疑论》的作者归属有异说（智顗／后人），本页只述其内容与教理位置，不裁定作者；文本须核《大正藏》第47卷。",
+   "sort_year": 595
   },
   {
    "id": "work-sanlun-xuanyi",

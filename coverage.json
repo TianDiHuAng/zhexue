@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1280,
+  "entries": 1285,
   "by_level": {
    "L2": 779,
-   "L1": 501
+   "L1": 506
   },
   "doctrine": {
    "total": 268,
    "detail": 268,
    "auto": 0
   },
-  "needs_verification": 501,
+  "needs_verification": 506,
   "sources": 409,
   "sources_verified": 409
  },
@@ -30,7 +30,7 @@
    "title": "南北朝佛道与形神之争",
    "region": "china",
    "philosophers": 10,
-   "concepts": 14,
+   "concepts": 15,
    "debates": 4,
    "philosophers_slot": "8 上限，余 -2"
   },
@@ -993,6 +993,17 @@
    "id": "cn-nanbei-sizhong-erdi",
    "type": "concept",
    "title": "四重二谛",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-rulaizang",
+   "type": "concept",
+   "title": "如来藏",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -10461,9 +10472,31 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-dacheng-zhiguan",
+   "type": "work",
+   "title": "《大乘止观法门》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-yanshi-jiaxun",
    "type": "work",
    "title": "《颜氏家训》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-sijiao-yi",
+   "type": "work",
+   "title": "《四教义》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -10490,6 +10523,17 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-jingtu-shiyi-lun",
+   "type": "work",
+   "title": "《净土十疑论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -13753,6 +13797,17 @@
    "id": "cmp-weishi",
    "type": "comparative",
    "title": "唯识无境与“存在即被感知”：两种“唯心”的距离",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-rulaizang",
+   "type": "comparative",
+   "title": "如来藏与“天赋观念”：本具的与生来的",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

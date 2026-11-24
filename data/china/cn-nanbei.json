@@ -2015,6 +2015,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“四重二谛”的层次表述（各家转述略有差异）须核《二谛义》与《大乘玄论》原文；本页取通行四重说。"
+  },
+  {
+   "id": "cn-nanbei-rulaizang",
+   "term": "如来藏",
+   "term_latin": "tathāgatagarbha",
+   "definition": "如来藏系的中心概念：一切众生身中有“如来藏”（本具的佛性、自性清净心），它虽为烦恼所覆而不失其净。此说与“阿赖耶识”说并列，构成中国佛教心性论的两大资源；“本有／始有”之争即由此而起。",
+   "usages": [
+    {
+     "name": "《大乘起信论》一系",
+     "usage": "以“一心二门”统摄如来藏与生灭。"
+    },
+    {
+     "name": "真谛（其译）",
+     "id": "cn-nanbei-zhendi",
+     "usage": "以“阿摩罗识”说近于如来藏的清净面。"
+    },
+    {
+     "name": "慧思（其观行）",
+     "id": "cn-nanbei-huisi",
+     "usage": "以“自性清净心”为止观的所依。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-foxing",
+    "cn-nanbei-alaoye"
+   ],
+   "example": {
+    "text": "“如来藏”与“阿赖耶识”的关系是中国佛教最要紧的教理分歧之一：若二者是一，则“真妄和合”；若是二，则须说明转依的根据。真谛、慧思、天台、华严各有所解 —— 这一分歧的代价是它极易被读成“有一个清净的实体”，而这正是唯识学所反对的。",
+    "figure": "《大乘起信论》",
+    "locator": "《大乘起信论》“一心二门”"
+   },
+   "sources": [
+    "ws-dacheng-qixinlun",
+    "ws-mohezhiguan",
+    "ws-chengweishi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“如来藏”的梵语义（tathāgatagarbha：如来之胎藏／藏有如来）与汉译的差异须核；其与“佛性”的异同亦须分辨。"
   }
  ],
  "debates": [
