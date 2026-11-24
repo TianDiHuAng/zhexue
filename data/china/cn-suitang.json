@@ -2514,6 +2514,155 @@
      "note": "约626 年"
     }
    ]
+  },
+  {
+   "id": "cn-suitang-liu-zongyuan",
+   "name": "柳宗元",
+   "latin": "Liu Zongyuan",
+   "birth_year": 773,
+   "death_year": 819,
+   "birth_display": "773年",
+   "death_display": "819年",
+   "birth_note": "据《旧唐书》本传：字子厚，河东人，世称“柳河东”；贞元进士，参与永贞革新，失败后贬永州司马，后为柳州刺史。",
+   "death_note": "819年卒于柳州（《旧唐书》本传）。",
+   "era": "中唐。柳宗元以“天人不相预”立其哲学立场：天与人事各有其域，天不能赏功罚祸，故“功者自功，祸者自祸”。这一立场针对的是汉代以来的“天人感应”与中唐的“天命”之说，其资源来自荀子“天行有常”一系。他又以“势”论制度的演变（《封建论》），以“文以明道”论文章的功能 —— 其“道”较韩愈的“道统”更重事与势。",
+   "school": "中唐古文运动与天道论",
+   "core_questions": [
+    "天能否赏功罚祸？",
+    "制度因何而变？",
+    "文章与道是何关系？"
+   ],
+   "arguments": [
+    {
+     "claim": "天无意志，不能赏功罚祸",
+     "premises": [
+      "天与瓜果草木同为“物”，物无情志。",
+      "而赏罚须有情志的判断。"
+     ],
+     "inference": "若天与物同类而无情志，则其不能赏罚；故人事的因果须在人事中求，不在天上求。",
+     "conclusion": "天人不相预（此说否定天人感应，与荀子“天行有常”同调）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "制度之变有其“势”，非圣人任意所为",
+     "premises": [
+      "封建与郡县的取舍须视时势。",
+      "而时势不由一人之意。"
+     ],
+     "inference": "若制度之变由势，则其正当性不在“复古”而在“适时”；故论制度须先论势。",
+     "conclusion": "以势论制度（此说为后世史论的重要资源）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《天说》",
+     "edition": "中华书局《柳宗元集》",
+     "note": "814"
+    },
+    {
+     "title": "《河东先生集》",
+     "edition": "中华书局《柳宗元集》点校本",
+     "note": "宋人编定"
+    },
+    {
+     "title": "《封建论》",
+     "edition": "《柳宗元集》所收",
+     "note": "中唐"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "荀子（其资源）",
+     "id": null,
+     "note": "“天行有常”一系的天道观"
+    },
+    {
+     "name": "王充（其同调）",
+     "id": null,
+     "note": "以“自然”说天，否定感应"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "韩愈（其论友）",
+     "id": "cn-suitang-han-yu",
+     "note": "二人往复辩难“天”之说"
+    },
+    {
+     "name": "宋代的古文与史论",
+     "id": null,
+     "note": "以“势”论制度成为常法"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "韩愈一系",
+     "view": "若天无赏罚，则“善何以劝、恶何以惧”？道德的权威须有一形而上的根据。",
+     "response": "柳宗元一系的回应是：道德的权威在“当然”本身（人事之理），不在赏罚的利害；以利害劝善，恰使善成为手段。",
+     "kind": "原文",
+     "sources": [
+      "ws-jiutangshu",
+      "ct-xunzi"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "柳宗元是“唯物论者”，故其说与儒家无关",
+     "why": "其“天人不相预”承荀子“天行有常”一系，仍在儒家的问题域内（人事与天道的关系）；用“唯物／唯心”标签会抹掉这一脉络。"
+    },
+    {
+     "claim": "他与韩愈交恶",
+     "why": "二人是**论友**：《天说》是对韩愈来文的回应，往复辩难而情谊不损；其争是学理之争。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>柳宗元：天人不相预</text><defs><marker id='aLZ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>天与物同类，无情志</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故不能赏罚</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故功祸自取</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故人事自足</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLZ)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLZ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "柳宗元：“天人不相预”与“功祸自取”（示意图）",
+   "sources": [
+    "ws-jiutangshu",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "柳宗元无 SEP 专条（已试 liu-zongyuan，404）；本页依《旧唐书》本传、《天说》《封建论》原文与 SEP“中国形而上学”词条，**属语境性引用而非专门研究**。其生卒（773—819）与永贞革新的经过须核。",
+   "doctrine": {
+    "summary": "柳宗元以“天人不相预”立其哲学立场：天与物同类而无情志，故不能赏功罚祸，“功者自功，祸者自祸” —— 此说否定汉代以来的天人感应，承荀子“天行有常”一系。他又以“势”论制度之变（《封建论》），以“文以明道”论文章的功能；其“道”较韩愈的“道统”更重事与势。",
+    "system": [
+     {
+      "name": "天人不相预",
+      "content": "天无情志，故不赏罚；人事的因果在人事之中。"
+     },
+     {
+      "name": "以势论制度",
+      "content": "制度之变由势，非圣人任意；故正当性在“适时”而非“复古”。"
+     },
+     {
+      "name": "文以明道",
+      "content": "文章须载道，不徒雕饰；而其“道”重事与势。"
+     },
+     {
+      "name": "反天人感应",
+      "content": "否定以灾异谴告说君、以福田求福之说；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "河东与永州（773—819）",
+      "change": "贞元九年进士；参与王叔文集团（永贞革新）；805 年贬永州司马；815 年为柳州刺史；819 年卒于柳州。"
+     }
+    ],
+    "reception": "其“天人不相预”成为中唐天道论的代表，与韩愈的“天命”之说对峙；其“以势论制度”为后世史论（尤其清代）所重；“文以明道”则与韩愈共同奠定古文运动的纲领。"
+   },
+   "works_detail": [
+    {
+     "title": "《天说》",
+     "structure": "一篇短文：与韩愈论“天”之可否赏罚，分三层推进。",
+     "core_thesis": "天无意志，功祸自取；这是该书的核心命题。",
+     "editions": "中华书局《柳宗元集》",
+     "note": "814 年"
+    }
+   ]
   }
  ],
  "concepts": [

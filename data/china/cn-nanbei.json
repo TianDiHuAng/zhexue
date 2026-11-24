@@ -2546,6 +2546,42 @@
    ],
    "needs_verification": true,
    "pending_notes": "“止持／作持”的分判须核道宣《行事钞》与《四分律》的原条；其与“性戒／遮戒”之分的关系亦须分辨。"
+  },
+  {
+   "id": "cn-nanbei-yixue-jingshu",
+   "term": "经疏",
+   "term_latin": "sutra commentary",
+   "definition": "佛教解经的体裁：疏（释经）与钞（释疏）分层，故一部经的解可至“疏—钞—科”三层。这一体裁使佛教的义学得以累积（也得以繁琐化），并与儒家的“义疏”同构 —— 二者共同构成中古的注疏文明。",
+   "usages": [
+    {
+     "name": "智顗一系（其代表）",
+     "usage": "天台诸部以“玄义—文句”两体解经。"
+    },
+    {
+     "name": "吉藏（其三论）",
+     "usage": "以“玄义”与“疏”分释经论；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "道宣（其律疏）",
+     "usage": "以“钞”释“疏”，为律学的三层结构。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-yixue",
+    "cn-nanbei-jiaoguan"
+   ],
+   "example": {
+    "text": "“经疏”的要害是**分层**：经是所释，疏是释经，钞是释疏。分层的好处是精确（每层可独立讨论），坏处是**读者与经文之间隔了三层**—— 中古佛教的“义学”之盛与“实践”之衰，常被指为此一结构的结果。",
+    "figure": "智顗",
+    "locator": "《法华文句》"
+   },
+   "sources": [
+    "ws-mohezhiguan",
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "佛教“经疏”的分层（疏／钞／科）须核天台与三论的著作体例；其与儒家“义疏”的同构亦须分辨。"
   }
  ],
  "debates": [

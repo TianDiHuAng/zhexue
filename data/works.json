@@ -12431,6 +12431,173 @@
    "sort_year": 805
   },
   {
+   "id": "work-tianshuo",
+   "title": "《天说》",
+   "title_original": "天說",
+   "tradition": "china",
+   "date_display": "中唐（柳宗元，773—819）",
+   "structure": "一篇短文：先引韩愈“天能赏罚”之说，次辨“天与物同类而无情志”，末以“功者自功，祸者自祸”作结，往复三层。",
+   "core_arguments": [
+    "天无意志：“天”与瓜果草木同为物，不能赏功罚祸",
+    "“功者自功，祸者自祸”：人事的因果在人事之中",
+    "对“天能赏罚”的批评：此说使人为善出于畏，而非出于当然"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "韩愈的“天说”"
+    },
+    {
+     "locator": "中段",
+     "point": "天与物的同异"
+    },
+    {
+     "locator": "末段",
+     "point": "功祸自取"
+    }
+   ],
+   "editions": [
+    "中华书局《柳宗元集》；《柳河东集》本"
+   ],
+   "related_people": [
+    "cn-suitang-liu-zongyuan",
+    "cn-suitang-han-yu",
+    "cn-lianghan-wang-chong"
+   ],
+   "misreadings": [
+    {
+     "claim": "柳宗元主张“天是物质”，故为唯物论者",
+     "why": "其论点是**天无意志**（不能赏罚），这是对“天人感应”的否定；用“唯物／唯心”标签会抹掉其与荀子“天行有常”一系的关联。"
+    },
+    {
+     "claim": "其说与韩愈对立，故二人交恶",
+     "why": "二人是**论友**：《天说》是对韩愈来文的回应，往复辩难而情谊不损；故其争是学理之争。"
+    }
+   ],
+   "sources": [
+    "ws-jiutangshu",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《天说》的原文与韩愈来文（《天说》所引）须核《柳宗元集》；其与荀子“天行有常”、王充“自然”一系的关系亦须分辨。",
+   "sort_year": 814
+  },
+  {
+   "id": "work-jianying-fogubiao",
+   "title": "《谏迎佛骨表》",
+   "title_original": "諫迎佛骨表",
+   "tradition": "china",
+   "date_display": "819年（韩愈）",
+   "structure": "一篇表文（《论佛骨表》）：就宪宗遣使迎法门寺佛骨入宫事，直言极谏。",
+   "core_arguments": [
+    "以历史为据：汉明帝以来信佛之君，其年寿与国运未必加隆",
+    "以“夷夏之辨”论佛：佛本夷狄之人，其教不宜为中国之法",
+    "以“民财与风俗”论害：迎骨之举使民弃业而趋供养"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "迎佛骨之事"
+    },
+    {
+     "locator": "中段",
+     "point": "历代奉佛之验"
+    },
+    {
+     "locator": "后段",
+     "point": "夷夏之辨与民害"
+    },
+    {
+     "locator": "结尾",
+     "point": "请焚骨以绝根本"
+    }
+   ],
+   "editions": [
+    "《韩昌黎文集校注》（马其昶）；《旧唐书》本传所载"
+   ],
+   "related_people": [
+    "cn-suitang-han-yu",
+    "cn-suitang-li-ao",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“反宗教”的宣言",
+     "why": "其所争有三：**夷夏之辨**（佛为夷教）、**国用民力**（迎骨耗财）、**君德**（不当惑于福田）。故其性质是政治与伦理的谏诤，不是一般意义上的反宗教。"
+    },
+    {
+     "claim": "其“历代奉佛之君寿促”之说有史据",
+     "why": "此说在史实上并不成立（后世多有驳正）；故其价值在**谏诤的勇气**，不在史论的准确。"
+    }
+   ],
+   "sources": [
+    "ws-jiutangshu",
+    "ws-xugaoseng-zhuan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《谏迎佛骨表》的原文须核《韩昌黎文集校注》与《旧唐书》本传；其“历代奉佛之君”一段的史实须与正史对校（多有不合）。",
+   "sort_year": 819
+  },
+  {
+   "id": "work-hedong-xiansheng-ji",
+   "title": "《河东先生集》",
+   "title_original": "河東先生集（柳河东集）",
+   "tradition": "china",
+   "date_display": "中唐（柳宗元）；今本由宋人编定",
+   "structure": "四十五卷（通行本）：含雅诗歌曲、赋、论、议辩、碑铭、行状、表志、书、启、序、记、杂著等。",
+   "core_arguments": [
+    "“文以明道”：文章须载道，不徒雕饰",
+    "“天人不相预”：天与人事各有其域（《天说》《非国语》）",
+    "“封建论”式的制度思考：以“势”论制度的演变"
+   ],
+   "key_points": [
+    {
+     "locator": "论部",
+     "point": "天说与非国语"
+    },
+    {
+     "locator": "记部",
+     "point": "永州诸记"
+    },
+    {
+     "locator": "书部",
+     "point": "与友人论学"
+    },
+    {
+     "locator": "杂著",
+     "point": "封建论等"
+    }
+   ],
+   "editions": [
+    "中华书局《柳宗元集》（点校本）；《柳河东集》本"
+   ],
+   "related_people": [
+    "cn-suitang-liu-zongyuan",
+    "cn-suitang-han-yu",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "柳宗元只是“散文家”",
+     "why": "其文集中有**系统的哲学论辩**（天说、非国语、封建论），其“天人不相预”与“以势论制度”皆有论理结构；故其身份兼哲学家。"
+    },
+    {
+     "claim": "其“文以明道”与韩愈同",
+     "why": "二人同主“明道”，但韩愈之道以**仁义与道统**为纲，柳宗元之道更重**事与势**（制度与历史的实然）；故其“道”的内涵不同。"
+    }
+   ],
+   "sources": [
+    "ws-jiutangshu",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《河东先生集》的卷数（通行四十五卷）与篇目分类须核中华书局点校本；“文以明道”的出处与其与韩愈“道统”说的差异亦须分辨。",
+   "sort_year": 820
+  },
+  {
    "id": "work-chanyuan",
    "title": "《禅源诸诠集都序》",
    "title_original": "禪源諸詮集都序",

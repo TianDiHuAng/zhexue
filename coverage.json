@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1377,
+  "entries": 1383,
   "by_level": {
    "L2": 781,
-   "L1": 596
+   "L1": 602
   },
   "doctrine": {
-   "total": 278,
-   "detail": 278,
+   "total": 279,
+   "detail": 279,
    "auto": 0
   },
-  "needs_verification": 596,
+  "needs_verification": 602,
   "sources": 418,
   "sources_verified": 418
  },
@@ -30,7 +30,7 @@
    "title": "南北朝佛道与形神之争",
    "region": "china",
    "philosophers": 12,
-   "concepts": 20,
+   "concepts": 21,
    "debates": 6,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -56,10 +56,10 @@
    "unit_id": "cn-suitang",
    "title": "隋唐佛学",
    "region": "china",
-   "philosophers": 17,
+   "philosophers": 18,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -9"
+   "philosophers_slot": "8 上限，余 -10"
   },
   {
    "unit_id": "cn-weijin",
@@ -1092,6 +1092,17 @@
    "id": "cn-nanbei-zhichi-zuochi",
    "type": "concept",
    "title": "止持作持",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-yixue-jingshu",
+   "type": "concept",
+   "title": "经疏",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -2544,6 +2555,17 @@
    "id": "cn-suitang-falin",
    "type": "philosopher",
    "title": "法琳",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-suitang-liu-zongyuan",
+   "type": "philosopher",
+   "title": "柳宗元",
    "container": "cn-suitang",
    "level": "L1",
    "sources": 3,
@@ -11242,6 +11264,39 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-tianshuo",
+   "type": "work",
+   "title": "《天说》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-jianying-fogubiao",
+   "type": "work",
+   "title": "《谏迎佛骨表》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-hedong-xiansheng-ji",
+   "type": "work",
+   "title": "《河东先生集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-chanyuan",
    "type": "work",
    "title": "《禅源诸诠集都序》",
@@ -14820,6 +14875,17 @@
    "id": "cmp-zhichi",
    "type": "comparative",
    "title": "止持作持与“礼之节文”：规范靠禁还是靠作？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-tianren",
+   "type": "comparative",
+   "title": "“天人不相预”与“自然”：柳宗元与斯宾诺莎",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
