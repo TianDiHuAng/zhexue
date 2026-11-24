@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1444,
+  "entries": 1450,
   "by_level": {
    "L2": 781,
-   "L1": 663
+   "L1": 669
   },
   "doctrine": {
-   "total": 285,
-   "detail": 285,
+   "total": 286,
+   "detail": 286,
    "auto": 0
   },
-  "needs_verification": 663,
+  "needs_verification": 669,
   "sources": 418,
   "sources_verified": 418
  },
@@ -38,10 +38,10 @@
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 23,
-   "concepts": 25,
+   "philosophers": 24,
+   "concepts": 26,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -15"
+   "philosophers_slot": "8 上限，余 -16"
   },
   {
    "unit_id": "cn-songming",
@@ -1474,6 +1474,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-qingmod-wang-niansun",
+   "type": "philosopher",
+   "title": "王念孙",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-qingmod-jingshi-zhizhiyong",
    "type": "concept",
    "title": "经世致用",
@@ -1741,6 +1752,17 @@
    "id": "cn-qingmod-youzi-tongci",
    "type": "concept",
    "title": "由字通词",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-yinsheng-qiuyi",
+   "type": "concept",
+   "title": "因声求义",
    "container": "cn-qingmod",
    "level": "L1",
    "sources": 3,
@@ -13310,6 +13332,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-du-shu-za-zhi",
+   "type": "work",
+   "title": "《读书杂志》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-rights-of-man",
    "type": "work",
    "title": "《人权论》",
@@ -13362,6 +13395,28 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-guangya-shuzheng",
+   "type": "work",
+   "title": "《广雅疏证》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-jingyi-shuwen",
+   "type": "work",
+   "title": "《经义述闻》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -15557,6 +15612,17 @@
    "id": "cmp-xungu-quanshi",
    "type": "comparative",
    "title": "“由字通词”与“分析—解释”：文本能给出什么？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-yinsheng",
+   "type": "comparative",
+   "title": "“因声求义”与“语音象征”：声音里有意义吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
