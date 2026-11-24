@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1684,
+  "entries": 1688,
   "by_level": {
    "L2": 779,
-   "L1": 905
+   "L1": 909
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 905,
-  "sources": 421,
-  "sources_verified": 421
+  "needs_verification": 909,
+  "sources": 422,
+  "sources_verified": 422
  },
  "units": [
   {
@@ -14762,10 +14762,32 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-spinoza-briefe",
+   "type": "work",
+   "title": "《论斯宾诺莎的学说》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-shiqi-shi-shangque",
    "type": "work",
    "title": "《十七史商榷》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-david-hume-glauben",
+   "type": "work",
+   "title": "《大卫·休谟论信仰》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -15118,6 +15140,17 @@
    "type": "work",
    "title": "《雕菰集》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-goettlichen-dingen",
+   "type": "work",
+   "title": "《论神圣事物及其启示》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -18197,6 +18230,17 @@
    "id": "cmp-ziwo",
    "type": "comparative",
    "title": "“自我设定非我”与“心外无理”：世界是由我立起来的吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-yaoyue",
+   "type": "comparative",
+   "title": "“跳跃”与“知止”：证明走到尽头怎么办？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

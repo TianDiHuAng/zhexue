@@ -9668,6 +9668,29 @@
     "keyword_seen": true
    },
    "n": 421
+  },
+  {
+   "id": "sep-jacobi",
+   "title": "Friedrich Heinrich Jacobi（SEP 词条）",
+   "author": "Sandkaulen, Birgit / Ivaldo, Marco（见页面）",
+   "year": 2001,
+   "year_note": "首版 2001-12-06；实质修订 2023-08-22（见页面）",
+   "publisher": "Stanford Encyclopedia of Philosophy（斯坦福大学）",
+   "type": "百科",
+   "url": "https://plato.stanford.edu/entries/friedrich-jacobi/",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "雅可比专条：论其斯宾诺莎书信（泛神论之争）、大卫·休谟对话（信仰与实在论）、致费希特的公开信（“虚无主义”一语）与《论神圣事物》",
+   "unit_hint": "gr-german",
+   "verify": {
+    "method": "http-page+citation_meta",
+    "http_status": 200,
+    "checked_at": "2026-11-24",
+    "keyword": "First published Thu Dec 6, 2001",
+    "keyword_seen": true
+   },
+   "n": 422
   }
  ]
 }

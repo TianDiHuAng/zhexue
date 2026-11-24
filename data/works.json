@@ -26751,6 +26751,63 @@
    "sort_year": 1785
   },
   {
+   "id": "work-spinoza-briefe",
+   "title": "《论斯宾诺莎的学说》",
+   "title_original": "Über die Lehre des Spinoza in Briefen an den Herrn Moses Mendelssohn",
+   "tradition": "west",
+   "date_display": "1785（雅可比；1789、1819 增订）",
+   "structure": "书信体（致门德尔松）：记莱辛自承“斯宾诺莎主义”的谈话，附其对《伦理学》的分析与对泛神论的判断。",
+   "core_arguments": [
+    "**一切证明皆以“根据”（Grund）为法**：故体系的知识必归于必然性",
+    "故**斯宾诺莎主义是理性的彻底形态**（而非其例外）",
+    "若如此，则**自由与人格的上帝**皆无以存 —— 故须以“**跳跃**”（Salto mortale）出之"
+   ],
+   "key_points": [
+    {
+     "locator": "致门德尔松第一信",
+     "point": "莱辛的自承"
+    },
+    {
+     "locator": "论《伦理学》",
+     "point": "根据律与必然"
+    },
+    {
+     "locator": "附论",
+     "point": "泛神论与人格神"
+    },
+    {
+     "locator": "全书",
+     "point": "以书信行论战"
+    }
+   ],
+   "editions": [
+    "德文（Werke. Gesamtausgabe, Meiner／frommann-holzboog）；英译（The Main Philosophical Writings, McGill-Queen's）；中译少见"
+   ],
+   "related_people": [
+    "gr-german-jacobi",
+    "gr-german-mendelssohn",
+    "gr-modern-spinoza"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“反斯宾诺莎的檄文”",
+     "why": "其书对斯宾诺莎有**极高的敬意**，并视之为理性的彻底形态；其批评针对的是“理性主义体系”本身，非贬低斯宾诺莎。"
+    },
+    {
+     "claim": "其“跳跃”是非理性的信仰主义",
+     "why": "其“跳跃”是在**证明的尽头**（理性不能自证其前提）所作的转向，其本人反复否认自己是非理性主义者；故须分辨其“跳跃”与“反理性”。"
+    }
+   ],
+   "sources": [
+    "sep-jacobi",
+    "sep-mendelssohn",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论斯宾诺莎的学说》三版（1785／1789／1819）的差异须核 Meiner 版；“跳跃”（Salto mortale）一语的原文位置亦须核。中译少，本页多为义述。",
+   "sort_year": 1785
+  },
+  {
    "id": "work-shiqi-shi-shangque",
    "title": "《十七史商榷》",
    "title_original": "十七史商榷",
@@ -26806,6 +26863,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《十七史商榷》的卷数与成书（1787）须核黄曙辉点校本；“实事求是”一语在其书中的用法亦须核。",
+   "sort_year": 1787
+  },
+  {
+   "id": "work-david-hume-glauben",
+   "title": "《大卫·休谟论信仰》",
+   "title_original": "David Hume über den Glauben, oder Idealismus und Realismus. Ein Gespräch",
+   "tradition": "west",
+   "date_display": "1787（雅可比）",
+   "structure": "一部（对话体，附《论先验唯心论》）：以休谟的“信仰”为引，论观念论与实在论之争。",
+   "core_arguments": [
+    "一切知识起于**直接的确实**（信仰／Glaube），非起于证明",
+    "故康德的“**物自身**”陷入两难：“无此前提不能入其体系，有此前提则不能留于其中”",
+    "实在论须以“信仰”为其根基：我们直接确知外物之存在"
+   ],
+   "key_points": [
+    {
+     "locator": "对话",
+     "point": "观念论与实在论"
+    },
+    {
+     "locator": "附录",
+     "point": "论先验唯心论"
+    },
+    {
+     "locator": "论休谟",
+     "point": "信仰与因果"
+    },
+    {
+     "locator": "全书",
+     "point": "以对话行论辩"
+    }
+   ],
+   "editions": [
+    "德文（Werke, Meiner 2019 合刊本）；英译（The Main Philosophical Writings）；中译少见"
+   ],
+   "related_people": [
+    "gr-german-jacobi",
+    "gr-modern-hume",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“信仰”是宗教的信仰",
+     "why": "其“信仰”（Glaube）是**直接的确实**（对实在的当下确知），近于休谟的 belief；故其为认识论的范畴，非宗教的教义。"
+    },
+    {
+     "claim": "其对康德的批评是“外部的攻击”",
+     "why": "其批评出自**康德体系内部**（“物自身”作为前提的两难），故其为内在的批评，非外部的否定。"
+    }
+   ],
+   "sources": [
+    "sep-jacobi",
+    "sep-hume",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《大卫·休谟论信仰》的对话体与 1787 年初版须核 Meiner 2019 合刊本；“无此前提不能入其体系”一语的原文亦须核。",
    "sort_year": 1787
   },
   {
@@ -28630,6 +28744,63 @@
    "needs_verification": true,
    "pending_notes": "《雕菰集》的卷数（通行24卷）与所收篇目须核《焦氏丛书》本；其易学与算学的具体内容须核专门研究。",
    "sort_year": 1810
+  },
+  {
+   "id": "work-goettlichen-dingen",
+   "title": "《论神圣事物及其启示》",
+   "title_original": "Von den göttlichen Dingen und ihrer Offenbarung",
+   "tradition": "west",
+   "date_display": "1811（雅可比）",
+   "structure": "一部（含导论与正文）：论上帝、自由与“神圣事物”的确实，并驳谢林的自然哲学。",
+   "core_arguments": [
+    "“**无神论**”与“**自然主义**”同出一源：皆以必然性吞没自由",
+    "故须以“**有神论**”（Theism）为自由与人格的根据",
+    "谢林的“同一体系”以自然为绝对，故其名为有神而实为自然主义"
+   ],
+   "key_points": [
+    {
+     "locator": "导论",
+     "point": "有神论与自然主义"
+    },
+    {
+     "locator": "正文",
+     "point": "驳谢林的同一体系"
+    },
+    {
+     "locator": "论自由",
+     "point": "自由与必然"
+    },
+    {
+     "locator": "全书",
+     "point": "以论战立其说"
+    }
+   ],
+   "editions": [
+    "德文（Werke, Meiner）；英译少见；中译少见"
+   ],
+   "related_people": [
+    "gr-german-jacobi",
+    "gr-german-schelling",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“神学的护教之作”",
+     "why": "其论辩以**自由的实在性**为核心（必然性与自由的形而上学之争），故其为哲学的论战，非护教。"
+    },
+    {
+     "claim": "其对谢林的批评是“误解”",
+     "why": "其批评集中于“同一体系”是否取消了**真实的自由与人格**，这是当时（Theismusstreit）的公共论题；故不可径以误解了之，本页并述两方。"
+    }
+   ],
+   "sources": [
+    "sep-jacobi",
+    "sep-schelling",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论神圣事物及其启示》的成书（1811）与其引发的 Theismusstreit 须核 Meiner 版；其对谢林的批评与谢林一方的回应须并述而不裁定。中译少。",
+   "sort_year": 1811
   },
   {
    "id": "work-zwei-buecher",
