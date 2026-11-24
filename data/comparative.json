@@ -30,8 +30,8 @@
     "na-confessions",
     "mit-aristotle-metaphysics"
    ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "needs_verification": true,
+   "pending_notes": "“生成”（creatio ex nihilo）的教义史（尤其奥古斯丁与后续经院）与“气化”“道生”的文本依据（《老子》四十章、《易传》）须分别核；二者是否可对照亦须分辨（“无中生有”与“有无相生”不是同一问题）。"
   },
   {
    "id": "cmp-human-nature",
@@ -67,8 +67,8 @@
     "mit-aristotle-nicomachean",
     "sep-mencius"
    ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "needs_verification": true,
+   "pending_notes": "孟子“四端”与荀子“性恶”的原文，以及柏拉图《理想国》卷四的灵魂三分须核；“性”译作 human nature 的解释风险已在 caveat 中说明，具体译文差异须核。"
   },
   {
    "id": "cmp-knowledge",
@@ -103,8 +103,8 @@
     "emt-descartes",
     "sep-descartes"
    ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "needs_verification": true,
+   "pending_notes": "《大学》“格物”的原文（及朱王的不同补传）与笛卡尔《第一哲学沉思集》的怀疑进程须核；“格物”是否可比于“方法”须分辨。"
   },
   {
    "id": "cmp-ethics",
@@ -136,8 +136,8 @@
     "sep-kant",
     "iep-chinese-philosophy"
    ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "needs_verification": true,
+   "pending_notes": "亚里士多德“德性”与儒家“仁义”、康德“义务”与“关系”的三方对照，其文本依据（《尼各马可伦理学》《论语》《道德形而上学奠基》）须逐条核；三种提问能否并置亦须分辨。"
   },
   {
    "id": "cmp-logic",
@@ -200,8 +200,8 @@
     "sep-hobbes",
     "sep-rousseau"
    ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "needs_verification": true,
+   "pending_notes": "《论语》“正名”、《礼记》礼治与霍布斯／洛克契约论的原文须核；“正当性”一词在中西语境中的含义差异须分辨。"
   },
   {
    "id": "cmp-time",
@@ -264,8 +264,8 @@
     "sep-wittgenstein",
     "sep-chinese-metaphysics"
    ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "needs_verification": true,
+   "pending_notes": "《老子》“道可道”、庄子“得意忘言”、维特根斯坦“不可说”与康德“界限概念”的原文须核；四者是否属于同一类“界限”须分辨。"
   },
   {
    "id": "cmp-self-cultivation",
@@ -300,8 +300,8 @@
     "sep-stoicism",
     "sep-foucault"
    ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "needs_verification": true,
+   "pending_notes": "儒家“修身”与希腊化“治疗”（askēsis）的文本须核；二者的“自我”概念是否同构须分辨。"
   },
   {
    "id": "cmp-dream-skepticism",
@@ -332,8 +332,8 @@
     "emt-descartes",
     "sep-chinese-metaphysics"
    ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "needs_verification": true,
+   "pending_notes": "《庄子·齐物论》梦蝶章与笛卡尔《沉思一》的恶魔假设须核；二者的“怀疑”目的（解脱 vs 奠基）不同，本页只作结构对照。"
   },
   {
    "id": "cmp-fate-freedom",
@@ -368,8 +368,8 @@
     "sep-stoicism",
     "ct-lunheng"
    ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "needs_verification": true,
+   "pending_notes": "《孟子》“命”、王充“命”、斯多亚“fate”与近代“自由意志”的文本须核；四者的“必然”类型不同，须分辨。"
   },
   {
    "id": "cmp-education",
@@ -404,8 +404,8 @@
     "sep-rousseau",
     "sep-wollstonecraft"
    ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "needs_verification": true,
+   "pending_notes": "孔子“教化”、荀子“化性起伪”、柏拉图《理想国》的教育与卢梭《爱弥儿》须核；“成人”的目标各异，须分辨。"
   },
   {
    "id": "cmp-one-many",
@@ -436,8 +436,8 @@
     "sep-hegel",
     "sep-chinese-metaphysics"
    ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "needs_verification": true,
+   "pending_notes": "周敦颐《太极图说》、普罗提诺“太一”与黑格尔“绝对者”的原文须核；“一”的层级（本源／总体／主体）须分辨。"
   },
   {
    "id": "cmp-suffering",
@@ -500,8 +500,8 @@
     "sep-hegel",
     "sep-levinas"
    ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "needs_verification": true,
+   "pending_notes": "《论语》“仁者爱人”与列维纳斯“面容”的文本须核；二者对“他者”的定位（伦理关系 vs 绝对超越）不同，须分辨。"
   },
   {
    "id": "cmp-byzantium",
@@ -599,8 +599,8 @@
     "sep-heidegger",
     "sep-plato"
    ],
-   "needs_verification": false,
-   "pending_notes": ""
+   "needs_verification": true,
+   "pending_notes": "《庄子》论生死、伊壁鸠鲁“死与我们无关”与海德格尔“向死存在”的原文须核；三者的“死”概念不同，须分辨。"
   },
   {
    "id": "cmp-ideal-person",
@@ -1955,6 +1955,38 @@
    ],
    "needs_verification": true,
    "pending_notes": "吉藏“破邪显正”与“四重二谛”的原文须核《三论玄义》《二谛义》；柏拉图辩证术的“上升”（《理想国》卷六、卷七）与其解释亦须核。本页只作结构对照。"
+  },
+  {
+   "id": "cmp-weishi",
+   "title": "唯识无境与“存在即被感知”：两种“唯心”的距离",
+   "question": "说“外境不离识”，与说“存在即被感知”，是同一种主张吗？",
+   "sections": [
+    {
+     "heading": "一、唯识：外境无独立自性，识的相续是实在的",
+     "text": "唯识学的命题是“外境不离识”：外境没有独立的自性（无自性），它是识的“相分”。但它并不否认**识的相续**是实在的，也不否认因果与修行 —— 其目的是说明“执外境为实”如何生起烦恼，及如何转依。"
+    },
+    {
+     "heading": "二、贝克莱：存在即被感知（或能被感知）",
+     "text": "贝克莱的命题是 esse est percipi：物的存在就是被感知（或可能被感知）。其论证针对的是“物质实体”这一假设 —— 若一切可感的性质皆在心灵中，则假设一个不可感的“物质基底”是多余的。"
+    },
+    {
+     "heading": "三、两者最尖锐的差别",
+     "text": "唯识的靶子是**“执外境为实”的烦恼结构**（其语境是解脱论）；贝克莱的靶子是**“物质实体”的哲学假设**（其语境是近代机械论）。故一个是“如何不再执”，一个是“如何不再假设”。"
+    },
+    {
+     "heading": "四、为何不能互换",
+     "text": "把“唯识无境”译为“存在即被感知”会抹掉其“转依”与“三性”的解脱论框架；把 esse est percipi 译为“唯识”则会为它加一个“转依”的目的。二者可以对照，但不能互译：**一个为解脱而说，一个为清除假设而说。**"
+    }
+   ],
+   "caveat": "本页不判断哪一种“唯心”更彻底。唯识学内部的解释（护法、安慧等）差异很大，“唯识无境”的读法亦有争论；贝克莱的“能被感知”与其上帝学说亦常被简化。故本页只作结构对照。",
+   "sources": [
+    "ws-chengweishi",
+    "sep-kant",
+    "sep-chinese-metaphysics",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "唯识“外境不离识”的准确表述（《成唯识论》）须核；贝克莱的 esse est percipi 与其“notion”说亦须核《人类知识原理》。本页只作结构对照。"
   }
  ]
 }

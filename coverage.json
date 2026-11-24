@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1276,
+  "entries": 1280,
   "by_level": {
-   "L2": 792,
-   "L1": 484
+   "L2": 779,
+   "L1": 501
   },
   "doctrine": {
    "total": 268,
    "detail": 268,
    "auto": 0
   },
-  "needs_verification": 484,
+  "needs_verification": 501,
   "sources": 409,
   "sources_verified": 409
  },
@@ -10560,6 +10560,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-xiyu-ji",
+   "type": "work",
+   "title": "《大唐西域记》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-nyayapravesa",
    "type": "work",
    "title": "《因明入正理论》",
@@ -10593,6 +10604,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-chengweishi-shuji",
+   "type": "work",
+   "title": "《成唯识论述记》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-guang-hongming-ji",
    "type": "work",
    "title": "《广弘明集》",
@@ -10607,6 +10629,17 @@
    "id": "work-ji-guijin-fodao",
    "type": "work",
    "title": "《集古今佛道论衡》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-fayuan-yilin-zhang",
+   "type": "work",
+   "title": "《大乘法苑义林章》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -13061,10 +13094,10 @@
    "type": "comparative",
    "title": "生成还是创造：中西宇宙论的两种语法",
    "container": "comparative",
-   "level": "L2",
+   "level": "L1",
    "sources": 5,
    "verified_sources": 5,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13072,10 +13105,10 @@
    "type": "comparative",
    "title": "性善与灵魂三分：两种道德心理学的起点",
    "container": "comparative",
-   "level": "L2",
+   "level": "L1",
    "sources": 5,
    "verified_sources": 5,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13083,10 +13116,10 @@
    "type": "comparative",
    "title": "格物与怀疑：两条通向确定性的路",
    "container": "comparative",
-   "level": "L2",
+   "level": "L1",
    "sources": 4,
    "verified_sources": 4,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13094,10 +13127,10 @@
    "type": "comparative",
    "title": "德性、义务与关系：中西伦理学的三种提问",
    "container": "comparative",
-   "level": "L2",
+   "level": "L1",
    "sources": 5,
    "verified_sources": 5,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13116,10 +13149,10 @@
    "type": "comparative",
    "title": "正名、礼治与契约：中西政治正当性的三种起点",
    "container": "comparative",
-   "level": "L2",
+   "level": "L1",
    "sources": 4,
    "verified_sources": 4,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13138,10 +13171,10 @@
    "type": "comparative",
    "title": "道可道与不可说：中西“语言界限”的四种表述",
    "container": "comparative",
-   "level": "L2",
+   "level": "L1",
    "sources": 4,
    "verified_sources": 4,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13149,10 +13182,10 @@
    "type": "comparative",
    "title": "修身与治疗：中西“自我技术”的两种路径",
    "container": "comparative",
-   "level": "L2",
+   "level": "L1",
    "sources": 4,
    "verified_sources": 4,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13160,10 +13193,10 @@
    "type": "comparative",
    "title": "梦与醒：庄周梦蝶与笛卡尔恶魔的两种怀疑",
    "container": "comparative",
-   "level": "L2",
+   "level": "L1",
    "sources": 4,
    "verified_sources": 4,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13171,10 +13204,10 @@
    "type": "comparative",
    "title": "命与力：中西“命运”问题的四副面孔",
    "container": "comparative",
-   "level": "L2",
+   "level": "L1",
    "sources": 4,
    "verified_sources": 4,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13182,10 +13215,10 @@
    "type": "comparative",
    "title": "教化与教育：中西“如何成人”的四种方案",
    "container": "comparative",
-   "level": "L2",
+   "level": "L1",
    "sources": 4,
    "verified_sources": 4,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13193,10 +13226,10 @@
    "type": "comparative",
    "title": "一与多：太极、太一与绝对者的三种表述",
    "container": "comparative",
-   "level": "L2",
+   "level": "L1",
    "sources": 4,
    "verified_sources": 4,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13215,10 +13248,10 @@
    "type": "comparative",
    "title": "他者问题：从“仁者爱人”到“他者之面”",
    "container": "comparative",
-   "level": "L2",
+   "level": "L1",
    "sources": 4,
    "verified_sources": 4,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13248,10 +13281,10 @@
    "type": "comparative",
    "title": "死亡与不朽：庄子、伊壁鸠鲁与海德格尔",
    "container": "comparative",
-   "level": "L2",
+   "level": "L1",
    "sources": 4,
    "verified_sources": 4,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13709,6 +13742,17 @@
    "id": "cmp-poqie",
    "type": "comparative",
    "title": "破邪显正与“辩证法”：吉藏与柏拉图的两条否定之路",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-weishi",
+   "type": "comparative",
+   "title": "唯识无境与“存在即被感知”：两种“唯心”的距离",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

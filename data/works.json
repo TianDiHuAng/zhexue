@@ -10492,6 +10492,63 @@
    "sort_year": 645
   },
   {
+   "id": "work-xiyu-ji",
+   "title": "《大唐西域记》",
+   "title_original": "大唐西域記",
+   "tradition": "china",
+   "date_display": "唐（玄奘述、辩机编，646年成书）",
+   "structure": "十二卷：记玄奘西行所历一百三十八国的地理、物产、风俗、宗教与传说。",
+   "core_arguments": [
+    "以“亲历”为据的记录：所见所闻与传闻分记",
+    "对各地佛教部派、寺院与僧数的记载",
+    "保存了7世纪中亚与印度的政治与宗教地理"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "出关与高昌"
+    },
+    {
+     "locator": "卷二—五",
+     "point": "印度北部与中部"
+    },
+    {
+     "locator": "卷六—十",
+     "point": "佛迹与诸国"
+    },
+    {
+     "locator": "卷十一—十二",
+     "point": "印度西部与归途"
+    }
+   ],
+   "editions": [
+    "《大正藏》第51卷；中华书局《大唐西域记校注》（季羡林等）；英译（Beal, Si-yu-ki）"
+   ],
+   "related_people": [
+    "cn-suitang-xuanzang",
+    "cn-suitang-zhiyi",
+    "cn-nanbei-sengyou"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“游记文学”",
+     "why": "其体例是**地理志与宗教志**（分国记方位、里程、风俗、寺院），其目的是供教界与朝廷参考；故非文学游记。"
+    },
+    {
+     "claim": "所记皆确凿",
+     "why": "其中“传闻”与“亲历”混记，且有神话传说（如雪山龙池等），故须与考古、汉籍对读。"
+    }
+   ],
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《大唐西域记》的成书（646）与所记国数（通行138国）须核季羡林等校注本；“亲历”与“传闻”的分辨须逐条核。",
+   "sort_year": 646
+  },
+  {
    "id": "work-nyayapravesa",
    "title": "《因明入正理论》",
    "title_original": "Nyāyapraveśa",
@@ -10663,6 +10720,63 @@
    "sort_year": 659
   },
   {
+   "id": "work-chengweishi-shuji",
+   "title": "《成唯识论述记》",
+   "title_original": "成唯識論述記",
+   "tradition": "china",
+   "date_display": "唐（窥基，632—682；约659年后）",
+   "structure": "二十卷（通行本）：随文疏释《成唯识论》十卷，逐句解其论证与破斥。",
+   "core_arguments": [
+    "以“识”的转变（转依）说明生死与解脱",
+    "对“外境实有”的破斥：以“唯识无境”立论",
+    "以“四分”（相分、见分、自证分、证自证分）说明认识的结构"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "造论因缘"
+    },
+    {
+     "locator": "释“识转变”",
+     "point": "转依与唯识"
+    },
+    {
+     "locator": "释“四分”",
+     "point": "认识的结构"
+    },
+    {
+     "locator": "释“三性”",
+     "point": "依他、遍计、圆成"
+    }
+   ],
+   "editions": [
+    "《大正藏》第43卷；中华书局《成唯识论述记》点校本（若有）"
+   ],
+   "related_people": [
+    "cn-suitang-xuanzang",
+    "cn-nanbei-zhendi",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是《成唯识论》的注释",
+     "why": "窥基的疏释**建立**了护法一系的解释权威（“述记”之名即“述而不作”），并成为后世唯识学的标准读本；故其地位远超注释。"
+    },
+    {
+     "claim": "“唯识无境”是说外物不存在",
+     "why": "其说是：外境**不离识**（无独立的自性），而非“什么都没有”；故与虚无主义不同（“识”的相续是实在的）。"
+    }
+   ],
+   "sources": [
+    "ws-chengweishi",
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《成唯识论述记》的卷数（通行二十卷）与成书年代须核《大正藏》第43卷；其与《成唯识论》的对应及窥基的取舍须核专门研究。",
+   "sort_year": 660
+  },
+  {
    "id": "work-guang-hongming-ji",
    "title": "《广弘明集》",
    "title_original": "廣弘明集",
@@ -10775,6 +10889,63 @@
    "needs_verification": true,
    "pending_notes": "《集古今佛道论衡》的卷数（通行四卷）与成书年代（约664）须核《大正藏》第52卷；其评断的立场须批判地读。",
    "sort_year": 664
+  },
+  {
+   "id": "work-fayuan-yilin-zhang",
+   "title": "《大乘法苑义林章》",
+   "title_original": "大乘法苑義林章",
+   "tradition": "china",
+   "date_display": "唐（窥基）",
+   "structure": "七卷（通行本，二十九章）：以“义林”为体，逐门（唯识、二谛、三性、佛土、断障等）辑录诸说并断以己意。",
+   "core_arguments": [
+    "以“门”分类，逐门汇集诸家异说而后断之",
+    "唯识学的教理纲目在此得以系统化",
+    "以“五重唯识观”说明修行的次第"
+   ],
+   "key_points": [
+    {
+     "locator": "卷首诸门",
+     "point": "唯识与诸法"
+    },
+    {
+     "locator": "二谛门",
+     "point": "二谛的诸说"
+    },
+    {
+     "locator": "佛土门",
+     "point": "佛土与身"
+    },
+    {
+     "locator": "断障门",
+     "point": "断障的次第"
+    }
+   ],
+   "editions": [
+    "《大正藏》第45卷"
+   ],
+   "related_people": [
+    "cn-suitang-xuanzang",
+    "cn-suitang-zhiyi",
+    "cn-nanbei-foxing"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是一部“辞典”",
+     "why": "它以“门”分类而**断以己意**（不只是汇录），故有明确的宗义立场；是“义林”而非辞典。"
+    },
+    {
+     "claim": "它与《成唯识论述记》重复",
+     "why": "《述记》随文释论，《义林章》**按义门**重组教理；故体例与用途不同。"
+    }
+   ],
+   "sources": [
+    "ws-chengweishi",
+    "book-chan-sourcebook",
+    "ws-mohezhiguan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《大乘法苑义林章》的卷数与门数（通行七卷二十九章）各本有异；本页依《大正藏》第45卷与相关研究概述。",
+   "sort_year": 665
   },
   {
    "id": "work-fayuan-zhulin",
