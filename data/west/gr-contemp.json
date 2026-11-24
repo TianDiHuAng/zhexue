@@ -2881,6 +2881,42 @@
    ],
    "needs_verification": true,
    "pending_notes": "“叙事认同”与 idem／ipse 之分须核利科《作为他者的自身》；本页取其一般义。"
+  },
+  {
+   "id": "gr-contemp-shiyong-zhenli",
+   "term": "实用主义真理观",
+   "term_latin": "pragmatist theory of truth",
+   "definition": "以“效果”定“意义”、以“证实的过程”定“真”的真理观（皮尔士立其端，詹姆斯广其说，杜威加以工具主义化）：一个观念之为真，不在它与对象的静态符合，而在它能否引导经验、被经验所证实。故真理是**动词**（verifying），不是名词。",
+   "usages": [
+    {
+     "name": "詹姆斯（其广）",
+     "usage": "以“证实的过程”说真理，引发罗素的批评。"
+    },
+    {
+     "name": "皮尔士（其端）",
+     "usage": "以“意义准则”与“探究的终点”立其基。"
+    },
+    {
+     "name": "罗蒂（其后）",
+     "id": "gr-contemp-rorty",
+     "usage": "以“反再现主义”推其说至极端。"
+    }
+   ],
+   "related": [
+    "gr-contemp-reflective"
+   ],
+   "example": {
+    "text": "“实用主义真理观”的要害是把**真理**从“与对象符合”移到“在经验中兑现”：其力量是它解释了科学为何要作实验；其危险是它难以说明“为何有些被广泛兑现的观念后来被推翻”（故“有用”不等于“真”）。罗素与胡塞尔一系的批评，皆由此入。",
+    "figure": "詹姆斯",
+    "locator": "《实用主义》第六讲"
+   },
+   "sources": [
+    "sep-james",
+    "sep-peirce",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“实用主义真理观”的表述（《实用主义》第六讲）与皮尔士“意义准则”的原文须核；其与“符合论”的对峙亦须分辨。"
   }
  ],
  "debates": [

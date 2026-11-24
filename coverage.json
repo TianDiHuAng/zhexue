@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1560,
+  "entries": 1565,
   "by_level": {
    "L2": 780,
-   "L1": 780
+   "L1": 785
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 780,
+  "needs_verification": 785,
   "sources": 419,
   "sources_verified": 419
  },
@@ -111,7 +111,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 12,
-   "concepts": 28,
+   "concepts": 29,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -6955,6 +6955,17 @@
    "id": "gr-contemp-xushi-rentong",
    "type": "concept",
    "title": "叙事认同",
+   "container": "gr-contemp",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-contemp-shiyong-zhenli",
+   "type": "concept",
+   "title": "实用主义真理观",
    "container": "gr-contemp",
    "level": "L1",
    "sources": 3,
@@ -14784,6 +14795,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-psychology-briefer-course",
+   "type": "work",
+   "title": "《心理学原理》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-mozi-jiangu",
    "type": "work",
    "title": "《墨子间诂》",
@@ -14927,6 +14949,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-pragmatism-james",
+   "type": "work",
+   "title": "《实用主义》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-renjian-cihua",
    "type": "work",
    "title": "《人间词话》",
@@ -14942,6 +14975,17 @@
    "type": "work",
    "title": "《宋元戏曲考》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-ideen-phaenomenologie",
+   "type": "work",
+   "title": "《纯粹现象学通论》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -16833,6 +16877,17 @@
    "id": "cmp-yixufuluo",
    "type": "comparative",
    "title": "“欧绪弗洛难题”与“天何言哉”：善在神意之先吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-zhenli",
+   "type": "comparative",
+   "title": "“真理即证实”与“知之为知之”：真在哪里被判定？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

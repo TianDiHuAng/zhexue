@@ -27343,6 +27343,63 @@
    "sort_year": 1887
   },
   {
+   "id": "work-psychology-briefer-course",
+   "title": "《心理学原理》",
+   "title_original": "The Principles of Psychology",
+   "tradition": "west",
+   "date_display": "1890（威廉·詹姆斯）",
+   "structure": "两卷（二十八章）：论大脑的功能、习惯、自动机理论、心灵的元素、注意、概念、知觉、推理、情绪、意志、自我意识等。",
+   "core_arguments": [
+    "“意识流”（stream of consciousness）：意识是连续的流动，非可分割的元素之积",
+    "“情绪”理论（James–Lange）：我们因身体的变化而悲伤，非因悲伤而身体变化",
+    "“自我”分物质的、社会的、精神的自我；习惯是社会的飞轮"
+   ],
+   "key_points": [
+    {
+     "locator": "第九章",
+     "point": "意识流"
+    },
+    {
+     "locator": "第二十五章",
+     "point": "情绪"
+    },
+    {
+     "locator": "第十章",
+     "point": "自我的诸层"
+    },
+    {
+     "locator": "第四章",
+     "point": "习惯"
+    }
+   ],
+   "editions": [
+    "英文本 Harvard 版；中译参《心理学原理》（田平译／商务节译本，版次待核）"
+   ],
+   "related_people": [
+    "gr-19c-james",
+    "gr-19c-peirce",
+    "gr-20c-husserl"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“心理学的教科书”",
+     "why": "其书兼有**哲学的方法与结论**（意识流、情绪论、自我论），且直接影响了现象学与实用主义；故其为“心理学的哲学奠基”，非仅教科书。"
+    },
+    {
+     "claim": "“意识流”是文学手法",
+     "why": "其原为**心理学的描述**（意识不可分割为元素），后为文学所借用；不可倒果为因。"
+    }
+   ],
+   "sources": [
+    "sep-james",
+    "sep-husserl",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《心理学原理》的章节与“情绪论”（第二十五章）须核 Harvard 版；“意识流”一章的原文亦须核。",
+   "sort_year": 1890
+  },
+  {
    "id": "work-mozi-jiangu",
    "title": "《墨子间诂》",
    "title_original": "墨子閒詁（墨子間詁）",
@@ -28081,6 +28138,63 @@
    "sort_year": 1905
   },
   {
+   "id": "work-pragmatism-james",
+   "title": "《实用主义》",
+   "title_original": "Pragmatism: A New Name for Some Old Ways of Thinking",
+   "tradition": "west",
+   "date_display": "1907（威廉·詹姆斯）",
+   "structure": "八讲：论哲学的两难、实用主义的方法、真理的实用主义解释、一与多、常识、真理的对手、人格主义、结论。",
+   "core_arguments": [
+    "实用主义的方法是**以效果定意义**：一个观念的意义在于它在经验中带来的可设想的差别",
+    "真理即“有效”：“真”是观念在经验中**被证实**的过程（真理的“发生”而非“符合”）",
+    "以“气质”解释哲学的分歧：硬心肠与软心肠"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—二讲",
+     "point": "哲学的两难与方法"
+    },
+    {
+     "locator": "第六讲",
+     "point": "真理的实用主义解释"
+    },
+    {
+     "locator": "第四讲",
+     "point": "一与多"
+    },
+    {
+     "locator": "第八讲",
+     "point": "结论与气质论"
+    }
+   ],
+   "editions": [
+    "英文本 Longman 版；中译参《实用主义》（陈羽纶等译，商务）"
+   ],
+   "related_people": [
+    "gr-19c-james",
+    "gr-19c-peirce",
+    "gr-contemp-rorty"
+   ],
+   "misreadings": [
+    {
+     "claim": "其真理观是“有用即真”",
+     "why": "其“有效”指**在经验中被证实的过程**，不是“对我有利”；故其说不是“便利的谎言”。但其表述宽泛，故招致罗素等的严厉批评 —— 本页并述之。"
+    },
+    {
+     "claim": "实用主义是“美国式的功利主义”",
+     "why": "其根基在皮尔士的“意义准则”与康德的实践哲学，其关切是**意义的可检验性**，不只是效用。"
+    }
+   ],
+   "sources": [
+    "sep-james",
+    "sep-peirce",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《实用主义》的八讲与“真理的实用主义解释”（第六讲）须核 Longman 版；“有用即真”的误读与詹姆斯的原文须分辨。",
+   "sort_year": 1907
+  },
+  {
    "id": "work-renjian-cihua",
    "title": "《人间词话》",
    "title_original": "人間詞話",
@@ -28192,6 +28306,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《宋元戏曲考》的章数与成书（1913）须核中华书局《宋元戏曲史》；其与《人间词话》的评价标准之关系亦须分辨。",
+   "sort_year": 1913
+  },
+  {
+   "id": "work-ideen-phaenomenologie",
+   "title": "《纯粹现象学通论》",
+   "title_original": "Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie（第一卷）",
+   "tradition": "west",
+   "date_display": "1913（胡塞尔）",
+   "structure": "第一卷《纯粹现象学通论》：以“本质直观”与“现象学还原”为纲，分四编论本质与本质认识、现象学的基本考察、方法与理性、理性与现实。",
+   "core_arguments": [
+    "“面向事情本身”：以**本质直观**（Wesensschau）把握本质，不倚于事实的归纳",
+    "“现象学还原”（epoché）：把世界的存在设定“加括号”，以见纯粹意识",
+    "意识总是“关于某物”的意识：**意向性**为意识的结构"
+   ],
+   "key_points": [
+    {
+     "locator": "第一编",
+     "point": "本质与本质直观"
+    },
+    {
+     "locator": "第二编",
+     "point": "现象学的基本考察"
+    },
+    {
+     "locator": "第三编",
+     "point": "方法与理性"
+    },
+    {
+     "locator": "第四编",
+     "point": "理性与现实"
+    }
+   ],
+   "editions": [
+    "德文 Husserliana 版；英译（Ideas I, Kluwer）；中译参《纯粹现象学通论》（李幼蒸译）"
+   ],
+   "related_people": [
+    "gr-20c-husserl",
+    "gr-20c-heidegger",
+    "gr-20c-merleau-ponty"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“心理学的描述”",
+     "why": "其书以**本质**为对象，并明确反对心理主义（把逻辑与本质还原为心理事实）；故其为“本质的科学”，非心理描述。"
+    },
+    {
+     "claim": "“加括号”是怀疑世界存在",
+     "why": "其“悬置”不否定世界，而是**暂不设定**其存在，以便见意识的结构；故非怀疑论。"
+    }
+   ],
+   "sources": [
+    "sep-husserl",
+    "sep-heidegger",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《纯粹现象学通论》的四编结构与“悬置”“本质直观”的术语须核 Husserliana 版与李幼蒸译本；“加括号”的范围亦须核。",
    "sort_year": 1913
   },
   {
