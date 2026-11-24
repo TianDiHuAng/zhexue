@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1383,
+  "entries": 1388,
   "by_level": {
    "L2": 781,
-   "L1": 602
+   "L1": 607
   },
   "doctrine": {
-   "total": 279,
-   "detail": 279,
+   "total": 280,
+   "detail": 280,
    "auto": 0
   },
-  "needs_verification": 602,
+  "needs_verification": 607,
   "sources": 418,
   "sources_verified": 418
  },
@@ -56,10 +56,10 @@
    "unit_id": "cn-suitang",
    "title": "隋唐佛学",
    "region": "china",
-   "philosophers": 18,
+   "philosophers": 19,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -10"
+   "philosophers_slot": "8 上限，余 -11"
   },
   {
    "unit_id": "cn-weijin",
@@ -2566,6 +2566,17 @@
    "id": "cn-suitang-liu-zongyuan",
    "type": "philosopher",
    "title": "柳宗元",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-suitang-liu-yuxi",
+   "type": "philosopher",
+   "title": "刘禹锡",
    "container": "cn-suitang",
    "level": "L1",
    "sources": 3,
@@ -11242,9 +11253,31 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-shitong",
+   "type": "work",
+   "title": "《史通》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-fuxingshu",
    "type": "work",
    "title": "《复性书》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-tongdian",
+   "type": "work",
+   "title": "《通典》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -11267,6 +11300,17 @@
    "id": "work-tianshuo",
    "type": "work",
    "title": "《天说》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-tianlun-liu",
+   "type": "work",
+   "title": "《天论》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -14886,6 +14930,17 @@
    "id": "cmp-tianren",
    "type": "comparative",
    "title": "“天人不相预”与“自然”：柳宗元与斯宾诺莎",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-jiaoxiang",
+   "type": "comparative",
+   "title": "“交相胜”与“分域”：刘禹锡与康德的两种划界",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

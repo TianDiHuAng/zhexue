@@ -2663,6 +2663,150 @@
      "note": "814 年"
     }
    ]
+  },
+  {
+   "id": "cn-suitang-liu-yuxi",
+   "name": "刘禹锡",
+   "latin": "Liu Yuxi",
+   "birth_year": 772,
+   "death_year": 842,
+   "birth_display": "772年",
+   "death_display": "842年",
+   "birth_note": "据《旧唐书》本传：字梦得，洛阳人（一说彭城），贞元进士，参与永贞革新，贬朗州司马等，晚年官至太子宾客，世称“刘宾客”。",
+   "death_note": "842年卒（《旧唐书》本传）。",
+   "era": "中唐。刘禹锡以《天论》三篇续柳宗元与韩愈的“天”之辩：他既不取韩愈的“天能赏罚”，也不尽同柳宗元的“天人不相预”，而主张“天人交相胜” —— 人能以其法制胜天，天亦在人力不及处胜人。其说把“天命”说的兴衰系于“法制的行废”，故其天道论最终落在**政治制度**上。",
+   "school": "中唐天道论（天人交相胜）",
+   "core_questions": [
+    "天与人各自能做什么？",
+    "“天命”之说何以流行？",
+    "人事的成败由什么决定？"
+   ],
+   "arguments": [
+    {
+     "claim": "天人交相胜：各有所能而相胜",
+     "premises": [
+      "天之道在生植，人之道在法制，二者各有其能。",
+      "在人能施法之处，人胜天；在人力不及之处，天胜人。"
+     ],
+     "inference": "若二者各有其能，则“天人感应”无从成立；故其说是**能力的划分**，不是单向的乐观（“人定胜天”）。",
+     "conclusion": "天人交相胜（此说把天人关系转为“能力”问题）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“天命”说的兴衰系于法制的行废",
+     "premises": [
+      "法制大行之时，人事有定则可循，故人不言天。",
+      "法制大弛之时，人事无定则，故人归之于天。"
+     ],
+     "inference": "若“天命”之说随法制的行废而兴衰，则其根源在**政治的失序**，不在天；故论“天”须先论“法”。",
+     "conclusion": "以法制解天命说（此说为后世政治批判的资源）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《天论》三篇",
+     "edition": "中华书局《刘禹锡集》",
+     "note": "815"
+    },
+    {
+     "title": "《刘宾客文集》",
+     "edition": "中华书局《刘禹锡集》点校本",
+     "note": "宋人编定"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "荀子（其资源）",
+     "id": null,
+     "note": "“天行有常”与“制天命而用之”"
+    },
+    {
+     "name": "柳宗元（其论友）",
+     "id": "cn-suitang-liu-zongyuan",
+     "note": "《天说》的往复辩难"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "韩愈（其论敌）",
+     "id": "cn-suitang-han-yu",
+     "note": "其“天命”之说为刘所驳"
+    },
+    {
+     "name": "后世的政治批判",
+     "id": null,
+     "note": "以“法弛则言天”解谶纬之兴"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "韩愈一系",
+     "view": "若天不与人事相关，则“敬天”之教何以立？且人之能有限，终有不可胜之处，此正须天以为归。",
+     "response": "刘禹锡一系的回应是：不可胜之处正须以“法”补之（而非以“天”委之）；“敬天”若流为委命，则适足以弛法。",
+     "kind": "原文",
+     "sources": [
+      "ws-jiutangshu",
+      "ct-xunzi"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“天人交相胜”是“人定胜天”的口号",
+     "why": "其说有两面：人能以法制胜天，天亦在人力不及处胜人。故其落点在**法制**而非意志的乐观。"
+    },
+    {
+     "claim": "它与柳宗元《天说》完全相同",
+     "why": "柳主“天人不相预”（各不相干），刘主“交相胜”（各有所能而相胜）；二者同反感应，但对“天”的定位不同。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>刘禹锡：天人交相胜</text><defs><marker id='aLY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>天之道在生植</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>人之道在法制</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故各有所能而相胜</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故法弛则言天</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLY)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "刘禹锡：“天人交相胜”与“法弛则言天”（示意图）",
+   "sources": [
+    "ws-jiutangshu",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "刘禹锡无 SEP 专条（已试 liu-yuxi，404）；本页依《旧唐书》本传、《天论》三篇原文与 SEP“中国形而上学”词条，**属语境性引用而非专门研究**。其生卒（772—842）与永贞革新的经历须核。",
+   "doctrine": {
+    "summary": "刘禹锡以《天论》三篇续“天”之辩：主张“天人交相胜” —— 天之道在生植，人之道在法制，各有所能而相胜；又主张“法大行则人胜天，法大弛则天胜人”，把“天命”说的兴衰系于法制的行废。故其天道论最终落在**政治制度**上：论天须先论法。",
+    "system": [
+     {
+      "name": "天人交相胜",
+      "content": "天与人的“能”各有其域，故相胜而非相感。"
+     },
+     {
+      "name": "天之道在生植，人之道在法制",
+      "content": "以“能”的划分取代“感应”的关系；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "法弛则言天",
+      "content": "“天命”说的流行源于法制的失序，故其根源在政治。"
+     },
+     {
+      "name": "数、势与无形",
+      "content": "以“数”“势”说明天道的运作方式，非有意志。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "洛阳与朗州（772—842）",
+      "change": "贞元九年进士；参与王叔文集团；805 年贬朗州司马；后历连州、夔州、和州；晚年官至太子宾客；842 年卒。"
+     }
+    ],
+    "reception": "其“天人交相胜”与柳宗元的“天人不相预”同为中唐反感应之说的代表，二者的差异（相胜 vs 不相预）成为后世论天道的分水岭；“法弛则言天”之说则为政治批判提供了资源。"
+   },
+   "works_detail": [
+    {
+     "title": "《天论》三篇",
+     "structure": "上篇立“交相胜”之旨，中篇以“数”“势”解之，下篇辨其于实践的含意。",
+     "core_thesis": "天人各有所能而相胜，非法弛则无以胜天。",
+     "editions": "中华书局《刘禹锡集》",
+     "note": "815 年"
+    }
+   ]
   }
  ],
  "concepts": [

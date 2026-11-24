@@ -12323,6 +12323,63 @@
    "sort_year": 690
   },
   {
+   "id": "work-shitong",
+   "title": "《史通》",
+   "title_original": "史通",
+   "tradition": "china",
+   "date_display": "唐（刘知幾，661—721；710年成书）",
+   "structure": "二十卷四十九篇：内篇论史书的体例与作法（六家、二体、载言、本纪、世家等），外篇论史官的沿革与史学的流变。",
+   "core_arguments": [
+    "史家须具“才、学、识”三长（“识”尤为难得）",
+    "“六家二体”：史书体例不出《尚书》《春秋》《左传》《国语》《史记》《汉书》六家，而归结为编年与纪传二体",
+    "“疑古”“惑经”：对经典的记载亦须以史法核之"
+   ],
+   "key_points": [
+    {
+     "locator": "内篇〈六家〉〈二体〉",
+     "point": "史体之分"
+    },
+    {
+     "locator": "内篇〈载言〉〈本纪〉",
+     "point": "体例的得失"
+    },
+    {
+     "locator": "外篇〈史官建置〉",
+     "point": "史官沿革"
+    },
+    {
+     "locator": "外篇〈疑古〉〈惑经〉",
+     "point": "对经的史法审查"
+    }
+   ],
+   "editions": [
+    "上海古籍出版社《史通通释》（浦起龙）；中华书局点校本"
+   ],
+   "related_people": [
+    "cn-qingmod-zhang-xuecheng",
+    "cn-suitang-han-yu",
+    "cn-suitang-liu-zongyuan"
+   ],
+   "misreadings": [
+    {
+     "claim": "《史通》是“史学史”",
+     "why": "它以**史书的体例与作法**为核心（六家二体、本纪世家、载言载文），故是“史学理论”而非单纯的史学史；其外篇才涉史官沿革。"
+    },
+    {
+     "claim": "其“疑古”“惑经”是反经",
+     "why": "其所疑者是**经典的记载方法**（以史法核之），不是否认经的地位；其立场是“史家之识”的独立，不是反儒。"
+    }
+   ],
+   "sources": [
+    "ws-jiutangshu",
+    "ws-shangshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《史通》的篇数（通行四十九篇，其中有佚）须核浦起龙《通释》本；“才学识”三长的出处亦须核。",
+   "sort_year": 710
+  },
+  {
    "id": "work-fuxingshu",
    "title": "《复性书》",
    "title_original": "復性書",
@@ -12378,6 +12435,63 @@
    "needs_verification": true,
    "pending_notes": "《复性书》与佛教（尤其禅宗）的关系是唐宋思想史的核心问题之一；其“灭情复性”的确切含义在宋儒（朱熹等）的评断中有争议，本页并述其说与后世的“杂禅”之讥。",
    "sort_year": 798
+  },
+  {
+   "id": "work-tongdian",
+   "title": "《通典》",
+   "title_original": "通典",
+   "tradition": "china",
+   "date_display": "唐（杜佑，735—812；约801年成书）",
+   "structure": "九卷（通行二百卷）：分食货、选举、职官、礼、乐、兵、刑法、州郡、边防九门，各门下的子目叙制度的沿革。",
+   "core_arguments": [
+    "以“制度沿革”为史：史学的对象不只是人事，更是**典章**",
+    "“食货为先”：以经济为治道之本，故列于九门之首",
+    "“理道之先”在便民：制度的评价以是否便民为准"
+   ],
+   "key_points": [
+    {
+     "locator": "食货门",
+     "point": "田制与赋税"
+    },
+    {
+     "locator": "选举门",
+     "point": "选官制度的沿革"
+    },
+    {
+     "locator": "职官门",
+     "point": "官制的变迁"
+    },
+    {
+     "locator": "边防门",
+     "point": "四夷与国防"
+    }
+   ],
+   "editions": [
+    "中华书局《通典》点校本（王文锦等）"
+   ],
+   "related_people": [
+    "cn-qingmod-zhang-xuecheng",
+    "cn-suitang-han-yu",
+    "cn-suitang-liu-zongyuan"
+   ],
+   "misreadings": [
+    {
+     "claim": "《通典》是“类书”",
+     "why": "类书以类聚事、以供检阅；《通典》则**叙沿革、明因革**，且有其评价（“食货为先”“理道之先”）；故是制度史，不是类书。"
+    },
+    {
+     "claim": "其“食货为先”只是编排的次序",
+     "why": "此一次序本身就是**主张**：以经济为治道之本，故列于首；这与以“礼”为首的传统编排形成对照。"
+    }
+   ],
+   "sources": [
+    "ws-jiutangshu",
+    "ct-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《通典》的九门与二百卷的分目须核中华书局点校本；“食货为先”的用意与当时的经济论争亦须核。",
+   "sort_year": 801
   },
   {
    "id": "work-yuandao",
@@ -12482,6 +12596,59 @@
    "needs_verification": true,
    "pending_notes": "《天说》的原文与韩愈来文（《天说》所引）须核《柳宗元集》；其与荀子“天行有常”、王充“自然”一系的关系亦须分辨。",
    "sort_year": 814
+  },
+  {
+   "id": "work-tianlun-liu",
+   "title": "《天论》",
+   "title_original": "天論（三篇）",
+   "tradition": "china",
+   "date_display": "中唐（刘禹锡，772—842；三篇）",
+   "structure": "三篇：《天论上》立“天人交相胜”之旨，《天论中》以“数”与“势”解之，《天论下》辨“天人之分”的实践含义。",
+   "core_arguments": [
+    "“天人交相胜”：人能胜天（用其法则），天亦能胜人（在人力不及处）",
+    "“天之道在生植，人之道在法制”：二者各有其能，不是感应关系",
+    "“法大行则人胜天，法大弛则天胜人”：以法制的行废解释“天命”说的兴衰"
+   ],
+   "key_points": [
+    {
+     "locator": "上篇",
+     "point": "天人交相胜"
+    },
+    {
+     "locator": "中篇",
+     "point": "数、势与“无形”"
+    },
+    {
+     "locator": "下篇",
+     "point": "法制与天命说的兴衰"
+    }
+   ],
+   "editions": [
+    "中华书局《刘禹锡集》；《刘宾客文集》本"
+   ],
+   "related_people": [
+    "cn-suitang-liu-yuxi",
+    "cn-suitang-liu-zongyuan",
+    "cn-xianqin-xunzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "“天人交相胜”是“人定胜天”的口号",
+     "why": "其说有两面：人能以法制胜天，天亦在人力不及处“胜”人。故其说是**各有其能**的划分，不是单向的乐观；其落点在“法制”而非“意志”。"
+    },
+    {
+     "claim": "它与柳宗元《天说》完全相同",
+     "why": "柳宗元主张“天人不相预”（各不相干），刘禹锡主张“交相胜”（各有所能而相胜）；二者同反感应之说，但对“天”的定位不同。"
+    }
+   ],
+   "sources": [
+    "ws-jiutangshu",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《天论》三篇的原文与其与柳宗元《天说》的往复须核《刘禹锡集》；其“数”“势”二概念的用法亦须核。",
+   "sort_year": 815
   },
   {
    "id": "work-jianying-fogubiao",
