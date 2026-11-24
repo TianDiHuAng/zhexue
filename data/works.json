@@ -37204,6 +37204,63 @@
    "sort_year": 1982
   },
   {
+   "id": "work-consequences-pragmatism",
+   "title": "《后哲学文化》",
+   "title_original": "Consequences of Pragmatism (Essays 1972–1980)",
+   "tradition": "west",
+   "date_display": "1982（罗蒂）",
+   "structure": "四部（十二篇论文）：论实用主义与哲学、论无镜的哲学、论科学与其他文化、论文学与政治。",
+   "core_arguments": [
+    "**后哲学文化**：哲学不再是诸文化的裁判者，而是对话的一支",
+    "以“**教化**”（edification）对“系统”：哲学的任务是对话而非奠基",
+    "取消“心灵之为自然的镜子”的图景"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "实用主义与哲学"
+    },
+    {
+     "locator": "第二部",
+     "point": "无镜的哲学"
+    },
+    {
+     "locator": "第三部",
+     "point": "科学与其他文化"
+    },
+    {
+     "locator": "全书",
+     "point": "以论文行论战"
+    }
+   ],
+   "editions": [
+    "英文本（Minnesota）；中译参《后哲学文化》（黄勇编译）"
+   ],
+   "related_people": [
+    "gr-contemp-rorty",
+    "gr-20c-wittgenstein",
+    "gr-contemp-habermas"
+   ],
+   "misreadings": [
+    {
+     "claim": "其说“哲学已经终结”",
+     "why": "其说主张哲学**不再是奠基者**（不再是文化的裁判），故其仍有一职（对话与教化）；故为“后哲学”，非“无哲学”。"
+    },
+    {
+     "claim": "其说“什么都行”",
+     "why": "其说以**实用主义的对话标准**（何者更有用、更能促成团结）取代基础主义，故非无标准。"
+    }
+   ],
+   "sources": [
+    "sep-rorty",
+    "sep-wittgenstein",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《后哲学文化》（Consequences of Pragmatism）四部的篇目与 1982 年初版须核 Minnesota 版与黄勇编译本；“后哲学文化”一语的原文亦须核。",
+   "sort_year": 1982
+  },
+  {
    "id": "work-time-narrative",
    "title": "《时间与叙事》",
    "title_original": "Temps et récit",
@@ -37429,6 +37486,63 @@
    "needs_verification": true,
    "pending_notes": "《后形而上学思想》十二篇的编排与“宗教的翻译”之说须核英译本；其与罗尔斯“公共理性”的异同亦须分辨。",
    "sort_year": 1988
+  },
+  {
+   "id": "work-contingency-irony",
+   "title": "《偶然、反讽与团结》",
+   "title_original": "Contingency, Irony, and Solidarity",
+   "tradition": "west",
+   "date_display": "1989（罗蒂）",
+   "structure": "三部（九章）：论语言的偶然、论反讽者的自我创造、论残酷与团结的可能。",
+   "core_arguments": [
+    "语言、自我与共同体皆是**偶然**的（无本质可依）",
+    "“**反讽者**”：知道自己所用词汇的偶然，仍能自我创造",
+    "“**团结**”不靠共同本质，而靠**对残酷的敏感**（以文学培养）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "偶然的语言与自我"
+    },
+    {
+     "locator": "第二部",
+     "point": "反讽与自我创造"
+    },
+    {
+     "locator": "第三部",
+     "point": "残酷与团结"
+    },
+    {
+     "locator": "全书",
+     "point": "以文学代哲学"
+    }
+   ],
+   "editions": [
+    "英文本（Cambridge）；中译参《偶然、反讽与团结》（徐文瑞译）"
+   ],
+   "related_people": [
+    "gr-contemp-rorty",
+    "gr-19c-nietzsche",
+    "gr-contemp-habermas"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“反讽者”是玩世不恭",
+     "why": "其“反讽”是**对自身词汇之偶然的自觉**（故更负责），与玩世不恭相反。"
+    },
+    {
+     "claim": "其“偶然”是“无标准”",
+     "why": "其“偶然”取消的是**终极根据**，非取消**具体的残酷与痛苦**之判准（故其以“残酷”为首恶）。"
+    }
+   ],
+   "sources": [
+    "sep-rorty",
+    "sep-nietzsche",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《偶然、反讽与团结》三部的篇目与 1989 年初版须核 Cambridge 版与徐文瑞译本；“反讽者”“团结”的原文亦须核。",
+   "sort_year": 1989
   },
   {
    "id": "work-soi-meme-autre",

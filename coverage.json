@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1714,
+  "entries": 1717,
   "by_level": {
    "L2": 779,
-   "L1": 935
+   "L1": 938
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 935,
+  "needs_verification": 938,
   "sources": 423,
   "sources_verified": 423
  },
@@ -16786,6 +16786,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-consequences-pragmatism",
+   "type": "work",
+   "title": "《后哲学文化》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-time-narrative",
    "type": "work",
    "title": "《时间与叙事》",
@@ -16822,6 +16833,17 @@
    "id": "work-nachmetaphysisches-denken",
    "type": "work",
    "title": "《后形而上学思想》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-contingency-irony",
+   "type": "work",
+   "title": "《偶然、反讽与团结》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -18527,6 +18549,17 @@
    "id": "cmp-xinnianzhiwang",
    "type": "comparative",
    "title": "“信念之网”与“六经注我”：知识能被整体修正吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-ouran",
+   "type": "comparative",
+   "title": "“偶然”与“无常”：没有终极根据，人如何自处？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
