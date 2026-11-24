@@ -3753,6 +3753,155 @@
      "note": "1796 年"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-wang-yinzhi",
+   "name": "王引之",
+   "latin": "Wang Yinzhi",
+   "birth_year": 1766,
+   "death_year": 1834,
+   "birth_display": "1766年",
+   "death_display": "1834年",
+   "birth_note": "据《清史稿》儒林传：字伯申，号曼卿，江苏高邮人；王念孙之子，嘉庆进士，官至工部尚书；精于训诂与虚词之学。",
+   "death_note": "1834年卒（《清史稿》儒林传）。",
+   "era": "清代。王引之承其父王念孙的“因声求义”，而另开一途：以《经传释词》把**虚词**的用法系统化（依文作解，不以实义解虚词），以《经义述闻》以“例”正旧注之失。故其位置是：把乾嘉小学从“字义”推到**语法** —— 而这正是它能被现代语言学重读的原因。",
+   "school": "乾嘉考据学（高邮王氏，虚词与语法）",
+   "core_questions": [
+    "虚词有无其用法系统？",
+    "旧注何以误解虚词？",
+    "以“例”说经是否可靠？"
+   ],
+   "arguments": [
+    {
+     "claim": "虚词有其用法系统，须“依文作解”",
+     "premises": [
+      "同一虚词在不同句法位置上有不同的作用。",
+      "而旧注多以“实义”解之，故误。"
+     ],
+     "inference": "若虚词的作用由句法位置决定，则解之须先看上下文的功能，再定其义；故其方法是**语法学的**，而非以字义比附。",
+     "conclusion": "依文作解（此说使虚词成为专门之学）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以“例”正旧注：经义自有其例",
+     "premises": [
+      "古书有通例（用字、句法、避讳）。",
+      "而旧注之失多在违其例。"
+     ],
+     "inference": "若据通例以核旧注，则其失可指；故“例”是校读的工具，但其立须以大量语言事实为据。",
+     "conclusion": "以例正读（此说为后世“以例说书”的方法奠基）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《经传释词》",
+     "edition": "中华书局影印本（版次待核）",
+     "note": "1798"
+    },
+    {
+     "title": "《经义述闻》",
+     "edition": "中华书局影印本（版次待核）",
+     "note": "1790年代起"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "王念孙（其父）",
+     "id": "cn-qingmod-wang-niansun",
+     "note": "“因声求义”为其方法的前提"
+    },
+    {
+     "name": "段玉裁（其前辈）",
+     "id": "cn-qingmod-duan-yucai",
+     "note": "古音分部为其音义互求之基"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "俞樾（其后）",
+     "id": null,
+     "note": "以“例”说古书，成《古书疑义举例》"
+    },
+    {
+     "name": "孙诒让（其后）",
+     "id": null,
+     "note": "以校释之法治《墨子》"
+    },
+    {
+     "name": "现代的古汉语语法研究",
+     "id": null,
+     "note": "以《经传释词》为虚词研究的起点"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后世的方法批评者",
+     "view": "“以例说书”易流于附会：例既立，则凡不合者皆可强为之说（俞樾而后此弊尤显）。",
+     "response": "王引之一系的回应是：例须以**大量语言事实**为据，且须与上下文相参；若滥立例，则非其法之过，而是用之者之过。",
+     "kind": "原文",
+     "sources": [
+      "ws-mingyi",
+      "ct-analects"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《经传释词》只是“虚词词典”",
+     "why": "其方法是**依文作解**（先看句法功能，再定其义），且每字溯其源流；故它是“语法学的开创之作”。"
+    },
+    {
+     "claim": "其术语与现代语言学一一对应",
+     "why": "其“语词”“发声”等属传统训诂学的范畴，与现代的“功能词／语气词”之分可对照而不可径相等同。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>王引之：依文作解与以例正读</text><defs><marker id='aWY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>虚词随句法位置而异用</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故须先看功能后定义</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>而古书自有通例</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故以例可正旧注之失</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aWY)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aWY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "王引之：“依文作解”与“以例正读”（示意图）",
+   "sources": [
+    "ws-mingyi",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "王引之无 SEP 专条（已试 wang-yinzhi，404）；本页依《清史稿》儒林传、《经传释词》与《经义述闻》原文（中华书局影印本），**属语境性引用而非专门研究**。其生卒（1766—1834）与仕历须核。",
+   "doctrine": {
+    "summary": "王引之承其父王念孙的“因声求义”而另开一途：以《经传释词》把虚词的用法系统化（依文作解，不以实义解虚词），以《经义述闻》以“例”正旧注之失。故其把乾嘉小学从“字义”推到**语法** —— 这正是它能被现代语言学重读的原因。",
+    "system": [
+     {
+      "name": "依文作解",
+      "content": "虚词的作用由句法位置决定，故须先看功能。"
+     },
+     {
+      "name": "虚词系统化",
+      "content": "一百六十余虚词各有其用法与源流；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以例正读",
+      "content": "古书有通例，据以核旧注之失；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "例须有据",
+      "content": "例须以大量语言事实为据，且与上下文相参。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "高邮与北京（1766—1834）",
+      "change": "嘉庆四年进士；官至工部尚书；承父学治训诂；1798 年成《经传释词》；与父合称“高邮王氏”；1834 年卒。"
+     }
+    ],
+    "reception": "《经传释词》成为虚词研究的起点，现代的古汉语语法研究仍以其为典范；《经义述闻》与《读书杂志》并为乾嘉校释之冠；其“以例说书”的方法则经俞樾、孙诒让而推及群书。"
+   },
+   "works_detail": [
+    {
+     "title": "《经传释词》",
+     "structure": "十卷：收经传虚词一百六十，逐字溯其源流与用法。",
+     "core_thesis": "虚词依文作解，不以实义相绳；这是该书的核心命题。",
+     "editions": "中华书局影印本（具体版次待核）",
+     "note": "1798 年"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -4713,6 +4862,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“因声求义”的方法与其与段玉裁“同声必同部”的关系须核；本页取其方法义，具体条例须核《广雅疏证》原文。"
+  },
+  {
+   "id": "cn-qingmod-xuci",
+   "term": "虚词",
+   "term_latin": "function words (xu ci)",
+   "definition": "王引之《经传释词》所立的范畴：无实义而在句中起结构或语气作用的字（如“之”“其”“而”“以”）。其要点是**依文作解**：同一虚词在不同句法位置上有不同作用，故不可以实义相绳。这一范畴使训诂学从“字义”推进到**语法**。",
+   "usages": [
+    {
+     "name": "王引之（其立）",
+     "id": "cn-qingmod-wang-yinzhi",
+     "usage": "以《经传释词》把虚词的用法系统化。"
+    },
+    {
+     "name": "王念孙（其父）",
+     "id": "cn-qingmod-wang-niansun",
+     "usage": "以“因声求义”为其解字的基础。"
+    },
+    {
+     "name": "俞樾（其后）",
+     "usage": "以“例”推及古书的句法与行文。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-yinsheng-qiuyi",
+    "cn-qingmod-youzi-tongci"
+   ],
+   "example": {
+    "text": "“虚词”范畴的要害是它使句法有了**独立的地位**：在此之前，虚词多被当作“实字的省文”或以实义强解；自此而后，虚词的作用须由句法位置说明。故清代小学的终点，恰是现代语法学的起点。",
+    "figure": "王引之",
+    "locator": "《经传释词》"
+   },
+   "sources": [
+    "ws-mingyi",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“虚词”一名与其分类须核《经传释词》；其与现代“功能词／语气词”的对应亦须分辨。"
   }
  ],
  "debates": [

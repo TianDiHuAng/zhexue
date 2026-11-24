@@ -22580,6 +22580,63 @@
    "sort_year": 1797
   },
   {
+   "id": "work-jingzhuan-shici",
+   "title": "《经传释词》",
+   "title_original": "經傳釋詞",
+   "tradition": "china",
+   "date_display": "清（王引之，1766—1834；1798年成）",
+   "structure": "十卷：收经传中的**虚词**一百六十个，逐字溯其源流，辨其在句中的用法。",
+   "core_arguments": [
+    "“虚词”有其用法系统：同一字在不同句法位置上有不同作用",
+    "以“依文作解”为法：先看它在上下文中的功能，再定其义",
+    "不以“实义”解虚词：旧注之误多由此"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—三",
+     "point": "之、其、而、以诸字"
+    },
+    {
+     "locator": "卷四—六",
+     "point": "于、与、为、所诸字"
+    },
+    {
+     "locator": "卷七—十",
+     "point": "语气词与疑难字"
+    },
+    {
+     "locator": "全书",
+     "point": "依文作解"
+    }
+   ],
+   "editions": [
+    "中华书局《经传释词》（影印本）；岳麓书社点校本"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-yinzhi",
+    "cn-qingmod-wang-niansun",
+    "cn-qingmod-duan-yucai"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“虚词词典”",
+     "why": "其体虽按字排列，其方法是**依文作解**（先看句法功能，再定其义），且每字皆溯其源流；故它是“语法学的开创之作”，不只是词典。"
+    },
+    {
+     "claim": "其结论皆有现代语言学的对应",
+     "why": "其术语（如“语词”“发声”）属传统训诂学的范畴；与现代的“功能词／语气词”之分可对照，但不可径相等同。"
+    }
+   ],
+   "sources": [
+    "ws-mingyi",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《经传释词》的卷数与所收字数（通行十卷一百六十余字）须核中华书局影印本；“依文作解”的表述亦须核原文。",
+   "sort_year": 1798
+  },
+  {
    "id": "work-xingming-guxun",
    "title": "《性命古训》",
    "title_original": "性命古訓",
@@ -24385,6 +24442,63 @@
    "sort_year": 1869
   },
   {
+   "id": "work-gushu-yiyi-juli",
+   "title": "《古书疑义举例》",
+   "title_original": "古書疑義舉例",
+   "tradition": "china",
+   "date_display": "清（俞樾，1821—1907；1870年代）",
+   "structure": "七卷：列举古书中的八十八种“疑义”（如“上下文异字同义”“倒文”“省文”“变文”）之例。",
+   "core_arguments": [
+    "古书自有其“例”：句法、用字、避讳、行文皆有通例",
+    "“以例说古书”：凡难读处，先求其例，再求其词",
+    "“例”出自归纳：由大量的实例总结而来"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—三",
+     "point": "用字之例"
+    },
+    {
+     "locator": "卷四—五",
+     "point": "句法之例"
+    },
+    {
+     "locator": "卷六—七",
+     "point": "行文与避讳之例"
+    },
+    {
+     "locator": "全书",
+     "point": "以例说古书"
+    }
+   ],
+   "editions": [
+    "中华书局《古书疑义举例五种》（合刊本）"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-yinzhi",
+    "cn-qingmod-wang-niansun",
+    "cn-qingmod-duan-yucai"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“古书错误清单”",
+     "why": "其所举者多为**通例**（如倒文、省文、变文），即古人行文的常态，非错误；故其性质是“古书语法与修辞的例释”。"
+    },
+    {
+     "claim": "其例皆可套用",
+     "why": "其例须与具体的上下文相参；滥用“以例说书”则易流于附会 —— 此正是后世对其方法的批评。"
+    }
+   ],
+   "sources": [
+    "ws-mingyi",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《古书疑义举例》的卷数与所举例数（通行七卷八十八例）须核中华书局合刊本；其“例”的分类亦须核。",
+   "sort_year": 1870
+  },
+  {
    "id": "work-dialectics-nature",
    "title": "《自然辩证法》",
    "title_original": "Dialektik der Natur",
@@ -24773,6 +24887,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1887
+  },
+  {
+   "id": "work-mozi-jiangu",
+   "title": "《墨子间诂》",
+   "title_original": "墨子閒詁（墨子間詁）",
+   "tradition": "china",
+   "date_display": "清（孙诒让，1848—1908；1894年成，后增订）",
+   "structure": "十五卷（附《目录》《附录》《后语》）：校释《墨子》全书，兼及墨学的源流与墨经的难读处。",
+   "core_arguments": [
+    "以“校”与“诂”并重：先校其文（《墨子》多讹脱），后释其义",
+    "以“墨学”为独立的学问：《墨子》非“异端”，须有其专门的整理",
+    "以《墨经》的难读为专门的课题：兼采西学与诸家之说"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—七",
+     "point": "墨论诸篇"
+    },
+    {
+     "locator": "卷八—十",
+     "point": "墨经与墨辩"
+    },
+    {
+     "locator": "卷十一—十五",
+     "point": "守城诸篇"
+    },
+    {
+     "locator": "《后语》",
+     "point": "墨学的源流与书目"
+    }
+   ],
+   "editions": [
+    "中华书局《墨子间诂》（孙启治点校）；上海书店影印本"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-yinzhi",
+    "cn-qingmod-wang-niansun",
+    "cn-xianqin-mozi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是“注释书”",
+     "why": "其《后语》有系统的**墨学史**与书目，其校释又兼及墨经的逻辑与科学；故它是“墨学复兴”的奠基之作，不只是注释。"
+    },
+    {
+     "claim": "其校释已无可补正",
+     "why": "其后（尤其出土文献与简帛的发现）多有补正；故它是**典范**，不是终点。"
+    }
+   ],
+   "sources": [
+    "ws-mingyi",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《墨子间诂》的卷数与成书（1894）须核中华书局点校本；其《后语》的内容与墨学源流的论述亦须核。",
+   "sort_year": 1894
   },
   {
    "id": "work-renxue",

@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1450,
+  "entries": 1456,
   "by_level": {
    "L2": 781,
-   "L1": 669
+   "L1": 675
   },
   "doctrine": {
-   "total": 286,
-   "detail": 286,
+   "total": 287,
+   "detail": 287,
    "auto": 0
   },
-  "needs_verification": 669,
+  "needs_verification": 675,
   "sources": 418,
   "sources_verified": 418
  },
@@ -38,10 +38,10 @@
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 24,
-   "concepts": 26,
+   "philosophers": 25,
+   "concepts": 27,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -16"
+   "philosophers_slot": "8 上限，余 -17"
   },
   {
    "unit_id": "cn-songming",
@@ -1485,6 +1485,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-qingmod-wang-yinzhi",
+   "type": "philosopher",
+   "title": "王引之",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-qingmod-jingshi-zhizhiyong",
    "type": "concept",
    "title": "经世致用",
@@ -1763,6 +1774,17 @@
    "id": "cn-qingmod-yinsheng-qiuyi",
    "type": "concept",
    "title": "因声求义",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-xuci",
+   "type": "concept",
+   "title": "虚词",
    "container": "cn-qingmod",
    "level": "L1",
    "sources": 3,
@@ -13420,6 +13442,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-jingzhuan-shici",
+   "type": "work",
+   "title": "《经传释词》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-xingming-guxun",
    "type": "work",
    "title": "《性命古训》",
@@ -13772,6 +13805,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-gushu-yiyi-juli",
+   "type": "work",
+   "title": "《古书疑义举例》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-dialectics-nature",
    "type": "work",
    "title": "《自然辩证法》",
@@ -13846,6 +13890,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-mozi-jiangu",
+   "type": "work",
+   "title": "《墨子间诂》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -15623,6 +15678,17 @@
    "id": "cmp-yinsheng",
    "type": "comparative",
    "title": "“因声求义”与“语音象征”：声音里有意义吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-xuci",
+   "type": "comparative",
+   "title": "“虚词”与“syncategoremata”：无实义之词的地位",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
