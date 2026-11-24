@@ -12086,6 +12086,120 @@
    "sort_year": 1530
   },
   {
+   "id": "work-wangshi-jiacang",
+   "title": "《王氏家藏集》",
+   "title_original": "王氏家藏集",
+   "tradition": "china",
+   "date_display": "明（王廷相，1474—1544）；后世整理本",
+   "structure": "含《慎言》《雅述》及诗文、奏议、书信等；为其气学与批判思想的汇集。",
+   "core_arguments": [
+    "“气”是唯一的本原：理生于气（“理载于气，非能始气”）",
+    "对“理在气先”的批评：理不能离气而独存",
+    "对“虚静”工夫的批评：离物而求静非儒者之学"
+   ],
+   "key_points": [
+    {
+     "locator": "《慎言》",
+     "point": "理载于气"
+    },
+    {
+     "locator": "《雅述》",
+     "point": "对理学诸说的批评"
+    },
+    {
+     "locator": "奏议",
+     "point": "对时政的批评"
+    },
+    {
+     "locator": "书信",
+     "point": "与同时学者的论辩"
+    }
+   ],
+   "editions": [
+    "王孝鱼点校《王廷相集》（中华书局）"
+   ],
+   "related_people": [
+    "cn-songming-zhang-zai",
+    "cn-songming-zhu-xi",
+    "cn-qingmod-wang-fuzhi"
+   ],
+   "misreadings": [
+    {
+     "claim": "王廷相只是“气学”的一个旁支",
+     "why": "其“理载于气”的命题是对程朱理气论最直接的批评之一，且他把批评延伸到工夫论与政治；故在明代思想史上有独立地位。"
+    },
+    {
+     "claim": "其“气学”已是现代唯物主义",
+     "why": "其“气”仍带有“神”“虚”的一面（与张载类似）；以现代范畴套用会抹去其本体论的双重性。"
+    }
+   ],
+   "sources": [
+    "ws-taijitushuo",
+    "ws-mingru-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《王氏家藏集》的编排与所收篇目（含《慎言》《雅述》）各本有差异；本页依中华书局《王廷相集》概述，具体篇目须核。",
+   "sort_year": 1530
+  },
+  {
+   "id": "work-yashu",
+   "title": "《雅述》",
+   "title_original": "雅述",
+   "tradition": "china",
+   "date_display": "明（王廷相）",
+   "structure": "二卷（通行本）：以笔记体论理气、性命、鬼神、历史与学术，多有对宋儒的批评。",
+   "core_arguments": [
+    "“元气之上无物”：否认气之上另有理或太极",
+    "对“鬼神”的怀疑：以气之聚散解释，不立人格神",
+    "对“虚静”与“主敬”的批评：以为离物求静非学"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上",
+     "point": "元气之上无物"
+    },
+    {
+     "locator": "卷上",
+     "point": "对鬼神的解释"
+    },
+    {
+     "locator": "卷下",
+     "point": "对宋儒的批评"
+    },
+    {
+     "locator": "卷下",
+     "point": "对工夫论的批评"
+    }
+   ],
+   "editions": [
+    "中华书局《王廷相集》（王孝鱼点校）所收"
+   ],
+   "related_people": [
+    "cn-songming-zhang-zai",
+    "cn-songming-zhu-xi",
+    "cn-qingmod-wang-fuzhi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《雅述》是《慎言》的续编",
+     "why": "二者体例相近而主题各有侧重（《慎言》较系统，《雅述》为笔记），且各自独立成书；故不宜视为续编。"
+    },
+    {
+     "claim": "其否认鬼神即无神论",
+     "why": "他以“气之聚散”解释鬼神现象，否认的是**人格神与灵魂不灭**，但仍保留“气”的超越性面向；故不能径断为无神论。"
+    }
+   ],
+   "sources": [
+    "ws-taijitushuo",
+    "ws-mingru-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《雅述》的卷数（通行2卷）与条目在各本略有差异；本页依中华书局《王廷相集》概述，其“鬼神”说的定位（是否无神论）须分辨。",
+   "sort_year": 1535
+  },
+  {
    "id": "work-institutes",
    "title": "《基督教要义》",
    "title_original": "Institutio Christianae Religionis",
@@ -12310,6 +12424,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《焚书》在明清两代多次遭禁毁，今本的篇目与文字有版本差异（初刻、重刻与后世辑本）；本页依中华书局本与明末思想研究概述。",
+   "sort_year": 1590
+  },
+  {
+   "id": "work-shenyin-yu",
+   "title": "《呻吟语》",
+   "title_original": "呻吟語",
+   "tradition": "china",
+   "date_display": "明（吕坤，1536—1618）",
+   "structure": "六卷：分“性命、存心、伦理、谈道、修身、问学、应务、养生、天地、世运、圣贤、品藻、治道、人情、物理、广喻、词章”等十七类（通行本）。",
+   "core_arguments": [
+    "以“理”与“气”论性：性是天命之在我者",
+    "“存心”为学问的根本：心是身之主",
+    "对“讲学”与“实践”的关系有尖锐的批评（“学不如此，讲之何益”）"
+   ],
+   "key_points": [
+    {
+     "locator": "《性命》",
+     "point": "性与命"
+    },
+    {
+     "locator": "《存心》",
+     "point": "心为身之主"
+    },
+    {
+     "locator": "《问学》",
+     "point": "讲学与实践"
+    },
+    {
+     "locator": "《治道》",
+     "point": "政治与民生"
+    }
+   ],
+   "editions": [
+    "中华书局《呻吟语》（点校本）；《吕坤全集》本"
+   ],
+   "related_people": [
+    "cn-songming-zhu-xi",
+    "cn-songming-wang-yangming",
+    "cn-songming-wang-gen"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是格言汇编",
+     "why": "其分类（性命、存心、治道）本身即一个**工夫与政治的纲领**；且其对“讲学”的批评有明确的理论立场。"
+    },
+    {
+     "claim": "吕坤属阳明学派",
+     "why": "其学兼采程朱与阳明，且对两派皆有批评；故不宜简单归属。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "ws-chuanxi",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《呻吟语》的分类（通行十七类）与卷数各本有出入；吕坤的学派归属（兼采程朱阳明）须核《明儒学案》与相关研究。",
    "sort_year": 1590
   },
   {

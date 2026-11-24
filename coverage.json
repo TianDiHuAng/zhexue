@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1138,
+  "entries": 1142,
   "by_level": {
    "L2": 786,
-   "L1": 352
+   "L1": 356
   },
   "doctrine": {
    "total": 255,
    "detail": 255,
    "auto": 0
   },
-  "needs_verification": 352,
+  "needs_verification": 356,
   "sources": 399,
   "sources_verified": 399
  },
@@ -10342,6 +10342,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-wangshi-jiacang",
+   "type": "work",
+   "title": "《王氏家藏集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-yashu",
+   "type": "work",
+   "title": "《雅述》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-institutes",
    "type": "work",
    "title": "《基督教要义》",
@@ -10378,6 +10400,17 @@
    "id": "work-fenshu",
    "type": "work",
    "title": "《焚书》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-shenyin-yu",
+   "type": "work",
+   "title": "《呻吟语》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -12182,6 +12215,17 @@
    "id": "cmp-weibing",
    "type": "comparative",
    "title": "治未病与“预防”：两种“尚未发生”的治理",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-qi-hyle",
+   "type": "comparative",
+   "title": "气与质料：张载、王廷相与亚里士多德的 hyle",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
