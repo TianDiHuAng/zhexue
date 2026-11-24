@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1107,
+  "entries": 1111,
   "by_level": {
    "L2": 785,
-   "L1": 322
+   "L1": 326
   },
   "doctrine": {
    "total": 255,
    "detail": 255,
    "auto": 0
   },
-  "needs_verification": 322,
+  "needs_verification": 326,
   "sources": 399,
   "sources_verified": 399
  },
@@ -9913,6 +9913,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-de-veritate",
+   "type": "work",
+   "title": "《论真理》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-quaestiones-disputatae",
+   "type": "work",
+   "title": "《辩论问题集》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-summa",
    "type": "work",
    "title": "《神学大全》",
@@ -9939,6 +9961,17 @@
    "type": "work",
    "title": "《朱子语类》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-de-malo",
+   "type": "work",
+   "title": "《论恶》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -11841,6 +11874,17 @@
    "id": "cmp-weige",
    "type": "comparative",
    "title": "位格与“人”：persona、hypostasis 与儒家的“人”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 5,
+   "verified_sources": 5,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-quanheng",
+   "type": "comparative",
+   "title": "辩论的两种制度：经院的 disputatio 与中国的讲会",
    "container": "comparative",
    "level": "L1",
    "sources": 5,

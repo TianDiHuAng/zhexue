@@ -10037,6 +10037,120 @@
    "sort_year": 1256
   },
   {
+   "id": "work-de-veritate",
+   "title": "《论真理》",
+   "title_original": "Quaestiones disputatae de veritate",
+   "tradition": "west",
+   "date_display": "约1256—1259年（阿奎那）",
+   "structure": "二十九个辩论问题（quaestiones disputatae），共二百五十三篇（articuli）；论真理、神的知识、理念、意志、自由决断、良心、信仰等。",
+   "core_arguments": [
+    "真理是“事物与理智的符合”（adaequatio rei et intellectus）",
+    "真理以神为第一真理，故一切真理都以神为根据",
+    "“良心”（synderesis）是实践理性的第一习惯，指向善"
+   ],
+   "key_points": [
+    {
+     "locator": "q.1",
+     "point": "真理的定义"
+    },
+    {
+     "locator": "q.2",
+     "point": "神的知识"
+    },
+    {
+     "locator": "q.3",
+     "point": "理念"
+    },
+    {
+     "locator": "q.16—17",
+     "point": "良心与良心conscientia"
+    }
+   ],
+   "editions": [
+    "拉丁原文 Opera omnia（Leonine）第22卷；英译（Mulligan／McGlynn 等多卷）"
+   ],
+   "related_people": [
+    "gr-medieval-aquinas",
+    "gr-ancient-aristotle",
+    "gr-medieval-augustine"
+   ],
+   "misreadings": [
+    {
+     "claim": "“真理是符合”只是一个公式",
+     "why": "其分析分三层：事物与**神圣理智**的符合（事物的真理）、与**人的理智**的符合（认识的真理）、以及“真理”作为**存在的一种性质**（本体论的真理）；三者不等同。"
+    },
+    {
+     "claim": "辩论问题集只是《神学大全》的草稿",
+     "why": "“辩论问题”是独立的**教学体裁**，其结构（问题—反对—反之—答复—回应）与《大全》不同；许多辨难在此更详尽。"
+    }
+   ],
+   "sources": [
+    "sep-aquinas",
+    "sep-aristotle",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论真理》的篇数与编排（通行29个问题、253篇）须核 Leonine 本；其“真理三义”的解释与“良心（synderesis）”说的来源（热罗姆？）亦须分辨。",
+   "sort_year": 1259
+  },
+  {
+   "id": "work-quaestiones-disputatae",
+   "title": "《辩论问题集》",
+   "title_original": "Quaestiones disputatae",
+   "tradition": "west",
+   "date_display": "13世纪（阿奎那等的辩论结集）",
+   "structure": "以“辩论”（disputatio）为体例的结集：每一问题下有“反对意见”“反之”“答复”“对各反对意见的回应”四段。",
+   "core_arguments": [
+    "辩论体例使每个问题都在**正反双方的张力**中被处理",
+    "答复（responsio）须同时回应反对意见，故不能回避难点",
+    "这一体例是大学教学（lectura／disputatio）的制度产物"
+   ],
+   "key_points": [
+    {
+     "locator": "体例",
+     "point": "反对—反之—答复—回应"
+    },
+    {
+     "locator": "问题",
+     "point": "以问题而非章节为单位"
+    },
+    {
+     "locator": "答复",
+     "point": "须逐一回应反对意见"
+    },
+    {
+     "locator": "结集",
+     "point": "由助手整理成文"
+    }
+   ],
+   "editions": [
+    "拉丁原文 Opera omnia（Leonine）各卷；单篇英译散见各译本"
+   ],
+   "related_people": [
+    "gr-medieval-aquinas",
+    "gr-medieval-duns-scotus",
+    "gr-medieval-abelard"
+   ],
+   "misreadings": [
+    {
+     "claim": "“辩论问题”是阿奎那的专名",
+     "why": "它是**体裁名**：13—14世纪许多神学家（司各脱、奥卡姆等）都有各自的《辩论问题集》；故须指明作者。"
+    },
+    {
+     "claim": "“反对意见”代表作者的观点",
+     "why": "其体例先列**反对**（往往是作者要驳的立场），再列“反之”（权威或理由），最后在“答复”中给出自己的立场；故不能把“反对”当作其主张。"
+    }
+   ],
+   "sources": [
+    "sep-aquinas",
+    "sep-medieval-philosophy",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《辩论问题集》为体裁名（quaestiones disputatae），不同作者各有其结集；本条取 13 世纪的一般体例说明，具体篇目须按作者核定，故标为待核实。",
+   "sort_year": 1260
+  },
+  {
    "id": "work-summa",
    "title": "《神学大全》",
    "title_original": "Summa Theologiae",
@@ -10207,6 +10321,63 @@
    "needs_verification": true,
    "pending_notes": "《朱子语类》为门人记录，各条有记录者与年代的差异，且与《朱文公文集》的亲著文字有出入；本页依黎靖德编本与中华书局点校本，具体条目须核。",
    "sort_year": 1270
+  },
+  {
+   "id": "work-de-malo",
+   "title": "《论恶》",
+   "title_original": "Quaestiones disputatae de malo",
+   "tradition": "west",
+   "date_display": "约1269—1272年（阿奎那）",
+   "structure": "十六个辩论问题：论恶的本性、罪的种类、原罪、魔鬼的罪、以及意志与恩典等。",
+   "core_arguments": [
+    "恶不是实体，而是“善的缺失”（privatio boni）",
+    "恶有“惩罚之恶”与“罪之恶”两类（malum poenae / malum culpae）",
+    "罪的根源在意志的偏离，而非在身体或外在之物"
+   ],
+   "key_points": [
+    {
+     "locator": "q.1",
+     "point": "恶的本性（缺失）"
+    },
+    {
+     "locator": "q.2—3",
+     "point": "罪与意志"
+    },
+    {
+     "locator": "q.4—5",
+     "point": "原罪"
+    },
+    {
+     "locator": "q.6",
+     "point": "自由决断与恩典"
+    }
+   ],
+   "editions": [
+    "拉丁原文 Opera omnia（Leonine）第23卷；英译（Davies, On Evil）"
+   ],
+   "related_people": [
+    "gr-medieval-aquinas",
+    "gr-medieval-augustine",
+    "gr-medieval-anselm"
+   ],
+   "misreadings": [
+    {
+     "claim": "“恶是缺失”意味着恶不存在",
+     "why": "它意味着恶不是**实体**（不有自己的本性），而是善的**缺失**；但缺失是真实的（失明是真实的），故不否认恶的实在性。"
+    },
+    {
+     "claim": "《论恶》与《神学大全》I 卷论恶重复",
+     "why": "《论恶》的讨论更详尽（尤其论魔鬼的罪、原罪与意志），且体例为辩论；二者互补而非重复。"
+    }
+   ],
+   "sources": [
+    "sep-aquinas",
+    "sep-augustine",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论恶》成书年代（约1269—72）与篇数（通行16个问题）须核 Leonine 第23卷；“恶为缺失”说的来源（奥古斯丁）与其在《神学大全》中的重述须分辨。",
+   "sort_year": 1272
   },
   {
    "id": "work-tanjing",
