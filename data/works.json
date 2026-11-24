@@ -7437,6 +7437,63 @@
    "sort_year": 510
   },
   {
+   "id": "work-chusanzang-jiji",
+   "title": "《出三藏记集》",
+   "title_original": "出三藏記集",
+   "tradition": "china",
+   "date_display": "约510年（僧祐）",
+   "structure": "十五卷：①撰缘记（佛教的结集与传译）；②名录（历代译经的目录）；③总经序（各经的序与后记）；④述列传（译师与名僧的传记）。",
+   "core_arguments": [
+    "以“目录＋序记＋传记”三体并列为体例，保存译经的原始序跋",
+    "以“译经”为中心编写佛教史：教法的传入系于译事",
+    "对疑伪经的辨别（早期佛教文献学的开端）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—五",
+     "point": "撰缘记与名录"
+    },
+    {
+     "locator": "卷六—十二",
+     "point": "总经序（原始序跋）"
+    },
+    {
+     "locator": "卷十三—十五",
+     "point": "述列传"
+    },
+    {
+     "locator": "名录",
+     "point": "疑伪经的辨别"
+    }
+   ],
+   "editions": [
+    "《大正藏》第55卷；苏晋仁等《出三藏记集》点校本（中华书局）"
+   ],
+   "related_people": [
+    "cn-weijin-sengzhao",
+    "cn-weijin-huiyuan",
+    "cn-suitang-xuanzang"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是佛教的经藏目录",
+     "why": "它是“记集”：除目录外，还含**原始序跋**与**传记**，故兼有文献学与史学的性质；其“总经序”保存了大量今已散佚的序文。"
+    },
+    {
+     "claim": "其“疑伪经”的判定是任意的",
+     "why": "其判定有明确理由（译者不明、文风不合、经录无载），故是**文献学方法**的早期实践，而非随意的排斥。"
+    }
+   ],
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "ws-hongming-ji",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《出三藏记集》的卷次与篇目各本略有出入（通行15卷）；本页依《大正藏》第55卷与苏晋仁点校本概述，“疑伪经”条目的判定标准须核原书。",
+   "sort_year": 510
+  },
+  {
    "id": "work-gaoseng-zhuan",
    "title": "《高僧传》",
    "title_original": "高僧傳",
@@ -7664,6 +7721,63 @@
    "needs_verification": true,
    "pending_notes": "《大乘起信论》的成立问题（印度撰述还是中国撰述）自隋代以来争论不断，20世纪中日学界均有集中讨论；本页述其内容与影响，不判定其成立地。",
    "sort_year": 550
+  },
+  {
+   "id": "work-yanshi-jiaxun",
+   "title": "《颜氏家训》",
+   "title_original": "顏氏家訓",
+   "tradition": "china",
+   "date_display": "约6世纪末（颜之推）",
+   "structure": "七卷二十篇：序致、教子、兄弟、后娶、治家、风操、慕贤、勉学、文章、名实、涉务、省事、止足、诫兵、养生、归心、书证、音辞、杂艺、终制。",
+   "core_arguments": [
+    "以“家教”为伦理的起点：教子须早、须严而有慈",
+    "“名实”之辨：名须副实，徒名者终败",
+    "“归心”篇以儒家的立场护佛（不违忠孝）"
+   ],
+   "key_points": [
+    {
+     "locator": "《教子》",
+     "point": "教子的早与严"
+    },
+    {
+     "locator": "《勉学》",
+     "point": "为学以立身"
+    },
+    {
+     "locator": "《名实》",
+     "point": "名须副实"
+    },
+    {
+     "locator": "《归心》",
+     "point": "儒佛不悖"
+    }
+   ],
+   "editions": [
+    "王利器《颜氏家训集解》（中华书局）；《颜氏家训》各本"
+   ],
+   "related_people": [
+    "cn-lianghan-ban-gu",
+    "cn-weijin-huiyuan",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是一本家训格言",
+     "why": "其内容兼含**文献学（《书证》《音辞》）**、伦理、宗教与社会史的观察；其中的考据条目是清代考据学的重要先声。"
+    },
+    {
+     "claim": "《归心》篇意味着颜之推是佛教徒而弃儒",
+     "why": "其立场是**儒佛不悖**（佛教“不违忠孝”），故不是弃儒；其全书的价值基调仍是儒家的。"
+    }
+   ],
+   "sources": [
+    "ws-shishuo-xinyu",
+    "ws-hongming-ji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《颜氏家训》的成书年代（约6世纪末）与篇数（通行20篇）须核王利器集解本；其《归心》篇的儒佛立场与《书证》《音辞》的文献学价值须分别评估。",
+   "sort_year": 590
   },
   {
    "id": "work-fahua-xuanyi",
@@ -8005,6 +8119,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 659
+  },
+  {
+   "id": "work-guang-hongming-ji",
+   "title": "《广弘明集》",
+   "title_original": "廣弘明集",
+   "tradition": "china",
+   "date_display": "约664年（道宣）",
+   "structure": "三十卷：分“归正”“辨惑”“佛德”“法义”“僧行”“慈济”“戒功”“启福”“悔罪”“统归”十篇，收录南北朝至唐初的佛教护教文献与论辩。",
+   "core_arguments": [
+    "以“辨惑”篇集中收录**破斥道教与儒者批评**的文献",
+    "以“归正”篇论佛教的正当性（不违忠孝）",
+    "保存了“沙门不敬王者”“夷夏之辨”“白黑论”等争论的双方文本"
+   ],
+   "key_points": [
+    {
+     "locator": "《归正篇》",
+     "point": "佛教的正当性"
+    },
+    {
+     "locator": "《辨惑篇》",
+     "point": "对道教与儒者的破斥"
+    },
+    {
+     "locator": "《佛德篇》",
+     "point": "佛德与瑞应"
+    },
+    {
+     "locator": "《统归篇》",
+     "point": "三教的归趣"
+    }
+   ],
+   "editions": [
+    "《大正藏》第52卷；中华书局《广弘明集》点校本（若有）"
+   ],
+   "related_people": [
+    "cn-suitang-xuanzang",
+    "cn-weijin-huiyuan",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《弘明集》的续编，体例相同",
+     "why": "《弘明集》为**不加分类**的文献汇编；《广弘明集》则**分十篇归类**，且所收范围更广（兼收佛德、僧行、慈济等），故体例不相同。"
+    },
+    {
+     "claim": "其收录的论辩文本是单方面的宣传",
+     "why": "它保存了**论辩双方的文献**（如《白黑论》与对它的反驳），故是研究南北朝三教论争的一等材料。"
+    }
+   ],
+   "sources": [
+    "ws-hongming-ji",
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《广弘明集》的卷数（通行30卷）与十篇的分法各本略有出入；本页依《大正藏》第52卷概述，其所收论辩文本的作者与年代须逐一核对。",
+   "sort_year": 664
   },
   {
    "id": "work-jinshizi-zhang",

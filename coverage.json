@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1113,
+  "entries": 1117,
   "by_level": {
    "L2": 785,
-   "L1": 328
+   "L1": 332
   },
   "doctrine": {
    "total": 255,
    "detail": 255,
    "auto": 0
   },
-  "needs_verification": 328,
+  "needs_verification": 332,
   "sources": 399,
   "sources_verified": 399
  },
@@ -9407,6 +9407,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-chusanzang-jiji",
+   "type": "work",
+   "title": "《出三藏记集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-gaoseng-zhuan",
    "type": "work",
    "title": "《高僧传》",
@@ -9443,6 +9454,17 @@
    "id": "work-qixinlun",
    "type": "work",
    "title": "《大乘起信论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-yanshi-jiaxun",
+   "type": "work",
+   "title": "《颜氏家训》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -9514,6 +9536,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-guang-hongming-ji",
+   "type": "work",
+   "title": "《广弘明集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -11911,6 +11944,17 @@
    "level": "L1",
    "sources": 5,
    "verified_sources": 5,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-duhua-monad",
+   "type": "comparative",
+   "title": "独化与单子：郭象与莱布尼茨的“无窗”个体",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
