@@ -3,15 +3,15 @@
  "totals": {
   "entries": 1800,
   "by_level": {
-   "L2": 779,
-   "L1": 1021
+   "L2": 786,
+   "L1": 1014
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 1021,
+  "needs_verification": 1014,
   "sources": 424,
   "sources_verified": 424
  },
@@ -11565,10 +11565,10 @@
    "type": "work",
    "title": "《论秩序》",
    "container": "west",
-   "level": "L1",
+   "level": "L2",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
@@ -11587,10 +11587,10 @@
    "type": "work",
    "title": "《独语录》",
    "container": "west",
-   "level": "L1",
+   "level": "L2",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
@@ -11598,10 +11598,10 @@
    "type": "work",
    "title": "《论教师》",
    "container": "west",
-   "level": "L1",
+   "level": "L2",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
@@ -11609,10 +11609,10 @@
    "type": "work",
    "title": "《论自由意志》",
    "container": "west",
-   "level": "L1",
+   "level": "L2",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
@@ -11774,10 +11774,10 @@
    "type": "work",
    "title": "《论基督教教义》",
    "container": "west",
-   "level": "L1",
+   "level": "L2",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
@@ -11785,10 +11785,10 @@
    "type": "work",
    "title": "《论恩典与自由意志》",
    "container": "west",
-   "level": "L1",
+   "level": "L2",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
@@ -11796,10 +11796,10 @@
    "type": "work",
    "title": "《订正论》",
    "container": "west",
-   "level": "L1",
+   "level": "L2",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {

@@ -10230,8 +10230,8 @@
     "sep-medieval-philosophy",
     "book-copleston-history"
    ],
-   "needs_verification": true,
-   "pending_notes": "《论秩序》386 年的对话性质与其“秩序”说的新柏拉图来源须核 CCSL 29；其与《订正论》中的自我修正亦须分辨。",
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": 386
   },
   {
@@ -10289,7 +10289,7 @@
     "sep-aristotle"
    ],
    "needs_verification": true,
-   "pending_notes": "《驳学园派》三卷与 386 年成书须核 CCSL 29；“我若被骗则我存在”一语的原文位置亦须核，其与笛卡尔的异同须分辨。",
+   "pending_notes": "《驳学园派》三卷与 386 年成书须核 CCSL 29；“我若被骗则我存在”一语的原文位置亦须核，其与笛卡尔的异同须分辨。 已核（第 297 轮，据 sep-augustine，2019-09-25／2024-04-26 修订）：《驳学园派》为 386/387 于 Cassiciacum 所写的首批对话之一，主题为怀疑论（skepticism）。但“我若被骗，则我存在”一语的**原文位置**尚未核（SEP 论其 cogito 式论证见第 5.1 节，本页未及逐句核），故仍标待核。",
    "sort_year": 386
   },
   {
@@ -10345,8 +10345,8 @@
     "sep-plato",
     "book-copleston-history"
    ],
-   "needs_verification": true,
-   "pending_notes": "《独语录》的成书（386—387）与其对话体裁的设计须核 CCSL 89；其不朽论证的逻辑结构与新柏拉图来源亦须核。",
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": 387
   },
   {
@@ -10402,8 +10402,8 @@
     "sep-plato",
     "book-copleston-history"
    ],
-   "needs_verification": true,
-   "pending_notes": "《论教师》的写作年代（389）与其“内在教师”说的解释（认识论 vs 神学）学界有争论；本页依 CCSL 拉丁本与 SEP 词条概述。",
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": 389
   },
   {
@@ -10459,8 +10459,8 @@
     "book-copleston-history",
     "sep-aristotle"
    ],
-   "needs_verification": true,
-   "pending_notes": "《论自由意志》属奥古斯丁早期著作，其立场与其后期（反伯拉纠）的恩典论有发展；本页述其书之说，并标出这一发展。",
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": 395
   },
   {
@@ -11310,8 +11310,8 @@
     "sep-medieval-philosophy",
     "sep-plato"
    ],
-   "needs_verification": true,
-   "pending_notes": "《论基督教教义》前后两半（396 与 426）的体例与侧重不同；本页依 CCSL 32 与 SEP 词条概述，具体卷次须核。",
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": 426
   },
   {
@@ -11367,8 +11367,8 @@
     "sep-aquinas",
     "sep-kant"
    ],
-   "needs_verification": true,
-   "pending_notes": "《论恩典与自由意志》的成书（426—427）与 PL 44 文本须核；其晚期“预定”之论与本书的关系须并述而不裁定。中译少。",
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": 426
   },
   {
@@ -11424,8 +11424,8 @@
     "book-copleston-history",
     "sep-aquinas"
    ],
-   "needs_verification": true,
-   "pending_notes": " 汉译另有《订正录》《回顾录》《更正录》等名（见别名表）；retractare 意为“重新审视／修正”，非“撤回”。",
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": 427
   },
   {

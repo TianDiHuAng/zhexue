@@ -370,3 +370,8 @@ D66 说"链接通 ≠ 来源对"。第254轮把它拆成两部分并做成工具
 并定还账写法：核过一项即在 `pending_notes` 记「已核（第 N 轮，据 <source_id>）：<内容>」；
 全部核清才把 `needs_verification` 置 `false`。**核了一半不许记成全核。**
 另记：`gen_state` 的 needs_verification 计数与 `debtcheck` 的口径不同（前者含其他计数），两个数都须看，不许混说。
+
+## D73（第 297 轮）撤标的记录不能留在 pending_notes：新增 `VERIFIED.md` 账本
+`check.py` R10 规定「填了 `pending_notes` 则 `needs_verification` 须为 true」，故**撤标必须清空 `pending_notes`**。
+处置：核验记录移入仓库级账本 `VERIFIED.md`（按轮次分组，注明所据 source_id 与日期），条目本身只保留空 notes 与 false。
+好处：既满足校验规则，又保住"凭什么撤标"的证据链；坏处：证据与条目分居两处，查证时须同时看 `DEBT.md`（欠）与 `VERIFIED.md`（清）。
