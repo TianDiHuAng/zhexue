@@ -3077,6 +3077,42 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "cn-weijin-yinguo-baoying",
+   "term": "因果报应",
+   "term_latin": "karmic retribution",
+   "definition": "慧远《三报论》所论的“报应有三世”：现报（此生受报）、生报（来生受报）、后报（二生乃至百千生后受报）。其要点是**以三世**解“善人受苦、恶人得福”的难题——报应不爽，只是未必在此生。",
+   "usages": [
+    {
+     "name": "慧远",
+     "id": "cn-weijin-huiyuan",
+     "usage": "以“三报”说明报应的不虚：业力贯通三世。"
+    },
+    {
+     "name": "范缜（批评者）",
+     "usage": "以“形尽神灭”反驳：无神则无受报之主。"
+    },
+    {
+     "name": "《弘明集》的论辩",
+     "usage": "收录双方往复，是南朝形神之争的主战场。"
+    }
+   ],
+   "related": [
+    "cn-weijin-shamen-bujing"
+   ],
+   "example": {
+    "text": "“三报”之所以必要，是因为它解一个经验上的反例：若报应只在此生，则善人受苦即足以否证它。故“三世”不是附加的教条，而是**使因果论自洽的条件** —— 但它也因此不可被此生经验检验。",
+    "figure": "慧远",
+    "locator": "《三报论》（《弘明集》卷五）"
+   },
+   "sources": [
+    "ws-hongming-ji",
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“三报”的表述见慧远《三报论》，其与印度业报说的异同（尤其“无我”与“受报者”的张力）须核；本页依《弘明集》与佛教研究概述。"
   }
  ],
  "debates": [

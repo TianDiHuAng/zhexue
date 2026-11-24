@@ -7381,6 +7381,114 @@
    "sort_year": 397
   },
   {
+   "id": "work-sanbao-lun",
+   "title": "《三报论》",
+   "title_original": "三報論",
+   "tradition": "china",
+   "date_display": "东晋（慧远）",
+   "structure": "一篇（见《弘明集》卷五）：以问答体论报应的三世，答“善人受苦”之难。",
+   "core_arguments": [
+    "报应有现报、生报、后报三世",
+    "“善人受苦”不否证报应：其报或在来世",
+    "以“心神不灭”为受报的主体（与形神之辩相连）"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "问难：善人受苦"
+    },
+    {
+     "locator": "中段",
+     "point": "三报的分说"
+    },
+    {
+     "locator": "末段",
+     "point": "心神不灭与受报"
+    }
+   ],
+   "editions": [
+    "《弘明集》卷五；《大正藏》第52卷"
+   ],
+   "related_people": [
+    "cn-weijin-huiyuan",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "“三报”是为辩解而设的遁词",
+     "why": "它是**使因果论自洽**的条件：若报应只在此生，则经验反例即足以否证；故“三世”是理论上的必要补充。其代价是它不可被此生经验检验。"
+    },
+    {
+     "claim": "慧远的报应说是“灵魂不灭”的证明",
+     "why": "其论证方向相反：他**预设**心神不灭以说明受报，而非由报应推出不灭；故与范缜的争论焦点正在此预设。"
+    }
+   ],
+   "sources": [
+    "ws-hongming-ji",
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《三报论》的原文见《弘明集》卷五，其与印度业报说的异同（“无我”与“受报者”的张力）须核；本页依《弘明集》与佛教研究概述。",
+   "sort_year": 400
+  },
+  {
+   "id": "work-shamen-bujing",
+   "title": "《沙门不敬王者论》",
+   "title_original": "沙門不敬王者論",
+   "tradition": "china",
+   "date_display": "东晋（慧远，约404年）",
+   "structure": "五篇（见《弘明集》卷五）：在家、出家、求宗不顺化、体极不兼应、形尽神不灭。",
+   "core_arguments": [
+    "出家者“不存身以息患”，故不受王者的世俗礼制所摄",
+    "“求宗不顺化”：求道者不以顺应教化为究竟",
+    "以“形尽神不灭”为出家之理的根据"
+   ],
+   "key_points": [
+    {
+     "locator": "〈在家〉",
+     "point": "在家与出家的分际"
+    },
+    {
+     "locator": "〈出家〉",
+     "point": "不受王化之礼"
+    },
+    {
+     "locator": "〈求宗不顺化〉",
+     "point": "求道不顺教化"
+    },
+    {
+     "locator": "〈形尽神不灭〉",
+     "point": "神不灭的论证"
+    }
+   ],
+   "editions": [
+    "《弘明集》卷五；《大正藏》第52卷"
+   ],
+   "related_people": [
+    "cn-weijin-huiyuan",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“政教分离”的主张",
+     "why": "其论点是**出家者不受世俗礼制所摄**（因其“不存身以息患”），并非主张国家与宗教各管一域；故与近代的政教分离不同。"
+    },
+    {
+     "claim": "慧远与王权对抗",
+     "why": "他同时承认“在家”者须遵王化，故其立场是**分际**（在家/出家各有所属），不是对抗。"
+    }
+   ],
+   "sources": [
+    "ws-hongming-ji",
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《沙门不敬王者论》五篇的原文见《弘明集》卷五，其历史背景（桓玄的“沙汰沙门”与“沙门应敬王者”之争）须核；本页依《弘明集》概述。",
+   "sort_year": 404
+  },
+  {
    "id": "work-zhaolun",
    "title": "《肇论》",
    "title_original": "肇論",
@@ -8006,6 +8114,63 @@
    "needs_verification": true,
    "pending_notes": "《神秘神学》作者的托名问题（今通认为5—6世纪叙利亚修士）与希腊原文的版本须核；中译本情况待查，本页依中世纪哲学史与英译概述。",
    "sort_year": 500
+  },
+  {
+   "id": "work-shenmie-lun",
+   "title": "《神灭论》",
+   "title_original": "神滅論",
+   "tradition": "china",
+   "date_display": "南朝齐梁（范缜，约450—515）",
+   "structure": "一篇（见《弘明集》卷九、《梁书·范缜传》）：以问答体论“形神相即”，主张形尽神灭。",
+   "core_arguments": [
+    "“形者神之质，神者形之用”：形是质，神是用，故形尽则神灭",
+    "以“刃利”为喻：刃没则利无，形亡则神灭",
+    "“人之质”与“木之质”有别，故人死不复为有知之物"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "形神相即"
+    },
+    {
+     "locator": "中段",
+     "point": "刃利之喻"
+    },
+    {
+     "locator": "中段",
+     "point": "人之质与木之质"
+    },
+    {
+     "locator": "末段",
+     "point": "对“三世因果”的回应"
+    }
+   ],
+   "editions": [
+    "《弘明集》卷九；《梁书·范缜传》；中华书局《范缜集》校注（若有）"
+   ],
+   "related_people": [
+    "cn-weijin-huiyuan",
+    "cn-lianghan-wang-chong",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“唯物主义”的宣言",
+     "why": "其核心是**形神关系**（形为质、神为用），并未主张一切皆物质；以现代“唯物主义”套用会抹去其“用”的维度。"
+    },
+    {
+     "claim": "范缜否认因果",
+     "why": "他否认的是**三世因果的报应论**，而非一切因果（他以“偶然”解“贫富”，但那是对“报应”的替代解释，不是否认因果）。"
+    }
+   ],
+   "sources": [
+    "ws-hongming-ji",
+    "ws-gaoseng-zhuan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《神灭论》的原文见《弘明集》卷九与《梁书·范缜传》，二者文字有差异；“形神相即”的确切论证与其“刃利”之喻的解释须核原典。",
+   "sort_year": 507
   },
   {
    "id": "work-hongmingji",

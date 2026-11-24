@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1149,
+  "entries": 1153,
   "by_level": {
    "L2": 786,
-   "L1": 363
+   "L1": 367
   },
   "doctrine": {
    "total": 255,
    "detail": 255,
    "auto": 0
   },
-  "needs_verification": 363,
+  "needs_verification": 367,
   "sources": 399,
   "sources_verified": 399
  },
@@ -57,7 +57,7 @@
    "title": "魏晋玄学",
    "region": "china",
    "philosophers": 13,
-   "concepts": 28,
+   "concepts": 29,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -5"
   },
@@ -2826,6 +2826,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-weijin-yinguo-baoying",
+   "type": "concept",
+   "title": "因果报应",
+   "container": "cn-weijin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -9429,6 +9440,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-sanbao-lun",
+   "type": "work",
+   "title": "《三报论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-shamen-bujing",
+   "type": "work",
+   "title": "《沙门不敬王者论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-zhaolun",
    "type": "work",
    "title": "《肇论》",
@@ -9543,6 +9576,17 @@
    "type": "work",
    "title": "《神秘神学》",
    "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-shenmie-lun",
+   "type": "work",
+   "title": "《神灭论》",
+   "container": "china",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
