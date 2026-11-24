@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1787,
+  "entries": 1792,
   "by_level": {
    "L2": 779,
-   "L1": 1008
+   "L1": 1013
   },
   "doctrine": {
-   "total": 307,
-   "detail": 307,
+   "total": 308,
+   "detail": 308,
    "auto": 0
   },
-  "needs_verification": 1008,
-  "sources": 423,
-  "sources_verified": 423
+  "needs_verification": 1013,
+  "sources": 424,
+  "sources_verified": 424
  },
  "units": [
   {
@@ -146,10 +146,10 @@
    "unit_id": "gr-modern",
    "title": "近代理性论与经验论",
    "region": "west",
-   "philosophers": 35,
+   "philosophers": 36,
    "concepts": 28,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -27"
+   "philosophers_slot": "8 上限，余 -28"
   }
  ],
  "entries": [
@@ -8800,42 +8800,9 @@
    "updated": "2026-11-24"
   },
   {
-   "id": "gr-modern-bacon",
+   "id": "gr-modern-cusanus",
    "type": "philosopher",
-   "title": "培根",
-   "container": "gr-modern",
-   "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
-   "needs_verification": false,
-   "updated": "2026-11-24"
-  },
-  {
-   "id": "gr-modern-descartes",
-   "type": "philosopher",
-   "title": "笛卡尔",
-   "container": "gr-modern",
-   "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
-   "needs_verification": false,
-   "updated": "2026-11-24"
-  },
-  {
-   "id": "gr-modern-spinoza",
-   "type": "philosopher",
-   "title": "斯宾诺莎",
-   "container": "gr-modern",
-   "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
-   "needs_verification": false,
-   "updated": "2026-11-24"
-  },
-  {
-   "id": "gr-modern-leibniz",
-   "type": "philosopher",
-   "title": "莱布尼茨",
+   "title": "库萨的尼古拉",
    "container": "gr-modern",
    "level": "L2",
    "sources": 2,
@@ -8844,90 +8811,13 @@
    "updated": "2026-11-24"
   },
   {
-   "id": "gr-modern-locke",
+   "id": "gr-modern-erasmus",
    "type": "philosopher",
-   "title": "洛克",
+   "title": "伊拉斯谟",
    "container": "gr-modern",
    "level": "L2",
    "sources": 2,
    "verified_sources": 2,
-   "needs_verification": false,
-   "updated": "2026-11-24"
-  },
-  {
-   "id": "gr-modern-berkeley",
-   "type": "philosopher",
-   "title": "贝克莱",
-   "container": "gr-modern",
-   "level": "L2",
-   "sources": 2,
-   "verified_sources": 2,
-   "needs_verification": false,
-   "updated": "2026-11-24"
-  },
-  {
-   "id": "gr-modern-hume",
-   "type": "philosopher",
-   "title": "休谟",
-   "container": "gr-modern",
-   "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
-   "needs_verification": false,
-   "updated": "2026-11-24"
-  },
-  {
-   "id": "gr-modern-pascal",
-   "type": "philosopher",
-   "title": "帕斯卡",
-   "container": "gr-modern",
-   "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
-   "needs_verification": false,
-   "updated": "2026-11-24"
-  },
-  {
-   "id": "gr-modern-hobbes",
-   "type": "philosopher",
-   "title": "霍布斯",
-   "container": "gr-modern",
-   "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
-   "needs_verification": false,
-   "updated": "2026-11-24"
-  },
-  {
-   "id": "gr-modern-rousseau",
-   "type": "philosopher",
-   "title": "卢梭",
-   "container": "gr-modern",
-   "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
-   "needs_verification": false,
-   "updated": "2026-11-24"
-  },
-  {
-   "id": "gr-modern-montesquieu",
-   "type": "philosopher",
-   "title": "孟德斯鸠",
-   "container": "gr-modern",
-   "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
-   "needs_verification": false,
-   "updated": "2026-11-24"
-  },
-  {
-   "id": "gr-modern-voltaire",
-   "type": "philosopher",
-   "title": "伏尔泰",
-   "container": "gr-modern",
-   "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
    "needs_verification": false,
    "updated": "2026-11-24"
   },
@@ -8940,6 +8830,39 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-modern-more",
+   "type": "philosopher",
+   "title": "托马斯·莫尔",
+   "container": "gr-modern",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-modern-luther",
+   "type": "philosopher",
+   "title": "路德",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-modern-calvin",
+   "type": "philosopher",
+   "title": "加尔文",
+   "container": "gr-modern",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -8965,6 +8888,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-modern-suarez",
+   "type": "philosopher",
+   "title": "苏阿雷斯",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-modern-bacon",
+   "type": "philosopher",
+   "title": "培根",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-modern-galileo",
    "type": "philosopher",
    "title": "伽利略",
@@ -8976,9 +8921,75 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-modern-mulla-sadra",
+   "type": "philosopher",
+   "title": "穆拉·萨德拉",
+   "container": "gr-modern",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-modern-grotius",
    "type": "philosopher",
    "title": "格劳秀斯",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-modern-hobbes",
+   "type": "philosopher",
+   "title": "霍布斯",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-modern-descartes",
+   "type": "philosopher",
+   "title": "笛卡尔",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-modern-pascal",
+   "type": "philosopher",
+   "title": "帕斯卡",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-modern-spinoza",
+   "type": "philosopher",
+   "title": "斯宾诺莎",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-modern-locke",
+   "type": "philosopher",
+   "title": "洛克",
    "container": "gr-modern",
    "level": "L2",
    "sources": 2,
@@ -8998,53 +9009,20 @@
    "updated": "2026-11-24"
   },
   {
-   "id": "gr-modern-cusanus",
+   "id": "gr-modern-newton",
    "type": "philosopher",
-   "title": "库萨的尼古拉",
+   "title": "牛顿",
    "container": "gr-modern",
-   "level": "L2",
-   "sources": 2,
-   "verified_sources": 2,
-   "needs_verification": false,
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
-   "id": "gr-modern-burke",
+   "id": "gr-modern-leibniz",
    "type": "philosopher",
-   "title": "伯克",
-   "container": "gr-modern",
-   "level": "L2",
-   "sources": 2,
-   "verified_sources": 2,
-   "needs_verification": false,
-   "updated": "2026-11-24"
-  },
-  {
-   "id": "gr-modern-wollstonecraft",
-   "type": "philosopher",
-   "title": "沃斯通克拉夫特",
-   "container": "gr-modern",
-   "level": "L2",
-   "sources": 2,
-   "verified_sources": 2,
-   "needs_verification": false,
-   "updated": "2026-11-24"
-  },
-  {
-   "id": "gr-modern-condillac",
-   "type": "philosopher",
-   "title": "孔狄亚克",
-   "container": "gr-modern",
-   "level": "L2",
-   "sources": 2,
-   "verified_sources": 2,
-   "needs_verification": false,
-   "updated": "2026-11-24"
-  },
-  {
-   "id": "gr-modern-erasmus",
-   "type": "philosopher",
-   "title": "伊拉斯谟",
+   "title": "莱布尼茨",
    "container": "gr-modern",
    "level": "L2",
    "sources": 2,
@@ -9075,9 +9053,9 @@
    "updated": "2026-11-24"
   },
   {
-   "id": "gr-modern-suarez",
+   "id": "gr-modern-berkeley",
    "type": "philosopher",
-   "title": "苏阿雷斯",
+   "title": "贝克莱",
    "container": "gr-modern",
    "level": "L2",
    "sources": 2,
@@ -9086,9 +9064,9 @@
    "updated": "2026-11-24"
   },
   {
-   "id": "gr-modern-luther",
+   "id": "gr-modern-montesquieu",
    "type": "philosopher",
-   "title": "路德",
+   "title": "孟德斯鸠",
    "container": "gr-modern",
    "level": "L2",
    "sources": 3,
@@ -9097,20 +9075,53 @@
    "updated": "2026-11-24"
   },
   {
-   "id": "gr-modern-calvin",
+   "id": "gr-modern-voltaire",
    "type": "philosopher",
-   "title": "加尔文",
+   "title": "伏尔泰",
    "container": "gr-modern",
-   "level": "L1",
-   "sources": 2,
-   "verified_sources": 2,
-   "needs_verification": true,
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-modern-hume",
+   "type": "philosopher",
+   "title": "休谟",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-modern-rousseau",
+   "type": "philosopher",
+   "title": "卢梭",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
    "id": "gr-modern-diderot",
    "type": "philosopher",
    "title": "狄德罗",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-modern-condillac",
+   "type": "philosopher",
+   "title": "孔狄亚克",
    "container": "gr-modern",
    "level": "L2",
    "sources": 2,
@@ -9141,6 +9152,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-modern-burke",
+   "type": "philosopher",
+   "title": "伯克",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-modern-paine",
    "type": "philosopher",
    "title": "潘恩",
@@ -9152,28 +9174,6 @@
    "updated": "2026-11-24"
   },
   {
-   "id": "gr-modern-more",
-   "type": "philosopher",
-   "title": "托马斯·莫尔",
-   "container": "gr-modern",
-   "level": "L1",
-   "sources": 3,
-   "verified_sources": 3,
-   "needs_verification": true,
-   "updated": "2026-11-24"
-  },
-  {
-   "id": "gr-modern-mulla-sadra",
-   "type": "philosopher",
-   "title": "穆拉·萨德拉",
-   "container": "gr-modern",
-   "level": "L1",
-   "sources": 3,
-   "verified_sources": 3,
-   "needs_verification": true,
-   "updated": "2026-11-24"
-  },
-  {
    "id": "gr-modern-herder",
    "type": "philosopher",
    "title": "赫尔德",
@@ -9182,6 +9182,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-modern-wollstonecraft",
+   "type": "philosopher",
+   "title": "沃斯通克拉夫特",
+   "container": "gr-modern",
+   "level": "L2",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
@@ -14289,6 +14300,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-principia-mathematica",
+   "type": "work",
+   "title": "《自然哲学的数学原理》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-tangxian-sanmei-ji",
    "type": "work",
    "title": "《唐贤三昧集》",
@@ -14303,6 +14325,17 @@
    "id": "work-traite-tolerance",
    "type": "work",
    "title": "《论宽容》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-epistola-tolerentia",
+   "type": "work",
+   "title": "《论宗教宽容》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -14457,6 +14490,17 @@
    "id": "work-nouveaux-essais",
    "type": "work",
    "title": "《人类知识新论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-opticks",
+   "type": "work",
+   "title": "《光学》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -19330,6 +19374,17 @@
    "id": "cmp-huoti",
    "type": "comparative",
    "title": "“激情须被驾驭”与“喜怒哀乐之未发”：情该如何安顿？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-ziran-faze",
+   "type": "comparative",
+   "title": "“自然法则”与“道法自然”：法从哪里来？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

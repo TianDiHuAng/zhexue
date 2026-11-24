@@ -9714,6 +9714,29 @@
     "keyword_seen": true
    },
    "n": 423
+  },
+  {
+   "id": "sep-newton",
+   "title": "Isaac Newton（SEP 词条）",
+   "author": "Smith, George",
+   "year": 2007,
+   "year_note": "首版 2007-12-19（见页面）",
+   "publisher": "Stanford Encyclopedia of Philosophy（斯坦福大学）",
+   "type": "百科",
+   "url": "https://plato.stanford.edu/entries/newton/",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "牛顿专条：论《原理》的 192 条推出命题与三卷结构、“不做假说”的立场（第四规则与总释）、与莱布尼茨的优先权之争，以及《光学》与疑问",
+   "unit_hint": "gr-modern",
+   "verify": {
+    "method": "http-page+citation_meta",
+    "http_status": 200,
+    "checked_at": "2026-11-24",
+    "keyword": "First published Wed Dec 19, 2007",
+    "keyword_seen": true
+   },
+   "n": 424
   }
  ]
 }

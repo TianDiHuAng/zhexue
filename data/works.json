@@ -24315,6 +24315,63 @@
    "sort_year": 1685
   },
   {
+   "id": "work-principia-mathematica",
+   "title": "《自然哲学的数学原理》",
+   "title_original": "Philosophiae Naturalis Principia Mathematica",
+   "tradition": "west",
+   "date_display": "1687（牛顿；1713、1726 增订）",
+   "structure": "三卷（＋诸定义与公理）：卷一论运动定律与引力，卷二论阻力介质中的运动，卷三论世界体系。",
+   "core_arguments": [
+    "以**定义与公理**为体：力、质量、动量先定义，再演绎（192 条推出命题）",
+    "**运动三定律**与**万有引力**：以同一原理统摄天上与地上的运动",
+    "“**不做假说**”：引力之因不明，而数学的规律可用"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "运动定律与引力"
+    },
+    {
+     "locator": "卷二",
+     "point": "阻力介质"
+    },
+    {
+     "locator": "卷三",
+     "point": "世界体系"
+    },
+    {
+     "locator": "总释",
+     "point": "不做假说"
+    }
+   ],
+   "editions": [
+    "1687 初版；1713 第二版；1726 第三版（通行）；中译参《自然哲学的数学原理》（王克迪译）"
+   ],
+   "related_people": [
+    "gr-modern-newton",
+    "gr-modern-descartes",
+    "gr-modern-galileo"
+   ],
+   "misreadings": [
+    {
+     "claim": "书中已有 F=ma 的公式",
+     "why": "《原理》中并无 F=ma 这一形式；把第二定律写成 F=ma 并在物体内部局部应用，是欧拉 1750 年代的推进。故“牛顿力学”多为十八世纪欧陆的成果。"
+    },
+    {
+     "claim": "“不做假说”是“不要理论”",
+     "why": "其语是拒绝为引力之因编造形而上学的假设（数学的演绎照做），故其为方法的节制，非无理论。"
+    }
+   ],
+   "sources": [
+    "sep-newton",
+    "sep-descartes",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《原理》三卷与 1687／1713／1726 三版须核；“hypotheses non fingo”见于第三版总释，本页所引为通译，原文位置须再核。",
+   "sort_year": 1687
+  },
+  {
    "id": "work-tangxian-sanmei-ji",
    "title": "《唐贤三昧集》",
    "title_original": "唐賢三昧集",
@@ -24427,6 +24484,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《论宽容》的书信体与拉丁原题须核 Hackett 英译本；“宽容的界限”一段（无神论者与天主教徒除外）须如实标出，不可略去。",
+   "sort_year": 1689
+  },
+  {
+   "id": "work-epistola-tolerentia",
+   "title": "《论宗教宽容》",
+   "title_original": "Epistola de tolerantia（A Letter Concerning Toleration）",
+   "tradition": "west",
+   "date_display": "1689（洛克；拉丁文初版，同年英译）",
+   "structure": "一封长信：论教会与国家的权限之分，以及宽容的界限与当时的例外情形。",
+   "core_arguments": [
+    "教会是**自愿的团体**：其权柄在劝诫与开除，不在强制身体或财产",
+    "国家的职分在**公民利益**（生命、自由、财产），不管灵魂的拯救",
+    "故宽容是**权限的划界**：凡不害他人者皆当容忍（无神论者与天主教徒在当时被例外，须如实标出）"
+   ],
+   "key_points": [
+    {
+     "locator": "论教会",
+     "point": "自愿的团体"
+    },
+    {
+     "locator": "论国家",
+     "point": "公民利益"
+    },
+    {
+     "locator": "论界限",
+     "point": "不害他人"
+    },
+    {
+     "locator": "论例外",
+     "point": "当时的两处例外"
+    }
+   ],
+   "editions": [
+    "拉丁文本（Works, Clarendon）；英译（A Letter Concerning Toleration, Hackett）；中译参《论宗教宽容》（吴云贵译）"
+   ],
+   "related_people": [
+    "gr-modern-locke",
+    "gr-modern-hobbes",
+    "gr-modern-spinoza"
+   ],
+   "misreadings": [
+    {
+     "claim": "其宽容是“无条件的普遍宽容”",
+     "why": "其说以**权限的划界**为据，而当时**对无神论者与天主教徒设有例外**（理由各异）；故本页如实标出这两处例外，不作美化。"
+    },
+    {
+     "claim": "其说是“信仰私人化”",
+     "why": "其说主张**教会与国家各管其事**（非取消宗教的公共性），故其为权限的划分，非私人化。"
+    }
+   ],
+   "sources": [
+    "sep-locke",
+    "sep-hobbes",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "1689 年拉丁初版与同年英译的关系须核 Clarendon 版与吴云贵译本；其对无神论者与天主教徒的两处例外须如实标出，不作美化。",
    "sort_year": 1689
   },
   {
@@ -25226,6 +25340,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《人类知识新论》四卷与 1704 成稿／1765 刊行须核 Gerhardt 编本与陈修斋译本；“大理石的花纹”之喻的原文亦须核。",
+   "sort_year": 1704
+  },
+  {
+   "id": "work-opticks",
+   "title": "《光学》",
+   "title_original": "Opticks",
+   "tradition": "west",
+   "date_display": "1704（牛顿；1706 拉丁版、1717／1730 增订）",
+   "structure": "三卷（＋诸“疑问”）：论折射、反射与颜色的成因，末附以问句提出的猜想。",
+   "core_arguments": [
+    "白光由**异质的射线**合成（棱镜实验）：故颜色是光的性质，非物体的性质",
+    "以“**微粒**”说光（与惠更斯的波动说相对）",
+    "末附“**疑问**”（Queries）：以问句存疑，不以之为定理"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "折射与颜色"
+    },
+    {
+     "locator": "卷二",
+     "point": "薄膜与干涉"
+    },
+    {
+     "locator": "卷三",
+     "point": "衍射与微粒说"
+    },
+    {
+     "locator": "疑问",
+     "point": "以问句存疑"
+    }
+   ],
+   "editions": [
+    "1704 英文初版；1706 拉丁版；1717／1730 增订；中译版次待核"
+   ],
+   "related_people": [
+    "gr-modern-newton",
+    "gr-modern-descartes",
+    "gr-modern-leibniz"
+   ],
+   "misreadings": [
+    {
+     "claim": "其微粒说“已被波动说彻底推翻”",
+     "why": "微粒说与波动说之争在二十世纪以**波粒二象性**收场（两者皆有其位），故不可简单说“推翻”；本页并述。"
+    },
+    {
+     "claim": "其“疑问”是“定论”",
+     "why": "其“疑问”明确以**问句**提出（未定之猜想），故与正文的定理须分辨。"
+    }
+   ],
+   "sources": [
+    "sep-newton",
+    "sep-descartes",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《光学》三卷与各版“疑问”的数目（1704／1717／1730 不同）须核；微粒说与波动说之争的结局须并述。中译版次待考。",
    "sort_year": 1704
   },
   {
