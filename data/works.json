@@ -35605,6 +35605,120 @@
    "sort_year": 1967
   },
   {
+   "id": "work-voix-phenomene",
+   "title": "《声音与现象》",
+   "title_original": "La voix et le phénomène",
+   "tradition": "west",
+   "date_display": "1967（德里达）",
+   "structure": "一部（导论与七章）：以胡塞尔《逻辑研究》的“指示与表达”为入口，论“在场”的形而上学。",
+   "core_arguments": [
+    "胡塞尔的“**独白**”中，指示（Anzeige）消失而表达独存：此为“**在场**”的形而上学",
+    "“**声音**”（voix）被赋予优先：自我倾听（s'entendre parler）使意义仿佛不假外物",
+    "故须以“**延异**”（différance）与“**补替**”（supplément）破其自足"
+   ],
+   "key_points": [
+    {
+     "locator": "导论",
+     "point": "符号与在场"
+    },
+    {
+     "locator": "第一—三章",
+     "point": "指示与表达"
+    },
+    {
+     "locator": "第四—六章",
+     "point": "自我倾听与声音"
+    },
+    {
+     "locator": "第七章",
+     "point": "延异与补替"
+    }
+   ],
+   "editions": [
+    "法文（PUF）；英译（Speech and Phenomena, Northwestern）；中译参《声音与现象》（杜小真译）"
+   ],
+   "related_people": [
+    "gr-contemp-derrida",
+    "gr-20c-husserl",
+    "gr-20c-heidegger"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“对胡塞尔的驳斥”",
+     "why": "其读法极细致，且在**胡塞尔的文本内部**展开（指出其前提的两难）；故其为“内在的解构”，非外部的驳斥。"
+    },
+    {
+     "claim": "其“延异”是“差异”的另一种说法",
+     "why": "其“延异”兼含**差别与推延**（différer 的双义），故其为“既非词又非概念”的运作，不可径视为差异。"
+    }
+   ],
+   "sources": [
+    "sep-derrida",
+    "sep-husserl",
+    "sep-heidegger"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《声音与现象》的章节与 1967 年初版须核 PUF 版与杜小真译本；“延异”的双义（差别／推延）亦须核。",
+   "sort_year": 1967
+  },
+  {
+   "id": "work-ecriture-difference",
+   "title": "《书写与差异》",
+   "title_original": "L'écriture et la différence",
+   "tradition": "west",
+   "date_display": "1967（德里达）",
+   "structure": "十一篇论文：论弗洛伊德、列维纳斯、福柯、结构主义与“人文科学”的话语。",
+   "core_arguments": [
+    "“**书写**”先于言语：西方的语音中心主义（logocentrisme）以言语为在场之近",
+    "以“**延异**”为差异的运作：意义在差异的网络中不断推延",
+    "“**结构的结构性**”须被思考：结构无中心，故有“去中心”之思"
+   ],
+   "key_points": [
+    {
+     "locator": "〈力量与意谓〉",
+     "point": "结构主义与意义"
+    },
+    {
+     "locator": "〈弗洛伊德与书写的场景〉",
+     "point": "书写与痕迹"
+    },
+    {
+     "locator": "〈暴力与形而上学〉",
+     "point": "列维纳斯与伦理学"
+    },
+    {
+     "locator": "全书",
+     "point": "以论文行解构"
+    }
+   ],
+   "editions": [
+    "法文（Seuil）；英译（Writing and Difference, Chicago）；中译参《书写与差异》（张宁译）"
+   ],
+   "related_people": [
+    "gr-contemp-derrida",
+    "gr-20c-levinas",
+    "gr-contemp-foucault"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“书写”是文字",
+     "why": "其“书写”（écriture）是**一切痕迹的运作**（先于文字与言语的对立），故其为形而上学的范畴，非文体之分。"
+    },
+    {
+     "claim": "其解构是“取消意义”",
+     "why": "其解构揭示意义的**条件**（差异与推延），故其说不取消意义，而是取消其“自足的在场”。"
+    }
+   ],
+   "sources": [
+    "sep-derrida",
+    "sep-levinas",
+    "sep-foucault"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《书写与差异》十一篇的篇目与 1967 年初版须核 Seuil 版与张宁译本；“书写”“延异”的译法亦须核。",
+   "sort_year": 1967
+  },
+  {
    "id": "work-difference-repetition",
    "title": "《差异与重复》",
    "title_original": "Différence et répétition",
@@ -36801,6 +36915,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《政治自由主义》1993 初版与 1996 增订版（增《答哈贝马斯》等）差异重要；本页依增订版与 SEP 词条概述。",
+   "sort_year": 1993
+  },
+  {
+   "id": "work-spectres-marx",
+   "title": "《马克思的幽灵》",
+   "title_original": "Spectres de Marx",
+   "tradition": "west",
+   "date_display": "1993（德里达）",
+   "structure": "一部（含讲演与五章）：以《哈姆雷特》与《共产党宣言》的“幽灵”为线，论“新国际”。",
+   "core_arguments": [
+    "“**幽灵学**”（hantologie）：存在被“幽灵”所缠，故无纯粹的在场",
+    "马克思的遗产须以“**弥赛亚性**”（messianicité）而无弥赛亚的方式承继",
+    "“**新国际**”（nouvelle Internationale）：一种无组织的联合之构想"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "幽灵与在场"
+    },
+    {
+     "locator": "论福山",
+     "point": "历史终结论的批驳"
+    },
+    {
+     "locator": "论弥赛亚性",
+     "point": "无弥赛亚的弥赛亚性"
+    },
+    {
+     "locator": "末章",
+     "point": "新国际"
+    }
+   ],
+   "editions": [
+    "法文（Galilée）；英译（Specters of Marx, Routledge）；中译参《马克思的幽灵》（何一译）"
+   ],
+   "related_people": [
+    "gr-contemp-derrida",
+    "gr-19c-marx",
+    "gr-contemp-habermas"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“德里达转向马克思主义”",
+     "why": "其书以**解构的方式**读马克思（承其批判的“精神”而非其体系），故其为“承继”的思索，非立场的转换。"
+    },
+    {
+     "claim": "其“幽灵”是比喻修辞",
+     "why": "其“幽灵学”是**存在论的论题**（在场的不可能纯粹），故其为范畴，非修辞。"
+    }
+   ],
+   "sources": [
+    "sep-derrida",
+    "sep-marx",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《马克思的幽灵》的成书（1993）与篇章须核 Galilée 版与何一译本；“幽灵学”“弥赛亚性”的原文亦须核。",
    "sort_year": 1993
   }
  ]

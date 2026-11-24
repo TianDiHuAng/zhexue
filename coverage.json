@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1692,
+  "entries": 1696,
   "by_level": {
    "L2": 779,
-   "L1": 913
+   "L1": 917
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 913,
+  "needs_verification": 917,
   "sources": 422,
   "sources_verified": 422
  },
@@ -16478,6 +16478,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-voix-phenomene",
+   "type": "work",
+   "title": "《声音与现象》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-ecriture-difference",
+   "type": "work",
+   "title": "《书写与差异》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-difference-repetition",
    "type": "work",
    "title": "《差异与重复》",
@@ -16701,6 +16723,17 @@
    "id": "work-political-liberalism",
    "type": "work",
    "title": "《政治自由主义》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-spectres-marx",
+   "type": "work",
+   "title": "《马克思的幽灵》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -18285,6 +18318,17 @@
    "id": "cmp-youxi",
    "type": "comparative",
    "title": "“游戏冲动”与“游于艺”：自由何以可能？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shuxie",
+   "type": "comparative",
+   "title": "“书写先于言语”与“言不尽意”：文字是次等的吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
