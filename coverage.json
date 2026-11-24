@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1741,
+  "entries": 1745,
   "by_level": {
    "L2": 779,
-   "L1": 962
+   "L1": 966
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 962,
+  "needs_verification": 966,
   "sources": 423,
   "sources_verified": 423
  },
@@ -16555,6 +16555,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-histoire-folie",
+   "type": "work",
+   "title": "《疯癫与文明》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-structure-scientific-revolutions",
    "type": "work",
    "title": "《科学革命的结构》",
@@ -16816,6 +16827,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-marges-philosophie",
+   "type": "work",
+   "title": "《哲学的边缘》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -17086,6 +17108,17 @@
    "id": "work-spectres-marx",
    "type": "work",
    "title": "《马克思的幽灵》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-einbeziehung-anderer",
+   "type": "work",
+   "title": "《包容他者》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -18824,6 +18857,17 @@
    "id": "cmp-zhijue",
    "type": "comparative",
    "title": "“确证的信念”与“知之为知之”：知识需要什么条件？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-kuangren",
+   "type": "comparative",
+   "title": "“大禁闭”与“狂者进取”：理性如何对待它的他者？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

@@ -36006,6 +36006,63 @@
    "sort_year": 1961
   },
   {
+   "id": "work-histoire-folie",
+   "title": "《疯癫与文明》",
+   "title_original": "Histoire de la folie à l'âge classique",
+   "tradition": "west",
+   "date_display": "1961（福柯）",
+   "structure": "三部（凡九章）：论疯癫的经验在中世纪末至近代的变迁，尤重“**大禁闭**”。",
+   "core_arguments": [
+    "“**大禁闭**”（1656）：疯癫与贫苦、犯罪同被收容，成为“非理性”",
+    "疯癫的经验由**悲剧性的**（与宇宙的暗面相通）转为**批判性的**（道德的谴责）",
+    "近代的精神病学以“**沉默**”处置疯癫：只让它被谈论，不让它说话"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "中世纪的疯癫经验"
+    },
+    {
+     "locator": "第二部",
+     "point": "大禁闭"
+    },
+    {
+     "locator": "第三部",
+     "point": "精神病学的诞生"
+    },
+    {
+     "locator": "全书",
+     "point": "以考古学写历史"
+    }
+   ],
+   "editions": [
+    "法文（Plon）；英译（History of Madness, Routledge）；中译参《疯癫与文明》（林志明译）"
+   ],
+   "related_people": [
+    "gr-contemp-foucault",
+    "gr-20c-husserl",
+    "gr-contemp-derrida"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“精神病学史”",
+     "why": "其旨是**理性如何划定自身**（疯癫的经验如何被构成为理性的他者），故其为理性的考古学，非医学史。"
+    },
+    {
+     "claim": "其“大禁闭”是“对疯人的迫害”",
+     "why": "其分析在于**社会如何以收容来界定非理性**（含贫苦与犯罪），故其为制度的分析，非道德的控诉。"
+    }
+   ],
+   "sources": [
+    "sep-foucault",
+    "sep-husserl",
+    "sep-derrida"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《疯癫与文明》的成书（1961）与 1961／1972 两版（后者含附录）须核 Plon 版与林志明译本；“大禁闭”的年代（1656）亦须核。",
+   "sort_year": 1961
+  },
+  {
    "id": "work-structure-scientific-revolutions",
    "title": "《科学革命的结构》",
    "title_original": "The Structure of Scientific Revolutions",
@@ -37370,6 +37427,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1971
+  },
+  {
+   "id": "work-marges-philosophie",
+   "title": "《哲学的边缘》",
+   "title_original": "Marges de la philosophie",
+   "tradition": "west",
+   "date_display": "1972（德里达）",
+   "structure": "十篇论文：论黑格尔、海德格尔、奥斯汀与“**différance**”的本文。",
+   "core_arguments": [
+    "哲学以“**边缘**”（marges）为其未思的部分：如隐喻、书写、性别",
+    "以“**différance**”说意义的推延（兼差别与延迟）",
+    "以“**补替**”（supplément）说在场的不自足"
+   ],
+   "key_points": [
+    {
+     "locator": "〈différance〉",
+     "point": "差别与延迟"
+    },
+    {
+     "locator": "〈白色神话〉",
+     "point": "隐喻与哲学"
+    },
+    {
+     "locator": "论奥斯汀",
+     "point": "签名与语境"
+    },
+    {
+     "locator": "全书",
+     "point": "以边缘入哲学"
+    }
+   ],
+   "editions": [
+    "法文（Minuit）；英译（Margins of Philosophy, Chicago）；中译参《哲学的边缘》（版次待核）"
+   ],
+   "related_people": [
+    "gr-contemp-derrida",
+    "gr-german-hegel",
+    "gr-20c-heidegger"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“différance”是一个新概念",
+     "why": "其反复说它“既非词亦非概念”，故其为**运作**（差异的生成），非可定义的术语；这正是其难点所在。"
+    },
+    {
+     "claim": "其“边缘”是“不重要的问题”",
+     "why": "其“边缘”是**哲学以之为前提而未加思者**（如隐喻与书写），故其为哲学的核心问题，非枝节。"
+    }
+   ],
+   "sources": [
+    "sep-derrida",
+    "sep-hegel",
+    "sep-heidegger"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《哲学的边缘》十篇的篇目与 1972 年初版须核 Minuit 版；“différance”“supplément”的译法与原文亦须核。",
+   "sort_year": 1972
   },
   {
    "id": "work-legitimationskrise",
@@ -38797,6 +38911,63 @@
    "needs_verification": true,
    "pending_notes": "《马克思的幽灵》的成书（1993）与篇章须核 Galilée 版与何一译本；“幽灵学”“弥赛亚性”的原文亦须核。",
    "sort_year": 1993
+  },
+  {
+   "id": "work-einbeziehung-anderer",
+   "title": "《包容他者》",
+   "title_original": "Die Einbeziehung des Anderen",
+   "tradition": "west",
+   "date_display": "1996（哈贝马斯）",
+   "structure": "一部（含诸篇论文与附录）：论政治自由主义与罗尔斯的商榷、承认斗争、人权与人民主权的关系。",
+   "core_arguments": [
+    "“**包容**”（Einbeziehung）不是把他人纳入我的框架，而是**相互的视角采纳**",
+    "人权与人民主权须被理解为**同源的**（非互相限制）",
+    "以“**宪法爱国主义**”说多元社会的认同"
+   ],
+   "key_points": [
+    {
+     "locator": "第一篇",
+     "point": "包容的概念"
+    },
+    {
+     "locator": "论罗尔斯",
+     "point": "政治自由主义"
+    },
+    {
+     "locator": "论承认",
+     "point": "承认斗争"
+    },
+    {
+     "locator": "附录",
+     "point": "人权与主权"
+    }
+   ],
+   "editions": [
+    "德文（Suhrkamp）；英译（The Inclusion of the Other, MIT）；中译参《包容他者》（曹卫东译）"
+   ],
+   "related_people": [
+    "gr-contemp-habermas",
+    "gr-contemp-rawls",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“包容”是同化",
+     "why": "其“包容”恰以**相互的视角采纳**为核心（不以我的框架同化他人），故其说反对同化。"
+    },
+    {
+     "claim": "其“宪法爱国主义”是“取消民族认同”",
+     "why": "其说以**宪法的原则**为认同的纽带（非以血缘与文化），故其为认同形式的转换，非取消认同。"
+    }
+   ],
+   "sources": [
+    "sep-habermas",
+    "sep-rawls",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《包容他者》诸篇的编次与 1996 年初版须核 Suhrkamp 版与曹卫东译本；“包容”与“宪法爱国主义”的原文亦须核。",
+   "sort_year": 1996
   },
   {
    "id": "work-three-critics-enlightenment",
