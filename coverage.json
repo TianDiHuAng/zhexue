@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1737,
+  "entries": 1741,
   "by_level": {
    "L2": 779,
-   "L1": 958
+   "L1": 962
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 958,
+  "needs_verification": 962,
   "sources": 423,
   "sources_verified": 423
  },
@@ -16412,6 +16412,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-problem-knowledge",
+   "type": "work",
+   "title": "《知识问题》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-identitaet-differenz",
    "type": "work",
    "title": "《同一与差异》",
@@ -16662,6 +16673,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-bounds-sense",
+   "type": "work",
+   "title": "《感觉的界限》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -16921,6 +16943,17 @@
    "id": "work-mille-plateaux",
    "type": "work",
    "title": "《千高原》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-essays-actions-events",
+   "type": "work",
+   "title": "《行动与事件》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -18780,6 +18813,17 @@
    "id": "cmp-yuyi",
    "type": "comparative",
    "title": "“寓意”与“比兴”：意义如何从碎片中显现？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-zhijue",
+   "type": "comparative",
+   "title": "“确证的信念”与“知之为知之”：知识需要什么条件？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

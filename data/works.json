@@ -35271,6 +35271,63 @@
    "sort_year": 1955
   },
   {
+   "id": "work-problem-knowledge",
+   "title": "《知识问题》",
+   "title_original": "The Problem of Knowledge",
+   "tradition": "west",
+   "date_display": "1956（艾耶尔）",
+   "structure": "四章：论知识的分析、论或然与归纳、论知觉与现象、论记忆与自我，末以可错论作结。",
+   "core_arguments": [
+    "知识须有“**确证的信念**”：真、有据、无疑",
+    "故须处理**怀疑论**的挑战（梦的论证、恶魔的论证）",
+    "以“**可错论**”为答：我们可有知识，但非不可错"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "知识的分析"
+    },
+    {
+     "locator": "第二章",
+     "point": "或然与归纳"
+    },
+    {
+     "locator": "第三章",
+     "point": "知觉与现象"
+    },
+    {
+     "locator": "第四章",
+     "point": "记忆与自我"
+    }
+   ],
+   "editions": [
+    "英文本（Macmillan）；中译参《知识问题》（版次待核）"
+   ],
+   "related_people": [
+    "gr-20c-ayer",
+    "gr-modern-hume",
+    "gr-20c-strawson"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“支持怀疑论的”",
+     "why": "其书以**怀疑论为对手**（检其力量而后答之以可错论），故其为认识论的辩护，非怀疑论。"
+    },
+    {
+     "claim": "其“可错论”是“什么都不可靠”",
+     "why": "其说主张知识**可**有而不须不可错，故其为温和的实在论，非普遍怀疑。"
+    }
+   ],
+   "sources": [
+    "sep-ayer",
+    "sep-quine",
+    "sep-wittgenstein"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《知识问题》四章的篇目与 1956 年初版须核 Macmillan 版；“确证的信念”与“可错论”的原文亦须核。",
+   "sort_year": 1956
+  },
+  {
    "id": "work-identitaet-differenz",
    "title": "《同一与差异》",
    "title_original": "Identität und Differenz",
@@ -36571,6 +36628,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1966
+  },
+  {
+   "id": "work-bounds-sense",
+   "title": "《感觉的界限》",
+   "title_original": "The Bounds of Sense: An Essay on Kant's Critique of Pure Reason",
+   "tradition": "west",
+   "date_display": "1966（斯特劳森）",
+   "structure": "三部（凡十章）：以分析的形而上学重述并批评《纯粹理性批判》。",
+   "core_arguments": [
+    "康德的核心洞见是“**经验的界限**”（经验须有统一的结构）",
+    "而其“**超越论的观念论**”（现象与物自身的二分）是可以分离掉的累赘",
+    "故须以“**描述的形而上学**”代替之：只描述概念图式，不设物自身"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "经验的结构"
+    },
+    {
+     "locator": "第二部",
+     "point": "先验感性论与知性"
+    },
+    {
+     "locator": "第三部",
+     "point": "物自身与自我意识"
+    },
+    {
+     "locator": "全书",
+     "point": "分析与批评并行"
+    }
+   ],
+   "editions": [
+    "英文本（Methuen）；中译参《感觉的界限》（版次待核）"
+   ],
+   "related_people": [
+    "gr-20c-strawson",
+    "gr-german-kant",
+    "gr-20c-russell"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“康德的解构”",
+     "why": "其书**分辨**康德的可取与不可取（保留经验的界限，弃其观念论），故其为“重述”，非解构。"
+    },
+    {
+     "claim": "其“描述的形而上学”是“不要形而上学”",
+     "why": "其说主张形而上学有**描述**的任务（整理概念图式），故其为形而上学的做法之一，非取消。"
+    }
+   ],
+   "sources": [
+    "sep-strawson",
+    "sep-kant",
+    "sep-russell"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《感觉的界限》三部的章次与 1966 年初版须核 Methuen 版；“超越论的观念论”之批评的原文亦须核。",
    "sort_year": 1966
   },
   {
@@ -37938,6 +38052,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《千高原》十五高原的编次与 1980 年初版须核 Minuit 版与姜宇辉译本；“根茎”“装配”“逃逸线”的译法亦须核。",
+   "sort_year": 1980
+  },
+  {
+   "id": "work-essays-actions-events",
+   "title": "《行动与事件》",
+   "title_original": "Essays on Actions and Events",
+   "tradition": "west",
+   "date_display": "1980（戴维森）",
+   "structure": "二十一篇论文（分五组）：论行动与理由、事件与因果、心与身、以及真理与意义。",
+   "core_arguments": [
+    "“**理由即原因**”：行动的解释是因果的解释（反驳维特根斯坦一系的看法）",
+    "以“**事件的本体论**”说因果：事件是可被量化的个别项",
+    "“**无律则的一元论**”：心理事件与物理事件同一，但无严格的心理—物理定律"
+   ],
+   "key_points": [
+    {
+     "locator": "第一组",
+     "point": "行动与理由"
+    },
+    {
+     "locator": "第二组",
+     "point": "事件与因果"
+    },
+    {
+     "locator": "第三组",
+     "point": "心与身"
+    },
+    {
+     "locator": "第四组",
+     "point": "真理与意义"
+    }
+   ],
+   "editions": [
+    "英文本（Clarendon）；中译参《行动与事件》（牟博译，文集）"
+   ],
+   "related_people": [
+    "gr-contemp-davidson",
+    "gr-20c-wittgenstein",
+    "gr-contemp-anscombe"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“理由即原因”是还原论",
+     "why": "其说主张理由**是**原因（故行动可被解释），但不同一于物理描述；故其为因果论，非还原论。"
+    },
+    {
+     "claim": "其“无律则的一元论”是取消心理",
+     "why": "其说主张心理事件**是**物理事件（同一），但**无**严格定律可贯通；故其保留心理的描述，非取消。"
+    }
+   ],
+   "sources": [
+    "sep-davidson",
+    "sep-quine",
+    "sep-wittgenstein"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《行动与事件》二十一篇的分组与 1980 年初版须核 Clarendon 版与牟博译文；“无律则的一元论”的原文亦须核。",
    "sort_year": 1980
   },
   {
