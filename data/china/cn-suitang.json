@@ -3102,6 +3102,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“十如是”的句读在学界有不同读法（尤其“本末究竟等”一句），直接影响其解释；本页依《法华玄义》与天台研究概述，句读问题须核原典。"
+  },
+  {
+   "id": "cn-suitang-fajie-yuanqi",
+   "term": "法界缘起",
+   "term_latin": "dharmadhātu-pratītyasamutpāda",
+   "definition": "华严宗的核心教理：一切法以“法界”（真如）为体，彼此**相即相入**、互为缘起，故一即一切、一切即一。它不同于“业感缘起”（就众生业力说）与“阿赖耶缘起”（就识说），而是就**法性本身**说缘起。",
+   "usages": [
+    {
+     "name": "法藏",
+     "id": "cn-suitang-fazang",
+     "usage": "以“六相圆融”“十玄门”说明相即相入。"
+    },
+    {
+     "name": "智顗（对照）",
+     "id": "cn-suitang-zhiyi",
+     "usage": "以“一念三千”说明具足，进路与华严的“法界”说不同。"
+    },
+    {
+     "name": "宗密",
+     "id": "cn-suitang-zongmi",
+     "usage": "以“法界”统摄禅与教，判为“一真法界”。"
+    }
+   ],
+   "related": [
+    "cn-suitang-panjiao"
+   ],
+   "example": {
+    "text": "“法界缘起”的难点是它如何区别于“梵我合一”：其“相即相入”是**缘起的**（依条件而互摄），不是实体上的同一；故其“一即一切”须与“一切即一”同时成立，且不落于一个总体的实体。",
+    "figure": "法藏",
+    "locator": "《华严一乘教义分齐章》"
+   },
+   "sources": [
+    "ws-huayan-jinshizi",
+    "ws-mohezhiguan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“法界缘起”的表述在华严宗内部（智俨、法藏、澄观、宗密）有发展，其与“性起”的关系亦有不同说法；本页取法藏一系的基本表述。"
   }
  ],
  "debates": [

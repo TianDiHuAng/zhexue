@@ -6982,6 +6982,177 @@
    "sort_year": 405
   },
   {
+   "id": "work-mahaprajnaparamita-sastra",
+   "title": "《大智度论》",
+   "title_original": "Mahāprajñāpāramitā-śāstra（大智度論）",
+   "tradition": "china",
+   "date_display": "传龙树造；鸠摩罗什402—405年译（一百卷）",
+   "structure": "一百卷：为《大品般若经》的注释，前三十四卷释“序品”，余卷随经文疏解；内容兼含教理、戒律、修行与佛教史。",
+   "core_arguments": [
+    "以“般若”为纲：一切法无自性，故不可执",
+    "“二谛”（世俗谛与第一义谛）的并立与相即",
+    "菩萨行的广大：以“方便”与“般若”为双翼"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—三十四",
+     "point": "释序品（教理的总纲）"
+    },
+    {
+     "locator": "卷三十八以下",
+     "point": "随文疏解"
+    },
+    {
+     "locator": "论二谛",
+     "point": "世俗与第一义"
+    },
+    {
+     "locator": "论菩萨行",
+     "point": "方便与般若"
+    }
+   ],
+   "editions": [
+    "《大正藏》第25卷；罗什译本；法文节译（Lamotte, Le Traité de la Grande Vertu de Sagesse）"
+   ],
+   "related_people": [
+    "cn-suitang-xuanzang",
+    "cn-weijin-sengzhao",
+    "cn-suitang-jizang"
+   ],
+   "misreadings": [
+    {
+     "claim": "它确为龙树所造",
+     "why": "其作者归属（龙树）在学界有争论：篇幅与内容（含大量阿毗达磨与佛教史材料）使一些学者认为它出自**西域或中亚的论师**之手，而罗什的译本亦非全译。故只能标“传龙树造”。"
+    },
+    {
+     "claim": "它只是《般若经》的注释",
+     "why": "其内容远超注释：它是一部**佛教百科式的论书**，保存了大量部派佛教的教义与传说。"
+    }
+   ],
+   "sources": [
+    "ws-zhaolun",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《大智度论》的作者（龙树）与是否全译（罗什译本百卷 vs 传说原本千卷）在学界有长期争论；本页标“传龙树造”，只述其内容与结构，不裁定作者。",
+   "sort_year": 405
+  },
+  {
+   "id": "work-vimalakirti",
+   "title": "《维摩诘经》",
+   "title_original": "Vimalakīrti-nirdeśa（維摩詰所說經）",
+   "tradition": "china",
+   "date_display": "约1—2世纪成书；鸠摩罗什406年译",
+   "structure": "十四品：以维摩诘居士的“示疾”为线索，通过问答展开“不二法门”与“不可思议解脱”。",
+   "core_arguments": [
+    "“不二法门”：一切二元的对立（生死涅槃、垢净、有为无为）皆不可执",
+    "“随其心净则佛土净”：净土不在他处，系于心之净秽",
+    "居士身说法：在家而不离出家之行（对僧俗界限的松动）"
+   ],
+   "key_points": [
+    {
+     "locator": "〈佛国品〉",
+     "point": "心净则佛土净"
+    },
+    {
+     "locator": "〈文殊师利问疾品〉",
+     "point": "示疾与“以众生病故我病”"
+    },
+    {
+     "locator": "〈入不二法门品〉",
+     "point": "不二法门"
+    },
+    {
+     "locator": "〈菩萨行品〉",
+     "point": "菩萨的行相"
+    }
+   ],
+   "editions": [
+    "《大正藏》第14卷；鸠摩罗什译本；英译（Thurman, The Holy Teaching of Vimalakīrti）"
+   ],
+   "related_people": [
+    "cn-weijin-sengzhao",
+    "cn-weijin-huiyuan",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“居士佛教”的经典，故反对出家",
+     "why": "它松动僧俗界限，但并不否定出家（其“不二”同时否定“在家/出家”的执着）；故不能读作反僧侣主义。"
+    },
+    {
+     "claim": "“不二”是取消一切分别",
+     "why": "其“不二”是**不执着于二元的对立**，而非取消世俗的分别（否则经中的问答与修行次第都无从成立）。"
+    }
+   ],
+   "sources": [
+    "ws-zhaolun",
+    "ws-hongming-ji",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《维摩诘经》的成书年代与梵本（今存梵本残片）须核；罗什译本与支谦旧译的差异亦须分辨。本页依罗什译本概述。",
+   "sort_year": 406
+  },
+  {
+   "id": "work-madhyamaka-karika",
+   "title": "《中论》",
+   "title_original": "Mūlamadhyamakakārikā（中論）",
+   "tradition": "china",
+   "date_display": "约2—3世纪（龙树造；鸠摩罗什409年译）",
+   "structure": "二十七品（四百余颂）：以“八不”（不生不灭、不常不断、不一不异、不来不去）开篇，逐品破斥“自性”的建立。",
+   "core_arguments": [
+    "“八不缘起”：以四对否定破除对“自性”的执着",
+    "“以有空义故，一切法得成”：空不是虚无，而是诸法得以成立的条件",
+    "归谬法（prasaṅga）：由对方的立场推出矛盾，而不自立法"
+   ],
+   "key_points": [
+    {
+     "locator": "〈观因缘品〉",
+     "point": "八不与缘起"
+    },
+    {
+     "locator": "〈观去来品〉",
+     "point": "运动的分析"
+    },
+    {
+     "locator": "〈观四谛品〉",
+     "point": "空与四谛的相容"
+    },
+    {
+     "locator": "〈观涅槃品〉",
+     "point": "涅槃与世间"
+    }
+   ],
+   "editions": [
+    "《大正藏》第30卷；鸠摩罗什译本；梵本校勘见 de Jong；英译（Garfield, The Fundamental Wisdom of the Middle Way）"
+   ],
+   "related_people": [
+    "cn-weijin-sengzhao",
+    "cn-suitang-jizang",
+    "cn-suitang-xuanzang"
+   ],
+   "misreadings": [
+    {
+     "claim": "《中论》主张“一切皆空”，故否定一切",
+     "why": "其“空”是**无自性**，不是“不存在”；〈观四谛品〉明说“以有空义故，一切法得成”——空恰使缘起、四谛与修行成为可能。"
+    },
+    {
+     "claim": "“八不”是八个否定命题",
+     "why": "“八不”是**对四对极端的同时否定**（生灭、常断、一异、来去），其作用是破除一切“自性”的建立，而非提出新的本体论主张。"
+    }
+   ],
+   "sources": [
+    "ws-zhaolun",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《中论》的梵本、鸠摩罗什译本与青目注释的关系，以及“八不”的句读（是否归于“缘起”一句）在学界有不同处理；本页依罗什译本与中观研究概述。",
+   "sort_year": 409
+  },
+  {
    "id": "work-city-of-god",
    "title": "《上帝之城》",
    "title_original": "De Civitate Dei",

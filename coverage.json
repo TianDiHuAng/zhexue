@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1125,
+  "entries": 1130,
   "by_level": {
-   "L2": 785,
-   "L1": 340
+   "L2": 786,
+   "L1": 344
   },
   "doctrine": {
    "total": 255,
    "detail": 255,
    "auto": 0
   },
-  "needs_verification": 340,
+  "needs_verification": 344,
   "sources": 399,
   "sources_verified": 399
  },
@@ -48,7 +48,7 @@
    "title": "隋唐佛学",
    "region": "china",
    "philosophers": 14,
-   "concepts": 29,
+   "concepts": 30,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -6"
   },
@@ -57,7 +57,7 @@
    "title": "魏晋玄学",
    "region": "china",
    "philosophers": 13,
-   "concepts": 27,
+   "concepts": 28,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -5"
   },
@@ -2268,6 +2268,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-suitang-fajie-yuanqi",
+   "type": "concept",
+   "title": "法界缘起",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-suitang-dunjian",
    "type": "debate",
    "title": "顿悟与渐修",
@@ -2793,6 +2804,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-weijin-sanxuan",
+   "type": "concept",
+   "title": "三玄",
+   "container": "cn-weijin",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
@@ -9311,6 +9333,39 @@
    "id": "work-zhaolun",
    "type": "work",
    "title": "《肇论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-mahaprajnaparamita-sastra",
+   "type": "work",
+   "title": "《大智度论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-vimalakirti",
+   "type": "work",
+   "title": "《维摩诘经》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-madhyamaka-karika",
+   "type": "work",
+   "title": "《中论》",
    "container": "china",
    "level": "L1",
    "sources": 3,

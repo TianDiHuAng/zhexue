@@ -3039,6 +3039,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "嵇康《养生论》与向秀《难养生论》的往复文本见《嵇康集》与《全晋文》；其“神仙可否学致”的问题与葛洪的立场不同，须分辨。"
+  },
+  {
+   "id": "cn-weijin-sanxuan",
+   "term": "三玄",
+   "term_latin": "the three abstruse texts",
+   "definition": "魏晋玄学所尊的三部经典：《老子》《庄子》《周易》。其“玄”取《老子》“玄之又玄”之义。以这三部为“玄”，意味着经典的中心从“五经”移向“三玄”——这是魏晋学术格局的一大变化。",
+   "usages": [
+    {
+     "name": "何晏与王弼",
+     "id": "cn-weijin-wangbi",
+     "usage": "以《老》《易》为注（《老子注》《周易注》），开玄学之风。"
+    },
+    {
+     "name": "郭象",
+     "id": "cn-weijin-guoxiang",
+     "usage": "以《庄子注》成其“独化”之说。"
+    },
+    {
+     "name": "裴頠（批评者）",
+     "usage": "作《崇有论》以纠“贵无”之偏。"
+    }
+   ],
+   "related": [
+    "cn-weijin-guiwu",
+    "cn-weijin-yan-yi"
+   ],
+   "example": {
+    "text": "“三玄”之立是一次**经典秩序的重排**：五经仍是制度的根据，而三玄成为思辨的中心。故玄学的“玄”不只是题材，更是**权威的转移** —— 从“经”转向“子”与“易”。",
+    "figure": "颜之推《颜氏家训·勉学》",
+    "locator": "“《庄》《老》《周易》，总谓三玄”"
+   },
+   "sources": [
+    "ws-shishuo-xinyu",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": ""
   }
  ],
  "debates": [

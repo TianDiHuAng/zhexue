@@ -118,7 +118,7 @@ def find_work_conflicts(titles):
         k2 = norm_title_loose(t)
         if k in norm_map:
             conflicts[t] = norm_map[k][0]
-        elif k2 in loose_map:
+        elif len(k2) >= 3 and k2 in loose_map:   # D46：短标题（≤2字）不做宽松匹配，避免「中论」撞「中说」
             conflicts[t] = loose_map[k2][0] + "（宽松匹配：语序/虚词变体）"
         else:
             al = alias_of(t)
