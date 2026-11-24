@@ -1199,6 +1199,161 @@
      "note": "6世纪"
     }
    ]
+  },
+  {
+   "id": "cn-nanbei-tanluan",
+   "name": "昙鸾",
+   "latin": "Tanluan",
+   "birth_year": 476,
+   "death_year": 542,
+   "birth_display": "476年",
+   "death_display": "542年",
+   "birth_note": "据《续高僧传》卷六：雁门（今山西代县一带）人，少年出家，精研《中论》《百论》与四论之学；中年因病求仙方，后遇菩提流支，得《观无量寿经》，遂专修净土。",
+   "death_note": "542年卒于汾州石壁玄中寺。",
+   "era": "北朝魏齐之际。昙鸾由四论之学转向净土：他以“他力”与“易行道”重新说明修行的可能——在末法之世，靠自力断惑极难，故须凭阿弥陀佛的本愿（他力）往生净土。其《往生论注》以“五念门”组织修行，并引入“实相”与“二谛”的论证，使净土不止于信仰，而有教理的结构。他被后世尊为净土宗初祖之一（实际以善导为集大成者）。",
+   "school": "北朝净土（他力易行道）",
+   "core_questions": [
+    "末法之世如何修行？",
+    "“他力”与“自力”是何关系？",
+    "往生的根据是什么？"
+   ],
+   "arguments": [
+    {
+     "claim": "他力易行道：以本愿为凭",
+     "premises": [
+      "末法众生断惑极难，靠自力须经长劫。",
+      "而阿弥陀佛有本愿：信乐者得往生。"
+     ],
+     "inference": "若往生的根据在佛的本愿而非众生的断惑，则修行可“易”而行；故其说把修行的重心从**自力**移到**他力**——这一转移是净土成为独立法门的理论关键。",
+     "conclusion": "他力易行道：以本愿为往生的根据（此说为净土立宗奠基）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "五念门：身业、口业、意业、智业、方便智业",
+     "premises": [
+      "修行须有可操作的次第。",
+      "而“五念门”（礼拜、赞叹、作愿、观察、回向）涵盖身口意与智慧。"
+     ],
+     "inference": "若五念门涵盖全体，则净土修行不是“称名一事”，而是**整套的观行**；故其说是对“易行”的补充：易而非简。",
+     "conclusion": "五念门：易而非简（此说防止“易行”沦为“废行”）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《往生论注》",
+     "edition": "《大正藏》第40卷",
+     "note": "6世纪初"
+    },
+    {
+     "title": "《赞阿弥陀佛偈》",
+     "edition": "《大正藏》第47卷",
+     "note": "6世纪"
+    },
+    {
+     "title": "《略论安乐净土义》",
+     "edition": "《大正藏》第47卷",
+     "note": "6世纪"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "菩提流支（其师）",
+     "id": null,
+     "note": "授《观无量寿经》，促其转向净土"
+    },
+    {
+     "name": "世亲《往生论》（其注之底本）",
+     "id": null,
+     "note": "以“五念门”为骨架"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "道绰与善导（其承）",
+     "id": null,
+     "note": "以“他力”与称名为宗旨，集净土之大成"
+    },
+    {
+     "name": "日本净土教（法然、亲鸾）",
+     "id": null,
+     "note": "承其“他力”说而更彻底"
+    },
+    {
+     "name": "智顗（对照）",
+     "id": null,
+     "note": "以“观心”与“止观”为修行主轴"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "当时的四论学者",
+     "view": "以其舍《中论》《百论》而专修净土为“偏”，故其学一度不为义学所重。",
+     "response": "昙鸾一系的回应是：《往生论注》以“实相”与“二谛”为论证，故净土不与中观相违；其“易行”是**对机**而非**废理**。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-xugaoseng-zhuan",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "净土只是“称名求往生”的简易法门",
+     "why": "其《往生论注》以五念门与二谛组织修行，其教理结构相当严密；故“简易”是**对机**之易，不是无理论。"
+    },
+    {
+     "claim": "“他力”意味着无需修行",
+     "why": "其“他力”是往生的**根据**，而“五念门”是修行的方法；故他力不废行，只是改变了行的根据。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>昙鸾：他力易行道与五念门</text><defs><marker id='aTL' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>末法自力难成</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故依弥陀本愿（他力）</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故修行可易而行</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>而五念门使其易而非简</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aTL)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aTL)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "昙鸾：他力易行道与“五念门”（示意图）",
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "ws-mohezhiguan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "昙鸾的生卒（476—542）与事迹依《续高僧传》卷六，其与菩提流支相遇的记载带传说成分；本页属语境性引用而非专门研究。其“他力”说与善导、亲鸾的关系须分辨。",
+   "doctrine": {
+    "summary": "昙鸾由四论之学转向净土：末法众生断惑极难，故须凭阿弥陀佛的本愿（他力）往生净土；其《往生论注》以“五念门”（礼拜、赞叹、作愿、观察、回向）组织修行，并引入实相与二谛的论证。故其“易行”是对机之易，而非废理之行；“他力”是往生的根据，不废修行的方法。",
+    "system": [
+     {
+      "name": "他力",
+      "content": "往生的根据在佛的本愿，非众生断惑；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "易行道",
+      "content": "对末法之机而言的易，非无理论之简；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "五念门",
+      "content": "礼拜、赞叹、作愿、观察、回向；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "实相与二谛",
+      "content": "以中观的论证支持净土，不与其相违；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "雁门、汾州（476—542）",
+      "change": "少年出家，精四论；中年因病求仙方；遇菩提流支得《观无量寿经》，遂专修净土；晚居汾州石壁玄中寺；542 年卒。"
+     }
+    ],
+    "reception": "其学经道绰、善导而集大成，成为净土宗的教理基础；日本法然、亲鸾承其“他力”说而更彻底，故他被东西净土教共同尊奉。"
+   },
+   "works_detail": [
+    {
+     "title": "《往生论注》",
+     "structure": "二卷：注世亲《无量寿经优婆提舍愿生偈》，以“五念门”为骨架，兼论实相、二谛与往生的根据。",
+     "core_thesis": "他力为往生之根据，五念门为修行之次第。",
+     "editions": "《大正藏》第40卷",
+     "note": "6世纪初"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -1528,6 +1683,78 @@
    ],
    "needs_verification": true,
    "pending_notes": "“阿赖耶识”的译名（阿赖耶／阿黎耶／藏识）与真谛“九识”说、玄奘“八识”说的差异须核；本页并述二说，具体文本须核译籍与《成唯识论》。"
+  },
+  {
+   "id": "cn-nanbei-tali",
+   "term": "他力",
+   "term_latin": "other-power（tariki）",
+   "definition": "净土教的核心概念：往生净土的根据在**阿弥陀佛的本愿**（他力），而非众生自力的断惑证真。这一区分把修行的重心从“我如何断惑”移到“佛如何愿摄”，是净土成为独立法门的理论关键。",
+   "usages": [
+    {
+     "name": "昙鸾",
+     "id": "cn-nanbei-tanluan",
+     "usage": "以本愿为他力，说明末法众生的往生可能。"
+    },
+    {
+     "name": "善导（其承）",
+     "usage": "以“称名”为他力的实践形态，集其大成。"
+    },
+    {
+     "name": "智顗（对照）",
+     "usage": "以“观心”与“止观”为自力修行的主轴。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-cibei"
+   ],
+   "example": {
+    "text": "“他力”的要害是它改变了**修行的时间结构**：自力须经长劫（三大阿僧祇劫），他力则可“一生”成办。故其吸引力在末法之世尤大；而代价是：它须回答“既然他力，何以仍须修行”（答案：五念门）。",
+    "figure": "昙鸾",
+    "locator": "《往生论注》"
+   },
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "ws-mohezhiguan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“他力”（tariki）与“自力”（jiriki）的区分在昙鸾处已具雏形，至善导、亲鸾而明确；本页并述其源流，具体文本须核《往生论注》。"
+  },
+  {
+   "id": "cn-nanbei-yixingdao",
+   "term": "易行道",
+   "term_latin": "the easy path",
+   "definition": "龙树《十住毗婆沙论》已分“难行道”（自力，如陆路步行）与“易行道”（他力，如水路乘船）；昙鸾承之以判末法的修行：末法众生“去圣时遥”，故须行易行道。此说为净土判教的基础。",
+   "usages": [
+    {
+     "name": "昙鸾",
+     "id": "cn-nanbei-tanluan",
+     "usage": "以“难行／易行”二道判末法的修行。"
+    },
+    {
+     "name": "龙树（其源）",
+     "usage": "《十住毗婆沙论》已立二道之名。"
+    },
+    {
+     "name": "道绰（其承）",
+     "usage": "以“圣道门／净土门”重述其二道。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-foxing"
+   ],
+   "example": {
+    "text": "“易行道”的判教意义在于：它把“时代的限制”（末法）变成**方法的理由**。故其论证是：不是我们的修行更差，而是时代不同，故须换路。这一“以时代论方法”的结构，在后世中国佛教的判教中反复出现。",
+    "figure": "昙鸾",
+    "locator": "《往生论注》卷下"
+   },
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "ws-mohezhiguan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“难行／易行”二道的出处（龙树《十住毗婆沙论·易行品》）与昙鸾的转用须核；本页并述其源流。"
   }
  ],
  "debates": [

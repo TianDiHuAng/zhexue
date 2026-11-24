@@ -9085,6 +9085,115 @@
    "sort_year": 510
   },
   {
+   "id": "work-wangshenglun-zhu",
+   "title": "《往生论注》",
+   "title_original": "無量壽經優婆提舍願生偈註（往生論註）",
+   "tradition": "china",
+   "date_display": "6世纪初（昙鸾注世亲《往生论》）",
+   "structure": "二卷：随文注世亲《无量寿经优婆提舍愿生偈》，以“五念门”（礼拜、赞叹、作愿、观察、回向）为骨架。",
+   "core_arguments": [
+    "以“他力”为往生的根据（本愿）",
+    "五念门为修行的次第（易而非简）",
+    "以实相与二谛论证净土不违中观"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上",
+     "point": "五念门与愿生"
+    },
+    {
+     "locator": "卷上",
+     "point": "他力与本愿"
+    },
+    {
+     "locator": "卷下",
+     "point": "观察门与实相"
+    },
+    {
+     "locator": "卷下",
+     "point": "二谛与往生"
+    }
+   ],
+   "editions": [
+    "《大正藏》第40卷；中华书局《昙鸾集》（若有）"
+   ],
+   "related_people": [
+    "cn-nanbei-tanluan",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“信仰之书”，不论教理",
+     "why": "其以五念门组织修行，并以实相、二谛论证往生，故其结构是**教理与观行并重**的。"
+    },
+    {
+     "claim": "“他力”废除了修行",
+     "why": "他力是往生的根据，五念门是修行的方法；故其说不是“无需修行”，而是“修行有了新的根据”。"
+    }
+   ],
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "ws-mohezhiguan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《往生论注》的成书年代（6世纪初）与其与世亲《往生论》的对应关系须核《大正藏》第40卷；其“他力”说的确切表述亦须核原文。",
+   "sort_year": 510
+  },
+  {
+   "id": "work-zan-amituofo-jie",
+   "title": "《赞阿弥陀佛偈》",
+   "title_original": "讚阿彌陀佛偈",
+   "tradition": "china",
+   "date_display": "6世纪（昙鸾）",
+   "structure": "一卷：以偈颂赞阿弥陀佛的依报与正报（国土庄严与佛身相好），末归于愿生与回向；偈颂体便于唱诵与观行。",
+   "core_arguments": [
+    "以偈颂总摄净土的依正庄严（依报与正报）",
+    "赞即愿：赞叹与愿生不二",
+    "以“易行”之意贯串全篇"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "赞佛的相好"
+    },
+    {
+     "locator": "中段",
+     "point": "依报的庄严"
+    },
+    {
+     "locator": "后段",
+     "point": "愿生与回向"
+    }
+   ],
+   "editions": [
+    "《大正藏》第47卷"
+   ],
+   "related_people": [
+    "cn-nanbei-tanluan",
+    "cn-nanbei-tanluan",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是“赞佛的文学作品”",
+     "why": "其偈颂兼有**观行**的功能：赞即五念门之一（赞叹门），故它是修行的文本，不只是文学。"
+    },
+    {
+     "claim": "它与《往生论注》无关",
+     "why": "二者互为表里：注是教理的组织，偈是观行的摄持；故须并读。"
+    }
+   ],
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "ws-mohezhiguan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《赞阿弥陀佛偈》的卷数与偈数须核《大正藏》第47卷；其与五念门“赞叹门”的对应亦须核原文。",
+   "sort_year": 515
+  },
+  {
    "id": "work-gaoseng-zhuan",
    "title": "《高僧传》",
    "title_original": "高僧傳",
@@ -9196,6 +9305,58 @@
    ],
    "needs_verification": true,
    "pending_notes": "波爱修无 SEP 专属词条（sep-boethius 未探得）；本页依 SEP“中世纪哲学”条目的语境性说明与 Loeb 本《神学短论》——属语境性引用而非专门研究。其五篇短论的真伪与次序须核 Loeb 本导论。",
+   "sort_year": 520
+  },
+  {
+   "id": "work-luelun-anle",
+   "title": "《略论安乐净土义》",
+   "title_original": "略論安樂淨土義",
+   "tradition": "china",
+   "date_display": "6世纪（昙鸾；作者归属有异说）",
+   "structure": "一卷：以问答体论安乐净土在三界之外的位置、往生的条件（信愿念佛）与九品之别；篇幅简而要。",
+   "core_arguments": [
+    "安乐净土在三界之外，非“天界”之一",
+    "往生的条件在信、愿与念佛",
+    "九品之别依众生的行业与信愿的深浅"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "净土的位置"
+    },
+    {
+     "locator": "中段",
+     "point": "往生的条件"
+    },
+    {
+     "locator": "末段",
+     "point": "九品之别"
+    }
+   ],
+   "editions": [
+    "《大正藏》第47卷"
+   ],
+   "related_people": [
+    "cn-nanbei-tanluan",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其作者确为昙鸾",
+     "why": "其作者归属有异说（有归于昙鸾，亦有疑之者）；故须标“作者归属有异说”。"
+    },
+    {
+     "claim": "“净土在三界外”是后期的说法",
+     "why": "此说在昙鸾一系已明确，其意义是：往生不是“生天”，故不受轮回；这一区分是净土教理的关键。"
+    }
+   ],
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "ws-mohezhiguan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《略论安乐净土义》的作者归属有异说；本页只述其内容与教理位置，不裁定作者。文本须核《大正藏》第47卷。",
    "sort_year": 520
   },
   {

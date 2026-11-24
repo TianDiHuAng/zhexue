@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1253,
+  "entries": 1260,
   "by_level": {
    "L2": 792,
-   "L1": 461
+   "L1": 468
   },
   "doctrine": {
-   "total": 266,
-   "detail": 266,
+   "total": 267,
+   "detail": 267,
    "auto": 0
   },
-  "needs_verification": 461,
+  "needs_verification": 468,
   "sources": 409,
   "sources_verified": 409
  },
@@ -29,10 +29,10 @@
    "unit_id": "cn-nanbei",
    "title": "南北朝佛道与形神之争",
    "region": "china",
-   "philosophers": 8,
-   "concepts": 9,
+   "philosophers": 9,
+   "concepts": 11,
    "debates": 4,
-   "philosophers_slot": "8 上限，余 0"
+   "philosophers_slot": "8 上限，余 -1"
   },
   {
    "unit_id": "cn-qingmod",
@@ -825,6 +825,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-nanbei-tanluan",
+   "type": "philosopher",
+   "title": "昙鸾",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-nanbei-shenmie",
    "type": "concept",
    "title": "神灭",
@@ -916,6 +927,28 @@
    "id": "cn-nanbei-alaoye",
    "type": "concept",
    "title": "阿赖耶识",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-tali",
+   "type": "concept",
+   "title": "他力",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-yixingdao",
+   "type": "concept",
+   "title": "易行道",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -10208,6 +10241,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-wangshenglun-zhu",
+   "type": "work",
+   "title": "《往生论注》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-zan-amituofo-jie",
+   "type": "work",
+   "title": "《赞阿弥陀佛偈》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-gaoseng-zhuan",
    "type": "work",
    "title": "《高僧传》",
@@ -10223,6 +10278,17 @@
    "type": "work",
    "title": "《波爱修集》",
    "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-luelun-anle",
+   "type": "work",
+   "title": "《略论安乐净土义》",
+   "container": "china",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -13456,6 +13522,17 @@
    "id": "cmp-wu-yu-wu",
    "type": "comparative",
    "title": "“无”的两种说法：海德格尔的畏与道家的无",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-tali",
+   "type": "comparative",
+   "title": "他力与“天恩”：昙鸾与奥古斯丁论“靠自己不够”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
