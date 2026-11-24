@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1205,
+  "entries": 1209,
   "by_level": {
    "L2": 790,
-   "L1": 415
+   "L1": 419
   },
   "doctrine": {
    "total": 262,
    "detail": 262,
    "auto": 0
   },
-  "needs_verification": 415,
-  "sources": 406,
-  "sources_verified": 406
+  "needs_verification": 419,
+  "sources": 408,
+  "sources_verified": 408
  },
  "units": [
   {
@@ -12045,6 +12045,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-geschichte-klassenbewusstsein",
+   "type": "work",
+   "title": "《历史与阶级意识》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-being-time",
    "type": "work",
    "title": "《存在与时间》",
@@ -12111,6 +12122,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-open-society",
+   "type": "work",
+   "title": "《开放的社会及其敌人》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-dialectic-enlightenment",
    "type": "work",
    "title": "《启蒙辩证法》",
@@ -12152,6 +12174,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-two-concepts-liberty",
+   "type": "work",
+   "title": "《两种自由概念》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -12928,6 +12961,17 @@
    "id": "cmp-youyi",
    "type": "comparative",
    "title": "友爱的两种根据：柏拉图的“所缺”与儒家的“信”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-jijiziyou",
+   "type": "comparative",
+   "title": "积极自由与“自得”：伯林与庄子的“自己”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

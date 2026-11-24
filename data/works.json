@@ -19478,6 +19478,63 @@
    "sort_year": 1921
   },
   {
+   "id": "work-geschichte-klassenbewusstsein",
+   "title": "《历史与阶级意识》",
+   "title_original": "Geschichte und Klassenbewußtsein",
+   "tradition": "west",
+   "date_display": "1923年（卢卡奇）",
+   "structure": "八篇论文：论马克思主义的方法（正统性）、物化与无产阶级意识、阶级意识、历史唯物主义的功能变化等。",
+   "core_arguments": [
+    "“物化”（Verdinglichung）：在商品生产中，人的关系表现为物的关系",
+    "“总体性”（Totalität）是马克思主义的**方法**核心：不是经济决定论的单线",
+    "无产阶级的意识不是既成的，而是**被赋予的**（zugerechnet）：其“阶级意识”是客观可能"
+   ],
+   "key_points": [
+    {
+     "locator": "〈什么是正统马克思主义？〉",
+     "point": "方法与总体性"
+    },
+    {
+     "locator": "〈物化与无产阶级意识〉",
+     "point": "物化"
+    },
+    {
+     "locator": "〈阶级意识〉",
+     "point": "被赋予的意识"
+    },
+    {
+     "locator": "〈历史唯物主义的功能变化〉",
+     "point": "唯物史观的界限"
+    }
+   ],
+   "editions": [
+    "德文 Luchterhand 版；中译参《历史与阶级意识》（杜章智等译，商务印书馆）"
+   ],
+   "related_people": [
+    "gr-19c-marx",
+    "gr-german-hegel",
+    "gr-20c-adorno"
+   ],
+   "misreadings": [
+    {
+     "claim": "卢卡奇只是“马克思主义的注释者”",
+     "why": "其“物化”与“总体性”是对马克思的**重新解释**（并借黑格尔），直接开创了西方马克思主义的路线；故不是注释。"
+    },
+    {
+     "claim": "“物化”即马克思的“异化”",
+     "why": "二者相关而不同：马克思的“异化”重在劳动产品的丧失，卢卡奇的“物化”重在**社会关系的物象化**（承《资本论》的商品拜物教）；故须分辨。"
+    }
+   ],
+   "sources": [
+    "sep-lukacs",
+    "sep-marx",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《历史与阶级意识》1923 年初版与 1967 年新版（附卢卡奇的自评序）差异重要；本页依中译本与 SEP 词条概述。",
+   "sort_year": 1923
+  },
+  {
    "id": "work-being-time",
    "title": "《存在与时间》",
    "title_original": "Sein und Zeit",
@@ -19822,6 +19879,63 @@
    "sort_year": 1945
   },
   {
+   "id": "work-open-society",
+   "title": "《开放的社会及其敌人》",
+   "title_original": "The Open Society and Its Enemies",
+   "tradition": "west",
+   "date_display": "1945年（波普尔）",
+   "structure": "两卷：①柏拉图的符咒（论柏拉图的政治纲领）；②预言的高潮（论黑格尔与马克思）。",
+   "core_arguments": [
+    "“封闭社会”以整体与命运为纲，“开放社会”以批判与个人责任为纲",
+    "历史主义（historicism）：相信历史有可知的规律，故可预言——此说在方法上不成立，在政治上有害",
+    "以“零星社会工程”（piecemeal engineering）代替乌托邦式的整体改造"
+   ],
+   "key_points": [
+    {
+     "locator": "第一卷",
+     "point": "柏拉图与封闭社会"
+    },
+    {
+     "locator": "第二卷 第11—12章",
+     "point": "黑格尔与历史主义"
+    },
+    {
+     "locator": "第二卷 第13—17章",
+     "point": "马克思的方法与预言"
+    },
+    {
+     "locator": "结论",
+     "point": "零星社会工程"
+    }
+   ],
+   "editions": [
+    "英文 Routledge 版（5th ed.）；中译参《开放社会及其敌人》（陆衡等译，中国社会科学出版社）"
+   ],
+   "related_people": [
+    "gr-20c-popper",
+    "gr-ancient-plato",
+    "gr-19c-marx"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“反柏拉图、反马克思”的攻击之作",
+     "why": "其方法是**批判性的解读**：波普尔承认柏拉图与马克思的问题意识，反对的是其“历史主义”与“整体改造”的纲领。故不宜读作单纯攻击。"
+    },
+    {
+     "claim": "“开放社会”是一个具体的制度方案",
+     "why": "它是一个**方法论—政治的原则**（可批判、可修正、允许更替），不是一套具体制度。"
+    }
+   ],
+   "sources": [
+    "sep-popper",
+    "sep-plato",
+    "sep-marx"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《开放的社会及其敌人》对柏拉图与马克思的解读在学界受到广泛批评（尤其对柏拉图的“整体主义”读法）；本页并述其论点与批评，不裁定解读的对错。",
+   "sort_year": 1945
+  },
+  {
    "id": "work-dialectic-enlightenment",
    "title": "《启蒙辩证法》",
    "title_original": "Dialektik der Aufklärung",
@@ -20045,6 +20159,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1953
+  },
+  {
+   "id": "work-two-concepts-liberty",
+   "title": "《两种自由概念》",
+   "title_original": "Two Concepts of Liberty",
+   "tradition": "west",
+   "date_display": "1958年（伯林，就职演说）",
+   "structure": "一篇长文（后收入《自由四论》）：分“消极自由”与“积极自由”两概念，并论“自我”的形而上学如何导向专制。",
+   "core_arguments": [
+    "消极自由：免于他人干涉的范围（“我被允许做什么”）",
+    "积极自由：成为自己的主人（“谁是主人”）",
+    "积极自由的“自我二分”（真我 vs 经验的我）易滑向以“真我”之名压制他人"
+   ],
+   "key_points": [
+    {
+     "locator": "第一节",
+     "point": "消极自由"
+    },
+    {
+     "locator": "第二节",
+     "point": "积极自由"
+    },
+    {
+     "locator": "第三节",
+     "point": "自我二分与专制"
+    },
+    {
+     "locator": "末节",
+     "point": "多元主义与“不可通约的善”"
+    }
+   ],
+   "editions": [
+    "英文 Oxford 版（Four Essays on Liberty, 1969）；中译参《自由论》（胡传胜译，译林出版社）"
+   ],
+   "related_people": [
+    "gr-german-kant",
+    "gr-modern-rousseau",
+    "gr-contemp-rawls"
+   ],
+   "misreadings": [
+    {
+     "claim": "伯林主张消极自由高于积极自由",
+     "why": "他主张二者是**不同的概念**（不可化约），并警惕积极自由的**滥用**；但他并未说积极自由无价值（其“多元主义”承认二者皆有其位）。"
+    },
+    {
+     "claim": "“两种自由”是伯林的首创",
+     "why": "这一区分在思想史上有前驱（如贡斯当的“古代人的自由 vs 现代人的自由”）；伯林的贡献是**系统化并指出其政治后果**。"
+    }
+   ],
+   "sources": [
+    "sep-berlin",
+    "sep-kant",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《两种自由概念》1958 年就职演说与 1969 年《自由四论》所收版本有差异（后者增补）；本页依后者与 SEP 词条概述。",
+   "sort_year": 1958
   },
   {
    "id": "work-visible-invisible",
