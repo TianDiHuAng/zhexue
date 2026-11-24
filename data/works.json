@@ -8445,9 +8445,9 @@
     "中华书局《陆机集》；《文赋集释》（张少康）"
    ],
    "related_people": [
+    "cn-weijin-lu-ji",
     "cn-nanbei-liuxie",
-    "cn-suitang-sikong-tu",
-    "cn-weijin-wangbi"
+    "cn-suitang-sikong-tu"
    ],
    "misreadings": [
     {
@@ -13706,9 +13706,9 @@
     "人民文学出版社《六一诗话·白石诗说》（郑文校点）"
    ],
    "related_people": [
+    "cn-songming-su-shi",
     "cn-songming-zhu-xi",
-    "cn-nanbei-liuxie",
-    "cn-suitang-sikong-tu"
+    "cn-nanbei-liuxie"
    ],
    "misreadings": [
     {
@@ -14079,6 +14079,120 @@
    "sort_year": 1082
   },
   {
+   "id": "work-dongpo-yizhuan",
+   "title": "《东坡易传》",
+   "title_original": "東坡易傳（毘陵易傳）",
+   "tradition": "china",
+   "date_display": "北宋（苏轼，1037—1101；苏氏父子共成）",
+   "structure": "九卷：注《周易》上下经与《系辞》以下，以“理”“性”“情”说易。",
+   "core_arguments": [
+    "以“理”说易：卦爻之义在自然之理，不在术数",
+    "“性”不可言，所言者其“似”：由情以见性",
+    "“刚柔相推”即自然之势：易的变动非有人使之"
+   ],
+   "key_points": [
+    {
+     "locator": "上下经注",
+     "point": "以理解易"
+    },
+    {
+     "locator": "《系辞》注",
+     "point": "性与情"
+    },
+    {
+     "locator": "《说卦》以下",
+     "point": "象与理"
+    },
+    {
+     "locator": "全书",
+     "point": "扫术数而重自然"
+    }
+   ],
+   "editions": [
+    "《三苏全书》本；《四库全书》本"
+   ],
+   "related_people": [
+    "cn-songming-su-shi",
+    "cn-weijin-wangbi",
+    "cn-songming-cheng-yi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“术数之书”",
+     "why": "其注恰以“理”与“自然之势”说易，排斥术数；故其属于**义理易**的一路（与王弼、程颐同调而异趣）。"
+    },
+    {
+     "claim": "其作者只有苏轼",
+     "why": "其书为苏洵、苏轼、苏辙父子相继而成（苏洵发其端，苏轼续成）；故标“苏氏父子共成”。"
+    }
+   ],
+   "sources": [
+    "ct-yijing",
+    "ws-zhuzi-yulei",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《东坡易传》的卷数与苏氏父子的分撰须核《三苏全书》本；其与王弼、程颐易学的异同亦须分辨。",
+   "sort_year": 1090
+  },
+  {
+   "id": "work-shuzhuan-sushi",
+   "title": "《书传》",
+   "title_original": "書傳（東坡書傳）",
+   "tradition": "china",
+   "date_display": "北宋（苏轼；一说苏辙续成）",
+   "structure": "十三卷：注《尚书》全书，逐篇释其制度、名物与义理，并时出己见（疑后出之篇）。",
+   "core_arguments": [
+    "以“义理”说《尚书》：不为训诂所拘，直寻其政教之意",
+    "疑《书》中后出之篇：不盲从古文",
+    "以“人情”说政：治道须顺人之情"
+   ],
+   "key_points": [
+    {
+     "locator": "《尧典》《舜典》",
+     "point": "政教之意"
+    },
+    {
+     "locator": "《洪范》",
+     "point": "天人相与"
+    },
+    {
+     "locator": "《吕刑》以下",
+     "point": "刑政与人心"
+    },
+    {
+     "locator": "全书",
+     "point": "以人情说政"
+    }
+   ],
+   "editions": [
+    "《三苏全书》本；《四库全书》本"
+   ],
+   "related_people": [
+    "cn-songming-su-shi",
+    "cn-songming-zhu-xi",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "宋人注经皆守训诂",
+     "why": "苏轼一路恰以**义理与怀疑**为法（疑后出之篇、以人情说政）；故宋学的“疑经”风气，其一部分正由此出。"
+    },
+    {
+     "claim": "其书全为苏轼所作",
+     "why": "其书有苏辙续成之说；故本页标“一说苏辙续成”，不独归苏轼。"
+    }
+   ],
+   "sources": [
+    "ws-liji",
+    "ws-zhuzi-yulei",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《书传》的卷数与作者（苏轼／苏辙续成）须核《三苏全书》本；其疑经之说亦须逐条核。",
+   "sort_year": 1095
+  },
+  {
    "id": "work-yichuan-yizhuan",
    "title": "《伊川易传》",
    "title_original": "伊川易傳（周易程氏傳）",
@@ -14247,6 +14361,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《上蔡语录》的卷数与朱熹的删定须核《朱子全书》外编；其“以觉言仁”与朱熹批评的具体文本亦须核。",
+   "sort_year": 1100
+  },
+  {
+   "id": "work-dongpo-zhilin",
+   "title": "《东坡志林》",
+   "title_original": "東坡志林",
+   "tradition": "china",
+   "date_display": "北宋（苏轼；后人辑录）",
+   "structure": "五卷（通行本）：分记游、怀古、修养、疾病、梦寐、学问、命分、送别等类，为随笔杂记。",
+   "core_arguments": [
+    "以随笔见其学：经史、方术、养生、人情皆入",
+    "“人生如寄”：以旷达处忧患（黄州以后的境界）",
+    "论学重“自得”：不依门户，随笔所至"
+   ],
+   "key_points": [
+    {
+     "locator": "记游诸条",
+     "point": "旷达与自得"
+    },
+    {
+     "locator": "修养诸条",
+     "point": "养生与方术"
+    },
+    {
+     "locator": "学问诸条",
+     "point": "论学与评诗"
+    },
+    {
+     "locator": "杂记",
+     "point": "人情与政事"
+    }
+   ],
+   "editions": [
+    "中华书局《东坡志林》（王松龄点校）"
+   ],
+   "related_people": [
+    "cn-songming-su-shi",
+    "cn-songming-zhu-xi",
+    "cn-xianqin-zhuangzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是苏轼手定的书",
+     "why": "其书为**后人辑录**（宋时已有数种辑本，互有出入）；故须以点校本的分卷与条目为据。"
+    },
+    {
+     "claim": "它只是“闲话”",
+     "why": "其中论学、论政、论养生皆有实见（如论“自得”、论治水）；故其随笔亦是思想的载体。"
+    }
+   ],
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《东坡志林》的卷数与条目（通行五卷）须核王松龄点校本；其辑录的源流亦须核。",
    "sort_year": 1100
   },
   {

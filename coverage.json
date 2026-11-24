@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1483,
+  "entries": 1490,
   "by_level": {
    "L2": 781,
-   "L1": 702
+   "L1": 709
   },
   "doctrine": {
-   "total": 294,
-   "detail": 294,
+   "total": 296,
+   "detail": 296,
    "auto": 0
   },
-  "needs_verification": 702,
+  "needs_verification": 709,
   "sources": 418,
   "sources_verified": 418
  },
@@ -47,10 +47,10 @@
    "unit_id": "cn-songming",
    "title": "宋明理学与心学",
    "region": "china",
-   "philosophers": 22,
+   "philosophers": 23,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -14"
+   "philosophers_slot": "8 上限，余 -15"
   },
   {
    "unit_id": "cn-suitang",
@@ -65,10 +65,10 @@
    "unit_id": "cn-weijin",
    "title": "魏晋玄学",
    "region": "china",
-   "philosophers": 13,
+   "philosophers": 14,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -5"
+   "philosophers_slot": "8 上限，余 -6"
   },
   {
    "unit_id": "cn-xianqin",
@@ -111,7 +111,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 12,
-   "concepts": 25,
+   "concepts": 26,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -2222,6 +2222,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-songming-su-shi",
+   "type": "philosopher",
+   "title": "苏轼",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-songming-li-qi",
    "type": "concept",
    "title": "理气",
@@ -3451,6 +3462,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-weijin-lu-ji",
+   "type": "philosopher",
+   "title": "陆机",
+   "container": "cn-weijin",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -6746,6 +6768,17 @@
    "id": "gr-contemp-diskursethik",
    "type": "concept",
    "title": "商谈伦理",
+   "container": "gr-contemp",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-contemp-fuqiang-yishi",
+   "type": "concept",
+   "title": "嵌入与具身",
    "container": "gr-contemp",
    "level": "L1",
    "sources": 3,
@@ -11913,6 +11946,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-dongpo-yizhuan",
+   "type": "work",
+   "title": "《东坡易传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-shuzhuan-sushi",
+   "type": "work",
+   "title": "《书传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-yichuan-yizhuan",
    "type": "work",
    "title": "《伊川易传》",
@@ -11938,6 +11993,17 @@
    "id": "work-shangcai-yulu",
    "type": "work",
    "title": "《上蔡语录》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-dongpo-zhilin",
+   "type": "work",
+   "title": "《东坡志林》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -15986,6 +16052,17 @@
    "id": "cmp-lishiqing",
    "type": "comparative",
    "title": "“理事情”与“质料—形式”：诗写的是什么？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-suqing",
+   "type": "comparative",
+   "title": "“由情见性”与“情感为认知之源”：情能显示什么？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

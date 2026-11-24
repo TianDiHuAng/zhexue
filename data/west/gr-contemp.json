@@ -2776,6 +2776,41 @@
    ],
    "needs_verification": true,
    "pending_notes": "“商谈伦理”的原则（D 原则与 U 原则）须核哈贝马斯《道德意识与交往行为》；其与阿佩尔的“先验语用学”之别亦须分辨。"
+  },
+  {
+   "id": "gr-contemp-fuqiang-yishi",
+   "term": "嵌入与具身",
+   "term_latin": "embedding and embodiment",
+   "definition": "当代认知科学与现象学交叉的一组概念：“**具身**”（embodiment）指认知依赖于身体的结构与感觉运动的技能；“**嵌入**”（embedding）指认知者嵌入其环境，故认知过程延伸到环境之中（“延展心灵”之说）。二者合观，即对“认知在头脑中”的挑战。",
+   "usages": [
+    {
+     "name": "梅洛-庞蒂（其源）",
+     "usage": "以“身体图式”说知觉的具身性。"
+    },
+    {
+     "name": "海德格尔（其在先）",
+     "usage": "以“在世存在”说人已在世界之中。"
+    },
+    {
+     "name": "丹尼特（其对照）",
+     "usage": "以计算主义说认知，为其批评的对象。"
+    }
+   ],
+   "related": [
+    "gr-contemp-reflective"
+   ],
+   "example": {
+    "text": "“嵌入与具身”的要害是把**身体与环境**重新放回认知的说明之中：若认知依赖身体与环境的耦合，则“心在脑内”的图景不足以说明它。其困难是：一旦认知“延伸”到环境，其边界何在（手机、笔记、他人，算不算心的一部分）？",
+    "figure": "梅洛-庞蒂",
+    "locator": "《知觉现象学》"
+   },
+   "sources": [
+    "sep-merleau-ponty",
+    "sep-phenomenology",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“具身”与“嵌入”的区分（embodied／embedded／enacted／extended 四说）须核 SEP“Embodied Cognition”词条；本页取其一般义。"
   }
  ],
  "debates": [

@@ -2073,6 +2073,155 @@
      "note": "中国最早的系统人才学著作"
     }
    ]
+  },
+  {
+   "id": "cn-weijin-lu-ji",
+   "name": "陆机",
+   "latin": "Lu Ji",
+   "birth_year": 261,
+   "death_year": 303,
+   "birth_display": "261年",
+   "death_display": "303年",
+   "birth_note": "据《晋书》本传：字士衡，吴郡华亭人；吴亡入洛，为张华所赏，官至平原内史，世称“陆平原”；后事成都王颖，兵败被谗，夷三族。",
+   "death_note": "303年被杀（《晋书》本传）。",
+   "era": "西晋。陆机的《文赋》是中国第一篇**系统的创作论**：以赋体论文，述创作的起因、构思（“课虚无以责有，叩寂寞而求音”）、布局、修辞、文体十类，以及灵感的“通塞”（“应感之会”）。其“**诗缘情而绮靡**”一语，把诗的本原从“言志”扩为“缘情”。故其位置是：把文学从经学的附庸中分出，给它一个**心理过程**的描写。",
+   "school": "西晋文学（太康之英，与弟陆云并称“二陆”）",
+   "core_questions": [
+    "创作是如何发生的？",
+    "诗的本原是志还是情？",
+    "灵感可否强求？"
+   ],
+   "arguments": [
+    {
+     "claim": "创作是由无生有的构思",
+     "premises": [
+      "落笔之先，胸中无文。",
+      "而构思之后，文乃成形。"
+     ],
+     "inference": "若文由构思而生，则创作的核心在“课虚无以责有”的心营；故其说把创作的重心从“模仿”移到**心营**。",
+     "conclusion": "构思为本（此说为中国创作论之始）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "应感有通塞，非人力可强",
+     "premises": [
+      "有时思路泉涌，有时枯索。",
+      "而其至与不至，不由人愿。"
+     ],
+     "inference": "若灵感有通塞而不由人，则创作须**待其会**；故其说为后世的“兴会”“灵感”之说立其端。",
+     "conclusion": "应感通塞（此说开启后世的灵感论）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《文赋》",
+     "edition": "中华书局《陆机集》（版次待核）",
+     "note": "约300"
+    },
+    {
+     "title": "《陆士衡集》",
+     "edition": "中华书局《陆机集》（版次待核）",
+     "note": "后人辑"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "庄子（其资源）",
+     "id": null,
+     "note": "“得意忘言”与其构思之说相通"
+    },
+    {
+     "name": "曹丕《典论·论文》",
+     "id": null,
+     "note": "以“文气”论文，为其先声"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "刘勰（其承）",
+     "id": null,
+     "note": "《文心雕龙》的创作论承其端"
+    },
+    {
+     "name": "钟嵘（其承）",
+     "id": null,
+     "note": "以“滋味”说诗，承其重情"
+    },
+    {
+     "name": "后世的“神思”“兴会”之说",
+     "id": null,
+     "note": "皆以其为源头"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后世的重“质”论者",
+     "view": "“诗缘情而绮靡”开六朝绮靡之风：重情而轻志、重辞而轻质，遂有齐梁的浮艳。",
+     "response": "陆机一系的回应是：其“绮靡”指辞采之美，非谓无志；“缘情”是对“言志”的扩充，非取代。且其《文赋》明言“禁邪而制放”，自有其节制。",
+     "kind": "原文",
+     "sources": [
+      "ws-wenxin-diaolong",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“诗缘情”与“诗言志”对立",
+     "why": "“缘情”是对“言志”的**扩充**（情亦志之所含），非取彼废此；其说不废节制（“禁邪而制放”）。"
+    },
+    {
+     "claim": "《文赋》是“写作指南”",
+     "why": "其述创作的心理过程（构思、灵感、通塞），故其性质是**创作论**，非操作规程。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>陆机：构思与应感</text><defs><marker id='aLJ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>落笔之先胸中无文</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>构思而后文乃成形</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故创作重在心营</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>而灵感有通塞非可强</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLJ)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLJ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "陆机：“由无生有”的构思与“应感”的通塞（示意图）",
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "陆机无 SEP 专条（已试 lu-ji，404）；本页依《晋书》本传与《文赋》原文（张少康集释本），**属语境性引用而非专门研究**。其生卒（261—303）与夷三族之事须核。",
+   "doctrine": {
+    "summary": "陆机的《文赋》是中国第一篇系统的创作论：以赋体论文，述创作的起因、构思（“课虚无以责有”）、布局、修辞、文体十类与灵感的“通塞”。其“诗缘情而绮靡”把诗的本原从“言志”扩为“缘情”。故其位置是把文学从经学的附庸中分出，给它一个心理过程的描写。",
+    "system": [
+     {
+      "name": "构思为本",
+      "content": "创作是由无生有的心营，故重心在构思；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "诗缘情而绮靡",
+      "content": "诗的本原是情，而辞采须美，非取代“言志”。"
+     },
+     {
+      "name": "应感通塞",
+      "content": "灵感有至与不至，非人力可强，故须待其会。"
+     },
+     {
+      "name": "禁邪制放",
+      "content": "重情而不废节制，为其说的自限；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "华亭与洛阳（261—303）",
+      "change": "吴亡后入洛；为张华所赏；官至平原内史；事成都王颖；兵败被谗；303 年被杀。"
+     }
+    ],
+    "reception": "《文赋》为刘勰《文心雕龙》的创作论所承，其“应感”之说开后世“神思”“兴会”之端；“诗缘情”一语则成为六朝文学自觉的标志，亦为后世重“质”论者所批评。"
+   },
+   "works_detail": [
+    {
+     "title": "《文赋》",
+     "structure": "一篇（赋体）：述创作的起因、构思、布局、修辞、文体与应感。",
+     "core_thesis": "构思为本，应感有通塞；这是该书的核心命题。",
+     "editions": "中华书局《陆机集》",
+     "note": "约300 年"
+    }
+   ]
   }
  ],
  "concepts": [

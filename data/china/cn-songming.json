@@ -3363,6 +3363,160 @@
      "note": "约1230 年"
     }
    ]
+  },
+  {
+   "id": "cn-songming-su-shi",
+   "name": "苏轼",
+   "latin": "Su Shi",
+   "birth_year": 1037,
+   "death_year": 1101,
+   "birth_display": "1037年",
+   "death_display": "1101年",
+   "birth_note": "据《宋史》本传：字子瞻，号东坡居士，眉州眉山人；嘉祐进士，历官至翰林学士，因“乌台诗案”贬黄州，后又贬惠州、儋州，徽宗初遇赦北归卒于常州。",
+   "death_note": "1101年卒于常州（《宋史》本传）。",
+   "era": "北宋。苏轼不属道学的任何一系，而其学自有其位置：他以**义理说经**而不为训诂所拘（《东坡易传》《书传》），以“性不可言，所言者其似”说性与情，以“人生如寄”的旷达处忧患。故其位置是：**道学之外的另一种宋学** —— 有理趣而无门户，有情致而无放逸。",
+   "school": "北宋蜀学（苏氏一系，与洛学、新学鼎立）",
+   "core_questions": [
+    "性可以言说吗？",
+    "治道应顺人情还是正人心？",
+    "人如何在忧患中自处？"
+   ],
+   "arguments": [
+    {
+     "claim": "性不可言，所言者其“似”",
+     "premises": [
+      "性无形而不可指。",
+      "而情是性之动，可见可名。"
+     ],
+     "inference": "若性不可言而情可见，则由情以见性，是唯一的门径；故其说不立“性”的界说，而以“似”言之（近似之辞）。",
+     "conclusion": "由情见性（此说与道学的“性即理”异趣）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "治道须顺人情",
+     "premises": [
+      "人情不可拂。",
+      "而政令若拂人情，则虽善而不行。"
+     ],
+     "inference": "若政令须行于人情之中，则治道之要在“因”而不在“强”；故其说以人情为治道的起点。",
+     "conclusion": "以人情说政（此说见于《书传》）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《东坡易传》",
+     "edition": "《三苏全书》本（版次待核）",
+     "note": "约1090"
+    },
+    {
+     "title": "《书传》",
+     "edition": "《三苏全书》本（版次待核）",
+     "note": "约1095"
+    },
+    {
+     "title": "《东坡志林》",
+     "edition": "中华书局王松龄点校本（版次待核）",
+     "note": "后人辑"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "庄子（其资源）",
+     "id": null,
+     "note": "其旷达与“齐物”之说相通"
+    },
+    {
+     "name": "王弼（其易学之前例）",
+     "id": null,
+     "note": "以理解易，为其先例"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "宋代的蜀学一系",
+     "id": null,
+     "note": "与其父苏洵、弟苏辙并称"
+    },
+    {
+     "name": "后世的文人画与“士人”理想",
+     "id": null,
+     "note": "其人格成为典范"
+    },
+    {
+     "name": "明清的性灵一系",
+     "id": null,
+     "note": "取其重情与自得"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "朱熹一系（道学）",
+     "view": "以“由情见性”说性，则性无定体，流而为情；以“顺人情”说政，则失其“正君心”的根本。故其学“驳而不纯”。",
+     "response": "苏轼一系的回应是：性既不可言，则“性即理”的界说亦只是一说；“由情见性”正是对不可言者保持诚实，且于治道更少强制之弊。",
+     "kind": "原文",
+     "sources": [
+      "ws-zhuzi-yulei",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "苏轼只是“文学家”，无哲学",
+     "why": "其《东坡易传》《书传》有明确的义理建构（由情见性、以人情说政）；故其学有哲学的位置，只是不属于道学的谱系。"
+    },
+    {
+     "claim": "其“旷达”是逃避",
+     "why": "其旷达是在贬谪与忧患中形成的自处之道（“人生如寄”），且不废政事与论学；故其是**处境中的自持**，非逃避。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>苏轼：由情见性与以人情说政</text><defs><marker id='aSS' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>性无形而不可指</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而情为性之动</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故由情以见性</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故治道须顺人情</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aSS)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aSS)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "苏轼：“由情见性”与“以人情说政”（示意图）",
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ct-yijing",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "苏轼无 SEP 专条（已试 su-shi，404）；本页依《宋史》本传、《东坡易传》《书传》原文（《三苏全书》本）与朱熹的评语，**属语境性引用而非专门研究**。其生卒（1037—1101）与贬谪经历须核。",
+   "doctrine": {
+    "summary": "苏轼不属道学的任何一系，而自有其位置：以义理说经而不为训诂所拘（《东坡易传》《书传》）；以“性不可言，所言者其似”说性，主张由情见性；以“治道须顺人情”说政；以“人生如寄”的旷达处忧患。故其位置是“道学之外的另一种宋学”。",
+    "system": [
+     {
+      "name": "由情见性",
+      "content": "性不可言，情可见，故由情以见性；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以人情说政",
+      "content": "政令若拂人情则虽善不行，故治道贵“因”。"
+     },
+     {
+      "name": "以理解易",
+      "content": "卦爻之义在自然之理，不在术数；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "旷达自持",
+      "content": "在忧患中以“人生如寄”自处，不废政事论学。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "眉山与儋州（1037—1101）",
+      "change": "嘉祐二年进士；因“乌台诗案”贬黄州（1080）；后贬惠州、儋州；徽宗初遇赦北归；1101 年卒于常州。"
+     }
+    ],
+    "reception": "其学与洛学、新学鼎立，称“蜀学”；其人格与文采使其成为后世士人的典范；朱熹对其学多有批评（“驳而不纯”），然其《易》《书》二传在宋学中自有地位。"
+   },
+   "works_detail": [
+    {
+     "title": "《东坡易传》",
+     "structure": "九卷：注《周易》上下经与《系辞》以下，以理、性、情说易。",
+     "core_thesis": "以理解易，由情见性；这是该书的核心命题。",
+     "editions": "《三苏全书》本（具体版次待核）",
+     "note": "约1090 年"
+    }
+   ]
   }
  ],
  "concepts": [
