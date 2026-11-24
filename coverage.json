@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1316,
+  "entries": 1320,
   "by_level": {
    "L2": 779,
-   "L1": 537
+   "L1": 541
   },
   "doctrine": {
    "total": 270,
    "detail": 270,
    "auto": 0
   },
-  "needs_verification": 537,
-  "sources": 411,
-  "sources_verified": 411
+  "needs_verification": 541,
+  "sources": 412,
+  "sources_verified": 412
  },
  "units": [
   {
@@ -13068,6 +13068,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-origins-totalitarianism",
+   "type": "work",
+   "title": "《极权主义的起源》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-investigations",
    "type": "work",
    "title": "《哲学研究》",
@@ -13093,6 +13104,17 @@
    "id": "work-two-concepts-liberty",
    "type": "work",
    "title": "《两种自由概念》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-human-condition",
+   "type": "work",
+   "title": "《人的境况》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -13175,6 +13197,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-one-dimensional-man",
+   "type": "work",
+   "title": "《单向度的人》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -14149,6 +14182,17 @@
    "id": "cmp-xungu",
    "type": "comparative",
    "title": "训诂与定义：许慎与亚里士多德的“界说”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-gonggonglingyu",
+   "type": "comparative",
+   "title": "公共领域与“处士横议”：阿伦特与先秦的“议”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

@@ -22875,6 +22875,63 @@
    "sort_year": 1949
   },
   {
+   "id": "work-origins-totalitarianism",
+   "title": "《极权主义的起源》",
+   "title_original": "The Origins of Totalitarianism",
+   "tradition": "west",
+   "date_display": "1951年（阿伦特）",
+   "structure": "三部分：①反犹主义；②帝国主义；③极权主义（阶级与群众的组织、恐怖与意识形态）。",
+   "core_arguments": [
+    "极权主义是**新的**政体，不是专制或暴政的旧形态",
+    "其要素：无根的群众、意识形态的“逻辑”、恐怖与集中营",
+    "集中营是极权主义的“实验室”：它把“人”变成“多余的人”"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "反犹主义与民族国家"
+    },
+    {
+     "locator": "第二部分",
+     "point": "帝国主义与无根性"
+    },
+    {
+     "locator": "第三部分",
+     "point": "群众与意识形态"
+    },
+    {
+     "locator": "第三部分",
+     "point": "恐怖与集中营"
+    }
+   ],
+   "editions": [
+    "英文 Harcourt 版（后附《集中营》等）；中译参《极权主义的起源》（林骧华译，三联书店）"
+   ],
+   "related_people": [
+    "gr-modern-hobbes",
+    "gr-german-hegel",
+    "gr-20c-marcuse"
+   ],
+   "misreadings": [
+    {
+     "claim": "它把极权主义等同于“一切专制”",
+     "why": "阿伦特明确说极权主义是**新的政体**（以意识形态的逻辑与恐怖为本质），与传统的专制、暴政不同；故其说是类型学的区分，不是泛泛的指责。"
+    },
+    {
+     "claim": "其“反犹主义”部分是在把罪责归给犹太人",
+     "why": "她分析的是反犹主义**作为政治现象的条件**，不是归罪；此点在其书中与后世评论中皆有澄清（亦有批评者认为其表述易被误读）。"
+    }
+   ],
+   "sources": [
+    "sep-arendt",
+    "sep-hobbes",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《极权主义的起源》1951 年初版与 1958／1966 增订版（增《意识形态与恐怖》等）差异重要；本页依增订版与 SEP 词条概述，且其对“反犹主义”的分析招致过批评，须分辨。",
+   "sort_year": 1951
+  },
+  {
    "id": "work-investigations",
    "title": "《哲学研究》",
    "title_original": "Philosophische Untersuchungen",
@@ -23043,6 +23100,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《两种自由概念》1958 年就职演说与 1969 年《自由四论》所收版本有差异（后者增补）；本页依后者与 SEP 词条概述。",
+   "sort_year": 1958
+  },
+  {
+   "id": "work-human-condition",
+   "title": "《人的境况》",
+   "title_original": "The Human Condition",
+   "tradition": "west",
+   "date_display": "1958年（阿伦特）",
+   "structure": "六章：人的条件（劳动、工作、行动）、公共领域与私人领域、世界异化、积极生活与现代。",
+   "core_arguments": [
+    "三种活动之别：**劳动**（维持生命）、**工作**（制作持久之物）、**行动**（在他人面前言行）",
+    "“行动”是最具政治性的活动：它开启新事、显现“我是谁”",
+    "现代的“世界异化”：劳动（经济）凌驾于行动（政治）之上"
+   ],
+   "key_points": [
+    {
+     "locator": "第三章",
+     "point": "劳动与工作之别"
+    },
+    {
+     "locator": "第五章",
+     "point": "行动与公共领域"
+    },
+    {
+     "locator": "第二章",
+     "point": "公共与私人的区分"
+    },
+    {
+     "locator": "第六章",
+     "point": "世界异化"
+    }
+   ],
+   "editions": [
+    "英文 Chicago 版（第二版附《后记》）；中译参《人的境况》（王寅丽译，上海人民出版社）"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-contemp-habermas",
+    "gr-20c-marcuse"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张“回到古希腊的城邦”",
+     "why": "它是以古希腊的“行动”经验作**参照**，用以诊断现代；其结论不是复古，而是恢复公共领域的**行动空间**。"
+    },
+    {
+     "claim": "“劳动／工作／行动”是三种职业",
+     "why": "它们是三种**活动的类型**（依其产物与条件而分），不是职业分类；同一个人可以从事三者。"
+    }
+   ],
+   "sources": [
+    "sep-arendt",
+    "sep-aristotle",
+    "sep-habermas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《人的境况》三活动的区分（labor/work/action）与其亚里士多德来源须核原书；中译“劳动/工作/行动”的对应亦须核。",
    "sort_year": 1958
   },
   {
@@ -23434,6 +23548,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1962
+  },
+  {
+   "id": "work-one-dimensional-man",
+   "title": "《单向度的人》",
+   "title_original": "One-Dimensional Man",
+   "tradition": "west",
+   "date_display": "1964年（马尔库塞）",
+   "structure": "三部分：①单向度的社会（技术理性与控制的新的形式）；②单向度的思想（对形式逻辑与实证主义的批判）；③抉择（解放的可能性）。",
+   "core_arguments": [
+    "发达工业社会以**技术**的方式整合反对者：批判被“吸纳”为一种消费选择",
+    "“单向度”：社会只容许一种思考方向，否定性被削平",
+    "解放的可能须来自**被排除者**（“大拒绝”）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "技术理性与控制"
+    },
+    {
+     "locator": "第一部分",
+     "point": "压抑的去升华"
+    },
+    {
+     "locator": "第二部分",
+     "point": "单向度的思想"
+    },
+    {
+     "locator": "第三部分",
+     "point": "大拒绝"
+    }
+   ],
+   "editions": [
+    "英文 Beacon 版；中译参《单向度的人》（刘继译，上海译文出版社）"
+   ],
+   "related_people": [
+    "gr-20c-marcuse",
+    "gr-20c-adorno",
+    "gr-contemp-habermas"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“反对技术”的书",
+     "why": "其批判的对象不是技术本身，而是**技术理性成为统治的形式**（“技术当作意识形态”）；故其说不是技术恐惧症。"
+    },
+    {
+     "claim": "“单向度”是骂现代人愚蠢",
+     "why": "它描述的是**结构的封闭**（替代选项被吸纳），不是智力的评价；故其说是社会批判，不是文化哀叹。"
+    }
+   ],
+   "sources": [
+    "sep-adorno",
+    "sep-marx",
+    "sep-habermas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《单向度的人》1964 年初版与后世译本的差异须核；其“技术理性”与《启蒙辩证法》的“工具理性”之关系亦须分辨。",
+   "sort_year": 1964
   },
   {
    "id": "work-pour-marx",
