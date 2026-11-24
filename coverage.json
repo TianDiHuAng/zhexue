@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1666,
+  "entries": 1670,
   "by_level": {
    "L2": 779,
-   "L1": 887
+   "L1": 891
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 887,
+  "needs_verification": 891,
   "sources": 420,
   "sources_verified": 420
  },
@@ -11429,6 +11429,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-yangzhu-pian",
+   "type": "work",
+   "title": "《杨朱篇》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-liezi",
    "type": "work",
    "title": "《列子》",
@@ -11884,6 +11895,17 @@
    "type": "work",
    "title": "《论世界的永恒》",
    "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-erru-sixing",
+   "type": "work",
+   "title": "《二入四行论》",
+   "container": "china",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -15741,6 +15763,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-theory-novel",
+   "type": "work",
+   "title": "《小说理论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-geist-utopie",
    "type": "work",
    "title": "《乌托邦的精神》",
@@ -17999,6 +18032,17 @@
    "id": "cmp-lanhua",
    "type": "comparative",
    "title": "“蓝花”与“逍遥游”：向往无限，是诗还是道？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-weiji",
+   "type": "comparative",
+   "title": "“为我”与“无家可归”：个体与整体断裂之后怎么办？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

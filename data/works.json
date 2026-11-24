@@ -9551,6 +9551,63 @@
    "sort_year": 330
   },
   {
+   "id": "work-yangzhu-pian",
+   "title": "《杨朱篇》",
+   "title_original": "（《列子》卷七）",
+   "tradition": "china",
+   "date_display": "今本《列子》卷七（魏晋编纂；托名杨朱）",
+   "structure": "一篇（《列子》卷七）：以杨朱与孟孙阳、禽子的问答，论“为我”“贵己”与生死。",
+   "core_arguments": [
+    "“**为我**”：不以天下易其胫之一毛（“损一毫利天下，不与也”）",
+    "“**贵己**”：重生轻物，故不以外物伤其身",
+    "以“生死”为自然之化：生则任其生，死则任其死（故不厚葬、不求生）"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "为我与贵己"
+    },
+    {
+     "locator": "论生死",
+     "point": "任其生死"
+    },
+    {
+     "locator": "论名实",
+     "point": "名者伪而已"
+    },
+    {
+     "locator": "全篇",
+     "point": "以己为贵"
+    }
+   ],
+   "editions": [
+    "见《列子》卷七（杨伯峻《列子集释》，中华书局）；诸子集成本"
+   ],
+   "related_people": [
+    "cn-xianqin-yang-zhu",
+    "cn-weijin-zhang-zhan",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“为我”是自私自利",
+     "why": "其“为我”是**不以天下易其一毛**（拒绝以外物与名位相易），故其为“贵己”的伦理，非损人利己；孟子“拔一毛而利天下不为”的批评是**其时代的对立立场**，本页并述之。"
+    },
+    {
+     "claim": "《杨朱篇》是杨朱本人的著作",
+     "why": "今本《列子》**多认为魏晋人编纂**，此篇托名杨朱；故其思想与先秦杨朱学派有承续，然文本的时代须分辨 —— 本页**标而不裁**。"
+    }
+   ],
+   "sources": [
+    "ws-liezi",
+    "sep-chinese-metaphysics",
+    "ct-zhuangzi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《杨朱篇》见《列子》卷七，文本须核杨伯峻《列子集释》；其与先秦杨朱学派的关系须分辨（今本《列子》多认为魏晋编纂），本页标而不裁。",
+   "sort_year": 330
+  },
+  {
    "id": "work-liezi",
    "title": "《列子》",
    "title_original": "列子",
@@ -11925,6 +11982,63 @@
    "needs_verification": true,
    "pending_notes": "《论世界的永恒》的十八卷结构与 529 年成书须核 Vitelli 本与英译本；“冲力”说的原文亦须核。",
    "sort_year": 529
+  },
+  {
+   "id": "work-erru-sixing",
+   "title": "《二入四行论》",
+   "title_original": "（传菩提达摩；昙琳序）",
+   "tradition": "china",
+   "date_display": "传为南朝梁（菩提达摩说，弟子昙琳记）",
+   "structure": "一篇（敦煌写本等）：以“**二入**”（理入、行入）与“**四行**”（报怨行、随缘行、无所求行、称法行）为纲。",
+   "core_arguments": [
+    "“**理入**”：藉教悟宗，深信含生同一真性",
+    "“**行入**”：以四行实践之（报怨、随缘、无所求、称法）",
+    "“理入”与“行入”不二：悟与行相须"
+   ],
+   "key_points": [
+    {
+     "locator": "理入",
+     "point": "藉教悟宗"
+    },
+    {
+     "locator": "报怨行",
+     "point": "逢苦不忧"
+    },
+    {
+     "locator": "随缘行",
+     "point": "得失从缘"
+    },
+    {
+     "locator": "称法行",
+     "point": "称法而行"
+    }
+   ],
+   "editions": [
+    "敦煌写本（S.2715 等）与《景德传灯录》所收；校本参《楞伽师资记》研究（版次待考）"
+   ],
+   "related_people": [
+    "cn-nanbei-damo",
+    "cn-suitang-huineng",
+    "cn-nanbei-sengchou"
+   ],
+   "misreadings": [
+    {
+     "claim": "其为达摩亲笔",
+     "why": "其书**传为达摩所说、弟子昙琳所记**；敦煌本出土后其归属仍有讨论，故本页标“传”，**标而不裁**。"
+    },
+    {
+     "claim": "其“理入”是重理轻行",
+     "why": "其“二入”并列，且“四行”为实践的纲目；故其说**悟行相须**，非重理轻行。"
+    }
+   ],
+   "sources": [
+    "ws-liezi2",
+    "sep-chinese-metaphysics",
+    "ct-zhuangzi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《二入四行论》的敦煌写本编号与昙琳序的文本须核；“二入四行”的次序亦须核。其归属传为达摩，本页标而不裁。",
+   "sort_year": 530
   },
   {
    "id": "work-luoyang-qielan",
@@ -31790,6 +31904,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "舍勒的“质料先天”与胡塞尔的“本质直观”的关系、以及该书两部分写作时间的差异（1913／1916）须核《舍勒全集》第2卷与现象学研究；中译本的术语处理亦须留意。",
+   "sort_year": 1916
+  },
+  {
+   "id": "work-theory-novel",
+   "title": "《小说理论》",
+   "title_original": "Die Theorie des Romans",
+   "tradition": "west",
+   "date_display": "1916（卢卡奇；1920 出版）",
+   "structure": "两部分：〈伟大史诗的形式〉（论史诗与小说的形式差别）与〈对小说形式的历史哲学试论〉（论小说类型）。",
+   "core_arguments": [
+    "史诗的时代是“**封闭的总体**”，小说则是“**先验的无家可归**”之形式",
+    "小说的类型依“主人公与世界的关系”而分：抽象的理想主义、幻灭的浪漫主义等",
+    "以“**反讽**”为小说的构成原则：作品自我取消其幻象"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "史诗与小说"
+    },
+    {
+     "locator": "第二部分",
+     "point": "小说的类型学"
+    },
+    {
+     "locator": "论陀思妥耶夫斯基",
+     "point": "新世界的预感"
+    },
+    {
+     "locator": "全书",
+     "point": "以形式史行哲学"
+    }
+   ],
+   "editions": [
+    "德文（Luchterhand 版）；英译（The Theory of the Novel, MIT）；中译参《小说理论》（燕宏远等译）"
+   ],
+   "related_people": [
+    "gr-20c-lukacs",
+    "gr-german-hegel",
+    "gr-20c-heidegger"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“文学批评的技术之作”",
+     "why": "其书以**历史哲学的范畴**（总体、无家可归）论形式，故其为哲学的著作；其作者后来亦以此书为其马克思主义前的“浪漫的反资本主义”之作。"
+    },
+    {
+     "claim": "其“先验的无家可归”是心理的描述",
+     "why": "其语是**形式的范畴**（小说之为形式的结构条件），非心理的状态；故须分辨其术语的层次。"
+    }
+   ],
+   "sources": [
+    "sep-lukacs",
+    "sep-hegel",
+    "sep-marx"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《小说理论》两部分的篇目与 1916／1920 的成书须核 Luchterhand 版与 MIT 英译本；“先验的无家可归”的原文亦须核。",
    "sort_year": 1916
   },
   {
