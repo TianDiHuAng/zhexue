@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1117,
+  "entries": 1121,
   "by_level": {
    "L2": 785,
-   "L1": 332
+   "L1": 336
   },
   "doctrine": {
    "total": 255,
    "detail": 255,
    "auto": 0
   },
-  "needs_verification": 332,
+  "needs_verification": 336,
   "sources": 399,
   "sources_verified": 399
  },
@@ -9462,6 +9462,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-liuzi",
+   "type": "work",
+   "title": "《刘子》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-yanshi-jiaxun",
    "type": "work",
    "title": "《颜氏家训》",
@@ -9506,6 +9517,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-bianzheng-lun",
+   "type": "work",
+   "title": "《辨正论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-nyayapravesa",
    "type": "work",
    "title": "《因明入正理论》",
@@ -9542,6 +9564,17 @@
    "id": "work-guang-hongming-ji",
    "type": "work",
    "title": "《广弘明集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-fayuan-zhulin",
+   "type": "work",
+   "title": "《法苑珠林》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -11951,6 +11984,17 @@
    "id": "cmp-duhua-monad",
    "type": "comparative",
    "title": "独化与单子：郭象与莱布尼茨的“无窗”个体",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-leibutathlos",
+   "type": "comparative",
+   "title": "等级与差等：伪狄奥尼修斯的层级与荀子的“群而有分”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

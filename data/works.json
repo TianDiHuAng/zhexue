@@ -7723,6 +7723,63 @@
    "sort_year": 550
   },
   {
+   "id": "work-liuzi",
+   "title": "《刘子》",
+   "title_original": "劉子",
+   "tradition": "china",
+   "date_display": "南北朝（作者有争议：刘昼／刘勰／刘孝标等说）",
+   "structure": "十卷五十五篇：分论修身、治国、处世、名实、文武、祸福等；体例近于《吕氏春秋》《淮南子》的子书。",
+   "core_arguments": [
+    "以“清神”“防欲”论修身的根本（心为形之主）",
+    "以“名实”论政治：名须副实，赏罚须当",
+    "以“慎独”“韬光”论处世的节度"
+   ],
+   "key_points": [
+    {
+     "locator": "《清神》",
+     "point": "心为形之主"
+    },
+    {
+     "locator": "《防欲》",
+     "point": "欲之害"
+    },
+    {
+     "locator": "《审名》",
+     "point": "名实相副"
+    },
+    {
+     "locator": "《慎独》",
+     "point": "处世的节度"
+    }
+   ],
+   "editions": [
+    "《刘子集校》（林其锬、陈凤金）；《刘子》各本"
+   ],
+   "related_people": [
+    "cn-weijin-guoxiang",
+    "cn-lianghan-wang-chong",
+    "cn-xianqin-xunzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《刘子》的作者是刘勰",
+     "why": "其作者自唐宋以来即有争议（刘昼、刘勰、刘孝标、贞观后人等说），今无定论；故只能标“作者有争议”。"
+    },
+    {
+     "claim": "它只是杂纂的子书",
+     "why": "其篇章有明确的问题意识（清神、防欲、审名），并把修养与政治连为一体；故是**自成体系**的子书，非杂纂。"
+    }
+   ],
+   "sources": [
+    "ws-shishuo-xinyu",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《刘子》的作者（刘昼／刘勰／刘孝标等说）与成书年代至今无定论；本页只述其内容与问题意识，不裁定作者。篇数通行55篇，各本略有出入。",
+   "sort_year": 550
+  },
+  {
    "id": "work-yanshi-jiaxun",
    "title": "《颜氏家训》",
    "title_original": "顏氏家訓",
@@ -7948,6 +8005,63 @@
    "needs_verification": true,
    "pending_notes": "《中说》的成书与增饰情况（王通门人记录／其子整理／后人增饰）学界有讨论；其“续经”之作（《元经》《续诗》等）多已亡佚或真伪可疑。",
    "sort_year": 610
+  },
+  {
+   "id": "work-bianzheng-lun",
+   "title": "《辨正论》",
+   "title_original": "辨正論",
+   "tradition": "china",
+   "date_display": "约626年（法琳）",
+   "structure": "八卷十二篇：论佛教的正当性、破斥道教（尤其“老子化胡”说）与批评者，末附“十喻”等。",
+   "core_arguments": [
+    "“老子化胡”说无据：以史传与年代考订反驳",
+    "佛教的教义高于道教（以“正”与“邪”的对举）",
+    "护教的论证须以**史料与年代**为据，不只是教义宣称"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—二",
+     "point": "佛教的正当性"
+    },
+    {
+     "locator": "卷三—六",
+     "point": "破“老子化胡”"
+    },
+    {
+     "locator": "卷七",
+     "point": "对批评者的回应"
+    },
+    {
+     "locator": "卷八",
+     "point": "十喻"
+    }
+   ],
+   "editions": [
+    "《大正藏》第52卷；《中华大藏经》本"
+   ],
+   "related_people": [
+    "cn-suitang-xuanzang",
+    "cn-weijin-huiyuan",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是纯粹的教派攻击",
+     "why": "其破“老子化胡”用的是**年代与史传的考订**（谁先谁后、文献有无），故有文献学的方法面；但其立场确实是护教的。"
+    },
+    {
+     "claim": "作者法琳因该书被处死",
+     "why": "法琳确因护教获罪（与傅奕之争），但其结局（流放途中卒）与《辨正论》的关系须分辨，不宜简化。"
+    }
+   ],
+   "sources": [
+    "ws-hongming-ji",
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《辨正论》的卷数（通行8卷12篇）与法琳的生平结局（流放途中卒）须核《大正藏》第52卷与唐代佛教史研究；其破“老子化胡”的具体论据须逐条核对。",
+   "sort_year": 626
   },
   {
    "id": "work-nyayapravesa",
@@ -8176,6 +8290,63 @@
    "needs_verification": true,
    "pending_notes": "《广弘明集》的卷数（通行30卷）与十篇的分法各本略有出入；本页依《大正藏》第52卷概述，其所收论辩文本的作者与年代须逐一核对。",
    "sort_year": 664
+  },
+  {
+   "id": "work-fayuan-zhulin",
+   "title": "《法苑珠林》",
+   "title_original": "法苑珠林",
+   "tradition": "china",
+   "date_display": "约668年（道世）",
+   "structure": "一百卷：分“劫量、三界、日月、六道、千佛、敬佛、出家、福田、士女、入道、忏悔、受戒、破戒、富贵、贫贱、债负、诤讼、感应、住持、送终”等百篇，每篇下分类辑录经论与感应故事。",
+   "core_arguments": [
+    "以“类书”的方式把佛教的教理、制度与因果故事编为一帙",
+    "以“感应”篇收集大量因果报应的实例（宗教说服的文本策略）",
+    "保存了大量今已散佚的经论引文与寺院制度材料"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—二",
+     "point": "劫量、三界"
+    },
+    {
+     "locator": "卷五—七",
+     "point": "六道与千佛"
+    },
+    {
+     "locator": "卷二十八",
+     "point": "福田与僧制"
+    },
+    {
+     "locator": "卷九十四",
+     "point": "感应与送终"
+    }
+   ],
+   "editions": [
+    "《大正藏》第53卷；中华书局《法苑珠林校注》（周叔迦、苏晋仁）"
+   ],
+   "related_people": [
+    "cn-suitang-xuanzang",
+    "cn-weijin-huiyuan",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是佛教的百科全书，故无立场",
+     "why": "其编排（以“感应”证因果、以“破戒”警僧团）本身即是一种**劝诫的立场**；故不能把它当作中立的资料汇编。"
+    },
+    {
+     "claim": "其“感应”故事只是迷信",
+     "why": "它们是**宗教说服的文本策略**，且保存了社会史与寺院制度的材料；故须分别评估其史料价值与宣传功能。"
+    }
+   ],
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "ws-hongming-ji",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《法苑珠林》的篇数（通行100篇）与分类在各本略有出入；本页依《大正藏》第53卷与周叔迦、苏晋仁校注本概述，其“感应”篇故事须分别评估史料与宣传功能。",
+   "sort_year": 668
   },
   {
    "id": "work-jinshizi-zhang",
