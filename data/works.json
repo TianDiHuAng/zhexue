@@ -6593,6 +6593,63 @@
    "sort_year": 10
   },
   {
+   "id": "work-fangyan",
+   "title": "《方言》",
+   "title_original": "方言（輶軒使者絕代語釋別國方言）",
+   "tradition": "china",
+   "date_display": "西汉末（扬雄，前53—18）",
+   "structure": "十三卷：按词语分条，记各地方言与其通语（雅言）的对应，并注其使用地域。",
+   "core_arguments": [
+    "以“通语”释“别国方言”：方言与雅言有对应关系",
+    "方言的地域分布可被**系统记录**（不按字而按词）",
+    "语言的差异是“转语”（音转）的结果，可求其通"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—卷三",
+     "point": "通语与方言的对应"
+    },
+    {
+     "locator": "卷五—卷九",
+     "point": "器物与动作的方言"
+    },
+    {
+     "locator": "卷十—卷十三",
+     "point": "语词的分布"
+    },
+    {
+     "locator": "全书",
+     "point": "以词为条、注其地域"
+    }
+   ],
+   "editions": [
+    "中华书局《方言笺疏》（钱绎）；周祖谟《方言校笺》"
+   ],
+   "related_people": [
+    "cn-lianghan-yang-xiong",
+    "cn-qingmod-dai-zhen",
+    "cn-lianghan-ban-gu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《方言》是一部字典",
+     "why": "它按**词**（而非字形）编排，记各地方言与通语的对应，故是“方言比较词汇集”，不是字典；这与《说文》按部首的体例不同。"
+    },
+    {
+     "claim": "其作者存疑故不可用",
+     "why": "作者问题（扬雄／他人）确有争论，但文本本身的汉代来源为学界所公认；故应标“传扬雄”而仍可用。"
+    }
+   ],
+   "sources": [
+    "ws-hanshu",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《方言》的作者（扬雄）在学界有争议（有疑为后人依托者）；本页标“扬雄”而于待核实中说明。其卷数与体例须核周祖谟校笺。",
+   "sort_year": 15
+  },
+  {
    "id": "work-xinlun",
    "title": "《新论》",
    "title_original": "新論",
@@ -7447,6 +7504,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《理惑论》的作者（牟子）与成书年代（东汉末／三国／东晋诸说）自梁启超以来争论极大；本页标为“传牟子撰”，只述其内容与格义方法，不裁定年代。",
+   "sort_year": 200
+  },
+  {
+   "id": "work-shiming",
+   "title": "《释名》",
+   "title_original": "釋名",
+   "tradition": "china",
+   "date_display": "东汉末（刘熙，约2世纪末—3世纪初）",
+   "structure": "八卷二十七篇：按事类分篇（释天、释地、释山、释水、释丘、释道、释州国、释形体、释姿容、释长幼、释亲属、释言语、释饮食、释采帛、释首饰、释衣服、释宫室、释床帐、释书契、释典艺、释用器、释乐器、释兵、释车、释船、释疾病、释丧制）。",
+   "core_arguments": [
+    "以“**声训**”说名：名与其所指有声音上的关联（“名之于实，各有义类”）",
+    "以声音求义：同音或音近者义相通",
+    "事类的分类本身即一种世界观（天、地、人、器、礼）"
+   ],
+   "key_points": [
+    {
+     "locator": "〈释天〉〈释地〉",
+     "point": "自然之名"
+    },
+    {
+     "locator": "〈释亲属〉〈释长幼〉",
+     "point": "人伦之名"
+    },
+    {
+     "locator": "〈释衣服〉〈释宫室〉",
+     "point": "器用之名"
+    },
+    {
+     "locator": "全书",
+     "point": "声训的方法"
+    }
+   ],
+   "editions": [
+    "中华书局《释名疏证补》（王先谦）；《四部丛刊》本"
+   ],
+   "related_people": [
+    "cn-lianghan-ban-gu",
+    "cn-qingmod-dai-zhen",
+    "cn-qingmod-ruan-yuan"
+   ],
+   "misreadings": [
+    {
+     "claim": "《释名》的声训都是可靠的语源学",
+     "why": "其声训多属**推测**（音近即义通），后世（尤其清代）已多所纠正；故它是“声训方法的集大成”，不是可靠的词源学。"
+    },
+    {
+     "claim": "它只是《说文》的补充",
+     "why": "它以**声音**为说义的入口（《说文》以字形），故是另一条路；二者互补而不同源。"
+    }
+   ],
+   "sources": [
+    "ws-hanshu",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《释名》的篇数与作者（刘熙）须核王先谦《疏证补》；其声训的可靠性亦须逐条核（清人的纠正）。",
    "sort_year": 200
   },
   {
@@ -17921,6 +18035,63 @@
    "needs_verification": true,
    "pending_notes": "《读通鉴论》为遗著，其版本（船山全书本与中华书局点校本）篇目与文字有差异；本页依中华书局点校本概述。",
    "sort_year": 1690
+  },
+  {
+   "id": "work-emeng",
+   "title": "《噩梦》",
+   "title_original": "噩夢",
+   "tradition": "china",
+   "date_display": "明末清初（王夫之，1691年前后）",
+   "structure": "一卷：以札记体论治道与制度之弊（选举、赋役、兵制、吏治等），并附其“噩梦”之喻。",
+   "core_arguments": [
+    "制度之弊在“**上下相隔**”：上不知下之实，下不得上之信",
+    "论赋役与吏治：须“厚其本”而不苛取",
+    "对“孤秦陋宋”的批评：秦私天下、宋弱其本"
+   ],
+   "key_points": [
+    {
+     "locator": "论选举",
+     "point": "取士之弊"
+    },
+    {
+     "locator": "论赋役",
+     "point": "厚本与苛取"
+    },
+    {
+     "locator": "论兵制",
+     "point": "兵农之分"
+    },
+    {
+     "locator": "全书",
+     "point": "札记体的治道批评"
+    }
+   ],
+   "editions": [
+    "中华书局《黄书·噩梦》（王孝鱼点校）；《船山全书》本"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-fuzhi",
+    "cn-qingmod-huang-zongxi",
+    "cn-qingmod-gu-yanwu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《噩梦》是王夫之的“政治纲领”",
+     "why": "它是**札记体**的弊病诊断（逐条记其所见），并非系统的纲领；其价值在具体的制度批评，不在于方案。"
+    },
+    {
+     "claim": "它与《黄书》重复",
+     "why": "《黄书》论“本末”与华夷之辨（较宏观），《噩梦》多论具体的制度（选举、赋役、兵制）；故二者互补。"
+    }
+   ],
+   "sources": [
+    "ws-mingyi",
+    "ws-zhuzi-yulei",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《噩梦》的成书（1691年前后）与其篇目须核王孝鱼点校本；“噩梦”之喻的原意亦须核。",
+   "sort_year": 1691
   },
   {
    "id": "work-historical-critical-dictionary",

@@ -198,3 +198,63 @@ def require_concept_term_new(terms):
     bad = [(t, seen[t]) for t in terms if t in seen]
     if bad:
         raise AssertionError("概念术语已存在（D54 全局查重）：%s" % "; ".join("%s@%s" % b for b in bad))
+
+
+def find_work_superset_conflicts(extra_titles=None):
+    """D58：只找"书名 + 少量尾缀"的同一书嫌疑（如《政府论》vs《政府论》两篇）。
+    精确规则：较长者 = 较短者 + 尾缀，尾缀属于已知可加项（两篇/和基础/第一卷/上卷…）或“和/与/及+X”。
+    含有“·”的篇目（如《荀子·劝学》）不参与比较，避免与书名批次混淆。"""
+    import json as _j, re as _re
+    SUF = ("两篇", "三篇", "和基础", "第一卷", "第二卷", "上卷", "下卷", "上", "下", "全译本", "节译本")
+
+    def core(t):
+        t = _re.sub(r"[（(][^）)]*[）)]", "", str(t))
+        t = _re.sub(r"[《》〈〉\s]", "", t)
+        return t
+
+    titles = []
+    try:
+        for w in _j.load(open('data/works.json', encoding='utf-8'))['works']:
+            for k in ('title', 'title_original'):
+                v = w.get(k)
+                if v and '·' not in str(v):
+                    titles.append((core(v), w.get('id')))
+    except Exception:
+        pass
+    for t in (extra_titles or []):
+        if '·' not in str(t):
+            titles.append((core(t), '<new>'))
+
+    try:
+        _wl = set(tuple(sorted(p)) for p in _j.load(open('data/superset_whitelist.json', encoding='utf-8'))['pairs'])
+    except Exception:
+        _wl = set()
+
+    out, seen = [], set()
+    for i in range(len(titles)):
+        for j in range(i + 1, len(titles)):
+            a, b = titles[i][0], titles[j][0]
+            if not a or not b or a == b:
+                continue
+            sh, lo = (a, b) if len(a) <= len(b) else (b, a)
+            if not lo.startswith(sh):
+                continue
+            suf = lo[len(sh):]
+            ok = (suf in SUF) or bool(_re.match(r'^(和|与|及).{1,3}$', suf))
+            if not ok:
+                continue
+            key = (sh, lo)
+            if key in seen or key in _wl:
+                continue
+            seen.add(key)
+            out.append((sh, lo, len(suf)))
+    return out
+
+
+def require_work_superset_clean(extra_titles=None):
+    """与 find_work_superset_conflicts 同源；预检用打印（不阻断），需要阻断时调用此函数的返回自行判断。"""
+    bad = find_work_superset_conflicts(extra_titles)
+    if bad:
+        print('  [D58 提示] 疑似超集标题（请人工确认是否为同一书）：' +
+              '；'.join('%s ⊂ %s(+%d)' % b for b in bad))
+    return bad

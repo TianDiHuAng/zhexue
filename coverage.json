@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1353,
+  "entries": 1357,
   "by_level": {
    "L2": 781,
-   "L1": 572
+   "L1": 576
   },
   "doctrine": {
    "total": 272,
    "detail": 272,
    "auto": 0
   },
-  "needs_verification": 572,
+  "needs_verification": 576,
   "sources": 413,
   "sources_verified": 413
  },
@@ -10010,6 +10010,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-fangyan",
+   "type": "work",
+   "title": "《方言》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-xinlun",
    "type": "work",
    "title": "《新论》",
@@ -10167,6 +10178,17 @@
    "id": "work-lihuo-lun",
    "type": "work",
    "title": "《理惑论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-shiming",
+   "type": "work",
+   "title": "《释名》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -12202,6 +12224,17 @@
    "id": "work-du-tongjian-lun",
    "type": "work",
    "title": "《读通鉴论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-emeng",
+   "type": "work",
+   "title": "《噩梦》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -14556,6 +14589,17 @@
    "id": "cmp-ceyin",
    "type": "comparative",
    "title": "同情与“恻隐之心”：两种“感”的道德力量",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shengxun",
+   "type": "comparative",
+   "title": "声训与“约定”：名与实之间，是声音还是约定？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
