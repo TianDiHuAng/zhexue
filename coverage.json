@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1761,
+  "entries": 1764,
   "by_level": {
    "L2": 779,
-   "L1": 982
+   "L1": 985
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 982,
+  "needs_verification": 985,
   "sources": 423,
   "sources_verified": 423
  },
@@ -10098,6 +10098,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-cynic-fragments",
+   "type": "work",
+   "title": "《犬儒派残篇》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-de-sensu",
    "type": "work",
    "title": "《论感觉》",
@@ -10630,6 +10641,17 @@
    "type": "work",
    "title": "《吕氏春秋》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-chrysippus-fragments",
+   "type": "work",
+   "title": "《克律西波残篇》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -19044,6 +19066,17 @@
    "id": "cmp-zhushu",
    "type": "comparative",
    "title": "“注疏”与“诠释学循环”：解释能离开文本吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-quanru",
+   "type": "comparative",
+   "title": "“废习俗”与“越名教而任自然”：反礼法能走多远？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

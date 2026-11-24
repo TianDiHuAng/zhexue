@@ -2679,6 +2679,63 @@
    "sort_year": -350
   },
   {
+   "id": "work-cynic-fragments",
+   "title": "《犬儒派残篇》",
+   "title_original": "Cynicorum fragmenta（辑本）",
+   "tradition": "west",
+   "date_display": "前4—前3世纪（安提斯泰尼、第欧根尼等；今存辑本）",
+   "structure": "辑本（今依 SSR 与诸种选本）：录安提斯泰尼、第欧根尼、克拉特斯诸人的言行与残篇。",
+   "core_arguments": [
+    "“**依自然而活**”的极端化：废去习俗（nomos），只留自然（physis）",
+    "以“**自足**”（autarkeia）与“**无畏**”（anaideia）为德",
+    "以言行（而非体系）为教：故其“哲学”多为行事的示范"
+   ],
+   "key_points": [
+    {
+     "locator": "安提斯泰尼",
+     "point": "自足与德"
+    },
+    {
+     "locator": "第欧根尼",
+     "point": "废习俗与无畏"
+    },
+    {
+     "locator": "克拉特斯",
+     "point": "弃财与行道"
+    },
+    {
+     "locator": "辑本",
+     "point": "言行录式的材料"
+    }
+   ],
+   "editions": [
+    "辑本（Giannantoni, Socratis et Socraticorum Reliquiae, 卷二）；英译见 The Cynics Reader；中译少见"
+   ],
+   "related_people": [
+    "gr-ancient-diogenes-sinope",
+    "gr-hellenistic-zeno",
+    "gr-ancient-socrates"
+   ],
+   "misreadings": [
+    {
+     "claim": "犬儒是“不要道德”",
+     "why": "其废的是**习俗**（nomos），而立的是**自然与德**（故有自足与无畏），故其为极端的道德主义，非无道德。"
+    },
+    {
+     "claim": "其言行不是哲学",
+     "why": "其以言行为教（哲学即生活方式），故其为**实践哲学**的一种形态，非“非哲学”。"
+    }
+   ],
+   "sources": [
+    "iep-cynics",
+    "iep-diogenes",
+    "sep-stoicism"
+   ],
+   "needs_verification": true,
+   "pending_notes": "犬儒派著作皆佚，今据辑本（Giannantoni, SSR 卷二）与《名哲言行录》卷六；所据为**转述与轶事**，须标出这一限制，不可径作原文。",
+   "sort_year": -350
+  },
+  {
    "id": "work-de-sensu",
    "title": "《论感觉》",
    "title_original": "Περὶ αἰσθήσεως καὶ αἰσθητῶν（De sensu et sensibilibus）",
@@ -5469,6 +5526,63 @@
    "needs_verification": true,
    "pending_notes": "《吕氏春秋》的篇数（通行160篇，含《序意》）与结构（十二纪、八览、六论）各本略有出入；本页依陈奇猷校释本概述。",
    "sort_year": -239
+  },
+  {
+   "id": "work-chrysippus-fragments",
+   "title": "《克律西波残篇》",
+   "title_original": "Chrysippi fragmenta（辑本）",
+   "tradition": "west",
+   "date_display": "前3世纪（克律西波；今存辑本）",
+   "structure": "辑本（Von Arnim《斯多亚派残篇》SVF 卷二—三为主）：依逻辑、物理、伦理三类编次。",
+   "core_arguments": [
+    "逻辑：以“**命题逻辑**”的系统化著称（近于今日的语句逻辑）",
+    "物理：以“**普纽玛**”（pneuma）说宇宙的贯通与命运",
+    "伦理：以“**依自然而活**”为纲，并系统化“**中期**”与“**清**”的价值区分"
+   ],
+   "key_points": [
+    {
+     "locator": "逻辑部分",
+     "point": "命题逻辑的系统化"
+    },
+    {
+     "locator": "物理部分",
+     "point": "普纽玛与命运"
+    },
+    {
+     "locator": "伦理部分",
+     "point": "依自然而活"
+    },
+    {
+     "locator": "辑本",
+     "point": "SVF 的编次"
+    }
+   ],
+   "editions": [
+    "辑本（Von Arnim, Stoicorum Veterum Fragmenta, 卷二—三）；英译选本见 The Stoics Reader；中译少见"
+   ],
+   "related_people": [
+    "gr-hellenistic-chrysippus",
+    "gr-hellenistic-epictetus",
+    "gr-hellenistic-seneca"
+   ],
+   "misreadings": [
+    {
+     "claim": "其思想可与其残篇等量",
+     "why": "其著作**皆佚**，今所据为辑本（后人引述）；故其为“由转述重构的思想”，须标出这一限制。"
+    },
+    {
+     "claim": "其“命运”是宿命论",
+     "why": "其“命运”与**人的赞同**（synkatathesis）并存（故责任在人），故其为相容论式的决定论，非消极宿命。"
+    }
+   ],
+   "sources": [
+    "iep-chrysippus",
+    "sep-stoicism",
+    "iep-stoicism"
+   ],
+   "needs_verification": true,
+   "pending_notes": "克律西波著作皆佚，今据 Von Arnim《斯多亚派残篇》辑本（SVF 卷二—三）；“普纽玛”“命运”“赞同”诸语的原文与辑本编号须核，且须标明其为**转述重构**。",
+   "sort_year": -230
   },
   {
    "id": "work-yueji",

@@ -3397,5 +3397,16 @@
   "needs_verification": 982,
   "sources": 423,
   "sources_verified": 423
+ },
+ {
+  "date": "2026-11-24",
+  "entries": 1764,
+  "by_level": {
+   "L2": 779,
+   "L1": 985
+  },
+  "needs_verification": 985,
+  "sources": 423,
+  "sources_verified": 423
  }
 ]
