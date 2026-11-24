@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1725,
+  "entries": 1729,
   "by_level": {
    "L2": 779,
-   "L1": 946
+   "L1": 950
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 946,
+  "needs_verification": 950,
   "sources": 423,
   "sources_verified": 423
  },
@@ -15895,6 +15895,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-zeitbewusstsein",
+   "type": "work",
+   "title": "《内时间意识现象学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-pragmatism-james",
    "type": "work",
    "title": "《实用主义》",
@@ -16151,6 +16162,28 @@
    "id": "work-language-truth-logic",
    "type": "work",
    "title": "《语言、真理与逻辑》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-krisis-husserl",
+   "type": "work",
+   "title": "《欧洲科学的危机与超越论的现象学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-beitraege-heidegger",
+   "type": "work",
+   "title": "《哲学献文》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -18648,6 +18681,17 @@
    "id": "cmp-shiren",
    "type": "comparative",
    "title": "“适应世界”与“修身以应世”：理性化的两个方向",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shengming",
+   "type": "comparative",
+   "title": "“生活世界”与“日用即道”：意义的地基在哪里？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

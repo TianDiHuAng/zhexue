@@ -32592,6 +32592,63 @@
    "sort_year": 1905
   },
   {
+   "id": "work-zeitbewusstsein",
+   "title": "《内时间意识现象学》",
+   "title_original": "Vorlesungen zur Phänomenologie des inneren Zeitbewusstseins",
+   "tradition": "west",
+   "date_display": "1905 讲演（1928 刊，海德格尔编；胡塞尔）",
+   "structure": "一部（含编者的导论与诸附录）：以“时间意识”的三重结构为纲。",
+   "core_arguments": [
+    "时间意识由“**原印象—滞留—前摄**”（retention-protention）三重结构而成",
+    "“**滞留**”不是回忆：它使刚过去者仍“持留”于当下",
+    "故内在时间的流动由意识的**构成**而成，非由外在的钟表度量"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "原印象与滞留"
+    },
+    {
+     "locator": "第二章",
+     "point": "前摄与期待"
+    },
+    {
+     "locator": "论再造",
+     "point": "回忆与想象"
+    },
+    {
+     "locator": "附录",
+     "point": "时间与主体的构成"
+    }
+   ],
+   "editions": [
+    "德文（Husserliana X）；英译（On the Phenomenology of the Consciousness of Internal Time, Kluwer）；中译参《内时间意识现象学》（倪梁康译）"
+   ],
+   "related_people": [
+    "gr-20c-husserl",
+    "gr-20c-heidegger",
+    "gr-20c-merleau-ponty"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“滞留”是记忆",
+     "why": "其“滞留”是**当下的持留**（刚过去者仍在场，非再现），与回忆（再造）有别；故其为构成的分析，非记忆心理学。"
+    },
+    {
+     "claim": "其“时间”是主观的错觉",
+     "why": "其论旨是**内在时间的构成**（时间意识如何可能），故其说不否认客观时间，而是追问其现象学的根据。"
+    }
+   ],
+   "sources": [
+    "sep-husserl",
+    "sep-heidegger",
+    "sep-merleau-ponty"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《内时间意识现象学》的讲演（1905）与 1928 年刊行（海德格尔编）须核 Husserliana X 与倪梁康译本；“滞留／前摄”的原文亦须核。",
+   "sort_year": 1905
+  },
+  {
    "id": "work-pragmatism-james",
    "title": "《实用主义》",
    "title_original": "Pragmatism: A New Name for Some Old Ways of Thinking",
@@ -33958,6 +34015,120 @@
    ],
    "needs_verification": true,
    "pending_notes": "《语言、真理与逻辑》的八章与 1946 年第二版导言须核 Gollancz 版与尹大贻译本；证实原则的强／弱之别亦须核。",
+   "sort_year": 1936
+  },
+  {
+   "id": "work-krisis-husserl",
+   "title": "《欧洲科学的危机与超越论的现象学》",
+   "title_original": "Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie",
+   "tradition": "west",
+   "date_display": "1936（胡塞尔；遗稿 1954 全集本）",
+   "structure": "一部（含〈危机〉诸篇与附录）：论科学的危机、生活世界与现象学的任务。",
+   "core_arguments": [
+    "科学的危机是**意义的危机**：它以数学化的自然遗忘了“**生活世界**”",
+    "“**生活世界**”（Lebenswelt）是一切科学的意义基础（前科学的直观世界）",
+    "故须以超越论的现象学重建理性的自我理解"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "科学的危机"
+    },
+    {
+     "locator": "第二部",
+     "point": "生活世界与几何的起源"
+    },
+    {
+     "locator": "第三部",
+     "point": "超越论的现象学"
+    },
+    {
+     "locator": "附录",
+     "point": "欧洲人的危机"
+    }
+   ],
+   "editions": [
+    "德文（Husserliana VI）；英译（The Crisis of European Sciences, Northwestern）；中译参《欧洲科学的危机与超越论的现象学》（王炳文译）"
+   ],
+   "related_people": [
+    "gr-20c-husserl",
+    "gr-20c-heidegger",
+    "gr-20c-merleau-ponty"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“反科学”的",
+     "why": "其旨是**科学的自我理解**（科学以生活世界为意义基础），故其为奠基的追问，非反科学。"
+    },
+    {
+     "claim": "其“生活世界”是“日常意见”",
+     "why": "其“生活世界”是**前科学的直观世界**（一切意义的土壤），非“意见”的贬称。"
+    }
+   ],
+   "sources": [
+    "sep-husserl",
+    "sep-merleau-ponty",
+    "sep-heidegger"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《危机》的成书（1936）与 1954 年全集本（Husserliana VI）须核王炳文译本；“生活世界”的原文亦须核。",
+   "sort_year": 1936
+  },
+  {
+   "id": "work-beitraege-heidegger",
+   "title": "《哲学献文》",
+   "title_original": "Beiträge zur Philosophie (Vom Ereignis)",
+   "tradition": "west",
+   "date_display": "1936—1938 成稿（1989 刊；海德格尔）",
+   "structure": "一部（凡八部“接合”〔Fügungen〕）：以“**本有**”（Ereignis）为纲，论存有的历史。",
+   "core_arguments": [
+    "以“**本有**”（Ereignis）取代“存在”的形而上学语言",
+    "“**存有的历史**”（Seynsgeschichte）以诸“关节”分期（存有之离弃等）",
+    "以“**最后之神**”（der letzte Gott）为思的极限概念"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "本有"
+    },
+    {
+     "locator": "第五部",
+     "point": "存有的历史"
+    },
+    {
+     "locator": "第七部",
+     "point": "最后之神"
+    },
+    {
+     "locator": "全书",
+     "point": "以接合为体例"
+    }
+   ],
+   "editions": [
+    "德文（Gesamtausgabe 65）；英译（Contributions to Philosophy, Indiana）；中译参《哲学献文》（版次待核）"
+   ],
+   "related_people": [
+    "gr-20c-heidegger",
+    "gr-20c-husserl",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“神秘主义的呓语”",
+     "why": "其书有严整的体例（八部接合）与术语系统（本有、离弃、最后之神）；故其为体系性的著作，非无序之作。"
+    },
+    {
+     "claim": "其“最后之神”是基督教的神",
+     "why": "其“神”是**思的极限概念**（与存有历史相关），海德格尔明确与基督教的上帝相区别；故须分辨。"
+    }
+   ],
+   "sources": [
+    "sep-heidegger",
+    "sep-husserl",
+    "sep-derrida"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《哲学献文》的成稿（1936—1938）与 1989 年 GA 65 刊行须核；“本有”“最后之神”的原文与译法亦须核。",
    "sort_year": 1936
   },
   {
