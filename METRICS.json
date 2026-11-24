@@ -1978,5 +1978,16 @@
   "needs_verification": 439,
   "sources": 409,
   "sources_verified": 409
+ },
+ {
+  "date": "2026-11-24",
+  "entries": 1236,
+  "by_level": {
+   "L2": 792,
+   "L1": 444
+  },
+  "needs_verification": 444,
+  "sources": 409,
+  "sources_verified": 409
  }
 ]

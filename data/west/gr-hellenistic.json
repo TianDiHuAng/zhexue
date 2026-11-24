@@ -3004,6 +3004,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“四药”的原文出处（据斐洛德摩斯《残篇》与后世转述）与其确切措辞须核；本页取通行表述。"
+  },
+  {
+   "id": "gr-hellenistic-prohairesis",
+   "term": "抉择（prohairesis）",
+   "term_latin": "prohairesis",
+   "definition": "爱比克泰德的核心概念：**取决于我们**的只有“抉择”（对印象的取舍与判断），其余（身体、财产、名声）皆不取决于我们。故自由不在于改变外物，而在于把“我的”限定在抉择之内。",
+   "usages": [
+    {
+     "name": "爱比克泰德",
+     "id": "gr-hellenistic-epictetus",
+     "usage": "以“二分法”（取决于我们／不取决于我们）为全部工夫的起点。"
+    },
+    {
+     "name": "马可·奥勒留（其承）",
+     "id": "gr-hellenistic-marcus-aurelius",
+     "usage": "以“内在的堡垒”说承其义；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "亚里士多德（其源）",
+     "usage": "prohairesis 原指“经过考虑的欲求”，爱比克泰德将其窄化为“判断的取舍”。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-apatheia",
+    "gr-hellenistic-askesis"
+   ],
+   "example": {
+    "text": "“抉择”的精妙在于它把自由**缩小**了：正因把“我的”缩到只剩判断，人才在一切处境中都不失自由。这一“缩小”是治疗性的（治失望与恐惧），也是政治性的（使人在暴政下仍有内在的退路）——故其代价是：它几乎放弃了改变外物的努力。",
+    "figure": "爱比克泰德",
+    "locator": "《手册》第1章"
+   },
+   "sources": [
+    "sep-stoicism",
+    "sep-aristotle",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“抉择”（prohairesis）在亚里士多德与爱比克泰德处的含义不同（前者为“经过考虑的欲求”，后者为“对印象的取舍”）；本页并述二者，具体文本须核。"
   }
  ],
  "debates": [

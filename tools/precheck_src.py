@@ -159,3 +159,28 @@ if __name__ == "__main__":
         sys.exit(1)
     n = len(load_ids())
     print("OK  全部存在（库内共 %d 条来源）" % n)
+
+
+def require_work_id_new(ids):
+    """D51：id 唯一性单独核对（标题查重不保证 id 唯一）。"""
+    import json, glob as _g
+    have = set()
+    for f in _g.glob('data/*/*.json'):
+        d = json.load(open(f, encoding='utf-8'))
+        if isinstance(d, dict) and 'philosophers' in d:
+            for k in ('philosophers', 'concepts', 'debates'):
+                for x in d.get(k, []) or []:
+                    if isinstance(x, dict) and x.get('id'):
+                        have.add(x['id'])
+    for f in ('data/works.json', 'data/schools.json', 'data/comparative.json'):
+        try:
+            d = json.load(open(f, encoding='utf-8'))
+        except Exception:
+            continue
+        for k in ('works', 'schools', 'essays'):
+            for x in d.get(k, []) or []:
+                if isinstance(x, dict) and x.get('id'):
+                    have.add(x['id'])
+    bad = [i for i in ids if i in have]
+    if bad:
+        raise AssertionError("id 已被占用（D51）：%s" % ", ".join(bad))

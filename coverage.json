@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1231,
+  "entries": 1236,
   "by_level": {
    "L2": 792,
-   "L1": 439
+   "L1": 444
   },
   "doctrine": {
    "total": 264,
    "detail": 264,
    "auto": 0
   },
-  "needs_verification": 439,
+  "needs_verification": 444,
   "sources": 409,
   "sources_verified": 409
  },
@@ -129,7 +129,7 @@
    "title": "希腊化与罗马哲学",
    "region": "west",
    "philosophers": 15,
-   "concepts": 21,
+   "concepts": 22,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -6853,6 +6853,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-hellenistic-prohairesis",
+   "type": "concept",
+   "title": "抉择（prohairesis）",
+   "container": "gr-hellenistic",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-hellenistic-knowledge",
    "type": "debate",
    "title": "知识是否可能：学园派与斯多亚派",
@@ -10901,6 +10912,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-discorsi",
+   "type": "work",
+   "title": "《论李维》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-kunzhi-ji",
    "type": "work",
    "title": "《困知记》",
@@ -10909,6 +10931,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-arte-della-guerra",
+   "type": "work",
+   "title": "《战争的艺术》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -11063,6 +11096,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-new-atlantis",
+   "type": "work",
+   "title": "《新大西岛》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13214,6 +13258,17 @@
    "id": "cmp-shu",
    "type": "comparative",
    "title": "“术”与“修辞”：鬼谷子的捭阖与亚里士多德的劝说",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-buhe",
+   "type": "comparative",
+   "title": "“不和”与“无分则争”：马基雅维利与荀子论冲突",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

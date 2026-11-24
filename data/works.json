@@ -13164,6 +13164,63 @@
    "sort_year": 1516
   },
   {
+   "id": "work-discorsi",
+   "title": "《论李维》",
+   "title_original": "Discorsi sopra la prima deca di Tito Livio",
+   "tradition": "west",
+   "date_display": "约1517年成稿（马基雅维利）；1531年刊",
+   "structure": "三卷：第一卷论罗马内部的制度与冲突；第二卷论罗马的扩张与命运；第三卷论个人的功业与共和的维持。",
+   "core_arguments": [
+    "共和的活力来自**冲突**（平民与贵族的“不和”反而立法）",
+    "宗教与制度是维持共和的工具（“宗教是国家的基础”）",
+    "“返回开端”（ritorno ai principi）是共和更新的机制"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "冲突与立法"
+    },
+    {
+     "locator": "卷一",
+     "point": "宗教与制度"
+    },
+    {
+     "locator": "卷二",
+     "point": "扩张与命运"
+    },
+    {
+     "locator": "卷三",
+     "point": "返回开端"
+    }
+   ],
+   "editions": [
+    "意大利文（Opere, Barbera）；英译（Discourses on Livy, Cambridge）；中译参《论李维》（冯克利译，上海人民出版社）"
+   ],
+   "related_people": [
+    "gr-modern-machiavelli",
+    "gr-ancient-aristotle",
+    "gr-modern-hobbes"
+   ],
+   "misreadings": [
+    {
+     "claim": "《论李维》与《君主论》互相矛盾",
+     "why": "二者对象不同：《君主论》论**新君主建国**，《论李维》论**共和的维持**；马基雅维利的立场是“在非常时刻须有非常手段”，故二者可并存（学界对此有长期争论）。"
+    },
+    {
+     "claim": "他主张“为达目的不择手段”",
+     "why": "其论点是**手段须合于处境**（“命运”与“德性”的配合）；他确实允许在建国时使用非常手段，但这不等于无限制的“不择手段”。"
+    }
+   ],
+   "sources": [
+    "sep-machiavelli",
+    "sep-aristotle",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论李维》的成稿年代（约1517）与刊行（1531）须核；其与《君主论》的关系（是否矛盾）是学界长期争论，本页并述两说。",
+   "sort_year": 1517
+  },
+  {
    "id": "work-kunzhi-ji",
    "title": "《困知记》",
    "title_original": "困知記",
@@ -13219,6 +13276,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1520
+  },
+  {
+   "id": "work-arte-della-guerra",
+   "title": "《战争的艺术》",
+   "title_original": "Dell'arte della guerra",
+   "tradition": "west",
+   "date_display": "1521年（马基雅维利）",
+   "structure": "七卷对话：论征兵、编制、行军、扎营、攻城与防御；以罗马的军制为范本。",
+   "core_arguments": [
+    "以**公民兵**（民兵）取代雇佣军：雇佣军不可靠且危险",
+    "军制与政制相关：好的军队须有好的制度",
+    "恢复罗马的操练与编制，是“返回开端”的具体做法"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "征兵与雇佣军之弊"
+    },
+    {
+     "locator": "卷二—三",
+     "point": "编制与操练"
+    },
+    {
+     "locator": "卷四—五",
+     "point": "行军与扎营"
+    },
+    {
+     "locator": "卷六—七",
+     "point": "攻城与防御"
+    }
+   ],
+   "editions": [
+    "意大利文（Opere）；英译（The Art of War, Chicago）；中译参（若有）"
+   ],
+   "related_people": [
+    "gr-modern-machiavelli",
+    "gr-ancient-aristotle",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“兵法技术手册”",
+     "why": "其论点是**政治的**：军制（公民兵）与政制（共和）互为条件；故它是共和理论的一部分，不只是战术。"
+    },
+    {
+     "claim": "它主张恢复罗马军制即可强兵",
+     "why": "其“返回开端”须配合**德性**与制度；他明白时代已变（火器已行），故其“恢复”是**原则**的恢复，不是形式的复刻。"
+    }
+   ],
+   "sources": [
+    "sep-machiavelli",
+    "sep-plato",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《战争的艺术》七卷的编排与 1521 年初版须核；其“公民兵”主张与当时意大利的雇佣军实况须结合史事理解。",
+   "sort_year": 1521
   },
   {
    "id": "work-daxuewen",
@@ -14015,6 +14129,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1620
+  },
+  {
+   "id": "work-new-atlantis",
+   "title": "《新大西岛》",
+   "title_original": "New Atlantis",
+   "tradition": "west",
+   "date_display": "1626年（培根，未完成，遗著刊行）",
+   "structure": "一篇未完成的乌托邦叙事：航海者漂流至“本色兰岛”（Bensalem），记述其制度与“所罗门之宫”（Salomon's House）。",
+   "core_arguments": [
+    "“所罗门之宫”是**研究机构**：以实验与分工研究自然，以知识增进人类的“能力与尊严”",
+    "知识的目的是“果实”（功业），不是思辨的满足",
+    "乌托邦的秩序以**科学**为轴，而非以道德或宗教为轴"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "漂流与本色兰"
+    },
+    {
+     "locator": "中段",
+     "point": "岛的制度与风俗"
+    },
+    {
+     "locator": "后段",
+     "point": "所罗门之宫的分工"
+    },
+    {
+     "locator": "末段",
+     "point": "未完成与遗著性质"
+    }
+   ],
+   "editions": [
+    "英文（Oxford Bacon 卷三）；中译参《新大西岛》（何新译，商务印书馆）"
+   ],
+   "related_people": [
+    "gr-modern-bacon",
+    "gr-modern-descartes",
+    "gr-modern-hobbes"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“科学乌托邦”的乐观宣言",
+     "why": "其叙事含**权力**的维度：所罗门之宫的成员对外保密（“我们中有些人被派出去……而我们不让他们知道我们的身份”）；故它同时是科学组织的**政治**构想。"
+    },
+    {
+     "claim": "它是完整的著作",
+     "why": "它是**未完成**的遗稿（1626 年刊）；其叙事在“所罗门之宫”的描述处中断。"
+    }
+   ],
+   "sources": [
+    "sep-descartes",
+    "sep-hobbes",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《新大西岛》为未完成遗著（1626）；本页依 Oxford 版与近代哲学研究概述，其所罗门之宫的制度细节须核原文；SEP 无专条，故按语境性引用处理。",
+   "sort_year": 1626
   },
   {
    "id": "work-asfar",
