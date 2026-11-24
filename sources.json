@@ -9645,6 +9645,29 @@
     "keyword_seen": true
    },
    "n": 420
+  },
+  {
+   "id": "sep-fichte",
+   "title": "Johann Gottlieb Fichte（SEP 词条）",
+   "author": "Breazeale, Daniel",
+   "year": 2001,
+   "year_note": "首版 2001-08-30；实质修订 2022-02-18（见页面）",
+   "publisher": "Stanford Encyclopedia of Philosophy（斯坦福大学）",
+   "type": "百科",
+   "url": "https://plato.stanford.edu/entries/johann-fichte/",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "费希特专条：论《知识学》（Wissenschaftslehre）的计划与耶拿时期体系（法权、伦理、宗教），以及无神论之争、后期知识学的版本问题",
+   "unit_hint": "gr-german",
+   "verify": {
+    "method": "http-page+citation_meta",
+    "http_status": 200,
+    "checked_at": "2026-11-24",
+    "keyword": "First published Thu Aug 30, 2001",
+    "keyword_seen": true
+   },
+   "n": 421
   }
  ]
 }

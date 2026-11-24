@@ -27323,6 +27323,63 @@
    "sort_year": 1793
   },
   {
+   "id": "work-grundlage-wissenschaftslehre",
+   "title": "《全部知识学的基础》",
+   "title_original": "Grundlage der gesamten Wissenschaftslehre",
+   "tradition": "west",
+   "date_display": "1794—1795（费希特）",
+   "structure": "三部（§1—§11）：以“**自我**”的三条基本原理为纲，推演理论理性与实践理性。",
+   "core_arguments": [
+    "第一原理：“**自我**设定自身”（正题）",
+    "第二原理：“自我设定非我”（反题）",
+    "第三原理：“自我在自身中设定一个可分的非我与一个可分的自我相对立”（合题）"
+   ],
+   "key_points": [
+    {
+     "locator": "§1",
+     "point": "自我设定自身"
+    },
+    {
+     "locator": "§2",
+     "point": "自我设定非我"
+    },
+    {
+     "locator": "§3",
+     "point": "可分的自我与非我"
+    },
+    {
+     "locator": "§4—§11",
+     "point": "理论与实践的推演"
+    }
+   ],
+   "editions": [
+    "德文（Gesamtausgabe I/2）；英译（Foundation of the Entire Wissenschaftslehre, Oxford 2021）；中译参《全部知识学的基础》（王玖兴译）"
+   ],
+   "related_people": [
+    "gr-german-fichte",
+    "gr-german-kant",
+    "gr-german-schelling"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“自我”是个人心理的自我",
+     "why": "其“自我”是**先验的（纯粹的）我**（一切意识的条件），非经验的个人；故其为知识学的原理，非心理学的主张。"
+    },
+    {
+     "claim": "其三条原理是形式逻辑的推演",
+     "why": "其原理是**行动（Tathandlung）**的自我设定，故其逻辑形式以“自我活动”为根；故其为“发生学的”推演，非形式推演。"
+    }
+   ],
+   "sources": [
+    "sep-fichte",
+    "sep-kant",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《全部知识学的基础》三部与 1794／1795 分册刊行须核 Gesamtausgabe I/2 与王玖兴译本；“自我设定非我”诸原理的原文亦须核。",
+   "sort_year": 1794
+  },
+  {
    "id": "work-aesthetic-letters",
    "title": "《美育书简》",
    "title_original": "Über die ästhetische Erziehung des Menschen",
@@ -27604,6 +27661,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《广雅疏证》的卷数与成书（1796）须核中华书局影印本；“因声求义”的表述与其与段玉裁“同声必同部”的关系亦须分辨。",
+   "sort_year": 1796
+  },
+  {
+   "id": "work-grundlage-naturrechts",
+   "title": "《自然法基础》",
+   "title_original": "Grundlage des Naturrechts nach Principien der Wissenschaftslehre",
+   "tradition": "west",
+   "date_display": "1796—1797（费希特）",
+   "structure": "两部：论法权概念与法权的推演、论国际法与政治法（含“封闭的商业国家”之雏形）。",
+   "core_arguments": [
+    "法权以“**自由的相互承认**”为根据：我的自由须以他人的自由为限",
+    "身体是自由的**领域**：故有对其不可侵犯的要求",
+    "以“**监察者**”（Ephorat）制衡国家权力（其制度设计之特色）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "法权概念的推演"
+    },
+    {
+     "locator": "论身体",
+     "point": "自由的领域"
+    },
+    {
+     "locator": "论国家",
+     "point": "监察者与契约"
+    },
+    {
+     "locator": "第二部",
+     "point": "国际法与政治法"
+    }
+   ],
+   "editions": [
+    "德文（Gesamtausgabe I/3—4）；英译（Foundations of Natural Right, Cambridge）；中译少见"
+   ],
+   "related_people": [
+    "gr-german-fichte",
+    "gr-modern-hobbes",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "其法权论是“契约论的老路”",
+     "why": "其根据是**相互承认**（主体间的），而非单纯的契约与让渡；故其为承认理论的先声，与霍布斯式的让渡论有别。"
+    },
+    {
+     "claim": "其“监察者”是民主的机构",
+     "why": "“监察者”是一个**制衡权力的特别机构**（可中止行政），其构想带有精英与威权的色彩；故须如实标出，不美化。"
+    }
+   ],
+   "sources": [
+    "sep-fichte",
+    "sep-hobbes",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《自然法基础》两部与 1796／1797 分卷须核 Gesamtausgabe I/3—4 与剑桥英译本；“监察者”（Ephorat）的制度设计须如实标出其威权色彩。",
    "sort_year": 1796
   },
   {
@@ -28115,6 +28229,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《先验唯心论体系》六部分的结构与 1800 年初版须核 Meiner 版与梁志学译本；“自然是可见的精神”“艺术为顶石”的原文亦须核。",
+   "sort_year": 1800
+  },
+  {
+   "id": "work-bestimmung-menschen",
+   "title": "《人的使命》",
+   "title_original": "Die Bestimmung des Menschen",
+   "tradition": "west",
+   "date_display": "1800（费希特）",
+   "structure": "三部：〈怀疑〉（必然性的世界）、〈知识〉（物由我立）、〈信仰〉（道德的秩序），以思想的历程行文。",
+   "core_arguments": [
+    "〈怀疑〉：以机械的因果说明世界，则一切皆必然，自由成幻",
+    "〈知识〉：知识学表明“物”只是意识的产品，故必然性的世界亦由我所立",
+    "〈信仰〉：由实践的信念肯定“道德的世界秩序”与自由"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "怀疑：必然性的世界"
+    },
+    {
+     "locator": "第二部",
+     "point": "知识：物由我立"
+    },
+    {
+     "locator": "第三部",
+     "point": "信仰：道德的秩序"
+    },
+    {
+     "locator": "全书",
+     "point": "以三部行思想的历程"
+    }
+   ],
+   "editions": [
+    "德文（Gesamtausgabe I/6）；英译（The Vocation of Man, Hackett）；中译参《人的使命》（梁志学译）"
+   ],
+   "related_people": [
+    "gr-german-fichte",
+    "gr-german-kant",
+    "gr-german-jacobi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“信仰”是宗教的皈依",
+     "why": "其“信仰”是**实践的信念**（道德世界秩序的可信），并与哲学的知识相区分；故其为哲学的立场，非宗教的皈依。"
+    },
+    {
+     "claim": "其三部是“思想的进步”",
+     "why": "三部是**同一问题的三种立场**（怀疑、知识、信仰），其推进是辩证的；故不可读作自传式的进步。"
+    }
+   ],
+   "sources": [
+    "sep-fichte",
+    "sep-kant",
+    "sep-schelling"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《人的使命》三部与 1800 年初版须核 Gesamtausgabe I/6 与梁志学译本；“道德的世界秩序”一语的原文亦须核。",
    "sort_year": 1800
   },
   {

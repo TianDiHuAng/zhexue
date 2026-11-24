@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1680,
+  "entries": 1684,
   "by_level": {
    "L2": 779,
-   "L1": 901
+   "L1": 905
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 901,
-  "sources": 420,
-  "sources_verified": 420
+  "needs_verification": 905,
+  "sources": 421,
+  "sources_verified": 421
  },
  "units": [
   {
@@ -14872,6 +14872,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-grundlage-wissenschaftslehre",
+   "type": "work",
+   "title": "《全部知识学的基础》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-aesthetic-letters",
    "type": "work",
    "title": "《美育书简》",
@@ -14920,6 +14931,17 @@
    "type": "work",
    "title": "《广雅疏证》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-grundlage-naturrechts",
+   "type": "work",
+   "title": "《自然法基础》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -15018,6 +15040,17 @@
    "id": "work-system-transzendentalen",
    "type": "work",
    "title": "《先验唯心论体系》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-bestimmung-menschen",
+   "type": "work",
+   "title": "《人的使命》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -18153,6 +18186,17 @@
    "id": "cmp-shenmei",
    "type": "comparative",
    "title": "“审美直观”与“得意忘言”：真理可以由美感得到吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-ziwo",
+   "type": "comparative",
+   "title": "“自我设定非我”与“心外无理”：世界是由我立起来的吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
