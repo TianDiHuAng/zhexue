@@ -454,6 +454,63 @@
    "sort_year": -399
   },
   {
+   "id": "work-euthyphron",
+   "title": "《欧绪弗洛》",
+   "title_original": "Εὐθύφρων（Euthyphro）",
+   "tradition": "west",
+   "date_display": "约前399年后（柏拉图）",
+   "structure": "对话一篇（通行 2a—16a）：苏格拉底受审前与欧绪弗洛论“虔敬是什么”。",
+   "core_arguments": [
+    "虔敬是“神所爱者”还是“因其虔敬而为神所爱”？",
+    "若虔敬因神喜而然，则虔敬随神意而变，无定；若神喜因其虔敬，则虔敬自有其标准",
+    "终局不定：诸定义皆败，对话以“改日再谈”终"
+   ],
+   "key_points": [
+    {
+     "locator": "2a—5d",
+     "point": "苏格拉底的处境"
+    },
+    {
+     "locator": "5d—11b",
+     "point": "虔敬的定义"
+    },
+    {
+     "locator": "11b—14c",
+     "point": "神喜与虔敬之辨"
+    },
+    {
+     "locator": "14c—16a",
+     "point": "不定之终"
+    }
+   ],
+   "editions": [
+    "牛津古典文本（OCT）；英译参 Cooper《Complete Works》；中译参《柏拉图对话集》（王太庆）"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-socrates",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "它给出了“虔敬”的定义",
+     "why": "其对话**以失败告终**（诸定义皆被驳），故其意在“难题”（aporia），非定义；后世称之为“欧绪弗洛难题”。"
+    },
+    {
+     "claim": "其“难题”只关宗教",
+     "why": "其结构是“X 是因神喜而善，还是因善而神喜”，故其问的是**善与神意**的关系，为后世自然法争论的模型。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "sep-aquinas",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《欧绪弗洛》的页码与“欧绪弗洛难题”（Euthyphro dilemma）的现代表述须核 OCT 本与相关研究。",
+   "sort_year": -399
+  },
+  {
    "id": "work-euthyphro",
    "title": "《游叙弗伦》",
    "title_original": "Εὐθύφρων（Euthyphro）",
@@ -623,6 +680,116 @@
    "needs_verification": true,
    "pending_notes": "《吕西斯》“第一友”的解释（是否预示《会饮》的爱欲说）在学界有争论；本页依 OCT 与柏拉图研究概述。",
    "sort_year": -390
+  },
+  {
+   "id": "work-protagoras",
+   "title": "《普罗塔戈拉》",
+   "title_original": "Πρωταγόρας（Protagoras）",
+   "tradition": "west",
+   "date_display": "约前390年代（柏拉图）",
+   "structure": "对话一篇（通行 Stephanus 309a—362a）：苏格拉底与智者普罗塔戈拉论“德性是否可教”。",
+   "core_arguments": [
+    "普罗塔戈拉：德性可教，故民主的政制有其根据（人人可分有“政治的德性”）",
+    "苏格拉底：若德性是知识，则无人自愿作恶（“无人有意为恶”）",
+    "终局转向：快乐主义的计算——德性成为“度量术”（metretike）"
+   ],
+   "key_points": [
+    {
+     "locator": "309a—320c",
+     "point": "德性可教吗"
+    },
+    {
+     "locator": "320c—328d",
+     "point": "普罗米修斯的神话"
+    },
+    {
+     "locator": "351b—358d",
+     "point": "快乐与善"
+    },
+    {
+     "locator": "358d—362a",
+     "point": "度量术"
+    }
+   ],
+   "editions": [
+    "牛津古典文本（OCT）；英译参 Cooper《Plato: Complete Works》；中译参《柏拉图对话集》（王太庆）或《普罗塔戈拉》（商务）"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-socrates",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“苏格拉底的胜利”",
+     "why": "其终局的“度量术”以**快乐主义**为前提，与苏格拉底在《高尔吉亚》中的立场相左；故学界对其“谁胜”有长期争论，本页并述而不裁定。"
+    },
+    {
+     "claim": "普罗塔戈拉只是“相对主义者”",
+     "why": "其在此篇的论点是**德性可教**（故有政治技艺），故其说有建设性的一面，非仅“人是万物的尺度”。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "sep-aristotle",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《普罗塔戈拉》的 Stephanus 页码与“度量术”一段的归属（苏格拉底是否真持快乐主义）在学界有争论，本页并述而不裁定。",
+   "sort_year": -390
+  },
+  {
+   "id": "work-kratylos",
+   "title": "《克拉底鲁》",
+   "title_original": "Κρατύλος（Cratylus）",
+   "tradition": "west",
+   "date_display": "约前390年代（柏拉图）",
+   "structure": "对话一篇（通行 383a—440e）：赫莫根尼、克拉底鲁与苏格拉底论“名称的正确性”。",
+   "core_arguments": [
+    "约定论：名称由约定而成（赫莫根尼）",
+    "自然论：名称依事物之性而成（克拉底鲁）",
+    "苏格拉底的中途：以词源为戏而终于“名不如实”——认识事物须就事物本身"
+   ],
+   "key_points": [
+    {
+     "locator": "383a—391b",
+     "point": "约定与自然"
+    },
+    {
+     "locator": "391b—421c",
+     "point": "词源的戏论"
+    },
+    {
+     "locator": "421c—440e",
+     "point": "名与实"
+    }
+   ],
+   "editions": [
+    "牛津古典文本（OCT）；英译参 Cooper《Complete Works》；中译参《柏拉图对话集》（王太庆）"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-heraclitus",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“语言学著作”",
+     "why": "其词源多属**戏论**（苏格拉底自称受欧绪弗洛启发而作），其真正的结论在“名不如实”（须就事物本身认识）；故其性质是哲学的，非语言学的。"
+    },
+    {
+     "claim": "它主张“名称自然正确”",
+     "why": "其结论恰是：无论约定或自然，名称皆不足以代替对事物的认识；故其说不站“自然论”一边。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "sep-aristotle",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《克拉底鲁》的页码与“名不如实”的结论须核 OCT 本；其词源部分的戏谑性质亦须核相关研究。",
+   "sort_year": -388
   },
   {
    "id": "work-symposium",

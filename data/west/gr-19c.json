@@ -3413,6 +3413,42 @@
    ],
    "needs_verification": true,
    "pending_notes": "“类本质”（Gattungswesen）在费尔巴哈与马克思的用法不同：费尔巴哈侧重“我—你”的关系，马克思则以“社会关系的总和”替换之；本页并述二者，具体文本须核。"
+  },
+  {
+   "id": "gr-19c-einfuehlung",
+   "term": "移情",
+   "term_latin": "empathy (Einfühlung)",
+   "definition": "19世纪德国美学与心理学所立的范畴（Vischer、Lipps）：审美与理解的核心在于**把自己置入对象**——不是推理“他若处此境会如何”，而是仿佛在其境中感受。其要点是：理解他人与理解作品，皆以这种“置入”为门径；后经狄尔泰而成为解释学的方法概念。",
+   "usages": [
+    {
+     "name": "利普斯（其立）",
+     "usage": "以“移情”说审美的对象化与自我欣赏。"
+    },
+    {
+     "name": "狄尔泰（其转）",
+     "id": "gr-19c-dilthey",
+     "usage": "以“体验”与“理解”把移情纳入解释学。"
+    },
+    {
+     "name": "赫尔德（其先声）",
+     "usage": "“设身处地”的理解原则为其前身。"
+    }
+   ],
+   "related": [
+    "gr-19c-genius"
+   ],
+   "example": {
+    "text": "“移情”的要害是把**理解**从推理变成置入：若理解须“仿佛在其境中感受”，则理解便有了身体的与情感的维度。其力量在于它能说明“为何读史能动人”；其危险在于它可能把理解变成**投射**（我以为他在此境会如何，实则是我的感受）—— 故后来的批评（如伽达默尔）强调“他者不可被完全置入”。",
+    "figure": "利普斯",
+    "locator": "《美学》"
+   },
+   "sources": [
+    "sep-herder",
+    "sep-aesthetics-18th-german",
+    "sep-gadamer"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“移情”（Einfühlung）的源流（Vischer—Lipps—狄尔泰）须核相关研究；本页取其一般义，兼标“投射”之风险。"
   }
  ],
  "debates": [

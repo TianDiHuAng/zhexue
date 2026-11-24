@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1555,
+  "entries": 1560,
   "by_level": {
    "L2": 780,
-   "L1": 775
+   "L1": 780
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 775,
+  "needs_verification": 780,
   "sources": 419,
   "sources_verified": 419
  },
@@ -84,7 +84,7 @@
    "title": "19世纪哲学",
    "region": "west",
    "philosophers": 18,
-   "concepts": 21,
+   "concepts": 22,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -5016,6 +5016,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-19c-einfuehlung",
+   "type": "concept",
+   "title": "移情",
+   "container": "gr-19c",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-19c-free-will",
    "type": "debate",
    "title": "自由意志与决定论是否相容",
@@ -9559,6 +9570,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-euthyphron",
+   "type": "work",
+   "title": "《欧绪弗洛》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-euthyphro",
    "type": "work",
    "title": "《游叙弗伦》",
@@ -9584,6 +9606,28 @@
    "id": "work-lysis",
    "type": "work",
    "title": "《吕西斯》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-protagoras",
+   "type": "work",
+   "title": "《普罗塔戈拉》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-kratylos",
+   "type": "work",
+   "title": "《克拉底鲁》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -16778,6 +16822,17 @@
    "id": "cmp-gongkaixing",
    "type": "comparative",
    "title": "“公开运用理性”与“处士横议”：谁来检验真理？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-yixufuluo",
+   "type": "comparative",
+   "title": "“欧绪弗洛难题”与“天何言哉”：善在神意之先吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
