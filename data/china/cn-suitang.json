@@ -3102,6 +3102,160 @@
      "note": "约801 年"
     }
    ]
+  },
+  {
+   "id": "cn-suitang-yijing",
+   "name": "义净",
+   "latin": "Yijing",
+   "birth_year": 635,
+   "death_year": 713,
+   "birth_display": "635年",
+   "death_display": "713年",
+   "birth_note": "据《宋高僧传》本传：俗姓张，齐州（一说范阳）人；十五岁立志西行，671年由海路赴印度，游学那烂陀寺十年，685年归至室利佛逝，695年返洛阳。",
+   "death_note": "713年卒（《宋高僧传》本传）。",
+   "era": "唐代。义净是继玄奘之后最重要的求法僧与译经家：以海路往返，驻那烂陀寺十年，专精**律学**与因明；回国后译出律部与唯识、因明诸典，并以《大唐西域求法高僧传》《南海寄归内法传》记他人与自身的见闻。其立场的特点是：以“内法”（律制）为准，校中土僧团之失 —— 故其贡献不止于译，更在于**以比较的眼光重建僧制**。",
+   "school": "唐代律学与译经（海路求法）",
+   "core_questions": [
+    "律制应以何为准？",
+    "中土僧团的作法是否合律？",
+    "求法所得如何用于改革？"
+   ],
+   "arguments": [
+    {
+     "claim": "以“内法”为准，校中土僧制之失",
+     "premises": [
+      "律的精神（内法）见于印度与南海诸国僧团的实际作法。",
+      "而中土的作法多有因俗而变之处。"
+     ],
+     "inference": "若以实际的作法相较，则可指出中土之“不合律”者；故其方法是**比较律学**，其目的在改革而非指责。",
+     "conclusion": "以比较律学重建僧制（此说见于《南海寄归内法传》四十章）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "律与义须并重：不可偏于义学",
+     "premises": [
+      "中土佛教重义学而轻律行。",
+      "而律是僧团成立的形式。"
+     ],
+     "inference": "若律为僧团成立之形式，则义学虽盛而律行不立，则僧团无以自持；故须“律义并重”。",
+     "conclusion": "律义并重（此说针对中唐佛教的偏弊）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《南海寄归内法传》",
+     "edition": "中华书局《南海寄归内法传校注》（王邦维）",
+     "note": "691"
+    },
+    {
+     "title": "《大唐西域求法高僧传》",
+     "edition": "中华书局校注本（王邦维）",
+     "note": "691"
+    },
+    {
+     "title": "译籍（律部与因明诸典）",
+     "edition": "《大正藏》第23、24、31卷等",
+     "note": "唐"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "玄奘（其先辈）",
+     "id": "cn-suitang-xuanzang",
+     "note": "以陆路求法，为其海路的对照"
+    },
+    {
+     "name": "道宣（其同代）",
+     "id": "cn-suitang-daoxuan",
+     "note": "同以律学名家，而其取径不同（本土会通 vs 比较校准）"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "唐代律学",
+     "id": null,
+     "note": "其译律与《寄归传》为律学所资"
+    },
+    {
+     "name": "佛教纪行文学",
+     "id": null,
+     "note": "《求法高僧传》为其一体"
+    },
+    {
+     "name": "后世的中印交涉史研究",
+     "id": null,
+     "note": "其书为一等史料"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "中土律学一系（道宣门下）",
+     "view": "中土僧制自有其因革之理（如丛林清规），不宜尽以印度之制相绳；若一切以“内法”为准，则水土之宜尽失。",
+     "response": "义净一系的回应是：其所校者是“律的精神”（内法），不是形式的一一照搬；凡因俗而变者，须能说明其不违律意。",
+     "kind": "原文",
+     "sources": [
+      "ws-xugaoseng-zhuan",
+      "ws-mohezhiguan"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "义净只是“译经家”",
+     "why": "其《南海寄归内法传》有系统的**比较律学**（四十章皆以中土相较），故其身份兼律学家与制度批评者。"
+    },
+    {
+     "claim": "他主张“全盘印度化”",
+     "why": "其标准是“内法”（律的精神），不是“凡印度皆好”；他亦指出印度僧团的弊病。故其说是“以律校俗”。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>义净：以内法校中土僧制</text><defs><marker id='aYJ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>海路往返，驻那烂陀十年</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>专精律学与因明</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故以比较律学重建僧制</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故律义并重</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aYJ)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aYJ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "义净：海路求法与以“内法”校中土僧制（示意图）",
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "ws-jiutangshu",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "义净无 SEP 专条（已试 yijing，404）；本页依《宋高僧传》本传、《南海寄归内法传》与《大唐西域求法高僧传》原文（王邦维校注本），**属语境性引用而非专门研究**。其生卒（635—713）与行程年份须核。",
+   "doctrine": {
+    "summary": "义净以海路往返印度，驻那烂陀寺十年，专精律学与因明。其贡献有二：一是译出律部与唯识、因明诸典；二是以《南海寄归内法传》作系统的**比较律学** —— 以“内法”（律的精神）校中土僧制之失，主张律义并重。故其位置是“以比较的眼光重建僧制”。",
+    "system": [
+     {
+      "name": "以内法为准",
+      "content": "律的精神见于实际作法，故须以比较得之；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "比较律学",
+      "content": "四十章皆以他方僧制校中土之失，目的在改革。"
+     },
+     {
+      "name": "律义并重",
+      "content": "义学虽盛而律行不立，则僧团无以自持；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "海路求法",
+      "content": "以南海—印度一途，补陆路的不足；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "齐州与那烂陀（635—713）",
+      "change": "十五岁立志西行；671 年由海路赴印；在那烂陀寺学十年；685 年归至室利佛逝，撰二书；695 年返洛阳，主译场；713 年卒。"
+     }
+    ],
+    "reception": "其译律与《寄归传》为唐代律学所资；《求法高僧传》为中印交涉史的一等史料；其“比较律学”的方法在后世（尤其近代的佛教制度研究）中被重新重视。"
+   },
+   "works_detail": [
+    {
+     "title": "《南海寄归内法传》",
+     "structure": "四卷四十章：受戒、安居、衣食、威仪、教育、医疗与对中土僧制的评议。",
+     "core_thesis": "以“内法”校中土僧制，律义并重。",
+     "editions": "中华书局王邦维校注本",
+     "note": "691 年"
+    }
+   ]
   }
  ],
  "concepts": [

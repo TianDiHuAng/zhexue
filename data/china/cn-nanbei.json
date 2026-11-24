@@ -2582,6 +2582,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "佛教“经疏”的分层（疏／钞／科）须核天台与三论的著作体例；其与儒家“义疏”的同构亦须分辨。"
+  },
+  {
+   "id": "cn-nanbei-xixing-qiufa",
+   "term": "西行求法",
+   "term_latin": "westward pilgrimage for the Dharma",
+   "definition": "中古佛教的求法运动：自朱士行、法显至玄奘、义净，前后数百年，或走陆路（西域—印度），或走海路（南海—印度）。其意义不止于“取经”：它把印度与中国的知识、语言、律制与地理连成一体，也使“译场”得以持续获得新本。",
+   "usages": [
+    {
+     "name": "法显（其先）",
+     "usage": "以陆路去、海路归，开“巡礼＋求法”的范式。"
+    },
+    {
+     "name": "真谛（其译）",
+     "id": "cn-nanbei-zhendi",
+     "usage": "以海路来华，其译籍为南朝义学所资。"
+    },
+    {
+     "name": "玄奘（其极盛）",
+     "usage": "以陆路往返，取回大量梵本；这一用法须与相邻概念分辨。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-yichang",
+    "cn-nanbei-yixue"
+   ],
+   "example": {
+    "text": "“西行求法”的要害是它把“求法”变成**地理的行动**：法不在中土，须往其源处求。这一行动的结果是双重的：一方面使汉地佛教的文本基础不断更新（新译），另一方面也把“印度”塑造成权威的来源 —— 这一权威形象后来成为汉传佛教自我理解的一部分。",
+    "figure": "义净",
+    "locator": "《大唐西域求法高僧传》"
+   },
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "ws-jiutangshu",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“西行求法”的人物与路线须核《高僧传》《续高僧传》《大唐西域求法高僧传》；本页取其运动义，具体行程须逐人核。"
   }
  ],
  "debates": [

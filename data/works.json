@@ -12323,6 +12323,120 @@
    "sort_year": 690
   },
   {
+   "id": "work-qiuofa-gaoseng-zhuan",
+   "title": "《大唐西域求法高僧传》",
+   "title_original": "大唐西域求法高僧傳",
+   "tradition": "china",
+   "date_display": "唐（义净，635—713；691年成书于室利佛逝）",
+   "structure": "二卷：记唐初六十余位西行求法僧的事迹，附以义净自身的行程与见闻。",
+   "core_arguments": [
+    "以西行求法者为主角：其传的对象不是“高僧”而是“求法者”",
+    "记海路与陆路两途：海路（南海—印度）的比例远高于前代",
+    "以亲历为据：作者自身即西行者，故其所记多为一手见闻"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上",
+     "point": "陆路与南海诸僧"
+    },
+    {
+     "locator": "卷下",
+     "point": "印度与归途诸僧"
+    },
+    {
+     "locator": "附记",
+     "point": "义净自身的行程"
+    },
+    {
+     "locator": "全书",
+     "point": "以“求法”为取"
+    }
+   ],
+   "editions": [
+    "《大正藏》第51卷；中华书局《大唐西域求法高僧传校注》（王邦维）"
+   ],
+   "related_people": [
+    "cn-suitang-yijing",
+    "cn-suitang-xuanzang",
+    "cn-nanbei-zhendi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《高僧传》的续书",
+     "why": "其取是“**求法**”而非“高”（德业）：所记以“曾西行求法”为准，不问其德业之高下；故其体例是专题传，不是续传。"
+    },
+    {
+     "claim": "西行求法只是“取经”",
+     "why": "其所求者含**律典**（义净专精律学）与**因明、声明**等；故其“法”是全体佛法与学问，不只是经本。"
+    }
+   ],
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "ws-jiutangshu",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《大唐西域求法高僧传》所记僧数与成书年（691）须核王邦维校注本；其与《南海寄归内法传》的分工亦须分辨。",
+   "sort_year": 691
+  },
+  {
+   "id": "work-nanhai-jigui",
+   "title": "《南海寄归内法传》",
+   "title_original": "南海寄歸內法傳",
+   "tradition": "china",
+   "date_display": "唐（义净，691年成书于室利佛逝）",
+   "structure": "四卷四十章：记印度与南海诸国僧团的行事、仪轨、饮食、衣着、医疗、教育与律制。",
+   "core_arguments": [
+    "以“内法”（律制）为准：记他方僧团的实际作法，以校中土之失",
+    "“寄归”之意：把这些作法寄回中土，供改革之参考",
+    "对中土僧制的批评：如“洗浴”“嚼杨枝”“受戒仪”等皆有不合"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "受戒与安居"
+    },
+    {
+     "locator": "卷二",
+     "point": "衣食与威仪"
+    },
+    {
+     "locator": "卷三",
+     "point": "教育、医疗与日常"
+    },
+    {
+     "locator": "卷四",
+     "point": "对中土僧制的评议"
+    }
+   ],
+   "editions": [
+    "《大正藏》第54卷；中华书局《南海寄归内法传校注》（王邦维）"
+   ],
+   "related_people": [
+    "cn-suitang-yijing",
+    "cn-suitang-daoxuan",
+    "cn-nanbei-baochang"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是一部“游记”",
+     "why": "其体例是**律制的分类记述**（受戒、安居、衣食、教育等四十分），且每一章皆有“今观中土如何”的评议；故其性质是“比较律学”，不是游记。"
+    },
+    {
+     "claim": "义净主张“全盘印度化”",
+     "why": "其评议的标准是“**内法**”（律的精神），不是“凡印度皆好”；他亦指出印度僧团的弊病。故其说是“以律校俗”，不是“以印代中”。"
+    }
+   ],
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "ws-jiutangshu",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《南海寄归内法传》的章数（通行四十章）与成书年须核王邦维校注本；其对中土僧制的具体批评亦须逐章核。",
+   "sort_year": 691
+  },
+  {
    "id": "work-shitong",
    "title": "《史通》",
    "title_original": "史通",
@@ -12379,6 +12493,63 @@
    "needs_verification": true,
    "pending_notes": "《史通》的篇数（通行四十九篇，其中有佚）须核浦起龙《通释》本；“才学识”三长的出处亦须核。",
    "sort_year": 710
+  },
+  {
+   "id": "work-kaiyuan-shijiao-lu",
+   "title": "《开元释教录》",
+   "title_original": "開元釋教錄",
+   "tradition": "china",
+   "date_display": "唐（智昇，730年成书）",
+   "structure": "二十卷：前十卷为“总括群经录”（按朝代记译人译籍），后十卷为“别分乘藏录”（按经律论分类，并附“有译有本”“有译无本”“支派别行”“删略繁重”“补阙拾遗”“疑惑再详”“伪妄乱真”等七目）。",
+   "core_arguments": [
+    "以“译人—译籍”为纲：每一译人的年代、所出经数与存佚皆记",
+    "以“入藏”为断：确立何者为“藏”，何者为“藏外”",
+    "辨“伪妄”：以译者、文风、内容相参，为疑伪经研究的范式"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—十",
+     "point": "总括群经录"
+    },
+    {
+     "locator": "卷十一—十八",
+     "point": "别分乘藏录"
+    },
+    {
+     "locator": "卷十九—二十",
+     "point": "入藏录与伪妄"
+    },
+    {
+     "locator": "全书",
+     "point": "以译人为纲"
+    }
+   ],
+   "editions": [
+    "《大正藏》第55卷"
+   ],
+   "related_people": [
+    "cn-nanbei-sengyou",
+    "cn-suitang-daoxuan",
+    "cn-suitang-yijing"
+   ],
+   "misreadings": [
+    {
+     "claim": "经录只是“书目”",
+     "why": "其“总括群经录”实为**译经史**（译人、年代、卷数、存佚），“别分乘藏录”则含辨伪与分类；故它是目录学、史学与辨伪学的合一。"
+    },
+    {
+     "claim": "“入藏录”只是藏书清单",
+     "why": "“入藏”是一个**经典化的判断**：入藏者被视为正典，藏外者则否；故其名录是权威的分配，不只是清点。"
+    }
+   ],
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《开元释教录》的卷数（二十卷）与七目的名目须核《大正藏》第55卷；“入藏”判定的具体条目亦须核。",
+   "sort_year": 730
   },
   {
    "id": "work-fuxingshu",

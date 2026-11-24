@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1390,
+  "entries": 1396,
   "by_level": {
    "L2": 781,
-   "L1": 609
+   "L1": 615
   },
   "doctrine": {
-   "total": 282,
-   "detail": 282,
+   "total": 283,
+   "detail": 283,
    "auto": 0
   },
-  "needs_verification": 609,
+  "needs_verification": 615,
   "sources": 418,
   "sources_verified": 418
  },
@@ -30,7 +30,7 @@
    "title": "南北朝佛道与形神之争",
    "region": "china",
    "philosophers": 12,
-   "concepts": 21,
+   "concepts": 22,
    "debates": 6,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -56,10 +56,10 @@
    "unit_id": "cn-suitang",
    "title": "隋唐佛学",
    "region": "china",
-   "philosophers": 21,
+   "philosophers": 22,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -13"
+   "philosophers_slot": "8 上限，余 -14"
   },
   {
    "unit_id": "cn-weijin",
@@ -1103,6 +1103,17 @@
    "id": "cn-nanbei-yixue-jingshu",
    "type": "concept",
    "title": "经疏",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-xixing-qiufa",
+   "type": "concept",
+   "title": "西行求法",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -2599,6 +2610,17 @@
    "id": "cn-suitang-du-you",
    "type": "philosopher",
    "title": "杜佑",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-suitang-yijing",
+   "type": "philosopher",
+   "title": "义净",
    "container": "cn-suitang",
    "level": "L1",
    "sources": 3,
@@ -11275,9 +11297,42 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-qiuofa-gaoseng-zhuan",
+   "type": "work",
+   "title": "《大唐西域求法高僧传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-nanhai-jigui",
+   "type": "work",
+   "title": "《南海寄归内法传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-shitong",
    "type": "work",
    "title": "《史通》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-kaiyuan-shijiao-lu",
+   "type": "work",
+   "title": "《开元释教录》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -14963,6 +15018,17 @@
    "id": "cmp-jiaoxiang",
    "type": "comparative",
    "title": "“交相胜”与“分域”：刘禹锡与康德的两种划界",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-qiufa",
+   "type": "comparative",
+   "title": "西行求法与“游学”：两种“往源头去”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
