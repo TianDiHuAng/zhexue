@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1670,
+  "entries": 1674,
   "by_level": {
    "L2": 779,
-   "L1": 891
+   "L1": 895
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 891,
+  "needs_verification": 895,
   "sources": 420,
   "sources_verified": 420
  },
@@ -15917,6 +15917,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-traditionelle-kritische",
+   "type": "work",
+   "title": "《传统理论与批判理论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-la-nausee",
    "type": "work",
    "title": "《恶心》",
@@ -15994,6 +16005,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-kritik-instrumentellen",
+   "type": "work",
+   "title": "《工具理性批判》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-second-sex",
    "type": "work",
    "title": "《第二性》",
@@ -16046,6 +16068,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-eros-civilization",
+   "type": "work",
+   "title": "《爱欲与文明》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -18043,6 +18076,17 @@
    "id": "cmp-weiji",
    "type": "comparative",
    "title": "“为我”与“无家可归”：个体与整体断裂之后怎么办？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-gongju",
+   "type": "comparative",
+   "title": "“工具理性”与“以理化情”：理性用错了会伤什么？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
