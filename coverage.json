@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1170,
+  "entries": 1174,
   "by_level": {
    "L2": 788,
-   "L1": 382
+   "L1": 386
   },
   "doctrine": {
    "total": 261,
    "detail": 261,
    "auto": 0
   },
-  "needs_verification": 382,
-  "sources": 403,
-  "sources_verified": 403
+  "needs_verification": 386,
+  "sources": 404,
+  "sources_verified": 404
  },
  "units": [
   {
@@ -21,7 +21,7 @@
    "title": "两汉经学与气论",
    "region": "china",
    "philosophers": 17,
-   "concepts": 25,
+   "concepts": 26,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -9"
   },
@@ -608,6 +608,17 @@
    "id": "cn-lianghan-wenzhi",
    "type": "concept",
    "title": "文质",
+   "container": "cn-lianghan",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-lianghan-shishi-qiushen",
+   "type": "concept",
+   "title": "实事疾妄",
    "container": "cn-lianghan",
    "level": "L1",
    "sources": 3,
@@ -9834,6 +9845,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-luoyang-qielan",
+   "type": "work",
+   "title": "《洛阳伽蓝记》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-qixinlun",
    "type": "work",
    "title": "《大乘起信论》",
@@ -10766,6 +10788,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-dongxi-jun",
+   "type": "work",
+   "title": "《东西均》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -12543,6 +12576,17 @@
    "id": "cmp-aufhebung",
    "type": "comparative",
    "title": "扬弃与“两行”：黑格尔的 Aufhebung 与庄子的“莫若以明”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-fanyin",
+   "type": "comparative",
+   "title": "相反相因与对立统一：方以智的“反因”与黑格尔的“矛盾”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

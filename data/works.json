@@ -8573,6 +8573,63 @@
    "sort_year": 524
   },
   {
+   "id": "work-luoyang-qielan",
+   "title": "《洛阳伽蓝记》",
+   "title_original": "洛陽伽藍記",
+   "tradition": "china",
+   "date_display": "东魏（杨衒之，547年前后）",
+   "structure": "五卷：以洛阳的佛寺为纲，分城内、城东、城南、城西、城北，记寺院的兴废、人物与风俗。",
+   "core_arguments": [
+    "以佛寺的兴废见王朝的盛衰（“寺观之盛，遂移于闾阎”）",
+    "保存了北魏佛教与社会生活的第一手记载",
+    "以“伽蓝”为纲而实为**城市志**：寺、宅、市、俗并载"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 城内",
+     "point": "永宁寺与胡太后"
+    },
+    {
+     "locator": "卷二 城东",
+     "point": "景明寺与士人"
+    },
+    {
+     "locator": "卷三 城南",
+     "point": "伊洛之滨的寺与俗"
+    },
+    {
+     "locator": "卷五",
+     "point": "宋云西行记（附录）"
+    }
+   ],
+   "editions": [
+    "周祖谟《洛阳伽蓝记校释》（中华书局）；范祥雍《洛阳伽蓝记校注》"
+   ],
+   "related_people": [
+    "cn-nanbei-sengyou",
+    "cn-nanbei-taohongjing",
+    "cn-suitang-xuanzang"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是佛教的寺塔记",
+     "why": "它以佛寺为纲，但内容兼及政治、人物、风俗与中西交通（卷五附宋云西行记）；故是**城市志与史料集**，不只是寺塔记。"
+    },
+    {
+     "claim": "它是“反佛”之作",
+     "why": "其书对佛教的奢靡有讽刺，但并未否定佛教；故不宜读作反佛。"
+    }
+   ],
+   "sources": [
+    "ws-luoyang-qielan",
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《洛阳伽蓝记》的成书年代（547 前后）与卷五次第（是否附宋云行记）各本有异；本页依周祖谟校释本概述。",
+   "sort_year": 547
+  },
+  {
    "id": "work-qixinlun",
    "title": "《大乘起信论》",
    "title_original": "大乘起信論",
@@ -13382,6 +13439,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1641
+  },
+  {
+   "id": "work-dongxi-jun",
+   "title": "《东西均》",
+   "title_original": "東西均",
+   "tradition": "china",
+   "date_display": "清初（方以智，1611—1671）；抄本流传，1962年始刊",
+   "structure": "含《东西均开章》《东西均记》《三征》《反因》《公符》《扩信》《大常》等篇；以“均”与“相反相因”为纲。",
+   "core_arguments": [
+    "“均”是“旋”的别名：对立的两端在循环中相因（“相反者相因”）",
+    "“三征”即“随”“泯”“统”：三种观法层层递进",
+    "“公因反因”：公因（普遍者）与反因（对立者）互为条件"
+   ],
+   "key_points": [
+    {
+     "locator": "《东西均开章》",
+     "point": "“均”之义"
+    },
+    {
+     "locator": "《反因》",
+     "point": "相反相因"
+    },
+    {
+     "locator": "《三征》",
+     "point": "随、泯、统"
+    },
+    {
+     "locator": "《公符》",
+     "point": "公因与反因"
+    }
+   ],
+   "editions": [
+    "中华书局《东西均》（庞朴注）；《方以智全书》本"
+   ],
+   "related_people": [
+    "cn-qingmod-fang-yizhi",
+    "cn-songming-wang-yangming",
+    "cn-xianqin-zhuangzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "方以智的“均”是折中主义",
+     "why": "“相反者相因”不是各打五十大板，而是说对立的两端**互为其条件**（无此则无彼）；故它是辩证的结构，不是调和。"
+    },
+    {
+     "claim": "《东西均》是完整的成书",
+     "why": "它以**抄本**流传，1962 年才由中华书局刊行；其篇目与文字有残缺，故须注明版本。"
+    }
+   ],
+   "sources": [
+    "ws-dongxi-jun",
+    "ws-mingru-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《东西均》长期以抄本流传（1962 年中华书局据抄本刊行），篇目与文字有残缺；本页依庞朴注本与相关研究概述，具体篇目须核。",
+   "sort_year": 1650
   },
   {
    "id": "work-leviathan",

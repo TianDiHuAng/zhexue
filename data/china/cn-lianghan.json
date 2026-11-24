@@ -3446,6 +3446,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“文质”在《论语》的伦理义与汉儒的制度义（文质循环）之间有滑动；本页并述二义，具体文本须核《春秋繁露·三代改制质文》与《论语·雍也》。"
+  },
+  {
+   "id": "cn-lianghan-shishi-qiushen",
+   "term": "实事疾妄",
+   "term_latin": "seeking truth from facts and opposing the absurd",
+   "definition": "王充《论衡》的方法纲领：“实事”须以效验为据，“疾妄”须破虚妄之说。其判准是“效验”（可验证的效果），而非经典的权威或众人的意见。",
+   "usages": [
+    {
+     "name": "王充",
+     "id": "cn-lianghan-wang-chong",
+     "usage": "“事莫明于有效，论莫定于有证”：以效验为判准。"
+    },
+    {
+     "name": "董仲舒（其批评对象）",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以灾异与天人感应立论，正是王充所疾之“妄”。"
+    },
+    {
+     "name": "刘向（对照）",
+     "id": "cn-lianghan-liu-xiang",
+     "usage": "以《洪范五行传论》把灾异与人事对应，亦在王充的批评范围。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-wuchang"
+   ],
+   "example": {
+    "text": "“疾妄”的锋芒指向两类说法：一是“天人感应”的灾异谴告，二是世俗的禁忌与迷信。其方法的力量在于**把举证责任移给主张者** —— 这与汉代经学的权威论证方式正相对。",
+    "figure": "王充",
+    "locator": "《论衡·薄葬》《论衡·知实》"
+   },
+   "sources": [
+    "ws-hanshu",
+    "ws-shuoyuan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“实事疾妄”一语见《论衡·对作》等篇，其表述在王充各篇中有异；本页依《论衡》与汉代思想研究概述。"
   }
  ],
  "debates": [
