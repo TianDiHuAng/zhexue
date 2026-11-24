@@ -10558,6 +10558,63 @@
    "sort_year": 1082
   },
   {
+   "id": "work-er-cheng-ji",
+   "title": "《二程集》",
+   "title_original": "二程集（河南程氏遺書等）",
+   "tradition": "china",
+   "date_display": "北宋（程颢 1032—1085、程颐 1033—1107）；今本由遗书、外书、文集、易传等合编",
+   "structure": "含《遗书》（二程语录）、《外书》、《明道先生文集》、《伊川先生文集》、《周易程氏传》、《经说》、《粹言》等。",
+   "core_arguments": [
+    "“天理”二字是自家体贴出来（程颢）——理成为最高的实在",
+    "“涵养须用敬，进学则在致知”（程颐）——工夫的两翼",
+    "“性即理”：性不是气禀，而是理在人身上的实现"
+   ],
+   "key_points": [
+    {
+     "locator": "《遗书》卷二上",
+     "point": "天理与“体贴”"
+    },
+    {
+     "locator": "《遗书》卷十八",
+     "point": "涵养与进学"
+    },
+    {
+     "locator": "《易传·序》",
+     "point": "理与象"
+    },
+    {
+     "locator": "《粹言》",
+     "point": "二程的异同"
+    }
+   ],
+   "editions": [
+    "中华书局《二程集》（王孝鱼点校，全四册）"
+   ],
+   "related_people": [
+    "cn-songming-cheng-hao",
+    "cn-songming-cheng-yi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "二程的思想是一致的",
+     "why": "程颢偏“一本”（浑然与物同体），程颐偏“二分”（性与情、理与气）；朱熹承程颐，而心学一系更亲程颢。故“二程”须分辨。"
+    },
+    {
+     "claim": "“天理”是二程首次使用的词",
+     "why": "“理”在先秦与佛教中已用；二程的贡献是把它**提升为最高的实在**并作为学说的纲领，而非首创其词。"
+    }
+   ],
+   "sources": [
+    "ws-taijitushuo",
+    "ws-zhuzi-yulei",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《二程集》的编排（遗书、外书、文集、易传等）与各篇的归属（谁语）在学界有考订争议；本页依中华书局点校本与宋明理学研究概述。",
+   "sort_year": 1100
+  },
+  {
    "id": "work-sic-et-non",
    "title": "《是与否》",
    "title_original": "Sic et Non",
@@ -13048,6 +13105,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1550
+  },
+  {
+   "id": "work-wang-wencheng-gong",
+   "title": "《王文成公全书》",
+   "title_original": "王文成公全書",
+   "tradition": "china",
+   "date_display": "明（王守仁 1472—1529）；隆庆六年（1572）刊",
+   "structure": "三十八卷：含《传习录》（一至三卷）、《文录》、《别录》、《外集》、《续编》与《年谱》。",
+   "core_arguments": [
+    "“心即理”：理不在心外",
+    "“知行合一”：知与行不是两事",
+    "“致良知”：良知是现成的判断力，工夫在“致”它"
+   ],
+   "key_points": [
+    {
+     "locator": "《传习录》上",
+     "point": "心即理与知行合一"
+    },
+    {
+     "locator": "《传习录》中",
+     "point": "《答顾东桥书》与“致良知”"
+    },
+    {
+     "locator": "《传习录》下",
+     "point": "四句教"
+    },
+    {
+     "locator": "《年谱》",
+     "point": "龙场与晚年的思想变化"
+    }
+   ],
+   "editions": [
+    "上海古籍出版社《王阳明全集》（吴光等编校）；中华书局《王阳明全集》"
+   ],
+   "related_people": [
+    "cn-songming-wang-yangming",
+    "cn-songming-zhu-xi",
+    "cn-songming-wang-gen"
+   ],
+   "misreadings": [
+    {
+     "claim": "“知行合一”是说知道了就必然去做",
+     "why": "其要点是**知行本体不二**：真知必已行（“知而不行，只是未知”）；故它不是预言行为，而是重新界定“知”。"
+    },
+    {
+     "claim": "“心即理”是主观唯心论",
+     "why": "其“心”不是个人的心理状态，而是**良知**（普遍的是非之心）；故其说是本体论与伦理学的主张，不能径直读作主观主义。"
+    }
+   ],
+   "sources": [
+    "ws-chuanxi",
+    "ws-mingru-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《王文成公全书》38 卷的编排与《传习录》三卷的分合各本有异；本页依吴光等编校《王阳明全集》与相关研究概述。",
+   "sort_year": 1572
   },
   {
    "id": "work-essays-montaigne",

@@ -3484,6 +3484,45 @@
    ],
    "needs_verification": true,
    "pending_notes": "“实事疾妄”一语见《论衡·对作》等篇，其表述在王充各篇中有异；本页依《论衡》与汉代思想研究概述。"
+  },
+  {
+   "id": "cn-lianghan-shiyi",
+   "term": "师法家法",
+   "term_latin": "master-disciple transmission and family tradition",
+   "definition": "汉代经学的传承制度：**师法**指一师所传的章句与说法，**家法**指一家（师弟相传）所守的成说。二者使经义有确定的传承，也使经学趋于固守——这正是古文经学兴起时所攻的靶子。",
+   "usages": [
+    {
+     "name": "刘向（今文一系）",
+     "id": "cn-lianghan-liu-xiang",
+     "usage": "以师法家法守今文经的章句；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "王充（批评者）",
+     "id": "cn-lianghan-wang-chong",
+     "usage": "讥“守一家之学”而不求实；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "班固（记载者）",
+     "id": "cn-lianghan-ban-gu",
+     "usage": "《汉书·儒林传》详记各家师法的传承。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-weiyandayi",
+    "cn-lianghan-wenzhi"
+   ],
+   "example": {
+    "text": "“师法家法”的要害在于它把**权威**放在传承上，而不是放在文本或理据上：故守师法者可以“不改一字”而得官。这一制度使经学成为可传的技艺，也使“经义”难以被重新追问 —— 汉代思想的许多争论（今古文、谶纬）都由此结构而生。",
+    "figure": "班固",
+    "locator": "《汉书·儒林传》"
+   },
+   "sources": [
+    "ws-hanshu",
+    "ws-shuoyuan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“师法”与“家法”的区别（一师之说 vs 一家之守）在各家论述中不完全统一；本页取通行区分，具体例证须核《汉书·儒林传》。"
   }
  ],
  "debates": [

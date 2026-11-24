@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1196,
+  "entries": 1200,
   "by_level": {
    "L2": 790,
-   "L1": 406
+   "L1": 410
   },
   "doctrine": {
    "total": 262,
    "detail": 262,
    "auto": 0
   },
-  "needs_verification": 406,
-  "sources": 405,
-  "sources_verified": 405
+  "needs_verification": 410,
+  "sources": 406,
+  "sources_verified": 406
  },
  "units": [
   {
@@ -21,7 +21,7 @@
    "title": "两汉经学与气论",
    "region": "china",
    "philosophers": 17,
-   "concepts": 26,
+   "concepts": 27,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -9"
   },
@@ -619,6 +619,17 @@
    "id": "cn-lianghan-shishi-qiushen",
    "type": "concept",
    "title": "实事疾妄",
+   "container": "cn-lianghan",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-lianghan-shiyi",
+   "type": "concept",
+   "title": "师法家法",
    "container": "cn-lianghan",
    "level": "L1",
    "sources": 3,
@@ -10285,6 +10296,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-er-cheng-ji",
+   "type": "work",
+   "title": "《二程集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-sic-et-non",
    "type": "work",
    "title": "《是与否》",
@@ -10766,6 +10788,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-wang-wencheng-gong",
+   "type": "work",
+   "title": "《王文成公全书》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -12829,6 +12862,17 @@
    "id": "cmp-shifu",
    "type": "comparative",
    "title": "内在的教师与“不言之教”：奥古斯丁与道家的“教”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-zhixing",
+   "type": "comparative",
+   "title": "知行合一与“知德者鲜”：王阳明与亚里士多德的“知”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
