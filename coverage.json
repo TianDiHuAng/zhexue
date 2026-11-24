@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1515,
+  "entries": 1523,
   "by_level": {
    "L2": 781,
-   "L1": 734
+   "L1": 742
   },
   "doctrine": {
-   "total": 301,
-   "detail": 301,
+   "total": 304,
+   "detail": 304,
    "auto": 0
   },
-  "needs_verification": 734,
+  "needs_verification": 742,
   "sources": 418,
   "sources_verified": 418
  },
@@ -30,7 +30,7 @@
    "title": "南北朝佛道与形神之争",
    "region": "china",
    "philosophers": 13,
-   "concepts": 28,
+   "concepts": 29,
    "debates": 6,
    "philosophers_slot": "8 上限，余 -5"
   },
@@ -38,10 +38,10 @@
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 33,
+   "philosophers": 36,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -25"
+   "philosophers_slot": "8 上限，余 -28"
   },
   {
    "unit_id": "cn-songming",
@@ -1199,6 +1199,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-nanbei-tongbian",
+   "type": "concept",
+   "title": "通变",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-nanbei-debate-shenmie",
    "type": "debate",
    "title": "神灭与神不灭之争",
@@ -1620,6 +1631,39 @@
    "id": "cn-qingmod-yuan-mei",
    "type": "philosopher",
    "title": "袁枚",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-qian-daxin",
+   "type": "philosopher",
+   "title": "钱大昕",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-wang-mingsheng",
+   "type": "philosopher",
+   "title": "王鸣盛",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-zhao-yi",
+   "type": "philosopher",
+   "title": "赵翼",
    "container": "cn-qingmod",
    "level": "L1",
    "sources": 3,
@@ -13739,6 +13783,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-nianer-shi-kaoyi",
+   "type": "work",
+   "title": "《廿二史考异》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-krv",
    "type": "work",
    "title": "《纯粹理性批判》",
@@ -13937,6 +13992,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-shijiazhai-yangxinlu",
+   "type": "work",
+   "title": "《十驾斋养新录》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-xingming-guxun",
    "type": "work",
    "title": "《性命古训》",
@@ -13945,6 +14011,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-qianyantang-wenji",
+   "type": "work",
+   "title": "《潜研堂文集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -16338,6 +16415,17 @@
    "id": "cmp-shixue",
    "type": "comparative",
    "title": "“六经皆史”与“历史主义”：过去能以自身为标准吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-kaoju",
+   "type": "comparative",
+   "title": "“实事求是”与“考据学”：事实能替我们作判断吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

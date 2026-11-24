@@ -5114,6 +5114,458 @@
      "note": "1790 年代"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-qian-daxin",
+   "name": "钱大昕",
+   "latin": "Qian Daxin",
+   "birth_year": 1728,
+   "death_year": 1804,
+   "birth_display": "1728年",
+   "death_display": "1804年",
+   "birth_note": "据《清史稿》儒林传：字晓徵，号辛楣、竹汀，江苏嘉定人；乾隆十九年进士，官至广东学政；后主讲钟山、娄东诸书院，为乾嘉史学的代表。",
+   "death_note": "1804年卒（《清史稿》儒林传）。",
+   "era": "清中叶。钱大昕是乾嘉史学的高峰：以《廿二史考异》把音韵训诂的方法用于史书的校订，以“**经史无二学**”打破经尊史卑的格局，以“**实事求是**”为治学的纲。故其位置是：把考据学从“治经”扩为“治史”，并使史学有了独立的学术地位。",
+   "school": "乾嘉史学（嘉定钱氏一系）",
+   "core_questions": [
+    "治史与治经是否同一方法？",
+    "史书的讹误如何校正？",
+    "义理与考据是何关系？"
+   ],
+   "arguments": [
+    {
+     "claim": "经史无二学：治经治史同一方法",
+     "premises": [
+      "经与史同为记事之书，其文字、制度、地理皆须考订。",
+      "而考订之法则一（音韵、训诂、校勘）。"
+     ],
+     "inference": "若方法为一，则经与史无高下之别；故其说打破“经尊史卑”，使史学成为独立的学问。",
+     "conclusion": "经史无二学（此说为清代史学独立张目）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "实事求是：凡断必有据",
+     "premises": [
+      "空谈义理者多无据。",
+      "而有据者虽小节亦不可废。"
+     ],
+     "inference": "若断须有据，则义理须建于考订之上；故其说以“实事求是”约束空论，而非否认义理。",
+     "conclusion": "实事求是（此说为其治学的纲）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《廿二史考异》",
+     "edition": "上海古籍出版社方诗铭校点本（版次待核）",
+     "note": "乾隆间"
+    },
+    {
+     "title": "《潜研堂文集》",
+     "edition": "上海古籍出版社吕友仁校点本（版次待核）",
+     "note": "嘉庆间"
+    },
+    {
+     "title": "《十驾斋养新录》",
+     "edition": "江苏古籍出版社点校本（版次待核）",
+     "note": "约1799"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "顾炎武（其远源）",
+     "id": "cn-qingmod-gu-yanwu",
+     "note": "“经学即理学”与考据的方法为其所承"
+    },
+    {
+     "name": "戴震（其同代）",
+     "id": "cn-qingmod-dai-zhen",
+     "note": "同以考据为义理之门径"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "王鸣盛、赵翼（其同辈）",
+     "id": null,
+     "note": "三家并称清代史学的高峰"
+    },
+    {
+     "name": "近代的史学方法",
+     "id": null,
+     "note": "其考据与“实事求是”为近代史学所承"
+    },
+    {
+     "name": "音韵学与金石学",
+     "id": null,
+     "note": "其研究至今被引"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "重“义理”的一系（如方东树）",
+     "view": "以考订为史学之全，则史成为琐碎的订正；史之大义（治乱兴衰之故）反被遗落。",
+     "response": "钱大昕一系的回应是：大义须建于事实之上，事实不明则所谓大义皆为空言；且其书亦论制度之变与风气之移，非止订字。",
+     "kind": "原文",
+     "sources": [
+      "ws-mingru-xuean",
+      "ct-mengzi"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "钱大昕只是“考据家”",
+     "why": "其有系统的论学宗旨（经史无二学、实事求是），并有对心学的正面批评；故其有学术主张，非仅技术。"
+    },
+    {
+     "claim": "其反对心学即反对一切义理",
+     "why": "所反对者是**空谈心性而不读书**；其本人的义理即寓于经史之实学，故是“以实学定义理”。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>钱大昕：经史无二学</text><defs><marker id='aQD' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>经与史同为记事之书</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>其文字制度皆须考订</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>而考订之法为一</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故经史无高下之别</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aQD)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aQD)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "钱大昕：“经史无二学”与“实事求是”（示意图）",
+   "sources": [
+    "ws-shiji",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "钱大昕无 SEP 专条（已试 qian-daxin，404）；本页依《清史稿》儒林传、《廿二史考异》与《潜研堂文集》原文，**属语境性引用而非专门研究**。其生卒（1728—1804）与仕历须核。",
+   "doctrine": {
+    "summary": "钱大昕是乾嘉史学的高峰：以《廿二史考异》把音韵训诂的方法用于史书的校订，以“经史无二学”打破经尊史卑的格局，以“实事求是”为治学的纲。故其位置是把考据学从治经扩为治史，并使史学有了独立的学术地位。",
+    "system": [
+     {
+      "name": "经史无二学",
+      "content": "经与史同为记事之书，考订之法为一，故无高下之别。"
+     },
+     {
+      "name": "实事求是",
+      "content": "凡断必有据，故义理须建于考订之上；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以音韵治史",
+      "content": "人名、地名、官名之误多由音近而致，故须以音韵校正。"
+     },
+     {
+      "name": "博及历算",
+      "content": "以天文历算治史，为其考据的一绝；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "嘉定与北京（1728—1804）",
+      "change": "乾隆十九年进士；官至广东学政；后主讲钟山、娄东诸书院；撰《廿二史考异》《十驾斋养新录》《潜研堂文集》；1804 年卒。"
+     }
+    ],
+    "reception": "其“经史无二学”使史学在清代获得独立的地位；其考据方法为近代史学所承；“实事求是”一语经其提倡而成为清代学术的標识之一。"
+   },
+   "works_detail": [
+    {
+     "title": "《廿二史考异》",
+     "structure": "一百卷：依诸史次序考订文字、音义、地理、职官与史事。",
+     "core_thesis": "以考据为史学的基础，实事求是。",
+     "editions": "上海古籍出版社方诗铭校点本",
+     "note": "乾隆间"
+    }
+   ]
+  },
+  {
+   "id": "cn-qingmod-wang-mingsheng",
+   "name": "王鸣盛",
+   "latin": "Wang Mingsheng",
+   "birth_year": 1722,
+   "death_year": 1797,
+   "birth_display": "1722年",
+   "death_display": "1797年",
+   "birth_note": "据《清史稿》儒林传：字凤喈，号西庄，江苏嘉定人；乾隆十九年进士（与钱大昕同年），官至光禄寺卿；后归里专事著述。",
+   "death_note": "1797年卒（《清史稿》儒林传）。",
+   "era": "清中叶。王鸣盛与钱大昕、赵翼并称清代史学三大家：其《十七史商榷》以考订为主而兼论史法，主张“**实事求是**”，不立空论。故其位置是：把考据的严密用于**史书的通读**（不止单条的校订），使史学成为可积累的学问。",
+   "school": "乾嘉史学（嘉定一系）",
+   "core_questions": [
+    "史书的文字与史事如何互证？",
+    "史法（书法）可否讨论？",
+    "考据与议论的界限何在？"
+   ],
+   "arguments": [
+    {
+     "claim": "考订与史法并重",
+     "premises": [
+      "史书的文字、地理、职官皆须校正。",
+      "而其书法与体例亦自有其义。"
+     ],
+     "inference": "若二者皆为史学的对象，则考订不可止于字句，须及于史法；故其书兼有“商榷”之义。",
+     "conclusion": "考订与史法并重（此说使史学批评有其地位）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "实事求是：不立空论",
+     "premises": [
+      "空论者无据而好断。",
+      "而有据者虽细亦可信。"
+     ],
+     "inference": "若断须有据，则议论亦须建于考订之上；故其说不废议论，只废无据之议论。",
+     "conclusion": "实事求是（此说为其治学的纲）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《十七史商榷》",
+     "edition": "中华书局黄曙辉点校本（版次待核）",
+     "note": "1787"
+    },
+    {
+     "title": "《蛾术编》",
+     "edition": "商务印书馆本（版次待核）",
+     "note": "清"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "顾炎武（其远源）",
+     "id": "cn-qingmod-gu-yanwu",
+     "note": "考据与经世的方法为其所承"
+    },
+    {
+     "name": "钱大昕（其同乡同榜）",
+     "id": "cn-qingmod-qian-daxin",
+     "note": "同为嘉定人，同为乾嘉史学的代表"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "赵翼与钱大昕（其同辈）",
+     "id": null,
+     "note": "三家并称，互相影响"
+    },
+    {
+     "name": "近代的史学考据",
+     "id": null,
+     "note": "其方法被广泛承用"
+    },
+    {
+     "name": "清代的书史之学",
+     "id": null,
+     "note": "其《蛾术编》多论学术源流"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "重“史义”的一系",
+     "view": "以商榷字句为史学之要，则史成为“校书”；史家的大判断（治乱之故）反被搁置。",
+     "response": "王鸣盛一系的回应是：判断须以事实为基，事实不清则判断必误；且其书亦论史法，非止校字。",
+     "kind": "原文",
+     "sources": [
+      "ws-mingru-xuean",
+      "ws-shiji"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《十七史商榷》是“校勘记”",
+     "why": "其书不止校字，兼考史事、制度与史法（“史识”）；故其为“以考订为基础的史学批评”。"
+    },
+    {
+     "claim": "其“实事求是”是“只考据不议论”",
+     "why": "其“实事求是”是对**空论**的反对，非对议论的禁止；其本人论史法处多有断制。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>王鸣盛：考订与史法并重</text><defs><marker id='aWM' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>史书的文字须校正</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而其书法自有其义</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故考订须及于史法</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>而断必以事实为基</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aWM)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aWM)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "王鸣盛：“考订与史法并重”与“实事求是”（示意图）",
+   "sources": [
+    "ws-shiji",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "王鸣盛无 SEP 专条（已试 wang-mingsheng，404）；本页依《清史稿》儒林传与《十七史商榷》原文（黄曙辉点校本），**属语境性引用而非专门研究**。其生卒（1722—1797）与仕历须核。",
+   "doctrine": {
+    "summary": "王鸣盛与钱大昕、赵翼并称清代史学三大家：其《十七史商榷》以考订为主而兼论史法，主张“实事求是”，不立空论。故其位置是把考据的严密用于史书的通读，使史学成为可积累的学问。",
+    "system": [
+     {
+      "name": "考订与史法并重",
+      "content": "文字制度须校正，而书法体例亦自有其义；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "实事求是",
+      "content": "断必以事实为基，故不废议论而废无据之议论。"
+     },
+     {
+      "name": "以考订为基础的批评",
+      "content": "史学批评须建于考订之上，方不流为空断；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "书史之学",
+      "content": "其《蛾术编》兼论学术的源流与书的体例；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "嘉定与北京（1722—1797）",
+      "change": "乾隆十九年进士（与钱大昕同年）；官至光禄寺卿；后归里著述；1787 年成《十七史商榷》；1797 年卒。"
+     }
+    ],
+    "reception": "其与钱大昕、赵翼三家并称乾嘉史学的高峰；《十七史商榷》至今为读十七史的必备参考；其“实事求是”与考订方法为近代史学所承。"
+   },
+   "works_detail": [
+    {
+     "title": "《十七史商榷》",
+     "structure": "一百卷：依十七史次序考订文字、史事、地理、职官，兼论史法。",
+     "core_thesis": "考订与史法并重，断必以事实为基。",
+     "editions": "中华书局黄曙辉点校本",
+     "note": "1787 年"
+    }
+   ]
+  },
+  {
+   "id": "cn-qingmod-zhao-yi",
+   "name": "赵翼",
+   "latin": "Zhao Yi",
+   "birth_year": 1727,
+   "death_year": 1814,
+   "birth_display": "1727年",
+   "death_display": "1814年",
+   "birth_note": "据《清史稿》文苑传：字云崧，号瓯北，江苏阳湖人；乾隆二十六年进士，官至贵西兵备道；后归里主讲安定书院，以诗与史著名。",
+   "death_note": "1814年卒（《清史稿》文传）。",
+   "era": "清中叶。赵翼是清代史学三大家中最重“**史法**”的一位：其《廿二史札记》以比较治史（就诸史比其异同），以“**势**”论制度与风气的变迁，并揭出史书的**曲笔与回护**。故其位置是：在考订之外开出**史学的批判**一路 —— 三家之中，他的判断最多，也最敢断。",
+   "school": "乾嘉史学（阳湖一系，重史法）",
+   "core_questions": [
+    "史书的曲笔如何辨识？",
+    "制度与风气的变迁有何“势”？",
+    "史家可否有大判断？"
+   ],
+   "arguments": [
+    {
+     "claim": "史书有曲笔与回护，须辨",
+     "premises": [
+      "史多出于当代人之手，或经后代的改修。",
+      "故其记事往往有讳。"
+     ],
+     "inference": "若史书有讳，则读史须**由异同见其讳**（比较诸史的记载）；故其方法是以比较揭出史书的隐曲。",
+     "conclusion": "辨曲笔（此说使史学有批判的功能）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "制度与风气的变迁有其“势”",
+     "premises": [
+      "制度之变多非一人之力。",
+      "而风气所趋，积而成势。"
+     ],
+     "inference": "若变迁有其势，则史家须说明“势”的积累，而非只归功过个人；故其说为一种**结构性的解释**。",
+     "conclusion": "以势论史（此说为制度史的雏形）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《廿二史札记》",
+     "edition": "中华书局王树民校证本（版次待核）",
+     "note": "1795"
+    },
+    {
+     "title": "《陔余丛考》",
+     "edition": "中华书局点校本（版次待核）",
+     "note": "清"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "王鸣盛与钱大昕（其同辈）",
+     "id": "cn-qingmod-wang-mingsheng",
+     "note": "三家并称，互有取资"
+    },
+    {
+     "name": "顾炎武（其远源）",
+     "id": "cn-qingmod-gu-yanwu",
+     "note": "以考据求治道的方法为其所承"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "近代的制度史与“大势”之论",
+     "id": null,
+     "note": "其“以势论史”为之先声"
+    },
+    {
+     "name": "清代的诗坛",
+     "id": null,
+     "note": "其诗与袁枚、蒋士铨并称"
+    },
+    {
+     "name": "史学批评",
+     "id": null,
+     "note": "其辨曲笔之法为后世所承"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "严谨的考据一系",
+     "view": "以大判断统摄诸史，则易流于“以论带史”：其引证时有疏略，其断亦有过当处。",
+     "response": "赵翼一系的回应是：史学的目的不只在订字，更在**明其所以然**；其引证虽有疏略，其问题意识则为考据所不能替代。",
+     "kind": "原文",
+     "sources": [
+      "ws-shiji",
+      "ws-hanshu"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《廿二史札记》是“读史笔记”",
+     "why": "其书虽以札记成，然有**系统的问题**（史法、制度之变、风气之移）；故其为“以比较治史”的著作。"
+    },
+    {
+     "claim": "其“以势论史”是宿命论",
+     "why": "其“势”指制度与风气积累而成的趋向，非不可改的天命；故其说仍留人之作为的余地。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>赵翼：辨曲笔与以势论史</text><defs><marker id='aZY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>史多出于当代人之手</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故其记事往往有讳</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故须比较诸史见其隐曲</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>而制度风气之变有其势</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aZY)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aZY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "赵翼：“辨曲笔”与“以势论史”（示意图）",
+   "sources": [
+    "ws-shiji",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "赵翼无 SEP 专条（已试 zhao-yi，404）；本页依《清史稿》文苑传与《廿二史札记》原文（王树民校证本），**属语境性引用而非专门研究**。其生卒（1727—1814）与仕历须核。",
+   "doctrine": {
+    "summary": "赵翼是清代史学三大家中最重史法的一位：《廿二史札记》以比较治史，以“势”论制度与风气的变迁，并揭出史书的曲笔与回护。故其位置是在考订之外开出史学的批判一路——三家之中，他的判断最多，也最敢断。",
+    "system": [
+     {
+      "name": "辨曲笔",
+      "content": "史多出当代人之手，故有讳；读史须由异同见其讳。"
+     },
+     {
+      "name": "以比较治史",
+      "content": "就诸史比其异同，异同之处即史法所在；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以势论史",
+      "content": "制度与风气的变迁有其势，非一人之力；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "敢断",
+      "content": "其判断最多，故其弊亦在“以论带史”；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "阳湖与贵西（1727—1814）",
+      "change": "乾隆二十六年进士；官至贵西兵备道；后归里主讲安定书院；1795 年成《廿二史札记》；1814 年卒。"
+     }
+    ],
+    "reception": "其“以势论史”为近代制度史与“大势”之论的先声；其辨曲笔之法为史学批评所承；其诗与袁枚、蒋士铨并称，故其名兼在文苑与儒林。"
+   },
+   "works_detail": [
+    {
+     "title": "《廿二史札记》",
+     "structure": "三十六卷：按史分卷，札记体例、史事与人物，末附史法诸条。",
+     "core_thesis": "以比较辨曲笔，以势论史；这是该书的核心命题。",
+     "editions": "中华书局王树民校证本",
+     "note": "1795 年"
+    }
+   ]
   }
  ],
  "concepts": [

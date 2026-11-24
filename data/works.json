@@ -22811,6 +22811,63 @@
    "sort_year": 1780
   },
   {
+   "id": "work-nianer-shi-kaoyi",
+   "title": "《廿二史考异》",
+   "title_original": "廿二史考異",
+   "tradition": "china",
+   "date_display": "清（钱大昕，1728—1804；乾隆间陆续成）",
+   "structure": "一百卷：依诸史次序，逐条考订其文字、音义、地理、职官、氏族与史事之误，为清代史学考据的典范之作。",
+   "core_arguments": [
+    "史书的文字与制度须逐条校正，方可以言史事之实",
+    "以音韵训诂治史：人名、地名、官名的讹误多由音近而致",
+    "“实事求是”：不立空论，凡断必有据"
+   ],
+   "key_points": [
+    {
+     "locator": "《史记》《汉书》诸卷",
+     "point": "文字与音义的校正"
+    },
+    {
+     "locator": "《后汉书》至《唐书》",
+     "point": "地理与职官的考订"
+    },
+    {
+     "locator": "《宋史》以下",
+     "point": "氏族与史事的辨正"
+    },
+    {
+     "locator": "全书",
+     "point": "以考据为史学的基础"
+    }
+   ],
+   "editions": [
+    "上海古籍出版社《廿二史考异》（方诗铭、周殿杰校点）"
+   ],
+   "related_people": [
+    "cn-qingmod-qian-daxin",
+    "cn-qingmod-wang-mingsheng",
+    "cn-qingmod-zhao-yi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“校勘记”，与史学无关",
+     "why": "其考订不止文字，兼及**地理、职官、氏族与史事**的辨正；故其书是把考据用作**史学的方法**，不限于校勘。"
+    },
+    {
+     "claim": "其“实事求是”只是“不谈义理”",
+     "why": "其意是**凡断必有据**；故它是对空论的约束，不是对义理的否认（其《潜研堂文集》多有论学论政之作）。"
+    }
+   ],
+   "sources": [
+    "ws-shiji",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《廿二史考异》的卷数（通行一百卷）与成书过程须核方诗铭等校点本；其考订的条目数亦须核。",
+   "sort_year": 1780
+  },
+  {
    "id": "work-krv",
    "title": "《纯粹理性批判》",
    "title_original": "Kritik der reinen Vernunft",
@@ -22959,6 +23016,7 @@
     "中华书局《十七史商榷》（黄曙辉点校）；商务印书馆本"
    ],
    "related_people": [
+    "cn-qingmod-wang-mingsheng",
     "cn-qingmod-zhang-xuecheng",
     "cn-qingmod-gu-yanwu",
     "cn-qingmod-dai-zhen"
@@ -23642,6 +23700,7 @@
     "中华书局《廿二史札记校证》（王树民校证）"
    ],
    "related_people": [
+    "cn-qingmod-zhao-yi",
     "cn-qingmod-zhang-xuecheng",
     "cn-qingmod-gu-yanwu",
     "cn-qingmod-dai-zhen"
@@ -23837,6 +23896,63 @@
    "sort_year": 1798
   },
   {
+   "id": "work-shijiazhai-yangxinlu",
+   "title": "《十驾斋养新录》",
+   "title_original": "十駕齋養新錄",
+   "tradition": "china",
+   "date_display": "清（钱大昕；1799年前后）",
+   "structure": "二十卷（附《余录》三卷）：札记经史、小学、金石、天文历算与典章制度的考订所得。",
+   "core_arguments": [
+    "以札记存考订：每条自成一题，积少成多",
+    "博及天文历算：以历算治史（如《三统历》的推步）",
+    "“养新”之义：学贵日新，不守旧说"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—六",
+     "point": "经史与小学"
+    },
+    {
+     "locator": "卷七—十二",
+     "point": "金石与地理"
+    },
+    {
+     "locator": "卷十三—十七",
+     "point": "天文历算与制度"
+    },
+    {
+     "locator": "《余录》",
+     "point": "补遗与杂考"
+    }
+   ],
+   "editions": [
+    "上海书店《十驾斋养新录》；江苏古籍出版社点校本"
+   ],
+   "related_people": [
+    "cn-qingmod-qian-daxin",
+    "cn-qingmod-dai-zhen",
+    "cn-qingmod-gu-yanwu"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“读书随笔”",
+     "why": "其札记每条皆有**考订的结论**（且多及天文历算与制度），故其为“以札记形式呈现的专门研究”，非随笔。"
+    },
+    {
+     "claim": "“养新”是“标新立异”",
+     "why": "其意是**学贵日新**（不守旧说而求证），非故意立异；其书多正前人之误，皆有据。"
+    }
+   ],
+   "sources": [
+    "ws-shiji",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《十驾斋养新录》的卷数与《余录》的关系须核江苏古籍出版社点校本；“养新”之义的原文亦须核。",
+   "sort_year": 1799
+  },
+  {
    "id": "work-xingming-guxun",
    "title": "《性命古训》",
    "title_original": "性命古訓",
@@ -23889,6 +24005,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1800
+  },
+  {
+   "id": "work-qianyantang-wenji",
+   "title": "《潜研堂文集》",
+   "title_original": "潛研堂文集",
+   "tradition": "china",
+   "date_display": "清（钱大昕；乾隆嘉庆间刊）",
+   "structure": "五十卷（通行本）：含经史论说、书札、序跋、传志与杂著，其论学宗旨散见其中。",
+   "core_arguments": [
+    "“经史无二学”：治经与治史同一方法（考据与实事求是）",
+    "反对“空谈心性”：以经史之实学代之",
+    "论音韵与金石：皆治经史的工具"
+   ],
+   "key_points": [
+    {
+     "locator": "论学诸篇",
+     "point": "经史无二学"
+    },
+    {
+     "locator": "书札",
+     "point": "与时贤的论辩"
+    },
+    {
+     "locator": "序跋",
+     "point": "评历代著作"
+    },
+    {
+     "locator": "传志",
+     "point": "人物与学风"
+    }
+   ],
+   "editions": [
+    "上海古籍出版社《潜研堂集》（吕友仁校点）"
+   ],
+   "related_people": [
+    "cn-qingmod-qian-daxin",
+    "cn-qingmod-dai-zhen",
+    "cn-songming-wang-yangming"
+   ],
+   "misreadings": [
+    {
+     "claim": "钱大昕只是“考据家”",
+     "why": "其《文集》有系统的论学宗旨（经史无二学、实事求是），并有对心学的正面批评；故其有**学术主张**，非仅技术。"
+    },
+    {
+     "claim": "其反对心学即反对一切义理",
+     "why": "其所反对者是**空谈心性而不读书**；其本人的义理即寓于经史之实学。故其说是“以实学定义理”，非取消义理。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "ct-mengzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《潜研堂文集》的卷数（通行五十卷）须核吕友仁校点本；“经史无二学”的原文亦须核。",
    "sort_year": 1800
   },
   {

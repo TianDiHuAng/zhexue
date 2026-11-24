@@ -2983,6 +2983,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“文笔”之分的确立（刘勰、萧绎等）与其后“文笔”渐混的过程须核相关研究；本页取其范畴义。"
+  },
+  {
+   "id": "cn-nanbei-tongbian",
+   "term": "通变",
+   "term_latin": "continuity and change (tong bian)",
+   "definition": "刘勰《文心雕龙·通变》的一对范畴：“通”是承其不变的理（文体之则），“变”是因其当变之势（文辞之新）。故其说是对“复古”与“逐新”的双向约束：不通知变则逐末，不变则守旧。其标准是“望今制奇，参古定法”。",
+   "usages": [
+    {
+     "name": "刘勰（其立）",
+     "id": "cn-nanbei-liuxie",
+     "usage": "以《通变》篇立“参古定法”之说。"
+    },
+    {
+     "name": "萧统（其同代）",
+     "usage": "以《文选》示“随时”的选文之例。"
+    },
+    {
+     "name": "叶燮（其后）",
+     "usage": "以“变而不失其正”承其通变之论。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-wenbi",
+    "cn-nanbei-shensi"
+   ],
+   "example": {
+    "text": "“通变”的要害是把**变化**当作有条件的：变须有所承（通则不散），承须有所变（变则不腐）。故其说既反对摹古（不知变），也反对逐新（不知通）—— 这一双向的约束，使它成为后世文论中最常被引用的“中庸式”命题。",
+    "figure": "刘勰",
+    "locator": "《文心雕龙·通变》"
+   },
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“通变”的原文（《文心雕龙·通变》）须核通行校注本；“望今制奇，参古定法”一语亦须核。"
   }
  ],
  "debates": [
