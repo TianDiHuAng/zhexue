@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1456,
+  "entries": 1463,
   "by_level": {
    "L2": 781,
-   "L1": 675
+   "L1": 682
   },
   "doctrine": {
-   "total": 287,
-   "detail": 287,
+   "total": 289,
+   "detail": 289,
    "auto": 0
   },
-  "needs_verification": 675,
+  "needs_verification": 682,
   "sources": 418,
   "sources_verified": 418
  },
@@ -38,10 +38,10 @@
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 25,
-   "concepts": 27,
+   "philosophers": 27,
+   "concepts": 28,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -17"
+   "philosophers_slot": "8 上限，余 -19"
   },
   {
    "unit_id": "cn-songming",
@@ -1496,6 +1496,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-qingmod-yu-yue",
+   "type": "philosopher",
+   "title": "俞樾",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-sun-yirang",
+   "type": "philosopher",
+   "title": "孙诒让",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-qingmod-jingshi-zhizhiyong",
    "type": "concept",
    "title": "经世致用",
@@ -1785,6 +1807,17 @@
    "id": "cn-qingmod-xuci",
    "type": "concept",
    "title": "虚词",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-yili-shuoshu",
+   "type": "concept",
+   "title": "以例说书",
    "container": "cn-qingmod",
    "level": "L1",
    "sources": 3,
@@ -13783,6 +13816,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-qunjing-pingyi",
+   "type": "work",
+   "title": "《群经平议》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-capital",
    "type": "work",
    "title": "《资本论》",
@@ -13937,6 +13981,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-zhouli-zhengyi",
+   "type": "work",
+   "title": "《周礼正义》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-logical-investigations",
    "type": "work",
    "title": "《逻辑研究》",
@@ -13995,6 +14050,17 @@
    "id": "work-geming-jun",
    "type": "work",
    "title": "《革命军》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-qiwen-juli",
+   "type": "work",
+   "title": "《契文举例》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -15689,6 +15755,17 @@
    "id": "cmp-xuci",
    "type": "comparative",
    "title": "“虚词”与“syncategoremata”：无实义之词的地位",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-qiwen",
+   "type": "comparative",
+   "title": "甲骨与“新材”：新材料能否改旧学？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

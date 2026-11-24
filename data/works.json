@@ -24330,6 +24330,63 @@
    "sort_year": 1861
   },
   {
+   "id": "work-qunjing-pingyi",
+   "title": "《群经平议》",
+   "title_original": "群經平議",
+   "tradition": "china",
+   "date_display": "清（俞樾，1821—1907；1860年代）",
+   "structure": "三十五卷（通行本）：依《周易》《尚书》《毛诗》《礼记》《春秋》诸经，逐条评议旧注的得失。",
+   "core_arguments": [
+    "以“平议”为体：不专主一家，逐条断其是非",
+    "“以例说经”：据古书的通例（倒文、省文、变文）辨旧注之失",
+    "以音义互求正前人之误"
+   ],
+   "key_points": [
+    {
+     "locator": "《周易》《尚书》",
+     "point": "辨旧注之失"
+    },
+    {
+     "locator": "《毛诗》《礼记》",
+     "point": "以例正读"
+    },
+    {
+     "locator": "《春秋》三传",
+     "point": "辨三传之异"
+    },
+    {
+     "locator": "全书",
+     "point": "平议之体"
+    }
+   ],
+   "editions": [
+    "中华书局《春在堂全书》本；《续修四库全书》本"
+   ],
+   "related_people": [
+    "cn-qingmod-yu-yue",
+    "cn-qingmod-wang-yinzhi",
+    "cn-qingmod-wang-niansun"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“经解的汇编”",
+     "why": "其体是**平议**：逐条断其是非（而非汇录诸说），故其性质是“批评的经解”，其价值在“敢于断”。"
+    },
+    {
+     "claim": "其“以例说经”皆可信",
+     "why": "其弊正在于“例”的滥用（凡不合者强为之说）；后世（如章太炎）已有批评。故须与原文相参。"
+    }
+   ],
+   "sources": [
+    "ws-mingyi",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《群经平议》的卷数（通行三十五卷）须核《春在堂全书》本；“平议”之体与王氏父子的“述闻／杂志”之别亦须分辨。",
+   "sort_year": 1865
+  },
+  {
    "id": "work-capital",
    "title": "《资本论》",
    "title_original": "Das Kapital",
@@ -24475,6 +24532,7 @@
     "中华书局《古书疑义举例五种》（合刊本）"
    ],
    "related_people": [
+    "cn-qingmod-yu-yue",
     "cn-qingmod-wang-yinzhi",
     "cn-qingmod-wang-niansun",
     "cn-qingmod-duan-yucai"
@@ -24922,6 +24980,7 @@
     "中华书局《墨子间诂》（孙启治点校）；上海书店影印本"
    ],
    "related_people": [
+    "cn-qingmod-sun-yirang",
     "cn-qingmod-wang-yinzhi",
     "cn-qingmod-wang-niansun",
     "cn-xianqin-mozi"
@@ -25116,6 +25175,63 @@
    "needs_verification": true,
    "pending_notes": "《劝学篇》1898 年初刊与其内外篇篇目须核中华书局评注本；“中体西用”一语的先例须逐条核（冯桂芬《校邠庐抗议》等）。",
    "sort_year": 1898
+  },
+  {
+   "id": "work-zhouli-zhengyi",
+   "title": "《周礼正义》",
+   "title_original": "周禮正義",
+   "tradition": "china",
+   "date_display": "清（孙诒让，1848—1908；1899年成）",
+   "structure": "八十六卷：疏证《周礼》全书，兼采汉唐至清的注疏，并及制度、名物、职官的考订。",
+   "core_arguments": [
+    "“以制度解经”：职官、名物、礼制须有其制度的实况",
+    "“疏不破注而补其阙”：承郑玄注而补正之",
+    "“以古书与古器相证”：兼用金石与文献"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—十",
+     "point": "天官冢宰"
+    },
+    {
+     "locator": "卷十一—三十",
+     "point": "地官司徒"
+    },
+    {
+     "locator": "卷三十一—五十",
+     "point": "春官宗伯"
+    },
+    {
+     "locator": "以下诸卷",
+     "point": "夏官、秋官、冬官"
+    }
+   ],
+   "editions": [
+    "中华书局《周礼正义》（王文锦、陈玉霞点校）"
+   ],
+   "related_people": [
+    "cn-qingmod-sun-yirang",
+    "cn-qingmod-yu-yue",
+    "cn-xianqin-xunzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“注释的汇集”",
+     "why": "其书以郑注为纲而**补正之**（“疏不破注而补其阙”），并以制度与古器相证；故它是“集大成的疏证”，不是汇录。"
+    },
+    {
+     "claim": "《周礼》既为“伪书”，则其疏证无意义",
+     "why": "其价值在**制度的考订**：即使《周礼》非周公之书，其所记的制度仍是研究古代制度的一等材料。故其疏证不因“真伪”而废。"
+    }
+   ],
+   "sources": [
+    "ws-liji",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《周礼正义》的卷数与成书（1899）须核中华书局点校本；“疏不破注而补其阙”的表述亦须核其凡例。",
+   "sort_year": 1899
   },
   {
    "id": "work-logical-investigations",
@@ -25454,6 +25570,63 @@
    "needs_verification": true,
    "pending_notes": "《革命军》1903 年初刊的文本与其后的翻印异文须核中华书局《邹容文集》；其排满表述的历史语境须如实标出，不作美化也不作苛责。",
    "sort_year": 1903
+  },
+  {
+   "id": "work-qiwen-juli",
+   "title": "《契文举例》",
+   "title_original": "契文舉例",
+   "tradition": "china",
+   "date_display": "清（孙诒让，1904年成书）",
+   "structure": "二卷：分日月、贞卜、卜事、鬼神、卜人、官制、方国、典礼、文字、杂例十类，考释甲骨文的字形与辞例。",
+   "core_arguments": [
+    "甲骨文是**商代的文字**，可以字释字",
+    "以《说文》与小篆以上溯甲骨的字形",
+    "以辞例（卜辞的格式）推其义"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上",
+     "point": "日月、贞卜、卜事"
+    },
+    {
+     "locator": "卷上",
+     "point": "鬼神与卜人"
+    },
+    {
+     "locator": "卷下",
+     "point": "官制、方国、典礼"
+    },
+    {
+     "locator": "卷下",
+     "point": "文字与杂例"
+    }
+   ],
+   "editions": [
+    "中华书局《孙诒让全集》本；《契文举例》影印本"
+   ],
+   "related_people": [
+    "cn-qingmod-sun-yirang",
+    "cn-qingmod-wang-yinzhi",
+    "cn-qingmod-zhang-taiyan"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“第一部甲骨学著作”",
+     "why": "首部著录甲骨的是刘鹗《铁云藏龟》（1903），首部考释而成书的是孙诒让《契文举例》（1904）；故它是“第一部考释之作”，不是第一部著录。"
+    },
+    {
+     "claim": "其考释多已过时故无价值",
+     "why": "其方法与方向（以《说文》上溯、以辞例推义）为后世所承；其具体的字释虽有误，其**开创的路径**不可废。"
+    }
+   ],
+   "sources": [
+    "ws-shiji",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《契文举例》的成书（1904）与十类的分类须核《孙诒让全集》本；其与刘鹗《铁云藏龟》（1903）的先后关系亦须分辨。",
+   "sort_year": 1904
   },
   {
    "id": "work-protestant-ethic",

@@ -3902,6 +3902,309 @@
      "note": "1798 年"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-yu-yue",
+   "name": "俞樾",
+   "latin": "Yu Yue",
+   "birth_year": 1821,
+   "death_year": 1907,
+   "birth_display": "1821年",
+   "death_display": "1907年",
+   "birth_note": "据《清史稿》儒林传：字荫甫，号曲园，浙江德清人；道光进士，官河南学政，罢归后主讲杭州诂经精舍三十年；章太炎、吴昌硕等出其门下。",
+   "death_note": "1907年卒（《清史稿》儒林传）。",
+   "era": "晚清。俞樾是乾嘉考据学的**最后一位大师与向下传递者**：以《群经平议》《诸子平议》把“以例说书”的方法推及群经诸子，以《古书疑义举例》把古书的“通例”系统化为八十八例。其功在方法的普及（弟子遍东南），其弊亦在此：例既立而滥施，则易流于附会 —— 这一弊病在晚年已为章太炎等所指。",
+   "school": "晚清考据学（曲园一系）",
+   "core_questions": [
+    "古书的“例”可否系统化？",
+    "以例说书如何避免附会？",
+    "经学与诸子学的关系如何？"
+   ],
+   "arguments": [
+    {
+     "claim": "古书自有通例，可归纳为若干类",
+     "premises": [
+      "古书的用字、句法、行文有其惯例（倒文、省文、变文、避讳）。",
+      "而这些惯例多以实例呈现。"
+     ],
+     "inference": "若惯例可由实例归纳，则难读之处可先求其例；故其方法是**例的归纳**，其成果是《古书疑义举例》的八十八例。",
+     "conclusion": "以例说书（此方法使校读有可循的路径）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "诸子与经同等可治",
+     "premises": [
+      "诸子之书亦有古书之例。",
+      "而其义理不可尽以经绳之。"
+     ],
+     "inference": "若诸子自有其例，则治之须用同一套校读之法；故其学把经学的技术推及诸子，开晚清诸子学之风。",
+     "conclusion": "以治经之法治诸子（此说开诸子学的复兴）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《群经平议》",
+     "edition": "《春在堂全书》本（版次待核）",
+     "note": "1865"
+    },
+    {
+     "title": "《古书疑义举例》",
+     "edition": "中华书局《古书疑义举例五种》",
+     "note": "1870年代"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "王引之（其法之所本）",
+     "id": "cn-qingmod-wang-yinzhi",
+     "note": "“以例正读”为其方法的来源"
+    },
+    {
+     "name": "王念孙（其再上）",
+     "id": "cn-qingmod-wang-niansun",
+     "note": "音义互求为其校读的基础"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "章太炎（其弟子）",
+     "id": "cn-qingmod-zhang-taiyan",
+     "note": "以小学治国故，然亦批评其例之滥"
+    },
+    {
+     "name": "孙诒让（其同调）",
+     "id": null,
+     "note": "以同一方法治《周礼》《墨子》"
+    },
+    {
+     "name": "晚清的诸子学",
+     "id": null,
+     "note": "由其平议之作而风气大开"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "章太炎一系",
+     "view": "“以例说书”若滥，则凡不合者皆可强为之说；例愈多则断愈任意，此晚清校读之通病。",
+     "response": "俞樾一系的回应是：例出于**大量的实例**，非一人之臆；若后学滥用，则非立例者之过。但其本人晚年亦渐慎于立例。",
+     "kind": "原文",
+     "sources": [
+      "ws-mingyi",
+      "ws-liji"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《群经平议》是“经解汇编”",
+     "why": "其体是**平议**（逐条断其是非），而非汇录；其价值在“敢于断”，其风险亦在“断之过易”。"
+    },
+    {
+     "claim": "其“以例说书”皆可信",
+     "why": "其弊在例之滥用；故须与原文及后人的纠正相参，不可徒据其例。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>俞樾：以例说书</text><defs><marker id='aYY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>古书自有通例</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故可归纳为例</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故难读处先求其例</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>而滥例则流于附会</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aYY)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aYY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "俞樾：以例说书与“例之滥用”的风险（示意图）",
+   "sources": [
+    "ws-mingyi",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "俞樾无 SEP 专条（已试 yu-yue，404）；本页依《清史稿》儒林传、《古书疑义举例》原文（中华书局合刊本），**属语境性引用而非专门研究**。其生卒（1821—1907）与诂经精舍的经历须核。",
+   "doctrine": {
+    "summary": "俞樾是乾嘉考据学的最后一位大师与向下传递者：以《群经平议》《诸子平议》把“以例说书”推及群经诸子，以《古书疑义举例》把古书的通例系统化为八十八例。其功在方法的普及，其弊亦在此：例既立而滥施，则易流于附会。",
+    "system": [
+     {
+      "name": "以例说书",
+      "content": "古书有通例，可归纳为例，难读处先求其例。"
+     },
+     {
+      "name": "平议之体",
+      "content": "逐条断其是非，不专主一家；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以治经之法治诸子",
+      "content": "同一套校读之法推及诸子，开诸子学之风；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "滥例之弊",
+      "content": "例愈多则断愈任意，为后学所戒；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "德清与杭州（1821—1907）",
+      "change": "道光三十年进士；官河南学政；罢归后主讲杭州诂经精舍三十年；1865 年前后成《群经平议》；1870 年代成《古书疑义举例》；1907 年卒。"
+     }
+    ],
+    "reception": "其《古书疑义举例》经刘师培、杨树达等续补，成为校读古书的入门典范；其门下（章太炎等）转出新学；其“以例说书”之弊亦成为后世方法论的鉴戒。"
+   },
+   "works_detail": [
+    {
+     "title": "《古书疑义举例》",
+     "structure": "七卷：列举古书八十八种疑义之例（用字、句法、行文、避讳）。",
+     "core_thesis": "古书有通例，以例可解其难读；这是该书的核心命题。",
+     "editions": "中华书局《古书疑义举例五种》",
+     "note": "1870 年代"
+    }
+   ]
+  },
+  {
+   "id": "cn-qingmod-sun-yirang",
+   "name": "孙诒让",
+   "latin": "Sun Yirang",
+   "birth_year": 1848,
+   "death_year": 1908,
+   "birth_display": "1848年",
+   "death_display": "1908年",
+   "birth_note": "据《清史稿》儒林传：字仲容，号籀庼，浙江瑞安人；同治举人，官刑部主事，后归里治学；精于经子、文字与金石，兼办地方新学。",
+   "death_note": "1908年卒（《清史稿》儒林传）。",
+   "era": "晚清。孙诒让是清代朴学的**殿军**：以《周礼正义》集制度疏证之大成，以《墨子间诂》开墨学复兴之门，又以《契文举例》为**第一部甲骨文的考释之作**（1904）。故其位置是：把乾嘉的方法推到**新材料的门前** —— 甲骨一出，旧方法须更新，而他是第一位跨过去的人。",
+   "school": "晚清朴学（经子与古文字）",
+   "core_questions": [
+    "制度如何由经以见？",
+    "诸子（尤其墨学）可否复兴？",
+    "新出的甲骨文如何进入经学的方法？"
+   ],
+   "arguments": [
+    {
+     "claim": "以制度解经：职官、名物须有其实况",
+     "premises": [
+      "《周礼》所记的职官与礼制，非空言可通。",
+      "而制度的实况须以古书与古器相证。"
+     ],
+     "inference": "若制度须以实况相证，则疏证《周礼》非徒释文，而须考其制度；故其《周礼正义》是“制度之学”的集大成。",
+     "conclusion": "以制度解经（此说使经学与制度史合流）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "甲骨文可释，故经学须纳新材",
+     "premises": [
+      "甲骨文是商代的文字，其字形可与小篆以上溯。",
+      "而卜辞自有其辞例。"
+     ],
+     "inference": "若甲骨可释，则经学的字义之学须纳此新材；故其《契文举例》虽多误，其**路径**却为后世所承。",
+     "conclusion": "以甲骨入经学（此说开甲骨学与古文字学的现代之路）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《周礼正义》",
+     "edition": "中华书局点校本（王文锦等，版次待核）",
+     "note": "1899"
+    },
+    {
+     "title": "《墨子间诂》",
+     "edition": "中华书局《墨子间诂》点校本（版次待核）",
+     "note": "1894"
+    },
+    {
+     "title": "《契文举例》",
+     "edition": "《孙诒让全集》本（版次待核）",
+     "note": "1904"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "俞樾（其同调）",
+     "id": "cn-qingmod-yu-yue",
+     "note": "同以校读之法治群书"
+    },
+    {
+     "name": "王念孙、王引之（其法之所本）",
+     "id": "cn-qingmod-wang-yinzhi",
+     "note": "音义互求与以例正读"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "罗振玉、王国维（其后）",
+     "id": null,
+     "note": "以甲骨与金石建立现代的古史研究"
+    },
+    {
+     "name": "章太炎（其同代）",
+     "id": "cn-qingmod-zhang-taiyan",
+     "note": "同以小学治国故，而取径不同"
+    },
+    {
+     "name": "现代的周礼学与甲骨学",
+     "id": null,
+     "note": "以其书为起点"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "疑古一系（其后）",
+     "view": "《周礼》非周公之书，其制度多出后人之构想；故以之为“制度之实况”来疏证，其前提可疑。",
+     "response": "孙诒让一系的回应是：即使《周礼》非周公之书，其所记制度仍是研究古代制度的**一等材料**；疏证的价值在“知其制度”，不在“证其作者”。",
+     "kind": "原文",
+     "sources": [
+      "ws-liji",
+      "ws-hanshu"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《契文举例》是第一部甲骨学著作",
+     "why": "首部**著录**甲骨的是刘鹗《铁云藏龟》（1903），首部**考释**而成书的是《契文举例》（1904）；故它是第一部考释之作。"
+    },
+    {
+     "claim": "《周礼》既伪则其疏证无意义",
+     "why": "其价值在**制度的考订**：所记制度仍是研究古代制度的一等材料，故不因真伪而废。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>孙诒让：制度与新材料</text><defs><marker id='aSY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>以制度解经</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>以古书古器相证</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>而甲骨可释</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故经学须纳新材</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aSY)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aSY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "孙诒让：以制度解经与以甲骨入经学（示意图）",
+   "sources": [
+    "ws-liji",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "孙诒让无 SEP 专条（已试 sun-yirang，404）；本页依《清史稿》儒林传、《周礼正义》《契文举例》原文，**属语境性引用而非专门研究**。其生卒（1848—1908）与著述年代须核。",
+   "doctrine": {
+    "summary": "孙诒让是清代朴学的殿军：以《周礼正义》集制度疏证之大成（以制度解经，以古书古器相证），以《墨子间诂》开墨学复兴之门，又以《契文举例》为第一部甲骨文的考释之作。故其把乾嘉的方法推到新材料的门前 —— 甲骨一出，旧方法须更新，而他是第一位跨过去的人。",
+    "system": [
+     {
+      "name": "以制度解经",
+      "content": "职官、名物、礼制须有其制度的实况；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "疏不破注而补其阙",
+      "content": "承郑注而补正之，非徒汇录；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以甲骨入经学",
+      "content": "甲骨可释，故字义之学须纳新材；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "诸子可治",
+      "content": "以治经之法治《墨子》，开墨学复兴；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "瑞安与北京（1848—1908）",
+      "change": "同治六年举人；官刑部主事；后归里治学；1894 年成《墨子间诂》；1899 年成《周礼正义》；1904 年成《契文举例》；兼办地方新学；1908 年卒。"
+     }
+    ],
+    "reception": "《周礼正义》至今是治《周礼》的必备之书；《墨子间诂》使墨学成为专门之学；《契文举例》开甲骨考释之路，其方法与方向为罗振玉、王国维所承。"
+   },
+   "works_detail": [
+    {
+     "title": "《周礼正义》",
+     "structure": "八十六卷：疏证《周礼》全书，兼采汉唐至清的注疏。",
+     "core_thesis": "以制度解经，疏不破注而补其阙。",
+     "editions": "中华书局点校本（具体版次待核）",
+     "note": "1899 年"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -4900,6 +5203,45 @@
    ],
    "needs_verification": true,
    "pending_notes": "“虚词”一名与其分类须核《经传释词》；其与现代“功能词／语气词”的对应亦须分辨。"
+  },
+  {
+   "id": "cn-qingmod-yili-shuoshu",
+   "term": "以例说书",
+   "term_latin": "explaining texts by their conventions",
+   "definition": "晚清校读学的核心方法（俞樾、孙诒让等）：古书自有其**通例**（倒文、省文、变文、避讳、上下文异字同义），故难读之处可先求其例，再定其词。其方法是归纳的（例出于大量实例），其风险是滥施（例立而断任意）。",
+   "usages": [
+    {
+     "name": "俞樾（其系统化）",
+     "id": "cn-qingmod-yu-yue",
+     "usage": "以《古书疑义举例》归纳八十八例。"
+    },
+    {
+     "name": "王引之（其先）",
+     "id": "cn-qingmod-wang-yinzhi",
+     "usage": "以“例”正旧注之失，为其法之所本。"
+    },
+    {
+     "name": "孙诒让（其推及）",
+     "id": "cn-qingmod-sun-yirang",
+     "usage": "以同一方法治《周礼》《墨子》。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-xuci",
+    "cn-qingmod-yinsheng-qiuyi"
+   ],
+   "example": {
+    "text": "“以例说书”的要害是把**行文的惯例**当作解读的工具：不通其例，则古书的省略与倒装皆成“错误”；通则难读处自解。其危险亦在此：例是归纳的，若以未足的例绳无穷的书，则解读变成附会 —— 故其法之善用在于“以例求通”，其滥用在于“以例为断”。",
+    "figure": "俞樾",
+    "locator": "《古书疑义举例》"
+   },
+   "sources": [
+    "ws-mingyi",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“以例说书”的八十八例须核《古书疑义举例》原文；其与王引之“以例正读”的关系亦须分辨。"
   }
  ],
  "debates": [
