@@ -4854,6 +4854,166 @@
      "note": "1958 年"
     }
    ]
+  },
+  {
+   "id": "gr-20c-kuhn",
+   "name": "库恩",
+   "latin": "Thomas S. Kuhn",
+   "birth_year": 1922,
+   "death_year": 1996,
+   "birth_display": "1922年",
+   "death_display": "1996年",
+   "birth_note": "据其自述与 SEP 词条：生于辛辛那提，物理学博士出身（哈佛），后转向科学史；1950—60年代在伯克利、普林斯顿、MIT任教。",
+   "death_note": "1996年卒于剑桥（马萨诸塞）。",
+   "era": "20世纪。库恩以《科学革命的结构》（1962）改变了科学哲学的地形：科学不是累积的知识增长，而是“常规科学”在**范式**内的解谜，间以“革命”的范式转换。其“不可通约”“范式”“常规科学”诸说引发了关于科学合理性、科学教育与科学史的长达数十年的争论；他本人则反复澄清自己不是非理性主义者。",
+   "school": "20世纪科学哲学（历史主义）",
+   "core_questions": [
+    "科学如何变化：累积还是革命？",
+    "范式是什么，转换何以发生？",
+    "范式之间是否可比？"
+   ],
+   "arguments": [
+    {
+     "claim": "科学的变化是“常规—革命”的循环",
+     "premises": [
+      "常规科学在范式内解谜，其目标是“解决疑难”而非“检验理论”。",
+      "而当疑难累积成“反常”，范式便陷入危机，遂有革命。"
+     ],
+     "inference": "若科学的常态是解谜而非反驳，则“证伪”不能描述科学的实际运作；故其说是对波普尔式图景的历史修正 —— 它把**社会学与教育**的维度引入科学哲学。",
+     "conclusion": "常规科学与革命的循环（此说改变了科学哲学的议题）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "范式之间不可通约：无共同标准可逐条衡量",
+     "premises": [
+      "不同范式对“何谓问题”“何谓解答”有不同规定。",
+      "而标准本身随范式而变。"
+     ],
+     "inference": "若标准随范式而变，则范式之间不能逐条比较；故“转换”不是论证的结论，而是**格式塔转换**与说服的过程。这一结论是其“不可通约”之说的核心。",
+     "conclusion": "不可通约：无共同标准（此说引发关于科学合理性的长期争论）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《科学革命的结构》",
+     "edition": "中译参金吾伦、胡新和译（北京大学出版社）；英文 Chicago 第四版",
+     "note": "1962"
+    },
+    {
+     "title": "《必要的张力》",
+     "edition": "中译参纪树立等译（福建人民出版社）",
+     "note": "1977"
+    },
+    {
+     "title": "《黑体理论与量子的不连续性》",
+     "edition": "英文 Chicago 版",
+     "note": "1978"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "亚里士多德（其科学史研究的起点）",
+     "id": null,
+     "note": "其第一部书即研究亚里士多德的物理学"
+    },
+    {
+     "name": "波普尔（其批评对象）",
+     "id": "gr-20c-popper",
+     "note": "以“证伪”描述科学，库恩以其“常规科学”修正之"
+    },
+    {
+     "name": "蒯因（其同代）",
+     "id": "gr-20c-quine",
+     "note": "整体论与库恩的“范式”有呼应"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "科学社会学（其影响）",
+     "id": null,
+     "note": "以“范式”为分析单位"
+    },
+    {
+     "name": "科学哲学的历史转向",
+     "id": null,
+     "note": "以其为标志"
+    },
+    {
+     "name": "“范式”一词的日常化",
+     "id": null,
+     "note": "成为最被滥用的学术词之一"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "波普尔与拉卡托斯一系",
+     "view": "指其“不可通约”导致相对主义：若范式之间无共同标准，则科学进步无从谈起。",
+     "response": "库恩的回应是：进步可在**解谜能力**的意义上谈（范式能解决更多、更精确的疑难）；他晚年并提出“学科基质”与“词汇表”的分层，以缓和不可通约的强读。",
+     "kind": "原文",
+     "sources": [
+      "sep-thomas-kuhn",
+      "sep-popper"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "库恩主张科学是非理性的",
+     "why": "他强调转换中有说服、教育、代际更替等因素，但也强调常规科学的严格训练；故其说是对“理性”的**重新描述**，不是非理性主义。"
+    },
+    {
+     "claim": "“范式”就是“理论”",
+     "why": "范式包含理论，但还包括范例（exemplar）、方法、价值与教育方式；故其外延远大于“理论”。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>库恩：常规科学与革命</text><defs><marker id='aTK' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>常规科学在范式内解谜</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>反常累积成危机</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故有革命与范式转换</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故范式间不可通约</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aTK)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aTK)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "库恩：常规科学、危机与范式转换（示意图）",
+   "sources": [
+    "sep-thomas-kuhn",
+    "sep-popper",
+    "sep-quine"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "库恩以《科学革命的结构》改变科学哲学的地形：科学的常态是**常规科学**在**范式**内解谜，而非不断证伪；当反常累积成危机，遂有革命与范式转换。范式之间**不可通约**（无共同标准可逐条衡量），故转换不是论证的结论而是格式塔转换与说服的过程。他本人反复澄清这不是非理性主义。",
+    "system": [
+     {
+      "name": "范式",
+      "content": "含理论、范例、方法与价值的整体，非仅“理论”。"
+     },
+     {
+      "name": "常规科学",
+      "content": "在范式内解谜，其目标是解决疑难而非检验理论。"
+     },
+     {
+      "name": "不可通约",
+      "content": "无共同标准可逐条衡量，故须“翻译”与会话。"
+     },
+     {
+      "name": "革命",
+      "content": "范式转换，非累积的知识增长；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "辛辛那提、哈佛与MIT（1922—1996）",
+      "change": "1949 年哈佛物理学博士；转向科学史；1957 年《哥白尼革命》；1962 年《科学革命的结构》；1960—70 年代在伯克利、普林斯顿、MIT 任教；1996 年卒。"
+     }
+    ],
+    "reception": "《科学革命的结构》成为20世纪最被引用的学术著作之一；“范式”“不可通约”进入日常语汇；其说引发科学哲学的历史转向与关于科学合理性的长期争论。"
+   },
+   "works_detail": [
+    {
+     "title": "《科学革命的结构》",
+     "structure": "十四章：导论、常规科学的道路、反常与危机的出现、革命的解决与“不可通约”。",
+     "core_thesis": "科学的常态是解谜，变革是革命。",
+     "editions": "中译参金吾伦、胡新和译（北京大学出版社）",
+     "note": "1962 年"
+    }
+   ]
   }
  ],
  "concepts": [

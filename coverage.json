@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1327,
+  "entries": 1330,
   "by_level": {
-   "L2": 780,
-   "L1": 547
+   "L2": 781,
+   "L1": 549
   },
   "doctrine": {
-   "total": 271,
-   "detail": 271,
+   "total": 272,
+   "detail": 272,
    "auto": 0
   },
-  "needs_verification": 547,
-  "sources": 412,
-  "sources_verified": 412
+  "needs_verification": 549,
+  "sources": 413,
+  "sources_verified": 413
  },
  "units": [
   {
@@ -92,10 +92,10 @@
    "unit_id": "gr-20c",
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
-   "philosophers": 32,
+   "philosophers": 33,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -24"
+   "philosophers_slot": "8 上限，余 -25"
   },
   {
    "unit_id": "gr-ancient",
@@ -111,7 +111,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 12,
-   "concepts": 23,
+   "concepts": 24,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -4818,6 +4818,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-20c-kuhn",
+   "type": "philosopher",
+   "title": "库恩",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-20c-sense-reference",
    "type": "concept",
    "title": "意义与指称",
@@ -6240,6 +6251,17 @@
    "id": "gr-contemp-pingyong-zhi-e",
    "type": "concept",
    "title": "平庸之恶",
+   "container": "gr-contemp",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-contemp-fanshi",
+   "type": "concept",
+   "title": "范式",
    "container": "gr-contemp",
    "level": "L1",
    "sources": 3,
@@ -14270,6 +14292,17 @@
    "id": "cmp-zhengti",
    "type": "comparative",
    "title": "整体论与“理一分殊”：知识的网与理的结构",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-fanshi",
+   "type": "comparative",
+   "title": "范式转换与“道统”更替：两种“框架”的更换",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
