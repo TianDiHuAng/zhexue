@@ -18795,6 +18795,63 @@
    "sort_year": 1927
   },
   {
+   "id": "work-logik-der-forschung",
+   "title": "《科学发现的逻辑》",
+   "title_original": "Logik der Forschung",
+   "tradition": "west",
+   "date_display": "1934年（波普尔；英译本1959年）",
+   "structure": "两部分：①科学逻辑的基本问题（归纳问题、可证伪性、经验基础）；②概率与量子力学中的方法论问题。",
+   "core_arguments": [
+    "归纳不可能被证明：从有限观察推不出全称命题",
+    "**可证伪性**（falsifiability）是科学与非科学的分界",
+    "科学是“猜想与反驳”：理论永不被证实，只被暂时支持"
+   ],
+   "key_points": [
+    {
+     "locator": "第1章",
+     "point": "归纳问题"
+    },
+    {
+     "locator": "第4—5章",
+     "point": "可证伪性"
+    },
+    {
+     "locator": "第2章",
+     "point": "经验基础与约定"
+    },
+    {
+     "locator": "第8章",
+     "point": "概率与倾向"
+    }
+   ],
+   "editions": [
+    "德文 Mohr 版（1934）；英译（The Logic of Scientific Discovery, 1959）；中译参《科学发现的逻辑》"
+   ],
+   "related_people": [
+    "gr-20c-popper",
+    "gr-modern-hume",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "波普尔主张“科学理论可以被证实”",
+     "why": "他明确反对：理论**永不能被证实**，只能被“暂时支持”（corroborated）；其判据是可证伪性。"
+    },
+    {
+     "claim": "“可证伪性”是区分真假的判据",
+     "why": "它是**分界**判据（科学与非科学），不是真假判据；一个可证伪但尚未被否证的理论仍不是“真”的。"
+    }
+   ],
+   "sources": [
+    "sep-popper",
+    "sep-hume",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《科学发现的逻辑》1934 年德文初版与 1959 年英译本（增补甚多）有重大差异；本页依英译本与 SEP 词条概述，具体章节须核两版。",
+   "sort_year": 1934
+  },
+  {
    "id": "work-crisis-sciences",
    "title": "《欧洲科学的危机与先验现象学》",
    "title_original": "Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie",
@@ -20038,6 +20095,63 @@
    "sort_year": 1969
   },
   {
+   "id": "work-aesthetische-theorie",
+   "title": "《美学理论》",
+   "title_original": "Ästhetische Theorie",
+   "tradition": "west",
+   "date_display": "1970年（阿多诺，遗著）",
+   "structure": "以片段（parataxis）体例写成，无章节编号：论艺术的真理性、幻相（Schein）、自律与他律、自然美与崇高。",
+   "core_arguments": [
+    "艺术的真理性内容（Wahrheitsgehalt）不在其“意义”，而在其**结构**对现实的抵抗",
+    "“幻相”（Schein）是艺术的双重性：它既是假象，又是真理的显现",
+    "自律（Autonomie）是艺术的社会性：正因不直接服务，才保存了批判的可能"
+   ],
+   "key_points": [
+    {
+     "locator": "导论",
+     "point": "艺术的双重性格"
+    },
+    {
+     "locator": "论幻相",
+     "point": "Schein 与真理"
+    },
+    {
+     "locator": "论自律",
+     "point": "自律即社会性"
+    },
+    {
+     "locator": "论自然美",
+     "point": "自然美与崇高"
+    }
+   ],
+   "editions": [
+    "德文 Suhrkamp 版（Gesammelte Schriften 第7卷）；中译参《美学理论》（王柯平译，四川人民出版社）"
+   ],
+   "related_people": [
+    "gr-20c-adorno",
+    "gr-german-hegel",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“为艺术而艺术”的理论",
+     "why": "其“自律”不是与社会无关，而是**以不直接服务的方式保存社会批判的可能**；故它与唯美主义相反。"
+    },
+    {
+     "claim": "其片段体例只是未完成",
+     "why": "阿多诺明确以“片段”（parataxis）为**方法**：以并置取代体系，正是为了不让概念吞噬对象。故片段是形式的选择，不只是未完成。"
+    }
+   ],
+   "sources": [
+    "sep-adorno",
+    "sep-hegel",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《美学理论》为遗著（1970 年由 Adorno 遗稿整理出版），其文本的编次与完整性有讨论；本页依中译本与 SEP 词条概述。",
+   "sort_year": 1970
+  },
+  {
    "id": "work-theory-justice",
    "title": "《正义论》",
    "title_original": "A Theory of Justice",
@@ -20263,6 +20377,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1976
+  },
+  {
+   "id": "work-theorie-kommunikativen",
+   "title": "《交往行为理论》",
+   "title_original": "Theorie des kommunikativen Handelns",
+   "tradition": "west",
+   "date_display": "1981年（哈贝马斯）",
+   "structure": "两卷：第一卷论“理性”的概念（工具理性与交往理性）与社会学的理性化理论（韦伯、卢卡奇、阿多诺）；第二卷论“生活世界”与“系统”的两层社会结构。",
+   "core_arguments": [
+    "交往理性：以“更好的论据之无强制力”为达成共识的条件",
+    "生活世界（Lebenswelt）被“系统”（市场与行政）**殖民化**（生活世界的殖民化）",
+    "以“有效性声称”（真实性、正当性、真诚性）分析言语行为"
+   ],
+   "key_points": [
+    {
+     "locator": "第一卷 第一章",
+     "point": "工具理性与交往理性"
+    },
+    {
+     "locator": "第一卷 第二—三章",
+     "point": "韦伯与法兰克福学派的理性批判"
+    },
+    {
+     "locator": "第二卷 第五章",
+     "point": "生活世界"
+    },
+    {
+     "locator": "第二卷 第六章",
+     "point": "系统与生活世界的殖民化"
+    }
+   ],
+   "editions": [
+    "德文 Suhrkamp 版；中译参《交往行为理论》（曹卫东译，上海人民出版社）；英译（McCarthy）"
+   ],
+   "related_people": [
+    "gr-contemp-habermas",
+    "gr-20c-horkheimer",
+    "gr-20c-adorno"
+   ],
+   "misreadings": [
+    {
+     "claim": "“交往理性”是一种新的工具理性",
+     "why": "其区别在于**指向**：工具理性以成功为指向（手段—目的），交往理性以**相互理解**为指向；故前者可被后者约束，不能被替代。"
+    },
+    {
+     "claim": "“生活世界的殖民化”是悲观的诊断",
+     "why": "其目的是为**交往理性的制度化**留出空间（法律与公共领域），故它是一个批判的纲领，不是终局论。"
+    }
+   ],
+   "sources": [
+    "sep-habermas",
+    "sep-adorno",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《交往行为理论》的两卷结构与“生活世界”“系统”概念的来源（胡塞尔、帕森斯、卢曼）须核；本页依中译本与 SEP 词条概述。",
+   "sort_year": 1981
   },
   {
    "id": "work-time-narrative",
