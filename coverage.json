@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1490,
+  "entries": 1497,
   "by_level": {
    "L2": 781,
-   "L1": 709
+   "L1": 716
   },
   "doctrine": {
-   "total": 296,
-   "detail": 296,
+   "total": 298,
+   "detail": 298,
    "auto": 0
   },
-  "needs_verification": 709,
+  "needs_verification": 716,
   "sources": 418,
   "sources_verified": 418
  },
@@ -29,10 +29,10 @@
    "unit_id": "cn-nanbei",
    "title": "南北朝佛道与形神之争",
    "region": "china",
-   "philosophers": 12,
-   "concepts": 26,
+   "philosophers": 13,
+   "concepts": 27,
    "debates": 6,
-   "philosophers_slot": "8 上限，余 -4"
+   "philosophers_slot": "8 上限，余 -5"
   },
   {
    "unit_id": "cn-qingmod",
@@ -47,10 +47,10 @@
    "unit_id": "cn-songming",
    "title": "宋明理学与心学",
    "region": "china",
-   "philosophers": 23,
+   "philosophers": 24,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -15"
+   "philosophers_slot": "8 上限，余 -16"
   },
   {
    "unit_id": "cn-suitang",
@@ -880,6 +880,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-nanbei-zhongrong",
+   "type": "philosopher",
+   "title": "钟嵘",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-nanbei-shenmie",
    "type": "concept",
    "title": "神灭",
@@ -1158,6 +1169,17 @@
    "id": "cn-nanbei-yinxiu",
    "type": "concept",
    "title": "隐秀",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-shensi",
+   "type": "concept",
+   "title": "神思",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -2225,6 +2247,17 @@
    "id": "cn-songming-su-shi",
    "type": "philosopher",
    "title": "苏轼",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-songming-tang-xianzu",
+   "type": "philosopher",
+   "title": "汤显祖",
    "container": "cn-songming",
    "level": "L1",
    "sources": 3,
@@ -12771,6 +12804,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-shisou",
+   "type": "work",
+   "title": "《诗薮》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-mudanting",
+   "type": "work",
+   "title": "《牡丹亭》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-advancement-learning",
    "type": "work",
    "title": "《学术的进展》",
@@ -13236,6 +13291,17 @@
    "id": "work-yanyuan-ji",
    "type": "work",
    "title": "《颜元集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-daijingtang-shihua",
+   "type": "work",
+   "title": "《带经堂诗话》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -16063,6 +16129,17 @@
    "id": "cmp-suqing",
    "type": "comparative",
    "title": "“由情见性”与“情感为认知之源”：情能显示什么？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-qingzhi",
+   "type": "comparative",
+   "title": "“情至”与“爱欲的阶梯”：情能通天吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

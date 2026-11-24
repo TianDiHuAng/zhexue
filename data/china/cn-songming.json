@@ -3517,6 +3517,155 @@
      "note": "约1090 年"
     }
    ]
+  },
+  {
+   "id": "cn-songming-tang-xianzu",
+   "name": "汤显祖",
+   "latin": "Tang Xianzu",
+   "birth_year": 1550,
+   "death_year": 1616,
+   "birth_display": "1550年",
+   "death_display": "1616年",
+   "birth_note": "据《明史》本传：字义仍，号海若、若士，江西临川人；万历进士，官遂昌知县，因忤权贵罢归；晚年专事戏曲。",
+   "death_note": "1616年卒（《明史》本传）。",
+   "era": "晚明。汤显祖以“**情至**”说立一与理学相对的主张：情之至者可以生死人（“生者可以死，死可以生”），故其《牡丹亭》以梦与魂写情，以情抗礼法之“理”。其学承泰州学派（罗汝芳）一系，故其位置是：**以戏曲为哲学的言说** —— 这在理学的话语之外另开一路。",
+   "school": "晚明泰州一系（以情抗理，以戏曲言道）",
+   "core_questions": [
+    "情之至者能否超越生死？",
+    "“理”与“情”孰为人之本？",
+    "梦与醒孰为真？"
+   ],
+   "arguments": [
+    {
+     "claim": "情之至者可以生死人",
+     "premises": [
+      "情之至者，人不能自已。",
+      "而人之生死，本系于其情之所系。"
+     ],
+     "inference": "若情之至者可生可死，则情非“性之附庸”，而是**人之本**；故其说以情为本，抗外在之“理”。",
+     "conclusion": "情至说（此说以戏曲的形式表达，为晚明的情论之极致）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "梦中之真胜于醒时之礼",
+     "premises": [
+      "梦中之情无所饰。",
+      "而醒时之礼多所拘。"
+     ],
+     "inference": "若梦中的情更真，则“真”的标准不在合乎礼，而在**情之无饰**；故其剧以“梦”为真之境。",
+     "conclusion": "以梦为真（此说使“真”脱离礼法的标准）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《牡丹亭》",
+     "edition": "人民文学出版社徐朔方校注本（版次待核）",
+     "note": "1598"
+    },
+    {
+     "title": "《玉茗堂集》",
+     "edition": "上海古籍出版社《汤显祖集》（版次待核）",
+     "note": "明"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "罗汝芳（其师）",
+     "id": "cn-songming-luo-qinshun",
+     "note": "泰州一系的“赤子之心”为其情论之源"
+    },
+    {
+     "name": "王阳明（其远源）",
+     "id": "cn-songming-wang-yangming",
+     "note": "“良知”说经泰州而转出重情一路"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "晚明的“情”的思潮",
+     "id": null,
+     "note": "冯梦龙等“情教”之说与之同调"
+    },
+    {
+     "name": "清代的戏曲与言情小说",
+     "id": null,
+     "note": "《长生殿》《红楼梦》皆承其绪"
+    },
+    {
+     "name": "现代的“以情抗理”论",
+     "id": null,
+     "note": "常以其为标志"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "清代的礼法论者",
+     "view": "以情为本则礼法无所立；“情之至者可以生死人”是文人的夸张，行之于世则乱，故其说只能为戏曲之辞，不可为教化之经。",
+     "response": "汤显祖一系的回应是：其所抗者是**以礼法为理**的假理，非一切秩序；且其所言者为“情之真”，非“情之纵”（其剧终以“圆驾”收，仍归于礼）。",
+     "kind": "原文",
+     "sources": [
+      "ws-zhuzi-yulei",
+      "ct-zhuangzi"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《牡丹亭》只是“爱情故事”",
+     "why": "其“情至”是一个**主张**，故其剧是“以情抗理”的哲学表达，非仅情节。"
+    },
+    {
+     "claim": "汤显祖反对一切“理”",
+     "why": "其所抗者是**以礼法为理**的外在规范，非一切条理；其剧终仍归于礼（“圆驾”）。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>汤显祖：情至可以生死人</text><defs><marker id='aTX' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>情之至者不能自已</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而生死系于情之所系</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故情为人之本</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故以情抗礼法之理</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aTX)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aTX)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "汤显祖：“情至”说与以情抗理（示意图）",
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "汤显祖无 SEP 专条（已试 tang-xianzu，404）；本页依《明史》本传、《牡丹亭题词》与徐朔方校注本，**属语境性引用而非专门研究**。其生卒（1550—1616）与师从罗汝芳之事须核。",
+   "doctrine": {
+    "summary": "汤显祖以“情至”说立一与理学相对的主张：情之至者可以生死人，故其《牡丹亭》以梦与魂写情，以情抗礼法之“理”。其学承泰州一系（罗汝芳），故其位置是“以戏曲为哲学的言说”——在理学话语之外另开一路。",
+    "system": [
+     {
+      "name": "情至",
+      "content": "情之至者可以生死人，故情为人之本；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以情抗理",
+      "content": "所抗者是以礼法为理的外在规范；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以梦为真",
+      "content": "梦中之情无饰，故“真”的标准不在合礼；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "终归于礼",
+      "content": "其剧以“圆驾”收，故其说不废秩序；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "临川与遂昌（1550—1616）",
+      "change": "万历十一年进士；官遂昌知县；因忤权贵罢归；1598 年成《牡丹亭》；晚年专事戏曲；1616 年卒（与莎士比亚同年）。"
+     }
+    ],
+    "reception": "其“情至”说成为晚明“情”的思潮的标志；《牡丹亭》为明清传奇的巅峰，其后《长生殿》《红楼梦》皆承其绪；其说亦为现代讨论“情与理”时所必引。"
+   },
+   "works_detail": [
+    {
+     "title": "《牡丹亭》",
+     "structure": "五十五出：杜丽娘因梦而亡、因情而复生。",
+     "core_thesis": "情之至者可以生死人；这是该书的核心命题。",
+     "editions": "人民文学出版社徐朔方校注本",
+     "note": "1598 年"
+    }
+   ]
   }
  ],
  "concepts": [

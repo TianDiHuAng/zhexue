@@ -1809,6 +1809,150 @@
      "note": "约510 年"
     }
    ]
+  },
+  {
+   "id": "cn-nanbei-zhongrong",
+   "name": "钟嵘",
+   "latin": "Zhong Rong",
+   "birth_year": 468,
+   "death_year": 518,
+   "birth_display": "约468年",
+   "death_display": "约518年",
+   "birth_note": "据《梁书》《南史》本传：字仲伟，颍川长社人；齐永明中为国子生，入梁官至西中郎晋安王记室，世称“钟记室”。生卒年无确考，此处为通行推定。",
+   "death_note": "约518年卒（推定）。",
+   "era": "南朝梁。钟嵘的《诗品》是中国第一部**诗论专著**：分上中下三品，品评汉至梁的五言诗人一百二十余家；以“**滋味**”说诗之善（非徒事用典与声律），以“**直寻**”说诗的写法（即目所见而直致其情）。故其位置是：把诗的评判从“学问与声律”转向**感受**。",
+   "school": "南朝诗论（《诗品》一系）",
+   "core_questions": [
+    "诗之高下以何为准？",
+    "用典与声律是否诗之本？",
+    "何谓“有滋味”？"
+   ],
+   "arguments": [
+    {
+     "claim": "诗之善在有滋味",
+     "premises": [
+      "诗之动人不在其用事之博与声律之密。",
+      "而在其“指事造形，穷情写物”之能。"
+     ],
+     "inference": "若诗之善在滋味，则评判的标准是**感受的厚薄**，非学问的多少；故其说与“以典为诗”的风气相对。",
+     "conclusion": "滋味说（此说为后世“韵味”一系的源头之一）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "诗贵直寻，不贵补假",
+     "premises": [
+      "“思君如流水”是即目所见。",
+      "而“明月照积雪”是直接所感。"
+     ],
+     "inference": "若即目直致者更动人，则“补假”（堆砌典故）为诗之病；故其说以“直寻”为诗法的上乘。",
+     "conclusion": "直寻说（此说为“自然”一系张目）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《诗品》",
+     "edition": "人民文学出版社陈延杰《诗品注》（版次待核）",
+     "note": "约515"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "刘勰（其同代）",
+     "id": "cn-nanbei-liuxie",
+     "note": "同以“情”与“辞”论诗，而取径不同"
+    },
+    {
+     "name": "陆机（其先）",
+     "id": null,
+     "note": "“诗缘情”为其滋味说的前提"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "司空图（其后）",
+     "id": null,
+     "note": "“味外之旨”承其滋味说"
+    },
+    {
+     "name": "严羽（其再后）",
+     "id": null,
+     "note": "以“妙悟”承其重感受的一路"
+    },
+    {
+     "name": "后世的“神韵”一系",
+     "id": null,
+     "note": "皆以其为远源"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后世的“尊陶”论者",
+     "view": "陶潜为古今第一流诗人，而《诗品》列之中品；可见其品第的标准有偏（重“词采”而轻“高境”）。",
+     "response": "钟嵘一系的回应是：其品第所据者是**当时的评价与诗体的源流**（陶诗在齐梁尚未大显）；且其“滋味”之说并不贬陶，只不以“高绝”为唯一标准。",
+     "kind": "原文",
+     "sources": [
+      "ws-wenxin-diaolong",
+      "ct-zhuangzi"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《诗品》是“诗人排行榜”",
+     "why": "其“品”含“体”与“味”的判断（陶潜列中品而后世以为屈）；故其书是**批评的体系**，非排行榜。"
+    },
+    {
+     "claim": "“滋味”只是比喻",
+     "why": "其“滋味”有标准（指事造形、穷情写物、直寻），故非空喻。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>钟嵘：滋味与直寻</text><defs><marker id='aZR' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>诗之感人不在典与律</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而在穷情写物</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故以滋味为断</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故以直寻为高</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aZR)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aZR)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "钟嵘：“滋味”说与“直寻”说（示意图）",
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "钟嵘无 SEP 专条（已试 zhong-rong，404）；本页依《梁书》《南史》本传与《诗品》原文（陈延杰注本），**属语境性引用而非专门研究**。其生卒（约468—约518）无确考。",
+   "doctrine": {
+    "summary": "钟嵘的《诗品》是中国第一部诗论专著：分三品品评汉至梁的五言诗人一百二十余家，以“滋味”说诗之善（非徒事用典与声律），以“直寻”说诗的写法（即目所见而直致其情）。故其位置是把诗的评判从“学问与声律”转向感受。",
+    "system": [
+     {
+      "name": "滋味",
+      "content": "诗之善在感人，故以感受的厚薄为断；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "直寻",
+      "content": "即目所见而直致其情，不以补假为工；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以品第诗",
+      "content": "三品之分含“体”与“味”的判断，非仅高下。"
+     },
+     {
+      "name": "五言为主",
+      "content": "以五言为“众作之有滋味者”，故专论五言。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "长社与建康（约468—约518）",
+      "change": "齐永明中为国子生；入梁官西中郎晋安王记室；撰《诗品》（约515）；生卒年无确考。"
+     }
+    ],
+    "reception": "《诗品》为后世诗话的远源；其“滋味”说经司空图的“味外之旨”而成为“神韵”一系的根柢；其品第（尤其陶潜列中品）则成为历代争论的话题。"
+   },
+   "works_detail": [
+    {
+     "title": "《诗品》",
+     "structure": "三卷：分上中下三品，品评汉至梁的五言诗人一百二十余家。",
+     "core_thesis": "诗以滋味为断，以直寻为高；这是该书的核心命题。",
+     "editions": "人民文学出版社陈延杰《诗品注》",
+     "note": "约515 年"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -2763,6 +2907,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“隐秀”的原文（《文心雕龙·隐秀》有残缺）须核通行校注本；“隐”“秀”二字的界说亦须核。"
+  },
+  {
+   "id": "cn-nanbei-shensi",
+   "term": "神思",
+   "term_latin": "imaginative contemplation (shen si)",
+   "definition": "刘勰《文心雕龙·神思》的核心范畴：创作之始，精神“思接千载”“视通万里”，即想象不受时空之限。其条件是“虚静”（“陶钧文思，贵在虚静”）与“积学”（“积学以储宝”），故其说是“想象”与“修养”的合一。",
+   "usages": [
+    {
+     "name": "刘勰（其立）",
+     "id": "cn-nanbei-liuxie",
+     "usage": "以《神思》篇立“思接千载”之说。"
+    },
+    {
+     "name": "陆机（其先）",
+     "usage": "以“应感通塞”言构思，为其先声。"
+    },
+    {
+     "name": "钟嵘（其同代）",
+     "id": "cn-nanbei-zhongrong",
+     "usage": "以“直寻”言诗法，取径不同；这一用法须与相邻概念分辨。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-yinxiu",
+    "cn-nanbei-yishu"
+   ],
+   "example": {
+    "text": "“神思”的要害是把想象说成**有条件的自由**：思可接千载、通万里，然须以“虚静”为其门、以“积学”为其粮。故其说既不是浪漫的无待，也不是工夫的机械 —— 这一点使它区别于后世对“灵感”的单纯神化。",
+    "figure": "刘勰",
+    "locator": "《文心雕龙·神思》"
+   },
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“神思”的原文（《文心雕龙·神思》）须核通行校注本；“虚静”与“积学”的关系亦须核。"
   }
  ],
  "debates": [

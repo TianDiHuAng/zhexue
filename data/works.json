@@ -10424,9 +10424,9 @@
     "人民文学出版社《诗品注》（陈延杰）；中华书局《钟嵘诗品校释》"
    ],
    "related_people": [
+    "cn-nanbei-zhongrong",
     "cn-nanbei-liuxie",
-    "cn-suitang-sikong-tu",
-    "cn-songming-yan-yu"
+    "cn-suitang-sikong-tu"
    ],
    "misreadings": [
     {
@@ -18337,6 +18337,120 @@
    "sort_year": 1590
   },
   {
+   "id": "work-shisou",
+   "title": "《诗薮》",
+   "title_original": "詩藪",
+   "tradition": "china",
+   "date_display": "明（胡应麟，1551—1602）",
+   "structure": "内编六卷、外编六卷、杂编六卷、续编二卷：以“体”与“代”为纲，论历代诗的体制与流变。",
+   "core_arguments": [
+    "“体格声调”与“兴象风神”：诗有形式与神韵两面，须二者兼备",
+    "以“代”论诗：各代有其体，体有正变",
+    "以“格”衡诗：以汉魏盛唐为格之高者"
+   ],
+   "key_points": [
+    {
+     "locator": "内编",
+     "point": "古今体与时代"
+    },
+    {
+     "locator": "外编",
+     "point": "历代诗评"
+    },
+    {
+     "locator": "杂编",
+     "point": "遗逸与考证"
+    },
+    {
+     "locator": "续编",
+     "point": "明诗的评骘"
+    }
+   ],
+   "editions": [
+    "中华书局《诗薮》（校点本）；上海古籍出版社本"
+   ],
+   "related_people": [
+    "cn-songming-yan-yu",
+    "cn-suitang-sikong-tu",
+    "cn-songming-tang-xianzu"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“诗话的汇编”",
+     "why": "其书有明确的**纲目**（体格声调与兴象风神、以代论体）；故它是“体系性的诗论”，非汇编。"
+    },
+    {
+     "claim": "其“以汉魏盛唐为格”是拟古",
+     "why": "其说重在**兼综**（形式与神韵并重），且对明人的拟古有所批评；故不可径视为复古。"
+    }
+   ],
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ws-zhuzi-yulei",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《诗薮》的内外杂续编卷数与成书须核中华书局校点本；其与前后七子的关系亦须分辨。",
+   "sort_year": 1590
+  },
+  {
+   "id": "work-mudanting",
+   "title": "《牡丹亭》",
+   "title_original": "牡丹亭（還魂記）",
+   "tradition": "china",
+   "date_display": "明（汤显祖，1550—1616；1598年成）",
+   "structure": "五十五出：杜丽娘因梦而亡、因情而复生的故事，分“言怀”至“圆驾”诸出。",
+   "core_arguments": [
+    "“情至”说：情之至者可以生死人（“生者可以死，死可以生”）",
+    "“理”与“情”的对立：以情抗理（礼法）",
+    "“梦”为真：梦中之情比醒时之礼更真"
+   ],
+   "key_points": [
+    {
+     "locator": "〈惊梦〉〈寻梦〉",
+     "point": "情之至"
+    },
+    {
+     "locator": "〈写真〉〈拾画〉",
+     "point": "生死以情"
+    },
+    {
+     "locator": "〈冥判〉〈回生〉",
+     "point": "情胜于理"
+    },
+    {
+     "locator": "全剧",
+     "point": "以情抗理"
+    }
+   ],
+   "editions": [
+    "人民文学出版社《牡丹亭》（徐朔方、杨笑梅校注）"
+   ],
+   "related_people": [
+    "cn-songming-tang-xianzu",
+    "cn-songming-luo-qinshun",
+    "cn-songming-wang-yangming"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是“爱情故事”",
+     "why": "其“情至”是一个**主张**（情之至者可以生死人），故其剧是“以情抗理”的哲学表达，非仅情节。"
+    },
+    {
+     "claim": "汤显祖反对一切“理”",
+     "why": "其所抗者是**以礼法为理**的“理”（外在的规范），非一切条理；其本人重“情”而不废“才”与“识”。"
+    }
+   ],
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《牡丹亭》的出数（通行五十五出）与成书（1598）须核徐朔方校注本；“情至”说的原文（《牡丹亭题词》）亦须核。",
+   "sort_year": 1598
+  },
+  {
    "id": "work-advancement-learning",
    "title": "《学术的进展》",
    "title_original": "The Advancement of Learning",
@@ -20770,6 +20884,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《颜元集》的编排（四存编与言行录）与各篇年代须核中华书局点校本；其“习行”与王阳明“知行合一”的异同亦须分辨。",
+   "sort_year": 1700
+  },
+  {
+   "id": "work-daijingtang-shihua",
+   "title": "《带经堂诗话》",
+   "title_original": "帶經堂詩話",
+   "tradition": "china",
+   "date_display": "清（王士禛，1634—1711；后人辑）",
+   "structure": "三十卷（张宗枏辑）：分八门（品藻、指摘、考订、评驳、笺注、类聚、外纪等），辑其论诗之语。",
+   "core_arguments": [
+    "“神韵”说：诗之妙在“不着一字，尽得风流”（承司空图、严羽）",
+    "“清远”为尚：以冲淡、清远、蕴藉为高",
+    "以“兴会”言诗：诗成于一时之兴，非关学力"
+   ],
+   "key_points": [
+    {
+     "locator": "品藻门",
+     "point": "神韵与清远"
+    },
+    {
+     "locator": "考订门",
+     "point": "诗事的考证"
+    },
+    {
+     "locator": "评驳门",
+     "point": "对历代诗论的取舍"
+    },
+    {
+     "locator": "外纪",
+     "point": "诗坛的见闻"
+    }
+   ],
+   "editions": [
+    "人民文学出版社《带经堂诗话》（戴鸿森校点）"
+   ],
+   "related_people": [
+    "cn-songming-yan-yu",
+    "cn-suitang-sikong-tu",
+    "cn-nanbei-zhongrong"
+   ],
+   "misreadings": [
+    {
+     "claim": "“神韵”是王士禛独创",
+     "why": "其说承**司空图**的“象外之象”与**严羽**的“妙悟”，而加以“清远”的取向；故其功在“集成与择取”，非独创。"
+    },
+    {
+     "claim": "“神韵”说反对学问",
+     "why": "王士禛本人博洽（多考订之作）；其说只以“兴会”为诗之所由生，不以学问为诗之究竟。"
+    }
+   ],
+   "sources": [
+    "ws-wenxin-diaolong",
+    "sep-chinese-metaphysics",
+    "ct-zhuangzi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《带经堂诗话》为张宗枏辑本（三十卷），其门类与王士禛原文的对应须核戴鸿森校点本；“神韵”说的渊源亦须核。",
    "sort_year": 1700
   },
   {
