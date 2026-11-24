@@ -23393,6 +23393,63 @@
    "sort_year": 1764
   },
   {
+   "id": "work-beobachtungen-schoenen",
+   "title": "《论优美感与崇高感》",
+   "title_original": "Beobachtungen über das Gefühl des Schönen und Erhabenen",
+   "tradition": "west",
+   "date_display": "1764（康德）",
+   "structure": "四章：论优美感与崇高感的不同对象、论两性、论民族性、论二者的结合。",
+   "core_arguments": [
+    "优美（das Schöne）与崇高（das Erhabene）是两种不同的情感",
+    "以“道德的感觉”论二者的关系：优美近于“同情”，崇高近于“敬重”",
+    "以民族与性别论趣味的差异（含当时的偏见，须标出）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "优美与崇高"
+    },
+    {
+     "locator": "第二章",
+     "point": "两性"
+    },
+    {
+     "locator": "第三章",
+     "point": "民族性"
+    },
+    {
+     "locator": "第四章",
+     "point": "二者的结合"
+    }
+   ],
+   "editions": [
+    "德文 Meiner 版；英译（Observations on the Feeling of the Beautiful and Sublime, California）；中译参《康德著作全集》第2卷"
+   ],
+   "related_people": [
+    "gr-german-kant",
+    "gr-german-winckelmann",
+    "gr-german-hamann"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《判断力批判》的简写本",
+     "why": "其书是**前批判期**的观察与随笔（道德情感与趣味），而《判断力批判》是成熟的批判体系（先验的论证）；故二者不可混同。"
+    },
+    {
+     "claim": "其“民族性”与“两性”之说可作人类学结论",
+     "why": "其中含**当时的偏见**（如对“黑人”与女性的论断），须**如实标出**而不美化；故读之须带批判。"
+    }
+   ],
+   "sources": [
+    "sep-kant",
+    "sep-aesthetics-18th-german",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论优美感与崇高感》的四章与 1764 年初版须核 Meiner 版；其中关于民族与两性的论断含当时偏见，本页已如实标出，不美化。",
+   "sort_year": 1764
+  },
+  {
    "id": "work-mengzi-sishu-lu",
    "title": "《孟子私淑录》",
    "title_original": "孟子私淑錄",
@@ -23500,6 +23557,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《拉奥孔》的章次与“最富孕育性的顷刻”一语的原文须核 Reclam 版与朱光潜译本；其与温克尔曼的争论亦须分辨。",
+   "sort_year": 1766
+  },
+  {
+   "id": "work-traeume-geisterseher",
+   "title": "《通灵者之梦》",
+   "title_original": "Träume eines Geistersehers, erläutert durch Träume der Metaphysik",
+   "tradition": "west",
+   "date_display": "1766（康德）",
+   "structure": "一部（不分卷）：以施韦登堡的“通灵”为引，论形而上学的界限与“ spirits ”之不可知。",
+   "core_arguments": [
+    "以讽刺的笔法论“灵界”：形而上学的独断与通灵者的幻想同属“梦”",
+    "“界”的概念只对**经验的对象**有意义；无形体的灵不属于可能经验",
+    "故形而上学须先批判自身的能力（此为其批判哲学的先声）"
+   ],
+   "key_points": [
+    {
+     "locator": "前篇",
+     "point": "以梦喻形而上学"
+    },
+    {
+     "locator": "中篇",
+     "point": "灵与空间"
+    },
+    {
+     "locator": "后篇",
+     "point": "界限与谦逊"
+    },
+    {
+     "locator": "全书",
+     "point": "批判的前奏"
+    }
+   ],
+   "editions": [
+    "德文 Meiner 版；英译（Dreams of a Spirit-Seer, Cambridge）；中译参《康德著作全集》第2卷"
+   ],
+   "related_people": [
+    "gr-german-kant",
+    "gr-modern-hume",
+    "gr-german-hamann"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“神秘学著作”",
+     "why": "其书是**讽刺的批判**（以通灵者的梦比形而上学的梦），目的是划定知识的界限；故其实为批判哲学的前奏。"
+    },
+    {
+     "claim": "其态度是“轻蔑宗教”",
+     "why": "其锋芒在**独断的形而上学**，非宗教本身；其晚期《单纯理性限度内的宗教》可证。"
+    }
+   ],
+   "sources": [
+    "sep-kant",
+    "sep-hume",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《通灵者之梦》的成书（1766）与三部分的编排须核 Meiner 版；“以梦喻形而上学”的自述亦须核。",
    "sort_year": 1766
   },
   {
@@ -24462,6 +24576,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1781
+  },
+  {
+   "id": "work-prolegomena",
+   "title": "《未来形而上学导论》",
+   "title_original": "Prolegomena zu einer jeden künftigen Metaphysik, die als Wissenschaft wird auftreten können",
+   "tradition": "west",
+   "date_display": "1783（康德）",
+   "structure": "一部（含《附录》与《附释》）：以“分析的方法”重述《纯粹理性批判》的主旨，回应对其的误解。",
+   "core_arguments": [
+    "先天综合判断如何可能？—— 此即批判哲学的总问题",
+    "以数学与自然科学为例证：其“先天综合”的性质",
+    "形而上学的界限：只对经验的对象有效，故“自在之物”不可知"
+   ],
+   "key_points": [
+    {
+     "locator": "前言",
+     "point": "回应对《批判》的误解"
+    },
+    {
+     "locator": "正题",
+     "point": "先天综合如何可能"
+    },
+    {
+     "locator": "注释",
+     "point": "与诸家的商榷"
+    },
+    {
+     "locator": "附录",
+     "point": "对唯心论的驳斥"
+    }
+   ],
+   "editions": [
+    "德文 Meiner 版；英译（Prolegomena to Any Future Metaphysics, Cambridge）；中译参《未来形而上学导论》（庞景仁译，商务）"
+   ],
+   "related_people": [
+    "gr-german-kant",
+    "gr-modern-hume",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是《纯粹理性批判》的摘要",
+     "why": "其书用**分析的方法**（由“科学实则存在”回溯其条件），而《批判》用**综合的方法**（由先天要素构造）；故二者方法相反、功能互补。"
+    },
+    {
+     "claim": "其“自在之物”是神秘的存在",
+     "why": "其“自在之物”是**认识的界限概念**（非对象，而是“不可知”的标志）；故其为界限之说，非本体论的主张。"
+    }
+   ],
+   "sources": [
+    "sep-kant",
+    "sep-hume",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《未来形而上学导论》的成书（1783）与“分析方法”的自述须核 Meiner 版与庞景仁译本；其与《批判》的方法之别亦须分辨。",
+   "sort_year": 1783
   },
   {
    "id": "work-ideen-philosophie-geschichte",

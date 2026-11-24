@@ -2854,6 +2854,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“目的王国”的原文（《奠基》第二章）与“目的自身”的表述须核；其与“绝对命令”诸式的等价性问题亦须分辨。"
+  },
+  {
+   "id": "gr-german-kategorischer-imperativ",
+   "term": "绝对命令",
+   "term_latin": "categorical imperative",
+   "definition": "康德伦理学的核心：道德法则的命令是**无条件的**（不假任何目的），故其形式为“要只按照你同时愿意它成为普遍法则的准则去行动”。其要点是：道德的命令不从欲望与后果取得条件，而从**形式**（可普遍化）取得其必然性。",
+   "usages": [
+    {
+     "name": "康德（其立）",
+     "id": "gr-german-kant",
+     "usage": "以《奠基》立绝对命令及其诸式。"
+    },
+    {
+     "name": "黑格尔（其批）",
+     "id": "gr-german-hegel",
+     "usage": "以其“形式主义”无内容而讥之。"
+    },
+    {
+     "name": "密尔（其批）",
+     "usage": "以功利原则代其形式原则；这一用法须与相邻概念分辨。"
+    }
+   ],
+   "related": [
+    "gr-german-zweckreich"
+   ],
+   "example": {
+    "text": "“绝对命令”的要害是把道德的**约束力**放在形式上：不是说“这样做有好处”，而是说“这样做的准则能否被普遍化”。其力量是它保住了道德的严格性（不许例外）；其困难是黑格尔的批评：形式的检验不足以定内容（什么准则不能普遍化，仍须具体判断）。",
+    "figure": "康德",
+    "locator": "《道德形而上学奠基》第一节"
+   },
+   "sources": [
+    "sep-kant",
+    "sep-hegel",
+    "sep-mill"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“绝对命令”的原文（《奠基》第一节与第二节诸式）须核；其与“假言命令”之别及诸式的等价性亦须分辨。"
   }
  ],
  "debates": [

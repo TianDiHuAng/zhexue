@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1595,
+  "entries": 1600,
   "by_level": {
    "L2": 780,
-   "L1": 815
+   "L1": 820
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 815,
+  "needs_verification": 820,
   "sources": 419,
   "sources_verified": 419
  },
@@ -120,7 +120,7 @@
    "title": "德国古典哲学",
    "region": "west",
    "philosophers": 12,
-   "concepts": 26,
+   "concepts": 27,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -7491,6 +7491,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-german-kategorischer-imperativ",
+   "type": "concept",
+   "title": "绝对命令",
+   "container": "gr-german",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-german-thing-in-itself",
    "type": "debate",
    "title": "物自体是否可被取消",
@@ -14091,6 +14102,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-beobachtungen-schoenen",
+   "type": "work",
+   "title": "《论优美感与崇高感》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-mengzi-sishu-lu",
    "type": "work",
    "title": "《孟子私淑录》",
@@ -14105,6 +14127,17 @@
    "id": "work-laokoon",
    "type": "work",
    "title": "《拉奥孔》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-traeume-geisterseher",
+   "type": "work",
+   "title": "《通灵者之梦》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -14297,6 +14330,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-prolegomena",
+   "type": "work",
+   "title": "《未来形而上学导论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -17218,6 +17262,17 @@
    "id": "cmp-cunzai-beiganzhi",
    "type": "comparative",
    "title": "“存在即被感知”与“心外无物”：物离了心还在吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-jueduimingling",
+   "type": "comparative",
+   "title": "“绝对命令”与“己欲立而立人”：道德的根据在哪里？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
