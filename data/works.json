@@ -1932,6 +1932,120 @@
    "sort_year": -350
   },
   {
+   "id": "work-physica",
+   "title": "《物理学》",
+   "title_original": "Φυσικά（Physica）",
+   "tradition": "west",
+   "date_display": "约前350年（亚里士多德）",
+   "structure": "八卷：①本原（一与多、潜能与现实）；②—③运动与无限；④地点与虚空；⑤—⑥连续性、运动与变化；⑦—⑧第一推动者。",
+   "core_arguments": [
+    "本原有三：质料、形式、缺乏（“生成”的分析）",
+    "“自然”是运动与静止的内在根据（physis 的界定）",
+    "第一推动者：自身不动而使万物动（无广延、无部分、纯现实）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "本原与生成"
+    },
+    {
+     "locator": "卷二",
+     "point": "自然与四因"
+    },
+    {
+     "locator": "卷四",
+     "point": "地点与虚空"
+    },
+    {
+     "locator": "卷八",
+     "point": "第一推动者"
+    }
+   ],
+   "editions": [
+    "OCT（Ross）；英译（Physics, Hardie & Gaye／Waterfield）；中译参《物理学》（张竹明译，商务印书馆）"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-plato",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "《物理学》是“近代物理学的前身”",
+     "why": "其对象是**自然（physis）的一般原理**（运动、无限、地点、时间），不是可量化的力学；故不能当作近代物理学的早期形态。"
+    },
+    {
+     "claim": "“第一推动者”是“创世的神”",
+     "why": "它是**永恒运动的最终根据**（纯现实），其作用是“作为被爱而被运动”，不是从无中创造的意志；故与创世论不同（阿奎那的会通是后起的解释）。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《物理学》八卷的编次与其在亚里士多德全集中的位置须核 OCT 本；“第一推动者”与《形而上学》卷十二的关系亦须分辨。",
+   "sort_year": -350
+  },
+  {
+   "id": "work-de-sensu",
+   "title": "《论感觉》",
+   "title_original": "Περὶ αἰσθήσεως καὶ αἰσθητῶν（De sensu et sensibilibus）",
+   "tradition": "west",
+   "date_display": "约前350年后（亚里士多德；《自然诸短篇》之一）",
+   "structure": "一篇（《自然诸短篇》之首）：论五种感觉的对象、媒介与机制，及感觉与思想的关系。",
+   "core_arguments": [
+    "感觉须有**媒介**（如视觉须透明者）与**器官**",
+    "五种特殊感觉对象（色、声、嗅、味、触）与“共同感觉对象”（运动、数、形）之别",
+    "感觉是**接受形式而不接受质料**（“蜡受印而不受金”）"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "感觉与对象"
+    },
+    {
+     "locator": "论视觉",
+     "point": "媒介与透明"
+    },
+    {
+     "locator": "论共同对象",
+     "point": "运动、形、数"
+    },
+    {
+     "locator": "末段",
+     "point": "感觉与思想"
+    }
+   ],
+   "editions": [
+    "OCT（Ross, Parva Naturalia）；英译（Loeb／Beare）；中译参（若有）"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-medieval-aquinas",
+    "gr-modern-descartes"
+   ],
+   "misreadings": [
+    {
+     "claim": "“蜡受印”是说感觉是被动的复制",
+     "why": "其要点是：感觉接受**形式**而不接受**质料**（蜡受戒指的形，不受金）；故它不是“复制对象”，而是“以无质料的方式接受形式”。"
+    },
+    {
+     "claim": "亚里士多德的感觉论与近代生理学无关",
+     "why": "其对媒介、器官与共同感觉对象的分析，是后世视觉理论（尤其中世纪光学）的重要起点；故不可略过。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-copleston-history",
+    "sep-descartes"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论感觉》在《自然诸短篇》中的位置与其与《论灵魂》卷二的关系须核；“蜡受印”的比喻出自《论灵魂》而非本书，本页借用时已注明其出处关系。",
+   "sort_year": -345
+  },
+  {
    "id": "work-metaphysics",
    "title": "《形而上学》",
    "title_original": "Τὰ μετὰ τὰ φυσικά（Metaphysics）",
@@ -2383,6 +2497,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《申子》原书六篇已佚，今存《群书治要》所引与辑佚；本页依辑本与法家研究概述，具体篇目与文字须核。",
+   "sort_year": -340
+  },
+  {
+   "id": "work-historia-animalium",
+   "title": "《动物志》",
+   "title_original": "Περὶ τὰ ζῷα ἱστορίαι（Historia animalium）",
+   "tradition": "west",
+   "date_display": "约前340年代（亚里士多德）",
+   "structure": "十卷：分论动物的部分、习性、生殖与分类；以观察记录为主，兼及解剖与行为。",
+   "core_arguments": [
+    "以**观察与比较**建立动物的分类：按“有血／无血”、胎生／卵生等",
+    "“目的论”的解释：器官之“为了什么”（四因中的目的因）",
+    "人与动物的连续性：人是有理性的动物，其差异是程度的而非种类的"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "动物的部分"
+    },
+    {
+     "locator": "卷四—五",
+     "point": "生殖与习性"
+    },
+    {
+     "locator": "卷八",
+     "point": "动物的心理与行为"
+    },
+    {
+     "locator": "全书",
+     "point": "分类的方法"
+    }
+   ],
+   "editions": [
+    "OCT（Balme 等）；英译（History of Animals, Loeb／D'Arcy Thompson）；中译参（若有）"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-plato",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是一部“资料汇编”",
+     "why": "其记录服务于**分类与目的论的解释**（器官“为了什么”），故有明确的理论框架；不是无理论的资料堆。"
+    },
+    {
+     "claim": "其中的错误说明他不作观察",
+     "why": "其大量记录（如蜂的习性、胚胎的发育）来自实地观察，其中有错，但也有许多被后世证实；故不能以“有错”否定其观察性。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "book-guthrie-greek",
+    "sep-plato"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《动物志》的卷数（通行十卷）与其与《论动物的部分》《论动物的生成》的分工须核；其中观察记录的具体来源亦须核。",
    "sort_year": -340
   },
   {

@@ -40,7 +40,7 @@ NAV = [
     ("首页", ""), ("中国", "china/"), ("西方", "west/"),
     ("中国时间线", "timeline/china.html"), ("西方时间线", "timeline/west.html"),
     ("哲学家", "people/"), ("概念索引", "concepts/"), ("争论", "debates/"),
-    ("流派", "schools/"), ("著作", "works/"), ("比较视野", "comparative.html"),
+    ("流派", "schools/"), ("著作", "works/"), ("比较视野", "comparative.html"), ("误读索引", "misreadings.html"),
     ("谱系总图", "graph.html"), ("来源", "sources/"),
     ("体例", "about.html"),
 ]
@@ -537,6 +537,42 @@ def render_works_index(works):
     return page("经典著作", d, "著作", "\n".join(body))
 
 
+
+
+# ------------------------------------------------------------------ 误读索引
+def render_misreadings_index(people, works_list):
+    d = 0
+    pth = rel(d)
+    rows = []
+    n = 0
+    for region, label in (("china", "中国"), ("west", "西方")):
+        ps = [p for p in people.values() if p["_region"] == region]
+        ws = [w for w in works_list if w["tradition"] == region]
+        body_p = []
+        for p in sorted(ps, key=lambda x: x["birth_year"]):
+            for m in p.get("misconceptions", []) or []:
+                n += 1
+                body_p.append('<tr><td><a href="%speople/%s.html">%s</a></td><td>%s</td><td>%s</td></tr>'
+                              % (pth, p["id"], esc(p["name"]), esc(m.get("claim", "")), esc(m.get("why", ""))))
+        body_w = []
+        for w in sorted(ws, key=lambda x: x.get("sort_year") or 0):
+            for m in w.get("misreadings", []) or []:
+                n += 1
+                body_w.append('<tr><td><a href="%sworks/%s.html">%s</a></td><td>%s</td><td>%s</td></tr>'
+                              % (pth, w["id"], esc(w["title"]), esc(m.get("claim", "")), esc(m.get("why", ""))))
+        rows.append('<h2>%s · 人物</h2><table><tr><th class="year">人物</th><th>常被误认为</th><th>为什么不是</th></tr>%s</table>'
+                    % (label, "".join(body_p)))
+        rows.append('<h2>%s · 著作</h2><table><tr><th class="year">著作</th><th>常被误认为</th><th>为什么不是</th></tr>%s</table>'
+                    % (label, "".join(body_w)))
+    body = ["<h1>误读索引</h1>",
+            '<p class="meta">共 %d 条。本站的招牌是“把常被说错的地方说清楚”：每一条都指明**什么说法不对**，'
+            '以及**为什么不对**（原文如何、后人如何改写、语境如何被抽掉）。<br>'
+            '收录范围：人物页的“常见误解”与著作页的“常见误读”。与“待核实”不同——'
+            '这些是有把握的判断，不是存疑的推测。</p>' % n,
+            "".join(rows)]
+    return page("误读索引", d, "误读索引", "\n".join(body))
+
+
 # ------------------------------------------------------------------ 比较视野
 def render_comparative(essays, sources):
     d = 0
@@ -914,6 +950,7 @@ def main():
     write("works/index.html", render_works_index(works))
     write("works/timeline.html", render_works_timeline(works))
     write("comparative.html", render_comparative(essays, sources))
+    write("misreadings.html", render_misreadings_index(people, works))
     write("timeline/china.html", render_timeline(units, people, "china", "中国"))
     write("timeline/west.html", render_timeline(units, people, "west", "西方"))
     write("sources/index.html", render_sources(sources))

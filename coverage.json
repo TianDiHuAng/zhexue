@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1285,
+  "entries": 1289,
   "by_level": {
    "L2": 779,
-   "L1": 506
+   "L1": 510
   },
   "doctrine": {
    "total": 268,
    "detail": 268,
    "auto": 0
   },
-  "needs_verification": 506,
+  "needs_verification": 510,
   "sources": 409,
   "sources_verified": 409
  },
@@ -8910,6 +8910,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-physica",
+   "type": "work",
+   "title": "《物理学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-de-sensu",
+   "type": "work",
+   "title": "《论感觉》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-metaphysics",
    "type": "work",
    "title": "《形而上学》",
@@ -8991,6 +9013,17 @@
    "type": "work",
    "title": "《申子》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-historia-animalium",
+   "type": "work",
+   "title": "《动物志》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -13808,6 +13841,17 @@
    "id": "cmp-rulaizang",
    "type": "comparative",
    "title": "如来藏与“天赋观念”：本具的与生来的",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-wuxing",
+   "type": "comparative",
+   "title": "四因与“道”：两种说明“为什么”的方式",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
