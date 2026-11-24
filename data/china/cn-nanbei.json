@@ -3020,6 +3020,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“通变”的原文（《文心雕龙·通变》）须核通行校注本；“望今制奇，参古定法”一语亦须核。"
+  },
+  {
+   "id": "cn-nanbei-wenqi",
+   "term": "文气",
+   "term_latin": "literary vitality (wen qi)",
+   "definition": "曹丕《典论·论文》所立的范畴：“文以气为主，气之清浊有体，不可力强而致。”其要旨是：作者的**气质**决定其文的风格，而气质不可强求 —— 故文学的评价首次落在“作者的个性”而非“道德与学问”上。这是中国文学自觉的一声先响。",
+   "usages": [
+    {
+     "name": "曹丕（其立）",
+     "usage": "以《典论·论文》立“文以气为主”之说。"
+    },
+    {
+     "name": "刘勰（其承）",
+     "id": "cn-nanbei-liuxie",
+     "usage": "以“气”与“风骨”论文章的气势。"
+    },
+    {
+     "name": "韩愈（其后）",
+     "usage": "以“气盛言宜”承其说，转为养气之论。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-wenbi",
+    "cn-nanbei-tongbian"
+   ],
+   "example": {
+    "text": "“文气”的要害是把**作者的不可替代性**写进文学理论：若气“不可力强而致”，则文学不是学得来的技艺，而是人的全部所是的流露。这一命题使中国的文论从“作法”转向“人”，其影响一直延伸到后世的“文如其人”。",
+    "figure": "曹丕",
+    "locator": "《典论·论文》"
+   },
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“文气”的原文（《典论·论文》）须核《文选》所收本；“气之清浊有体”的释义亦须核。"
   }
  ],
  "debates": [
