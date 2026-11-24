@@ -13493,6 +13493,63 @@
    "sort_year": 1190
   },
   {
+   "id": "work-chenliang-ji",
+   "title": "《陈亮集》",
+   "title_original": "陳亮集（龍川文集）",
+   "tradition": "china",
+   "date_display": "南宋（陈亮，1143—1194）；今本由《龙川文集》等整理",
+   "structure": "含书、疏、论、序、记、诗、词等；以《上孝宗皇帝书》《甲辰答朱元晦书》与“义利双行”之论最著。",
+   "core_arguments": [
+    "“义利双行，王霸并用”：道德与功利不是对立的两端",
+    "“事功”：学问须见于事功，不在空谈性命",
+    "对朱熹“三代—汉唐”之别的批评：汉唐亦有其道"
+   ],
+   "key_points": [
+    {
+     "locator": "《上孝宗皇帝书》",
+     "point": "事功与恢复"
+    },
+    {
+     "locator": "《甲辰答朱元晦书》",
+     "point": "义利王霸之辩"
+    },
+    {
+     "locator": "《酌古论》",
+     "point": "以史论事功"
+    },
+    {
+     "locator": "词作",
+     "point": "豪健的词风"
+    }
+   ],
+   "editions": [
+    "中华书局《陈亮集》（邓广铭点校，增订本）"
+   ],
+   "related_people": [
+    "cn-songming-chen-liang",
+    "cn-songming-zhu-xi",
+    "cn-songming-ye-shi"
+   ],
+   "misreadings": [
+    {
+     "claim": "陈亮主张“只要功利，不要道德”",
+     "why": "其命题是“义利**双行**”：道德须见于事功，事功须有道德为其本；故不是以功利取代道德。"
+    },
+    {
+     "claim": "其说只是“主战”的政治主张",
+     "why": "其“事功”之学有**哲学**的意义：它以“事”为道的场所（道在事中），与朱熹“道在事外（理先气后）”正相对。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "ws-taijitushuo",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《陈亮集》的编次（邓广铭增订本）与《甲辰答朱元晦书》的原文须核；“义利双行”的确切表述亦须核原书。",
+   "sort_year": 1190
+  },
+  {
    "id": "work-xiuxue-jiyan",
    "title": "《习学记言序目》",
    "title_original": "習學記言序目",
@@ -13606,6 +13663,63 @@
    "sort_year": 1200
   },
   {
+   "id": "work-yeshi-ji",
+   "title": "《叶适集》",
+   "title_original": "葉適集（水心文集、別集）",
+   "tradition": "china",
+   "date_display": "南宋（叶适，1150—1223）；今本由《水心文集》《别集》等整理",
+   "structure": "含奏议、书、记、序、墓志、诗与《习学记言序目》等；以经制事功之学为主。",
+   "core_arguments": [
+    "“以经制言事功”：治学须通经制（制度与实务），不徒谈心性",
+    "对“道统”说的批评：道在事与器中，不在单传的谱系",
+    "对“抑末（商）”的批评：工商亦为民之本"
+   ],
+   "key_points": [
+    {
+     "locator": "《习学记言序目》",
+     "point": "对经史的评议"
+    },
+    {
+     "locator": "奏议",
+     "point": "经制与实务"
+    },
+    {
+     "locator": "书札",
+     "point": "与朱陆之学的分歧"
+    },
+    {
+     "locator": "论理财",
+     "point": "对“抑末”的批评"
+    }
+   ],
+   "editions": [
+    "中华书局《叶适集》（刘公纯等点校）"
+   ],
+   "related_people": [
+    "cn-songming-ye-shi",
+    "cn-songming-chen-liang",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "叶适之学只是“政治实务”",
+     "why": "其“以经制言事功”有**哲学**的根据：道在事与器中（不在心性的单传），故其说是对理学“道统”的正面反驳。"
+    },
+    {
+     "claim": "他与陈亮完全相同",
+     "why": "二人同主事功，但叶适更重**经制**（制度与史学的考究），陈亮更重**王霸之辨**与恢复之志；故须分辨。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "ws-taijitushuo",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《叶适集》的编次（《水心文集》《别集》）与《习学记言序目》的关系须核中华书局点校本；其“道在器中”的表述亦须核原文。",
+   "sort_year": 1200
+  },
+  {
    "id": "work-xiangshan-ji",
    "title": "《象山集》",
    "title_original": "象山集",
@@ -13660,6 +13774,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1205
+  },
+  {
+   "id": "work-beixi-ziyi",
+   "title": "《北溪字义》",
+   "title_original": "北溪字義（性理字義）",
+   "tradition": "china",
+   "date_display": "南宋（陈淳，1159—1223；其门人记录整理）",
+   "structure": "二卷二十六门：命、性、心、情、才、志、意、仁义礼智信、忠信、忠恕、一贯、诚、敬、恭敬、道、理、德、太极、皇极、中和、中庸、礼乐、经权、义利、鬼神、佛老。",
+   "core_arguments": [
+    "以“字义”为门，逐条界说理学的核心概念",
+    "“性即理”：性是天理在人身上的实现",
+    "以“理”统摄诸德：仁义礼智皆理之条目"
+   ],
+   "key_points": [
+    {
+     "locator": "〈命〉〈性〉〈心〉",
+     "point": "性理的基本界说"
+    },
+    {
+     "locator": "〈仁义礼智信〉",
+     "point": "五常的界说"
+    },
+    {
+     "locator": "〈太极〉〈理〉",
+     "point": "理的界说"
+    },
+    {
+     "locator": "〈佛老〉",
+     "point": "对释道的批评"
+    }
+   ],
+   "editions": [
+    "中华书局《北溪字义》（熊国祯等点校）；《四库全书》本"
+   ],
+   "related_people": [
+    "cn-songming-zhu-xi",
+    "cn-songming-lu-jiuyuan",
+    "cn-qingmod-dai-zhen"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是一部“词典”",
+     "why": "其“字义”的界说本身即**义理的建构**（如“性即理”的界定），故是理学的入门与纲领，不只是查阅工具。"
+    },
+    {
+     "claim": "它是陈淳的独创体系",
+     "why": "它是**朱熹之学的字义整理**（陈淳为朱门高弟），其界说多本朱子；故其价值在“条理化”，不在独创。"
+    }
+   ],
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ws-taijitushuo",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《北溪字义》的门数（通行二十六门）与各门的界说须核中华书局点校本；其与《朱子语类》的对应关系亦须核。",
+   "sort_year": 1220
   },
   {
    "id": "work-breves",

@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1330,
+  "entries": 1335,
   "by_level": {
    "L2": 781,
-   "L1": 549
+   "L1": 554
   },
   "doctrine": {
    "total": 272,
    "detail": 272,
    "auto": 0
   },
-  "needs_verification": 549,
+  "needs_verification": 554,
   "sources": 413,
   "sources_verified": 413
  },
@@ -30,7 +30,7 @@
    "title": "南北朝佛道与形神之争",
    "region": "china",
    "philosophers": 12,
-   "concepts": 16,
+   "concepts": 17,
    "debates": 6,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -1048,6 +1048,17 @@
    "id": "cn-nanbei-yichang",
    "type": "concept",
    "title": "译场",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-yixue",
+   "type": "concept",
+   "title": "义学",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -11297,6 +11308,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-chenliang-ji",
+   "type": "work",
+   "title": "《陈亮集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-xiuxue-jiyan",
    "type": "work",
    "title": "《习学记言序目》",
@@ -11319,6 +11341,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-yeshi-ji",
+   "type": "work",
+   "title": "《叶适集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-xiangshan-ji",
    "type": "work",
    "title": "《象山集》",
@@ -11327,6 +11360,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-beixi-ziyi",
+   "type": "work",
+   "title": "《北溪字义》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -14303,6 +14347,17 @@
    "id": "cmp-fanshi",
    "type": "comparative",
    "title": "范式转换与“道统”更替：两种“框架”的更换",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shigong",
+   "type": "comparative",
+   "title": "事功与“效果”：陈亮、叶适与功利主义",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

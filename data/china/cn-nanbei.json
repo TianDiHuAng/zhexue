@@ -2396,6 +2396,45 @@
    ],
    "needs_verification": true,
    "pending_notes": "“译场”的组织（主译、笔受、度语、证义、润文等）在南北朝至唐代有演变；本页取其一般制度义，具体分工须核《宋高僧传》与译经史研究。"
+  },
+  {
+   "id": "cn-nanbei-yixue",
+   "term": "义学",
+   "term_latin": "doctrinal scholarship",
+   "definition": "南北朝佛教的“义学”传统：以讲说、注疏与论辩为业，专究经论的义理（与“禅观”的实践相对）。其代表是“成实师”“三论师”“地论师”“摄论师”等；其学风与南朝的清谈、玄学相接。",
+   "usages": [
+    {
+     "name": "真谛（其译与讲）",
+     "id": "cn-nanbei-zhendi",
+     "usage": "以译籍供义学讲习，其门下为摄论师。"
+    },
+    {
+     "name": "僧祐（其文献基础）",
+     "id": "cn-nanbei-sengyou",
+     "usage": "以经录与僧传为义学提供文献的基础。"
+    },
+    {
+     "name": "僧稠（其对照）",
+     "id": "cn-nanbei-sengchou",
+     "usage": "以禅观为业，与义学形成南北学风之别。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-yichang",
+    "cn-nanbei-chan-guan"
+   ],
+   "example": {
+    "text": "“义学”与“禅观”的对举，是理解南北朝佛教的关键：南方重讲说与注疏（义学），北方重坐禅与观行（禅观）。这一南北之别后来由天台与禅宗各自综合 —— 而“教观双美”正是对这一分裂的回应。",
+    "figure": "僧祐",
+    "locator": "《出三藏记集》所记讲席与义学"
+   },
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“义学”一词在南北朝兼指讲习经论的学问与其团体；本页取其学风义，具体例证须核《高僧传》《续高僧传》。"
   }
  ],
  "debates": [
