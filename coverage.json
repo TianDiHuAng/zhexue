@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1733,
+  "entries": 1737,
   "by_level": {
    "L2": 779,
-   "L1": 954
+   "L1": 958
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 954,
+  "needs_verification": 958,
   "sources": 423,
   "sources_verified": 423
  },
@@ -16071,6 +16071,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-ursprung-trauerspiels",
+   "type": "work",
+   "title": "《德国悲苦剧的起源》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-was-ist-metaphysik",
    "type": "work",
    "title": "《形而上学是什么？》",
@@ -16206,6 +16217,17 @@
    "id": "work-la-nausee",
    "type": "work",
    "title": "《恶心》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-reason-revolution",
+   "type": "work",
+   "title": "《理性与革命》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -16844,6 +16866,17 @@
    "id": "work-essential-tension",
    "type": "work",
    "title": "《必要的张力》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-aesthetische-dimension",
+   "type": "work",
+   "title": "《审美之维》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -18736,6 +18769,17 @@
    "id": "cmp-aiyo",
    "type": "comparative",
    "title": "“有”与“无何有之乡”：无物之在，是压迫还是安处？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-yuyi",
+   "type": "comparative",
+   "title": "“寓意”与“比兴”：意义如何从碎片中显现？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

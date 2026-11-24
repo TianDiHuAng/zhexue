@@ -33506,6 +33506,63 @@
    "sort_year": 1927
   },
   {
+   "id": "work-ursprung-trauerspiels",
+   "title": "《德国悲苦剧的起源》",
+   "title_original": "Ursprung des deutschen Trauerspiels",
+   "tradition": "west",
+   "date_display": "1928（本雅明；教授资格论文）",
+   "structure": "一部（含〈认识论批判序言〉与两大部分）：论十七世纪德国的“悲苦剧”（Trauerspiel）。",
+   "core_arguments": [
+    "悲苦剧不同于悲剧（Tragödie）：其主题是**历史的无常**与君主的忧郁",
+    "以“**寓意**”（Allegorie）对“象征”：寓意使意义在碎片中显现",
+    "“**起源**”（Ursprung）不是发生，而是理念在历史中的跳跃式显现"
+   ],
+   "key_points": [
+    {
+     "locator": "〈认识论批判序言〉",
+     "point": "理念与起源"
+    },
+    {
+     "locator": "第一部分",
+     "point": "悲苦剧与悲剧之别"
+    },
+    {
+     "locator": "第二部分",
+     "point": "寓意与忧郁"
+    },
+    {
+     "locator": "全书",
+     "point": "以碎片行哲学"
+    }
+   ],
+   "editions": [
+    "德文（Gesammelte Schriften I/1）；英译（The Origin of German Tragic Drama, Verso）；中译参《德国悲苦剧的起源》（版次待核）"
+   ],
+   "related_people": [
+    "gr-20c-benjamin",
+    "gr-20c-adorno",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“文学史的研究”",
+     "why": "其书以悲苦剧为材料论**理念、起源与寓意**（其序言即一篇认识论批判）；故其为哲学与美学的著作，非文学史。"
+    },
+    {
+     "claim": "其“起源”是“历史的开端”",
+     "why": "其“起源”（Ursprung）是**理念的显现方式**（在历史的碎片中跳跃式地出现），非时间上的起点。"
+    }
+   ],
+   "sources": [
+    "sep-benjamin",
+    "sep-adorno",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《德国悲苦剧的起源》的〈认识论批判序言〉与 1928 年初版须核 Gesammelte Schriften I/1；“起源”“寓意”的原文与译法亦须核。",
+   "sort_year": 1928
+  },
+  {
    "id": "work-was-ist-metaphysik",
    "title": "《形而上学是什么？》",
    "title_original": "Was ist Metaphysik?",
@@ -34244,6 +34301,63 @@
    "needs_verification": true,
    "pending_notes": "《恶心》的日记体与 1938 年初版须核 Gallimard 版；“de trop”（多余）一词的原文与译法亦须核。",
    "sort_year": 1938
+  },
+  {
+   "id": "work-reason-revolution",
+   "title": "《理性与革命》",
+   "title_original": "Reason and Revolution: Hegel and the Rise of Social Theory",
+   "tradition": "west",
+   "date_display": "1941（马尔库塞）",
+   "structure": "两部（含导论与结论）：第一部论黑格尔的体系，第二部论“社会理论的兴起”与实证主义。",
+   "core_arguments": [
+    "黑格尔的“**理性**”是批判的：辩证法否定了既成的实证性",
+    "故黑格尔**不是**普鲁士的国家哲学家（此为其时流行的误读）",
+    "马克思继承了这一批判的理性，而实证主义则背弃了它"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "黑格尔的理性"
+    },
+    {
+     "locator": "论辩证法",
+     "point": "否定性与实证性"
+    },
+    {
+     "locator": "第二部",
+     "point": "社会理论的兴起"
+    },
+    {
+     "locator": "结论",
+     "point": "实证主义的背弃"
+    }
+   ],
+   "editions": [
+    "英文本（Oxford）；中译参《理性和革命》（程志民等译）"
+   ],
+   "related_people": [
+    "gr-20c-marcuse",
+    "gr-german-hegel",
+    "gr-19c-marx"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“为黑格尔辩护”",
+     "why": "其旨是**重估黑格尔的批判潜能**（以对抗实证主义），故其为理论的诊断，非单纯的辩护。"
+    },
+    {
+     "claim": "其“理性”是“逻辑的理性”",
+     "why": "其“理性”是**批判的与否定性的**（对抗既成的实证秩序），故其为辩证的理性，非形式逻辑的理性。"
+    }
+   ],
+   "sources": [
+    "sep-marcuse",
+    "sep-hegel",
+    "sep-marx"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《理性与革命》两部的篇目与 1941 年初版须核 Oxford 版与程志民译本；“批判的理性”与实证主义对立的论述亦须核。",
+   "sort_year": 1941
   },
   {
    "id": "work-structure-of-behavior",
@@ -37539,6 +37653,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《必要的张力》所收论文的原始发表年代（1959—1975）与各篇论点有演进；库恩本人的专条 SEP 未收（故属语境性引用），本页依中译本与科学哲学研究概述。",
+   "sort_year": 1977
+  },
+  {
+   "id": "work-aesthetische-dimension",
+   "title": "《审美之维》",
+   "title_original": "The Aesthetic Dimension: Toward a Critique of Marxist Aesthetics",
+   "tradition": "west",
+   "date_display": "1977（马尔库塞）",
+   "structure": "一部（凡九章）：对马克思主义美学的批评与对“审美形式”的辩护。",
+   "core_arguments": [
+    "艺术的政治潜能在于其“**审美形式**”（形式的自律），非在于其政治内容",
+    "故艺术**不**须服从阶级的分析：其真理性超越阶级",
+    "以“**回忆**”与“**感性**”为解放的资源"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—三章",
+     "point": "审美形式的自律"
+    },
+    {
+     "locator": "第四—六章",
+     "point": "对阶级论的批评"
+    },
+    {
+     "locator": "第七—九章",
+     "point": "回忆、感性与解放"
+    },
+    {
+     "locator": "全书",
+     "point": "以美学行政治批判"
+    }
+   ],
+   "editions": [
+    "英文本（Beacon）；中译参《审美之维》（李小兵译）"
+   ],
+   "related_people": [
+    "gr-20c-marcuse",
+    "gr-19c-marx",
+    "gr-20c-adorno"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“形式主义的美学”",
+     "why": "其“自律”是**政治性的**（正因自律，艺术才不被既成秩序所同化）；故其为政治的美学，非形式主义。"
+    },
+    {
+     "claim": "其说“艺术与政治无关”",
+     "why": "其说主张艺术的政治性**经由形式**而起效（非直接宣传），故非无关，而是**作用方式的重新界定**。"
+    }
+   ],
+   "sources": [
+    "sep-marcuse",
+    "sep-adorno",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《审美之维》九章与 1977 年初版须核 Beacon 版与李小兵译本；“审美形式”的原文亦须核。",
    "sort_year": 1977
   },
   {
