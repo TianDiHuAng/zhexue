@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1779,
+  "entries": 1783,
   "by_level": {
    "L2": 779,
-   "L1": 1000
+   "L1": 1004
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 1000,
+  "needs_verification": 1004,
   "sources": 423,
   "sources_verified": 423
  },
@@ -13739,6 +13739,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-de-infinito-universo",
+   "type": "work",
+   "title": "《论无限的宇宙与世界》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-eroici-furori",
+   "type": "work",
+   "title": "《论英雄热情》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-fenshu",
    "type": "work",
    "title": "《焚书》",
@@ -14413,6 +14435,17 @@
    "id": "work-new-theory-vision",
    "type": "work",
    "title": "《视觉新论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-de-nostri-tempi-studi",
+   "type": "work",
+   "title": "《论我们时代的学术研究》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -19242,6 +19275,17 @@
    "id": "cmp-shijinzhe",
    "type": "comparative",
    "title": "“自然之书以数学写成”与“理在气中”：认识自然凭什么？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-wuxian-yuzhou",
+   "type": "comparative",
+   "title": "“宇宙无中心”与“天地无中心”：无限如何被思？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

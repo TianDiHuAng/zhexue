@@ -21478,6 +21478,120 @@
    "sort_year": 1584
   },
   {
+   "id": "work-de-infinito-universo",
+   "title": "《论无限的宇宙与世界》",
+   "title_original": "De l'infinito universo e mondi",
+   "tradition": "west",
+   "date_display": "1584（布鲁诺；意大利文对话）",
+   "structure": "一篇对话（《灰星期三晚餐》之续）：论宇宙的无限、世界的众多与运动的相对。",
+   "core_arguments": [
+    "宇宙**无限**：无中心亦无边缘（故哥白尼的日心仍是一个“中心”的残留）",
+    "**世界众多**：诸恒星皆有其世界（故地球非唯一）",
+    "运动**相对**：故无须一个绝对的“不动之动者”"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "对哥白尼的推进"
+    },
+    {
+     "locator": "论无限",
+     "point": "无中心无边缘"
+    },
+    {
+     "locator": "论诸世界",
+     "point": "恒星皆世界"
+    },
+    {
+     "locator": "论运动",
+     "point": "相对性"
+    }
+   ],
+   "editions": [
+    "意大利文（Opere italiane, Utet）；英译（On the Infinite, Universe and Worlds, in Cause, Principle and Unity）；中译参《论无限、宇宙与众世界》（版次待核）"
+   ],
+   "related_people": [
+    "gr-modern-bruno",
+    "gr-modern-galileo",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "其说是“科学的结论”",
+     "why": "其说以**形而上学与神学的论证**为主（无限的结果须有无限的原因），故其为哲学的推论，非观测的结论。"
+    },
+    {
+     "claim": "其“无限”是数学的无限",
+     "why": "其“无限”是**存在的与神的属性之流溢**（宇宙为神的无限之像），故其为形而上学的范畴，非数学的对象。"
+    }
+   ],
+   "sources": [
+    "sep-bruno",
+    "sep-aristotle",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论无限的宇宙与世界》的 1584 年初版与意大利文对话体须核 Utet 版；“无中心无边缘”的原文亦须核。中译版次待考。",
+   "sort_year": 1584
+  },
+  {
+   "id": "work-eroici-furori",
+   "title": "《论英雄热情》",
+   "title_original": "De gli eroici furori",
+   "tradition": "west",
+   "date_display": "1585（布鲁诺）",
+   "structure": "两部（十篇对话）：以诗与图像为引，论灵魂向神的上昇及其苦乐相随的热情。",
+   "core_arguments": [
+    "“**英雄的热情**”是灵魂对神的渴慕：其苦与乐相随",
+    "以“**主动的与被动的心灵**”说认识的两面（光与影）",
+    "故其为**爱的形而上学**，非修辞的诗论"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "热情与渴慕"
+    },
+    {
+     "locator": "第二部",
+     "point": "心灵的主动与被动"
+    },
+    {
+     "locator": "论诗",
+     "point": "以诗为引"
+    },
+    {
+     "locator": "全书",
+     "point": "以对话与图像行文"
+    }
+   ],
+   "editions": [
+    "意大利文（Opere italiane）；英译（The Heroic Frenzies, Toronto）；中译少见"
+   ],
+   "related_people": [
+    "gr-modern-bruno",
+    "gr-ancient-plato",
+    "gr-medieval-eckhart"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“情诗集”",
+     "why": "其诗与图像是**论旨的载体**（灵魂向神的上昇），故其为哲学的著作，非诗集。"
+    },
+    {
+     "claim": "其“热情”是情感",
+     "why": "其“热情”（furori）是**灵魂的超拔之力**（近于“迷狂”），故其为形而上学的范畴，非心理的情感。"
+    }
+   ],
+   "sources": [
+    "sep-bruno",
+    "sep-aristotle",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论英雄热情》两部的篇次与 1585 年初版须核 Utet 版与多伦多英译本；“英雄的热情”一语（eroici furori）的原文亦须核。中译少。",
+   "sort_year": 1585
+  },
+  {
    "id": "work-fenshu",
    "title": "《焚书》",
    "title_original": "焚書",
@@ -24998,6 +25112,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《视觉新论》的节数与“距离由经验提示”之说须核 Clarendon 版与关文运译本；其与洛克两种性质论的关系亦须分辨。",
+   "sort_year": 1709
+  },
+  {
+   "id": "work-de-nostri-tempi-studi",
+   "title": "《论我们时代的学术研究》",
+   "title_original": "De nostri temporis studiorum ratione",
+   "tradition": "west",
+   "date_display": "1709（维柯；就职讲演）",
+   "structure": "一篇（1709 年就职讲演，凡数节）：比较古今的学术方法，论教育之序与年龄的次第。",
+   "core_arguments": [
+    "以“**常识**”（sensus communis）与“**雄辩**”补分析方法的不足",
+    "“**论题法**”（topica）先于“**批判法**”（critica）：先能发现，后能判断",
+    "故青年之教须先培养想象与记忆，后及抽象"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "古今方法的比较"
+    },
+    {
+     "locator": "论题法",
+     "point": "发现先于判断"
+    },
+    {
+     "locator": "论教育",
+     "point": "次第与年龄"
+    },
+    {
+     "locator": "全篇",
+     "point": "以讲演行论辩"
+    }
+   ],
+   "editions": [
+    "拉丁文（Opere, Laterza）；英译（On the Study Methods of Our Time, Cornell）；中译参《论我们时代的学术研究》（版次待核）"
+   ],
+   "related_people": [
+    "gr-modern-vico",
+    "gr-modern-descartes",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "其说是“反对科学”",
+     "why": "其说主张**方法的分工**（论题法为发现，批判法为判断），故其为方法的补正，非反科学。"
+    },
+    {
+     "claim": "其“常识”是“平庸的意见”",
+     "why": "其“常识”是**共同体共有的实践之知**（sensus communis），故其为认识的根据之一，非“平庸”。"
+    }
+   ],
+   "sources": [
+    "sep-vico",
+    "sep-descartes",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论我们时代的学术研究》为 1709 年就职讲演，其文本须核 Laterza 版与康奈尔英译本；“论题法先于批判法”的原文亦须核。中译版次待考。",
    "sort_year": 1709
   },
   {
