@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1335,
+  "entries": 1340,
   "by_level": {
    "L2": 781,
-   "L1": 554
+   "L1": 559
   },
   "doctrine": {
    "total": 272,
    "detail": 272,
    "auto": 0
   },
-  "needs_verification": 554,
+  "needs_verification": 559,
   "sources": 413,
   "sources_verified": 413
  },
@@ -30,7 +30,7 @@
    "title": "南北朝佛道与形神之争",
    "region": "china",
    "philosophers": 12,
-   "concepts": 17,
+   "concepts": 18,
    "debates": 6,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -1059,6 +1059,17 @@
    "id": "cn-nanbei-yixue",
    "type": "concept",
    "title": "义学",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-jiaoguan",
+   "type": "concept",
+   "title": "教观",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -10197,6 +10208,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-laozi-zhu-wangbi",
+   "type": "work",
+   "title": "《老子注》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-zhouyi-zhu-wangbi",
+   "type": "work",
+   "title": "《周易注》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-ennreads",
    "type": "work",
    "title": "《九章集》",
@@ -10260,6 +10293,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-guoxiang-ji",
+   "type": "work",
+   "title": "《郭象集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -14358,6 +14402,17 @@
    "id": "cmp-shigong",
    "type": "comparative",
    "title": "事功与“效果”：陈亮、叶适与功利主义",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-duhua",
+   "type": "comparative",
+   "title": "独化与“自因”：郭象与斯宾诺莎的“自本”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

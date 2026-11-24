@@ -2435,6 +2435,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“义学”一词在南北朝兼指讲习经论的学问与其团体；本页取其学风义，具体例证须核《高僧传》《续高僧传》。"
+  },
+  {
+   "id": "cn-nanbei-jiaoguan",
+   "term": "教观",
+   "term_latin": "doctrine and contemplation",
+   "definition": "智顗一系的核心结构：“教”是判教与教理（藏通别圆），“观”是观行的实践（止观）；二者须“双美”（不偏），故天台以“教观双美”自标。这一结构是对南北朝“义学／禅观”分裂的回应。",
+   "usages": [
+    {
+     "name": "智顗（其综合）",
+     "usage": "以“教观双美”统合南北学风；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "慧思（其先驱）",
+     "id": "cn-nanbei-huisi",
+     "usage": "以“止观与实相不二”开其端；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "僧稠（其对照）",
+     "id": "cn-nanbei-sengchou",
+     "usage": "以禅观为业，重行而不重判教；这一用法须与相邻概念分辨。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-yixue",
+    "cn-nanbei-chan-guan"
+   ],
+   "example": {
+    "text": "“教观”的要害是它把“学”与“修”定为**互相构成**的两翼：无教则观无所依（盲修），无观则教成空谈（说食）。故其说反对两种偏：南方的“义学”之偏与北方的“禅观”之偏。这一结构后来成为中国佛教各宗的共同框架。",
+    "figure": "智顗",
+    "locator": "《摩诃止观》"
+   },
+   "sources": [
+    "ws-mohezhiguan",
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“教观双美”的表述在宋代天台（知礼等）的著作中定型，智顗本人多用“教观”而未以“双美”标榜；本页取其结构义，具体表述须核。"
   }
  ],
  "debates": [

@@ -7786,6 +7786,120 @@
    "sort_year": 245
   },
   {
+   "id": "work-laozi-zhu-wangbi",
+   "title": "《老子注》",
+   "title_original": "老子道德經注（王弼注）",
+   "tradition": "china",
+   "date_display": "三国魏（王弼，226—249；约十余岁至二十余岁间作）",
+   "structure": "二卷（通行本，八十一章随文注）：以“崇本息末”为纲，逐章注《老子》。",
+   "core_arguments": [
+    "“以无为本”：万物以“无”为本（“无”不是空无，而是不可名之本）",
+    "“崇本息末”：不逐末而守本，则末自正",
+    "“圣人体无”：圣人亦有情，只是“应物而无累”"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章注",
+     "point": "道与“无”"
+    },
+    {
+     "locator": "第三十八章注",
+     "point": "崇本息末"
+    },
+    {
+     "locator": "第五章注",
+     "point": "圣人有情无累"
+    },
+    {
+     "locator": "全书",
+     "point": "以无为体的本体论"
+    }
+   ],
+   "editions": [
+    "中华书局《王弼集校释》（楼宇烈）；《诸子集成》本"
+   ],
+   "related_people": [
+    "cn-weijin-wangbi",
+    "cn-xianqin-kongzi",
+    "cn-weijin-guoxiang"
+   ],
+   "misreadings": [
+    {
+     "claim": "王弼的“无”就是“什么都没有”",
+     "why": "其“无”是**不可名、不可执的本**（“无”不是空无，而是“道”的不可规定性）；故其说是本体论的，不是虚无主义的。"
+    },
+    {
+     "claim": "“崇本息末”是不要“末”",
+     "why": "“息”在此是**不逐**（不执着于末），不是取消末；其说以“守本则末自正”为旨，故并非废弃名教事为。"
+    }
+   ],
+   "sources": [
+    "ws-shishuo-xinyu",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《老子注》的作者与年代（王弼少年之作）须核楼宇烈《王弼集校释》；其与《老子指略》的关系亦须分辨。",
+   "sort_year": 245
+  },
+  {
+   "id": "work-zhouyi-zhu-wangbi",
+   "title": "《周易注》",
+   "title_original": "周易注（王弼注）",
+   "tradition": "china",
+   "date_display": "三国魏（王弼；含《周易略例》）",
+   "structure": "六卷（通行本）：注《周易》经文与部分传文；附《周易略例》（含《明象》《明爻通变》等）。",
+   "core_arguments": [
+    "“得意忘象”：象是达意的工具，得理则忘象",
+    "以“一爻为主”解卦：一卦之义由主爻定",
+    "扫除汉代的象数烦琐，转向义理"
+   ],
+   "key_points": [
+    {
+     "locator": "《略例·明象》",
+     "point": "得意忘象"
+    },
+    {
+     "locator": "《略例·明爻通变》",
+     "point": "爻变与通变"
+    },
+    {
+     "locator": "乾卦注",
+     "point": "以“健”释乾"
+    },
+    {
+     "locator": "全书",
+     "point": "扫象数而重义理"
+    }
+   ],
+   "editions": [
+    "中华书局《王弼集校释》（楼宇烈）；《十三经注疏》本（王弼、韩康伯注）"
+   ],
+   "related_people": [
+    "cn-weijin-wangbi",
+    "cn-xianqin-kongzi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "“得意忘象”是不要“象”",
+     "why": "象是**必要的工具**（“寻象以观意”），只是在得意之后不执于象；故其说是方法的次第，不是废弃象数。"
+    },
+    {
+     "claim": "王弼注《易》全废象数",
+     "why": "他仍用爻位与卦体，只是反对汉代的**烦琐象数**（互体、卦变之滥）；故其说是“扫烦琐”，不是“废象数”。"
+    }
+   ],
+   "sources": [
+    "ws-shishuo-xinyu",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《周易注》的卷数与《周易略例》的篇目须核楼宇烈校释本；“得意忘象”的原文（《明象》）亦须核。",
+   "sort_year": 246
+  },
+  {
    "id": "work-ennreads",
    "title": "《九章集》",
    "title_original": "Ἐννεάδες（Enneads）",
@@ -8121,6 +8235,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 297
+  },
+  {
+   "id": "work-guoxiang-ji",
+   "title": "《郭象集》",
+   "title_original": "郭象集（含《庄子注》）",
+   "tradition": "china",
+   "date_display": "西晋（郭象，约252—312）；今本由《庄子注》与辑佚文合成",
+   "structure": "以《庄子注》（三十三篇，随文注）为主体，另有《论语体略》与若干辑佚文字；今本由注文与辑佚合成，非郭象自编的文集。",
+   "core_arguments": [
+    "“独化”：物各自生、各自化，不待造物者",
+    "“性分”：物各有其性分，安其分即是自然",
+    "“名教即自然”：君臣上下出于性分，故守名分即任自然"
+   ],
+   "key_points": [
+    {
+     "locator": "《齐物论注》",
+     "point": "独化与天籁"
+    },
+    {
+     "locator": "《逍遥游注》",
+     "point": "适性逍遥"
+    },
+    {
+     "locator": "《大宗师注》",
+     "point": "性分与安命"
+    },
+    {
+     "locator": "《胠箧注》",
+     "point": "名教与自然"
+    }
+   ],
+   "editions": [
+    "中华书局《庄子集释》（郭庆藩）所收郭象注；《郭象集》辑校本（若有）"
+   ],
+   "related_people": [
+    "cn-weijin-guoxiang",
+    "cn-xianqin-zhuangzi",
+    "cn-weijin-wangbi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《庄子注》确为郭象独创",
+     "why": "其书与向秀之注有**著作权**的公案（“向郭之注”）；学界一般认为郭象在向秀的基础上有所推进。故须标为“向郭之注”的问题。"
+    },
+    {
+     "claim": "“独化”说万物互不相关",
+     "why": "其“独化”须与“相与于无相与”（玄冥中相与为用）合看：物各自化，却在“无待”中相济；故不是孤立的原子论。"
+    }
+   ],
+   "sources": [
+    "ct-zhuangzi",
+    "ws-shishuo-xinyu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《庄子注》的著作权（向秀／郭象）是学术史的公案；本页并述二说，不裁定。其“独化”与“相与于无相与”的关系亦须核原文与相关研究。",
+   "sort_year": 300
   },
   {
    "id": "work-baopuzi",
