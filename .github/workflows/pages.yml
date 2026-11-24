@@ -27,6 +27,10 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: 查重（必须零重复）
+        run: python tools/dupcheck.py
+        # D61：检查 id／人物中文名／人物拉丁名／著作与比较篇标题／概念术语五类重复
+
       - name: 数据校验（必须零错误）
         run: |
           python tools/check.py

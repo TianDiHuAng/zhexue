@@ -6454,6 +6454,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“宽容”的论证（《论宽容》与贝勒《历史批判辞典》）须核；“宽容的界限”一段的历史语境亦须标出。"
+  },
+  {
+   "id": "gr-modern-primary-secondary",
+   "term": "第一性的质与第二性的质",
+   "term_latin": "primary and secondary qualities",
+   "definition": "洛克在《人类理智论》中的区分：**第一性的质**（广延、形状、运动、数目）为物体本身所有，与我们的感知无关；**第二性的质**（色、声、味、温）不在物中，而是物体**借以在我们心中产生观念的能力**。其要点是：感官所见的“红”并不在物里。",
+   "usages": [
+    {
+     "name": "洛克（其立）",
+     "id": "gr-modern-locke",
+     "usage": "以两种性质之分立其知觉论；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "贝克莱（其驳）",
+     "id": "gr-modern-berkeley",
+     "usage": "以其区分不自洽（第一性的质亦依赖感知）而归于观念论。"
+    },
+    {
+     "name": "笛卡尔（其先）",
+     "id": "gr-modern-descartes",
+     "usage": "其物性论已含此区分的雏形；这一用法须与相邻概念分辨。"
+    }
+   ],
+   "related": [
+    "gr-modern-substance"
+   ],
+   "example": {
+    "text": "“两种性质”的要害是把**感官的直接所与**与**物的实况**分开：颜色不在物里，而在物与眼的关系里。其力量是它为近代科学（以数学描述物）腾出了位置；其危险是它一旦彻底化，就把“物”也化成了观念的集合 —— 贝克莱正是从这一步推到底的。",
+    "figure": "洛克",
+    "locator": "《人类理智论》第二卷第八章"
+   },
+   "sources": [
+    "sep-locke",
+    "sep-berkeley",
+    "sep-descartes"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“两种性质”的原文（《人类理智论》第二卷第八章）须核 Clarendon 版；洛克与贝克莱在此点上的往复亦须分辨。"
   }
  ],
  "debates": [

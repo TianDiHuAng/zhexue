@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1585,
+  "entries": 1590,
   "by_level": {
    "L2": 780,
-   "L1": 805
+   "L1": 810
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 805,
+  "needs_verification": 810,
   "sources": 419,
   "sources_verified": 419
  },
@@ -147,7 +147,7 @@
    "title": "近代理性论与经验论",
    "region": "west",
    "philosophers": 35,
-   "concepts": 26,
+   "concepts": 27,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -27"
   }
@@ -9449,6 +9449,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-modern-primary-secondary",
+   "type": "concept",
+   "title": "第一性的质与第二性的质",
+   "container": "gr-modern",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-modern-innate-controversy",
    "type": "debate",
    "title": "天赋观念是否存在",
@@ -13673,10 +13684,43 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-essay-concerning-human-understanding",
+   "type": "work",
+   "title": "《人类理智论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-emeng",
    "type": "work",
    "title": "《噩梦》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-some-thoughts-education",
+   "type": "work",
+   "title": "《教育漫话》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-reasonableness-christianity",
+   "type": "work",
+   "title": "《基督教的合理性》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -17108,6 +17152,17 @@
    "id": "cmp-shanghai",
    "type": "comparative",
    "title": "“伤害原则”与“己所不欲”：自由的边界画在哪里？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-liangzhongxingzhi",
+   "type": "comparative",
+   "title": "“两种性质”与“坚白之辩”：色在哪里？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

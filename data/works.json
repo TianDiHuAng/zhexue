@@ -21343,6 +21343,64 @@
    "sort_year": 1690
   },
   {
+   "id": "work-essay-concerning-human-understanding",
+   "title": "《人类理智论》",
+   "title_original": "An Essay Concerning Human Understanding",
+   "tradition": "west",
+   "date_display": "1690（洛克；第四版增订）",
+   "structure": "四卷：第一卷驳天赋观念，第二卷论观念（含两种性质），第三卷论文字的滥用，第四卷论知识与或然性。",
+   "core_arguments": [
+    "无天赋观念：人心如“白纸”，一切观念由**感觉与反省**而来",
+    "第一性的质（广延、形状、运动）与第二性的质（色、声、味）之分",
+    "知识的范围限于观念之间的契合与否，故实体不可尽知",
+    "人格同一性在于**意识的连续**，非在于实体"
+   ],
+   "key_points": [
+    {
+     "locator": "第一卷",
+     "point": "驳天赋观念"
+    },
+    {
+     "locator": "第二卷",
+     "point": "观念与两种性质"
+    },
+    {
+     "locator": "第三卷",
+     "point": "语言的滥用"
+    },
+    {
+     "locator": "第四卷",
+     "point": "知识与或然"
+    }
+   ],
+   "editions": [
+    "英文本（Clarendon Edition of the Works of John Locke）；中译参《人类理解论》（关文运译，商务）"
+   ],
+   "related_people": [
+    "gr-modern-locke",
+    "gr-modern-berkeley",
+    "gr-modern-descartes"
+   ],
+   "misreadings": [
+    {
+     "claim": "“白纸”是说人心完全被动",
+     "why": "其说兼有**反省**（对自身心灵活动的知觉）为观念的第二个来源；故人心不只是受纳，亦有其主动。"
+    },
+    {
+     "claim": "其“第二性的质”是说色声不存在",
+     "why": "其意是色声**不在物中而在于物与感官的关系**（powers to produce ideas）；故其为关系说，非取消说。"
+    }
+   ],
+   "sources": [
+    "sep-locke",
+    "sep-descartes",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《人类理智论》四卷的结构与“两种性质”“人格同一性”诸章须核 Clarendon 版与关文运译本；第四版增订的差异亦须核。",
+   "sort_year": 1690
+  },
+  {
    "id": "work-emeng",
    "title": "《噩梦》",
    "title_original": "噩夢",
@@ -21398,6 +21456,120 @@
    "needs_verification": true,
    "pending_notes": "《噩梦》的成书（1691年前后）与其篇目须核王孝鱼点校本；“噩梦”之喻的原意亦须核。",
    "sort_year": 1691
+  },
+  {
+   "id": "work-some-thoughts-education",
+   "title": "《教育漫话》",
+   "title_original": "Some Thoughts Concerning Education",
+   "tradition": "west",
+   "date_display": "1693（洛克）",
+   "structure": "一部（凡二百余节）：论身体的教育、德性的教育、智育（学问）三部分。",
+   "core_arguments": [
+    "“健全的心智寓于健全的身体”：体育为先",
+    "德性以**自制**为核心：不以奖惩的威吓，而以名誉与习惯养成",
+    "学问为末：先立德性与明智，而后及于学问"
+   ],
+   "key_points": [
+    {
+     "locator": "论身体",
+     "point": "体育与习惯"
+    },
+    {
+     "locator": "论德性",
+     "point": "自制与名誉"
+    },
+    {
+     "locator": "论智育",
+     "point": "学问的方法"
+    },
+    {
+     "locator": "全书",
+     "point": "以习惯为本"
+    }
+   ],
+   "editions": [
+    "英文本（Clarendon Edition）；中译参《教育漫话》（傅任敢译，人民教育）"
+   ],
+   "related_people": [
+    "gr-modern-locke",
+    "gr-modern-rousseau",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“儿童中心的教育学”",
+     "why": "其书仍以**成人的引导**为主（名誉、习惯、榜样），故其并非后世的“儿童中心”；其与卢梭的《爱弥儿》恰成对照。"
+    },
+    {
+     "claim": "其“学问为末”是反对知识",
+     "why": "其意是**次序**（德性先于学问），非反对知识；其本人极重方法与兴趣。"
+    }
+   ],
+   "sources": [
+    "sep-locke",
+    "sep-kant",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《教育漫话》的节数与三部分（身体、德性、智育）须核 Clarendon 版与傅任敢译本；其与卢梭教育观的异同亦须分辨。",
+   "sort_year": 1693
+  },
+  {
+   "id": "work-reasonableness-christianity",
+   "title": "《基督教的合理性》",
+   "title_original": "The Reasonableness of Christianity",
+   "tradition": "west",
+   "date_display": "1695（洛克）",
+   "structure": "一部（不分卷）：以理性为准绳，论基督教的根本信条仅在于“耶稣是弥赛亚”。",
+   "core_arguments": [
+    "基督教的根本信条可归于一条：信耶稣为弥赛亚",
+    "“信”即是**受理性检验后的认可**，不是盲从",
+    "以圣经本文为据，略去后世的神学争论"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "理性的检验"
+    },
+    {
+     "locator": "论信条",
+     "point": "最小信条"
+    },
+    {
+     "locator": "论使徒",
+     "point": "原始信仰的简朴"
+    },
+    {
+     "locator": "全书",
+     "point": "以经解经"
+    }
+   ],
+   "editions": [
+    "英文本（Clarendon Edition）；中译少见"
+   ],
+   "related_people": [
+    "gr-modern-locke",
+    "gr-modern-bayle",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“自然神论”的宣言",
+     "why": "其书仍以**启示与圣经**为据（只是主张其信条简朴合理），故与后来的自然神论有别；但其“最小信条”之论被自然神论者引为同调，须分辨。"
+    },
+    {
+     "claim": "其“合理”是指基督教可被完全证明",
+     "why": "其“合理”是指其信条不违理性、且有其证据（奇迹与预言）；故其为“合乎理性”，非“由理性推出”。"
+    }
+   ],
+   "sources": [
+    "sep-locke",
+    "sep-bayle",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《基督教的合理性》的“最小信条”之说与 1695 年初版须核 Clarendon 版；其与自然神论的关系亦须分辨。中译少，本页多为义述。",
+   "sort_year": 1695
   },
   {
    "id": "work-historical-critical-dictionary",
