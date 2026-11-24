@@ -1,0 +1,899 @@
+{
+ "unit_id": "cn-nanbei",
+ "region": "china",
+ "title": "南北朝佛道与形神之争",
+ "period": "420—589",
+ "start_year": 420,
+ "end_year": 589,
+ "summary": "晋室南渡之后，思想的重心从玄学的“有无”转向佛教的“生死”与道教的“修道”。南朝寺院经济与经录之学大兴，北朝则石窟与禅法并盛。此期的核心争论有三：形神是相即还是相离（神灭与否）、佛性与顿悟是“本有”还是“始有”、以及沙门与王权、华夏与夷狄的界限。范缜的《神灭论》与梁武帝一朝的围攻，是这一期最集中的思想事件。",
+ "threads": [
+  {
+   "title": "形神与生死",
+   "text": "佛教以“神不灭”为三世因果的根据，反佛者则以“形质神用”破之。争论的焦点不是“有无灵魂”的宗教信念，而是**“用”能否离“质”而在**这一哲学问题。"
+  },
+  {
+   "title": "佛性与顿悟",
+   "text": "竺道生倡“一阐提皆得成佛”与“顿悟成佛”，把成佛的根据从“修”移向“性”。此说在当时被判为“孤明先发”，而后大行。"
+  },
+  {
+   "title": "沙门与王权",
+   "text": "“沙门不敬王者”与“白黑论”之争，问的是出家者是否应受世俗礼制的管辖；其答案是“分际”而非“对抗”。"
+  },
+  {
+   "title": "经录与文献学",
+   "text": "僧祐《出三藏记集》以目录、序跋、传记三体并列，使佛教的传入成为可考的历史；这是中国文献学的早期高峰。"
+  }
+ ],
+ "philosophers": [
+  {
+   "id": "cn-nanbei-fanzhen",
+   "name": "范缜",
+   "latin": "Fan Zhen",
+   "birth_year": 450,
+   "death_year": 515,
+   "birth_display": "约450年",
+   "death_display": "约515年",
+   "birth_note": "据《梁书·范缜传》：南朝齐梁时人，祖籍南乡舞阴，历仕齐、梁，曾任宜都太守、晋安太守等。",
+   "death_note": "约515年卒（《梁书》本传未载确年）。",
+   "era": "南朝齐梁。范缜以《神灭论》震动朝野：他主张“形者神之质，神者形之用”，故形尽则神灭；并以此反驳佛教的三世因果与灵魂不灭。梁武帝发动王公朝贵六十余人围攻之，范缜“辩摧众口，日服千人”。其立场是南朝反佛思潮中最系统的一支。",
+   "school": "南朝反佛思潮（形神一元论）",
+   "core_questions": [
+    "形与神是何种关系？",
+    "灵魂是否不灭？",
+    "三世因果能否成立？"
+   ],
+   "arguments": [
+    {
+     "claim": "形神相即：形为质，神为用",
+     "premises": [
+      "凡“用”必依“质”而有（如刃之利依刃而有）。",
+      "神是形之用，形是神之质。"
+     ],
+     "inference": "若神依形而为用，则形亡则用无；故“形尽神灭”不是外加的断言，而是“质用”关系的推论。",
+     "conclusion": "形尽则神灭（此说以“质用”关系取代“灵魂实体”的设定）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“人之质”与“木之质”有别",
+     "premises": [
+      "人有知，木无知。",
+      "若形尽神灭，则人死后的形与生前的形不同。"
+     ],
+     "inference": "若死后的形已非“人之质”，则其不能有知是当然的；故“人死有知”之说混淆了两种不同的质。",
+     "conclusion": "人死不复有知（此说回应了“死者有知”的常见论证）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《神灭论》",
+     "edition": "《弘明集》卷九；《梁书·范缜传》",
+     "note": "约507年"
+    },
+    {
+     "title": "《答曹思文难神灭论》",
+     "edition": "《弘明集》卷九（具体版次待核）",
+     "note": "约507年"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "王充（气论传统）",
+     "id": null,
+     "note": "以气之自然解释生死，反对目的论"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "南朝反佛思潮",
+     "id": null,
+     "note": "其说成为反佛一方的主要理论依据"
+    },
+    {
+     "name": "后世以“气”论生死者",
+     "id": null,
+     "note": "宋明理学论生死时亦有呼应"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "梁武帝与王公朝贵（六十余人）",
+     "view": "以“神不灭”为佛教的根据，指范缜之说“违经”。",
+     "response": "范缜的回应是：其论据取自“质用”的常识与“刃利”之喻，不依经文；故“违经”不构成反驳。",
+     "kind": "原文",
+     "sources": [
+      "ws-hongming-ji",
+      "ws-gaoseng-zhuan"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "范缜是“唯物主义者”",
+     "why": "其核心是**形神关系**（形为质、神为用），并未主张一切皆物质；以现代范畴套用会抹去“用”的维度。"
+    },
+    {
+     "claim": "范缜否认因果",
+     "why": "他否认的是**三世因果的报应论**，而非一切因果；以“偶然”解贫富，是替代“报应”的解释。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>范缜：形质神用与形尽神灭</text><defs><marker id='aFZ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>形者神之质</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>神者形之用</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故形尽则神灭</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>刃没则利无（喻）</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aFZ)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aFZ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "范缜：形质神用与“刃利”之喻（示意图）",
+   "sources": [
+    "ws-hongming-ji",
+    "ws-gaoseng-zhuan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "范缜无 SEP／IEP 词条；本页所据为《弘明集》卷九（《神灭论》原文与往复论辩）、《梁书·范缜传》与 SEP“中国形而上学”条目的语境性说明——**属语境性引用而非专门研究**。生卒年（约450—约515）须核《梁书》本传与相关考订。",
+   "doctrine": {
+    "summary": "范缜以“形质神用”立论：形是神之质，神是形之用，故形尽则神灭。他以“刃利”为喻（刃没则利无），并区分“人之质”与“木之质”以回应“死者有知”。其锋芒指向佛教的三世因果与灵魂不灭，是南朝反佛思潮中最系统的一支。",
+    "system": [
+     {
+      "name": "形质神用",
+      "content": "形为神之质，神为形之用；用依质而有，故形尽则用无。这一条是其全部论证的枢纽。"
+     },
+     {
+      "name": "刃利之喻",
+      "content": "刃没则利无：以器用之喻说明“质亡则用灭”。"
+     },
+     {
+      "name": "人之质与木之质",
+      "content": "人有知而木无知，故二者之质不同；人死之形已非“人之质”。"
+     },
+     {
+      "name": "对三世因果的回应",
+      "content": "以“偶然”解贫富贵贱，替代“报应”的解释。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "南朝齐梁（约450—约515）",
+      "change": "历仕齐、梁；永明年间与竟陵王萧子良辩论（“卖论取官”之对）；天监六年（507）梁武帝发动朝贵围攻其《神灭论》，其“辩摧众口”；此后事迹不详。"
+     }
+    ],
+    "reception": "《神灭论》成为南朝形神之争的核心文本，往复论辩（沈约、曹思文等）皆存于《弘明集》；20世纪以后其说常被读作“唯物主义的先声”，但这一读法抹去了“用”的维度。"
+   },
+   "works_detail": [
+    {
+     "title": "《神灭论》",
+     "structure": "问答体，三十余条（通行本）：以“形神相即”开篇，次论“刃利”、人之质与木之质、以及对“三世因果”的回应。",
+     "core_thesis": "形尽神灭：形为质、神为用；这是该书的核心命题。",
+     "editions": "《弘明集》卷九；《梁书·范缜传》",
+     "note": "约507年"
+    }
+   ]
+  },
+  {
+   "id": "cn-nanbei-sengyou",
+   "name": "僧祐",
+   "latin": "Sengyou",
+   "birth_year": 445,
+   "death_year": 518,
+   "birth_display": "445年",
+   "death_display": "518年",
+   "birth_note": "据《高僧传》：生于建康，幼入钟山定林寺，师从法达、法颖，精于戒律。",
+   "death_note": "518年卒于建康。",
+   "era": "南朝齐梁。僧祐是南朝最重要的佛教文献学家：《出三藏记集》以目录、序跋、传记三体并列，《弘明集》汇编护教与论辩文献。其工作使佛教的传译成为可考的历史，也使“三教论争”的双方文本得以保存。他同时是《出三藏记集》体例（疑伪经辨别）的奠基者。",
+   "school": "南朝佛教文献学（律师与经录家）",
+   "core_questions": [
+    "佛教的传译史如何考订？",
+    "疑伪经如何辨别？",
+    "护教的论辩如何保存？"
+   ],
+   "arguments": [
+    {
+     "claim": "以“目录＋序跋＋传记”三体保存传译史",
+     "premises": [
+      "佛教的传入散见于经录、经序与僧传。",
+      "三者各有其体例与来源。"
+     ],
+     "inference": "若把三者并列为“记集”，则传译史不再依赖单一的记载，而可**互相校验**；故其体例本身即一种史学方法。",
+     "conclusion": "三体并列使佛教史成为可考的历史（此为其文献学的方法论要点）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "疑伪经须以多重证据辨别",
+     "premises": [
+      "疑伪经的特征：译者不明、文风不合、经录无载。",
+      "单一证据不足以判定。"
+     ],
+     "inference": "若判定须多重证据，则“疑伪”不是排斥，而是**文献学的判断**；故其标准可被后人检验与修正。",
+     "conclusion": "疑伪经的辨别是文献学判断，不是教义裁决。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《出三藏记集》",
+     "edition": "《大正藏》第55卷；苏晋仁等点校本",
+     "note": "约510年"
+    },
+    {
+     "title": "《弘明集》",
+     "edition": "《大正藏》第52卷",
+     "note": "约505年"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "道安（经录的前驱）",
+     "id": null,
+     "note": "《综理众经目录》为其先声"
+    },
+    {
+     "name": "慧远（同代）",
+     "id": null,
+     "note": "同处庐山一系之外的建康佛教网络"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "道宣（唐代）",
+     "id": null,
+     "note": "续其体例作《广弘明集》"
+    },
+    {
+     "name": "后世的经录之学",
+     "id": null,
+     "note": "以《出三藏记集》为范式"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后世的疑伪经判定者",
+     "view": "其标准（译者、文风、经录）被视为可修正的；唐以后的经录即对其判定有所调整。",
+     "response": "僧祐一系的立场是：判定须列证据，故可被修正——这与“教义裁决”不同。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-gaoseng-zhuan",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "僧祐只是“编者”，无思想",
+     "why": "其体例（三体并列、疑伪判定）本身即**方法论**的建构，且《弘明集》的取舍亦含立场。"
+    },
+    {
+     "claim": "《出三藏记集》只是目录",
+     "why": "它兼含原始序跋与传记，故是文献学与史学的复合体。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>僧祐：三体并列与疑伪判定</text><defs><marker id='aSY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>传译史散见经录序跋僧传</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故三体并列为“记集”</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故可互相校验</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故疑伪须多重证据</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aSY)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aSY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "僧祐：“记集”的三体并列与疑伪经的判定（示意图）",
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "ws-hongming-ji",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "僧祐无 SEP／IEP 词条；本页所据为《高僧传》本传、《弘明集》与《出三藏记集》的通行概述——**属语境性引用而非专门研究**。其生卒（445—518）与著作年代须核《高僧传》与点校本。",
+   "doctrine": {
+    "summary": "僧祐是南朝最重要的佛教文献学家：《出三藏记集》以目录、序跋、传记三体并列，使佛教的传译史可互相校验；《弘明集》汇编护教与论辩文献，保存了三教论争的双方文本。其“疑伪经”的判定以译者、文风、经录为依据，是文献学判断而非教义裁决，故可被后人检验与修正。",
+    "system": [
+     {
+      "name": "三体并列",
+      "content": "目录、序跋、传记并列，使传译史可互相校验。"
+     },
+     {
+      "name": "疑伪判定",
+      "content": "以译者、文风、经录为据，是文献学判断；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "护教文献的汇编",
+      "content": "《弘明集》保存论辩双方的文本；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "律师的戒律学",
+      "content": "其学以戒律为根，文献工作出于僧团的制度需要。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "建康（445—518）",
+      "change": "幼入钟山定林寺；师从法达、法颖精研戒律；齐梁间主持建康的译经与僧团事务；编纂《出三藏记集》《弘明集》；518 年卒。"
+     }
+    ],
+    "reception": "《出三藏记集》成为后世经录的范式（道宣《大唐内典录》承之）；《弘明集》与《广弘明集》是研究三教论争的一等材料；其疑伪判定法成为中国佛教文献学的起点。"
+   },
+   "works_detail": [
+    {
+     "title": "《出三藏记集》",
+     "structure": "十五卷：撰缘记、名录、总经序、述列传四体；保存大量今已散佚的经序。",
+     "core_thesis": "三体并列；疑伪须多重证据；这是该书的核心命题。",
+     "editions": "《大正藏》第55卷；苏晋仁等点校本",
+     "note": "约510年"
+    }
+   ]
+  },
+  {
+   "id": "cn-nanbei-daosheng",
+   "name": "竺道生",
+   "latin": "Zhu Daosheng",
+   "birth_year": 355,
+   "death_year": 434,
+   "birth_display": "约355年",
+   "death_display": "434年",
+   "birth_note": "据《高僧传》：本姓魏，钜鹿人，寓居彭城；从竺法汰出家，后入庐山，再赴长安从鸠摩罗什受学。",
+   "death_note": "434年卒于庐山。",
+   "era": "东晋末至南朝宋。道生以“一阐提皆得成佛”与“顿悟成佛”震动教界：前者把成佛的根据从“修行积累”移向“本有佛性”，后者主张悟是“一念顿见”而非渐次积累。其说在当时被判为“孤明先发”（被逐出僧团），后随《大般涅槃经》的译出而被证实。",
+   "school": "南朝涅槃学（顿悟说）",
+   "core_questions": [
+    "成佛的根据是“修”还是“性”？",
+    "悟是渐还是顿？",
+    "一阐提（断善根者）能否成佛？"
+   ],
+   "arguments": [
+    {
+     "claim": "一阐提皆得成佛：佛性本有",
+     "premises": [
+      "若佛性是“本有”的，则它不因人的善恶而增减。",
+      "一阐提只是“断善根”，非“断佛性”。"
+     ],
+     "inference": "若佛性本有而不增减，则一阐提亦当得成佛；故“成佛”不是外来的授予，而是**本性的显发**。",
+     "conclusion": "一阐提皆得成佛（此说把成佛的根据移向“性”）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "顿悟成佛：悟非积累而成",
+     "premises": [
+      "渐修所积者是“ preparation”（资粮、除去覆障）。",
+      "而“悟”本身是对真理的**整体**把握。"
+     ],
+     "inference": "若真理是整体的，则对它的把握不能由部分累积而成；故悟必是“一念顿见”，渐修只是其条件。",
+     "conclusion": "悟是顿的，渐修是它的条件（此说开后世“南顿”一系）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《顿悟成佛义》",
+     "edition": "佚，见《高僧传》与相关辑佚",
+     "note": "约420年代"
+    },
+    {
+     "title": "《佛性当有论》",
+     "edition": "佚，见相关记载（具体版次待核）",
+     "note": "约420年代"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "鸠摩罗什（其师）",
+     "id": null,
+     "note": "在长安受学于罗什门下"
+    },
+    {
+     "name": "僧肇（同门）",
+     "id": null,
+     "note": "同出罗什门下，然其学路不同"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "后来的涅槃学与天台",
+     "id": null,
+     "note": "承其“佛性本有”与“顿悟”之说"
+    },
+    {
+     "name": "禅宗的顿悟说",
+     "id": null,
+     "note": "以“顿悟”为宗旨"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "当时的建康僧团",
+     "view": "以其“一阐提成佛”说无经证，判为“孤明先发”而逐之。",
+     "response": "道生的回应是：其说依“佛性本有”推理，非依经文；后《大般涅槃经》译出，其说被证实。",
+     "kind": "原文",
+     "sources": [
+      "ws-gaoseng-zhuan",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "道生的“顿悟”是“不须修行”",
+     "why": "其说以渐修为**条件**（除覆障、积资粮），只是“悟”本身不可分；故不是取消修行。"
+    },
+    {
+     "claim": "“一阐提成佛”是其独创的教义",
+     "why": "其推理基于“佛性本有”这一前提；该前提在《涅槃经》中有据，故其说是**推论的结论**而非新教义。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>竺道生：佛性本有与顿悟</text><defs><marker id='aDS' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>佛性本有而不增减</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故一阐提亦得成佛</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>而真理是整体的</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故悟必顿非渐</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aDS)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aDS)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "竺道生：佛性本有、一阐提成佛与顿悟（示意图）",
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "ws-mohezhiguan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "竺道生的著作多已散佚（《顿悟成佛义》《佛性当有论》今仅存辑佚与记载）；本页依《高僧传》本传、《大般涅槃经》的译传史与佛教研究概述，具体原文须核辑佚。",
+   "doctrine": {
+    "summary": "竺道生以“佛性本有”推出“一阐提皆得成佛”：佛性不因善恶而增减，一阐提只是断善根而非断佛性。他又主张“顿悟成佛”：渐修所积是条件（除覆障、积资粮），而“悟”本身是对整体真理的一念顿见，不可由部分累积而成。其说当时被判为“孤明先发”，后随《大般涅槃经》译出而被证实。",
+    "system": [
+     {
+      "name": "佛性本有",
+      "content": "佛性不因善恶而增减，故为成佛的根据；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "一阐提成佛",
+      "content": "断善根者亦不断佛性，故亦当得成佛；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "顿悟",
+      "content": "悟是对整体真理的一念顿见，非部分累积；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "渐修为条件",
+      "content": "除覆障、积资粮是悟的条件，不是悟本身；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "钜鹿、庐山与建康（约355—434）",
+      "change": "从竺法汰出家；入庐山；赴长安从鸠摩罗什受学；返建康后倡“一阐提成佛”，被逐；后入庐山；434 年卒。"
+     }
+    ],
+    "reception": "其“顿悟”说开后世“南顿”一系，禅宗的顿悟宗旨可溯于此；“佛性本有”说成为涅槃学与天台宗的共同前提；其被逐而复被证实的事件，是中国佛教史上“孤明先发”的典型。"
+   },
+   "works_detail": [
+    {
+     "title": "《顿悟成佛义》",
+     "structure": "已佚；据《高僧传》与后世引述，其要以“真理整体”证“悟不可分”。",
+     "core_thesis": "悟是顿的，渐修为其条件；这是该书的核心命题。",
+     "editions": "佚；辑佚见相关研究",
+     "note": "约420年代"
+    }
+   ]
+  },
+  {
+   "id": "cn-nanbei-huisi",
+   "name": "慧思",
+   "latin": "Huisi",
+   "birth_year": 515,
+   "death_year": 577,
+   "birth_display": "515年",
+   "death_display": "577年",
+   "birth_note": "据《续高僧传》：生于武津（今河南上蔡一带），十五出家，后从慧文受学，晚年入南岳。",
+   "death_note": "577年卒于南岳。",
+   "era": "南朝梁陈至北齐。慧思是天台宗的实际先驱：他以“法华三昧”为修证的核心，倡“末法”时代的修行（“不待时节”），并把“止观”的实践与“诸法实相”的教理结合。其弟子智顗承之，建立天台宗的教观体系。",
+   "school": "南朝佛教（天台先驱）",
+   "core_questions": [
+    "末法时代如何修行？",
+    "止观与实相是何关系？",
+    "《法华经》的“诸法实相”如何证得？"
+   ],
+   "arguments": [
+    {
+     "claim": "末法须“不待时节”地修行",
+     "premises": [
+      "佛灭已久，去圣日遥，故为“末法”。",
+      "若待外缘（如佛在世），则末法众生无望。"
+     ],
+     "inference": "若末法的困境在于“外缘不足”，则修行须转向**自身**的证（法华三昧）；故其“不待时节”不是急切，而是把根据从外缘移到自证。",
+     "conclusion": "末法时代的修行以自证为根据（此说为天台“末法”观奠基）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "止观与实相不二",
+     "premises": [
+      "止（定）与观（慧）是修行的两翼。",
+      "而《法华》的“诸法实相”不是思辨的对象，而是**观**的所证。"
+     ],
+     "inference": "若实相只能由观而证，则教理与修行不可分；故其“止观”不是技术，而是**教观的统一**。",
+     "conclusion": "止观即实相之证（此说为天台“教观双美”的先声）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《立誓愿文》",
+     "edition": "《大正藏》第46卷",
+     "note": "约558年"
+    },
+    {
+     "title": "《诸法无诤三昧法门》",
+     "edition": "《大正藏》第46卷",
+     "note": "6世纪"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "慧文（其师）",
+     "id": null,
+     "note": "以“一心三观”的雏形授之"
+    },
+    {
+     "name": "《法华经》（其依）",
+     "id": null,
+     "note": "以“诸法实相”为修证的核心"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "智顗（其弟子）",
+     "id": null,
+     "note": "承其止观与末法观，建立天台教观"
+    },
+    {
+     "name": "天台宗",
+     "id": null,
+     "note": "以其为先驱（“南岳尊者”）"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后世的“末法”论者",
+     "view": "其“末法”说被后世（尤其日本）推至“末法无戒”的极端，与慧思的“自证”取向不同。",
+     "response": "慧思一系的立场是：末法只是外缘的不足，故以自证补之；不是放弃戒法。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-mohezhiguan",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "慧思是“天台宗的实际创始人”",
+     "why": "天台宗的教观体系由**智顗**建立；慧思是其先驱（授止观与末法观），故不宜径直称“创始人”。"
+    },
+    {
+     "claim": "其“末法”说是悲观主义",
+     "why": "其结论是“不待时节”的积极修行，故与悲观相反。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>慧思：末法与止观</text><defs><marker id='aHS' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>佛灭已久故为末法</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>外缘不足故须自证</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>而实相由观而证</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故止观与教理不二</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aHS)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aHS)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "慧思：末法时代的“自证”与止观（示意图）",
+   "sources": [
+    "ws-mohezhiguan",
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "慧思的著作（《立誓愿文》《诸法无诤三昧法门》）真伪与年代在学界有讨论；本页依《续高僧传》本传、《摩诃止观》的相关记载与佛教研究概述。",
+   "doctrine": {
+    "summary": "慧思是天台宗的实际先驱：他以“法华三昧”为修证核心，倡“末法”时代须“不待时节”地修行——把修行的根据从外缘移到自证；又把“止观”与《法华》的“诸法实相”统一，主张实相只能由观而证，故教理与修行不可分。其弟子智顗承之，建立天台宗的教观体系。",
+    "system": [
+     {
+      "name": "末法",
+      "content": "佛灭已久、去圣日遥，故外缘不足；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "不待时节",
+      "content": "不待外缘，以自证为修行的根据；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "法华三昧",
+      "content": "以《法华经》为所依的修证；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "止观不二",
+      "content": "止与观是实相之证的两翼，与教理不可分；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "武津与南岳（515—577）",
+      "change": "十五出家；从慧文受学；因战乱南迁，入南岳；577 年卒。其弟子智顗承其学。"
+     }
+    ],
+    "reception": "慧思被尊为“南岳尊者”，天台宗以其为二祖（慧文—慧思—智顗）；其“末法自证”的取向与“止观不二”的教观，成为天台宗的起点。"
+   },
+   "works_detail": [
+    {
+     "title": "《立誓愿文》",
+     "structure": "一篇：自述求道之艰与誓愿，兼含末法时代修行之志。",
+     "core_thesis": "末法须自证，不待外缘；这是该书的核心命题。",
+     "editions": "《大正藏》第46卷",
+     "note": "约558年"
+    }
+   ]
+  }
+ ],
+ "concepts": [
+  {
+   "id": "cn-nanbei-shenmie",
+   "term": "神灭",
+   "term_latin": "extinction of the spirit",
+   "definition": "范缜的命题：形是神之质，神是形之用，故形尽则神灭。它以“质用”关系取代“灵魂实体”的设定，是南朝反佛思潮的理论核心。",
+   "usages": [
+    {
+     "name": "范缜",
+     "id": "cn-nanbei-fanzhen",
+     "usage": "以“刃利”为喻：刃没则利无，故形亡则神灭。"
+    },
+    {
+     "name": "慧远（对立面）",
+     "usage": "以“形尽神不灭”为三世因果的根据。"
+    },
+    {
+     "name": "沈约等（反驳者）",
+     "usage": "以“形神非一”立说：形有变化而神有连续性。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-yichanti"
+   ],
+   "example": {
+    "text": "“神之于质，犹利之于刃；形之于用，犹刃之于利。”——刃与利不是两个东西，故形与神也不是两个东西。",
+    "figure": "范缜",
+    "locator": "《神灭论》"
+   },
+   "sources": [
+    "ws-hongming-ji",
+    "ws-gaoseng-zhuan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《神灭论》见《弘明集》卷九与《梁书·范缜传》，二者文字有异；“形神相即”的论证与“刃利”之喻的解释须核原典。"
+  },
+  {
+   "id": "cn-nanbei-yichanti",
+   "term": "一阐提成佛",
+   "term_latin": "the icchantika can attain Buddhahood",
+   "definition": "竺道生的命题：一阐提（断善根者）亦得成佛。其根据是“佛性本有”——佛性不因善恶而增减，故断善根不等于断佛性。",
+   "usages": [
+    {
+     "name": "竺道生",
+     "id": "cn-nanbei-daosheng",
+     "usage": "以“佛性本有”推出：一阐提只是断善根，非断佛性。"
+    },
+    {
+     "name": "当时的建康僧团",
+     "usage": "以其说无经证，判为“孤明先发”而逐之。"
+    },
+    {
+     "name": "《大般涅槃经》（其证）",
+     "usage": "经译出后，其说被证实；这一用法须与相邻概念分辨。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-foxing",
+    "cn-nanbei-dunwu"
+   ],
+   "example": {
+    "text": "佛性不因人的善恶而增减，故“断善根”者亦不失佛性；这就是“一阐提皆得成佛”的推理。",
+    "figure": "竺道生",
+    "locator": "《佛性当有论》（佚，据《高僧传》）"
+   },
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook",
+    "ws-mohezhiguan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "道生之说今仅存记载与辑佚；“一阐提”的梵语义与《涅槃经》的表述须核。"
+  },
+  {
+   "id": "cn-nanbei-dunwu",
+   "term": "顿悟成佛",
+   "term_latin": "sudden enlightenment",
+   "definition": "竺道生的命题：悟是对整体真理的一念顿见，不可由部分累积而成；渐修（除覆障、积资粮）只是它的条件。此说开后世“南顿”一系。",
+   "usages": [
+    {
+     "name": "竺道生",
+     "id": "cn-nanbei-daosheng",
+     "usage": "真理是整体的，故悟必顿；渐修是其条件。"
+    },
+    {
+     "name": "智顗（承之）",
+     "usage": "以“一念三千”与“止观”承其顿悟之旨。"
+    },
+    {
+     "name": "禅宗",
+     "usage": "以“顿悟”为宗旨（与道生的“顿”有亲缘）。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-yichanti",
+    "cn-nanbei-foxing"
+   ],
+   "example": {
+    "text": "渐修如磨镜，悟如镜明：磨是渐的，明是一时的。",
+    "figure": "竺道生",
+    "locator": "《顿悟成佛义》（佚）"
+   },
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "ws-mohezhiguan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "道生“顿悟”与后世禅宗“顿悟”的异同须分辨（前者仍以渐修为条件）；本页依《高僧传》与佛教研究概述。"
+  },
+  {
+   "id": "cn-nanbei-foxing",
+   "term": "佛性本有",
+   "term_latin": "intrinsic Buddha-nature",
+   "definition": "涅槃学的核心命题：一切众生本有佛性，它不因善恶而增减，故是成佛的根据。此说把成佛的根据从“修”移向“性”，是南朝佛学的转折。",
+   "usages": [
+    {
+     "name": "竺道生",
+     "id": "cn-nanbei-daosheng",
+     "usage": "以“本有”推出“一阐提成佛”。"
+    },
+    {
+     "name": "智顗（承之）",
+     "usage": "以“性具”说承其“本有”之义。"
+    },
+    {
+     "name": "唯识（对照）",
+     "usage": "以“种姓”说分五性，与“本有”说形成张力。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-yichanti"
+   ],
+   "example": {
+    "text": "若佛性本有，则修行不是“取得”它，而是“显发”它；这正是南朝以后中国佛学的基本取向。",
+    "figure": "竺道生",
+    "locator": "据《高僧传》所记其说"
+   },
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook",
+    "ws-mohezhiguan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“佛性本有”与“始有”之争是南朝佛学的核心争论（参见本单元争论页）；本页取“本有”说的一般表述。"
+  },
+  {
+   "id": "cn-nanbei-yixia",
+   "term": "夷夏之辨",
+   "term_latin": "the distinction between Chinese and barbarian",
+   "definition": "南朝反佛论者的论据之一：佛教出自“夷狄”，其教法不合华夏的礼俗伦常，故不当行于中国。护教者的回应则重新界定“夷夏”——以“道”而非“地”为判。",
+   "usages": [
+    {
+     "name": "顾欢（《夷夏论》）",
+     "usage": "以“夷夏”分道佛：佛为夷教，不合华夏礼俗。"
+    },
+    {
+     "name": "僧祐（护教一方）",
+     "id": "cn-nanbei-sengyou",
+     "usage": "以“道无夷夏”回应：真理不以地域分。"
+    },
+    {
+     "name": "后世的三教论",
+     "usage": "以“夷夏”论争为三教关系的原型之一。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-baihei"
+   ],
+   "example": {
+    "text": "若以地域判教，则“道”成了地方性的；故护教者把判准从“地”移到“理”——这一转移是南朝三教论争的关键一步。",
+    "figure": "僧祐",
+    "locator": "《弘明集》所收诸论"
+   },
+   "sources": [
+    "ws-hongming-ji",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《夷夏论》之争（顾欢与谢镇之、朱昭之等往复）的文本见《弘明集》；本页取其论旨，具体措辞须核原书。"
+  },
+  {
+   "id": "cn-nanbei-baihei",
+   "term": "白黑论",
+   "term_latin": "the White-and-Black treatise",
+   "definition": "慧琳《白黑论》（一名《均善论》）以“白学先生”与“黑学先生”的问答，比较儒释的得失：既批评佛教的“施舍”“报应”之说，又不全盘否定。因其“折中”立场，双方皆不满。",
+   "usages": [
+    {
+     "name": "慧琳",
+     "usage": "以白黑二人的问答比较儒释，批评佛教的报应与奢靡。"
+    },
+    {
+     "name": "宗炳等（护教者）",
+     "usage": "作《难白黑论》反驳其“报应”之说。"
+    },
+    {
+     "name": "何尚之（调和者）",
+     "usage": "以“白黑”之比为论，主张三教各有其用。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-yixia"
+   ],
+   "example": {
+    "text": "《白黑论》的有趣处在于它**两边都不讨好**：护教者以其批评报应为“邪说”，反佛者以其不全盘否定为“骑墙”。",
+    "figure": "慧琳",
+    "locator": "《白黑论》（《弘明集》卷三所收相关论辩）"
+   },
+   "sources": [
+    "ws-hongming-ji",
+    "book-chan-sourcebook",
+    "ws-gaoseng-zhuan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《白黑论》原文今多存于《弘明集》所收的往复论辩中，其单行本已佚；本页依《弘明集》与佛教研究概述。"
+  }
+ ],
+ "debates": [
+  {
+   "id": "cn-nanbei-debate-shenmie",
+   "title": "神灭与神不灭之争",
+   "question": "人死之后，神（灵魂）是否随形而灭？",
+   "positions": [
+    {
+     "holder": "神灭（范缜）",
+     "id": "cn-nanbei-fanzhen",
+     "stance": "形为神之质，神为形之用；形尽则神灭。",
+     "reasons": [
+      "凡用必依质（刃没则利无）",
+      "人死之形已非“人之质”，故不能有知"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "神不灭（慧远、梁武帝一方）",
+     "id": null,
+     "stance": "神不随形灭，故有三世因果与轮回。",
+     "reasons": [
+      "若神随形灭，则善恶无报",
+      "神是“精极而为灵者”，非形所能限"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点不在“有无灵魂”的宗教信念，而在**“用”能否离“质”而在**：若神是形之用，则形亡用无；若神是独立之实，则形亡而神在。",
+   "sources": [
+    "ws-hongming-ji",
+    "ws-gaoseng-zhuan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本篇往复文本主要存于《弘明集》卷九；范缜原文与反驳者的文字皆有残佚，须核原书。",
+   "status": "无定论",
+   "status_note": "未有定论（哲学上）。此争论在当时以政治方式（梁武帝下诏、朝贵围攻）压下了反方，但哲学上的问题并未解决：直到宋明理学以“气之聚散”论生死，仍在回答同一问题。"
+  },
+  {
+   "id": "cn-nanbei-debate-foxing",
+   "title": "佛性本有还是始有",
+   "question": "众生的佛性是本来就有，还是修行而后才有？",
+   "positions": [
+    {
+     "holder": "本有（竺道生一系）",
+     "id": "cn-nanbei-daosheng",
+     "stance": "佛性本有，不因善恶增减；故修行是显发而非取得。",
+     "reasons": [
+      "若佛性可增减，则成佛无定准",
+      "一阐提亦得成佛，正因佛性本有"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "始有（另一系）",
+     "id": null,
+     "stance": "佛性由修行而始得，故须积累。",
+     "reasons": [
+      "若本有，则修行无实义",
+      "经说“修得”，似指始有"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "焦点在**修行的意义**：若佛性本有，修行是“显发”；若始有，修行是“取得”。二者对“渐/顿”的结论亦不同。",
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "ws-mohezhiguan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "南朝“本有/始有”之争的具体人物与文本须核《涅槃经》的译传史与相关研究；本页取一般表述。",
+   "status": "无定论",
+   "status_note": "未有定论（中国佛教内部长期并存）。天台以“性具”调和（本有而不碍修显），华严以“性起”说之；但“本有/始有”的张力在后世仍以不同形式出现。"
+  }
+ ]
+}

@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1153,
+  "entries": 1165,
   "by_level": {
    "L2": 786,
-   "L1": 367
+   "L1": 379
   },
   "doctrine": {
-   "total": 255,
-   "detail": 255,
+   "total": 259,
+   "detail": 259,
    "auto": 0
   },
-  "needs_verification": 367,
+  "needs_verification": 379,
   "sources": 399,
   "sources_verified": 399
  },
@@ -24,6 +24,15 @@
    "concepts": 25,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -9"
+  },
+  {
+   "unit_id": "cn-nanbei",
+   "title": "南北朝佛道与形神之争",
+   "region": "china",
+   "philosophers": 4,
+   "concepts": 6,
+   "debates": 2,
+   "philosophers_slot": "8 上限，余 4"
   },
   {
    "unit_id": "cn-qingmod",
@@ -692,6 +701,138 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-fanzhen",
+   "type": "philosopher",
+   "title": "范缜",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-sengyou",
+   "type": "philosopher",
+   "title": "僧祐",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-daosheng",
+   "type": "philosopher",
+   "title": "竺道生",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-huisi",
+   "type": "philosopher",
+   "title": "慧思",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-shenmie",
+   "type": "concept",
+   "title": "神灭",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-yichanti",
+   "type": "concept",
+   "title": "一阐提成佛",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-dunwu",
+   "type": "concept",
+   "title": "顿悟成佛",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-foxing",
+   "type": "concept",
+   "title": "佛性本有",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-yixia",
+   "type": "concept",
+   "title": "夷夏之辨",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-baihei",
+   "type": "concept",
+   "title": "白黑论",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-debate-shenmie",
+   "type": "debate",
+   "title": "神灭与神不灭之争",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-debate-foxing",
+   "type": "debate",
+   "title": "佛性本有还是始有",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
