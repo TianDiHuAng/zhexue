@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1783,
+  "entries": 1787,
   "by_level": {
    "L2": 779,
-   "L1": 1004
+   "L1": 1008
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 1004,
+  "needs_verification": 1008,
   "sources": 423,
   "sources_verified": 423
  },
@@ -13915,6 +13915,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-dialogo-massimi-sistemi",
+   "type": "work",
+   "title": "《关于两大世界体系的对话》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-renpu",
    "type": "work",
    "title": "《人谱》",
@@ -13985,6 +13996,28 @@
    "type": "work",
    "title": "《音学五书》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-principia-descartes",
+   "type": "work",
+   "title": "《哲学原理》（笛卡尔）",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-passions-ame",
+   "type": "work",
+   "title": "《灵魂的激情》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -19286,6 +19319,17 @@
    "id": "cmp-wuxian-yuzhou",
    "type": "comparative",
    "title": "“宇宙无中心”与“天地无中心”：无限如何被思？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-huoti",
+   "type": "comparative",
+   "title": "“激情须被驾驭”与“喜怒哀乐之未发”：情该如何安顿？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

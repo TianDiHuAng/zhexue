@@ -22390,6 +22390,63 @@
    "sort_year": 1631
   },
   {
+   "id": "work-dialogo-massimi-sistemi",
+   "title": "《关于两大世界体系的对话》",
+   "title_original": "Dialogo sopra i due massimi sistemi del mondo",
+   "tradition": "west",
+   "date_display": "1632（伽利略）",
+   "structure": "四日谈（三个人物：萨尔维阿蒂、沙格列陀、辛普利邱）：论托勒密与哥白尼两体系。",
+   "core_arguments": [
+    "以“**对话**”为体：让反对者（辛普利邱）充分发言而后驳之",
+    "以**潮汐**为地球运动的论据（此点后来被认为有误）",
+    "故其结论是：**哥白尼体系可行**（非“已证”）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一日",
+     "point": "天体的不变与变"
+    },
+    {
+     "locator": "第二日",
+     "point": "地球的周日运动"
+    },
+    {
+     "locator": "第三日",
+     "point": "地球的周年运动"
+    },
+    {
+     "locator": "第四日",
+     "point": "潮汐"
+    }
+   ],
+   "editions": [
+    "意大利文（Edizione Nazionale VII）；英译（Dialogue Concerning the Two Chief World Systems, California）；中译参《关于托勒密和哥白尼两大世界体系的对话》（版次待核）"
+   ],
+   "related_people": [
+    "gr-modern-galileo",
+    "gr-modern-bruno",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书“证明了地动”",
+     "why": "其书以**对话与论证**主张哥白尼体系**可行**（并为潮汐给出解释），而潮汐之论后被证明有误；故其为论辩之作，非证明。"
+    },
+    {
+     "claim": "其书是“纯科学著作，与神学无关”",
+     "why": "其书卷末明确处理**圣经与自然之书的关系**（经文的权能范围）；故其科学与神学的问题不可分，此亦其受审之由。"
+    }
+   ],
+   "sources": [
+    "sep-galileo",
+    "sep-aristotle",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《对话》四日谈的结构与 1632 年初版须核 Edizione Nazionale VII；潮汐之论在其后学上的评价亦须核（本书不作定论）。中译版次待考。",
+   "sort_year": 1632
+  },
+  {
    "id": "work-renpu",
    "title": "《人谱》",
    "title_original": "人譜",
@@ -22781,6 +22838,120 @@
    "needs_verification": true,
    "pending_notes": "《音学五书》的五种与卷数须核中华书局点校本；其古韵十部与后世分部的演变亦须分辨。",
    "sort_year": 1643
+  },
+  {
+   "id": "work-principia-descartes",
+   "title": "《哲学原理》（笛卡尔）",
+   "title_original": "Principia philosophiae",
+   "tradition": "west",
+   "date_display": "1644（笛卡尔；拉丁文）",
+   "structure": "四部：论人类知识的原理、论物质事物的原理、论可见的世界、论地球。",
+   "core_arguments": [
+    "以“**清楚分明**”为真理的标准（承《方法谈》而系统化）",
+    "以“**广延**”为物质的本质：故无虚空（以涡旋说运动）",
+    "以“**漩涡**”（vortices）说天体运动（与牛顿的引力说相对）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "知识的原理"
+    },
+    {
+     "locator": "第二部",
+     "point": "物质与运动"
+    },
+    {
+     "locator": "第三部",
+     "point": "可见的世界"
+    },
+    {
+     "locator": "第四部",
+     "point": "地球"
+    }
+   ],
+   "editions": [
+    "拉丁文（Oeuvres, Adam-Tannery VIII-1）；英译（Principles of Philosophy, Kluwer）；中译参《哲学原理》（版次待核）"
+   ],
+   "related_people": [
+    "gr-modern-descartes",
+    "gr-modern-galileo",
+    "gr-modern-leibniz"
+   ],
+   "misreadings": [
+    {
+     "claim": "其漩涡说是“被牛顿推翻的错误”",
+     "why": "其说以**机械论**解释天体运动（无超距力），其失在具体机制而非方法；故其为一种**机械论宇宙论**，被牛顿的力学取代，然其方法论的关切（无隐秘性质）为牛顿所承。"
+    },
+    {
+     "claim": "其书是“物理学的教科书”",
+     "why": "其书自“**知识的原理**”始（形而上学为物理学之基），故其为**体系的著作**，非教科书。"
+    }
+   ],
+   "sources": [
+    "sep-descartes",
+    "sep-galileo",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《哲学原理》四部的结构与 1644 年拉丁初版须核 Adam-Tannery VIII-1；“漩涡说”的原文与其与牛顿力学的关系亦须核。中译版次待考。",
+   "sort_year": 1644
+  },
+  {
+   "id": "work-passions-ame",
+   "title": "《灵魂的激情》",
+   "title_original": "Les passions de l'âme",
+   "tradition": "west",
+   "date_display": "1649（笛卡尔；法文）",
+   "structure": "三部（凡二百一十二条）：论激情的一般、其数目与次序、以及特殊的激情。",
+   "core_arguments": [
+    "激情是“**灵魂的知觉**”：由动物精气的运动所引起",
+    "以“**六种基本激情**”为纲：惊奇、爱、憎、欲望、喜、哀",
+    "故**德性在于意志的运用**：不是消灭激情，而是驾驭它"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "激情的本性"
+    },
+    {
+     "locator": "第二部",
+     "point": "六种基本激情"
+    },
+    {
+     "locator": "第三部",
+     "point": "特殊的激情"
+    },
+    {
+     "locator": "论德性",
+     "point": "意志的运用"
+    }
+   ],
+   "editions": [
+    "法文（Adam-Tannery XI）；英译（The Passions of the Soul, Hackett）；中译参《灵魂的激情》（版次待核）"
+   ],
+   "related_people": [
+    "gr-modern-descartes",
+    "gr-ancient-aristotle",
+    "gr-hellenistic-zeno"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“心理学的分析”",
+     "why": "其书以**身心关系**为框架（精气的机械运动与灵魂的知觉），故其为**形而上学的伦理学**，非近代心理学。"
+    },
+    {
+     "claim": "其“驾驭激情”是“压抑情感”",
+     "why": "其说主张**以意志引导**激情（用其力而不为其所制），故其为德性的工夫，非压抑。"
+    }
+   ],
+   "sources": [
+    "sep-descartes",
+    "sep-aristotle",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《灵魂的激情》三部的条数（二百一十二条）与 1649 年法文初版须核 Adam-Tannery XI；“六种基本激情”的原文亦须核。中译版次待考。",
+   "sort_year": 1649
   },
   {
    "id": "work-dongxi-jun",
