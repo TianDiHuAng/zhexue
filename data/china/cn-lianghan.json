@@ -3561,6 +3561,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“刑名”的两种用法（法家的刑名参同 vs 汉儒的名实论）须分辨；本页并述二义，具体例证须核《汉书》与汉代政治思想研究。"
+  },
+  {
+   "id": "cn-lianghan-xungu",
+   "term": "训诂",
+   "term_latin": "exegesis of characters and terms",
+   "definition": "汉代的解经方法：以今语释古语（“训”），以通语释方言（“诂”），并以形、音、义三者互求。它把“读经”从义理的体会变成**可检验的语文工作**，是清代考据学的直接源头。",
+   "usages": [
+    {
+     "name": "许慎（其系统化）",
+     "usage": "以《说文》把训诂建立在字形与部首的系统上。"
+    },
+    {
+     "name": "戴震（其承）",
+     "usage": "“由字通词，由词通道”：以训诂为义理的门径。"
+    },
+    {
+     "name": "董仲舒（其对照）",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以“微言大义”说经，重心在义理而非语文。"
+    }
+   ],
+   "related": [
+    "cn-lianghan-shishi-qiushen",
+    "cn-lianghan-weiyandayi"
+   ],
+   "example": {
+    "text": "“训诂”与“微言大义”是汉代解经的两条路：前者以语文的确定求义，后者以义理的洞见求义。二者的张力贯穿清代（考据 vs 义理）—— 而其源头正在汉代。",
+    "figure": "许慎",
+    "locator": "《说文解字·叙》"
+   },
+   "sources": [
+    "ws-hanshu",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“训诂”一名在汉代兼指解经的方法与官学的科目；本页取其方法义，具体例证须核《说文》与《尔雅》。"
   }
  ],
  "debates": [

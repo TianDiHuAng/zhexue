@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1311,
+  "entries": 1316,
   "by_level": {
    "L2": 779,
-   "L1": 532
+   "L1": 537
   },
   "doctrine": {
    "total": 270,
    "detail": 270,
    "auto": 0
   },
-  "needs_verification": 532,
+  "needs_verification": 537,
   "sources": 411,
   "sources_verified": 411
  },
@@ -21,7 +21,7 @@
    "title": "两汉经学与气论",
    "region": "china",
    "philosophers": 17,
-   "concepts": 28,
+   "concepts": 29,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -9"
   },
@@ -641,6 +641,17 @@
    "id": "cn-lianghan-xingming",
    "type": "concept",
    "title": "刑名",
+   "container": "cn-lianghan",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-lianghan-xungu",
+   "type": "concept",
+   "title": "训诂",
    "container": "cn-lianghan",
    "level": "L1",
    "sources": 3,
@@ -9493,6 +9504,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-xiaojing",
+   "type": "work",
+   "title": "《孝经》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-lushi-chunqiu",
    "type": "work",
    "title": "《吕氏春秋》",
@@ -9529,6 +9551,17 @@
    "id": "work-gongyang-zhuan",
    "type": "work",
    "title": "《春秋公羊传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-erya",
+   "type": "work",
+   "title": "《尔雅》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -9974,6 +10007,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-shuowen-jiezi",
+   "type": "work",
+   "title": "《说文解字》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -14094,6 +14138,17 @@
    "id": "cmp-zhiming",
    "type": "comparative",
    "title": "正名与严格指示：两种“名”的确定方式",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-xungu",
+   "type": "comparative",
+   "title": "训诂与定义：许慎与亚里士多德的“界说”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

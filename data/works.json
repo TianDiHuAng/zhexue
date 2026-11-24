@@ -4554,6 +4554,63 @@
    "sort_year": -250
   },
   {
+   "id": "work-xiaojing",
+   "title": "《孝经》",
+   "title_original": "孝經",
+   "tradition": "china",
+   "date_display": "战国末至汉初成书（托名曾子与孔子问答）",
+   "structure": "十八章（今文）：开宗明义、天子、诸侯、卿大夫、士、庶人、三才、孝治、圣治、纪孝行、五刑、广要道、广至德、广扬名、谏诤、感应、事君、丧亲。",
+   "core_arguments": [
+    "“孝”是“德之本”与“教之所由生”",
+    "孝有等第：天子、诸侯、卿大夫、士、庶人各有其孝",
+    "“身体发肤，受之父母，不敢毁伤”——孝的起点在保全自身"
+   ],
+   "key_points": [
+    {
+     "locator": "〈开宗明义〉",
+     "point": "孝为德之本"
+    },
+    {
+     "locator": "〈天子〉—〈庶人〉",
+     "point": "孝的等第"
+    },
+    {
+     "locator": "〈谏诤〉",
+     "point": "孝不等于盲从"
+    },
+    {
+     "locator": "〈丧亲〉",
+     "point": "丧礼与孝的终事"
+    }
+   ],
+   "editions": [
+    "《十三经注疏》本（唐玄宗注、邢昺疏）；《孝经》各本"
+   ],
+   "related_people": [
+    "cn-xianqin-kongzi",
+    "cn-lianghan-ban-gu",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《孝经》主张对父母绝对服从",
+     "why": "其〈谏诤〉章明言“故当不义，则子不可以不争于父”；故其“孝”含**谏诤**之义，不是盲从。"
+    },
+    {
+     "claim": "它是孔子的著作",
+     "why": "它是**托名**孔子与曾子问答的作品，成书于战国末至汉初；故不能径视为孔子之言。"
+    }
+   ],
+   "sources": [
+    "ws-liji",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《孝经》今古文之争（今文十八章 vs 古文二十二章）与其成书年代须核；〈谏诤〉章的原文亦须核《十三经注疏》本。",
+   "sort_year": -250
+  },
+  {
    "id": "work-lushi-chunqiu",
    "title": "《吕氏春秋》",
    "title_original": "呂氏春秋",
@@ -4779,6 +4836,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《公羊传》的成书过程（口传到汉初著于竹帛）与“三世说”的归属（传文 vs 何休的建构）须分辨；本页并述传文与后世发挥，具体文本须核《十三经注疏》本。",
+   "sort_year": -200
+  },
+  {
+   "id": "work-erya",
+   "title": "《尔雅》",
+   "title_original": "爾雅",
+   "tradition": "china",
+   "date_display": "战国至汉初陆续成书（非一人一时）",
+   "structure": "十九篇：释诂、释言、释训、释亲、释宫、释器、释乐、释天、释地、释丘、释山、释水、释草、释木、释虫、释鱼、释鸟、释兽、释畜。",
+   "core_arguments": [
+    "以“释”为体：以今语释古语、以通语释方言",
+    "分类以“类”为纲：亲、宫、器、天、地、草、木、虫、鱼、鸟、兽",
+    "“训诂”的方法在此定型：同义相训、描状、以类相从"
+   ],
+   "key_points": [
+    {
+     "locator": "〈释诂〉",
+     "point": "同义相训"
+    },
+    {
+     "locator": "〈释亲〉",
+     "point": "亲属称谓的系统"
+    },
+    {
+     "locator": "〈释天〉—〈释水〉",
+     "point": "自然分类"
+    },
+    {
+     "locator": "〈释草〉以下",
+     "point": "生物的类聚"
+    }
+   ],
+   "editions": [
+    "《十三经注疏》本（郭璞注、邢昺疏）；周祖谟《尔雅校笺》"
+   ],
+   "related_people": [
+    "cn-lianghan-ban-gu",
+    "cn-qingmod-dai-zhen",
+    "cn-qingmod-ruan-yuan"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是一部“字典”",
+     "why": "它的编排是**按义类**（诂、言、训、亲、宫……），而非按字形或音韵检索；故它是“训诂的分类汇编”，与后世的字典（《说文》）体例不同。"
+    },
+    {
+     "claim": "其成书出自一人",
+     "why": "它非一人一时之作（战国至汉初陆续成书），各篇的年代与来源不一；故须逐篇看待。"
+    }
+   ],
+   "sources": [
+    "ws-hanshu",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《尔雅》的成书过程（非一人一时）与十九篇的年代分层须核；其与《方言》《说文》在体例上的区别亦须分辨。",
    "sort_year": -200
   },
   {
@@ -7044,6 +7158,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 120
+  },
+  {
+   "id": "work-shuowen-jiezi",
+   "title": "《说文解字》",
+   "title_original": "說文解字",
+   "tradition": "china",
+   "date_display": "100—121年（许慎撰；其子许冲121年奏上）",
+   "structure": "十五卷（含叙目）：收九千余字，按**五百四十部首**分类，每字先释其义，次析其形（形声、会意等），再注其音（读若）。",
+   "core_arguments": [
+    "以“部首”统字：文字的构造有其系统（“分别部居，不相杂厕”）",
+    "“六书”的界说在此定型（指事、象形、形声、会意、转注、假借）",
+    "字形与字义相关：据形以说义（其方法的限度亦在此）"
+   ],
+   "key_points": [
+    {
+     "locator": "〈叙〉",
+     "point": "六书的界说与文字源流"
+    },
+    {
+     "locator": "部首",
+     "point": "五百四十部的系统"
+    },
+    {
+     "locator": "说解",
+     "point": "据形说义"
+    },
+    {
+     "locator": "读若",
+     "point": "注音的方式"
+    }
+   ],
+   "editions": [
+    "中华书局《说文解字》（大徐本）；段玉裁《说文解字注》"
+   ],
+   "related_people": [
+    "cn-qingmod-dai-zhen",
+    "cn-qingmod-ruan-yuan",
+    "cn-lianghan-ban-gu"
+   ],
+   "misreadings": [
+    {
+     "claim": "《说文》的解释都是正确的",
+     "why": "其据形说义的方法有其限度：甲骨文、金文的大量发现（晚于许慎）已修正其中不少字的说解；故它是**方法的奠基**，不是结论的终点。"
+    },
+    {
+     "claim": "“六书”是许慎首创",
+     "why": "“六书”之名见于《周礼》，其细目在汉代（刘歆、班固、郑众）已有；许慎的贡献是**界说与例证的系统化**。"
+    }
+   ],
+   "sources": [
+    "ws-hanshu",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《说文解字》的成书（100—121）与五百四十部的数目须核大徐本；“六书”界说的原文（〈叙〉）亦须核，且其与甲骨文研究的关系须分辨。",
+   "sort_year": 121
   },
   {
    "id": "work-qianfu-lun",
