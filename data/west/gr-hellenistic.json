@@ -2851,6 +2851,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-hellenistic-prolepsis",
+   "term": "预象（prolēpsis）",
+   "term_latin": "prolēpsis",
+   "definition": "伊壁鸠鲁认识论的核心：概念不是后天抽象而得，而是感觉反复留下的**预先轮廓**（prolēpsis）。故“神”“正义”等概念若有其预象，则其对象真实；若无，则只是空名。",
+   "usages": [
+    {
+     "name": "伊壁鸠鲁",
+     "id": "gr-hellenistic-epicurus",
+     "usage": "以预象为判断概念是否有指的标准（“神”有预象，“半人马”无）。"
+    },
+    {
+     "name": "斯多亚派（对照）",
+     "usage": "以“共同概念”（koinai ennoiai）说之，更重理性。"
+    },
+    {
+     "name": "塞克斯都（记载者）",
+     "usage": "以怀疑论的转述保存了伊壁鸠鲁派的这一学说。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-atoms-void",
+    "gr-hellenistic-hedone"
+   ],
+   "example": {
+    "text": "预象的要害在于它给“概念”一个**经验的来源**而不落入纯抽象：概念不是约定的，也不是天赋的，而是感觉反复留下的轮廓。故其判准是“有无预象”，而不是“是否符合定义”。",
+    "figure": "伊壁鸠鲁",
+    "locator": "《致希罗多德的信》"
+   },
+   "sources": [
+    "sep-epicurus",
+    "book-guthrie-greek",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“预象”（prolēpsis）在伊壁鸠鲁、斯多亚与后期怀疑论的记载中含义有差异；本页取伊壁鸠鲁派的基本义，具体文本须核《致希罗多德的信》与第欧根尼·拉尔修卷十。"
   }
  ],
  "debates": [

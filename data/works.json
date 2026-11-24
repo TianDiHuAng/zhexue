@@ -3186,6 +3186,63 @@
    "sort_year": -300
   },
   {
+   "id": "work-letter-herodotus",
+   "title": "《致希罗多德的信》",
+   "title_original": "Epistula ad Herodotum",
+   "tradition": "west",
+   "date_display": "伊壁鸠鲁（前4世纪末—前3世纪初）；存于第欧根尼·拉尔修卷十",
+   "structure": "一篇（存于第欧根尼·拉尔修《名哲言行录》卷十）：概述其自然哲学（原子与虚空、影像、灵魂、天象）。",
+   "core_arguments": [
+    "万物由原子与虚空构成",
+    "影像（eidōla）的流射说明感知",
+    "天象不以神意解释，而以自然原因解释（多种可能原因并存即可）"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "预象与感觉的判准"
+    },
+    {
+     "locator": "论原子与虚空",
+     "point": "本原"
+    },
+    {
+     "locator": "论影像",
+     "point": "感知"
+    },
+    {
+     "locator": "论天象",
+     "point": "自然解释与“多种原因”原则"
+    }
+   ],
+   "editions": [
+    "第欧根尼·拉尔修《名哲言行录》卷十（Loeb 本）；英译见 Inwood & Gerson, Hellenistic Philosophy"
+   ],
+   "related_people": [
+    "gr-hellenistic-epicurus",
+    "gr-hellenistic-lucretius",
+    "gr-hellenistic-atoms-void"
+   ],
+   "misreadings": [
+    {
+     "claim": "伊壁鸠鲁以“快乐”为纵欲",
+     "why": "其“快乐”是**身体无痛、心灵无扰**（katastematic pleasure），不是动态的享乐；故其伦理学是节制的。"
+    },
+    {
+     "claim": "其天象说只是“不敬神”",
+     "why": "其“多种原因”原则的目的是**去除恐惧**：只要有一种自然解释可能，就不必以神意解释天象；故其立场是治疗性的，不只是反宗教。"
+    }
+   ],
+   "sources": [
+    "sep-epicurus",
+    "book-guthrie-greek",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《致希罗多德的信》为残篇（存于第欧根尼·拉尔修卷十），其文本有脱漏；本页依 Loeb 本与希腊化哲学研究概述。",
+   "sort_year": -300
+  },
+  {
    "id": "work-tianxia-pian",
    "title": "《庄子·天下篇》",
    "title_original": "天下篇",
@@ -5959,6 +6016,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 55
+  },
+  {
+   "id": "work-de-vita-beata",
+   "title": "《论幸福生活》",
+   "title_original": "De vita beata",
+   "tradition": "west",
+   "date_display": "约58年（塞涅卡）",
+   "structure": "一篇（对话体，致其兄伽利奥）：论幸福在于依自然而生活，并回应“斯多亚派言行不一”的指责。",
+   "core_arguments": [
+    "幸福是“依自然而生活”：以理性把握自然的规定",
+    "财富与快乐不是恶，但不可为其所役（“拥有”而非“被拥有”）",
+    "对“哲学家富有”的辩护：德性与财富可并存，只要不为其所奴役"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "幸福的定义"
+    },
+    {
+     "locator": "中段",
+     "point": "德性与快乐的关系"
+    },
+    {
+     "locator": "后段",
+     "point": "对“言行不一”的回应"
+    },
+    {
+     "locator": "末段",
+     "point": "“拥有而不被拥有”"
+    }
+   ],
+   "editions": [
+    "拉丁原文（Loeb 本 Moral Essays 卷二）；中译参《论幸福生活》（若有）；英译（Basore）"
+   ],
+   "related_people": [
+    "gr-hellenistic-seneca",
+    "gr-hellenistic-epicurus",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是为塞涅卡的富有作辩护",
+     "why": "其辩护的要点是**关系**（拥有而不被拥有），不是财富本身；且他同时承认“哲学家不必富有”。"
+    },
+    {
+     "claim": "斯多亚派主张“德性是唯一的善，故快乐无关”",
+     "why": "其说区分“善”（只有德性）与“可取之物”（健康、财富等“中性物”）；故不是否认快乐，而是否认其为善。"
+    }
+   ],
+   "sources": [
+    "sep-stoicism",
+    "sep-epicurus",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论幸福生活》的成书年代（约58）与其在塞涅卡著作序列中的位置须核 Loeb 本导论；其“财富”论与罗马语境的关联亦须分辨。",
+   "sort_year": 58
   },
   {
    "id": "work-letters-seneca",
@@ -18449,6 +18563,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1903
+  },
+  {
+   "id": "work-stoic-reader",
+   "title": "《斯多亚派选集》",
+   "title_original": "Stoicorum Veterum Fragmenta（SVF）与选本",
+   "tradition": "west",
+   "date_display": "现代编纂（von Arnim, 1903—1905；另有 Long & Sedley 选本）",
+   "structure": "SVF 三卷（另附第四卷索引）：按人物（芝诺、克吕西波等）与主题（逻辑、物理、伦理）辑录佚文；Long & Sedley 选本按主题编排并附评注。",
+   "core_arguments": [
+    "斯多亚派的原著大量散佚，研究依赖辑佚与转述（第欧根尼·拉尔修、塞克斯都、西塞罗、普鲁塔克等）",
+    "辑佚的编排（按人物或按主题）本身影响对学派的解读",
+    "早期斯多亚（芝诺、克律西波）与中期（帕奈提乌、波塞多尼）与晚期（塞涅卡、爱比克泰德、马可）须分辨"
+   ],
+   "key_points": [
+    {
+     "locator": "SVF 卷一",
+     "point": "芝诺与早期学派"
+    },
+    {
+     "locator": "SVF 卷二",
+     "point": "克律西波"
+    },
+    {
+     "locator": "SVF 卷三",
+     "point": "中期与晚期"
+    },
+    {
+     "locator": "Long & Sedley 选本",
+     "point": "按主题的编排与评注"
+    }
+   ],
+   "editions": [
+    "SVF（von Arnim 编，Leipzig 1903—05）；Long & Sedley, The Hellenistic Philosophers（剑桥，1987）"
+   ],
+   "related_people": [
+    "gr-hellenistic-zeno",
+    "gr-hellenistic-seneca",
+    "gr-hellenistic-marcus-aurelius"
+   ],
+   "misreadings": [
+    {
+     "claim": "斯多亚派有一部“体系全书”",
+     "why": "其原著大多散佚，今所见皆为**辑佚与转述**；故“斯多亚派选集”是现代编纂物，不是古代的某一部书。"
+    },
+    {
+     "claim": "早期与晚期斯多亚的思想一致",
+     "why": "三者（早期、中期、晚期）在伦理学与宇宙论上有可辨的差异（如帕奈提乌对占星术的保留）；故须分辨。"
+    }
+   ],
+   "sources": [
+    "sep-stoicism",
+    "book-copleston-history",
+    "book-guthrie-greek"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本条所指为**现代辑佚与选本**（SVF 与 Long & Sedley），非古代原著；其编排原则对解读的影响须留意。故标为待核实。",
    "sort_year": 1903
   },
   {
