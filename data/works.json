@@ -21391,6 +21391,63 @@
    "sort_year": 1770
   },
   {
+   "id": "work-dongyuan-ji",
+   "title": "《戴东原集》",
+   "title_original": "戴東原集（戴震文集）",
+   "tradition": "china",
+   "date_display": "清（戴震，1724—1777；后人编定）",
+   "structure": "十二卷（通行本）：含书、序、论、记、传、墓志与杂著；其哲学要旨多在《孟子字义疏证》《原善》。",
+   "core_arguments": [
+    "“由字通词，由词通道”：训诂为义理的门径",
+    "“血气心知”：以血气与心知说性，反对“理”为外在的实体",
+    "“以理杀人”：离情与欲而言理，则理成为杀人的工具"
+   ],
+   "key_points": [
+    {
+     "locator": "《与是仲明论学书》",
+     "point": "由字通词，由词通道"
+    },
+    {
+     "locator": "《原善》诸序",
+     "point": "血气心知"
+    },
+    {
+     "locator": "论学诸篇",
+     "point": "训诂与义理"
+    },
+    {
+     "locator": "杂著",
+     "point": "考据的方法"
+    }
+   ],
+   "editions": [
+    "中华书局《戴震文集》（赵玉新点校）；《戴震全书》本"
+   ],
+   "related_people": [
+    "cn-qingmod-dai-zhen",
+    "cn-qingmod-gu-yanwu",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "戴震只是“考据家”",
+     "why": "其《孟子字义疏证》有明确的**义理建构**（血气心知、以理杀人）；故其考据与义理是一体两面，不能只以考据家目之。"
+    },
+    {
+     "claim": "“由字通词，由词通道”是“以考据取代哲学”",
+     "why": "其意是：哲学的论断须经文字的检验，否则易流为空言；故其说是**方法的要求**，不是取消哲学。"
+    }
+   ],
+   "sources": [
+    "ws-mengzi-ziyi",
+    "ct-rizhilu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《戴东原集》的卷数与篇目须核中华书局《戴震文集》；“由字通词，由词通道”的出处（《与是仲明论学书》）亦须核。",
+   "sort_year": 1770
+  },
+  {
    "id": "work-origin-language",
    "title": "《论语言的起源》",
    "title_original": "Abhandlung über den Ursprung der Sprache",
@@ -21445,6 +21502,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1772
+  },
+  {
+   "id": "work-liushu-yinjun-biao",
+   "title": "《六书音均表》",
+   "title_original": "六書音均表",
+   "tradition": "china",
+   "date_display": "清（段玉裁，1735—1815；1775年成）",
+   "structure": "五表：今韵古分十七部表、古十七部谐声表、古十七部合用类分表、诗经韵分十七部表、群经韵分十七部表。",
+   "core_arguments": [
+    "古韵分**十七部**：较顾炎武十部、江永十三部更密",
+    "“同声必同部”：谐声字与其声符同部（此为方法上的突破）",
+    "“古无去声”“古音多敛”：以韵文与谐声相参定部"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部表",
+     "point": "古韵十七部"
+    },
+    {
+     "locator": "谐声表",
+     "point": "同声必同部"
+    },
+    {
+     "locator": "合用类分表",
+     "point": "部类的远近"
+    },
+    {
+     "locator": "诗经韵表",
+     "point": "以《诗》证部"
+    }
+   ],
+   "editions": [
+    "中华书局《说文解字注》所附；《段玉裁全集》本"
+   ],
+   "related_people": [
+    "cn-qingmod-duan-yucai",
+    "cn-qingmod-dai-zhen",
+    "cn-qingmod-gu-yanwu"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“韵表”而已",
+     "why": "其要害是“**同声必同部**”这一方法：以谐声系统与韵文互证，使古韵的分部有了**双重证据**；故它是方法论上的突破，不只是表格。"
+    },
+    {
+     "claim": "十七部即最终的结论",
+     "why": "其后王念孙、江有诰等增至二十一部、三十部；故十七部是**关键的一步**，不是终点。"
+    }
+   ],
+   "sources": [
+    "ws-mingyi",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《六书音均表》的五表与十七部须核《说文解字注》所附本；“同声必同部”的表述亦须核原文。",
+   "sort_year": 1775
   },
   {
    "id": "work-wealth-nations",
@@ -22463,6 +22577,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1807
+  },
+  {
+   "id": "work-shuowen-jiezi-zhu",
+   "title": "《说文解字注》",
+   "title_original": "說文解字注",
+   "tradition": "china",
+   "date_display": "清（段玉裁；1808年成，1815年刊）",
+   "structure": "三十卷：逐字注《说文》，先校其文（订正讹误），次阐其义，再及其引申与假借。",
+   "core_arguments": [
+    "“以许注许”：以《说文》本书的体例与用语相互发明",
+    "“本义—引申—假借”三层：字义的演变有其层次",
+    "校勘与释义并重：先订其文，后求其义"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—十四",
+     "point": "逐字注"
+    },
+    {
+     "locator": "注中的校语",
+     "point": "订正讹误"
+    },
+    {
+     "locator": "引申与假借",
+     "point": "字义的层次"
+    },
+    {
+     "locator": "全书",
+     "point": "以许注许"
+    }
+   ],
+   "editions": [
+    "上海古籍出版社《说文解字注》（影印经韵楼本）；中华书局本"
+   ],
+   "related_people": [
+    "cn-qingmod-duan-yucai",
+    "cn-qingmod-dai-zhen",
+    "cn-qingmod-zhang-taiyan"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“注释书”",
+     "why": "其书先**校**后**注**，且以“本义—引申—假借”重建字义的系统；故其性质是“以注释的形式重建字义学”，远超一般的注释。"
+    },
+    {
+     "claim": "其结论皆为定论",
+     "why": "其说多有后人的补正（如甲骨文出土后的修正）；故它是**典范**，不是终点。"
+    }
+   ],
+   "sources": [
+    "ws-mingyi",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《说文解字注》的成书与刊刻（1808／1815）须核上海古籍出版社影印本；“以许注许”的方法与其局限亦须分辨。",
+   "sort_year": 1808
   },
   {
    "id": "work-diaogu-ji",

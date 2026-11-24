@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1438,
+  "entries": 1444,
   "by_level": {
    "L2": 781,
-   "L1": 657
+   "L1": 663
   },
   "doctrine": {
-   "total": 284,
-   "detail": 284,
+   "total": 285,
+   "detail": 285,
    "auto": 0
   },
-  "needs_verification": 657,
+  "needs_verification": 663,
   "sources": 418,
   "sources_verified": 418
  },
@@ -38,10 +38,10 @@
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 22,
-   "concepts": 24,
+   "philosophers": 23,
+   "concepts": 25,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -14"
+   "philosophers_slot": "8 上限，余 -15"
   },
   {
    "unit_id": "cn-songming",
@@ -1463,6 +1463,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-qingmod-duan-yucai",
+   "type": "philosopher",
+   "title": "段玉裁",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-qingmod-jingshi-zhizhiyong",
    "type": "concept",
    "title": "经世致用",
@@ -1719,6 +1730,17 @@
    "id": "cn-qingmod-boxue-yuwen",
    "type": "concept",
    "title": "博学于文",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-youzi-tongci",
+   "type": "concept",
+   "title": "由字通词",
    "container": "cn-qingmod",
    "level": "L1",
    "sources": 3,
@@ -13145,6 +13167,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-dongyuan-ji",
+   "type": "work",
+   "title": "《戴东原集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-origin-language",
    "type": "work",
    "title": "《论语言的起源》",
@@ -13153,6 +13186,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-liushu-yinjun-biao",
+   "type": "work",
+   "title": "《六书音均表》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13351,6 +13395,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-shuowen-jiezi-zhu",
+   "type": "work",
+   "title": "《说文解字注》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -15491,6 +15546,17 @@
    "id": "cmp-guwen",
    "type": "comparative",
    "title": "古音与“历史语言学”：声音能证明什么？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-xungu-quanshi",
+   "type": "comparative",
+   "title": "“由字通词”与“分析—解释”：文本能给出什么？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

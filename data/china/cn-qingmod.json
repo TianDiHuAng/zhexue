@@ -3455,6 +3455,155 @@
      "note": "约1700 年"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-duan-yucai",
+   "name": "段玉裁",
+   "latin": "Duan Yucai",
+   "birth_year": 1735,
+   "death_year": 1815,
+   "birth_display": "1735年",
+   "death_display": "1815年",
+   "birth_note": "据《清史稿》儒林传：字若膺，号茂堂，江苏金坛人；乾隆举人，戴震弟子，历官知县，后专事著述。",
+   "death_note": "1815年卒（《清史稿》儒林传）。",
+   "era": "清代。段玉裁是乾嘉考据学的代表：以《六书音均表》把古韵分为**十七部**，并提出“同声必同部”的方法（以谐声系统与韵文互证）；又以《说文解字注》把“由字通词”的纲领落于字义的重建（本义—引申—假借三层）。故其位置是把戴震的方法**做成学问的规模** —— 而其限度也在此：字义的系统愈精，义理的全体愈难见。",
+   "school": "乾嘉考据学（戴震一系）",
+   "core_questions": [
+    "古韵应如何分部？",
+    "字义的系统如何重建？",
+    "训诂与义理是何关系？"
+   ],
+   "arguments": [
+    {
+     "claim": "古韵分十七部，且“同声必同部”",
+     "premises": [
+      "韵文的用韵与谐声字的声符，是两类独立的证据。",
+      "二者若相合，则分部可立。"
+     ],
+     "inference": "若以两类证据互证而定部，则分部非一人的臆断；故其方法是**双重证据法**，其结论较顾炎武、江永更密。",
+     "conclusion": "古韵十七部与“同声必同部”（此说为古音学的关键一步）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "字义有本义、引申、假借三层",
+     "premises": [
+      "《说文》所释多为本义。",
+      "而后世的用法多由本义引申或假借。"
+     ],
+     "inference": "若字义有层次，则读古书须先辨其在本处为哪一层；故其注《说文》即以三层为纲。",
+     "conclusion": "以三层重建字义（此说使训诂成为系统的学问）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《六书音均表》",
+     "edition": "《说文解字注》所附；《段玉裁全集》本",
+     "note": "1775"
+    },
+    {
+     "title": "《说文解字注》",
+     "edition": "上海古籍出版社影印经韵楼本",
+     "note": "1808"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "戴震（其师）",
+     "id": "cn-qingmod-dai-zhen",
+     "note": "以“由字通词”为其方法论的前提"
+    },
+    {
+     "name": "顾炎武（其先）",
+     "id": "cn-qingmod-gu-yanwu",
+     "note": "古音学的开端（十部）"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "王念孙、王引之（其后）",
+     "id": null,
+     "note": "以“因声求义”推其方法"
+    },
+    {
+     "name": "章太炎（其承）",
+     "id": "cn-qingmod-zhang-taiyan",
+     "note": "以小学为治国故的根柢"
+    },
+    {
+     "name": "现代的文字学与古音学",
+     "id": null,
+     "note": "以其为典范"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "章学诚一系",
+     "view": "字义之精，未必即道之全；若以训诂为究竟，则经义将为字义所限（“六经皆史”另辟一路）。",
+     "response": "段玉裁一系的回应是：字义不明则义理无据；至于道之全，须在字义既明之后求之，不能先立一说而以字义迁就之。",
+     "kind": "原文",
+     "sources": [
+      "ws-mingyi",
+      "ws-mengzi-ziyi"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "段玉裁只是“注释家”",
+     "why": "其《六书音均表》提出“同声必同部”的方法，是古音学的突破；《说文解字注》则以本义—引申—假借重建字义系统。故其是方法与系统两方面的建立者。"
+    },
+    {
+     "claim": "其十七部即最终结论",
+     "why": "其后王念孙、江有诰等增至二十一部、三十部；故十七部是关键的一步，不是终点。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>段玉裁：同声必同部</text><defs><marker id='aDY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>韵文用韵为一证</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>谐声声符为又一证</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故古韵可分十七部</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故字义有本义引申假借三层</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aDY)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aDY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "段玉裁：“同声必同部”的双重证据与字义三层（示意图）",
+   "sources": [
+    "ws-mingyi",
+    "ws-hanshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "段玉裁无 SEP 专条（已试 duan-yucai，404）；本页依《清史稿》儒林传、《六书音均表》与《说文解字注》原文（经韵楼本），**属语境性引用而非专门研究**。其生卒（1735—1815）与师承须核。",
+   "doctrine": {
+    "summary": "段玉裁是乾嘉考据学的代表：以《六书音均表》分古韵为十七部，并以“同声必同部”的方法（韵文与谐声互证）立其证据；又以《说文解字注》以“本义—引申—假借”三层重建字义的系统。故其把戴震“由字通词”的纲领做成了学问的规模。",
+    "system": [
+     {
+      "name": "同声必同部",
+      "content": "谐声字与其声符同部，与韵文互证而定部；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "古韵十七部",
+      "content": "较顾炎武十部、江永十三部更密，为古音学的关键一步。"
+     },
+     {
+      "name": "字义三层",
+      "content": "本义、引申、假借各有其层次，读古书须先辨。"
+     },
+     {
+      "name": "以许注许",
+      "content": "以《说文》本书的体例与用语相互发明；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "金坛与巫山（1735—1815）",
+      "change": "乾隆二十五年举人；从戴震学；历官贵州玉屏、四川巫山知县；后引疾归，专事著述；1775 年成《六书音均表》；1808 年成《说文解字注》；1815 年卒。"
+     }
+    ],
+    "reception": "其古韵十七部与“同声必同部”为王念孙、江有诰等所承而加密；《说文解字注》成为清代小学的典范，至今仍是读《说文》的必由之书。"
+   },
+   "works_detail": [
+    {
+     "title": "《说文解字注》",
+     "structure": "三十卷：先校其文，次阐其义，再及引申与假借。",
+     "core_thesis": "以许注许，以三层重建字义；这是该书的核心命题。",
+     "editions": "上海古籍出版社影印经韵楼本",
+     "note": "1808 年"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -4338,6 +4487,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“博学于文，行己有耻”的原文（《亭林文集》卷三《与友人论学书》）须核华忱之点校本；其与《论语》“博学于文”的异同亦须分辨。"
+  },
+  {
+   "id": "cn-qingmod-youzi-tongci",
+   "term": "由字通词",
+   "term_latin": "from characters to words to the Way",
+   "definition": "戴震的方法纲领（“由字通词，由词通道”）：治经须先识其字（训诂），次通其词（语法与文义），然后可得其道（义理）。故其说是对“空谈心性”的方法纠正：义理不能绕过文字。",
+   "usages": [
+    {
+     "name": "戴震（其立）",
+     "id": "cn-qingmod-dai-zhen",
+     "usage": "以《与是仲明论学书》立此纲领。"
+    },
+    {
+     "name": "段玉裁（其承）",
+     "usage": "以《说文解字注》把此纲领落于字义。"
+    },
+    {
+     "name": "章学诚（其对照）",
+     "id": "cn-qingmod-zhang-xuecheng",
+     "usage": "以“六经皆史”另开一路，不专以文字为门。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-kaoju",
+    "cn-qingmod-boxue-yuwen"
+   ],
+   "example": {
+    "text": "“由字通词”的要害是把义理的**检验权**交给文字：凡不能落于字词的义理，皆可疑。这一纲领使清代考据有了哲学的意义；其限度是：文字所能确定的只是“义”，而非“道”的全体 —— 故后来（如章学诚）须另辟一路。",
+    "figure": "戴震",
+    "locator": "《戴东原集·与是仲明论学书》"
+   },
+   "sources": [
+    "ws-mengzi-ziyi",
+    "ct-rizhilu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“由字通词，由词通道”的原文（《与是仲明论学书》）须核《戴震文集》；其与《孟子字义疏证》的方法关系亦须核。"
   }
  ],
  "debates": [
