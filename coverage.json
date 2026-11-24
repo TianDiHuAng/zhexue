@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1624,
+  "entries": 1623,
   "by_level": {
    "L2": 780,
-   "L1": 844
+   "L1": 843
   },
   "doctrine": {
-   "total": 308,
-   "detail": 308,
+   "total": 307,
+   "detail": 307,
    "auto": 0
   },
-  "needs_verification": 844,
+  "needs_verification": 843,
   "sources": 419,
   "sources_verified": 419
  },
@@ -137,10 +137,10 @@
    "unit_id": "gr-medieval",
    "title": "中世纪经院哲学",
    "region": "west",
-   "philosophers": 24,
+   "philosophers": 23,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -16"
+   "philosophers_slot": "8 上限，余 -15"
   },
   {
    "unit_id": "gr-modern",
@@ -8341,17 +8341,6 @@
    "id": "gr-medieval-al-ghazali",
    "type": "philosopher",
    "title": "安萨里",
-   "container": "gr-medieval",
-   "level": "L1",
-   "sources": 3,
-   "verified_sources": 3,
-   "needs_verification": true,
-   "updated": "2026-11-24"
-  },
-  {
-   "id": "gr-medieval-ibn-rushd",
-   "type": "philosopher",
-   "title": "伊本·鲁世德",
    "container": "gr-medieval",
    "level": "L1",
    "sources": 3,
