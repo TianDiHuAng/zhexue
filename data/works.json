@@ -228,6 +228,177 @@
    "sort_year": -480
   },
   {
+   "id": "work-anaxagoras-fragments",
+   "title": "《阿那克萨戈拉残篇》",
+   "title_original": "Περὶ φύσεως（残篇 DK 59）",
+   "tradition": "west",
+   "date_display": "约前5世纪（阿那克萨戈拉；今存残篇）",
+   "structure": "原为一卷（已佚）：今存约二十余则残篇，多为散文体，含其宇宙论与“心灵”之说。",
+   "core_arguments": [
+    "“万物皆在万物之中”：没有绝对的生成与毁灭，只有**混合与分离**",
+    "“**心灵**”（νοῦς，nous）为运动的始因：它使混沌的混合开始旋转与分离",
+    "“种子”（σπέρματα）说：万物由无限多的种子混合而成，每一物中含一切"
+   ],
+   "key_points": [
+    {
+     "locator": "DK 59 B1",
+     "point": "万物皆在万物中"
+    },
+    {
+     "locator": "DK 59 B12—13",
+     "point": "心灵与旋转"
+    },
+    {
+     "locator": "DK 59 B4",
+     "point": "种子与混合"
+    },
+    {
+     "locator": "残篇",
+     "point": "以散文行哲学"
+    }
+   ],
+   "editions": [
+    "Diels-Kranz（DK 59）；英译参 Kirk–Raven–Schofield；中译参《古希腊罗马哲学》（商务）"
+   ],
+   "related_people": [
+    "gr-ancient-anaxagoras",
+    "gr-ancient-empedocles",
+    "gr-ancient-parmenides"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“心灵”是人格神",
+     "why": "其“心灵”是**最精细、最纯粹的始因**（使运动开始），亚里士多德已指其“只在解释不通时才动用”；故其为哲学的始因，非人格神。"
+    },
+    {
+     "claim": "其“种子”是近代的原子",
+     "why": "其“种子”是**无限多样的质**（每一物中含一切），与原子论的“不可分、同质”相反；故二者虽同为多元论，机制不同。"
+    }
+   ],
+   "sources": [
+    "sep-anaxagoras",
+    "sep-aristotle",
+    "sep-parmenides"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《阿那克萨戈拉残篇》以 DK 59 编号为据；B12（心灵）的译文各家不同，本页取通行译法并标注。",
+   "sort_year": -460
+  },
+  {
+   "id": "work-zeno-elea-fragments",
+   "title": "《芝诺残篇》",
+   "title_original": " Ζήνων ὁ Ἐλεάτης（残篇 DK 29）",
+   "tradition": "west",
+   "date_display": "约前5世纪（爱利亚的芝诺；今存残篇与转述）",
+   "structure": "原为一书（已佚）：今存残篇数则，其四大论证（二分、阿基里斯、飞矢、运动场）由亚里士多德等转述。",
+   "core_arguments": [
+    "以**归谬**护巴门尼德之说：若承认“多”与“动”，则陷于矛盾",
+    "“阿基里斯追不上龟”：无限分割使运动不可完成",
+    "“飞矢不动”：每一瞬间矢在某一位置，故无“运动”之时"
+   ],
+   "key_points": [
+    {
+     "locator": "亚里士多德《物理学》VI.9",
+     "point": "四论证的转述"
+    },
+    {
+     "locator": "DK 29 B1—3",
+     "point": "残篇"
+    },
+    {
+     "locator": "柏拉图《巴门尼德篇》",
+     "point": "芝诺的自述"
+    },
+    {
+     "locator": "转述",
+     "point": "归谬的方法"
+    }
+   ],
+   "editions": [
+    "Diels-Kranz（DK 29）；英译参 Kirk–Raven–Schofield；中译参《古希腊罗马哲学》（商务）"
+   ],
+   "related_people": [
+    "gr-ancient-zeno-elea",
+    "gr-ancient-parmenides",
+    "gr-ancient-anaxagoras"
+   ],
+   "misreadings": [
+    {
+     "claim": "其论证是“诡辩”",
+     "why": "其方法是**严格的归谬**（由对手的前提推出矛盾），故其结论虽反常识，其形式却严密；现代数学（极限、连续统）正是由回应这些论证而发展。"
+    },
+    {
+     "claim": "其本人否认运动",
+     "why": "其本人是**为巴门尼德辩护**（否定“多”与“动”的实在性），故其“否认”是论辩的策略，非其独断。"
+    }
+   ],
+   "sources": [
+    "sep-parmenides",
+    "sep-plato",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《芝诺残篇》以 DK 29 编号为据；四大论证的转述见亚里士多德《物理学》VI.9 与辛普里丘注，原文须核。",
+   "sort_year": -460
+  },
+  {
+   "id": "work-empedocles-fragments",
+   "title": "《恩培多克勒残篇》",
+   "title_original": "Περὶ φύσεως 与 Καθαρμοί（残篇 DK 31）",
+   "tradition": "west",
+   "date_display": "约前5世纪（恩培多克勒；今存残篇）",
+   "structure": "两部诗作（《论自然》与《净化》），今存约四百五十行；另有一部《医书》之说。",
+   "core_arguments": [
+    "“四根”（土、水、气、火）：一切生成是四根的**混合与分离**",
+    "两种动力：**爱**（φιλότης）使四根结合，**争**（νεῖκος）使之分离",
+    "“同类相知”：以同类之元素知同类之物（故知有生理的基础）"
+   ],
+   "key_points": [
+    {
+     "locator": "DK 31 B6",
+     "point": "四根"
+    },
+    {
+     "locator": "DK 31 B17",
+     "point": "爱与争"
+    },
+    {
+     "locator": "DK 31 B109",
+     "point": "同类相知"
+    },
+    {
+     "locator": "《净化》残篇",
+     "point": "灵魂的轮回与净化"
+    }
+   ],
+   "editions": [
+    "Diels-Kranz（DK 31）；英译参 Kirk–Raven–Schofield；中译参《古希腊罗马哲学》（商务）"
+   ],
+   "related_people": [
+    "gr-ancient-empedocles",
+    "gr-ancient-parmenides",
+    "gr-ancient-anaxagoras"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“四根”是四种元素（近代意义的）",
+     "why": "其“四根”是**活的、有神性的**（各以神名称之），且其结合与分离由“爱”“争”而成；故其为诗的宇宙论，非化学元素论。"
+    },
+    {
+     "claim": "其“爱与争”是比喻",
+     "why": "其二者是**宇宙的动力因**（使四根结合与分离），并被赋予神力；故其为形而上学的原理，非修辞。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "sep-parmenides",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《恩培多克勒残篇》以 DK 31 编号为据；“四根”与“爱与争”的译文各家不同，本页取通行译法并标注。",
+   "sort_year": -450
+  },
+  {
    "id": "work-lunyu",
    "title": "《论语》",
    "title_original": "論語（Analects）",
