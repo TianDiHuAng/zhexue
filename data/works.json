@@ -35320,6 +35320,63 @@
    "sort_year": 1965
   },
   {
+   "id": "work-roots-romanticism",
+   "title": "《浪漫主义的根源》",
+   "title_original": "The Roots of Romanticism",
+   "tradition": "west",
+   "date_display": "1965 讲演（1999 刊行；伯林）",
+   "structure": "六讲（含导论与末讲）：论浪漫主义的定义之难、其起源（哈曼与赫尔德）、核心观念与其政治后果。",
+   "core_arguments": [
+    "浪漫主义的核心是**意志与创造**：价值由人所造，非被发现",
+    "以“**表现主义**”为线：人须表达其独特的自我",
+    "故其后果是**价值多元**与对“体系”的怀疑"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—二讲",
+     "point": "浪漫主义的定义之难"
+    },
+    {
+     "locator": "第三—四讲",
+     "point": "哈曼与赫尔德"
+    },
+    {
+     "locator": "第五—六讲",
+     "point": "意志与后果"
+    },
+    {
+     "locator": "全书",
+     "point": "以讲演行思想史"
+    }
+   ],
+   "editions": [
+    "英文本（Princeton）；中译参《浪漫主义的根源》（吕梁等译）"
+   ],
+   "related_people": [
+    "gr-contemp-berlin",
+    "gr-german-hamann",
+    "gr-german-novalis"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“浪漫主义的辩护”",
+     "why": "其态度是**理解的诊断**（浪漫主义有什么后果，包括危险），故非辩护。"
+    },
+    {
+     "claim": "其“意志创造价值”是其本人的主张",
+     "why": "此为其**所述的浪漫主义主张**，伯林本人更近于价值多元的自由主义者；故须分辨所述与所主。"
+    }
+   ],
+   "sources": [
+    "sep-berlin",
+    "sep-herder",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《浪漫主义的根源》六讲与 1965 讲演／1999 刊行须核 Princeton 版与吕梁译本；“意志创造价值”的表述须与伯林本人的立场分辨。",
+   "sort_year": 1965
+  },
+  {
    "id": "work-order-of-things",
    "title": "《词与物》",
    "title_original": "Les mots et les choses",
@@ -35944,6 +36001,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《意义的逻辑》三十四系列的编次与 1969 年初版须核 Minuit 版与哥伦比亚英译本；“事件”“表面”的原文亦须核。",
+   "sort_year": 1969
+  },
+  {
+   "id": "work-four-essays-liberty",
+   "title": "《自由四论》",
+   "title_original": "Four Essays on Liberty",
+   "tradition": "west",
+   "date_display": "1969（以赛亚·伯林）",
+   "structure": "四篇：〈两种自由概念〉、〈历史的不可避免性〉、〈他是政治家吗？〉（论马基雅维利）、〈穆勒与生活的目的〉。",
+   "core_arguments": [
+    "**消极自由**：不被他人干涉的领域；**积极自由**：成为自己的主人",
+    "积极自由有滑向专制的危险（“以自由之名行强制”）",
+    "价值多元：诸善不可通约，故不可化为一元"
+   ],
+   "key_points": [
+    {
+     "locator": "〈两种自由概念〉",
+     "point": "消极自由与积极自由"
+    },
+    {
+     "locator": "〈历史的不可避免性〉",
+     "point": "决定论与责任"
+    },
+    {
+     "locator": "〈马基雅维利〉",
+     "point": "两种道德"
+    },
+    {
+     "locator": "〈穆勒〉",
+     "point": "生活的目的"
+    }
+   ],
+   "editions": [
+    "英文本（Oxford）；中译参《自由四论》（陈晓林译）"
+   ],
+   "related_people": [
+    "gr-contemp-berlin",
+    "gr-19c-mill",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“两种自由”是褒贬分明",
+     "why": "其对积极自由的态度是**警惕**而非全盘否定（他承认其理想的高贵）；故其说为“危险的分析”，非二分的褒贬。"
+    },
+    {
+     "claim": "其“价值多元”是相对主义",
+     "why": "其多元论主张诸价值**客观而不可通约**（故有取舍的痛苦），与“一切都一样”的相对主义相反。"
+    }
+   ],
+   "sources": [
+    "sep-berlin",
+    "sep-mill",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《自由四论》四篇的篇目与 1969 年集本须核 Oxford 版与陈晓林译本；“两种自由概念”的原文亦须核。",
    "sort_year": 1969
   },
   {
@@ -37144,6 +37258,63 @@
    "needs_verification": true,
    "pending_notes": "《马克思的幽灵》的成书（1993）与篇章须核 Galilée 版与何一译本；“幽灵学”“弥赛亚性”的原文亦须核。",
    "sort_year": 1993
+  },
+  {
+   "id": "work-three-critics-enlightenment",
+   "title": "《启蒙的三个批评者》",
+   "title_original": "Three Critics of the Enlightenment: Vico, Hamann, Herder",
+   "tradition": "west",
+   "date_display": "2000 编成（伯林；论维柯、哈曼、赫尔德）",
+   "structure": "三部专论（维柯、哈曼、赫尔德）＋编者导论：论反启蒙的思想资源与其对启蒙的补正。",
+   "core_arguments": [
+    "维柯：历史的理解须“**进入**”其时代（反笛卡尔的普遍方法）",
+    "哈曼：语言与信仰先于理性（对康德的批评）",
+    "赫尔德：**表现主义**与民族精神（每个文化有其自己的尺度）"
+   ],
+   "key_points": [
+    {
+     "locator": "论维柯",
+     "point": "历史的理解"
+    },
+    {
+     "locator": "论哈曼",
+     "point": "语言与信仰"
+    },
+    {
+     "locator": "论赫尔德",
+     "point": "表现主义与民族"
+    },
+    {
+     "locator": "导论",
+     "point": "反启蒙的意义"
+    }
+   ],
+   "editions": [
+    "英文本（Princeton）；中译参《启蒙的三个批评者》（马寅卯等译）"
+   ],
+   "related_people": [
+    "gr-contemp-berlin",
+    "gr-modern-herder",
+    "gr-german-hamann"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“反启蒙的宣言”",
+     "why": "其旨是**补正**启蒙的自我理解（指出其忽略的维度），故其为思想史的辨析，非反启蒙的立场。"
+    },
+    {
+     "claim": "其“民族精神”是民族主义",
+     "why": "其“民族”（赫尔德）是**文化的个体性**（每个文化有其价值），与政治民族主义有别；故须分辨，本页并述。"
+    }
+   ],
+   "sources": [
+    "sep-berlin",
+    "sep-herder",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《启蒙的三个批评者》三部的篇目与 2000 年编本须核 Princeton 版与中译本；其对哈曼的论述在 `sep-hamann` 未登记的情况下据 `sep-herder` 与伯林文本，属**语境性引用而非专门研究**。",
+   "sort_year": 2000
   }
  ]
 }

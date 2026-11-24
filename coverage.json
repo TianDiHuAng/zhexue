@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1700,
+  "entries": 1704,
   "by_level": {
    "L2": 779,
-   "L1": 921
+   "L1": 925
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 921,
+  "needs_verification": 925,
   "sources": 422,
   "sources_verified": 422
  },
@@ -16423,6 +16423,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-roots-romanticism",
+   "type": "work",
+   "title": "《浪漫主义的根源》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-order-of-things",
    "type": "work",
    "title": "《词与物》",
@@ -16536,6 +16547,17 @@
    "id": "work-logique-sens",
    "type": "work",
    "title": "《意义的逻辑》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-four-essays-liberty",
+   "type": "work",
+   "title": "《自由四论》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -16767,6 +16789,17 @@
    "id": "work-spectres-marx",
    "type": "work",
    "title": "《马克思的幽灵》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-three-critics-enlightenment",
+   "type": "work",
+   "title": "《启蒙的三个批评者》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -18373,6 +18406,17 @@
    "id": "cmp-genjing",
    "type": "comparative",
    "title": "“根茎”与“道通为一”：思想该有中心吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-xiaoji",
+   "type": "comparative",
+   "title": "“消极自由”与“无为”：自由是没有阻碍吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
