@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1396,
+  "entries": 1401,
   "by_level": {
    "L2": 781,
-   "L1": 615
+   "L1": 620
   },
   "doctrine": {
    "total": 283,
    "detail": 283,
    "auto": 0
   },
-  "needs_verification": 615,
+  "needs_verification": 620,
   "sources": 418,
   "sources_verified": 418
  },
@@ -30,7 +30,7 @@
    "title": "南北朝佛道与形神之争",
    "region": "china",
    "philosophers": 12,
-   "concepts": 22,
+   "concepts": 23,
    "debates": 6,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -1114,6 +1114,17 @@
    "id": "cn-nanbei-xixing-qiufa",
    "type": "concept",
    "title": "西行求法",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-yinming",
+   "type": "concept",
+   "title": "因明",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -11176,6 +11187,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-yogacarabhumi",
+   "type": "work",
+   "title": "《瑜伽师地论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-nyayapravesa",
    "type": "work",
    "title": "《因明入正理论》",
@@ -11212,6 +11234,28 @@
    "id": "work-chengweishi-shuji",
    "type": "work",
    "title": "《成唯识论述记》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-yinming-shu",
+   "type": "work",
+   "title": "《因明入正理论疏》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-bianzhongbian",
+   "type": "work",
+   "title": "《辩中边论》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -15029,6 +15073,17 @@
    "id": "cmp-qiufa",
    "type": "comparative",
    "title": "西行求法与“游学”：两种“往源头去”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-yinming",
+   "type": "comparative",
+   "title": "三支作法与三段论：两种论证的形式",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

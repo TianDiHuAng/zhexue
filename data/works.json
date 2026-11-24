@@ -11695,6 +11695,63 @@
    "sort_year": 646
   },
   {
+   "id": "work-yogacarabhumi",
+   "title": "《瑜伽师地论》",
+   "title_original": "瑜伽師地論（Yogācārabhūmi）",
+   "tradition": "china",
+   "date_display": "约4世纪（传弥勒说，无著记）；646年玄奘译",
+   "structure": "一百卷（玄奘译本）：分本地分（十七地）、摄决择分、摄释分、摄异门分、摄事分五部分。",
+   "core_arguments": [
+    "以“十七地”统摄修行的次第（从五识身相应地到无余依地）",
+    "“万法唯识”：以“识”的转变说明一切法的生起",
+    "“菩萨地”立大乘修行的完整阶次"
+   ],
+   "key_points": [
+    {
+     "locator": "〈本地分〉",
+     "point": "十七地的次第"
+    },
+    {
+     "locator": "〈菩萨地〉",
+     "point": "大乘修行的阶次"
+    },
+    {
+     "locator": "〈摄决择分〉",
+     "point": "义的抉择"
+    },
+    {
+     "locator": "〈摄事分〉",
+     "point": "事相的组织"
+    }
+   ],
+   "editions": [
+    "《大正藏》第30卷；韩清净《瑜伽师地论科句披寻记》"
+   ],
+   "related_people": [
+    "cn-suitang-xuanzang",
+    "cn-suitang-kuiji",
+    "cn-nanbei-zhendi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“弥勒亲说”，故不可考",
+     "why": "其作者问题（弥勒说／无著记／逐步集成）学界有争论；但其**文本的层次**（本地分较早，摄决择分等后出）是明确的，故可按层次研究。"
+    },
+    {
+     "claim": "“万法唯识”是“一切都是心造的”",
+     "why": "其说是：一切法以“识”为依止（不离识），非“心能任意造物”；且其“识”含“种子”与“转变”的结构，是**过程论**而非唯心论的断言。"
+    }
+   ],
+   "sources": [
+    "ws-chengweishi",
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《瑜伽师地论》的五分结构与一百卷的分卷须核《大正藏》第30卷；其作者问题（弥勒／无著）须并述而不裁定。",
+   "sort_year": 646
+  },
+  {
    "id": "work-nyayapravesa",
    "title": "《因明入正理论》",
    "title_original": "Nyāyapraveśa",
@@ -11921,6 +11978,120 @@
    "needs_verification": true,
    "pending_notes": "《成唯识论述记》的卷数（通行二十卷）与成书年代须核《大正藏》第43卷；其与《成唯识论》的对应及窥基的取舍须核专门研究。",
    "sort_year": 660
+  },
+  {
+   "id": "work-yinming-shu",
+   "title": "《因明入正理论疏》",
+   "title_original": "因明入正理論疏",
+   "tradition": "china",
+   "date_display": "唐（窥基，632—682）",
+   "structure": "三卷（通行本）：疏释商羯罗主《因明入正理论》，以“三支作法”（宗、因、喻）为纲，兼破外道诸说。",
+   "core_arguments": [
+    "以“宗、因、喻”三支为论证的形式",
+    "“因三相”：遍是宗法性、同品定有性、异品遍无性",
+    "以“现量、比量”分知识的来源"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上",
+     "point": "三支作法"
+    },
+    {
+     "locator": "卷中",
+     "point": "因三相"
+    },
+    {
+     "locator": "卷下",
+     "point": "似能立与似能破"
+    },
+    {
+     "locator": "全书",
+     "point": "对诸家因明的取舍"
+    }
+   ],
+   "editions": [
+    "《大正藏》第44卷；《续藏》所收"
+   ],
+   "related_people": [
+    "cn-suitang-kuiji",
+    "cn-suitang-xuanzang",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "因明就是“印度的逻辑学”",
+     "why": "因明兼含**知识论**（现量／比量）与**论辩术**（能立／能破），故不限于形式逻辑；其“量”论的部分与西方的认识论更近。"
+    },
+    {
+     "claim": "三支作法与三段论相同",
+     "why": "三支的顺序（宗—因—喻）与三段论（大前提—小前提—结论）不同，且“喻”须兼举同喻与异喻；故其形式虽有可比处，但不可径视为三段论。"
+    }
+   ],
+   "sources": [
+    "ws-chengweishi",
+    "book-chan-sourcebook",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《因明入正理论疏》的卷数与“因三相”的表述须核《大正藏》第44卷；其与陈那、法称因明的异同亦须分辨。",
+   "sort_year": 660
+  },
+  {
+   "id": "work-bianzhongbian",
+   "title": "《辩中边论》",
+   "title_original": "辯中邊論（Madhyāntavibhāga）",
+   "tradition": "china",
+   "date_display": "约4—5世纪（弥勒颂、世亲释）；661年玄奘译",
+   "structure": "三卷（玄奘译本，七品）：辩相品、辩障品、辩真实品、辩修对治品、辩修分位品、辩得果品、辩无上乘品。",
+   "core_arguments": [
+    "以“中”与“边”辨真实：离“有”“无”二边即中道",
+    "“唯识”的层次：依他、遍计、圆成三性",
+    "“无上乘”为究竟：大乘的果德"
+   ],
+   "key_points": [
+    {
+     "locator": "〈辩相品〉",
+     "point": "三性与二边"
+    },
+    {
+     "locator": "〈辩真实品〉",
+     "point": "真实与虚妄"
+    },
+    {
+     "locator": "〈辩修对治品〉",
+     "point": "修行的对治"
+    },
+    {
+     "locator": "〈辩无上乘品〉",
+     "point": "究竟果德"
+    }
+   ],
+   "editions": [
+    "《大正藏》第31卷；《辩中边论颂》单行"
+   ],
+   "related_people": [
+    "cn-suitang-xuanzang",
+    "cn-suitang-kuiji",
+    "cn-nanbei-zhendi"
+   ],
+   "misreadings": [
+    {
+     "claim": "“中道”就是“折中”",
+     "why": "其“中”是**离二边**（不落有、无），不是两个极端之间的妥协；故其说是辩证的否定，不是量的平均。"
+    },
+    {
+     "claim": "它与《中论》的中道相同",
+     "why": "《中论》以“缘起性空”说中道（破一切自性），《辩中边论》以“三性”说中道（立依他与圆成）；故二者同名而路径不同。"
+    }
+   ],
+   "sources": [
+    "ws-chengweishi",
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《辩中边论》的七品与译本（玄奘三卷）须核《大正藏》第31卷；其与《中论》中道义的异同亦须分辨。",
+   "sort_year": 661
   },
   {
    "id": "work-guang-hongming-ji",
