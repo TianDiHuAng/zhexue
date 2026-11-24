@@ -2339,6 +2339,16 @@
     "sep-eckhart实开核验并纠正叙述",
     "来源420"
    ]
+  },
+  {
+   "round": 252,
+   "date": "2026-11-24",
+   "gaps_found": 3,
+   "methods": [
+    "三次来源撞墙",
+    "BACKLOG_SOURCES清单D65",
+    "不做虚假归属"
+   ]
   }
  ]
 }

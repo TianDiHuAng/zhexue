@@ -31169,6 +31169,63 @@
    "sort_year": 1932
   },
   {
+   "id": "work-philosophie-jaspers",
+   "title": "《哲学》（雅斯贝尔斯）",
+   "title_original": "Philosophie（三卷）",
+   "tradition": "west",
+   "date_display": "1932（雅斯贝尔斯）",
+   "structure": "三卷：〈世界的哲学导引〉（论科学知识的界限）、〈存在的澄明〉（论自我）、〈形而上学〉（论超越）。",
+   "core_arguments": [
+    "哲学不是一套学说，而是**生存的实践**：由“我如何知”进到“我如何是”",
+    "“临界处境”（Grenzsituationen）：死、苦、争、罪 —— 在其中日常的安稳失效，生存才被唤起",
+    "“超越”（Transzendenz）：世界与自我皆非自足，须指向那不可对象化的“统摄者”（das Umgreifende）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "科学知识的界限"
+    },
+    {
+     "locator": "卷二",
+     "point": "存在的澄明与临界处境"
+    },
+    {
+     "locator": "卷三",
+     "point": "形而上学与密码"
+    },
+    {
+     "locator": "全书",
+     "point": "以生存为纲"
+    }
+   ],
+   "editions": [
+    "德文 Piper 版；英译（Philosophy, Chicago）；中译参《生存哲学》等节译，全译待核"
+   ],
+   "related_people": [
+    "gr-20c-jaspers",
+    "gr-20c-heidegger",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“存在主义的体系”",
+     "why": "其书明确**拒绝体系**（哲学为生存的实践），故其形式是三卷的“导引—澄明—形而上学”之路，非体系。"
+    },
+    {
+     "claim": "其“超越”是神秘的神",
+     "why": "其“超越”是**不可对象化的统摄者**（只能以“密码”被解读），故其说严守不可对象化的界限，与神学命题有别。"
+    }
+   ],
+   "sources": [
+    "sep-jaspers",
+    "sep-kant",
+    "sep-heidegger"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《哲学》三卷的卷目与 1932 年初版须核 Piper 版；“临界处境”与“统摄者”的译法亦须核。中译多为节译。",
+   "sort_year": 1932
+  },
+  {
    "id": "work-logik-der-forschung",
    "title": "《科学发现的逻辑》",
    "title_original": "Logik der Forschung",
