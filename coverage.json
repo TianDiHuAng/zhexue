@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1193,
+  "entries": 1196,
   "by_level": {
    "L2": 790,
-   "L1": 403
+   "L1": 406
   },
   "doctrine": {
    "total": 262,
    "detail": 262,
    "auto": 0
   },
-  "needs_verification": 403,
+  "needs_verification": 406,
   "sources": 405,
   "sources_verified": 405
  },
@@ -9669,6 +9669,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-de-magistro",
+   "type": "work",
+   "title": "《论教师》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-de-libero-arbitrio",
    "type": "work",
    "title": "《论自由意志》",
@@ -9793,6 +9804,17 @@
    "id": "work-historia-cal",
    "type": "work",
    "title": "《上帝之城》第十九卷（和平与两座城）",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-de-doctrina-christiana",
+   "type": "work",
+   "title": "《论基督教教义》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -12796,6 +12818,17 @@
    "id": "cmp-yihua",
    "type": "comparative",
    "title": "异化的两种来源：费尔巴哈的投射与道家的“失性”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shifu",
+   "type": "comparative",
+   "title": "内在的教师与“不言之教”：奥古斯丁与道家的“教”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

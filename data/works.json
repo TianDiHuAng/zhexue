@@ -7380,6 +7380,63 @@
    "sort_year": 350
   },
   {
+   "id": "work-de-magistro",
+   "title": "《论教师》",
+   "title_original": "De magistro",
+   "tradition": "west",
+   "date_display": "389年（奥古斯丁）",
+   "structure": "一篇对话（与儿子阿德奥达图斯）：先论符号与所指的关系，次论词语能否教人，再论指物之教的困难，末归于“内在的教师”；全文以问答推进，未给出独断的结论。",
+   "core_arguments": [
+    "词语只是**符号**，符号不能教人认识事物本身",
+    "指物（ ostension）也不能教：我们认出的仍是已知之物",
+    "真正的“教师”是内在于人的真理（基督＝内在之光）"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "符号与所指"
+    },
+    {
+     "locator": "中段",
+     "point": "词语不能教"
+    },
+    {
+     "locator": "中段",
+     "point": "指物之教的困难"
+    },
+    {
+     "locator": "末段",
+     "point": "内在的教师"
+    }
+   ],
+   "editions": [
+    "拉丁原文（CCSL）；英译（Against the Academicians and The Teacher, Hackett）；中译参《论教师》（若有）"
+   ],
+   "related_people": [
+    "gr-medieval-augustine",
+    "gr-ancient-plato",
+    "gr-medieval-anselm"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“语言无用”的怀疑论",
+     "why": "其结论不是语言无用，而是语言**不能独自**教人：语言提示（admonitio），认识靠内在之光。故它是认识论上的“内在主义”，不是语言虚无主义。"
+    },
+    {
+     "claim": "“内在教师”是神秘主义",
+     "why": "它是**认识论**的主张：真理的判准在人的心灵与真理本身的关系；其用法是哲学的，不是体验的描述。"
+    }
+   ],
+   "sources": [
+    "sep-augustine",
+    "sep-plato",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论教师》的写作年代（389）与其“内在教师”说的解释（认识论 vs 神学）学界有争论；本页依 CCSL 拉丁本与 SEP 词条概述。",
+   "sort_year": 389
+  },
+  {
    "id": "work-de-libero-arbitrio",
    "title": "《论自由意志》",
    "title_original": "De libero arbitrio",
@@ -8060,6 +8117,63 @@
    "sort_year": 420
   },
   {
+   "id": "work-de-doctrina-christiana",
+   "title": "《论基督教教义》",
+   "title_original": "De doctrina christiana",
+   "tradition": "west",
+   "date_display": "396—426年（奥古斯丁；后半成于晚年）",
+   "structure": "四卷：①事物与符号（res/ signa）；②符号的解释（含七艺的运用）；③歧义与教义的规则（“爱”的准则）；④表达（修辞的运用）。",
+   "core_arguments": [
+    "“事物”与“符号”的区分是解释学的基础",
+    "解释的准则：凡与“爱神爱人”不合的解释必错",
+    "修辞可用于真理：基督教可以且应当借用异教的七艺"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "事物与符号"
+    },
+    {
+     "locator": "卷二",
+     "point": "符号的解释与七艺"
+    },
+    {
+     "locator": "卷三",
+     "point": "歧义与“爱的准则”"
+    },
+    {
+     "locator": "卷四",
+     "point": "修辞与表达"
+    }
+   ],
+   "editions": [
+    "拉丁原文（CCSL 32）；英译（Teaching Christianity, New City Press）；中译参《论基督教教义》（若有）"
+   ],
+   "related_people": [
+    "gr-medieval-augustine",
+    "gr-ancient-plato",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是释经手册",
+     "why": "其卷一、卷二建立了**符号理论**（res/signa），是中世纪符号学与解释学的源头；故它同时是哲学文本。"
+    },
+    {
+     "claim": "奥古斯丁排斥异教文化",
+     "why": "他明确主张**借用**异教的七艺（“埃及人的金银”之喻）；故其立场是收编而非排斥。"
+    }
+   ],
+   "sources": [
+    "sep-augustine",
+    "sep-medieval-philosophy",
+    "sep-plato"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论基督教教义》前后两半（396 与 426）的体例与侧重不同；本页依 CCSL 32 与 SEP 词条概述，具体卷次须核。",
+   "sort_year": 426
+  },
+  {
    "id": "work-retractationes",
    "title": "《订正论》",
    "title_original": "Retractationes",
@@ -8113,7 +8227,7 @@
     "sep-aquinas"
    ],
    "needs_verification": false,
-   "pending_notes": "",
+   "pending_notes": " 汉译另有《订正录》《回顾录》《更正录》等名（见别名表）；retractare 意为“重新审视／修正”，非“撤回”。",
    "sort_year": 427
   },
   {
