@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1532,
+  "entries": 1539,
   "by_level": {
    "L2": 781,
-   "L1": 751
+   "L1": 758
   },
   "doctrine": {
-   "total": 305,
-   "detail": 305,
+   "total": 307,
+   "detail": 307,
    "auto": 0
   },
-  "needs_verification": 751,
+  "needs_verification": 758,
   "sources": 418,
   "sources_verified": 418
  },
@@ -119,10 +119,10 @@
    "unit_id": "gr-german",
    "title": "德国古典哲学",
    "region": "west",
-   "philosophers": 9,
-   "concepts": 22,
+   "philosophers": 11,
+   "concepts": 23,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -1"
+   "philosophers_slot": "8 上限，余 -3"
   },
   {
    "unit_id": "gr-hellenistic",
@@ -7139,6 +7139,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-german-lessing",
+   "type": "philosopher",
+   "title": "莱辛",
+   "container": "gr-german",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-german-hamann",
+   "type": "philosopher",
+   "title": "哈曼",
+   "container": "gr-german",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-german-transcendental",
    "type": "concept",
    "title": "先验",
@@ -7373,6 +7395,17 @@
    "id": "gr-german-weltgeist",
    "type": "concept",
    "title": "世界精神",
+   "container": "gr-german",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-german-erhabene",
+   "type": "concept",
+   "title": "崇高",
    "container": "gr-german",
    "level": "L1",
    "sources": 3,
@@ -13640,6 +13673,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-sokratische-denkwuerdigkeiten",
+   "type": "work",
+   "title": "《苏格拉底回忆录》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-yuanshan",
    "type": "work",
    "title": "《原善》",
@@ -13688,6 +13732,28 @@
    "type": "work",
    "title": "《孟子私淑录》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-laokoon",
+   "type": "work",
+   "title": "《拉奥孔》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-hamburgische-dramaturgie",
+   "type": "work",
+   "title": "《汉堡剧评》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -16525,6 +16591,17 @@
    "id": "cmp-shijiejingshen",
    "type": "comparative",
    "title": "“世界精神”与“理势”：历史有道理吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shihuajingjie",
+   "type": "comparative",
+   "title": "“诗画界限”与“诗中有画”：两种艺术分工",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

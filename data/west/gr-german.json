@@ -1468,6 +1468,299 @@
      "note": "1767 年"
     }
    ]
+  },
+  {
+   "id": "gr-german-lessing",
+   "name": "莱辛",
+   "latin": "Gotthold Ephraim Lessing",
+   "birth_year": 1729,
+   "death_year": 1781,
+   "birth_display": "1729年",
+   "death_display": "1781年",
+   "birth_note": "据通行传记：生于萨克森卡门茨，牧师之子；莱比锡大学肄业，后以文为生，曾任沃尔芬比特尔图书馆员；德国启蒙运动的核心人物。",
+   "death_note": "1781年卒于不伦瑞克。",
+   "era": "德国启蒙运动。莱辛的位置在**批评**：他以《拉奥孔》划清诗与画的界限（破温克尔曼的“静穆”说），以《汉堡剧评》以亚里士多德正法国古典剧之弊而立“市民悲剧”，又以《论人类的教育》把启蒙理解为**教育的过程**。故其贡献不在体系，而在**用批评打开空间** —— 他为德国文学与哲学争得了独立于法国与宫廷的立足点。",
+   "school": "德国启蒙（批评与戏剧理论）",
+   "core_questions": [
+    "诗与画的分界何在？",
+    "悲剧应以何为准？",
+    "启蒙是理性的独断还是教育的过程？"
+   ],
+   "arguments": [
+    {
+     "claim": "诗与画各有其界限，不可以一者绳另一者",
+     "premises": [
+      "画在空间中并置（形体），诗在时间中延续（动作）。",
+      "故二者的“最宜”不同。"
+     ],
+     "inference": "若媒介不同，则各自的最高的美亦不同：画宜取“最富孕育性的顷刻”，诗宜写动作的过程；故不可用“静穆”的标准衡量诗。",
+     "conclusion": "诗画界限说（此说破温克尔曼的“静穆”论）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "悲剧应以同情为核，主角可以是市民",
+     "premises": [
+      "悲剧的效果在“同情”（亚里士多德）。",
+      "而同情须以观众的**可认同**为条件。"
+     ],
+     "inference": "若同情须可认同，则以王侯为主角的法国古典悲剧反而隔了一层；故其主张“市民悲剧”。",
+     "conclusion": "市民悲剧（此说为德国戏剧开辟了新题材）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《拉奥孔》",
+     "edition": "中译参朱光潜译本（版次待核）",
+     "note": "1766"
+    },
+    {
+     "title": "《汉堡剧评》",
+     "edition": "中译参张黎译本（版次待核）",
+     "note": "1767—1769"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "亚里士多德（其据）",
+     "id": null,
+     "note": "《诗学》为其剧评的准绳"
+    },
+    {
+     "name": "康德（其同代）",
+     "id": "gr-german-kant",
+     "note": "同处启蒙，而取径不同"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "赫尔德与歌德（其后辈）",
+     "id": null,
+     "note": "其批评为狂飙突进开路"
+    },
+    {
+     "name": "德国的市民悲剧",
+     "id": null,
+     "note": "由其主张而成风"
+    },
+    {
+     "name": "现代的美学与媒介理论",
+     "id": null,
+     "note": "其诗画界限说至今被引"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "狂飙突进一系（其后）",
+     "view": "以亚里士多德与“同情”为准，则悲剧仍受规则束缚；真正的诗应任天才的自由（故赫尔德、青年歌德皆越其说）。",
+     "response": "莱辛一系的回应是：规则非外在的教条，而是**由媒介与效果推出**的；故其“界限”是要打开空间，不是设限。",
+     "kind": "原文",
+     "sources": [
+      "sep-burke",
+      "sep-aristotle"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《拉奥孔》主张“诗优于画”",
+     "why": "其说不判优劣，而判**界限**；锋芒实对“以画的标准要求诗”。"
+    },
+    {
+     "claim": "其反对法国悲剧是“民族主义”",
+     "why": "所反对者是**宫廷趣味与规则的僵化**；其推崇的恰是莎士比亚与亚里士多德。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>莱辛：诗与画的界限</text><defs><marker id='aLS' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>画在空间中并置</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>诗在时间中延续</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故二者各有所宜</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故不可以一者绳另一者</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLS)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLS)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "莱辛：诗与画的界限与“市民悲剧”（示意图）",
+   "sources": [
+    "sep-burke",
+    "sep-aristotle",
+    "sep-herder"
+   ],
+   "needs_verification": true,
+   "pending_notes": "莱辛无 SEP 专条（已试 lessing，404）；本页依《拉奥孔》《汉堡剧评》原文（中译参朱光潜、张黎）与 SEP 美学词条，**属语境性引用而非专门研究**。其生卒（1729—1781）与任职须核。",
+   "doctrine": {
+    "summary": "莱辛的位置在批评：以《拉奥孔》划清诗与画的界限，以《汉堡剧评》以亚里士多德正法国古典剧之弊而立市民悲剧，又以《论人类的教育》把启蒙理解为教育的过程。故其贡献不在体系，而在用批评打开空间——为德国文学与哲学争得独立于法国与宫廷的立足点。",
+    "system": [
+     {
+      "name": "诗画界限",
+      "content": "画在空间、诗在时间，故各有其宜，不可以一者绳另一者。"
+     },
+     {
+      "name": "最富孕育性的顷刻",
+      "content": "画宜取能让人想象前因后果的那一瞬；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "市民悲剧",
+      "content": "悲剧的主角可以是普通人，因同情须以可认同为条件。"
+     },
+     {
+      "name": "启蒙即教育",
+      "content": "启蒙非理性的独断，而是人类受教育的过程。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "卡门茨与沃尔芬比特尔（1729—1781）",
+      "change": "生于牧师之家；莱比锡大学肄业；以文为生；1766 年《拉奥孔》；1767—1769 年《汉堡剧评》；1770 年起任沃尔芬比特尔图书馆员；1781 年卒。"
+     }
+    ],
+    "reception": "其诗画界限说成为现代美学与媒介理论的起点；其市民悲剧的主张改变了德国戏剧的题材；其“启蒙即教育”之说则与康德的“何谓启蒙”并观，构成德国启蒙的两面。"
+   },
+   "works_detail": [
+    {
+     "title": "《拉奥孔》",
+     "structure": "一篇论文：以拉奥孔群像与维吉尔诗句对比，论诗与画的界限。",
+     "core_thesis": "诗与画各有其界限，不可以一者绳另一者。",
+     "editions": "中译参朱光潜译本",
+     "note": "1766 年"
+    }
+   ]
+  },
+  {
+   "id": "gr-german-hamann",
+   "name": "哈曼",
+   "latin": "Johann Georg Hamann",
+   "birth_year": 1730,
+   "death_year": 1788,
+   "birth_display": "1730年",
+   "death_display": "1788年",
+   "birth_note": "据通行传记：生于东普鲁士柯尼斯堡，商人家庭；未受大学哲学的正规训练，任海关职员；与康德同城而终身论敌，被称为“北方博士”。",
+   "death_note": "1788年卒于明斯特。",
+   "era": "德国启蒙的**反对者**。哈曼以“语言”为理性的界限（理性不能先于语言），以“具体”对抗抽象的系统，以“信仰”对抗启蒙的独断。故其位置是：在启蒙的内部开出**反启蒙**一路 —— 其影响经赫尔德而下及浪漫派与克尔凯郭尔的“单个者”。",
+   "school": "德国反启蒙（语言与信仰，狂飙突进的先声）",
+   "core_questions": [
+    "理性能否脱离语言？",
+    "抽象的系统是否掩盖了具体？",
+    "启蒙的独断如何被破除？"
+   ],
+   "arguments": [
+    {
+     "claim": "理性在语言之中，不能先于语言",
+     "premises": [
+      "一切思考皆以语言为其形式。",
+      "而无语言的“纯粹理性”无从设想。"
+     ],
+     "inference": "若理性在语言之中，则“批判理性”亦须先批判语言；故康德的“纯粹理性批判”遗漏了其自身的媒介。",
+     "conclusion": "理性在语言中（此说为语言哲学与解释学的先声）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以具体对抗抽象：系统的暴力",
+     "premises": [
+      "系统须以抽象为代价。",
+      "而抽象必遗弃个体的具体。"
+     ],
+     "inference": "若系统以抽象为代价，则启蒙的“普遍理性”实为一种**暴力**（它以概念取代了活的东西）；故其说以“具体”为抗议。",
+     "conclusion": "以具体抗抽象（此说为克尔凯郭尔与阿多诺的先声）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《苏格拉底回忆录》",
+     "edition": "德文 Meiner 版（中译少见，版次待核）",
+     "note": "1759"
+    },
+    {
+     "title": "《语言学家的十字军》等短论",
+     "edition": "德文 Suhrkamp 版《全集》（版次待核）",
+     "note": "1770年代"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "康德（其同城论敌）",
+     "id": "gr-german-kant",
+     "note": "其批评的对象，亦其思想的背景"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "赫尔德（其学生）",
+     "id": null,
+     "note": "其语言哲学由其而下传"
+    },
+    {
+     "name": "德国浪漫派",
+     "id": null,
+     "note": "其反系统与重语言为其资源"
+    },
+    {
+     "name": "克尔凯郭尔与阿多诺",
+     "id": null,
+     "note": "以“单个者”与“具体”承其抗议"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "启蒙一系（如门德尔松）",
+     "view": "以语言与信仰限定理性的范围，则启蒙无从进行；其文体的晦涩更使批评无法对话，遂成“诗意的独断”。",
+     "response": "哈曼一系的回应是：其晦涩是**方法的自觉**（系统化的语言恰会掩盖具体）；而启蒙若要自省，正须面对其语言的媒介。",
+     "kind": "原文",
+     "sources": [
+      "sep-herder",
+      "sep-heidegger"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《苏格拉底回忆录》是“苏格拉底研究”",
+     "why": "其借苏格拉底为**喻**（说明“无知之知”与语言的地位），实为对理性主义神学的批评。"
+    },
+    {
+     "claim": "其“语言在先”是浪漫主义的滥调",
+     "why": "其说是对理性主义的正面反驳，并为语言哲学开路；故其为先声，非滥调。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>哈曼：理性在语言之中</text><defs><marker id='aHM' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>一切思考皆以语言为形式</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>无语言的纯粹理性无从设想</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故批判理性须先批判语言</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故以具体抗抽象</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aHM)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aHM)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "哈曼：“理性在语言中”与“以具体抗抽象”（示意图）",
+   "sources": [
+    "sep-herder",
+    "sep-heidegger",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "哈曼无 SEP 专条（已试 hamann，404）；本页依《苏格拉底回忆录》原文（Meiner 版）与 SEP“启蒙”词条，**属语境性引用而非专门研究**。其生卒（1730—1788）与与康德的交往须核。其中译极少，故本页多为义述。",
+   "doctrine": {
+    "summary": "哈曼是德国启蒙的反对者：以“语言”为理性的界限（理性不能先于语言），以“具体”对抗抽象的系统，以“信仰”对抗启蒙的独断。故其位置是在启蒙的内部开出反启蒙一路——其影响经赫尔德而下及浪漫派与克尔凯郭尔的“单个者”。",
+    "system": [
+     {
+      "name": "理性在语言中",
+      "content": "一切思考以语言为形式，故无语言的纯粹理性无从设想。"
+     },
+     {
+      "name": "以具体抗抽象",
+      "content": "系统以抽象为代价，故其“普遍”实为一种暴力。"
+     },
+     {
+      "name": "无知之知",
+      "content": "苏格拉底的无知是真正的智慧，为其方法的自况。"
+     },
+     {
+      "name": "信仰与理性",
+      "content": "其以信仰为理性的界限，而非其敌人；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "柯尼斯堡与明斯特（1730—1788）",
+      "change": "生于柯尼斯堡商人家庭；未受正规哲学训练；任海关职员；1759 年《苏格拉底回忆录》；与康德同城而论战；1788 年卒于明斯特。"
+     }
+    ],
+    "reception": "其“理性在语言中”之说经赫尔德与洪堡而下传，成为语言哲学与解释学的远源；其“以具体抗抽象”则为克尔凯郭尔与阿多诺所承；其文体与思想的晦涩使其长期被哲学史忽略，20世纪以后方受重视。"
+   },
+   "works_detail": [
+    {
+     "title": "《苏格拉底回忆录》",
+     "structure": "一篇：以苏格拉底为喻，论无知之知与语言的地位。",
+     "core_thesis": "理性在语言之中，不能先于语言。",
+     "editions": "德文 Meiner 版",
+     "note": "1759 年"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -2263,6 +2556,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“世界精神”与“理性的狡计”的原文（《历史哲学讲演录》导论）须核；“世界精神”与“民族精神”（Volksgeist）之别亦须分辨。"
+  },
+  {
+   "id": "gr-german-erhabene",
+   "term": "崇高",
+   "term_latin": "the sublime (das Erhabene)",
+   "definition": "美学范畴：面对超出想象力的巨大或强力（星空、风暴、金字塔）时，先感压迫、后生敬意的经验。康德分“数学的崇高”（数量之大）与“力学的崇高”（力量之强），并把崇高从“对象”归于**主体的心意**：崇高不在自然里，而在我们对自身理性使命的意识里。",
+   "usages": [
+    {
+     "name": "康德（其立）",
+     "id": "gr-german-kant",
+     "usage": "以数学的与力学的崇高分说，归于主体的理性使命。"
+    },
+    {
+     "name": "莱辛（其同代）",
+     "id": "gr-german-lessing",
+     "usage": "以诗画界限的讨论涉及“巨大”的表现问题。"
+    },
+    {
+     "name": "黑格尔（其后）",
+     "id": "gr-german-hegel",
+     "usage": "以崇高为“象征艺术”的阶段；这一用法须与相邻概念分辨。"
+    }
+   ],
+   "related": [
+    "gr-german-aufheben"
+   ],
+   "example": {
+    "text": "“崇高”的要害是把**不适**变成**敬意**：面对超出尺度之物，想象力失败，而理性却因此意识到自己的超感性使命。故其说不只是“壮美”的描写，而是一个转折：**感官的挫败成为理性的证明**—— 这一结构后来被利奥塔用来命名“后现代”的艺术经验。",
+    "figure": "康德",
+    "locator": "《判断力批判》§23—29"
+   },
+   "sources": [
+    "sep-kant",
+    "sep-burke",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“崇高”的两分（数学的／力学的）与§23—29的论证须核《判断力批判》；其与柏克《论崇高与美》的关系亦须分辨。"
   }
  ],
  "debates": [

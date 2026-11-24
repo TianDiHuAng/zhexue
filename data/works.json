@@ -21914,6 +21914,63 @@
    "sort_year": 1759
   },
   {
+   "id": "work-sokratische-denkwuerdigkeiten",
+   "title": "《苏格拉底回忆录》",
+   "title_original": "Sokratische Denkwürdigkeiten",
+   "tradition": "west",
+   "date_display": "1759（哈曼）",
+   "structure": "一篇（不分卷）：以苏格拉底为喻，论“无知之知”与语言的不可穷尽，反驳当时的理性主义神学。",
+   "core_arguments": [
+    "“苏格拉底的无知”是真正的智慧：知其不知",
+    "语言是理性的**界限**：理性不能先于语言而存在",
+    "以“感性”与“具体”对抗抽象的系统"
+   ],
+   "key_points": [
+    {
+     "locator": "篇首",
+     "point": "苏格拉底的无知"
+    },
+    {
+     "locator": "论语言",
+     "point": "理性在语言中"
+    },
+    {
+     "locator": "论启蒙",
+     "point": "对理性主义的批评"
+    },
+    {
+     "locator": "全文",
+     "point": "以具体抗抽象"
+    }
+   ],
+   "editions": [
+    "德文 Meiner 版；英译（Socratic Memorabilia）；中译少见（可参《哈曼文集》选译）"
+   ],
+   "related_people": [
+    "gr-german-hamann",
+    "gr-german-kant",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“苏格拉底研究”",
+     "why": "其借苏格拉底为**喻**（说明“无知之知”与語言的地位），实为对当时理性主义神学的批评；故其性质是论战之作。"
+    },
+    {
+     "claim": "其“语言在先”是浪漫主义的滥调",
+     "why": "其说是对**理性主义**的正面反驳（理性不能脱离语言），并为赫尔德、洪堡的语言哲学开路；故其为语言哲学的先声。"
+    }
+   ],
+   "sources": [
+    "sep-herder",
+    "sep-heidegger",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《苏格拉底回忆录》的原文与“理性在语言中”的表述须核 Meiner 版；其中译情况亦须核（本页标“中译少见”）。",
+   "sort_year": 1759
+  },
+  {
    "id": "work-yuanshan",
    "title": "《原善》",
    "title_original": "原善",
@@ -22192,6 +22249,120 @@
    "needs_verification": true,
    "pending_notes": "《孟子私淑录》的原稿散佚，今存辑本（见《戴震全书》）；其与《绪言》《疏证》的文本谱系须核专门考订。本页依辑本与相关研究概述。",
    "sort_year": 1765
+  },
+  {
+   "id": "work-laokoon",
+   "title": "《拉奥孔》",
+   "title_original": "Laokoon: oder über die Grenzen der Malerei und Poesie",
+   "tradition": "west",
+   "date_display": "1766（莱辛）",
+   "structure": "一篇论文（不分卷，通行本附补遗）：以拉奥孔群像与维吉尔诗句的对比，论诗与画的界限。",
+   "core_arguments": [
+    "诗与画有别：画以**空间中的形体**为对象，诗以**时间中的动作**为对象",
+    "故画宜“选择最富孕育性的顷刻”，诗宜写“动作的过程”",
+    "“美是造型艺术的最高法则”，而诗可容纳丑与冲突"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "诗与画的界限"
+    },
+    {
+     "locator": "论“顷刻”",
+     "point": "最富孕育性的瞬间"
+    },
+    {
+     "locator": "论丑",
+     "point": "诗可容丑"
+    },
+    {
+     "locator": "补遗",
+     "point": "与诸家的商榷"
+    }
+   ],
+   "editions": [
+    "德文 Reclam 版；英译（Laocoön, Johns Hopkins）；中译参《拉奥孔》（朱光潜译）"
+   ],
+   "related_people": [
+    "gr-german-lessing",
+    "gr-german-kant",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张“诗优于画”",
+     "why": "其说不判优劣，而判**界限**（各有所宜）；其锋芒实对“以画的标准要求诗”（如温克尔曼的“静穆”）。"
+    },
+    {
+     "claim": "其“顷刻”是“最有戏剧性的瞬间”",
+     "why": "其“最富孕育性的顷刻”指**能让人想象前因后果的那一瞬**（故须留余地）；与“高潮”不同。"
+    }
+   ],
+   "sources": [
+    "sep-burke",
+    "sep-aristotle",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《拉奥孔》的章次与“最富孕育性的顷刻”一语的原文须核 Reclam 版与朱光潜译本；其与温克尔曼的争论亦须分辨。",
+   "sort_year": 1766
+  },
+  {
+   "id": "work-hamburgische-dramaturgie",
+   "title": "《汉堡剧评》",
+   "title_original": "Hamburgische Dramaturgie",
+   "tradition": "west",
+   "date_display": "1767—1769（莱辛）",
+   "structure": "一百零四篇剧评：原为汉堡民族剧院的观剧札记，逐期刊出，兼论戏剧的原理与当时的演出。",
+   "core_arguments": [
+    "以亚里士多德《诗学》为准绳，批评法国古典悲剧的“宫廷化”",
+    "主张“市民悲剧”：悲剧的主角可以是普通人",
+    "“同情”为悲剧的核心：观众须能与之同感"
+   ],
+   "key_points": [
+    {
+     "locator": "第1—30篇",
+     "point": "对法国古典剧的批评"
+    },
+    {
+     "locator": "第70—80篇",
+     "point": "市民悲剧"
+    },
+    {
+     "locator": "第90—104篇",
+     "point": "亚里士多德的重释"
+    },
+    {
+     "locator": "全书",
+     "point": "以古义正今弊"
+    }
+   ],
+   "editions": [
+    "德文 Reclam 版；英译（Hamburg Dramaturgy, Dover）；中译参《汉堡剧评》（张黎译）"
+   ],
+   "related_people": [
+    "gr-german-lessing",
+    "gr-ancient-aristotle",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“观剧随笔”",
+     "why": "其虽以札记成，然有明确的**理论目标**（以亚里士多德正法国古典剧之弊，并立市民悲剧）；故其为戏剧理论的著作。"
+    },
+    {
+     "claim": "其反对法国悲剧是“民族主义”",
+     "why": "其所反对者是**宫廷趣味与规则的僵化**（非法国文化本身）；其推崇的恰是莎士比亚与亚里士多德。"
+    }
+   ],
+   "sources": [
+    "sep-burke",
+    "sep-aristotle",
+    "sep-herder"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《汉堡剧评》的篇数与出版方式（逐期刊出）须核 Reclam 版；其与亚里士多德《诗学》的关系亦须核。",
+   "sort_year": 1767
   },
   {
    "id": "work-system-nature",
