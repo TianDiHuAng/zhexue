@@ -2595,6 +2595,81 @@
    ],
    "needs_verification": true,
    "pending_notes": "“两种自由”的区分有前驱（贡斯当的“古代人的自由 vs 现代人的自由”）；且伯林对积极自由的批评被指为过于简化，本页并述其说与批评。"
+  },
+  {
+   "id": "gr-contemp-rigid-designator",
+   "term": "严格指示词",
+   "term_latin": "rigid designator",
+   "definition": "克里普克的概念：一个词项若在**一切可能世界**中都指同一对象，则为严格指示词。专名（如“亚里士多德”）是严格的；而“《形而上学》的作者”这类描述不是（在另一可能世界中可能是别人写的）。故专名的指称不由描述给出。",
+   "usages": [
+    {
+     "name": "克里普克",
+     "id": "gr-contemp-kripke",
+     "usage": "以严格指示词批评描述论，并提出因果历史链。"
+    },
+    {
+     "name": "罗素与弗雷格（其批评对象）",
+     "usage": "以描述（或涵义）说明专名的指称。"
+    },
+    {
+     "name": "戴维森（其相关）",
+     "id": "gr-contemp-davidson",
+     "usage": "同属语言哲学的形式化进路，但问题不同。"
+    }
+   ],
+   "related": [
+    "gr-contemp-public-reason-idea",
+    "gr-contemp-reflective"
+   ],
+   "example": {
+    "text": "“严格指示词”的要害是把**指称**与**描述**拆开：若专名靠描述确定指称，则一切关于该对象的发现都可能改变其指称（这在直觉上不对）；故须有“因果链”把命名固定下来。这一步使“后验必然”成为可能。",
+    "figure": "克里普克",
+    "locator": "《命名与必然性》第一讲"
+   },
+   "sources": [
+    "sep-reference",
+    "sep-quine",
+    "sep-wittgenstein"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“严格指示词”的准确表述与其对自然种类词（如“水”）的适用须核《命名与必然性》；因果历史链的细节亦须核。"
+  },
+  {
+   "id": "gr-contemp-myth-given",
+   "term": "所与的神话",
+   "term_latin": "the Myth of the Given",
+   "definition": "塞拉斯（后为罗蒂所承）的批判：传统认识论假设有一种**直接的所与**（感觉材料）为知识奠基；但“所与”若要成为**理由**，就必须已在概念空间中，而这就不是纯粹的“所与”。故以“所与”为不可错的基底之说不能成立。",
+   "usages": [
+    {
+     "name": "塞拉斯（其提出）",
+     "usage": "以“所与的神话”批评基础主义。"
+    },
+    {
+     "name": "罗蒂（其承）",
+     "id": "gr-contemp-rorty",
+     "usage": "以之批评“镜式”认识论，转向教化哲学。"
+    },
+    {
+     "name": "康德（其前史）",
+     "usage": "以“直观”与“概念”的合作为知识的条件，为其先声。"
+    }
+   ],
+   "related": [
+    "gr-contemp-reflective",
+    "gr-contemp-nonidentity"
+   ],
+   "example": {
+    "text": "“所与的神话”之所以重要，是因为它同时打击了**基础主义**与**纯粹经验论**：若一切经验都已含概念，则没有“未经解释的材料”可作基底。这一批判把认识论的焦点从“基础”转到“证成（justification）的社会—语言维度”。",
+    "figure": "塞拉斯",
+    "locator": "《经验论与心灵哲学》"
+   },
+   "sources": [
+    "sep-rorty",
+    "sep-quine",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“所与的神话”的原文见塞拉斯《经验论与心灵哲学》（1956）；其与蒯因“两个教条”的关系、以及罗蒂的转用须分辨。"
   }
  ],
  "debates": [

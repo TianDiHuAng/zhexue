@@ -23607,6 +23607,63 @@
    "sort_year": 1967
   },
   {
+   "id": "work-truth-meaning",
+   "title": "《真理与意义》",
+   "title_original": "Truth and Meaning",
+   "tradition": "west",
+   "date_display": "1967年（戴维森论文）；后收于《对真理与解释的探究》（1984）",
+   "structure": "一篇论文：提出以**塔尔斯基式的真理理论**作为意义理论的形式框架。",
+   "core_arguments": [
+    "意义理论须给出“S 意为 p”的**组合性**说明",
+    "以真理理论（T 语句）承担这一角色：'S 为真当且仅当 p'",
+    "意义理论须能对无穷多的句子给出解释，故须是**递归的**"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "对意义的问题"
+    },
+    {
+     "locator": "中段",
+     "point": "真理理论的形式要求"
+    },
+    {
+     "locator": "后段",
+     "point": "组合性与递归"
+    },
+    {
+     "locator": "结论",
+     "point": "意义即真理条件"
+    }
+   ],
+   "editions": [
+    "原刊 Synthese；收于 Inquiries into Truth and Interpretation（Oxford）；中译参《对真理与解释的探究》（牟博等译）"
+   ],
+   "related_people": [
+    "gr-contemp-davidson",
+    "gr-contemp-kripke",
+    "gr-20c-wittgenstein"
+   ],
+   "misreadings": [
+    {
+     "claim": "戴维森主张“意义就是真值条件”故不需说话者意图",
+     "why": "其真理理论是**形式框架**，而“解释”须结合说话者的**整体信念与意图**（“慈善原则”）；故其说不是取消语用，而是以形式理论承接之。"
+    },
+    {
+     "claim": "其 T 语句等于翻译",
+     "why": "T 语句只要求外延上正确（'雪是白的'为真当且仅当雪是白的）；意义理论须进一步约束**形式**，故不等于翻译。"
+    }
+   ],
+   "sources": [
+    "sep-reference",
+    "sep-quine",
+    "sep-wittgenstein"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《真理与意义》原刊（Synthese 1967）与后收文集的文字有修订；本页依文集版与相关研究概述，SEP 无戴维森专条（故属语境性引用）。",
+   "sort_year": 1967
+  },
+  {
    "id": "work-difference-repetition",
    "title": "《差异与重复》",
    "title_original": "Différence et répétition",
@@ -24060,6 +24117,120 @@
    "needs_verification": true,
    "pending_notes": "《认真对待权利》所收论文的原始发表年代与各篇论点有演进；本页依中译本与 SEP“权利”词条概述，德沃金本人的专条 SEP 未收（故属语境性引用）。",
    "sort_year": 1977
+  },
+  {
+   "id": "work-philosophy-mirror-nature",
+   "title": "《哲学与自然之镜》",
+   "title_original": "Philosophy and the Mirror of Nature",
+   "tradition": "west",
+   "date_display": "1979年（罗蒂）",
+   "structure": "三部分：①我们的镜式本质（心与认识论的起源）；②镜映（认识论的行为主义化）；③哲学（无镜的哲学：教化 vs 系统）。",
+   "core_arguments": [
+    "“心作为自然的镜子”是近代认识论的隐喻，而非事实",
+    "认识论是“被文本化”的哲学学科，其问题来自这一隐喻",
+    "哲学应从“奠基”转向“教化”（edification）与会话"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "镜式本质的起源"
+    },
+    {
+     "locator": "第二部分",
+     "point": "认识论的行为主义化"
+    },
+    {
+     "locator": "第三部分",
+     "point": "系统哲学与教化哲学"
+    },
+    {
+     "locator": "结论",
+     "point": "无镜的哲学"
+    }
+   ],
+   "editions": [
+    "英文 Princeton 版；中译参《哲学与自然之镜》（李幼蒸译，商务印书馆）"
+   ],
+   "related_people": [
+    "gr-contemp-rorty",
+    "gr-20c-wittgenstein",
+    "gr-modern-descartes"
+   ],
+   "misreadings": [
+    {
+     "claim": "罗蒂主张“哲学终结”",
+     "why": "他主张的是**认识论的终结**（作为奠基学科的哲学），并主张哲学转向“教化”与会话；故不是“哲学无用”，而是“哲学不必再当法官”。"
+    },
+    {
+     "claim": "其“教化”是一种新的方法",
+     "why": "他明言“教化”不是方法，而是**与异常话语的相遇**；把它当作方法恰是他所反对的（那又会成为新的“系统哲学”）。"
+    }
+   ],
+   "sources": [
+    "sep-rorty",
+    "sep-quine",
+    "sep-wittgenstein"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《哲学与自然之镜》的三大部结构与“教化”概念的准确含义须核原书；其与杜威、海德格尔的关系亦须分辨。",
+   "sort_year": 1979
+  },
+  {
+   "id": "work-naming-necessity",
+   "title": "《命名与必然性》",
+   "title_original": "Naming and Necessity",
+   "tradition": "west",
+   "date_display": "1970年讲演；1980年成书（克里普克）",
+   "structure": "三讲：①命名与指称（对描述论的批评）；②同一性与必然性（后验必然）；③可能世界与本质。",
+   "core_arguments": [
+    "专名是**严格指示词**：在一切可能世界中指同一对象",
+    "存在**后验必然**的真理（如“水是 H₂O”）",
+    "本质由对象的**构成**（而非描述）决定"
+   ],
+   "key_points": [
+    {
+     "locator": "第一讲",
+     "point": "严格指示词与因果链"
+    },
+    {
+     "locator": "第二讲",
+     "point": "后验必然"
+    },
+    {
+     "locator": "第三讲",
+     "point": "本质与可能世界"
+    },
+    {
+     "locator": "全书",
+     "point": "对描述论的批评"
+    }
+   ],
+   "editions": [
+    "英文 Harvard 版；中译参《命名与必然性》（梅文译，上海译文出版社）"
+   ],
+   "related_people": [
+    "gr-contemp-kripke",
+    "gr-20c-wittgenstein",
+    "gr-contemp-davidson"
+   ],
+   "misreadings": [
+    {
+     "claim": "克里普克主张“本质是隐藏的实体”",
+     "why": "其本质是**构成性的**（水之本质是 H₂O 的分子结构），由科学发现，不需假设一个神秘的实体；故其本质论是自然主义的。"
+    },
+    {
+     "claim": "“后验必然”是自相矛盾的说法",
+     "why": "它只是说：某些真理**在认识上是后天的**（须经验发现），而**在形而上学上是必然的**（在所有可能世界成立）；这两个“模态”属不同层次，故不矛盾。"
+    }
+   ],
+   "sources": [
+    "sep-reference",
+    "sep-quine",
+    "sep-wittgenstein"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《命名与必然性》1970 年讲演与 1980 年成书（增补序言）有差异；本页依成书版与 SEP“克里普克”词条概述。",
+   "sort_year": 1980
   },
   {
    "id": "work-theorie-kommunikativen",

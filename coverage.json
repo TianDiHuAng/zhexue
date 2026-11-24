@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1305,
+  "entries": 1311,
   "by_level": {
    "L2": 779,
-   "L1": 526
+   "L1": 532
   },
   "doctrine": {
    "total": 270,
    "detail": 270,
    "auto": 0
   },
-  "needs_verification": 526,
-  "sources": 410,
-  "sources_verified": 410
+  "needs_verification": 532,
+  "sources": 411,
+  "sources_verified": 411
  },
  "units": [
   {
@@ -111,7 +111,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 12,
-   "concepts": 20,
+   "concepts": 22,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -6174,6 +6174,28 @@
    "id": "gr-contemp-liangzhong-ziyou",
    "type": "concept",
    "title": "两种自由",
+   "container": "gr-contemp",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-contemp-rigid-designator",
+   "type": "concept",
+   "title": "严格指示词",
+   "container": "gr-contemp",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-contemp-myth-given",
+   "type": "concept",
+   "title": "所与的神话",
    "container": "gr-contemp",
    "level": "L1",
    "sources": 3,
@@ -13178,6 +13200,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-truth-meaning",
+   "type": "work",
+   "title": "《真理与意义》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-difference-repetition",
    "type": "work",
    "title": "《差异与重复》",
@@ -13258,6 +13291,28 @@
    "id": "work-taking-rights-seriously",
    "type": "work",
    "title": "《认真对待权利》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-philosophy-mirror-nature",
+   "type": "work",
+   "title": "《哲学与自然之镜》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-naming-necessity",
+   "type": "work",
+   "title": "《命名与必然性》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -14028,6 +14083,17 @@
    "id": "cmp-xinyangqiuli",
    "type": "comparative",
    "title": "信仰寻求理解与“下学上达”：安瑟伦与儒家的两条上升路",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-zhiming",
+   "type": "comparative",
+   "title": "正名与严格指示：两种“名”的确定方式",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
