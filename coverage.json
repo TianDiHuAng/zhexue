@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1320,
+  "entries": 1323,
   "by_level": {
-   "L2": 779,
-   "L1": 541
+   "L2": 780,
+   "L1": 543
   },
   "doctrine": {
-   "total": 270,
-   "detail": 270,
+   "total": 271,
+   "detail": 271,
    "auto": 0
   },
-  "needs_verification": 541,
+  "needs_verification": 543,
   "sources": 412,
   "sources_verified": 412
  },
@@ -92,10 +92,10 @@
    "unit_id": "gr-20c",
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
-   "philosophers": 31,
-   "concepts": 29,
+   "philosophers": 32,
+   "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -23"
+   "philosophers_slot": "8 上限，余 -24"
   },
   {
    "unit_id": "gr-ancient",
@@ -111,7 +111,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 12,
-   "concepts": 22,
+   "concepts": 23,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -4807,6 +4807,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-20c-arendt",
+   "type": "philosopher",
+   "title": "阿伦特",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-20c-sense-reference",
    "type": "concept",
    "title": "意义与指称",
@@ -5118,6 +5129,17 @@
    "id": "gr-20c-wuhua",
    "type": "concept",
    "title": "物化",
+   "container": "gr-20c",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-20c-xingdong",
+   "type": "concept",
+   "title": "行动（阿伦特）",
    "container": "gr-20c",
    "level": "L1",
    "sources": 3,
@@ -6207,6 +6229,17 @@
    "id": "gr-contemp-myth-given",
    "type": "concept",
    "title": "所与的神话",
+   "container": "gr-contemp",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-contemp-pingyong-zhi-e",
+   "type": "concept",
+   "title": "平庸之恶",
    "container": "gr-contemp",
    "level": "L1",
    "sources": 3,

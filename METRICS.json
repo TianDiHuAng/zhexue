@@ -2220,5 +2220,27 @@
   "needs_verification": 541,
   "sources": 412,
   "sources_verified": 412
+ },
+ {
+  "date": "2026-11-24",
+  "entries": 1323,
+  "by_level": {
+   "L2": 780,
+   "L1": 543
+  },
+  "needs_verification": 543,
+  "sources": 412,
+  "sources_verified": 412
+ },
+ {
+  "date": "2026-11-24",
+  "entries": 1323,
+  "by_level": {
+   "L2": 780,
+   "L1": 543
+  },
+  "needs_verification": 543,
+  "sources": 412,
+  "sources_verified": 412
  }
 ]
