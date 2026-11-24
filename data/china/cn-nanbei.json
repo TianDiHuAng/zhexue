@@ -599,6 +599,301 @@
      "note": "约558年"
     }
    ]
+  },
+  {
+   "id": "cn-nanbei-liuxie",
+   "name": "刘勰",
+   "latin": "Liu Xie",
+   "birth_year": 465,
+   "death_year": 520,
+   "birth_display": "约465年",
+   "death_display": "约520年",
+   "birth_note": "据《梁书·刘勰传》：东莞莒人，早孤，依沙门僧祐居定林寺十余年，后出仕，官至东宫通事舍人。",
+   "death_note": "约520年卒（《梁书》本传未载确年）。",
+   "era": "南朝齐梁。刘勰以《文心雕龙》立说：文以“道”为本（原道），以“经”为式（宗经），并以“情”与“采”的相称为文的准则。其书体大思精，是中国文学理论中最早的系统著作。他与僧祐的关系（依其居定林寺）也使他与当时的佛教文献学圈相接。",
+   "school": "南朝文论（原道—宗经—正纬—辨骚）",
+   "core_questions": [
+    "文的本原是什么？",
+    "文与道是何关系？",
+    "情与采如何相称？"
+   ],
+   "arguments": [
+    {
+     "claim": "原道：文以道为本",
+     "premises": [
+      "凡物皆有文（形文、声文）。",
+      "而人文（文章）是“道”的显现。"
+     ],
+     "inference": "若人文是道的显现，则文的正当性不在辞藻而在**所载之道**；故论文须先原道，论辞采须以“宗经”为式。",
+     "conclusion": "文以道为本（此说把文学理论奠基于本体论）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "情与采相称：文质的中道",
+     "premises": [
+      "有情无采则“质”（枯），有采无情则“讹”（浮）。",
+      "二者须相称。"
+     ],
+     "inference": "若情采须相称，则评价文的标准不是“华”或“朴”的单极，而是**相称与否**；故其立场近于“文质彬彬”的延伸。",
+     "conclusion": "情采相称（此说给文学批评以双向的尺度）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《文心雕龙》",
+     "edition": "范文澜《文心雕龙注》（人民文学出版社）；詹锳《文心雕龙义证》",
+     "note": "约501年"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "僧祐（其师友与居所）",
+     "id": "cn-nanbei-sengyou",
+     "note": "居定林寺十余年，参与经录与文献工作"
+    },
+    {
+     "name": "孔子（宗经之所本）",
+     "id": null,
+     "note": "以“经”为文的范式"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "后世的文论",
+     "id": null,
+     "note": "以“原道”“情采”为批评的基本范畴"
+    },
+    {
+     "name": "唐代的古文运动",
+     "id": null,
+     "note": "以“宗经”“明道”为其先声"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后来的“文以载道”说",
+     "view": "其“原道”被后世（尤其唐宋古文家）推为“文以载道”的先声；但刘勰并不轻视辞采。",
+     "response": "刘勰一系的立场是：情采须相称，故“载道”不排斥文采——这与后世的“重道轻文”不同。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-wenxin-diaolong",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "刘勰是“纯文学理论家”",
+     "why": "其书以“原道—宗经”为纲，故其文论有**本体论与经学**的前提；不只是修辞技巧。"
+    },
+    {
+     "claim": "“文以载道”是刘勰的原话",
+     "why": "“文以载道”是后世（周敦颐等）的提法；刘勰说的是“原道”“宗经”，其“道”与宋儒的“道”不同。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>刘勰：原道与情采相称</text><defs><marker id='aLX' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>凡物皆有文</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而人文是道的显现</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故文以道为本</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>而情采须相称</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aLX)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aLX)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "刘勰：“原道”与“情采相称”的结构（示意图）",
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ws-gaoseng-zhuan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "刘勰以“原道—宗经”立论文之本：凡物皆有文，而人文是“道”的显现，故文的正当性不在辞藻而在所载之道。他又以“情采相称”为批评的尺度：有情无采则质枯，有采无情则浮讹，二者须相称。其立场近于“文质彬彬”的延伸，与后世“重道轻文”的“文以载道”不同。",
+    "system": [
+     {
+      "name": "原道",
+      "content": "人文是道的显现，故文以道为本；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "宗经",
+      "content": "以“经”为文的范式；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "情采相称",
+      "content": "情与采须相称，不以华朴为单极标准；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "通变",
+      "content": "文有因革：须“变则可久，通则不乏”；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "莒、定林寺与建康（约465—约520）",
+      "change": "早孤；依僧祐居定林寺十余年，参与经录工作；后出仕，官至东宫通事舍人；约520 年卒。"
+     }
+    ],
+    "reception": "《文心雕龙》是中国文学理论中最早的系统著作；其“原道”“情采”“通变”等范畴成为后世文论的基本语汇；其与佛教文献学圈的关系亦是六朝思想史的一条线索。"
+   },
+   "works_detail": [
+    {
+     "title": "《文心雕龙》",
+     "structure": "五十篇：前五篇为“文之枢纽”（原道、征圣、宗经、正纬、辨骚），余为文体论、创作论、批评论与序志。",
+     "core_thesis": "文以道为本；情采须相称；这是该书的核心命题。",
+     "editions": "范文澜《文心雕龙注》；詹锳《义证》",
+     "note": "约501年"
+    }
+   ]
+  },
+  {
+   "id": "cn-nanbei-taohongjing",
+   "name": "陶弘景",
+   "latin": "Tao Hongjing",
+   "birth_year": 456,
+   "death_year": 536,
+   "birth_display": "456年",
+   "death_display": "536年",
+   "birth_note": "据《梁书·陶弘景传》：丹阳秣陵人，少好学，善琴棋工草隶；齐时曾任诸王侍读，后隐居句容句曲山（茅山）。",
+   "death_note": "536年卒于茅山（一说卒年有异说）。",
+   "era": "南朝齐梁。陶弘景是上清派道教的实际整理者：《真诰》编纂上清经的降真记录，《真灵位业图》建构神仙的品秩。他同时精于医药、炼养与天文，被称为“山中宰相”（梁武帝每有大事辄咨询之）。其学以“养神”“炼形”并重，是道教由方术走向系统教理的关键人物。",
+   "school": "南朝道教（上清派、茅山宗）",
+   "core_questions": [
+    "神仙是否可学？",
+    "养神与炼形何者为本？",
+    "道教的经典如何成立？"
+   ],
+   "arguments": [
+    {
+     "claim": "养神与炼形并重",
+     "premises": [
+      "形为神之宅，神为形之主。",
+      "只炼形则形存而无主，只养神则宅坏而无寄。"
+     ],
+     "inference": "若二者互为其条件，则修道须**形神并养**；故其学不取“弃形求神”的一边，也不取“只修方术”的一边。",
+     "conclusion": "形神并养（此说使道教修行有了系统的身心论）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "经典须以“降真”的记录成立",
+     "premises": [
+      "上清经的成立依托“降真”（仙真降授）的记述。",
+      "而记述须有谱系与人物的考订。"
+     ],
+     "inference": "若经典的神圣性系于“降真”，则其成立须**同时**是记录与考订的工作；故《真诰》既是经本，也是文献学的编纂。",
+     "conclusion": "经典的成立是记录与考订的双重工作（此说为道教的经典学奠基）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《真诰》",
+     "edition": "《道藏》本；中华书局《真诰》校注（若有）",
+     "note": "约499年"
+    },
+    {
+     "title": "《真灵位业图》",
+     "edition": "《道藏》本（具体版次待核）",
+     "note": "6世纪初"
+    },
+    {
+     "title": "《本草经集注》",
+     "edition": "《道藏》本；辑校本",
+     "note": "5世纪末"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "上清派的传统",
+     "id": null,
+     "note": "以茅山为传承的中心"
+    },
+    {
+     "name": "葛洪（其先声）",
+     "id": null,
+     "note": "以“金丹”与“养生”论神仙可学"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "茅山宗",
+     "id": null,
+     "note": "以其为实际奠基者"
+    },
+    {
+     "name": "唐代的道教",
+     "id": null,
+     "note": "承其经典与醮仪"
+    },
+    {
+     "name": "“山中宰相”的政治角色",
+     "id": null,
+     "note": "梁武帝咨询之，见其学的影响力"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "佛教一方（形神之争的立场）",
+     "view": "其“养神”说与佛教的“神不灭”有交涉，但其修行论不同于佛教的“解脱”。",
+     "response": "陶弘景一系的立场是：道教的“养神”仍以“形”为宅，故其目标不是“离形”，而是“形神俱妙”。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-zhengao",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "陶弘景只是“方士”",
+     "why": "其《真诰》的编纂与《真灵位业图》的品秩建构是**教理与经典学**的工作，非方术可比。"
+    },
+    {
+     "claim": "《真诰》是其个人创作",
+     "why": "它是**编纂**：整理降真记录、考订谱系与人物；故其作者身份是“编者”而非“作者”。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>陶弘景：形神并养与降真</text><defs><marker id='aTH' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>形为神之宅</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>神为形之主</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故须形神并养</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>而经典由降真记录成立</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aTH)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aTH)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "陶弘景：形神并养与“降真”的经典成立（示意图）",
+   "sources": [
+    "ws-zhengao",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "陶弘景无 SEP／IEP 词条；本页所据为《真诰》（原典全文）、《梁书》本传与 SEP“中国形而上学”条目的语境性说明——**属语境性引用而非专门研究**。其卒年（536）有异说，须核《梁书》与相关考订。",
+   "doctrine": {
+    "summary": "陶弘景是上清派道教的实际整理者：《真诰》编纂降真记录，《真灵位业图》建构神仙品秩。其修行论以“形神并养”为核心——形为神之宅、神为形之主，故不只炼形，也不弃形求神；其经典学则以“降真”的记录与考订为经典成立的双重工作。",
+    "system": [
+     {
+      "name": "形神并养",
+      "content": "形为神之宅，神为形之主；二者互为其条件。"
+     },
+     {
+      "name": "降真",
+      "content": "上清经的成立依托仙真降授的记录；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "神仙可学",
+      "content": "以炼养与积德可致长生（承葛洪之说而系统化）。"
+     },
+     {
+      "name": "真灵位业",
+      "content": "以品秩建构神仙的秩序（《真灵位业图》）。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "秣陵与茅山（456—536）",
+      "change": "少好学；齐时曾任诸王侍读；后隐居句曲山（茅山），自号华阳隐居；梁武帝屡召不出，每有大事咨询（“山中宰相”）；536 年卒。"
+     }
+    ],
+    "reception": "陶弘景被尊为茅山宗的实际奠基者；《真诰》是研究上清派经典成立的核心文献；其“形神并养”说与佛教的形神之争构成六朝思想的双线。"
+   },
+   "works_detail": [
+    {
+     "title": "《真诰》",
+     "structure": "二十卷：分“运题象”“甄命授”“协昌期”“稽神枢”“阐幽微”“握真辅”“翼真检”七篇，编次降真记录与谱系考订。",
+     "core_thesis": "经典由降真记录与考订双重成立。",
+     "editions": "《道藏》本；校注本（若有）",
+     "note": "约499年"
+    }
+   ]
   }
  ],
  "concepts": [

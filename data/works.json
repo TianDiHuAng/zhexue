@@ -8060,6 +8060,63 @@
    "sort_year": 440
   },
   {
+   "id": "work-zhengao",
+   "title": "《真诰》",
+   "title_original": "真誥",
+   "tradition": "china",
+   "date_display": "约499年（陶弘景编）",
+   "structure": "二十卷七篇：运题象、甄命授、协昌期、稽神枢、阐幽微、握真辅、翼真检；编次降真记录、谱系与修行法。",
+   "core_arguments": [
+    "经典由“降真”的记录成立",
+    "修行以“形神并养”为要",
+    "以谱系与人物的考订确立传承的正统"
+   ],
+   "key_points": [
+    {
+     "locator": "《运题象》",
+     "point": "降真的缘起"
+    },
+    {
+     "locator": "《甄命授》",
+     "point": "仙真的诰命"
+    },
+    {
+     "locator": "《稽神枢》",
+     "point": "修行与方术"
+    },
+    {
+     "locator": "《翼真检》",
+     "point": "谱系与考订"
+    }
+   ],
+   "editions": [
+    "《道藏》本；校注本（若有）"
+   ],
+   "related_people": [
+    "cn-nanbei-taohongjing",
+    "cn-nanbei-sengyou",
+    "cn-xianqin-zhuangzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《真诰》是陶弘景的创作",
+     "why": "它是**编纂**：整理降真记录、考订谱系与人物；故其身份是“编者”而非“作者”。"
+    },
+    {
+     "claim": "它只是道教的神秘记录",
+     "why": "其中含大量**文献学**工作（谱系考订、经本辨别），是研究上清派经典成立的核心材料。"
+    }
+   ],
+   "sources": [
+    "ws-zhengao",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《真诰》的篇数与编次（通行二十卷七篇）须核《道藏》本与相关研究；其“降真”记录的性质（宗教经验／文学建构）学界有不同解读。",
+   "sort_year": 499
+  },
+  {
    "id": "work-mystical-theology",
    "title": "《神秘神学》",
    "title_original": "De mystica theologia",
@@ -8114,6 +8171,64 @@
    "needs_verification": true,
    "pending_notes": "《神秘神学》作者的托名问题（今通认为5—6世纪叙利亚修士）与希腊原文的版本须核；中译本情况待查，本页依中世纪哲学史与英译概述。",
    "sort_year": 500
+  },
+  {
+   "id": "work-wenxin-diaolong",
+   "title": "《文心雕龙》",
+   "title_original": "文心雕龍",
+   "tradition": "china",
+   "date_display": "约501年（刘勰）",
+   "structure": "五十篇：前五篇为“文之枢纽”（原道、征圣、宗经、正纬、辨骚）；其后为文体论（二十篇）、创作论、批评论与《序志》。",
+   "core_arguments": [
+    "原道：人文是“道”的显现",
+    "宗经：以“经”为文的范式",
+    "情采相称：情与采须相称，不以华朴为单极",
+    "通变：文有因革，“变则可久，通则不乏”"
+   ],
+   "key_points": [
+    {
+     "locator": "《原道》",
+     "point": "文以道为本"
+    },
+    {
+     "locator": "《宗经》",
+     "point": "经为文的范式"
+    },
+    {
+     "locator": "《情采》",
+     "point": "情采相称"
+    },
+    {
+     "locator": "《通变》",
+     "point": "因革与变通"
+    }
+   ],
+   "editions": [
+    "范文澜《文心雕龙注》（人民文学出版社）；詹锳《文心雕龙义证》（上海古籍出版社）"
+   ],
+   "related_people": [
+    "cn-nanbei-liuxie",
+    "cn-nanbei-sengyou",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“修辞学”手册",
+     "why": "其以“原道—宗经”为纲，故其文论有**本体论与经学**的前提；修辞只是其一部分。"
+    },
+    {
+     "claim": "“文以载道”是刘勰的原话",
+     "why": "那是后世（周敦颐等）的提法；刘勰说“原道”“宗经”，其“道”与宋儒的“道”不同。"
+    }
+   ],
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ws-gaoseng-zhuan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "sort_year": 501
   },
   {
    "id": "work-shenmie-lun",
@@ -8854,6 +8969,63 @@
    "needs_verification": true,
    "pending_notes": "《辨正论》的卷数（通行8卷12篇）与法琳的生平结局（流放途中卒）须核《大正藏》第52卷与唐代佛教史研究；其破“老子化胡”的具体论据须逐条核对。",
    "sort_year": 626
+  },
+  {
+   "id": "work-xugaoseng-zhuan",
+   "title": "《续高僧传》",
+   "title_original": "續高僧傳",
+   "tradition": "china",
+   "date_display": "唐（道宣，645年成书；后增补至665年）",
+   "structure": "三十卷（通行本）：承《高僧传》的十科体例，收梁至唐初的僧人正传与附见。",
+   "core_arguments": [
+    "承《高僧传》的十科分类，续其时代",
+    "以“义解”“习禅”“明律”等科记录佛教的制度与思想",
+    "保存了大量北朝与隋唐初的佛教史料"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—四",
+     "point": "译经"
+    },
+    {
+     "locator": "卷五—十六",
+     "point": "义解"
+    },
+    {
+     "locator": "卷十六—二十",
+     "point": "习禅与明律"
+    },
+    {
+     "locator": "卷二十九—三十",
+     "point": "杂科与序录"
+    }
+   ],
+   "editions": [
+    "《大正藏》第50卷；郭绍林《续高僧传校注》（中华书局）"
+   ],
+   "related_people": [
+    "cn-nanbei-sengyou",
+    "cn-suitang-xuanzang",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《高僧传》的简单续编",
+     "why": "其体例承《高僧传》而有所调整（科的次序与分卷不同），且其史料范围（北朝、隋唐初）与前者不重叠；故是独立的著作。"
+    },
+    {
+     "claim": "所载皆确凿",
+     "why": "其中的“神异”“感应”类记载含传说成分，须与经录、正史对读。"
+    }
+   ],
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《续高僧传》的成书（645）与后续增补（至665）须核；其正传与附见的人数各本统计有差异。",
+   "sort_year": 645
   },
   {
    "id": "work-nyayapravesa",

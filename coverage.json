@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1165,
+  "entries": 1170,
   "by_level": {
-   "L2": 786,
-   "L1": 379
+   "L2": 788,
+   "L1": 382
   },
   "doctrine": {
-   "total": 259,
-   "detail": 259,
+   "total": 261,
+   "detail": 261,
    "auto": 0
   },
-  "needs_verification": 379,
-  "sources": 399,
-  "sources_verified": 399
+  "needs_verification": 382,
+  "sources": 403,
+  "sources_verified": 403
  },
  "units": [
   {
@@ -29,10 +29,10 @@
    "unit_id": "cn-nanbei",
    "title": "南北朝佛道与形神之争",
    "region": "china",
-   "philosophers": 4,
+   "philosophers": 6,
    "concepts": 6,
    "debates": 2,
-   "philosophers_slot": "8 上限，余 4"
+   "philosophers_slot": "8 上限，余 2"
   },
   {
    "unit_id": "cn-qingmod",
@@ -740,6 +740,28 @@
    "id": "cn-nanbei-huisi",
    "type": "philosopher",
    "title": "慧思",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-liuxie",
+   "type": "philosopher",
+   "title": "刘勰",
+   "container": "cn-nanbei",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-taohongjing",
+   "type": "philosopher",
+   "title": "陶弘景",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -9713,6 +9735,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-zhengao",
+   "type": "work",
+   "title": "《真诰》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-mystical-theology",
    "type": "work",
    "title": "《神秘神学》",
@@ -9721,6 +9754,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-wenxin-diaolong",
+   "type": "work",
+   "title": "《文心雕龙》",
+   "container": "china",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
@@ -9859,6 +9903,17 @@
    "id": "work-bianzheng-lun",
    "type": "work",
    "title": "《辨正论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-xugaoseng-zhuan",
+   "type": "work",
+   "title": "《续高僧传》",
    "container": "china",
    "level": "L1",
    "sources": 3,
