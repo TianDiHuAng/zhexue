@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1646,
+  "entries": 1650,
   "by_level": {
    "L2": 779,
-   "L1": 867
+   "L1": 871
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 867,
+  "needs_verification": 871,
   "sources": 420,
   "sources_verified": 420
  },
@@ -10241,6 +10241,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-historia-plantarum",
+   "type": "work",
+   "title": "《植物志》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-zhuangzi",
    "type": "work",
    "title": "《庄子》",
@@ -13200,6 +13211,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-tractatus-buridan",
+   "type": "work",
+   "title": "《论题集》（布里丹）",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-xingli-daquan",
    "type": "work",
    "title": "《性理大全》",
@@ -14605,6 +14627,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-morgenstunden",
+   "type": "work",
+   "title": "《晨课》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -17779,6 +17812,17 @@
    "id": "cmp-xuanzhi",
    "type": "comparative",
    "title": "“悬置判断”与“无可无不可”：不下判断也是一种活法吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-lvzhi",
+   "type": "comparative",
+   "title": "“布里丹之驴”与“两难”：在两可之间如何决断？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

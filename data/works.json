@@ -3416,6 +3416,63 @@
    "sort_year": -330
   },
   {
+   "id": "work-historia-plantarum",
+   "title": "《植物志》",
+   "title_original": "Περὶ φυτῶν ἱστορία（Historia plantarum）",
+   "tradition": "west",
+   "date_display": "约前4世纪末（泰奥弗拉斯托斯）",
+   "structure": "九卷（另有《植物成因》六卷与之相配）：依形态与用途分类，记木本、草本、水生、药用诸类。",
+   "core_arguments": [
+    "以**形态与发生**为分类的根据（不依字母或药效）",
+    "区分“种”与“变”（同一属下因土宜而变）",
+    "以**目的**说植物的构造：根、茎、叶、果各有所为"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—二",
+     "point": "植物的构造与分类"
+    },
+    {
+     "locator": "卷三—六",
+     "point": "木本与草本"
+    },
+    {
+     "locator": "卷七—九",
+     "point": "药用与水生"
+    },
+    {
+     "locator": "《植物成因》",
+     "point": "以目的说构造"
+    }
+   ],
+   "editions": [
+    "希腊文本（Hort, Loeb）；英译（Enquiry into Plants, Loeb）；中译少见"
+   ],
+   "related_people": [
+    "gr-ancient-theophrastus",
+    "gr-ancient-aristotle",
+    "gr-ancient-leucippus"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书只是“亚里士多德动物志的植物版”",
+     "why": "其分类有自己的依据（形态与发生），并已区分“种”与“变”；故其为独立的植物学著作，非简单地套用亚里士多德。"
+    },
+    {
+     "claim": "其“目的”说是神学的",
+     "why": "其“目的”是**构造与其用**的相合（根茎叶果各有所为），是自然解释的原理，非神学的目的论；故与后来的自然神学有别。"
+    }
+   ],
+   "sources": [
+    "sep-theophrastus",
+    "sep-aristotle",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《植物志》九卷与《植物成因》六卷的结构须核 Loeb 本；“种与变”之分的原文亦须核。中译少，本页多为义述。",
+   "sort_year": -310
+  },
+  {
    "id": "work-zhuangzi",
    "title": "《庄子》",
    "title_original": "莊子（Zhuangzi）",
@@ -18687,6 +18744,63 @@
    "sort_year": 1323
   },
   {
+   "id": "work-tractatus-buridan",
+   "title": "《论题集》（布里丹）",
+   "title_original": "Quaestiones in libros Topicorum（或〈辩证法论题〉）",
+   "tradition": "west",
+   "date_display": "约14世纪中叶（布里丹）",
+   "structure": "就亚里士多德《论题篇》逐卷设问（quaestio）：论推论、模态与或然。",
+   "core_arguments": [
+    "以“**布里丹之驴**”论意志的抉择：两堆等距的草之间，驴不必然饿死 —— 意志可自定其一",
+    "论“不可决定的命题”与未来偶然：神的预知与人的自由如何相容",
+    "以“**冲力**”之说承菲洛波诺斯的运动学（其拉丁转述）"
+   ],
+   "key_points": [
+    {
+     "locator": "论意志",
+     "point": "驴与两堆草"
+    },
+    {
+     "locator": "论模态",
+     "point": "不可决定的命题"
+    },
+    {
+     "locator": "论运动",
+     "point": "冲力说"
+    },
+    {
+     "locator": "全书",
+     "point": "以设问行推论"
+    }
+   ],
+   "editions": [
+    "拉丁文本（见其 Quaestiones 诸编，版次待考）；英译选本少见"
+   ],
+   "related_people": [
+    "gr-medieval-buridan",
+    "gr-medieval-ockham",
+    "gr-medieval-philoponus"
+   ],
+   "misreadings": [
+    {
+     "claim": "“布里丹之驴”是布里丹本人的比喻",
+     "why": "此喻**不见于其现存著作**（是后人所归），其实际讨论的是**意志在同等选项前能否自定**；故本页据其论意志之说，而标明此喻为后起。"
+    },
+    {
+     "claim": "其说只是“逻辑的游戏”",
+     "why": "其模态与或然的讨论直接关涉**神的预知与人的自由**，且其运动学承菲洛波诺斯而有实 content；故其为有实体主张的哲学，非游戏。"
+    }
+   ],
+   "sources": [
+    "sep-buridan",
+    "sep-aquinas",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "布里丹《论题集》的编次与“驴”喻的出处须核（此喻被认为是后人所加，须标明）；其模态与自由之说亦须核。",
+   "sort_year": 1350
+  },
+  {
    "id": "work-xingli-daquan",
    "title": "《性理大全》",
    "title_original": "性理大全",
@@ -25949,6 +26063,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1785
+  },
+  {
+   "id": "work-morgenstunden",
+   "title": "《晨课》",
+   "title_original": "Morgenstunden oder Vorlesungen über das Dasein Gottes",
+   "tradition": "west",
+   "date_display": "1785（门德尔松）",
+   "structure": "十七讲：以上帝存在的证明为纲（本体论、宇宙论、目的论），兼论斯宾诺莎主义之争与“常识”的哲学。",
+   "core_arguments": [
+    "以“**常识**”（gesunder Menschenverstand）为哲学的校正",
+    "重提上帝存在的诸证明，并辨“泛神论之争”中对斯宾诺莎的误读",
+    "以“灵魂不死”为理性的要求（其《斐多》之续）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—七讲",
+     "point": "上帝存在的诸证明"
+    },
+    {
+     "locator": "第八—十二讲",
+     "point": "斯宾诺莎主义之争"
+    },
+    {
+     "locator": "第十三—十七讲",
+     "point": "常识与理性"
+    },
+    {
+     "locator": "全书",
+     "point": "以讲稿行哲学"
+    }
+   ],
+   "editions": [
+    "德文 Meiner 版；英译（Morning Hours, Springer）；中译少见"
+   ],
+   "related_people": [
+    "gr-german-mendelssohn",
+    "gr-german-jacobi",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“通俗的护教讲稿”",
+     "why": "其书直接卷入**泛神论之争**（与雅可比关于莱辛是否斯宾诺莎主义者的争论），并以“常识”为哲学方法；故其为论战之作，非通俗护教。"
+    },
+    {
+     "claim": "其“常识”是反理性",
+     "why": "其“常识”是**校正独断的尺度**（防止思辨的过度），而非取代理性；故其为方法上的平衡，非反理性主义。"
+    }
+   ],
+   "sources": [
+    "sep-mendelssohn",
+    "sep-kant",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《晨课》的十七讲与 1785 年初版须核 Meiner 版与英译本；其与雅可比“泛神论之争”的往复亦须核。中译少，本页多为义述。",
    "sort_year": 1785
   },
   {
