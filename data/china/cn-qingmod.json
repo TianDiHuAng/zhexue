@@ -4662,6 +4662,160 @@
      "note": "约1685 年"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-wang-shizhen",
+   "name": "王士禛",
+   "latin": "Wang Shizhen",
+   "birth_year": 1634,
+   "death_year": 1711,
+   "birth_display": "1634年",
+   "death_display": "1711年",
+   "birth_note": "据《清史稿》文苑传：字子真，号阮亭、渔洋山人，山东新城人；顺治进士，官至刑部尚书，卒谥文简；主盟诗坛数十年。",
+   "death_note": "1711年卒（《清史稿》文苑传）。",
+   "era": "清初。王士禛以“**神韵**”说主盟诗坛数十年：承司空图的“象外之象”与严羽的“妙悟”，而专取“清远”一格，以“不着一字，尽得风流”为极致。其方法不只是论说，更在**选本**（《唐贤三昧集》专取清远）—— 故其诗学是“以选目立标准”的实践型诗学。",
+   "school": "清初神韵派（渔洋一系）",
+   "core_questions": [
+    "诗之极致在何处？",
+    "清远何以高于雄奇？",
+    "选本能否成为批评？"
+   ],
+   "arguments": [
+    {
+     "claim": "诗之妙在神韵：不着一字，尽得风流",
+     "premises": [
+      "诗之动人不在铺陈与议论。",
+      "而在其“言外”的余味。"
+     ],
+     "inference": "若余味为诗之极致，则评判的标准是**含蓄与清远**，非才学与气力；故其说以“神韵”为宗。",
+     "conclusion": "神韵说（此说为清代一大诗派之纲）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "选本即批评：以选目立标准",
+     "premises": [
+      "选本的去取，本身即是一种评价。",
+      "而《唐贤三昧集》专取清远，略去雄奇。"
+     ],
+     "inference": "若选目即评价，则诗学不必尽以议论出之，可以**选本**行之；故其诗学是实践型的。",
+     "conclusion": "以选本立标准（此为其诗学的特色）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《唐贤三昧集》",
+     "edition": "《王士禛全集》本（版次待核）",
+     "note": "1688"
+    },
+    {
+     "title": "《带经堂诗话》",
+     "edition": "人民文学出版社戴鸿森校点本（版次待核）",
+     "note": "后人辑"
+    },
+    {
+     "title": "《池北偶谈》",
+     "edition": "中华书局靳斯仁点校本（版次待核）",
+     "note": "约1701"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "严羽（其宗）",
+     "id": null,
+     "note": "“妙悟”说为其神韵论的骨干"
+    },
+    {
+     "name": "司空图（其远源）",
+     "id": null,
+     "note": "“象外之象”为其清远之境的根据"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "清中的“格调”与“性灵”之争",
+     "id": null,
+     "note": "皆针对其神韵说而发"
+    },
+    {
+     "name": "清代诗坛的主流",
+     "id": null,
+     "note": "其主盟数十年，影响深远"
+    },
+    {
+     "name": "现代的“意境”研究",
+     "id": null,
+     "note": "以其为清代诗学的代表"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "沈德潜（格调派）",
+     "view": "专主神韵则诗易流于空疏：既遗“格调”的规范，又略“温柔敦厚”的诗教，遂使诗成为文人的清谈。",
+     "response": "王士禛一系的回应是：神韵非空疏，其根在“兴会”与“读书”（其自述“读书破万卷”）；且诗之教不必尽以议论出之，含蓄正是诗教的一种方式。",
+     "kind": "原文",
+     "sources": [
+      "ws-wenxin-diaolong",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“神韵”是王士禛独创",
+     "why": "其说承**司空图**与**严羽**，其功在“集成与择取”（专取清远），非独创。"
+    },
+    {
+     "claim": "其诗只有“清远”一格",
+     "why": "其亦有沉着之作（如《秋柳》）；然其自选以清远为主，故后人遂以一格概其全体。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>王士禛：神韵与清远</text><defs><marker id='aWS' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>诗之感人不在铺陈</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而在言外之余味</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故以含蓄清远为极致</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故选本亦是一种批评</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aWS)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aWS)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "王士禛：“神韵”说与以选本立标准（示意图）",
+   "sources": [
+    "ws-wenxin-diaolong",
+    "sep-chinese-metaphysics",
+    "ct-zhuangzi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "王士禛无 SEP 专条（已试 wang-shizhen，404）；本页依《清史稿》文苑传、《唐贤三昧集》与《带经堂诗话》（戴鸿森校点本），**属语境性引用而非专门研究**。其生卒（1634—1711）与仕历须核。",
+   "doctrine": {
+    "summary": "王士禛以“神韵”说主盟诗坛数十年：承司空图与严羽而专取“清远”，以“不着一字，尽得风流”为极致；其方法不只在论说，更在选本（《唐贤三昧集》专取清远）——故其诗学是“以选目立标准”的实践型诗学。",
+    "system": [
+     {
+      "name": "神韵",
+      "content": "诗之妙在言外之余味，故以含蓄清远为极致。"
+     },
+     {
+      "name": "清远",
+      "content": "其择取的取向：冲淡、蕴藉、不著力；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以选本立标准",
+      "content": "选目的去取本身即评价，故诗学可实践地行之。"
+     },
+     {
+      "name": "兴会",
+      "content": "诗成于一时之兴，非关学力之多少；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "新城与北京（1634—1711）",
+      "change": "顺治十五年进士；官至刑部尚书；主盟诗坛数十年；1688 年成《唐贤三昧集》；约 1701 年《池北偶谈》；1711 年卒。"
+     }
+    ],
+    "reception": "其神韵说主盟清初诗坛数十年，遂有沈德潜“格调”与袁枚“性灵”的相继而起（皆针对其说）；其选本与诗话至今为清代诗学研究的枢纽。"
+   },
+   "works_detail": [
+    {
+     "title": "《唐贤三昧集》",
+     "structure": "三卷：选盛唐四十二家之诗，专取清远蕴藉之作。",
+     "core_thesis": "以选本立神韵的标准；这是该书的核心命题。",
+     "editions": "《王士禛全集》本",
+     "note": "1688 年"
+    }
+   ]
   }
  ],
  "concepts": [

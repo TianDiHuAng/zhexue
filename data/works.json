@@ -20432,6 +20432,64 @@
    "sort_year": 1685
   },
   {
+   "id": "work-tangxian-sanmei-ji",
+   "title": "《唐贤三昧集》",
+   "title_original": "唐賢三昧集",
+   "tradition": "china",
+   "date_display": "清（王士禛编，1634—1711；1688年成）",
+   "structure": "三卷：选盛唐王维、孟浩然等四十二家之诗，以“神韵”为准，专取清远蕴藉之作。",
+   "core_arguments": [
+    "以“三昧”为选诗之准：取诗之“入禅”者（清远、含蓄）",
+    "以盛唐为宗而专取一格：不及李杜的雄奇，专主王孟的清远",
+    "选本即批评：以选目立其诗学的标准"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上",
+     "point": "王维与清远一格"
+    },
+    {
+     "locator": "卷中",
+     "point": "孟浩然诸家"
+    },
+    {
+     "locator": "卷下",
+     "point": "盛唐余响"
+    },
+    {
+     "locator": "全书",
+     "point": "以选本立标准"
+    }
+   ],
+   "editions": [
+    "《王士禛全集》本；清康熙刻本"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-shizhen",
+    "cn-songming-yan-yu",
+    "cn-suitang-sikong-tu",
+    "cn-nanbei-zhongrong"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“唐诗选本”",
+     "why": "其选目是**批评的宣言**：专取清远一格而略去李杜的雄奇，故其性质是“以选本立标准”，非求全的选本。"
+    },
+    {
+     "claim": "“三昧”是佛教的术语借用而已",
+     "why": "其“三昧”指诗之“入神”处（含蓄不尽），承严羽“妙悟”之说；故其为**诗学的范畴**，非仅借词。"
+    }
+   ],
+   "sources": [
+    "ws-wenxin-diaolong",
+    "sep-chinese-metaphysics",
+    "ct-zhuangzi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《唐贤三昧集》的卷数与所选家数（通行三卷四十二家）须核康熙刻本与《王士禛全集》本；“三昧”说的渊源亦须核。",
+   "sort_year": 1688
+  },
+  {
    "id": "work-two-treatises",
    "title": "《政府论》两篇",
    "title_original": "Two Treatises of Government",
@@ -20920,9 +20978,9 @@
     "人民文学出版社《带经堂诗话》（戴鸿森校点）"
    ],
    "related_people": [
+    "cn-qingmod-wang-shizhen",
     "cn-songming-yan-yu",
-    "cn-suitang-sikong-tu",
-    "cn-nanbei-zhongrong"
+    "cn-suitang-sikong-tu"
    ],
    "misreadings": [
     {
@@ -20942,6 +21000,64 @@
    "needs_verification": true,
    "pending_notes": "《带经堂诗话》为张宗枏辑本（三十卷），其门类与王士禛原文的对应须核戴鸿森校点本；“神韵”说的渊源亦须核。",
    "sort_year": 1700
+  },
+  {
+   "id": "work-chibei-outan",
+   "title": "《池北偶谈》",
+   "title_original": "池北偶談",
+   "tradition": "china",
+   "date_display": "清（王士禛；1701年前后）",
+   "structure": "二十六卷：分“谈故”“谈献”“谈艺”“谈异”四目，记朝章典故、人物言行、诗文书画与志怪。",
+   "core_arguments": [
+    "“谈艺”一目为其诗学的散见处：以“神韵”评历代诗人",
+    "“谈故”“谈献”存一代的典章与人物",
+    "“谈异”存志怪，见其博洽与好奇"
+   ],
+   "key_points": [
+    {
+     "locator": "谈故",
+     "point": "朝章典故"
+    },
+    {
+     "locator": "谈献",
+     "point": "人物言行"
+    },
+    {
+     "locator": "谈艺",
+     "point": "神韵与诗评"
+    },
+    {
+     "locator": "谈异",
+     "point": "志怪与见闻"
+    }
+   ],
+   "editions": [
+    "中华书局《池北偶谈》（靳斯仁点校）"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-shizhen",
+    "cn-songming-yan-yu",
+    "cn-suitang-sikong-tu",
+    "cn-nanbei-zhongrong"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“笔记小说”",
+     "why": "其四目之中“谈故”“谈献”“谈艺”皆为**学术与史料**（典章、人物、诗评），只有“谈异”近于志怪；故其书是“笔记”而非小说。"
+    },
+    {
+     "claim": "其“谈艺”只是随感",
+     "why": "其评诗自有标准（神韵、清远），且与《唐贤三昧集》的选目相合；故其随感之中有一贯的主张。"
+    }
+   ],
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ws-zhuzi-yulei",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《池北偶谈》的卷数与四目（通行二十六卷）须核靳斯仁点校本；其“谈艺”与《带经堂诗话》的关系亦须分辨。",
+   "sort_year": 1701
   },
   {
    "id": "work-treatise-berkeley",
@@ -20997,6 +21113,64 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1710
+  },
+  {
+   "id": "work-yuyang-jinghualu",
+   "title": "《渔洋山人精华录》",
+   "title_original": "漁洋山人精華錄",
+   "tradition": "china",
+   "date_display": "清（王士禛；门人林佶写刻，1710年前后）",
+   "structure": "十卷：其诗的自选精华，分古体与今体二类，由其门人林佶写刻行世，为清写刻本的精品。",
+   "core_arguments": [
+    "自选其诗：以“神韵”为去取之准",
+    "清远冲淡为主调：以山水、怀人、题画为多",
+    "以“兴会”为诗之所由：不假雕饰"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—四",
+     "point": "古体诸作"
+    },
+    {
+     "locator": "卷五—十",
+     "point": "今体诸作"
+    },
+    {
+     "locator": "题画诸作",
+     "point": "清远之境"
+    },
+    {
+     "locator": "全书",
+     "point": "自选以立标准"
+    }
+   ],
+   "editions": [
+    "《王士禛全集》本；清写刻本"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-shizhen",
+    "cn-songming-yan-yu",
+    "cn-suitang-sikong-tu",
+    "cn-nanbei-liuxie"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“全集”",
+     "why": "其书是**自选的精华**（十卷），非全集；故其去取本身即是一种诗学的表态。"
+    },
+    {
+     "claim": "其诗只有“清远”一格",
+     "why": "其亦有沉着痛快之作（如《秋柳》诸篇）；然其自选以清远为主，故后人遂以其一格概其全体。"
+    }
+   ],
+   "sources": [
+    "ws-wenxin-diaolong",
+    "sep-chinese-metaphysics",
+    "ct-zhuangzi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《渔洋山人精华录》的卷数与写刻者（林佶）须核《王士禛全集》本；“自选”的去取标准亦须核。",
    "sort_year": 1710
   },
   {

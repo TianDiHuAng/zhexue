@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1497,
+  "entries": 1503,
   "by_level": {
    "L2": 781,
-   "L1": 716
+   "L1": 722
   },
   "doctrine": {
-   "total": 298,
-   "detail": 298,
+   "total": 299,
+   "detail": 299,
    "auto": 0
   },
-  "needs_verification": 716,
+  "needs_verification": 722,
   "sources": 418,
   "sources_verified": 418
  },
@@ -30,7 +30,7 @@
    "title": "南北朝佛道与形神之争",
    "region": "china",
    "philosophers": 13,
-   "concepts": 27,
+   "concepts": 28,
    "debates": 6,
    "philosophers_slot": "8 上限，余 -5"
   },
@@ -38,10 +38,10 @@
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 30,
+   "philosophers": 31,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -22"
+   "philosophers_slot": "8 上限，余 -23"
   },
   {
    "unit_id": "cn-songming",
@@ -1188,6 +1188,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-nanbei-wenbi",
+   "type": "concept",
+   "title": "文笔",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-nanbei-debate-shenmie",
    "type": "debate",
    "title": "神灭与神不灭之争",
@@ -1576,6 +1587,17 @@
    "id": "cn-qingmod-ye-xie",
    "type": "philosopher",
    "title": "叶燮",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-wang-shizhen",
+   "type": "philosopher",
+   "title": "王士禛",
    "container": "cn-qingmod",
    "level": "L1",
    "sources": 3,
@@ -13211,6 +13233,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-tangxian-sanmei-ji",
+   "type": "work",
+   "title": "《唐贤三昧集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-two-treatises",
    "type": "work",
    "title": "《政府论》两篇",
@@ -13310,6 +13343,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-chibei-outan",
+   "type": "work",
+   "title": "《池北偶谈》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-treatise-berkeley",
    "type": "work",
    "title": "《人类知识原理》",
@@ -13318,6 +13362,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-yuyang-jinghualu",
+   "type": "work",
+   "title": "《渔洋山人精华录》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -16140,6 +16195,17 @@
    "id": "cmp-qingzhi",
    "type": "comparative",
    "title": "“情至”与“爱欲的阶梯”：情能通天吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shenyun",
+   "type": "comparative",
+   "title": "“神韵”与“气氛”：不可言说者如何被说出？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

@@ -2945,6 +2945,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“神思”的原文（《文心雕龙·神思》）须核通行校注本；“虚静”与“积学”的关系亦须核。"
+  },
+  {
+   "id": "cn-nanbei-wenbi",
+   "term": "文笔",
+   "term_latin": "the literary and the plain (wen and bi)",
+   "definition": "南北朝文论的一对范畴：“**文**”指有韵、重辞采者（诗赋等），“**笔**”指无韵、重实用者（章奏议论等）。其区分使“文学”开始从一般的“文章”中独立出来 —— 这是中国文学自觉的一个标志。",
+   "usages": [
+    {
+     "name": "刘勰（其辨）",
+     "id": "cn-nanbei-liuxie",
+     "usage": "《文心雕龙》分论文、叙笔，为其范畴的成立。"
+    },
+    {
+     "name": "钟嵘（其取）",
+     "id": "cn-nanbei-zhongrong",
+     "usage": "《诗品》专论五言诗，即取“文”的一边。"
+    },
+    {
+     "name": "萧统（其选）",
+     "usage": "《文选》以“事出于沉思，义归乎翰藻”为选文之准，取“文”的一边。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-yinxiu",
+    "cn-nanbei-shensi"
+   ],
+   "example": {
+    "text": "“文笔”之分看似技术（有韵／无韵），其后果却很大：一旦“文”与“笔”分开，**文学**就有了自己的领域与标准（辞采、情志），不必再以“载道”为唯一的衡量。故南北朝的“文学自觉”，其范畴的标志就是这一对字。",
+    "figure": "刘勰",
+    "locator": "《文心雕龙·总术》"
+   },
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“文笔”之分的确立（刘勰、萧绎等）与其后“文笔”渐混的过程须核相关研究；本页取其范畴义。"
   }
  ],
  "debates": [
