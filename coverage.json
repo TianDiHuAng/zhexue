@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1745,
+  "entries": 1748,
   "by_level": {
    "L2": 779,
-   "L1": 966
+   "L1": 969
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 966,
+  "needs_verification": 969,
   "sources": 423,
   "sources_verified": 423
  },
@@ -11462,6 +11462,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-contra-academicos",
+   "type": "work",
+   "title": "《驳学园派》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-soliloquia",
    "type": "work",
    "title": "《独语录》",
@@ -11652,6 +11663,17 @@
    "id": "work-de-doctrina-christiana",
    "type": "work",
    "title": "《论基督教教义》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-de-gratia-libero",
+   "type": "work",
+   "title": "《论恩典与自由意志》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -18868,6 +18890,17 @@
    "id": "cmp-kuangren",
    "type": "comparative",
    "title": "“大禁闭”与“狂者进取”：理性如何对待它的他者？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-zhenli-kezhi",
+   "type": "comparative",
+   "title": "“无可确定”与“多闻阙疑”：怀疑该走到哪一步？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

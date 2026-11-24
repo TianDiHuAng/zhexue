@@ -9722,6 +9722,64 @@
    "sort_year": 386
   },
   {
+   "id": "work-contra-academicos",
+   "title": "《驳学园派》",
+   "title_original": "Contra Academicos（De academicis）",
+   "tradition": "west",
+   "date_display": "386（奥古斯丁；最早的著作之一）",
+   "structure": "三卷（对话体）：与友人就“真理可否被认识”往复辩难，末卷以反驳学园派的论据作结。",
+   "core_arguments": [
+    "学园派（新学院）主张“**无可确定**”（一切皆可疑）",
+    "奥古斯丁以“**我若被骗，则我存在**”回应：怀疑本身以存在为前提",
+    "故须区分“**怀疑一切**”与“**无可确定**”：怀疑不为结论",
+    "以“**幸福在于真理**”为归：故须为真理的可能辩护"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "幸福与真理"
+    },
+    {
+     "locator": "卷二",
+     "point": "学园派的论据"
+    },
+    {
+     "locator": "卷三",
+     "point": "反驳与结论"
+    },
+    {
+     "locator": "全书",
+     "point": "以对话行辩难"
+    }
+   ],
+   "editions": [
+    "拉丁文本（CCSL 29）；英译（Against the Academicians, Hackett）；中译少见"
+   ],
+   "related_people": [
+    "gr-medieval-augustine",
+    "gr-hellenistic-sextus",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“我若被骗则我存在”是笛卡尔的“我思”",
+     "why": "二者相似而不同：奥古斯丁以此**反驳学园派的无可确定**（确立真理的可能），笛卡尔则以之为**体系的起点**（确立清楚分明的标准）；故须分辨其语境与用途。"
+    },
+    {
+     "claim": "其书是“反哲学的”",
+     "why": "其书以**对话与论证**为法，为真理的可能辩护；故其为哲学的著作，非取消哲学。"
+    }
+   ],
+   "sources": [
+    "sep-augustine",
+    "sep-skepticism-ancient",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《驳学园派》三卷与 386 年成书须核 CCSL 29；“我若被骗则我存在”一语的原文位置亦须核，其与笛卡尔的异同须分辨。",
+   "sort_year": 386
+  },
+  {
    "id": "work-soliloquia",
    "title": "《独语录》",
    "title_original": "Soliloquia",
@@ -10741,6 +10799,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《论基督教教义》前后两半（396 与 426）的体例与侧重不同；本页依 CCSL 32 与 SEP 词条概述，具体卷次须核。",
+   "sort_year": 426
+  },
+  {
+   "id": "work-de-gratia-libero",
+   "title": "《论恩典与自由意志》",
+   "title_original": "De gratia et libero arbitrio",
+   "tradition": "west",
+   "date_display": "426—427（奥古斯丁）",
+   "structure": "一部（凡数章）：答友人之问，先立自由意志的实在，再论恩典的必要，末言二者并存。",
+   "core_arguments": [
+    "**自由意志**是实在的（故罪责在人）",
+    "而**恩典**是必需的（故善行非人自力所成）",
+    "故“**恩典不废自由，乃立之**”：二者不相反"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "自由意志的实在"
+    },
+    {
+     "locator": "中段",
+     "point": "恩典的必要"
+    },
+    {
+     "locator": "末段",
+     "point": "二者并存"
+    },
+    {
+     "locator": "全书",
+     "point": "以答辩体行文"
+    }
+   ],
+   "editions": [
+    "拉丁文本（PL 44／CSEL）；英译见 Augustine: Later Works；中译少见"
+   ],
+   "related_people": [
+    "gr-medieval-augustine",
+    "gr-medieval-aquinas",
+    "gr-modern-luther"
+   ],
+   "misreadings": [
+    {
+     "claim": "其说是“决定论”",
+     "why": "其说坚持**自由意志的实在**（故罪责在人），故其为“恩典与自由并存”之说，非决定论；而其晚期的“预定”之论确曾引起长期争论，须并述。"
+    },
+    {
+     "claim": "其“恩典”是“外部的奖赏”",
+     "why": "其“恩典”是**内在的转变**（使人能行善），故其为神学的范畴，非外部的报酬。"
+    }
+   ],
+   "sources": [
+    "sep-augustine",
+    "sep-aquinas",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论恩典与自由意志》的成书（426—427）与 PL 44 文本须核；其晚期“预定”之论与本书的关系须并述而不裁定。中译少。",
    "sort_year": 426
   },
   {
