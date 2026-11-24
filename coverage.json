@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1674,
+  "entries": 1676,
   "by_level": {
    "L2": 779,
-   "L1": 895
+   "L1": 897
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 895,
+  "needs_verification": 897,
   "sources": 420,
   "sources_verified": 420
  },
@@ -14157,6 +14157,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-nouveaux-essais",
+   "type": "work",
+   "title": "《人类知识新论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-new-theory-vision",
    "type": "work",
    "title": "《视觉新论》",
@@ -18087,6 +18098,17 @@
    "id": "cmp-gongju",
    "type": "comparative",
    "title": "“工具理性”与“以理化情”：理性用错了会伤什么？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-jiejing",
+   "type": "comparative",
+   "title": "“借英国论法国”与“以夷攻夷”：拿别人做镜子，照见什么？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

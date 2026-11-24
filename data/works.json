@@ -11736,6 +11736,7 @@
     "汤用彤校注《高僧传》（中华书局）；《大正藏》第50卷"
    ],
    "related_people": [
+    "cn-nanbei-huijiao",
     "cn-weijin-sengzhao",
     "cn-weijin-huiyuan",
     "cn-suitang-zhiyi"
@@ -23628,6 +23629,63 @@
    "needs_verification": true,
    "pending_notes": "《池北偶谈》的卷数与四目（通行二十六卷）须核靳斯仁点校本；其“谈艺”与《带经堂诗话》的关系亦须分辨。",
    "sort_year": 1701
+  },
+  {
+   "id": "work-nouveaux-essais",
+   "title": "《人类知识新论》",
+   "title_original": "Nouveaux essais sur l'entendement humain",
+   "tradition": "west",
+   "date_display": "1704 成稿（莱布尼茨；1765 刊行）",
+   "structure": "四卷：依洛克《人类理智论》的四卷次第，以对话体（菲拉莱特与提奥菲勒）逐章商榷。",
+   "core_arguments": [
+    "反对“白纸”说：心灵有其**禀赋**（“大理石的花纹”之喻）",
+    "“**充足理由**”原则：无物无理而存在",
+    "“**前定和谐**”：身心之间由神预定其相应"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "驳天赋观念之驳"
+    },
+    {
+     "locator": "卷二",
+     "point": "观念与禀赋"
+    },
+    {
+     "locator": "卷三",
+     "point": "语言"
+    },
+    {
+     "locator": "卷四",
+     "point": "知识与或然"
+    }
+   ],
+   "editions": [
+    "法文（Gerhardt 编）；英译（New Essays, Cambridge）；中译参《人类理解新论》（陈修斋译）"
+   ],
+   "related_people": [
+    "gr-modern-leibniz",
+    "gr-modern-locke",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“禀赋”说是回到天赋观念",
+     "why": "其“禀赋”以**倾向与潜能**为说（大理石的花纹须经琢磨），与“现成的天赋观念”有别；故其为折中，而非复归。"
+    },
+    {
+     "claim": "其书是“对洛克的驳论”",
+     "why": "其书**逐章商榷而多有吸收**（承认经验的作用），故其为对话式的折中，非单面的驳论。"
+    }
+   ],
+   "sources": [
+    "sep-leibniz",
+    "sep-locke",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《人类知识新论》四卷与 1704 成稿／1765 刊行须核 Gerhardt 编本与陈修斋译本；“大理石的花纹”之喻的原文亦须核。",
+   "sort_year": 1704
   },
   {
    "id": "work-new-theory-vision",
