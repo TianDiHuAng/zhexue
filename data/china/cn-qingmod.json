@@ -3010,6 +3010,301 @@
      "note": "1921 年讲演，1922 年出版"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-zhang-zhidong",
+   "name": "张之洞",
+   "latin": "Zhang Zhidong",
+   "birth_year": 1837,
+   "death_year": 1909,
+   "birth_display": "1837年",
+   "death_display": "1909年",
+   "birth_note": "据《清史稿》本传：直隶南皮人，同治进士，历任两广、湖广总督，办洋务（汉阳铁厂、自强学堂等）。",
+   "death_note": "1909年卒，谥文襄（《清史稿》本传）。",
+   "era": "晚清自强运动与“中体西用”论的集大成者。其《劝学篇》（1898）以“旧学为体，新学为用”为纲：伦常名教不可动（体），西学的技艺与制度可学（用）。其锋芒是针对康梁的“民权”之说——他明言“正权”不可行。故其思想的位置是：在“变法”与“守纲常”之间取一折中，而这一折中在戊戌之后成为官方话语。",
+   "school": "晚清自强运动（中体西用）",
+   "core_questions": [
+    "西学可否在不触动纲常的前提下被采用？",
+    "变法应当有序还是彻底？",
+    "民权是否适合当时的中国？"
+   ],
+   "arguments": [
+    {
+     "claim": "旧学为体，新学为用：体用可以分开取用",
+     "premises": [
+      "伦常名教是立国之本（体），不可与技艺同科。",
+      "而西学的技艺与制度有其实效（用）。"
+     ],
+     "inference": "若本与用可分，则可取他人之用而安于自己之体；故其方案是“**取用而不换体**”。这一思路的关键前提是体用二分。",
+     "conclusion": "中体西用（此说成为晚清官方话语）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "变法须有序：先立本而后求用",
+     "premises": [
+      "民权之说若先行，则纲常先坏。",
+      "而纲常坏则国无以立。"
+     ],
+     "inference": "若本先坏则用无所附，故变法须以“立本”为先；此说使其外篇的“变科举、设学制”成为**手段**而非目的。",
+     "conclusion": "有序变法（此说与康梁的激进变法相对）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《劝学篇》",
+     "edition": "中华书局《劝学篇》（李忠兴评注）；维基文库本",
+     "note": "1898"
+    },
+    {
+     "title": "《张文襄公全集》",
+     "edition": "中国书店影印本（版次待核）",
+     "note": "民国刊"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "冯桂芬（其先例）",
+     "id": null,
+     "note": "“以中国之伦常名教为原本，辅以诸国富强之术”已开其端"
+    },
+    {
+     "name": "曾国藩、李鸿章（其同僚）",
+     "id": null,
+     "note": "洋务运动的政治同路人"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "梁启超（其论敌）",
+     "id": "cn-qingmod-liang-qichao",
+     "note": "以“新民”论与之相对"
+    },
+    {
+     "name": "严复（其批评者）",
+     "id": "cn-qingmod-yan-fu",
+     "note": "讥其“牛体马用”"
+    },
+    {
+     "name": "晚清学制改革",
+     "id": null,
+     "note": "其“设学制”之议部分被采纳"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "严复",
+     "view": "指其体用二分为自相矛盾：“牛之体不能为马之用”；若体真为体，则用必由其体而生，不能取他体之用。",
+     "response": "张之洞一系可答：体用之分是**功能性的**（同一器物可为不同之体所用），故不必是本体论的二分。此辩至今未有定论。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-quanxue-pian",
+      "ws-mingyi"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“中体西用”是张之洞首创",
+     "why": "此说在 1860—90 年代已流行（冯桂芬、郑观应、沈寿康等皆有类似表述）；其贡献是系统化与政治化。"
+    },
+    {
+     "claim": "《劝学篇》是“全盘保守”",
+     "why": "其外篇力主游学、译书、变科举、设学制，是变法方案；其保守之处在“正权”与“明纲”，不在拒绝西学。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>张之洞：中体西用</text><defs><marker id='aZZ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>旧学为体（纲常名教）</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>新学为用（技艺制度）</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故取用而不换体</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故变法须有序</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aZZ)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aZZ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "张之洞：“旧学为体，新学为用”（示意图）",
+   "sources": [
+    "ws-quanxue-pian",
+    "ws-qingshigao",
+    "sep-qing-philosophy"
+   ],
+   "needs_verification": true,
+   "pending_notes": "张之洞无 SEP 专条（已试 zhang-zhidong，404）；本页依《清史稿》本传、维基文库《劝学篇》原文与 SEP“清代哲学”词条，**属语境性引用而非专门研究**。其生卒（1837—1909）与仕历须核《清史稿》。",
+   "doctrine": {
+    "summary": "张之洞以《劝学篇》立“中体西用”之论：旧学（伦常名教）为体，新学（西学技艺与制度）为用。其说的关键是**体用二分**——取用而不换体；其政治锋芒则针对康梁的“民权”（他明言“正权”不可行）。故其位置是“在变法与守纲常之间取一折中”，而这一折中在戊戌后成为官方话语，也在严复“牛体马用”的批评下暴露其理论困难。",
+    "system": [
+     {
+      "name": "中体西用",
+      "content": "旧学为体，新学为用；体用可分；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "正权不可行",
+      "content": "民权之说若先行，则纲常先坏；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "有序变法",
+      "content": "先立本而后求用；变科举、设学制为手段；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "知类",
+      "content": "辨华夷与名教之本，以御“邪说”；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "南皮与湖广（1837—1909）",
+      "change": "同治二年进士；历任浙江、两广、湖广总督；办汉阳铁厂、自强学堂；1898 年《劝学篇》；1907 年入阁；1909 年卒。"
+     }
+    ],
+    "reception": "“中体西用”成为晚清官方话语，影响学制与科举改革；其说在严复的批评下暴露体用二分的困难，成为近代中西文化争论的原型。"
+   },
+   "works_detail": [
+    {
+     "title": "《劝学篇》",
+     "structure": "内篇九、外篇十五：内篇立本（同心、明纲、正权等），外篇致用（益智、游学、变法、变科举等）。",
+     "core_thesis": "旧学为体，新学为用；这是该书的核心命题。",
+     "editions": "中华书局评注本；维基文库本",
+     "note": "1898 年"
+    }
+   ]
+  },
+  {
+   "id": "cn-qingmod-zou-rong",
+   "name": "邹容",
+   "latin": "Zou Rong",
+   "birth_year": 1885,
+   "death_year": 1905,
+   "birth_display": "1885年",
+   "death_display": "1905年",
+   "birth_note": "据《清史稿》与相关记载：四川巴县人，留学日本，1903 年著《革命军》，因“苏报案”入狱，1905 年死于狱中，年二十。",
+   "death_note": "1905年卒于上海狱中（年二十）。",
+   "era": "清末革命宣传的代表人物。其《革命军》（1903）以“天演”为革命的根据，倡“去奴隶之根性”，并以“中华共和国”为目标。其说之激烈（排满）与年寿之短（二十岁）使其成为革命思潮的象征；而其“革命”概念的进化论色彩，也须与后世的政治革命相分辨。",
+   "school": "清末革命思潮（进化论与共和）",
+   "core_questions": [
+    "革命何以正当？",
+    "何以须先去“奴隶之根性”？",
+    "革命之后应立何种政体？"
+   ],
+   "arguments": [
+    {
+     "claim": "革命者，天演之公例",
+     "premises": [
+      "天演（进化）是普遍的法则。",
+      "而革命是“去旧迎新”的必然过程。"
+     ],
+     "inference": "若革命是天演的法则，则其为**必然**而非选择；故其正当性来自“顺应天演”，而非来自契约或权利。这一论证带有强烈的社会达尔文主义色彩。",
+     "conclusion": "以天演证革命（此说为其时代语汇的特征）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "先去奴隶之根性，而后能革制度",
+     "premises": [
+      "制度之弊源于人心之奴隶性（顺从、观望、依赖）。",
+      "而心不改则制度虽变亦复旧。"
+     ],
+     "inference": "若奴隶性是制度之根，则革命须先革心；故其说是“心的革命”先于“制度的革命”。",
+     "conclusion": "去奴隶之根性（此说为其最具思想性之处）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《革命军》",
+     "edition": "中华书局《邹容文集》；维基文库本",
+     "note": "1903"
+    },
+    {
+     "title": "《邹容文集》",
+     "edition": "中华书局点校本（版次待核）",
+     "note": "今人编"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "梁启超（其启蒙）",
+     "id": "cn-qingmod-liang-qichao",
+     "note": "其“新民”之说影响了邹容一代"
+    },
+    {
+     "name": "章太炎（其同调）",
+     "id": "cn-qingmod-zhang-taiyan",
+     "note": "同为革命派，章更长于学术"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "革命派（其影响）",
+     "id": null,
+     "note": "《革命军》为辛亥前流传最广的革命读物之一"
+    },
+    {
+     "name": "“奴隶性”批判",
+     "id": null,
+     "note": "成为后世国民性批判的先声"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "立宪派（隐含）",
+     "view": "指其以“天演”证革命为以自然法则取代政治论证：若革命是必然，则无所谓正当与否。",
+     "response": "邹容一系的回应是：天演只说明“势必如此”，而“应当如此”仍须由奴隶性的去除与共和的建立来支撑；故其说并非纯粹的必然论。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-geming-jun",
+      "ws-xinmin-shuo"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《革命军》只是“排满”的宣传",
+     "why": "其内容含政体构想（中华共和国）与心性批判（奴隶性），故不止于种族排外；但排满表述十分激烈，须如实标出。"
+    },
+    {
+     "claim": "其“革命”与后世政治革命同义",
+     "why": "其“革命”以“天演”为根据（进化论的必然），带有社会达尔文主义色彩；故须分辨其时代语汇。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>邹容：天演与去奴隶之根性</text><defs><marker id='aZR' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>革命者天演之公例</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故革命是必然</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>而奴隶性为制度之根</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故须先革心</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aZR)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aZR)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "邹容：以“天演”证革命与“去奴隶之根性”（示意图）",
+   "sources": [
+    "ws-geming-jun",
+    "ws-qingshigao",
+    "ws-xinmin-shuo"
+   ],
+   "needs_verification": true,
+   "pending_notes": "邹容无 SEP 专条（已试 zou-rong，404）；本页依《革命军》原文（维基文库）、《清史稿》相关记载与梁启超《新民说》为语境，**属语境性引用而非专门研究**。其生卒（1885—1905）与苏报案经过须核。",
+   "doctrine": {
+    "summary": "邹容以《革命军》立革命之论：以“天演”为革命的根据（故革命是必然），以“去奴隶之根性”为革命的先决（故须先革心），以“中华共和国”为目标。其说的力量在激烈与年轻，其弱点在以自然法则取代政治论证（立宪派的批评）。",
+    "system": [
+     {
+      "name": "天演即革命",
+      "content": "革命是天演的法则，故为必然；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "去奴隶之根性",
+      "content": "制度之弊源于人心之顺从，故须先革心；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "中华共和国",
+      "content": "革命之后的目标政体；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "排满",
+      "content": "以种族为革命的动员语汇（须如实标出）；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "巴县、东京与上海（1885—1905）",
+      "change": "1901 年赴日留学；1903 年著《革命军》，因“苏报案”入狱；1905 年死于狱中，年二十。"
+     }
+    ],
+    "reception": "《革命军》为辛亥前流传最广的革命读物之一，其“奴隶性”批判成为后世国民性批判的先声；其以“天演”证革命的方式，也成为近代中国进化论思潮的标本。"
+   },
+   "works_detail": [
+    {
+     "title": "《革命军》",
+     "structure": "七章：绪论、革命之原因、革命之教育、必剖清人种、必先去奴隶之根性、革命独立之大义、结论。",
+     "core_thesis": "革命是天演之公例，须先去奴隶之根性。",
+     "editions": "中华书局《邹容文集》；维基文库本",
+     "note": "1903 年"
+    }
+   ]
   }
  ],
  "concepts": [

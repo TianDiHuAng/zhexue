@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1362,
+  "entries": 1364,
   "by_level": {
    "L2": 781,
-   "L1": 581
+   "L1": 583
   },
   "doctrine": {
-   "total": 272,
-   "detail": 272,
+   "total": 274,
+   "detail": 274,
    "auto": 0
   },
-  "needs_verification": 581,
-  "sources": 413,
-  "sources_verified": 413
+  "needs_verification": 583,
+  "sources": 416,
+  "sources_verified": 416
  },
  "units": [
   {
@@ -38,10 +38,10 @@
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 19,
+   "philosophers": 21,
    "concepts": 21,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -11"
+   "philosophers_slot": "8 上限，余 -13"
   },
   {
    "unit_id": "cn-songming",
@@ -1345,6 +1345,28 @@
    "id": "cn-qingmod-liang-shuming",
    "type": "philosopher",
    "title": "梁漱溟",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-zhang-zhidong",
+   "type": "philosopher",
+   "title": "张之洞",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-zou-rong",
+   "type": "philosopher",
+   "title": "邹容",
    "container": "cn-qingmod",
    "level": "L1",
    "sources": 3,
