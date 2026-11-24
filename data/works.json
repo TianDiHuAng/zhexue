@@ -11506,6 +11506,10 @@
     {
      "claim": "作者法琳因该书被处死",
      "why": "法琳确因护教获罪（与傅奕之争），但其结局（流放途中卒）与《辨正论》的关系须分辨，不宜简化。"
+    },
+    {
+     "claim": "它是一部纯粹的“护教宣传”",
+     "why": "其论证大量依赖**史传与经录**（如《老子化胡经》的源流考辨），故其性质是“以文献为据的论争”；其失误在于史料取舍的偏向，而非全无根据。"
     }
    ],
    "sources": [
@@ -11515,6 +11519,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《辨正论》的卷数（通行8卷12篇）与法琳的生平结局（流放途中卒）须核《大正藏》第52卷与唐代佛教史研究；其破“老子化胡”的具体论据须逐条核对。",
+   "sort_year": 626
+  },
+  {
+   "id": "work-xingshi-chao",
+   "title": "《四分律行事钞》",
+   "title_original": "四分律刪繁補闕行事鈔",
+   "tradition": "china",
+   "date_display": "唐（道宣，596—667；约626年成书）",
+   "structure": "三卷（通行本分三十篇）：上卷论僧团的行事（受戒、结界、安居等），中卷论各种行事（说戒、自恣、衣药等），下卷论“诸部杂行”与“瞻病送终”。",
+   "core_arguments": [
+    "以**止持**（不作即持）与**作持**（作即持）两分统摄戒律",
+    "以《四分律》为主，而以“大乘”之意解之（三聚净戒的会通）",
+    "以“行事”为准：戒律须落到僧团的具体作法"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上",
+     "point": "受戒与结界"
+    },
+    {
+     "locator": "卷中",
+     "point": "说戒、自恣、衣药"
+    },
+    {
+     "locator": "卷下",
+     "point": "诸部杂行"
+    },
+    {
+     "locator": "全书",
+     "point": "止持与作持"
+    }
+   ],
+   "editions": [
+    "《大正藏》第40卷；中华书局《行事钞》点校本（若有）"
+   ],
+   "related_people": [
+    "cn-suitang-kuiji",
+    "cn-nanbei-baochang",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《行事钞》是把《四分律》抄录一遍",
+     "why": "它“删繁补阙”：以《四分律》为主而**统摄诸部**，并以大乘意解之；故其性质是“律学的重构”，不是抄录。"
+    },
+    {
+     "claim": "道宣只依《四分律》而排斥他部",
+     "why": "其书大量引他部律（《十诵》《僧祇》等）以补《四分律》之不足；故其方法是“会通”，不是排他。"
+    }
+   ],
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "ws-gaoseng-zhuan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《行事钞》的卷数与篇数（通行三卷三十篇）须核《大正藏》第40卷；其与《四分律删补随机羯磨》的分工亦须分辨。",
    "sort_year": 626
   },
   {
@@ -11971,6 +12032,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《集古今佛道论衡》的卷数（通行四卷）与成书年代（约664）须核《大正藏》第52卷；其评断的立场须批判地读。",
+   "sort_year": 664
+  },
+  {
+   "id": "work-datang-neidian-lu",
+   "title": "《大唐内典录》",
+   "title_original": "大唐內典錄",
+   "tradition": "china",
+   "date_display": "唐（道宣，664年）",
+   "structure": "十卷：录历代译经与著述，分“历代众经传译所从出”“历代翻本单重人代存亡”“历代众经总撮入藏”“历代众经举要转读”“历代众经有目阙本”“历代道俗述作”“历代诸经支派陈化”“历代所出疑伪经论”“历代众经录目终始”“历代众经应感兴敬”十门。",
+   "core_arguments": [
+    "以十门分类，使经录兼具目录学与史学的功能",
+    "辨“疑伪经”：以译者、文风、内容相参",
+    "“入藏录”确立佛典的经典地位"
+   ],
+   "key_points": [
+    {
+     "locator": "卷1—5",
+     "point": "传译与单重"
+    },
+    {
+     "locator": "卷6—7",
+     "point": "入藏与举要"
+    },
+    {
+     "locator": "卷8",
+     "point": "道俗述作"
+    },
+    {
+     "locator": "卷9—10",
+     "point": "疑伪与应感"
+    }
+   ],
+   "editions": [
+    "《大正藏》第55卷"
+   ],
+   "related_people": [
+    "cn-nanbei-sengyou",
+    "cn-suitang-kuiji",
+    "cn-suitang-xuanzang"
+   ],
+   "misreadings": [
+    {
+     "claim": "经录只是“书目”",
+     "why": "其十门兼含“传译所从出”（译史）与“疑伪”（辨伪），故它是**目录学与史学的合一**；不是单纯书目。"
+    },
+    {
+     "claim": "“疑伪经”的判定是随意的",
+     "why": "其判定须参译者、文风、内容与经录的传承；故其为后世（尤其近代疑伪经研究）的方法先声。"
+    }
+   ],
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "ws-gaoseng-zhuan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《大唐内典录》的十门名目与卷数须核《大正藏》第55卷；其“疑伪”判定的具体条目亦须逐条核。",
    "sort_year": 664
   },
   {

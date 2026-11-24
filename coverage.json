@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1371,
+  "entries": 1375,
   "by_level": {
    "L2": 781,
-   "L1": 590
+   "L1": 594
   },
   "doctrine": {
    "total": 276,
    "detail": 276,
    "auto": 0
   },
-  "needs_verification": 590,
+  "needs_verification": 594,
   "sources": 418,
   "sources_verified": 418
  },
@@ -30,7 +30,7 @@
    "title": "南北朝佛道与形神之争",
    "region": "china",
    "philosophers": 12,
-   "concepts": 19,
+   "concepts": 20,
    "debates": 6,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -1081,6 +1081,17 @@
    "id": "cn-nanbei-yishu",
    "type": "concept",
    "title": "义疏",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-zhichi-zuochi",
+   "type": "concept",
+   "title": "止持作持",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -11033,6 +11044,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-xingshi-chao",
+   "type": "work",
+   "title": "《四分律行事钞》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-xugaoseng-zhuan",
    "type": "work",
    "title": "《续高僧传》",
@@ -11113,6 +11135,17 @@
    "id": "work-ji-guijin-fodao",
    "type": "work",
    "title": "《集古今佛道论衡》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-datang-neidian-lu",
+   "type": "work",
+   "title": "《大唐内典录》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -14754,6 +14787,17 @@
    "id": "cmp-shuoshi",
    "type": "comparative",
    "title": "“师说”与“我思”：权威在文本里还是在心里？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-zhichi",
+   "type": "comparative",
+   "title": "止持作持与“礼之节文”：规范靠禁还是靠作？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
