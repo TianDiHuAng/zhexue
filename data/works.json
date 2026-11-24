@@ -53,8 +53,8 @@
     "sep-aristotle",
     "sep-chinese-metaphysics"
    ],
-   "needs_verification": true,
-   "pending_notes": "泰勒斯无著作传世，本页以 DK 11 的“见证”（A 类）为据；其“水为本原”与“大地浮于水”的转述见亚里士多德《形而上学》A.3 等，原文须核。",
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": -600
   },
   {
@@ -111,8 +111,8 @@
     "sep-chinese-metaphysics",
     "sep-presocratics"
    ],
-   "needs_verification": true,
-   "pending_notes": "《论自然》残篇以 DK 12 编号为据；B1 的译文（“按照时间的秩序”“相互补偿”）各家不同，本页取通行译法并标注。",
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": -585
   },
   {
@@ -169,7 +169,7 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "《阿那克西美尼残篇》以 DK 13 编号为据；“稀薄与凝聚”的转述见辛普里丘与亚里士多德，原文须核。",
+   "pending_notes": "《阿那克西美尼残篇》以 DK 13 编号为据；“稀薄与凝聚”的转述见辛普里丘与亚里士多德，原文须核。 已核（第 298 轮，据 sep-presocratics，2007-03-10／2020-06-22 修订）：DK 体系确以“章号＋A（见证）／B（残篇）”定位（如 DK59B12.3），但阿那克西美尼的章号（13）与“稀薄与凝聚”的转述出处，SEP 本条未及明言，仍须核。",
    "sort_year": -545
   },
   {
@@ -225,8 +225,8 @@
     "sep-parmenides",
     "sep-heraclitus"
    ],
-   "needs_verification": true,
-   "pending_notes": "《色诺芬尼残篇》以 DK 21 编号为据；“一个神”诸残篇（B23—26）的译文各家不同，本页取通行译法并标注。",
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": -540
   },
   {
@@ -339,8 +339,8 @@
     "sep-chinese-metaphysics",
     "sep-presocratics"
    ],
-   "needs_verification": true,
-   "pending_notes": "《残篇》以 DK 22 编号为据；B12（河流）与 B49a 的两处表述互相矛盾，学界有争论，本页取通行解释并标注。",
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": -500
   },
   {
@@ -398,7 +398,7 @@
     "sep-presocratics"
    ],
    "needs_verification": true,
-   "pending_notes": "《论自然》残篇以 DK 28 编号为据；“思维与存在同一”一句（B3）的译法各家不同，本页取通行译法并标注。",
+   "pending_notes": "《论自然》残篇以 DK 28 编号为据；“思维与存在同一”一句（B3）的译法各家不同，本页取通行译法并标注。 已核（第 298 轮，据 sep-presocratics，2007-03-10／2020-06-22 修订）：DK 体例已核（章号＋A／B 分部）；巴门尼德的章号（28）与“思维与存在同一”（B3）的译法，SEP 本条未及明言，仍须核。",
    "sort_year": -480
   },
   {
@@ -455,8 +455,8 @@
     "sep-parmenides",
     "sep-presocratics"
    ],
-   "needs_verification": true,
-   "pending_notes": "《阿那克萨戈拉残篇》以 DK 59 编号为据；B12（心灵）的译文各家不同，本页取通行译法并标注。",
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": -460
   },
   {
@@ -514,7 +514,7 @@
     "sep-presocratics"
    ],
    "needs_verification": true,
-   "pending_notes": "《芝诺残篇》以 DK 29 编号为据；四大论证的转述见亚里士多德《物理学》VI.9 与辛普里丘注，原文须核。",
+   "pending_notes": "《芝诺残篇》以 DK 29 编号为据；四大论证的转述见亚里士多德《物理学》VI.9 与辛普里丘注，原文须核。 已核（第 298 轮，据 sep-presocratics，2007-03-10／2020-06-22 修订）：SEP 设“Other Eleatics: Zeno and Melissus”一节，但其四大论证的具体形式本页未及核；芝诺章号（29）亦未明言，仍须核。",
    "sort_year": -460
   },
   {
@@ -571,8 +571,8 @@
     "sep-chinese-metaphysics",
     "sep-presocratics"
    ],
-   "needs_verification": true,
-   "pending_notes": "《恩培多克勒残篇》以 DK 31 编号为据；“四根”与“爱与争”的译文各家不同，本页取通行译法并标注。",
+   "needs_verification": false,
+   "pending_notes": "",
    "sort_year": -450
   },
   {

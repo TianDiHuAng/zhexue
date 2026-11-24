@@ -3,15 +3,15 @@
  "totals": {
   "entries": 1800,
   "by_level": {
-   "L2": 786,
-   "L1": 1014
+   "L2": 793,
+   "L1": 1007
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 1014,
+  "needs_verification": 1007,
   "sources": 424,
   "sources_verified": 424
  },
@@ -6043,10 +6043,10 @@
    "type": "philosopher",
    "title": "泰勒斯",
    "container": "gr-ancient",
-   "level": "L1",
+   "level": "L2",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
@@ -9596,10 +9596,10 @@
    "type": "work",
    "title": "《泰勒斯残篇与见证》",
    "container": "west",
-   "level": "L1",
+   "level": "L2",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
@@ -9607,10 +9607,10 @@
    "type": "work",
    "title": "《论自然》（阿那克西曼德残篇）",
    "container": "west",
-   "level": "L1",
+   "level": "L2",
    "sources": 3,
    "verified_sources": 4,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
@@ -9629,10 +9629,10 @@
    "type": "work",
    "title": "《色诺芬尼残篇》",
    "container": "west",
-   "level": "L1",
+   "level": "L2",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
@@ -9651,10 +9651,10 @@
    "type": "work",
    "title": "《残篇》（赫拉克利特）",
    "container": "west",
-   "level": "L1",
+   "level": "L2",
    "sources": 4,
    "verified_sources": 4,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
@@ -9673,10 +9673,10 @@
    "type": "work",
    "title": "《阿那克萨戈拉残篇》",
    "container": "west",
-   "level": "L1",
+   "level": "L2",
    "sources": 4,
    "verified_sources": 4,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
@@ -9695,10 +9695,10 @@
    "type": "work",
    "title": "《恩培多克勒残篇》",
    "container": "west",
-   "level": "L1",
+   "level": "L2",
    "sources": 4,
    "verified_sources": 4,
-   "needs_verification": true,
+   "needs_verification": false,
    "updated": "2026-11-24"
   },
   {
