@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1772,
+  "entries": 1776,
   "by_level": {
    "L2": 779,
-   "L1": 993
+   "L1": 997
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 993,
+  "needs_verification": 997,
   "sources": 423,
   "sources_verified": 423
  },
@@ -12089,6 +12089,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-fahua-anlexingyi",
+   "type": "work",
+   "title": "《法华经安乐行义》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-dacheng-zhiguan",
    "type": "work",
    "title": "《大乘止观法门》",
@@ -12466,6 +12477,17 @@
    "id": "work-fuxingshu",
    "type": "work",
    "title": "《复性书》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-liu-binke-wenji",
+   "type": "work",
+   "title": "《刘宾客文集》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -13582,6 +13604,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-ganquan-wenji",
+   "type": "work",
+   "title": "《甘泉文集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -19165,6 +19198,17 @@
    "id": "cmp-xiulian",
    "type": "comparative",
    "title": "“金丹可成”与“顺生”：身体能被改造到什么程度？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-jiaoxiangsheng",
+   "type": "comparative",
+   "title": "“天人交相胜”与“明于天人之分”：天与人各管什么？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

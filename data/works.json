@@ -12955,6 +12955,63 @@
    "sort_year": 565
   },
   {
+   "id": "work-fahua-anlexingyi",
+   "title": "《法华经安乐行义》",
+   "title_original": "《法华经安乐行义》（慧思）",
+   "tradition": "china",
+   "date_display": "陈隋之际（慧思）",
+   "structure": "一卷：依《法华经·安乐行品》立“**四安乐行**”之说，兼述禅观的方法。",
+   "core_arguments": [
+    "“**安乐行**”有四：身、口、意、誓愿，各有其行相",
+    "以“**禅观**”与“**法华三昧**”为实践的核心",
+    "故其学以“**定慧双开**”为路（与当时南义北禅之分相对）"
+   ],
+   "key_points": [
+    {
+     "locator": "身安乐行",
+     "point": "调身之行"
+    },
+    {
+     "locator": "口安乐行",
+     "point": "慎言之行"
+    },
+    {
+     "locator": "意安乐行",
+     "point": "调心之行"
+    },
+    {
+     "locator": "誓愿安乐行",
+     "point": "大愿之行"
+    }
+   ],
+   "editions": [
+    "《大正藏》第46册；《卍续藏》诸本可参"
+   ],
+   "related_people": [
+    "cn-nanbei-huisi",
+    "cn-suitang-chengguan",
+    "cn-nanbei-fanzhen"
+   ],
+   "misreadings": [
+    {
+     "claim": "其为“注疏体”的经解",
+     "why": "其书虽依经立说，实为**禅观与行门的建立**（四安乐行为纲），故其为实践的纲要，非逐句注疏。"
+    },
+    {
+     "claim": "“安乐行”是“求得安乐的方法”",
+     "why": "其“安乐”是**依于实相的行处**（于法华中安住而行），故其为**行门的名称**，非求福的手段。"
+    }
+   ],
+   "sources": [
+    "ws-liuzutanjing",
+    "sep-chinese-metaphysics",
+    "ct-mengzi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《法华经安乐行义》一卷的文本须核《大正藏》第46册；“四安乐行”的分目与“法华三昧”的原文亦须核。",
+   "sort_year": 570
+  },
+  {
    "id": "work-dacheng-zhiguan",
    "title": "《大乘止观法门》",
    "title_original": "大乘止觀法門",
@@ -14947,6 +15004,63 @@
    "needs_verification": true,
    "pending_notes": "《复性书》与佛教（尤其禅宗）的关系是唐宋思想史的核心问题之一；其“灭情复性”的确切含义在宋儒（朱熹等）的评断中有争议，本页并述其说与后世的“杂禅”之讥。",
    "sort_year": 798
+  },
+  {
+   "id": "work-liu-binke-wenji",
+   "title": "《刘宾客文集》",
+   "title_original": "《刘宾客文集》（刘禹锡）",
+   "tradition": "china",
+   "date_display": "唐（刘禹锡；今存诸刻本）",
+   "structure": "三十卷（今本）：诗、文、论、表等，含《天论》三篇与诸篇哲理文字。",
+   "core_arguments": [
+    "“**天与人交相胜**”：天之道在生植，人之道在法制",
+    "“**天人交相胜，还相用**”：故非“天定”亦非“人定”",
+    "以“**数**”与“**势**”说自然与人事的分别"
+   ],
+   "key_points": [
+    {
+     "locator": "《天论》上",
+     "point": "天人交相胜"
+    },
+    {
+     "locator": "《天论》中",
+     "point": "数与时"
+    },
+    {
+     "locator": "《天论》下",
+     "point": "还相用"
+    },
+    {
+     "locator": "全书",
+     "point": "以文集见其学"
+    }
+   ],
+   "editions": [
+    "《刘禹锡集》（中华书局点校本）；《刘宾客文集》影宋本可参"
+   ],
+   "related_people": [
+    "cn-suitang-liu-yuxi",
+    "cn-suitang-liu-zongyuan",
+    "cn-xianqin-xunzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“交相胜”是“人定胜天”",
+     "why": "其说主张天人**各有所胜**（非人必胜天），且“还相用”；故其为分界的分析，非“人定胜天”的口号。"
+    },
+    {
+     "claim": "其说否定了天的存在",
+     "why": "其说以“**自然之天**”替代“有意志之天”（与柳宗元《天说》同调），故其为天观念的转换，非取消天。"
+    }
+   ],
+   "sources": [
+    "sep-chinese-metaphysics",
+    "ws-shiji",
+    "ct-mengzi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《刘宾客文集》的卷次与点校本须核；《天论》三篇“交相胜”“还相用”的原文亦须核。",
+   "sort_year": 800
   },
   {
    "id": "work-tongdian",
@@ -20678,6 +20792,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1520
+  },
+  {
+   "id": "work-ganquan-wenji",
+   "title": "《甘泉文集》",
+   "title_original": "《甘泉先生文集》（湛若水）",
+   "tradition": "china",
+   "date_display": "明（湛若水；今存诸刻本）",
+   "structure": "数十卷（今本不一）：讲学语录、书札、序记与诗文，含“随处体认天理”诸说。",
+   "core_arguments": [
+    "“**随处体认天理**”：天理不离日用，随事而体认",
+    "“**心之本体**”与“**事**”不二：故不废事而求心",
+    "与王阳明“致良知”相辩：以“格物”为“造道”之功"
+   ],
+   "key_points": [
+    {
+     "locator": "语录",
+     "point": "随处体认天理"
+    },
+    {
+     "locator": "论格物",
+     "point": "格物即造道"
+    },
+    {
+     "locator": "与阳明书",
+     "point": "致良知之辩"
+    },
+    {
+     "locator": "全书",
+     "point": "以文集见讲学"
+    }
+   ],
+   "editions": [
+    "《甘泉先生文集》（明刻本；今有整理本待核）；《湛甘泉先生文集》可参"
+   ],
+   "related_people": [
+    "cn-songming-zhan-ruoshui",
+    "cn-songming-wang-yangming",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其说与阳明“同旨”",
+     "why": "二者皆主心学，然**工夫入路不同**：湛主“随处体认”，王主“致良知”；阳明曾讥其“求之外”，湛亦反讥“致良知”之偏。故须分辨，本页并述。"
+    },
+    {
+     "claim": "“随处体认”是“随波逐流”",
+     "why": "其“随处”是**随事而体认天理**（事上用工），故其为工夫的纲领，非放任。"
+    }
+   ],
+   "sources": [
+    "ct-mengzi",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《甘泉文集》的卷次与版本（明刻本／今整理本）须核；“随处体认天理”的原文与其与阳明“致良知”之辩的文献亦须核。",
    "sort_year": 1520
   },
   {

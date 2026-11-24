@@ -3430,5 +3430,38 @@
   "needs_verification": 993,
   "sources": 423,
   "sources_verified": 423
+ },
+ {
+  "date": "2026-11-24",
+  "entries": 1775,
+  "by_level": {
+   "L2": 779,
+   "L1": 996
+  },
+  "needs_verification": 996,
+  "sources": 423,
+  "sources_verified": 423
+ },
+ {
+  "date": "2026-11-24",
+  "entries": 1776,
+  "by_level": {
+   "L2": 779,
+   "L1": 997
+  },
+  "needs_verification": 997,
+  "sources": 423,
+  "sources_verified": 423
+ },
+ {
+  "date": "2026-11-24",
+  "entries": 1776,
+  "by_level": {
+   "L2": 779,
+   "L1": 997
+  },
+  "needs_verification": 997,
+  "sources": 423,
+  "sources_verified": 423
  }
 ]
