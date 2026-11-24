@@ -21857,6 +21857,63 @@
    "sort_year": 1701
   },
   {
+   "id": "work-new-theory-vision",
+   "title": "《视觉新论》",
+   "title_original": "An Essay Towards a New Theory of Vision",
+   "tradition": "west",
+   "date_display": "1709（贝克莱）",
+   "structure": "一部（凡一百五十余节）：论视觉的对象、距离与大小如何被感知，以及视觉与触觉的关系。",
+   "core_arguments": [
+    "距离不被直接看见：它由经验（触觉与动作）所“提示”（suggestion）",
+    "视觉的观念与触觉的观念**异质**，二者之连结靠经验而非理性",
+    "故“可见的大小”与“可触的大小”不是同一物"
+   ],
+   "key_points": [
+    {
+     "locator": "第1—50节",
+     "point": "距离非直接所见"
+    },
+    {
+     "locator": "第50—100节",
+     "point": "视觉与触觉异质"
+    },
+    {
+     "locator": "第100—150节",
+     "point": "大小与形状"
+    },
+    {
+     "locator": "结论",
+     "point": "经验的连结"
+    }
+   ],
+   "editions": [
+    "英文本（Works of George Berkeley, Clarendon）；中译参《视觉新论》（关文运译，商务）"
+   ],
+   "related_people": [
+    "gr-modern-berkeley",
+    "gr-modern-locke",
+    "gr-19c-mill"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“生理光学”",
+     "why": "其书是**哲学的分析**（感觉的异质性与经验的连结），非光学的实验研究；故其为知觉理论的奠基之作。"
+    },
+    {
+     "claim": "其“距离不被看见”是常识的反驳",
+     "why": "其意是：距离非**直接**被看，而由经验提示；故其说不否认我们能判断距离，只否认它是原始的视觉所与。"
+    }
+   ],
+   "sources": [
+    "sep-berkeley",
+    "sep-locke",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《视觉新论》的节数与“距离由经验提示”之说须核 Clarendon 版与关文运译本；其与洛克两种性质论的关系亦须分辨。",
+   "sort_year": 1709
+  },
+  {
    "id": "work-treatise-berkeley",
    "title": "《人类知识原理》",
    "title_original": "A Treatise Concerning the Principles of Human Knowledge",
@@ -22026,6 +22083,63 @@
    "needs_verification": true,
    "pending_notes": "《神正论》的三篇结构与“最好可能世界”的论证须核 1710 法文原作与英译本；“前定和谐”与自由的关系亦须分辨。",
    "sort_year": 1710
+  },
+  {
+   "id": "work-three-dialogues-hylas",
+   "title": "《海拉斯与菲洛诺斯的三篇对话》",
+   "title_original": "Three Dialogues between Hylas and Philonous",
+   "tradition": "west",
+   "date_display": "1713（贝克莱）",
+   "structure": "三篇对话：以海拉斯（代表物质论）与菲洛诺斯（代表贝克莱）往复辩难，论物质实体之不可设想。",
+   "core_arguments": [
+    "凡被感知者皆为观念；而观念只能在心中存在",
+    "故“物质实体”（脱离感知的存在）不可设想，亦无用",
+    "“存在即被感知”（esse est percipi）：物之存在在于被感知"
+   ],
+   "key_points": [
+    {
+     "locator": "第一篇",
+     "point": "可感性质与观念"
+    },
+    {
+     "locator": "第二篇",
+     "point": "物质实体的驳论"
+    },
+    {
+     "locator": "第三篇",
+     "point": "上帝作为恒常的感知者"
+    },
+    {
+     "locator": "全书",
+     "point": "以对话行之"
+    }
+   ],
+   "editions": [
+    "英文本（Clarendon）；中译参《海拉斯与菲洛诺斯的三篇对话》（商务，版次待核）"
+   ],
+   "related_people": [
+    "gr-modern-berkeley",
+    "gr-modern-locke",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“否认世界存在”",
+     "why": "其“存在即被感知”并不否认世界，而主张**世界的存在就是被感知**（在上帝心中恒常地被感知）；故其为观念论，非虚无主义。"
+    },
+    {
+     "claim": "其对话是“诡辩”",
+     "why": "其论证有严格的步骤（凡可感性质皆相对、皆在心中）；约翰逊博士“踢石头”式的反驳并未触及论证本身。"
+    }
+   ],
+   "sources": [
+    "sep-berkeley",
+    "sep-locke",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《三篇对话》的篇次与“存在即被感知”的原文须核 Clarendon 版；其“上帝作为恒常感知者”的论证亦须核。",
+   "sort_year": 1713
   },
   {
    "id": "work-monadology",
@@ -22591,6 +22705,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1751
+  },
+  {
+   "id": "work-history-england-hume",
+   "title": "《英国史》",
+   "title_original": "The History of England",
+   "tradition": "west",
+   "date_display": "1754—1761（休谟，六卷）",
+   "structure": "六卷：自凯撒入侵至1688年革命，以政治与宗教的冲突为主线。",
+   "core_arguments": [
+    "以“党争”与“宗教”解释英国史的动力",
+    "史家的公正：不以党派之见断人（其书同时招致两党的不满）",
+    "“意见”是治国的根基：故其史学与其政治哲学相通"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—二",
+     "point": "自凯撒至都铎"
+    },
+    {
+     "locator": "卷三—四",
+     "point": "斯图亚特王朝"
+    },
+    {
+     "locator": "卷五—六",
+     "point": "内战与革命"
+    },
+    {
+     "locator": "全书",
+     "point": "党争与宗教的主线"
+    }
+   ],
+   "editions": [
+    "英文本（Liberty Fund 版）；中译参《英国史》（节译本，版次待核）"
+   ],
+   "related_people": [
+    "gr-modern-hume",
+    "gr-modern-hobbes",
+    "gr-modern-burke"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“通俗史书”",
+     "why": "其中含**政治的判断**（意见为治国的根基），与其《人性论》《论道德原则研究》相通；故其为哲学史家的历史著作。"
+    },
+    {
+     "claim": "其史观是“托利党的”",
+     "why": "其书同时招致辉格与托利两党的不满（既批评清教徒，亦批评斯图亚特），故不可径以党派归之。"
+    }
+   ],
+   "sources": [
+    "sep-hume",
+    "sep-hobbes",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《英国史》的六卷与成书（1754—1761）须核 Liberty Fund 版；“意见为治国根基”的表述与其政治 essays 的关系亦须核。",
+   "sort_year": 1754
   },
   {
    "id": "work-discourse-inequality",

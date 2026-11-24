@@ -6492,6 +6492,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“两种性质”的原文（《人类理智论》第二卷第八章）须核 Clarendon 版；洛克与贝克莱在此点上的往复亦须分辨。"
+  },
+  {
+   "id": "gr-modern-esse-percipi",
+   "term": "存在即被感知",
+   "term_latin": "to be is to be perceived (esse est percipi)",
+   "definition": "贝克莱的核心命题：可感之物（色、声、形）皆是被感知的观念，而观念只能存在于感知它的心中；故“存在”即“被感知”。其要点并非否认世界，而是主张**世界的存在方式就是被感知**——由上帝的恒常感知保证其不被感知时仍续存。",
+   "usages": [
+    {
+     "name": "贝克莱（其立）",
+     "id": "gr-modern-berkeley",
+     "usage": "以《三篇对话》立此命题；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "洛克（其先）",
+     "id": "gr-modern-locke",
+     "usage": "其两种性质之说为其攻击的入口。"
+    },
+    {
+     "name": "休谟（其后）",
+     "id": "gr-modern-hume",
+     "usage": "承其现象论而悬置“心灵实体”。"
+    }
+   ],
+   "related": [
+    "gr-modern-primary-secondary"
+   ],
+   "example": {
+    "text": "“存在即被感知”的要害是把**可感性质**与**心**绑死：既然色声只是观念，而观念只能在心中，则“脱离感知的物”不可设想。其力量在于它把洛克“两种性质”的逻辑推到底（贝克莱的刀正砍在洛克自己的分界上）；其困难在于“上帝”这一步：若无神，则物的续存无从保证。",
+    "figure": "贝克莱",
+    "locator": "《三篇对话》第一篇"
+   },
+   "sources": [
+    "sep-berkeley",
+    "sep-locke",
+    "sep-hume"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“存在即被感知”的原文（《三篇对话》与《人类知识原理》§3）须核 Clarendon 版；约翰逊“踢石头”式反驳与贝克莱论证的关系亦须分辨。"
   }
  ],
  "debates": [

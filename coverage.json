@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1590,
+  "entries": 1595,
   "by_level": {
    "L2": 780,
-   "L1": 810
+   "L1": 815
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 810,
+  "needs_verification": 815,
   "sources": 419,
   "sources_verified": 419
  },
@@ -147,7 +147,7 @@
    "title": "近代理性论与经验论",
    "region": "west",
    "philosophers": 35,
-   "concepts": 27,
+   "concepts": 28,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -27"
   }
@@ -9460,6 +9460,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-modern-esse-percipi",
+   "type": "concept",
+   "title": "存在即被感知",
+   "container": "gr-modern",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-modern-innate-controversy",
    "type": "debate",
    "title": "天赋观念是否存在",
@@ -13783,6 +13794,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-new-theory-vision",
+   "type": "work",
+   "title": "《视觉新论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-treatise-berkeley",
    "type": "work",
    "title": "《人类知识原理》",
@@ -13808,6 +13830,17 @@
    "id": "work-theodicee",
    "type": "work",
    "title": "《神正论》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-three-dialogues-hylas",
+   "type": "work",
+   "title": "《海拉斯与菲洛诺斯的三篇对话》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -13923,6 +13956,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-history-england-hume",
+   "type": "work",
+   "title": "《英国史》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -17163,6 +17207,17 @@
    "id": "cmp-liangzhongxingzhi",
    "type": "comparative",
    "title": "“两种性质”与“坚白之辩”：色在哪里？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-cunzai-beiganzhi",
+   "type": "comparative",
+   "title": "“存在即被感知”与“心外无物”：物离了心还在吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
