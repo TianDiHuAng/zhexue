@@ -7722,6 +7722,63 @@
    "sort_year": 647
   },
   {
+   "id": "work-nyayamukha",
+   "title": "《正理门论》",
+   "title_original": "Nyāyamukha",
+   "tradition": "china",
+   "date_display": "约6世纪（陈那造；玄奘648年译）",
+   "structure": "一卷：以“能立”“能破”“似能立”“似能破”“现量”“比量”等门类组织，为《因明入正理论》的前身。",
+   "core_arguments": [
+    "以“现量”与“比量”二分认识来源",
+    "以“同品定有、异品遍无”为“因”的检验",
+    "以“九句因”判因的正误"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "能立与能破的门类"
+    },
+    {
+     "locator": "九句因",
+     "point": "因的正误判定"
+    },
+    {
+     "locator": "现量比量",
+     "point": "二量"
+    },
+    {
+     "locator": "末段",
+     "point": "似能立诸过"
+    }
+   ],
+   "editions": [
+    "《大正藏》第32卷；玄奘译本；现代校释见《因明正理门论》研究"
+   ],
+   "related_people": [
+    "cn-suitang-xuanzang",
+    "cn-suitang-kuiji",
+    "cn-xianqin-mozi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它与《因明入正理论》是同一部书",
+     "why": "《正理门论》为**陈那自作**，《入正理论》为其弟子**商羯罗主**所作（入门书）；二者详略与体例不同，后者更简明。"
+    },
+    {
+     "claim": "“现量”是感官知觉的同义词",
+     "why": "其“现量”是**离分别的**直接知（无概念构造），故与“感官知觉＋概念”不同；这一区分是因明认识论的核心。"
+    }
+   ],
+   "sources": [
+    "ws-mohezhiguan",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《正理门论》的梵本残片与汉译的对应、以及“九句因”的图示在各家研究中有不同处理；本页依汉译本与因明研究概述。",
+   "sort_year": 648
+  },
+  {
    "id": "work-chengweishi",
    "title": "《成唯识论》",
    "title_original": "成唯識論（Cheng Weishi Lun）",
@@ -8108,6 +8165,63 @@
    "needs_verification": true,
    "pending_notes": "《金刚錍》的成书年代与作者（湛然）基本无疑，但其“无情有性”的确切含义（是“真如为性”还是“本具三千”）学界有讨论；本页依天台宗文献与哲学史研究概述。",
    "sort_year": 850
+  },
+  {
+   "id": "work-periphyseon",
+   "title": "《论自然的区分》",
+   "title_original": "Periphyseon (De divisione naturae)",
+   "tradition": "west",
+   "date_display": "约862—867年（爱留根纳）",
+   "structure": "五卷（对话体，师与生）：以“自然”的四重区分为纲——①创造而不被创造（神）；②被创造而创造（理念／原因）；③被创造而不创造（受造物）；④既不创造也不被创造（作为万物归宿的神）。",
+   "core_arguments": [
+    "“自然”是一切存在与不存在的总名，须以四重区分来理解",
+    "受造物在神中有其“原因”（理念），故创造是**永恒的分化**",
+    "万物终将回归其根源（第四重），故一切皆在神中"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "自然的四重区分"
+    },
+    {
+     "locator": "卷二",
+     "point": "创造与理念"
+    },
+    {
+     "locator": "卷三",
+     "point": "从无中创造的解义"
+    },
+    {
+     "locator": "卷四—五",
+     "point": "回归与神化（theosis）"
+    }
+   ],
+   "editions": [
+    "拉丁原文（Sheldon-Williams 编，Scriptores Latini Hiberniae）；英译（Periphyseon, 多卷本）"
+   ],
+   "related_people": [
+    "gr-medieval-augustine",
+    "gr-medieval-aquinas",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是泛神论",
+     "why": "其“万物在神中”并不取消受造与创造的区分（第二、三重仍是被造的）；故是否构成泛神论是学界争论，不能径断。"
+    },
+    {
+     "claim": "其“四重区分”是四个东西",
+     "why": "四重是**同一“自然”的四个面向**（按“创造/被创造”两两组合），不是四个并列的实体。"
+    }
+   ],
+   "sources": [
+    "sep-aquinas",
+    "book-copleston-history",
+    "sep-plato"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论自然的区分》于1225年被教宗斥为“危险的学说”，其“泛神论”之嫌至今是争论；爱留根纳的人物条目未入册，本页只挂已有 id。原文五卷的英译以 Sheldon-Williams 编本为据。",
+   "sort_year": 867
   },
   {
    "id": "work-taiji-tushuo",
@@ -10091,6 +10205,63 @@
    "needs_verification": true,
    "pending_notes": "《性理大全》的编纂过程（胡广等奉敕，1415 年成）与各本卷次须核；其与《四书五经大全》的关系亦是线索。未找到该书的可实开在线全文，故本条依理学研究与通行书目概述。",
    "sort_year": 1415
+  },
+  {
+   "id": "work-de-ignorantia",
+   "title": "《论学者的无知》",
+   "title_original": "De docta ignorantia",
+   "tradition": "west",
+   "date_display": "1440年（库萨的尼古拉）",
+   "structure": "三卷：①论神（“极大”与“极小”的合一）；②论宇宙（无限的宇宙与“相对的极大”）；③论基督（“极大”在人性中的显现）。",
+   "core_arguments": [
+    "“有学问的无知”：既然认识是比例的把握，而神无限，则对神的知识只能是“知其不可知”",
+    "“对立的一致”（coincidentia oppositorum）：在无限者中对立面合一",
+    "宇宙没有固定的中心与边界（对中世纪宇宙论的突破）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "有学问的无知与极大"
+    },
+    {
+     "locator": "卷一 第22章",
+     "point": "对立的一致"
+    },
+    {
+     "locator": "卷二",
+     "point": "无限的宇宙"
+    },
+    {
+     "locator": "卷三",
+     "point": "基督与“极大”"
+    }
+   ],
+   "editions": [
+    "拉丁原文（Opera omnia，Heidelberg 版）；中译参《论有学问的无知》（商务印书馆）；英译（Hopkins）"
+   ],
+   "related_people": [
+    "gr-modern-cusanus",
+    "gr-medieval-aquinas",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "“有学问的无知”是怀疑主义",
+     "why": "它不是放弃认识，而是**规定认识的界限**：正因知道认知是比例的，才知道无限者不可被比例把握。故它是一种**精确的无知**。"
+    },
+    {
+     "claim": "其“无限宇宙”已是近代的无限空间",
+     "why": "其“无限”是**形而上学**的（神为极大，宇宙为“相对的极大”），没有近代的无限欧氏空间与物理定律；故不可径直视为近代科学的前身。"
+    }
+   ],
+   "sources": [
+    "sep-aquinas",
+    "sep-plato",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "库萨的尼古拉的人物条目 id 为 gr-modern-cusanus（第?轮已调整）；《论学者的无知》的“对立的一致”与布鲁诺的关系须核，不可径直视为近代无限宇宙论的直接前身。",
+   "sort_year": 1440
   },
   {
    "id": "work-baishaji",
