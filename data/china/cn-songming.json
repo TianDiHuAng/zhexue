@@ -3070,6 +3070,155 @@
      "note": "百卷，体例为分类辑证"
     }
    ]
+  },
+  {
+   "id": "cn-songming-hu-anguo",
+   "name": "胡安国",
+   "latin": "Hu Anguo",
+   "birth_year": 1074,
+   "death_year": 1138,
+   "birth_display": "1074年",
+   "death_display": "1138年",
+   "birth_note": "据《宋史》儒林传：字康侯，建宁崇安人；绍圣四年进士，南渡后官至给事中、中书舍人，以《春秋胡氏传》著称；其子胡宏、胡寅皆为理学家。",
+   "death_note": "1138年卒（《宋史》儒林传）。",
+   "era": "两宋之际。胡安国以《春秋胡氏传》立“以义例统经”的解经范式：认为《春秋》之义在**褒贬**，其书法（用字）即判断；并以“尊王攘夷”“复仇”为大义，为南渡之后的政局提供经学的根据。故其位置是：把经学直接接到**政治伦理**上 —— 这一接法使《胡氏传》成为元明科举的《春秋》定本，也使它成为后世“以例绳经”之讥的对象。",
+   "school": "宋学（春秋学，湖湘一系的前驱）",
+   "core_questions": [
+    "《春秋》是经还是史？",
+    "其书法的用字是否即褒贬？",
+    "南渡之后“攘夷”与“复仇”如何从经义中得出？"
+   ],
+   "arguments": [
+    {
+     "claim": "《春秋》为经，其义在褒贬而非记事",
+     "premises": [
+      "若《春秋》只是记事，则与《乘》《梼杌》无异。",
+      "而孟子以“《春秋》作而乱臣贼子惧”。"
+     ],
+     "inference": "若其功用在于“使乱臣贼子惧”，则其义在**褒贬**（判断），不在记事（记录）；故解经须求其书法之义。",
+     "conclusion": "以义例统经（此说使《胡氏传》成为科举定本）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“攘夷”与“复仇”为《春秋》大义",
+     "premises": [
+      "《春秋》严华夷之辨。",
+      "而南渡之局正当“复仇”之时。"
+     ],
+     "inference": "若经义有“攘夷”与“复仇”，则当世之政须以此为断；故其解经同时是**政治的论证**。",
+     "conclusion": "以经义论当世之政（此说使经学直接介入政治）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《春秋胡氏传》",
+     "edition": "《四库全书》本；《通志堂经解》本",
+     "note": "1136"
+    },
+    {
+     "title": "《上蔡语录》（编）",
+     "edition": "中华书局本（版次待核）",
+     "note": "南宋"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "二程（其学脉）",
+     "id": "cn-songming-cheng-yi",
+     "note": "以洛学为宗，而专于《春秋》"
+    },
+    {
+     "name": "孙复、刘敞（其先）",
+     "id": null,
+     "note": "以“尊王”说《春秋》的先行者"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "胡宏、胡寅（其子）",
+     "id": "cn-songming-hu-hong",
+     "note": "湖湘之学由其家学而开"
+    },
+    {
+     "name": "朱熹（其评议者）",
+     "id": "cn-songming-zhu-xi",
+     "note": "对“以例说经”有所保留"
+    },
+    {
+     "name": "元明科举的《春秋》义",
+     "id": null,
+     "note": "以《胡氏传》为定本"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "朱熹一系",
+     "view": "以“义例”统经，则凡不合例者须曲为之说；经义反为义例所掩。故解经当先明经文，不宜先立例。",
+     "response": "胡安国一系的回应是：义例非外加之物，乃经文自具的书法；若弃例而空求义，则经文之用字皆成偶然。",
+     "kind": "原文",
+     "sources": [
+      "ws-zhuzi-yulei",
+      "ws-taijitushuo"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《春秋胡氏传》只是《春秋》的注释",
+     "why": "它以**义例**统经：每条先立“书法”之义，再以史事证之。故其性质是“以义解经”的经学建构，不是训诂式的注释。"
+    },
+    {
+     "claim": "其“攘夷”只是种族论",
+     "why": "其“夷夏”以**礼与义**为断（“中国而用夷礼则夷之”），故判准是文化的；但其时代情绪强烈（南渡之后），须如实标出。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>胡安国：以义例统经</text><defs><marker id='aHA' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>《春秋》为经，义在褒贬</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故书法之用字即判断</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故尊王攘夷与复仇为大义</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故经学直接介入政治</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aHA)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aHA)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "胡安国：以义例统经与“攘夷复仇”的政治论证（示意图）",
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ws-taijitushuo",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "胡安国无 SEP 专条（已试 hu-anguo，404）；本页依《宋史》儒林传、《春秋胡氏传》原文（《四库全书》本）与 SEP“中国形而上学”词条，**属语境性引用而非专门研究**。其生卒（1074—1138）与《胡氏传》的成书年代须核。",
+   "doctrine": {
+    "summary": "胡安国以《春秋胡氏传》立“以义例统经”的范式：《春秋》之义在褒贬，其书法（用字）即判断；并以“尊王攘夷”“复仇”为大义，为南渡政局提供经学根据。故其说使经学直接介入政治伦理 —— 这既使它成为元明科举的定本，也使它成为“以例绳经”之讥的对象。",
+    "system": [
+     {
+      "name": "以义例统经",
+      "content": "经义在褒贬，故须求书法之义而非仅记事；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "尊王攘夷",
+      "content": "以华夷之辨与君臣之分说《春秋》书法；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "复仇",
+      "content": "以《春秋》为南渡复仇雪耻的根据；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "书法即判断",
+      "content": "用字的选择本身即一次裁决；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "崇安与南渡（1074—1138）",
+      "change": "绍圣四年进士；北宋末历官；南渡后官至给事中、中书舍人；退居后专治《春秋》，成《胡氏传》；1138 年卒。"
+     }
+    ],
+    "reception": "《春秋胡氏传》成为元明科举的《春秋》定本，影响数百年；其对“义例”的强调也招致朱熹一系的保留，成为经学史上一桩长期的争论。"
+   },
+   "works_detail": [
+    {
+     "title": "《春秋胡氏传》",
+     "structure": "三十卷：依经文逐条发明义例，以尊王攘夷与复仇为大义。",
+     "core_thesis": "《春秋》之义在褒贬，故以义例统经。",
+     "editions": "《四库全书》本（具体版次待核）",
+     "note": "1136 年"
+    }
+   ]
   }
  ],
  "concepts": [

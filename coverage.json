@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1406,
+  "entries": 1410,
   "by_level": {
    "L2": 781,
-   "L1": 625
+   "L1": 629
   },
   "doctrine": {
-   "total": 283,
-   "detail": 283,
+   "total": 284,
+   "detail": 284,
    "auto": 0
   },
-  "needs_verification": 625,
+  "needs_verification": 629,
   "sources": 418,
   "sources_verified": 418
  },
@@ -47,10 +47,10 @@
    "unit_id": "cn-songming",
    "title": "宋明理学与心学",
    "region": "china",
-   "philosophers": 20,
+   "philosophers": 21,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -12"
+   "philosophers_slot": "8 上限，余 -13"
   },
   {
    "unit_id": "cn-suitang",
@@ -1987,6 +1987,17 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-songming-hu-anguo",
+   "type": "philosopher",
+   "title": "胡安国",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -11627,6 +11638,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-shangcai-yulu",
+   "type": "work",
+   "title": "《上蔡语录》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-sic-et-non",
    "type": "work",
    "title": "《是与否》",
@@ -11649,6 +11671,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-guishan-ji",
+   "type": "work",
+   "title": "《龟山集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-historia-calamitatum",
    "type": "work",
    "title": "《我的苦难史》",
@@ -11663,6 +11696,17 @@
    "id": "work-chunqiu-hushi-zhuan",
    "type": "work",
    "title": "《春秋胡氏传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-chongzheng-bian",
+   "type": "work",
+   "title": "《崇正辩》",
    "container": "china",
    "level": "L1",
    "sources": 3,

@@ -13908,6 +13908,63 @@
    "sort_year": 1100
   },
   {
+   "id": "work-shangcai-yulu",
+   "title": "《上蔡语录》",
+   "title_original": "上蔡語錄",
+   "tradition": "china",
+   "date_display": "南宋（谢良佐，1050—1103；门人所记）",
+   "structure": "三卷（通行本）：门人记其讲学之语，以“觉”“仁”“敬”为纲。",
+   "core_arguments": [
+    "“仁者觉也”：以“觉”（痛痒相关之感）说仁",
+    "“敬是常惺惺法”：以“惺惺”说敬，不落于枯守",
+    "“格物穷理”须就事上理会，不在空言"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上",
+     "point": "仁与觉"
+    },
+    {
+     "locator": "卷中",
+     "point": "敬与惺惺"
+    },
+    {
+     "locator": "卷下",
+     "point": "格物与穷理"
+    },
+    {
+     "locator": "全书",
+     "point": "以觉说仁"
+    }
+   ],
+   "editions": [
+    "中华书局《上蔡语录》；《朱子全书》外编所收"
+   ],
+   "related_people": [
+    "cn-songming-cheng-hao",
+    "cn-songming-zhu-xi",
+    "cn-songming-cheng-yi"
+   ],
+   "misreadings": [
+    {
+     "claim": "“仁者觉也”是训诂式的定义",
+     "why": "其“觉”是**体验的描述**（痛痒相关之感），不是语词的定义；朱熹后来对“以觉言仁”有所批评，正在于其易与“知觉”混。"
+    },
+    {
+     "claim": "语录只是零散的笔记",
+     "why": "朱熹编次诸录时曾加删定，其编排本身即是一种**取舍与解释**；故语录亦是思想的载体，不纯为原始记录。"
+    }
+   ],
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ws-mingru-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《上蔡语录》的卷数与朱熹的删定须核《朱子全书》外编；其“以觉言仁”与朱熹批评的具体文本亦须核。",
+   "sort_year": 1100
+  },
+  {
    "id": "work-sic-et-non",
    "title": "《是与否》",
    "title_original": "Sic et Non",
@@ -14022,6 +14079,63 @@
    "sort_year": 1124
   },
   {
+   "id": "work-guishan-ji",
+   "title": "《龟山集》",
+   "title_original": "龜山集",
+   "tradition": "china",
+   "date_display": "南宋（杨时，1053—1135）",
+   "structure": "四十二卷（通行本）：含书、奏议、论、记、序、墓志、诗与语录等。",
+   "core_arguments": [
+    "“体验未发”：以“中”为未发之境，须静中体验",
+    "承二程而南传：以“程门立雪”的传承开闽学之源",
+    "论治道：以“正君心”为治国之本"
+   ],
+   "key_points": [
+    {
+     "locator": "书札",
+     "point": "体验未发"
+    },
+    {
+     "locator": "奏议",
+     "point": "正君心与治道"
+    },
+    {
+     "locator": "论学",
+     "point": "承二程之学"
+    },
+    {
+     "locator": "语录",
+     "point": "静中体验之法"
+    }
+   ],
+   "editions": [
+    "中华书局《杨时集》；《四库全书》本"
+   ],
+   "related_people": [
+    "cn-songming-cheng-hao",
+    "cn-songming-zhu-xi",
+    "cn-songming-hu-anguo"
+   ],
+   "misreadings": [
+    {
+     "claim": "杨时只是“二程到朱熹之间的传递者”",
+     "why": "其“体验未发”之说开后来“中和”之辨的先声（朱熹与张栻的讨论即由此起）；故其有独立的哲学贡献，非仅传递。"
+    },
+    {
+     "claim": "“程门立雪”是其思想的根据",
+     "why": "那只是师承的轶事；其思想的根据在“体验未发”与“正君心”的具体论证，不在故事。"
+    }
+   ],
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ws-mingru-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《龟山集》的卷数与篇目须核中华书局《杨时集》；“体验未发”的表述与其与朱熹“中和”之辨的关系亦须分辨。",
+   "sort_year": 1130
+  },
+  {
    "id": "work-historia-calamitatum",
    "title": "《我的苦难史》",
    "title_original": "Historia calamitatum（Ad amicum suum consolatoria）",
@@ -14108,9 +14222,9 @@
     "《四库全书》本；《通志堂经解》本"
    ],
    "related_people": [
+    "cn-songming-hu-anguo",
     "cn-songming-zhu-xi",
-    "cn-songming-hu-hong",
-    "cn-suitang-han-yu"
+    "cn-songming-hu-hong"
    ],
    "misreadings": [
     {
@@ -14130,6 +14244,63 @@
    "needs_verification": true,
    "pending_notes": "《春秋胡氏传》的卷数与成书年代须核《四库全书》本；其“义例”的具体条目亦须逐条核。",
    "sort_year": 1136
+  },
+  {
+   "id": "work-chongzheng-bian",
+   "title": "《崇正辩》",
+   "title_original": "崇正辯",
+   "tradition": "china",
+   "date_display": "南宋（胡寅，1098—1156）",
+   "structure": "三卷：以问答体逐条批驳佛教之说（因果、轮回、心性、出家等）。",
+   "core_arguments": [
+    "以“理”驳因果轮回：谓其说无验于人事",
+    "以“伦理”驳出家：谓其废弃父子君臣",
+    "以“心”辨儒佛之别：儒之心在事上，佛之心在空寂"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上",
+     "point": "因果与轮回"
+    },
+    {
+     "locator": "卷中",
+     "point": "出家与伦理"
+    },
+    {
+     "locator": "卷下",
+     "point": "心性与事为"
+    },
+    {
+     "locator": "全书",
+     "point": "以问答逐条驳"
+    }
+   ],
+   "editions": [
+    "中华书局《崇正辩》；《四库全书》本"
+   ],
+   "related_people": [
+    "cn-songming-hu-hong",
+    "cn-songming-zhu-xi",
+    "cn-suitang-han-yu"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是“排佛”的情绪之作",
+     "why": "其书以**问答体逐条辩驳**，每条皆有论证（虽多自儒家的立场出发）；故其性质是“论辩”，其价值在可见儒佛二家的分歧所在。"
+    },
+    {
+     "claim": "其论佛之说皆准确",
+     "why": "其所述佛说多有简化的倾向（以“因果轮回”概佛家全体）；故读之须与佛典对校，不可据以论佛。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "ws-zhuzi-yulei",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《崇正辩》的卷数与成书须核中华书局本；其所引佛说的来源亦须逐条核（多有以偏概全者）。",
+   "sort_year": 1140
   },
   {
    "id": "work-zhiyan",
