@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1240,
+  "entries": 1247,
   "by_level": {
    "L2": 792,
-   "L1": 448
+   "L1": 455
   },
   "doctrine": {
-   "total": 264,
-   "detail": 264,
+   "total": 266,
+   "detail": 266,
    "auto": 0
   },
-  "needs_verification": 448,
+  "needs_verification": 455,
   "sources": 409,
   "sources_verified": 409
  },
@@ -29,10 +29,10 @@
    "unit_id": "cn-nanbei",
    "title": "南北朝佛道与形神之争",
    "region": "china",
-   "philosophers": 6,
-   "concepts": 8,
-   "debates": 2,
-   "philosophers_slot": "8 上限，余 2"
+   "philosophers": 8,
+   "concepts": 9,
+   "debates": 4,
+   "philosophers_slot": "8 上限，余 0"
   },
   {
    "unit_id": "cn-qingmod",
@@ -803,6 +803,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-nanbei-zhendi",
+   "type": "philosopher",
+   "title": "真谛",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-damo",
+   "type": "philosopher",
+   "title": "菩提达摩",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-nanbei-shenmie",
    "type": "concept",
    "title": "神灭",
@@ -891,6 +913,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-nanbei-alaoye",
+   "type": "concept",
+   "title": "阿赖耶识",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-nanbei-debate-shenmie",
    "type": "debate",
    "title": "神灭与神不灭之争",
@@ -905,6 +938,28 @@
    "id": "cn-nanbei-debate-foxing",
    "type": "debate",
    "title": "佛性本有还是始有",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-debate-dunjian",
+   "type": "debate",
+   "title": "顿悟还是渐修",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-debate-jingwang",
+   "type": "debate",
+   "title": "沙门是否应敬王者",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -10178,6 +10233,28 @@
    "id": "work-liuzi",
    "type": "work",
    "title": "《刘子》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-mahayana-samgraha",
+   "type": "work",
+   "title": "《摄大乘论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-abhidharmakosa",
+   "type": "work",
+   "title": "《阿毗达磨俱舍论》",
    "container": "china",
    "level": "L1",
    "sources": 3,

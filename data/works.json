@@ -9428,6 +9428,120 @@
    "sort_year": 550
   },
   {
+   "id": "work-mahayana-samgraha",
+   "title": "《摄大乘论》",
+   "title_original": "Mahāyānasaṃgraha（攝大乘論）",
+   "tradition": "china",
+   "date_display": "无著造（约4世纪）；真谛563年前后译",
+   "structure": "三卷（真谛译本）：以“十相”为纲——阿赖耶识、三性、六波罗蜜、菩萨十地、彼果等，总摄大乘的教理与修行。",
+   "core_arguments": [
+    "以“阿赖耶识”为一切法所依（“所知依”）",
+    "三性（依他、遍计、圆成）说明迷悟的结构",
+    "“转依”：解脱是识的转变而非取得"
+   ],
+   "key_points": [
+    {
+     "locator": "〈所知依〉",
+     "point": "阿赖耶识"
+    },
+    {
+     "locator": "〈所知相〉",
+     "point": "三性"
+    },
+    {
+     "locator": "〈彼入因果〉",
+     "point": "六波罗蜜"
+    },
+    {
+     "locator": "〈彼果断〉〈彼果智〉",
+     "point": "转依与佛智"
+    }
+   ],
+   "editions": [
+    "《大正藏》第31卷（真谛译）；玄奘译《摄大乘论本》与世亲释"
+   ],
+   "related_people": [
+    "cn-nanbei-zhendi",
+    "cn-suitang-xuanzang",
+    "cn-nanbei-sengyou"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是《阿毗达磨俱舍论》的续编",
+     "why": "二书的对象与立场不同：《俱舍论》依说一切有部而近于“实有”的分析，《摄大乘论》依瑜伽行派而立“识”与“三性”；故非续编。"
+    },
+    {
+     "claim": "真谛译本与玄奘译本相同",
+     "why": "二者所依的释论与译语不同（真谛多依《摄大乘论释》，且立“阿摩罗识”等说）；故须分辨两译。"
+    }
+   ],
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《摄大乘论》的汉译有真谛、玄奘等本，各本的译语与所依释论不同；本页依真谛译本与瑜伽行派研究概述。",
+   "sort_year": 563
+  },
+  {
+   "id": "work-abhidharmakosa",
+   "title": "《阿毗达磨俱舍论》",
+   "title_original": "Abhidharmakośa-bhāṣya（阿毗達磨俱舍論）",
+   "tradition": "china",
+   "date_display": "世亲造（约4—5世纪）；真谛563—567年译；玄奘651—654年重译",
+   "structure": "三十卷（玄奘译本，九品）：界品、根品、世间品、业品、随眠品、贤圣品、智品、定品、破执我品。",
+   "core_arguments": [
+    "以“五位七十五法”分析一切法",
+    "以“业”与“随眠”说明轮回的机制",
+    "〈破执我品〉破“我”的实体（承“无我”之说）"
+   ],
+   "key_points": [
+    {
+     "locator": "〈界品〉〈根品〉",
+     "point": "法的分类"
+    },
+    {
+     "locator": "〈世间品〉",
+     "point": "器界与有情"
+    },
+    {
+     "locator": "〈业品〉〈随眠品〉",
+     "point": "轮回的机制"
+    },
+    {
+     "locator": "〈破执我品〉",
+     "point": "无我"
+    }
+   ],
+   "editions": [
+    "《大正藏》第29卷（真谛译与玄奘译）；Pradhan 梵本校订；英译（Pruden, Abhidharmakośabhāṣyam）"
+   ],
+   "related_people": [
+    "cn-nanbei-zhendi",
+    "cn-suitang-xuanzang",
+    "cn-suitang-jizang"
+   ],
+   "misreadings": [
+    {
+     "claim": "《俱舍论》是瑜伽行派的著作",
+     "why": "它主要依**说一切有部**的阿毗达磨而作，并常有批评（“破毗婆沙师”）；世亲虽然后来转向瑜伽行派，但本书的立场是有部一系的。"
+    },
+    {
+     "claim": "它只是“佛教辞典”",
+     "why": "其九品有明确的论证结构（法的分类→轮回的机制→修行与智慧），并在〈破执我品〉中作哲学的破斥；故是**系统的论书**。"
+    }
+   ],
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《俱舍论》的汉译（真谛旧译与玄奘新译）在译语与品目上有差异；本页依玄奘译本与相关研究概述，具体品目须核。",
+   "sort_year": 565
+  },
+  {
    "id": "work-yanshi-jiaxun",
    "title": "《颜氏家训》",
    "title_original": "顏氏家訓",

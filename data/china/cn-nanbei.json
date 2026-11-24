@@ -894,6 +894,311 @@
      "note": "约499年"
     }
    ]
+  },
+  {
+   "id": "cn-nanbei-zhendi",
+   "name": "真谛",
+   "latin": "Paramārtha",
+   "birth_year": 499,
+   "death_year": 569,
+   "birth_display": "499年",
+   "death_display": "569年",
+   "birth_note": "据《续高僧传》卷一：西天竺优禅尼国人，梁大同年间（546年前后）泛海至南海，后入建康、转浙赣闽等地译经。",
+   "death_note": "569年卒（《续高僧传》记为入灭于南海）。",
+   "era": "南朝梁陈。真谛是四大译师之一，译出《摄大乘论》《阿毗达磨俱舍论》等，把**无著—世亲的瑜伽行派**系统传入中国。其译籍在当时影响有限（因战乱与师承不继），但为后来的摄论师与唯识学奠下基础。他兼通“三性”“阿赖耶识”等说，与南朝流行的“佛性本有”说形成张力。",
+   "school": "南朝译经（瑜伽行派传入）",
+   "core_questions": [
+    "识的结构如何说明生死与解脱？",
+    "三性如何安立？",
+    "佛性是本有还是由修而成？"
+   ],
+   "arguments": [
+    {
+     "claim": "以“识”的转依说明解脱",
+     "premises": [
+      "凡夫的识依“阿赖耶识”而转，故有生死。",
+      "而“转依”（āśraya-parāvṛtti）是识的转变，不是另得一个实体。"
+     ],
+     "inference": "若解脱是识的转变，则修行不是“取得”什么，而是**转化**已有的识；故其说是对“本有佛性”的一种补充：佛性须在识的转依中实现。",
+     "conclusion": "解脱即识的转依（此说为摄论师与唯识学的共同前提）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "三性：依他、遍计、圆成",
+     "premises": [
+      "一切法依因缘而起（依他起）。",
+      "而凡夫于其上增益自性（遍计所执）。"
+     ],
+     "inference": "若遍计所执是“本来无”的，则去除它即显“圆成实”；故其三性是**一层转依的结构**，不是三个世界。",
+     "conclusion": "三性是一层转依的结构（此说避免了“真妄二体”的二元论）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《摄大乘论》（译）",
+     "edition": "《大正藏》第31卷",
+     "note": "563年前后"
+    },
+    {
+     "title": "《阿毗达磨俱舍论》（译）",
+     "edition": "《大正藏》第29卷",
+     "note": "563—567年"
+    },
+    {
+     "title": "《转识论》",
+     "edition": "《大正藏》第31卷",
+     "note": "6世纪"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "世亲（其学之所本）",
+     "id": null,
+     "note": "以《摄大乘论释》《俱舍论》为所依"
+    },
+    {
+     "name": "无著（其学之所本）",
+     "id": null,
+     "note": "《摄大乘论》本论之作者"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "摄论师",
+     "id": null,
+     "note": "以其译籍为宗的学派"
+    },
+    {
+     "name": "玄奘与唯识学",
+     "id": null,
+     "note": "后以新译重译其系统"
+    },
+    {
+     "name": "《大乘起信论》一系",
+     "id": null,
+     "note": "“如来藏”说与其“识”说形成张力"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "当时的南朝僧团",
+     "view": "其译籍“言简意奥”，加之战乱与师承不继，故其学一时未能大行。",
+     "response": "真谛一系的回应在其译籍本身：他以“转依”与“三性”提供了完整的系统，只待后世的承接（摄论师与玄奘）。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-xugaoseng-zhuan",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "真谛只是“译师”，无思想",
+     "why": "其译籍的**选择**（《摄大乘论》《俱舍论》）与译语（如“阿摩罗识”等）本身即一种教理的取向；故不能只作语言工作看。"
+    },
+    {
+     "claim": "其学与玄奘的唯识学相同",
+     "why": "二者所依的论典与译语不同（真谛多依《摄大乘论》，玄奘依《成唯识论》一系），且“九识”等说与玄奘的“八识”说不同；故须分辨。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>真谛：转依与三性</text><defs><marker id='aZD' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>识依阿赖耶而转故有生死</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而转依是识的转变</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故解脱非取得而是转化</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故三性是一层转依的结构</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aZD)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aZD)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "真谛：识的转依与三性（示意图）",
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "真谛的生卒（499—569）与来华年代（546年前后）依《续高僧传》卷一，其卒年与地点诸本有异；其“九识”说与玄奘“八识”说的差异须核专门研究。本页属语境性引用。",
+   "doctrine": {
+    "summary": "真谛以“识的转依”说明解脱：凡夫的识依阿赖耶识而转故有生死，而“转依”是识的转变，不是另得实体。他又以“三性”（依他、遍计、圆成）说明：遍计所执本无，去之即显圆成实，故三性是一层转依的结构，而非三个世界。其译籍把瑜伽行派系统传入中国，与南朝“佛性本有”说形成张力。",
+    "system": [
+     {
+      "name": "转依",
+      "content": "解脱是识的转变，不是取得实体；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "三性",
+      "content": "依他起、遍计所执、圆成实；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "阿赖耶识",
+      "content": "生死所依的识，须转而非灭；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "译籍的选择",
+      "content": "以《摄大乘论》《俱舍论》为骨干，本身即教理取向。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "优禅尼、建康与南海（499—569）",
+      "change": "546 年前后泛海至南海；应梁武帝之请入建康；因战乱辗转浙赣闽；563—567 年间译《摄大乘论》《俱舍论》等；569 年入灭。"
+     }
+    ],
+    "reception": "其译籍成为“摄论师”一系的根据；玄奘后以新译重译同一系统（《成唯识论》一系），二者遂成唯识学的两条线路；其“九识”说亦是后世争论的焦点。"
+   },
+   "works_detail": [
+    {
+     "title": "《摄大乘论》（译）",
+     "structure": "无著本论，真谛译三卷：以“十相”说明阿赖耶识、三性、六波罗蜜与彼果。",
+     "core_thesis": "以识的转依与三性说明解脱；这是该书的核心命题。",
+     "editions": "《大正藏》第31卷",
+     "note": "563 年前后"
+    }
+   ]
+  },
+  {
+   "id": "cn-nanbei-damo",
+   "name": "菩提达摩",
+   "latin": "Bodhidharma",
+   "birth_year": 483,
+   "death_year": 540,
+   "birth_display": "约483年",
+   "death_display": "约540年",
+   "birth_note": "据《续高僧传》卷十六：南天竺人（一说波斯人），泛海至南朝境，后北行入魏，居嵩洛一带，世称“壁观婆罗门”。",
+   "death_note": "卒年不详（《续高僧传》记其“不测所终”）。",
+   "era": "南朝梁至北魏。达摩被后世禅宗尊为“东土初祖”，但**其史实与传说须分辨**：较早的《续高僧传》所记甚简（“理入”“行入”的四行），而“拈花微笑”“面壁九年”“一苇渡江”等皆为后世的传说。其学以“壁观”与“四行”为核心，主张“即心即佛”的直证，与当时依经论渐修的学风不同。",
+   "school": "早期禅（东土初祖，传说与史实须分辨）",
+   "core_questions": [
+    "成佛的根据在经论还是在自心？",
+    "“理入”与“行入”是何关系？",
+    "何以“不立文字”而仍传法？"
+   ],
+   "arguments": [
+    {
+     "claim": "理入与行入：二入四行",
+     "premises": [
+      "“理入”是“藉教悟宗”：深信众生同一真性，为客尘所覆。",
+      "“行入”是四行：报冤行、随缘行、无所求行、称法行。"
+     ],
+     "inference": "若理入是“悟”，行入是“修”，则二者不可偏废：无行之悟易成狂解，无悟之行易成盲修。故其说的结构是**悟修并举**，与后世“不立文字”的口号须分辨。",
+     "conclusion": "二入四行：悟修并举（此说为早期禅的纲领）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "“壁观”：凝住壁观，与道冥合",
+     "premises": [
+      "心若有所住，则为境所转。",
+      "而“壁观”是心不缘外境、凝然安住。"
+     ],
+     "inference": "若心不缘境，则境不能转心；故其工夫是“安心”而非“求知”——这一取向与南朝依经论立宗的学风形成对照。",
+     "conclusion": "安心为要：工夫在“安心”而非“立宗”（此说开后世禅门的取向）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《略辨大乘入道四行》（传）",
+     "edition": "《续高僧传》卷十六所引；《楞伽师资记》",
+     "note": "6世纪"
+    },
+    {
+     "title": "《血脉论》《悟性论》（传）",
+     "edition": "传为达摩所作，真伪有争议",
+     "note": "后世"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "《楞伽经》（其印心之经）",
+     "id": null,
+     "note": "后世称“楞伽师”一系以其为印心"
+    },
+    {
+     "name": "求那跋陀罗（译《楞伽》）",
+     "id": null,
+     "note": "其学所依的译典"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "慧可（其弟子）",
+     "id": null,
+     "note": "后世列为二祖"
+    },
+    {
+     "name": "禅宗（后世）",
+     "id": null,
+     "note": "尊为东土初祖"
+    },
+    {
+     "name": "神会与《坛经》一系",
+     "id": null,
+     "note": "以“不立文字、直指人心”重构其形象"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后世的禅宗史家",
+     "view": "以其为“不立文字”的初祖，遂多所神化（拈花微笑、一苇渡江等）。",
+     "response": "史学的回应是：较早的《续高僧传》只记“壁观”与“四行”，故“不立文字”的口号与其**藉教悟宗**的原文有张力。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-xugaoseng-zhuan",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "达摩的史实如后世所传",
+     "why": "较早的《续高僧传》记载简略（壁观、四行、游化），而“拈花微笑”“面壁九年”等皆为后世增饰；故须分辨史实与传说。"
+    },
+    {
+     "claim": "达摩主张“不立文字”故不读经",
+     "why": "其“理入”明说“藉教悟宗”，且以《楞伽经》印心；故“不立文字”是后世的**口号化**，不是其原说。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>菩提达摩：二入四行</text><defs><marker id='aDM' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>理入：藉教悟宗</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>行入：报冤随缘无所求称法</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故悟修并举</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故工夫在安心</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aDM)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aDM)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "菩提达摩：“理入”与“行入”的四行（示意图）",
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "ws-mohezhiguan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "达摩的生卒与年寿皆不详（《续高僧传》记“不测所终”）；本页所据为《续高僧传》卷十六与后世禅宗史料的对读，**史实与传说须分辨**。其《血脉论》《悟性论》等传本真伪有争议。",
+   "doctrine": {
+    "summary": "达摩之学以“二入四行”为纲：“理入”是藉教悟宗（深信众生同一真性，为客尘所覆）；“行入”是四行（报冤、随缘、无所求、称法）。故其结构是**悟修并举**，与后世“不立文字”的口号须分辨。其“壁观”是安心之法：心不缘境，则境不能转心。",
+    "system": [
+     {
+      "name": "理入",
+      "content": "藉教悟宗：信众生同一真性，为客尘所覆；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "行入四行",
+      "content": "报冤行、随缘行、无所求行、称法行；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "壁观",
+      "content": "凝住安心，不缘外境；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "史实与传说",
+      "content": "早期传记简略；拈花微笑等为后世增饰；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "南天竺与嵩洛（约5世纪末—6世纪上半叶）",
+      "change": "泛海至南朝境；北行入魏，居嵩洛；以“壁观”教人；弟子慧可等承其学；卒年不详。后世禅宗尊为东土初祖。"
+     }
+    ],
+    "reception": "其学经慧可、僧璨、道信、弘忍而发展为东山法门，终成禅宗；但“不立文字、直指人心”的形象主要成于神会与《坛经》一系，与达摩“藉教悟宗”的原文有张力。"
+   },
+   "works_detail": [
+    {
+     "title": "《略辨大乘入道四行》（传）",
+     "structure": "短文：先列“理入”，次列“四行”（报冤、随缘、无所求、称法）。",
+     "core_thesis": "悟修并举：理入与行入不可偏废。",
+     "editions": "《续高僧传》卷十六所引；《楞伽师资记》",
+     "note": "6世纪"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -1186,6 +1491,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“方便”（upāya）与“方便胜智”（upāya-kauśalya）的区分、以及“开权显实”的用法须核；本页取一般义。"
+  },
+  {
+   "id": "cn-nanbei-alaoye",
+   "term": "阿赖耶识",
+   "term_latin": "ālaya-vijñāna（storehouse consciousness）",
+   "definition": "瑜伽行派的核心概念：一切经验的“种子”（bīja）所藏之处，故为生死与解脱的共同依据。真谛译籍把它传入中国，但其“九识”说（另立“阿摩罗识”）与玄奘的“八识”说不同——这一差异是唯识学在华的两条线路。",
+   "usages": [
+    {
+     "name": "真谛",
+     "id": "cn-nanbei-zhendi",
+     "usage": "以《摄大乘论》译传其说，并立“阿摩罗识”。"
+    },
+    {
+     "name": "玄奘（其异）",
+     "usage": "以“八识”说为准，不立第九识。"
+    },
+    {
+     "name": "《大乘起信论》一系（其张力）",
+     "usage": "以“如来藏”统摄，与“识”说形成张力。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-foxing",
+    "cn-nanbei-cibei"
+   ],
+   "example": {
+    "text": "“阿赖耶识”的要害在于它同时是**生死之所依**与**解脱之所依**：若另立一个“清净识”，则成“真妄二体”；若只有染污的识，则转依无据。真谛立“第九识”与玄奘不立，正是对这一张力的两种解法——故这不是术语之争，而是本体论的分歧。",
+    "figure": "真谛",
+    "locator": "《摄大乘论》（真谛译）"
+   },
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“阿赖耶识”的译名（阿赖耶／阿黎耶／藏识）与真谛“九识”说、玄奘“八识”说的差异须核；本页并述二说，具体文本须核译籍与《成唯识论》。"
   }
  ],
  "debates": [
@@ -1262,6 +1604,80 @@
    "pending_notes": "南朝“本有/始有”之争的具体人物与文本须核《涅槃经》的译传史与相关研究；本页取一般表述。",
    "status": "无定论",
    "status_note": "未有定论（中国佛教内部长期并存）。天台以“性具”调和（本有而不碍修显），华严以“性起”说之；但“本有/始有”的张力在后世仍以不同形式出现。"
+  },
+  {
+   "id": "cn-nanbei-debate-dunjian",
+   "title": "顿悟还是渐修",
+   "question": "成佛之悟是一念顿见，还是渐次积累而成？",
+   "positions": [
+    {
+     "holder": "竺道生一系",
+     "id": "cn-nanbei-daosheng",
+     "stance": "悟是顿的，渐修只是其条件",
+     "reasons": [
+      "真理是整体的，故对它的把握不能由部分累积而成。",
+      "渐修所积是资粮与除障，不是“悟”本身。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "当时的渐修一系",
+     "id": null,
+     "stance": "须经十地次第而悟",
+     "reasons": [
+      "经论明列次第，故悟亦在次第之中。",
+      "若一念即悟，则修行与阶位皆成虚设。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "争的是“悟”与“修”的关系：顿悟是说“悟不可分”，渐修是说“修有其序”；二者未必互斥，但对“修行意义”的结论不同。",
+   "status": "无定论",
+   "status_note": "后世天台以“渐修顿悟”调和，禅宗则以“顿”为宗旨；“顿渐”之辩在唐代（神会与北宗）再度激化。",
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "ws-mohezhiguan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "南朝“顿渐”之争的具体人物与文本须核《高僧传》与相关研究；唐代神会与北宗的争论不宜直接回溯为此篇。"
+  },
+  {
+   "id": "cn-nanbei-debate-jingwang",
+   "title": "沙门是否应敬王者",
+   "question": "出家者是否应受世俗礼制的管辖？",
+   "positions": [
+    {
+     "holder": "慧远一系",
+     "id": null,
+     "stance": "出家者不存身以息患，故不受王化之礼",
+     "reasons": [
+      "出家者“不存身以息患”，其志向在出世。",
+      "在家者须遵王化，出家者则有其分际。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "桓玄等主张敬王者者",
+     "id": null,
+     "stance": "沙门亦在王土，故应尽敬",
+     "reasons": [
+      "率土之滨莫非王臣。",
+      "若不敬王者，则教权将不受国法约束。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "争的是**权力的边界**：不是“佛教是否可信”，而是“出家者属于谁的管辖”。其答案（分际）为后世政教关系定下了基调。",
+   "status": "部分解决",
+   "status_note": "东晋末以“沙门不敬王者”暂告一段，但北朝与唐代（如唐高宗时）屡有再议，故只是局部的解决。",
+   "sources": [
+    "ws-hongming-ji",
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“沙门不敬王者”之争的往复文本见《弘明集》卷五与《高僧传》；桓玄与慧远的具体往复须核原书。"
   }
  ]
 }
