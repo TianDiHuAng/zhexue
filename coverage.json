@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1662,
+  "entries": 1666,
   "by_level": {
    "L2": 779,
-   "L1": 883
+   "L1": 887
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 883,
+  "needs_verification": 887,
   "sources": 420,
   "sources_verified": 420
  },
@@ -14982,6 +14982,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-offterdingen",
+   "type": "work",
+   "title": "《亨利希·冯·奥夫特丁根》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-jenaer-realphilosophie",
    "type": "work",
    "title": "《耶拿实在哲学》",
@@ -15521,6 +15532,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-appearance-reality",
+   "type": "work",
+   "title": "《现象与实在》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-mozi-jiangu",
    "type": "work",
    "title": "《墨子间诂》",
@@ -16008,6 +16030,17 @@
    "id": "work-long-march",
    "type": "work",
    "title": "《长征》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-intention",
+   "type": "work",
+   "title": "《意向》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -17955,6 +17988,17 @@
    "id": "cmp-shenshu",
    "type": "comparative",
    "title": "“神术”与“祭祀”：仪式能带人上升吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-lanhua",
+   "type": "comparative",
+   "title": "“蓝花”与“逍遥游”：向往无限，是诗还是道？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

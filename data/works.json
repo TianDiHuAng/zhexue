@@ -27889,6 +27889,63 @@
    "sort_year": 1800
   },
   {
+   "id": "work-offterdingen",
+   "title": "《亨利希·冯·奥夫特丁根》",
+   "title_original": "Heinrich von Ofterdingen",
+   "tradition": "west",
+   "date_display": "1802（诺瓦利斯；未完成）",
+   "structure": "两部（第二部仅存残篇）：〈期待〉与〈实现〉，以诗人的成长与“蓝花”之梦为线。",
+   "core_arguments": [
+    "以“**蓝花**”为象征：对无限之物的向往，是诗的与哲学的动力",
+    "以“**魔幻观念论**”（magischer Idealismus）为纲：诗能改造世界，使自然与精神相合",
+    "以小说行哲学：其形式本身即其论旨（诗与思的合一）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "蓝花之梦与成长"
+    },
+    {
+     "locator": "第一部末",
+     "point": "诗与自然"
+    },
+    {
+     "locator": "第二部残篇",
+     "point": "实现与自然之诗"
+    },
+    {
+     "locator": "全书",
+     "point": "以象征行哲学"
+    }
+   ],
+   "editions": [
+    "德文（Novalis Schriften, Kohlhammer）；英译（Henry von Ofterdingen, Continuum）；中译参《诺瓦利斯作品选》（版次待核）"
+   ],
+   "related_people": [
+    "gr-german-novalis",
+    "gr-german-schleiermacher",
+    "gr-german-fichte"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“浪漫派的爱情小说”",
+     "why": "其书以“蓝花”为**无限之向往**的象征，并以“魔幻观念论”行其哲学；故其为哲学的小说，非言情之作。"
+    },
+    {
+     "claim": "其“魔幻观念论”是逃避现实",
+     "why": "其主张诗能**改造**世界（使自然与精神相合），故其旨为积极的构造，非逃避。"
+    }
+   ],
+   "sources": [
+    "sep-novalis",
+    "sep-kant",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《亨利希·冯·奥夫特丁根》两部的存佚（第二部为残篇）与 1802 年刊本须核 Kohlhammer 版；“蓝花”“魔幻观念论”的原文亦须核。",
+   "sort_year": 1802
+  },
+  {
    "id": "work-jenaer-realphilosophie",
    "title": "《耶拿实在哲学》",
    "title_original": "Jenaer Realphilosophie",
@@ -30656,6 +30713,63 @@
    "sort_year": 1890
   },
   {
+   "id": "work-appearance-reality",
+   "title": "《现象与实在》",
+   "title_original": "Appearance and Reality",
+   "tradition": "west",
+   "date_display": "1893（布拉德雷）",
+   "structure": "两卷：前卷论“现象”（其矛盾的分析），后卷论“实在”（绝对者的本性）。",
+   "core_arguments": [
+    "凡以**关系**为终极者皆陷矛盾：关系项与关系本身互为前提，故无穷后退",
+    "故“现象”的世界（关系、时间、因果）皆不自足",
+    "“**绝对**”（the Absolute）是唯一的实在：为经验整体的和谐体（“超关系”的一体）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "关系的矛盾"
+    },
+    {
+     "locator": "卷一论时间与因果",
+     "point": "现象的层级"
+    },
+    {
+     "locator": "卷二",
+     "point": "绝对者的本性"
+    },
+    {
+     "locator": "全书",
+     "point": "以现象与实在为纲"
+    }
+   ],
+   "editions": [
+    "英文本（Clarendon）；中译少见"
+   ],
+   "related_people": [
+    "gr-19c-bradley",
+    "gr-german-hegel",
+    "gr-20c-russell"
+   ],
+   "misreadings": [
+    {
+     "claim": "其说只是“黑格尔的英译”",
+     "why": "其“绝对”以**经验整体的和谐**为说，且以“关系的矛盾”为独立论证；故其与黑格尔有承续亦有其特色，不可径视为翻译。"
+    },
+    {
+     "claim": "其为“神秘主义”",
+     "why": "其论证是**逻辑的**（关系说的矛盾），其结论虽有宗教的意味，然其方法为论证；故须分辨其论证与结论。"
+    }
+   ],
+   "sources": [
+    "sep-bradley",
+    "sep-hegel",
+    "sep-russell"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《现象与实在》两卷的结构与 1893 年初版须核 Clarendon 版；“关系的矛盾”“绝对者”的原文亦须核。中译少，本页多为义述。",
+   "sort_year": 1893
+  },
+  {
    "id": "work-mozi-jiangu",
    "title": "《墨子间诂》",
    "title_original": "墨子閒詁（墨子間詁）",
@@ -33215,6 +33329,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《长征》的成书（1957）与 1955 年访华须核 Gallimard 版；其观察的时代局限须标出，不可作史料直用。中译少见。",
+   "sort_year": 1957
+  },
+  {
+   "id": "work-intention",
+   "title": "《意向》",
+   "title_original": "Intention",
+   "tradition": "west",
+   "date_display": "1957（安斯康姆）",
+   "structure": "三节（§1—§52）：论意向的行动、意向的表述与“实践知识”的性质。",
+   "core_arguments": [
+    "“**意向的行动**”不依“预先的心理状态”而定，而须以“行动在实践推理中的位置”来说",
+    "“**实践知识**”不同于理论知识：其“知”在行动之中（非由观察而得）",
+    "以“为何”之问（Why?）为方法：能给出理由的行动方为意向的行动"
+   ],
+   "key_points": [
+    {
+     "locator": "第一节",
+     "point": "三个问题与“为何”"
+    },
+    {
+     "locator": "第二节",
+     "point": "意向的表述"
+    },
+    {
+     "locator": "第三节",
+     "point": "实践知识与实践推理"
+    },
+    {
+     "locator": "全书",
+     "point": "以语言分析入行动论"
+    }
+   ],
+   "editions": [
+    "英文本（Harvard UP）；中译参《意向》（版次待核）"
+   ],
+   "related_people": [
+    "gr-contemp-anscombe",
+    "gr-20c-wittgenstein",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“行动论的技术讨论”",
+     "why": "其书重启了**实践知识**这一亚里士多德的论题，并影响了行动哲学、伦理学与心灵哲学；故其意义超出技术讨论。"
+    },
+    {
+     "claim": "其“意向”是内心的意图",
+     "why": "其分析的重心在**行动的表述与理由**（“为何”之答），而非内省的心理状态；故其说反心理主义。"
+    }
+   ],
+   "sources": [
+    "sep-anscombe",
+    "sep-wittgenstein",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《意向》三节的结构与 1957 年初版须核 Harvard UP 版；“实践知识”与“为何”之问的原文亦须核。中译待核。",
    "sort_year": 1957
   },
   {
