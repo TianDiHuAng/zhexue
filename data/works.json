@@ -17313,9 +17313,9 @@
     "德文 Gesammelte Werke（Berlin）；中译参《基督教的本质》（荣震华译，商务印书馆）"
    ],
    "related_people": [
+    "gr-19c-feuerbach",
     "gr-german-hegel",
-    "gr-19c-marx",
-    "gr-german-kant"
+    "gr-19c-marx"
    ],
    "misreadings": [
     {
@@ -17394,6 +17394,63 @@
    "sort_year": 1843
   },
   {
+   "id": "work-grundsaetze-philosophie",
+   "title": "《未来哲学原理》",
+   "title_original": "Grundsätze der Philosophie der Zukunft",
+   "tradition": "west",
+   "date_display": "1843年（费尔巴哈）",
+   "structure": "六十四节（格言体）：以“感性与我—你”为原则，逐条与黑格尔的思辨哲学对照。",
+   "core_arguments": [
+    "哲学须从感性直观开始，而非从抽象概念",
+    "“我—你”是真理的场所：真理不是孤独的思维者的属性",
+    "思辨哲学的“绝对精神”是抽象化的神学"
+   ],
+   "key_points": [
+    {
+     "locator": "第1—10节",
+     "point": "对黑格尔的批判"
+    },
+    {
+     "locator": "第30—40节",
+     "point": "感性与直观"
+    },
+    {
+     "locator": "第50—60节",
+     "point": "我—你与真理"
+    },
+    {
+     "locator": "末节",
+     "point": "新哲学的原则"
+    }
+   ],
+   "editions": [
+    "德文 Gesammelte Werke；英译（Principles of the Philosophy of the Future）"
+   ],
+   "related_people": [
+    "gr-19c-feuerbach",
+    "gr-german-hegel",
+    "gr-19c-marx"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“反哲学”的宣言",
+     "why": "其目标是**改造**哲学（从思辨到感性），不是取消它；故它是新哲学的纲领，不是反哲学。"
+    },
+    {
+     "claim": "“我—你”是其宗教思想的残余",
+     "why": "“我—你”是**感性与关系**的原则，用以说明真理的场所；其用法是哲学的，不是教义的。"
+    }
+   ],
+   "sources": [
+    "sep-ludwig-feuerbach",
+    "sep-hegel",
+    "sep-marx"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《未来哲学原理》的节数（通行64节）与各本编排须核德文 Gesammelte Werke；其“我—你”说与布伯的关系亦须分辨。",
+   "sort_year": 1843
+  },
+  {
    "id": "work-economic-philosophic-manuscripts",
    "title": "《1844年经济学哲学手稿》",
    "title_original": "Ökonomisch-philosophische Manuskripte aus dem Jahre 1844",
@@ -17448,6 +17505,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1844
+  },
+  {
+   "id": "work-wesen-religion",
+   "title": "《宗教的本质》",
+   "title_original": "Das Wesen der Religion",
+   "tradition": "west",
+   "date_display": "1846年（费尔巴哈）",
+   "structure": "以“自然宗教”为对象：论自然作为宗教的第一个对象，以及依赖感（Abhängigkeitsgefühl）的宗教意义。",
+   "core_arguments": [
+    "自然宗教的对象是自然，而其根据是人的**依赖感**",
+    "“神”的不同形象对应人对自然的不同关系",
+    "宗教的真理须还原为人的感性处境"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "自然与宗教"
+    },
+    {
+     "locator": "中段",
+     "point": "依赖感"
+    },
+    {
+     "locator": "后段",
+     "point": "自然宗教的诸形态"
+    },
+    {
+     "locator": "结论",
+     "point": "宗教的人类学还原"
+    }
+   ],
+   "editions": [
+    "德文 Gesammelte Werke；英译（The Essence of Religion）"
+   ],
+   "related_people": [
+    "gr-19c-feuerbach",
+    "gr-german-hegel",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它与《基督教的本质》是同一部书",
+     "why": "前者以**自然宗教**为对象（依赖感），后者以**基督教**为对象（本质的投射）；二者的对象与论证不同。"
+    },
+    {
+     "claim": "“依赖感”是施莱尔马赫的概念",
+     "why": "施莱尔马赫以“绝对依赖感”为宗教的本质，费尔巴哈则用它作**人类学的解释**（依赖感是人的处境，不是神的启示）；故用法相反。"
+    }
+   ],
+   "sources": [
+    "sep-ludwig-feuerbach",
+    "sep-kant",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《宗教的本质》与《基督教的本质》的对象差异（自然宗教 vs 基督教）须分辨；其“依赖感”与施莱尔马赫的异同亦须核。",
+   "sort_year": 1846
   },
   {
    "id": "work-poverty-philosophy",

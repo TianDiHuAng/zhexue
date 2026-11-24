@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1189,
+  "entries": 1193,
   "by_level": {
-   "L2": 789,
-   "L1": 400
+   "L2": 790,
+   "L1": 403
   },
   "doctrine": {
-   "total": 261,
-   "detail": 261,
+   "total": 262,
+   "detail": 262,
    "auto": 0
   },
-  "needs_verification": 400,
+  "needs_verification": 403,
   "sources": 405,
   "sources_verified": 405
  },
@@ -83,10 +83,10 @@
    "unit_id": "gr-19c",
    "title": "19世纪哲学",
    "region": "west",
-   "philosophers": 17,
-   "concepts": 20,
+   "philosophers": 18,
+   "concepts": 21,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -9"
+   "philosophers_slot": "8 上限，余 -10"
   },
   {
    "unit_id": "gr-20c",
@@ -3850,6 +3850,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-19c-feuerbach",
+   "type": "philosopher",
+   "title": "费尔巴哈",
+   "container": "gr-19c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-19c-will",
    "type": "concept",
    "title": "意志",
@@ -4062,6 +4073,17 @@
    "id": "gr-19c-existential-irony",
    "type": "concept",
    "title": "生存的反讽",
+   "container": "gr-19c",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-19c-gattungswesen",
+   "type": "concept",
+   "title": "类本质",
    "container": "gr-19c",
    "level": "L1",
    "sources": 3,
@@ -11594,6 +11616,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-grundsaetze-philosophie",
+   "type": "work",
+   "title": "《未来哲学原理》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-economic-philosophic-manuscripts",
    "type": "work",
    "title": "《1844年经济学哲学手稿》",
@@ -11602,6 +11635,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-wesen-religion",
+   "type": "work",
+   "title": "《宗教的本质》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {

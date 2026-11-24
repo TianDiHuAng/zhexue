@@ -2519,6 +2519,161 @@
      "note": "1835（上卷）／1840（下卷）"
     }
    ]
+  },
+  {
+   "id": "gr-19c-feuerbach",
+   "name": "费尔巴哈",
+   "latin": "Ludwig Feuerbach",
+   "birth_year": 1804,
+   "death_year": 1872,
+   "birth_display": "1804年",
+   "death_display": "1872年",
+   "birth_note": "据其书信与传记：生于巴伐利亚的兰茨胡特，父为法学家；1823年入海德堡学神学，后转柏林听黑格尔，1828年获博士。",
+   "death_note": "1872年卒于纽伦堡。",
+   "era": "19世纪德国。费尔巴哈以“神学即人类学”震动一时：宗教的对象不是神，而是**人的本质**（理性、意志、爱）的投射；故神越富有，人越贫乏。其《基督教的本质》（1841）成为黑格尔左派的核心文本，也直接影响了马克思与19世纪的无神论。他晚年隐居，其“感性”与“我—你”哲学影响了布伯与20世纪的对话哲学。",
+   "school": "黑格尔左派（人类学唯物论）",
+   "core_questions": [
+    "宗教的对象究竟是什么？",
+    "人如何失去自己的本质？",
+    "感性为何高于抽象思维？"
+   ],
+   "arguments": [
+    {
+     "claim": "神是人的本质的投射",
+     "premises": [
+      "宗教的对象具有人的性质（理性、意志、爱）。",
+      "而人把这些性质**对象化**为一个无限的存在者。"
+     ],
+     "inference": "若神的规定皆取自人的本质，则神学的内容实为人类学；故宗教的“秘密”是人的自我对象化——这一转移使神学成为可批判的对象。",
+     "conclusion": "神学即人类学：神是人的本质的异化投射（此说为19世纪无神论奠基）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "感性优先：真理性在直观中被给予",
+     "premises": [
+      "抽象思维以概念为中介，而概念易脱离直观。",
+      "感性直观（尤其爱与痛苦）直接给予存在。"
+     ],
+     "inference": "若存在只在直观中被给予，则哲学须从“感性”而非“概念”开始；故其“未来哲学”以感性与“我—你”关系为原则，而非以绝对精神为原则。",
+     "conclusion": "感性高于抽象：哲学须从直观与关系出发（此说影响了布伯与对话哲学）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《基督教的本质》",
+     "edition": "中译参荣震华译（商务印书馆）；德文 Gesammelte Werke",
+     "note": "1841"
+    },
+    {
+     "title": "《未来哲学原理》",
+     "edition": "中译参（若有）；德文 Gesammelte Werke",
+     "note": "1843"
+    },
+    {
+     "title": "《宗教的本质》",
+     "edition": "中译参（若有）（具体版次待核）",
+     "note": "1846"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "黑格尔（其师）",
+     "id": null,
+     "note": "在柏林听其课，后成为黑格尔左派"
+    },
+    {
+     "name": "康德（其批判对象）",
+     "id": null,
+     "note": "以“抽象理性”为批判的靶子"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "马克思（其影响）",
+     "id": "gr-19c-marx",
+     "note": "以“异化”转用于劳动，并批判其“抽象的类本质”"
+    },
+    {
+     "name": "布伯与对话哲学",
+     "id": null,
+     "note": "承其“我—你”关系"
+    },
+    {
+     "name": "19世纪的无神论",
+     "id": null,
+     "note": "以其“投射”说为滥觞"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "马克思",
+     "view": "其“类本质”仍是抽象的：费尔巴哈把人的本质理解为内在的、无声的“类”，而未看到它是**社会关系的总和**。",
+     "response": "费尔巴哈一系的回应是：其“类”不是抽象概念，而在“我—你”的感性关系中被给予；故其立场是关系的，不是孤立的。",
+     "kind": "原文",
+     "sources": [
+      "sep-marx",
+      "sep-ludwig-feuerbach"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "费尔巴哈是“机械唯物主义者”",
+     "why": "其“唯物论”核心是**感性与关系**（我—你），不是机械论；且他明确批评庸俗唯物论者（如福格特、摩莱肖特）。"
+    },
+    {
+     "claim": "其“投射”说已被人类学驳倒",
+     "why": "其说的力量在于**批判**（宗教的人性内容），不在其经验人类学；以经验证据驳之，未触其批判的锋芒。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>费尔巴哈：投射与感性</text><defs><marker id='aFB' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>宗教对象具有人的性质</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故为人的本质的对象化</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故神学即人类学</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故哲学须从感性直观出发</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aFB)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aFB)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "费尔巴哈：本质的投射与感性的优先（示意图）",
+   "sources": [
+    "sep-ludwig-feuerbach",
+    "sep-hegel",
+    "sep-marx"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "费尔巴哈以“神学即人类学”立说：宗教的对象不是神，而是人的本质（理性、意志、爱）的**对象化投射**；故神越富有，人越贫乏，而宗教的批判即是人的自我意识的恢复。其后期又以“感性”与“我—你”关系为原则，主张哲学须从直观而非概念出发，故其立场是关系的、感性的，而非机械唯物论。",
+    "system": [
+     {
+      "name": "投射",
+      "content": "宗教的对象是人的本质的对象化；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "异化",
+      "content": "人把自己本质交给一个对象，自身因而贫乏。"
+     },
+     {
+      "name": "类本质（Gattungswesen）",
+      "content": "人的本质在“我—你”的类的关联中被给予。"
+     },
+     {
+      "name": "感性优先",
+      "content": "存在在感性直观中被给予，故哲学从直观始。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "兰茨胡特、柏林与纽伦堡（1804—1872）",
+      "change": "1823 年入海德堡学神学；1824 年转柏林听黑格尔；1828 年埃尔朗根大学博士；1830 年因《论死与不死》被解职，此后隐居；1841 年《基督教的本质》；1848 年后隐居纽伦堡；1872 年卒。"
+     }
+    ],
+    "reception": "《基督教的本质》是黑格尔左派的核心文本，直接影响了马克思与19世纪无神论；其“我—你”与“感性”说影响了布伯的对话哲学与20世纪的现象学人类学。"
+   },
+   "works_detail": [
+    {
+     "title": "《基督教的本质》",
+     "structure": "导论与两部分：论宗教的一般本质（依赖感、愿望）、论宗教的对象（神作为人的本质的投射）、以及“辨证”（宗教的真理即人）。",
+     "core_thesis": "神学即人类学；这是该书的核心命题。",
+     "editions": "中译参荣震华译（商务印书馆）",
+     "note": "1841 年"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -3220,6 +3375,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "克尔凯郭尔的《论反讽概念》是其学位论文（1841），其中对苏格拉底反讽的解读有其本人的立场；本页并述其说与苏格拉底文本的差异。"
+  },
+  {
+   "id": "gr-19c-gattungswesen",
+   "term": "类本质",
+   "term_latin": "Gattungswesen",
+   "definition": "费尔巴哈的核心概念：人的本质不是个体的偶然属性，而是“类”的规定——理性、意志、爱。而这些规定只在**我—你**的关系中被给予，故“类”不是抽象的共相，而是关系的实在。",
+   "usages": [
+    {
+     "name": "费尔巴哈",
+     "id": "gr-19c-feuerbach",
+     "usage": "以“类本质”说宗教的投射：神是类本质的对象化。"
+    },
+    {
+     "name": "马克思（其批判）",
+     "id": "gr-19c-marx",
+     "usage": "指其“类”仍抽象：人的本质是**社会关系的总和**。"
+    },
+    {
+     "name": "布伯（其承）",
+     "id": null,
+     "usage": "以“我—你”关系承其关系性的“类”。"
+    }
+   ],
+   "related": [
+    "gr-19c-alienation"
+   ],
+   "example": {
+    "text": "若人的本质只在“我—你”中被给予，则孤立的个体无法拥有它——这一“关系性”正是马克思批评其“抽象”的着力处。",
+    "figure": "费尔巴哈",
+    "locator": "《未来哲学原理》"
+   },
+   "sources": [
+    "sep-ludwig-feuerbach",
+    "sep-marx",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“类本质”（Gattungswesen）在费尔巴哈与马克思的用法不同：费尔巴哈侧重“我—你”的关系，马克思则以“社会关系的总和”替换之；本页并述二者，具体文本须核。"
   }
  ],
  "debates": [
