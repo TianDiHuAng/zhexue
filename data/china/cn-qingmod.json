@@ -4513,6 +4513,155 @@
      "note": "1914 年"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-ye-xie",
+   "name": "叶燮",
+   "latin": "Ye Xie",
+   "birth_year": 1627,
+   "death_year": 1703,
+   "birth_display": "1627年",
+   "death_display": "1703年",
+   "birth_note": "据《清史稿》文苑传：字星期，号己畦，浙江嘉兴人；康熙进士，官宝应知县，后被劾罢归，隐居横山，世称“横山先生”。",
+   "death_note": "1703年卒（《清史稿》文苑传）。",
+   "era": "清初。叶燮以《原诗》立一**体系的诗学**：诗之本在“**理、事、情**”（三者以“气”行之），诗人之本在“**才、胆、识、力**”（四者以“识”为先）；并以“变而不失其正”论诗史的正变。故其位置是：把中国诗学从“品第”与“妙悟”推进到**有结构的理论** —— 这也是它常被拿来与西方诗学比较的原因。",
+   "school": "清初诗学（横山一系，体系化的诗论）",
+   "core_questions": [
+    "诗的本原是什么？",
+    "诗人的主体条件是什么？",
+    "诗史的正变如何理解？"
+   ],
+   "arguments": [
+    {
+     "claim": "诗之本在理、事、情，而三者以气行之",
+     "premises": [
+      "凡物皆有其所当然之理、其已然之事、其当然之情。",
+      "而三者非静态的条目，须有“气”以贯通之。"
+     ],
+     "inference": "若三者以气行，则诗不是“摹写理、事、情”，而是**以气贯之而使三者活**；故其说把“写什么”与“怎么写”合为一事。",
+     "conclusion": "理事情与气（此说为体系的诗本原论）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "诗人之本在才、胆、识、力，而以识为先",
+     "premises": [
+      "作诗须有才（能）、胆（敢）、识（见）、力（成）。",
+      "而四者之中，识为方向。"
+     ],
+     "inference": "若无识，则才胆力皆可误用；故其说以“识”统其余三者，把诗人的主体条件结构化。",
+     "conclusion": "才胆识力以识为先（此说为其主体论）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《原诗》",
+     "edition": "人民文学出版社霍松林校注本（版次待核）",
+     "note": "约1685"
+    },
+    {
+     "title": "《己畦文集》",
+     "edition": "《四库全书存目丛书》本（版次待核）",
+     "note": "清初"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "严羽（其批评的对象）",
+     "id": null,
+     "note": "其“妙悟”说被叶燮视为“无本”"
+    },
+    {
+     "name": "刘勰（其远源）",
+     "id": null,
+     "note": "《文心雕龙》的体系性为其先例"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "沈德潜的“格调”说",
+     "id": null,
+     "note": "取其正变之论"
+    },
+    {
+     "name": "现代的意境论与诗学体系研究",
+     "id": null,
+     "note": "以其为中国的“体系诗学”之例"
+    },
+    {
+     "name": "清中的诗学论争",
+     "id": null,
+     "note": "其说为诸家所引"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "主“神韵”与“妙悟”的一系",
+     "view": "以“理事情”为诗之本，则诗近于“文”与“学”：诗之妙正在其不可分析处，若一切皆可条贯，则诗亡。",
+     "response": "叶燮一系的回应是：其“理事情”非抽象的概念，而是**以气行之**的活物；故其说恰是要避免“以理为诗”，而非倡之（其书屡言“不可执理以绳诗”）。",
+     "kind": "原文",
+     "sources": [
+      "ws-wenxin-diaolong",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《原诗》只是“诗话的一种”",
+     "why": "其书有明确的**理论结构**（理事情—气；才胆识力），并以之贯通历代诗史；故它是“诗学的体系”。"
+    },
+    {
+     "claim": "其“变而不失其正”是复古",
+     "why": "其说恰为**变**辩护：诗有正变，变非失正；故其立场是“通变”，不是复古。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>叶燮：理事情与才胆识力</text><defs><marker id='aYX' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>物有理事情</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而三者以气行之</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>诗人有才胆识力</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>而四者以识为先</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aYX)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aYX)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "叶燮：“理事情—气”与“才胆识力—识”（示意图）",
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "叶燮无 SEP 专条（已试 ye-xie，404）；本页依《清史稿》文苑传、《原诗》原文（霍松林校注本）与相关研究，**属语境性引用而非专门研究**。其生卒（1627—1703）与罢官隐居之事须核。",
+   "doctrine": {
+    "summary": "叶燮以《原诗》立一体系的诗学：诗之本在“理、事、情”（三者以“气”行之），诗人之本在“才、胆、识、力”（四者以“识”为先），并以“变而不失其正”论诗史的正变。故其位置是把中国诗学从“品第”与“妙悟”推进到有结构的理论。",
+    "system": [
+     {
+      "name": "理事情与气",
+      "content": "凡物有理有事有情，而三者以气贯通之；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "才胆识力",
+      "content": "诗人之本在四者，而以识为方向；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "变而不失其正",
+      "content": "诗有正变，变非失正，故其说为变辩护；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "不可执理以绳诗",
+      "content": "其理事情非抽象概念，故反以理为诗；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "嘉兴与横山（1627—1703）",
+      "change": "康熙九年进士；官宝应知县；被劾罢归，隐居横山；撰《原诗》（约1685）；1703 年卒。"
+     }
+    ],
+    "reception": "《原诗》被视为中国诗学中最具体系性的一部，常与西方诗学相较；其“正变”之说为沈德潜等所承；其“不可执理以绳诗”之论则为其体系的自限。"
+   },
+   "works_detail": [
+    {
+     "title": "《原诗》",
+     "structure": "内篇二卷、外篇二卷：内篇论诗的本原与诗人之本，外篇评历代诗人诗论。",
+     "core_thesis": "诗之本在理事情，诗人之本在才胆识力。",
+     "editions": "人民文学出版社霍松林校注本",
+     "note": "约1685 年"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -5589,6 +5738,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“二重证据法”的原文（《古史新证》第一章）须核《王国维全集》；其与“三重证据法”（后加民族学材料）之别亦须分辨。"
+  },
+  {
+   "id": "cn-qingmod-lishiqing",
+   "term": "理事情",
+   "term_latin": "principle, event, and feeling",
+   "definition": "叶燮《原诗》的诗本原论：凡物皆有“理”（其所以然）、“事”（其已然）、“情”（其当然之情态），而三者须以“气”贯之而后活。诗不是摹写此三者，而是以气使之活 —— 故其说把“写什么”与“怎么写”合为一事，并以此反对“以理为诗”。",
+   "usages": [
+    {
+     "name": "叶燮（其立）",
+     "id": "cn-qingmod-ye-xie",
+     "usage": "以《原诗》内篇立此三者与气的关系。"
+    },
+    {
+     "name": "王夫之（其同代）",
+     "id": "cn-qingmod-wang-fuzhi",
+     "usage": "以“情景”论诗，取径不同而皆重诗之生动。"
+    },
+    {
+     "name": "严羽（其对照）",
+     "usage": "以“妙悟”论诗，被叶燮视为“无本”。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-puxi-yishi"
+   ],
+   "example": {
+    "text": "“理事情”的要害是给诗一个**不抽象的本原**：理若离开事与情即成概念，事若离开理与情即成账簿，情若离开理事即成滥情；三者以气贯通，才是诗所写的那一个“活物”。故叶燮既反对“以理为诗”，也反对“以情为诗”。",
+    "figure": "叶燮",
+    "locator": "《原诗·内篇》"
+   },
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“理事情”与“气”的关系须核《原诗》内篇上；其与“才胆识力”的配合亦须核内篇下。"
   }
  ],
  "debates": [

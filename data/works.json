@@ -8412,6 +8412,63 @@
    "sort_year": 300
   },
   {
+   "id": "work-wenfu-luji",
+   "title": "《文赋》",
+   "title_original": "文賦",
+   "tradition": "china",
+   "date_display": "西晋（陆机，261—303）",
+   "structure": "一篇（赋体）：以赋论文，述创作的起因、构思、布局、修辞、文体与灵感（“应感”）。",
+   "core_arguments": [
+    "“诗缘情而绮靡”：诗的本在情（非仅言志）",
+    "“课虚无以责有，叩寂寞而求音”：创作是**由无生有**的构思",
+    "“应感之会，通塞之纪”：灵感有通塞，非人力可强"
+   ],
+   "key_points": [
+    {
+     "locator": "篇首",
+     "point": "创作的起因"
+    },
+    {
+     "locator": "中段",
+     "point": "构思与布局"
+    },
+    {
+     "locator": "论文体",
+     "point": "十体的风格"
+    },
+    {
+     "locator": "篇末",
+     "point": "应感与通塞"
+    }
+   ],
+   "editions": [
+    "中华书局《陆机集》；《文赋集释》（张少康）"
+   ],
+   "related_people": [
+    "cn-nanbei-liuxie",
+    "cn-suitang-sikong-tu",
+    "cn-weijin-wangbi"
+   ],
+   "misreadings": [
+    {
+     "claim": "“诗缘情”与“诗言志”对立",
+     "why": "“缘情”是对“言志”的**扩充**（情亦志之所含），非取彼废此；且其说不废教化，只以情为诗的起点。"
+    },
+    {
+     "claim": "它是“写作指南”",
+     "why": "其述创作的心理过程（构思、灵感、通塞），故其性质是**创作论**，非操作规程。"
+    }
+   ],
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《文赋》的文字与“缘情绮靡”“应感”诸语的释义须核张少康集释本；陆机生卒（261—303）亦须核。",
+   "sort_year": 300
+  },
+  {
    "id": "work-baopuzi",
    "title": "《抱朴子》",
    "title_original": "抱朴子",
@@ -10331,6 +10388,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《赞阿弥陀佛偈》的卷数与偈数须核《大正藏》第47卷；其与五念门“赞叹门”的对应亦须核原文。",
+   "sort_year": 515
+  },
+  {
+   "id": "work-shipin-zhongrong",
+   "title": "《诗品》",
+   "title_original": "詩品（詩評）",
+   "tradition": "china",
+   "date_display": "南朝梁（钟嵘，约468—518）",
+   "structure": "三卷：分上、中、下三品，品评汉至梁的五言诗人一百二十余家，每家有序目与评语。",
+   "core_arguments": [
+    "以“品”第诗人：分三品而定其高下",
+    "“滋味”说：诗之善在“有滋味”（非徒事用典与声律）",
+    "“直寻”说：即目所见而直致其情，不以补假为工"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上",
+     "point": "上品诸家"
+    },
+    {
+     "locator": "序",
+     "point": "滋味与直寻"
+    },
+    {
+     "locator": "卷中下",
+     "point": "中下品的评骘"
+    },
+    {
+     "locator": "全书",
+     "point": "以品第诗"
+    }
+   ],
+   "editions": [
+    "人民文学出版社《诗品注》（陈延杰）；中华书局《钟嵘诗品校释》"
+   ],
+   "related_people": [
+    "cn-nanbei-liuxie",
+    "cn-suitang-sikong-tu",
+    "cn-songming-yan-yu"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“诗人排行榜”",
+     "why": "其“品”不只是高下，更含“体”与“味”的判断（如陶潜列中品而后世以为屈）；故其书是**批评的体系**，非排行榜。"
+    },
+    {
+     "claim": "“滋味”说只是比喻",
+     "why": "其“滋味”是对“诗何以动人”的正面主张：须“指事造形，穷情写物”，故其说有其标准（直寻、自然），非空喻。"
+    }
+   ],
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《诗品》的三卷品第与所评人数（通行一百二十余家）须核陈延杰注本；其生卒（约468—518）亦须核。",
    "sort_year": 515
   },
   {
@@ -13559,6 +13673,63 @@
    "sort_year": 1070
   },
   {
+   "id": "work-liuyi-shihua",
+   "title": "《六一诗话》",
+   "title_original": "六一詩話",
+   "tradition": "china",
+   "date_display": "北宋（欧阳修，1007—1072）",
+   "structure": "一卷（二十八则）：随笔记诗事、诗句与诗评，为“诗话”一体之始。",
+   "core_arguments": [
+    "以随笔论诗：不拘体系，随事而记",
+    "“状难写之景，如在目前”：引梅尧臣语，主张诗的写景须逼真",
+    "重“意”与“工”的相济：诗须意新语工"
+   ],
+   "key_points": [
+    {
+     "locator": "首数则",
+     "point": "诗话之体的自述"
+    },
+    {
+     "locator": "论梅尧臣",
+     "point": "状难写之景"
+    },
+    {
+     "locator": "论唐人诗",
+     "point": "句法与用意"
+    },
+    {
+     "locator": "末诸则",
+     "point": "诗事与考订"
+    }
+   ],
+   "editions": [
+    "人民文学出版社《六一诗话·白石诗说》（郑文校点）"
+   ],
+   "related_people": [
+    "cn-songming-zhu-xi",
+    "cn-nanbei-liuxie",
+    "cn-suitang-sikong-tu"
+   ],
+   "misreadings": [
+    {
+     "claim": "诗话是“系统的诗学”",
+     "why": "其体本为**随笔**（记诗事、诗句与一时之见），故不宜以体系相绳；然正因其自由，后世诗话遂成一体的传统。"
+    },
+    {
+     "claim": "其论诗无标准",
+     "why": "其标准在“意新语工”与“写景逼真”（引梅尧臣语）；故其随笔之中自有主张。"
+    }
+   ],
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ws-wenxin-diaolong",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《六一诗话》的则数与“诗话”一体的起源须核郑文校点本；“状难写之景”一段的归属（梅尧臣语）亦须核。",
+   "sort_year": 1070
+  },
+  {
    "id": "work-zhengmeng",
    "title": "《正蒙》",
    "title_original": "正蒙",
@@ -15866,9 +16037,9 @@
     "人民文学出版社《沧浪诗话校释》（郭绍虞）"
    ],
    "related_people": [
+    "cn-songming-yan-yu",
     "cn-suitang-sikong-tu",
-    "cn-nanbei-liuxie",
-    "cn-songming-zhu-xi"
+    "cn-nanbei-liuxie"
    ],
    "misreadings": [
     {
@@ -19952,8 +20123,8 @@
     "人民文学出版社《原诗·一瓢诗话·说诗晬语》（霍松林校注）"
    ],
    "related_people": [
-    "cn-suitang-sikong-tu",
-    "cn-qingmod-gu-yanwu",
+    "cn-qingmod-ye-xie",
+    "cn-songming-yan-yu",
     "cn-nanbei-liuxie"
    ],
    "misreadings": [

@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1476,
+  "entries": 1483,
   "by_level": {
    "L2": 781,
-   "L1": 695
+   "L1": 702
   },
   "doctrine": {
-   "total": 292,
-   "detail": 292,
+   "total": 294,
+   "detail": 294,
    "auto": 0
   },
-  "needs_verification": 695,
+  "needs_verification": 702,
   "sources": 418,
   "sources_verified": 418
  },
@@ -38,19 +38,19 @@
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 29,
-   "concepts": 29,
+   "philosophers": 30,
+   "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -21"
+   "philosophers_slot": "8 上限，余 -22"
   },
   {
    "unit_id": "cn-songming",
    "title": "宋明理学与心学",
    "region": "china",
-   "philosophers": 21,
+   "philosophers": 22,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -13"
+   "philosophers_slot": "8 上限，余 -14"
   },
   {
    "unit_id": "cn-suitang",
@@ -1551,6 +1551,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-qingmod-ye-xie",
+   "type": "philosopher",
+   "title": "叶燮",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-qingmod-jingshi-zhizhiyong",
    "type": "concept",
    "title": "经世致用",
@@ -1870,6 +1881,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-qingmod-lishiqing",
+   "type": "concept",
+   "title": "理事情",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-qingmod-li-yu",
    "type": "debate",
    "title": "理与欲之争",
@@ -2181,6 +2203,17 @@
    "id": "cn-songming-hu-anguo",
    "type": "philosopher",
    "title": "胡安国",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-songming-yan-yu",
+   "type": "philosopher",
+   "title": "严羽",
    "container": "cn-songming",
    "level": "L1",
    "sources": 3,
@@ -10780,6 +10813,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-wenfu-luji",
+   "type": "work",
+   "title": "《文赋》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-baopuzi",
    "type": "work",
    "title": "《抱朴子》",
@@ -11146,6 +11190,17 @@
    "id": "work-zan-amituofo-jie",
    "type": "work",
    "title": "《赞阿弥陀佛偈》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-shipin-zhongrong",
+   "type": "work",
+   "title": "《诗品》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -11778,6 +11833,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-liuyi-shihua",
+   "type": "work",
+   "title": "《六一诗话》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -15909,6 +15975,17 @@
    "id": "cmp-xiangwai",
    "type": "comparative",
    "title": "“象外之象”与“审美理念”：言外还有什么？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-lishiqing",
+   "type": "comparative",
+   "title": "“理事情”与“质料—形式”：诗写的是什么？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

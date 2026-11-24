@@ -3219,6 +3219,150 @@
      "note": "1136 年"
     }
    ]
+  },
+  {
+   "id": "cn-songming-yan-yu",
+   "name": "严羽",
+   "latin": "Yan Yu",
+   "birth_year": 1192,
+   "death_year": 1245,
+   "birth_display": "约1192年",
+   "death_display": "约1245年",
+   "birth_note": "据《沧浪诗话》与地方志：字仪卿，一字丹丘，号沧浪逋客，福建邵武人；一生未仕，活动于南宋宁宗、理宗间。生卒年无确考，此处为通行推定。",
+   "death_note": "约1245年卒（推定，无确考）。",
+   "era": "南宋。严羽以《沧浪诗话》立“**以禅喻诗**”的纲领：诗道在“**妙悟**”，不在学问与议论；诗有“**别材别趣**”（非关书、非关理）；学诗须“以识为主”，以盛唐为宗。故其位置是：以禅宗的“悟”为诗学立一新的根据，从而与江西诗派（以学问为诗）正面对立。",
+   "school": "南宋诗论（沧浪一系，开神韵之说）",
+   "core_questions": [
+    "诗与学问、议论的界限何在？",
+    "诗之“悟”是何意义上的知？",
+    "学诗以何为宗？"
+   ],
+   "arguments": [
+    {
+     "claim": "诗道在妙悟，不在学问与议论",
+     "premises": [
+      "诗的感人不在其“说理”与“用典”。",
+      "而在其“透彻之悟”（一悟则通体皆活）。"
+     ],
+     "inference": "若诗之能事在悟，则以学问与议论为诗者（如江西末流）虽博而失其本；故其说以“悟”为标准，判诗之高下。",
+     "conclusion": "以禅喻诗、以悟论诗（此说与江西诗派正面对立）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "诗有别材别趣，非关书、非关理",
+     "premises": [
+      "诗有其自身的材质（别材）与趣味（别趣）。",
+      "而书与理属另一路的知识。"
+     ],
+     "inference": "若诗有其别材别趣，则不可以“读书穷理”的多少判诗之高下；故其说为诗划出一块不可由学问替代的领域。",
+     "conclusion": "别材别趣（此说为诗的自律性张目）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《沧浪诗话》",
+     "edition": "人民文学出版社郭绍虞校释本（版次待核）",
+     "note": "约1230"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "司空图（其先）",
+     "id": null,
+     "note": "“象外之象”为其“妙悟”说的源头"
+    },
+    {
+     "name": "刘勰（其远源）",
+     "id": null,
+     "note": "“隐秀”说为其含蓄之论的先声"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "王士禛的“神韵”说",
+     "id": null,
+     "note": "以其为宗，成清代一大诗派"
+    },
+    {
+     "name": "明代的前后七子",
+     "id": null,
+     "note": "取其“以盛唐为宗”"
+    },
+    {
+     "name": "现代的诗学与禅学比较研究",
+     "id": null,
+     "note": "以其“以禅喻诗”为枢纽"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "清代的考据一系",
+     "view": "“妙悟”不可教、不可验；以之论诗，则批评将流于印象，且“非关书、非关理”易为不学之口实。",
+     "response": "严羽一系的回应是：其“悟”非“不学”，而是“熟参”之后的贯通（其书明言“学诗者以识为主”“熟参”）；故其说不废学，只不以学为究竟。",
+     "kind": "原文",
+     "sources": [
+      "ws-wenxin-diaolong",
+      "ct-zhuangzi"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“以禅喻诗”是以禅代诗",
+     "why": "其“喻”是**类比**（借禅的“悟”说明诗的“悟”），非以禅义为诗义；其落脚仍在“别材别趣”。"
+    },
+    {
+     "claim": "“非关书、非关理”是反对学问",
+     "why": "所反对者是**以学问与议论为诗**（宋诗的弊），非反对学养；其本人极重“熟参”与“识”。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>严羽：以禅喻诗与别材别趣</text><defs><marker id='aYY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>诗之感人不在说理</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而在透彻之悟</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故诗有别材别趣</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故不可以学问判诗之高下</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aYY)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aYY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "严羽：“以禅喻诗”与“别材别趣”（示意图）",
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "严羽无 SEP 专条（已试 yan-yu，404）；本页依《沧浪诗话》原文（郭绍虞校释本）与相关研究，**属语境性引用而非专门研究**。其生卒年无确考（约1192—约1245），须核年谱研究。",
+   "doctrine": {
+    "summary": "严羽以《沧浪诗话》立“以禅喻诗”的纲领：诗道在“妙悟”，不在学问与议论；诗有“别材别趣”（非关书、非关理）；学诗须“以识为主”，以盛唐为宗。故其位置是以禅宗的“悟”为诗学立一新的根据，从而与江西诗派正面对立。",
+    "system": [
+     {
+      "name": "以禅喻诗",
+      "content": "借禅的“悟”说明诗的“悟”，非以禅义代诗义。"
+     },
+     {
+      "name": "妙悟",
+      "content": "一悟则通体皆活，为其论诗的最高标准；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "别材别趣",
+      "content": "诗有其自身的材质与趣味，非关书、非关理。"
+     },
+     {
+      "name": "以识为主",
+      "content": "学诗须入门正、立志高，故重“熟参”；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "邵武（约1192—约1245）",
+      "change": "一生未仕，隐居邵武；活动于南宋宁宗、理宗间；撰《沧浪诗话》（约1230）；生卒年无确考。"
+     }
+    ],
+    "reception": "其“以禅喻诗”经明代七子（以盛唐为宗）而影响诗坛，至清初王士禛以“神韵”承之，遂成一大传统；其“别材别趣”之说亦为现代讨论“诗与知识”的关系时所必引。"
+   },
+   "works_detail": [
+    {
+     "title": "《沧浪诗话》",
+     "structure": "五门：诗辨、诗体、诗法、诗评、诗证。",
+     "core_thesis": "诗道在妙悟，诗有别材别趣；这是该书的核心命题。",
+     "editions": "人民文学出版社郭绍虞校释本",
+     "note": "约1230 年"
+    }
+   ]
   }
  ],
  "concepts": [
