@@ -4227,6 +4227,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“中体西用”一语的先例（冯桂芬、郑观应、沈寿康等）与张之洞的表述差异须逐条核；严复“牛体马用”之讥的出处亦须核。"
+  },
+  {
+   "id": "cn-qingmod-hanxue-songxue-zhi",
+   "term": "汉学宋学之争",
+   "term_latin": "the Han-learning versus Song-learning controversy",
+   "definition": "清代学术的核心争论：**汉学**（考据，以汉儒的训诂为据）与**宋学**（义理，以宋儒的性理为宗）之争。四库馆的开办与《四库全书总目》的编纂使汉学成为主流，而方东树《汉学商兑》等则为宋学辩护。此争的实质是：治经当以**训诂**为门径，还是以**义理**为归宿。",
+   "usages": [
+    {
+     "name": "戴震（其汉学）",
+     "id": "cn-qingmod-dai-zhen",
+     "usage": "以“由字通词，由词通道”立汉学的方法论。"
+    },
+    {
+     "name": "方东树（其宋学）",
+     "usage": "《汉学商兑》为宋学张目，斥汉学“琐碎”。"
+    },
+    {
+     "name": "章学诚（其第三方）",
+     "id": "cn-qingmod-zhang-xuecheng",
+     "usage": "以“六经皆史”另开一路，破汉宋的对立。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-kaoju"
+   ],
+   "example": {
+    "text": "“汉学宋学之争”的要害是**门径之争**：汉学说“不通训诂则义理无据”，宋学说“徒事训诂则义理亡”。二者的张力至今未解 —— 现代的中国哲学研究，仍在“文献学”与“哲学”之间摆动。",
+    "figure": "戴震",
+    "locator": "《孟子字义疏证》"
+   },
+   "sources": [
+    "ws-mengzi-ziyi",
+    "ct-rizhilu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "汉宋之争的过程（四库馆、《汉学商兑》）须核清代学术史研究；本页取其纲领义，具体人物与著作须逐条核。"
   }
  ],
  "debates": [

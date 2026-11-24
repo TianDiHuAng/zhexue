@@ -26246,6 +26246,63 @@
    "sort_year": 1962
   },
   {
+   "id": "work-strukturwandel-oeffentlichkeit",
+   "title": "《公共领域的结构转型》",
+   "title_original": "Strukturwandel der Öffentlichkeit",
+   "tradition": "west",
+   "date_display": "1962年（哈贝马斯；1990年增订）",
+   "structure": "七章：论公共领域的概念、其发生（18世纪英法德的沙龙与报刊）、其转型（商业化与福利国家下的“再封建化”）。",
+   "core_arguments": [
+    "“公共领域”是市民社会与国家之间的**商谈空间**（以理性批判为取向）",
+    "其发生条件：市场经济、印刷媒介与沙龙／咖啡馆的社交",
+    "其转型：大众媒介的商业化使“批判的公众”变为“消费的公众”"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—二章",
+     "point": "公共领域的概念"
+    },
+    {
+     "locator": "第三—四章",
+     "point": "其发生与结构"
+    },
+    {
+     "locator": "第五—六章",
+     "point": "结构转型与再封建化"
+    },
+    {
+     "locator": "第七章",
+     "point": "公共性的瓦解"
+    }
+   ],
+   "editions": [
+    "德文 Suhrkamp 版；英译（The Structural Transformation of the Public Sphere, MIT）；中译参《公共领域的结构转型》（曹卫东等译）"
+   ],
+   "related_people": [
+    "gr-contemp-habermas",
+    "gr-20c-arendt",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它把公共领域理想化为“自由的沙龙”",
+     "why": "其方法是**历史—规范的双重结构**：既描述沙龙的历史形态，又以“批判的公共性”为规范标尺；故其不是怀旧，而是以历史诊断当下。"
+    },
+    {
+     "claim": "其对大众媒介的批评是精英主义的",
+     "why": "其所批评者是**公共性的商业化**（公众由批判者变为消费者），不是大众本身；故其锋芒在结构，不在趣味。"
+    }
+   ],
+   "sources": [
+    "sep-habermas",
+    "sep-arendt",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《公共领域的结构转型》1962 初版与 1990 增订版（新序）差异重要；本页依增订版与 SEP 词条概述。",
+   "sort_year": 1962
+  },
+  {
    "id": "work-one-dimensional-man",
    "title": "《单向度的人》",
    "title_original": "One-Dimensional Man",
@@ -26756,6 +26813,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《差异与重复》的术语（虚拟／可能、重复／再现）在英译与中译中有不同的处理，其“差异的肯定”与尼采“永恒回归”的关系亦有争论；本页依 SEP／IEP 词条与英译本概述。",
+   "sort_year": 1968
+  },
+  {
+   "id": "work-erkenntnis-und-interesse",
+   "title": "《认识与兴趣》",
+   "title_original": "Erkenntnis und Interesse",
+   "tradition": "west",
+   "date_display": "1968年（哈贝马斯）",
+   "structure": "三部分：论认识与兴趣的关联、对康德与黑格尔的检讨、对马克思与弗洛伊德的检讨，以及“批判的科学”之构想。",
+   "core_arguments": [
+    "认识不可能是“无兴趣的”：知识总由**认识的兴趣**引导",
+    "三种兴趣：技术的（对自然的控制）、实践的（对相互理解）、解放的（对摆脱支配）",
+    "“批判的科学”（心理分析与意识形态批判）以解放的兴趣为纲"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "认识与兴趣的关联"
+    },
+    {
+     "locator": "第二部分",
+     "point": "康德与黑格尔的检讨"
+    },
+    {
+     "locator": "第三部分",
+     "point": "马克思与弗洛伊德"
+    },
+    {
+     "locator": "结论",
+     "point": "解放的兴趣"
+    }
+   ],
+   "editions": [
+    "德文 Suhrkamp 版；英译（Knowledge and Human Interests, Beacon）；中译参《认识与兴趣》（郭官义等译）"
+   ],
+   "related_people": [
+    "gr-contemp-habermas",
+    "gr-german-kant",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张“一切知识都是意识形态”",
+     "why": "其说区分三种兴趣，并认为**解放的兴趣**可批判意识形态；故其不是相对主义，而是“以兴趣为纲的知识类型学”。"
+    },
+    {
+     "claim": "“技术的兴趣”是贬义的",
+     "why": "技术兴趣（对自然的控制）是**必需的**（生产与生活所需）；其所批评者是它**独占**一切知识。"
+    }
+   ],
+   "sources": [
+    "sep-habermas",
+    "sep-kant",
+    "sep-marx"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《认识与兴趣》的三部分结构与“三种兴趣”的表述须核英译本；其对马克思与弗洛伊德的解读亦须分辨。",
    "sort_year": 1968
   },
   {
@@ -27557,6 +27671,63 @@
    "needs_verification": true,
    "pending_notes": "《现代性的哲学话语》十二讲的编排与各讲对象须核英译本；其与福柯、德里达的论争亦须分辨。",
    "sort_year": 1985
+  },
+  {
+   "id": "work-nachmetaphysisches-denken",
+   "title": "《后形而上学思想》",
+   "title_original": "Nachmetaphysisches Denken",
+   "tradition": "west",
+   "date_display": "1988年（哈贝马斯）",
+   "structure": "十二篇论文：分论“后形而上学”的处境、理性与语言、主体间性、以及宗教的公共角色。",
+   "core_arguments": [
+    "“后形而上学”不是“反形而上学”：而是**在形而上学之后**仍要保存其理性要求",
+    "以“交往理性”取代“主体理性”：理性的根据在主体间的有效性主张",
+    "宗教在公共领域中的角色：其内容可译入公共理性（“翻译”而非“排斥”）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—三篇",
+     "point": "后形而上的处境"
+    },
+    {
+     "locator": "第四—七篇",
+     "point": "理性与语言"
+    },
+    {
+     "locator": "第八—十篇",
+     "point": "主体间性"
+    },
+    {
+     "locator": "第十一—十二篇",
+     "point": "宗教的公共角色"
+    }
+   ],
+   "editions": [
+    "德文 Suhrkamp 版；英译（Postmetaphysical Thinking, MIT）；中译参《后形而上学思想》（曹卫东等译）"
+   ],
+   "related_people": [
+    "gr-contemp-habermas",
+    "gr-german-kant",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "“后形而上学”是“终结哲学”",
+     "why": "它要保存形而上学的**理性要求**，只放弃其“强理论”的形态（如第一原理、终极根据）；故其是“转型”，非“终结”。"
+    },
+    {
+     "claim": "其对宗教的态度是“排除”",
+     "why": "其主张“翻译”：宗教的语义内容可译入公共理性（“拯救其语义潜力”）；故其不是排除，而是要求以可公共辩护的语言表述。"
+    }
+   ],
+   "sources": [
+    "sep-habermas",
+    "sep-kant",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《后形而上学思想》十二篇的编排与“宗教的翻译”之说须核英译本；其与罗尔斯“公共理性”的异同亦须分辨。",
+   "sort_year": 1988
   },
   {
    "id": "work-faktizitaet-geltung",
