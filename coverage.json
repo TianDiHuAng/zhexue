@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1637,
+  "entries": 1639,
   "by_level": {
    "L2": 779,
-   "L1": 858
+   "L1": 860
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 858,
+  "needs_verification": 860,
   "sources": 420,
   "sources_verified": 420
  },
@@ -16192,6 +16192,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-wittgenstein-rules-private-language",
+   "type": "work",
+   "title": "《维特根斯坦论规则与私人语言》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-time-narrative",
    "type": "work",
    "title": "《时间与叙事》",
@@ -17680,6 +17691,17 @@
    "id": "cmp-linjie",
    "type": "comparative",
    "title": "“临界处境”与“知其不可奈何”：在无可如何处如何自处？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-guize",
+   "type": "comparative",
+   "title": "“遵守规则”与“言必信”：规则的确定性从哪里来？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

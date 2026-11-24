@@ -4599,23 +4599,23 @@
   },
   {
    "id": "iep-kripke",
-   "title": "kripke（IEP 词条）",
+   "title": "Kripke’s Wittgenstein（IEP 词条）",
    "author": "Internet Encyclopedia of Philosophy（作者见页面）",
    "year": null,
    "year_note": "IEP 词条不固定标注出版年",
    "publisher": "Internet Encyclopedia of Philosophy",
    "type": "百科",
-   "url": "https://iep.utm.edu/kripke/",
+   "url": "https://iep.utm.edu/kripkes-wittgenstein/",
    "url2": null,
    "link_ok": true,
    "verified": true,
-   "note": "与 SEP 互补的学术百科",
+   "note": "IEP 论“克里普克式维特根斯坦”（Kripkenstein）：质疑意义事实的怀疑论论证与共同体式的“怀疑的解决”；含 Baker–Hacker、Blackburn、McGinn、McDowell 等的回应。注：原登记 url /kripke/ 实为重定向，2026-11-24 实开后改为规范地址。",
    "unit_hint": "",
    "verify": {
     "method": "http-page",
     "http_status": 200,
-    "checked_at": "2026-11-22",
-    "keyword": "Internet Encyclopedia",
+    "checked_at": "2026-11-24",
+    "keyword": "Kripke’s Wittgenstein",
     "keyword_seen": true
    },
    "n": 197

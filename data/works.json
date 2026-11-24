@@ -34126,6 +34126,63 @@
    "sort_year": 1981
   },
   {
+   "id": "work-wittgenstein-rules-private-language",
+   "title": "《维特根斯坦论规则与私人语言》",
+   "title_original": "Wittgenstein on Rules and Private Language",
+   "tradition": "west",
+   "date_display": "1982（克里普克）",
+   "structure": "三章：〈怀疑的挑战〉（意义的事实何在）、〈怀疑的论证〉（quus 与有限事例）、〈怀疑的解决〉（共同体与可断定性条件）。",
+   "core_arguments": [
+    "**quus 疑难**：我过去的用法有限，故无法确定我“+”意为加法而非四加（quaddition）",
+    "疑难的要点是**规范性**：任何过去的事实只能描述我如何用，不能说明我**应当**如何用",
+    "“怀疑的解决”：放弃“意义是事实”，改以**共同体的可断定性**为判 —— 故无私人语言"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "意义的事实何在"
+    },
+    {
+     "locator": "第二章",
+     "point": "quus 与有限事例"
+    },
+    {
+     "locator": "第三章",
+     "point": "共同体与可断定性"
+    },
+    {
+     "locator": "全书",
+     "point": "以怀疑论读维特根斯坦"
+    }
+   ],
+   "editions": [
+    "英文本（Harvard UP）；中译少见（相关讨论见《规则与私人语言》研究文献）"
+   ],
+   "related_people": [
+    "gr-contemp-kripke",
+    "gr-20c-wittgenstein",
+    "gr-20c-strawson"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“维特根斯坦的原意”",
+     "why": "克里普克本人明言这是“**维特根斯坦的论证如其所打动我的样子**”，并说“我的许多表述方式维特根斯坦本人未必认可”；故不可当作对《哲学研究》的定解。"
+    },
+    {
+     "claim": "其结论是“意义不存在”",
+     "why": "其“怀疑的解决”**保留**了意义归属的实践（以共同体的可断定性为条件），故其说不取消意义，而是改变对意义的解释。"
+    }
+   ],
+   "sources": [
+    "iep-kripke",
+    "sep-wittgenstein",
+    "sep-russell"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《维特根斯坦论规则与私人语言》的三章结构与 1982 年初版须核 Harvard UP 版；“quus”与“可断定性条件”的原文亦须核。中译少见，本页多为义述。",
+   "sort_year": 1982
+  },
+  {
    "id": "work-time-narrative",
    "title": "《时间与叙事》",
    "title_original": "Temps et récit",
