@@ -8534,6 +8534,63 @@
    "sort_year": 210
   },
   {
+   "id": "work-de-principiis",
+   "title": "《论首要原理》（奥利金）",
+   "title_original": "Περὶ ἀρχῶν（De principiis）",
+   "tradition": "west",
+   "date_display": "约229年（奥利金）",
+   "structure": "四卷：论上帝与基督、论世界与受造物、论自由意志、论圣经的解释。",
+   "core_arguments": [
+    "受造物皆有**自由意志**：故善恶出于其自择",
+    "“**复原**”（apokatastasis）：一切终将归复于上帝（含其保留之论）",
+    "以**寓意解经**为法：经文之字面之下有属灵之义"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "上帝与基督"
+    },
+    {
+     "locator": "卷二",
+     "point": "世界与受造"
+    },
+    {
+     "locator": "卷三",
+     "point": "自由意志"
+    },
+    {
+     "locator": "卷四",
+     "point": "寓意解经"
+    }
+   ],
+   "editions": [
+    "希腊文本残篇与拉丁译本（Rufinus 译）；英译（On First Principles, SVS）；中译少见"
+   ],
+   "related_people": [
+    "gr-hellenistic-origen",
+    "gr-hellenistic-plotinus",
+    "gr-medieval-augustine"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“复原”是教会定论",
+     "why": "其“复原”之说**后被判为异说**（553 年第二次君士坦丁堡会议谴责“复原论”的某些表述）；故本页述其说并标出后世的判语，不以其为定论。"
+    },
+    {
+     "claim": "其寓意解经是不顾字面",
+     "why": "其解经有**三层**（字面、道德、属灵），并以字面为前提；故其为层级的解释学，非任意抛弃字面。"
+    }
+   ],
+   "sources": [
+    "sep-origen",
+    "sep-plotinus",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论首要原理》四卷的存佚（希腊残篇与 Rufinus 拉丁译本）须核 SVS 英译本；“复原”之说与 553 年谴责的关系亦须核，本页并述而标出判语。",
+   "sort_year": 229
+  },
+  {
    "id": "work-lives-philosophers",
    "title": "《名哲言行录》",
    "title_original": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων",
@@ -9155,6 +9212,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《言尽意论》今存残篇（《艺文类聚》卷十九引），其完整论证不可得；本页依残篇与玄学研究概述。",
+   "sort_year": 290
+  },
+  {
+   "id": "work-de-mysteriis",
+   "title": "《论埃及秘仪》（扬布利柯）",
+   "title_original": "Περὶ τῶν Αἰγυπτίων μυστηρίων（De mysteriis）",
+   "tradition": "west",
+   "date_display": "约3世纪末（扬布利柯）",
+   "structure": "一部（十章，书信体）：答波菲里之问，论神术（theurgy）、占卜、神灵的等级与祭祀。",
+   "core_arguments": [
+    "以**神术**（theurgy）为灵魂上升的途径：非仅思辨，须有仪式的参与",
+    "神灵有**等级**（神、天使、精灵、英雄），其显现各有其征",
+    "以“不可言说者”护其说：最高的原理不可言，故须以仪式相应"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—三章",
+     "point": "神术与哲学"
+    },
+    {
+     "locator": "第四—六章",
+     "point": "神灵的等级"
+    },
+    {
+     "locator": "第七—九章",
+     "point": "占卜与祭祀"
+    },
+    {
+     "locator": "第十章",
+     "point": "不可言说者"
+    }
+   ],
+   "editions": [
+    "希腊文本（des Places 编）；英译（De mysteriis, SBL）；中译少见"
+   ],
+   "related_people": [
+    "gr-hellenistic-iamblichus",
+    "gr-hellenistic-porphyry",
+    "gr-hellenistic-proclus"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“迷信的辩护”",
+     "why": "其“神术”有**形而上学的根据**（灵魂与神圣者的层级关系），且是对波菲里“哲学足以得救”的反驳；故其为有理论的神学，非迷信的辩护。"
+    },
+    {
+     "claim": "其说与普罗提诺同",
+     "why": "普罗提诺以**思辨的上升**为归，扬布利柯以**仪式**为必需；故二者的差异正是“哲学”与“神术”之争，须分辨。"
+    }
+   ],
+   "sources": [
+    "sep-iamblichus",
+    "sep-plotinus",
+    "sep-proclus"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论埃及秘仪》十章的结构与 des Places 校本须核；“神术”与“哲学”之争（对波菲里的回应）亦须核。中译少，本页多为义述。",
    "sort_year": 290
   },
   {
@@ -20334,6 +20448,63 @@
    "needs_verification": true,
    "pending_notes": "《少室山房笔丛》的卷数（通行四十八卷）与所收子目须核中华书局影印本；《四部正讹》的辨伪八法亦须核。",
    "sort_year": 1590
+  },
+  {
+   "id": "work-disputationes-metaphysicae",
+   "title": "《苏阿雷斯形而上学论辩》",
+   "title_original": "Disputationes metaphysicae",
+   "tradition": "west",
+   "date_display": "1597（苏阿雷斯）",
+   "structure": "五十四篇（Disputationes）：以“存在之为存在”为纲，分论存在者、因果、实体、上帝与受造物。",
+   "core_arguments": [
+    "形而上学以“**存在之为存在**”为对象（不依神学的预定）",
+    "“**本质与存在**”的区分：在其说中为“概念的区分”，与阿奎那的实在区分有别",
+    "以“**形而上学的中介**”为法：调和托马斯与司各脱，为近代哲学的起点"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—二篇",
+     "point": "形而上学的对象"
+    },
+    {
+     "locator": "第三—十一篇",
+     "point": "存在的诸性质"
+    },
+    {
+     "locator": "第十二—二十七篇",
+     "point": "因果与实体"
+    },
+    {
+     "locator": "第二十八—五十四篇",
+     "point": "上帝与受造物"
+    }
+   ],
+   "editions": [
+    "拉丁文本（Opera omnia, Vivès）；英译选本（Suárez: Metaphysical Disputations, 选定篇）；中译少见"
+   ],
+   "related_people": [
+    "gr-modern-suarez",
+    "gr-medieval-aquinas",
+    "gr-modern-descartes"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“本质与存在”的区分同于阿奎那",
+     "why": "阿奎那主张**实在的区分**（res et esse 在受造物中实为二），苏阿雷斯则以为**概念的区分**；故二者之别正是后期经院与托马斯主义的分水岭，须分辨。"
+    },
+    {
+     "claim": "其书只是“经院的教科书”",
+     "why": "其书为**近代哲学的出发点**之一（笛卡尔、莱布尼茨皆读之），其“形而上学”的构想影响了近代的学科划分；故其地位超出教科书。"
+    }
+   ],
+   "sources": [
+    "sep-suarez",
+    "sep-aquinas",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《形而上学论辩》五十四篇的结构与 1597 年初版须核 Vivès 版；“本质与存在”之分（概念区分说）与阿奎那的实在区分之异同亦须核。",
+   "sort_year": 1597
   },
   {
    "id": "work-mudanting",

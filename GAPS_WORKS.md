@@ -1,9 +1,9 @@
 # GAPS_WORKS.md —— 尚无著作页关联的哲学家名单（D63）
 
 统计方式：`data/works.json` 中所有 `related_people` 的并集，减去哲学家全集。
-用途：按序消化，使覆盖均衡。最近更新：第 258 轮。
+用途：按序消化，使覆盖均衡。最近更新：第 259 轮。
 
-当前剩余：**14 人**
+当前剩余：**12 人**
 
 ## cn-qingmod
 - 梁漱溟（`cn-qingmod-liang-shuming`）
@@ -30,8 +30,6 @@
 
 ## gr-hellenistic
 - 克律西波（`gr-hellenistic-chrysippus`）
-- 扬布利柯（`gr-hellenistic-iamblichus`）
-- 奥利金（`gr-hellenistic-origen`）
 
 ## gr-medieval
 - 亚当·沃德汉姆（`gr-medieval-wodeham`）

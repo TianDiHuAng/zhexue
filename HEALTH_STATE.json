@@ -1,6 +1,6 @@
 {
- "last_health_check_round": 254,
+ "last_health_check_round": 259,
  "health_check_every": 5,
- "next_health_check_round": 259,
- "note": "F步体检每5轮一次；第51次在248轮补做、第52次在254轮补做（连续两次漏做），故单列状态文件，每轮开头先读。"
+ "next_health_check_round": 264,
+ "note": "F步体检每5轮一次；第51、52次为补做（248、254轮），第53次按点执行（259轮）。每轮开头先读本文件。"
 }

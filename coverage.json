@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1658,
+  "entries": 1662,
   "by_level": {
    "L2": 779,
-   "L1": 879
+   "L1": 883
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 879,
+  "needs_verification": 883,
   "sources": 420,
   "sources_verified": 420
  },
@@ -11231,6 +11231,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-de-principiis",
+   "type": "work",
+   "title": "《论首要原理》（奥利金）",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-lives-philosophers",
    "type": "work",
    "title": "《名哲言行录》",
@@ -11345,6 +11356,17 @@
    "type": "work",
    "title": "《言尽意论》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-de-mysteriis",
+   "type": "work",
+   "title": "《论埃及秘仪》（扬布利柯）",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -13512,6 +13534,17 @@
    "type": "work",
    "title": "《少室山房笔丛》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-disputationes-metaphysicae",
+   "type": "work",
+   "title": "《苏阿雷斯形而上学论辩》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -17911,6 +17944,17 @@
    "id": "cmp-ziranfa",
    "type": "comparative",
    "title": "“纵使上帝不存在”与“天行有常”：法的根据能不靠神吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shenshu",
+   "type": "comparative",
+   "title": "“神术”与“祭祀”：仪式能带人上升吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
