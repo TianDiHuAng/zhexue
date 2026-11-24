@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1410,
+  "entries": 1414,
   "by_level": {
    "L2": 781,
-   "L1": 629
+   "L1": 633
   },
   "doctrine": {
    "total": 284,
    "detail": 284,
    "auto": 0
   },
-  "needs_verification": 629,
+  "needs_verification": 633,
   "sources": 418,
   "sources_verified": 418
  },
@@ -11627,6 +11627,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-yichuan-yizhuan",
+   "type": "work",
+   "title": "《伊川易传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-er-cheng-ji",
    "type": "work",
    "title": "《二程集》",
@@ -11641,6 +11652,17 @@
    "id": "work-shangcai-yulu",
    "type": "work",
    "title": "《上蔡语录》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-erchend-yishu",
+   "type": "work",
+   "title": "《二程遗书》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -11730,6 +11752,17 @@
    "type": "work",
    "title": "《箴言四书》",
    "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-wufeng-ji",
+   "type": "work",
+   "title": "《五峰集》",
+   "container": "china",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -15183,6 +15216,17 @@
    "id": "cmp-bifa",
    "type": "comparative",
    "title": "春秋笔法与“修辞即判断”：书写能做什么？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-tiyongyiyuan",
+   "type": "comparative",
+   "title": "“体用一源”与“形式在质料中”：两种“不二”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

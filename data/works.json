@@ -13851,6 +13851,63 @@
    "sort_year": 1082
   },
   {
+   "id": "work-yichuan-yizhuan",
+   "title": "《伊川易传》",
+   "title_original": "伊川易傳（周易程氏傳）",
+   "tradition": "china",
+   "date_display": "北宋（程颐，1033—1107）",
+   "structure": "四卷（通行本）：注《周易》上下经与《彖》《象》《文言》，不及《系辞》以下。",
+   "core_arguments": [
+    "“体用一源，显微无间”：理与象非二",
+    "以“理”解易：卦爻之义在理，不在象数",
+    "“随时变易以从道”：易的要在“变”中见常"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一（乾卦）",
+     "point": "体用一源"
+    },
+    {
+     "locator": "上下经注",
+     "point": "以理解易"
+    },
+    {
+     "locator": "《易序》",
+     "point": "易的宗旨"
+    },
+    {
+     "locator": "全书",
+     "point": "扫象数而重义理"
+    }
+   ],
+   "editions": [
+    "中华书局《二程集》所收；《四库全书》本"
+   ],
+   "related_people": [
+    "cn-songming-cheng-yi",
+    "cn-songming-zhu-xi",
+    "cn-weijin-wangbi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《周易》的完整注",
+     "why": "其书只注上下经与《彖》《象》《文言》，不及《系辞》以下（由后人补或阙）；故非全注。"
+    },
+    {
+     "claim": "它与王弼注一样是“扫象数”",
+     "why": "二者皆重义理，但王弼以“无”为本，程颐以“理”为宗；且程颐仍重卦爻的“时位”，不废象。故须分辨。"
+    }
+   ],
+   "sources": [
+    "ct-yijing",
+    "ws-zhuzi-yulei",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《伊川易传》的卷数与所注的范围须核中华书局《二程集》；“体用一源，显微无间”的出处亦须核。",
+   "sort_year": 1099
+  },
+  {
    "id": "work-er-cheng-ji",
    "title": "《二程集》",
    "title_original": "二程集（河南程氏遺書等）",
@@ -13963,6 +14020,63 @@
    "needs_verification": true,
    "pending_notes": "《上蔡语录》的卷数与朱熹的删定须核《朱子全书》外编；其“以觉言仁”与朱熹批评的具体文本亦须核。",
    "sort_year": 1100
+  },
+  {
+   "id": "work-erchend-yishu",
+   "title": "《二程遗书》",
+   "title_original": "二程遺書（河南程氏遺書）",
+   "tradition": "china",
+   "date_display": "北宋（程颢、程颐；门人所记，朱熹编定）",
+   "structure": "二十五卷（通行本）：门人记二程讲学之语，按人（门人）分卷，朱熹加以编次删定。",
+   "core_arguments": [
+    "“天理”二字是自家体贴出来的（程颢语）",
+    "“性即理”：性不是气禀，而是理之在人",
+    "“涵养须用敬，进学则在致知”（程颐语）：工夫的两面"
+   ],
+   "key_points": [
+    {
+     "locator": "卷二上",
+     "point": "天理与识仁"
+    },
+    {
+     "locator": "卷十八",
+     "point": "性即理"
+    },
+    {
+     "locator": "卷十八",
+     "point": "涵养与进学"
+    },
+    {
+     "locator": "全书",
+     "point": "二程之辨"
+    }
+   ],
+   "editions": [
+    "中华书局《二程集》（王孝鱼点校）"
+   ],
+   "related_people": [
+    "cn-songming-cheng-hao",
+    "cn-songming-cheng-yi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "二程的思想完全一致",
+     "why": "兄弟二人有实质分歧（如“识仁”与“主敬”的侧重、对“性”的讲法）；朱熹编次时并录而不掩其异，后世（如冯友兰）更以“理学／心学”分属之。故须分辨。"
+    },
+    {
+     "claim": "语录是原始记录，故最可靠",
+     "why": "朱熹的编定本身就是**取舍与校订**（去其重复、疑其误记）；故今本语录是“经过编定的实录”，不是原始速记。"
+    }
+   ],
+   "sources": [
+    "ws-zhuzi-yulei",
+    "ws-taijitushuo",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《二程遗书》的卷数与朱熹编定本的原貌须核中华书局《二程集》；二程思想的异同须逐条分辨（不可一概而论）。",
+   "sort_year": 1120
   },
   {
    "id": "work-sic-et-non",
@@ -14413,6 +14527,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《箴言四书》的成书年代（约1150）与各本的区分编号须核 Grottaferrata 编本；其成为标准教科书的制度过程（12—13世纪大学）亦须核。",
+   "sort_year": 1150
+  },
+  {
+   "id": "work-wufeng-ji",
+   "title": "《五峰集》",
+   "title_original": "五峰集",
+   "tradition": "china",
+   "date_display": "南宋（胡宏，1105—1161）",
+   "structure": "五卷（通行本）：含书、论、记、序、诗与杂著；其哲学要旨多在《知言》一书。",
+   "core_arguments": [
+    "“性为体，心为用”：以性为未发之体，心为已发之用",
+    "“天理人欲，同体而异用”：不以人欲为绝对的恶",
+    "以“仁”为“天地万物一体”之心"
+   ],
+   "key_points": [
+    {
+     "locator": "书札",
+     "point": "性与心的体用"
+    },
+    {
+     "locator": "论",
+     "point": "天理与人欲"
+    },
+    {
+     "locator": "杂著",
+     "point": "仁与万物一体"
+    },
+    {
+     "locator": "全集",
+     "point": "湖湘之学的纲"
+    }
+   ],
+   "editions": [
+    "中华书局《胡宏集》（点校本）"
+   ],
+   "related_people": [
+    "cn-songming-hu-hong",
+    "cn-songming-hu-anguo",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "湖湘之学只是“性学”而与心学无关",
+     "why": "其“性为体、心为用”正是要把心纳入性的结构；故其说是“以性统心”，不是“无心的性学”。"
+    },
+    {
+     "claim": "“天理人欲同体异用”是纵欲之说",
+     "why": "其说是：天理与人欲同出于性，其别在“用”的当否（“同体异用”）；故非纵欲，而是反对把“欲”一概视为外在的恶。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "ws-zhuzi-yulei",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《五峰集》的卷数与《知言》的关系须核中华书局《胡宏集》；“性体心用”与“天理人欲同体异用”的原文亦须核。",
    "sort_year": 1150
   },
   {
