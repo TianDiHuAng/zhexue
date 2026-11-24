@@ -1504,6 +1504,311 @@
      "note": "6世纪"
     }
    ]
+  },
+  {
+   "id": "cn-nanbei-huijiao",
+   "name": "慧皎",
+   "latin": "Huijiao",
+   "birth_year": 497,
+   "death_year": 554,
+   "birth_display": "497年",
+   "death_display": "554年",
+   "birth_note": "据《续高僧传》卷六：会稽上虞人，出家后住会稽嘉祥寺，博通内外学，以《高僧传》十四卷著称。",
+   "death_note": "554年卒（避侯景之乱，事迹见《续高僧传》）。",
+   "era": "南朝梁。慧皎以《高僧传》立一大体例：以“高”为取，分十科（译经、义解、神异、习禅、明律、亡身、诵经、兴福、经师、唱导），并为每科作论。其“高”与宝唱《名僧传》的“名”对峙——这一字之差，是南朝佛教史学的自我定位问题：史传当以德业为断，还是以名闻为断。",
+   "school": "南朝佛教史学（僧传体例）",
+   "core_questions": [
+    "僧传应以“德业”还是“名闻”为断？",
+    "佛教史的分类应依何而立？",
+    "“神异”在僧传中应占何位？"
+   ],
+   "arguments": [
+    {
+     "claim": "以“高”为断：德业而非名闻",
+     "premises": [
+      "僧传若以名闻为断，则所载者未必有德。",
+      "而史传的功能是“示后学以轨则”。"
+     ],
+     "inference": "若史传的功能是示范，则其取舍须以**德业**为准；故其改《名僧传》之“名”为“高”，是一次史学的立场声明。",
+     "conclusion": "以“高”为断（此说为后世僧传的范式）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "十科分类：以“行持的类型”分，不以“宗派”分",
+     "premises": [
+      "南朝尚无后世的宗派格局。",
+      "而僧人的行持有明确的类型（译经、义解、习禅……）。"
+     ],
+     "inference": "若按行持的类型分类，则僧传能容纳不同路向而不作宗派评判；故十科是一种**中性的分类框架**。",
+     "conclusion": "十科分类：以行持类型为准（此说使僧传能容纳多元）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《高僧传》",
+     "edition": "《大正藏》第50卷；汤用彤校注本（中华书局）",
+     "note": "519年"
+    },
+    {
+     "title": "《涅槃义疏》（佚）",
+     "edition": "见《续高僧传》本传",
+     "note": "6世纪初"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "僧祐（其前辈）",
+     "id": "cn-nanbei-sengyou",
+     "note": "经录与僧传的前驱"
+    },
+    {
+     "name": "宝唱（其对照）",
+     "id": null,
+     "note": "《名僧传》的编者，其“名”与慧皎的“高”对峙"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "道宣《续高僧传》",
+     "id": null,
+     "note": "承其十科体例而续之"
+    },
+    {
+     "name": "后世的僧传传统",
+     "id": null,
+     "note": "以《高僧传》为范式"
+    },
+    {
+     "name": "佛教史学",
+     "id": null,
+     "note": "十科成为标准分类"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "宝唱一系（隐含）",
+     "view": "以“名僧”为题，所重者名闻；慧皎的改题即是针对此。",
+     "response": "慧皎的回应在《高僧传·序录》：明言“名者，本实之宾”，故名不可为断。",
+     "kind": "原文",
+     "sources": [
+      "ws-gaoseng-zhuan",
+      "ws-xugaoseng-zhuan"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《高僧传》所载皆信史",
+     "why": "其中的“神异”一科含传说成分，须与经录、正史对读；且其“高”的取舍本身即一种评价。"
+    },
+    {
+     "claim": "十科是慧皎首创",
+     "why": "十科的部分名目在僧祐的著作与更早的僧传中已有端绪；慧皎的贡献是**定型**并冠以“高”。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>慧皎：以“高”为断与十科</text><defs><marker id='aHJ' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>名者实之宾</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故史传当以德业为断</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故十科以行持类型分</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故僧传能容纳多元</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aHJ)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aHJ)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "慧皎：“以高为断”与十科分类（示意图）",
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "慧皎的生卒（497—554）与事迹依《续高僧传》卷六；《高僧传》的成书（519）与十科的定型过程须核汤用彤校注本。本页属语境性引用。",
+   "doctrine": {
+    "summary": "慧皎以《高僧传》立一大体例：以“高”为断（德业而非名闻），分十科（译经、义解、神异、习禅、明律、亡身、诵经、兴福、经师、唱导），每科作论。其“高”与宝唱《名僧传》的“名”对峙，是南朝佛教史学自我定位的关键；十科则以“行持的类型”分类，使僧传能容纳不同路向而不作宗派评判。",
+    "system": [
+     {
+      "name": "以“高”为断",
+      "content": "史传须以德业为准，不以名闻为准；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "十科",
+      "content": "译经、义解、神异、习禅、明律、亡身、诵经、兴福、经师、唱导。"
+     },
+     {
+      "name": "每科作论",
+      "content": "以“论”评其得失，非仅记事；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "名者实之宾",
+      "content": "名不可为断，实（德业）乃可为断；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "会稽与嘉祥寺（497—554）",
+      "change": "出家；住会稽嘉祥寺；博通内外学；519 年成《高僧传》十四卷；侯景之乱中避乱；554 年卒。"
+     }
+    ],
+    "reception": "《高僧传》成为后世僧传的范式，道宣《续高僧传》即承其十科；其“高”的立场亦定下了中国佛教史学的价值取向。"
+   },
+   "works_detail": [
+    {
+     "title": "《高僧传》",
+     "structure": "十四卷：前十卷为十科正传，后四卷为“序录”与“附见”；每科末有“论”。",
+     "core_thesis": "以“高”为断，十科分类；这是该书的核心命题。",
+     "editions": "《大正藏》第50卷；汤用彤校注本",
+     "note": "519 年"
+    }
+   ]
+  },
+  {
+   "id": "cn-nanbei-baochang",
+   "name": "宝唱",
+   "latin": "Baochang",
+   "birth_year": 466,
+   "death_year": 535,
+   "birth_display": "约466年",
+   "death_display": "约535年",
+   "birth_note": "据《续高僧传》卷一：吴郡人，梁代僧，受梁武帝之命编纂佛教文献，住庄严寺。",
+   "death_note": "约535年卒（事迹见《续高僧传》）。",
+   "era": "南朝梁。宝唱是梁代官方佛教文献的主要编纂者：《名僧传》（三十卷，今存节抄）、《比丘尼传》（四卷）、《经律异相》（五十卷）等。其“名僧”之题与慧皎“高僧”之题相峙——前者以名闻为集，后者以德业为断。他又以《经律异相》分类辑录经律的事相，是类书式的佛教知识组织。",
+   "school": "南朝佛教文献编纂（梁代官方）",
+   "core_questions": [
+    "僧传的取舍应以何为准？",
+    "佛教知识应如何分类组织？",
+    "尼众的传记为何须独立？"
+   ],
+   "arguments": [
+    {
+     "claim": "以“名”为集：所重者在影响与事迹",
+     "premises": [
+      "梁代佛教的传播实况，多由有影响者所成。",
+      "而史传的功能之一是记录“事实上的影响”。"
+     ],
+     "inference": "若史传要记录影响，则以“名”为集有其理由；故其“名僧”不是贬义，而是**另一种取舍标准**（记录影响 vs 示范德业）。",
+     "conclusion": "以“名”为集，记录影响（此说与慧皎的“高”构成对峙）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "尼众传记须独立成书",
+     "premises": [
+      "尼众的受戒、住持与修行有其特殊性。",
+      "而僧传的体例多就比丘而立。"
+     ],
+     "inference": "若僧传的体例不适用于尼众，则须独立成书；故《比丘尼传》是**体例上的必要补充**，不是附录。",
+     "conclusion": "尼传独立：体例上的必要（此说使女性宗教生活得以保存）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《名僧传》（今存节抄）",
+     "edition": "《卍续藏》本；日本所传古抄",
+     "note": "约510年"
+    },
+    {
+     "title": "《比丘尼传》",
+     "edition": "《大正藏》第50卷",
+     "note": "约516年"
+    },
+    {
+     "title": "《经律异相》",
+     "edition": "《大正藏》第53卷",
+     "note": "约516年"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "梁武帝（其助缘）",
+     "id": null,
+     "note": "命其编纂佛教文献"
+    },
+    {
+     "name": "僧祐（其同代）",
+     "id": "cn-nanbei-sengyou",
+     "note": "同处梁代文献编纂的网络"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "慧皎（其对照）",
+     "id": "cn-nanbei-huijiao",
+     "note": "以“高”改“名”，构成史学立场的对峙"
+    },
+    {
+     "name": "后世的类书传统",
+     "id": null,
+     "note": "《经律异相》为佛教类书的先例"
+    },
+    {
+     "name": "尼传传统",
+     "id": null,
+     "note": "《比丘尼传》为其始"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "慧皎一系",
+     "view": "以“名者实之宾”讥以名闻为断，故其改题为“高”。",
+     "response": "宝唱一系的回应（隐含在其编纂实践中）：记录影响的实况，与示范德业并行不悖；二者各有所用。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-xugaoseng-zhuan",
+      "ws-gaoseng-zhuan"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "宝唱的“名僧”低于“高僧”",
+     "why": "“名”在此指**影响与事迹**，不是“虚名”；其取舍标准不同，不宜作高下判断。"
+    },
+    {
+     "claim": "《经律异相》只是资料汇编",
+     "why": "它以“异相”分类组织经律的事相，有其**知识分类**的设计；故是类书式的知识组织，非随手抄录。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>宝唱：以“名”为集与尼传独立</text><defs><marker id='aBC' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>记录影响与事迹</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故以名为集</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>而尼众体例不同</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故尼传独立成书</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aBC)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aBC)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "宝唱：“名僧”的取舍与《比丘尼传》的独立（示意图）",
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "宝唱的生卒（约466—约535）与事迹依《续高僧传》卷一；《名僧传》原书已佚（今存节抄），《比丘尼传》《经律异相》的年代须核。本页属语境性引用。",
+   "doctrine": {
+    "summary": "宝唱是梁代官方佛教文献的主要编纂者：《名僧传》《比丘尼传》《经律异相》。其“名僧”之题与慧皎“高僧”相峙——前者记录影响与事迹，后者以德业为断，二者是**不同的取舍标准**而非高下。他又以《经律异相》分类辑录经律事相，并以《比丘尼传》使尼众的宗教生活得以独立成书。",
+    "system": [
+     {
+      "name": "以“名”为集",
+      "content": "记录影响与事迹，不以德业为唯一标准；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "尼传独立",
+      "content": "尼众的体例有特殊性，故须独立成书；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "异相分类",
+      "content": "以“异相”组织经律的事相，是类书式的知识组织。"
+     },
+     {
+      "name": "官方编纂",
+      "content": "受梁武帝之命，故其书有“国家工程”的性质。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "吴郡与庄严寺（约466—约535）",
+      "change": "梁代僧；住庄严寺；受梁武帝命编纂《名僧传》《经律异相》等；约535 年卒。"
+     }
+    ],
+    "reception": "《名僧传》虽佚，但其“名”与慧皎“高”的对峙成为佛教史学的经典问题；《比丘尼传》为尼传之始；《经律异相》开佛教类书的先例。"
+   },
+   "works_detail": [
+    {
+     "title": "《名僧传》",
+     "structure": "三十卷（今存节抄一卷）：以“名僧”为集，记录梁代及以前的僧人事迹。",
+     "core_thesis": "以“名”为集，记录影响；这是该书的核心命题。",
+     "editions": "《卍续藏》本（节抄）",
+     "note": "约510 年"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -2053,6 +2358,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“如来藏”的梵语义（tathāgatagarbha：如来之胎藏／藏有如来）与汉译的差异须核；其与“佛性”的异同亦须分辨。"
+  },
+  {
+   "id": "cn-nanbei-yichang",
+   "term": "译场",
+   "term_latin": "translation bureau",
+   "definition": "南北朝至唐宋的官方译经机构：由主译、笔受、度语、证义、润文等分工协作，故译经成为**集体的制度性工作**，而非个人的翻译。这一制度既保证了译文的规范，也带来了译语与解释的取舍问题（“新旧译”之争即由此生）。",
+   "usages": [
+    {
+     "name": "真谛（其主译）",
+     "id": "cn-nanbei-zhendi",
+     "usage": "在战乱中辗转译经，其译场规模不及长安。"
+    },
+    {
+     "name": "僧祐（其经录）",
+     "id": "cn-nanbei-sengyou",
+     "usage": "以经录记录译场与译人，使译史可考。"
+    },
+    {
+     "name": "玄奘（其极盛）",
+     "usage": "长安译场的规模与分工达到顶峰。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-jiamo",
+    "cn-nanbei-alaoye"
+   ],
+   "example": {
+    "text": "“译场”的意义在于它把“翻译”变成了**制度**：译语的取舍不再是个人风格，而是分工与审定后的结果。故读汉译佛典须知道：一个术语的选择，背后往往有一个译场的共识与争论 —— 这也是“新旧译”之争的制度根源。",
+    "figure": "僧祐",
+    "locator": "《出三藏记集》所记译场与译人"
+   },
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "ws-hongming-ji",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“译场”的组织（主译、笔受、度语、证义、润文等）在南北朝至唐代有演变；本页取其一般制度义，具体分工须核《宋高僧传》与译经史研究。"
   }
  ],
  "debates": [
@@ -2203,6 +2546,80 @@
    ],
    "needs_verification": true,
    "pending_notes": "“沙门不敬王者”之争的往复文本见《弘明集》卷五与《高僧传》；桓玄与慧远的具体往复须核原书。"
+  },
+  {
+   "id": "cn-nanbei-debate-nanbei-erdao",
+   "title": "地论师的南北二道",
+   "question": "“阿梨耶识”是清净的还是染污的？",
+   "positions": [
+    {
+     "holder": "南道（慧光一系）",
+     "id": null,
+     "stance": "阿梨耶识是清净的（真识）",
+     "reasons": [
+      "《十地经论》以“真如”为依止，故识的体性应是净。",
+      "若识本染，则转依无据。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "北道（道宠一系）",
+     "id": null,
+     "stance": "阿梨耶识是染污的（妄识）",
+     "reasons": [
+      "众生在缠，识的作用皆是染。",
+      "须另立“真识”方有转依之据。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "争的是**转依的根据**：若识本净，则修行是“去覆”；若识本染，则须另立一清净的体。这一分歧直接通向《大乘起信论》的“一心二门”与后世的“真妄和合”说。",
+   "status": "无定论",
+   "status_note": "南北二道之分在隋唐渐归消融（天台、华严各以其方式会通），但其问题（识的体性是净是染）转形为“如来藏与阿赖耶识”的关系问题。",
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "ws-dacheng-qixinlun",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "南北二道的具体人物（慧光、道宠）与所据文本须核《续高僧传》与地论学研究；“二道”之分是否如后世所述那样整齐，学界有不同看法。"
+  },
+  {
+   "id": "cn-nanbei-debate-sifen",
+   "title": "《四分律》是否应独行",
+   "question": "中国僧团应依哪一部律？",
+   "positions": [
+    {
+     "holder": "四分律一系（后来的道宣）",
+     "id": null,
+     "stance": "以《四分律》为准，且以大乘精神解释之",
+     "reasons": [
+      "《四分律》的条目较完备，且便于行持。",
+      "可以“三聚净戒”会通大乘。"
+     ],
+     "kind": "原文"
+    },
+    {
+     "holder": "十诵律一系",
+     "id": null,
+     "stance": "南方本依《十诵律》，不宜轻改",
+     "reasons": [
+      "《十诵律》在南方已有传承与实行。",
+      "改律须有充分理由，否则僧制动摇。"
+     ],
+     "kind": "原文"
+    }
+   ],
+   "focus": "争的表面是“依哪部律”，实质是**僧制的统一与地方传承的张力**：统一便于管理，传承有其既成事实。",
+   "status": "部分解决",
+   "status_note": "唐代道宣一系大行，《四分律》成为汉传的主流；但“小小戒可舍”与地方习惯的张力始终存在（后由丛林清规补足）。",
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《四分律》与《十诵律》的消长过程须核僧传与戒律史研究；道宣“以大乘解小乘律”的做法亦须核《行事钞》。"
   }
  ]
 }

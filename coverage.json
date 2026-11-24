@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1293,
+  "entries": 1298,
   "by_level": {
    "L2": 779,
-   "L1": 514
+   "L1": 519
   },
   "doctrine": {
-   "total": 268,
-   "detail": 268,
+   "total": 270,
+   "detail": 270,
    "auto": 0
   },
-  "needs_verification": 514,
+  "needs_verification": 519,
   "sources": 409,
   "sources_verified": 409
  },
@@ -29,10 +29,10 @@
    "unit_id": "cn-nanbei",
    "title": "南北朝佛道与形神之争",
    "region": "china",
-   "philosophers": 10,
-   "concepts": 15,
-   "debates": 4,
-   "philosophers_slot": "8 上限，余 -2"
+   "philosophers": 12,
+   "concepts": 16,
+   "debates": 6,
+   "philosophers_slot": "8 上限，余 -4"
   },
   {
    "unit_id": "cn-qingmod",
@@ -847,6 +847,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-nanbei-huijiao",
+   "type": "philosopher",
+   "title": "慧皎",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-baochang",
+   "type": "philosopher",
+   "title": "宝唱",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-nanbei-shenmie",
    "type": "concept",
    "title": "神灭",
@@ -1012,6 +1034,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-nanbei-yichang",
+   "type": "concept",
+   "title": "译场",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-nanbei-debate-shenmie",
    "type": "debate",
    "title": "神灭与神不灭之争",
@@ -1048,6 +1081,28 @@
    "id": "cn-nanbei-debate-jingwang",
    "type": "debate",
    "title": "沙门是否应敬王者",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-debate-nanbei-erdao",
+   "type": "debate",
+   "title": "地论师的南北二道",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-debate-sifen",
+   "type": "debate",
+   "title": "《四分律》是否应独行",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
