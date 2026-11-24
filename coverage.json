@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1134,
+  "entries": 1138,
   "by_level": {
    "L2": 786,
-   "L1": 348
+   "L1": 352
   },
   "doctrine": {
    "total": 255,
    "detail": 255,
    "auto": 0
   },
-  "needs_verification": 348,
+  "needs_verification": 352,
   "sources": 399,
   "sources_verified": 399
  },
@@ -21,7 +21,7 @@
    "title": "两汉经学与气论",
    "region": "china",
    "philosophers": 17,
-   "concepts": 24,
+   "concepts": 25,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -9"
   },
@@ -588,6 +588,17 @@
    "id": "cn-lianghan-sanben",
    "type": "concept",
    "title": "三本",
+   "container": "cn-lianghan",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-lianghan-wenzhi",
+   "type": "concept",
+   "title": "文质",
    "container": "cn-lianghan",
    "level": "L1",
    "sources": 3,
@@ -8802,6 +8813,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-jiazi",
+   "type": "work",
+   "title": "《贾子》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-hanshi-waizhuan",
    "type": "work",
    "title": "《韩诗外传》",
@@ -9088,6 +9110,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-weishu",
+   "type": "work",
+   "title": "《纬书》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-de-providentia",
    "type": "work",
    "title": "《论天意》",
@@ -9217,6 +9250,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-changyan",
+   "type": "work",
+   "title": "《昌言》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {

@@ -3411,6 +3411,41 @@
    ],
    "needs_verification": true,
    "pending_notes": "“三本”的具体所指在《说苑》《荀子·礼论》与汉儒文献之间有差异（或指德法民，或指天地先祖君师）；本页并述两说，具体归属须核《说苑》与《荀子》。"
+  },
+  {
+   "id": "cn-lianghan-wenzhi",
+   "term": "文质",
+   "term_latin": "refinement and substance",
+   "definition": "孔子“质胜文则野，文胜质则史，文质彬彬，然后君子”所引出的问题：内容与形式（或质朴与文饰）如何相称。汉儒把它用于**制度的更替**：文质互补、循环救弊，故改制不是全盘更张，而是“救文以质”或“救质以文”。",
+   "usages": [
+    {
+     "name": "董仲舒与公羊家",
+     "id": "cn-lianghan-dong-zhongshu",
+     "usage": "以文质循环说明“改制”的必要与限度（“继治世者其道同，继乱世者其道变”）。"
+    },
+    {
+     "name": "孔子（原文）",
+     "usage": "“文质彬彬，然后君子”：文质须相称。"
+    },
+    {
+     "name": "刘向（其用）",
+     "id": "cn-lianghan-liu-xiang",
+     "usage": "以文质论礼制的损益；这一用法须与相邻概念分辨。"
+    }
+   ],
+   "related": [],
+   "example": {
+    "text": "“文质”之所以重要，是因为它给“改制”提供了**限度**：新朝不必推翻一切，只须“救”前朝之偏（文胜则救以质）。故它是一个**保守的变革理论** —— 变革有据，且有限。",
+    "figure": "董仲舒",
+    "locator": "《春秋繁露·三代改制质文》"
+   },
+   "sources": [
+    "ws-hanshu",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“文质”在《论语》的伦理义与汉儒的制度义（文质循环）之间有滑动；本页并述二义，具体文本须核《春秋繁露·三代改制质文》与《论语·雍也》。"
   }
  ],
  "debates": [

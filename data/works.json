@@ -4210,6 +4210,63 @@
    "sort_year": -170
   },
   {
+   "id": "work-jiazi",
+   "title": "《贾子》",
+   "title_original": "賈子（新書）",
+   "tradition": "china",
+   "date_display": "西汉（贾谊，前200—前168）",
+   "structure": "十卷五十八篇（通行本）：分“过秦”“宗首”“数字”“连语”“杂事”等；含政论、礼制与哲学短论。",
+   "core_arguments": [
+    "“过秦”：秦之亡在“仁义不施而攻守之势异也”",
+    "“民无不为本”：以民为政治的根本",
+    "以“礼”为治国的主轴（与贾谊的“法治”相辅）"
+   ],
+   "key_points": [
+    {
+     "locator": "《过秦》",
+     "point": "攻守之势异"
+    },
+    {
+     "locator": "《大政》",
+     "point": "民无不为本"
+    },
+    {
+     "locator": "《礼》",
+     "point": "礼的主轴"
+    },
+    {
+     "locator": "《道德说》",
+     "point": "道德的形上根据"
+    }
+   ],
+   "editions": [
+    "阎振益、钟夏《新书校注》（中华书局）；《贾谊集》本"
+   ],
+   "related_people": [
+    "cn-lianghan-dong-zhongshu",
+    "cn-xianqin-xunzi",
+    "cn-lianghan-ban-gu"
+   ],
+   "misreadings": [
+    {
+     "claim": "贾谊只是文学家（《吊屈原赋》）",
+     "why": "其《过秦》《大政》是**政治哲学**的核心文本；“民无不为本”的提法在汉代政治思想中极为重要。"
+    },
+    {
+     "claim": "《贾子》与《新书》是两部书",
+     "why": "《新书》即《贾子》（一名《贾长沙集》所收不同）；今本十卷五十八篇，其中若干篇的真伪有争议。"
+    }
+   ],
+   "sources": [
+    "ws-hanshu",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《贾子》（《新书》）的篇数与真伪（部分篇目或为后人所附）须核阎振益、钟夏校注本；其“民无不为本”的原文出处须核《大政》篇。",
+   "sort_year": -170
+  },
+  {
    "id": "work-hanshi-waizhuan",
    "title": "《韩诗外传》",
    "title_original": "韓詩外傳",
@@ -5677,6 +5734,63 @@
    "sort_year": 25
   },
   {
+   "id": "work-weishu",
+   "title": "《纬书》",
+   "title_original": "緯書（七经纬）",
+   "tradition": "china",
+   "date_display": "西汉末至东汉（托名孔子；成于汉儒）",
+   "structure": "含《易》《书》《诗》《礼》《乐》《春秋》《孝经》七经纬，共三十五（或三十六）篇；以“配经”的方式把经义与阴阳灾异、天文历数结合。",
+   "core_arguments": [
+    "以“天人感应”解经：经义与天象相互印证",
+    "以“孔子为汉制法”说经：经书含有为汉立制的“微言”",
+    "以“谶”与“纬”相辅：预言与解经并行"
+   ],
+   "key_points": [
+    {
+     "locator": "《春秋纬》",
+     "point": "孔子为汉制法"
+    },
+    {
+     "locator": "《易纬》",
+     "point": "卦气与历数"
+    },
+    {
+     "locator": "《孝经纬》",
+     "point": "孝与天道的关联"
+    },
+    {
+     "locator": "全书",
+     "point": "配经的体例"
+    }
+   ],
+   "editions": [
+    "赵在翰《七纬》；《纬书集成》（安居香山、中村璋八编）"
+   ],
+   "related_people": [
+    "cn-lianghan-dong-zhongshu",
+    "cn-lianghan-ban-gu",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "纬书是孔子的著作",
+     "why": "它是**托名**之作（成于汉儒），其“孔子为汉制法”的说法本身即汉代的建构；故不能当作孔子的思想。"
+    },
+    {
+     "claim": "纬书只是迷信，无思想价值",
+     "why": "它保存了汉代的宇宙论、历法与经学解释，是研究汉代思想的重要材料；但其“谶”的部分确与政治预言相关，须分辨。"
+    }
+   ],
+   "sources": [
+    "ws-hanshu",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "纬书的篇数与成书年代（西汉末至东汉，非一人一时）在学界有不同说法；本页依《纬书集成》与汉代经学研究概述，具体篇目须核辑佚本。",
+   "sort_year": 50
+  },
+  {
    "id": "work-de-providentia",
    "title": "《论天意》",
    "title_original": "De providentia（Dialogi I）",
@@ -6360,6 +6474,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 210
+  },
+  {
+   "id": "work-changyan",
+   "title": "《昌言》",
+   "title_original": "昌言",
+   "tradition": "china",
+   "date_display": "东汉（仲长统，179—220）",
+   "structure": "原书三十四篇（今存辑佚）：以“理乱”“损益”“法诫”等篇论治乱之道与制度损益。",
+   "core_arguments": [
+    "“治乱”有周期：王朝由治而衰有其结构性原因",
+    "“损益”：制度须随时而变（“变而不失其正”）",
+    "对“天命”的保留：以人事为治乱的主因"
+   ],
+   "key_points": [
+    {
+     "locator": "《理乱》",
+     "point": "治乱的周期"
+    },
+    {
+     "locator": "《损益》",
+     "point": "制度的损益"
+    },
+    {
+     "locator": "《法诫》",
+     "point": "法制的限度"
+    },
+    {
+     "locator": "辑佚",
+     "point": "文本的残缺"
+    }
+   ],
+   "editions": [
+    "《后汉书·仲长统传》所引；严可均《全后汉文》辑本"
+   ],
+   "related_people": [
+    "cn-lianghan-wang-chong",
+    "cn-lianghan-ban-gu",
+    "cn-xianqin-xunzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《昌言》今存全本",
+     "why": "其书已佚，今仅存《后汉书》本传所引与类书辑佚的片段；故只能据残篇立论。"
+    },
+    {
+     "claim": "其“治乱周期”是历史循环论",
+     "why": "其意在指出**结构性**的原因（制度与人事），而非宿命的循环；故与“五德终始”式的循环论不同。"
+    }
+   ],
+   "sources": [
+    "ws-hanshu",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《昌言》原书已佚，今存《后汉书·仲长统传》所引与辑佚；本页依残篇与汉代思想研究概述，具体篇目与文字须核辑佚本。",
    "sort_year": 210
   },
   {
