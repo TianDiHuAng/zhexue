@@ -22551,6 +22551,63 @@
    "sort_year": 1898
   },
   {
+   "id": "work-quanxue-pian",
+   "title": "《劝学篇》",
+   "title_original": "勸學篇",
+   "tradition": "china",
+   "date_display": "1898年（张之洞）",
+   "structure": "内篇九（同心、教忠、明纲、知类、宗经、正权、循序、守约、去毒）与外篇十五（益智、游学、设学、学制、广译、阅报、变法、变科举、农工商学、兵学、矿学、铁路、会通、非弭兵、非攻教）。",
+   "core_arguments": [
+    "“旧学为体，新学为用”（世称“中体西用”）：中学以立本，西学以致用",
+    "变法须有序：先立本而后求用，不可“正权”（废纲常）",
+    "“知类”：辨华夷与名教之本，以御“邪说”"
+   ],
+   "key_points": [
+    {
+     "locator": "内篇〈同心〉〈明纲〉",
+     "point": "中学为体"
+    },
+    {
+     "locator": "外篇〈益智〉〈游学〉",
+     "point": "西学为用"
+    },
+    {
+     "locator": "外篇〈变法〉〈变科举〉",
+     "point": "变法的次序"
+    },
+    {
+     "locator": "内篇〈正权〉",
+     "point": "对民权的排斥"
+    }
+   ],
+   "editions": [
+    "中华书局《劝学篇》（李忠兴评注）；《张文襄公全集》本"
+   ],
+   "related_people": [
+    "cn-qingmod-yan-fu",
+    "cn-qingmod-kang-youwei",
+    "cn-qingmod-liang-qichao"
+   ],
+   "misreadings": [
+    {
+     "claim": "“中体西用”是张之洞首创",
+     "why": "此说在 1860—90 年代已流行（冯桂芬、郑观应、沈寿康等皆有类似表述）；张之洞的贡献是**系统化与政治化**（以此回应康梁的“民权”）。"
+    },
+    {
+     "claim": "它是“全盘保守”的书",
+     "why": "其外篇力主游学、译书、变科举、设学制，是**变法**的方案；其保守之处在“正权”（拒民权）与“明纲”，不在拒绝西学。"
+    }
+   ],
+   "sources": [
+    "ws-mingyi",
+    "ct-rizhilu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《劝学篇》1898 年初刊与其内外篇篇目须核中华书局评注本；“中体西用”一语的先例须逐条核（冯桂芬《校邠庐抗议》等）。",
+   "sort_year": 1898
+  },
+  {
    "id": "work-logical-investigations",
    "title": "《逻辑研究》",
    "title_original": "Logische Untersuchungen",
@@ -22665,6 +22722,63 @@
    "sort_year": 1902
   },
   {
+   "id": "work-xinmin-shuo",
+   "title": "《新民说》",
+   "title_original": "新民說",
+   "tradition": "china",
+   "date_display": "1902—1906年（梁启超，连载于《新民丛报》）",
+   "structure": "二十节：论新民为今日中国第一急务、论公德、论国家思想、论进取冒险、论权利思想、论自由、论自治、论进步、论自尊、论合群、论生利分利、论毅力、论义务思想、论尚武、论私德、论民气、论政治能力等。",
+   "core_arguments": [
+    "“新民”：先新其民，而后新其国；民之德智力的更新是政治更新的前提",
+    "“公德”之缺：中国旧伦理重私德而缺公德（群体之德）",
+    "“权利”与“自由”：权利由**争**而得，非由赐"
+   ],
+   "key_points": [
+    {
+     "locator": "第一节",
+     "point": "新民为第一急务"
+    },
+    {
+     "locator": "论公德、论私德",
+     "point": "公德与私德"
+    },
+    {
+     "locator": "论权利、论自由",
+     "point": "权利与自由"
+    },
+    {
+     "locator": "论合群、论政治能力",
+     "point": "合群与能力"
+    }
+   ],
+   "editions": [
+    "中华书局《新民说》（张品兴编《梁启超全集》本）；单行本多种"
+   ],
+   "related_people": [
+    "cn-qingmod-liang-qichao",
+    "cn-qingmod-kang-youwei",
+    "cn-qingmod-yan-fu"
+   ],
+   "misreadings": [
+    {
+     "claim": "梁启超主张“全盘西化”",
+     "why": "他力主“新民”须以**公德与权利**补中国之缺，同时强调“私德”不可废（其〈论私德〉一节专论此）；故其说是“补缺”，不是“尽弃”。"
+    },
+    {
+     "claim": "其“新民”只是政治宣传",
+     "why": "其说有**伦理学的结构**：德性须由“公德／私德”两分重估，权利须由“争”而立 —— 这是对儒家德性论的改造，不只是口号。"
+    }
+   ],
+   "sources": [
+    "ws-mingyi",
+    "ct-mengzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《新民说》1902—1906 连载的篇目与后来的修订（〈论私德〉的加入）须核《梁启超全集》本；其与《清议报》时期思想的差异亦须分辨。",
+   "sort_year": 1902
+  },
+  {
    "id": "work-principia-ethica",
    "title": "《伦理学原理》",
    "title_original": "Principia Ethica",
@@ -22771,6 +22885,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "本条所指为**现代辑佚与选本**（SVF 与 Long & Sedley），非古代原著；其编排原则对解读的影响须留意。故标为待核实。",
+   "sort_year": 1903
+  },
+  {
+   "id": "work-geming-jun",
+   "title": "《革命军》",
+   "title_original": "革命軍",
+   "tradition": "china",
+   "date_display": "1903年（邹容）",
+   "structure": "七章：绪论、革命之原因、革命之教育、革命必剖清人种、革命必先去奴隶之根性、革命独立之大义、结论。",
+   "core_arguments": [
+    "“革命者，天演之公例也”：以进化论为革命的正当性",
+    "“去奴隶之根性”：先革心的奴隶性，而后能革制度",
+    "以“中华共和国”为目标的政体构想"
+   ],
+   "key_points": [
+    {
+     "locator": "〈绪论〉",
+     "point": "革命的界说"
+    },
+    {
+     "locator": "〈革命之原因〉",
+     "point": "对清政府与专制的控诉"
+    },
+    {
+     "locator": "〈去奴隶之根性〉",
+     "point": "奴隶性批判"
+    },
+    {
+     "locator": "〈结论〉",
+     "point": "共和国之目标"
+    }
+   ],
+   "editions": [
+    "中华书局《邹容文集》；《革命军》单行本（1903）"
+   ],
+   "related_people": [
+    "cn-qingmod-zhang-taiyan",
+    "cn-qingmod-liang-qichao",
+    "cn-qingmod-yan-fu"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是“排满”的宣传",
+     "why": "其内容含**政体的构想**（中华共和国）与**心性的批判**（奴隶性），故其说不止于种族排外；但其排满的表述十分激烈，须如实标出。"
+    },
+    {
+     "claim": "其“革命”与后世的政治革命同义",
+     "why": "其“革命”以“天演”为根据（进化论的必然），带有社会达尔文主义的色彩；故须分辨其时代语汇。"
+    }
+   ],
+   "sources": [
+    "ws-mingyi",
+    "ws-du-tongjian-lun",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《革命军》1903 年初刊的文本与其后的翻印异文须核中华书局《邹容文集》；其排满表述的历史语境须如实标出，不作美化也不作苛责。",
    "sort_year": 1903
   },
   {

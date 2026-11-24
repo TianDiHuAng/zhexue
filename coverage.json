@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1357,
+  "entries": 1362,
   "by_level": {
    "L2": 781,
-   "L1": 576
+   "L1": 581
   },
   "doctrine": {
    "total": 272,
    "detail": 272,
    "auto": 0
   },
-  "needs_verification": 576,
+  "needs_verification": 581,
   "sources": 413,
   "sources_verified": 413
  },
@@ -39,7 +39,7 @@
    "title": "清代与近代转型",
    "region": "china",
    "philosophers": 19,
-   "concepts": 20,
+   "concepts": 21,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -1565,6 +1565,17 @@
    "id": "cn-qingmod-xing-ri-sheng",
    "type": "concept",
    "title": "性日生日成",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-zhongti-xiyong",
+   "type": "concept",
+   "title": "中体西用",
    "container": "cn-qingmod",
    "level": "L1",
    "sources": 3,
@@ -13112,6 +13123,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-quanxue-pian",
+   "type": "work",
+   "title": "《劝学篇》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-logical-investigations",
    "type": "work",
    "title": "《逻辑研究》",
@@ -13134,6 +13156,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-xinmin-shuo",
+   "type": "work",
+   "title": "《新民说》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-principia-ethica",
    "type": "work",
    "title": "《伦理学原理》",
@@ -13149,6 +13182,17 @@
    "type": "work",
    "title": "《斯多亚派选集》",
    "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-geming-jun",
+   "type": "work",
+   "title": "《革命军》",
+   "container": "china",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -14600,6 +14644,17 @@
    "id": "cmp-shengxun",
    "type": "comparative",
    "title": "声训与“约定”：名与实之间，是声音还是约定？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-tiyong",
+   "type": "comparative",
+   "title": "体用二分与“形式—质料”：能不能只取一半？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

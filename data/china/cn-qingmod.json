@@ -3748,6 +3748,40 @@
    ],
    "needs_verification": true,
    "pending_notes": "“性日生日成”的原文见《尚书引义》卷三，其确切表述与“日生”的两义（天之日命／人之日成）须核王孝鱼点校本。"
+  },
+  {
+   "id": "cn-qingmod-zhongti-xiyong",
+   "term": "中体西用",
+   "term_latin": "Chinese learning as substance, Western learning as function",
+   "definition": "晚清的自强方案：以中国的伦常名教为“体”（本），以西学的技艺与制度为“用”（末）。其要害是**为西学的引入设定一个不得触动的前提**：器物可学，纲常不可变。这一方案在 1890 年代成为官方话语，也在戊戌前后成为争论的焦点。",
+   "usages": [
+    {
+     "name": "张之洞（其系统化）",
+     "usage": "以《劝学篇》把此说系统化并政治化。"
+    },
+    {
+     "name": "冯桂芬（其先例）",
+     "usage": "“以中国之伦常名教为原本，辅以诸国富强之术”已开其端。"
+    },
+    {
+     "name": "严复（其批评）",
+     "id": "cn-qingmod-yan-fu",
+     "usage": "讥其“牛体马用”：体用不可分割。"
+    }
+   ],
+   "related": [],
+   "example": {
+    "text": "“中体西用”的要害在“体用”这一对范畴：它假设“体”与“用”可以分开取用。严复的批评正击此处 —— 若“体”真为体，则其“用”必由其体而生，不能取他人之用而安于自己之体。故这一方案的困难不是保守与否，而是**体用可否二分**。",
+    "figure": "张之洞",
+    "locator": "《劝学篇》"
+   },
+   "sources": [
+    "ws-mingyi",
+    "ct-rizhilu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“中体西用”一语的先例（冯桂芬、郑观应、沈寿康等）与张之洞的表述差异须逐条核；严复“牛体马用”之讥的出处亦须核。"
   }
  ],
  "debates": [
