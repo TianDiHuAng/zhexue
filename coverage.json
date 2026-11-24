@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1145,
+  "entries": 1149,
   "by_level": {
    "L2": 786,
-   "L1": 359
+   "L1": 363
   },
   "doctrine": {
    "total": 255,
    "detail": 255,
    "auto": 0
   },
-  "needs_verification": 359,
+  "needs_verification": 363,
   "sources": 399,
   "sources_verified": 399
  },
@@ -11057,6 +11057,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-jenaer-realphilosophie",
+   "type": "work",
+   "title": "《耶拿实在哲学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-phenomenology-spirit",
    "type": "work",
    "title": "《精神现象学》",
@@ -11065,6 +11076,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-wissenschaft-logik",
+   "type": "work",
+   "title": "《大逻辑》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -11816,6 +11838,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-histoire-sexualite",
+   "type": "work",
+   "title": "《性史》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cmp-cosmology",
    "type": "comparative",
    "title": "生成还是创造：中西宇宙论的两种语法",
@@ -12263,6 +12296,17 @@
    "level": "L1",
    "sources": 5,
    "verified_sources": 5,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-aufhebung",
+   "type": "comparative",
+   "title": "扬弃与“两行”：黑格尔的 Aufhebung 与庄子的“莫若以明”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-24"
   },

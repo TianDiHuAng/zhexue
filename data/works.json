@@ -15754,6 +15754,63 @@
    "sort_year": 1800
   },
   {
+   "id": "work-jenaer-realphilosophie",
+   "title": "《耶拿实在哲学》",
+   "title_original": "Jenaer Realphilosophie",
+   "tradition": "west",
+   "date_display": "1805—1806年（黑格尔耶拿讲稿，未刊）",
+   "structure": "讲稿三部分（自然哲学、精神哲学、以及“绝对精神”的雏形）：以“精神”的形态为线索。",
+   "core_arguments": [
+    "“精神”是自然的真理：自然在其真理处即是精神",
+    "以“承认”（Anerkennung）说明自我意识的构成（此说影响后世）",
+    "“绝对精神”的概念在此尚未定型（后发展为艺术—宗教—哲学的三段）"
+   ],
+   "key_points": [
+    {
+     "locator": "自然哲学部分",
+     "point": "自然与精神的关系"
+    },
+    {
+     "locator": "精神哲学部分",
+     "point": "承认与自我意识"
+    },
+    {
+     "locator": "末段",
+     "point": "绝对精神的雏形"
+    },
+    {
+     "locator": "讲稿体例",
+     "point": "未刊与残稿"
+    }
+   ],
+   "editions": [
+    "德文 Gesammelte Werke 第8卷（Hoffmeister 旧编本）；英译（Rauch）"
+   ],
+   "related_people": [
+    "gr-german-hegel",
+    "gr-german-kant",
+    "gr-20c-heidegger"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是《精神现象学》的草稿",
+     "why": "二者同属耶拿时期而结构不同：《现象学》以“意识的形态”为线索，《实在哲学》以“自然—精神”为框架；故不宜视为草稿。"
+    },
+    {
+     "claim": "它是完整的著作",
+     "why": "它是**未刊讲稿**（残稿），故其文本不完整；引用时须注意其讲稿性质。"
+    }
+   ],
+   "sources": [
+    "sep-hegel",
+    "sep-heidegger",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《耶拿实在哲学》为未刊讲稿（1805—06），各编本（Hoffmeister 与 GW 第8卷）的编排与文字有差异；本页依 GW 本与黑格尔研究概述。",
+   "sort_year": 1806
+  },
+  {
    "id": "work-phenomenology-spirit",
    "title": "《精神现象学》",
    "title_original": "Phänomenologie des Geistes",
@@ -15810,6 +15867,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1807
+  },
+  {
+   "id": "work-wissenschaft-logik",
+   "title": "《大逻辑》",
+   "title_original": "Wissenschaft der Logik",
+   "tradition": "west",
+   "date_display": "1812—1816年（黑格尔）；1832年修订第一卷",
+   "structure": "两部分：①存在论（Sein）：质、量、度；②本质论（Wesen）：作为反思的规定、现象、现实性。概念论在《哲学全书》中补全。",
+   "core_arguments": [
+    "逻辑学是“纯粹思维的规定”的展开，故它同时是本体论",
+    "“存在—无—变”：纯粹存在与无的同一，通过“变”而过渡",
+    "辩证法不是方法的外加，而是概念自身的运动（“否定之否定”）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一卷 第一章",
+     "point": "存在—无—变"
+    },
+    {
+     "locator": "第一卷 “度”",
+     "point": "质与量的统一"
+    },
+    {
+     "locator": "第二卷 “反思”",
+     "point": "本质论的诸规定"
+    },
+    {
+     "locator": "第二卷 “现实性”",
+     "point": "实体与主体"
+    }
+   ],
+   "editions": [
+    "德文 Meiner 版（GW）；中译参《逻辑学》（杨一之译，商务印书馆）；英译（Miller）"
+   ],
+   "related_people": [
+    "gr-german-hegel",
+    "gr-german-kant",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "《大逻辑》是认识论（思维规则）",
+     "why": "黑格尔明确说逻辑学与形而上学同一：思维的规定即存在的规定。故它不只关“怎么想”，而关“是什么”。"
+    },
+    {
+     "claim": "“存在—无—变”是文字游戏",
+     "why": "其论证是：纯粹存在无任何规定，故与“无”不可分；而二者的“不可分”本身是一个**过渡**（变）。故它是概念的自我运动，不是词语联想。"
+    }
+   ],
+   "sources": [
+    "sep-hegel",
+    "sep-kant",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《大逻辑》1812—16 年初版与 1832 年修订本（第一卷）差异很大；中译本（杨一之）所据版本与术语处理须核。",
+   "sort_year": 1816
   },
   {
    "id": "work-shorter-logic",
@@ -19642,6 +19756,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1983
+  },
+  {
+   "id": "work-histoire-sexualite",
+   "title": "《性史》",
+   "title_original": "Histoire de la sexualité",
+   "tradition": "west",
+   "date_display": "1976—1984年（福柯；第四卷遗著2018年刊）",
+   "structure": "原计划六卷，实出：第一卷《认知的意志》（1976）、第二卷《快感的享用》（1984）、第三卷《关心自我》（1984）；第四卷《肉欲的忏悔》为遗著（2018）。",
+   "core_arguments": [
+    "“性的装置”（dispositif de sexualité）：性不是自然事实，而是被话语与制度生产出来的",
+    "权力不是压抑性的，而是**生产性的**（它生产主体与快感）",
+    "古希腊罗马的“自我技术”：以“关心自我”为伦理的轴心"
+   ],
+   "key_points": [
+    {
+     "locator": "第一卷",
+     "point": "压抑假说与其反驳"
+    },
+    {
+     "locator": "第一卷",
+     "point": "性的装置"
+    },
+    {
+     "locator": "第二卷",
+     "point": "快感的享用与节制"
+    },
+    {
+     "locator": "第三卷",
+     "point": "关心自我"
+    }
+   ],
+   "editions": [
+    "法文 Gallimard 版；中译参（第一卷《性经验史》上海人民出版社）；英译（Hurley 等）"
+   ],
+   "related_people": [
+    "gr-contemp-foucault",
+    "gr-19c-marx",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“性学”著作",
+     "why": "其对象不是性行为本身，而是**性如何被话语化、被治理**；故它是权力—知识的研究，不是性学。"
+    },
+    {
+     "claim": "福柯主张“权力只是压抑”",
+     "why": "他明确反对“压抑假说”：权力是**生产性的**（它生产主体、快感与知识）；故其立场与“压抑”模型相反。"
+    }
+   ],
+   "sources": [
+    "sep-foucault",
+    "sep-plato",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《性史》的计划（原拟六卷）与实际出版（三卷＋遗著第四卷）的差异须核；第二、三卷的“自我技术”转向与第一卷的“权力”分析之间的关系亦有争论。",
+   "sort_year": 1984
   }
  ]
 }
