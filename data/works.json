@@ -8190,6 +8190,120 @@
    "sort_year": 150
   },
   {
+   "id": "work-sanli-zhu",
+   "title": "《三礼注》",
+   "title_original": "《周礼注》《仪礼注》《礼记注》",
+   "tradition": "china",
+   "date_display": "东汉（郑玄）",
+   "structure": "三部注本：《周礼注》《仪礼注》《礼记注》（今存，为三礼之学的基石）。",
+   "core_arguments": [
+    "以“**注**”为法：随文释训，兼考制度与名物",
+    "以《周礼》为**周代之制**，而《仪礼》为**士之仪节**，二者相为表里",
+    "故“礼”不只是仪节，而是**制度的整体**（礼制）"
+   ],
+   "key_points": [
+    {
+     "locator": "《周礼注》",
+     "point": "官制与制度"
+    },
+    {
+     "locator": "《仪礼注》",
+     "point": "仪节与服制"
+    },
+    {
+     "locator": "《礼记注》",
+     "point": "礼义与礼制"
+    },
+    {
+     "locator": "三注合观",
+     "point": "以礼为整体"
+    }
+   ],
+   "editions": [
+    "《十三经注疏》本（中华书局影印）；清人孙诒让《周礼正义》可参"
+   ],
+   "related_people": [
+    "cn-lianghan-zheng-xuan",
+    "cn-xianqin-kongzi",
+    "cn-xianqin-xunzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其注是“文字训诂而已”",
+     "why": "其注兼考**制度与名物**，并以三礼相为表里；故其为礼学的建构，非字词的注释。"
+    },
+    {
+     "claim": "其以《周礼》为“周公之制”即信其为史实",
+     "why": "汉唐注家多以《周礼》为周制，然其**成书年代**今有争议（战国—汉初说并存）；故本页标出争议，不裁定。"
+    }
+   ],
+   "sources": [
+    "sep-chinese-metaphysics",
+    "ct-analects",
+    "ws-shiji"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《三礼注》的文本须核《十三经注疏》本；《周礼》成书年代的争议（战国说／汉初说）须并述而不裁定。",
+   "sort_year": 150
+  },
+  {
+   "id": "work-zhenglun-cui",
+   "title": "《政论》（崔寔）",
+   "title_original": "《政论》",
+   "tradition": "china",
+   "date_display": "东汉（崔寔；今存辑本）",
+   "structure": "原书多卷，今存辑本（见《群书治要》等）：论时政之弊与救治之法。",
+   "core_arguments": [
+    "“**重赏深罚**”：以严明之法救末世之弊",
+    "“**俗渐弊而不知**”：风俗之坏由于积习，故须以法矫之",
+    "故其为“**救弊**”之论，非“德化”之论"
+   ],
+   "key_points": [
+    {
+     "locator": "论时弊",
+     "point": "风俗之坏"
+    },
+    {
+     "locator": "论治法",
+     "point": "重赏深罚"
+    },
+    {
+     "locator": "论人主",
+     "point": "明法与任人"
+    },
+    {
+     "locator": "全书",
+     "point": "以救弊为宗旨"
+    }
+   ],
+   "editions": [
+    "辑本见《群书治要》卷四十五；《后汉书·崔寔传》存其略"
+   ],
+   "related_people": [
+    "cn-lianghan-wang-fu",
+    "cn-xianqin-xunzi",
+    "cn-lianghan-xun-yue"
+   ],
+   "misreadings": [
+    {
+     "claim": "其说是“法家而反儒”",
+     "why": "其说以**救弊**为急（严法为一时之方），非废德化；故其为儒法之间的务实之论，非纯粹法家。"
+    },
+    {
+     "claim": "今存即其全貌",
+     "why": "其书**今存辑本**（原书已佚），故本页所据为辑本，非完本；此点须标出。"
+    }
+   ],
+   "sources": [
+    "sep-chinese-metaphysics",
+    "ct-analects",
+    "ws-shiji"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《政论》原书已佚，今存辑本（《群书治要》卷四十五、《后汉书》本传）；所据非完本，须标出。",
+   "sort_year": 150
+  },
+  {
    "id": "work-marcus-meditations",
    "title": "《沉思录》",
    "title_original": "Τὰ εἰς ἑαυτόν（Ta eis heauton，致自己）",
@@ -15102,6 +15216,63 @@
    "needs_verification": true,
    "pending_notes": "《二十四诗品》的作者归属（司空图／明人伪托）在学界有争论；本页标“传司空图”并说明，具体考订须核相关研究。",
    "sort_year": 900
+  },
+  {
+   "id": "work-lunyu-zhushu",
+   "title": "《论语注疏》",
+   "title_original": "《论语注疏》（何晏集解、邢昺疏）",
+   "tradition": "china",
+   "date_display": "魏—北宋（何晏《集解》＋邢昺《疏》）",
+   "structure": "十卷（《十三经注疏》本）：以何晏《论语集解》为注，邢昺为之疏。",
+   "core_arguments": [
+    "《集解》集汉魏诸家之说（包咸、郑玄、王肃等），保存古注",
+    "《疏》以**义理与名物**并重，为宋以前《论语》学的总结",
+    "故其为“**汉魏注—宋疏**”两层结构的典型"
+   ],
+   "key_points": [
+    {
+     "locator": "《集解》",
+     "point": "汉魏诸家之注"
+    },
+    {
+     "locator": "《疏》",
+     "point": "义理与名物"
+    },
+    {
+     "locator": "体例",
+     "point": "注疏两层"
+    },
+    {
+     "locator": "全书",
+     "point": "宋以前论语学的总结"
+    }
+   ],
+   "editions": [
+    "《十三经注疏》本（中华书局影印阮元校刻本）；刘宝楠《论语正义》可参"
+   ],
+   "related_people": [
+    "cn-xianqin-kongzi",
+    "cn-weijin-heyan",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其注即孔子之意",
+     "why": "其注是**汉魏诸家的解释**（去孔子数百年），故为“后人的解读”，须与《论语》原文分辨；本页严守此别。"
+    },
+    {
+     "claim": "其疏与朱熹《集注》可互代",
+     "why": "二者路数不同（汉唐注疏重名物制度，朱子重义理体认），故不可互代；本页并述其别。"
+    }
+   ],
+   "sources": [
+    "ct-analects",
+    "sep-chinese-metaphysics",
+    "ct-mengzi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论语注疏》的底本须核《十三经注疏》阮元校刻本；“何晏《集解》＋邢昺《疏》”的作者与年代亦须核（邢昺为北宋人）。",
+   "sort_year": 1000
   },
   {
    "id": "work-shifa-ibn-sina",

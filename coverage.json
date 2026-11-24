@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1757,
+  "entries": 1761,
   "by_level": {
    "L2": 779,
-   "L1": 978
+   "L1": 982
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 978,
+  "needs_verification": 982,
   "sources": 423,
   "sources_verified": 423
  },
@@ -11165,6 +11165,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-sanli-zhu",
+   "type": "work",
+   "title": "《三礼注》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-zhenglun-cui",
+   "type": "work",
+   "title": "《政论》（崔寔）",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-marcus-meditations",
    "type": "work",
    "title": "《沉思录》",
@@ -12499,6 +12521,17 @@
    "id": "work-ershisishi-pin",
    "type": "work",
    "title": "《二十四诗品》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-lunyu-zhushu",
+   "type": "work",
+   "title": "《论语注疏》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -19000,6 +19033,17 @@
    "id": "cmp-xingbie",
    "type": "comparative",
    "title": "“性别是操演”与“名分”：身份是被做出来的吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-zhushu",
+   "type": "comparative",
+   "title": "“注疏”与“诠释学循环”：解释能离开文本吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
