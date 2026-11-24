@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1111,
+  "entries": 1113,
   "by_level": {
    "L2": 785,
-   "L1": 326
+   "L1": 328
   },
   "doctrine": {
    "total": 255,
    "detail": 255,
    "auto": 0
   },
-  "needs_verification": 326,
+  "needs_verification": 328,
   "sources": 399,
   "sources_verified": 399
  },
@@ -9066,6 +9066,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-baihu-tongyi",
+   "type": "work",
+   "title": "《白虎通义》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-lunheng",
    "type": "work",
    "title": "《论衡》",
@@ -9129,6 +9140,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-lihuo-lun",
+   "type": "work",
+   "title": "《理惑论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {

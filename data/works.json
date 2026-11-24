@@ -5676,6 +5676,63 @@
    "sort_year": 79
   },
   {
+   "id": "work-baihu-tongyi",
+   "title": "《白虎通义》",
+   "title_original": "白虎通義",
+   "tradition": "china",
+   "date_display": "79年（东汉白虎观会议，班固等整理）",
+   "structure": "四十三篇（通行本）：按“爵、号、谥、五祀、社稷、礼乐、封公侯、三军、三纲六纪、情性、寿命、宗族、姓名、天地、日月、四时、五行、三正、三教、圣人、瑞贽”等门类编纂。",
+   "core_arguments": [
+    "以“三纲六纪”确立伦常的结构（君为臣纲、父为子纲、夫为妻纲）",
+    "以阴阳五行解释制度与名号的根据（“天之所以为天者，法天”）",
+    "以“圣人”为制作制度的枢纽：制度非人为，而是法天"
+   ],
+   "key_points": [
+    {
+     "locator": "《三纲六纪》",
+     "point": "伦常的结构"
+    },
+    {
+     "locator": "《情性》",
+     "point": "性与情的五分"
+    },
+    {
+     "locator": "《五行》",
+     "point": "五行的政治对应"
+    },
+    {
+     "locator": "《圣人》",
+     "point": "圣人与制作"
+    }
+   ],
+   "editions": [
+    "中华书局《白虎通疏证》（陈立撰，吴则虞点校）"
+   ],
+   "related_people": [
+    "cn-lianghan-dong-zhongshu",
+    "cn-lianghan-ban-gu",
+    "cn-lianghan-wang-chong"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是董仲舒的著作",
+     "why": "它是**白虎观会议**（79年）的产物，由班固等整理；董仲舒早于会议约两百年，其说被采纳但不等于其著作。"
+    },
+    {
+     "claim": "它只是礼制手册",
+     "why": "它以礼制为骨架，但同时是**汉代的官方宇宙论—伦理学**：三纲六纪、性情五分、五行政治都在此定型，故是思想的定型文本。"
+    }
+   ],
+   "sources": [
+    "ws-hanshu",
+    "ws-shuoyuan",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《白虎通义》的书名（《白虎通》／《白虎通义》／《白虎通德论》）与篇数（通行43篇）各本有异；本页依陈立《白虎通疏证》与汉代研究概述。",
+   "sort_year": 79
+  },
+  {
    "id": "work-lunheng",
    "title": "《论衡》",
    "title_original": "論衡",
@@ -6018,6 +6075,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 200
+  },
+  {
+   "id": "work-lihuo-lun",
+   "title": "《理惑论》",
+   "title_original": "理惑論（牟子理惑論）",
+   "tradition": "china",
+   "date_display": "东汉末（传牟子撰；成书年代有争论）",
+   "structure": "三十七篇（问答体）：设“惑者”问难，牟子答之；问难集中于佛教的教义、僧侣的生活方式与儒道的批评。",
+   "core_arguments": [
+    "以儒道的语汇为佛教辩护：佛教不违孝道（“苟有大德，不拘于小”）",
+    "以“佛”为“觉”者，以“沙门”为“息心”者（早期格义式的译解）",
+    "以“三教不悖”为立场：佛与儒道各有所为"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "惑者的问难"
+    },
+    {
+     "locator": "论出家与孝道",
+     "point": "“苟有大德不拘于小”"
+    },
+    {
+     "locator": "论佛与沙门",
+     "point": "早期译解"
+    },
+    {
+     "locator": "末篇",
+     "point": "三教不悖"
+    }
+   ],
+   "editions": [
+    "《弘明集》卷一；《大正藏》第52卷"
+   ],
+   "related_people": [
+    "cn-lianghan-wang-chong",
+    "cn-suitang-zhiyi",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是牟子的确证著作",
+     "why": "其作者与成书年代自梁启超以来争论极大（有东汉末、三国、东晋等说）；故只能标为“传牟子撰”。"
+    },
+    {
+     "claim": "它是纯粹的护教文，无哲学",
+     "why": "它是**汉语佛教最早的护教文本**，同时是“格义”方法的最早样本：以儒道语汇译解佛教概念，其得失本身即哲学问题。"
+    }
+   ],
+   "sources": [
+    "ws-hongming-ji",
+    "book-chan-sourcebook",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《理惑论》的作者（牟子）与成书年代（东汉末／三国／东晋诸说）自梁启超以来争论极大；本页标为“传牟子撰”，只述其内容与格义方法，不裁定年代。",
    "sort_year": 200
   },
   {
