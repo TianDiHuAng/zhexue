@@ -10,6 +10,7 @@
 """
 import json
 import os
+import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -50,6 +51,8 @@ def norm_title(t):
     for v in _VERSION_HINTS:
         s = s.replace(v, "")
     s = s.replace("《", "").replace("》", "").replace(" ", "").replace("　", "")
+    # D47：去掉任何括注（不仅限于版本括注），如「（道德经）」「（一名 X）」
+    s = re.sub(r"[（(][^）)]*[）)]", "", s)
     changed = True
     while changed:
         changed = False

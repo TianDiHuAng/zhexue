@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1142,
+  "entries": 1145,
   "by_level": {
    "L2": 786,
-   "L1": 356
+   "L1": 359
   },
   "doctrine": {
    "total": 255,
    "detail": 255,
    "auto": 0
   },
-  "needs_verification": 356,
+  "needs_verification": 359,
   "sources": 399,
   "sources_verified": 399
  },
@@ -8604,6 +8604,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-yinwenzi",
+   "type": "work",
+   "title": "《尹文子》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-tianxia-pian",
    "type": "work",
    "title": "《庄子·天下篇》",
@@ -8755,6 +8766,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-lushi-chunqiu",
+   "type": "work",
+   "title": "《吕氏春秋》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -12230,6 +12252,17 @@
    "level": "L1",
    "sources": 4,
    "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-zhengming",
+   "type": "comparative",
+   "title": "正名与定义：孔子、尹文子与苏格拉底的“名”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 5,
+   "verified_sources": 5,
    "needs_verification": true,
    "updated": "2026-11-24"
   },

@@ -3129,6 +3129,63 @@
    "sort_year": -300
   },
   {
+   "id": "work-yinwenzi",
+   "title": "《尹文子》",
+   "title_original": "尹文子",
+   "tradition": "china",
+   "date_display": "传战国尹文撰；今本或经后人整理",
+   "structure": "二篇（大道上、大道下）：以“名”“法”“形”为纲，论正名、法治与治道。",
+   "core_arguments": [
+    "“名以正形”：名须与实相应，故名实之辨是治道的基础",
+    "“法”须与“名”相配：赏罚依名实而定",
+    "“正名”与“无为”：君逸臣劳，君以名责实"
+   ],
+   "key_points": [
+    {
+     "locator": "《大道上》",
+     "point": "名与形"
+    },
+    {
+     "locator": "《大道上》",
+     "point": "名实与赏罚"
+    },
+    {
+     "locator": "《大道下》",
+     "point": "治道与无为"
+    },
+    {
+     "locator": "全书",
+     "point": "与法家的关系"
+    }
+   ],
+   "editions": [
+    "王启湘《尹文子校诠》；《诸子集成》本"
+   ],
+   "related_people": [
+    "cn-xianqin-gongsunlong",
+    "cn-xianqin-xunzi",
+    "cn-xianqin-mozi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《尹文子》是法家著作",
+     "why": "其以“名”为纲，兼取法家（法术）与名家（正名）；故《汉书·艺文志》列于名家。其“正名”是**名实之学**，不只是刑名之术。"
+    },
+    {
+     "claim": "今本《尹文子》即战国原作",
+     "why": "今本的真伪与成书年代有争议（有以为经后人整理或增益）；故只能标“传尹文撰”。"
+    }
+   ],
+   "sources": [
+    "ct-mozi",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《尹文子》今本的真伪与成书年代有争论（有“魏晋人伪作”说）；本页只述其内容与名实之学的线索，不裁定真伪。",
+   "sort_year": -300
+  },
+  {
    "id": "work-tianxia-pian",
    "title": "《庄子·天下篇》",
    "title_original": "天下篇",
@@ -3925,6 +3982,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": -250
+  },
+  {
+   "id": "work-lushi-chunqiu",
+   "title": "《吕氏春秋》",
+   "title_original": "呂氏春秋",
+   "tradition": "china",
+   "date_display": "前239年（吕不韦门客集体编纂）",
+   "structure": "二十六卷：十二纪（每纪五篇，附《序意》）、八览（每览八篇）、六论（每论六篇），共一百六十篇。",
+   "core_arguments": [
+    "“兼儒墨，合名法”：以折衷综合为方法（《汉书·艺文志》列为“杂家”）",
+    "“十二纪”以四时配政事：政令须合时令（阴阳家的框架）",
+    "“贵生”“重己”：以生命为价值的基准"
+   ],
+   "key_points": [
+    {
+     "locator": "《十二纪》",
+     "point": "四时与政令"
+    },
+    {
+     "locator": "《有始览》",
+     "point": "宇宙论与天人相应"
+    },
+    {
+     "locator": "《先识览》",
+     "point": "历史的鉴戒"
+    },
+    {
+     "locator": "《序意》",
+     "point": "全书的编纂意图"
+    }
+   ],
+   "editions": [
+    "陈奇猷《吕氏春秋校释》（学林出版社）；许维遹《吕氏春秋集释》"
+   ],
+   "related_people": [
+    "cn-xianqin-xunzi",
+    "cn-xianqin-zhuangzi",
+    "cn-lianghan-dong-zhongshu"
+   ],
+   "misreadings": [
+    {
+     "claim": "“杂家”是没有体系的拼凑",
+     "why": "“杂”指**兼采众家**，而非无体系；其十二纪以四时统摄政事，八览六论各有主题，是一个有编纂意图的整体（《序意》明言其旨）。"
+    },
+    {
+     "claim": "它只是政治谋略之书",
+     "why": "它兼含宇宙论（十二纪）、养生（贵生）、认识论（去宥）与历史哲学；故是**综合性的哲学文本**，不只是权谋。"
+    }
+   ],
+   "sources": [
+    "ct-zhuangzi",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《吕氏春秋》的篇数（通行160篇，含《序意》）与结构（十二纪、八览、六论）各本略有出入；本页依陈奇猷校释本概述。",
+   "sort_year": -239
   },
   {
    "id": "work-yueji",
