@@ -30420,6 +30420,63 @@
    "sort_year": 1936
   },
   {
+   "id": "work-la-nausee",
+   "title": "《恶心》",
+   "title_original": "La Nausée",
+   "tradition": "west",
+   "date_display": "1938（萨特）",
+   "structure": "日记体小说：主人公安东尼·洛根丁在布维尔城的日记，记其对“存在”的偶然性的体验。",
+   "core_arguments": [
+    "“恶心”是对**存在的偶然性**（de trop，多余）的体验：存在无缘无故地在此",
+    "物的“自在存在”（en-soi）与意识的“自为存在”（pour-soi）之别",
+    "以小说行哲学：概念不在论证中，而在**体验**中显现"
+   ],
+   "key_points": [
+    {
+     "locator": "日记前段",
+     "point": "偶然性的预感"
+    },
+    {
+     "locator": "公园栗树一段",
+     "point": "恶心的爆发"
+    },
+    {
+     "locator": "末段",
+     "point": "以艺术自处"
+    },
+    {
+     "locator": "全书",
+     "point": "以小说行哲学"
+    }
+   ],
+   "editions": [
+    "法文 Gallimard 版；英译（Nausea, New Directions）；中译参《恶心》（桂裕芳译）"
+   ],
+   "related_people": [
+    "gr-20c-sartre",
+    "gr-20c-heidegger",
+    "gr-20c-merleau-ponty"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“心理学的小说”",
+     "why": "其“恶心”不是心理症状，而是**存在论的体验**（偶然性之不可化约）；故其为哲学的小说。"
+    },
+    {
+     "claim": "其结论是“人生无意义”",
+     "why": "其末段主人公安东尼决意**以写作（艺术）自处**，故其说不止于虚无，尚有一线自我创造。"
+    }
+   ],
+   "sources": [
+    "sep-sartre",
+    "sep-heidegger",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《恶心》的日记体与 1938 年初版须核 Gallimard 版；“de trop”（多余）一词的原文与译法亦须核。",
+   "sort_year": 1938
+  },
+  {
    "id": "work-structure-of-behavior",
    "title": "《行为的结构》",
    "title_original": "La structure du comportement",
@@ -30702,6 +30759,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1947
+  },
+  {
+   "id": "work-pour-une-morale-ambiguite",
+   "title": "《为了一种道德的暧昧性》",
+   "title_original": "Pour une morale de l'ambiguïté",
+   "tradition": "west",
+   "date_display": "1947（波伏娃）",
+   "structure": "一部（不分卷）：以“暧昧性”为纲，论存在主义伦理学如何可能。",
+   "core_arguments": [
+    "人的处境是**暧昧的**：既是自由的主体，又是物性的客体",
+    "道德的任务是**承担这种暧昧**（不逃避为客体，也不否认自由）",
+    "以“自由的相互承认”为伦理的原则（近于康德而存在主义化）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "暧昧与自由"
+    },
+    {
+     "locator": "第二章",
+     "point": "为他人的自由"
+    },
+    {
+     "locator": "第三章",
+     "point": "政治与伦理"
+    },
+    {
+     "locator": "全书",
+     "point": "以暧昧立伦理"
+    }
+   ],
+   "editions": [
+    "法文 Gallimard 版；英译（The Ethics of Ambiguity, Citadel）；中译参《模糊性的道德》（版次待核）"
+   ],
+   "related_people": [
+    "gr-20c-beauvoir",
+    "gr-20c-sartre",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“萨特伦理学的注释”",
+     "why": "其书独有“暧昧性”这一范畴（萨特未以此立论），并把伦理推向政治；故其为独立的伦理学著作。"
+    },
+    {
+     "claim": "“暧昧”是“含糊其辞”",
+     "why": "其“暧昧”（ambiguïté）是**存在结构上的双重性**（主体与客体），非判断上的含糊。"
+    }
+   ],
+   "sources": [
+    "sep-beauvoir",
+    "sep-sartre",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《为了一种道德的暧昧性》的章节与 1947 年初版须核 Gallimard 版；“ambiguïté”的译法（暧昧／模糊）亦须核。",
    "sort_year": 1947
   },
   {
@@ -31043,6 +31157,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《同一与差异》两篇的成文与演讲年代（1956—57）须核；其“存在—神—逻辑学”的诊断与黑格尔的关系须分辨。本页依德文全集第11卷与相关研究概述。",
+   "sort_year": 1957
+  },
+  {
+   "id": "work-long-march",
+   "title": "《长征》",
+   "title_original": "La Longue Marche（长征）",
+   "tradition": "west",
+   "date_display": "1957（波伏娃）",
+   "structure": "一部（游记与考察）：记其1955年在中国数月的见闻，以“长征”为喻论新中国的建设。",
+   "core_arguments": [
+    "以“长征”为喻：建设的艰难如长途的行军",
+    "对当时中国的观察与**同情的理解**（亦有其时代的局限）",
+    "以存在主义的眼光看“处境”与“选择”"
+   ],
+   "key_points": [
+    {
+     "locator": "前篇",
+     "point": "旅途与见闻"
+    },
+    {
+     "locator": "中篇",
+     "point": "城乡与新制"
+    },
+    {
+     "locator": "后篇",
+     "point": "以长征为喻"
+    },
+    {
+     "locator": "全书",
+     "point": "同情而带时代局限"
+    }
+   ],
+   "editions": [
+    "法文 Gallimard 版；英译（The Long March, World Publishing）；中译少见"
+   ],
+   "related_people": [
+    "gr-20c-beauvoir",
+    "gr-20c-sartre",
+    "cn-qingmod-liang-qichao"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“游记”",
+     "why": "其书以**处境与选择**的存在主义眼光观察社会，故其为“哲学的考察”，非单纯游记。"
+    },
+    {
+     "claim": "其观察客观无偏",
+     "why": "其书对当时的中国多有**同情的理解**，亦受其时代与信息所限；故读之须标出其时代的局限，不可作史料直用。"
+    }
+   ],
+   "sources": [
+    "sep-beauvoir",
+    "sep-marx",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《长征》的成书（1957）与 1955 年访华须核 Gallimard 版；其观察的时代局限须标出，不可作史料直用。中译少见。",
    "sort_year": 1957
   },
   {

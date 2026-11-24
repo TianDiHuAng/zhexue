@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1605,
+  "entries": 1610,
   "by_level": {
    "L2": 780,
-   "L1": 825
+   "L1": 830
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 825,
+  "needs_verification": 830,
   "sources": 419,
   "sources_verified": 419
  },
@@ -111,7 +111,7 @@
    "title": "当代哲学",
    "region": "west",
    "philosophers": 12,
-   "concepts": 29,
+   "concepts": 30,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -6988,6 +6988,17 @@
    "id": "gr-contemp-shiyong-zhenli",
    "type": "concept",
    "title": "实用主义真理观",
+   "container": "gr-contemp",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-contemp-chujing",
+   "type": "concept",
+   "title": "处境",
    "container": "gr-contemp",
    "level": "L1",
    "sources": 3,
@@ -15477,6 +15488,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-la-nausee",
+   "type": "work",
+   "title": "《恶心》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-structure-of-behavior",
    "type": "work",
    "title": "《行为的结构》",
@@ -15529,6 +15551,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-pour-une-morale-ambiguite",
+   "type": "work",
+   "title": "《为了一种道德的暧昧性》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -15590,6 +15623,17 @@
    "id": "work-identitaet-differenz",
    "type": "work",
    "title": "《同一与差异》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-long-march",
+   "type": "work",
+   "title": "《长征》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -17328,6 +17372,17 @@
    "id": "cmp-jiushen",
    "type": "comparative",
    "title": "“酒神与日神”与“乘物以游心”：醉与游，孰为至境？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-chujing",
+   "type": "comparative",
+   "title": "“处境”与“命”：自由在哪里遇见限制？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
