@@ -3256,6 +3256,155 @@
      "note": "691 年"
     }
    ]
+  },
+  {
+   "id": "cn-suitang-sikong-tu",
+   "name": "司空图",
+   "latin": "Sikong Tu",
+   "birth_year": 837,
+   "death_year": 908,
+   "birth_display": "837年",
+   "death_display": "908年",
+   "birth_note": "据《旧唐书》《新唐书》本传：字表圣，河中虞乡人；咸通进士，官至中书舍人，唐末隐居王官谷，屡征不起。",
+   "death_note": "908年卒（唐亡后不食而卒，本传所记）。",
+   "era": "晚唐。司空图以诗论著称：其《与李生论诗书》《与极浦书》提出“**象外之象，景外之景**”“**韵外之致**”，把诗的意味置于言象之外；其《二十四诗品》（传为其所作，归属有争议）以二十四“品”分述诗的境界。故其位置是：把诗学从“作法”转向“境界” —— 这一转向为后世（严羽的妙悟、王士禛的神韵）所承。",
+   "school": "晚唐诗论（象外之象、韵味）",
+   "core_questions": [
+    "诗的意味在言内还是言外？",
+    "风格可否分为若干境界？",
+    "含蓄何以成为诗之极致？"
+   ],
+   "arguments": [
+    {
+     "claim": "诗之味在“韵外之致”“象外之象”",
+     "premises": [
+      "言有尽而意无穷。",
+      "而诗之极致不在铺陈，而在其“不尽”。"
+     ],
+     "inference": "若意味在言外，则诗的评价标准不在“说尽”而在“留有余地”；故其说把批评的焦点从“写什么”移到“留下什么”。",
+     "conclusion": "象外之象、韵外之致（此说为“神韵”一系的源头）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "以“品”分诗的境界",
+     "premises": [
+      "诗的风格非止体裁，而是整体的气象（雄浑、冲淡、含蓄等）。",
+      "而气象可分类而描述。"
+     ],
+     "inference": "若气象可分类，则诗学可有“境界的类型学”；故《二十四诗品》以二十四品描摹其境（非定义，而是形容）。",
+     "conclusion": "以品分境（此说把风格论提升为境界论）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《二十四诗品》",
+     "edition": "人民文学出版社《诗品集解》（版次待核）",
+     "note": "传为其作"
+    },
+    {
+     "title": "《与李生论诗书》",
+     "edition": "《司空表圣文集》本（版次待核）",
+     "note": "晚唐"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "刘勰（其先）",
+     "id": null,
+     "note": "《文心雕龙》以“隐秀”说含蓄，为其先声"
+    },
+    {
+     "name": "庄子（其资源）",
+     "id": null,
+     "note": "“得意忘言”为其“象外”之说所本"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "严羽（其承）",
+     "id": null,
+     "note": "以“妙悟”承其“象外”之说"
+    },
+    {
+     "name": "王士禛的“神韵”说",
+     "id": null,
+     "note": "以其为宗"
+    },
+    {
+     "name": "中国美学的“意境”论",
+     "id": null,
+     "note": "以“象外之象”为源头之一"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "重“实”的诗论者",
+     "view": "“象外之象”易流于空滑：若诗的价值只在“不尽”，则诗与现实、与意义的关系皆模糊。",
+     "response": "司空图一系的回应是：其“不尽”非“无内容”，而是**以有限之言含无穷之意**（其“含蓄”一品即“不著一字，尽得风流”）；故其说要求的恰是更高的技艺。",
+     "kind": "原文",
+     "sources": [
+      "ws-wenxin-diaolong",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《二十四诗品》确为司空图所作",
+     "why": "其作者归属在学界有争论（有以为明人伪托者）；故本页标“传司空图”。"
+    },
+    {
+     "claim": "二十四品是“二十四种修辞”",
+     "why": "其实为**二十四种境界**（风格、气象与写法相融）；故不可只作修辞分类。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>司空图：象外之象</text><defs><marker id='aSK' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>言有尽而意无穷</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故诗之味在言外</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故含蓄为极致</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故以品分其境</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aSK)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aSK)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "司空图：“象外之象”与“以品分境”（示意图）",
+   "sources": [
+    "ws-wenxin-diaolong",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "司空图无 SEP 专条（已试 sikong-tu，404）；本页依《旧唐书》《新唐书》本传、《与李生论诗书》与《二十四诗品》（归属有争议），**属语境性引用而非专门研究**。其生卒（837—908）与隐居王官谷之事须核。",
+   "doctrine": {
+    "summary": "司空图以诗论著称：提出“象外之象，景外之景”“韵外之致”，把诗的意味置于言象之外；又以二十四“品”分述诗的境界（《二十四诗品》传为其作，归属有争议）。故其位置是把诗学从“作法”转向“境界”，为严羽的妙悟、王士禛的神韵所承。",
+    "system": [
+     {
+      "name": "象外之象",
+      "content": "诗的意味在言象之外，故其极致在“不尽”。"
+     },
+     {
+      "name": "韵外之致",
+      "content": "以有限之言含无穷之意，是含蓄之极致；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "以品分境",
+      "content": "二十四品是境界的类型学，非修辞的分类；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "含蓄",
+      "content": "“不著一字，尽得风流”为其最高标准；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "河中与王官谷（837—908）",
+      "change": "咸通十年进士；官至中书舍人；唐末隐居王官谷；屡征不起；朱温篡唐后不食而卒（本传所记）。"
+     }
+    ],
+    "reception": "其“象外之象”成为宋代严羽“妙悟”说与清代王士禛“神韵”说的源头；《二十四诗品》则成为后世境界论与风格论的经典（尽管其作者归属仍有争议）。"
+   },
+   "works_detail": [
+    {
+     "title": "《二十四诗品》",
+     "structure": "一卷：以二十四品分述诗的境界，每品以四言韵语形容。",
+     "core_thesis": "以品分境，境在象外；这是该书的核心命题。",
+     "editions": "人民文学出版社《诗品集解》",
+     "note": "传为其作"
+    }
+   ]
   }
  ],
  "concepts": [

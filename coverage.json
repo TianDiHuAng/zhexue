@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1470,
+  "entries": 1476,
   "by_level": {
    "L2": 781,
-   "L1": 689
+   "L1": 695
   },
   "doctrine": {
-   "total": 291,
-   "detail": 291,
+   "total": 292,
+   "detail": 292,
    "auto": 0
   },
-  "needs_verification": 689,
+  "needs_verification": 695,
   "sources": 418,
   "sources_verified": 418
  },
@@ -30,7 +30,7 @@
    "title": "南北朝佛道与形神之争",
    "region": "china",
    "philosophers": 12,
-   "concepts": 25,
+   "concepts": 26,
    "debates": 6,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -56,10 +56,10 @@
    "unit_id": "cn-suitang",
    "title": "隋唐佛学",
    "region": "china",
-   "philosophers": 22,
+   "philosophers": 23,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -14"
+   "philosophers_slot": "8 上限，余 -15"
   },
   {
    "unit_id": "cn-weijin",
@@ -1147,6 +1147,17 @@
    "id": "cn-nanbei-lunyi",
    "type": "concept",
    "title": "论义",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-yinxiu",
+   "type": "concept",
+   "title": "隐秀",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -2830,6 +2841,17 @@
    "id": "cn-suitang-yijing",
    "type": "philosopher",
    "title": "义净",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-suitang-sikong-tu",
+   "type": "philosopher",
+   "title": "司空图",
    "container": "cn-suitang",
    "level": "L1",
    "sources": 3,
@@ -11704,6 +11726,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-ershisishi-pin",
+   "type": "work",
+   "title": "《二十四诗品》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-taiji-tushuo",
    "type": "work",
    "title": "《太极图说》",
@@ -12180,6 +12213,17 @@
    "id": "work-beixi-ziyi",
    "type": "work",
    "title": "《北溪字义》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-canglang-shihua",
+   "type": "work",
+   "title": "《沧浪诗话》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -12961,6 +13005,17 @@
    "id": "work-tinglin-wenji",
    "type": "work",
    "title": "《亭林文集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-yuanshi-yexie",
+   "type": "work",
+   "title": "《原诗》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -15843,6 +15898,17 @@
    "id": "cmp-jingjie",
    "type": "comparative",
    "title": "“境界”与“审美理念”：艺术能显示什么？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-xiangwai",
+   "type": "comparative",
+   "title": "“象外之象”与“审美理念”：言外还有什么？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
