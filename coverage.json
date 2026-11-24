@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1260,
+  "entries": 1266,
   "by_level": {
    "L2": 792,
-   "L1": 468
+   "L1": 474
   },
   "doctrine": {
-   "total": 267,
-   "detail": 267,
+   "total": 268,
+   "detail": 268,
    "auto": 0
   },
-  "needs_verification": 468,
+  "needs_verification": 474,
   "sources": 409,
   "sources_verified": 409
  },
@@ -29,10 +29,10 @@
    "unit_id": "cn-nanbei",
    "title": "南北朝佛道与形神之争",
    "region": "china",
-   "philosophers": 9,
-   "concepts": 11,
+   "philosophers": 10,
+   "concepts": 12,
    "debates": 4,
-   "philosophers_slot": "8 上限，余 -1"
+   "philosophers_slot": "8 上限，余 -2"
   },
   {
    "unit_id": "cn-qingmod",
@@ -836,6 +836,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-nanbei-sengchou",
+   "type": "philosopher",
+   "title": "僧稠",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-nanbei-shenmie",
    "type": "concept",
    "title": "神灭",
@@ -949,6 +960,17 @@
    "id": "cn-nanbei-yixingdao",
    "type": "concept",
    "title": "易行道",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-chan-guan",
+   "type": "concept",
+   "title": "禅观（北朝次第禅）",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -10252,9 +10274,31 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-mingseng-zhuanchao",
+   "type": "work",
+   "title": "《名僧传抄》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-zan-amituofo-jie",
    "type": "work",
    "title": "《赞阿弥陀佛偈》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-biqiuni-zhuan",
+   "type": "work",
+   "title": "《比丘尼传》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -10464,6 +10508,17 @@
    "id": "work-guang-hongming-ji",
    "type": "work",
    "title": "《广弘明集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-ji-guijin-fodao",
+   "type": "work",
+   "title": "《集古今佛道论衡》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -13533,6 +13588,17 @@
    "id": "cmp-tali",
    "type": "comparative",
    "title": "他力与“天恩”：昙鸾与奥古斯丁论“靠自己不够”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-cidi",
+   "type": "comparative",
+   "title": "次第与顿悟：僧稠与慧能的两种“修”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

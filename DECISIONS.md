@@ -256,3 +256,9 @@ Perseus（`per-*`）对该 UA 一律 403，不可用。
 而非直觉上"缺著作"的西方单元。据此定向补南北朝：哲学家+2、争论+2、概念+1、著作+2。
 规程：每若干轮做一次密度盘点，**优先补密度最低的单元**；著作数量已近 400，密度失衡比数量不足更伤可用性。
 当前排序：cn-nanbei(8/9/4) < cn-qingmod(概念16) < gr-german(哲学家9) < gr-contemp(12/20) 。
+
+## D53 质量门的顺序：check.py 必须 ERROR 0 之后才允许 gen_state / gen_site
+第173轮一度在 `check.py` 尚有 1 个 ERROR 时就执行了 `gen_state`+`gen_site`+`check_links`，随后才发现并修正。
+虽然最终状态已归零，但**顺序错了**：生成动作会把不合格的数据渲染成页面。
+规程（固定顺序，不再变动）：
+1) 写入数据 → 2) `check.py` 直到 **ERROR 0** → 3) `gen_state.py` → 4) `gen_site.py` → 5) `check_links.py`（断链 0）→ 6) 体检/提交。

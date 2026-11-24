@@ -9141,6 +9141,59 @@
    "sort_year": 510
   },
   {
+   "id": "work-mingseng-zhuanchao",
+   "title": "《名僧传抄》",
+   "title_original": "名僧傳抄",
+   "tradition": "china",
+   "date_display": "南朝梁（宝唱《名僧传》三十卷，已佚；今存日本所传《名僧传抄》一卷）",
+   "structure": "原书三十卷（已佚）；今存《名僧传抄》为节抄本，含僧传的节略与目录。",
+   "core_arguments": [
+    "以“名僧”为题，与其后慧皎《高僧传》的“高僧”取向形成对照",
+    "保存了部分已佚的僧传材料",
+    "其分类与编排反映了梁代佛教史学的体例"
+   ],
+   "key_points": [
+    {
+     "locator": "节抄本",
+     "point": "僧传的节略"
+    },
+    {
+     "locator": "目录",
+     "point": "原书的体例"
+    },
+    {
+     "locator": "与《高僧传》的对照",
+     "point": "“名”与“高”之别"
+    }
+   ],
+   "editions": [
+    "《卍续藏》本；日本所传古抄本"
+   ],
+   "related_people": [
+    "cn-nanbei-sengyou",
+    "cn-nanbei-liuxie",
+    "cn-nanbei-taohongjing"
+   ],
+   "misreadings": [
+    {
+     "claim": "今存即原书",
+     "why": "原书三十卷已佚，今存者为**节抄本**（一卷）；故只能据残文立论。"
+    },
+    {
+     "claim": "“名僧”与“高僧”同义",
+     "why": "慧皎作《高僧传》即以“名”与“高”有别：名者名闻，高者德高；故其改题有**批评**之意（不取以名闻为高）。"
+    }
+   ],
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "book-chan-sourcebook",
+    "ws-hongming-ji"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《名僧传》原书三十卷已佚，今存《名僧传抄》一卷（日本所传）；本页依节抄本与佛教史学的研究概述。",
+   "sort_year": 510
+  },
+  {
    "id": "work-zan-amituofo-jie",
    "title": "《赞阿弥陀佛偈》",
    "title_original": "讚阿彌陀佛偈",
@@ -9192,6 +9245,63 @@
    "needs_verification": true,
    "pending_notes": "《赞阿弥陀佛偈》的卷数与偈数须核《大正藏》第47卷；其与五念门“赞叹门”的对应亦须核原文。",
    "sort_year": 515
+  },
+  {
+   "id": "work-biqiuni-zhuan",
+   "title": "《比丘尼传》",
+   "title_original": "比丘尼傳",
+   "tradition": "china",
+   "date_display": "南朝梁（宝唱，约516年）",
+   "structure": "四卷：分“晋、宋、齐、梁”四代，记六十五位比丘尼的传记；每传记其出身、受戒、修行与住持之事，末附以评。",
+   "core_arguments": [
+    "以尼众的传记补僧史之阙（“尼之德，岂后于僧”）",
+    "记尼众的受戒、修行与住持的事迹",
+    "保存了南朝尼寺制度与女性宗教生活的材料"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一 晋",
+     "point": "早期尼众"
+    },
+    {
+     "locator": "卷二 宋",
+     "point": "尼寺与戒律"
+    },
+    {
+     "locator": "卷三 齐",
+     "point": "禅修与讲说"
+    },
+    {
+     "locator": "卷四 梁",
+     "point": "梁代的尼众"
+    }
+   ],
+   "editions": [
+    "《大正藏》第50卷；中华书局校注本（若有）"
+   ],
+   "related_people": [
+    "cn-nanbei-sengyou",
+    "cn-nanbei-liuxie",
+    "cn-weijin-huiyuan"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是《高僧传》的附录",
+     "why": "它是**独立的**尼众传记（四卷六十五人），其编纂有明确的问题意识（补僧史之阙）；故非附录。"
+    },
+    {
+     "claim": "它只记“神异”之事",
+     "why": "其内容兼及受戒、讲说、禅修与寺制，是研究南朝女性宗教生活的一等材料；神异只是其中一类。"
+    }
+   ],
+   "sources": [
+    "ws-gaoseng-zhuan",
+    "ws-hongming-ji",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《比丘尼传》的作者（宝唱）与年代（约516）须核；其四卷的尼众人数与分代各本有异。",
+   "sort_year": 516
   },
   {
    "id": "work-gaoseng-zhuan",
@@ -10269,6 +10379,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《广弘明集》的卷数（通行30卷）与十篇的分法各本略有出入；本页依《大正藏》第52卷概述，其所收论辩文本的作者与年代须逐一核对。",
+   "sort_year": 664
+  },
+  {
+   "id": "work-ji-guijin-fodao",
+   "title": "《集古今佛道论衡》",
+   "title_original": "集古今佛道論衡",
+   "tradition": "china",
+   "date_display": "唐（道宣，约664年）",
+   "structure": "四卷：按时代辑录佛道论争的文献（自后汉至唐初），每事附以评断。",
+   "core_arguments": [
+    "以“论衡”为名：辑录双方的往复而以佛法为衡",
+    "保存了佛道论争的第一手材料（含《老子化胡经》之争）",
+    "其评断反映道宣的护教立场"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "汉魏的佛道交涉"
+    },
+    {
+     "locator": "卷二",
+     "point": "南北朝之争"
+    },
+    {
+     "locator": "卷三",
+     "point": "隋代的论争"
+    },
+    {
+     "locator": "卷四",
+     "point": "唐初的论争"
+    }
+   ],
+   "editions": [
+    "《大正藏》第52卷"
+   ],
+   "related_people": [
+    "cn-suitang-xuanzang",
+    "cn-nanbei-sengyou",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是中立的资料汇编",
+     "why": "其辑录有**护教的立场**（以佛法为“衡”），故其取舍与评断须批判地读；但它保存了对方的文献，故仍有史料价值。"
+    },
+    {
+     "claim": "它与《广弘明集》重复",
+     "why": "《广弘明集》分十篇广收护教文献，本书则**专以佛道论争**为限，按时代编排；故二者的范围与体例不同。"
+    }
+   ],
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "ws-hongming-ji",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《集古今佛道论衡》的卷数（通行四卷）与成书年代（约664）须核《大正藏》第52卷；其评断的立场须批判地读。",
    "sort_year": 664
   },
   {

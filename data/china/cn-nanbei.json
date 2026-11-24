@@ -1354,6 +1354,156 @@
      "note": "6世纪初"
     }
    ]
+  },
+  {
+   "id": "cn-nanbei-sengchou",
+   "name": "僧稠",
+   "latin": "Sengchou",
+   "birth_year": 480,
+   "death_year": 560,
+   "birth_display": "480年",
+   "death_display": "560年",
+   "birth_note": "据《续高僧传》卷十六：巨鹿人（一说昌黎人），二十八岁出家，从道房、慧光等受学，后入林虑山、嵩岳等地修禅。",
+   "death_note": "560年卒于邺城。",
+   "era": "北朝魏齐之际。僧稠是北朝禅法的代表人物：他以“四念处”为修行的骨干，兼重戒律与头陀行，受北魏孝明帝、北齐文宣帝的礼遇，屡入宫说法。其禅法属“北方止观”一系：主次第修、重坐禅与观行；与南方重义理的学风形成对照。其地位在后世被达摩一系的禅宗叙事所掩。",
+   "school": "北朝禅法（次第止观）",
+   "core_questions": [
+    "修禅的次第如何建立？",
+    "戒律与禅观是何关系？",
+    "北朝禅法与南朝义学有何不同？"
+   ],
+   "arguments": [
+    {
+     "claim": "以四念处为修禅的骨干",
+     "premises": [
+      "众生之苦源于对身、受、心、法的错认。",
+      "而四念处正是对这四者的如实观。"
+     ],
+     "inference": "若苦因在错认，则对治须在观；故其修行的次第以四念处为纲，而非以“顿悟”为纲——这是北朝禅法“次第”性格的根据。",
+     "conclusion": "四念处为纲：次第观行（此说体现北朝禅法的性格）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "戒为禅之基：戒净则观成",
+     "premises": [
+      "禅观须以身心不乱为前提。",
+      "而身心的不乱由戒律维持。"
+     ],
+     "inference": "若戒是观的前提，则修禅不可废戒；故其强调“戒、定、慧”的次第，反对以“无相”为名而废行。",
+     "conclusion": "戒为禅基：戒定慧次第不可躐等（此说与南方的“理观”形成对照）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《止观法》（传）",
+     "edition": "佚，见《续高僧传》与相关记载",
+     "note": "6世纪"
+    },
+    {
+     "title": "《僧稠语录》（辑佚）",
+     "edition": "见《续高僧传》本传",
+     "note": "6世纪"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "慧光（其师）",
+     "id": null,
+     "note": "北朝律学与地论学的大家"
+    },
+    {
+     "name": "佛陀扇多与勒那摩提（其学之源）",
+     "id": null,
+     "note": "地论与禅法的传承"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "北齐佛教（其影响）",
+     "id": null,
+     "note": "受文宣帝礼遇，影响一代"
+    },
+    {
+     "name": "天台止观（其对照）",
+     "id": null,
+     "note": "同为次第止观，但天台立“教观”体系"
+    },
+    {
+     "name": "达摩一系的禅宗叙事（其掩）",
+     "id": null,
+     "note": "后世以其为“渐”而少提"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后世的禅宗史家",
+     "view": "以其为“渐修”一系，故在南宗灯史中被置于边缘（“一花开五叶”的谱系不含之）。",
+     "response": "史学的回应是：北朝禅法的次第修并非“劣于”顿悟，而是**对机不同**；《续高僧传》以其为一代宗师，可见其在当时的地位。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-xugaoseng-zhuan",
+      "book-chan-sourcebook"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "僧稠的禅法只是“坐禅”",
+     "why": "其以四念处为纲，兼重戒律与观行，并有完整的次第；故是**系统的止观**，不只坐禅。"
+    },
+    {
+     "claim": "他在当时影响不大",
+     "why": "《续高僧传》记其受北魏孝明帝、北齐文宣帝的礼遇，屡入宫说法；故其在**当时**的地位远高于后世灯史所承认的。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>僧稠：四念处与戒为禅基</text><defs><marker id='aSC' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>苦因在错认</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故以四念处为观</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>而观须以戒为基</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故戒定慧次第不可躐等</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aSC)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aSC)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "僧稠：四念处与“戒为禅基”的次第（示意图）",
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "ws-mohezhiguan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "僧稠的生卒（480—560）与事迹依《续高僧传》卷十六；其著作多已散佚，故只能据本传与相关记载立论。本页属语境性引用而非专门研究。",
+   "doctrine": {
+    "summary": "僧稠是北朝禅法的代表：以“四念处”为修行的骨干，兼重戒律与头陀行，主次第修、重坐禅与观行。其“戒为禅基”的次第（戒→定→慧）与南方重义理的学风形成对照。他受北魏孝明帝、北齐文宣帝的礼遇，在当时地位极高，而后世禅宗灯史以其为“渐”而少提。",
+    "system": [
+     {
+      "name": "四念处",
+      "content": "观身、受、心、法为修禅的骨干；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "戒为禅基",
+      "content": "戒净则观成，戒定慧次第不可躐等；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "次第止观",
+      "content": "重坐禅与观行的渐次，非顿悟一路；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "与南朝义学的对照",
+      "content": "北朝重禅观，南朝重义理；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "巨鹿、林虑山与邺城（480—560）",
+      "change": "二十八岁出家；从道房、慧光受学；入林虑山、嵩岳修禅；受北魏孝明帝、北齐文宣帝礼遇，屡入宫说法；560 年卒于邺城。"
+     }
+    ],
+    "reception": "其禅法为北朝佛教的主流之一，与南朝义学并立；后世禅宗灯史以其属“渐”，故其名不显，但《续高僧传》以其为一代宗师，可见其历史地位。"
+   },
+   "works_detail": [
+    {
+     "title": "《止观法》（传）",
+     "structure": "已佚；据《续高僧传》所记，其法以四念处为纲、以戒为基，次第分明。",
+     "core_thesis": "四念处为纲、戒为禅基；这是该书的核心命题。",
+     "editions": "佚；见《续高僧传》卷十六",
+     "note": "6世纪"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -1755,6 +1905,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“难行／易行”二道的出处（龙树《十住毗婆沙论·易行品》）与昙鸾的转用须核；本页并述其源流。"
+  },
+  {
+   "id": "cn-nanbei-chan-guan",
+   "term": "禅观（北朝次第禅）",
+   "term_latin": "dhyāna contemplation",
+   "definition": "北朝佛教的修行主流：以坐禅与观行为中心，重次第（戒→定→慧）、重四念处与不净观等具体法门。它与南朝重义理（讲说、注疏）的学风形成对照，也与后世禅宗的“顿悟”取向不同。",
+   "usages": [
+    {
+     "name": "僧稠",
+     "id": "cn-nanbei-sengchou",
+     "usage": "以四念处为纲、戒为禅基，主次第修。"
+    },
+    {
+     "name": "菩提达摩（其别）",
+     "id": "cn-nanbei-damo",
+     "usage": "以“壁观”与二入四行为纲，理入与行入并举。"
+    },
+    {
+     "name": "智顗（其综合）",
+     "usage": "以“止观”统合南北，立教观体系。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-tali"
+   ],
+   "example": {
+    "text": "“禅观”的重要性在于它提醒：中国佛教并不只有“顿悟”一路。北朝的次第禅在**当时**是主流（受帝王朝廷礼遇），而后世灯史以“顿”为高，遂使它隐没。故读禅史须分辨“当时的实况”与“后世的谱系”。",
+    "figure": "僧稠",
+    "locator": "《续高僧传》卷十六"
+   },
+   "sources": [
+    "ws-xugaoseng-zhuan",
+    "book-chan-sourcebook",
+    "ws-mohezhiguan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“禅观”一词在南北朝兼指具体法门（四念处、不净观等）与一般修禅；本页取北朝次第禅的用法，具体法门须核《续高僧传》与相关研究。"
   }
  ],
  "debates": [
