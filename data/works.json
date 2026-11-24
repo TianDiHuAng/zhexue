@@ -25944,6 +25944,63 @@
    "sort_year": 1817
   },
   {
+   "id": "work-philosophie-des-geistes",
+   "title": "《精神哲学》",
+   "title_original": "Philosophie des Geistes（《哲学全书》第三部）",
+   "tradition": "west",
+   "date_display": "1817（黑格尔；1830 增订）",
+   "structure": "分三章：主观精神（人类学、现象学、心理学）、客观精神（法、道德、伦理）、绝对精神（艺术、宗教、哲学）。",
+   "core_arguments": [
+    "精神是“自在地在外”而回归自身的过程：由主观至客观至绝对",
+    "客观精神即伦理的实体（家庭、市民社会、国家）",
+    "绝对精神三重：艺术（直观）、宗教（表象）、哲学（概念）"
+   ],
+   "key_points": [
+    {
+     "locator": "主观精神",
+     "point": "灵魂、意识、精神"
+    },
+    {
+     "locator": "客观精神",
+     "point": "法、道德、伦理"
+    },
+    {
+     "locator": "绝对精神",
+     "point": "艺术、宗教、哲学"
+    },
+    {
+     "locator": "全书",
+     "point": "精神的三段"
+    }
+   ],
+   "editions": [
+    "德文 Meiner 版；英译（Hegel's Philosophy of Mind, Oxford）；中译参《精神哲学》（杨祖陶译）"
+   ],
+   "related_people": [
+    "gr-german-hegel",
+    "gr-19c-marx",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“心理学”",
+     "why": "其“主观精神”章确论意识与心理，然全书的纲是**精神的自展开**（至客观与绝对）；故其为“精神哲学”，非心理学。"
+    },
+    {
+     "claim": "其“绝对精神”是神秘体验",
+     "why": "其“绝对精神”是**精神的最高形态**（艺术、宗教、哲学的概念把握），故其为认识的阶次，非神秘体验。"
+    }
+   ],
+   "sources": [
+    "sep-hegel",
+    "sep-kant",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《精神哲学》的三段结构与“绝对精神”三重须核 1830 年版与杨祖陶译本；其与《法哲学原理》的关系亦须分辨。",
+   "sort_year": 1817
+  },
+  {
    "id": "work-world-will",
    "title": "《作为意志和表象的世界》",
    "title_original": "Die Welt als Wille und Vorstellung",
@@ -26792,6 +26849,63 @@
    "sort_year": 1844
   },
   {
+   "id": "work-deutsche-ideologie",
+   "title": "《德意志意识形态》",
+   "title_original": "Die deutsche Ideologie",
+   "tradition": "west",
+   "date_display": "1845—1846（马克思、恩格斯；1932 年始全刊）",
+   "structure": "两卷（手稿）：第一卷批判费尔巴哈、鲍威尔与施蒂纳，第二卷批判“真正的社会主义”；首章为《费尔巴哈》章。",
+   "core_arguments": [
+    "“不是意识决定生活，而是生活决定意识”：**历史唯物主义**的纲领",
+    "以“生产—交往”说明社会形态的更替",
+    "“统治阶级的思想是占统治地位的思想”：意识形态的阶级性"
+   ],
+   "key_points": [
+    {
+     "locator": "《费尔巴哈》章",
+     "point": "生活决定意识"
+    },
+    {
+     "locator": "第一卷",
+     "point": "对施蒂纳的批判"
+    },
+    {
+     "locator": "第二卷",
+     "point": "对“真正的社会主义”的批判"
+    },
+    {
+     "locator": "全书",
+     "point": "意识形态的批判"
+    }
+   ],
+   "editions": [
+    "德文 MEGA 版；英译（The German Ideology, International Publishers）；中译参《马克思恩格斯全集》第3卷"
+   ],
+   "related_people": [
+    "gr-19c-marx",
+    "gr-19c-engels",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“完整的著作”",
+     "why": "其书为**未完成的手稿**（1932 年始全刊），故其结构须依 MEGA 版的编次而读，不可视为定本。"
+    },
+    {
+     "claim": "“生活决定意识”是经济决定论",
+     "why": "其原文以“生产—交往”的整体说明意识，非单以经济为因；后来的“经济决定论”是第二国际的简化，须分辨。"
+    }
+   ],
+   "sources": [
+    "sep-marx",
+    "sep-engels",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《德意志意识形态》的手稿状态与 1932 年全刊须核 MEGA 版；《费尔巴哈》章的编次争议亦须核（学界有不同编排）。",
+   "sort_year": 1845
+  },
+  {
    "id": "work-wesen-religion",
    "title": "《宗教的本质》",
    "title_original": "Das Wesen der Religion",
@@ -26959,6 +27073,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1848
+  },
+  {
+   "id": "work-principles-political-economy",
+   "title": "《政治经济学原理》",
+   "title_original": "Principles of Political Economy",
+   "tradition": "west",
+   "date_display": "1848（约翰·密尔）",
+   "structure": "五编：生产、分配、交换、社会进步对生产与分配的影响、论政府的影响。",
+   "core_arguments": [
+    "生产规律与分配规律有别：前者受自然限制，后者由社会制度决定",
+    "“静止状态”（stationary state）未必是坏事：可为精神生活留出空间",
+    "政府的干预有其界限，但非全然放任"
+   ],
+   "key_points": [
+    {
+     "locator": "第一编",
+     "point": "生产的要素"
+    },
+    {
+     "locator": "第二编",
+     "point": "分配与财产"
+    },
+    {
+     "locator": "第四编",
+     "point": "社会进步与静止状态"
+    },
+    {
+     "locator": "第五编",
+     "point": "政府的职能"
+    }
+   ],
+   "editions": [
+    "英文本（Collected Works of John Stuart Mill, Toronto）；中译参《政治经济学原理》（金镝等译，版次待核）"
+   ],
+   "related_people": [
+    "gr-19c-mill",
+    "gr-modern-smith",
+    "gr-19c-marx"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“李嘉图的注脚”",
+     "why": "其书在分配论上自成一说（生产与分配规律之分），并论及社会改良；故其有独立的贡献。"
+    },
+    {
+     "claim": "其“静止状态”是悲观论",
+     "why": "其视静止状态为**可取的前景**（可为精神与道德留出余地），故其为批评“无限增长”的先声，非悲观。"
+    }
+   ],
+   "sources": [
+    "sep-mill",
+    "sep-marx",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《政治经济学原理》的五编结构与“生产／分配规律之分”须核 Toronto 版全集；“静止状态”一章的原文亦须核。",
    "sort_year": 1848
   },
   {

@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1580,
+  "entries": 1585,
   "by_level": {
    "L2": 780,
-   "L1": 800
+   "L1": 805
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 800,
+  "needs_verification": 805,
   "sources": 419,
   "sources_verified": 419
  },
@@ -84,7 +84,7 @@
    "title": "19世纪哲学",
    "region": "west",
    "philosophers": 18,
-   "concepts": 22,
+   "concepts": 23,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -5019,6 +5019,17 @@
    "id": "gr-19c-einfuehlung",
    "type": "concept",
    "title": "移情",
+   "container": "gr-19c",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-19c-harm-principle",
+   "type": "concept",
+   "title": "伤害原则",
    "container": "gr-19c",
    "level": "L1",
    "sources": 3,
@@ -14553,6 +14564,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-philosophie-des-geistes",
+   "type": "work",
+   "title": "《精神哲学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-world-will",
    "type": "work",
    "title": "《作为意志和表象的世界》",
@@ -14718,6 +14740,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-deutsche-ideologie",
+   "type": "work",
+   "title": "《德意志意识形态》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-wesen-religion",
    "type": "work",
    "title": "《宗教的本质》",
@@ -14748,6 +14781,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-principles-political-economy",
+   "type": "work",
+   "title": "《政治经济学原理》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -17053,6 +17097,17 @@
    "id": "cmp-kuanrong",
    "type": "comparative",
    "title": "“宽容”与“和而不同”：差异该被容忍，还是被成全？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shanghai",
+   "type": "comparative",
+   "title": "“伤害原则”与“己所不欲”：自由的边界画在哪里？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
