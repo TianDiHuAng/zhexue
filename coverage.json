@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1218,
+  "entries": 1222,
   "by_level": {
    "L2": 792,
-   "L1": 426
+   "L1": 430
   },
   "doctrine": {
    "total": 264,
    "detail": 264,
    "auto": 0
   },
-  "needs_verification": 426,
-  "sources": 408,
-  "sources_verified": 408
+  "needs_verification": 430,
+  "sources": 409,
+  "sources_verified": 409
  },
  "units": [
   {
@@ -129,7 +129,7 @@
    "title": "希腊化与罗马哲学",
    "region": "west",
    "philosophers": 15,
-   "concepts": 20,
+   "concepts": 21,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -6831,6 +6831,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-hellenistic-tetrapharmakos",
+   "type": "concept",
+   "title": "四药（tetrapharmakos）",
+   "container": "gr-hellenistic",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-hellenistic-knowledge",
    "type": "debate",
    "title": "知识是否可能：学园派与斯多亚派",
@@ -10802,6 +10813,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-de-hominis-dignitate",
+   "type": "work",
+   "title": "《论人的尊严》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-praise-of-folly",
    "type": "work",
    "title": "《愚人颂》",
@@ -11118,6 +11140,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-principia-philosophiae",
+   "type": "work",
+   "title": "《笛卡尔哲学原理》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -13071,6 +13104,17 @@
    "id": "cmp-beizhi",
    "type": "comparative",
    "title": "悲智双运与“仁智并举”：两种“情”与“理”的结合",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-wudingxing",
+   "type": "comparative",
+   "title": "无定形与“性相近”：皮科与儒家的“人能成为什么”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

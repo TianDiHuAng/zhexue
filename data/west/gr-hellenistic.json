@@ -2965,6 +2965,45 @@
    ],
    "needs_verification": true,
    "pending_notes": "“操练”（askēsis）在各派的侧重不同（斯多亚重预演，伊壁鸠鲁重记忆，皮浪重悬置）；本页取共同义，具体文本须核各派原著与希腊化哲学研究。"
+  },
+  {
+   "id": "gr-hellenistic-tetrapharmakos",
+   "term": "四药（tetrapharmakos）",
+   "term_latin": "tetrapharmakos",
+   "definition": "伊壁鸠鲁派的“四重药方”：神不足畏、死不足忧、善易得、恶易忍。四条合为一剂，用以治恐惧与欲求之病。它典型地体现了希腊化哲学“治疗”的性格：哲学不是理论，而是**可背誦、可施用的处方**。",
+   "usages": [
+    {
+     "name": "伊壁鸠鲁派",
+     "id": "gr-hellenistic-epicurus",
+     "usage": "以“四药”为入门者的记忆纲要。"
+    },
+    {
+     "name": "卢克莱修（其诗传）",
+     "id": "gr-hellenistic-lucretius",
+     "usage": "以长诗《物性论》铺陈其理；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "斯多亚派（对照）",
+     "id": "gr-hellenistic-zeno",
+     "usage": "以“预演恶事”与“二分法”治激情，处方不同。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-ataraxia",
+    "gr-hellenistic-askesis"
+   ],
+   "example": {
+    "text": "“四药”的形式本身值得注意：它不是论证，而是**格言**。这说明希腊化各派都明白：要治的是习惯与情绪，故须有可随身携带、可反复念诵的短句——理论的完备不是目的，“治好”才是。",
+    "figure": "伊壁鸠鲁派",
+    "locator": "《致梅诺伊克斯的信》；斐洛德摩斯《残篇》"
+   },
+   "sources": [
+    "sep-epicurus",
+    "sep-stoicism",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“四药”的原文出处（据斐洛德摩斯《残篇》与后世转述）与其确切措辞须核；本页取通行表述。"
   }
  ],
  "debates": [

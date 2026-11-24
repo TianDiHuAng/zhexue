@@ -12769,6 +12769,63 @@
    "sort_year": 1480
   },
   {
+   "id": "work-de-hominis-dignitate",
+   "title": "《论人的尊严》",
+   "title_original": "Oratio de hominis dignitate",
+   "tradition": "west",
+   "date_display": "1486年（皮科·德拉·米兰多拉）",
+   "structure": "一篇演说（原拟为罗马辩论的开幕辞）：以“造人”的神话说明人的无定形，继论哲学的诸派与和平。",
+   "core_arguments": [
+    "人没有被赋予固定的本性：“我们使你既不属天也不属地……使你成为你自己的塑造者”",
+    "故人的尊严在于**自我塑造**（可下降为兽，也可上升为神）",
+    "诸哲学派别各有其见，须以“和平”相待（反对门户之争）"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "造人的神话"
+    },
+    {
+     "locator": "中段",
+     "point": "无定形与自我塑造"
+    },
+    {
+     "locator": "中段",
+     "point": "哲学的阶梯"
+    },
+    {
+     "locator": "末段",
+     "point": "和平与诸派"
+    }
+   ],
+   "editions": [
+    "拉丁原文（Bausi 编）；英译（On the Dignity of Man, Hackett）；中译参（若有）"
+   ],
+   "related_people": [
+    "gr-modern-cusanus",
+    "gr-medieval-aquinas",
+    "gr-ancient-plato"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“人文主义”的宣言，主张人无限可完美",
+     "why": "其“自我塑造”是有**上下限**的（可上升至神，也可下降为兽）；故它不是无限乐观的进步论。"
+    },
+    {
+     "claim": "“尊严”指人的理性能力",
+     "why": "其“尊严”指**无定形**（不被固定的本性所限）；这与后世康德式的“理性尊严”不同。"
+    }
+   ],
+   "sources": [
+    "sep-pico-della-mirandola",
+    "sep-medieval-philosophy",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论人的尊严》原名与性质（演说辞）须注明；其“自我塑造”的解释（人文主义的自由 vs 新柏拉图式的上升）学界有争论。本页依拉丁本与 SEP 词条概述。",
+   "sort_year": 1486
+  },
+  {
    "id": "work-praise-of-folly",
    "title": "《愚人颂》",
    "title_original": "Moriae encomium（Stultitiae laus）",
@@ -14405,6 +14462,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1663
+  },
+  {
+   "id": "work-principia-philosophiae",
+   "title": "《笛卡尔哲学原理》",
+   "title_original": "Renati Des Cartes Principia Philosophiae（more geometrico demonstrata）",
+   "tradition": "west",
+   "date_display": "1663年（斯宾诺莎，以几何学方法陈述笛卡尔哲学）",
+   "structure": "三部分（附《形而上学思想》）：①论神；②论受造物（广延与运动）；③论可见世界。以定义—公理—命题—证明的几何次序写成。",
+   "core_arguments": [
+    "以“几何学次序”陈述笛卡尔的学说（定义、公理、命题、证明）",
+    "斯宾诺莎借此示范“方法”：哲学可以如几何一样被演绎",
+    "其《形而上学思想》附录则对若干笛卡尔命题提出**保留**（如意志的无限自由）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "论神与怀疑"
+    },
+    {
+     "locator": "第二部分",
+     "point": "广延与运动"
+    },
+    {
+     "locator": "第三部分",
+     "point": "可见世界"
+    },
+    {
+     "locator": "附录",
+     "point": "《形而上学思想》的保留"
+    }
+   ],
+   "editions": [
+    "拉丁原文（Opera, Van Vloten & Land）；英译（The Principles of Descartes' Philosophy）；中译参（若有）"
+   ],
+   "related_people": [
+    "gr-modern-spinoza",
+    "gr-modern-descartes",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是斯宾诺莎自己的哲学",
+     "why": "它是**对笛卡尔学说的几何学陈述**；斯宾诺莎本人的哲学在《伦理学》。故须分辨“陈述”与“自述”。"
+    },
+    {
+     "claim": "其几何方法只是形式上的装饰",
+     "why": "几何次序是其**方法主张**：真理可由定义与公理演绎而得；故形式即主张（这也是斯宾诺莎后来在《伦理学》中沿用此法的原因）。"
+    }
+   ],
+   "sources": [
+    "sep-spinoza",
+    "sep-descartes",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《笛卡尔哲学原理》与其附录《形而上学思想》的关系（哪些是陈述、哪些是斯宾诺莎的保留）须逐一核；本页依拉丁本与 SEP 词条概述。",
    "sort_year": 1663
   },
   {
