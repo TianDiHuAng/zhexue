@@ -19196,7 +19196,7 @@
     "sep-aquinas"
    ],
    "needs_verification": true,
-   "pending_notes": "《论存在与本质》的成书年代（约1252—56）与真伪在学界大体一致，但各本的章节划分有差异；本页依 Leonine 本与 Maurer 英译概述。",
+   "pending_notes": "《论存在与本质》的成书年代（约1252—56）与真伪在学界大体一致，但各本的章节划分有差异；本页依 Leonine 本与 Maurer 英译概述。 已核（第 296 轮，据 sep-aquinas）：《论存在与本质》属其 opuscula（短论）一类；其成书年代（约1252—56）SEP 未标，仍待核。",
    "sort_year": 1255
   },
   {
@@ -19253,7 +19253,7 @@
     "sep-aristotle"
    ],
    "needs_verification": true,
-   "pending_notes": "阿奎那《箴言注》的成书分两阶段（1252—54 的 Scriptum 与 1254—56 的补充），各本的卷次与分辩编号须核 Moos 编本；其与《神学大全》的异同亦须分辨。",
+   "pending_notes": "阿奎那《箴言注》的成书分两阶段（1252—54 的 Scriptum 与 1254—56 的补充），各本的卷次与分辩编号须核 Moos 编本；其与《神学大全》的异同亦须分辨。 已核（第 296 轮，据 sep-aquinas）：阿奎那在巴黎以学士身份讲授圣经与隆巴德《箴言四书》，其后（1256—59）任多明我会神学教席；两阶段的分辨编号仍待核。",
    "sort_year": 1256
   },
   {
@@ -19310,7 +19310,7 @@
     "book-copleston-history"
    ],
    "needs_verification": true,
-   "pending_notes": "《论真理》的篇数与编排（通行29个问题、253篇）须核 Leonine 本；其“真理三义”的解释与“良心（synderesis）”说的来源（热罗姆？）亦须分辨。",
+   "pending_notes": "《论真理》的篇数与编排（通行29个问题、253篇）须核 Leonine 本；其“真理三义”的解释与“良心（synderesis）”说的来源（热罗姆？）亦须分辨。 已核（第 296 轮，据 sep-aquinas）：《论真理》属 disputed questions（辩论问题）一类，SEP 明言此类“往往比两部大全更详细”；篇数（29 问题／253 篇）仍待核。",
    "sort_year": 1259
   },
   {
@@ -19539,7 +19539,7 @@
     "sep-aquinas"
    ],
    "needs_verification": false,
-   "pending_notes": "",
+   "pending_notes": "已核（第 296 轮，据 sep-aquinas）：《神学大全》分四部分——prima pars（神与受造界）、prima secundae（人的行动：情、德、法、恩）、secunda secundae（诸德细论）、tertia pars（基督与圣事）；3a 止于 q.90，余由门人依旧稿补成“补编”。SEP 并按中世纪大学的“设问体”说明其体例（先列反面论证、次 sed contra、次 corpus、末 ad 1／ad 2 答）。",
    "sort_year": 1265
   },
   {
@@ -33450,6 +33450,63 @@
    "sort_year": 1883
   },
   {
+   "id": "work-principles-logic",
+   "title": "《逻辑原理》（布拉德雷）",
+   "title_original": "The Principles of Logic",
+   "tradition": "west",
+   "date_display": "1883（布拉德雷；1922 增订）",
+   "structure": "两部（判断与推论）：以“判断”而非“命题”为逻辑的单位，论观念与实在的关系。",
+   "core_arguments": [
+    "**判断**是逻辑的单位：一切判断皆为对实在的断言",
+    "“**观念**”不是心理的印象，而是**意义**（可传达者）",
+    "以“**具体普遍**”说概念：概念在实在中不是孤立的抽象"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "判断与实在"
+    },
+    {
+     "locator": "第二部",
+     "point": "推论的形式"
+    },
+    {
+     "locator": "论观念",
+     "point": "意义与心理之别"
+    },
+    {
+     "locator": "全书",
+     "point": "以判断为逻辑单位"
+    }
+   ],
+   "editions": [
+    "英文本（Clarendon, 1883；第二版 1922）；中译少见"
+   ],
+   "related_people": [
+    "gr-19c-bradley",
+    "gr-german-hegel",
+    "gr-modern-locke"
+   ],
+   "misreadings": [
+    {
+     "claim": "其逻辑是“心理主义的”",
+     "why": "其说恰**反对**把观念当作心理印象（观念即意义）；故其为反心理主义的逻辑学，与洛克一系有别。"
+    },
+    {
+     "claim": "其说是“黑格尔的照搬”",
+     "why": "其以**判断**为逻辑单位、以“具体普遍”说概念，皆有其自身的构造；故其为英国观念论的独创，非照搬。"
+    }
+   ],
+   "sources": [
+    "sep-bradley",
+    "sep-hegel",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《逻辑原理》两部与 1883／1922 两版须核 Clarendon 版；“判断是逻辑的单位”的原文亦须核。中译少。",
+   "sort_year": 1883
+  },
+  {
    "id": "work-origin-family",
    "title": "《家庭、私有制和国家的起源》",
    "title_original": "Der Ursprung der Familie, des Privateigentums und des Staats",
@@ -34131,6 +34188,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《周礼正义》的卷数与成书（1899）须核中华书局点校本；“疏不破注而补其阙”的表述亦须核其凡例。",
+   "sort_year": 1899
+  },
+  {
+   "id": "work-philosophical-theory-state",
+   "title": "《国家的哲学理论》",
+   "title_original": "The Philosophical Theory of the State",
+   "tradition": "west",
+   "date_display": "1899（鲍桑葵）",
+   "structure": "一部（凡十一章）：由“国家的哲学理论”到“国家的职能”，末论国际关系。",
+   "core_arguments": [
+    "国家是“**公共意志**”的体现：非诸个体意志的加总",
+    "故自由不是“不受干涉”，而是**在制度中实现其能力**",
+    "“**共同善**”为国家职能的界限与根据"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—三章",
+     "point": "哲学理论的性质"
+    },
+    {
+     "locator": "第四—六章",
+     "point": "意志与自由"
+    },
+    {
+     "locator": "第七—九章",
+     "point": "国家的职能"
+    },
+    {
+     "locator": "末章",
+     "point": "国际关系"
+    }
+   ],
+   "editions": [
+    "英文本（Macmillan, 1899；第四版 1923）；中译参《关于国家的哲学理论》（汪淑钧译）"
+   ],
+   "related_people": [
+    "gr-19c-bradley",
+    "gr-german-hegel",
+    "gr-modern-hobbes"
+   ],
+   "misreadings": [
+    {
+     "claim": "其说是“国家至上论”",
+     "why": "其以**共同善**为国家职能的界限（国家亦须受此限），故其为“国家的伦理根据”之说，非无限的国家至上；然其说确易被读为国家崇拜，本页并述此讥。"
+    },
+    {
+     "claim": "其“公共意志”是“多数人的意志”",
+     "why": "其“公共意志”是**伦理的整体**（非投票的多数），故其为观念论的范畴，非经验的计算。"
+    }
+   ],
+   "sources": [
+    "sep-bradley",
+    "sep-hegel",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《国家的哲学理论》十一章与 1899 年初版（第四版 1923）须核 Macmillan 版与汪淑钧译本；“公共意志”的原文亦须核。鲍桑葵无 SEP 专条，本页依 sep-bradley／sep-hegel 的语境性论述，**属语境性引用而非专门研究**。",
    "sort_year": 1899
   },
   {
@@ -35383,6 +35497,63 @@
    "needs_verification": true,
    "pending_notes": "《经济与社会》的遗稿编次（MWG I/22—23）与 1921／1922 刊行须核 Mohr Siebeck 版与阎克文译本；“理想类型”“支配三类型”的原文亦须核。",
    "sort_year": 1921
+  },
+  {
+   "id": "work-philosophical-review",
+   "title": "《哲学评论》（摩尔）",
+   "title_original": "Philosophical Papers / Philosophical Studies",
+   "tradition": "west",
+   "date_display": "1922／1959（摩尔；文集）",
+   "structure": "两部文集（《哲学研究》1922、《哲学论文》1959）：论常识、知觉、怀疑论与语言分析的方法。",
+   "core_arguments": [
+    "以“**常识**”为哲学的起点：我有两只手，这是确定的",
+    "故对怀疑论的答复不在证明，而在**指出其前提之误**",
+    "以“**分析**”为法：把模糊的问题拆成可判定的问题"
+   ],
+   "key_points": [
+    {
+     "locator": "〈为常识辩护〉",
+     "point": "常识的确定性"
+    },
+    {
+     "locator": "〈对外部世界的证明〉",
+     "point": "手与外部世界"
+    },
+    {
+     "locator": "〈知觉与物质对象〉",
+     "point": "感觉与对象"
+    },
+    {
+     "locator": "全书",
+     "point": "以分析为法"
+    }
+   ],
+   "editions": [
+    "英文本（Routledge／Allen & Unwin）；中译少见"
+   ],
+   "related_people": [
+    "gr-20c-moore",
+    "gr-20c-russell",
+    "gr-modern-hume"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“常识”是“未加反省的意见”",
+     "why": "其“常识”是**经分析而可辩护的确定命题**（如“我有两只手”），故其为方法的起点，非未反省的意见。"
+    },
+    {
+     "claim": "其对怀疑论的答复是“独断”",
+     "why": "其答复是**指出怀疑论前提的混淆**（把“不可错”与“确定”混同），故其为分析的工作，非独断的断言。"
+    }
+   ],
+   "sources": [
+    "sep-kant",
+    "sep-mill",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "摩尔此两部文集的篇目与 1922／1959 年版须核；摩尔无 SEP 专条入库，本页依 sep-kant／sep-mill 的语境性论述（**属语境性引用而非专门研究**），〈为常识辩护〉与〈对外部世界的证明〉的原文仍须核。",
+   "sort_year": 1922
   },
   {
    "id": "work-geschichte-klassenbewusstsein",

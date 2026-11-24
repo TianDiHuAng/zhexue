@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1796,
+  "entries": 1800,
   "by_level": {
    "L2": 779,
-   "L1": 1017
+   "L1": 1021
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 1017,
+  "needs_verification": 1021,
   "sources": 424,
   "sources_verified": 424
  },
@@ -16071,6 +16071,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-principles-logic",
+   "type": "work",
+   "title": "《逻辑原理》（布拉德雷）",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-origin-family",
    "type": "work",
    "title": "《家庭、私有制和国家的起源》",
@@ -16196,6 +16207,17 @@
    "type": "work",
    "title": "《周礼正义》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-philosophical-theory-state",
+   "type": "work",
+   "title": "《国家的哲学理论》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -16437,6 +16459,17 @@
    "id": "work-wirtschaft-gesellschaft",
    "type": "work",
    "title": "《经济与社会》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-philosophical-review",
+   "type": "work",
+   "title": "《哲学评论》（摩尔）",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -19429,6 +19462,17 @@
    "id": "cmp-yousheng",
    "type": "comparative",
    "title": "“有—无—变”与“有无相生”：开端如何开始？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-juti-pubian",
+   "type": "comparative",
+   "title": "“具体普遍”与“理一分殊”：普遍如何是具体的？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
