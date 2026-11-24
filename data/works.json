@@ -1,6 +1,63 @@
 {
  "works": [
   {
+   "id": "work-anaximander-fragments",
+   "title": "《论自然》（阿那克西曼德残篇）",
+   "title_original": "Περὶ φύσεως（残篇 DK 12）",
+   "tradition": "west",
+   "date_display": "约前6世纪（阿那克西曼德；今存残篇）",
+   "structure": "原为一卷散文（已佚）：今存据辛普里丘等引述的残篇数则，最著名者为 DK 12 B1。",
+   "core_arguments": [
+    "万物的本原是“**无定**”（ἄπειρον，apeiron）：无定形、无界限，故能生万物",
+    "万物由无定分离而出，又“按照时间的秩序”回归于无定（生灭的补偿）",
+    "以“不正义”喻生灭：个体之分离是对无定的“侵夺”，故须补偿"
+   ],
+   "key_points": [
+    {
+     "locator": "DK 12 A9—11",
+     "point": "无定为本原"
+    },
+    {
+     "locator": "DK 12 B1",
+     "point": "生灭与补偿"
+    },
+    {
+     "locator": "DK 12 A10",
+     "point": "诸天地的生成"
+    },
+    {
+     "locator": "残篇",
+     "point": "以散文行哲学"
+    }
+   ],
+   "editions": [
+    "Diels-Kranz《前苏格拉底哲学家残篇》（DK 12）；英译参 Kirk–Raven–Schofield, The Presocratic Philosophers；中译参《古希腊罗马哲学》（商务）"
+   ],
+   "related_people": [
+    "gr-ancient-anaximander",
+    "gr-ancient-thales",
+    "gr-ancient-anaximenes"
+   ],
+   "misreadings": [
+    {
+     "claim": "“无定”是“无限大”",
+     "why": "其“无定”是**无定形、无界限**（故不可指认为某一元素），非数学的无限大；故其为“本原的性质”，非量度。"
+    },
+    {
+     "claim": "其“补偿”是物理的循环",
+     "why": "其“补偿”以**正义**为喻（时间的秩序），故其说是**半神话半哲学**的，正处在神话与哲学的过渡带上。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "sep-aristotle",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论自然》残篇以 DK 12 编号为据；B1 的译文（“按照时间的秩序”“相互补偿”）各家不同，本页取通行译法并标注。",
+   "sort_year": -585
+  },
+  {
    "id": "work-shangshu",
    "title": "《尚书》",
    "title_original": "尚書",
@@ -55,6 +112,120 @@
    "needs_verification": true,
    "pending_notes": "“古文尚书”二十五篇的真伪经阎若璩《尚书古文疏证》论证为伪，今学界基本公认；但“今文二十九篇”内部各篇的年代仍有讨论。",
    "sort_year": -500
+  },
+  {
+   "id": "work-heraclitus-fragments",
+   "title": "《残篇》（赫拉克利特）",
+   "title_original": "Περὶ φύσεως（残篇 DK 22）",
+   "tradition": "west",
+   "date_display": "约前5世纪（赫拉克利特；今存残篇）",
+   "structure": "原为一卷（已佚）：今存约一百三十则残篇，多为格言式的短句，以隐喻与双关见其文风。",
+   "core_arguments": [
+    "“万物皆流”（πάντα ῥεῖ）：无物常住，唯变是常",
+    "“逻各斯”（λόγος）为万物之序：人虽有之而常不晓",
+    "对立之统一：生与死、醒与睡、老与少“是同一的”"
+   ],
+   "key_points": [
+    {
+     "locator": "DK 22 B12",
+     "point": "河流之喻"
+    },
+    {
+     "locator": "DK 22 B1",
+     "point": "逻各斯"
+    },
+    {
+     "locator": "DK 22 B88",
+     "point": "对立之统一"
+    },
+    {
+     "locator": "残篇",
+     "point": "格言体"
+    }
+   ],
+   "editions": [
+    "Diels-Kranz（DK 22）；英译参 Kirk–Raven–Schofield；中译参《古希腊罗马哲学》（商务）"
+   ],
+   "related_people": [
+    "gr-ancient-heraclitus",
+    "gr-ancient-parmenides",
+    "gr-hellenistic-zeno"
+   ],
+   "misreadings": [
+    {
+     "claim": "“万物皆流”是相对主义",
+     "why": "其“流”以**逻各斯**为序（变中有常），故其说不废秩序；相对主义之名是柏拉图一系的批评，须分辨。"
+    },
+    {
+     "claim": "其“火”是物理的元素",
+     "why": "其“火”是**变与转化的象征**（“火的转化”），故其说近于过程哲学，非元素论。"
+    }
+   ],
+   "sources": [
+    "sep-heraclitus",
+    "sep-aristotle",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《残篇》以 DK 22 编号为据；B12（河流）与 B49a 的两处表述互相矛盾，学界有争论，本页取通行解释并标注。",
+   "sort_year": -500
+  },
+  {
+   "id": "work-parmenides-nature",
+   "title": "《论自然》（巴门尼德）",
+   "title_original": "Περὶ φύσεως（残篇 DK 28）",
+   "tradition": "west",
+   "date_display": "约前5世纪（巴门尼德；今存残篇）",
+   "structure": "长诗（六音步）：序诗、〈真理之路〉、〈意见之路〉三部分，今存约一百六十行。",
+   "core_arguments": [
+    "“存在者存在，不存在者不存在”：思维与存在同一（“能被思维者与能存在者是同一的”）",
+    "变化与多不可思维：故现象的世界只是“意见”",
+    "“真理之路”与“意见之路”的分野：哲学首次以**逻辑**判定真伪"
+   ],
+   "key_points": [
+    {
+     "locator": "序诗",
+     "point": "女神的启示"
+    },
+    {
+     "locator": "〈真理之路〉",
+     "point": "存在者存在"
+    },
+    {
+     "locator": "〈意见之路〉",
+     "point": "现象界的构造"
+    },
+    {
+     "locator": "残篇",
+     "point": "以诗行哲学"
+    }
+   ],
+   "editions": [
+    "Diels-Kranz（DK 28）；英译参 Kirk–Raven–Schofield；中译参《巴门尼德篇》（王太庆）与《古希腊罗马哲学》"
+   ],
+   "related_people": [
+    "gr-ancient-parmenides",
+    "gr-ancient-zeno-elea",
+    "gr-ancient-heraclitus"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“存在”是“物质”",
+     "why": "其“存在”是**逻辑与思维的必然性**（不生不灭、连续、完满），非近代意义上的物质；故其为存在论的起点，非唯物论。"
+    },
+    {
+     "claim": "其学说是“否认运动”的诡辩",
+     "why": "其结论是**由逻辑推出的**（变化须涉及“非存在”，而非存在不可思），故其为严格的论证，非诡辩；其后的芝诺正是为护此说而立论证。"
+    }
+   ],
+   "sources": [
+    "sep-parmenides",
+    "sep-plato",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论自然》残篇以 DK 28 编号为据；“思维与存在同一”一句（B3）的译法各家不同，本页取通行译法并标注。",
+   "sort_year": -480
   },
   {
    "id": "work-lunyu",

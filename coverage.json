@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1612,
+  "entries": 1616,
   "by_level": {
    "L2": 780,
-   "L1": 832
+   "L1": 836
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 832,
+  "needs_verification": 836,
   "sources": 419,
   "sources_verified": 419
  },
@@ -9592,6 +9592,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-anaximander-fragments",
+   "type": "work",
+   "title": "《论自然》（阿那克西曼德残篇）",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-shangshu",
    "type": "work",
    "title": "《尚书》",
@@ -9599,6 +9610,28 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-heraclitus-fragments",
+   "type": "work",
+   "title": "《残篇》（赫拉克利特）",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-parmenides-nature",
+   "type": "work",
+   "title": "《论自然》（巴门尼德）",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -17408,6 +17441,17 @@
    "container": "comparative",
    "level": "L1",
    "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-wuding",
+   "type": "comparative",
+   "title": "“无定”与“道”：本原何以为“无名”？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 3,
    "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-24"
