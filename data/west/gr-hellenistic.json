@@ -3042,6 +3042,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“抉择”（prohairesis）在亚里士多德与爱比克泰德处的含义不同（前者为“经过考虑的欲求”，后者为“对印象的取舍”）；本页并述二者，具体文本须核。"
+  },
+  {
+   "id": "gr-hellenistic-five-predicables",
+   "term": "五谓词",
+   "term_latin": "the five predicables",
+   "definition": "波菲利《导论》所列的五种述说方式：属（genos）、种（eidos）、种差（diaphora）、固有属性（idion）、偶性（symbebēkos）。它们构成定义与分类的工具；而“属与种是否存在”的追问，则成为中世纪共相之争的起点。",
+   "usages": [
+    {
+     "name": "波菲利",
+     "id": "gr-hellenistic-porphyry",
+     "usage": "以五谓词为《范畴篇》的入门，并提出共相的三问。"
+    },
+    {
+     "name": "波爱修（其传入）",
+     "usage": "以拉丁译注把五谓词与共相问题传入西方。"
+    },
+    {
+     "name": "阿奎那（其后学）",
+     "usage": "以“抽象”说处理共相，回应此问题。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-lekton",
+    "gr-hellenistic-sage"
+   ],
+   "example": {
+    "text": "“五谓词”的要害在于它是一个**工具**而非一套本体论：它只说“如何述说”，不说“述说之物是否存在”。正因如此，波菲利的“三问”才成为真问题 —— 工具是中立的，而本体论的立场须另立。",
+    "figure": "波菲利",
+    "locator": "《导论》（Isagoge）"
+   },
+   "sources": [
+    "sep-medieval-philosophy",
+    "sep-aristotle",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“五谓词”的希腊文与拉丁译名（genos/genera、eidos/species 等）须核；其与亚里士多德《论题篇》的“四谓词”之别亦须分辨。"
   }
  ],
  "debates": [

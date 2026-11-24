@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1340,
+  "entries": 1344,
   "by_level": {
    "L2": 781,
-   "L1": 559
+   "L1": 563
   },
   "doctrine": {
    "total": 272,
    "detail": 272,
    "auto": 0
   },
-  "needs_verification": 559,
+  "needs_verification": 563,
   "sources": 413,
   "sources_verified": 413
  },
@@ -129,7 +129,7 @@
    "title": "希腊化与罗马哲学",
    "region": "west",
    "philosophers": 15,
-   "concepts": 22,
+   "concepts": 23,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -7205,6 +7205,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-hellenistic-five-predicables",
+   "type": "concept",
+   "title": "五谓词",
+   "container": "gr-hellenistic",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-hellenistic-knowledge",
    "type": "debate",
    "title": "知识是否可能：学园派与斯多亚派",
@@ -10582,6 +10593,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-isagoge-commentary",
+   "type": "work",
+   "title": "《波菲利〈导论〉注》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-shenmie-lun",
    "type": "work",
    "title": "《神灭论》",
@@ -10641,6 +10663,17 @@
    "type": "work",
    "title": "《名僧传抄》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-de-decem-categoriis",
+   "type": "work",
+   "title": "《论十范畴》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -14413,6 +14446,17 @@
    "id": "cmp-duhua",
    "type": "comparative",
    "title": "独化与“自因”：郭象与斯宾诺莎的“自本”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-gongxiang",
+   "type": "comparative",
+   "title": "共相之争与“名实之辨”：两种“共”的问题",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

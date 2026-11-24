@@ -1521,6 +1521,10 @@
     {
      "claim": "《解释篇》是逻辑学教科书的一章",
      "why": "它属《工具论》但论题是**语言与存在的关系**（命题如何与事实相应），其第9章的问题至今是哲学逻辑的核心。"
+    },
+    {
+     "claim": "“海战问题”是说未来不确定",
+     "why": "它问的是：若“明日有海战”这一命题现在已有真假，则未来是否已被决定？故其问题是**逻辑与决定论**的张力，不是“未来不可知”的经验断言；且亚里士多德的解答（对单称未来偶然命题不作二分）不能简化为“未来命题无真假”。"
     }
    ],
    "sources": [
@@ -9713,6 +9717,63 @@
    "sort_year": 501
   },
   {
+   "id": "work-isagoge-commentary",
+   "title": "《波菲利〈导论〉注》",
+   "title_original": "Commentaria in Isagogen Porphyrii（波爱修）",
+   "tradition": "west",
+   "date_display": "约6世纪初（波爱修，480—524／526）",
+   "structure": "两篇注（in Isagogen）：以拉丁文注波菲利《导论》（Isagoge），讨论“属”“种”“种差”“固有属性”“偶性”五谓词。",
+   "core_arguments": [
+    "五谓词（属、种、种差、固有属性、偶性）是定义与分类的工具",
+    "共相问题的三重提问：共相是实体还是心中之物？若是实体，是有形的还是无形的？是与可感物分离还是在其之中？",
+    "波爱修的立场：共相**在可感物之中**而被理解（in sensibilibus），但此说留有张力"
+   ],
+   "key_points": [
+    {
+     "locator": "第一篇注",
+     "point": "五谓词的界说"
+    },
+    {
+     "locator": "第二篇注",
+     "point": "共相的三重提问"
+    },
+    {
+     "locator": "第二篇注",
+     "point": "波爱修的立场"
+    },
+    {
+     "locator": "全书",
+     "point": "对中世纪共相之争的开启"
+    }
+   ],
+   "editions": [
+    "拉丁原文（PL 64）；英译（Commentaries on Porphyry's Isagoge, 见 Medieval Philosophy 选集）"
+   ],
+   "related_people": [
+    "gr-medieval-boethius",
+    "gr-hellenistic-porphyry",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "共相之争是波爱修提出的",
+     "why": "问题出自**波菲利的《导论》**（其对“属与种是否存在”的三问）；波爱修的贡献是把这一提问**传入拉丁西方**并给出一个有待展开的立场。"
+    },
+    {
+     "claim": "波爱修是唯实论者",
+     "why": "其立场接近“共相在可感物中而被抽象理解”，本身留有张力；后世的唯名／唯实两派皆可溯及他，故不能径归一派。"
+    }
+   ],
+   "sources": [
+    "sep-medieval-philosophy",
+    "sep-plato",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "波爱修两篇《导论》注的成书与其对共相问题的表述须核 PL 64；其对亚里士多德与波菲利的取舍亦须分辨。",
+   "sort_year": 505
+  },
+  {
    "id": "work-shenmie-lun",
    "title": "《神灭论》",
    "title_original": "神滅論",
@@ -10046,6 +10107,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《名僧传》原书三十卷已佚，今存《名僧传抄》一卷（日本所传）；本页依节抄本与佛教史学的研究概述。",
+   "sort_year": 510
+  },
+  {
+   "id": "work-de-decem-categoriis",
+   "title": "《论十范畴》",
+   "title_original": "In Categorias Aristotelis（波爱修译注）",
+   "tradition": "west",
+   "date_display": "约6世纪初（波爱修译亚里士多德《范畴篇》并注）",
+   "structure": "波爱修的拉丁译本与注：论实体、 quantity、quality、关系、地点、时间、姿态、状态、动作、遭受十范畴。",
+   "core_arguments": [
+    "十范畴是对“存在者如何被述说”的分类",
+    "“实体”在其最严格的意义上是个体（tode ti）",
+    "关系范畴的疑难：关系是否依附于实体，抑或只是比较"
+   ],
+   "key_points": [
+    {
+     "locator": "论实体",
+     "point": "第一实体与第二实体"
+    },
+    {
+     "locator": "论关系",
+     "point": "关系的存在方式"
+    },
+    {
+     "locator": "论动作与遭受",
+     "point": "变化的范畴"
+    },
+    {
+     "locator": "注文",
+     "point": "译名与理解"
+    }
+   ],
+   "editions": [
+    "拉丁原文（PL 64）；英译见 Aristotle's Categories and De Interpretatione（Ackrill）所附讨论"
+   ],
+   "related_people": [
+    "gr-medieval-boethius",
+    "gr-ancient-aristotle",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是“翻译”",
+     "why": "波爱修的译本附有**注**，其译名（如 substantia、qualitas）本身即解释，决定了拉丁中世纪的理解框架；故不只是一部译著。"
+    },
+    {
+     "claim": "十范畴是十个“东西”",
+     "why": "它们是**述说的方式**（存在者如何被述说），不是十类实物；故其说是逻辑—本体论的分类。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "sep-medieval-philosophy",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "波爱修译《范畴篇》的译名与其注文的关系须核 PL 64；其与亚里士多德原文的差异亦须逐条核。",
    "sort_year": 510
   },
   {
