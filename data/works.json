@@ -25224,6 +25224,120 @@
    "sort_year": 1762
   },
   {
+   "id": "work-aesthetica-in-nuce",
+   "title": "《美学要义》",
+   "title_original": "Aesthetica in nuce. Eine Rhapsodie in Kabbalistischer Prose",
+   "tradition": "west",
+   "date_display": "1762（哈曼）",
+   "structure": "一篇（收入《语言家的十字军》文集）：以“以赛亚的狂喜”为体，论诗、语言与认识。",
+   "core_arguments": [
+    "“**诗是人类母语**”：语言先于逻辑，隐喻先于概念",
+    "以“**创造即言说**”说世界：上帝说，故有物",
+    "以“**感觉的启示**”对抗启蒙的抽象：五官之知不可废"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "诗为母语"
+    },
+    {
+     "locator": "论创造",
+     "point": "创造即言说"
+    },
+    {
+     "locator": "论五官",
+     "point": "感觉的启示"
+    },
+    {
+     "locator": "全篇",
+     "point": "以狂喜体行文"
+    }
+   ],
+   "editions": [
+    "德文（Hamanns Schriften, Eichborn／Sämtliche Werke, Brockhaus）；英译见 J. G. Hamann 选集；中译少见"
+   ],
+   "related_people": [
+    "gr-german-hamann",
+    "gr-modern-herder",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“美学论文”",
+     "why": "其书名为“美学”，实以**语言的起源**与**认识的感性条件**为论旨，并以狂喜体行之；故其为语言哲学与认识论的著作，非美学的专论。"
+    },
+    {
+     "claim": "其“诗为母语”是文学的主张",
+     "why": "其语是**认识的论题**（隐喻与形象先于抽象概念），故其为语言哲学的原理，非文体的主张。"
+    }
+   ],
+   "sources": [
+    "sep-hamann",
+    "sep-herder",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《美学要义》的成书（1762）与所收文集须核 Sämtliche Werke 版；“诗是人类母语”一语的原文亦须核。中译少，本页多为义述。",
+   "sort_year": 1762
+  },
+  {
+   "id": "work-kreuzzuege-philologen",
+   "title": "《语言家的十字军》",
+   "title_original": "Kreuzzüge des Philologen",
+   "tradition": "west",
+   "date_display": "1762（哈曼）",
+   "structure": "文集（含《美学要义》与《一篇关于学院问题的尝试》等）：以讽刺与博学的杂糅行文。",
+   "core_arguments": [
+    "以“**语言学家的十字军**”自况：以语言之辨讨伐抽象的风气",
+    "批评当时的“学院问题”（语言起源之争）之浅",
+    "主张语言不可由理性“发明”，而是**给予**的"
+   ],
+   "key_points": [
+    {
+     "locator": "文集序",
+     "point": "自况与立场"
+    },
+    {
+     "locator": "论语言起源",
+     "point": "语言非发明"
+    },
+    {
+     "locator": "所收诸篇",
+     "point": "讽刺与博学"
+    },
+    {
+     "locator": "全书",
+     "point": "以文集行论战"
+    }
+   ],
+   "editions": [
+    "德文（Sämtliche Werke, Brockhaus）；英译少见；中译少见"
+   ],
+   "related_people": [
+    "gr-german-hamann",
+    "gr-modern-herder",
+    "gr-german-jacobi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“杂文集”",
+     "why": "其诸篇**同属一个论战**（以语言对抗抽象理性），故其为有统一意图的文集，非杂凑。"
+    },
+    {
+     "claim": "其“语言非发明”是神学的独断",
+     "why": "其论证亦含**经验的反省**（语言的实际使用先于规则），故其为语言哲学的立场，非单凭神学的断言。"
+    }
+   ],
+   "sources": [
+    "sep-hamann",
+    "sep-herder",
+    "sep-jacobi"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《语言家的十字军》所收篇目与 1762 年刊行须核 Sämtliche Werke 版；“语言非发明”的论证亦须核。中译少。",
+   "sort_year": 1762
+  },
+  {
    "id": "work-geschichte-der-kunst",
    "title": "《古代艺术史》",
    "title_original": "Geschichte der Kunst des Alterthums",
@@ -26634,6 +26748,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《人类历史哲学的观念》的四部结构与“Humanität”一词的译法须核 Reclam／Princeton 版；其与康德《世界公民观点下的普遍历史理念》的往复亦须分辨。",
+   "sort_year": 1784
+  },
+  {
+   "id": "work-metakritik",
+   "title": "《纯粹理性批判的元批判》",
+   "title_original": "Metakritik über den Purismum der Vernunft",
+   "tradition": "west",
+   "date_display": "1784 成稿（1800 刊行；哈曼）",
+   "structure": "一篇短论（凡数节）：就康德《纯粹理性批判》的“纯粹性”提出元批判。",
+   "core_arguments": [
+    "理性的“**纯粹性**”不可成立：语言先于一切反思",
+    "“**理性即语言**”（Vernunft ist Sprache）：概念须借语言而有",
+    "故批判自身须受**元批判**（metacritique）：先问其语言的条件"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "纯粹性的可疑"
+    },
+    {
+     "locator": "论语言",
+     "point": "理性即语言"
+    },
+    {
+     "locator": "论二律背反",
+     "point": "语言的先在"
+    },
+    {
+     "locator": "全篇",
+     "point": "以元批判立说"
+    }
+   ],
+   "editions": [
+    "德文（Sämtliche Werke 版；另有单行校注本）；英译见选集；中译少见"
+   ],
+   "related_people": [
+    "gr-german-hamann",
+    "gr-german-kant",
+    "gr-modern-herder"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“对康德的驳斥”",
+     "why": "其方法是**元批判**（追问批判自身的语言条件），并不另立体系；故其为对“批判”的批判，非驳斥。"
+    },
+    {
+     "claim": "其“理性即语言”是修辞的夸张",
+     "why": "其语是**论题**（一切概念皆须语言而成立），故其为语言哲学的核心命题，非修辞。"
+    }
+   ],
+   "sources": [
+    "sep-hamann",
+    "sep-kant",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《纯粹理性批判的元批判》成稿 1784／刊行 1800 的经过须核 Sämtliche Werke 版；“理性即语言”一语的原文亦须核。中译少，本页多为义述。",
    "sort_year": 1784
   },
   {

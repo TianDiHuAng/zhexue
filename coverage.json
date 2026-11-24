@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1708,
+  "entries": 1712,
   "by_level": {
    "L2": 779,
-   "L1": 929
+   "L1": 933
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 929,
-  "sources": 422,
-  "sources_verified": 422
+  "needs_verification": 933,
+  "sources": 423,
+  "sources_verified": 423
  },
  "units": [
   {
@@ -14465,6 +14465,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-aesthetica-in-nuce",
+   "type": "work",
+   "title": "《美学要义》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-kreuzzuege-philologen",
+   "type": "work",
+   "title": "《语言家的十字军》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-geschichte-der-kunst",
    "type": "work",
    "title": "《古代艺术史》",
@@ -14732,6 +14754,17 @@
    "id": "work-ideen-philosophie-geschichte",
    "type": "work",
    "title": "《人类历史哲学的观念》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-metakritik",
+   "type": "work",
+   "title": "《纯粹理性批判的元批判》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -18461,6 +18494,17 @@
    "id": "cmp-pingyong",
    "type": "comparative",
    "title": "“恶的平庸”与“庸人”：不思想何以成恶？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-lixing",
+   "type": "comparative",
+   "title": "“理性即语言”与“名不正则言不顺”：思想离不开语言吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
