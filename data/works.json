@@ -28061,6 +28061,63 @@
    "sort_year": 1800
   },
   {
+   "id": "work-system-transzendentalen",
+   "title": "《先验唯心论体系》",
+   "title_original": "System des transzendentalen Idealismus",
+   "tradition": "west",
+   "date_display": "1800（谢林）",
+   "structure": "六部分：论先验唯心论的原理、体系的两分、以自然为目的的构造、以自由为目的的构造、历史哲学、艺术哲学。",
+   "core_arguments": [
+    "以“**自我意识**”为最高原理：一切知识皆由主体的自我设定而来",
+    "以“**自然的合目的性**”勾通自然与精神：自然是可见的精神",
+    "以“**艺术**”为体系的顶石：审美直观是主观与客观的同一之证明"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—二部分",
+     "point": "自我意识的原理"
+    },
+    {
+     "locator": "第三部分",
+     "point": "理论哲学与自然的合目的性"
+    },
+    {
+     "locator": "第四—五部分",
+     "point": "实践哲学与历史"
+    },
+    {
+     "locator": "第六部分",
+     "point": "艺术哲学为顶石"
+    }
+   ],
+   "editions": [
+    "德文（Meiner 版）；英译（System of Transcendental Idealism, Virginia）；中译参《先验唯心论体系》（梁志学等译）"
+   ],
+   "related_people": [
+    "gr-german-schelling",
+    "gr-german-fichte",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“自然是可见的精神”是唯心论的独断",
+     "why": "其说以**自我意识的展开**为论证的进路（自然须被理解为精神的对应），故其为体系的一环，非独断的断言。"
+    },
+    {
+     "claim": "其“艺术为顶石”是审美的浪漫口号",
+     "why": "其论证是：**审美直觉**是主观与客观同一的直接证明，而哲学的概念不能达到这一直接性；故其为体系的结论，非口号。"
+    }
+   ],
+   "sources": [
+    "sep-schelling",
+    "sep-kant",
+    "sep-aesthetics-18th-german"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《先验唯心论体系》六部分的结构与 1800 年初版须核 Meiner 版与梁志学译本；“自然是可见的精神”“艺术为顶石”的原文亦须核。",
+   "sort_year": 1800
+  },
+  {
    "id": "work-offterdingen",
    "title": "《亨利希·冯·奥夫特丁根》",
    "title_original": "Heinrich von Ofterdingen",
@@ -28115,6 +28172,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《亨利希·冯·奥夫特丁根》两部的存佚（第二部为残篇）与 1802 年刊本须核 Kohlhammer 版；“蓝花”“魔幻观念论”的原文亦须核。",
+   "sort_year": 1802
+  },
+  {
+   "id": "work-philosophie-kunst",
+   "title": "《艺术哲学》",
+   "title_original": "Philosophie der Kunst",
+   "tradition": "west",
+   "date_display": "1802—1803 讲演（谢林；1859 刊）",
+   "structure": "讲演录（凡五编）：论艺术哲学的概念、神话的构成、造型艺术（建筑、雕刻、绘画）与诗艺。",
+   "core_arguments": [
+    "艺术是“**绝对者**”在感性的形态中的呈现",
+    "以“**神话**”为艺术的必要土壤：神话是绝对者的象征世界",
+    "以“**象征**”（象征＝图式与寓言的合一）为艺术的形式原理"
+   ],
+   "key_points": [
+    {
+     "locator": "第一编",
+     "point": "艺术哲学的概念"
+    },
+    {
+     "locator": "第二编",
+     "point": "神话"
+    },
+    {
+     "locator": "第三—四编",
+     "point": "造型艺术"
+    },
+    {
+     "locator": "第五编",
+     "point": "诗与象征"
+    }
+   ],
+   "editions": [
+    "德文（Meiner 版）；英译（The Philosophy of Art, Minnesota）；中译少见"
+   ],
+   "related_people": [
+    "gr-german-schelling",
+    "gr-german-hegel",
+    "gr-german-schiller"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“美学讲义”",
+     "why": "其书以**形而上学**为纲（艺术作为绝对者的呈现），非趣味与技术的讲授；故其为艺术形而上学，非美学教程。"
+    },
+    {
+     "claim": "其“象征”是修辞学概念",
+     "why": "其“象征”是**形而上学的范畴**（图式与寓言的合一，即绝对者在形象中的呈现），非修辞的手法。"
+    }
+   ],
+   "sources": [
+    "sep-schelling",
+    "sep-aesthetics-18th-german",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《艺术哲学》五编的结构与 1802—1803 讲演／1859 刊本须核 Meiner 版；“象征”作为形而上学范畴的原文亦须核。中译少，本页多为义述。",
    "sort_year": 1802
   },
   {
