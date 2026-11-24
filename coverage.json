@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1209,
+  "entries": 1213,
   "by_level": {
-   "L2": 790,
-   "L1": 419
+   "L2": 792,
+   "L1": 421
   },
   "doctrine": {
-   "total": 262,
-   "detail": 262,
+   "total": 264,
+   "detail": 264,
    "auto": 0
   },
-  "needs_verification": 419,
+  "needs_verification": 421,
   "sources": 408,
   "sources_verified": 408
  },
@@ -92,10 +92,10 @@
    "unit_id": "gr-20c",
    "title": "20世纪：分析哲学、现象学与存在主义",
    "region": "west",
-   "philosophers": 30,
-   "concepts": 28,
+   "philosophers": 31,
+   "concepts": 29,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -22"
+   "philosophers_slot": "8 上限，余 -23"
   },
   {
    "unit_id": "gr-ancient",
@@ -110,10 +110,10 @@
    "unit_id": "gr-contemp",
    "title": "当代哲学",
    "region": "west",
-   "philosophers": 11,
-   "concepts": 19,
+   "philosophers": 12,
+   "concepts": 20,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -3"
+   "philosophers_slot": "8 上限，余 -4"
   },
   {
    "unit_id": "gr-german",
@@ -4521,6 +4521,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-20c-lukacs",
+   "type": "philosopher",
+   "title": "卢卡奇",
+   "container": "gr-20c",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-20c-sense-reference",
    "type": "concept",
    "title": "意义与指称",
@@ -4826,6 +4837,17 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-20c-wuhua",
+   "type": "concept",
+   "title": "物化",
+   "container": "gr-20c",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -5665,6 +5687,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-contemp-berlin",
+   "type": "philosopher",
+   "title": "以赛亚·伯林",
+   "container": "gr-contemp",
+   "level": "L2",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-contemp-veil",
    "type": "concept",
    "title": "无知之幕",
@@ -5871,6 +5904,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-contemp-liangzhong-ziyou",
+   "type": "concept",
+   "title": "两种自由",
+   "container": "gr-contemp",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {

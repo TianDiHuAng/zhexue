@@ -1740,6 +1740,156 @@
      "note": "1968 年"
     }
    ]
+  },
+  {
+   "id": "gr-contemp-berlin",
+   "name": "以赛亚·伯林",
+   "latin": "Isaiah Berlin",
+   "birth_year": 1909,
+   "death_year": 1997,
+   "birth_display": "1909年",
+   "death_display": "1997年",
+   "birth_note": "据其传记与自述：生于里加（时属俄国），1919年随家迁英；1928年入牛津，后任牛津社会与政治理论教授、沃尔夫森学院首任院长。",
+   "death_note": "1997年卒于牛津。",
+   "era": "20世纪。伯林以“两种自由概念”（1958）与“价值多元论”著称：他区分消极自由（免于干涉）与积极自由（自我做主），并指出后者以“真我”之名的政治危险。其“多元论”主张诸善不可通约、不可兼得——这既反对相对主义，也反对以单一至善统摄一切的政治纲领。他又以思想史研究（俄国思想家、启蒙的批评者）支撑其论点。",
+   "school": "自由主义（价值多元论）",
+   "core_questions": [
+    "自由有几种含义？",
+    "诸善是否可通约？",
+    "以“解放”之名的强制如何可能？"
+   ],
+   "arguments": [
+    {
+     "claim": "两种自由不可化约",
+     "premises": [
+      "消极自由问“我被允许做什么”，积极自由问“谁是主人”。",
+      "二者的答案可以相互独立（一个自主的人可以被干涉，一个不自主的人可以不受干涉）。"
+     ],
+     "inference": "若二者可相互独立，则不能用其一化约另一；故“自由”一词的政治争论多源于二者的混淆——这一区分是其全部论证的枢纽。",
+     "conclusion": "两种自由不可化约（此说成为20世纪自由主义的坐标）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "价值多元论：诸善不可通约",
+     "premises": [
+      "诸善（自由、平等、仁慈、正义）各有其不可替代的价值。",
+      "而它们在某些情境下不可兼得。"
+     ],
+     "inference": "若诸善不可通约且不可兼得，则不存在一个“唯一正确的安排”；故政治的任务是**权衡与妥协**，而非实现单一至善。",
+     "conclusion": "多元论：不存在唯一至善，故须权衡（此说反对乌托邦式的整体方案）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《两种自由概念》",
+     "edition": "中译参《自由论》（胡传胜译，译林出版社）",
+     "note": "1958"
+    },
+    {
+     "title": "《自由四论》",
+     "edition": "英文 Oxford 版",
+     "note": "1969"
+    },
+    {
+     "title": "《俄国思想家》",
+     "edition": "中译参（译林出版社）",
+     "note": "1978"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "康德（其自由观的来源之一）",
+     "id": null,
+     "note": "积极自由的自律说有其康德渊源"
+    },
+    {
+     "name": "贡斯当（其先驱）",
+     "id": null,
+     "note": "“古代人的自由 vs 现代人的自由”是其区分的先声"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "当代自由主义（罗尔斯等）",
+     "id": "gr-contemp-rawls",
+     "note": "其多元论与罗尔斯的“理性多元论”对话"
+    },
+    {
+     "name": "社群主义（批评者）",
+     "id": null,
+     "note": "指其“无承担的自我的自由”过于形式"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "查尔斯·泰勒等社群主义者",
+     "view": "其“消极自由”被指为**原子式的**：只问干涉之有无，不问能力与意义的条件。",
+     "response": "伯林一系的回应是：若把“能力”并入自由，则自由将无从与其它善区分（自由会成为“一切善的总和”）；故须严格区分自由与自由的条件。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-berlin",
+      "sep-rawls"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "伯林主张消极自由高于积极自由",
+     "why": "他主张二者是**不可化约**的不同概念，并警惕积极自由的滥用；其多元论也承认积极自由有其价值。"
+    },
+    {
+     "claim": "“价值多元论”是相对主义",
+     "why": "他明确反对相对主义：诸善虽不可通约，却都是**客观的**人类价值；故多元论不等于“怎样都行”。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>伯林：两种自由与价值多元</text><defs><marker id='aIB' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>消极自由：免于干涉</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>积极自由：自我做主</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>二者不可化约</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故诸善须权衡</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aIB)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aIB)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "伯林：两种自由的区分与价值多元论（示意图）",
+   "sources": [
+    "sep-berlin",
+    "sep-kant",
+    "sep-rawls"
+   ],
+   "needs_verification": false,
+   "pending_notes": "",
+   "doctrine": {
+    "summary": "伯林以“两种自由”立说：消极自由问“我被允许做什么”，积极自由问“谁是主人”；二者不可相互化约，而积极自由以“真我”之名的政治危险须被警惕。其“价值多元论”进一步主张诸善不可通约、在某些情境下不可兼得，故政治的任务是权衡与妥协，而非实现单一至善。",
+    "system": [
+     {
+      "name": "消极自由",
+      "content": "免于他人干涉的范围；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "积极自由",
+      "content": "成为自己的主人；其“自我二分”含政治危险。"
+     },
+     {
+      "name": "价值多元论",
+      "content": "诸善不可通约且不可兼得，故须权衡；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "反相对主义",
+      "content": "诸善虽不可通约，却都是客观的人类价值；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "里加、彼得格勒与牛津（1909—1997）",
+      "change": "生于里加；1919 年迁英；1928 年入牛津；1950 年代转向思想史与政治理论；1958 年就职演说《两种自由概念》；1966—75 年任沃尔夫森学院院长；1997 年卒。"
+     }
+    ],
+    "reception": "《两种自由概念》成为20世纪自由主义的核心文本；“价值多元论”与罗尔斯的“理性多元论”构成当代政治哲学的双线；其思想史研究（俄国思想家、启蒙的批评者）亦影响深远。"
+   },
+   "works_detail": [
+    {
+     "title": "《两种自由概念》",
+     "structure": "一篇长文：分消极自由与积极自由，论“自我二分”如何导向专制，末以多元论作结。",
+     "core_thesis": "两种自由不可化约；这是该书的核心命题。",
+     "editions": "中译参《自由论》（译林出版社）",
+     "note": "1958 年"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -2407,6 +2557,44 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-contemp-liangzhong-ziyou",
+   "term": "两种自由",
+   "term_latin": "two concepts of liberty",
+   "definition": "伯林的区分：消极自由是“免于他人干涉的范围”（我被允许做什么），积极自由是“成为自己的主人”（谁是主人）。二者的答案可以相互独立，故不可化约；而积极自由以“真我”之名的政治危险须被警惕。",
+   "usages": [
+    {
+     "name": "伯林",
+     "id": "gr-contemp-berlin",
+     "usage": "以两种自由的不可化约立说，并警告积极自由的滥用。"
+    },
+    {
+     "name": "罗尔斯（其承）",
+     "id": "gr-contemp-rawls",
+     "usage": "以“基本自由”的优先性承其消极自由的一面。"
+    },
+    {
+     "name": "社群主义（批评者）",
+     "usage": "指其消极自由过于形式，不问能力与意义的条件。"
+    }
+   ],
+   "related": [
+    "gr-contemp-public-reason-idea",
+    "gr-contemp-overlapping-consensus"
+   ],
+   "example": {
+    "text": "这一区分的政治意义在于：它把“自由”的争论从“多少”转为“哪一种”。故当一方说“我们给了你真正的自由”，另一方可以问：你说的是哪一种？——这正是伯林想要的追问方式。",
+    "figure": "伯林",
+    "locator": "《两种自由概念》"
+   },
+   "sources": [
+    "sep-berlin",
+    "sep-kant",
+    "sep-rawls"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“两种自由”的区分有前驱（贡斯当的“古代人的自由 vs 现代人的自由”）；且伯林对积极自由的批评被指为过于简化，本页并述其说与批评。"
   }
  ],
  "debates": [
