@@ -15766,6 +15766,63 @@
    "sort_year": 1700
   },
   {
+   "id": "work-yanyuan-ji",
+   "title": "《颜元集》",
+   "title_original": "顏元集（存學編、存性編、四存編等）",
+   "tradition": "china",
+   "date_display": "清（颜元 1635—1704）；今本由《四存编》等合编",
+   "structure": "含《存学编》《存性编》《存治编》《存人编》（合称《四存编》），以及《言行录》等。",
+   "core_arguments": [
+    "“习行”：学问须见于行事（“只向习行上做工夫”）",
+    "“存学”：反对静坐与诵读的空疏，主张六艺实学",
+    "“存性”：性即气质之性，反对“天命之性／气质之性”的二分"
+   ],
+   "key_points": [
+    {
+     "locator": "《存学编》",
+     "point": "习行与实学"
+    },
+    {
+     "locator": "《存性编》",
+     "point": "气质之性即性"
+    },
+    {
+     "locator": "《存治编》",
+     "point": "井田与治道"
+    },
+    {
+     "locator": "《存人编》",
+     "point": "对释道的批评"
+    }
+   ],
+   "editions": [
+    "中华书局《颜元集》（王星贤等点校）"
+   ],
+   "related_people": [
+    "cn-qingmod-yan-yuan",
+    "cn-songming-zhu-xi",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "颜元主张“读书无用”",
+     "why": "他反对的是**只读书而不习行**（“书本之学”），并非反对读书本身；其主张是“以六艺为学”，使知见于行。"
+    },
+    {
+     "claim": "其“存性”说与孟子相同",
+     "why": "他以“气质之性”即性，反对宋儒的“天命之性／气质之性”二分；故其与孟子“性善”有亲缘，但与宋儒的框架正相反。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《颜元集》的编排（四存编与言行录）与各篇年代须核中华书局点校本；其“习行”与王阳明“知行合一”的异同亦须分辨。",
+   "sort_year": 1700
+  },
+  {
    "id": "work-treatise-berkeley",
    "title": "《人类知识原理》",
    "title_original": "A Treatise Concerning the Principles of Human Knowledge",
@@ -17400,6 +17457,63 @@
    "sort_year": 1790
   },
   {
+   "id": "work-shuxue",
+   "title": "《述学》",
+   "title_original": "述學",
+   "tradition": "china",
+   "date_display": "清（汪中 1744—1794）",
+   "structure": "內篇、外篇、补遗、别录（通行本）：含考证、书信、传记与学术评论。",
+   "core_arguments": [
+    "“实事求是”的考据：以证据定是非，不以师说定从违",
+    "对“墨学”的表彰：以为墨与儒同为“救世”之学",
+    "对“妇人无主”等礼俗的考订：以史证礼"
+   ],
+   "key_points": [
+    {
+     "locator": "内篇",
+     "point": "考据与礼制"
+    },
+    {
+     "locator": "〈墨子序〉",
+     "point": "表彰墨学"
+    },
+    {
+     "locator": "〈述学〉诸篇",
+     "point": "学术评论"
+    },
+    {
+     "locator": "别录",
+     "point": "传记与杂考"
+    }
+   ],
+   "editions": [
+    "《汪中集》（田汉云点校，广陵书社）；《述学》各本"
+   ],
+   "related_people": [
+    "cn-qingmod-ruan-yuan",
+    "cn-qingmod-dai-zhen",
+    "cn-xianqin-mozi"
+   ],
+   "misreadings": [
+    {
+     "claim": "汪中“表彰墨学”即反对儒学",
+     "why": "其〈墨子序〉以“救世”论墨，意在纠正“以墨为异端”的成见；他仍是儒者，只是主张学术的**宽容**。"
+    },
+    {
+     "claim": "《述学》是纯粹的考据集",
+     "why": "其考据常带**评议**（如对礼俗、对学术门户），故兼有思想史的价值。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《述学》的版本（内篇/外篇/补遗/别录）与汪中〈墨子序〉的原文须核《汪中集》点校本；其“表彰墨学”的解释须分辨。",
+   "sort_year": 1790
+  },
+  {
    "id": "work-rights-of-man",
    "title": "《人权论》",
    "title_original": "Rights of Man",
@@ -17794,6 +17908,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1807
+  },
+  {
+   "id": "work-diaogu-ji",
+   "title": "《雕菰集》",
+   "title_original": "雕菰集",
+   "tradition": "china",
+   "date_display": "清（焦循 1763—1820）；其诗文集",
+   "structure": "二十四卷：含文、诗、词、赋与书信杂著；其中有论易学、算学与戏曲的文字。",
+   "core_arguments": [
+    "“以实测之言”治经：算学与考据并举",
+    "“性灵”与“学问”不二：诗文须有实得",
+    "对“理”的重新界定：理在事中，不在空言"
+   ],
+   "key_points": [
+    {
+     "locator": "文集诸卷",
+     "point": "治学的方法"
+    },
+    {
+     "locator": "论易诸篇",
+     "point": "易学的“旁通”"
+    },
+    {
+     "locator": "书信",
+     "point": "与同时学者的论辩"
+    },
+    {
+     "locator": "论曲",
+     "point": "戏曲与“本色”"
+    }
+   ],
+   "editions": [
+    "《焦氏丛书》本；中华书局《焦循集》（若有）"
+   ],
+   "related_people": [
+    "cn-qingmod-jiao-xun",
+    "cn-qingmod-dai-zhen",
+    "cn-qingmod-ruan-yuan"
+   ],
+   "misreadings": [
+    {
+     "claim": "焦循只是“经学家”",
+     "why": "他兼治算学、易学与戏曲，且其“实测”的方法有方法论的意义；故其学跨域而非限于经。"
+    },
+    {
+     "claim": "其易学只是象数的推演",
+     "why": "他以“旁通”“相错”说明卦爻的关系，其目的是**通其义**而非玩其数；故与术数式的象数不同。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "ct-mengzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《雕菰集》的卷数（通行24卷）与所收篇目须核《焦氏丛书》本；其易学与算学的具体内容须核专门研究。",
+   "sort_year": 1810
   },
   {
    "id": "work-wissenschaft-logik",

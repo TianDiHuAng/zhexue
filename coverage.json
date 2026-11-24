@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1247,
+  "entries": 1253,
   "by_level": {
    "L2": 792,
-   "L1": 455
+   "L1": 461
   },
   "doctrine": {
    "total": 266,
    "detail": 266,
    "auto": 0
   },
-  "needs_verification": 455,
+  "needs_verification": 461,
   "sources": 409,
   "sources_verified": 409
  },
@@ -39,7 +39,7 @@
    "title": "清代与近代转型",
    "region": "china",
    "philosophers": 19,
-   "concepts": 16,
+   "concepts": 19,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -11"
   },
@@ -1345,6 +1345,39 @@
    "id": "cn-qingmod-shishi-qiushi",
    "type": "concept",
    "title": "实事求是",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-xizhai",
+   "type": "concept",
+   "title": "习斋之学（习行）",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-kaoju-fangfa",
+   "type": "concept",
+   "title": "考据方法（由字通词，由词通道）",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-gongyang-xue",
+   "type": "concept",
+   "title": "公羊学（清代复兴）",
    "container": "cn-qingmod",
    "level": "L1",
    "sources": 3,
@@ -11473,6 +11506,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-yanyuan-ji",
+   "type": "work",
+   "title": "《颜元集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-treatise-berkeley",
    "type": "work",
    "title": "《人类知识原理》",
@@ -11792,6 +11836,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-shuxue",
+   "type": "work",
+   "title": "《述学》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-rights-of-man",
    "type": "work",
    "title": "《人权论》",
@@ -11866,6 +11921,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-diaogu-ji",
+   "type": "work",
+   "title": "《雕菰集》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {

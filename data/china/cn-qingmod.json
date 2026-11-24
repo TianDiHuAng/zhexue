@@ -3595,6 +3595,122 @@
    ],
    "needs_verification": true,
    "pending_notes": "“实事求是”的语源（《汉书·河间献王传》）与其在清代的用法、以及现代语义，三者不完全重合；本页分述其层次。"
+  },
+  {
+   "id": "cn-qingmod-xizhai",
+   "term": "习斋之学（习行）",
+   "term_latin": "the learning of practice",
+   "definition": "颜元的为学纲领：道不在书册而在**习行**（“吾辈只向习行上做工夫”）。故他反对静坐与诵读的空疏，主张以“六艺”（礼乐射御书数）与兵农水利为实学。",
+   "usages": [
+    {
+     "name": "颜元",
+     "id": "cn-qingmod-yan-yuan",
+     "usage": "“只向习行上做工夫”：学问须见于行事。"
+    },
+    {
+     "name": "朱熹（其批评对象）",
+     "usage": "以“读书穷理”与“静坐”为工夫。"
+    },
+    {
+     "name": "王夫之（其近）",
+     "id": "cn-qingmod-wang-fuzhi",
+     "usage": "同主“实有”与“行”的优先，但进路不同。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-jingshi-zhizhiyong",
+    "cn-qingmod-qibenlun"
+   ],
+   "example": {
+    "text": "“习行”的要害是把**知识的标准**移到行动上：若知而不行，则其知不算知（这与王阳明的“知行合一”形似而不同 —— 阳明重在“知”的真伪，颜元重在“学”的内容）。故其批判的对象是“书本之学”，不是“心”。",
+    "figure": "颜元",
+    "locator": "《存学编》"
+   },
+   "sources": [
+    "ws-mingru-xuean",
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "颜元“习行”与王阳明“知行合一”的异同须分辨；本页依《存学编》与清代学术研究概述，具体文本须核《颜元集》。"
+  },
+  {
+   "id": "cn-qingmod-kaoju-fangfa",
+   "term": "考据方法（由字通词，由词通道）",
+   "term_latin": "philological method: from characters to terms, from terms to meaning",
+   "definition": "乾嘉考据的方法纲领：戴震概括为“由字以通其词，由词以通其道”。故治经须先正文字、明训诂、审音韵，再求义理 —— 这与宋儒“先立其大”的路径相反。",
+   "usages": [
+    {
+     "name": "戴震",
+     "id": "cn-qingmod-dai-zhen",
+     "usage": "“由字通词，由词通道”：方法即义理的门径。"
+    },
+    {
+     "name": "阮元",
+     "id": "cn-qingmod-ruan-yuan",
+     "usage": "以编纂与校勘实践其法；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "章学诚（其批评者）",
+     "id": "cn-qingmod-zhang-xuecheng",
+     "usage": "讥其“逐于名物而忘其大义”；这一用法须与相邻概念分辨。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-kaoju",
+    "cn-qingmod-shishi-qiushi"
+   ],
+   "example": {
+    "text": "“由字通词，由词通道”的方法意义在于：它把**义理的争论**转化为**可检验的文本工作**。故乾嘉之学不是“逃避思想”，而是以另一种方式做思想 —— 其代价是：方法愈精，则“道”愈易被化约为“词”。",
+    "figure": "戴震",
+    "locator": "《与是仲明论学书》"
+   },
+   "sources": [
+    "ws-mingru-xuean",
+    "ct-mengzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“由字通词，由词通道”的出处（《与是仲明论学书》）与其在乾嘉学术中的地位须核；本页依戴震文集与相关研究概述。"
+  },
+  {
+   "id": "cn-qingmod-gongyang-xue",
+   "term": "公羊学（清代复兴）",
+   "term_latin": "the New Text Gongyang revival",
+   "definition": "清代今文经学的复兴：庄存与开其端，刘逢禄、龚自珍、魏源承之，至康有为而大。其核心是以《公羊传》的“微言大义”（尤其三世说、改制说）重解经学，并由此引出变法的主张。",
+   "usages": [
+    {
+     "name": "庄存与",
+     "id": "cn-qingmod-zhuang-cunyu",
+     "usage": "以《春秋正辞》开清代公羊学；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "龚自珍与魏源",
+     "id": "cn-qingmod-gong-zizhen",
+     "usage": "以公羊义论时政与变法；这一用法须与相邻概念分辨。"
+    },
+    {
+     "name": "康有为",
+     "id": "cn-qingmod-kang-youwei",
+     "usage": "以“孔子改制”与三世说为变法立据。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-gongyang-sanshi",
+    "cn-qingmod-jingshi-zhizhiyong"
+   ],
+   "example": {
+    "text": "清代公羊学的关键转折是：它把“经学”重新变成**政治的论说** —— 三世说从“历史的阶段”变为“变革的许可”。故其学术与政治不可分；而这一转向的代价是：经义易被时势的需要所牵引。",
+    "figure": "庄存与、康有为",
+    "locator": "《春秋正辞》；《孔子改制考》"
+   },
+   "sources": [
+    "ws-mingru-xuean",
+    "ct-mengzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "清代公羊学的谱系（庄存与—刘逢禄—龚魏—康）与其与汉代公羊学的异同须核；本页依相关研究概述。"
   }
  ],
  "debates": [
