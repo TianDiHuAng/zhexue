@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1792,
+  "entries": 1796,
   "by_level": {
    "L2": 779,
-   "L1": 1013
+   "L1": 1017
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 1013,
+  "needs_verification": 1017,
   "sources": 424,
   "sources_verified": 424
  },
@@ -15576,6 +15576,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-logik-hegel",
+   "type": "work",
+   "title": "《逻辑学》（黑格尔）",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-wissenschaft-logik",
    "type": "work",
    "title": "《大逻辑》",
@@ -15884,6 +15895,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-social-statics",
+   "type": "work",
+   "title": "《社会静力学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-walden",
    "type": "work",
    "title": "《瓦尔登湖》",
@@ -16001,6 +16023,17 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-ethische-methode",
+   "type": "work",
+   "title": "《伦理学方法》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -19385,6 +19418,17 @@
    "id": "cmp-ziran-faze",
    "type": "comparative",
    "title": "“自然法则”与“道法自然”：法从哪里来？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-yousheng",
+   "type": "comparative",
+   "title": "“有—无—变”与“有无相生”：开端如何开始？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

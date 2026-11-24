@@ -364,3 +364,9 @@ D66 说"链接通 ≠ 来源对"。第254轮把它拆成两部分并做成工具
 **《笛卡尔哲学原理》**（斯宾诺莎用几何方法演绎笛卡尔之作），拉丁名相近而书不同。
 处置：笛卡尔的书改用 `work-principia-descartes`，两书分立；凡近代拉丁题名的著作，
 建 id 前须核"同名者是否他书"（不只核存在性），并在页内注明两书之别。
+
+## D72（第 295 轮）欠账要可清算：`debtcheck.py` + `DEBT.md` + 还账写法
+此前 `needs_verification` 只是一个数字，无从清算。新增 `tools/debtcheck.py` 生成 `DEBT.md`（按单元分组），
+并定还账写法：核过一项即在 `pending_notes` 记「已核（第 N 轮，据 <source_id>）：<内容>」；
+全部核清才把 `needs_verification` 置 `false`。**核了一半不许记成全核。**
+另记：`gen_state` 的 needs_verification 计数与 `debtcheck` 的口径不同（前者含其他计数），两个数都须看，不许混说。

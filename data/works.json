@@ -24368,7 +24368,7 @@
     "sep-kant"
    ],
    "needs_verification": true,
-   "pending_notes": "《原理》三卷与 1687／1713／1726 三版须核；“hypotheses non fingo”见于第三版总释，本页所引为通译，原文位置须再核。",
+   "pending_notes": "《原理》三卷与 1687／1713／1726 三版须核；“hypotheses non fingo”见于第三版总释，本页所引为通译，原文位置须再核。 已核（第 295 轮，据 sep-newton）：三卷结构与 1687／1713／1726 三版（SEP 载：1687 伦敦初版、1713 第二版、1726 第三版；三卷、192 条推出命题）；“hypotheses non fingo”一语 SEP 未标其章节位置，仍待核。 已核（第 295 轮，据 sep-newton）：三卷结构与 1687／1713／1726 三版（SEP 载：1687 伦敦初版、1713 第二版、1726 第三版；三卷、192 条推出命题）；“hypotheses non fingo”一语 SEP 未标其章节位置，仍待核。 已核（第 295 轮，据 sep-newton）：三卷结构与 1687／1713／1726 三版（SEP 载：1687 伦敦初版、1713 第二版、1726 第三版；三卷、192 条推出命题）；“hypotheses non fingo”一语 SEP 未标其章节位置，仍待核。",
    "sort_year": 1687
   },
   {
@@ -25396,7 +25396,7 @@
     "sep-kant"
    ],
    "needs_verification": true,
-   "pending_notes": "《光学》三卷与各版“疑问”的数目（1704／1717／1730 不同）须核；微粒说与波动说之争的结局须并述。中译版次待考。",
+   "pending_notes": "《光学》三卷与各版“疑问”的数目（1704／1717／1730 不同）须核；微粒说与波动说之争的结局须并述。中译版次待考。 已核（第 295 轮，据 sep-newton）：1704 英文初版、1706 拉丁版、1717 第二英文版、1730 第四版（遗著）；“疑问”随版本增补（SEP 载 1717 版“containing important Queries … beyond those in its predecessor”）；微粒说／波动说之争 SEP 明载牛顿在世时“未被现象决定”，故本页“并述”之说成立。 已核（第 295 轮，据 sep-newton）：1704 英文初版、1706 拉丁版、1717 第二英文版、1730 第四版（遗著）；“疑问”随版本增补（SEP 载 1717 版“containing important Queries … beyond those in its predecessor”）；微粒说／波动说之争 SEP 明载牛顿在世时“未被现象决定”，故本页“并述”之说成立。 已核（第 295 轮，据 sep-newton）：1704 英文初版、1706 拉丁版、1717 第二英文版、1730 第四版（遗著）；“疑问”随版本增补（SEP 载 1717 版“containing important Queries … beyond those in its predecessor”）；微粒说／波动说之争 SEP 明载牛顿在世时“未被现象决定”，故本页“并述”之说成立。",
    "sort_year": 1704
   },
   {
@@ -30914,6 +30914,63 @@
    "sort_year": 1812
   },
   {
+   "id": "work-logik-hegel",
+   "title": "《逻辑学》（黑格尔）",
+   "title_original": "Wissenschaft der Logik（“大逻辑”）",
+   "tradition": "west",
+   "date_display": "1812—1816（黑格尔；与《小逻辑》别）",
+   "structure": "两部（存在论、本质论＋概念论）：以范畴的自我展开为体，凡三卷。",
+   "core_arguments": [
+    "逻辑是“**真理的王国**”：范畴的展开即存在的规定之展开",
+    "以“**辩证法**”为法：每一规定在其否定中过渡（有—无—变）",
+    "故“**概念**”不是主观的形式，而是事物自身的运动"
+   ],
+   "key_points": [
+    {
+     "locator": "存在论",
+     "point": "有、无、变"
+    },
+    {
+     "locator": "本质论",
+     "point": "反思与根据"
+    },
+    {
+     "locator": "概念论",
+     "point": "概念、判断、理念"
+    },
+    {
+     "locator": "全书",
+     "point": "以辩证运动为体"
+    }
+   ],
+   "editions": [
+    "德文（Gesammelte Werke 11／12；Meiner 版）；中译参《逻辑学》（杨一之译）"
+   ],
+   "related_people": [
+    "gr-german-hegel",
+    "gr-german-kant",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "其逻辑是“思维的科学，与实在无关”",
+     "why": "其逻辑以**存在的规定**为对象（故为“本体—逻辑”），故其说不把逻辑限于主观思维；此正是其与康德之别。"
+    },
+    {
+     "claim": "其“辩证法”是“正反合的公式”",
+     "why": "其辩证运动是**范畴自身的内在过渡**（非外贴的三段式）；“正—反—合”之名为后人所加，其书不用此术语。"
+    }
+   ],
+   "sources": [
+    "sep-hegel",
+    "sep-kant",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《逻辑学》（大逻辑）三卷的编次与 1812—1816 初版须核 GW 11／12 与杨一之译本；须与《小逻辑》（《哲学全书》第一部分的“逻辑学”）分辨，勿混。",
+   "sort_year": 1812
+  },
+  {
    "id": "work-wissenschaft-logik",
    "title": "《大逻辑》",
    "title_original": "Wissenschaft der Logik",
@@ -32500,6 +32557,59 @@
    "sort_year": 1851
   },
   {
+   "id": "work-social-statics",
+   "title": "《社会静力学》",
+   "title_original": "The Principles of Ethics",
+   "tradition": "west",
+   "date_display": "1851（斯宾塞）",
+   "structure": "一部（凡数章）：以“同等自由”为正义的原理，论社会的静态条件与改革的限度。",
+   "core_arguments": [
+    "以“**同等自由**”（equal freedom）为正义的原理：各人的自由以其不侵他人自由为限",
+    "故社会立法应以**不侵自由**为限：过度的干预有害于适应",
+    "此说后为其《伦理学原理》（1892—93）的进化伦理学所承"
+   ],
+   "key_points": [
+    {
+     "locator": "论正义",
+     "point": "同等自由"
+    },
+    {
+     "locator": "论改革",
+     "point": "干预的限度"
+    },
+    {
+     "locator": "全书",
+     "point": "以自由说正义"
+    }
+   ],
+   "editions": [
+    "英文本（1851 初版；Williams & Norgate 全集本）；中译少见"
+   ],
+   "related_people": [
+    "gr-19c-spencer",
+    "gr-19c-mill",
+    "gr-modern-hobbes"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“同等自由”是“放任不管”",
+     "why": "其说以**不侵他人自由**为干预的界限（故仍有公共事务的职分），故其为自由的划界，非全然的放任；然其说确被后世的社会达尔文主义所借，须与之分辨。"
+    },
+    {
+     "claim": "其书是“社会学的著作，与哲学无关”",
+     "why": "其书以**正义的原理**（同等自由）为论旨，故其为政治哲学的著作，非社会学的描述。"
+    }
+   ],
+   "sources": [
+    "sep-spencer",
+    "sep-mill",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《社会静力学》1851 年初版与 Williams & Norgate 全集本须核；“同等自由”（equal freedom）的原文亦须核。其《伦理学原理》（1892—93）因题名与摩尔书相重，本页未另立，只在正文提及。中译少。",
+   "sort_year": 1851
+  },
+  {
    "id": "work-walden",
    "title": "《瓦尔登湖》",
    "title_original": "Walden; or, Life in the Woods",
@@ -33116,6 +33226,63 @@
    "needs_verification": true,
    "pending_notes": "本书为未完成手稿，编辑本的编排（1925 年德俄本与后来的 MEGA 本）差异显著；恩格斯是否主张“自然本身有辩证法”是西方马克思主义与苏联教科书体系争论的核心。",
    "sort_year": 1873
+  },
+  {
+   "id": "work-ethische-methode",
+   "title": "《伦理学方法》",
+   "title_original": "The Methods of Ethics",
+   "tradition": "west",
+   "date_display": "1874（西季威克；后多次修订）",
+   "structure": "四部（凡十四编）：论方法的种类、利己主义、直觉主义与功利主义，末以方法的调和作结。",
+   "core_arguments": [
+    "道德哲学的各种方法（利己的、直觉的、功利主义的）皆有**共同的理性根据**",
+    "“**实践的理性**”要求行为的**一致**：同一情境须给同一判断",
+    "由此“**直觉主义**”与“**功利主义**”在一个共同的前提下可相调和"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "方法的种类"
+    },
+    {
+     "locator": "第二部",
+     "point": "利己主义"
+    },
+    {
+     "locator": "第三部",
+     "point": "直觉主义"
+    },
+    {
+     "locator": "第四部",
+     "point": "功利主义与调和"
+    }
+   ],
+   "editions": [
+    "英文本（Macmillan, 1874；第七版 1907 通行）；中译参《伦理学方法》（版次待核）"
+   ],
+   "related_people": [
+    "gr-19c-mill",
+    "gr-19c-bentham",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“功利主义的一种”",
+     "why": "其书**比较诸方法而究其根据**（并指出功利主义与直觉主义的共同前提），故其为元伦理的检讨，非某一派的辩护。"
+    },
+    {
+     "claim": "其“方法的调和”是“折中”",
+     "why": "其调和是**在实践理性的连贯性要求下**的统一（非各取一半），故其为理性的论证，非折中。"
+    }
+   ],
+   "sources": [
+    "sep-bradley",
+    "sep-mill",
+    "sep-bentham"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《伦理学方法》的版本（1874 初版—第七版 1907）与四部的编次须核 Macmillan 版；中译版次待考。此页所据以 sep-mill／sep-bentham 的语境性论述为多，**属语境性引用而非专门研究**。",
+   "sort_year": 1874
   },
   {
    "id": "work-anti-duhring",
