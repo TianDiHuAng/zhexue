@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1428,
+  "entries": 1433,
   "by_level": {
    "L2": 781,
-   "L1": 647
+   "L1": 652
   },
   "doctrine": {
    "total": 284,
    "detail": 284,
    "auto": 0
   },
-  "needs_verification": 647,
+  "needs_verification": 652,
   "sources": 418,
   "sources_verified": 418
  },
@@ -39,7 +39,7 @@
    "title": "清代与近代转型",
    "region": "china",
    "philosophers": 22,
-   "concepts": 22,
+   "concepts": 23,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -14"
   },
@@ -1697,6 +1697,17 @@
    "id": "cn-qingmod-hanxue-songxue-zhi",
    "type": "concept",
    "title": "汉学宋学之争",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-qingmod-puxi-yishi",
+   "type": "concept",
+   "title": "谱系意识",
    "container": "cn-qingmod",
    "level": "L1",
    "sources": 3,
@@ -12452,6 +12463,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-shengxue-zongzhuan",
+   "type": "work",
+   "title": "《圣学宗传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-novum-organum",
    "type": "work",
    "title": "《新工具》",
@@ -12488,6 +12510,17 @@
    "id": "work-mingli-tan",
    "type": "work",
    "title": "《名理探》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-renpu",
+   "type": "work",
+   "title": "《人谱》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -12664,6 +12697,17 @@
    "id": "work-siwenlu",
    "type": "work",
    "title": "《思问录》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-lixue-zongzhuan",
+   "type": "work",
+   "title": "《理学宗传》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -15381,6 +15425,17 @@
    "id": "cmp-yinshi",
    "type": "comparative",
    "title": "“淫诗说”与“净化说”：诗中的不正当之情",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-puxi",
+   "type": "comparative",
+   "title": "谱系与“哲学史”：谁有资格入史？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

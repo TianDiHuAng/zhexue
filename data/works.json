@@ -17936,6 +17936,63 @@
    "sort_year": 1605
   },
   {
+   "id": "work-shengxue-zongzhuan",
+   "title": "《圣学宗传》",
+   "title_original": "聖學宗傳",
+   "tradition": "china",
+   "date_display": "明末（周汝登，1547—1629）",
+   "structure": "十八卷：自上古至明代，逐一录道学家之言行与师承，卷末附评；以“心”为纲而不以文字为断。",
+   "core_arguments": [
+    "以“宗传”立谱系：圣学有其传，非一人之私",
+    "以“心”为纲：所传者是“心”，不徒在文字",
+    "容纳多系：不以程朱一系为限，兼收陆王"
+   ],
+   "key_points": [
+    {
+     "locator": "上古—宋",
+     "point": "圣学的源流"
+    },
+    {
+     "locator": "宋—元",
+     "point": "程朱与陆学并录"
+    },
+    {
+     "locator": "明",
+     "point": "阳明一系的地位"
+    },
+    {
+     "locator": "全书",
+     "point": "以心为纲的谱系"
+    }
+   ],
+   "editions": [
+    "《四库全书存目丛书》本；明刻本"
+   ],
+   "related_people": [
+    "cn-songming-luo-qinshun",
+    "cn-songming-wang-yangming",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“学术史”",
+     "why": "其体是**传记与言行录**，其目的是立“圣学”的谱系（谁传谁），故其为“谱系的建构”；与后世“学案”的编纂旨趣不同。"
+    },
+    {
+     "claim": "其兼收陆王是“和稀泥”",
+     "why": "其立场是**以心为纲**：凡得圣学之“心”者皆可入，故兼收是标准使然，不是调和。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "ws-taijitushuo",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《圣学宗传》的卷数与所录人数须核明刻本与《四库全书存目丛书》本；其与《理学宗传》的关系（后者为孙奇逢所撰）亦须分辨。",
+   "sort_year": 1610
+  },
+  {
    "id": "work-novum-organum",
    "title": "《新工具》",
    "title_original": "Novum Organum Scientiarum",
@@ -18163,6 +18220,63 @@
    "needs_verification": true,
    "pending_notes": "《名理探》的译述过程（傅汎际与李之藻的合作）、原译本所据的科英布拉本版本、以及“五公称”“十伦府”等译名的定名过程须核《明清间耶稣会士译著提要》与相关研究。",
    "sort_year": 1631
+  },
+  {
+   "id": "work-renpu",
+   "title": "《人谱》",
+   "title_original": "人譜",
+   "tradition": "china",
+   "date_display": "明末（刘宗周，1578—1645）",
+   "structure": "正篇一卷、续篇二卷：以“人之所以为人”为纲，列“谱”以记过、立“纪过格”以自省，附《人谱类记》。",
+   "core_arguments": [
+    "“人”有定谱：人之为人有其当然之则（“人极”）",
+    "“纪过格”：以条目自查其过（类似功过格而归于“慎独”）",
+    "“诚意”与“慎独”为纲：过之根在意，故须于意上省察"
+   ],
+   "key_points": [
+    {
+     "locator": "正篇",
+     "point": "人极与谱系"
+    },
+    {
+     "locator": "续篇",
+     "point": "纪过格"
+    },
+    {
+     "locator": "《人谱类记》",
+     "point": "事例与证验"
+    },
+    {
+     "locator": "全书",
+     "point": "以慎独为纲"
+    }
+   ],
+   "editions": [
+    "中华书局《刘宗周全集》；《四库全书》本"
+   ],
+   "related_people": [
+    "cn-songming-liu-zongzhou",
+    "cn-songming-wang-yangming",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《人谱》是“功过格”的一种",
+     "why": "它借功过格的形式，然其纲在**慎独与诚意**（意上的省察），不以“计功计过”为究竟；故其性质是“以德性为纲的自省之书”，与民间的功利性功过格不同。"
+    },
+    {
+     "claim": "它是“道德教条”的汇编",
+     "why": "其“谱”有**形而上学的根据**（人之所以为人者），且其“纪过”须在“意”上做工夫；故其是工夫论的文本，不只是条目。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "ct-mengzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《人谱》的篇目结构（正篇、续篇、类记）须核《刘宗周全集》；其“纪过格”与民间功过格的关系亦须分辨。",
+   "sort_year": 1634
   },
   {
    "id": "work-discourse-method",
@@ -19066,6 +19180,63 @@
    "needs_verification": true,
    "pending_notes": "《思问录》内外篇的成书与其“太虚即气”“天下惟器”的原文须核中华书局点校本；其与《张子正蒙注》的关系亦须分辨。",
    "sort_year": 1665
+  },
+  {
+   "id": "work-lixue-zongzhuan",
+   "title": "《理学宗传》",
+   "title_original": "理學宗傳",
+   "tradition": "china",
+   "date_display": "清初（孙奇逢，1584—1675）",
+   "structure": "二十六卷：以周敦颐至明末诸儒为“正传”，另立“补遗”“附录”以收诸家。",
+   "core_arguments": [
+    "以“宗传”立正统：理学有其“宗”，非人人可入",
+    "以“正传”与“补遗”分层：区分正统与旁支",
+    "调和程朱陆王：以“慎独”与“躬行”为共同的检验"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—十一",
+     "point": "宋儒正传"
+    },
+    {
+     "locator": "卷十二—二十二",
+     "point": "明儒正传"
+    },
+    {
+     "locator": "补遗",
+     "point": "边缘人物"
+    },
+    {
+     "locator": "全书",
+     "point": "以正交分层的谱系"
+    }
+   ],
+   "editions": [
+    "中华书局《理学宗传》；《四库全书》本"
+   ],
+   "related_people": [
+    "cn-qingmod-wang-fuzhi",
+    "cn-songming-zhu-xi",
+    "cn-songming-wang-yangming"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“客观的理学史”",
+     "why": "其“正传”与“补遗”的分层本身即一种**评价**（谁是正统）；故其为“正统的建构”，须与史实相参。"
+    },
+    {
+     "claim": "孙奇逢是“程朱派”，故排陆王",
+     "why": "其立场是**调和**：以“慎独”“躬行”为共同的检验，故程朱陆王并录；这正是清初“折衷”学风的表现。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "ws-taijitushuo",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《理学宗传》的卷数与“正传／补遗”的分层须核中华书局本；孙奇逢的折衷立场与其对陆王的处理亦须分辨。",
+   "sort_year": 1666
   },
   {
    "id": "work-pensees",

@@ -4264,6 +4264,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "汉宋之争的过程（四库馆、《汉学商兑》）须核清代学术史研究；本页取其纲领义，具体人物与著作须逐条核。"
+  },
+  {
+   "id": "cn-qingmod-puxi-yishi",
+   "term": "谱系意识",
+   "term_latin": "genealogical consciousness",
+   "definition": "宋明至清初的一种学术自觉：以“宗传”“渊源”“学案”的体例为学派立谱系（谁传谁、谁是正统）。它既是学术史的编纂方式，也是一种**正当性的分配**：入谱者得正统之名，不入者则为旁支或异端。",
+   "usages": [
+    {
+     "name": "朱熹（其先例）",
+     "usage": "《伊洛渊源录》以“渊源”立道学谱系。"
+    },
+    {
+     "name": "周汝登（其明例）",
+     "usage": "《圣学宗传》以“心”为纲兼收诸系。"
+    },
+    {
+     "name": "黄宗羲（其集成）",
+     "id": "cn-qingmod-huang-zongxi",
+     "usage": "《明儒学案》以“学案”体分派别，最称完备。"
+    }
+   ],
+   "related": [
+    "cn-qingmod-kaoju",
+    "cn-qingmod-hanxue-songxue-zhi"
+   ],
+   "example": {
+    "text": "“谱系意识”的要害是它把**学术史**变成了**正当性的分配**：谁入正传、谁入补遗、谁被排除，皆有其标准与后果。故读这类书，须同时读它的“体例”（入选的标准）与它的“遗漏”（被排除者）—— 后者往往比前者更能说明问题。",
+    "figure": "黄宗羲",
+    "locator": "《明儒学案》"
+   },
+   "sources": [
+    "ws-mingru-xuean",
+    "ws-zhuzi-yulei",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“谱系意识”的体例（渊源录、宗传、学案）须核各家原书；本页取其学术史的方法义，具体谱系须逐一核。"
   }
  ],
  "debates": [
