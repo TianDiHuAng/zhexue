@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1620,
+  "entries": 1624,
   "by_level": {
    "L2": 780,
-   "L1": 840
+   "L1": 844
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 840,
+  "needs_verification": 844,
   "sources": 419,
   "sources_verified": 419
  },
@@ -9592,12 +9592,45 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-thales-testimonia",
+   "type": "work",
+   "title": "《泰勒斯残篇与见证》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-anaximander-fragments",
    "type": "work",
    "title": "《论自然》（阿那克西曼德残篇）",
    "container": "west",
    "level": "L1",
-   "sources": 2,
+   "sources": 3,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-anaximenes-fragments",
+   "type": "work",
+   "title": "《阿那克西美尼残篇》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-xenophanes-fragments",
+   "type": "work",
+   "title": "《色诺芬尼残篇》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
    "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-24"
@@ -9619,8 +9652,8 @@
    "title": "《残篇》（赫拉克利特）",
    "container": "west",
    "level": "L1",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -9630,8 +9663,8 @@
    "title": "《论自然》（巴门尼德）",
    "container": "west",
    "level": "L1",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -9641,8 +9674,8 @@
    "title": "《阿那克萨戈拉残篇》",
    "container": "west",
    "level": "L1",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -9652,8 +9685,8 @@
    "title": "《芝诺残篇》",
    "container": "west",
    "level": "L1",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -9663,8 +9696,8 @@
    "title": "《恩培多克勒残篇》",
    "container": "west",
    "level": "L1",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -17493,6 +17526,17 @@
    "id": "cmp-wuqiong",
    "type": "comparative",
    "title": "“阿基里斯追不上龟”与“一尺之棰”：无限分割能否完成？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-nishen",
+   "type": "comparative",
+   "title": "“牛马画神”与“绝地天通”：神为什么不能长得像人？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

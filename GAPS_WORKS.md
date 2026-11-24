@@ -1,9 +1,9 @@
 # GAPS_WORKS.md —— 尚无著作页关联的哲学家名单（D63）
 
 统计方式：`data/works.json` 中所有 `related_people` 的并集，减去哲学家全集。
-用途：按序消化，使覆盖均衡。最近更新：第 246 轮。
+用途：按序消化，使覆盖均衡。最近更新：第 247 轮。
 
-当前剩余：**44 人**
+当前剩余：**43 人**
 
 ## cn-lianghan
 - 郑玄（`cn-lianghan-zheng-xuan`）
@@ -42,7 +42,6 @@
 - 第欧根尼（西诺佩的）（`gr-ancient-diogenes-sinope`）
 - 留基伯（`gr-ancient-leucippus`）
 - 泰奥弗拉斯托斯（`gr-ancient-theophrastus`）
-- 色诺芬尼（`gr-ancient-xenophanes`）
 
 ## gr-contemp
 - 安斯康姆（`gr-contemp-anscombe`）

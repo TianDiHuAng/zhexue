@@ -1,6 +1,63 @@
 {
  "works": [
   {
+   "id": "work-thales-testimonia",
+   "title": "《泰勒斯残篇与见证》",
+   "title_original": "Θαλῆς ὁ Μιλήσιος（DK 11，以见证为主）",
+   "tradition": "west",
+   "date_display": "约前6世纪（泰勒斯；无著作传世，今存见证）",
+   "structure": "泰勒斯无著作传世；今存古代作者（亚里士多德、希罗多德、第欧根尼等）关于其人其说的“见证”（DK 11 A），编为辑本。",
+   "core_arguments": [
+    "万物的本原是**水**：一切由水而生、复归于水",
+    "大地浮在水上（以水为支撑的宇宙论）",
+    "“万物充满神灵”（灵魂为运动的原因）与以几何测地、预测日食的实践"
+   ],
+   "key_points": [
+    {
+     "locator": "DK 11 A12",
+     "point": "水为本原"
+    },
+    {
+     "locator": "DK 11 A15",
+     "point": "大地浮于水"
+    },
+    {
+     "locator": "DK 11 A22",
+     "point": "万物有神"
+    },
+    {
+     "locator": "辑本说明",
+     "point": "无著作，只有见证"
+    }
+   ],
+   "editions": [
+    "Diels-Kranz（DK 11）；英译参 Kirk–Raven–Schofield, The Presocratic Philosophers；中译参《古希腊罗马哲学》（商务）"
+   ],
+   "related_people": [
+    "gr-ancient-thales",
+    "gr-ancient-anaximander",
+    "gr-ancient-anaximenes"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“水是本原”是幼稚的猜测",
+     "why": "其意义不在“水”这一答案，而在**以自然之物解释自然**（不再以神话的人格神解释）；故其为哲学与科学之始。"
+    },
+    {
+     "claim": "其有著作传世",
+     "why": "**泰勒斯无著作传世**；今所据者为古代作者的**见证**（DK 11 A），故本页标为“残篇与见证”并以辑本为据。"
+    }
+   ],
+   "sources": [
+    "sep-presocratics",
+    "sep-aristotle",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "泰勒斯无著作传世，本页以 DK 11 的“见证”（A 类）为据；其“水为本原”与“大地浮于水”的转述见亚里士多德《形而上学》A.3 等，原文须核。",
+   "sort_year": -600
+  },
+  {
    "id": "work-anaximander-fragments",
    "title": "《论自然》（阿那克西曼德残篇）",
    "title_original": "Περὶ φύσεως（残篇 DK 12）",
@@ -51,11 +108,126 @@
    "sources": [
     "sep-aristotle",
     "sep-aristotle",
-    "sep-chinese-metaphysics"
+    "sep-chinese-metaphysics",
+    "sep-presocratics"
    ],
    "needs_verification": true,
    "pending_notes": "《论自然》残篇以 DK 12 编号为据；B1 的译文（“按照时间的秩序”“相互补偿”）各家不同，本页取通行译法并标注。",
    "sort_year": -585
+  },
+  {
+   "id": "work-anaximenes-fragments",
+   "title": "《阿那克西美尼残篇》",
+   "title_original": "Περὶ φύσεως（残篇 DK 13）",
+   "tradition": "west",
+   "date_display": "约前6世纪（阿那克西美尼；今存残篇与见证）",
+   "structure": "原为一卷（已佚）：今存残篇数则与若干见证，多为散文体，以简洁的类推说明宇宙的生成。",
+   "core_arguments": [
+    "本原是**气**（ἀήρ）：气因稀薄与凝聚而生万物",
+    "以**量的变化**（稀／聚）解释质的差异：此为早期哲学中第一次“以量释质”",
+    "灵魂即气：气维系万物，故灵魂为人之所系"
+   ],
+   "key_points": [
+    {
+     "locator": "DK 13 A5",
+     "point": "气与本原"
+    },
+    {
+     "locator": "DK 13 A6—7",
+     "point": "稀薄与凝聚"
+    },
+    {
+     "locator": "DK 13 B2",
+     "point": "灵魂即气"
+    },
+    {
+     "locator": "残篇",
+     "point": "以量释质"
+    }
+   ],
+   "editions": [
+    "Diels-Kranz（DK 13）；英译参 Kirk–Raven–Schofield；中译参《古希腊罗马哲学》（商务）"
+   ],
+   "related_people": [
+    "gr-ancient-anaximenes",
+    "gr-ancient-anaximander",
+    "gr-ancient-thales"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“气”只是回到泰勒斯的水",
+     "why": "其关键在**机制**：以稀薄与凝聚的**量的变化**解释万物的生成，故其在方法上胜过以“无定”为说；此为“以量释质”的开端。"
+    },
+    {
+     "claim": "其说是纯粹的物理学说",
+     "why": "其“灵魂即气”使之兼有宇宙论与生命论的双重含义；故其说未完全脱离“活的宇宙”这一古老图景。"
+    }
+   ],
+   "sources": [
+    "sep-presocratics",
+    "sep-aristotle",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《阿那克西美尼残篇》以 DK 13 编号为据；“稀薄与凝聚”的转述见辛普里丘与亚里士多德，原文须核。",
+   "sort_year": -545
+  },
+  {
+   "id": "work-xenophanes-fragments",
+   "title": "《色诺芬尼残篇》",
+   "title_original": "Ξενοφάνης（残篇 DK 21）",
+   "tradition": "west",
+   "date_display": "约前6—5世纪（色诺芬尼；今存残篇）",
+   "structure": "原为诗作（哀歌体与六音步）：今存残篇约四十则，含对荷马神观的批评与其“一神”之说。",
+   "core_arguments": [
+    "批评拟人化的神观：若牛马有手，必画其神如牛马",
+    "“一个神，最伟大，非形体而纯以心思想”——**一神论**的哲学表述",
+    "以“意见”与“真理”之分：人所知者为意见，非确定之真"
+   ],
+   "key_points": [
+    {
+     "locator": "DK 21 B11—16",
+     "point": "批评拟人神观"
+    },
+    {
+     "locator": "DK 21 B23—26",
+     "point": "一神与全知"
+    },
+    {
+     "locator": "DK 21 B18",
+     "point": "意见与真理"
+    },
+    {
+     "locator": "DK 21 B34",
+     "point": "认识的界限"
+    }
+   ],
+   "editions": [
+    "Diels-Kranz（DK 21）；英译参 Kirk–Raven–Schofield；中译参《古希腊罗马哲学》（商务）"
+   ],
+   "related_people": [
+    "gr-ancient-xenophanes",
+    "gr-ancient-parmenides",
+    "gr-ancient-heraclitus"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“一神”是近代的一神论",
+     "why": "其“一个神”是**非人格、非形体**的（“纯以心思想”），故其说更近于哲学的原理，而非宗教的位格神。"
+    },
+    {
+     "claim": "其“意见与真理”之分是怀疑论",
+     "why": "其区分是为**确立真理的标准**（而非取消之）；故其为认识论的开端，不是怀疑论。"
+    }
+   ],
+   "sources": [
+    "sep-presocratics",
+    "sep-parmenides",
+    "sep-heraclitus"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《色诺芬尼残篇》以 DK 21 编号为据；“一个神”诸残篇（B23—26）的译文各家不同，本页取通行译法并标注。",
+   "sort_year": -540
   },
   {
    "id": "work-shangshu",
@@ -164,7 +336,8 @@
    "sources": [
     "sep-heraclitus",
     "sep-aristotle",
-    "sep-chinese-metaphysics"
+    "sep-chinese-metaphysics",
+    "sep-presocratics"
    ],
    "needs_verification": true,
    "pending_notes": "《残篇》以 DK 22 编号为据；B12（河流）与 B49a 的两处表述互相矛盾，学界有争论，本页取通行解释并标注。",
@@ -221,7 +394,8 @@
    "sources": [
     "sep-parmenides",
     "sep-plato",
-    "sep-aristotle"
+    "sep-aristotle",
+    "sep-presocratics"
    ],
    "needs_verification": true,
    "pending_notes": "《论自然》残篇以 DK 28 编号为据；“思维与存在同一”一句（B3）的译法各家不同，本页取通行译法并标注。",
@@ -278,7 +452,8 @@
    "sources": [
     "sep-anaxagoras",
     "sep-aristotle",
-    "sep-parmenides"
+    "sep-parmenides",
+    "sep-presocratics"
    ],
    "needs_verification": true,
    "pending_notes": "《阿那克萨戈拉残篇》以 DK 59 编号为据；B12（心灵）的译文各家不同，本页取通行译法并标注。",
@@ -335,7 +510,8 @@
    "sources": [
     "sep-parmenides",
     "sep-plato",
-    "sep-aristotle"
+    "sep-aristotle",
+    "sep-presocratics"
    ],
    "needs_verification": true,
    "pending_notes": "《芝诺残篇》以 DK 29 编号为据；四大论证的转述见亚里士多德《物理学》VI.9 与辛普里丘注，原文须核。",
@@ -392,7 +568,8 @@
    "sources": [
     "sep-aristotle",
     "sep-parmenides",
-    "sep-chinese-metaphysics"
+    "sep-chinese-metaphysics",
+    "sep-presocratics"
    ],
    "needs_verification": true,
    "pending_notes": "《恩培多克勒残篇》以 DK 31 编号为据；“四根”与“爱与争”的译文各家不同，本页取通行译法并标注。",
