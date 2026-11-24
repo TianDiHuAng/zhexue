@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1755,
+  "entries": 1757,
   "by_level": {
    "L2": 779,
-   "L1": 976
+   "L1": 978
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 976,
+  "needs_verification": 978,
   "sources": 423,
   "sources_verified": 423
  },
@@ -17160,6 +17160,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-gender-trouble",
+   "type": "work",
+   "title": "《性别麻烦》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-faktizitaet-geltung",
    "type": "work",
    "title": "《在事实与规范之间》",
@@ -18978,6 +18989,17 @@
    "id": "cmp-enhui",
    "type": "comparative",
    "title": "“恩惠在心”与“报怨以德”：恩与报的伦理",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-xingbie",
+   "type": "comparative",
+   "title": "“性别是操演”与“名分”：身份是被做出来的吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
