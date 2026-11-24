@@ -1,16 +1,12 @@
 # GAPS_WORKS.md —— 尚无著作页关联的哲学家名单（D63）
 
 统计方式：`data/works.json` 中所有 `related_people` 的并集，减去哲学家全集。
-用途：按序消化，使覆盖均衡。最近更新：第 256 轮。
+用途：按序消化，使覆盖均衡。最近更新：第 257 轮。
 
-当前剩余：**20 人**
-
-## cn-nanbei
-- 慧皎（`cn-nanbei-huijiao`）
+当前剩余：**18 人**
 
 ## cn-qingmod
 - 梁漱溟（`cn-qingmod-liang-shuming`）
-- 魏源（`cn-qingmod-wei-yuan`）
 
 ## cn-xianqin
 - 杨朱（`cn-xianqin-yang-zhu`）

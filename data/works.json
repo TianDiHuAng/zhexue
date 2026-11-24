@@ -10459,6 +10459,63 @@
    "sort_year": 420
   },
   {
+   "id": "work-bianzong-lun",
+   "title": "《辨宗论》",
+   "title_original": "（竺道生；今存于《广弘明集》等）",
+   "tradition": "china",
+   "date_display": "南朝宋（竺道生，约355—434）",
+   "structure": "一篇（问答体）：辨“渐悟”与“顿悟”之别，主“顿悟成佛”之说。",
+   "core_arguments": [
+    "“理”不可分：故悟不可渐，唯是**顿悟**",
+    "“一切众生，悉有佛性”：故成佛不假外求（其“阐提有佛性”之说）",
+    "以“信”与“悟”分阶：信可渐，悟必顿"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "渐顿之辨"
+    },
+    {
+     "locator": "中段",
+     "point": "理不可分"
+    },
+    {
+     "locator": "答问",
+     "point": "信与悟之别"
+    },
+    {
+     "locator": "全篇",
+     "point": "顿悟成佛"
+    }
+   ],
+   "editions": [
+    "见《广弘明集》卷十八等所收；校本参汤用彤《汉魏两晋南北朝佛教史》所引"
+   ],
+   "related_people": [
+    "cn-nanbei-daosheng",
+    "cn-nanbei-huijiao",
+    "cn-suitang-huineng"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“顿悟”即后世的“顿悟禅”",
+     "why": "其“顿悟”是**理不可分**之义（悟则一时全悟），与唐代禅宗的“顿悟”在语境与修行论上有别；故须分辨其承续与差异。"
+    },
+    {
+     "claim": "其“阐提有佛性”是异端之说",
+     "why": "其说在当时确曾被摈（“阐提无佛性”为旧说），然其后为《涅槃经》所印证；故其为**由旧说到新说的转折**，非孤立的异端。"
+    }
+   ],
+   "sources": [
+    "ws-hongmingji2",
+    "sep-chinese-metaphysics",
+    "ws-taijitushuo"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《辨宗论》的文本以《广弘明集》所收为据，须核；其“顿悟”与禅宗“顿悟”的异同亦须核。",
+   "sort_year": 420
+  },
+  {
    "id": "work-de-doctrina-christiana",
    "title": "《论基督教教义》",
    "title_original": "De doctrina christiana",
@@ -23515,6 +23572,63 @@
    "sort_year": 1714
   },
   {
+   "id": "work-quanfa-putixin",
+   "title": "《劝发菩提心文》",
+   "title_original": "（省庵大师；净土宗要典）",
+   "tradition": "china",
+   "date_display": "清（省庵，1686—1734）",
+   "structure": "一篇（十种因缘）：以十门劝发菩提心，末以“念佛”为归宿，为净土宗通行的劝发文。",
+   "core_arguments": [
+    "“尝闻入道要门，发心为首”：菩提心为修行的总纲",
+    "以“十种因缘”发心：念生死苦、念父母恩、念师长恩等",
+    "以“念佛”为满菩提心之方便"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "发心为首"
+    },
+    {
+     "locator": "十种因缘",
+     "point": "念恩与念苦"
+    },
+    {
+     "locator": "结劝",
+     "point": "念佛为归"
+    },
+    {
+     "locator": "全篇",
+     "point": "以愿摄行"
+    }
+   ],
+   "editions": [
+    "见《省庵大师遗稿》等；通行本多入净土宗文集（版次待考）"
+   ],
+   "related_people": [
+    "cn-qingmod-wei-yuan",
+    "cn-suitang-huineng",
+    "cn-nanbei-tanluan"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“净土宗的教理书”",
+     "why": "其书是**劝发的愿文**（以十因缘动人发心），非教理的论书；故其为实践的劝诫，非教义的体系。"
+    },
+    {
+     "claim": "其“发心”与儒家的“立志”同义",
+     "why": "其“菩提心”是**上求下化的愿**（有具体的所缘与次第），与儒家的“立志”有交集而不同源；故须分辨其宗教的语境。"
+    }
+   ],
+   "sources": [
+    "ws-hongmingji2",
+    "sep-chinese-metaphysics",
+    "ct-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《劝发菩提心文》的作者（省庵）与十种因缘的次序须核其遗稿本；本页以其为净土宗的劝发文处理，不作教义的评判。",
+   "sort_year": 1720
+  },
+  {
    "id": "work-persian-letters",
    "title": "《波斯人信札》",
    "title_original": "Lettres persanes",
@@ -28565,6 +28679,62 @@
    "needs_verification": true,
    "pending_notes": "《基督教的本质》1841 年初版与 1843 年第二版（增补）有差异；本页依中译本与 SEP 词条概述。",
    "sort_year": 1841
+  },
+  {
+   "id": "work-haiguo-tuzhi",
+   "title": "《海国图志》",
+   "title_original": "（魏源，1842；后增订为百卷）",
+   "tradition": "china",
+   "date_display": "1842（魏源；1847 增为六十卷，1852 百卷）",
+   "structure": "原本五十卷，后增为六十卷、百卷：以“图”“志”“表”分述各国地理、历史、政制与器物。",
+   "core_arguments": [
+    "“师夷长技以制夷”：以了解外邦为其御侮之方",
+    "以地理与政制并重：不止于器物，兼及各国的制度与风俗",
+    "“以夷攻夷、以夷款夷”：以外交的形势论制衡"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—二",
+     "point": "筹海篇与总论"
+    },
+    {
+     "locator": "各国志",
+     "point": "地理与政制"
+    },
+    {
+     "locator": "表",
+     "point": "中西纪年与方位"
+    },
+    {
+     "locator": "全书",
+     "point": "师夷长技以制夷"
+    }
+   ],
+   "editions": [
+    "通行本参《海国图志》（岳麓书社）；百卷本与六十卷本须分辨"
+   ],
+   "related_people": [
+    "cn-qingmod-wei-yuan",
+    "cn-qingmod-liang-qichao"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“师夷长技”只是学船炮",
+     "why": "其“长技”兼及**练兵、养兵、选兵之法**与政制的考察（其书大量记各国政事）；故其视野不止器物。"
+    },
+    {
+     "claim": "其书是“地理书”",
+     "why": "其书以**筹海**为纲（海防与外交的策略），地理为其实据；故其为经世的著作，非纯粹的地理书。"
+    }
+   ],
+   "sources": [
+    "ws-hongmingji2",
+    "sep-chinese-metaphysics",
+    "ct-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《海国图志》的卷数（五十／六十／百卷）与增订年代须核岳麓书社本；“师夷长技以制夷”一语的出处（《筹海篇》）亦须核。",
+   "sort_year": 1842
   },
   {
    "id": "work-fear-trembling",
