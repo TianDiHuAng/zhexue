@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1101,
+  "entries": 1103,
   "by_level": {
    "L2": 785,
-   "L1": 316
+   "L1": 318
   },
   "doctrine": {
-   "total": 254,
-   "detail": 254,
+   "total": 255,
+   "detail": 255,
    "auto": 0
   },
-  "needs_verification": 316,
-  "sources": 396,
-  "sources_verified": 396
+  "needs_verification": 318,
+  "sources": 399,
+  "sources_verified": 399
  },
  "units": [
   {
@@ -128,10 +128,10 @@
    "unit_id": "gr-medieval",
    "title": "中世纪经院哲学",
    "region": "west",
-   "philosophers": 23,
+   "philosophers": 24,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -15"
+   "philosophers_slot": "8 上限，余 -16"
   },
   {
    "unit_id": "gr-modern",
@@ -6811,6 +6811,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-medieval-eriugena",
+   "type": "philosopher",
+   "title": "爱留根纳",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-medieval-faith-reason",
    "type": "concept",
    "title": "信仰与理性",
@@ -9544,8 +9555,8 @@
    "title": "《论自然的区分》",
    "container": "west",
    "level": "L1",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 5,
+   "verified_sources": 5,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -11775,6 +11786,17 @@
    "id": "cmp-docta-ignorantia",
    "type": "comparative",
    "title": "两种“无知”：库萨的 docta ignorantia 与庄子的“无知”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-exitus",
+   "type": "comparative",
+   "title": "出发与回归：爱留根纳的 exitus-reditus 与周敦颐的“无极而太极”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

@@ -3765,6 +3765,156 @@
      "note": "12世纪末"
     }
    ]
+  },
+  {
+   "id": "gr-medieval-eriugena",
+   "name": "爱留根纳",
+   "latin": "Johannes Scottus Eriugena",
+   "birth_year": 815,
+   "death_year": 877,
+   "birth_display": "约815年",
+   "death_display": "约877年",
+   "birth_note": "据其著作与加洛林时代的记载：生于爱尔兰（“Scottus”即指爱尔兰人），约850年应西法兰克王查理二世之召赴宫廷任教。",
+   "death_note": "约877年卒（地点不详，一说英格兰）。",
+   "era": "9世纪的加洛林文艺复兴。爱留根纳是西方最早系统吸收**伪狄奥尼修斯**（他奉查理之命翻译《论圣名》等）的思想家，并以新柏拉图主义的框架重述基督教神学：其《论自然的区分》以“自然”的四重区分统摄创造与回归。他把理性抬到很高的位置（“真正的权威即被理性所确立的真理”），故其著作在13世纪被斥为“危险的学说”。",
+   "school": "加洛林文艺复兴（新柏拉图主义化的基督教）",
+   "core_questions": [
+    "理性与权威的关系是什么？",
+    "创造与受造物如何区分？",
+    "万物是否终将回归其根源？"
+   ],
+   "arguments": [
+    {
+     "claim": "理性的优先：真正的权威是理性所确立的真理",
+     "premises": [
+      "权威出自理性，而理性不出自权威。",
+      "凡未被理性所确证的权威，只是习俗。"
+     ],
+     "inference": "若权威须由理性确证，则神学的论证不能只诉诸文本；故其方法是**以理性重述信仰**——这一立场在9世纪极为大胆，也是其后来被斥的根源。",
+     "conclusion": "理性优先于权威（此说为中世纪理性论开了先例）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "自然的四重区分与回归",
+     "premises": [
+      "“自然”指一切存在者与不存在者的总名。",
+      "按“创造／被创造”两两组合，可分为四重。"
+     ],
+     "inference": "若第四重（既不创造也不被创造）是万物的归宿，则创造是一个**出发与回归**的循环；故受造物的历史有方向（回归），而非无目的的漂流。",
+     "conclusion": "创造是出发与回归的循环（此说与后来黑格尔式的“流溢—回归”结构相似）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论自然的区分》（Periphyseon）《论预定》；译作：伪狄奥尼修斯《论圣名》《天阶体系》",
+     "edition": "拉丁原文（Sheldon-Williams 编）；英译（Periphyseon 多卷本）；《论预定》见 PL 122",
+     "note": "约862—867；850年代"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "伪狄奥尼修斯（其翻译与吸收）",
+     "id": null,
+     "note": "以否定神学与层级说为其框架"
+    },
+    {
+     "name": "新柏拉图主义（普罗提诺一系）",
+     "id": null,
+     "note": "以“流溢—回归”为结构"
+    },
+    {
+     "name": "奥古斯丁",
+     "id": "gr-medieval-augustine",
+     "note": "以创造、意志与原罪为其问题背景"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "中世纪经院哲学（受其影响亦受其警戒）",
+     "id": "gr-medieval-aquinas",
+     "note": "以“存在”取代“流溢”为其框架"
+    },
+    {
+     "name": "13世纪的谴责（1225）",
+     "id": null,
+     "note": "其《论自然的区分》被斥为“危险的学说”"
+    },
+    {
+     "name": "德国观念论（后世的类比）",
+     "id": null,
+     "note": "其“出发—回归”结构与黑格尔有形式上的相似"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "13世纪的正统神学家",
+     "view": "其“万物回归神”与“理性优先”被视为泛神论与理性主义，1225 年被教宗斥为“危险的学说”。",
+     "response": "爱留根纳一系的回应是：其“回归”不取消受造与创造的区分（第二、三重仍是被造的），故不构成泛神论——但这一辩护在13世纪未被接受。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-medieval-philosophy",
+      "book-copleston-history"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "爱留根纳是“泛神论者”",
+     "why": "其“万物在神中”并不取消创造的区分；是否构成泛神论是学界长期争论，不能径断。"
+    },
+    {
+     "claim": "他是“经院哲学的开端”",
+     "why": "他早于经院哲学的成熟期（12—13世纪）三百余年，且其框架是新柏拉图主义的“流溢—回归”，与经院的“存在—本质”分析不同路。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>爱留根纳：四重区分与回归</text><defs><marker id='aIE' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>自然指一切存在与不存在</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>按创造/被创造分四重</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故创造是出发与回归</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故理性须确证权威</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aIE)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aIE)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "爱留根纳：“自然”的四重区分与回归（示意图）",
+   "sources": [
+    "sep-medieval-philosophy",
+    "sep-pseudo-dionysius-areopagite",
+    "sep-neoplatonism"
+   ],
+   "needs_verification": true,
+   "pending_notes": "爱留根纳无 SEP／IEP 专属词条（sep-eriguena、sep-eriugena、iep-eriguena 均 404）。本页所据为 SEP“中世纪哲学”“伪狄奥尼修斯”“新柏拉图主义”三条的语境性说明与《论自然的区分》通行英译——**属语境性引用而非专门研究**；其生卒年与著作年代须核 Sheldon-Williams 编本与相关研究。",
+   "doctrine": {
+    "summary": "爱留根纳以新柏拉图主义的框架重述基督教神学：其《论自然的区分》以“自然”的四重区分（创造而不被创造／被创造而创造／被创造而不创造／既不创造也不被创造）统摄创造与回归。他又主张理性优先于权威——“真正的权威即被理性所确立的真理”，故其神学以理性重述信仰。这一立场使他在13世纪被斥为“危险的学说”。",
+    "system": [
+     {
+      "name": "四重区分",
+      "content": "同一“自然”按创造/被创造两两组合的四个面向。"
+     },
+     {
+      "name": "流溢与回归",
+      "content": "万物由神出发，终将回归其根源；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "理性的优先",
+      "content": "权威须由理性确证，而非相反；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "神化（theosis）",
+      "content": "人通过恩典与认识而“成为神”的可能；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "爱尔兰与西法兰克宫廷（约815—约877）",
+      "change": "生于爱尔兰；约850年应西法兰克王查理二世之召赴宫廷主持宫廷学校；奉查理之命翻译伪狄奥尼修斯；约877年卒。"
+     }
+    ],
+    "reception": "爱留根纳是中世纪早期最重要的新柏拉图主义者，其译作使伪狄奥尼修斯进入拉丁西方；《论自然的区分》的“出发—回归”结构在德国观念论（尤其黑格尔）中被后世类比；其“理性优先”的立场在中世纪理性论传统中占有先声的位置。"
+   },
+   "works_detail": [
+    {
+     "title": "《论自然的区分》",
+     "structure": "五卷对话体（师与生）：以“自然”的四重区分为纲，论创造、理念、受造物与回归。",
+     "core_thesis": "自然四重区分；万物回归其根源。",
+     "editions": "拉丁原文（Sheldon-Williams 编，SLH）；英译（Periphyseon）",
+     "note": "约862—867 年"
+    }
+   ]
   }
  ],
  "concepts": [

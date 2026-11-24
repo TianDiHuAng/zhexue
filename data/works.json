@@ -8200,8 +8200,8 @@
     "拉丁原文（Sheldon-Williams 编，Scriptores Latini Hiberniae）；英译（Periphyseon, 多卷本）"
    ],
    "related_people": [
+    "gr-medieval-eriugena",
     "gr-medieval-augustine",
-    "gr-medieval-aquinas",
     "gr-ancient-plato"
    ],
    "misreadings": [
@@ -8217,10 +8217,12 @@
    "sources": [
     "sep-aquinas",
     "book-copleston-history",
-    "sep-plato"
+    "sep-plato",
+    "sep-medieval-philosophy",
+    "sep-pseudo-dionysius-areopagite"
    ],
    "needs_verification": true,
-   "pending_notes": "《论自然的区分》于1225年被教宗斥为“危险的学说”，其“泛神论”之嫌至今是争论；爱留根纳的人物条目未入册，本页只挂已有 id。原文五卷的英译以 Sheldon-Williams 编本为据。",
+   "pending_notes": "《论自然的区分》于1225年被斥为“危险的学说”，其“泛神论”之嫌至今是争论；原文五卷以 Sheldon-Williams 编本（SLH）为据，英译为多卷本。",
    "sort_year": 867
   },
   {
