@@ -2226,6 +2226,43 @@
    ],
    "needs_verification": false,
    "pending_notes": ""
+  },
+  {
+   "id": "gr-german-weltgeist",
+   "term": "世界精神",
+   "term_latin": "world spirit (Weltgeist)",
+   "definition": "黑格尔的范畴：历史不是个人的意图之总和，而是“精神”在诸民族与时代中自我实现的过程；其承担者是一个时代的“世界精神”，其手段却是**个人的热情**（理性的狡计）。故其说是“以个体为手段的目的论历史观”。",
+   "usages": [
+    {
+     "name": "黑格尔（其立）",
+     "id": "gr-german-hegel",
+     "usage": "以“理性的狡计”说世界精神借个人热情实现自身。"
+    },
+    {
+     "name": "康德（其远源）",
+     "id": "gr-german-kant",
+     "usage": "以“普遍历史”的目的论为其先例。"
+    },
+    {
+     "name": "马克思（其反）",
+     "usage": "以物质的生产关系取代精神的自我实现。"
+    }
+   ],
+   "related": [
+    "gr-german-aufheben"
+   ],
+   "example": {
+    "text": "“世界精神”的要害是把**历史的合理性**置于个人的意图之外：人各逐其私，而历史却成其理。这一说法的力量是它使历史成为可理解的；其危险是它使**受难的个人**成为“理性的代价”—— 故其后的批评（马克思、阿多诺等）皆由此入。",
+    "figure": "黑格尔",
+    "locator": "《历史哲学讲演录》"
+   },
+   "sources": [
+    "sep-hegel",
+    "sep-kant",
+    "sep-marx"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“世界精神”与“理性的狡计”的原文（《历史哲学讲演录》导论）须核；“世界精神”与“民族精神”（Volksgeist）之别亦须分辨。"
   }
  ],
  "debates": [

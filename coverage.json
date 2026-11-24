@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1528,
+  "entries": 1532,
   "by_level": {
    "L2": 781,
-   "L1": 747
+   "L1": 751
   },
   "doctrine": {
    "total": 305,
    "detail": 305,
    "auto": 0
   },
-  "needs_verification": 747,
+  "needs_verification": 751,
   "sources": 418,
   "sources_verified": 418
  },
@@ -120,7 +120,7 @@
    "title": "德国古典哲学",
    "region": "west",
    "philosophers": 9,
-   "concepts": 21,
+   "concepts": 22,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -1"
   },
@@ -7370,6 +7370,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-german-weltgeist",
+   "type": "concept",
+   "title": "世界精神",
+   "container": "gr-german",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-german-thing-in-itself",
    "type": "debate",
    "title": "物自体是否可被取消",
@@ -13992,6 +14003,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-fruehe-theologische-schriften",
+   "type": "work",
+   "title": "《早期神学著作》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-guangya-shuzheng",
    "type": "work",
    "title": "《广雅疏证》",
@@ -14121,6 +14143,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-enzyklopaedie",
+   "type": "work",
+   "title": "《哲学全书》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -16481,6 +16514,17 @@
    "id": "cmp-bianwei",
    "type": "comparative",
    "title": "“四部正讹”与“文本批判”：伪书能被证明吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-shijiejingshen",
+   "type": "comparative",
+   "title": "“世界精神”与“理势”：历史有道理吗？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

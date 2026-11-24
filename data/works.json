@@ -23783,6 +23783,63 @@
    "sort_year": 1795
   },
   {
+   "id": "work-fruehe-theologische-schriften",
+   "title": "《早期神学著作》",
+   "title_original": "Frühe theologische Schriften（通俗辑名）",
+   "tradition": "west",
+   "date_display": "1790年代（黑格尔；20世纪初辑刊）",
+   "structure": "含《民众宗教与基督教》《耶稣传》《基督教的实证性》等早年手稿，由其学生与后世学者辑刊。",
+   "core_arguments": [
+    "以“生命”与“爱”对抗“实证的宗教”（外在的教义与权威）",
+    "以希腊的“美的宗教”对照基督教的“实证性”",
+    "其后期的“绝对精神”说，其根在此期的宗教问题"
+   ],
+   "key_points": [
+    {
+     "locator": "《民众宗教》",
+     "point": "美的宗教与实证宗教"
+    },
+    {
+     "locator": "《耶稣传》",
+     "point": "耶稣的教诲与教义之别"
+    },
+    {
+     "locator": "《基督教的实证性》",
+     "point": "实证性与自由"
+    },
+    {
+     "locator": "全书",
+     "point": "宗教问题的起点"
+    }
+   ],
+   "editions": [
+    "德文 Suhrkamp 版《黑格尔全集》第1卷；英译（Early Theological Writings, Chicago）；中译参《黑格尔早期神学著作》（商务）"
+   ],
+   "related_people": [
+    "gr-german-hegel",
+    "gr-german-kant",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "这些是“少年习作”，与体系无关",
+     "why": "其后期“绝对精神”与“扬弃”的结构，其根正在此期对“实证宗教”的批判；故其是体系的**发生地**，不是无关的习作。"
+    },
+    {
+     "claim": "其“实证性”批判是针对基督教的否定",
+     "why": "其所批判者是**外在权威的形式**，不是信仰的内容；其后期反以基督教为“启示宗教”而纳入绝对精神。"
+    }
+   ],
+   "sources": [
+    "sep-hegel",
+    "sep-kant",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《早期神学著作》非黑格尔自订的书名（为后世辑刊名），其各篇的年代（1795—1800）须核 Suhrkamp 版第1卷；中译名亦须核。",
+   "sort_year": 1795
+  },
+  {
    "id": "work-guangya-shuzheng",
    "title": "《广雅疏证》",
    "title_original": "廣雅疏證",
@@ -24462,6 +24519,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1817
+  },
+  {
+   "id": "work-enzyklopaedie",
+   "title": "《哲学全书》",
+   "title_original": "Enzyklopädie der philosophischen Wissenschaften",
+   "tradition": "west",
+   "date_display": "1817年初版（黑格尔；1827、1830增订）",
+   "structure": "三部：逻辑学（小逻辑）、自然哲学、精神哲学；以“理念”的自我展开为纲，各以节次（Paragraphen）加“附释”成书。",
+   "core_arguments": [
+    "哲学是“以概念把握的时代”：其体系为逻辑—自然—精神的圆圈",
+    "“小逻辑”以“存在—本质—概念”的辩证运动展开",
+    "精神哲学分主观精神、客观精神（法、道德、伦理）、绝对精神（艺术、宗教、哲学）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部〈逻辑学〉",
+     "point": "存在—本质—概念"
+    },
+    {
+     "locator": "第二部〈自然哲学〉",
+     "point": "理念的外化"
+    },
+    {
+     "locator": "第三部〈精神哲学〉",
+     "point": "主观—客观—绝对精神"
+    },
+    {
+     "locator": "全书",
+     "point": "圆圈式的体系"
+    }
+   ],
+   "editions": [
+    "德文 Meiner 版；英译（Hegel's Philosophy of Mind / Nature, Oxford）；中译参《哲学全书》诸部（商务等）"
+   ],
+   "related_people": [
+    "gr-german-hegel",
+    "gr-german-kant",
+    "gr-german-schelling"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“黑格尔的讲课笔记”",
+     "why": "其书为**教材式的纲要**（节次＋附释），是黑格尔亲订的三部体系；故其为体系的**定本形式**，非学生笔记。"
+    },
+    {
+     "claim": "其“圆圈”是“循环论证”",
+     "why": "其“圆圈”指**终点回到起点而内容已充实**（自在→自为）；故其为“有增益的返回”，非逻辑上的循环。"
+    }
+   ],
+   "sources": [
+    "sep-hegel",
+    "sep-kant",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《哲学全书》的三版（1817／1827／1830）差异重要；本页依 1830 年版与 SEP 词条概述，具体节次须核 Meiner 版。",
    "sort_year": 1817
   },
   {
