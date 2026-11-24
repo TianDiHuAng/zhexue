@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1752,
+  "entries": 1755,
   "by_level": {
    "L2": 779,
-   "L1": 973
+   "L1": 976
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 973,
+  "needs_verification": 976,
   "sources": 423,
   "sources_verified": 423
  },
@@ -10450,6 +10450,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-letter-to-menoeceus",
+   "type": "work",
+   "title": "《致美诺寇的信》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-tianxia-pian",
    "type": "work",
    "title": "《庄子·天下篇》",
@@ -11047,6 +11058,17 @@
    "id": "work-de-vita-beata",
    "type": "work",
    "title": "《论幸福生活》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-de-beneficiis",
+   "type": "work",
+   "title": "《论恩惠》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -18945,6 +18967,17 @@
    "id": "cmp-danyi",
    "type": "comparative",
    "title": "“存在的单义”与“名实”：一个词能通指造物与造物者吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-enhui",
+   "type": "comparative",
+   "title": "“恩惠在心”与“报怨以德”：恩与报的伦理",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

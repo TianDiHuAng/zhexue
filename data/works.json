@@ -4502,6 +4502,63 @@
    "sort_year": -300
   },
   {
+   "id": "work-letter-to-menoeceus",
+   "title": "《致美诺寇的信》",
+   "title_original": "Ἐπιστολὴ πρὸς Μενοικέα",
+   "tradition": "west",
+   "date_display": "约前3世纪（伊壁鸠鲁；今存于第欧根尼·拉尔修）",
+   "structure": "一封书信（存于《名哲言行录》卷十）：以简短的格言体概述其伦理学。",
+   "core_arguments": [
+    "“**快乐**”是幸福生活的始与终：但指“身体的无痛苦与灵魂的无烦扰”",
+    "故须分辨“**自然且必要**”“自然而不必要”“既不自然也不必要”的欲求",
+    "“**死亡与我们无关**”：死则无感，故不须畏惧"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "快乐即幸福"
+    },
+    {
+     "locator": "论欲求",
+     "point": "三种欲求"
+    },
+    {
+     "locator": "论死亡",
+     "point": "死亡与我们无关"
+    },
+    {
+     "locator": "结语",
+     "point": "以明智为纲"
+    }
+   ],
+   "editions": [
+    "希腊文本（Von der Muehll 本）；英译见 The Epicurus Reader；中译参《自然与快乐》（包利民等译）"
+   ],
+   "related_people": [
+    "gr-hellenistic-epicurus",
+    "gr-hellenistic-lucretius",
+    "gr-hellenistic-zeno"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“快乐”是纵欲",
+     "why": "其快乐定义为**身体的无痛苦与灵魂的无烦扰**（katastematic 快乐），故其说要节欲而非纵欲；此点常被误解。"
+    },
+    {
+     "claim": "其“死亡与我们无关”是逃避",
+     "why": "其论证是**认识论的**（死则无感，故无苦可言），故其为消除恐惧的论证，非逃避。"
+    }
+   ],
+   "sources": [
+    "sep-epicurus",
+    "sep-cicero",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《致美诺寇的信》存于第欧根尼·拉尔修《名哲言行录》卷十，文本须核 Von der Muehll 本与包利民译本；“快乐”的两种（katastematic／kinetic）须分辨。",
+   "sort_year": -300
+  },
+  {
    "id": "work-tianxia-pian",
    "title": "《庄子·天下篇》",
    "title_original": "天下篇",
@@ -7617,6 +7674,63 @@
    "needs_verification": true,
    "pending_notes": "《论幸福生活》的成书年代（约58）与其在塞涅卡著作序列中的位置须核 Loeb 本导论；其“财富”论与罗马语境的关联亦须分辨。",
    "sort_year": 58
+  },
+  {
+   "id": "work-de-beneficiis",
+   "title": "《论恩惠》",
+   "title_original": "De beneficiis",
+   "tradition": "west",
+   "date_display": "约1世纪（塞涅卡）",
+   "structure": "七卷：论施惠的伦理（如何施、施于谁）、受惠的分寸、报答与知恩，末论忘恩之恶。",
+   "core_arguments": [
+    "恩惠的要点不在**物**，而在**心**（施者的善意）",
+    "故施惠须有选择（不施于不配者），受惠须有记念（不忘）",
+    "“**知恩**”是社会的纽带：无之则人际崩解"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "恩惠在于心"
+    },
+    {
+     "locator": "卷二—三",
+     "point": "施惠的选择"
+    },
+    {
+     "locator": "卷四—五",
+     "point": "受惠与报答"
+    },
+    {
+     "locator": "卷六—七",
+     "point": "知恩与忘恩"
+    }
+   ],
+   "editions": [
+    "拉丁文本（OCT）；英译（On Benefits, Chicago）；中译少见"
+   ],
+   "related_people": [
+    "gr-hellenistic-seneca",
+    "gr-ancient-aristotle",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“处世术”",
+     "why": "其论旨在**德性与社会纽带**（恩惠如何成为共同体之基），故其为伦理学的著作，非处世技巧。"
+    },
+    {
+     "claim": "其“恩惠在心”是贬低礼物",
+     "why": "其意是：**物可赠而心不可假**（故心为要），非贬低物；其仍论施与的分寸。"
+    }
+   ],
+   "sources": [
+    "sep-seneca",
+    "sep-aristotle",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论恩惠》七卷的卷目与 OCT 文本须核；“恩惠在心”的原文亦须核。中译少，本页多为义述。",
+   "sort_year": 60
   },
   {
    "id": "work-letters-seneca",
