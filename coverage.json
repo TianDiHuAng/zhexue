@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1121,
+  "entries": 1125,
   "by_level": {
    "L2": 785,
-   "L1": 336
+   "L1": 340
   },
   "doctrine": {
    "total": 255,
    "detail": 255,
    "auto": 0
   },
-  "needs_verification": 336,
+  "needs_verification": 340,
   "sources": 399,
   "sources_verified": 399
  },
@@ -11464,6 +11464,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-totalite-infini",
+   "type": "work",
+   "title": "《总体与无限》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-structure-scientific-revolutions",
    "type": "work",
    "title": "《科学革命的结构》",
@@ -11530,9 +11541,31 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-de-la-grammatologie",
+   "type": "work",
+   "title": "《论文字学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-difference-repetition",
    "type": "work",
    "title": "《差异与重复》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-archeologie-savoir",
+   "type": "work",
+   "title": "《知识考古学》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -11995,6 +12028,17 @@
    "id": "cmp-leibutathlos",
    "type": "comparative",
    "title": "等级与差等：伪狄奥尼修斯的层级与荀子的“群而有分”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-fuyuan",
+   "type": "comparative",
+   "title": "“补充”的两种命运：德里达的 supplément 与庄子的“卮言”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

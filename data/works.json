@@ -17995,6 +17995,63 @@
    "sort_year": 1960
   },
   {
+   "id": "work-totalite-infini",
+   "title": "《总体与无限》",
+   "title_original": "Totalité et Infini",
+   "tradition": "west",
+   "date_display": "1961年（列维纳斯）",
+   "structure": "四部分：①同者与他者（同一与分离）；②内在性与经济（在家、劳动、占有）；③面容与外在性（伦理的首要性）；④超出存在（结论）。",
+   "core_arguments": [
+    "“他者的面容”不可被总体化：面容是**无限**的显现",
+    "伦理学是第一哲学（先于本体论）",
+    "“在家”（chez soi）是主体性的开端，而面容的要求打破它"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "同者与他者"
+    },
+    {
+     "locator": "第二部分",
+     "point": "在家与劳动"
+    },
+    {
+     "locator": "第三部分",
+     "point": "面容与外在性"
+    },
+    {
+     "locator": "结论",
+     "point": "超出存在"
+    }
+   ],
+   "editions": [
+    "法文 Nijhoff 版；中译参北京大学出版社（朱刚译）；英译（Lingis）"
+   ],
+   "related_people": [
+    "gr-20c-levinas",
+    "gr-20c-husserl",
+    "gr-20c-heidegger"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是神学著作",
+     "why": "其用语（无限、面容、他者）有宗教回声，但论证是**现象学—伦理学的**：从“面容的显现”出发，而非从启示出发。"
+    },
+    {
+     "claim": "“他者”是任何他人",
+     "why": "其“他者”是**绝对的他者**（不可被我的总体化所吸收），故与“另一个人（与我同类）”不同；这一区分是其伦理学的关键。"
+    }
+   ],
+   "sources": [
+    "sep-levinas",
+    "sep-husserl",
+    "sep-heidegger"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《总体与无限》的“无限”与笛卡尔的“无限”观念之关系（列维纳斯自称承之）须核；其与《别于存在或超越本质》（1974）的差异亦须分辨。本页依中译与 SEP 词条概述。",
+   "sort_year": 1961
+  },
+  {
    "id": "work-structure-scientific-revolutions",
    "title": "《科学革命的结构》",
    "title_original": "The Structure of Scientific Revolutions",
@@ -18335,6 +18392,63 @@
    "sort_year": 1966
   },
   {
+   "id": "work-de-la-grammatologie",
+   "title": "《论文字学》",
+   "title_original": "De la grammatologie",
+   "tradition": "west",
+   "date_display": "1967年（德里达）",
+   "structure": "两部分：第一部分（文字之前）批判语音中心主义与索绪尔；第二部分（自然、文化、文字）评卢梭的“文字之补充”。",
+   "core_arguments": [
+    "西方形而上学以“语音”为真理的在场，故贬抑文字（“语音中心主义”）",
+    "“延异”（différance）：意义在差异与推迟中生成，从不在场",
+    "“文字”不是语音的补充，而是使语言成为可能的条件（“原初文字”）"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分 第一章",
+     "point": "语音中心主义"
+    },
+    {
+     "locator": "第一部分 第二章",
+     "point": "对索绪尔的解读"
+    },
+    {
+     "locator": "第二部分",
+     "point": "卢梭与“危险的补充”"
+    },
+    {
+     "locator": "全书",
+     "point": "延异与原初文字"
+    }
+   ],
+   "editions": [
+    "法文 Minuit 版；中译参上海译文出版社（汪堂家译）；英译（Spivak）"
+   ],
+   "related_people": [
+    "gr-contemp-derrida",
+    "gr-20c-husserl",
+    "gr-20c-heidegger"
+   ],
+   "misreadings": [
+    {
+     "claim": "它主张“文字比语音更真实”",
+     "why": "其批判针对的是**等级**（语音被抬为真理的在场），而非要颠倒等级；其“原初文字”不是经验意义上的书写，而是使一切符号系统可能的差异结构。"
+    },
+    {
+     "claim": "“延异”是一个新的本原",
+     "why": "德里达明确说延异**不是**本原（不是在场者）；它只是差异与推迟的运动，若把它当作本原即重落形而上学的窠臼。"
+    }
+   ],
+   "sources": [
+    "sep-derrida",
+    "sep-husserl",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论文字学》的“原初文字”（archi-écriture）与“延异”的关系须核法文原版与 Spivak 英译的长序；其与《书写与差异》的先后与互补亦须分辨。",
+   "sort_year": 1967
+  },
+  {
    "id": "work-difference-repetition",
    "title": "《差异与重复》",
    "title_original": "Différence et répétition",
@@ -18390,6 +18504,63 @@
    "needs_verification": true,
    "pending_notes": "《差异与重复》的术语（虚拟／可能、重复／再现）在英译与中译中有不同的处理，其“差异的肯定”与尼采“永恒回归”的关系亦有争论；本页依 SEP／IEP 词条与英译本概述。",
    "sort_year": 1968
+  },
+  {
+   "id": "work-archeologie-savoir",
+   "title": "《知识考古学》",
+   "title_original": "L'Archéologie du savoir",
+   "tradition": "west",
+   "date_display": "1969年（福柯）",
+   "structure": "五部分：话语的规律性、陈述（énoncé）与档案、考古学的描述、以及与其他方法（思想史、结构分析）的对照。",
+   "core_arguments": [
+    "“陈述”（énoncé）不是命题也不是句子，而是话语形成的**单位**",
+    "“话语形成”（formation discursive）由对象、陈述方式、概念、策略四方面构成",
+    "考古学不追问“作者的意思”，而追问“什么使某些话在某一时代可说”"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "话语的规律性"
+    },
+    {
+     "locator": "第二部分",
+     "point": "陈述与档案"
+    },
+    {
+     "locator": "第三部分",
+     "point": "考古学的描述"
+    },
+    {
+     "locator": "第四部分",
+     "point": "与思想史的对照"
+    }
+   ],
+   "editions": [
+    "法文 Gallimard 版；中译参三联书店（谢强、马月译）；英译（Sheridan）"
+   ],
+   "related_people": [
+    "gr-contemp-foucault",
+    "gr-contemp-derrida",
+    "gr-19c-marx"
+   ],
+   "misreadings": [
+    {
+     "claim": "考古学是“思想史”的一种",
+     "why": "它恰恰反对思想史的前提（连续性、作者意图、时代的“精神”）；考古学要描述的是**断裂与阈值**，故其方法与思想史相反。"
+    },
+    {
+     "claim": "“陈述”就是句子或命题",
+     "why": "福柯明确说陈述不是语法单位；它是**话语形成中的功能位置**（同一句子在不同话语形成中是不同的陈述）。"
+    }
+   ],
+   "sources": [
+    "sep-foucault",
+    "sep-heidegger",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《知识考古学》的“陈述”概念在其前后期著作中有变化（《词与物》与《知识考古学》的用法不完全一致）；本页依谢强、马月中译与 SEP 词条概述，具体术语须核法文原版。",
+   "sort_year": 1969
   },
   {
    "id": "work-theory-justice",
