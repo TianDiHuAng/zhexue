@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1200,
+  "entries": 1205,
   "by_level": {
    "L2": 790,
-   "L1": 410
+   "L1": 415
   },
   "doctrine": {
    "total": 262,
    "detail": 262,
    "auto": 0
   },
-  "needs_verification": 410,
+  "needs_verification": 415,
   "sources": 406,
   "sources_verified": 406
  },
@@ -129,7 +129,7 @@
    "title": "希腊化与罗马哲学",
    "region": "west",
    "philosophers": 15,
-   "concepts": 19,
+   "concepts": 20,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -6754,6 +6754,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-hellenistic-askesis",
+   "type": "concept",
+   "title": "操练（askēsis）",
+   "container": "gr-hellenistic",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-hellenistic-knowledge",
    "type": "debate",
    "title": "知识是否可能：学园派与斯多亚派",
@@ -8335,6 +8346,39 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-euthyphro",
+   "type": "work",
+   "title": "《游叙弗伦》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-laches",
+   "type": "work",
+   "title": "《拉刻斯》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-lysis",
+   "type": "work",
+   "title": "《吕西斯》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -12873,6 +12917,17 @@
    "id": "cmp-zhixing",
    "type": "comparative",
    "title": "知行合一与“知德者鲜”：王阳明与亚里士多德的“知”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-youyi",
+   "type": "comparative",
+   "title": "友爱的两种根据：柏拉图的“所缺”与儒家的“信”",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

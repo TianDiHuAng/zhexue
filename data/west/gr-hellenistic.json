@@ -2926,6 +2926,45 @@
    ],
    "needs_verification": true,
    "pending_notes": "“把握性的印象”的希腊文（phantasia kataleptikē）与其中译（把握性的／把握住的）不统一；本页取通行译法，具体论证须核《名哲言行录》卷七与西塞罗《学园派》。"
+  },
+  {
+   "id": "gr-hellenistic-askesis",
+   "term": "操练（askēsis）",
+   "term_latin": "askēsis",
+   "definition": "希腊化各派的共同工夫概念：哲学不是理论，而是**训练**（askēsis）——通过反复的练习把道理变成习惯。斯多亚派以之治激情，伊壁鸠鲁派以之治恐惧，皮浪派以之治判断。故哲学在此成为“生活的技艺”。",
+   "usages": [
+    {
+     "name": "斯多亚派",
+     "id": "gr-hellenistic-zeno",
+     "usage": "以操练（尤其预演恶事 praemeditatio）治激情。"
+    },
+    {
+     "name": "伊壁鸠鲁派",
+     "id": "gr-hellenistic-epicurus",
+     "usage": "以四药（tetrapharmakos）治恐惧。"
+    },
+    {
+     "name": "皮浪派",
+     "id": "gr-hellenistic-pyrrho",
+     "usage": "以悬置判断（epochē）为操练的目标。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-apatheia",
+    "gr-hellenistic-ataraxia"
+   ],
+   "example": {
+    "text": "“操练”是希腊化伦理学的关键：正因各派都把哲学当作**治疗**，其理论（物理学、逻辑学）才有“为伦理服务”的位置。这也解释了他们为何多写“手册”“书信”而非体系著作 —— 因为操练需要可反复使用的文本。",
+    "figure": "斯多亚派与伊壁鸠鲁派",
+    "locator": "《致梅诺伊克斯的信》；《手册》（爱比克泰德）"
+   },
+   "sources": [
+    "sep-stoicism",
+    "sep-epicurus",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“操练”（askēsis）在各派的侧重不同（斯多亚重预演，伊壁鸠鲁重记忆，皮浪重悬置）；本页取共同义，具体文本须核各派原著与希腊化哲学研究。"
   }
  ],
  "debates": [

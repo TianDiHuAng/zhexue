@@ -454,6 +454,177 @@
    "sort_year": -399
   },
   {
+   "id": "work-euthyphro",
+   "title": "《游叙弗伦》",
+   "title_original": "Εὐθύφρων（Euthyphro）",
+   "tradition": "west",
+   "date_display": "约前399年后（柏拉图早期对话）",
+   "structure": "短篇对话：苏格拉底在王宫前遇游叙弗伦（正要告发其父杀人），追问“虔敬是什么”。",
+   "core_arguments": [
+    "“虔敬是神所喜爱的”与“神喜爱虔敬因为它是虔敬的”不可混同",
+    "若虔敬因神喜爱而虔敬，则虔敬随神意而变（无定准）",
+    "若神喜爱虔敬因其本身虔敬，则虔敬的标准在神意之外"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "游叙弗伦告父"
+    },
+    {
+     "locator": "中段",
+     "point": "虔敬的定义诸尝试"
+    },
+    {
+     "locator": "关键处",
+     "point": "“神喜爱”与“虔敬”的先后"
+    },
+    {
+     "locator": "结尾",
+     "point": "aporia"
+    }
+   ],
+   "editions": [
+    "OCT（Duke 等编）；中译参《柏拉图对话集》（王太庆译）；英译（Grube, Hackett）"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-socrates",
+    "gr-medieval-augustine"
+   ],
+   "misreadings": [
+    {
+     "claim": "它的结论是“虔敬不存在”",
+     "why": "它以 aporia 结束：并非否认虔敬，而是揭示**定义的困难** —— 尤其“神意”不能充当虔敬的标准。"
+    },
+    {
+     "claim": "“游叙弗伦难题”只是神学的",
+     "why": "它是**元伦理学**的难题（道德的标准在神意之内还是之外），故后世（尤其近代伦理学的“自然法”与“神命论”之争）反复引用。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《游叙弗伦》的写作年代与“游叙弗伦难题”的准确表述（是否等同于近代的 Euthyphro dilemma）须分辨；本页依 OCT 与柏拉图研究概述。",
+   "sort_year": -395
+  },
+  {
+   "id": "work-laches",
+   "title": "《拉刻斯》",
+   "title_original": "Λάχης（Laches）",
+   "tradition": "west",
+   "date_display": "约前4世纪初（柏拉图早期对话）",
+   "structure": "短篇对话：两位将军（拉刻斯、尼基阿斯）与苏格拉底讨论“勇敢是什么”，并涉及“是否该让少年学武”。",
+   "core_arguments": [
+    "勇敢不是“坚守阵地不逃”（那是勇敢的一例，不是定义）",
+    "勇敢不是“无知的无畏”（那是鲁莽）",
+    "勇敢若为知识，则须说明它是对“什么”的知识（对话未给出）"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "学武之议"
+    },
+    {
+     "locator": "中段",
+     "point": "拉刻斯的定义与反驳"
+    },
+    {
+     "locator": "中段",
+     "point": "尼基阿斯的“知识”说"
+    },
+    {
+     "locator": "结尾",
+     "point": "aporia 与“共同求知”"
+    }
+   ],
+   "editions": [
+    "OCT；中译参《柏拉图对话集》；英译（Sprague, Hackett）"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-socrates",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是关于“军事教育”的对话",
+     "why": "军事教育只是引子，其主题是**德性的定义**（勇敢），并涉及“德性是否可教”。"
+    },
+    {
+     "claim": "其 aporia 表示失败",
+     "why": "对话以“我们须共同求知”结束 —— aporia 是其**方法**的结果，不是失败。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《拉刻斯》的写作年代与其在“德性统一性”问题上的位置须核；本页依 OCT 与柏拉图研究概述。",
+   "sort_year": -390
+  },
+  {
+   "id": "work-lysis",
+   "title": "《吕西斯》",
+   "title_original": "Λύσις（Lysis）",
+   "tradition": "west",
+   "date_display": "约前4世纪初（柏拉图早期对话）",
+   "structure": "短篇对话：苏格拉底与少年吕西斯、希波塔勒斯讨论“友爱（philia）是什么”。",
+   "core_arguments": [
+    "友爱不是“相似者相亲”（坏人之间并不相亲）",
+    "友爱不是“不相似者相亲”（对立者未必相亲）",
+    "“所缺者爱其所缺”：友爱指向自身所欠缺者（引出“第一友”的问题）"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "希波塔勒斯的恋"
+    },
+    {
+     "locator": "中段",
+     "point": "相似与不相似"
+    },
+    {
+     "locator": "后段",
+     "point": "所缺者爱其所缺"
+    },
+    {
+     "locator": "结尾",
+     "point": "aporia 与“第一友”"
+    }
+   ],
+   "editions": [
+    "OCT；中译参《柏拉图对话集》；英译（Penner & Rowe）"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-socrates",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是关于“爱情”的对话",
+     "why": "其主题是**友爱**（philia）的广义：家人、朋友、城邦之谊皆在其内；故不能窄化为爱情。"
+    },
+    {
+     "claim": "“所缺者爱其所缺”是最终结论",
+     "why": "它引出“第一友”（prōton philon）的难题，对话以 aporia 结束；故它是一条线索，不是结论。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "book-guthrie-greek",
+    "book-copleston-history"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《吕西斯》“第一友”的解释（是否预示《会饮》的爱欲说）在学界有争论；本页依 OCT 与柏拉图研究概述。",
+   "sort_year": -390
+  },
+  {
    "id": "work-symposium",
    "title": "《会饮篇》",
    "title_original": "Συμπόσιον（Symposium）",
