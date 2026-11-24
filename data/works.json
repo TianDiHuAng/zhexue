@@ -35149,6 +35149,120 @@
    "sort_year": 1962
   },
   {
+   "id": "work-eichmann-jerusalem",
+   "title": "《艾希曼在耶路撒冷》",
+   "title_original": "Eichmann in Jerusalem: A Report on the Banality of Evil",
+   "tradition": "west",
+   "date_display": "1963（阿伦特）",
+   "structure": "一部（凡十五章，附〈后记〉与〈致友人书〉）：以1961年耶路撒冷审判的旁听记录为据。",
+   "core_arguments": [
+    "“**恶的平庸**”（the banality of evil）：艾希曼并非魔性，而是**不思想**",
+    "不思想者可以成为巨大罪恶的“齿轮”，故其责任不可推给“服从”",
+    "以“**判断**”的缺失（不能从他人立场想）说其罪"
+   ],
+   "key_points": [
+    {
+     "locator": "第一—五章",
+     "point": "审判与被告"
+    },
+    {
+     "locator": "第六—十二章",
+     "point": "组织与执行"
+    },
+    {
+     "locator": "第十三—十五章",
+     "point": "判决与抵抗"
+    },
+    {
+     "locator": "后记",
+     "point": "恶的平庸"
+    }
+   ],
+   "editions": [
+    "英文本（Viking）；中译参《艾希曼在耶路撒冷》（安尼译）"
+   ],
+   "related_people": [
+    "gr-20c-arendt",
+    "gr-20c-jaspers",
+    "gr-german-kant"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“恶的平庸”是说“罪恶平常无奇”",
+     "why": "其语指**作恶者的不思想**（无思想即无判断），非指罪恶的程度轻微；故其为对“思想之缺失”的诊断，非为恶行减责。"
+    },
+    {
+     "claim": "其书是“为纳粹辩护”",
+     "why": "其书恰恰以“不思想”**追究个人的责任**（并批评犹太社团的配合），故其书引起两方不满；本页并述其争议，不裁定。"
+    }
+   ],
+   "sources": [
+    "sep-arendt",
+    "sep-kant",
+    "sep-jaspers"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《艾希曼在耶路撒冷》的章节与 1963 年初版须核 Viking 版与安尼译本；“恶的平庸”一语的定义（不思想）须核，其对犹太社团的批评所引起的争议须并述而不裁定。",
+   "sort_year": 1963
+  },
+  {
+   "id": "work-on-revolution",
+   "title": "《论革命》",
+   "title_original": "On Revolution",
+   "tradition": "west",
+   "date_display": "1963（阿伦特）",
+   "structure": "六章：论革命的意义、社会问题、追求幸福、立国、宪法与革命的传统。",
+   "core_arguments": [
+    "法国革命以“**社会问题**”（贫困）为动力，故自由让位于必然",
+    "美国革命以“**立国**”（constitutio libertatis）为要，故自由得以制度化",
+    "以“**公共幸福**”与“政治的自由”为革命的真正遗产"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "革命的意义"
+    },
+    {
+     "locator": "第二章",
+     "point": "社会问题"
+    },
+    {
+     "locator": "第四—五章",
+     "point": "立国与宪法"
+    },
+    {
+     "locator": "第六章",
+     "point": "革命的传统"
+    }
+   ],
+   "editions": [
+    "英文本（Viking）；中译参《论革命》（陈周旺译）"
+   ],
+   "related_people": [
+    "gr-20c-arendt",
+    "gr-modern-rousseau",
+    "gr-19c-marx"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“美国革命的赞歌”",
+     "why": "其比较是为**辨明自由的制度化**（立国）何以可能，其对美国亦有批评（如代议制对公共精神的侵蚀）；故非单面的赞歌。"
+    },
+    {
+     "claim": "其“社会问题”是轻视贫困",
+     "why": "其意是：以**必然性**（贫困）为革命的动力，则自由易被推迟；故其为对“政治自由”的关切，非轻视贫困。"
+    }
+   ],
+   "sources": [
+    "sep-arendt",
+    "sep-marx",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论革命》六章与 1963 年初版须核 Viking 版与陈周旺译本；“立国”（constitutio libertatis）的原文亦须核。",
+   "sort_year": 1963
+  },
+  {
    "id": "work-one-dimensional-man",
    "title": "《单向度的人》",
    "title_original": "One-Dimensional Man",
@@ -36514,6 +36628,63 @@
    "needs_verification": true,
    "pending_notes": "《必要的张力》所收论文的原始发表年代（1959—1975）与各篇论点有演进；库恩本人的专条 SEP 未收（故属语境性引用），本页依中译本与科学哲学研究概述。",
    "sort_year": 1977
+  },
+  {
+   "id": "work-life-mind",
+   "title": "《心智生活》",
+   "title_original": "The Life of the Mind",
+   "tradition": "west",
+   "date_display": "1978（阿伦特；遗稿）",
+   "structure": "两部：〈思维〉与〈意志〉；第三部〈判断〉未及写成（其讲稿另编为《康德政治哲学讲稿》）。",
+   "core_arguments": [
+    "“**思维**”是无声的对话（我与自己的二重性）",
+    "“**意志**”是现代的问题（意志的自由与“我愿”的悖论）",
+    "“**判断**”以康德《判断力批判》的“反思判断”为模型（未及成书）"
+   ],
+   "key_points": [
+    {
+     "locator": "〈思维〉",
+     "point": "无声的对话"
+    },
+    {
+     "locator": "〈思维〉论隐喻",
+     "point": "隐喻与思"
+    },
+    {
+     "locator": "〈意志〉",
+     "point": "意志的悖论"
+    },
+    {
+     "locator": "未成之部",
+     "point": "判断与反思"
+    }
+   ],
+   "editions": [
+    "英文本（Harcourt）；中译参《心智生活》（版次待核）；《康德政治哲学讲稿》另有中译"
+   ],
+   "related_people": [
+    "gr-20c-arendt",
+    "gr-german-kant",
+    "gr-20c-heidegger"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是一部“认识论”",
+     "why": "其书论**心智的活动**（思、愿、判）及其与现象世界的关系，故为“心智生活”的现象学，非认识论的技术研究。"
+    },
+    {
+     "claim": "其“判断”未成书故不可论",
+     "why": "其判断之说**有讲稿与讲座可据**（《康德政治哲学讲稿》），故可论；本页据讲稿立说，并标明其为未成之部。"
+    }
+   ],
+   "sources": [
+    "sep-arendt",
+    "sep-kant",
+    "sep-heidegger"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《心智生活》两部的结构与 1978 年遗稿刊行须核 Harcourt 版；“判断”一部未成，本页据《康德政治哲学讲稿》立说并标明，属**语境性引用而非专门研究**。",
+   "sort_year": 1978
   },
   {
    "id": "work-philosophy-mirror-nature",

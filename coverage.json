@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1704,
+  "entries": 1708,
   "by_level": {
    "L2": 779,
-   "L1": 925
+   "L1": 929
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 925,
+  "needs_verification": 929,
   "sources": 422,
   "sources_verified": 422
  },
@@ -16390,6 +16390,28 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-eichmann-jerusalem",
+   "type": "work",
+   "title": "《艾希曼在耶路撒冷》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-on-revolution",
+   "type": "work",
+   "title": "《论革命》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-one-dimensional-man",
    "type": "work",
    "title": "《单向度的人》",
@@ -16646,6 +16668,17 @@
    "id": "work-essential-tension",
    "type": "work",
    "title": "《必要的张力》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-life-mind",
+   "type": "work",
+   "title": "《心智生活》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -18417,6 +18450,17 @@
    "id": "cmp-xiaoji",
    "type": "comparative",
    "title": "“消极自由”与“无为”：自由是没有阻碍吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-pingyong",
+   "type": "comparative",
+   "title": "“恶的平庸”与“庸人”：不思想何以成恶？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
