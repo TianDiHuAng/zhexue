@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1628,
+  "entries": 1632,
   "by_level": {
    "L2": 779,
-   "L1": 849
+   "L1": 853
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 849,
+  "needs_verification": 853,
   "sources": 419,
   "sources_verified": 419
  },
@@ -11792,6 +11792,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-de-aeternitate-mundi",
+   "type": "work",
+   "title": "《论世界的永恒》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-luoyang-qielan",
    "type": "work",
    "title": "《洛阳伽蓝记》",
@@ -12925,6 +12936,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-futuhat-makkiyya",
+   "type": "work",
+   "title": "《麦加的启示》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-breves",
    "type": "work",
    "title": "《短论集》",
@@ -13093,6 +13115,17 @@
    "id": "work-de-primo-principio",
    "type": "work",
    "title": "《论第一原理》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-deutsche-predigten",
+   "type": "work",
+   "title": "《德语布道集》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -17581,6 +17614,17 @@
    "id": "cmp-tidao",
    "type": "comparative",
    "title": "“受造物是迹”与“格物穷理”：由物可以上溯其源吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-lichi",
+   "type": "comparative",
+   "title": "“离弃”与“吾丧我”：要抵达那不可名者，须舍弃什么？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

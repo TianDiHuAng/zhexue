@@ -11414,6 +11414,63 @@
    "sort_year": 524
   },
   {
+   "id": "work-de-aeternitate-mundi",
+   "title": "《论世界的永恒》",
+   "title_original": "De aeternitate mundi contra Proclum",
+   "tradition": "west",
+   "date_display": "529（约翰·菲洛波诺斯）",
+   "structure": "十八卷：逐条驳普罗克洛斯《论世界的永恒》的十八个论证，兼论运动、时间与生成。",
+   "core_arguments": [
+    "以亚里士多德的运动论证本身驳“世界永恒”：无限系列不可实现",
+    "以“冲力”（impetus）说运动：抛射物的运动非由空气推动，而是由施予的力",
+    "世界有始：故须有一个无始的创造者"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—五",
+     "point": "驳“世界永恒”的论证"
+    },
+    {
+     "locator": "卷六—十",
+     "point": "运动与冲力"
+    },
+    {
+     "locator": "卷十一—十八",
+     "point": "生成与时间"
+    },
+    {
+     "locator": "全书",
+     "point": "以亚里士多德驳新柏拉图"
+    }
+   ],
+   "editions": [
+    "希腊文本（Vitelli 编）；英译（Philoponus: Against Proclus on the Eternity of the World, Bloomsbury）"
+   ],
+   "related_people": [
+    "gr-medieval-philoponus",
+    "gr-hellenistic-proclus",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "它只是“神学的护教之作”",
+     "why": "其书以**物理学与逻辑的论证**驳普罗克洛斯（尤其运动与无限），并在运动学上提出“冲力”说；故其为哲学与科学的著作。"
+    },
+    {
+     "claim": "其“冲力”说只是猜测",
+     "why": "其说是对亚里士多德“空气推动”说的**替代解释**，并影响了后世的运动学；故其为有内容的物理学说，非猜测。"
+    }
+   ],
+   "sources": [
+    "sep-philoponus",
+    "sep-proclus",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论世界的永恒》的十八卷结构与 529 年成书须核 Vitelli 本与英译本；“冲力”说的原文亦须核。",
+   "sort_year": 529
+  },
+  {
    "id": "work-luoyang-qielan",
    "title": "《洛阳伽蓝记》",
    "title_original": "洛陽伽藍記",
@@ -17260,6 +17317,63 @@
    "sort_year": 1230
   },
   {
+   "id": "work-futuhat-makkiyya",
+   "title": "《麦加的启示》",
+   "title_original": "Al-Futūḥāt al-Makkiyya",
+   "tradition": "west",
+   "date_display": "约1200—1230年代（伊本·阿拉比）",
+   "structure": "一部（凡数百章）：以苏菲的修行阶次与形而上学为纲，兼含宇宙论、象征解释与门徒的问答。",
+   "core_arguments": [
+    "“存在的一”（waḥdat al-wujūd）：万物皆为那唯一存在的显现",
+    "“想象”（khayāl）为中介的界域：介于纯灵与纯物之间",
+    "“完人”（al-insān al-kāmil）：人为宇宙的缩影与显现的枢纽"
+   ],
+   "key_points": [
+    {
+     "locator": "论存在",
+     "point": "存在的一"
+    },
+    {
+     "locator": "论想象",
+     "point": "中介的界域"
+    },
+    {
+     "locator": "论完人",
+     "point": "宇宙的缩影"
+    },
+    {
+     "locator": "全书",
+     "point": "修行与形而上学相贯"
+    }
+   ],
+   "editions": [
+    "阿拉伯文本（Būlāq 版）；英译选本（The Meccan Revelations, Pir Press）；中译少见"
+   ],
+   "related_people": [
+    "gr-medieval-ibn-arabi",
+    "gr-medieval-al-farabi",
+    "gr-medieval-averroes"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“存在的一”是泛神论",
+     "why": "其说主张万物为**那唯一存在的显现**（非万物即神），并严守“超越”（tanzīh）与“内在”（tashbīh）的并立；故后世对此争讼甚多，本页**并述两说而不裁定**。"
+    },
+    {
+     "claim": "其书是“神秘的呓语”",
+     "why": "其书有严整的术语体系（存在、显现、想象、完人）与修行阶次；故其为体系性的著作，非无序的呓语。"
+    }
+   ],
+   "sources": [
+    "sep-ibn-arabi",
+    "sep-al-farabi",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《麦加的启示》的成书年代与章数须核 Būlāq 版；“存在的一”是否泛神论在学界有争论，本页并述两说而不裁定。中译极少，本页多为义述。",
+   "sort_year": 1230
+  },
+  {
    "id": "work-breves",
    "title": "《短论集》",
    "title_original": "Opuscula（短论合集）",
@@ -18171,6 +18285,63 @@
    "needs_verification": true,
    "pending_notes": "《论第一原理》的成书年代（约1290）与各本章节划分须核梵蒂冈版《司各脱全集》；其与《牛津评注》的关系亦是线索。",
    "sort_year": 1290
+  },
+  {
+   "id": "work-deutsche-predigten",
+   "title": "《德语布道集》",
+   "title_original": "Deutsche Predigten und Traktate",
+   "tradition": "west",
+   "date_display": "约14世纪初（埃克哈特；据弟子记录编成）",
+   "structure": "德语布道与短论若干（今存约百余篇）：以中古德语宣讲其“神性”（Gottheit）与“灵魂的火花”。",
+   "core_arguments": [
+    "“神性”（Gottheit）高于“神”（Gott）：前者是无名无相的一",
+    "灵魂中有“火花”（Seelenfünklein）：与神性同源，故可与之合一",
+    "“离弃”（Abgeschiedenheit）：不执于任何受造之物，乃至不执于“神”这一名相"
+   ],
+   "key_points": [
+    {
+     "locator": "布道 2",
+     "point": "离弃"
+    },
+    {
+     "locator": "布道 52",
+     "point": "灵魂的火花"
+    },
+    {
+     "locator": "布道 71",
+     "point": "神性与神"
+    },
+    {
+     "locator": "短论",
+     "point": "贫乏的人"
+    }
+   ],
+   "editions": [
+    "中古德语文本（Deutsche Werke, Kohlhammer）；英译（The Essential Sermons, Paulist）；中译参《埃克哈特大师文集》（商务）"
+   ],
+   "related_people": [
+    "gr-medieval-eckhart",
+    "gr-medieval-aquinas",
+    "gr-medieval-bonaventure"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“神性高于神”是取消神",
+     "why": "其意是**名相不足以尽那不可名者**（故须离弃名相），非取消神；但其表述确曾招致（1329 年）的谴责，故本页并述其说与当时的判词。"
+    },
+    {
+     "claim": "其为“泛神论”",
+     "why": "其“合一”是在**灵性的深处**（灵魂的火花）而言，非万物皆神；故与斯宾诺莎式的泛神论须分辨。"
+    }
+   ],
+   "sources": [
+    "sep-aquinas",
+    "sep-bonaventure",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《德语布道集》的篇数与中古德语原文须核 Kohlhammer 版与商务中译本；埃克哈特 1329 年受谴责的条目须核，本页并述而不裁定。",
+   "sort_year": 1320
   },
   {
    "id": "work-summa-logicae-ockham",

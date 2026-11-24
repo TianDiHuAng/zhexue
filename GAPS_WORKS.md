@@ -1,9 +1,9 @@
 # GAPS_WORKS.md —— 尚无著作页关联的哲学家名单（D63）
 
 统计方式：`data/works.json` 中所有 `related_people` 的并集，减去哲学家全集。
-用途：按序消化，使覆盖均衡。最近更新：第 249 轮。
+用途：按序消化，使覆盖均衡。最近更新：第 250 轮。
 
-当前剩余：**39 人**
+当前剩余：**36 人**
 
 ## cn-lianghan
 - 郑玄（`cn-lianghan-zheng-xuan`）
@@ -60,9 +60,6 @@
 
 ## gr-medieval
 - 布里丹（`gr-medieval-buridan`）
-- 埃克哈特（`gr-medieval-eckhart`）
-- 伊本·阿拉比（`gr-medieval-ibn-arabi`）
-- 菲洛波诺斯（`gr-medieval-philoponus`）
 - 亚当·沃德汉姆（`gr-medieval-wodeham`）
 
 ## gr-modern
