@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1222,
+  "entries": 1226,
   "by_level": {
    "L2": 792,
-   "L1": 430
+   "L1": 434
   },
   "doctrine": {
    "total": 264,
    "detail": 264,
    "auto": 0
   },
-  "needs_verification": 430,
+  "needs_verification": 434,
   "sources": 409,
   "sources_verified": 409
  },
@@ -11429,6 +11429,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-yuanshan",
+   "type": "work",
+   "title": "《原善》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-social-contract",
    "type": "work",
    "title": "《社会契约论》",
@@ -11462,6 +11473,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-mengzi-sishu-lu",
+   "type": "work",
+   "title": "《孟子私淑录》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-system-nature",
    "type": "work",
    "title": "《自然体系》",
@@ -11476,6 +11498,17 @@
    "id": "work-chunqiu-zhengci",
    "type": "work",
    "title": "《春秋正辞》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-xuyan",
+   "type": "work",
+   "title": "《绪言》",
    "container": "china",
    "level": "L1",
    "sources": 3,
@@ -13115,6 +13148,17 @@
    "id": "cmp-wudingxing",
    "type": "comparative",
    "title": "无定形与“性相近”：皮科与儒家的“人能成为什么”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-yili-sharen",
+   "type": "comparative",
+   "title": "“以理杀人”与“实践智慧”：戴震与亚里士多德对“规则”的警惕",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

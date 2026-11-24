@@ -15930,6 +15930,63 @@
    "sort_year": 1755
   },
   {
+   "id": "work-yuanshan",
+   "title": "《原善》",
+   "title_original": "原善",
+   "tradition": "china",
+   "date_display": "清（戴震；初稿约1750年代，后有改定）",
+   "structure": "三卷（上、中、下）：论善的本原、性与才、以及“以情絜情”的伦理。",
+   "core_arguments": [
+    "“善”在于“生生”：仁、礼、义三者皆所以遂其生",
+    "性不是理，而是**血气心知之自然**；理在“事”中而不在气先",
+    "“以情絜情”：以我之情度人之情，故伦理不是灭绝情欲"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上",
+     "point": "善与生生"
+    },
+    {
+     "locator": "卷中",
+     "point": "性与才"
+    },
+    {
+     "locator": "卷下",
+     "point": "以情絜情"
+    },
+    {
+     "locator": "全书",
+     "point": "对宋儒“理”的批评"
+    }
+   ],
+   "editions": [
+    "中华书局《戴震文集》；《孟子字义疏证》所附；《戴震全书》本"
+   ],
+   "related_people": [
+    "cn-qingmod-dai-zhen",
+    "cn-songming-zhu-xi",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《原善》是《孟子字义疏证》的草稿",
+     "why": "二者有渊源（戴震自述其学经三变），但《原善》自成体系：其以“生生”说善，与《疏证》以“字义”破理学的方式不同；故不宜视为草稿。"
+    },
+    {
+     "claim": "戴震主张“情欲即善”",
+     "why": "他主张“以情絜情”（以我之情度人之情），故情欲须“节”而不须“绝”；这不同于“情欲即善”的放纵说。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "ct-mengzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《原善》的初稿与改定本（三卷）差异、以及其与《绪言》《孟子字义疏证》的先后关系须核《戴震全书》与相关研究；本页依通行本概述。",
+   "sort_year": 1760
+  },
+  {
    "id": "work-social-contract",
    "title": "《社会契约论》",
    "title_original": "Du contrat social",
@@ -16100,6 +16157,59 @@
    "sort_year": 1762
   },
   {
+   "id": "work-mengzi-sishu-lu",
+   "title": "《孟子私淑录》",
+   "title_original": "孟子私淑錄",
+   "tradition": "china",
+   "date_display": "清（戴震；今存辑本，为其孟子学的早期稿）",
+   "structure": "以问答体论《孟子》的义理（理、性、才、仁义），为其后《绪言》《疏证》的早期形态。",
+   "core_arguments": [
+    "以“字义”入手的解经方法（先辨名，再论义）",
+    "对宋儒“理在气先”的批评",
+    "以“血气心知”说性"
+   ],
+   "key_points": [
+    {
+     "locator": "辑本卷上",
+     "point": "理与性"
+    },
+    {
+     "locator": "辑本卷下",
+     "point": "仁义与才"
+    },
+    {
+     "locator": "全书",
+     "point": "与《绪言》的异同"
+    }
+   ],
+   "editions": [
+    "《戴震全书》所收辑本；原稿多已散佚"
+   ],
+   "related_people": [
+    "cn-qingmod-dai-zhen",
+    "cn-xianqin-mengzi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是完整的成书",
+     "why": "其原稿多已散佚，今存者为**辑本**；故只能据残篇立论，须注明。"
+    },
+    {
+     "claim": "它与《绪言》内容相同",
+     "why": "二者有渊源而文字与编排不同（《私淑录》更早）；故不可径直等同。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "ct-mengzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《孟子私淑录》的原稿散佚，今存辑本（见《戴震全书》）；其与《绪言》《疏证》的文本谱系须核专门考订。本页依辑本与相关研究概述。",
+   "sort_year": 1765
+  },
+  {
    "id": "work-system-nature",
    "title": "《自然体系》",
    "title_original": "Système de la nature",
@@ -16210,6 +16320,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《春秋正辞》的义例分类与条目在各本间有出入，其与董仲舒、何休公羊学的关系须核原书；本页依《清史稿》本传与清代学术史研究概述。",
+   "sort_year": 1770
+  },
+  {
+   "id": "work-xuyan",
+   "title": "《绪言》",
+   "title_original": "緒言",
+   "tradition": "china",
+   "date_display": "清（戴震；约1770年代；后改定为《孟子字义疏证》）",
+   "structure": "三卷：以问答体逐条辨析理、天道、性、才、道、仁义礼智、诚、权等字义。",
+   "core_arguments": [
+    "“理”不是“如有物焉得于天而具于心”的实体，而是“事情之条理”",
+    "“理”若被当作实体，则“以理杀人”（尊者、长者、贵者以理责卑幼）",
+    "字义之辨是哲学批判的方法：先正名，再论理"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上",
+     "point": "理与天道"
+    },
+    {
+     "locator": "卷中",
+     "point": "性与才"
+    },
+    {
+     "locator": "卷下",
+     "point": "仁义礼智与诚"
+    },
+    {
+     "locator": "全书",
+     "point": "问答体的方法"
+    }
+   ],
+   "editions": [
+    "《戴震全书》本；后有改定为《孟子字义疏证》"
+   ],
+   "related_people": [
+    "cn-qingmod-dai-zhen",
+    "cn-songming-zhu-xi",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "《绪言》与《孟子字义疏证》是两部不同的书",
+     "why": "《绪言》是《疏证》的**前身**（戴震在其基础上改定）：二者内容大量重合，但体例与措辞有异。故须分辨其先后，而非视为两部独立著作。"
+    },
+    {
+     "claim": "“以理杀人”是戴震的夸张修辞",
+     "why": "其锋芒指向**制度**：当“理”被当作可占有的实体，则上下尊卑皆可借“理”之名压制；故它是伦理—政治的诊断，不只是修辞。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "ct-mengzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《绪言》与《孟子字义疏证》的关系（前身与改定）须核《戴震全书》与相关考订；本页并述二者，不裁定其文本谱系。",
    "sort_year": 1770
   },
   {
