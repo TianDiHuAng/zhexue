@@ -4041,6 +4041,63 @@
    "sort_year": -200
   },
   {
+   "id": "work-gongyang-zhuan",
+   "title": "《春秋公羊传》",
+   "title_original": "春秋公羊傳",
+   "tradition": "china",
+   "date_display": "战国至汉初成书（公羊高所传，汉初著于竹帛）",
+   "structure": "十二卷（通行本）：以问答体逐条解说《春秋》的“微言大义”，起于隐公元年，终于哀公十四年。",
+   "core_arguments": [
+    "“微言大义”：《春秋》的字句选择本身寓有褒贬（“一字褒贬”）",
+    "“三世说”：所见世、所闻世、所传闻世，寓“渐进”之义",
+    "“大一统”：以“春王正月”发其义"
+   ],
+   "key_points": [
+    {
+     "locator": "隐公元年",
+     "point": "“大一统”与“春王正月”"
+    },
+    {
+     "locator": "隐公",
+     "point": "三世说的雏形"
+    },
+    {
+     "locator": "僖公",
+     "point": "“实与而文不与”"
+    },
+    {
+     "locator": "哀公十四年",
+     "point": "“西狩获麟”与《春秋》的终局"
+    }
+   ],
+   "editions": [
+    "《十三经注疏》本（何休注、徐彦疏）；中华书局点校本"
+   ],
+   "related_people": [
+    "cn-xianqin-kongzi",
+    "cn-lianghan-dong-zhongshu",
+    "cn-qingmod-gong-zizhen"
+   ],
+   "misreadings": [
+    {
+     "claim": "《公羊传》是孔子的著作",
+     "why": "它是**解经之作**（公羊一系的传授），以问答体解释《春秋》的书法；其“微言大义”说为后起（尤其何休的发挥），不等于孔子本人的主张。"
+    },
+    {
+     "claim": "“三世说”是《公羊传》原文的明确理论",
+     "why": "“三世”在传文中有其端绪，但作为**系统的历史哲学**（据乱—升平—太平）主要是**何休**与清代今文家的发挥；须分辨传文与后世的建构。"
+    }
+   ],
+   "sources": [
+    "ws-hanshu",
+    "ws-liji",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《公羊传》的成书过程（口传到汉初著于竹帛）与“三世说”的归属（传文 vs 何休的建构）须分辨；本页并述传文与后世发挥，具体文本须核《十三经注疏》本。",
+   "sort_year": -200
+  },
+  {
    "id": "work-xinyu",
    "title": "《新语》",
    "title_original": "新語",
@@ -4549,6 +4606,63 @@
    "sort_year": -100
   },
   {
+   "id": "work-huangdi-neijing",
+   "title": "《黄帝内经》",
+   "title_original": "黃帝內經",
+   "tradition": "china",
+   "date_display": "战国至汉（托名黄帝；今本成型于汉）",
+   "structure": "含《素问》与《灵枢》各八十一篇：以黄帝与岐伯的问答为体，论阴阳五行、藏象、经络、病机、诊法与养生。",
+   "core_arguments": [
+    "以阴阳为“天地之道”：万物之纲纪、变化之父母",
+    "以五行配脏腑：以生克说明生理与病理的关联",
+    "“治未病”：养生的核心在未病之时（“上工治未病”）"
+   ],
+   "key_points": [
+    {
+     "locator": "《素问·阴阳应象大论》",
+     "point": "阴阳为天地之道"
+    },
+    {
+     "locator": "《素问·五藏别论》",
+     "point": "藏象与五行"
+    },
+    {
+     "locator": "《素问·四气调神大论》",
+     "point": "治未病"
+    },
+    {
+     "locator": "《灵枢·本神》",
+     "point": "神与形"
+    }
+   ],
+   "editions": [
+    "人民卫生出版社《黄帝内经素问》《灵枢经》校释本；郭霭春《黄帝内经素问校注》"
+   ],
+   "related_people": [
+    "cn-lianghan-dong-zhongshu",
+    "cn-xianqin-xunzi",
+    "cn-xianqin-zhuangzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它出自黄帝之手",
+     "why": "它是**托名**之作（今本成型于汉代），其内容非一人一时之作；故只能标“托名黄帝”。"
+    },
+    {
+     "claim": "它只是医学书，与哲学无关",
+     "why": "它以阴阳五行为**宇宙论框架**，其“天人相应”与“治未病”涉及身体、自然与伦理的关系；故它同时是中国哲学的重要文本（尤其气论与身体观）。"
+    }
+   ],
+   "sources": [
+    "ws-liji",
+    "ct-zhuangzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《黄帝内经》的成书年代（战国至汉，非一人一时）与《素问》《灵枢》各八十一篇的构成须核校释本；其与阴阳家、道家（尤其《庄子》）的关系亦须分辨。",
+   "sort_year": -100
+  },
+  {
    "id": "work-bao-ren-an",
    "title": "《报任安书》",
    "title_original": "報任安書",
@@ -4659,6 +4773,63 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": -91
+  },
+  {
+   "id": "work-yantie-lun",
+   "title": "《盐铁论》",
+   "title_original": "鹽鐵論",
+   "tradition": "china",
+   "date_display": "约前81年会议；宣帝时桓宽整理",
+   "structure": "十卷六十篇：以“文学”“大夫”双方的辩论为体，记盐铁、均输、平准等政策的争论。",
+   "core_arguments": [
+    "“文学”一方：以德教为本，反对与民争利（政府经营工商）",
+    "“大夫”一方：以国家安全与财政为据，主张盐铁官营",
+    "双方争的是**国家权力的边界**：政府应否直接经营经济"
+   ],
+   "key_points": [
+    {
+     "locator": "〈本议〉",
+     "point": "争论的总纲"
+    },
+    {
+     "locator": "〈力耕〉〈通有〉",
+     "point": "本末之辨"
+    },
+    {
+     "locator": "〈备胡〉〈击之〉",
+     "point": "边防与财政"
+    },
+    {
+     "locator": "〈杂论〉",
+     "point": "双方的总结"
+    }
+   ],
+   "editions": [
+    "王利器《盐铁论校注》（中华书局）；《诸子集成》本"
+   ],
+   "related_people": [
+    "cn-lianghan-dong-zhongshu",
+    "cn-lianghan-ban-gu",
+    "cn-xianqin-xunzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是桓宽的政治主张",
+     "why": "它记录的是**双方的辩论**（文学与大夫）；桓宽本人倾向“文学”一方，但书中保存了大夫的论据，故不能径直当作其一方的宣传。"
+    },
+    {
+     "claim": "它只是经济史材料",
+     "why": "其争论的核心是**国家权力的边界**（政府应否与民争利），故同时是政治哲学文本；其“本末”之辨承先秦的义利之辨。"
+    }
+   ],
+   "sources": [
+    "ws-hanshu",
+    "ct-xunzi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《盐铁论》的成书（桓宽据会议记录整理）与篇数（通行60篇）须核王利器校注本；其“文学”“大夫”双方立场的代表性亦须分辨。",
+   "sort_year": -81
   },
   {
    "id": "work-dererum-natura",

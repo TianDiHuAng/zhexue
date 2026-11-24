@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1130,
+  "entries": 1134,
   "by_level": {
    "L2": 786,
-   "L1": 344
+   "L1": 348
   },
   "doctrine": {
    "total": 255,
    "detail": 255,
    "auto": 0
   },
-  "needs_verification": 344,
+  "needs_verification": 348,
   "sources": 399,
   "sources_verified": 399
  },
@@ -8769,6 +8769,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-gongyang-zhuan",
+   "type": "work",
+   "title": "《春秋公羊传》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-xinyu",
    "type": "work",
    "title": "《新语》",
@@ -8868,6 +8879,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-huangdi-neijing",
+   "type": "work",
+   "title": "《黄帝内经》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-bao-ren-an",
    "type": "work",
    "title": "《报任安书》",
@@ -8887,6 +8909,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-yantie-lun",
+   "type": "work",
+   "title": "《盐铁论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
    "updated": "2026-11-24"
   },
   {
@@ -12094,6 +12127,17 @@
    "id": "cmp-fuyuan",
    "type": "comparative",
    "title": "“补充”的两种命运：德里达的 supplément 与庄子的“卮言”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-weibing",
+   "type": "comparative",
+   "title": "治未病与“预防”：两种“尚未发生”的治理",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
