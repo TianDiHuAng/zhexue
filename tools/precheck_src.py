@@ -184,3 +184,17 @@ def require_work_id_new(ids):
     bad = [i for i in ids if i in have]
     if bad:
         raise AssertionError("id 已被占用（D51）：%s" % ", ".join(bad))
+
+
+def require_concept_term_new(terms):
+    """D54：概念 term 必须在全部单元内唯一（check.py 不跨单元查同名，只有体检的重复标题能抓）。"""
+    import json, glob as _g
+    seen = {}
+    for f in _g.glob('data/*/*.json'):
+        d = json.load(open(f, encoding='utf-8'))
+        if isinstance(d, dict) and 'concepts' in d:
+            for c in d['concepts']:
+                seen[c.get('term')] = d.get('unit_id', f)
+    bad = [(t, seen[t]) for t in terms if t in seen]
+    if bad:
+        raise AssertionError("概念术语已存在（D54 全局查重）：%s" % "; ".join("%s@%s" % b for b in bad))

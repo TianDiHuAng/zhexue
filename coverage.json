@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1271,
+  "entries": 1276,
   "by_level": {
    "L2": 792,
-   "L1": 479
+   "L1": 484
   },
   "doctrine": {
    "total": 268,
    "detail": 268,
    "auto": 0
   },
-  "needs_verification": 479,
+  "needs_verification": 484,
   "sources": 409,
   "sources_verified": 409
  },
@@ -30,7 +30,7 @@
    "title": "南北朝佛道与形神之争",
    "region": "china",
    "philosophers": 10,
-   "concepts": 13,
+   "concepts": 14,
    "debates": 4,
    "philosophers_slot": "8 上限，余 -2"
   },
@@ -982,6 +982,17 @@
    "id": "cn-nanbei-jiamo",
    "type": "concept",
    "title": "羯磨",
+   "container": "cn-nanbei",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-nanbei-sizhong-erdi",
+   "type": "concept",
+   "title": "四重二谛",
    "container": "cn-nanbei",
    "level": "L1",
    "sources": 3,
@@ -10483,6 +10494,39 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-sanlun-xuanyi",
+   "type": "work",
+   "title": "《三论玄义》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-dacheng-xuanlun",
+   "type": "work",
+   "title": "《大乘玄论》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-erdi-yi",
+   "type": "work",
+   "title": "《二谛义》",
+   "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-zhongshuo",
    "type": "work",
    "title": "《中说》",
@@ -13654,6 +13698,17 @@
    "id": "cmp-jielv",
    "type": "comparative",
    "title": "戒律与礼：僧团制度与儒家礼制的两种“规范”",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-poqie",
+   "type": "comparative",
+   "title": "破邪显正与“辩证法”：吉藏与柏拉图的两条否定之路",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

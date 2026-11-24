@@ -10154,6 +10154,173 @@
    "sort_year": 594
   },
   {
+   "id": "work-sanlun-xuanyi",
+   "title": "《三论玄义》",
+   "title_original": "三論玄義",
+   "tradition": "china",
+   "date_display": "隋（吉藏，549—623）",
+   "structure": "二卷：分“通序大归”（破邪、显正）与“别释众品”（十三科），以“破邪显正”为纲。",
+   "core_arguments": [
+    "“破邪即显正”：不另立一“正”，破邪之处即是正",
+    "以“四重二谛”层层遣执",
+    "对“有所得”的批判：一切执实有的见解皆须遣"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上 破邪",
+     "point": "破外道与小乘"
+    },
+    {
+     "locator": "卷上 显正",
+     "point": "破邪即显正"
+    },
+    {
+     "locator": "卷下 别释",
+     "point": "十三科的义理"
+    },
+    {
+     "locator": "全书",
+     "point": "四重二谛"
+    }
+   ],
+   "editions": [
+    "《大正藏》第45卷；中华书局《三论玄义校释》（韩廷杰）"
+   ],
+   "related_people": [
+    "cn-suitang-jizang",
+    "cn-weijin-sengzhao",
+    "cn-suitang-zhiyi"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“建立一个体系”的著作",
+     "why": "其纲是“破邪显正”：不另立一“正”而只破执；故其方法是否定性的（“无得”），不宜当作正面建构的体系。"
+    },
+    {
+     "claim": "“四重二谛”是四种真理",
+     "why": "它是**层层遣执**的次第：每一重以二谛破前一重的执，至第四重连“二谛”亦遣；故它是方法，不是四级真理。"
+    }
+   ],
+   "sources": [
+    "ws-zhaolun",
+    "book-chan-sourcebook",
+    "ws-mohezhiguan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《三论玄义》的科判（通行十三科）与“四重二谛”的层次须核《大正藏》第45卷与韩廷杰校释本。",
+   "sort_year": 600
+  },
+  {
+   "id": "work-dacheng-xuanlun",
+   "title": "《大乘玄论》",
+   "title_original": "大乘玄論",
+   "tradition": "china",
+   "date_display": "隋（吉藏）",
+   "structure": "五卷：以“二谛”“八不”“佛性”“一乘”“涅槃”等义目为科，逐项以四重遣执的方式论之。",
+   "core_arguments": [
+    "以“二谛”为总纲：一切义目皆可归入二谛的层次",
+    "“佛性”亦有层次的遣执（不立一“常有”之性）",
+    "以“无得”为究竟：有所得则非大乘"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "二谛义"
+    },
+    {
+     "locator": "卷二",
+     "point": "八不与中道"
+    },
+    {
+     "locator": "卷三",
+     "point": "佛性义"
+    },
+    {
+     "locator": "卷四—五",
+     "point": "一乘与涅槃"
+    }
+   ],
+   "editions": [
+    "《大正藏》第45卷"
+   ],
+   "related_people": [
+    "cn-suitang-jizang",
+    "cn-weijin-sengzhao",
+    "cn-nanbei-foxing"
+   ],
+   "misreadings": [
+    {
+     "claim": "它对“佛性”有肯定的主张",
+     "why": "其论“佛性”亦用遣执的方式：既破“本有”，亦破“始有”，故不立一“常有”之性；其立场是“无得”。"
+    },
+    {
+     "claim": "它与《三论玄义》重复",
+     "why": "《玄义》是总纲与方法（破邪显正），《玄论》则**逐义目**展开（二谛、佛性、涅槃等）；故二者分工不同。"
+    }
+   ],
+   "sources": [
+    "ws-zhaolun",
+    "book-chan-sourcebook",
+    "ws-dacheng-qixinlun"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《大乘玄论》的卷数与科目（通行五卷）须核《大正藏》第45卷；其“佛性”义的遣执方式须对照《大乘起信论》的“如来藏”说。",
+   "sort_year": 605
+  },
+  {
+   "id": "work-erdi-yi",
+   "title": "《二谛义》",
+   "title_original": "二諦義",
+   "tradition": "china",
+   "date_display": "隋（吉藏）",
+   "structure": "三卷：专论二谛的诸家异说、四重二谛的层次，以及二谛与“教”“理”的关系。",
+   "core_arguments": [
+    "二谛是“教”而非“理”：佛以二谛为说法的方便",
+    "“四重二谛”：以层层遣执破诸家的二谛说",
+    "究竟处“二谛”亦不可得（“不二”亦遣）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷上",
+     "point": "诸家二谛说"
+    },
+    {
+     "locator": "卷中",
+     "point": "四重二谛"
+    },
+    {
+     "locator": "卷下",
+     "point": "二谛与教理"
+    }
+   ],
+   "editions": [
+    "《大正藏》第45卷；《中国佛教思想资料选编》所收"
+   ],
+   "related_people": [
+    "cn-suitang-jizang",
+    "cn-nanbei-zhendi",
+    "cn-weijin-sengzhao"
+   ],
+   "misreadings": [
+    {
+     "claim": "二谛是两种“实在”",
+     "why": "吉藏明确说二谛是**教**（说法的方便），不是两种实在；故其说是解释学的，不是本体论的二分。"
+    },
+    {
+     "claim": "四重二谛是“四层真理”",
+     "why": "它是**遣执的次第**：每一重以二谛破前一重的执，第四重连“二谛”也遣；故其终点是“无得”，不是第四层真理。"
+    }
+   ],
+   "sources": [
+    "ws-zhaolun",
+    "ws-mohezhiguan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《二谛义》的三卷结构与“四重二谛”的原文须核《大正藏》第45卷；“二谛是教”的确切表述亦须核。",
+   "sort_year": 607
+  },
+  {
    "id": "work-zhongshuo",
    "title": "《中说》",
    "title_original": "中說（文中子）",

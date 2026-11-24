@@ -1979,6 +1979,42 @@
    ],
    "needs_verification": true,
    "pending_notes": "“羯磨”的诸种作法（白、白二、白四）与《四分律》的具体规定须核；本页取其程序义，具体条文须核原书。"
+  },
+  {
+   "id": "cn-nanbei-sizhong-erdi",
+   "term": "四重二谛",
+   "term_latin": "the fourfold two truths",
+   "definition": "吉藏的方法：以四重二谛层层遣执 —— ①以“有”为俗、“空”为真；②以“有·空”为俗、“非有非空”为真；③以“二·不二”为俗、“非二非不二”为真；④以“三句”为俗、“四句”为真，终至“言忘虑绝”。故其终点不是“第四层真理”，而是**无得**。",
+   "usages": [
+    {
+     "name": "吉藏",
+     "usage": "以四重二谛遣诸家的二谛执，归于“无得”。"
+    },
+    {
+     "name": "僧肇（其前驱）",
+     "usage": "以“不真空”破“有无”的对待。"
+    },
+    {
+     "name": "天台（其对照）",
+     "usage": "以“三谛圆融”立肯定的结构，与三论的遣执取向不同。"
+    }
+   ],
+   "related": [
+    "cn-nanbei-jiamo",
+    "cn-nanbei-foxing"
+   ],
+   "example": {
+    "text": "“四重二谛”的要害是它**不留下任何一层作为终点**：每一层都只是“破前一层”的方便，故第四重之后仍须遣。这一方法的力量在于彻底（不立一法），其风险在于：若无“所立”，则教化的次第与判教如何成立？——三论宗与天台的分歧正从此起。",
+    "figure": "吉藏",
+    "locator": "《二谛义》"
+   },
+   "sources": [
+    "ws-zhaolun",
+    "ws-mohezhiguan",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“四重二谛”的层次表述（各家转述略有差异）须核《二谛义》与《大乘玄论》原文；本页取通行四重说。"
   }
  ],
  "debates": [
