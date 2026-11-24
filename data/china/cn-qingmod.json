@@ -3305,6 +3305,156 @@
      "note": "1903 年"
     }
    ]
+  },
+  {
+   "id": "cn-qingmod-yan-ruoju",
+   "name": "阎若璩",
+   "latin": "Yan Ruoju",
+   "birth_year": 1636,
+   "death_year": 1704,
+   "birth_display": "1636年",
+   "death_display": "1704年",
+   "birth_note": "据《清史稿》儒林传：字百诗，山西太原人（寄籍淮安），清代考据学的代表人物；以《尚书古文疏证》著称。",
+   "death_note": "1704年卒（《清史稿》儒林传）。",
+   "era": "清代考据学的奠基者之一。其《尚书古文疏证》以“八条”“一百二十八条”的细密考订，判定东晋所出《古文尚书》二十五篇为伪作 —— 这一结论推翻了孔颖达《尚书正义》所依据的“伪孔传”，也动摇了宋明理学“人心道心”之说的经典依据。故其意义不止于文献学：它用**考据**的方式改写了道学的经典基础。",
+   "school": "清代考据学（辨伪）",
+   "core_questions": [
+    "经典的真伪如何判定？",
+    "若《古文尚书》为伪，则理学的心性之说何以立？",
+    "考据与义理是何关系？"
+   ],
+   "arguments": [
+    {
+     "claim": "以“文献的证据”判真伪，不以“义理的高下”判真伪",
+     "premises": [
+      "伪古文《尚书》的篇目、文句、制度、历法皆有可考之处。",
+      "而这些可考之处与该书所称的年代不合。"
+     ],
+     "inference": "若证据显示其不合，则不论其义理多么可取，皆须判为伪作；故其方法是**证据先行**，与“以义理定真伪”正相反。",
+     "conclusion": "以证据判真伪（此方法奠定了清代考据学的范式）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "辨伪之后仍须“存其义”：不以伪废其说",
+     "premises": [
+      "伪古文《尚书》虽伪，其说（如“人心惟危，道心惟微”）已深入宋明理学。",
+      "而学术的判断与思想的评价可以分开。"
+     ],
+     "inference": "若二者可分，则辨伪不必导致“尽弃其说”；故其结论是“**书伪而说不尽废**”。这一分寸正是考据学者的自我节制。",
+     "conclusion": "书伪而说不尽废（此分寸为清儒所重）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《尚书古文疏证》",
+     "edition": "上海古籍出版社点校本；《皇清经解续编》本",
+     "note": "约1700"
+    },
+    {
+     "title": "《四书释地》",
+     "edition": "《皇清经解》本（版次待核）",
+     "note": "清"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "朱熹（其前驱之疑）",
+     "id": null,
+     "note": "朱子已疑部分晚出篇目，阎氏承其疑而实证之"
+    },
+    {
+     "name": "顾炎武（其学风）",
+     "id": "cn-qingmod-gu-yanwu",
+     "note": "以考据求是的学风为其背景"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "清代考据学",
+     "id": null,
+     "note": "以其辨伪为范式"
+    },
+    {
+     "name": "崔述、康有为等",
+     "id": null,
+     "note": "承其疑古之风而推及群经"
+    },
+    {
+     "name": "理学",
+     "id": null,
+     "note": "其经典依据被动摇（“人心道心”出于伪篇）"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "理学一系（隐含）",
+     "view": "指其辨伪虽确，却忽略了经典在历史中形成的**教化功能**：书虽伪，其说已活在人心中。",
+     "response": "阎氏一系的回应是：学术的判断与教化的施行分属两域；学者之责在求真，至于“说不尽废”，其已言之。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-qingshigao",
+      "ws-shangshu"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《尚书古文疏证》一举证成伪古文",
+     "why": "其书为**长期增订**之作（八卷，条数各本不一），且其结论在清代仍有争论；至丁晏、惠栋等续证而渐成定论。故须标其过程性。"
+    },
+    {
+     "claim": "其辨伪是为了“反理学”",
+     "why": "其动机是**求真**（文献的证据），非门户之争；其本人并不否认伪篇之说的价值（“书伪而说不尽废”）。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>阎若璩：以证据判真伪</text><defs><marker id='aYR' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>伪古文的篇目文句可考</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而其与所称年代不合</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故不论义理皆判为伪</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>而书伪说不尽废</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aYR)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aYR)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "阎若璩：以文献证据判定《古文尚书》之伪（示意图）",
+   "sources": [
+    "ws-qingshigao",
+    "ws-shangshu",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "阎若璩无 SEP 专条（已试 yan-ruoju，404）；本页依《清史稿》儒林传、维基文库《尚书》与 SEP“中国形而上学”词条，**属语境性引用而非专门研究**。《尚书古文疏证》的条数（各本 128／180 条不等）须核上海古籍出版社点校本。",
+   "doctrine": {
+    "summary": "阎若璩以《尚书古文疏证》判定东晋所出《古文尚书》二十五篇为伪：其方法是**证据先行**（篇目、文句、制度、历法皆与该书所称年代不合），而非以义理定真伪。其结论动摇了宋明理学“人心道心”之说的经典依据，但他本人主张“书伪而说不尽废”—— 学术判断与教化施行分属两域。",
+    "system": [
+     {
+      "name": "证据先行",
+      "content": "以文献的合否判真伪，不以义理的高下判真伪。"
+     },
+     {
+      "name": "书伪而说不尽废",
+      "content": "辨伪不必导致尽弃其说，二者分属两域；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "过程性",
+      "content": "其书为长期增订之作，结论至惠栋、丁晏等续证而渐定。"
+     },
+     {
+      "name": "承朱子之疑",
+      "content": "朱子已疑部分晚出篇目，阎氏承其疑而实证之。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "太原、淮安与北京（1636—1704）",
+      "change": "少时寄籍淮安；屡试不第；以《尚书古文疏证》著称；晚年应召入京，与修《大清一统志》；1704 年卒。"
+     }
+    ],
+    "reception": "《尚书古文疏证》成为清代辨伪学的范式，崔述、康有为等的疑古皆承其风；其结论动摇了理学“人心道心”的经典依据，也使“考据”成为清代学术的主流方法。"
+   },
+   "works_detail": [
+    {
+     "title": "《尚书古文疏证》",
+     "structure": "八卷：列条考订伪古文《尚书》的篇目、文句、制度与历法之不合。",
+     "core_thesis": "以证据判定古文《尚书》之伪；这是该书的核心命题。",
+     "editions": "上海古籍出版社点校本",
+     "note": "约1700 年"
+    }
+   ]
   }
  ],
  "concepts": [

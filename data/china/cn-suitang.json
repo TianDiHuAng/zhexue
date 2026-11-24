@@ -2059,6 +2059,156 @@
      "note": "篇幅短小，为四法界的浓缩表述"
     }
    ]
+  },
+  {
+   "id": "cn-suitang-kong-yingda",
+   "name": "孔颖达",
+   "latin": "Kong Yingda",
+   "birth_year": 574,
+   "death_year": 648,
+   "birth_display": "574年",
+   "death_display": "648年",
+   "birth_note": "据《旧唐书》本传：冀州衡水人，隋末唐初经学家，入唐为秦王府文学馆学士，官至国子祭酒，主持《五经正义》的编纂。",
+   "death_note": "648年卒（《旧唐书》本传）。",
+   "era": "唐初经学的组织者与定本的确立者。其主持的《五经正义》（含《尚书正义》《毛诗正义》《礼记正义》《春秋左传正义》《周易正义》）以“疏不破注”为体例，综合南北朝的义疏，成为科举与官学的标准；其《尚书正义》采伪古文《尚书》，这一选择影响了此后千年的《书》学。故其思想的位置不在独创，而在**定本**—— 定本本身就是一种哲学的抉择。",
+   "school": "唐初经学（五经正义）",
+   "core_questions": [
+    "经义应以何为准：师说、注疏，还是新解？",
+    "南北朝的义疏如何综合为一？",
+    "伪古文《尚书》该不该采？"
+   ],
+   "arguments": [
+    {
+     "claim": "疏不破注：以注为准，疏以解注",
+     "premises": [
+      "注（如郑玄、王弼、伪孔传）已成一家之学。",
+      "而科举须有定本，不容歧说。"
+     ],
+     "inference": "若定本须依一家之注，则疏的职责是**解注**而非驳注；故《正义》的体例是“疏不破注”，其结果是经义的**统一**与**僵化**同时发生。",
+     "conclusion": "疏不破注（此体例决定了唐代经学的形态）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "采伪孔传《尚书》：以“传”为准的《书》学",
+     "premises": [
+      "伪孔安国传在南北朝已流行（南方尤盛）。",
+      "而《正义》须择一为准。"
+     ],
+     "inference": "若择伪孔传为准，则《书》学此后千年皆依其义；故其选择不是“考据的真伪”问题，而是**定本的政治**问题 —— 而这一选择要到清代阎若璩才被系统地推翻。",
+     "conclusion": "采伪孔传（此选择使《书》学的真伪问题延后千年）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《五经正义》",
+     "edition": "中华书局《十三经注疏》本（其中《尚书正义》即孔颖达等）；维基文库本",
+     "note": "653年颁行"
+    },
+    {
+     "title": "《尚书正义》",
+     "edition": "《十三经注疏》本；维基文库本",
+     "note": "唐"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "南北朝义疏诸家",
+     "id": null,
+     "note": "皇侃、熊安生等为其综合的对象"
+    },
+    {
+     "name": "陆德明（其同僚）",
+     "id": null,
+     "note": "《经典释文》同为唐初经学的定音之作"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "阎若璩（其推翻者）",
+     "id": null,
+     "note": "以《尚书古文疏证》证伪古文《尚书》"
+    },
+    {
+     "name": "清代考据学",
+     "id": null,
+     "note": "以《正义》所定为问题重新审查"
+    },
+    {
+     "name": "科举制度",
+     "id": null,
+     "note": "以《正义》为《五经》的标准"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "清代考据学者",
+     "view": "指其“疏不破注”使经义僵化：注既误，疏亦随之误，且不容纠正。",
+     "response": "孔颖达一系的回应（隐含）：定本是官学的**必要条件** —— 没有定本则科举无法进行；故其取舍是制度的选择，不只是学术的判断。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-jiutangshu",
+      "ws-shangshu"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《五经正义》是孔颖达一人的著作",
+     "why": "它是**集体编纂**（孔颖达领衔，参与者数十人），且综合了南北朝的义疏；故其性质是“官修定本”，不是个人著作。"
+    },
+    {
+     "claim": "其“疏不破注”是纯粹的保守",
+     "why": "这一体例是**制度的选择**（科举须有定本）；其代价是僵化，其收益是统一。故须在制度与学术两个层面分别评价。"
+    }
+   ],
+   "quotes": [],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>孔颖达：疏不破注与定本</text><defs><marker id='aKY' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>注已成一家之学</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>而科举须有定本</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故疏以解注为职</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故经义统一而僵化</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aKY)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aKY)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "孔颖达：“疏不破注”与《五经正义》的定本（示意图）",
+   "sources": [
+    "ws-jiutangshu",
+    "ws-shangshu-zhengyi",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "孔颖达无 SEP 专条（已试 kong-yingda，404）；本页依《旧唐书》本传、维基文库《尚书正义》与 SEP“中国形而上学”词条，**属语境性引用而非专门研究**。《五经正义》的编纂过程与参与者须核《旧唐书》及经学史研究。",
+   "doctrine": {
+    "summary": "孔颖达是唐初经学的组织者：其主持的《五经正义》以“疏不破注”为体例，综合南北朝的义疏，成为科举与官学的定本。其《尚书正义》采伪古文《尚书》，使《书》学的真伪问题延后千年（至阎若璩）。故其贡献不在独创，而在**定本** —— 而定本本身即一种哲学的与制度的抉择：以统一换僵化。",
+    "system": [
+     {
+      "name": "疏不破注",
+      "content": "疏的职责是解注而非驳注，以保证定本的统一。"
+     },
+     {
+      "name": "定本的政治",
+      "content": "科举须有定本；故择一家之注为准，是制度的选择。"
+     },
+     {
+      "name": "采伪孔传",
+      "content": "《书》学依伪孔传，真伪问题延后至清；这一条在其学说体系中不可省略。"
+     },
+     {
+      "name": "综合南北",
+      "content": "以官修的方式综合南北朝的义疏；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "衡水与长安（574—648）",
+      "change": "隋末为河内郡博士；入唐为秦王府文学馆学士；贞观中官至国子祭酒；主持《五经正义》；653 年颁行；648 年卒。"
+     }
+    ],
+    "reception": "《五经正义》成为唐至清科举与官学的标准，其“疏不破注”的体例决定了经学的形态；其采伪古文《尚书》的选择，成为清代考据学的首要问题（阎若璩《尚书古文疏证》）。"
+   },
+   "works_detail": [
+    {
+     "title": "《五经正义》",
+     "structure": "含《周易》《尚书》《毛诗》《礼记》《春秋左传》五经的“正义”，以疏解注。",
+     "core_thesis": "疏不破注，以定本统一经义；这是该书的核心命题。",
+     "editions": "《十三经注疏》本",
+     "note": "653 年颁行"
+    }
+   ]
   }
  ],
  "concepts": [

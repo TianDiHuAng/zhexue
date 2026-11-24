@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1369,
+  "entries": 1371,
   "by_level": {
    "L2": 781,
-   "L1": 588
+   "L1": 590
   },
   "doctrine": {
-   "total": 274,
-   "detail": 274,
+   "total": 276,
+   "detail": 276,
    "auto": 0
   },
-  "needs_verification": 588,
-  "sources": 416,
-  "sources_verified": 416
+  "needs_verification": 590,
+  "sources": 418,
+  "sources_verified": 418
  },
  "units": [
   {
@@ -38,10 +38,10 @@
    "unit_id": "cn-qingmod",
    "title": "清代与近代转型",
    "region": "china",
-   "philosophers": 21,
+   "philosophers": 22,
    "concepts": 21,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -13"
+   "philosophers_slot": "8 上限，余 -14"
   },
   {
    "unit_id": "cn-songming",
@@ -56,10 +56,10 @@
    "unit_id": "cn-suitang",
    "title": "隋唐佛学",
    "region": "china",
-   "philosophers": 14,
+   "philosophers": 15,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -6"
+   "philosophers_slot": "8 上限，余 -7"
   },
   {
    "unit_id": "cn-weijin",
@@ -1386,6 +1386,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "cn-qingmod-yan-ruoju",
+   "type": "philosopher",
+   "title": "阎若璩",
+   "container": "cn-qingmod",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "cn-qingmod-jingshi-zhizhiyong",
    "type": "concept",
    "title": "经世致用",
@@ -2489,6 +2500,17 @@
    "id": "cn-suitang-chengguan",
    "type": "philosopher",
    "title": "澄观",
+   "container": "cn-suitang",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cn-suitang-kong-yingda",
+   "type": "philosopher",
+   "title": "孔颖达",
    "container": "cn-suitang",
    "level": "L1",
    "sources": 3,
