@@ -18231,6 +18231,63 @@
    "sort_year": 1250
   },
   {
+   "id": "work-de-verbo",
+   "title": "《论圣言》",
+   "title_original": "De verbo（《箴言四书》卷一 dist. 27 的评注）",
+   "tradition": "west",
+   "date_display": "约1250年代（波那文图拉）",
+   "structure": "一部（评注体）：论“圣言”（Verbum）与“表达”（expressio）的神学与认识论。",
+   "core_arguments": [
+    "“**圣言**”是上帝自我表达的方式：其言即其知",
+    "人的认识亦有“**内在之言**”（verbum interius）：概念即心灵的语言",
+    "故以“言”通神学与认识论（奥古斯丁一系的路数）"
+   ],
+   "key_points": [
+    {
+     "locator": "论圣言",
+     "point": "神的自我表达"
+    },
+    {
+     "locator": "论内在之言",
+     "point": "概念即语言"
+    },
+    {
+     "locator": "论受造之言",
+     "point": "天使与人的言"
+    },
+    {
+     "locator": "全篇",
+     "point": "以言通神学与认识"
+    }
+   ],
+   "editions": [
+    "拉丁文本（Opera omnia, Quaracchi, vol. II）；英译少见；中译少见"
+   ],
+   "related_people": [
+    "gr-medieval-bonaventure",
+    "gr-medieval-augustine",
+    "gr-medieval-aquinas"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“语法学的讨论”",
+     "why": "其“言”是**形而上学的与神学的**（存在如何被表达），故其为认识论与神学的著作，非语法学。"
+    },
+    {
+     "claim": "其“内在之言”是“内心的说话”",
+     "why": "其“内在之言”是**概念的形成**（心灵对物的表达），故其为认识的结构，非心理的默语。"
+    }
+   ],
+   "sources": [
+    "sep-bonaventure",
+    "sep-augustine",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论圣言》为《箴言四书》卷一 dist. 27 的评注，其文本须核 Quaracchi 版卷二；“内在之言”的原文亦须核。中译少。",
+   "sort_year": 1250
+  },
+  {
    "id": "work-sentences-commentary",
    "title": "《箴言四书注》",
    "title_original": "Scriptum super Sententiis（箴言四书注）",
@@ -19030,6 +19087,63 @@
    "sort_year": 1290
   },
   {
+   "id": "work-ordinatio",
+   "title": "《牛津评注》",
+   "title_original": "Ordinatio（《箴言四书牛津评注》的定本）",
+   "tradition": "west",
+   "date_display": "约1300—1308（司各脱）",
+   "structure": "依《箴言四书》次第的四大卷（定本）：以“**精细**”的区分与论证见称。",
+   "core_arguments": [
+    "“**单义性**”（univocatio）：存在（ens）对上帝与受造物是**同一意义**的（非类比）",
+    "“**此性**”（haecceitas）：个体的个别性由“此性”而成，非由质料",
+    "意志优先于理智：故其伦理学以**自由**为核心"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "存在的单义性"
+    },
+    {
+     "locator": "卷二",
+     "point": "个体化与此性"
+    },
+    {
+     "locator": "卷三",
+     "point": "意志与爱"
+    },
+    {
+     "locator": "卷四",
+     "point": "圣事与终末"
+    }
+   ],
+   "editions": [
+    "拉丁文本（Opera omnia, Civitas Vaticana）；英译选本（Duns Scotus: Philosophical Writings）；中译少见"
+   ],
+   "related_people": [
+    "gr-medieval-duns-scotus",
+    "gr-medieval-aquinas",
+    "gr-medieval-ockham"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“单义性”是“取消上帝的超越”",
+     "why": "其说主张存在一词对二者**同一意义**（否则无从言说上帝），同时以“无限性”区分二者；故其为言说的条件，非取消超越。"
+    },
+    {
+     "claim": "其“此性”是“本质”",
+     "why": "其“此性”恰是**不可再普遍化的个别性**（非本质），故其为个体化的原理，非本质。"
+    }
+   ],
+   "sources": [
+    "sep-duns-scotus",
+    "sep-aquinas",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《牛津评注》的定本（Ordinatio）与梵蒂冈版编次须核；“单义性”“此性”（haecceitas）的原文亦须核。中译少，本页多为义述。",
+   "sort_year": 1300
+  },
+  {
    "id": "work-deutsche-predigten",
    "title": "《德语布道集》",
    "title_original": "Deutsche Predigten und Traktate",
@@ -19143,6 +19257,63 @@
    "needs_verification": true,
    "pending_notes": "《逻辑大全》的三部结构与成书（约1323）须核 St. Bonaventure 版；“指代”理论与“剃刀”的原文表述亦须核。",
    "sort_year": 1323
+  },
+  {
+   "id": "work-centiloquium",
+   "title": "《百论》",
+   "title_original": "Centiloquium（《神学百论》相传属奥卡姆）",
+   "tradition": "west",
+   "date_display": "约14世纪（传奥卡姆）",
+   "structure": "一百条论题（centiloquium）：以论题体列举神学与哲学的命题。",
+   "core_arguments": [
+    "以“**论题**”体罗列命题：便于辩难与教学",
+    "其内容多与奥卡姆一系的立场相合（如唯名论与神的全能）",
+    "故为“**奥卡姆学派**”的教本之一"
+   ],
+   "key_points": [
+    {
+     "locator": "论上帝",
+     "point": "全能与此然"
+    },
+    {
+     "locator": "论受造",
+     "point": "唯名论的立场"
+    },
+    {
+     "locator": "论伦理",
+     "point": "意志与德行"
+    },
+    {
+     "locator": "全书",
+     "point": "以论题行教学"
+    }
+   ],
+   "editions": [
+    "拉丁文本（见 Ockham, Opera 诸编附录）；英译少见；中译少见"
+   ],
+   "related_people": [
+    "gr-medieval-ockham",
+    "gr-medieval-wodeham",
+    "gr-medieval-buridan"
+   ],
+   "misreadings": [
+    {
+     "claim": "其作者为奥卡姆无疑",
+     "why": "其书**相传属奥卡姆**，学界对其真伪有讨论；故本页标“传奥卡姆”，**标而不裁**。"
+    },
+    {
+     "claim": "其“神的全能”是“任意”",
+     "why": "其“全能”须与“**不矛盾**”相容（神不能行自相矛盾之事），故其为神学的限定，非任意。"
+    }
+   ],
+   "sources": [
+    "sep-ockham",
+    "sep-aquinas",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《百论》的作者（传奥卡姆）与百条论题的编次须核；学界对其真伪的讨论亦须并述，本页标而不裁。中译少。",
+   "sort_year": 1340
   },
   {
    "id": "work-tractatus-buridan",
