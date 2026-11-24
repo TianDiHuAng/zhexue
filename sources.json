@@ -9622,6 +9622,29 @@
     "keyword_seen": true
    },
    "n": 419
+  },
+  {
+   "id": "sep-eckhart",
+   "title": "Meister Eckhart（SEP 词条）",
+   "author": "Griffioen, Amber L. (主撰)",
+   "year": 2023,
+   "year_note": "首版 2023-05-01（见页面）",
+   "publisher": "Stanford Encyclopedia of Philosophy（斯坦福大学）",
+   "type": "百科",
+   "url": "https://plato.stanford.edu/entries/meister-eckhart/",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "埃克哈特专条：论其生平、受谴责经过（1329 年 In agro dominico 判 28 条，然未判其本人为异端）、being 与 intellect 之争、类比学说与“离弃”伦理",
+   "unit_hint": "gr-medieval",
+   "verify": {
+    "method": "http-page+citation_meta",
+    "http_status": 200,
+    "checked_at": "2026-11-24",
+    "keyword": "First published Mon May 1, 2023",
+    "keyword_seen": true
+   },
+   "n": 420
   }
  ]
 }

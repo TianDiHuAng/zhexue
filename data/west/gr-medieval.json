@@ -2579,11 +2579,12 @@
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>埃克哈特：灵魂根基与离弃</text><defs><marker id='aEK' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>灵魂有非受造的根基</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>神在此根基中认识自身</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故救赎是神在灵魂中诞生</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故离弃高于一切德行</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aEK)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aEK)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
    "svg_caption": "埃克哈特：灵魂的根基与“离弃”（示意图）",
    "sources": [
+    "sep-eckhart",
     "sep-mysticism",
     "book-gilson-medieval"
    ],
    "needs_verification": true,
-   "pending_notes": "埃克哈特无专属 SEP／IEP 词条（两个站点检索均 404），本页依据 SEP“神秘主义”词条与 Gilson 的中世纪哲学史；其德语布道与拉丁著作的文本状况复杂（部分为门人记录），1329 年教谕谴责了 28 个命题中的一部分，具体归属须核原文。",
+   "pending_notes": "埃克哈特无专属 SEP／IEP 词条（两个站点检索均 404），本页依据 SEP“神秘主义”词条与 Gilson 的中世纪哲学史；其德语布道与拉丁著作的文本状况复杂（部分为门人记录），1329 年教谕谴责了 28 个命题中的一部分，具体归属须核原文。 补正：1329 年判词涉 28 条命题，未判其本人为异端（据 SEP “Meister Eckhart” 条，2023）。",
    "doctrine": {
     "summary": "埃克哈特主张灵魂有一不受造的“根基”或“火花”，神在此根基中认识自身、爱自身，故救赎不是从外部获取而是让神在灵魂中“诞生”。由此他提出“离弃”（Abgeschiedenheit）高于一切德行：因德行仍带有“我”的作为与占有，而彻底的空无才使神得以自由工作。其部分命题在1329年被教廷谴责。",
     "system": [

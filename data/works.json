@@ -18327,7 +18327,7 @@
    "misreadings": [
     {
      "claim": "其“神性高于神”是取消神",
-     "why": "其意是**名相不足以尽那不可名者**（故须离弃名相），非取消神；但其表述确曾招致（1329 年）的谴责，故本页并述其说与当时的判词。"
+     "why": "其意是**名相不足以尽那不可名者**（故须离弃名相），非取消神；但其表述确曾招致审查：1329 年《In agro dominico》判其中 **28 条**命题，然**通篇未判其本人为异端**（据 SEP “Meister Eckhart” 条）。"
     },
     {
      "claim": "其为“泛神论”",
@@ -18335,12 +18335,13 @@
     }
    ],
    "sources": [
+    "sep-eckhart",
     "sep-aquinas",
     "sep-bonaventure",
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "《德语布道集》的篇数与中古德语原文须核 Kohlhammer 版与商务中译本；埃克哈特 1329 年受谴责的条目须核，本页并述而不裁定。",
+   "pending_notes": "《德语布道集》的篇数与中古德语原文须核 Kohlhammer 版与商务中译本；1329 年判词的范围（28 条，含 11 条“可能被误解”，未判其本人为异端）据 SEP 已核。",
    "sort_year": 1320
   },
   {
@@ -31338,6 +31339,63 @@
    "sort_year": 1936
   },
   {
+   "id": "work-language-truth-logic",
+   "title": "《语言、真理与逻辑》",
+   "title_original": "Language, Truth and Logic",
+   "tradition": "west",
+   "date_display": "1936（艾耶尔；1946 增序）",
+   "structure": "八章：拒斥形而上学、论哲学的功能、论分析命题、论先验、论真理与或然、论伦理与神学、论自我与共同世界。",
+   "core_arguments": [
+    "**证实原则**：一个陈述若有意义，须或为分析的，或可被经验所证实",
+    "形而上学与神学的陈述既不分析又不可证实，故为**无意义**（非错误）",
+    "伦理的判断是**情感的表达式**（emotivism），非真假的陈述"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "拒斥形而上学"
+    },
+    {
+     "locator": "第四—五章",
+     "point": "先验与或然"
+    },
+    {
+     "locator": "第六章",
+     "point": "伦理与神学"
+    },
+    {
+     "locator": "第二版导言",
+     "point": "对证实原则的修正"
+    }
+   ],
+   "editions": [
+    "英文本（Gollancz）；中译参《语言、真理与逻辑》（尹大贻译）"
+   ],
+   "related_people": [
+    "gr-20c-ayer",
+    "gr-20c-russell",
+    "gr-20c-wittgenstein"
+   ],
+   "misreadings": [
+    {
+     "claim": "其证实原则是“一劳永逸的标准”",
+     "why": "其原则在**第二版导言中已被本人修正**（强弱证实之分），且此后的讨论使其难以成立；故不可视为定论。"
+    },
+    {
+     "claim": "其“拒斥形而上学”是说形而上学无价值",
+     "why": "其论点是形而上学陈述**无认知意义**（非真假），非否认其情感或文化的价值；故须分辨逻辑的判定与价值的判定。"
+    }
+   ],
+   "sources": [
+    "sep-ayer",
+    "sep-wittgenstein",
+    "sep-russell"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《语言、真理与逻辑》的八章与 1946 年第二版导言须核 Gollancz 版与尹大贻译本；证实原则的强／弱之别亦须核。",
+   "sort_year": 1936
+  },
+  {
    "id": "work-la-nausee",
    "title": "《恶心》",
    "title_original": "La Nausée",
@@ -32356,6 +32414,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《希望的原理》篇幅巨大，其中译与英译均有删节；本页依英译本（MIT Press）与 SEP 词条概述，具体章节的篇目须核德文原版。",
+   "sort_year": 1959
+  },
+  {
+   "id": "work-individuals-strawson",
+   "title": "《个体：论描述的形而上学》",
+   "title_original": "Individuals: An Essay in Descriptive Metaphysics",
+   "tradition": "west",
+   "date_display": "1959（斯特劳森）",
+   "structure": "两部分：〈特别的诸物〉（物质物体与人）与〈逻辑的主词〉（殊相与共相、主词与谓词）。",
+   "core_arguments": [
+    "“描述的形而上学”：描述我们**实际的概念图式**，不作修正的构想",
+    "物质物体与人是**基本的殊相**（basic particulars）：其余殊相须依之而被识别",
+    "以“识别—再识别”为同一性的条件：殊相的同一须有可再识别的根据"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "物体与人的基本性"
+    },
+    {
+     "locator": "第二部分",
+     "point": "殊相与共相"
+    },
+    {
+     "locator": "论声音",
+     "point": "无物体的听觉世界"
+    },
+    {
+     "locator": "全书",
+     "point": "描述的形而上学"
+    }
+   ],
+   "editions": [
+    "英文本（Methuen）；中译参《个体：论描述的形而上学》（江怡译）"
+   ],
+   "related_people": [
+    "gr-20c-strawson",
+    "gr-20c-russell",
+    "gr-contemp-kripke"
+   ],
+   "misreadings": [
+    {
+     "claim": "其“描述的形而上学”是“不做形而上学”",
+     "why": "其说恰恰主张形而上学有**描述的任务**（整理我们实际的概念图式），与“修正的形而上学”相对；故其为形而上学的一种做法，非取消之。"
+    },
+    {
+     "claim": "其“基本殊相”是本体论的独断",
+     "why": "其论证是**先验的**（若某类殊相须依物体与人而被识别，则它们为基本）；故其为论证的结论，非独断的设定。"
+    }
+   ],
+   "sources": [
+    "sep-strawson",
+    "sep-kant",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《个体》两部分的章节与 1959 年初版须核 Methuen 版与江怡译本；“基本殊相”的论证亦须核。",
    "sort_year": 1959
   },
   {

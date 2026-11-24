@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1632,
+  "entries": 1635,
   "by_level": {
    "L2": 779,
-   "L1": 853
+   "L1": 856
   },
   "doctrine": {
    "total": 307,
    "detail": 307,
    "auto": 0
   },
-  "needs_verification": 853,
-  "sources": 419,
-  "sources_verified": 419
+  "needs_verification": 856,
+  "sources": 420,
+  "sources_verified": 420
  },
  "units": [
   {
@@ -8288,8 +8288,8 @@
    "title": "埃克哈特",
    "container": "gr-medieval",
    "level": "L1",
-   "sources": 2,
-   "verified_sources": 2,
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -13128,8 +13128,8 @@
    "title": "《德语布道集》",
    "container": "west",
    "level": "L1",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-24"
   },
@@ -15653,6 +15653,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-language-truth-logic",
+   "type": "work",
+   "title": "《语言、真理与逻辑》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-la-nausee",
    "type": "work",
    "title": "《恶心》",
@@ -15843,6 +15854,17 @@
    "id": "work-prinzip-hoffnung",
    "type": "work",
    "title": "《希望的原理》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-individuals-strawson",
+   "type": "work",
+   "title": "《个体：论描述的形而上学》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -17625,6 +17647,17 @@
    "id": "cmp-lichi",
    "type": "comparative",
    "title": "“离弃”与“吾丧我”：要抵达那不可名者，须舍弃什么？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 5,
+   "verified_sources": 5,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-mingyan",
+   "type": "comparative",
+   "title": "“无意义”与“言不尽意”：不可说者该如何处置？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
