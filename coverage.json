@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1551,
+  "entries": 1555,
   "by_level": {
-   "L2": 781,
-   "L1": 770
+   "L2": 780,
+   "L1": 775
   },
   "doctrine": {
-   "total": 309,
-   "detail": 309,
+   "total": 308,
+   "detail": 308,
    "auto": 0
   },
-  "needs_verification": 770,
+  "needs_verification": 775,
   "sources": 419,
   "sources_verified": 419
  },
@@ -119,10 +119,10 @@
    "unit_id": "gr-german",
    "title": "德国古典哲学",
    "region": "west",
-   "philosophers": 13,
-   "concepts": 25,
+   "philosophers": 12,
+   "concepts": 26,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -5"
+   "philosophers_slot": "8 上限，余 -4"
   },
   {
    "unit_id": "gr-hellenistic",
@@ -7172,17 +7172,6 @@
    "updated": "2026-11-24"
   },
   {
-   "id": "gr-german-herder",
-   "type": "philosopher",
-   "title": "赫尔德",
-   "container": "gr-german",
-   "level": "L1",
-   "sources": 3,
-   "verified_sources": 3,
-   "needs_verification": true,
-   "updated": "2026-11-24"
-  },
-  {
    "id": "gr-german-transcendental",
    "type": "concept",
    "title": "先验",
@@ -7450,6 +7439,17 @@
    "id": "gr-german-volksgeist",
    "type": "concept",
    "title": "民族精神",
+   "container": "gr-german",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-german-zweckreich",
+   "type": "concept",
+   "title": "目的王国",
    "container": "gr-german",
    "level": "L1",
    "sources": 3,
@@ -9009,17 +9009,6 @@
    "updated": "2026-11-24"
   },
   {
-   "id": "gr-modern-herder",
-   "type": "philosopher",
-   "title": "赫尔德",
-   "container": "gr-modern",
-   "level": "L2",
-   "sources": 2,
-   "verified_sources": 2,
-   "needs_verification": false,
-   "updated": "2026-11-24"
-  },
-  {
    "id": "gr-modern-suarez",
    "type": "philosopher",
    "title": "苏阿雷斯",
@@ -9111,6 +9100,17 @@
    "id": "gr-modern-mulla-sadra",
    "type": "philosopher",
    "title": "穆拉·萨德拉",
+   "container": "gr-modern",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "gr-modern-herder",
+   "type": "philosopher",
+   "title": "赫尔德",
    "container": "gr-modern",
    "level": "L1",
    "sources": 3,
@@ -14212,10 +14212,43 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-metaphysik-der-sitten",
+   "type": "work",
+   "title": "《道德形而上学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-jingzhuan-shici",
    "type": "work",
    "title": "《经传释词》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-anthropologie-pragmatisch",
+   "type": "work",
+   "title": "《实用人类学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-streit-der-fakultaeten",
+   "type": "work",
+   "title": "《学科之争》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -16734,6 +16767,17 @@
    "id": "cmp-minzujingshen",
    "type": "comparative",
    "title": "“民族精神”与“一国有一国之文学”：文化的单位是什么？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-gongkaixing",
+   "type": "comparative",
+   "title": "“公开运用理性”与“处士横议”：谁来检验真理？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

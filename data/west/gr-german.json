@@ -1910,160 +1910,6 @@
      "note": "1764 年"
     }
    ]
-  },
-  {
-   "id": "gr-german-herder",
-   "name": "赫尔德",
-   "latin": "Johann Gottfried Herder",
-   "birth_year": 1744,
-   "death_year": 1803,
-   "birth_display": "1744年",
-   "death_display": "1803年",
-   "birth_note": "据通行传记：生于东普鲁士莫龙根，织工兼教师之子；柯尼斯堡大学听康德课、与哈曼交游；后任里加牧师、魏玛宫廷总牧师；与歌德共同推动“狂飙突进”。",
-   "death_note": "1803年卒于魏玛。",
-   "era": "德国古典学与历史主义之间。赫尔德把哈曼的“语言在先”发展为**历史的多元论**：每个民族有其由语言、气候与历史养成的“民族精神”，每个时代有其自身的重心，故不可以今绳古；而历史的总归是“**人道**”（Humanität）的养成。故其位置是：把启蒙的单线进步论改造为**有机的、多元的历史** —— 这是历史主义与浪漫派的共同源头。",
-   "school": "德国历史主义与狂飙突进（魏玛一系）",
-   "core_questions": [
-    "历史有单一的标准吗？",
-    "语言与民族的关系如何？",
-    "如何理解一个异己的时代？"
-   ],
-   "arguments": [
-    {
-     "claim": "每个民族有其民族精神，由语言、气候与历史养成",
-     "premises": [
-      "语言是民族思维的载体（承哈曼）。",
-      "而气候与历史塑造其生活的方式。"
-     ],
-     "inference": "若语言与生活塑造其精神，则各民族的文化是**有机的个性**，不可以一把尺量尽；故其说以“民族精神”为历史的单位。",
-     "conclusion": "民族精神说（此说为历史主义与民族学的源头）。",
-     "kind": "原文"
-    },
-    {
-     "claim": "每个时代有其自身的重心，不可以今绳古",
-     "premises": [
-      "各时代有其幸福与标准。",
-      "而后人以“启蒙的现在”裁判过去，是时代之傲慢。"
-     ],
-     "inference": "若各时代有其重心，则理解须**先入其境**（以其语言与条件为据），而后可以评价；故其说为“理解先于评判”的原则。",
-     "conclusion": "以理解先于评判（此说为解释学与历史主义的方法原则）。",
-     "kind": "原文"
-    }
-   ],
-   "works": [
-    {
-     "title": "《关于人类教育的另一种历史哲学》",
-     "edition": "德文 Reclam 版（中译参选集）",
-     "note": "1774"
-    },
-    {
-     "title": "《人类历史哲学的观念》",
-     "edition": "英译 Princeton 版／德文 Reclam 版",
-     "note": "1784—1791"
-    },
-    {
-     "title": "《民歌集》",
-     "edition": "德文 Reclam 版",
-     "note": "1778—1779"
-    }
-   ],
-   "influenced_by": [
-    {
-     "name": "哈曼（其师友）",
-     "id": "gr-german-hamann",
-     "note": "“语言在先”为其历史多元论的根"
-    },
-    {
-     "name": "康德（其师，亦其论敌）",
-     "id": "gr-german-kant",
-     "note": "其历史观与康德的“普遍历史”争辩"
-    }
-   ],
-   "influenced": [
-    {
-     "name": "歌德与狂飙突进",
-     "id": null,
-     "note": "其民歌与“民族精神”之说为其资源"
-    },
-    {
-     "name": "历史主义（兰克一系）",
-     "id": null,
-     "note": "“每个时代皆有其自身标准”为其原则"
-    },
-    {
-     "name": "民俗学与民族学",
-     "id": null,
-     "note": "其《民歌集》开路"
-    }
-   ],
-   "criticisms": [
-    {
-     "critic": "康德与启蒙一系",
-     "view": "以各时代各有其标准，则普遍的道德与理性无从立；且“民族精神”之说易为民族主义的护符。",
-     "response": "赫尔德一系的回应是：其“人道”正是**普遍**的标准（各民族皆向之生长），故其多元不废普遍；而“民族精神”是理解的门径，不是价值的终点。",
-     "kind": "原文",
-     "sources": [
-      "sep-herder",
-      "sep-kant"
-     ]
-    }
-   ],
-   "misconceptions": [
-    {
-     "claim": "其“民族精神”是种族论",
-     "why": "其说由**语言、气候与历史**养成，是可理解的文化个性；20世纪的种族论对其说的挪用须分辨，不可倒推为原意。"
-    },
-    {
-     "claim": "其“各时代皆有其幸福”是相对主义",
-     "why": "其说不废评价，只要求**先理解**；故其为历史主义的开端，不是价值的取消。"
-    }
-   ],
-   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>赫尔德：民族精神与理解先于评判</text><defs><marker id='aHD' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>语言是民族思维的载体</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>气候与历史塑其生活</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故文化是有机的个性</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故理解须先于评判</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aHD)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aHD)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
-   "svg_caption": "赫尔德：“民族精神”与“理解先于评判”（示意图）",
-   "sources": [
-    "sep-herder",
-    "sep-kant",
-    "sep-hegel"
-   ],
-   "needs_verification": true,
-   "pending_notes": "赫尔德有 SEP 专条（sep-herder，已核）；本页依该词条与《人类历史哲学的观念》《另一种历史哲学》原文，**属语境性引用而非专门研究**。其生卒（1744—1803）与魏玛任职须核。",
-   "doctrine": {
-    "summary": "赫尔德把哈曼的“语言在先”发展为历史的多元论：每个民族有其由语言、气候与历史养成的“民族精神”，每个时代有其自身的重心，故不可以今绳古；而历史的总归是人道（Humanität）的养成。故其位置是把启蒙的单线进步论改造为有机的、多元的历史——这是历史主义与浪漫派的共同源头。",
-    "system": [
-     {
-      "name": "民族精神",
-      "content": "由语言、气候与历史养成的文化个性，为历史的单位。"
-     },
-     {
-      "name": "理解先于评判",
-      "content": "须先入其境，而后可以评价；故不以今绳古。"
-     },
-     {
-      "name": "文化的有机性",
-      "content": "文化如植物，各有其壮盛与衰谢，非单线进步。"
-     },
-     {
-      "name": "人道",
-      "content": "各民族皆向之生长，故多元不废普遍；这一条在其学说体系中不可省略。"
-     }
-    ],
-    "phases": [
-     {
-      "period": "莫龙根与魏玛（1744—1803）",
-      "change": "生于织工之家；柯尼斯堡大学听康德课、与哈曼交游；任里加牧师；1774 年《另一种历史哲学》；1778—1779 年《民歌集》；1784—1791 年《人类历史哲学的观念》；后任魏玛宫廷总牧师；1803 年卒。"
-     }
-    ],
-    "reception": "其“民族精神”与“理解先于评判”成为历史主义与解释学的原则（兰克、狄尔泰皆承之）；其《民歌集》开路于民俗学与浪漫派的民歌观；其“人道”之说则与康德的普遍历史观构成德国启蒙的两极。"
-   },
-   "works_detail": [
-    {
-     "title": "《人类历史哲学的观念》",
-     "structure": "四部二十卷：由地球与气候论至语言、民族与人道。",
-     "core_thesis": "文化是有机的个性，历史归于人道。",
-     "editions": "英译 Princeton 版",
-     "note": "1784—1791 年"
-    }
-   ]
   }
  ],
  "concepts": [
@@ -2943,7 +2789,6 @@
    "usages": [
     {
      "name": "赫尔德（其立）",
-     "id": "gr-german-herder",
      "usage": "以语言与气候说民族精神的养成。"
     },
     {
@@ -2972,6 +2817,43 @@
    ],
    "needs_verification": true,
    "pending_notes": "“民族精神”（Volksgeist）的出处与其后经黑格尔的转义须核 sep-herder 与相关研究；本页取其赫尔德义，兼标其被挪用的风险。"
+  },
+  {
+   "id": "gr-german-zweckreich",
+   "term": "目的王国",
+   "term_latin": "kingdom of ends (Reich der Zwecke)",
+   "definition": "康德《道德形而上学奠基》的范畴：若一切理性存在者皆依“目的自身”的原则行事，则他们构成一个**目的王国** —— 在其中每个人既是立法者又是成员。其要点是：道德的普遍性不是“多数人的同意”，而是“**每个理性存在者都能同为立法者**”这一理念。",
+   "usages": [
+    {
+     "name": "康德（其立）",
+     "id": "gr-german-kant",
+     "usage": "以“目的自身”与“立法者”说目的王国。"
+    },
+    {
+     "name": "黑格尔（其批）",
+     "id": "gr-german-hegel",
+     "usage": "以“抽象普遍性”讥之，主张伦理的实体性。"
+    },
+    {
+     "name": "哈贝马斯（其改）",
+     "usage": "以“商谈的共同体”改造其立法者的理念。"
+    }
+   ],
+   "related": [
+    "gr-german-edle-einfalt"
+   ],
+   "example": {
+    "text": "“目的王国”的要害是把道德的普遍性放在**立法者的地位**上：不是“我同意这条规则”，而是“我也能作为立法者立这条规则”。其力量在于它给“人格的尊严”一个结构性的说明（尊严＝不可被替代立法者）；其困难在于：谁会真的进入这个“王国”？故其后有黑格尔的“抽象”之讥与哈贝马斯的“实际商谈”之改。",
+    "figure": "康德",
+    "locator": "《道德形而上学奠基》第二章"
+   },
+   "sources": [
+    "sep-kant",
+    "sep-hegel",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“目的王国”的原文（《奠基》第二章）与“目的自身”的表述须核；其与“绝对命令”诸式的等价性问题亦须分辨。"
   }
  ],
  "debates": [

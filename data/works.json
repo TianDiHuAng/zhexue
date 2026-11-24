@@ -22909,7 +22909,7 @@
     "德文 Reclam 版；英译（This Too a Philosophy of History, Cambridge）；中译参《反纯粹理性》选集（版次待核）"
    ],
    "related_people": [
-    "gr-german-herder",
+    "gr-modern-herder",
     "gr-german-kant",
     "gr-german-hamann"
    ],
@@ -23136,7 +23136,7 @@
     "德文 Reclam 版；英译（The Folk Songs of the Peoples, 选译）"
    ],
    "related_people": [
-    "gr-german-herder",
+    "gr-modern-herder",
     "gr-german-hamann",
     "cn-xianqin-kongzi"
    ],
@@ -23473,7 +23473,7 @@
     "德文 Reclam／Suhrkamp 版；英译（Ideas for the Philosophy of the History of Mankind, Princeton）；中译参《人类历史哲学的观念》（商务等，版次待核）"
    ],
    "related_people": [
-    "gr-german-herder",
+    "gr-modern-herder",
     "gr-german-kant",
     "gr-german-winckelmann"
    ],
@@ -24467,6 +24467,63 @@
    "sort_year": 1797
   },
   {
+   "id": "work-metaphysik-der-sitten",
+   "title": "《道德形而上学》",
+   "title_original": "Die Metaphysik der Sitten",
+   "tradition": "west",
+   "date_display": "1797（康德）",
+   "structure": "两部：〈法权论〉（Rechtslehre）与〈德性论〉（Tugendlehre），各以“义务”为纲分述。",
+   "core_arguments": [
+    "道德形而上学分“法权”与“德性”：前者关乎外在的自由，后者关乎内在的意向",
+    "法权的普遍原则：你的自由须能与一切人的自由共存",
+    "德性是“意志在履行义务时的力量”，故义务不可强制而德性须自觉"
+   ],
+   "key_points": [
+    {
+     "locator": "〈法权论〉导论",
+     "point": "法权的普遍原则"
+    },
+    {
+     "locator": "〈法权论〉",
+     "point": "物权、人格权、契约"
+    },
+    {
+     "locator": "〈德性论〉导论",
+     "point": "义务与德性"
+    },
+    {
+     "locator": "〈德性论〉",
+     "point": "对自己的义务与他人的义务"
+    }
+   ],
+   "editions": [
+    "德文 Meiner 版；英译（The Metaphysics of Morals, Cambridge）；中译参《道德形而上学》（张荣等译，版次待核）"
+   ],
+   "related_people": [
+    "gr-german-kant",
+    "gr-german-hegel",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "其法权论与德性论是两套体系",
+     "why": "二者同出“道德形而上学”的一源：法权是**外在自由**的共存条件，德性是**内在意向**的力量；故为一源两分，非两套体系。"
+    },
+    {
+     "claim": "其“德性”是情感",
+     "why": "其“德性”是**意志履行义务的力量**（非情感），故其说不倚于同情或爱，而倚于对法则的敬重。"
+    }
+   ],
+   "sources": [
+    "sep-kant",
+    "sep-aristotle",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《道德形而上学》的部次（法权论／德性论）与“法权的普遍原则”的原文须核 Meiner 版；其与《实践理性批判》的关系亦须分辨。",
+   "sort_year": 1797
+  },
+  {
    "id": "work-jingzhuan-shici",
    "title": "《经传释词》",
    "title_original": "經傳釋詞",
@@ -24521,6 +24578,120 @@
    ],
    "needs_verification": true,
    "pending_notes": "《经传释词》的卷数与所收字数（通行十卷一百六十余字）须核中华书局影印本；“依文作解”的表述亦须核原文。",
+   "sort_year": 1798
+  },
+  {
+   "id": "work-anthropologie-pragmatisch",
+   "title": "《实用人类学》",
+   "title_original": "Anthropologie in pragmatischer Hinsicht",
+   "tradition": "west",
+   "date_display": "1798（康德）",
+   "structure": "两部：〈人类学的教授法〉（论认识、情感、欲望的能力）与〈人类学的性格论〉（论个人、性别、民族、种族的性格）。",
+   "core_arguments": [
+    "实用人类学以“人能用自己做什么”为题，不问其形而上学的本质",
+    "“性格”须由自由的选择而成：人须为自己“造一个性格”",
+    "以经验的知识补充批判哲学：德性如何能行于人间"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "认识、情感、欲望"
+    },
+    {
+     "locator": "第二部",
+     "point": "性格与自由"
+    },
+    {
+     "locator": "论民族",
+     "point": "民族性的观察"
+    },
+    {
+     "locator": "全书",
+     "point": "以实用为纲"
+    }
+   ],
+   "editions": [
+    "德文 Meiner 版；英译（Anthropology from a Pragmatic Point of View, Cambridge）；中译参《实用人类学》（邓晓芒译，版次待核）"
+   ],
+   "related_people": [
+    "gr-german-kant",
+    "gr-modern-herder",
+    "gr-20c-husserl"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“心理学教科书”",
+     "why": "其旨不在心理的机制，而在**人能如何运用自己**（实用）；且其“性格”章以自由为纲。故其为“人类学”，非经验心理学。"
+    },
+    {
+     "claim": "它与批判哲学无关",
+     "why": "其以经验知识补批判哲学之不足（德性如何施行）；故为康德体系的经验一环。"
+    }
+   ],
+   "sources": [
+    "sep-kant",
+    "sep-herder",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《实用人类学》的两部结构与“性格”章的表述须核 Meiner 版；其中“民族性”诸节的时见亦须分辨（含当时的偏见）。",
+   "sort_year": 1798
+  },
+  {
+   "id": "work-streit-der-fakultaeten",
+   "title": "《学科之争》",
+   "title_original": "Der Streit der Fakultäten",
+   "tradition": "west",
+   "date_display": "1798（康德）",
+   "structure": "三部：哲学与神学的争执、哲学与法学的争执、哲学与医学的争执，末附〈论永久和平的哲学草案〉之回应。",
+   "core_arguments": [
+    "哲学（低级学科）须有**公开检验真理**的自由，不受高级学科（神、法、医）的管辖",
+    "历史须以“公开性”为进步的标志（故其重“公开运用理性”）",
+    "大学的建制须容“自由的眼睛”"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "哲学与神学"
+    },
+    {
+     "locator": "第二部",
+     "point": "哲学与法学"
+    },
+    {
+     "locator": "第三部",
+     "point": "哲学与医学"
+    },
+    {
+     "locator": "全书",
+     "point": "公开性是进步的条件"
+    }
+   ],
+   "editions": [
+    "德文 Meiner 版；英译（The Conflict of the Faculties, Nebraska）；中译参《学科之争》（商务等，版次待核）"
+   ],
+   "related_people": [
+    "gr-german-kant",
+    "gr-german-hegel",
+    "gr-contemp-habermas"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“大学的行政章程”",
+     "why": "其核心是**真理的检验权**谁属（哲学的公开自由），故其为“知识建制”的哲学论辩，非行政文书。"
+    },
+    {
+     "claim": "其“进步”是乐观的历史目的论",
+     "why": "其“进步”以**公开性**为可观察的标志（非神秘的目的），故其为有限的乐观，不是宿命的目的论。"
+    }
+   ],
+   "sources": [
+    "sep-kant",
+    "sep-habermas",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《学科之争》的三部与“低级学科／高级学科”的区分须核 Meiner 版；其“公开性”与哈贝马斯“公共领域”的关系亦须分辨。",
    "sort_year": 1798
   },
   {

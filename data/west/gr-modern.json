@@ -4042,145 +4042,6 @@
    ]
   },
   {
-   "id": "gr-modern-herder",
-   "name": "赫尔德",
-   "latin": "Johann Gottfried Herder",
-   "birth_year": 1744,
-   "death_year": 1803,
-   "birth_display": "1744年",
-   "death_display": "1803年",
-   "birth_note": "生于东普鲁士莫龙根；据其生平材料，父为教师。",
-   "death_note": "1803年卒于魏玛。",
-   "era": "18世纪后半叶的德国。赫尔德是狂飙突进与德国历史主义的奠基者：他主张每个民族有其不可替代的“民族精神”（Volksgeist）与语言世界，故不能用一套普遍标准评判所有文化；他又以语言起源与民歌收集影响浪漫主义。",
-   "school": "历史主义（民族精神）",
-   "core_questions": [
-    "各民族文化能否用同一标准评判？",
-    "语言与思想的关系如何？",
-    "历史是进步还是各民族的各自展开？"
-   ],
-   "arguments": [
-    {
-     "claim": "每一民族有其不可通约的语言与精神，故须“设身处地”理解",
-     "premises": [
-      "语言塑造思维方式，不同语言的世界不可完全互译。",
-      "各民族的制度、诗歌与宗教是其精神的表现。"
-     ],
-     "inference": "若语言与精神互相构成，则理解一个民族须进入其语言与传统，而非以外部标准评判。",
-     "conclusion": "历史的单位是民族，理解的方法是“同情式的进入”（Einfühlung），而非普遍标准的度量。",
-     "kind": "原文"
-    },
-    {
-     "claim": "历史是各民族文化各自展开的“人性的花园”，非单一线性进步",
-     "premises": [
-      "每一时代有其自身的价值与幸福。",
-      "以“现在”为尺度评判过去，会抹去其独特意义。"
-     ],
-     "inference": "若每一时代与民族都有其自身的完善标准，则历史不是朝向单一目标的直线，而是多样形态的展开。",
-     "conclusion": "历史是各民族的多样展开，不能用单一进步尺度衡量。",
-     "kind": "原文"
-    }
-   ],
-   "works": [
-    {
-     "title": "《论语言的起源》《关于人类历史哲学的观念》《民歌集》",
-     "edition": "《论语言的起源》中译参商务印书馆；《观念》英译见 Cambridge Texts",
-     "note": "1772；1784—91；1778—79"
-    }
-   ],
-   "influenced_by": [
-    {
-     "name": "哈曼与康德",
-     "id": null,
-     "note": "哈曼的语言神秘主义；与康德的争论"
-    },
-    {
-     "name": "卢梭与民歌传统",
-     "id": "gr-modern-rousseau",
-     "note": "自然与情感"
-    }
-   ],
-   "influenced": [
-    {
-     "name": "浪漫主义与民族主义",
-     "id": "",
-     "note": "民族语言与民歌的收集"
-    },
-    {
-     "name": "狄尔泰与伽达默尔",
-     "id": null,
-     "note": "理解与解释学"
-    }
-   ],
-   "criticisms": [
-    {
-     "critic": "康德与启蒙普遍主义者",
-     "view": "以民族精神为历史单位会滑向相对主义，取消普遍的道德与理性标准。",
-     "response": "赫尔德一系的回应是：多样性不取消人性，各民族是同一人性的不同展开；理解而非评判才是普遍性的形式。",
-     "kind": "后人解读",
-     "sources": [
-      "sep-herder",
-      "sep-kant"
-     ]
-    }
-   ],
-   "misconceptions": [
-    {
-     "claim": "赫尔德是民族主义者",
-     "why": "他主张各民族平等并有独特价值，反对的是文化等级论，不是民族优越论；其思想被后来的民族主义挪用。"
-    },
-    {
-     "claim": "他的历史哲学是非理性的",
-     "why": "他强调情感与语言，但方法是语文学与比较研究，不是反理性。"
-    }
-   ],
-   "quotes": [],
-   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='18' fill='#1c3a5c'>赫尔德：民族精神与理解</text><defs><marker id='aHD' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='40' y='56' width='230' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>语言塑造思维</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>故各民族世界不可完全互译</text><rect x='490' y='56' width='230' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故理解须设身处地</text><line x1='270' y1='85' x2='350' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='490' y1='85' x2='410' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='240' y='150' width='280' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故历史是多样展开而非单线</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aHD)'/><rect x='150' y='250' width='460' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aHD)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：两前提为原文，图示为重构</text></svg>",
-   "svg_caption": "赫尔德：民族精神与同情式理解（示意图）",
-   "sources": [
-    "sep-herder",
-    "sep-kant"
-   ],
-   "needs_verification": false,
-   "pending_notes": "",
-   "doctrine": {
-    "summary": "赫尔德以语言与民族精神为历史理解的单位：语言塑造思维，故不同语言的世界不可完全互译，理解须“设身处地”进入其传统，而非以外部标准度量。由此他主张历史是各民族文化各自展开的“人性的花园”，不能用单一线性进步尺度衡量——每一时代有其自身的价值。其说是德国历史主义与浪漫主义的奠基。",
-    "system": [
-     {
-      "name": "民族精神（Volksgeist）",
-      "content": "各民族的语言、诗歌与制度是其精神的表现。"
-     },
-     {
-      "name": "同情式理解",
-      "content": "以进入而非评判的方式理解他者文化；这一条在其学说体系中不可省略。"
-     },
-     {
-      "name": "历史的多样展开",
-      "content": "各时代与民族有其自身标准，非单线进步；这一条在其学说体系中不可省略。"
-     },
-     {
-      "name": "语言起源",
-      "content": "语言非神授也非契约，而是人的自然能力的展开（《论语言的起源》）。"
-     }
-    ],
-    "phases": [
-     {
-      "period": "莫龙根、里加与魏玛（1744—1803）",
-      "change": "在东普鲁士与里加任教与布道；1776 年起在魏玛任宫廷牧师；与歌德交往；晚年与康德论战。"
-     }
-    ],
-    "reception": "其历史主义影响狄尔泰、斯宾格勒与伽达默尔；民歌收集推动浪漫主义；其民族观念被后世民族主义挪用，与他本人的平等主义立场有别。"
-   },
-   "works_detail": [
-    {
-     "title": "《关于人类历史哲学的观念》",
-     "structure": "四部分：论地球与人类、论各民族的语言与诗歌、论希腊罗马等、论近代。",
-     "core_thesis": "民族精神；历史多样展开；这是该书的核心命题。",
-     "editions": "Cambridge Texts 英译本",
-     "note": "1784—91；未完成"
-    }
-   ]
-  },
-  {
    "id": "gr-modern-suarez",
    "name": "苏阿雷斯",
    "latin": "Francisco Suárez",
@@ -5449,6 +5310,160 @@
      "core_thesis": "存在的优先性与实体运动；这是该书的核心命题。",
      "editions": "阿拉伯／波斯文校勘本（Sadra Islamic Philosophy Institute）；英文选译",
      "note": "17世纪"
+    }
+   ]
+  },
+  {
+   "id": "gr-modern-herder",
+   "name": "赫尔德",
+   "latin": "Johann Gottfried Herder",
+   "birth_year": 1744,
+   "death_year": 1803,
+   "birth_display": "1744年",
+   "death_display": "1803年",
+   "birth_note": "据通行传记：生于东普鲁士莫龙根，织工兼教师之子；柯尼斯堡大学听康德课、与哈曼交游；后任里加牧师、魏玛宫廷总牧师；与歌德共同推动“狂飙突进”。",
+   "death_note": "1803年卒于魏玛。",
+   "era": "德国古典学与历史主义之间。赫尔德把哈曼的“语言在先”发展为**历史的多元论**：每个民族有其由语言、气候与历史养成的“民族精神”，每个时代有其自身的重心，故不可以今绳古；而历史的总归是“**人道**”（Humanität）的养成。故其位置是：把启蒙的单线进步论改造为**有机的、多元的历史** —— 这是历史主义与浪漫派的共同源头。",
+   "school": "德国历史主义与狂飙突进（魏玛一系）",
+   "core_questions": [
+    "历史有单一的标准吗？",
+    "语言与民族的关系如何？",
+    "如何理解一个异己的时代？"
+   ],
+   "arguments": [
+    {
+     "claim": "每个民族有其民族精神，由语言、气候与历史养成",
+     "premises": [
+      "语言是民族思维的载体（承哈曼）。",
+      "而气候与历史塑造其生活的方式。"
+     ],
+     "inference": "若语言与生活塑造其精神，则各民族的文化是**有机的个性**，不可以一把尺量尽；故其说以“民族精神”为历史的单位。",
+     "conclusion": "民族精神说（此说为历史主义与民族学的源头）。",
+     "kind": "原文"
+    },
+    {
+     "claim": "每个时代有其自身的重心，不可以今绳古",
+     "premises": [
+      "各时代有其幸福与标准。",
+      "而后人以“启蒙的现在”裁判过去，是时代之傲慢。"
+     ],
+     "inference": "若各时代有其重心，则理解须**先入其境**（以其语言与条件为据），而后可以评价；故其说为“理解先于评判”的原则。",
+     "conclusion": "以理解先于评判（此说为解释学与历史主义的方法原则）。",
+     "kind": "原文"
+    }
+   ],
+   "works": [
+    {
+     "title": "《关于人类教育的另一种历史哲学》",
+     "edition": "德文 Reclam 版（中译参选集）",
+     "note": "1774"
+    },
+    {
+     "title": "《人类历史哲学的观念》",
+     "edition": "英译 Princeton 版／德文 Reclam 版",
+     "note": "1784—1791"
+    },
+    {
+     "title": "《民歌集》",
+     "edition": "德文 Reclam 版",
+     "note": "1778—1779"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "哈曼（其师友）",
+     "id": null,
+     "note": "“语言在先”为其历史多元论的根"
+    },
+    {
+     "name": "康德（其师，亦其论敌）",
+     "id": null,
+     "note": "其历史观与康德的“普遍历史”争辩"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "歌德与狂飙突进",
+     "id": null,
+     "note": "其民歌与“民族精神”之说为其资源"
+    },
+    {
+     "name": "历史主义（兰克一系）",
+     "id": null,
+     "note": "“每个时代皆有其自身标准”为其原则"
+    },
+    {
+     "name": "民俗学与民族学",
+     "id": null,
+     "note": "其《民歌集》开路"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "康德与启蒙一系",
+     "view": "以各时代各有其标准，则普遍的道德与理性无从立；且“民族精神”之说易为民族主义的护符。",
+     "response": "赫尔德一系的回应是：其“人道”正是**普遍**的标准（各民族皆向之生长），故其多元不废普遍；而“民族精神”是理解的门径，不是价值的终点。",
+     "kind": "原文",
+     "sources": [
+      "sep-herder",
+      "sep-kant"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "其“民族精神”是种族论",
+     "why": "其说由**语言、气候与历史**养成，是可理解的文化个性；20世纪的种族论对其说的挪用须分辨，不可倒推为原意。"
+    },
+    {
+     "claim": "其“各时代皆有其幸福”是相对主义",
+     "why": "其说不废评价，只要求**先理解**；故其为历史主义的开端，不是价值的取消。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='0' y='0' width='760' height='400' fill='#f0f5fa'/><text x='380' y='28' text-anchor='middle' font-size='17' fill='#1c3a5c'>赫尔德：民族精神与理解先于评判</text><defs><marker id='aHD' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><path d='M0,0 L10,4 L0,8 Z' fill='#4a7ba6'/></marker></defs><rect x='30' y='56' width='250' height='58' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='155' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>语言是民族思维的载体</text><text x='155' y='99' text-anchor='middle' font-size='10' fill='#1e2d3d'>气候与历史塑其生活</text><rect x='480' y='56' width='250' height='58' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='605' y='80' text-anchor='middle' font-size='12' fill='#1e2d3d'>故文化是有机的个性</text><line x1='280' y1='85' x2='360' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><line x1='480' y1='85' x2='400' y2='85' stroke='#4a7ba6' stroke-dasharray='4 3'/><rect x='230' y='150' width='300' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='380' y='183' text-anchor='middle' font-size='13' fill='#1c3a5c'>故理解须先于评判</text><line x1='380' y1='114' x2='380' y2='148' stroke='#4a7ba6' marker-end='url(#aHD)'/><rect x='140' y='250' width='480' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='283' text-anchor='middle' font-size='12' fill='#1e2d3d'>结论见本页第三节与学说详述</text><line x1='380' y1='206' x2='380' y2='248' stroke='#4a7ba6' marker-end='url(#aHD)'/><text x='380' y='352' text-anchor='middle' font-size='10' fill='#4a7ba6'>注：图示为重构，非原文</text></svg>",
+   "svg_caption": "赫尔德：“民族精神”与“理解先于评判”（示意图）",
+   "sources": [
+    "sep-herder",
+    "sep-kant",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "赫尔德有 SEP 专条（sep-herder，已核）；本页依该词条与《人类历史哲学的观念》《另一种历史哲学》原文，**属语境性引用而非专门研究**。其生卒（1744—1803）与魏玛任职须核。",
+   "doctrine": {
+    "summary": "赫尔德把哈曼的“语言在先”发展为历史的多元论：每个民族有其由语言、气候与历史养成的“民族精神”，每个时代有其自身的重心，故不可以今绳古；而历史的总归是人道（Humanität）的养成。故其位置是把启蒙的单线进步论改造为有机的、多元的历史——这是历史主义与浪漫派的共同源头。",
+    "system": [
+     {
+      "name": "民族精神",
+      "content": "由语言、气候与历史养成的文化个性，为历史的单位。"
+     },
+     {
+      "name": "理解先于评判",
+      "content": "须先入其境，而后可以评价；故不以今绳古。"
+     },
+     {
+      "name": "文化的有机性",
+      "content": "文化如植物，各有其壮盛与衰谢，非单线进步。"
+     },
+     {
+      "name": "人道",
+      "content": "各民族皆向之生长，故多元不废普遍；这一条在其学说体系中不可省略。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "莫龙根与魏玛（1744—1803）",
+      "change": "生于织工之家；柯尼斯堡大学听康德课、与哈曼交游；任里加牧师；1774 年《另一种历史哲学》；1778—1779 年《民歌集》；1784—1791 年《人类历史哲学的观念》；后任魏玛宫廷总牧师；1803 年卒。"
+     }
+    ],
+    "reception": "其“民族精神”与“理解先于评判”成为历史主义与解释学的原则（兰克、狄尔泰皆承之）；其《民歌集》开路于民俗学与浪漫派的民歌观；其“人道”之说则与康德的普遍历史观构成德国启蒙的两极。"
+   },
+   "works_detail": [
+    {
+     "title": "《人类历史哲学的观念》",
+     "structure": "四部二十卷：由地球与气候论至语言、民族与人道。",
+     "core_thesis": "文化是有机的个性，历史归于人道。",
+     "editions": "英译 Princeton 版",
+     "note": "1784—1791 年"
     }
    ]
   }
