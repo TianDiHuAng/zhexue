@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-24",
  "totals": {
-  "entries": 1575,
+  "entries": 1580,
   "by_level": {
    "L2": 780,
-   "L1": 795
+   "L1": 800
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 795,
+  "needs_verification": 800,
   "sources": 419,
   "sources_verified": 419
  },
@@ -147,7 +147,7 @@
    "title": "近代理性论与经验论",
    "region": "west",
    "philosophers": 35,
-   "concepts": 25,
+   "concepts": 26,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -27"
   }
@@ -9427,6 +9427,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "gr-modern-tolerance",
+   "type": "concept",
+   "title": "宽容",
+   "container": "gr-modern",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "gr-modern-innate-controversy",
    "type": "debate",
    "title": "天赋观念是否存在",
@@ -13596,6 +13607,17 @@
    "updated": "2026-11-24"
   },
   {
+   "id": "work-traite-tolerance",
+   "type": "work",
+   "title": "《论宽容》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
    "id": "work-two-treatises",
    "type": "work",
    "title": "《政府论》两篇",
@@ -13721,6 +13743,17 @@
    "type": "work",
    "title": "《渔洋山人精华录》",
    "container": "china",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-theodicee",
+   "type": "work",
+   "title": "《神正论》",
+   "container": "west",
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
@@ -13940,6 +13973,17 @@
    "id": "work-geschichte-der-kunst",
    "type": "work",
    "title": "《古代艺术史》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "work-dictionnaire-philosophique",
+   "type": "work",
+   "title": "《哲学辞典》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -16998,6 +17042,17 @@
    "id": "cmp-cunzaibenshen",
    "type": "comparative",
    "title": "“存在本身”与“无”：从有说起，还是从无说起？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-24"
+  },
+  {
+   "id": "cmp-kuanrong",
+   "type": "comparative",
+   "title": "“宽容”与“和而不同”：差异该被容忍，还是被成全？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
