@@ -532,7 +532,8 @@
     {
      "name": "巴门尼德与芝诺",
      "id": "gr-ancient-parmenides",
-     "note": "以原子与虚空回应“一”与“不动”的挑战"
+     "note": "以原子与虚空回应“一”与“不动”的挑战",
+     "relation": "批驳"
     }
    ],
    "influenced": [
@@ -676,7 +677,8 @@
     {
      "name": "赫拉克利特（流变说）",
      "id": "gr-ancient-heraclitus",
-     "note": "古代记载称其受流变说影响，具体程度有讨论"
+     "note": "古代记载称其受流变说影响，具体程度有讨论",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -998,7 +1000,8 @@
     {
      "name": "苏格拉底",
      "id": "gr-ancient-socrates",
-     "note": "对话体与诘问法直接承之；理念论是否苏格拉底已有，学界有争议"
+     "note": "对话体与诘问法直接承之；理念论是否苏格拉底已有，学界有争议",
+     "relation": "承继"
     },
     {
      "name": "巴门尼德",
@@ -1008,7 +1011,8 @@
     {
      "name": "毕达哥拉斯学派",
      "id": "gr-ancient-pythagoras",
-     "note": "灵魂不朽、数学与净化的观念"
+     "note": "灵魂不朽、数学与净化的观念",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1208,7 +1212,8 @@
     {
      "name": "柏拉图",
      "id": "gr-ancient-plato",
-     "note": "学园二十年，承其问题而反其分离说"
+     "note": "学园二十年，承其问题而反其分离说",
+     "relation": "批驳"
     },
     {
      "name": "德谟克利特与自然哲学传统",
@@ -1518,7 +1523,8 @@
     {
      "name": "巴门尼德",
      "id": "gr-ancient-parmenides",
-     "note": "为捍卫其“一”与“不动”而提出悖论"
+     "note": "为捍卫其“一”与“不动”而提出悖论",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1918,7 +1924,8 @@
     {
      "name": "阿那克西曼德",
      "id": "gr-ancient-anaximander",
-     "note": "其师，以“无定”为本原"
+     "note": "其师，以“无定”为本原",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2053,7 +2060,8 @@
     {
      "name": "毕达哥拉斯学派",
      "id": "gr-ancient-pythagoras",
-     "note": "灵魂轮回与净化观念"
+     "note": "灵魂轮回与净化观念",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2188,7 +2196,8 @@
     {
      "name": "巴门尼德与米利都学派",
      "id": "gr-ancient-anaximander",
-     "note": "“无物能从无来”与机制化解释的传统"
+     "note": "“无物能从无来”与机制化解释的传统",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2322,7 +2331,8 @@
     {
      "name": "巴门尼德",
      "id": "gr-ancient-parmenides",
-     "note": "其三个命题逐条针对巴门尼德的存在论"
+     "note": "其三个命题逐条针对巴门尼德的存在论",
+     "relation": "批驳"
     },
     {
      "name": "恩培多克勒与西西里修辞传统",
@@ -2457,7 +2467,8 @@
     {
      "name": "巴门尼德与芝诺",
      "id": "gr-ancient-parmenides",
-     "note": "以“不可分的存在”与反运动悖论提出难题"
+     "note": "以“不可分的存在”与反运动悖论提出难题",
+     "relation": "批驳"
     },
     {
      "name": "米利都学派",
@@ -2601,7 +2612,8 @@
     {
      "name": "苏格拉底",
      "id": "gr-ancient-socrates",
-     "note": "以生活实践哲学、轻视外物"
+     "note": "以生活实践哲学、轻视外物",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2735,7 +2747,8 @@
     {
      "name": "亚里士多德",
      "id": "gr-ancient-aristotle",
-     "note": "其师；逻辑学、形而上学与生物学框架"
+     "note": "其师；逻辑学、形而上学与生物学框架",
+     "relation": "承继"
     },
     {
      "name": "柏拉图学园",

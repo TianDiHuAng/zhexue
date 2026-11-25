@@ -504,7 +504,8 @@
     {
      "name": "玄奘",
      "id": "cn-suitang-xuanzang",
-     "note": "随其译场笔受，承其学"
+     "note": "随其译场笔受，承其学",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -961,7 +962,8 @@
     {
      "name": "慧能",
      "id": "cn-suitang-huineng",
-     "note": "师承所自，顿悟与见性之说本于曹溪"
+     "note": "师承所自，顿悟与见性之说本于曹溪",
+     "relation": "承继"
     },
     {
      "name": "《金刚经》与般若学",
@@ -1121,7 +1123,8 @@
     {
      "name": "智顗",
      "id": "cn-suitang-zhiyi",
-     "note": "一念三千、三谛圆融为其论证的前提"
+     "note": "一念三千、三谛圆融为其论证的前提",
+     "relation": "承继"
     },
     {
      "name": "玄朗与天台止观传承",
@@ -1414,7 +1417,8 @@
     {
      "name": "韩愈",
      "id": "cn-suitang-han-yu",
-     "note": "其师，道统与排佛老的立场"
+     "note": "其师，道统与排佛老的立场",
+     "relation": "承继"
     },
     {
      "name": "《中庸》《易》",
@@ -1694,7 +1698,8 @@
     {
      "name": "荷泽神会",
      "id": "cn-suitang-shenhui",
-     "note": "南宗禅的“知”与“寂知”之说"
+     "note": "南宗禅的“知”与“寂知”之说",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1975,7 +1980,8 @@
     {
      "name": "宗密（其弟子）",
      "id": "cn-suitang-zongmi",
-     "note": "华严与禅的会通"
+     "note": "华严与禅的会通",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2724,7 +2730,8 @@
     {
      "name": "柳宗元（其论友）",
      "id": "cn-suitang-liu-zongyuan",
-     "note": "《天说》的往复辩难"
+     "note": "《天说》的往复辩难",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -3163,7 +3170,8 @@
     {
      "name": "玄奘（其先辈）",
      "id": "cn-suitang-xuanzang",
-     "note": "以陆路求法，为其海路的对照"
+     "note": "以陆路求法，为其海路的对照",
+     "relation": "承继"
     },
     {
      "name": "道宣（其同代）",

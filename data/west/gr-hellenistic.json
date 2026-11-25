@@ -963,7 +963,8 @@
     {
      "name": "芝诺（季蒂昂）与早期斯多亚",
      "id": "gr-hellenistic-zeno",
-     "note": "德性自足、顺应自然的基本框架来自早期斯多亚；塞涅卡自认只是转述者"
+     "note": "德性自足、顺应自然的基本框架来自早期斯多亚；塞涅卡自认只是转述者",
+     "relation": "承继"
     },
     {
      "name": "帕奈提乌斯、波塞多尼乌斯（中期斯多亚）",
@@ -1131,7 +1132,8 @@
     {
      "name": "芝诺（季蒂昂）与斯多亚学派",
      "id": "gr-hellenistic-zeno",
-     "note": "“顺应自然”“德性自足”“可取者非善”的框架来自早期斯多亚"
+     "note": "“顺应自然”“德性自足”“可取者非善”的框架来自早期斯多亚",
+     "relation": "承继"
     },
     {
      "name": "穆索尼乌斯·鲁弗斯",
@@ -1300,7 +1302,8 @@
     {
      "name": "伊壁鸠鲁",
      "id": "gr-hellenistic-epicurus",
-     "note": "原子论与快乐主义"
+     "note": "原子论与快乐主义",
+     "relation": "承继"
     },
     {
      "name": "恩培多克勒与德谟克利特",
@@ -1724,7 +1727,8 @@
     {
      "name": "爱比克泰德",
      "id": "gr-hellenistic-epictetus",
-     "note": "《沉思录》卷一明确致谢其《语录》"
+     "note": "《沉思录》卷一明确致谢其《语录》",
+     "relation": "承继"
     },
     {
      "name": "芝诺与克律西波的斯多亚体系",
@@ -1879,7 +1883,8 @@
     {
      "name": "芝诺（季蒂昂）",
      "id": "gr-hellenistic-zeno",
-     "note": "斯多亚派创始人，其师"
+     "note": "斯多亚派创始人，其师",
+     "relation": "承继"
     },
     {
      "name": "克莱安提斯",
@@ -2018,7 +2023,8 @@
     {
      "name": "普罗提诺",
      "id": "gr-hellenistic-plotinus",
-     "note": "流溢说与三个原初本体"
+     "note": "流溢说与三个原初本体",
+     "relation": "承继"
     },
     {
      "name": "扬布利柯",
@@ -2658,7 +2664,8 @@
     "iep-stoicism"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-hellenistic-ataraxia"
   },
   {
    "id": "gr-hellenistic-ekpyrosis",
@@ -3003,7 +3010,8 @@
     "book-copleston-history"
    ],
    "needs_verification": true,
-   "pending_notes": "“四药”的原文出处（据斐洛德摩斯《残篇》与后世转述）与其确切措辞须核；本页取通行表述。"
+   "pending_notes": "“四药”的原文出处（据斐洛德摩斯《残篇》与后世转述）与其确切措辞须核；本页取通行表述。",
+   "broader": "gr-hellenistic-hedone"
   },
   {
    "id": "gr-hellenistic-prohairesis",

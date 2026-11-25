@@ -412,7 +412,8 @@
     {
      "name": "周敦颐",
      "id": "cn-songming-zhou-dunyi",
-     "note": "二程少年曾从其问学，事见《宋史·道学传》"
+     "note": "二程少年曾从其问学，事见《宋史·道学传》",
+     "relation": "承继"
     },
     {
      "name": "《易传》与《中庸》",
@@ -572,7 +573,8 @@
     {
      "name": "周敦颐",
      "id": "cn-songming-zhou-dunyi",
-     "note": "二程少年曾从其问学"
+     "note": "二程少年曾从其问学",
+     "relation": "承继"
     },
     {
      "name": "《易》与《大学》《中庸》",
@@ -1096,7 +1098,8 @@
     {
      "name": "陆九渊",
      "id": "cn-songming-lu-jiuyuan",
-     "note": "承其心即理一路，晚年为《象山文集》作序表章之"
+     "note": "承其心即理一路，晚年为《象山文集》作序表章之",
+     "relation": "承继"
     },
     {
      "name": "孟子",
@@ -1580,7 +1583,8 @@
     {
      "name": "张载气学",
      "id": "cn-songming-zhang-zai",
-     "note": "太虚即气的气本论"
+     "note": "太虚即气的气本论",
+     "relation": "承继"
     },
     {
      "name": "程朱理学（批评对象）",
@@ -1725,7 +1729,8 @@
     {
      "name": "罗钦顺（同时代气学）",
      "id": "cn-songming-luo-qinshun",
-     "note": "理气为一的共同立场"
+     "note": "理气为一的共同立场",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2013,7 +2018,8 @@
     {
      "name": "王阳明致良知",
      "id": "cn-songming-wang-yangming",
-     "note": "良知说的激进化"
+     "note": "良知说的激进化",
+     "relation": "私淑"
     }
    ],
    "influenced": [
@@ -2148,7 +2154,8 @@
     {
      "name": "陆九渊",
      "id": "cn-songming-lu-jiuyuan",
-     "note": "心即理与易简工夫"
+     "note": "心即理与易简工夫",
+     "relation": "承继"
     },
     {
      "name": "周敦颐与二程",
@@ -2287,7 +2294,8 @@
     {
      "name": "胡安国与二程",
      "id": "cn-songming-cheng-yi",
-     "note": "家学与洛学传承"
+     "note": "家学与洛学传承",
+     "relation": "承继"
     },
     {
      "name": "张载",
@@ -2426,7 +2434,8 @@
     {
      "name": "胡宏",
      "id": "cn-songming-hu-hong",
-     "note": "其师，湖湘学派的本体论"
+     "note": "其师，湖湘学派的本体论",
+     "relation": "承继"
     },
     {
      "name": "二程",
@@ -2843,7 +2852,8 @@
     {
      "name": "王阳明",
      "id": "cn-songming-wang-yangming",
-     "note": "其师；良知与格物之说"
+     "note": "其师；良知与格物之说",
+     "relation": "承继"
     },
     {
      "name": "泰州学派的民间讲学传统",
@@ -2983,7 +2993,8 @@
     {
      "name": "陈献章",
      "id": "cn-songming-chen-xianzhang",
-     "note": "其师；静坐自得之学"
+     "note": "其师；静坐自得之学",
+     "relation": "承继"
     },
     {
      "name": "程朱的格物说",
@@ -3723,7 +3734,8 @@
     {
      "name": "严羽（其诗学之据）",
      "id": "cn-songming-yan-yu",
-     "note": "“妙悟”说为其兴象风神之论所本"
+     "note": "“妙悟”说为其兴象风神之论所本",
+     "relation": "承继"
     },
     {
      "name": "刘勰（其远源）",
@@ -4077,7 +4089,8 @@
     "ct-chuanxilu"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-songming-xin-ji-li"
   },
   {
    "id": "cn-songming-zhi-liangzhi",
@@ -4112,7 +4125,8 @@
     "sep-qing-philosophy"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-songming-xin-ji-li"
   },
   {
    "id": "cn-songming-tianli-renyu",
