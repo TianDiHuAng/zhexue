@@ -20214,6 +20214,61 @@
    "sort_year": 1230
   },
   {
+   "id": "work-fusus-al-hikam",
+   "title": "《智慧的珍宝》",
+   "title_original": "Fuṣūṣ al-Ḥikam（伊本·阿拉比；一说为其弟子辑录）",
+   "tradition": "west",
+   "date_display": "约1230年代（伊本·阿拉比）",
+   "structure": "二十七章：每章以一位先知为“珍宝”，说其一“智慧”。故其体例是以**先知史为纲的形而上学**：借人物说存在之阶，非传记汇编。",
+   "core_arguments": [
+    "**存在单一（waḥdat al-wujūd）**：存在唯有一，万物为其显现",
+    "**想象（khayāl）为中介**：神与世界的“之间”是想象，故不可将其判为虚无",
+    "**完人（al-insān al-kāmil）**：人以全能之名显，故为世界的“眼”"
+   ],
+   "key_points": [
+    {
+     "locator": "亚当章",
+     "point": "神之名与显现"
+    },
+    {
+     "locator": "易卜拉欣章",
+     "point": "想象之中介"
+    },
+    {
+     "locator": "穆萨章",
+     "point": "言说与显现"
+    },
+    {
+     "locator": "末章（穆罕默德）",
+     "point": "完人"
+    }
+   ],
+   "editions": [
+    "阿拉伯文本多种；**作者归属与辑录问题学界有讨论**；英译有（如 Austin 译本）"
+   ],
+   "related_people": [
+    "gr-medieval-ibn-arabi",
+    "gr-medieval-averroes"
+   ],
+   "misreadings": [
+    {
+     "claim": "“存在单一”＝泛神论（世界即神）",
+     "why": "其说以世界为**显现**而非神的实体；故与“世界即神”的泛神论有别。此点须并述，学界亦有不同读法。"
+    },
+    {
+     "claim": "其书是伊本·阿拉比亲笔",
+     "why": "其书多认为**由其弟子辑录其言**；作者归属须标“托名／辑录”之别，本页并记，不裁定。"
+    }
+   ],
+   "sources": [
+    "sep-ibn-arabi",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Ibn Arabi”转述，**未读阿拉伯文本**；作者归属（亲笔／辑录）与二十七章次序须核，且 waḥdat al-wujūd 一语的来源亦有讨论。",
+   "sort_year": 1230
+  },
+  {
    "id": "work-breves",
    "title": "《短论集》",
    "title_original": "Opuscula（短论合集）",
@@ -37530,6 +37585,62 @@
    ],
    "needs_verification": true,
    "pending_notes": "《德国悲苦剧的起源》的〈认识论批判序言〉与 1928 年初版须核 Gesammelte Schriften I/1；“起源”“寓意”的原文与译法亦须核。",
+   "sort_year": 1928
+  },
+  {
+   "id": "work-stellung-mensch",
+   "title": "《人在宇宙中的地位》",
+   "title_original": "Die Stellung des Menschen im Kosmos（舍勒）",
+   "tradition": "west",
+   "date_display": "1928（舍勒）",
+   "structure": "短篇论著：以“人是何物、在存在秩序中居何位”为问，先破“人是理性动物”的旧定义，再以**生命诸阶**（植物·动物·人）与“**精神**（Geist）”的分界立新说。",
+   "core_arguments": [
+    "**人是“生命的禁欲者”**：精神能对本能说“不”，故人不能只以“更聪明”被定义",
+    "**位格（Person）与精神同义**：精神非实体能力，而是对世界的开放",
+    "**人与动物的界在“世界”而非“环境”**：动物只有 Umwelt，人有 Welt"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "旧定义的破产"
+    },
+    {
+     "locator": "第二章",
+     "point": "生命诸阶"
+    },
+    {
+     "locator": "第三章",
+     "point": "精神与位格"
+    },
+    {
+     "locator": "末章",
+     "point": "人的特殊地位与危险"
+    }
+   ],
+   "editions": [
+    "德文本（1928 初版）；英译有；中译有（北京联合等）"
+   ],
+   "related_people": [
+    "gr-20c-scheler",
+    "gr-20c-husserl",
+    "gr-20c-heidegger"
+   ],
+   "misreadings": [
+    {
+     "claim": "其说＝“人是理性动物”的现代版",
+     "why": "其说恰**以精神（对世界开放）替代理性**，并强调人是“生命的禁欲者”；故与古典定义为对立而非延续。"
+    },
+    {
+     "claim": "其所谓“精神”是实体",
+     "why": "其明确说精神**非实体能力**，而是位格与世界的关系；故不可当作一物来看。"
+    }
+   ],
+   "sources": [
+    "sep-scheler",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Max Scheler”转述，**未读德文本**；Umwelt／Welt 之分与其前后期思想的变化须核。",
    "sort_year": 1928
   },
   {
