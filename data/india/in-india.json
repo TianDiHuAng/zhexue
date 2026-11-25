@@ -653,6 +653,181 @@
      "note": "分部与品次各本不同，引用须注明版本"
     }
    ]
+  },
+  {
+   "id": "in-india-shankara",
+   "name": "商羯罗",
+   "latin": "Śaṅkara（Śaṅkarācārya）",
+   "birth_year": 700,
+   "death_year": 750,
+   "birth_display": "约700年",
+   "death_display": "约750年",
+   "birth_note": "生年有 788—820 与约 700—750 两系说法（SEP 并列 Nakamura 与 Potter 的推定）；传统谓生于迦拉德（今喀拉拉）。",
+   "death_note": "卒年无确载，传统谓年仅三十二；今取约 750 年，属推定。",
+   "era": "后笈多至八世纪的印度：佛教量论与弥曼差、正理诸派并盛，吠檀多由《梵经》的经体走向系统的注释。商羯罗在不二吠檀多的传承中自视为继古疏而“系统化”，非开宗者；其注释成为此后吠檀多各派共同的起点，也是佛教与弥曼差共同攻击的对象。",
+   "school": "不二吠檀多（Advaita Vedānta）",
+   "core_questions": [
+    "“我”（ātman）与“梵”（brahman）是同一个吗？",
+    "世界若由梵而生，何以又说它“不如真”？",
+    "解脱是行为的果，还是认识的事？"
+   ],
+   "arguments": [
+    {
+     "claim": "ātman 即 brahman：以“汝即彼”解同一性语句",
+     "premises": [
+      "《唱赞奥义书》6.8.7 说“tat tvam asi（汝即彼）”，其中“汝”指当下的纯粹意识，“彼”指万物的存在根据。",
+      "以“同异法”（anvaya-vyatireka）辨：在醒、梦、熟睡三态中，意识**持续**而诸态**间断**，故意识不依诸态而有。"
+     ],
+     "inference": "若“汝”与“彼”依字面无法同一（有限与无限），则须以“次要指谓”（lakṣaṇā）各舍其限制而取其“持续者”：所余即纯粹意识与无差别存在，二者非二。",
+     "conclusion": "ātman 与 brahman 数目上同一；此认识即解脱。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "世界是“不可说”的显现，而非虚无",
+     "premises": [
+      "以“依存”与“持续”二标准判实在：能持其性者为真，变灭者为假。",
+      "名与色（nāma-rūpa）依存于存在而变灭，然又非如“兔角”之无。"
+     ],
+     "inference": "故须立第三种存在地位：它既非“梵”本身（因有变灭），亦非“无”（因可被知觉且诸人所共见），故为 anirvacanīya（不可说）的显现。",
+     "conclusion": "世界是次于真的显现；说“摩耶”不是说“什么都没有”。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "行为不能生解脱之知；知识须依“量”而生",
+     "premises": [
+      "行为（含仪式与冥想）依行为者的意愿而起，其果有限。",
+      "正确的认知则依对象之性而定（由量来决定），非由意愿决定。"
+     ],
+     "inference": "若解脱是“知”而非“作”，则仪式与冥想只能净化心、创造条件，不能直接生起对梵的知识；故其地位是间接的。",
+     "conclusion": "解脱是认识论的转变（去无明），非行为的报酬；此说亦使其与弥曼差（重仪轨）分道。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《梵经注》（Brahmasūtra-bhāṣya）",
+     "edition": "梵本多种校本；英译见 Gambhirananda 译本；汉译少见"
+    },
+    {
+     "title": "《千言》（Upadeśasāhasrī）",
+     "edition": "梵本与英译（Mayeda 1992）；为其独立著作中之要者"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "乔荼波陀（Gauḍapāda）",
+     "id": null,
+     "note": "其师承所自，《蛙氏奥义颂》的作者；不二之说的先行者"
+    },
+    {
+     "name": "弥曼差与正理的量论",
+     "id": "in-india-kumarila",
+     "note": "其“知依量而起、行不能生知”的论证借自弥曼差的讨论而反其结论"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "后期吠檀多诸派",
+     "id": null,
+     "note": "其注成为不二派与有神派（如罗摩奴阇）共同回应与分歧的起点"
+    },
+    {
+     "name": "佛教中观与量论（作为论敌）",
+     "id": "in-india-nagarjuna",
+     "note": "其反驳“一切空”为虚无主义；佛教一方亦以其“梵我”为所破"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "佛教中观（及量论一系）",
+     "view": "若“我”是常一之纯粹意识，则与无常的诸识如何相关？且“不可说”的世界说，只是把无明当作遁词。",
+     "response": "不二派的回应是：我与诸识非因果相关，而是**见证**关系（诸识起灭而见证不改）；“不可说”不是遁词，而是对“非有非无”这一存在地位的严格表述。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-shankara",
+      "sep-nagarjuna"
+     ]
+    },
+    {
+     "critic": "弥曼差派（鸠摩利罗一系）",
+     "view": "若解脱只须知“我即梵”，则吠陀的仪轨与禁令皆成无用于解脱的赘文，这与弥曼差的核心相违。",
+     "response": "商羯罗的回应是：仪轨有其**净化心**的间接作用（为知创造条件），故不废；但解脱本身不由行为生。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-shankara",
+      "sep-perception-india"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“摩耶”就是“世界不存在”",
+     "why": "其说以世界为“不可说”的显现：它非梵本身（有变灭），又非无（可被共见）；故不是取消世界，而是否认它有独立的实在性。"
+    },
+    {
+     "claim": "其说主张“个体灵魂最终消失于梵，故无我”",
+     "why": "其说不否认“我”，反而以 ātman 为实在之核心；所否定的是“把身体、感官、心智当作我”的**叠加**（adhyāsa）。故其立场与佛教“无我”正相反。"
+    },
+    {
+     "claim": "他是“不二吠檀多的创立者”",
+     "why": "其自视为**系统化者**（承乔荼波陀一系），非开宗者；早期不二吠檀多的历史在乔荼波陀之前并不清楚。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 320'><rect x='0' y='0' width='760' height='320' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>商羯罗：ātman 与 brahman 的同一（示意）</text><rect x='40' y='70' width='200' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='140' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>ātman（我）</text><text x='140' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>纯粹意识·见证者</text><rect x='285' y='70' width='200' height='52' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='385' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>“汝即彼”（tat tvam asi）</text><text x='385' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>anvaya-vyatireka 辨同异</text><rect x='530' y='70' width='190' height='52' rx='6' fill='#d9e7f1' stroke='#1c3a5c'/><text x='625' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>brahman（梵）</text><text x='625' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>无二·无属性之存在</text><rect x='285' y='170' width='200' height='56' rx='6' fill='#e6eff7' stroke='#5b8db8'/><text x='385' y='192' text-anchor='middle' font-size='12' fill='#1e2d3d'>māyā：不可说（anirvacanīya）</text><text x='385' y='212' text-anchor='middle' font-size='10' fill='#1e2d3d'>名与色·次于真而非无</text><text x='380' y='300' text-anchor='middle' font-size='11' fill='#5b7a96'>据 SEP “Śaṅkara”（2021）的解说重构</text></svg>",
+   "svg_caption": "商羯罗：ātman 与 brahman 的同一（重构示意图）",
+   "sources": [
+    "sep-shankara",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Śaṅkara”（2021-10-04）转述，**未读《梵经注》梵本**；生卒取 SEP 并列两说中的较早一系（约 700—750），非定论。三种方法（anvaya-vyatireka／lakṣaṇā／neti neti）的分疏与该派内部的后续争论须核专门研究。",
+   "doctrine": {
+    "summary": "商羯罗以“ātman 即 brahman”立不二吠檀多：纯粹意识与无差别的存在数目上同一，而世界是“不可说”的显现——非梵本身，亦非虚无。他以同异法、次要指谓与否定语（neti neti）三种方法解“汝即彼”一类同一性语句，并主张解脱是认识的转变而非行为的报酬，故仪轨与冥想只有净化心的间接作用。",
+    "system": [
+     {
+      "name": "我梵同一",
+      "content": "ātman 是纯粹意识，与 brahman 数目同一；此认识即解脱。"
+     },
+     {
+      "name": "两重实在",
+      "content": "以依存与持续为标准：梵为真，名色为“不可说”的显现。"
+     },
+     {
+      "name": "三方法",
+      "content": "anvaya-vyatireka 辨同异、lakṣaṇā 舍限取指、neti neti 遮遣一切限定。"
+     },
+     {
+      "name": "知先行后",
+      "content": "行为不能生解脱之知，仅能净心；解脱是去无明。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "八世纪（其人）",
+      "change": "注《梵经》《薄伽梵歌》与十种主要奥义书，系统化不二之说。"
+     },
+     {
+      "period": "八—十二世纪",
+      "change": "其注成为诸派共同起点；罗摩奴阇等有神派起而争之。"
+     },
+     {
+      "period": "近现代",
+      "change": "被奉为不二吠檀多的权威；其“见证意识”说亦进入当代意识哲学讨论。"
+     }
+    ],
+    "reception": "其注确立了不二吠檀多的基本语汇（我梵同一、摩耶、叠加、解脱即知）；此后吠檀多诸派与佛教、弥曼差皆须回应其说，近世研究更将其“见证意识”与意识哲学相连。"
+   },
+   "works_detail": [
+    {
+     "title": "《梵经注》",
+     "year": "约8世纪",
+     "date": "依《梵经》四编（adhyāya）分卷",
+     "structure": "逐经注释《梵经》四编：一编论“梵”为一切之因，二编答辩诸派（含佛教与数论），三编论修行与果，四编论解脱之果。",
+     "core_thesis": "梵即唯一实在，我即梵；世界为不可说的显现。",
+     "editions": "梵校本多种；Gambhirananda 英译；汉译少见",
+     "note": "其对佛教的批评（如斥“一切空”为虚无）与该派的回应，须并读方得其全"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -855,6 +1030,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“无我”与轮回主体的关系在部派间有细致争论（如犊子部的“不可说补特伽罗”），本页未及。"
+  },
+  {
+   "id": "in-india-atman",
+   "term": "我",
+   "term_latin": "ātman",
+   "definition": "生命中的“自我”。各派分歧极大：吠檀多以之为纯粹意识且与梵同一，佛教则以“无我”破其常一自主之义。",
+   "usages": [
+    {
+     "name": "商羯罗",
+     "id": "in-india-shankara",
+     "usage": "ātman 是纯粹意识（见证者），于醒梦熟睡三态中持续不改，且与 brahman 数目同一；把身体心智当作我，是“叠加”之误。"
+    },
+    {
+     "name": "龙树",
+     "id": "in-india-nagarjuna",
+     "usage": "于“我”与“我所”上破自性：若我无自性，则常、断二见皆离；故不许立常一之我，然亦不落断灭。"
+    },
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "以刹那相续与种子熏习说明业报与记忆，无须常我；《俱舍论》末品专破“我”执。"
+    }
+   ],
+   "related": [
+    "in-india-anatman",
+    "in-india-shunyata"
+   ],
+   "example": {
+    "text": "熟睡无梦时“我”仍在吗？吠檀多答：见证意识仍在，只是无所对；佛教答：此时唯有识的相续，无一个“我”可得。",
+    "figure": "熟睡（有我无我的试金石）"
+   },
+   "sources": [
+    "sep-shankara",
+    "sep-nagarjuna",
+    "sep-yogacara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“我”在数论（purusa）与胜论（dravya）中的用法未及；本页只取吠檀多与佛教两家对照。"
   }
  ],
  "debates": [

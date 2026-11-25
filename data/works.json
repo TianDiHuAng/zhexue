@@ -15402,6 +15402,62 @@
    "sort_year": 730
   },
   {
+   "id": "work-brahma-sutra-bhasya",
+   "title": "《梵经注》",
+   "title_original": "Brahmasūtra-bhāṣya（Śaṅkara）",
+   "tradition": "india",
+   "date_display": "约8世纪（商羯罗）",
+   "structure": "依《梵经》四编（adhyāya）逐经注释：一编论梵为一切之因，二编答辩诸派（含数论与佛教），三编论修行与果，四编论解脱之果。",
+   "core_arguments": [
+    "**梵即唯一实在**：世界以梵为存在根据，离梵无别自性",
+    "以“**不可说**”（anirvacanīya）说名色的存在地位：非梵本身，亦非无",
+    "以“**我即梵**”说解脱：解脱是去无明之知，非行为之果"
+   ],
+   "key_points": [
+    {
+     "locator": "一编",
+     "point": "梵为因"
+    },
+    {
+     "locator": "二编",
+     "point": "破数论与佛教"
+    },
+    {
+     "locator": "三编",
+     "point": "修行与果"
+    },
+    {
+     "locator": "四编",
+     "point": "解脱与 jīvanmukti"
+    }
+   ],
+   "editions": [
+    "梵校本多种；Gambhirananda 英译《Brahma-Sūtra-Bhāṣya》；汉译少见"
+   ],
+   "related_people": [
+    "in-india-shankara",
+    "in-india-nagarjuna",
+    "in-india-kumarila"
+   ],
+   "misreadings": [
+    {
+     "claim": "其注是“经义的客观复述”",
+     "why": "其注是**不二吠檀多的系统建构**（我梵同一、摩耶、叠加诸说于此定型），故为创造性诠释，非客观复述。"
+    },
+    {
+     "claim": "其书主张“世界是幻，故不必作为”",
+     "why": "其说以世界为不可说的显现（非无），且许仪轨与伦理有**净心**的间接作用；故不废世间作为。"
+    }
+   ],
+   "sources": [
+    "sep-shankara",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Śaṅkara”转述，**未读梵本**；四编的分卷与对诸派的答辩（尤二编）须核校本与英译。",
+   "sort_year": 750
+  },
+  {
    "id": "work-huayan-jingshu",
    "title": "《华严经疏》",
    "title_original": "《大方广佛华严经疏》（澄观）",
