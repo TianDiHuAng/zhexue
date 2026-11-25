@@ -139,7 +139,7 @@
     "sep-nagarjuna"
    ],
    "needs_verification": true,
-   "pending_notes": "本页据 SEP “Perceptual Experience and Concepts in Classical Indian Philosophy”（2010-12-02／2021-01-12）与“Nāgārjuna”转述，**未读《正理经》梵本**；生卒为学界通说之约数，非可证事实。凡标“后人解读”者，皆指其说由后世注疏与当代研究重构。",
+   "pending_notes": "已核（第356轮，据 sep-logic-india）：该篇明载正理的“五支作法”（pañcāvayava：宗、因、喻、合、结），并谓其由论辩术（vāda）传统演化而来，重视“遍充”（vyāpti）。仍待核：《正理经》1.1.32 以下的原文与筏差衍那注未核。",
    "doctrine": {
     "summary": "乔答摩以《正理经》立“量”之学：知觉是首要的知识手段，但须以“不可言说、不错乱、确定”三重限定成立；由此展开十六谛的体系，把知识论与论辩规范合为一体。其共相实在论使语言得以指向真实共同项，成为佛教“遮诠”说的主要对手。",
     "system": [
@@ -1018,7 +1018,7 @@
     "sep-perception-india"
    ],
    "needs_verification": true,
-   "pending_notes": "本页据 SEP “Logic in Classical Indian Philosophy”（2011-04-19／2023-08-23）与“Perceptual Experience and Concepts in Classical Indian Philosophy”转述，**未读《集量论》梵本残卷与藏译**；生卒为通说约数，因三相的梵文表述与法称的修订须核专门研究。",
+   "pending_notes": "已核（第356轮，据 sep-logic-india）：该篇明载陈那改五支为“三支作法”，并立“因三相”（trairūpya：遍是宗法性、同品定有性、异品遍无性），另立似因分类。仍待核：《集量论》梵本与藏译未读；颂数须核。",
    "doctrine": {
     "summary": "陈那以“因三相”厘定推理的有效性：因须遍是宗法、同品定有、异品遍无，三者合起来即“遍充”关系；由此把正理派的五支作法简化为宗、因、喻三支。在知识论上，他以“离分别”界定知觉，又以“遮诠”说明概念，使佛教量论成为与正理、弥曼差鼎立的一系，其学经法称而大成。",
     "system": [

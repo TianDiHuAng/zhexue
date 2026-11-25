@@ -42,3 +42,10 @@
 - **in-india-jaimini**（据 `sep-logic-india`）：书目载 “Jaimini's Mīmāṃsā Sūtra, Bk. 1, Ch. 1, by Kumārila Bhaṭṭa”
 
 > 四项均为**内容级核销**（核到年代、底本、章数与书目关系）；页面 `needs_verification` 仍为 true（尚有待核项）。
+
+## 第 356 轮（目标第 30 轮）
+
+- **in-india-gautama**（据 `sep-logic-india`）：五支作法（宗因喻合结）与“遍充”概念之表述
+- **in-india-dignaga**（据 `sep-logic-india`）：三支作法与因三相（trairūpya）之表述
+
+> 两项为**内容级核销**（核到论证形式的具体表述）；页面 `needs_verification` 仍为 true（梵本未读）。
