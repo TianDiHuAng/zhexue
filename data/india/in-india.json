@@ -3321,6 +3321,46 @@
    ],
    "needs_verification": true,
    "pending_notes": "三身说据 SEP “Yogācāra”转述；龙树一栏为“方便”立场的推述，非其专论佛身之文；商羯罗一栏为**结构性对照**，引用须分辨。"
+  },
+  {
+   "id": "in-india-varna",
+   "term": "种姓",
+   "term_latin": "varṇa",
+   "definition": "四姓之分（婆罗门、刹帝利、吠舍、首陀罗）。它在印度哲学中不是“社会学事实”，而是一个**规范问题**：法的义务是否随生而定？",
+   "usages": [
+    {
+     "name": "阇弥尼（弥曼差）",
+     "id": "in-india-jaimini",
+     "usage": "法既由吠陀而立，则**义务随其位分而定**：祭仪与日常之“当为”依四姓而有别，故种姓是**法的条件**。"
+    },
+    {
+     "name": "世亲（佛教）",
+     "id": "in-india-vasubandhu",
+     "usage": "以“**四姓入法如水入海**”之说，主张**法不依生**：解脱之道不以种姓为限，故种姓是世俗的设施，非解脱的条件。"
+    },
+    {
+     "name": "龙树（中观）",
+     "id": "in-india-nagarjuna",
+     "usage": "以“自性空”破“生而有别”的实有化：种姓若为自性，则不可改；正因无自性，才有出家与解脱的可能。"
+    }
+   ],
+   "related": [
+    "in-india-dharma",
+    "in-india-karma",
+    "in-india-moksa"
+   ],
+   "example": {
+    "text": "同一个“种姓”：弥曼差说它是法的条件（义务随位分），佛教说它是世俗设施（法不依生），中观说它无自性（故可超越）——三种说法各自决定了“谁能修行”。",
+    "figure": "种姓作为法的条件／世俗设施／无自性"
+   },
+   "sources": [
+    "sep-perception-india",
+    "sep-yogacara",
+    "sep-nagarjuna"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三家说法据 SEP 相应条目与通行研究概述转述；四姓的制度史与《摩奴法论》的条文**未核**；本站不涉种姓制度的现实评价，只作概念对照。",
+   "broader": "in-india-dharma"
   }
  ],
  "debates": [
