@@ -892,7 +892,8 @@
     {
      "name": "世亲",
      "id": "in-india-vasubandhu",
-     "note": "承其“离分别”之说与唯识的框架，而把量论系统化"
+     "note": "承其“离分别”之说与唯识的框架，而把量论系统化",
+     "relation": "承继"
     },
     {
      "name": "正理派的论辩传统",
@@ -1053,7 +1054,8 @@
     {
      "name": "陈那",
      "id": "in-india-dignaga",
-     "note": "承其三支作法与因三相，而重订遍充的分类与遮诠的机制"
+     "note": "承其三支作法与因三相，而重订遍充的分类与遮诠的机制",
+     "relation": "承继"
     },
     {
      "name": "世亲一系的瑜伽行",
@@ -1214,7 +1216,8 @@
     {
      "name": "龙树",
      "id": "in-india-nagarjuna",
-     "note": "承其《中论》而作注，并以“应成”定其方法"
+     "note": "承其《中论》而作注，并以“应成”定其方法",
+     "relation": "承继"
     },
     {
      "name": "佛护（Buddhapālita）",
@@ -1231,7 +1234,8 @@
     {
      "name": "清辨一系（作为论辩对手）",
      "id": "in-india-bhaviveka",
-     "note": "应成与自续之分即由二人之诤而定型"
+     "note": "应成与自续之分即由二人之诤而定型",
+     "relation": "同门相诤"
     }
    ],
    "criticisms": [
@@ -1375,19 +1379,22 @@
     {
      "name": "龙树",
      "id": "in-india-nagarjuna",
-     "note": "为其《中论》作注，而于方法上自立一路"
+     "note": "为其《中论》作注，而于方法上自立一路",
+     "relation": "承继"
     },
     {
      "name": "陈那一系的量论",
      "id": "in-india-dignaga",
-     "note": "借其因三相之说以立自续的论证"
+     "note": "借其因三相之说以立自续的论证",
+     "relation": "承继"
     }
    ],
    "influenced": [
     {
      "name": "月称（作为其批评者）",
      "id": "in-india-candrakirti",
-     "note": "应成与自续之分即由二人的诤论而定型"
+     "note": "应成与自续之分即由二人的诤论而定型",
+     "relation": "同门相诤"
     },
     {
      "name": "藏传中观（自续一系）",
@@ -1548,7 +1555,8 @@
     {
      "name": "世亲（其弟）",
      "id": "in-india-vasubandhu",
-     "note": "世亲承其学而作《唯识三十颂》等，瑜伽行遂大成"
+     "note": "世亲承其学而作《唯识三十颂》等，瑜伽行遂大成",
+     "relation": "承继"
     },
     {
      "name": "陈那与法称（量论）",
@@ -1697,7 +1705,8 @@
     {
      "name": "乔答摩（《正理经》）",
      "id": "in-india-gautama",
-     "note": "以经为纲，逐句展开；其体系即经的展开"
+     "note": "以经为纲，逐句展开；其体系即经的展开",
+     "relation": "承继"
     },
     {
      "name": "古代论辩术（vāda 的传统）",
@@ -1889,7 +1898,8 @@
     {
      "name": "商羯罗一系（作为论辩对手）",
      "id": "in-india-shankara",
-     "note": "其《梵经注》以驳不二论为主要目标之一"
+     "note": "其《梵经注》以驳不二论为主要目标之一",
+     "relation": "批驳"
     }
    ],
    "criticisms": [
@@ -2052,7 +2062,8 @@
     "sep-perception-india"
    ],
    "needs_verification": true,
-   "pending_notes": "二阶段说（nirvikalpaka／savikalpaka）在正理一系中的定型年代须核专门研究。"
+   "pending_notes": "二阶段说（nirvikalpaka／savikalpaka）在正理一系中的定型年代须核专门研究。",
+   "broader": "in-india-pramana"
   },
   {
    "id": "in-india-shunyata",
@@ -2264,7 +2275,8 @@
     "sep-perception-india"
    ],
    "needs_verification": true,
-   "pending_notes": "五支与三支的差异、以及“为自／为他比量”的分疏，本页据 SEP 转述；耆那教与文法家的推理说未及。"
+   "pending_notes": "五支与三支的差异、以及“为自／为他比量”的分疏，本页据 SEP 转述；耆那教与文法家的推理说未及。",
+   "broader": "in-india-pramana"
   },
   {
    "id": "in-india-brahman",

@@ -297,7 +297,10 @@ def render_person(p, sources, people, concepts, debates, schools):
             nm = esc(r["name"])
             if r.get("id") and r["id"] in people:
                 nm = '<a href="%speople/%s.html">%s</a>' % (pth, r["id"], esc(r["name"]))
-            out.append("<li>%s　<span class=\"meta\">%s</span></li>" % (nm, esc(r.get("note", ""))))
+            rel = r.get("relation")
+            tag = ('<span class="tag">%s</span> ' % esc(rel)) if rel else ""
+            out.append("<li>%s%s　<span class=\"meta\">%s</span></li>"
+                       % (tag, nm, esc(r.get("note", ""))))
         return '<ul class="tight">%s</ul>' % "".join(out)
     body.append('<div class="grid"><div class="card"><h3>受谁影响</h3>%s</div>'
                 '<div class="card"><h3>影响了谁</h3>%s</div></div>'
@@ -377,6 +380,20 @@ def render_concept(c, sources, people, concepts):
     body.append('<blockquote>%s<cite>—— %s</cite></blockquote>' % (esc(ex.get("text", "")), esc(ex.get("figure", ""))))
     if ex.get("locator"):
         body.append('<p class="meta">出处/语境：%s</p>' % esc(ex["locator"]))
+    br = c.get("broader")
+    kids = [x for x in concepts.values() if x.get("broader") == c["id"]]
+    if br or kids:
+        body.append("<h2>三·五、概念的层级</h2>")
+        parts = []
+        if br:
+            tg = concepts.get(br)
+            parts.append("上位概念：%s" % (
+                '<a href="%sconcepts/%s.html">%s</a>' % (pth, br, esc(tg["term"])) if tg else esc(br)))
+        if kids:
+            parts.append("下位概念：%s" % " · ".join(
+                '<a href="%sconcepts/%s.html">%s</a>' % (pth, k["id"], esc(k["term"]))
+                for k in sorted(kids, key=lambda x: x["term"])))
+        body.append("<p>%s</p>" % "<br/>".join(parts))
     body.append("<h2>四、相关概念</h2>")
     rel_ids = c.get("related") or []
     if rel_ids:
@@ -512,6 +529,8 @@ def render_work(w, sources, people):
             '<p class="meta">%s · %s</p>' % (esc(w["title_original"]), esc(w["date_display"]))]
     body.append('<p class="crumb"><a href="%s">首页</a> / <a href="%sworks/">著作</a> / %s</p>'
                 % (pth, pth, esc(w["title"])))
+    if w.get("date_note"):
+        body.append('<p class="meta">年代异说：%s</p>' % esc(w["date_note"]))
     body.append("<h2>一、文本结构</h2><p>%s</p>" % esc(w["structure"]))
     body.append("<h2>二、核心论证</h2><ol class=\"tight\">%s</ol>"
                 % "".join("<li>%s</li>" % esc(a) for a in w["core_arguments"]))
@@ -701,6 +720,50 @@ def render_school_index(schools):
                            esc(s["core_claims"][0] if s["core_claims"] else "")))
         body.append("</div>")
     return page("流派索引", d, "流派", "\n".join(body))
+
+
+def century_of(y):
+    """负年份按“公元前第 n 世纪”；0 年并入公元 1 世纪（无 0 世纪）。"""
+    if y >= 0:
+        return y // 100 + 1
+    return -((abs(y) - 1) // 100 + 1)
+
+
+def century_label(c):
+    return ("公元%d世纪" % c) if c > 0 else ("公元前%d世纪" % (-c))
+
+
+def render_century_timeline(units, people):
+    """世纪视图（借鉴“不留空白”的思路，静态表格，零 JS）。"""
+    d = 1
+    pth = rel(d)
+    body = ["<h1>世纪视图</h1>",
+            '<p class="meta">把每个区域按世纪分桶：每一行是一个世纪，列出该世纪出生的人物。'
+            '“（此处空）”表示该世纪站内**尚无人物**——空着是如实，不是缺页的错误，'
+            '但可作为选题参考（见 GAP_SCAN.md）。</p>']
+    for region, label in present_regions():
+        ps = [p for p in people.values() if p["_region"] == region and isinstance(p.get("birth_year"), int)]
+        if not ps:
+            continue
+        buckets = {}
+        for p in ps:
+            buckets.setdefault(century_of(p["birth_year"]), []).append(p)
+        lo, hi = min(buckets), max(buckets)
+        span = [c for c in range(lo, hi + 1) if c != 0]
+        body.append("<h2>%s</h2>" % label)
+        body.append('<table><tr><th class="year">世纪</th><th>人物（按出生年）</th></tr>')
+        for c in span:
+            items = sorted(buckets.get(c, []), key=lambda x: x["birth_year"])
+            if items:
+                cell = " · ".join('<a href="%speople/%s.html">%s</a>' % (pth, x["id"], esc(x["name"]))
+                                  for x in items)
+            else:
+                cell = '<span class="meta">（此处空）</span>'
+            body.append('<tr><td class="year">%s</td><td>%s</td></tr>' % (century_label(c), cell))
+        body.append("</table>")
+    body.append('<p class="meta"><a href="%stimeline/china.html">→ 中国时间线</a>　'
+                '<a href="%sgraph.html">→ 谱系总图</a></p>' % (pth, pth))
+    return page("世纪视图", d, "时间线", "\n".join(body))
 
 
 def render_timeline(units, people, region, label):
@@ -986,6 +1049,7 @@ def main():
     write("misreadings.html", render_misreadings_index(people, works))
     for _r, _l in present_regions():
         write("timeline/%s.html" % _r, render_timeline(units, people, _r, _l))
+    write("timeline/century.html", render_century_timeline(units, people))
     write("sources/index.html", render_sources(sources))
 
     n = sum(1 for _ in glob.glob(os.path.join(SITE, "**", "*.html"), recursive=True))

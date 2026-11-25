@@ -14,6 +14,8 @@
   R4  引文必须有原典出处 + 长度上限       R14 概念用法差异（≥2 位，且说法不同）
   R5  重复检测（单元内同名 / 全局 id）    R15 争论结构（≥2 方 + 焦点 + 定论说明）
   R6  SVG 合法性（XML/白名单/越界）       R16 id 字符集 a-z0-9-
+  R21 概念层级 broader（同单元／不成环）  R22 影响链关系类型白名单
+  R23 著作年代异说 date_note（≥10 字）
   R7  计数限制（哲学家 4-8 / 概念 6-10 / 争论 2-3）
   R8  year_display 与 year 一致
   R9  全局 id 唯一
@@ -279,6 +281,14 @@ def check_unit(path, src, global_ids, unit_ids):
         for w3 in p.get("works") or []:
             need("%s / work" % where, "R1", w3, ["title", "edition"],
                  mins={"edition": 8})
+        # R22：影响链的关系类型（借鉴 InPhO 多重关系）——白名单
+        REL_OK = ("承继", "批驳", "重述", "同门相诤", "私淑", "影响")
+        for key in ("influenced_by", "influenced"):
+            for r in p.get(key) or []:
+                rel = r.get("relation")
+                if rel and rel not in REL_OK:
+                    err("%s / %s" % (where, key), "R22",
+                        "relation 不在白名单：%s（允许 %s）" % (rel, "、".join(REL_OK)))
         # 批评
         crit = p.get("criticisms") or []
         if len(crit) < 1:
@@ -374,6 +384,23 @@ def check_unit(path, src, global_ids, unit_ids):
         ex = c.get("example") or {}
         need("%s / example" % where, "R1", ex, ["text", "figure"],
              mins={"text": 20})
+        # R21：概念层级（借鉴 PhilPapers 分类树）——broader 须在本单元内、不自指、不成环
+        br = c.get("broader")
+        if br:
+            if br == cid:
+                err(where, "R21", "broader 不得自指")
+            elif br not in all_co:
+                err(where, "R21", "broader 不在本单元概念内：%s" % br)
+        seen_ids = {cid}
+        cur, steps = br, 0
+        while cur and steps <= len(co):
+            if cur in seen_ids:
+                err(where, "R21", "broader 链成环：%s" % cur)
+                break
+            seen_ids.add(cur)
+            nxt = next((x for x in co if x.get("id") == cur), None)
+            cur = (nxt or {}).get("broader")
+            steps += 1
         for r3 in c.get("related") or []:
             if r3 not in all_co:
                 err("%s / related" % where, "R11", "相关概念不在本单元概念内：%s" % r3)
@@ -484,6 +511,10 @@ def check_works(src, global_ids):
         for r in w.get("related_people") or []:
             if r not in global_ids:
                 err("%s / related_people" % where, "R11", "人物 id 不存在：%s" % r)
+        # R23：著作年代异说并记（借鉴 CBDB 的异说并记）
+        dn = w.get("date_note")
+        if dn and len(str(dn).strip()) < 10:
+            err(where, "R23", "date_note 过短（≥10 字，须写明异说与出处）")
         for m in w.get("misreadings") or []:
             need("%s / misreading" % where, "R17", m, ["claim", "why"], mins={"why": 10})
         # D77：著作页的原文引文（与人物页同一套规矩：须原典、≤60 字、须篇目定位）

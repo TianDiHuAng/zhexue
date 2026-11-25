@@ -14313,7 +14313,8 @@
    ],
    "needs_verification": true,
    "pending_notes": "本页据 SEP “Nāgārjuna”转述，**未读梵本与藏译**；十一地的分章与“二无我”的表述须核校订本与研究。",
-   "sort_year": 640
+   "sort_year": 640,
+   "date_note": "月称生卒学界推定为约 600—650，故其著作系年随之浮动；本页取“约 7 世纪”，非定论。"
   },
   {
    "id": "work-xugaoseng-zhuan",
@@ -14711,7 +14712,8 @@
    ],
    "needs_verification": true,
    "pending_notes": "本页据 SEP “Nāgārjuna”转述，**未读梵本**；应成与自续之分在藏传判教中的定型须核专门研究。",
-   "sort_year": 650
+   "sort_year": 650,
+   "date_note": "同上：月称年代本身为推定，故《明句论》有“约 7 世纪”与“7 世纪后半”两说，本页并存。"
   },
   {
    "id": "work-pramanavarttika",
@@ -17834,7 +17836,8 @@
    ],
    "needs_verification": true,
    "pending_notes": "本页据 IEP “Ramanuja”转述，**未读梵本与 Thibaut 英译**；四编的分卷与其对诸派答辩的具体内容须核校订本。",
-   "sort_year": 1120
+   "sort_year": 1120,
+   "date_note": "罗摩奴阇生卒有 1017—1137（传统）与 1077—1157（近世研究）两说，故其注的系年亦有约 1116 与约 1120 之异。"
   },
   {
    "id": "work-sic-et-non",
