@@ -25,3 +25,11 @@
 - **work-empedocles-fragments** —— 已核（第 298 轮，据 sep-presocratics，2007-03-10／2020-06-22 修订）：恩培多克勒为 DK 第 31 章（SEP 引 31B17＝“树木、男人女人、野兽、鸟类与鱼”，并引 DK31B73、B96、B98 论“配方”）；其“四根”与“爱与争”皆可据；又：1990 年代斯特拉斯堡纸草（Strasbourg Papyrus）新证其宇宙论与净化说不可分。
 - **gr-ancient-thales** —— 已核（第 298 轮，据 sep-presocratics，2007-03-10／2020-06-22 修订）：泰勒斯无著作（“the doxographical reports say that Thales did not write a book”）；其“水为本原”见亚里士多德《形而上学》983b（＝DK 11A12），日食预言（前 585）见 DK 11A5 —— 本页“全部来自转述”的处理由此得到确证。
 
+
+## 第 337 轮（第 10 轮目标轮）
+
+- **in-india-ramanuja**（据 `iep-ramanuja`）：IEP 词条标题即作 'Rāmānuja (c. 1017 – c. 1137)'，并注明近世研究多作 1077—1157
+- **in-india-nagarjuna**（据 `sep-nagarjuna`）：SEP 首段作 'Nāgārjuna (ca 150–250 CE)'，并称其为主要活动于南印度
+- **in-india-shankara**（据 `sep-shankara`）：SEP 首段称其 'flourished during the eighth century CE'，与本站所取约 700—750 相容
+
+> 说明：三项均为**内容级核销**（核到了日期／年代的原始表述），其页面的 `needs_verification` 仍为 true，因其尚有「未读梵本」等项；按 D72，全部核清方置 false。
