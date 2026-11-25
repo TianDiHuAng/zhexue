@@ -494,6 +494,18 @@
     {
      "claim": "二谛是两个世界：世俗是假，胜义是真",
      "why": "若为两个世界，则世俗可废；其说以二谛为同一实在的两重言说，世俗的缘起正是说空的根据。"
+    },
+    {
+     "claim": "其说有一个“总论证”可一举证成一切法空",
+     "why": "SEP 明言：龙树**没有**可一举定案的“master argument”。因既破自性，则任何“依其本性即能成立结论”的论证也不可得；故其破斥须**逐敌而设**（对执 x 为实者破 x，对执 y 者破 y）。"
+    },
+    {
+     "claim": "“空”也是一个终极真理（可作胜义谛的正面描述）",
+     "why": "SEP 指出：空不是对“离概念之实在”的描述，而是**对误执自性的对治**；若无此误执，则无需空说。故“空亦复空”并非文字游戏，而是防止把空当成另一种自性。"
+    },
+    {
+     "claim": "其破斥只破“梵/神我”等外道，不破佛教内部",
+     "why": "其《回诤论》所答的诘难**兼有佛教内外**之对手；且其说一切有部的“自性”亦在破中。故不可当作“只对外”的护教之作。"
     }
    ],
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 320'><rect x='0' y='0' width='760' height='320' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>龙树：破自性而成立缘起（示意）</text><rect x='40' y='70' width='200' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='140' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>自性（svabhāva）</text><text x='140' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>不待他而自有</text><rect x='285' y='70' width='200' height='52' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='385' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>四句破</text><text x='385' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>自生·他生·共生·无因</text><rect x='530' y='70' width='190' height='52' rx='6' fill='#d9e7f1' stroke='#1c3a5c'/><text x='625' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>空（śūnyatā）</text><text x='625' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>离自性的缘起</text><rect x='285' y='170' width='200' height='52' rx='6' fill='#e6eff7' stroke='#1c3a5c'/><text x='385' y='192' text-anchor='middle' font-size='12' fill='#1e2d3d'>二谛</text><text x='385' y='210' text-anchor='middle' font-size='10' fill='#1e2d3d'>世俗与胜义的两重说</text><text x='380' y='300' text-anchor='middle' font-size='11' fill='#5b7a96'>据《中论》与 SEP 词条的解说重构</text></svg>",
@@ -503,7 +515,7 @@
     "sep-perception-india"
    ],
    "needs_verification": true,
-   "pending_notes": "已核（第392轮，据 sep-nagarjuna）：该篇载《中论》为约 450 颂（约 27 品），并以“八不”与四句破斥自性；又载其《回诤论》论语言、《广破论》破正理范畴。仍待核：《中论》梵本颂数与品次须核（Poussin 校本）；藏译与汉译的品次差异未及。",
+   "pending_notes": "已核（第392／421轮，据 sep-nagarjuna）：《中论》约450颂27品；空＝无自性（非无）；无“总论证”，破斥逐敌而设；空非终极正面真理而为对治；《回诤论》七十颂＋散文自注，所答兼佛教内外。仍待核：梵本与汉译品次对照未做。",
    "doctrine": {
     "summary": "龙树以“破自性”成立“空”：空不是无，而是离自性的缘起。他以四句穷尽因果的表述而一一破之，说明因果只能在缘起上说；又以二谛说明世俗言说与胜义实相并非两个世界。其《回诤论》回应“此说亦空”的反噬，《广破论》则正面破正理派的范畴。",
     "system": [
