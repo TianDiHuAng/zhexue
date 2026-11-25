@@ -3203,6 +3203,85 @@
    "needs_verification": true,
    "pending_notes": "三家说法据 SEP “Nāgārjuna”“Yogācāra”“Logic in Classical Indian Philosophy”转述；十二支的具体分位与部派异说未及。",
    "broader": "in-india-shunyata"
+  },
+  {
+   "id": "in-india-anitya",
+   "term": "无常",
+   "term_latin": "anitya",
+   "definition": "刹那生灭。它不只是“会变”，而是“**没有一刹那的安住**”；正因如此，无常既是苦的根据，也是空的入口。",
+   "usages": [
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "以“刹那灭”说无常：诸法才生即灭，故无自性可得；此说为“行苦”与“无我”提供基础。"
+    },
+    {
+     "name": "龙树",
+     "id": "in-india-nagarjuna",
+     "usage": "以无常说空：若法常住则不可转，正因无常才有缘起的生灭；然“无常”本身亦不可执为实有。"
+    },
+    {
+     "name": "乔答摩（正理派，作为对照）",
+     "id": "in-india-gautama",
+     "usage": "不许“一切刹那灭”：若声与极微皆刹那灭，则记忆与认识无从成立；故须许某些法的相续。"
+    }
+   ],
+   "related": [
+    "in-india-karma",
+    "in-india-shunyata",
+    "in-india-svabhava"
+   ],
+   "example": {
+    "text": "同一“无常”：佛教以之为苦与空的入口，正理则以“不许一切刹那灭”来保住记忆与认识——无常的范围，是两家真正的分歧点。",
+    "figure": "无常的范围（一切法／部分法）"
+   },
+   "sources": [
+    "sep-yogacara",
+    "sep-nagarjuna",
+    "sep-logic-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三家说法据 SEP “Yogācāra”“Nāgārjuna”“Logic in Classical Indian Philosophy”转述；正理“声常”论证的细目未及。",
+   "broader": "in-india-duhkha"
+  },
+  {
+   "id": "in-india-vijnana",
+   "term": "识",
+   "term_latin": "vijñāna",
+   "definition": "了别的作用。它既是认识论的单位（识的了别），也是瑜伽行存在论的核心（识的转变）；其与“我”的关系，是印度哲学最要紧的一处分辨。",
+   "usages": [
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "以“识的转变”说境：所缘非外境，而是识自身转变所现的相；故“唯识”不是说没有东西，而是说**所知不离识**。"
+    },
+    {
+     "name": "陈那",
+     "id": "in-india-dignaga",
+     "usage": "以识的“自证”（svasamvedana）说认识的确证：识同时了别境与自身，故无须另一识来证明前一识。"
+    },
+    {
+     "name": "商羯罗",
+     "id": "in-india-shankara",
+     "usage": "不许“唯识”：识是**可被见证者**（dṛśya），而见证者（sākṣin）非识；故识非最终真实。"
+    }
+   ],
+   "related": [
+    "in-india-atman",
+    "in-india-trisvabhava",
+    "in-india-pramana"
+   ],
+   "example": {
+    "text": "同一个“识”：世亲说所知不离识，陈那说识自证，商羯罗说识是被见证者而非见证者——三种说法决定了三种“真实”的边界。",
+    "figure": "识的三种地位（所知／自证／被见证）"
+   },
+   "sources": [
+    "sep-yogacara",
+    "sep-perception-india",
+    "sep-shankara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三家说法据 SEP “Yogācāra”“Perceptual Experience…”“Śaṅkara”转述；部派“六识”与唯识“八识”的分判未及。"
   }
  ],
  "debates": [
