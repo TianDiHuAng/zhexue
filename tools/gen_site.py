@@ -53,8 +53,8 @@ NAV = ([("首页", "")]
        + [
     ("哲学家", "people/"), ("概念索引", "concepts/"), ("争论", "debates/"),
     ("流派", "schools/"), ("著作", "works/"), ("比较视野", "comparative.html"),
-    ("误读索引", "misreadings.html"), ("谱系总图", "graph.html"),
-    ("来源", "sources/"), ("体例", "about.html"),
+    ("误读索引", "misreadings.html"), ("世纪视图", "timeline/century.html"),
+    ("谱系总图", "graph.html"), ("来源", "sources/"), ("体例", "about.html"),
 ])
 
 

@@ -715,12 +715,14 @@
     {
      "name": "奥古斯丁",
      "id": "gr-medieval-augustine",
-     "note": "“信以致理解”与内在转向的语式直接承之"
+     "note": "“信以致理解”与内在转向的语式直接承之",
+     "relation": "承继"
     },
     {
      "name": "波爱修",
      "id": "gr-medieval-boethius",
-     "note": "逻辑学术语与“至善—幸福”的框架经其译注传入修道院学校"
+     "note": "逻辑学术语与“至善—幸福”的框架经其译注传入修道院学校",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -924,7 +926,8 @@
     {
      "name": "安瑟尔谟",
      "id": "gr-medieval-anselm",
-     "note": "早年受其“信以求理解”影响，后转而强调辩证的优先"
+     "note": "早年受其“信以求理解”影响，后转而强调辩证的优先",
+     "relation": "批驳"
     }
    ],
    "influenced": [
@@ -1128,12 +1131,14 @@
     {
      "name": "奥古斯丁",
      "id": "gr-medieval-augustine",
-     "note": "恩典、内在转向与意志的次序问题"
+     "note": "恩典、内在转向与意志的次序问题",
+     "relation": "承继"
     },
     {
      "name": "波爱修",
      "id": "gr-medieval-boethius",
-     "note": "esse 与 quod est 的区分被改造为存在的活动"
+     "note": "esse 与 quod est 的区分被改造为存在的活动",
+     "relation": "承继"
     },
     {
      "name": "阿维森纳与阿威罗伊",
@@ -1334,7 +1339,8 @@
     {
      "name": "奥古斯丁",
      "id": "gr-medieval-augustine",
-     "note": "意志与爱的优先、内在转向的取向"
+     "note": "意志与爱的优先、内在转向的取向",
+     "relation": "承继"
     },
     {
      "name": "阿维森纳",
@@ -1514,7 +1520,8 @@
     {
      "name": "邓斯·司各脱",
      "id": "gr-medieval-duns-scotus",
-     "note": "在牛津受司各脱派训练，接受其个体性与神之自由的取向，但反对其实在论"
+     "note": "在牛津受司各脱派训练，接受其个体性与神之自由的取向，但反对其实在论",
+     "relation": "批驳"
     },
     {
      "name": "亚里士多德逻辑学",
@@ -1524,7 +1531,8 @@
     {
      "name": "阿伯拉尔",
      "id": "gr-medieval-abelard",
-     "note": "共相讨论中“概念有客观依据”的思路可视为其前身"
+     "note": "共相讨论中“概念有客观依据”的思路可视为其前身",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1832,7 +1840,8 @@
     {
      "name": "法拉比",
      "id": "gr-medieval-al-farabi",
-     "note": "伊斯兰亚里士多德主义的先驱"
+     "note": "伊斯兰亚里士多德主义的先驱",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2121,7 +2130,8 @@
     {
      "name": "奥古斯丁与方济各灵修",
      "id": "gr-medieval-augustine",
-     "note": "内在转向与爱优先"
+     "note": "内在转向与爱优先",
+     "relation": "承继"
     },
     {
      "name": "伪狄奥尼修斯",
@@ -2260,7 +2270,8 @@
     {
      "name": "奥卡姆的威廉",
      "id": "gr-medieval-ockham",
-     "note": "唯名论与“现代路线”的起点"
+     "note": "唯名论与“现代路线”的起点",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2673,7 +2684,8 @@
     {
      "name": "奥卡姆的威廉",
      "id": "gr-medieval-ockham",
-     "note": "唯名论与意项逻辑"
+     "note": "唯名论与意项逻辑",
+     "relation": "承继"
     },
     {
      "name": "司各脱",
@@ -3380,12 +3392,14 @@
     {
      "name": "伊本·西那（其术语来源）",
      "id": "gr-medieval-avicenna",
-     "note": "以“必然／可能”与流溢为其本体论资源"
+     "note": "以“必然／可能”与流溢为其本体论资源",
+     "relation": "承继"
     },
     {
      "name": "安萨里（苏非传统）",
      "id": "gr-medieval-al-ghazali",
-     "note": "以“尝味”与灵修经验为正统的一部分"
+     "note": "以“尝味”与灵修经验为正统的一部分",
+     "relation": "承继"
     },
     {
      "name": "新柏拉图主义",
@@ -3535,7 +3549,8 @@
     {
      "name": "法拉比",
      "id": "gr-medieval-al-farabi",
-     "note": "以流溢层级为框架"
+     "note": "以流溢层级为框架",
+     "relation": "承继"
     },
     {
      "name": "古波斯的光明传统",
@@ -3690,7 +3705,8 @@
     {
      "name": "奥古斯丁",
      "id": "gr-medieval-augustine",
-     "note": "以创造、意志与原罪为其问题背景"
+     "note": "以创造、意志与原罪为其问题背景",
+     "relation": "承继"
     }
    ],
    "influenced": [
