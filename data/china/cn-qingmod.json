@@ -990,12 +990,14 @@
     {
      "name": "康有为",
      "id": "cn-qingmod-kang-youwei",
-     "note": "自称私淑弟子，三世与大同之说取自康氏"
+     "note": "自称私淑弟子，三世与大同之说取自康氏",
+     "relation": "承继"
     },
     {
      "name": "王夫之",
      "id": "cn-qingmod-wang-fuzhi",
-     "note": "器变则道不得独不变之论近船山，《仁学》屡引其说"
+     "note": "器变则道不得独不变之论近船山，《仁学》屡引其说",
+     "relation": "私淑"
     },
     {
      "name": "华严与唯识学、墨学",
@@ -1332,7 +1334,8 @@
     {
      "name": "王夫之",
      "id": "cn-qingmod-wang-fuzhi",
-     "note": "《訄书》《检论》屡引船山，取其夷夏之辨与气化之说"
+     "note": "《訄书》《检论》屡引船山，取其夷夏之辨与气化之说",
+     "relation": "私淑"
     },
     {
      "name": "荀子",
@@ -1513,7 +1516,8 @@
     {
      "name": "顾炎武的经世致用",
      "id": "cn-qingmod-gu-yanwu",
-     "note": "实学与实证取向"
+     "note": "实学与实证取向",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1652,7 +1656,8 @@
     {
      "name": "顾炎武的经世致用",
      "id": "cn-qingmod-gu-yanwu",
-     "note": "实学与批判精神"
+     "note": "实学与批判精神",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2069,7 +2074,8 @@
     {
      "name": "戴震与惠栋",
      "id": "cn-qingmod-dai-zhen",
-     "note": "由字通词的方法"
+     "note": "由字通词的方法",
+     "relation": "私淑"
     },
     {
      "name": "焦循与王念孙",
@@ -2342,12 +2348,14 @@
     {
      "name": "浙东史学（黄宗羲、万斯同）",
      "id": "cn-qingmod-huang-zongxi",
-     "note": "重史学与文献的传统"
+     "note": "重史学与文献的传统",
+     "relation": "承继"
     },
     {
      "name": "戴震与考据学",
      "id": "cn-qingmod-dai-zhen",
-     "note": "其批评与对话的对象"
+     "note": "其批评与对话的对象",
+     "relation": "批驳"
     }
    ],
    "influenced": [
@@ -2481,7 +2489,8 @@
     {
      "name": "戴震（同调）",
      "id": "cn-qingmod-dai-zhen",
-     "note": "以“血气心知”论性、以“理存于欲”论理"
+     "note": "以“血气心知”论性、以“理存于欲”论理",
+     "relation": "承继"
     },
     {
      "name": "扬州学派的考据传统",
@@ -2772,7 +2781,8 @@
     {
      "name": "明清之际诸家（其评价）",
      "id": "cn-qingmod-gu-yanwu",
-     "note": "以顾炎武、黄宗羲、王夫之为近世学术的起点"
+     "note": "以顾炎武、黄宗羲、王夫之为近世学术的起点",
+     "relation": "私淑"
     }
    ],
    "influenced": [
@@ -3223,7 +3233,8 @@
     {
      "name": "章太炎（其同调）",
      "id": "cn-qingmod-zhang-taiyan",
-     "note": "同为革命派，章更长于学术"
+     "note": "同为革命派，章更长于学术",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -3513,7 +3524,8 @@
     {
      "name": "戴震（其师）",
      "id": "cn-qingmod-dai-zhen",
-     "note": "以“由字通词”为其方法论的前提"
+     "note": "以“由字通词”为其方法论的前提",
+     "relation": "承继"
     },
     {
      "name": "顾炎武（其先）",
@@ -3663,12 +3675,14 @@
     {
      "name": "戴震（其师）",
      "id": "cn-qingmod-dai-zhen",
-     "note": "“由字通词”为其方法论的前提"
+     "note": "“由字通词”为其方法论的前提",
+     "relation": "承继"
     },
     {
      "name": "段玉裁（其同门）",
      "id": "cn-qingmod-duan-yucai",
-     "note": "古音分部为其音义互求的基础"
+     "note": "古音分部为其音义互求的基础",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -3812,12 +3826,14 @@
     {
      "name": "王念孙（其父）",
      "id": "cn-qingmod-wang-niansun",
-     "note": "“因声求义”为其方法的前提"
+     "note": "“因声求义”为其方法的前提",
+     "relation": "承继"
     },
     {
      "name": "段玉裁（其前辈）",
      "id": "cn-qingmod-duan-yucai",
-     "note": "古音分部为其音义互求之基"
+     "note": "古音分部为其音义互求之基",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -3961,7 +3977,8 @@
     {
      "name": "王引之（其法之所本）",
      "id": "cn-qingmod-wang-yinzhi",
-     "note": "“以例正读”为其方法的来源"
+     "note": "“以例正读”为其方法的来源",
+     "relation": "承继"
     },
     {
      "name": "王念孙（其再上）",
@@ -4115,7 +4132,8 @@
     {
      "name": "俞樾（其同调）",
      "id": "cn-qingmod-yu-yue",
-     "note": "同以校读之法治群书"
+     "note": "同以校读之法治群书",
+     "relation": "承继"
     },
     {
      "name": "王念孙、王引之（其法之所本）",
@@ -4274,7 +4292,8 @@
     {
      "name": "孙诒让（其考据之前辈）",
      "id": "cn-qingmod-sun-yirang",
-     "note": "甲骨考释的前驱"
+     "note": "甲骨考释的前驱",
+     "relation": "承继"
     },
     {
      "name": "罗振玉（其合作者）",
@@ -4423,7 +4442,8 @@
     {
      "name": "孙诒让（其前驱）",
      "id": "cn-qingmod-sun-yirang",
-     "note": "首位考释甲骨者"
+     "note": "首位考释甲骨者",
+     "relation": "承继"
     },
     {
      "name": "清代金石学（其背景）",
@@ -5178,12 +5198,14 @@
     {
      "name": "顾炎武（其远源）",
      "id": "cn-qingmod-gu-yanwu",
-     "note": "“经学即理学”与考据的方法为其所承"
+     "note": "“经学即理学”与考据的方法为其所承",
+     "relation": "承继"
     },
     {
      "name": "戴震（其同代）",
      "id": "cn-qingmod-dai-zhen",
-     "note": "同以考据为义理之门径"
+     "note": "同以考据为义理之门径",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -5327,12 +5349,14 @@
     {
      "name": "顾炎武（其远源）",
      "id": "cn-qingmod-gu-yanwu",
-     "note": "考据与经世的方法为其所承"
+     "note": "考据与经世的方法为其所承",
+     "relation": "承继"
     },
     {
      "name": "钱大昕（其同乡同榜）",
      "id": "cn-qingmod-qian-daxin",
-     "note": "同为嘉定人，同为乾嘉史学的代表"
+     "note": "同为嘉定人，同为乾嘉史学的代表",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -5476,7 +5500,8 @@
     {
      "name": "王鸣盛与钱大昕（其同辈）",
      "id": "cn-qingmod-wang-mingsheng",
-     "note": "三家并称，互有取资"
+     "note": "三家并称，互有取资",
+     "relation": "承继"
     },
     {
      "name": "顾炎武（其远源）",

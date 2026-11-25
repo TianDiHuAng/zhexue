@@ -916,7 +916,8 @@
     {
      "name": "波爱修",
      "id": "gr-medieval-boethius",
-     "note": "共相问题的术语与《导论》注释所定的问题框架"
+     "note": "共相问题的术语与《导论》注释所定的问题框架",
+     "relation": "承继"
     },
     {
      "name": "亚里士多德逻辑学（经波爱修译注）",
@@ -2410,7 +2411,8 @@
     {
      "name": "阿维森纳与阿威罗伊",
      "id": "gr-medieval-averroes",
-     "note": "阿拉伯注释传统"
+     "note": "阿拉伯注释传统",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2690,7 +2692,8 @@
     {
      "name": "司各脱",
      "id": "gr-medieval-duns-scotus",
-     "note": "认识论与个体化问题"
+     "note": "认识论与个体化问题",
+     "relation": "承继"
     }
    ],
    "influenced": [

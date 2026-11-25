@@ -1733,7 +1733,8 @@
     {
      "name": "芝诺与克律西波的斯多亚体系",
      "id": "gr-hellenistic-zeno",
-     "note": "宇宙理性与顺应自然"
+     "note": "宇宙理性与顺应自然",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2163,7 +2164,8 @@
     {
      "name": "普罗提诺与波菲利",
      "id": "gr-hellenistic-plotinus",
-     "note": "新柏拉图主义的三层级框架"
+     "note": "新柏拉图主义的三层级框架",
+     "relation": "承继"
     }
    ],
    "influenced": [

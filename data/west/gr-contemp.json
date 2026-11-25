@@ -228,7 +228,8 @@
     {
      "name": "罗尔斯（批评对象）",
      "id": "gr-contemp-rawls",
-     "note": "《正义论》是其直接对话者"
+     "note": "《正义论》是其直接对话者",
+     "relation": "批驳"
     }
    ],
    "influenced": [

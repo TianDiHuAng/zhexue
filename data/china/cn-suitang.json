@@ -1975,7 +1975,8 @@
     {
      "name": "法藏（华严三祖）",
      "id": "cn-suitang-fazang",
-     "note": "十玄六相的体系"
+     "note": "十玄六相的体系",
+     "relation": "承继"
     },
     {
      "name": "宗密（其弟子）",
@@ -3015,12 +3016,14 @@
     {
      "name": "刘知幾（其同代）",
      "id": "cn-suitang-liu-zhiji",
-     "note": "同以史学的方法自立，而其对象不同（体例 vs 制度）"
+     "note": "同以史学的方法自立，而其对象不同（体例 vs 制度）",
+     "relation": "承继"
     },
     {
      "name": "刘禹锡（其论友）",
      "id": "cn-suitang-liu-yuxi",
-     "note": "以“法弛则言天”呼应其对制度的重视"
+     "note": "以“法弛则言天”呼应其对制度的重视",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -3176,7 +3179,8 @@
     {
      "name": "道宣（其同代）",
      "id": "cn-suitang-daoxuan",
-     "note": "同以律学名家，而其取径不同（本土会通 vs 比较校准）"
+     "note": "同以律学名家，而其取径不同（本土会通 vs 比较校准）",
+     "relation": "承继"
     }
    ],
    "influenced": [

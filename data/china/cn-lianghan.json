@@ -893,7 +893,8 @@
     {
      "name": "董仲舒",
      "id": "cn-lianghan-dong-zhongshu",
-     "note": "三统、更化之说与天人论的源头，刘歆将其历法化"
+     "note": "三统、更化之说与天人论的源头，刘歆将其历法化",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1045,7 +1046,8 @@
     {
      "name": "王充",
      "id": "cn-lianghan-wang-chong",
-     "note": "元气自然之说与疾虚妄的批判学风，为《本训》的宇宙论所本"
+     "note": "元气自然之说与疾虚妄的批判学风，为《本训》的宇宙论所本",
+     "relation": "承继"
     },
     {
      "name": "汉代经学与政论传统",
@@ -1210,7 +1212,8 @@
     {
      "name": "董仲舒",
      "id": "cn-lianghan-dong-zhongshu",
-     "note": "天人灾异之说为其所本，亦为其所修正：天意须让位于人事"
+     "note": "天人灾异之说为其所本，亦为其所修正：天意须让位于人事",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1358,7 +1361,8 @@
     {
      "name": "扬雄（同时代）",
      "id": "cn-lianghan-yang-xiong",
-     "note": "对谶纬的保留态度"
+     "note": "对谶纬的保留态度",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2045,7 +2049,8 @@
     {
      "name": "董仲舒的灾异说",
      "id": "cn-lianghan-dong-zhongshu",
-     "note": "天人感应的框架"
+     "note": "天人感应的框架",
+     "relation": "承继"
     },
     {
      "name": "《洪范五行传》的传统",

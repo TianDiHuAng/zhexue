@@ -1006,7 +1006,8 @@
     {
      "name": "巴门尼德",
      "id": "gr-ancient-parmenides",
-     "note": "不变的对象与“存在”的问题框架"
+     "note": "不变的对象与“存在”的问题框架",
+     "relation": "承继"
     },
     {
      "name": "毕达哥拉斯学派",
@@ -2055,7 +2056,8 @@
     {
      "name": "巴门尼德",
      "id": "gr-ancient-parmenides",
-     "note": "“无物能从无来”的前提"
+     "note": "“无物能从无来”的前提",
+     "relation": "承继"
     },
     {
      "name": "毕达哥拉斯学派",
@@ -2337,7 +2339,8 @@
     {
      "name": "恩培多克勒与西西里修辞传统",
      "id": "gr-ancient-empedocles",
-     "note": "修辞与诗体论辩的训练"
+     "note": "修辞与诗体论辩的训练",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2473,7 +2476,8 @@
     {
      "name": "米利都学派",
      "id": "gr-ancient-anaximander",
-     "note": "本原与机制化解释的传统"
+     "note": "本原与机制化解释的传统",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2753,7 +2757,8 @@
     {
      "name": "柏拉图学园",
      "id": "gr-ancient-plato",
-     "note": "早期教育背景"
+     "note": "早期教育背景",
+     "relation": "承继"
     }
    ],
    "influenced": [

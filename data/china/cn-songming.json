@@ -1298,12 +1298,14 @@
     {
      "name": "王守仁",
      "id": "cn-songming-wang-yangming",
-     "note": "由王学入，然不满其“意为心之所发”与王门末流"
+     "note": "由王学入，然不满其“意为心之所发”与王门末流",
+     "relation": "承继"
     },
     {
      "name": "朱熹",
      "id": "cn-songming-zhu-xi",
-     "note": "早年治朱学，晚年以气一元论修正其理先气后之说"
+     "note": "早年治朱学，晚年以气一元论修正其理先气后之说",
+     "relation": "批驳"
     }
    ],
    "influenced": [
@@ -2013,7 +2015,8 @@
     {
      "name": "王艮与泰州学派",
      "id": "cn-songming-wang-yangming",
-     "note": "“百姓日用即道”的平民化取向"
+     "note": "“百姓日用即道”的平民化取向",
+     "relation": "私淑"
     },
     {
      "name": "王阳明致良知",
@@ -2160,7 +2163,8 @@
     {
      "name": "周敦颐与二程",
      "id": "cn-songming-cheng-hao",
-     "note": "“静”与“诚”的修养传统"
+     "note": "“静”与“诚”的修养传统",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2300,7 +2304,8 @@
     {
      "name": "张载",
      "id": "cn-songming-zhang-zai",
-     "note": "以性为万物之源的思路"
+     "note": "以性为万物之源的思路",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2574,7 +2579,8 @@
     {
      "name": "王安石与事功传统",
      "id": "cn-songming-wang-anshi",
-     "note": "以制度与事功为学"
+     "note": "以制度与事功为学",
+     "relation": "承继"
     },
     {
      "name": "浙东学术（吕祖谦等）",
@@ -2718,7 +2724,8 @@
     {
      "name": "陈亮",
      "id": "cn-songming-chen-liang",
-     "note": "永康学派，同调"
+     "note": "永康学派，同调",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -3138,7 +3145,8 @@
     {
      "name": "二程（其学脉）",
      "id": "cn-songming-cheng-yi",
-     "note": "以洛学为宗，而专于《春秋》"
+     "note": "以洛学为宗，而专于《春秋》",
+     "relation": "承继"
     },
     {
      "name": "孙复、刘敞（其先）",
@@ -3585,12 +3593,14 @@
     {
      "name": "罗汝芳（其师）",
      "id": "cn-songming-luo-qinshun",
-     "note": "泰州一系的“赤子之心”为其情论之源"
+     "note": "泰州一系的“赤子之心”为其情论之源",
+     "relation": "私淑"
     },
     {
      "name": "王阳明（其远源）",
      "id": "cn-songming-wang-yangming",
-     "note": "“良知”说经泰州而转出重情一路"
+     "note": "“良知”说经泰州而转出重情一路",
+     "relation": "私淑"
     }
    ],
    "influenced": [

@@ -1392,7 +1392,8 @@
     {
      "name": "海德格尔",
      "id": "gr-20c-heidegger",
-     "note": "在世存在的结构"
+     "note": "在世存在的结构",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2407,7 +2408,8 @@
     {
      "name": "罗素与摩尔",
      "id": "gr-20c-russell",
-     "note": "分析方法与常识实在论"
+     "note": "分析方法与常识实在论",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -3851,7 +3853,8 @@
     {
      "name": "拉康（其借用）",
      "id": "gr-20c-lacan",
-     "note": "以“镜像阶段”的误认为“召唤”的结构模型"
+     "note": "以“镜像阶段”的误认为“召唤”的结构模型",
+     "relation": "承继"
     }
    ],
    "influenced": [

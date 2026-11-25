@@ -1098,12 +1098,14 @@
     {
      "name": "费希特",
      "id": "gr-german-fichte",
-     "note": "自我设定非我的学说被推向诗化"
+     "note": "自我设定非我的学说被推向诗化",
+     "relation": "承继"
     },
     {
      "name": "施莱尔马赫与施莱格尔兄弟",
      "id": "gr-german-schleiermacher",
-     "note": "耶拿浪漫派的共同语境（symphilosophie）"
+     "note": "耶拿浪漫派的共同语境（symphilosophie）",
+     "relation": "承继"
     }
    ],
    "influenced": [

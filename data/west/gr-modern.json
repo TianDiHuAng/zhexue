@@ -3469,7 +3469,8 @@
     {
      "name": "蒙田与古代怀疑论",
      "id": "gr-modern-montaigne",
-     "note": "怀疑的方法与文风"
+     "note": "怀疑的方法与文风",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -3603,7 +3604,8 @@
     {
      "name": "柏拉图、塔西佗与培根",
      "id": "gr-modern-bacon",
-     "note": "其“四位作者”中的三位（第四为格劳秀斯）"
+     "note": "其“四位作者”中的三位（第四为格劳秀斯）",
+     "relation": "承继"
     },
     {
      "name": "意大利人文主义与修辞学",
@@ -4459,7 +4461,8 @@
     {
      "name": "霍布斯与洛克（批评性继承）",
      "id": "gr-modern-hobbes",
-     "note": "契约论框架，但反对绝对主权"
+     "note": "契约论框架，但反对绝对主权",
+     "relation": "批驳"
     },
     {
      "name": "古代共和主义",
@@ -4613,12 +4616,14 @@
     {
      "name": "培根与洛克",
      "id": "gr-modern-locke",
-     "note": "经验论与知识分类"
+     "note": "经验论与知识分类",
+     "relation": "承继"
     },
     {
      "name": "牛顿与机械论",
      "id": "gr-modern-galileo",
-     "note": "自然科学的模型"
+     "note": "自然科学的模型",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -4752,12 +4757,14 @@
     {
      "name": "洛克",
      "id": "gr-modern-locke",
-     "note": "经验论与观念来源"
+     "note": "经验论与观念来源",
+     "relation": "承继"
     },
     {
      "name": "笛卡尔与马勒伯朗士",
      "id": "gr-modern-malebranche",
-     "note": "其批评对象（天赋观念与偶因论）"
+     "note": "其批评对象（天赋观念与偶因论）",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -4891,12 +4898,14 @@
     {
      "name": "洛克与牛顿",
      "id": "gr-modern-locke",
-     "note": "经验论与机械自然观"
+     "note": "经验论与机械自然观",
+     "relation": "承继"
     },
     {
      "name": "狄德罗",
      "id": "gr-modern-diderot",
-     "note": "百科全书派的同人"
+     "note": "百科全书派的同人",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -5030,7 +5039,8 @@
     {
      "name": "哈奇森与休谟",
      "id": "gr-modern-hume",
-     "note": "道德感学说与苏格兰启蒙"
+     "note": "道德感学说与苏格兰启蒙",
+     "relation": "承继"
     },
     {
      "name": "重农学派与魁奈",
@@ -5181,7 +5191,8 @@
     {
      "name": "孟德斯鸠",
      "id": "gr-modern-montesquieu",
-     "note": "分权与制度条件"
+     "note": "分权与制度条件",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -5315,12 +5326,14 @@
     {
      "name": "洛克与自然权利传统",
      "id": "gr-modern-locke",
-     "note": "天赋权利的框架"
+     "note": "天赋权利的框架",
+     "relation": "承继"
     },
     {
      "name": "卢梭与人民主权",
      "id": "gr-modern-rousseau",
-     "note": "主权在民"
+     "note": "主权在民",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -5609,7 +5622,8 @@
     {
      "name": "启蒙理性主义与洛克",
      "id": "gr-modern-locke",
-     "note": "教育与环境的作用"
+     "note": "教育与环境的作用",
+     "relation": "承继"
     },
     {
      "name": "潘恩与激进派",
