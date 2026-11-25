@@ -9784,6 +9784,62 @@
    "sort_year": 250
   },
   {
+   "id": "work-vaidalyaprakarana",
+   "title": "《广破论》",
+   "title_original": "Vaidalyaprakaraṇa（Nāgārjuna）",
+   "tradition": "india",
+   "date_display": "约2—3世纪（龙树）",
+   "structure": "仅存藏译（汉译无）：逐条破正理派的十六谛范畴，尤其“量”与“所量”。",
+   "core_arguments": [
+    "若“量”须由“所量”成立，而“所量”又须由“量”成立，则二者**相互依存**而无自性",
+    "故正理派以量为自性成立的体系不能自立",
+    "然此破不废世俗的量用：如《回诤论》所说，量在缘起中仍有效"
+   ],
+   "key_points": [
+    {
+     "locator": "破量",
+     "point": "量与所量的相互依"
+    },
+    {
+     "locator": "破所量",
+     "point": "范畴的实有"
+    },
+    {
+     "locator": "破似因",
+     "point": "论辩规范的根据"
+    },
+    {
+     "locator": "全篇",
+     "point": "藏译仅为据"
+    }
+   ],
+   "editions": [
+    "仅存藏译（德格版）；校订本与英译见 Tola & Dragonetti 研究"
+   ],
+   "related_people": [
+    "in-india-nagarjuna",
+    "in-india-gautama",
+    "in-india-kumarila"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“逻辑学著作”",
+     "why": "其书是**破斥性的论战之作**（破正理的范畴），并无建立自己的量论体系；故其为破坏性论证，非逻辑教本。"
+    },
+    {
+     "claim": "汉译亦有此书",
+     "why": "其书**仅存藏译**（汉译无），故汉传中观未直接承其论证；引用须注明所据为藏译或校订本。"
+    }
+   ],
+   "sources": [
+    "sep-nagarjuna",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Nāgārjuna”转述，**未读藏译**；其与正理派的具体往复（十六谛诸条）须核 Tola & Dragonetti 的校订与研究。",
+   "sort_year": 250
+  },
+  {
    "id": "work-jikang-ji",
    "title": "《嵇康集》",
    "title_original": "嵇康集",
@@ -10460,6 +10516,62 @@
    "needs_verification": true,
    "pending_notes": "今本《列子》的成书年代与真伪（传统归列御寇，今多认为魏晋辑录，另有伪作说）是学界长期争论的问题；本页就文本内容述其说，不判定作者与年代。",
    "sort_year": 350
+  },
+  {
+   "id": "work-vimsatika",
+   "title": "《唯识二十论》",
+   "title_original": "Viṃśatikā（Vasubandhu）",
+   "tradition": "india",
+   "date_display": "约4世纪（世亲）",
+   "structure": "二十颂（附世亲自作释）：以问答体回应“若无外境，则……”的诘难，末示唯识的成立。",
+   "core_arguments": [
+    "以**梦与眩翳**为例：无外境而境相宛然，故境相可由识的转变而成",
+    "回应“若无境则业果与他一心如何成立”：以**相续**与**他心**说之，不须外境",
+    "故其论证是**破外境**，而非“唯有一心”"
+   ],
+   "key_points": [
+    {
+     "locator": "颂一—四",
+     "point": "梦喻与境相"
+    },
+    {
+     "locator": "颂五—十",
+     "point": "他心与业果"
+    },
+    {
+     "locator": "颂十一—十五",
+     "point": "自证与记忆"
+    },
+    {
+     "locator": "颂十六—二十",
+     "point": "唯识的成立"
+    }
+   ],
+   "editions": [
+    "梵本（Lévi 校订）；玄奘译《唯识二十论》；藏译可参"
+   ],
+   "related_people": [
+    "in-india-vasubandhu",
+    "in-india-nagarjuna",
+    "in-india-gautama"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书主张“只有我的心，别人都是我心的变现”",
+     "why": "其书以**他心**与**相续**回应诘难，明言他心亦实（故非唯我论）；其破的是“外境独立实有”，非他人之心。"
+    },
+    {
+     "claim": "“识的转变”等于“随心所欲地变现世界”",
+     "why": "其说以**因缘（种子与熏习）**说转变，非由意愿；故其为缘起论，非意愿论。"
+    }
+   ],
+   "sources": [
+    "sep-yogacara",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Yogācāra”转述，**未读梵本**；二十颂的分段（依 Lévi 校本与玄奘译）须核。",
+   "sort_year": 360
   },
   {
    "id": "work-de-ordine",
@@ -14317,6 +14429,62 @@
    ],
    "needs_verification": true,
    "pending_notes": "本页据 SEP 对弥曼差立场的解说转述，**未读梵本**；分部与品次各本不同，须核校本（如 Jha 译系所据本）。",
+   "sort_year": 650
+  },
+  {
+   "id": "work-prasannapada",
+   "title": "《明句论》",
+   "title_original": "Prasannapadā（Candrakīrti《中论》注）",
+   "tradition": "india",
+   "date_display": "约7世纪（月称）",
+   "structure": "对《中论》二十七品的逐颂注释（梵本存）：以“应成”（prasaṅga）为法，只破不立。",
+   "core_arguments": [
+    "以“**应成**”为法：只以对方之说过其自相矛盾，不自立宗",
+    "故其注成为**应成中观**的基准文本",
+    "对**自续**（svātantrika）一系（清辨）有批评"
+   ],
+   "key_points": [
+    {
+     "locator": "品一注",
+     "point": "四句破的解说"
+    },
+    {
+     "locator": "品二十四注",
+     "point": "二谛与世俗"
+    },
+    {
+     "locator": "品二十五注",
+     "point": "涅槃与空"
+    },
+    {
+     "locator": "全书",
+     "point": "应成的方法"
+    }
+   ],
+   "editions": [
+    "梵本（de La Vallée Poussin 校订）；藏译完整；汉译无"
+   ],
+   "related_people": [
+    "in-india-nagarjuna",
+    "in-india-vasubandhu",
+    "in-india-gautama"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“中观的标准解释”",
+     "why": "其书是**一家之注**（应成系）；清辨一系（自续）另有其读法，藏传亦分应成／自续。故不可径以月称为中观之唯一标准。"
+    },
+    {
+     "claim": "“应成”是“只破不立故无立场”",
+     "why": "“应成”是**方法上的不立自宗**（只就对方 premises 推出矛盾），非无立场；其立场仍在空义。"
+    }
+   ],
+   "sources": [
+    "sep-nagarjuna",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Nāgārjuna”转述，**未读梵本**；应成与自续之分在藏传判教中的定型须核专门研究。",
    "sort_year": 650
   },
   {

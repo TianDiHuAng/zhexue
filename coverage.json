@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1822,
+  "entries": 1826,
   "by_level": {
    "L2": 793,
-   "L1": 1029
+   "L1": 1033
   },
   "doctrine": {
    "total": 312,
    "detail": 312,
    "auto": 0
   },
-  "needs_verification": 1029,
+  "needs_verification": 1033,
   "sources": 427,
   "sources_verified": 427
  },
@@ -11625,6 +11625,17 @@
    "updated": "2026-11-25"
   },
   {
+   "id": "work-vaidalyaprakarana",
+   "type": "work",
+   "title": "《广破论》",
+   "container": "india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
    "id": "work-jikang-ji",
    "type": "work",
    "title": "《嵇康集》",
@@ -11753,6 +11764,17 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "work-vimsatika",
+   "type": "work",
+   "title": "《唯识二十论》",
+   "container": "india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": true,
    "updated": "2026-11-25"
   },
@@ -12497,6 +12519,17 @@
    "id": "work-slokavarttika",
    "type": "work",
    "title": "《颂释补》",
+   "container": "india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "work-prasannapada",
+   "type": "work",
+   "title": "《明句论》",
    "container": "india",
    "level": "L1",
    "sources": 2,
@@ -19724,6 +19757,17 @@
    "id": "cmp-siyuan-wuxing",
    "type": "comparative",
    "title": "“四元素”与“五行”：万物由什么构成？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "cmp-zhongdao-zhongyong",
+   "type": "comparative",
+   "title": "“中道”与“中庸”：两端之间是路，还是度？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
