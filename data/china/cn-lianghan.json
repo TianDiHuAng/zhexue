@@ -2859,7 +2859,8 @@
     "iep-chinese-philosophy"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-lianghan-shishi-qiushen"
   },
   {
    "id": "cn-lianghan-yinyang-wuxing",
@@ -2893,7 +2894,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-lianghan-qi"
   },
   {
    "id": "cn-lianghan-santong",
@@ -3600,7 +3602,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "“师法”与“家法”的区别（一师之说 vs 一家之守）在各家论述中不完全统一；本页取通行区分，具体例证须核《汉书·儒林传》。"
+   "pending_notes": "“师法”与“家法”的区别（一师之说 vs 一家之守）在各家论述中不完全统一；本页取通行区分，具体例证须核《汉书·儒林传》。",
+   "broader": "cn-lianghan-wuyi"
   },
   {
    "id": "cn-lianghan-xingming",
@@ -3675,7 +3678,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "“训诂”一名在汉代兼指解经的方法与官学的科目；本页取其方法义，具体例证须核《说文》与《尔雅》。"
+   "pending_notes": "“训诂”一名在汉代兼指解经的方法与官学的科目；本页取其方法义，具体例证须核《说文》与《尔雅》。",
+   "broader": "cn-lianghan-wuyi"
   }
  ],
  "debates": [

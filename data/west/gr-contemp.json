@@ -2133,7 +2133,8 @@
     "iep-habermas"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-contemp-public-sphere"
   },
   {
    "id": "gr-contemp-public-sphere",

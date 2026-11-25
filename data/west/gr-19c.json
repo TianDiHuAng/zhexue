@@ -2917,7 +2917,8 @@
     "iep-nietzsche"
    ],
    "needs_verification": true,
-   "pending_notes": "永恒轮回是宇宙论主张还是生存论检验，学界有争论（二者在尼采文本中并存）；本页按“思想实验”处理。"
+   "pending_notes": "永恒轮回是宇宙论主张还是生存论检验，学界有争论（二者在尼采文本中并存）；本页按“思想实验”处理。",
+   "broader": "gr-19c-power-will"
   },
   {
    "id": "gr-19c-nihilism",
@@ -3351,7 +3352,8 @@
     "marx-chinese"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-19c-histmat"
   },
   {
    "id": "gr-19c-tyranny-majority",

@@ -2432,7 +2432,8 @@
     "iep-chinese-philosophy"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-weijin-xuanxue"
   },
   {
    "id": "cn-weijin-tiyong",
@@ -2643,7 +2644,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-weijin-shengwulai"
   },
   {
    "id": "cn-weijin-yanbuyijin",
@@ -3084,7 +3086,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": true,
-   "pending_notes": "“圣人体无”出自何劭《王弼传》的转述（见裴松之注），非王弼自著；其确切措辞与语境须核《王弼集校释》。"
+   "pending_notes": "“圣人体无”出自何劭《王弼传》的转述（见裴松之注），非王弼自著；其确切措辞与语境须核《王弼集校释》。",
+   "broader": "cn-weijin-guiwu"
   },
   {
    "id": "cn-weijin-yue-mingjiao",
