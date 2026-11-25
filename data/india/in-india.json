@@ -3007,6 +3007,82 @@
    ],
    "needs_verification": true,
    "pending_notes": "三家说法据 SEP “Yogācāra”“Perceptual Experience…”“Śaṅkara”转述；瑜伽八支等具体次第未及。"
+  },
+  {
+   "id": "in-india-sodasa-padartha",
+   "term": "十六句义",
+   "term_latin": "ṣoḍaśa padārthāḥ",
+   "definition": "正理派《正理经》开篇所立的十六个论题（量、所量、疑、动机、实例、宗义、论式支分、思择、决了、论议、诡论、坏义、似因、曲解、堕负、诤论处）。它不是本体论清单，而是**辩论与认识得以进行的框架**。",
+   "usages": [
+    {
+     "name": "乔答摩（足目）",
+     "id": "in-india-gautama",
+     "usage": "十六句义以“量”与“所量”开篇：先说知识如何成立，再说其余论题；故正理之学首先是**论议之学**。"
+    },
+    {
+     "name": "筏差衍那",
+     "id": "in-india-vatsyayana",
+     "usage": "以注释逐句展开十六义，并强调“思择”（tarka）在决了中的作用：它不独立成量，而助成推理。"
+    },
+    {
+     "name": "陈那",
+     "id": "in-india-dignaga",
+     "usage": "不取十六句义的框架：以现量／比量与三支作法重立论式，把论辩术的条目斥为“非量所摄”。"
+    }
+   ],
+   "related": [
+    "in-india-pramana",
+    "in-india-anumana",
+    "in-india-samanya"
+   ],
+   "example": {
+    "text": "同一个“论辩现场”：正理列出十六个环节（从疑到堕负），陈那则只留推理与似因——前者重**论议程序**，后者重**知识成立**。",
+    "figure": "论辩的十六环节与三支作法"
+   },
+   "sources": [
+    "sep-logic-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "十六句义的枚举与“思择非独立量”之说据 SEP “Logic in Classical Indian Philosophy”转述；《正理经》1.1.1 的原文与筏差衍那注的对应须核，故本条仅挂一条来源（**低于本站双源标准**，如实标记）。"
+  },
+  {
+   "id": "in-india-duhkha",
+   "term": "苦",
+   "term_latin": "duḥkha",
+   "definition": "不圆满、不自在。佛教以“苦”为四谛之首，而“苦”不等于“痛苦”：它指缘起之法的不安稳性；吠檀多则以“苦”为无明所见的境界。",
+   "usages": [
+    {
+     "name": "龙树",
+     "id": "in-india-nagarjuna",
+     "usage": "苦依缘起：若苦有自性，则苦不可灭；正因无自性，修道断集才成立。"
+    },
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "分苦苦、行苦、坏苦：其中“行苦”统摄一切有为法的不安稳，故苦是**存在的结构**，非仅是感受。"
+    },
+    {
+     "name": "商羯罗",
+     "id": "in-india-shankara",
+     "usage": "苦属于“无明”所见的境界；ātman 本无苦，故去除无明即无苦可灭——苦的止息是**见真**，非断灭一物。"
+    }
+   ],
+   "related": [
+    "in-india-karma",
+    "in-india-nirvana",
+    "in-india-avidya"
+   ],
+   "example": {
+    "text": "同一“苦”：龙树以缘起说其可灭，世亲以行苦说其遍在，商羯罗以无明说其非实——三种说法决定了三种“灭苦”的方法。",
+    "figure": "苦的三种定位（缘起／行苦／无明所见）"
+   },
+   "sources": [
+    "sep-nagarjuna",
+    "sep-yogacara",
+    "sep-shankara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三家说法据 SEP “Nāgārjuna”“Yogācāra”“Śaṅkara”转述；四谛十六行相的细目未及。"
   }
  ],
  "debates": [
