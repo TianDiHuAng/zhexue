@@ -43,8 +43,8 @@
 | `tools/dupcheck.py` | id／拉丁名／标题／概念查重 | 无重复（跨区域术语撞名已修 3 次） |
 | `tools/refcheck.py` | 引用有效性 | 全部有效 |
 | `tools/srccheck.py` | 来源登记结构 | 431 条自洽 |
-| `tools/debtcheck.py` → `DEBT.md` | 待核实总量 | 1163 |
-| `tools/debtclass.py` → `DEBT_CLASSES.md` | 待核实的**性质分类** | 结构 176／可动 987 |
+| `tools/debtcheck.py` → `DEBT.md` | 待核实总量（人物／著作／比较） | 960 |
+| `tools/debtclass.py` → `DEBT_CLASSES.md` | 待核实的**性质分类**（含概念与争论） | 合计 1165；结构 176 |
 | `tools/relcheck.py` → `RELCHECK.md` | 著作→人物关联的**无据挂靠** | SUSPECT 0 |
 | `tools/gapscan.py` → `GAP_SCAN.md` | 年代空档扫描 | 中国无；西方 6—8、印度 9—10（已定性为来源限制） |
 | `tools/thincheck.py` → `THIN_WORKS.md` | 代表作 ≤1 者 | 29 人（皆 1 部，0 部类已清零） |
