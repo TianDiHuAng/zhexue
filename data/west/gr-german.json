@@ -79,12 +79,14 @@
     {
      "name": "费希特",
      "id": "gr-german-fichte",
-     "note": "以本原行动取消物自体"
+     "note": "以本原行动取消物自体",
+     "relation": "承继"
     },
     {
      "name": "黑格尔",
      "id": "gr-german-hegel",
-     "note": "以辩证法重建体系"
+     "note": "以辩证法重建体系",
+     "relation": "批驳"
     },
     {
      "name": "新康德主义与现象学",
@@ -270,7 +272,8 @@
     {
      "name": "谢林",
      "id": "gr-german-schelling",
-     "note": "由自我推向自然与绝对者"
+     "note": "由自我推向自然与绝对者",
+     "relation": "承继"
     },
     {
      "name": "黑格尔",
@@ -430,7 +433,8 @@
     {
      "name": "黑格尔",
      "id": "gr-german-hegel",
-     "note": "承其同一哲学而批评其缺乏“否定性”"
+     "note": "承其同一哲学而批评其缺乏“否定性”",
+     "relation": "批驳"
     },
     {
      "name": "浪漫主义与存在哲学（克尔凯郭尔、海德格尔）",
@@ -1537,7 +1541,8 @@
     {
      "name": "康德（其同代）",
      "id": "gr-german-kant",
-     "note": "同处启蒙，而取径不同"
+     "note": "同处启蒙，而取径不同",
+     "relation": "承继"
     }
    ],
    "influenced": [

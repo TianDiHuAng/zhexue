@@ -111,12 +111,14 @@
     {
      "name": "安瑟尔谟",
      "id": "gr-medieval-anselm",
-     "note": "“信仰寻求理解”的纲领与内在转向的语式直接承自奥古斯丁"
+     "note": "“信仰寻求理解”的纲领与内在转向的语式直接承自奥古斯丁",
+     "relation": "承继"
     },
     {
      "name": "托马斯·阿奎那",
      "id": "gr-medieval-aquinas",
-     "note": "恩典与自由意志的协调、意志的次序问题被重新处理"
+     "note": "恩典与自由意志的协调、意志的次序问题被重新处理",
+     "relation": "承继"
     },
     {
      "name": "波爱修",
@@ -322,12 +324,14 @@
     {
      "name": "托马斯·阿奎那",
      "id": "gr-medieval-aquinas",
-     "note": "esse 与 quod est 的区分被改造为“存在（actus essendi）”与本质的实在区分"
+     "note": "esse 与 quod est 的区分被改造为“存在（actus essendi）”与本质的实在区分",
+     "relation": "承继"
     },
     {
      "name": "阿伯拉尔",
      "id": "gr-medieval-abelard",
-     "note": "《是与否》的方法与共相讨论直接沿用波爱修译注所定的术语"
+     "note": "《是与否》的方法与共相讨论直接沿用波爱修译注所定的术语",
+     "relation": "承继"
     },
     {
      "name": "奥卡姆的威廉",
@@ -935,7 +939,8 @@
     {
      "name": "奥卡姆的威廉",
      "id": "gr-medieval-ockham",
-     "note": "把“共相是心智概念”推进为彻底的唯名论"
+     "note": "把“共相是心智概念”推进为彻底的唯名论",
+     "relation": "承继"
     },
     {
      "name": "托马斯·阿奎那",
@@ -1353,7 +1358,8 @@
     {
      "name": "奥卡姆的威廉",
      "id": "gr-medieval-ockham",
-     "note": "受其训练而走向更彻底的简约化与唯名论"
+     "note": "受其训练而走向更彻底的简约化与唯名论",
+     "relation": "批驳"
     },
     {
      "name": "17 世纪的司各脱主义",
@@ -2007,7 +2013,8 @@
     {
      "name": "阿威罗伊",
      "id": "gr-medieval-averroes",
-     "note": "伊斯兰亚里士多德主义传统"
+     "note": "伊斯兰亚里士多德主义传统",
+     "relation": "承继"
     }
    ],
    "criticisms": [

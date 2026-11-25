@@ -84,7 +84,8 @@
     {
      "name": "何休",
      "id": "cn-lianghan-he-xiu",
-     "note": "承公羊学，发展三世说"
+     "note": "承公羊学，发展三世说",
+     "relation": "承继"
     },
     {
      "name": "汉代谶纬与后世“天人感应”话语",
@@ -1910,7 +1911,8 @@
     {
      "name": "黄老之学与汉初政治",
      "id": "cn-lianghan-lu-jia",
-     "note": "“无为”与“因循”的治术"
+     "note": "“无为”与“因循”的治术",
+     "relation": "承继"
     },
     {
      "name": "先秦诸子",
@@ -2190,12 +2192,14 @@
     {
      "name": "班彪与司马迁",
      "id": "cn-lianghan-sima-tan",
-     "note": "家学与史学传统"
+     "note": "家学与史学传统",
+     "relation": "承继"
     },
     {
      "name": "刘歆《七略》",
      "id": "cn-lianghan-liu-xin",
-     "note": "《艺文志》的直接来源"
+     "note": "《艺文志》的直接来源",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2329,7 +2333,8 @@
     {
      "name": "司马谈",
      "id": "cn-lianghan-sima-tan",
-     "note": "其父，《论六家要旨》的作者"
+     "note": "其父，《论六家要旨》的作者",
+     "relation": "承继"
     },
     {
      "name": "孔子与《春秋》",
@@ -2474,7 +2479,8 @@
     {
      "name": "王充（同时代）",
      "id": "cn-lianghan-wang-chong",
-     "note": "以“疾虚妄”批评虚妄之说"
+     "note": "以“疾虚妄”批评虚妄之说",
+     "relation": "承继"
     }
    ],
    "influenced": [

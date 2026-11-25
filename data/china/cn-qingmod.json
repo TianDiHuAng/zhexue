@@ -106,7 +106,8 @@
     {
      "name": "谭嗣同",
      "id": "cn-qingmod-tan-sitong",
-     "note": "《仁学》言器变则道不得独不变，用语近船山"
+     "note": "《仁学》言器变则道不得独不变，用语近船山",
+     "relation": "私淑"
     },
     {
      "name": "曾国藩、邓显鹤（刊刻《船山遗书》）",
@@ -842,7 +843,8 @@
     {
      "name": "谭嗣同",
      "id": "cn-qingmod-tan-sitong",
-     "note": "自称私淑，取三世与大同之说"
+     "note": "自称私淑，取三世与大同之说",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -2214,7 +2216,8 @@
     {
      "name": "孟子与黄宗羲",
      "id": "cn-qingmod-huang-zongxi",
-     "note": "民本与“天下为主”的批判传统"
+     "note": "民本与“天下为主”的批判传统",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2635,7 +2638,8 @@
     {
      "name": "清代考据学（其背景）",
      "id": "cn-qingmod-dai-zhen",
-     "note": "以训诂为学的时代风气"
+     "note": "以训诂为学的时代风气",
+     "relation": "批驳"
     }
    ],
    "influenced": [
@@ -2776,7 +2780,8 @@
     {
      "name": "严复（同代人）",
      "id": "cn-qingmod-yan-fu",
-     "note": "以进化论与“群”为其思想资源"
+     "note": "以进化论与“群”为其思想资源",
+     "relation": "承继"
     },
     {
      "name": "明清之际诸家（其评价）",
@@ -3379,7 +3384,8 @@
     {
      "name": "顾炎武（其学风）",
      "id": "cn-qingmod-gu-yanwu",
-     "note": "以考据求是的学风为其背景"
+     "note": "以考据求是的学风为其背景",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -3983,7 +3989,8 @@
     {
      "name": "王念孙（其再上）",
      "id": "cn-qingmod-wang-niansun",
-     "note": "音义互求为其校读的基础"
+     "note": "音义互求为其校读的基础",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -4138,7 +4145,8 @@
     {
      "name": "王念孙、王引之（其法之所本）",
      "id": "cn-qingmod-wang-yinzhi",
-     "note": "音义互求与以例正读"
+     "note": "音义互求与以例正读",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -4448,7 +4456,8 @@
     {
      "name": "清代金石学（其背景）",
      "id": "cn-qingmod-wang-fuzhi",
-     "note": "金石与文献互证的学风"
+     "note": "金石与文献互证的学风",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -4895,7 +4904,8 @@
     {
      "name": "叶燮（其师）",
      "id": "cn-qingmod-ye-xie",
-     "note": "其“正变”之说为沈氏所承"
+     "note": "其“正变”之说为沈氏所承",
+     "relation": "承继"
     },
     {
      "name": "孔子（其诗教之据）",
@@ -5506,7 +5516,8 @@
     {
      "name": "顾炎武（其远源）",
      "id": "cn-qingmod-gu-yanwu",
-     "note": "以考据求治道的方法为其所承"
+     "note": "以考据求治道的方法为其所承",
+     "relation": "承继"
     }
    ],
    "influenced": [

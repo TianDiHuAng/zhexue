@@ -80,7 +80,8 @@
     {
      "name": "程颢",
      "id": "cn-songming-cheng-hao",
-     "note": "二程少年曾受学于周敦颐，然二程语录罕言太极图式"
+     "note": "二程少年曾受学于周敦颐，然二程语录罕言太极图式",
+     "relation": "承继"
     },
     {
      "name": "朱熹",
@@ -586,12 +587,14 @@
     {
      "name": "朱熹",
      "id": "cn-songming-zhu-xi",
-     "note": "承其性即理、格物穷理与居敬之说而集其成"
+     "note": "承其性即理、格物穷理与居敬之说而集其成",
+     "relation": "承继"
     },
     {
      "name": "陆九渊",
      "id": "cn-songming-lu-jiuyuan",
-     "note": "以“支离”批评格物一路，构成朱陆之辩的一端"
+     "note": "以“支离”批评格物一路，构成朱陆之辩的一端",
+     "relation": "批驳"
     }
    ],
    "criticisms": [
@@ -762,7 +765,8 @@
     {
      "name": "刘宗周",
      "id": "cn-songming-liu-zongzhou",
-     "note": "早年治朱学，晚年以气一元论反对理先气后"
+     "note": "早年治朱学，晚年以气一元论反对理先气后",
+     "relation": "批驳"
     }
    ],
    "criticisms": [
@@ -947,14 +951,16 @@
     {
      "name": "程颐（反面）",
      "id": "cn-songming-cheng-yi",
-     "note": "由其格物积累之说反激而出，遂以“支离”为其所讥"
+     "note": "由其格物积累之说反激而出，遂以“支离”为其所讥",
+     "relation": "批驳"
     }
    ],
    "influenced": [
     {
      "name": "王守仁",
      "id": "cn-songming-wang-yangming",
-     "note": "承心即理一路，提出致良知；晚年为《象山文集》作序表章之"
+     "note": "承心即理一路，提出致良知；晚年为《象山文集》作序表章之",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -1111,7 +1117,8 @@
     {
      "name": "刘宗周",
      "id": "cn-songming-liu-zongzhou",
-     "note": "由王学入而修正其“意为心之所发”，主诚意慎独"
+     "note": "由王学入而修正其“意为心之所发”，主诚意慎独",
+     "relation": "承继"
     },
     {
      "name": "王畿与王门后学",
@@ -1591,14 +1598,16 @@
     {
      "name": "程朱理学（批评对象）",
      "id": "cn-songming-cheng-yi",
-     "note": "“理在气先”为其批评目标"
+     "note": "“理在气先”为其批评目标",
+     "relation": "承继"
     }
    ],
    "influenced": [
     {
      "name": "王廷相与明清气学",
      "id": "cn-songming-wang-tingxiang",
-     "note": "气本论一路的延续"
+     "note": "气本论一路的延续",
+     "relation": "承继"
     },
     {
      "name": "王夫之",
@@ -1726,7 +1735,8 @@
     {
      "name": "张载气学",
      "id": "cn-songming-zhang-zai",
-     "note": "太虚即气"
+     "note": "太虚即气",
+     "relation": "承继"
     },
     {
      "name": "罗钦顺（同时代气学）",
@@ -2312,7 +2322,8 @@
     {
      "name": "张栻",
      "id": "cn-songming-zhang-shi",
-     "note": "其弟子，湖湘学派的主要传人"
+     "note": "其弟子，湖湘学派的主要传人",
+     "relation": "承继"
     },
     {
      "name": "朱熹",
@@ -2445,7 +2456,8 @@
     {
      "name": "二程",
      "id": "cn-songming-cheng-yi",
-     "note": "“中和”问题的来源"
+     "note": "“中和”问题的来源",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2592,7 +2604,8 @@
     {
      "name": "叶适",
      "id": "cn-songming-ye-shi",
-     "note": "永嘉学派，与之同调"
+     "note": "永嘉学派，与之同调",
+     "relation": "承继"
     },
     {
      "name": "清代与近代重估",
@@ -3006,7 +3019,8 @@
     {
      "name": "程朱的格物说",
      "id": "cn-songming-zhu-xi",
-     "note": "“即物穷理”的框架"
+     "note": "“即物穷理”的框架",
+     "relation": "承继"
     }
    ],
    "influenced": [

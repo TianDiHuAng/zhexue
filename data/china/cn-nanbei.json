@@ -1722,7 +1722,8 @@
     {
      "name": "僧祐（其同代）",
      "id": "cn-nanbei-sengyou",
-     "note": "同处梁代文献编纂的网络"
+     "note": "同处梁代文献编纂的网络",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1862,7 +1863,8 @@
     {
      "name": "刘勰（其同代）",
      "id": "cn-nanbei-liuxie",
-     "note": "同以“情”与“辞”论诗，而取径不同"
+     "note": "同以“情”与“辞”论诗，而取径不同",
+     "relation": "承继"
     },
     {
      "name": "陆机（其先）",

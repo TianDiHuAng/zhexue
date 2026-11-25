@@ -84,12 +84,14 @@
     {
      "name": "孟子",
      "id": "cn-xianqin-mengzi",
-     "note": "把仁收到心上，转写为性善"
+     "note": "把仁收到心上，转写为性善",
+     "relation": "承继"
     },
     {
      "name": "荀子",
      "id": "cn-xianqin-xunzi",
-     "note": "承礼学一路而反性善，主张化性起伪"
+     "note": "承礼学一路而反性善，主张化性起伪",
+     "relation": "承继"
     },
     {
      "name": "墨子",
@@ -286,12 +288,14 @@
     {
      "name": "庄子",
      "id": "cn-xianqin-zhuangzi",
-     "note": "把“道”的言说转为齐物与逍遥"
+     "note": "把“道”的言说转为齐物与逍遥",
+     "relation": "承继"
     },
     {
      "name": "韩非",
      "id": "cn-xianqin-hanfei",
-     "note": "作《解老》《喻老》，把无为转为君术"
+     "note": "作《解老》《喻老》，把无为转为君术",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -1004,7 +1008,8 @@
     {
      "name": "韩非",
      "id": "cn-xianqin-hanfei",
-     "note": "受业于荀门，转向法术势"
+     "note": "受业于荀门，转向法术势",
+     "relation": "承继"
     },
     {
      "name": "李斯",
@@ -1974,7 +1979,8 @@
     {
      "name": "李悝与商鞅的法论",
      "id": "cn-xianqin-shang-yang",
-     "note": "以法为治"
+     "note": "以法为治",
+     "relation": "承继"
     }
    ],
    "influenced": [
