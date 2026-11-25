@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1847,
+  "entries": 1848,
   "by_level": {
    "L2": 793,
-   "L1": 1054
+   "L1": 1055
   },
   "doctrine": {
    "total": 320,
    "detail": 320,
    "auto": 0
   },
-  "needs_verification": 1054,
+  "needs_verification": 1055,
   "sources": 430,
   "sources_verified": 430
  },
@@ -19944,6 +19944,17 @@
    "id": "cmp-zhongdao-zhongyong",
    "type": "comparative",
    "title": "“中道”与“中庸”：两端之间是路，还是度？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "cmp-wuming-huo",
+   "type": "comparative",
+   "title": "“无明”与“惑”：遮蔽是知识的欠缺，还是心之偏？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
