@@ -2929,6 +2929,84 @@
    "needs_verification": true,
    "pending_notes": "三家说法据 SEP “Yogācāra”“Nāgārjuna”“Śaṅkara”转述；“萨迦耶见”的部派细目与其与“我慢”的区分未及。",
    "broader": "in-india-atman"
+  },
+  {
+   "id": "in-india-prajna",
+   "term": "般若",
+   "term_latin": "prajñā",
+   "definition": "照见实相的智慧。它与“识”不同：识是分别地知，般若是离分别而知。在佛教内部，般若与“方便”须相即；在吠檀多，“知”即是解脱之因。",
+   "usages": [
+    {
+     "name": "龙树",
+     "id": "in-india-nagarjuna",
+     "usage": "般若是“离四句”的照见：不依自性而立，故能见缘起即空；若执“空”为所证，则般若反成戏论。"
+    },
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "般若须与“无分别智”合说：于圆成实上离能取所取而现证，非以概念比度真如。"
+    },
+    {
+     "name": "商羯罗",
+     "id": "in-india-shankara",
+     "usage": "解脱唯由“知”成：去除无明之知即梵知；行为不能生知，故亦不能直接生解脱。"
+    }
+   ],
+   "related": [
+    "in-india-avidya",
+    "in-india-moksa",
+    "in-india-shunyata"
+   ],
+   "example": {
+    "text": "同一“知”：龙树说它离四句而见空，世亲说它离二取而现证，商羯罗说它去无明而证梵——都反对“以概念比度”，却对所知各有说法。",
+    "figure": "“知”的三种说法（般若／无分别智／梵知）"
+   },
+   "sources": [
+    "sep-nagarjuna",
+    "sep-yogacara",
+    "sep-shankara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三家说法据 SEP “Nāgārjuna”“Yogācāra”“Śaṅkara”转述；“般若”与“智”（jñāna）在部派与唯识诸论中的分判未及。"
+  },
+  {
+   "id": "in-india-bhavana",
+   "term": "修行",
+   "term_latin": "bhāvanā／yoga",
+   "definition": "把见解变成能力的过程。印度诸派的修行论差异极大：有以“止观”双运者，有以“仪轨”为正行者，有以“唯由知”而废余行者。",
+   "usages": [
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "以“五位”次第说修行：资粮、加行、通达、修习、究竟；故修行是道次第所成的转依。"
+    },
+    {
+     "name": "鸠摩利罗",
+     "id": "in-india-kumarila",
+     "usage": "以仪轨为正行：祭祀与日常义务的正确施行即是“法”的实践；解脱非其中心问题。"
+    },
+    {
+     "name": "商羯罗",
+     "id": "in-india-shankara",
+     "usage": "修行（听闻、思惟、观修）只能净心、去除障碍，不能生起解脱之知；故修行是助缘，非正因。"
+    }
+   ],
+   "related": [
+    "in-india-moksa",
+    "in-india-karma",
+    "in-india-prajna"
+   ],
+   "example": {
+    "text": "同为“修行”：世亲给出一整套道次第，鸠摩利罗以仪轨为其实践，商羯罗则把它降为“助缘”——修行在解脱中的地位，三家判然不同。",
+    "figure": "修行在解脱论中的三种地位"
+   },
+   "sources": [
+    "sep-yogacara",
+    "sep-perception-india",
+    "sep-shankara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三家说法据 SEP “Yogācāra”“Perceptual Experience…”“Śaṅkara”转述；瑜伽八支等具体次第未及。"
   }
  ],
  "debates": [
