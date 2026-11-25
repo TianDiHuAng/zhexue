@@ -3575,6 +3575,73 @@
    ],
    "needs_verification": true,
    "pending_notes": "“酒神／日神”的原文（《悲剧的诞生》第1—4节）须核 KSA 版；其与叔本华“意志／表象”的对应关系亦须分辨。"
+  },
+  {
+   "id": "gr-19c-unconscious",
+   "term": "无意识",
+   "term_latin": "das Unbewusste / the unconscious",
+   "definition": "不被意识直接察知、却支配意识活动与行为的心之层面。19 世纪把它从“心灵的暗处”提升为**形而上学原则**，20 世纪才转为心理学概念。",
+   "usages": [
+    {
+     "name": "叔本华",
+     "id": "gr-19c-schopenhauer",
+     "usage": "意志本身是**盲目的**：它先于意识与表象，意识只是意志的工具；故“无意识”不是心理的角落，而是世界的本体。"
+    },
+    {
+     "name": "尼采",
+     "id": "gr-19c-nietzsche",
+     "usage": "意识只是**表层**：身体与驱力（无意识）才是主动者，“意识”是身体对自身所发生的误解；故无意识不是暗角，而是主人。"
+    }
+   ],
+   "related": [
+    "gr-19c-will"
+   ],
+   "example": {
+    "text": "叔本华以“意志的盲目性”解释自然界的合目的现象：它看似有目的，实则无意识，故不须假定一位设计者。",
+    "figure": "叔本华",
+    "locator": "《作为意志和表象的世界》卷二"
+   },
+   "sources": [
+    "sep-schopenhauer",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP 叔本华条目与通行研究概述，**未读原著**；哈特曼《无意识的哲学》一系的具体主张须核。",
+   "broader": "gr-19c-will"
+  },
+  {
+   "id": "gr-19c-community",
+   "term": "共同体",
+   "term_latin": "Gemeinschaft / community",
+   "definition": "以**共同的血缘、语言、习俗或认同**结合的人群，与以契约与利益结合的“社会”相对。19 世纪社会学与政治哲学以此对区分“传统”与“现代”。",
+   "usages": [
+    {
+     "name": "托克维尔",
+     "id": "gr-19c-tocqueville",
+     "usage": "以**结社与地方自治**说共同体：民主社会若无自愿结社与地方共同体的缓冲，则个人易陷入“软专制”下的孤立；故共同体是自由的屏障（此页据通行研究概述，无 SEP 专条）。"
+    },
+    {
+     "name": "马克思",
+     "id": "gr-19c-marx",
+     "usage": "以“**共同体**”批判“虚假的共同体”（国家）而主张“**自由人的联合体**”：真正的共同体须以废除阶级为前提。"
+    }
+   ],
+   "related": [
+    "gr-19c-alienation",
+    "gr-19c-ideology"
+   ],
+   "example": {
+    "text": "滕尼斯以“共同体与社会”对举，把 19 世纪对现代性的忧虑凝为一对概念：前者靠情感与习俗，后者靠契约与计算。",
+    "figure": "滕尼斯",
+    "locator": "《共同体与社会》"
+   },
+   "sources": [
+    "sep-marx",
+    "sep-hegel"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP 马克思与托克维尔条目转述，**未读原著**；滕尼斯“共同体与社会”一对概念的通行用法须核（滕尼斯本人不在站内）。",
+   "broader": null
   }
  ],
  "debates": [

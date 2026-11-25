@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-26",
  "totals": {
-  "entries": 1971,
+  "entries": 1984,
   "by_level": {
    "L2": 793,
-   "L1": 1178
+   "L1": 1191
   },
   "doctrine": {
    "total": 326,
    "detail": 326,
    "auto": 0
   },
-  "needs_verification": 1178,
+  "needs_verification": 1191,
   "sources": 431,
   "sources_verified": 431
  },
@@ -93,7 +93,7 @@
    "title": "19世纪哲学",
    "region": "west",
    "philosophers": 18,
-   "concepts": 24,
+   "concepts": 26,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -10"
   },
@@ -5670,6 +5670,28 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "gr-19c-unconscious",
+   "type": "concept",
+   "title": "无意识",
+   "container": "gr-19c",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "gr-19c-community",
+   "type": "concept",
+   "title": "共同体",
+   "container": "gr-19c",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": true,
    "updated": "2026-11-26"
   },
@@ -13594,6 +13616,17 @@
    "updated": "2026-11-26"
   },
   {
+   "id": "work-al-kindi-intellect",
+   "type": "work",
+   "title": "《论理智》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
    "id": "work-periphyseon",
    "type": "work",
    "title": "《论自然的区分》",
@@ -21297,6 +21330,116 @@
    "id": "cmp-equality-ping",
    "type": "comparative",
    "title": "“平等”与“均”：该把什么拉平？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-disease-bing",
+   "type": "comparative",
+   "title": "“疾病”与“病”：病是身体的事，还是人的事？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-health-kangning",
+   "type": "comparative",
+   "title": "“健康”与“康宁”：没病就是好吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-learning-xue",
+   "type": "comparative",
+   "title": "“学习”与“学”：学，是获得知识，还是成为人？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-reading-du",
+   "type": "comparative",
+   "title": "“读书”与“亲证”：知识能从书上得来吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-war-zhan",
+   "type": "comparative",
+   "title": "“正义战争”与“慎战”：什么时候可以动武？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-courage-yong",
+   "type": "comparative",
+   "title": "“勇气”与“勇”：不怕死就是勇吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-music-he",
+   "type": "comparative",
+   "title": "“音乐”与“和”：好听是因为秩序吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-architecture-ju",
+   "type": "comparative",
+   "title": "“建筑”与“居”：房子是用来住的，还是用来立的？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-luck-yun",
+   "type": "comparative",
+   "title": "“运气”与“命”：好运气该归功于谁？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-ritual-li",
+   "type": "comparative",
+   "title": "“礼节”与“礼”：礼貌是形式，还是实质？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
