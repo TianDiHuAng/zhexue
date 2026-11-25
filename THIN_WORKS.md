@@ -4,7 +4,7 @@
 用途：`GAPS_WORKS` 归零后（第 287 轮）的**下一层缺口**——从「有无」转到「厚薄」。
 重生成：`python tools/thincheck.py`（每次改动作著关联后应重跑）。
 
-当前合计：**44 人**（0 部 0 ｜ 1 部 44）
+当前合计：**42 人**（0 部 0 ｜ 1 部 42）
 
 ## cn-lianghan
 - 刘安（`cn-lianghan-liu-an`）—— 1 部
@@ -67,8 +67,6 @@
 ## gr-modern
 - 托马斯·莫尔（`gr-modern-more`）—— 1 部
 - 格劳秀斯（`gr-modern-grotius`）—— 1 部
-- 潘恩（`gr-modern-paine`）—— 1 部
-- 霍尔巴赫（`gr-modern-holbach`）—— 1 部
 - 马勒伯朗士（`gr-modern-malebranche`）—— 1 部
 
 ## in-india

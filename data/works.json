@@ -29532,6 +29532,62 @@
    "sort_year": 1770
   },
   {
+   "id": "work-systeme-nature",
+   "title": "《自然的体系》",
+   "title_original": "Système de la nature（霍尔巴赫）",
+   "tradition": "west",
+   "date_display": "1770（霍尔巴赫，署名 Mirabaud）",
+   "structure": "两卷：上卷论自然与人（物质、运动、秩序、人的构造），下卷论神学与道德（驳“神”之观念、立以自然为基础的道德）。故其体例是**以自然说明一切**的体系书。",
+   "core_arguments": [
+    "**自然即物质的运动**：无超自然之因，秩序是运动的结果",
+    "**人无自由意志**：一切行为皆由物理与教育所定",
+    "**道德可无神而立**：以自保与幸福为道德之基"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "物质与运动"
+    },
+    {
+     "locator": "卷二",
+     "point": "人的构造"
+    },
+    {
+     "locator": "卷三",
+     "point": "驳神之观念"
+    },
+    {
+     "locator": "卷四",
+     "point": "自然的道德"
+    }
+   ],
+   "editions": [
+    "法文本（1770，署 Mirabaud）；中译有（商务印书馆等）"
+   ],
+   "related_people": [
+    "gr-modern-holbach",
+    "gr-modern-hume",
+    "gr-modern-descartes"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“无神论的教条”",
+     "why": "其书以**决定论的自然体系**代替神学解释；其“无神”是体系的结果，而非独立的信仰宣告。"
+    },
+    {
+     "claim": "其决定论＝宿命论（故道德不可能）",
+     "why": "其书仍立**以自保与幸福为基础**的道德；故其主张是“道德无须神”，不是“道德不可能”。"
+    }
+   ],
+   "sources": [
+    "sep-holbach",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Holbach”转述，**未读法文本**；1770 年署名与两卷的分卷须核。",
+   "sort_year": 1770
+  },
+  {
    "id": "work-origin-language",
    "title": "《论语言的起源》",
    "title_original": "Abhandlung über den Ursprung der Sprache",
@@ -29755,6 +29811,62 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1776
+  },
+  {
+   "id": "work-common-sense",
+   "title": "《常识》",
+   "title_original": "Common Sense（潘恩）",
+   "tradition": "west",
+   "date_display": "1776（潘恩）",
+   "structure": "小册子：先辨政府与社会的区别，再以《圣经》与宪政史为例驳世袭君主，末陈美洲独立的可行与必要。以**通俗笔法**写成，故其影响远过学理著作。",
+   "core_arguments": [
+    "**社会与政府之别**：社会由需要而生，政府由恶而生",
+    "**世袭制无据**：以《圣经》与英国史反证“王权神授”",
+    "**独立是常识**：以贸易与人口论其可行"
+   ],
+   "key_points": [
+    {
+     "locator": "论政府之起源",
+     "point": "社会与政府之别"
+    },
+    {
+     "locator": "论君主与世袭",
+     "point": "驳世袭"
+    },
+    {
+     "locator": "论美洲现状",
+     "point": "独立的理由"
+    },
+    {
+     "locator": "附论",
+     "point": "可行性"
+    }
+   ],
+   "editions": [
+    "英文本（1776）；中译多种"
+   ],
+   "related_people": [
+    "gr-modern-paine",
+    "gr-modern-burke",
+    "gr-modern-hobbes"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“理论著作”",
+     "why": "其书是**面向公众的小册子**：不建构体系，而以通俗论证说服；故其力量在传播，不在学理细密。"
+    },
+    {
+     "claim": "潘恩主张“无政府”",
+     "why": "其书主张**有政府而有限**（以社会为源、以政府为必要之恶）；故与无政府主义不同。"
+    }
+   ],
+   "sources": [
+    "sep-paine",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Thomas Paine”转述，**未读原书**；1776 年初版与后续版本的差异须核。",
    "sort_year": 1776
   },
   {
