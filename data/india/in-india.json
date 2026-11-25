@@ -2397,6 +2397,99 @@
    ],
    "needs_verification": true,
    "pending_notes": "本页只取三家骨架；耆那教的多视角说（anekāntavāda）与文法家的立场未及。"
+  },
+  {
+   "id": "in-india-self-existence",
+   "title": "有我还是无我：常一之我可立吗？",
+   "question": "“我”是实在的核心，还是刹那相续的假设？",
+   "positions": [
+    {
+     "holder": "不二吠檀多（商羯罗）",
+     "id": "in-india-shankara",
+     "stance": "有我：ātman 是纯粹意识，与梵同一",
+     "reasons": [
+      "醒、梦、熟睡三态中诸态间断而见证意识持续，故“我”不依诸态而有。",
+      "若把身体心智当作我，则是“叠加”之误；去此叠加即见真我。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "瑜伽行（世亲）",
+     "id": "in-india-vasubandhu",
+     "stance": "无我：刹那相续足以成立业报与记忆",
+     "reasons": [
+      "若我是常一，则不能有变化；若我是无常，则不能承业。",
+      "故以种子与熏习的相续说明记忆与业报，无须设定常我。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "中观（龙树）",
+     "id": "in-india-nagarjuna",
+     "stance": "于“我”“我所”上破自性，离常断二见",
+     "reasons": [
+      "若我由自性有，则与缘起相违；若我全无，则业报与解脱亦无从安立。",
+      "故我非无自性之实有，亦非断灭，唯在缘起上施设。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "同一现象（记忆与业报的相续）如何在三种“我”论下安立，以及解脱的主体是谁。",
+   "status": "未决",
+   "status_note": "三家各有其内部一贯的解释；其分歧牵涉意识的本性（是否必有所对）、无常与业报的关系，本页并述而不裁定。",
+   "sources": [
+    "sep-shankara",
+    "sep-nagarjuna",
+    "sep-yogacara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三家的立场据 SEP “Śaṅkara”“Nāgārjuna”“Yogācāra”转述；不二吠檀多内部的“见证意识”说与其反对者的往复须核专门研究。"
+  },
+  {
+   "id": "in-india-pramana-count",
+   "title": "量有几种：知识的手段该分几类？",
+   "question": "可靠的求知手段，是四种、两种，还是一种？",
+   "positions": [
+    {
+     "holder": "正理派（乔答摩、筏差衍那）",
+     "id": "in-india-gautama",
+     "stance": "四量：知觉、推断、类比、证言",
+     "reasons": [
+      "类比（upamāna）能成立名义与所指的关联，非推断所能代。",
+      "证言（śabda）是可信者之言，其成立不依于自己的知觉。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "佛教量论（陈那）",
+     "id": "in-india-dignaga",
+     "stance": "二量：现量与比量",
+     "reasons": [
+      "类比可归入比量（由已知推知名义），不必另立。",
+      "证言亦可归入比量（由“言者可信”推知其所说），故量只有二。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "弥曼差（鸠摩利罗）",
+     "id": "in-india-kumarila",
+     "stance": "量之数目次于“有效性”问题：有效不待外证",
+     "reasons": [
+      "一切知识生起即带其有效性的根据，唯无效须被证明。",
+      "故争论“几种量”不如争论“有效性由何成立”；量之增减不改变此根本。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "量之数目与“知识的有效性如何成立”这两个问题的关系。",
+   "status": "未决",
+   "status_note": "佛教的二量说与正理的四量说长期相持；弥曼差则把问题转向有效性的根据。三家之争至今仍是印度知识论研究的核心，本页不裁定。",
+   "sources": [
+    "sep-logic-india",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "四量与二量的往复文献（尤其陈那对 upamāna 的归约）据 SEP “Logic in Classical Indian Philosophy”转述；顺世派只承认一量的立场未收入站内。"
   }
  ]
 }
