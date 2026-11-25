@@ -2211,7 +2211,8 @@
     "paper-s12124-024-09840-0"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-xianqin-dao"
   },
   {
    "id": "cn-xianqin-jianai",
@@ -2465,7 +2466,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-xianqin-dao"
   },
   {
    "id": "cn-xianqin-zhongyong",
@@ -2543,7 +2545,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-xianqin-ren"
   },
   {
    "id": "cn-xianqin-quan",
@@ -2806,7 +2809,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-xianqin-xinge"
   },
   {
    "id": "cn-xianqin-tianxing-youchang",
@@ -2841,7 +2845,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-xianqin-tianren"
   },
   {
    "id": "cn-xianqin-shangtong-yi",
@@ -2955,7 +2960,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-xianqin-li"
   },
   {
    "id": "cn-xianqin-xuxin",
@@ -3102,7 +3108,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-xianqin-li"
   },
   {
    "id": "cn-xianqin-jianbai",

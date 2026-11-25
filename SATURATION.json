@@ -3004,6 +3004,15 @@
     "四项外部经验全部吸收(R21/R22/R23+世纪视图)",
     "首轮回填 broader2/relation10/date_note3"
    ]
+  },
+  {
+   "round": 321,
+   "date": "2026-11-25",
+   "gaps_found": 1,
+   "methods": [
+    "broader推广至中西13条",
+    "宁少挂不乱挂"
+   ]
   }
  ]
 }

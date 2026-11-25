@@ -3214,7 +3214,8 @@
     "book-guthrie-greek"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-ancient-arche"
   },
   {
    "id": "gr-ancient-nous",
@@ -3252,7 +3253,8 @@
     "book-guthrie-greek"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-ancient-arche"
   },
   {
    "id": "gr-ancient-telos",
@@ -3289,7 +3291,8 @@
     "book-guthrie-greek"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-ancient-four-causes"
   },
   {
    "id": "gr-ancient-meson",
@@ -3325,7 +3328,8 @@
     "book-guthrie-greek"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-ancient-arete"
   },
   {
    "id": "gr-ancient-virtue-knowledge",
@@ -3364,7 +3368,8 @@
     "book-guthrie-greek"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-ancient-arete"
   },
   {
    "id": "gr-ancient-aletheia",
@@ -3440,7 +3445,8 @@
     "book-guthrie-greek"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-ancient-arete"
   },
   {
    "id": "gr-ancient-mimesis",
