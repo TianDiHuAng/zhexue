@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1865,
+  "entries": 1869,
   "by_level": {
    "L2": 793,
-   "L1": 1072
+   "L1": 1076
   },
   "doctrine": {
-   "total": 324,
-   "detail": 324,
+   "total": 326,
+   "detail": 326,
    "auto": 0
   },
-  "needs_verification": 1072,
+  "needs_verification": 1076,
   "sources": 431,
   "sources_verified": 431
  },
@@ -47,10 +47,10 @@
    "unit_id": "cn-songming",
    "title": "宋明理学与心学",
    "region": "china",
-   "philosophers": 27,
+   "philosophers": 29,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -19"
+   "philosophers_slot": "8 上限，余 -21"
   },
   {
    "unit_id": "cn-suitang",
@@ -2399,6 +2399,28 @@
    "id": "cn-songming-xue-xuan",
    "type": "philosopher",
    "title": "薛瑄",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "cn-songming-sun-fu",
+   "type": "philosopher",
+   "title": "孙复",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "cn-songming-hu-yuan",
+   "type": "philosopher",
+   "title": "胡瑗",
    "container": "cn-songming",
    "level": "L1",
    "sources": 2,
@@ -13205,6 +13227,28 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "work-chunqiu-zunwang",
+   "type": "work",
+   "title": "《春秋尊王发微》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "work-zhouyi-kouyi",
+   "type": "work",
+   "title": "《周易口义》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": true,
    "updated": "2026-11-25"
   },

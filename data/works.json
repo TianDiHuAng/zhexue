@@ -16752,6 +16752,118 @@
    "sort_year": 1020
   },
   {
+   "id": "work-chunqiu-zunwang",
+   "title": "《春秋尊王发微》",
+   "title_original": "Chun Qiu Zun Wang Fa Wei（孙复）",
+   "tradition": "china",
+   "date_display": "北宋（孙复，11世纪）",
+   "structure": "依《春秋》十二公的次序逐条发其义：以“尊王”“正名分”为纲，于诸侯之僭、大夫之专皆著其贬，不取三传的褒贬凡例而自求经文。",
+   "core_arguments": [
+    "**舍传求经**：以经文为主、注疏为辅，解经即立说",
+    "**尊王**为《春秋》第一义：正名分、贬僭窃",
+    "**辟佛老在立道**：先明儒家之道，不待攻而彼自衰"
+   ],
+   "key_points": [
+    {
+     "locator": "隐公以下",
+     "point": "尊王与正名"
+    },
+    {
+     "locator": "论诸侯",
+     "point": "贬僭窃"
+    },
+    {
+     "locator": "论大夫",
+     "point": "贬专擅"
+    },
+    {
+     "locator": "全书",
+     "point": "书法即义例"
+    }
+   ],
+   "editions": [
+    "《四库全书》本；《宋元学案》卷二录其说"
+   ],
+   "related_people": [
+    "cn-songming-sun-fu",
+    "cn-songming-hu-yuan",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是《春秋》的“史学考证”",
+     "why": "其书以**尊王、正名分**说《春秋》，是**以经论政**的经学著作；其目的在立义，不在记事。"
+    },
+    {
+     "claim": "其书严守三传的凡例",
+     "why": "其书恰是**舍传求经**：不取三传的褒贬凡例而自求经文；故其方法与汉唐注疏之学相反。"
+    }
+   ],
+   "sources": [
+    "ws-songyuan-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据《宋元学案·泰山学案》与 SEP 通行叙述，**未校《春秋尊王发微》原书**；其义例与分卷须核《四库全书》本。",
+   "sort_year": 1040
+  },
+  {
+   "id": "work-zhouyi-kouyi",
+   "title": "《周易口义》",
+   "title_original": "Zhou Yi Kou Yi（胡瑗，门人所记）",
+   "tradition": "china",
+   "date_display": "北宋（胡瑗讲，门人记，11世纪）",
+   "structure": "依《周易》经传逐卦逐爻讲说，以**义理**为主，不事象数推衍；书名“口义”，为门人所记的讲说。",
+   "core_arguments": [
+    "**以义理说《易》**：即卦爻以言人事之进退存亡",
+    "**明体达用**：经义以立其体，治事以达其用",
+    "**五教三德**：以人伦与德性为教之目"
+   ],
+   "key_points": [
+    {
+     "locator": "上经",
+     "point": "卦爻的人事义"
+    },
+    {
+     "locator": "下经",
+     "point": "进退存亡"
+    },
+    {
+     "locator": "系辞",
+     "point": "义理的总说"
+    },
+    {
+     "locator": "全书",
+     "point": "口义之体"
+    }
+   ],
+   "editions": [
+    "《四库全书》本；门人所记，为宋人《易》说要籍"
+   ],
+   "related_people": [
+    "cn-songming-hu-yuan",
+    "cn-songming-sun-fu",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书与邵雍《易》学同属象数一路",
+     "why": "其书以**义理**为主，与邵雍的象数之学正相反；故二人虽同时而路数不同。"
+    },
+    {
+     "claim": "“口义”是胡瑗亲笔所著",
+     "why": "其书为**门人所记**的讲说（故称“口义”）；引用时须分辨讲说与笔录。"
+    }
+   ],
+   "sources": [
+    "ws-songyuan-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据《宋元学案·安定学案》与 SEP 通行叙述，**未校《周易口义》原书**；其成书（门人谁记）与分卷须核《四库全书》本。",
+   "sort_year": 1045
+  },
+  {
    "id": "work-taiji-tushuo",
    "title": "《太极图说》",
    "title_original": "太極圖說",
