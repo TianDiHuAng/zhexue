@@ -2613,6 +2613,83 @@
    ],
    "needs_verification": true,
    "pending_notes": "三家说法据 SEP “Śaṅkara”、IEP “Ramanuja”、“SEP Yogācāra”转述；无明与“十二缘起”中的位置未及。"
+  },
+  {
+   "id": "in-india-dharma",
+   "term": "法",
+   "term_latin": "dharma",
+   "definition": "一词多义，是印度哲学最容易混淆的概念之一：在弥曼差指“应当做什么”，在佛教指“一切现象／要素”，在吠檀多常指“事物的本性”。",
+   "usages": [
+    {
+     "name": "阇弥尼",
+     "id": "in-india-jaimini",
+     "usage": "“法”即吠陀所立的“当为”：它非现在的事实，故只能由证言得知，非知觉与推理所能及。"
+    },
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "“法”指一切缘起的现象或要素（如色法、心法），其自性为空；故“法”不是“义务”，而是“存在的单位”。"
+    },
+    {
+     "name": "商羯罗",
+     "id": "in-india-shankara",
+     "usage": "“法”常指事物之本性（如“火之法是热”）；解脱所证者非“法”而是超于一切法的梵。"
+    }
+   ],
+   "related": [
+    "in-india-karma",
+    "in-india-svabhava",
+    "in-india-moksa"
+   ],
+   "example": {
+    "text": "同一字：弥曼差说“这是法（当行）”，佛教说“诸法无我（要素）”，吠檀多说“火之性是热（本性）”——三义并立，须依语境分辨。",
+    "figure": "“法”的三义（当为／要素／本性）"
+   },
+   "sources": [
+    "sep-perception-india",
+    "sep-yogacara",
+    "sep-shankara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三义的分疏据 SEP “Perceptual Experience…”“Yogācāra”“Śaṅkara”转述；“法”在正理—胜论（作为德性之一）的用法未及，须另核。"
+  },
+  {
+   "id": "in-india-samanya",
+   "term": "共相",
+   "term_latin": "sāmānya／jāti",
+   "definition": "多数个别者所共有的性质。它是实有还是心的构造？这是印度知识论与语言哲学的核心争点之一。",
+   "usages": [
+    {
+     "name": "乔答摩（足目）",
+     "id": "in-india-gautama",
+     "usage": "主张共相实有：若无真实的共同项，则语言无法共通地指向多物，学习与传授亦不可能。"
+    },
+    {
+     "name": "鸠摩利罗（童中尊）",
+     "id": "in-india-kumarila",
+     "usage": "以共相实在论反对遮诠说：语词直接指向真实的共相，故非仅“排除他者”。"
+    },
+    {
+     "name": "陈那",
+     "id": "in-india-dignaga",
+     "usage": "主张共相非实有：实在中唯有刹那的个别者；概念由“排除他者”（apoha）而成，非指向实有之共同项。"
+    }
+   ],
+   "related": [
+    "in-india-apoha",
+    "in-india-pramana",
+    "in-india-dharma"
+   ],
+   "example": {
+    "text": "“牛”何以适用于多物？正理与弥曼差说有真实的“牛性”；陈那说这是把“非牛”排除后聚合而成的构造。",
+    "figure": "“牛性”是实有还是遮除"
+   },
+   "sources": [
+    "sep-perception-india",
+    "sep-logic-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三家说法据 SEP “Perceptual Experience and Concepts in Classical Indian Philosophy”与“Logic in Classical Indian Philosophy”转述；胜论的“同”（sāmānya）范畴说未及。"
   }
  ],
  "debates": [
