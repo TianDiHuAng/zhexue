@@ -86,7 +86,8 @@
     {
      "name": "朱熹",
      "id": "cn-songming-zhu-xi",
-     "note": "作《太极图说解》，确立周敦颐为理学开山的地位"
+     "note": "作《太极图说解》，确立周敦颐为理学开山的地位",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -250,12 +251,14 @@
     {
      "name": "程颐",
      "id": "cn-songming-cheng-yi",
-     "note": "与张载往复论学，然评其“清虚一大”之说“恐未安”"
+     "note": "与张载往复论学，然评其“清虚一大”之说“恐未安”",
+     "relation": "承继"
     },
     {
      "name": "朱熹",
      "id": "cn-songming-zhu-xi",
-     "note": "采其气质之性说，而以其气本论未及所以然之理，补以理在气先"
+     "note": "采其气质之性说，而以其气本论未及所以然之理，补以理在气先",
+     "relation": "承继"
     },
     {
      "name": "王夫之（下一单元）",
@@ -426,17 +429,20 @@
     {
      "name": "程颐",
      "id": "cn-songming-cheng-yi",
-     "note": "兄弟相为师友，然程颐主教人严整，与乃兄气象不同"
+     "note": "兄弟相为师友，然程颐主教人严整，与乃兄气象不同",
+     "relation": "承继"
     },
     {
      "name": "王守仁",
      "id": "cn-songming-wang-yangming",
-     "note": "《大学问》以“大人者以天地万物为一体”承其同体之旨"
+     "note": "《大学问》以“大人者以天地万物为一体”承其同体之旨",
+     "relation": "承继"
     },
     {
      "name": "朱熹",
      "id": "cn-songming-zhu-xi",
-     "note": "编《近思录》录其语，然评其说“浑沦”“太高”，须以伊川之密补之"
+     "note": "编《近思录》录其语，然评其说“浑沦”“太高”，须以伊川之密补之",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -585,12 +591,14 @@
     {
      "name": "张载",
      "id": "cn-songming-zhang-zai",
-     "note": "反向补录：据「张载」页的“影响了谁”补入"
+     "note": "反向补录：据「张载」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "程颢",
      "id": "cn-songming-cheng-hao",
-     "note": "反向补录：据「程颢」页的“影响了谁”补入"
+     "note": "反向补录：据「程颢」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -768,49 +776,58 @@
     {
      "name": "周敦颐",
      "id": "cn-songming-zhou-dunyi",
-     "note": "反向补录：据「周敦颐」页的“影响了谁”补入"
+     "note": "反向补录：据「周敦颐」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "张载",
      "id": "cn-songming-zhang-zai",
-     "note": "反向补录：据「张载」页的“影响了谁”补入"
+     "note": "反向补录：据「张载」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "程颢",
      "id": "cn-songming-cheng-hao",
-     "note": "反向补录：据「程颢」页的“影响了谁”补入"
+     "note": "反向补录：据「程颢」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "邵雍",
      "id": "cn-songming-shao-yong",
-     "note": "反向补录：据「邵雍」页的“影响了谁”补入"
+     "note": "反向补录：据「邵雍」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "王安石",
      "id": "cn-songming-wang-anshi",
-     "note": "反向补录：据「王安石」页的“影响了谁”补入"
+     "note": "反向补录：据「王安石」页的“影响了谁”补入",
+     "relation": "批驳"
     },
     {
      "name": "胡宏",
      "id": "cn-songming-hu-hong",
-     "note": "反向补录：据「胡宏」页的“影响了谁”补入"
+     "note": "反向补录：据「胡宏」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "张栻",
      "id": "cn-songming-zhang-shi",
-     "note": "反向补录：据「张栻」页的“影响了谁”补入"
+     "note": "反向补录：据「张栻」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "胡安国",
      "id": "cn-songming-hu-anguo",
-     "note": "反向补录：据「胡安国」页的“影响了谁”补入"
+     "note": "反向补录：据「胡安国」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
     {
      "name": "王守仁",
      "id": "cn-songming-wang-yangming",
-     "note": "由朱子学入而反，另立致良知，并编《朱子晚年定论》以自证"
+     "note": "由朱子学入而反，另立致良知，并编《朱子晚年定论》以自证",
+     "relation": "批驳"
     },
     {
      "name": "刘宗周",
@@ -1165,22 +1182,26 @@
     {
      "name": "程颢",
      "id": "cn-songming-cheng-hao",
-     "note": "反向补录：据「程颢」页的“影响了谁”补入"
+     "note": "反向补录：据「程颢」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "朱熹",
      "id": "cn-songming-zhu-xi",
-     "note": "反向补录：据「朱熹」页的“影响了谁”补入"
+     "note": "反向补录：据「朱熹」页的“影响了谁”补入",
+     "relation": "批驳"
     },
     {
      "name": "陈献章",
      "id": "cn-songming-chen-xianzhang",
-     "note": "反向补录：据「陈献章」页的“影响了谁”补入"
+     "note": "反向补录：据「陈献章」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "湛若水",
      "id": "cn-songming-zhan-ruoshui",
-     "note": "反向补录：据「湛若水」页的“影响了谁”补入"
+     "note": "反向补录：据「湛若水」页的“影响了谁”补入",
+     "relation": "同门相诤"
     },
     {
      "name": "薛瑄",
@@ -1540,7 +1561,8 @@
     {
      "name": "朱熹与理学（吸收其图式）",
      "id": "cn-songming-zhu-xi",
-     "note": "《易》学图式被理学吸收"
+     "note": "《易》学图式被理学吸收",
+     "relation": "承继"
     },
     {
      "name": "术数与历法传统",
@@ -1964,7 +1986,8 @@
     {
      "name": "后世对“荆公新学”的批评与重估",
      "id": "cn-songming-zhu-xi",
-     "note": "朱熹一系对 new 学的批评"
+     "note": "朱熹一系对 new 学的批评",
+     "relation": "批驳"
     }
    ],
    "criticisms": [
@@ -2257,7 +2280,8 @@
     {
      "name": "王阳明",
      "id": "cn-songming-wang-yangming",
-     "note": "致良知与静坐工夫的承继"
+     "note": "致良知与静坐工夫的承继",
+     "relation": "承继"
     },
     {
      "name": "湛若水与江门学派",
@@ -2396,7 +2420,8 @@
     {
      "name": "胡安国",
      "id": "cn-songming-hu-anguo",
-     "note": "反向补录：据「胡安国」页的“影响了谁”补入"
+     "note": "反向补录：据「胡安国」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2409,7 +2434,8 @@
     {
      "name": "朱熹",
      "id": "cn-songming-zhu-xi",
-     "note": "与湖湘学派的论辩（中和之辩）"
+     "note": "与湖湘学派的论辩（中和之辩）",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -2545,7 +2571,8 @@
     {
      "name": "朱熹",
      "id": "cn-songming-zhu-xi",
-     "note": "与之论辩“中和”，后来自立“中和新说”"
+     "note": "与之论辩“中和”，后来自立“中和新说”",
+     "relation": "承继"
     },
     {
      "name": "吕祖谦与浙东学术",
@@ -3108,7 +3135,8 @@
     {
      "name": "王阳明",
      "id": "cn-songming-wang-yangming",
-     "note": "与之论辩格物，往复多次"
+     "note": "与之论辩格物，往复多次",
+     "relation": "同门相诤"
     },
     {
      "name": "明代中后期的甘泉学派",
@@ -3253,12 +3281,14 @@
     {
      "name": "胡宏、胡寅（其子）",
      "id": "cn-songming-hu-hong",
-     "note": "湖湘之学由其家学而开"
+     "note": "湖湘之学由其家学而开",
+     "relation": "承继"
     },
     {
      "name": "朱熹（其评议者）",
      "id": "cn-songming-zhu-xi",
-     "note": "对“以例说经”有所保留"
+     "note": "对“以例说经”有所保留",
+     "relation": "承继"
     },
     {
      "name": "元明科举的《春秋》义",

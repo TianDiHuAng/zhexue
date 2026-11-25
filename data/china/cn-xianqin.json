@@ -96,7 +96,8 @@
     {
      "name": "墨子",
      "id": "cn-xianqin-mozi",
-     "note": "以“兼爱”批评儒者之礼，属批评性回应"
+     "note": "以“兼爱”批评儒者之礼，属批评性回应",
+     "relation": "批驳"
     }
    ],
    "criticisms": [
@@ -464,7 +465,8 @@
     {
      "name": "孔子",
      "id": "cn-xianqin-kongzi",
-     "note": "反向补录：据「孔子」页的“影响了谁”补入"
+     "note": "反向补录：据「孔子」页的“影响了谁”补入",
+     "relation": "批驳"
     }
    ],
    "influenced": [
@@ -655,7 +657,8 @@
     {
      "name": "荀子",
      "id": "cn-xianqin-xunzi",
-     "note": "以性恶说反其性善论"
+     "note": "以性恶说反其性善论",
+     "relation": "批驳"
     },
     {
      "name": "宋明理学（朱熹、陆九渊）",
@@ -832,7 +835,8 @@
     {
      "name": "惠施",
      "id": "cn-xianqin-hui-shi",
-     "note": "反向补录：据「惠施」页的“影响了谁”补入"
+     "note": "反向补录：据「惠施」页的“影响了谁”补入",
+     "relation": "同门相诤"
     },
     {
      "name": "杨朱",
@@ -1021,7 +1025,8 @@
     {
      "name": "孟轲",
      "id": "cn-xianqin-mengzi",
-     "note": "反向补录：据「孟轲」页的“影响了谁”补入"
+     "note": "反向补录：据「孟轲」页的“影响了谁”补入",
+     "relation": "批驳"
     }
    ],
    "influenced": [
@@ -1223,12 +1228,14 @@
     {
      "name": "商鞅",
      "id": "cn-xianqin-shang-yang",
-     "note": "反向补录：据「商鞅」页的“影响了谁”补入"
+     "note": "反向补录：据「商鞅」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "慎到",
      "id": "cn-xianqin-shen-dao",
-     "note": "反向补录：据「慎到」页的“影响了谁”补入"
+     "note": "反向补录：据「慎到」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1408,7 +1415,8 @@
     {
      "name": "惠施",
      "id": "cn-xianqin-hui-shi",
-     "note": "反向补录：据「惠施」页的“影响了谁”补入"
+     "note": "反向补录：据「惠施」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1591,12 +1599,14 @@
     {
      "name": "公孙龙（“离坚白”一路，与之相对）",
      "id": "cn-xianqin-gongsunlong",
-     "note": "同为名家而路径相反：一主合同异，一主离坚白"
+     "note": "同为名家而路径相反：一主合同异，一主离坚白",
+     "relation": "承继"
     },
     {
      "name": "庄子（与之辩论而受启发）",
      "id": "cn-xianqin-zhuangzi",
-     "note": "《庄子·天下》评其说"
+     "note": "《庄子·天下》评其说",
+     "relation": "同门相诤"
     }
    ],
    "criticisms": [
@@ -1886,7 +1896,8 @@
     {
      "name": "韩非",
      "id": "cn-xianqin-hanfei",
-     "note": "承其法论而补以术与势"
+     "note": "承其法论而补以术与势",
+     "relation": "承继"
     },
     {
      "name": "秦制的制度化",
@@ -2027,7 +2038,8 @@
     {
      "name": "韩非",
      "id": "cn-xianqin-hanfei",
-     "note": "承其“势”论而合以法、术"
+     "note": "承其“势”论而合以法、术",
+     "relation": "承继"
     },
     {
      "name": "《管子》与黄老帛书",

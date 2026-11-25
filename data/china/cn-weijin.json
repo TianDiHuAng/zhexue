@@ -101,12 +101,14 @@
     {
      "name": "郭象",
      "id": "cn-weijin-guoxiang",
-     "note": "承其本末体用之思而反其贵无，转出独化之说"
+     "note": "承其本末体用之思而反其贵无，转出独化之说",
+     "relation": "承继"
     },
     {
      "name": "嵇康",
      "id": "cn-weijin-jikang",
-     "note": "同以《老》《庄》为典，而把问题从本末转向名教与自然"
+     "note": "同以《老》《庄》为典，而把问题从本末转向名教与自然",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -300,7 +302,8 @@
     {
      "name": "郭象",
      "id": "cn-weijin-guoxiang",
-     "note": "承正始清谈的问题意识，而反其贵无之说"
+     "note": "承正始清谈的问题意识，而反其贵无之说",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -465,24 +468,28 @@
     {
      "name": "王弼",
      "id": "cn-weijin-wangbi",
-     "note": "反向补录：据「王弼」页的“影响了谁”补入"
+     "note": "反向补录：据「王弼」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "阮籍",
      "id": "cn-weijin-ruanji",
-     "note": "反向补录：据「阮籍」页的“影响了谁”补入"
+     "note": "反向补录：据「阮籍」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
     {
      "name": "阮籍",
      "id": "cn-weijin-ruanji",
-     "note": "同为竹林之游，放达一路相互呼应"
+     "note": "同为竹林之游，放达一路相互呼应",
+     "relation": "承继"
     },
     {
      "name": "郭象",
      "id": "cn-weijin-guoxiang",
-     "note": "郭象反对越名教，可视为对嵇康一路的反拨"
+     "note": "郭象反对越名教，可视为对嵇康一路的反拨",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -653,19 +660,22 @@
     {
      "name": "嵇康",
      "id": "cn-weijin-jikang",
-     "note": "反向补录：据「嵇康」页的“影响了谁”补入"
+     "note": "反向补录：据「嵇康」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
     {
      "name": "嵇康",
      "id": "cn-weijin-jikang",
-     "note": "竹林同游，放达一路相契"
+     "note": "竹林同游，放达一路相契",
+     "relation": "承继"
     },
     {
      "name": "向秀",
      "id": "cn-weijin-xiangxiu",
-     "note": "同预竹林之游，注《庄》之风与之相关"
+     "note": "同预竹林之游，注《庄》之风与之相关",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -831,7 +841,8 @@
     {
      "name": "阮籍",
      "id": "cn-weijin-ruanji",
-     "note": "反向补录：据「阮籍」页的“影响了谁”补入"
+     "note": "反向补录：据「阮籍」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1001,22 +1012,26 @@
     {
      "name": "王弼",
      "id": "cn-weijin-wangbi",
-     "note": "反向补录：据「王弼」页的“影响了谁”补入"
+     "note": "反向补录：据「王弼」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "何晏",
      "id": "cn-weijin-heyan",
-     "note": "反向补录：据「何晏」页的“影响了谁”补入"
+     "note": "反向补录：据「何晏」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "嵇康",
      "id": "cn-weijin-jikang",
-     "note": "反向补录：据「嵇康」页的“影响了谁”补入"
+     "note": "反向补录：据「嵇康」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "裴頠",
      "id": "cn-weijin-pei-wei",
-     "note": "反向补录：据「裴頠」页的“影响了谁”补入"
+     "note": "反向补录：据「裴頠」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1178,7 +1193,8 @@
     {
      "name": "郭象",
      "id": "cn-weijin-guoxiang",
-     "note": "同主“无不能生有”，而以独化代之，去掉“以有为体”的痕迹"
+     "note": "同主“无不能生有”，而以独化代之，去掉“以有为体”的痕迹",
+     "relation": "承继"
     },
     {
      "name": "僧肇",
@@ -1334,7 +1350,8 @@
     {
      "name": "刘劭",
      "id": "cn-weijin-liu-shao",
-     "note": "反向补录：据「刘劭」页的“影响了谁”补入"
+     "note": "反向补录：据「刘劭」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1769,7 +1786,8 @@
     {
      "name": "慧远",
      "id": "cn-weijin-huiyuan",
-     "note": "反向补录：据「慧远」页的“影响了谁”补入"
+     "note": "反向补录：据「慧远」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1921,7 +1939,8 @@
     {
      "name": "僧肇与三论学",
      "id": "cn-weijin-sengzhao",
-     "note": "般若学的义理发展"
+     "note": "般若学的义理发展",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -2055,7 +2074,8 @@
     {
      "name": "九品中正制与魏晋才性四本之辩",
      "id": "cn-weijin-ouyang-jian",
-     "note": "才性同异合的讨论"
+     "note": "才性同异合的讨论",
+     "relation": "承继"
     },
     {
      "name": "后世人才学与人物志研究",

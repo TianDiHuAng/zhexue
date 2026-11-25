@@ -279,12 +279,14 @@
     {
      "name": "康有为",
      "id": "cn-qingmod-kang-youwei",
-     "note": "清末维新者重刊《明夷待访录》以言民权，梁启超记其事"
+     "note": "清末维新者重刊《明夷待访录》以言民权，梁启超记其事",
+     "relation": "私淑"
     },
     {
      "name": "谭嗣同",
      "id": "cn-qingmod-tan-sitong",
-     "note": "《仁学》斥君主为“独夫”，语脉近《原君》"
+     "note": "《仁学》斥君主为“独夫”，语脉近《原君》",
+     "relation": "私淑"
     }
    ],
    "criticisms": [
@@ -463,7 +465,8 @@
     {
      "name": "戴震",
      "id": "cn-qingmod-dai-zhen",
-     "note": "皖派考据由音韵、字义入义理，方法上承亭林"
+     "note": "皖派考据由音韵、字义入义理，方法上承亭林",
+     "relation": "承继"
     },
     {
      "name": "乾嘉考据学（惠栋、钱大昕一系）",
@@ -646,7 +649,8 @@
     {
      "name": "顾炎武",
      "id": "cn-qingmod-gu-yanwu",
-     "note": "反向补录：据「顾炎武」页的“影响了谁”补入"
+     "note": "反向补录：据「顾炎武」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "颜元",
@@ -846,17 +850,20 @@
     {
      "name": "黄宗羲",
      "id": "cn-qingmod-huang-zongxi",
-     "note": "反向补录：据「黄宗羲」页的“影响了谁”补入"
+     "note": "反向补录：据「黄宗羲」页的“影响了谁”补入",
+     "relation": "私淑"
     },
     {
      "name": "魏源",
      "id": "cn-qingmod-wei-yuan",
-     "note": "反向补录：据「魏源」页的“影响了谁”补入"
+     "note": "反向补录：据「魏源」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "龚自珍",
      "id": "cn-qingmod-gong-zizhen",
-     "note": "反向补录：据「龚自珍」页的“影响了谁”补入"
+     "note": "反向补录：据「龚自珍」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1034,7 +1041,8 @@
     {
      "name": "黄宗羲",
      "id": "cn-qingmod-huang-zongxi",
-     "note": "反向补录：据「黄宗羲」页的“影响了谁”补入"
+     "note": "反向补录：据「黄宗羲」页的“影响了谁”补入",
+     "relation": "私淑"
     }
    ],
    "influenced": [
@@ -1219,7 +1227,8 @@
     {
      "name": "张之洞",
      "id": "cn-qingmod-zhang-zhidong",
-     "note": "反向补录：据「张之洞」页的“影响了谁”补入"
+     "note": "反向补录：据「张之洞」页的“影响了谁”补入",
+     "relation": "批驳"
     }
    ],
    "influenced": [
@@ -1392,17 +1401,20 @@
     {
      "name": "段玉裁",
      "id": "cn-qingmod-duan-yucai",
-     "note": "反向补录：据「段玉裁」页的“影响了谁”补入"
+     "note": "反向补录：据「段玉裁」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "俞樾",
      "id": "cn-qingmod-yu-yue",
-     "note": "反向补录：据「俞樾」页的“影响了谁”补入"
+     "note": "反向补录：据「俞樾」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "孙诒让",
      "id": "cn-qingmod-sun-yirang",
-     "note": "反向补录：据「孙诒让」页的“影响了谁”补入"
+     "note": "反向补录：据「孙诒让」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1576,7 +1588,8 @@
     {
      "name": "洋务运动与维新思潮",
      "id": "cn-qingmod-kang-youwei",
-     "note": "“师夷长技”与变法的先声"
+     "note": "“师夷长技”与变法的先声",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -1716,7 +1729,8 @@
     {
      "name": "康有为与维新变法",
      "id": "cn-qingmod-kang-youwei",
-     "note": "今文经学与改制的先声"
+     "note": "今文经学与改制的先声",
+     "relation": "承继"
     },
     {
      "name": "晚清诗文与思想界",
@@ -2842,7 +2856,8 @@
     {
      "name": "张之洞",
      "id": "cn-qingmod-zhang-zhidong",
-     "note": "反向补录：据「张之洞」页的“影响了谁”补入"
+     "note": "反向补录：据「张之洞」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -3149,12 +3164,14 @@
     {
      "name": "梁启超（其论敌）",
      "id": "cn-qingmod-liang-qichao",
-     "note": "以“新民”论与之相对"
+     "note": "以“新民”论与之相对",
+     "relation": "承继"
     },
     {
      "name": "严复（其批评者）",
      "id": "cn-qingmod-yan-fu",
-     "note": "讥其“牛体马用”"
+     "note": "讥其“牛体马用”",
+     "relation": "批驳"
     },
     {
      "name": "晚清学制改革",
@@ -3604,7 +3621,8 @@
     {
      "name": "章太炎（其承）",
      "id": "cn-qingmod-zhang-taiyan",
-     "note": "以小学为治国故的根柢"
+     "note": "以小学为治国故的根柢",
+     "relation": "承继"
     },
     {
      "name": "现代的文字学与古音学",
@@ -4052,7 +4070,8 @@
     {
      "name": "章太炎（其弟子）",
      "id": "cn-qingmod-zhang-taiyan",
-     "note": "以小学治国故，然亦批评其例之滥"
+     "note": "以小学治国故，然亦批评其例之滥",
+     "relation": "承继"
     },
     {
      "name": "孙诒让（其同调）",
@@ -4213,7 +4232,8 @@
     {
      "name": "章太炎（其同代）",
      "id": "cn-qingmod-zhang-taiyan",
-     "note": "同以小学治国故，而取径不同"
+     "note": "同以小学治国故，而取径不同",
+     "relation": "承继"
     },
     {
      "name": "现代的周礼学与甲骨学",
@@ -4366,7 +4386,8 @@
     {
      "name": "罗振玉",
      "id": "cn-qingmod-luo-zhenyu",
-     "note": "反向补录：据「罗振玉」页的“影响了谁”补入"
+     "note": "反向补录：据「罗振玉」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -4524,7 +4545,8 @@
     {
      "name": "王国维（其合作者）",
      "id": "cn-qingmod-wang-guowei",
-     "note": "由其提供材料而共治简牍"
+     "note": "由其提供材料而共治简牍",
+     "relation": "承继"
     },
     {
      "name": "董作宾、郭沫若等（其后）",
@@ -4975,7 +4997,8 @@
     {
      "name": "袁枚",
      "id": "cn-qingmod-yuan-mei",
-     "note": "反向补录：据「袁枚」页的“影响了谁”补入"
+     "note": "反向补录：据「袁枚」页的“影响了谁”补入",
+     "relation": "批驳"
     }
    ],
    "influenced": [
@@ -5141,7 +5164,8 @@
     {
      "name": "沈德潜一系的反批评",
      "id": "cn-qingmod-shen-deqian",
-     "note": "以其说为“轻佻”"
+     "note": "以其说为“轻佻”",
+     "relation": "批驳"
     }
    ],
    "criticisms": [

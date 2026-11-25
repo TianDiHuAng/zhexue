@@ -82,7 +82,8 @@
     {
      "name": "贾谊",
      "id": "cn-lianghan-jia-yi",
-     "note": "反向补录：据「贾谊」页的“影响了谁”补入"
+     "note": "反向补录：据「贾谊」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -404,7 +405,8 @@
     {
      "name": "桓谭",
      "id": "cn-lianghan-huan-tan",
-     "note": "反向补录：据「桓谭」页的“影响了谁”补入"
+     "note": "反向补录：据「桓谭」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -578,7 +580,8 @@
     {
      "name": "刘歆",
      "id": "cn-lianghan-liu-xin",
-     "note": "反向补录：据「刘歆」页的“影响了谁”补入"
+     "note": "反向补录：据「刘歆」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -915,14 +918,16 @@
     {
      "name": "刘向",
      "id": "cn-lianghan-liu-xiang",
-     "note": "反向补录：据「刘向」页的“影响了谁”补入"
+     "note": "反向补录：据「刘向」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
     {
      "name": "郑玄",
      "id": "cn-lianghan-zheng-xuan",
-     "note": "承古文经学而立注，古文由此取得压倒今文的地位"
+     "note": "承古文经学而立注，古文由此取得压倒今文的地位",
+     "relation": "承继"
     },
     {
      "name": "贾逵、马融、许慎一系",
@@ -1080,7 +1085,8 @@
     {
      "name": "荀悦",
      "id": "cn-lianghan-xun-yue",
-     "note": "《申鉴》论政体、时事，与王符的考绩核实之说同一关切"
+     "note": "《申鉴》论政体、时事，与王符的考绩核实之说同一关切",
+     "relation": "承继"
     },
     {
      "name": "崔寔、仲长统等东汉末政论家",
@@ -1239,7 +1245,8 @@
     {
      "name": "王符",
      "id": "cn-lianghan-wang-fu",
-     "note": "反向补录：据「王符」页的“影响了谁”补入"
+     "note": "反向补录：据「王符」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1395,7 +1402,8 @@
     {
      "name": "王充",
      "id": "cn-lianghan-wang-chong",
-     "note": "“疾虚妄”与气自然论的先驱"
+     "note": "“疾虚妄”与气自然论的先驱",
+     "relation": "承继"
     },
     {
      "name": "范缜《神灭论》（远承）",
@@ -1529,14 +1537,16 @@
     {
      "name": "陆贾",
      "id": "cn-lianghan-lu-jia",
-     "note": "反向补录：据「陆贾」页的“影响了谁”补入"
+     "note": "反向补录：据「陆贾」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
     {
      "name": "董仲舒与汉制儒学",
      "id": "cn-lianghan-dong-zhongshu",
-     "note": "制度与教化的结合"
+     "note": "制度与教化的结合",
+     "relation": "承继"
     },
     {
      "name": "后世“过秦”论传统",
@@ -1814,7 +1824,8 @@
     {
      "name": "贾谊",
      "id": "cn-lianghan-jia-yi",
-     "note": "承其“守天下以仁义”的思路而更重礼制"
+     "note": "承其“守天下以仁义”的思路而更重礼制",
+     "relation": "承继"
     },
     {
      "name": "汉初黄老之治",
@@ -2094,12 +2105,14 @@
     {
      "name": "刘歆",
      "id": "cn-lianghan-liu-xin",
-     "note": "其子，倡古文经学"
+     "note": "其子，倡古文经学",
+     "relation": "承继"
     },
     {
      "name": "班固与《汉书》",
      "id": "cn-lianghan-ban-gu",
-     "note": "承其校书之业而批评其灾异说"
+     "note": "承其校书之业而批评其灾异说",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -2234,12 +2247,14 @@
     {
      "name": "刘向",
      "id": "cn-lianghan-liu-xiang",
-     "note": "反向补录：据「刘向」页的“影响了谁”补入"
+     "note": "反向补录：据「刘向」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "司马迁",
      "id": "cn-lianghan-sima-qian",
-     "note": "反向补录：据「司马迁」页的“影响了谁”补入"
+     "note": "反向补录：据「司马迁」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2386,7 +2401,8 @@
     {
      "name": "班固与《汉书》",
      "id": "cn-lianghan-ban-gu",
-     "note": "承其体例而改为断代，并批评其“是非颇谬于圣人”"
+     "note": "承其体例而改为断代，并批评其“是非颇谬于圣人”",
+     "relation": "承继"
     },
     {
      "name": "后世史学与“发愤著书”传统",

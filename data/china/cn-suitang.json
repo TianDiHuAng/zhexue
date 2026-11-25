@@ -804,7 +804,8 @@
     {
      "name": "神秀",
      "id": "cn-suitang-shenxiu",
-     "note": "反向补录：据「神秀」页的“影响了谁”补入"
+     "note": "反向补录：据「神秀」页的“影响了谁”补入",
+     "relation": "同门相诤"
     }
    ],
    "influenced": [
@@ -1289,22 +1290,26 @@
     {
      "name": "王通",
      "id": "cn-suitang-wang-tong",
-     "note": "反向补录：据「王通」页的“影响了谁”补入"
+     "note": "反向补录：据「王通」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "法琳",
      "id": "cn-suitang-falin",
-     "note": "反向补录：据「法琳」页的“影响了谁”补入"
+     "note": "反向补录：据「法琳」页的“影响了谁”补入",
+     "relation": "批驳"
     },
     {
      "name": "柳宗元",
      "id": "cn-suitang-liu-zongyuan",
-     "note": "反向补录：据「柳宗元」页的“影响了谁”补入"
+     "note": "反向补录：据「柳宗元」页的“影响了谁”补入",
+     "relation": "批驳"
     },
     {
      "name": "刘禹锡",
      "id": "cn-suitang-liu-yuxi",
-     "note": "反向补录：据「刘禹锡」页的“影响了谁”补入"
+     "note": "反向补录：据「刘禹锡」页的“影响了谁”补入",
+     "relation": "批驳"
     }
    ],
    "influenced": [
@@ -1595,7 +1600,8 @@
     {
      "name": "韩愈与道统论",
      "id": "cn-suitang-han-yu",
-     "note": "续接道统的意识"
+     "note": "续接道统的意识",
+     "relation": "承继"
     },
     {
      "name": "宋明理学",
@@ -1876,7 +1882,8 @@
     {
      "name": "南宗兴起后的“渐”叙述",
      "id": "cn-suitang-huineng",
-     "note": "南北分宗中作为“渐”的代表"
+     "note": "南北分宗中作为“渐”的代表",
+     "relation": "同门相诤"
     }
    ],
    "criticisms": [
@@ -2470,7 +2477,8 @@
     {
      "name": "韩愈（其后续）",
      "id": "cn-suitang-han-yu",
-     "note": "中唐的排佛承其余绪（立场相反）"
+     "note": "中唐的排佛承其余绪（立场相反）",
+     "relation": "批驳"
     },
     {
      "name": "后世的佛道论衡",
@@ -2620,7 +2628,8 @@
     {
      "name": "韩愈（其论友）",
      "id": "cn-suitang-han-yu",
-     "note": "二人往复辩难“天”之说"
+     "note": "二人往复辩难“天”之说",
+     "relation": "批驳"
     },
     {
      "name": "宋代的古文与史论",
@@ -2765,7 +2774,8 @@
     {
      "name": "韩愈（其论敌）",
      "id": "cn-suitang-han-yu",
-     "note": "其“天命”之说为刘所驳"
+     "note": "其“天命”之说为刘所驳",
+     "relation": "批驳"
     },
     {
      "name": "后世的政治批判",
