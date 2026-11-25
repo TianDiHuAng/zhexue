@@ -13238,6 +13238,62 @@
    "sort_year": 550
   },
   {
+   "id": "work-pramanassamuccaya",
+   "title": "《集量论》",
+   "title_original": "Pramāṇasamuccaya（Dignāga）",
+   "tradition": "india",
+   "date_display": "约6世纪（陈那）",
+   "structure": "六品：现量品、为自比量品、为他比量品、喻品、遮诠品、过类品；以“量”为纲，末辨似因与堕负。",
+   "core_arguments": [
+    "**因三相即遍充**：推理的有效性由因与所立之法的遍充关系保证",
+    "**知觉离分别**：纯粹知觉无意言构造",
+    "**概念由遮诠**：语词不指共相，而表示“非非牛”一类的排除"
+   ],
+   "key_points": [
+    {
+     "locator": "现量品",
+     "point": "离分别的知觉"
+    },
+    {
+     "locator": "为自比量品",
+     "point": "因三相"
+    },
+    {
+     "locator": "遮诠品",
+     "point": "apoha 的成立"
+    },
+    {
+     "locator": "过类品",
+     "point": "似因与堕负"
+    }
+   ],
+   "editions": [
+    "梵本残卷与藏译；英译研究（Hattori 等）；**汉译无**"
+   ],
+   "related_people": [
+    "in-india-dignaga",
+    "in-india-vasubandhu",
+    "in-india-kumarila"
+   ],
+   "misreadings": [
+    {
+     "claim": "汉传因明所据即《集量论》",
+     "why": "汉传所据为**《因明正理门论》**（玄奘译），《集量论》**汉译无**；二者须分辨，不可混为一书。"
+    },
+    {
+     "claim": "其书是“逻辑教本”",
+     "why": "其书以**量**为纲（知识的手段），逻辑（因三相）只是其中的比量一部分；故其为知识论著作，非纯逻辑教本。"
+    }
+   ],
+   "sources": [
+    "sep-logic-india",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Logic in Classical Indian Philosophy”转述，**未读梵本残卷与藏译**；六品的品次与“过类品”的内容须核校订本与研究。",
+   "sort_year": 550
+  },
+  {
    "id": "work-mahayana-samgraha",
    "title": "《摄大乘论》",
    "title_original": "Mahāyānasaṃgraha（攝大乘論）",

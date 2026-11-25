@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1829,
+  "entries": 1831,
   "by_level": {
    "L2": 793,
-   "L1": 1036
+   "L1": 1038
   },
   "doctrine": {
-   "total": 313,
-   "detail": 313,
+   "total": 314,
+   "detail": 314,
    "auto": 0
   },
-  "needs_verification": 1036,
-  "sources": 428,
-  "sources_verified": 428
+  "needs_verification": 1038,
+  "sources": 429,
+  "sources_verified": 429
  },
  "units": [
   {
@@ -83,10 +83,10 @@
    "unit_id": "in-india",
    "title": "印度哲学（正统六派与佛教）",
    "region": "india",
-   "philosophers": 5,
+   "philosophers": 6,
    "concepts": 7,
    "debates": 2,
-   "philosophers_slot": "8 上限，余 3"
+   "philosophers_slot": "8 上限，余 2"
   },
   {
    "unit_id": "gr-19c",
@@ -4643,6 +4643,17 @@
    "id": "in-india-shankara",
    "type": "philosopher",
    "title": "商羯罗",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-dignaga",
+   "type": "philosopher",
+   "title": "陈那",
    "container": "in-india",
    "level": "L1",
    "sources": 2,
@@ -12314,6 +12325,17 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "work-pramanassamuccaya",
+   "type": "work",
+   "title": "《集量论》",
+   "container": "india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": true,
    "updated": "2026-11-25"
   },
