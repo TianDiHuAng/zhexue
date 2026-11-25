@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-26",
  "totals": {
-  "entries": 1989,
+  "entries": 1997,
   "by_level": {
-   "L2": 793,
-   "L1": 1196
+   "L1": 1221,
+   "L2": 776
   },
   "doctrine": {
    "total": 326,
    "detail": 326,
    "auto": 0
   },
-  "needs_verification": 1196,
+  "needs_verification": 1221,
   "sources": 432,
   "sources_verified": 432
  },
@@ -167,10 +167,10 @@
    "type": "philosopher",
    "title": "董仲舒",
    "container": "cn-lianghan",
-   "level": "L2",
+   "level": "L1",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -178,10 +178,10 @@
    "type": "philosopher",
    "title": "扬雄",
    "container": "cn-lianghan",
-   "level": "L2",
+   "level": "L1",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -189,10 +189,10 @@
    "type": "philosopher",
    "title": "王充",
    "container": "cn-lianghan",
-   "level": "L2",
+   "level": "L1",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -332,10 +332,10 @@
    "type": "philosopher",
    "title": "司马迁",
    "container": "cn-lianghan",
-   "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
-   "needs_verification": false,
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -2114,10 +2114,10 @@
    "type": "philosopher",
    "title": "周敦颐",
    "container": "cn-songming",
-   "level": "L2",
+   "level": "L1",
    "sources": 4,
    "verified_sources": 4,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -2125,10 +2125,10 @@
    "type": "philosopher",
    "title": "张载",
    "container": "cn-songming",
-   "level": "L2",
+   "level": "L1",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -2136,10 +2136,10 @@
    "type": "philosopher",
    "title": "程颢",
    "container": "cn-songming",
-   "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
-   "needs_verification": false,
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -2158,10 +2158,10 @@
    "type": "philosopher",
    "title": "朱熹",
    "container": "cn-songming",
-   "level": "L2",
+   "level": "L1",
    "sources": 4,
    "verified_sources": 4,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -2180,10 +2180,10 @@
    "type": "philosopher",
    "title": "王守仁",
    "container": "cn-songming",
-   "level": "L2",
+   "level": "L1",
    "sources": 4,
    "verified_sources": 4,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -4094,10 +4094,10 @@
    "type": "philosopher",
    "title": "孔子",
    "container": "cn-xianqin",
-   "level": "L2",
-   "sources": 3,
-   "verified_sources": 3,
-   "needs_verification": false,
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -4116,10 +4116,10 @@
    "type": "philosopher",
    "title": "墨翟",
    "container": "cn-xianqin",
-   "level": "L2",
+   "level": "L1",
    "sources": 2,
-   "verified_sources": 3,
-   "needs_verification": false,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -4127,10 +4127,10 @@
    "type": "philosopher",
    "title": "孟轲",
    "container": "cn-xianqin",
-   "level": "L2",
+   "level": "L1",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -4149,10 +4149,10 @@
    "type": "philosopher",
    "title": "荀况",
    "container": "cn-xianqin",
-   "level": "L2",
+   "level": "L1",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -4160,10 +4160,10 @@
    "type": "philosopher",
    "title": "韩非",
    "container": "cn-xianqin",
-   "level": "L2",
+   "level": "L1",
    "sources": 2,
-   "verified_sources": 3,
-   "needs_verification": false,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -8285,10 +8285,10 @@
    "type": "philosopher",
    "title": "伊壁鸠鲁",
    "container": "gr-hellenistic",
-   "level": "L2",
+   "level": "L1",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -8341,8 +8341,8 @@
    "title": "塞涅卡",
    "container": "gr-hellenistic",
    "level": "L1",
-   "sources": 3,
-   "verified_sources": 3,
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-26"
   },
@@ -8494,10 +8494,10 @@
    "type": "concept",
    "title": "世界公民",
    "container": "gr-hellenistic",
-   "level": "L2",
+   "level": "L1",
    "sources": 2,
    "verified_sources": 2,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -11332,10 +11332,10 @@
    "type": "work",
    "title": "《大学》",
    "container": "china",
-   "level": "L2",
+   "level": "L1",
    "sources": 3,
    "verified_sources": 3,
-   "needs_verification": false,
+   "needs_verification": true,
    "updated": "2026-11-26"
   },
   {
@@ -21495,6 +21495,94 @@
    "id": "cmp-invention-zuo",
    "type": "comparative",
    "title": "“发明”与“作”：新东西从哪来？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-forgetting-yiwang",
+   "type": "comparative",
+   "title": "“遗忘”与“忘”：忘记一定是坏事吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-waiting-dai",
+   "type": "comparative",
+   "title": "“等待”与“俟”：人该主动，还是该等？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-anger-nu",
+   "type": "comparative",
+   "title": "“愤怒”与“怒”：该不该发火？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-insult-wuru",
+   "type": "comparative",
+   "title": "“侮辱”与“辱”：受辱之后该怎样？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-joke-wan",
+   "type": "comparative",
+   "title": "“玩笑”与“谑”：玩笑的界限在哪里？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-frugality-jian",
+   "type": "comparative",
+   "title": "“节俭”与“俭”：省钱是美德，还是德性？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-trust-xin",
+   "type": "comparative",
+   "title": "“信任”与“信”：凭什么信一个人？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-despair-juewang",
+   "type": "comparative",
+   "title": "“绝望”与“绝望”：无路可走时，还剩什么？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
