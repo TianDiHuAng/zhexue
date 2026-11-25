@@ -1,6 +1,6 @@
 {
- "last_health_check_round": 394,
+ "last_health_check_round": 399,
  "health_check_every": 5,
- "next_health_check_round": 399,
- "note": "F步体检每5轮一次；第53—81次按点执行（259…384、389、394轮）。含 relcheck 的 SUSPECT。每轮开头先读本文件。"
+ "next_health_check_round": 404,
+ "note": "F步体检每5轮一次；第53—82次按点执行（259…389、394、399轮）。含 relcheck 的 SUSPECT。"
 }
