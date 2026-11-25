@@ -11883,6 +11883,62 @@
    "sort_year": 440
   },
   {
+   "id": "work-nyaya-bhasya",
+   "title": "《正理注》",
+   "title_original": "Nyāya-bhāṣya（Vātsyāyana／Pakṣilasvāmin）",
+   "tradition": "india",
+   "date_display": "约5世纪（筏差衍那）",
+   "structure": "依《正理经》五卷两“日”逐经注释：卷一论量与所量（含 1.1.4 知觉定义的展开），卷二论四量，卷三论所量与自我，卷四论知识之生与论辩，卷五论诡论与堕负。",
+   "core_arguments": [
+    "**喻支须兼举同法与异法**：只举同喻则反例无从排除",
+    "**“不可言说”为知觉的纯粹一级**：带概念的认知另立一级（二阶段说之端）",
+    "**十六谛须读作程序**：由疑而起诤、由思择而决了，后九谛为程序的失败样式"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "知觉定义的展开"
+    },
+    {
+     "locator": "卷二",
+     "point": "四量的检讨"
+    },
+    {
+     "locator": "卷三",
+     "point": "所量与自我"
+    },
+    {
+     "locator": "卷五",
+     "point": "似因与堕负"
+    }
+   ],
+   "editions": [
+    "梵校本（Taranatha & Amarendramohan 1936）；英译 Jha 1913；法译 Angot 2009"
+   ],
+   "related_people": [
+    "in-india-vatsyayana",
+    "in-india-gautama",
+    "in-india-dignaga"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书只是“逐句解字”",
+     "why": "其书把经的纲要展开为**论证与程序**（二阶段知觉、同异二喻皆出于此），是体系的建构，非字面训释。"
+    },
+    {
+     "claim": "注中的引申可径归乔答摩",
+     "why": "经体极简，义理多由注展开；引用须注明是**经**还是**注**，不可把注说当作经说。"
+    }
+   ],
+   "sources": [
+    "sep-logic-india",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Logic in Classical Indian Philosophy”转述，**未读《正理注》梵本**；“二阶段知觉说”是否已见于其注（抑或后出）学界有不同意见，本页作“之端”而不作定论。",
+   "sort_year": 450
+  },
+  {
    "id": "work-zhengao",
    "title": "《真诰》",
    "title_original": "真誥",
@@ -17722,6 +17778,62 @@
    ],
    "needs_verification": true,
    "pending_notes": "《二程遗书》的卷数与朱熹编定本的原貌须核中华书局《二程集》；二程思想的异同须逐条分辨（不可一概而论）。",
+   "sort_year": 1120
+  },
+  {
+   "id": "work-sri-bhasya",
+   "title": "《吉祥注》",
+   "title_original": "Śrī Bhāṣya（Rāmānuja）",
+   "tradition": "india",
+   "date_display": "约12世纪（罗摩奴阇）",
+   "structure": "依《梵经》四编逐经注释：一编立限制不二论并驳不二论与差别不二论，二编答辩诸派（含数论、瑜伽行与弥曼差），三编论修行的次第，四编论解脱之果。",
+   "core_arguments": [
+    "以**意识的意向性**驳“纯意识”：凡意识皆有所对，故无离一切差别的梵",
+    "以**同位predication**解“汝即彼”：所指为一而所显有别，故同一与差别并存",
+    "以**个体先于无明**驳不二论：无明须有能无明者，故个体必先于无明而在"
+   ],
+   "key_points": [
+    {
+     "locator": "一编",
+     "point": "立限制不二论并破不二论"
+    },
+    {
+     "locator": "二编",
+     "point": "答辩诸派"
+    },
+    {
+     "locator": "三编",
+     "point": "修行与 bhakti"
+    },
+    {
+     "locator": "四编",
+     "point": "解脱与恩典"
+    }
+   ],
+   "editions": [
+    "校订本（Melkote 1985）；Thibaut 英译（Sacred Books of the East 48）"
+   ],
+   "related_people": [
+    "in-india-ramanuja",
+    "in-india-shankara",
+    "in-india-asanga"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书与商羯罗《梵经注》同属一系",
+     "why": "二书同名而立场相反：商羯罗主**不二**（梵无属性、我梵同一），罗摩奴阇主**限制不二**（梵有属性、个体实有为其样式）；引用须注明作者。"
+    },
+    {
+     "claim": "其书以“虔信”取代理性论证",
+     "why": "其书以**意识的意向性、属性、个体先于无明、同位predication**诸论证立说，并把 bhakti 立为认识状态；故为知识论与形而上学的著作，非劝信之文。"
+    }
+   ],
+   "sources": [
+    "iep-ramanuja",
+    "sep-shankara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 IEP “Ramanuja”转述，**未读梵本与 Thibaut 英译**；四编的分卷与其对诸派答辩的具体内容须核校订本。",
    "sort_year": 1120
   },
   {

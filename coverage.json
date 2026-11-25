@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1848,
+  "entries": 1850,
   "by_level": {
    "L2": 793,
-   "L1": 1055
+   "L1": 1057
   },
   "doctrine": {
    "total": 320,
    "detail": 320,
    "auto": 0
   },
-  "needs_verification": 1055,
+  "needs_verification": 1057,
   "sources": 430,
   "sources_verified": 430
  },
@@ -12153,6 +12153,17 @@
    "updated": "2026-11-25"
   },
   {
+   "id": "work-nyaya-bhasya",
+   "type": "work",
+   "title": "《正理注》",
+   "container": "india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
    "id": "work-zhengao",
    "type": "work",
    "title": "《真诰》",
@@ -13282,6 +13293,17 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "work-sri-bhasya",
+   "type": "work",
+   "title": "《吉祥注》",
+   "container": "india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": true,
    "updated": "2026-11-25"
   },
