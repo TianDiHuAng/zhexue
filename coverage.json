@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1834,
+  "entries": 1835,
   "by_level": {
    "L2": 793,
-   "L1": 1041
+   "L1": 1042
   },
   "doctrine": {
    "total": 315,
    "detail": 315,
    "auto": 0
   },
-  "needs_verification": 1041,
+  "needs_verification": 1042,
   "sources": 429,
   "sources_verified": 429
  },
@@ -20330,6 +20330,17 @@
    "type": "school",
    "title": "实用主义",
    "container": "gr-contemp",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "school-buddhist-pramana",
+   "type": "school",
+   "title": "佛教量论（因明）",
+   "container": "in-india",
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
