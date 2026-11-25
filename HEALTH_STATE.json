@@ -1,6 +1,6 @@
 {
- "last_health_check_round": 374,
+ "last_health_check_round": 379,
  "health_check_every": 5,
- "next_health_check_round": 379,
- "note": "F步体检每5轮一次；第53—77次按点执行（259…364、369、374轮）。每轮开头先读本文件。"
+ "next_health_check_round": 384,
+ "note": "F步体检每5轮一次；第53—78次按点执行（259…369、374、379轮）。每轮开头先读本文件。"
 }

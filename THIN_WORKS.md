@@ -4,7 +4,7 @@
 用途：`GAPS_WORKS` 归零后（第 287 轮）的**下一层缺口**——从「有无」转到「厚薄」。
 重生成：`python tools/thincheck.py`（每次改动作著关联后应重跑）。
 
-当前合计：**51 人**（0 部 0 ｜ 1 部 51）
+当前合计：**49 人**（0 部 0 ｜ 1 部 49）
 
 ## cn-lianghan
 - 刘安（`cn-lianghan-liu-an`）—— 1 部
@@ -60,7 +60,6 @@
 
 ## gr-hellenistic
 - 克律西波（`gr-hellenistic-chrysippus`）—— 1 部
-- 奥利金（`gr-hellenistic-origen`）—— 1 部
 - 扬布利柯（`gr-hellenistic-iamblichus`）—— 1 部
 - 皮浪（`gr-hellenistic-pyrrho`）—— 1 部
 
@@ -73,7 +72,6 @@
 - 金迪（`gr-medieval-al-kindi`）—— 1 部
 
 ## gr-modern
-- 孔狄亚克（`gr-modern-condillac`）—— 1 部
 - 托马斯·莫尔（`gr-modern-more`）—— 1 部
 - 格劳秀斯（`gr-modern-grotius`）—— 1 部
 - 潘恩（`gr-modern-paine`）—— 1 部

@@ -9613,6 +9613,61 @@
    "sort_year": 246
   },
   {
+   "id": "work-contra-celsum",
+   "title": "《驳凯尔苏斯》",
+   "title_original": "Contra Celsum（奥利金）",
+   "tradition": "west",
+   "date_display": "约248年（奥利金）",
+   "structure": "八卷：逐段引凯尔苏斯《真道》之文而后驳之。因逐段引录，凯尔苏斯原文反赖此书而存——故它同时是**最早的护教著作**与**敌手文本的保存者**。",
+   "core_arguments": [
+    "**以对手的原话立论**：先引后驳，故其驳不是稻草人",
+    "**信仰可被理性辩护**：以哲学论证答哲学攻击，不诉诸权威",
+    "**历史性的护教**：以耶稣事迹的可考性答“神话”之讥"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一—二",
+     "point": "耶稣事迹与神话之辨"
+    },
+    {
+     "locator": "卷三—四",
+     "point": "基督徒的社会身份"
+    },
+    {
+     "locator": "卷五—六",
+     "point": "创世与灵魂"
+    },
+    {
+     "locator": "卷七—八",
+     "point": "崇拜与复活"
+    }
+   ],
+   "editions": [
+    "希腊文本（Koetschau 本）；英译有 Chadwick 译本；**中译无全本**"
+   ],
+   "related_people": [
+    "gr-hellenistic-origen",
+    "gr-medieval-augustine"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“教义著作”",
+     "why": "其书是**逐条回应攻击**的护教之作：所论多由对手的问题带出，故其体例为答辩，非系统教义学（系统之作是《论首要原理》）。"
+    },
+    {
+     "claim": "凯尔苏斯的原文已佚，故其说不可考",
+     "why": "凯尔苏斯之文**反赖此书逐段引录而存**；故欲知二世纪反教之论，须读此书。"
+    }
+   ],
+   "sources": [
+    "sep-origen",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Origen”转述，**未读希腊文本**；八卷的分卷与 Chadwick 英译的对应须核。",
+   "sort_year": 248
+  },
+  {
    "id": "work-ennreads",
    "title": "《九章集》",
    "title_original": "Ἐννεάδες（Enneads）",
@@ -27658,6 +27713,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 1739
+  },
+  {
+   "id": "work-essai-origine",
+   "title": "《论人类知识的起源》",
+   "title_original": "Essai sur l'origine des connaissances humaines（孔狄亚克）",
+   "tradition": "west",
+   "date_display": "1746（孔狄亚克）",
+   "structure": "两部分：先论知识之“要素与生成”（感觉、注意、比较、判断、反省），再论“语言与方法”。其名“起源”即是方法：**以发生说明合法性**。",
+   "core_arguments": [
+    "**一切知识起于感觉**：注意、比较、判断皆为感觉的变形",
+    "**语言是分析的产物**：无符号则思想不能固定，故语言史即思想史",
+    "**方法的根源**：以发生学说明观念之来源，代替天赋说"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "感觉的变形"
+    },
+    {
+     "locator": "第二部",
+     "point": "语言的起源"
+    },
+    {
+     "locator": "论方法",
+     "point": "发生学的证明"
+    },
+    {
+     "locator": "全书",
+     "point": "以“起源”代“天赋”"
+    }
+   ],
+   "editions": [
+    "法文本（1746 初版）；英译与中译均无全本（选译有）"
+   ],
+   "related_people": [
+    "gr-modern-condillac",
+    "gr-modern-locke",
+    "gr-modern-hume"
+   ],
+   "misreadings": [
+    {
+     "claim": "其说只是洛克《人类理解论》的简化",
+     "why": "其“起源”法（以发生代替要素分析）与语言论为洛克所无；故其为**方法的改造**，非简化。"
+    },
+    {
+     "claim": "“一切起于感觉”＝否认理性",
+     "why": "其说不否认理性，而谓理性诸能**由感觉变形而成**；故争点是发生，不是有无。"
+    }
+   ],
+   "sources": [
+    "sep-condillac",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Condillac”转述，**未读法文本**；其与洛克、卢梭语言论的往复须核。",
+   "sort_year": 1746
   },
   {
    "id": "work-spirit-laws",
