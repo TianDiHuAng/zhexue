@@ -10179,6 +10179,62 @@
    "sort_year": 290
   },
   {
+   "id": "work-bianwang-lun",
+   "title": "《辨亡论》",
+   "title_original": "Bian Wang Lun（陆机）",
+   "tradition": "china",
+   "date_display": "西晋（陆机，3世纪末）",
+   "structure": "上下两篇：上篇述孙吴之兴（孙权之用人、江东之得士），下篇论其亡（孙皓之失），末以“**存亡之理**”断之。故其体例是**以史论政**的政论。",
+   "core_arguments": [
+    "**存亡在得人**：吴之兴由贤才，其亡由失人",
+    "**地势不足恃**：长江之险不足恃，人之得失为重",
+    "**以史论政**：借吴事以讽晋世"
+   ],
+   "key_points": [
+    {
+     "locator": "上篇",
+     "point": "吴之兴"
+    },
+    {
+     "locator": "下篇",
+     "point": "吴之亡"
+    },
+    {
+     "locator": "总论",
+     "point": "存亡之理"
+    },
+    {
+     "locator": "文风",
+     "point": "骈俪的史论"
+    }
+   ],
+   "editions": [
+    "《文选》卷五十三收其文；《陆士衡集》亦可参"
+   ],
+   "related_people": [
+    "cn-weijin-lu-ji",
+    "cn-weijin-wangbi",
+    "cn-xianqin-mengzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其文是“文学作品”",
+     "why": "其文虽骈俪，实为**史论**（以吴之存亡论政理）；故不可只作美文读。"
+    },
+    {
+     "claim": "其论＝地理决定论的反面",
+     "why": "其意非否认地势，而是说**地势不足恃**（人为主）；故为轻重之别，非全然否认。"
+    }
+   ],
+   "sources": [
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据通行研究概述与《文选》所收文的通行读法，**未校《文选》李善注**；上下篇的分段须核。",
+   "sort_year": 290
+  },
+  {
    "id": "work-chongyoulun",
    "title": "《崇有论》",
    "title_original": "崇有論",
@@ -37348,6 +37404,62 @@
    "sort_year": 1915
   },
   {
+   "id": "work-yinxu-shuqi",
+   "title": "《殷虚书契考释》",
+   "title_original": "Yin Xu Shu Qi Kao Shi（罗振玉）",
+   "tradition": "china",
+   "date_display": "1915（罗振玉）",
+   "structure": "以甲骨拓本为对象，逐字考释其形义与辞例：先列字形，次引经典互证，末定其义。故其体例是**以字形与辞例互证**的文字学之作。",
+   "core_arguments": [
+    "**以字形定字**：据甲骨字形与金文、小篆相较",
+    "**以辞例定义**：据卜辞的用法定其义，非仅据字形",
+    "**以出土证传世**：以甲骨证经典之名物"
+   ],
+   "key_points": [
+    {
+     "locator": "序",
+     "point": "甲骨之学的方法"
+    },
+    {
+     "locator": "字形考",
+     "point": "字形与金文相较"
+    },
+    {
+     "locator": "辞例考",
+     "point": "据卜辞用法"
+    },
+    {
+     "locator": "附考",
+     "point": "以出土证传世"
+    }
+   ],
+   "editions": [
+    "1915 初刊本；后收入《罗雪堂先生全集》"
+   ],
+   "related_people": [
+    "cn-qingmod-luo-zhenyu",
+    "cn-qingmod-wang-guowei",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“甲骨拓本的汇编”",
+     "why": "其书以**考释**为主：辨字形、定辞例、证名物；故为文字学之作，非拓本汇编。"
+    },
+    {
+     "claim": "甲骨文研究始于其书",
+     "why": "其前有刘鹗《铁云藏龟》等**拓本的刊布**；其书之贡献在**考释方法的系统化**，非“始于”。"
+    }
+   ],
+   "sources": [
+    "sep-chinese-metaphysics",
+    "ct-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据通行研究概述，**未校原书**；其1915 年初刊与后印本的差异、以及“考释”与“汇编”之别须核。",
+   "sort_year": 1915
+  },
+  {
    "id": "work-formalism-material",
    "title": "《伦理学中的形式主义与质料的价值伦理学》",
    "title_original": "Der Formalismus in der Ethik und die materiale Wertethik",
@@ -39453,6 +39565,62 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1949
+  },
+  {
+   "id": "work-wenhua-yaoyi",
+   "title": "《中国文化要义》",
+   "title_original": "Zhong Guo Wen Hua Yao Yi（梁漱溟）",
+   "tradition": "china",
+   "date_display": "1949（梁漱溟）",
+   "structure": "以“文化三期说”为骨：先辨中西文化的路向（向前／调和／转身），再论中国社会“伦理本位、职业分途”的结构，末陈其“乡村建设”的出路。",
+   "core_arguments": [
+    "**文化三路向**：西方向前、中国调和、印度向后",
+    "**伦理本位·职业分途**：中国社会以伦理组织，无阶级而多职业",
+    "**理性早启**：中国“理性”早熟，故文化早熟而科学未生"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "文化三路向"
+    },
+    {
+     "locator": "论社会结构",
+     "point": "伦理本位"
+    },
+    {
+     "locator": "论理性",
+     "point": "理性早启"
+    },
+    {
+     "locator": "末章",
+     "point": "乡村建设的出路"
+    }
+   ],
+   "editions": [
+    "中文本（1949 年初版；后有多种重印）"
+   ],
+   "related_people": [
+    "cn-qingmod-liang-shuming",
+    "cn-songming-wang-yangming",
+    "gr-20c-weber"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“中西文化比较的随笔”",
+     "why": "其书有**明确的社会结构分析**（伦理本位·职业分途）与三期说；故为理论之作，非随感。"
+    },
+    {
+     "claim": "“理性早启”＝中国比西方更理性",
+     "why": "“早启”是说**理性的文化形态早熟**（故科学未生），非价值上的“更理性”；此点最易误读。"
+    }
+   ],
+   "sources": [
+    "sep-chinese-metaphysics",
+    "ct-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据通行的中国现代哲学研究概述与 SEP 语境性叙述，**未读原书**；1949 年初版与后来修订的差异须核。",
    "sort_year": 1949
   },
   {
