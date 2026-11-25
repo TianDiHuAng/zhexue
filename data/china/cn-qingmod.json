@@ -5711,7 +5711,8 @@
     "sep-qing-philosophy"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-qingmod-qibenlun"
   },
   {
    "id": "cn-qingmod-xueqi-xinzhi",
@@ -5855,7 +5856,8 @@
     "sep-qing-philosophy"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-qingmod-gongyang-sanshi"
   },
   {
    "id": "cn-qingmod-tianyan",
@@ -5992,7 +5994,8 @@
     "ws-kunzhiji"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-qingmod-qibenlun"
   },
   {
    "id": "cn-qingmod-yinyang",
@@ -6028,7 +6031,8 @@
     "ct-chunqiufanlu"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-qingmod-qibenlun"
   },
   {
    "id": "cn-qingmod-yinyun",
@@ -6064,7 +6068,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-qingmod-qibenlun"
   },
   {
    "id": "cn-qingmod-liujing-jieshi",
@@ -6139,7 +6144,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-qingmod-li-cun-yu-yu"
   },
   {
    "id": "cn-qingmod-shishi-qiushi",
@@ -6178,7 +6184,8 @@
     "sep-qing-philosophy"
    ],
    "needs_verification": true,
-   "pending_notes": "“实事求是”的语源（《汉书·河间献王传》）与其在清代的用法、以及现代语义，三者不完全重合；本页分述其层次。"
+   "pending_notes": "“实事求是”的语源（《汉书·河间献王传》）与其在清代的用法、以及现代语义，三者不完全重合；本页分述其层次。",
+   "broader": "cn-qingmod-kaoju"
   },
   {
    "id": "cn-qingmod-xizhai",
@@ -6255,7 +6262,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "“由字通词，由词通道”的出处（《与是仲明论学书》）与其在乾嘉学术中的地位须核；本页依戴震文集与相关研究概述。"
+   "pending_notes": "“由字通词，由词通道”的出处（《与是仲明论学书》）与其在乾嘉学术中的地位须核；本页依戴震文集与相关研究概述。",
+   "broader": "cn-qingmod-kaoju"
   },
   {
    "id": "cn-qingmod-gongyang-xue",
@@ -6294,7 +6302,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "清代公羊学的谱系（庄存与—刘逢禄—龚魏—康）与其与汉代公羊学的异同须核；本页依相关研究概述。"
+   "pending_notes": "清代公羊学的谱系（庄存与—刘逢禄—龚魏—康）与其与汉代公羊学的异同须核；本页依相关研究概述。",
+   "broader": "cn-qingmod-gongyang-sanshi"
   },
   {
    "id": "cn-qingmod-xing-ri-sheng",
@@ -6365,7 +6374,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "“中体西用”一语的先例（冯桂芬、郑观应、沈寿康等）与张之洞的表述差异须逐条核；严复“牛体马用”之讥的出处亦须核。"
+   "pending_notes": "“中体西用”一语的先例（冯桂芬、郑观应、沈寿康等）与张之洞的表述差异须逐条核；严复“牛体马用”之讥的出处亦须核。",
+   "broader": "cn-qingmod-tiyong-fan"
   },
   {
    "id": "cn-qingmod-hanxue-songxue-zhi",
@@ -6476,7 +6486,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "“博学于文，行己有耻”的原文（《亭林文集》卷三《与友人论学书》）须核华忱之点校本；其与《论语》“博学于文”的异同亦须分辨。"
+   "pending_notes": "“博学于文，行己有耻”的原文（《亭林文集》卷三《与友人论学书》）须核华忱之点校本；其与《论语》“博学于文”的异同亦须分辨。",
+   "broader": "cn-qingmod-kaoju"
   },
   {
    "id": "cn-qingmod-youzi-tongci",
@@ -6514,7 +6525,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "“由字通词，由词通道”的原文（《与是仲明论学书》）须核《戴震文集》；其与《孟子字义疏证》的方法关系亦须核。"
+   "pending_notes": "“由字通词，由词通道”的原文（《与是仲明论学书》）须核《戴震文集》；其与《孟子字义疏证》的方法关系亦须核。",
+   "broader": "cn-qingmod-kaoju"
   },
   {
    "id": "cn-qingmod-yinsheng-qiuyi",
@@ -6553,7 +6565,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "“因声求义”的方法与其与段玉裁“同声必同部”的关系须核；本页取其方法义，具体条例须核《广雅疏证》原文。"
+   "pending_notes": "“因声求义”的方法与其与段玉裁“同声必同部”的关系须核；本页取其方法义，具体条例须核《广雅疏证》原文。",
+   "broader": "cn-qingmod-kaoju"
   },
   {
    "id": "cn-qingmod-xuci",
@@ -6669,7 +6682,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "“二重证据法”的原文（《古史新证》第一章）须核《王国维全集》；其与“三重证据法”（后加民族学材料）之别亦须分辨。"
+   "pending_notes": "“二重证据法”的原文（《古史新证》第一章）须核《王国维全集》；其与“三重证据法”（后加民族学材料）之别亦须分辨。",
+   "broader": "cn-qingmod-kaoju"
   },
   {
    "id": "cn-qingmod-lishiqing",

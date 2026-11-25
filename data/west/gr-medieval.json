@@ -3963,7 +3963,8 @@
     "sep-boethius"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-medieval-esse"
   },
   {
    "id": "gr-medieval-proofs-god",
@@ -4086,7 +4087,8 @@
     "book-gilson-medieval"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-medieval-faith-reason"
   },
   {
    "id": "gr-medieval-analogy",
@@ -4159,7 +4161,8 @@
     "sep-universals-medieval"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-medieval-universals"
   },
   {
    "id": "gr-medieval-intellect-will",
@@ -4266,7 +4269,8 @@
     "book-gilson-medieval"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-medieval-universals"
   },
   {
    "id": "gr-medieval-sacrament",
@@ -4420,7 +4424,8 @@
     "book-copleston-history"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-medieval-analogy"
   },
   {
    "id": "gr-medieval-via-negativa",
@@ -4532,7 +4537,8 @@
     "book-copleston-history"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-medieval-esse"
   },
   {
    "id": "gr-medieval-theological-virtues",
@@ -4834,7 +4840,8 @@
     "book-copleston-history"
    ],
    "needs_verification": true,
-   "pending_notes": "“光照说”在奥古斯丁、波那文图拉与阿奎那之间的地位与含义差异很大（阿奎那是否仍持某种光照说学界有争论）；本页并述其线索。"
+   "pending_notes": "“光照说”在奥古斯丁、波那文图拉与阿奎那之间的地位与含义差异很大（阿奎那是否仍持某种光照说学界有争论）；本页并述其线索。",
+   "broader": "gr-medieval-divine-ideas"
   },
   {
    "id": "gr-medieval-convertibility",
@@ -4872,7 +4879,8 @@
     "sep-kant"
    ],
    "needs_verification": true,
-   "pending_notes": "“可互换性”的确切含义（是实在的同一还是概念上的相互蕴含）在阿奎那与司各脱之间有差异；本页并述其说与“恶为缺失”的解决。"
+   "pending_notes": "“可互换性”的确切含义（是实在的同一还是概念上的相互蕴含）在阿奎那与司各脱之间有差异；本页并述其说与“恶为缺失”的解决。",
+   "broader": "gr-medieval-transcendentals"
   },
   {
    "id": "gr-medieval-occasionalism",
