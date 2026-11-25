@@ -576,6 +576,62 @@
    "sort_year": -450
   },
   {
+   "id": "work-megas-diakosmos",
+   "title": "《大宇宙秩序》（残篇）",
+   "title_original": "Megas Diakosmos（留基伯；残篇）",
+   "tradition": "west",
+   "date_display": "约前5世纪（留基伯；今存残篇与证言）",
+   "structure": "今无全本：仅存**残篇与古代证言**（亚里士多德、第欧根尼·拉尔修、辛普里丘等的引述）。故其“结构”须由证言重构，而不能据原本描述。",
+   "core_arguments": [
+    "**原子与虚空**：万物由不可分的原子与虚空构成",
+    "**必然性**：一切出于必然，非出于目的",
+    "**涡旋生成世界**：原子在虚空中作涡旋，聚而成世界"
+   ],
+   "key_points": [
+    {
+     "locator": "残篇1—2",
+     "point": "原子与虚空的提出"
+    },
+    {
+     "locator": "证言（亚里士多德）",
+     "point": "必然性之说"
+    },
+    {
+     "locator": "证言（辛普里丘）",
+     "point": "涡旋与世界生成"
+    },
+    {
+     "locator": "残篇情况",
+     "point": "仅存证言与残句"
+    }
+   ],
+   "editions": [
+    "Diels–Kranz 残篇本（DK 67）；英译见 Kirk–Raven–Schofield；**中译无**"
+   ],
+   "related_people": [
+    "gr-ancient-leucippus",
+    "gr-ancient-democritus",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书有完整传本可供引用",
+     "why": "其书**仅存残篇与证言**；引用须标“据某某引述”，不可当作完整文本。"
+    },
+    {
+     "claim": "原子论始于德谟克利特",
+     "why": "其说一般归于**留基伯**（亚里士多德与第欧根尼皆如此记），德谟克利特继之而系统化；故“始于德谟克利特”不确。"
+    }
+   ],
+   "sources": [
+    "sep-theophrastus",
+    "sep-aristotle"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据古代证言（亚里士多德《形而上学》《论生成与消亡》）与 SEP 的通行转述，**未核 DK 残篇本原文**；残篇编号须核。",
+   "sort_year": -450
+  },
+  {
    "id": "work-lunyu",
    "title": "《论语》",
    "title_original": "論語（Analects）",
@@ -3736,7 +3792,7 @@
    "related_people": [
     "gr-ancient-theophrastus",
     "gr-ancient-aristotle",
-    "gr-ancient-leucippus"
+    "gr-ancient-plato"
    ],
    "misreadings": [
     {
