@@ -3056,8 +3056,7 @@
     "余纪元等译《亚里士多德全集》第1卷中国人民大学出版社；Loeb 版（Cooke/Tredennick）"
    ],
    "related_people": [
-    "gr-ancient-aristotle",
-    "cn-xianqin-gongsunlong"
+    "gr-ancient-aristotle"
    ],
    "misreadings": [
     {
@@ -8164,8 +8163,7 @@
    ],
    "related_people": [
     "gr-hellenistic-seneca",
-    "gr-ancient-aristotle",
-    "cn-xianqin-kongzi"
+    "gr-ancient-aristotle"
    ],
    "misreadings": [
     {
@@ -15368,8 +15366,7 @@
    ],
    "related_people": [
     "cn-suitang-kuiji",
-    "cn-suitang-xuanzang",
-    "gr-ancient-aristotle"
+    "cn-suitang-xuanzang"
    ],
    "misreadings": [
     {
@@ -27003,8 +27000,7 @@
    ],
    "related_people": [
     "gr-modern-locke",
-    "gr-modern-rousseau",
-    "cn-xianqin-kongzi"
+    "gr-modern-rousseau"
    ],
    "misreadings": [
     {
@@ -30520,8 +30516,7 @@
    ],
    "related_people": [
     "gr-modern-herder",
-    "gr-german-hamann",
-    "cn-xianqin-kongzi"
+    "gr-german-hamann"
    ],
    "misreadings": [
     {
@@ -37491,8 +37486,7 @@
    ],
    "related_people": [
     "cn-qingmod-wang-guowei",
-    "cn-qingmod-liang-qichao",
-    "gr-german-kant"
+    "cn-qingmod-liang-qichao"
    ],
    "misreadings": [
     {
@@ -37598,6 +37592,10 @@
     {
      "locator": "全书",
      "point": "与清教相对照"
+    },
+    {
+     "locator": "论儒教",
+     "point": "以孔子与朱熹的儒教伦理为对照：士人身份、家产官僚制与“适应世界”的伦理"
     }
    ],
    "editions": [
@@ -39826,8 +39824,7 @@
    ],
    "related_people": [
     "cn-qingmod-liang-shuming",
-    "cn-songming-wang-yangming",
-    "gr-20c-weber"
+    "cn-songming-wang-yangming"
    ],
    "misreadings": [
     {
@@ -40339,8 +40336,7 @@
    ],
    "related_people": [
     "gr-20c-beauvoir",
-    "gr-20c-sartre",
-    "cn-qingmod-liang-qichao"
+    "gr-20c-sartre"
    ],
    "misreadings": [
     {
