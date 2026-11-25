@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1840,
+  "entries": 1842,
   "by_level": {
    "L2": 793,
-   "L1": 1047
+   "L1": 1049
   },
   "doctrine": {
-   "total": 317,
-   "detail": 317,
+   "total": 318,
+   "detail": 318,
    "auto": 0
   },
-  "needs_verification": 1047,
+  "needs_verification": 1049,
   "sources": 429,
   "sources_verified": 429
  },
@@ -83,10 +83,10 @@
    "unit_id": "in-india",
    "title": "印度哲学（正统六派与佛教）",
    "region": "india",
-   "philosophers": 9,
+   "philosophers": 10,
    "concepts": 8,
    "debates": 2,
-   "philosophers_slot": "8 上限，余 -1"
+   "philosophers_slot": "8 上限，余 -2"
   },
   {
    "unit_id": "gr-19c",
@@ -4687,6 +4687,17 @@
    "id": "in-india-bhaviveka",
    "type": "philosopher",
    "title": "清辨",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-asanga",
+   "type": "philosopher",
+   "title": "无著",
    "container": "in-india",
    "level": "L1",
    "sources": 2,
@@ -20395,6 +20406,17 @@
    "id": "school-madhyamaka",
    "type": "school",
    "title": "中观派",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "school-yogacara",
+   "type": "school",
+   "title": "瑜伽行派（唯识）",
    "container": "in-india",
    "level": "L1",
    "sources": 2,
