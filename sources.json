@@ -9737,6 +9737,29 @@
     "keyword_seen": true
    },
    "n": 424
+  },
+  {
+   "id": "iep-freud",
+   "title": "Freud, Sigmund（IEP 词条）",
+   "author": "Thornton, Stephen P.",
+   "year": 2000,
+   "year_note": "IEP 词条（页面未标首版日；2026-11-25 实开核验）",
+   "publisher": "Internet Encyclopedia of Philosophy",
+   "type": "百科",
+   "url": "https://iep.utm.edu/freud/",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "弗洛伊德专条：论其“心灵为能量系统”的设定、潜意识理论、婴儿性欲与俄狄浦斯情结、id／ego／super-ego 三分、精神分析作为疗法，以及对其科学地位的批评（不可证伪性、因果归属的困难）",
+   "unit_hint": "gr-20c",
+   "verify": {
+    "method": "http-page",
+    "http_status": 200,
+    "checked_at": "2026-11-25",
+    "keyword": "Sigmund Freud (1856–1939)",
+    "keyword_seen": true
+   },
+   "n": 425
   }
  ]
 }

@@ -11,6 +11,7 @@
 | `sep-polanyi` | 波兰尼 | 未登记（未实开） | 须实开核验后登记 | 《大转型》已于第 252 轮撤下，待来源齐后补 |
 | `sep-parfit` | 帕菲特 | 未登记 | 若有条目须实开核验 | 人格同一性相关页待写 |
 | `sep-lewis` | 大卫·刘易斯 | 未登记 | 同上 | 模态实在论相关页待写 |
+| `iep-freud` | 弗洛伊德 | **第 300 轮已登记**（实开 200，IEP “Freud, Sigmund”，Thornton 撰） | SEP **无 Freud 专条**（`entries/freud/` 返回 “Not Yet Available”，第 300 轮实开确证）；`entries/unconscious/` 为 404 | 人物页与著作页**暂缓**：双源规则（R12）要求第二个独立来源，现仅有一条百科，故不建页 |
 | `sep-kripke`※ | 克里普克 | **SEP 无专条**（第 253 轮两次 404 实开） | 已改用 `iep-kripke`（题名与地址已更正为 Kripke's Wittgenstein） | 《命名与必然性》仍缺**原典级**来源 |
 | `iep-more`／`sep-more` | 托马斯·莫尔 | **均 404**（第 295 轮前实开） | 以 `ws-en-utopia`＋`sep-machiavelli` 的语境性论述支撑，并在页内标明取径 | 《乌托邦》页已建，唯缺专门研究 |
 

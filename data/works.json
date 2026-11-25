@@ -1087,6 +1087,63 @@
    "sort_year": -395
   },
   {
+   "id": "work-crito",
+   "title": "《克里同》",
+   "title_original": "Κρίτων（Crito）",
+   "tradition": "west",
+   "date_display": "约前4世纪初（柏拉图；早期对话）",
+   "structure": "一篇（对话体，Stephanus 43a—54e）：苏格拉底在狱中与老友克里同论“应否越狱”，末以“拟法的演说”作结。",
+   "core_arguments": [
+    "克里同以**名声、家累、朋友之义**劝其逃",
+    "苏格拉底以“**不可以恶报恶**”与“**守法的承诺**”拒之",
+    "故其论旨是**政治义务**：城邦之法既受其惠，则不得以身罹法而毁之"
+   ],
+   "key_points": [
+    {
+     "locator": "开篇",
+     "point": "克里同的劝说"
+    },
+    {
+     "locator": "论名声",
+     "point": "多数人的意见不足惧"
+    },
+    {
+     "locator": "论报复",
+     "point": "不可以恶报恶"
+    },
+    {
+     "locator": "拟法的演说",
+     "point": "守法的承诺"
+    }
+   ],
+   "editions": [
+    "希腊文本（OCT, Plato I）；中译参《游叙弗伦·苏格拉底的申辩·克力同》（严群译，商务印书馆）"
+   ],
+   "related_people": [
+    "gr-ancient-plato",
+    "gr-ancient-socrates",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "其说主张“无条件服从国家”",
+     "why": "其论证基于**自愿的承诺与受惠**（故为“守约”的义务），非无条件服从；故其说为**契约式**的政治义务论，后世（如洛克、梭罗）各有取舍，本页并述。"
+    },
+    {
+     "claim": "《克里同》与《申辩》立场矛盾",
+     "why": "《申辩》守的是**哲学使命**，《克里同》守的是**已受之法的承诺**；二者可并存（故苏格拉底受死而不逃），本页并述此解释与反对意见。"
+    }
+   ],
+   "sources": [
+    "sep-plato",
+    "sep-socrates",
+    "ct-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《克里同》的 Stephanus 页码与“拟法的演说”（50a—54d）的分段须核 OCT 本与严群译本；其与《申辩》是否矛盾，学界有不同解释，本页并述而不裁定。",
+   "sort_year": -395
+  },
+  {
    "id": "work-laches",
    "title": "《拉刻斯》",
    "title_original": "Λάχης（Laches）",
@@ -32273,6 +32330,63 @@
    "sort_year": 1845
   },
   {
+   "id": "work-heilige-familie",
+   "title": "《神圣家族》",
+   "title_original": "Die heilige Familie, oder Kritik der kritischen Kritik",
+   "tradition": "west",
+   "date_display": "1845（马克思与恩格斯合著）",
+   "structure": "一部（凡九章，分由二人执笔）：逐节批评鲍威尔兄弟的“批判的批判”。",
+   "core_arguments": [
+    "“**批判的批判**”只是**自我意识**的循环：它不触动现实的贫困",
+    "故须以“**现实的、感性的人**”为历史的主体（而非自我意识）",
+    "“**历史不过是追求着自己目的的人的活动**”：此语已含唯物史观的端绪"
+   ],
+   "key_points": [
+    {
+     "locator": "序言",
+     "point": "批判的对象"
+    },
+    {
+     "locator": "论蒲鲁东",
+     "point": "私有财产与贫困"
+    },
+    {
+     "locator": "论“群众”",
+     "point": "历史的主体"
+    },
+    {
+     "locator": "全书",
+     "point": "以论战立其说"
+    }
+   ],
+   "editions": [
+    "德文（MEW 2）；中译见《马克思恩格斯全集》第 2 卷（人民出版社）"
+   ],
+   "related_people": [
+    "gr-19c-marx",
+    "gr-german-hegel",
+    "gr-19c-feuerbach"
+   ],
+   "misreadings": [
+    {
+     "claim": "它是“成熟期的唯物史观著作”",
+     "why": "其书仍以**费尔巴哈式的人本学**为语言（“现实的人”），唯物史观的系统表述在《德意志意识形态》及其后；故为其**过渡期**的著作。"
+    },
+    {
+     "claim": "其书只批鲍威尔，与黑格尔无关",
+     "why": "其书批“批判的批判”即批**黑格尔式自我意识**的政治化形态，故其论战对象含黑格尔的继承者，非仅鲍威尔。"
+    }
+   ],
+   "sources": [
+    "sep-marx",
+    "sep-hegel",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《神圣家族》的章节分工（马克思／恩格斯各写哪几章）与 MEW 2 的编次须核；“历史不过是追求着自己目的的人的活动”一语的原文位置亦须核。",
+   "sort_year": 1845
+  },
+  {
    "id": "work-wesen-religion",
    "title": "《宗教的本质》",
    "title_original": "Das Wesen der Religion",
@@ -33731,6 +33845,63 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1886
+  },
+  {
+   "id": "work-ludwig-feuerbach",
+   "title": "《路德维希·费尔巴哈和德国古典哲学的终结》",
+   "title_original": "Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie",
+   "tradition": "west",
+   "date_display": "1886（恩格斯）",
+   "structure": "四章（含序与结语）：由黑格尔到费尔巴哈，末论马克思的哲学变革。",
+   "core_arguments": [
+    "“**全部哲学，特别是近代哲学的重大的基本问题，是思维和存在的关系问题**”",
+    "故哲学家依其回答分为**唯心主义**与**唯物主义**两大阵营",
+    "黑格尔的“**体系**”与其“**方法**”相矛盾：方法（辩证法）是革命的，体系是保守的"
+   ],
+   "key_points": [
+    {
+     "locator": "第一章",
+     "point": "黑格尔体系的矛盾"
+    },
+    {
+     "locator": "第二章",
+     "point": "思维与存在的关系"
+    },
+    {
+     "locator": "第三章",
+     "point": "费尔巴哈的宗教批判"
+    },
+    {
+     "locator": "第四章",
+     "point": "马克思的变革"
+    }
+   ],
+   "editions": [
+    "德文（MEW 21）；中译见《马克思恩格斯选集》第 4 卷（人民出版社）"
+   ],
+   "related_people": [
+    "gr-19c-engels",
+    "gr-19c-feuerbach",
+    "gr-german-hegel"
+   ],
+   "misreadings": [
+    {
+     "claim": "“思维与存在的关系是哲学的基本问题”是马克思本人的提法",
+     "why": "此提法出自**恩格斯**晚年的这部著作（1886），非马克思本人；故引用时须标作者，不可径归马克思。"
+    },
+    {
+     "claim": "其书是“对费尔巴哈的推崇”",
+     "why": "其书以费尔巴哈为**过渡**（“下半截唯物、上半截唯心”），其主旨是论德国古典哲学的**终结**与马克思的变革；故其为清算之作，非推崇。"
+    }
+   ],
+   "sources": [
+    "sep-marx",
+    "sep-hegel",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《费尔巴哈论》四章的划分与 1886 年初刊（《新时代》杂志）／1888 单行本的关系须核；“哲学的基本问题”一语的原文位置亦须核，并须标明作者为恩格斯。",
    "sort_year": 1886
   },
   {

@@ -392,3 +392,9 @@ D66 说"链接通 ≠ 来源对"。第254轮把它拆成两部分并做成工具
 结论：失败点在最后三步 Pages 发布（`configure-pages` → `upload-pages-artifact` → `deploy-pages`），
 **根因是仓库未启用 Pages（或 Source 未设为 "GitHub Actions"）**。
 处置：在 Settings → Pages 把 Source 设为 **GitHub Actions**。此后 push 即自动部署；若仍失败，先看 Actions 日志中 `configure-pages` 一步的报错原文。
+
+## D76（第 300 轮）SEP 无 Freud 专条：改 iep-freud，且**不因缺第二来源而先建页**
+实开结果：`plato.stanford.edu/entries/freud/` 返回 "Not Yet Available"；`entries/unconscious/` 返回 404；
+`iep.utm.edu/freud/` 返回 200（Thornton 撰），已登记 `iep-freud`。
+处置：弗洛伊德的人物页与著作页**暂缓**——双源规则（R12）要求两个**独立**来源，现有仅一条百科。
+记法：宁可不建，也不拿同源或无关条目凑第二来源（D65 第 1 条）。
