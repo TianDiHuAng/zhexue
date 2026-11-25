@@ -14544,6 +14544,62 @@
    "sort_year": 650
   },
   {
+   "id": "work-pramanavarttika",
+   "title": "《释量论》",
+   "title_original": "Pramāṇavārttika（Dharmakīrti）",
+   "tradition": "india",
+   "date_display": "约7世纪（法称）",
+   "structure": "四品：现量品、为自比量品、为他比量品、遮诠品；以“量”为纲，末及似因诸过。",
+   "core_arguments": [
+    "**实在＝有因果效力者**：共相无此效力，故为假有",
+    "**遍充二类**：同一性与因果，凡有效推理必属其一",
+    "**遮诠下放**：概念由排除而成，其确定所指由因果史担保"
+   ],
+   "key_points": [
+    {
+     "locator": "现量品",
+     "point": "离分别与自证"
+    },
+    {
+     "locator": "为自比量品",
+     "point": "两类遍充"
+    },
+    {
+     "locator": "为他比量品",
+     "point": "三支示人"
+    },
+    {
+     "locator": "遮诠品",
+     "point": "apoha 的机制"
+    }
+   ],
+   "editions": [
+    "梵本仅存部分；藏译完整；**汉译无**"
+   ],
+   "related_people": [
+    "in-india-dharmakirti",
+    "in-india-dignaga",
+    "in-india-gautama"
+   ],
+   "misreadings": [
+    {
+     "claim": "汉传因明亦传此书",
+     "why": "**汉译无**《释量论》；汉传因明所据为《因明正理门论》，藏传则以本书为根本。两系统须分辨。"
+    },
+    {
+     "claim": "其书是“陈那《集量论》的注”",
+     "why": "其书为**独立著作**（颂体＋自注），虽承陈那而重订遍充与遮诠；故非注释之体。"
+    }
+   ],
+   "sources": [
+    "sep-logic-india",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP 转述，**未读梵本与藏译**；四品的品次与“遮诠品”的内容须核校订本与研究。",
+   "sort_year": 650
+  },
+  {
    "id": "work-chengweishi",
    "title": "《成唯识论》",
    "title_original": "成唯識論（Cheng Weishi Lun）",

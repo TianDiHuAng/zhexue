@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1831,
+  "entries": 1834,
   "by_level": {
    "L2": 793,
-   "L1": 1038
+   "L1": 1041
   },
   "doctrine": {
-   "total": 314,
-   "detail": 314,
+   "total": 315,
+   "detail": 315,
    "auto": 0
   },
-  "needs_verification": 1038,
+  "needs_verification": 1041,
   "sources": 429,
   "sources_verified": 429
  },
@@ -83,10 +83,10 @@
    "unit_id": "in-india",
    "title": "印度哲学（正统六派与佛教）",
    "region": "india",
-   "philosophers": 6,
-   "concepts": 7,
+   "philosophers": 7,
+   "concepts": 8,
    "debates": 2,
-   "philosophers_slot": "8 上限，余 2"
+   "philosophers_slot": "8 上限，余 1"
   },
   {
    "unit_id": "gr-19c",
@@ -4662,6 +4662,17 @@
    "updated": "2026-11-25"
   },
   {
+   "id": "in-india-dharmakirti",
+   "type": "philosopher",
+   "title": "法称",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
    "id": "in-india-pramana",
    "type": "concept",
    "title": "量",
@@ -4735,6 +4746,17 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-anumana",
+   "type": "concept",
+   "title": "比量（推断）",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": true,
    "updated": "2026-11-25"
   },
@@ -12574,6 +12596,17 @@
    "id": "work-prasannapada",
    "type": "work",
    "title": "《明句论》",
+   "container": "india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "work-pramanavarttika",
+   "type": "work",
+   "title": "《释量论》",
    "container": "india",
    "level": "L1",
    "sources": 2,
