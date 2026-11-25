@@ -844,6 +844,14 @@
     {
      "claim": "他是“不二吠檀多的创立者”",
      "why": "其自视为**系统化者**（承乔荼波陀一系），非开宗者；早期不二吠檀多的历史在乔荼波陀之前并不清楚。"
+    },
+    {
+     "claim": "其“不二”是用独立推理证明出来的",
+     "why": "SEP 明言：商羯罗**不试图仅凭独立推理证明不二**，他认为不二“非逻辑证明所能及”，而是**依奥义书的权威**接受之；他能做的是构造论证以**理解与护持**经典、驳斥论敌。故“以理证不二”是后人对他的读法，须分辨。"
+    },
+    {
+     "claim": "其“世界如幻”＝佛教唯识（各人心里造出世界）",
+     "why": "SEP 明言：他主张**知觉的实在论**（外物非个人主观幻象，因有共许的知觉），并在《梵经注》2.2.28—31 **明确反对**瑜伽行唯识；其“幻”指把独立实在性加于名色，是**认识上的错**，非个人心理投射。"
     }
    ],
    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 320'><rect x='0' y='0' width='760' height='320' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>商羯罗：ātman 与 brahman 的同一（示意）</text><rect x='40' y='70' width='200' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='140' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>ātman（我）</text><text x='140' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>纯粹意识·见证者</text><rect x='285' y='70' width='200' height='52' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='385' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>“汝即彼”（tat tvam asi）</text><text x='385' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>anvaya-vyatireka 辨同异</text><rect x='530' y='70' width='190' height='52' rx='6' fill='#d9e7f1' stroke='#1c3a5c'/><text x='625' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>brahman（梵）</text><text x='625' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>无二·无属性之存在</text><rect x='285' y='170' width='200' height='56' rx='6' fill='#e6eff7' stroke='#5b8db8'/><text x='385' y='192' text-anchor='middle' font-size='12' fill='#1e2d3d'>māyā：不可说（anirvacanīya）</text><text x='385' y='212' text-anchor='middle' font-size='10' fill='#1e2d3d'>名与色·次于真而非无</text><text x='380' y='300' text-anchor='middle' font-size='11' fill='#5b7a96'>据 SEP “Śaṅkara”（2021）的解说重构</text></svg>",
@@ -853,7 +861,7 @@
     "sep-perception-india"
    ],
    "needs_verification": true,
-   "pending_notes": "已核（第392轮，据 sep-shankara）：该篇明载其三种方法：anvaya-vyatireka（同现与遣除）、lakṣaṇā（指称的转义）、neti neti（非此非彼）；并载“行为不能生起解脱之知”与 jīvanmukti 之说。仍待核：《梵经注》与《Upadeśasāhasrī》原文未读；三种方法的原文出处须核。",
+   "pending_notes": "已核（第418轮，据 sep-shankara）：①商羯罗**不试图仅凭独立推理证明不二**，而依奥义书权威，其论证用于理解与护持经典；②他持**知觉实在论**并在《梵经注》2.2.28—31 **反对**瑜伽行唯识，“幻”指认识上的错置而非个人心理投射；③三种方法（anvaya-vyatireka／lakṣaṇā／neti neti）SEP 明列，并指出他多视之为同一方法的不同表述。仍待核：《梵经注》《示教千则》原文未读；三种方法的原文出处须核。",
    "doctrine": {
     "summary": "商羯罗以“ātman 即 brahman”立不二吠檀多：纯粹意识与无差别的存在数目上同一，而世界是“不可说”的显现——非梵本身，亦非虚无。他以同异法、次要指谓与否定语（neti neti）三种方法解“汝即彼”一类同一性语句，并主张解脱是认识的转变而非行为的报酬，故仪轨与冥想只有净化心的间接作用。",
     "system": [
