@@ -10963,6 +10963,62 @@
    "sort_year": 360
   },
   {
+   "id": "work-trimsika",
+   "title": "《唯识三十颂》",
+   "title_original": "Triṃśikā（世亲）",
+   "tradition": "india",
+   "date_display": "约4世纪（世亲）",
+   "structure": "三十颂：以“**识的转变**”说三界唯识，次辨三性，末明唯识的阶次（五位）。故其为**唯识学的纲要颂**，后世十大论师为之作释。",
+   "core_arguments": [
+    "**识的转变**：三界皆识所变，非有外境",
+    "**三性**：依他起、遍计所执、圆成实",
+    "**转依**：由加行至究竟，五位次第"
+   ],
+   "key_points": [
+    {
+     "locator": "颂1—2",
+     "point": "识的转变"
+    },
+    {
+     "locator": "颂20—25",
+     "point": "三性"
+    },
+    {
+     "locator": "颂26—30",
+     "point": "五位与转依"
+    },
+    {
+     "locator": "全书",
+     "point": "纲要颂体"
+    }
+   ],
+   "editions": [
+    "梵本存；汉译（玄奘译）与藏译并存；英译有；**中译即汉译**"
+   ],
+   "related_people": [
+    "in-india-vasubandhu",
+    "in-india-asanga",
+    "in-india-dignaga"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书与《唯识二十论》同体例",
+     "why": "《二十论》是**破他**（破外境之实有），《三十颂》是**立自**（立识之转变与三性）；一破一立，不可混。"
+    },
+    {
+     "claim": "“唯识”＝只有心没有物",
+     "why": "其说是**所知不离识**（无离识之外的实有外境），非否认现象；故不可读作“心想事成”式的唯心论。"
+    }
+   ],
+   "sources": [
+    "sep-yogacara",
+    "sep-logic-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Yogācāra”转述，**未读梵本与玄奘译**；三十颂的分段与其与《成唯识论》的关系须核。",
+   "sort_year": 380
+  },
+  {
    "id": "work-de-ordine",
    "title": "《论秩序》",
    "title_original": "De ordine",
@@ -15274,6 +15330,62 @@
    "sort_year": 650
   },
   {
+   "id": "work-nyayabindu",
+   "title": "《正理滴论》",
+   "title_original": "Nyāyabindu（法称）",
+   "tradition": "india",
+   "date_display": "约7世纪（法称）",
+   "structure": "极短之论：以“**现量**”“**为自比量**”“**为他比量**”三分统摄量论，末及似因。其体例是**纲要式的量论**（故后世有法上《疏》），非详论。",
+   "core_arguments": [
+    "**量唯二**：现量与比量；声量等归入比量或非量",
+    "**因三相**：宗法性·同品定有·异品遍无（承陈那而严之）",
+    "**自证与自相**：现量离分别，故不带概念"
+   ],
+   "key_points": [
+    {
+     "locator": "现量品",
+     "point": "离分别"
+    },
+    {
+     "locator": "为自比量品",
+     "point": "因三相"
+    },
+    {
+     "locator": "为他比量品",
+     "point": "论式与似因"
+    },
+    {
+     "locator": "全书",
+     "point": "纲要式量论"
+    }
+   ],
+   "editions": [
+    "梵本存（与法上《疏》合刊）；藏译存；**中译无**"
+   ],
+   "related_people": [
+    "in-india-dharmakirti",
+    "in-india-dignaga",
+    "in-india-gautama"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是详尽的量论体系",
+     "why": "其书**极短**，为纲要；细节须依法上《正理滴论疏》读。故不可当详论。"
+    },
+    {
+     "claim": "法称的量论＝陈那的复述",
+     "why": "其在**因三相的严格化**与“自相／共相”的判分上有所推进；故为承继而**有改**。"
+    }
+   ],
+   "sources": [
+    "sep-logic-india",
+    "sep-yogacara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Logic in Classical Indian Philosophy”转述，**未读梵本**；三分品目与法上疏的对应须核。",
+   "sort_year": 650
+  },
+  {
    "id": "work-wujing-zhengyi",
    "title": "《五经正义》",
    "title_original": "Wu Jing Zheng Yi（孔颖达等奉敕撰）",
@@ -16352,6 +16464,62 @@
    ],
    "needs_verification": true,
    "pending_notes": "本页据 SEP “Śaṅkara”转述，**未读梵本**；四编的分卷与对诸派的答辩（尤二编）须核校本与英译。",
+   "sort_year": 750
+  },
+  {
+   "id": "work-upadeshasahasri",
+   "title": "《示教千则》",
+   "title_original": "Upadeśasāhasrī（商羯罗）",
+   "tradition": "india",
+   "date_display": "约8世纪（商羯罗）",
+   "structure": "千颂体（散韵相间）：以“**你即彼**”（tat tvam asi）为核心，反复辨“我”与“梵”的同一，并答弟子之疑（如“无知何以能除”）。故其为**教学性的独立论著**，与《梵经注》之注疏体不同。",
+   "core_arguments": [
+    "**我梵同一**：经“非此非彼”的遮遣而证",
+    "**知即解脱**：行为不能生知，故解脱唯由知",
+    "**无明的去除**：无明非实有，故不须另一无明去其无明"
+   ],
+   "key_points": [
+    {
+     "locator": "散文篇",
+     "point": "我梵同一的论证"
+    },
+    {
+     "locator": "韵文篇",
+     "point": "遮遣与指称"
+    },
+    {
+     "locator": "答疑",
+     "point": "无明如何可除"
+    },
+    {
+     "locator": "全书",
+     "point": "教学体例"
+    }
+   ],
+   "editions": [
+    "梵本存；英译有（Mayeda 等）；**中译无全本**"
+   ],
+   "related_people": [
+    "in-india-shankara",
+    "in-india-ramanuja",
+    "in-india-kumarila"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是《梵经注》的节本",
+     "why": "其书是**独立的教学论著**（散韵相间、设问答），非《梵经注》的节略；二者的体例与对象不同。"
+    },
+    {
+     "claim": "“我梵同一”故个体我是虚构",
+     "why": "其说以个体我**于无明中实有**（世俗谛），唯于胜义不二；故不可径读作“我根本不存在”。"
+    }
+   ],
+   "sources": [
+    "sep-shankara",
+    "sep-nagarjuna"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Śaṅkara”转述，**未读梵本**；散文篇与韵文篇的分卷、以及 Mayeda 本的编号须核。",
    "sort_year": 750
   },
   {
