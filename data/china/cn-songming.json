@@ -5268,7 +5268,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-songming-zhujing2"
   },
   {
    "id": "cn-songming-liangzhi-xiancheng",
@@ -5457,7 +5458,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": true,
-   "pending_notes": "“德性之知”与“见闻之知”的区分在张载、朱熹、王阳明各系中的处理不同；本页并述其差异，具体文本须核《正蒙》与《朱子语类》。"
+   "pending_notes": "“德性之知”与“见闻之知”的区分在张载、朱熹、王阳明各系中的处理不同；本页并述其差异，具体文本须核《正蒙》与《朱子语类》。",
+   "broader": "cn-songming-wenjian-dexing"
   },
   {
    "id": "cn-songming-li-yi-fen-shu",

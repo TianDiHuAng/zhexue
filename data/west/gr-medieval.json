@@ -4834,7 +4834,8 @@
     "book-copleston-history"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-medieval-intellect-will"
   },
   {
    "id": "gr-medieval-transcendentals",
@@ -5024,7 +5025,8 @@
     "book-copleston-history"
    ],
    "needs_verification": true,
-   "pending_notes": "“古路/新路”的分野在14—15世纪各大学的制度化程度不同（巴黎、海德堡、维也纳各有差异）；本页述其一般的哲学含义，制度细节须核中世纪大学史研究。"
+   "pending_notes": "“古路/新路”的分野在14—15世纪各大学的制度化程度不同（巴黎、海德堡、维也纳各有差异）；本页述其一般的哲学含义，制度细节须核中世纪大学史研究。",
+   "broader": "gr-medieval-quaestio"
   },
   {
    "id": "gr-medieval-formal-distinction",
@@ -5099,7 +5101,8 @@
     "book-copleston-history"
    ],
    "needs_verification": true,
-   "pending_notes": "“奥卡姆的剃刀”这一名称与“如无必要勿增实体”的表述均非其原话，是后世的概括（类似表述见邓斯·司各脱与其他人）；本页标出这一点。"
+   "pending_notes": "“奥卡姆的剃刀”这一名称与“如无必要勿增实体”的表述均非其原话，是后世的概括（类似表述见邓斯·司各脱与其他人）；本页标出这一点。",
+   "broader": "gr-medieval-quaestio"
   },
   {
    "id": "gr-medieval-eternity-time",

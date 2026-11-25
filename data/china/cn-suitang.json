@@ -3720,7 +3720,8 @@
     "ws-chengweishi"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-suitang-yuanqi"
   },
   {
    "id": "cn-suitang-wuqingyouxing",
@@ -3858,7 +3859,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-suitang-dunwu"
   },
   {
    "id": "cn-suitang-zhiguan",
@@ -4126,7 +4128,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": true,
-   "pending_notes": "《大乘起信论》的成立问题（印度撰述／中国撰述）自隋代以来争论不断，故其思想的归属须谨慎；本页述其义理结构，不判定其成立地。"
+   "pending_notes": "《大乘起信论》的成立问题（印度撰述／中国撰述）自隋代以来争论不断，故其思想的归属须谨慎；本页述其义理结构，不判定其成立地。",
+   "broader": "cn-suitang-foxing"
   },
   {
    "id": "cn-suitang-buzhenkong",
@@ -4547,7 +4550,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": true,
-   "pending_notes": "“法界缘起”的表述在华严宗内部（智俨、法藏、澄观、宗密）有发展，其与“性起”的关系亦有不同说法；本页取法藏一系的基本表述。"
+   "pending_notes": "“法界缘起”的表述在华严宗内部（智俨、法藏、澄观、宗密）有发展，其与“性起”的关系亦有不同说法；本页取法藏一系的基本表述。",
+   "broader": "cn-suitang-yuanqi"
   }
  ],
  "debates": [

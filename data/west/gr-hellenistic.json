@@ -2808,7 +2808,8 @@
     "book-copleston-history"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-hellenistic-supreme-good"
   },
   {
    "id": "gr-hellenistic-atoms-void",
@@ -2886,7 +2887,8 @@
     "paper-s10608-025-10635-9"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-hellenistic-ataraxia"
   },
   {
    "id": "gr-hellenistic-prolepsis",
