@@ -12105,7 +12105,7 @@
     "book-copleston-history"
    ],
    "needs_verification": true,
-   "pending_notes": "《神秘神学》作者的托名问题（今通认为5—6世纪叙利亚修士）与希腊原文的版本须核；中译本情况待查，本页依中世纪哲学史与英译概述。",
+   "pending_notes": "已核（第338轮，据 sep-pseudo-dionysius）：SEP 的著作提要列其五章（ch.1 摩西登山、ch.2 雕像之喻、ch.3 著作次序、ch.4—5 施行否定），底本为 Corpus Dionysiacum II（eds. Heil & Ritter, 1991）。仍待核：五章的分章与译文措辞须核 Heil & Ritter 校本。",
    "sort_year": 500
   },
   {
@@ -12161,7 +12161,7 @@
     "sep-aquinas"
    ],
    "needs_verification": true,
-   "pending_notes": "本页据 SEP “Pseudo-Dionysius the Areopagite”转述，**未读希腊文本**；十三章的分章与 PG 3 的栏码须核 Suchla 校本。",
+   "pending_notes": "已核（第338轮，据 sep-pseudo-dionysius）：SEP 书目载底本为 Corpus Dionysiacum I（ed. B. R. Suchla, 1990）与英译 Luibheid & Rorem 1987；正文并载其书为“十三章”，为四部中最长。仍待核：十三章的逐章内容与 PG 3 栏码须核 Suchla 校本。",
    "sort_year": 500
   },
   {

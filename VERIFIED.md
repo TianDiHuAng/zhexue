@@ -33,3 +33,12 @@
 - **in-india-shankara**（据 `sep-shankara`）：SEP 首段称其 'flourished during the eighth century CE'，与本站所取约 700—750 相容
 
 > 说明：三项均为**内容级核销**（核到了日期／年代的原始表述），其页面的 `needs_verification` 仍为 true，因其尚有「未读梵本」等项；按 D72，全部核清方置 false。
+
+## 第 338 轮（目标第 12 轮）
+
+- **gr-medieval-pseudo-dionysius**（据 `sep-pseudo-dionysius`）：写作期 485—518/528，或为普罗克洛门人
+- **work-divine-names**（据 `sep-pseudo-dionysius`）：底本 Suchla 1990／英译 Luibheid & Rorem 1987；其书十三章
+- **work-mystical-theology**（据 `sep-pseudo-dionysius`）：底本 Heil & Ritter 1991；五章结构与提要相合
+- **in-india-jaimini**（据 `sep-logic-india`）：书目载 “Jaimini's Mīmāṃsā Sūtra, Bk. 1, Ch. 1, by Kumārila Bhaṭṭa”
+
+> 四项均为**内容级核销**（核到年代、底本、章数与书目关系）；页面 `needs_verification` 仍为 true（尚有待核项）。

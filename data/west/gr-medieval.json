@@ -3945,7 +3945,7 @@
     "sep-plotinus"
    ],
    "needs_verification": true,
-   "pending_notes": "本页据 SEP “Pseudo-Dionysius the Areopagite”（2004-09-06／2023-06-05）转述，**未读其希腊文本**；生卒为推定（写作期 485—518/528），非可考事实。《论神名》《神秘神学》的中译（包利民译）未及核对。",
+   "pending_notes": "已核（第338轮，据 sep-pseudo-dionysius）：SEP 明载其写作在 485—518/528 之间（'we can place Dionysius’ authorship between 485 and 518–28 CE'），并谓其或为普罗克洛门人。仍待核：其书希腊文本未读；四部著作的分章与 PG 3 栏码须核校本。",
    "doctrine": {
     "summary": "伪狄奥尼修斯把普罗克洛的流溢与等级结构整体移入基督教：以肯定神学称说神名，以象征神学借“不似的相似”引人上升，最终以否定神学舍去一切名而归于沉默。其“等级”（hierarchy）不是权力层叠，而是净化—光照—成全的次序，使天上与地上的阶序成为人上升的阶梯。",
     "system": [
