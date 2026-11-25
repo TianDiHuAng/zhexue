@@ -381,3 +381,14 @@ D66 说"链接通 ≠ 来源对"。第254轮把它拆成两部分并做成工具
 `sep-boethius` 结案未入表 —— 手写清单会随数据漂移并"撒谎"。
 处置：`THIN_WORKS.md` 改由 `tools/thincheck.py` 生成（配 `debtcheck.py`／`GAPS_WORKS` 重生成）；
 `BACKLOG_SOURCES.md` 每若干轮整体复核，分"仍待补／已结案／技术性欠账"三节，已结案者移出待办。
+
+## D75（第 299 轮后）GitHub Actions 反复失败：根因是 Pages 未启用，非内容问题
+现象：每次 push 都收到一次 workflow 失败通知（"很多失败推送信息"）。
+排查：本地逐条跑工作流的前六步（dupcheck／srccheck／refcheck／check.py／gen／check_links）**全部 exit 0**；
+另查三处经典的"Windows 过、Linux 挂"隐患，均无：
+① 链接大小写不一致 **0 处**（Windows 不区分大小写，Linux 区分，是本类故障最常见来源）；
+② 仅大小写不同的文件名冲突 **0 组**；
+③ 非 ASCII 文件名 **0 个**；工具内无硬编码盘符、无反斜杠切分、无 `os.sep` 拼路径。
+结论：失败点在最后三步 Pages 发布（`configure-pages` → `upload-pages-artifact` → `deploy-pages`），
+**根因是仓库未启用 Pages（或 Source 未设为 "GitHub Actions"）**。
+处置：在 Settings → Pages 把 Source 设为 **GitHub Actions**。此后 push 即自动部署；若仍失败，先看 Actions 日志中 `configure-pages` 一步的报错原文。
