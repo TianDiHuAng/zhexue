@@ -2,9 +2,9 @@
  "unit_id": "in-india",
  "region": "india",
  "title": "印度哲学（正统六派与佛教）",
- "period": "约前600—公元800",
+ "period": "约前600—公元1150",
  "start_year": -600,
- "end_year": 800,
+ "end_year": 1150,
  "summary": "印度哲学以“解脱”为共同关切，而分歧在于：什么算是可靠的知识（量）、什么是“我”、语言能否触及实在。正统六派（正理、胜论、数论、瑜伽、弥曼差、吠檀多）与佛教、耆那教、顺世派在同一批问题上长期互辩。本单元先收四家：正理派以量与十六谛立知识论的公共语言，佛教瑜伽行与中观从“识的转变”与“破自性”两面回应，弥曼差则以共相实在论与“有效性自足”反攻。四家之争塑造了此后千年的印度哲学议程。",
  "threads": [
   "量之争：知觉、推断、证言何者为先",
@@ -1794,6 +1794,185 @@
      "note": "引用须注明是经还是注；注中的引申不可径归乔答摩"
     }
    ]
+  },
+  {
+   "id": "in-india-ramanuja",
+   "name": "罗摩奴阇",
+   "latin": "Rāmānuja",
+   "birth_year": 1017,
+   "death_year": 1137,
+   "birth_display": "约1017年",
+   "death_display": "约1137年",
+   "birth_note": "传统作 1017—1137（寿 120 岁），近世研究多作 1077—1157（寿 80 岁）；生于南印度泰米尔地区的 Śrīperumbūdur。",
+   "death_note": "卒年有 1137 与 1157 两说（见上）；本页取传统系年，属推定。",
+   "era": "十一至十二世纪的南印度：不二吠檀多已成主流，而泰米尔毗湿奴信仰（Śrī Vaiṣṇava）的虔信传统须在梵语的学术世界里立说。罗摩奴阇的《梵经注》（Śrī Bhāṣya）即以“限制不二论”回应这两重处境：一面驳不二论，一面把 bhakti（虔信）立为知识与解脱的核心；其说成为此后印度最有群众基础的哲学。",
+   "school": "限制不二论（Viśiṣṭādvaita）",
+   "core_questions": [
+    "若“我”与“梵”同一，个体与无明的关系如何成立？",
+    "意识是否必有所对？可有“纯意识”吗？",
+    "“汝即彼”（tat tvam asi）当如何解？"
+   ],
+   "arguments": [
+    {
+     "claim": "意识必有所对：故无“离一切差别”的纯意识",
+     "premises": [
+      "凡意识皆是“对某物、带某特征”的意识（意向性）。",
+      "若意识须有对象方能存在，则“离一切差别之纯意识”不可能。"
+     ],
+     "inference": "故不二论所谓“唯有无差别的意识为真”不能成立：既无纯意识，则差别与多数必与意识同在。此一命题即其“dharmabhūtajñāna”之说。",
+     "conclusion": "梵有属性、有德、有所对；差别是实在的。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "意识是某物的属性：故不能说“梵即纯知”而无属性",
+     "premises": [
+      "不二论许“梵是真、知、无限”，但谓此非梵的属性，而是梵的本性。",
+      "然“知”若为属性，则须有一个具有此属性者。"
+     ],
+     "inference": "故须承认梵是“有属性者”，其德（真、知、无限）即其属性；否则语言对梵的一切言说皆成虚设。",
+     "conclusion": "梵是有德者，非无属性之抽象。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "个体先于无明：故个体非无明所生",
+     "premises": [
+      "不二论以无明（avidyā）解释个体的出现。",
+      "然“无明”须有一个能无明者；而梵既是纯知，不能是无明的主体。"
+     ],
+     "inference": "故能无明者必是梵之外的个体；若无明要用以解释个体，则已预设了个体的存在，成循环。故个体是实在的，其存在先于其无明。",
+     "conclusion": "个体实有（虽以梵为内我），故差别不虚。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "“汝即彼”是同位predication，不是数目同一",
+     "premises": [
+      "若“汝”与“彼”数目同一，则“汝”（有限）与“彼”（无限）的属性互相冲突。",
+      "然此语句并非无义：如“此人是那童子”（同一人不同阶段）。"
+     ],
+     "inference": "故“汝即彼”须解为“同位predication”：二者所指为一，而所显的属性有别 —— 个体是梵的“样式”（prakāra），以梵为内我，而不即是梵的全部。",
+     "conclusion": "同一与差别可并存：此即“限制不二”之义。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《梵经注》（Śrī Bhāṣya）",
+     "edition": "校订本（Melkote 1985）；英译 Thibaut（SBE 48）"
+    },
+    {
+     "title": "《吠陀义纲要》（Vedārthasaṅgraha）",
+     "edition": "英译 van Buitenen 1956／Ragavachar 1968"
+    },
+    {
+     "title": "《薄伽梵歌注》（Gītā Bhāṣya）",
+     "edition": "英译 Adidevananda 1991"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "耶牟那（Yāmuna）",
+     "id": null,
+     "note": "Śrī Vaiṣṇava 的前辈；其《悉檀三论》为其先声"
+    },
+    {
+     "name": "泰米尔阿尔瓦尔（Āḻvār）的虔信诗",
+     "id": null,
+     "note": "十二位诗人的泰米尔诗集为其传统所依"
+    }
+   ],
+   "influenced": [
+    {
+     "name": " Śrī Vaiṣṇava 的两支（北/南）",
+     "id": null,
+     "note": "其后二世纪内分为 Vaḍagalai 与 Tengalai，皆以之为宗"
+    },
+    {
+     "name": "商羯罗一系（作为论辩对手）",
+     "id": "in-india-shankara",
+     "note": "其《梵经注》以驳不二论为主要目标之一"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "不二吠檀多（商羯罗一系）",
+     "view": "若个体实有而梵又有属性，则“不二”之名不副实；且以“样式”说个体，仍是一种差别论，与《奥义书》“无二”之教相违。",
+     "response": "罗摩奴阇的回应是：“无二”指无“与梵并列的第二实体”，非无“梵之属性与样式”；个体以梵为内我，故不二与差别可并存。此即“限制不二”之实义。",
+     "kind": "后人解读",
+     "sources": [
+      "iep-ramanuja",
+      "sep-shankara"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“限制不二论”是折中妥协的调和说",
+     "why": "其说有明确的论证（意向性、属性、个体先于无明、同位predication），非折中；其与不二论的分歧在**意识的意向性**这一根本点上。"
+    },
+    {
+     "claim": "其说以 bhakti 取代知识，故是“非理性的虔信”",
+     "why": "其说把 bhakti 本身立为**认识状态**（对梵之性的直接觉知，类同现量），故其为知识论的主张，非反理性。"
+    },
+    {
+     "claim": "《吉祥注》等“三颂”必为其亲笔",
+     "why": "除《梵经注》《吠陀义纲要》《歌注》三部大著外，其余（含 Gadyas）的**真伪学界有争议**；本页只标“传统所传”，不裁定。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 320'><rect x='0' y='0' width='760' height='320' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>罗摩奴阇：限制不二论（示意）</text><rect x='40' y='70' width='300' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='190' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>梵（brahman）</text><text x='190' y='114' text-anchor='middle' font-size='10' fill='#1e2d3d'>有属性·有德·有人格</text><rect x='420' y='70' width='300' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='570' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>个我与众物</text><text x='570' y='114' text-anchor='middle' font-size='10' fill='#1e2d3d'>实有，而为其“样式”</text><rect x='150' y='164' width='460' height='66' rx='6' fill='#e6eff7' stroke='#5b8db8'/><text x='380' y='188' text-anchor='middle' font-size='12' fill='#1e2d3d'>意识必有所对，故无“纯意识”的梵</text><text x='380' y='210' text-anchor='middle' font-size='10' fill='#1e2d3d'>反不二论：个体先于无明，非无明所生</text><text x='380' y='300' text-anchor='middle' font-size='11' fill='#5b7a96'>据 IEP “Ramanuja”的解说重构</text></svg>",
+   "svg_caption": "罗摩奴阇：限制不二论（重构示意图）",
+   "sources": [
+    "iep-ramanuja",
+    "sep-shankara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 IEP “Ramanuja”（Ranganathan 撰，2026-11-25 实开）与 SEP “Śaṅkara”转述，**未读《梵经注》梵本**；生卒取传统系年（1017—1137），近世研究多作 1077—1157，本页并记而不裁定。其与不二论的具体往复文献、以及 Gadyas 的真伪之争须核专门研究。",
+   "doctrine": {
+    "summary": "罗摩奴阇以“限制不二论”立说：梵是有属性、有德、有人格者，个体与众物是其实有的“样式”，以梵为内我而不即是梵的全部。他以意识的意向性、意识为属性、个体先于无明三点驳不二论，又以“同位predication”解“汝即彼”，并把 bhakti 立为认识状态。其说成为印度最有群众基础的哲学，并在其后二世纪分为南北两支。",
+    "system": [
+     {
+      "name": "意向性",
+      "content": "凡意识皆有所对；故无离一切差别的纯意识。"
+     },
+     {
+      "name": "梵有属性",
+      "content": "真、知、无限是梵之德，非其无属性之本性。"
+     },
+     {
+      "name": "个体实有",
+      "content": "个体是梵的样式，以梵为内我；其存在先于无明。"
+     },
+     {
+      "name": "同位predication",
+      "content": "“汝即彼”所指为一而所显有别，故同一与差别并存。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "11—12世纪（其人）",
+      "change": "作《梵经注》等，立限制不二论；改革寺院与 worship。"
+     },
+     {
+      "period": "13—14世纪",
+      "change": "Śrī Vaiṣṇava 分为北（Vaḍagalai）南（Tengalai）两支，争“恩典是否待个人努力”。"
+     },
+     {
+      "period": "近现代",
+      "change": "其传统仍是南印度毗湿奴信仰的主干，亦被列为吠檀多三大派之一。"
+     }
+    ],
+    "reception": "其说使 bhakti 与梵语学术相接，成为印度最有群众基础的哲学（Potter 谓其传统或为今日信众最多的一支）；其对不二论的批评则使吠檀多内部形成“不二／限制不二／二元”三派并立的格局。"
+   },
+   "works_detail": [
+    {
+     "title": "《梵经注》（Śrī Bhāṣya）",
+     "year": "约12世纪",
+     "date": "依《梵经》四编分卷",
+     "structure": "逐经注释《梵经》四编；一编立其说并驳不二论与差别不二论，二编答辩诸派，三编论修行，四编论解脱之果。",
+     "core_thesis": "梵有属性；个体为梵之样式而实有；bhakti 为知与解脱之要。",
+     "editions": "Melkote 1985 校订本；Thibaut 英译（SBE 48）",
+     "note": "与商羯罗《梵经注》同名而立场相反，引用须注明作者"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -2027,6 +2206,11 @@
      "name": "世亲",
      "id": "in-india-vasubandhu",
      "usage": "以刹那相续与种子熏习说明业报与记忆，无须常我；《俱舍论》末品专破“我”执。"
+    },
+    {
+     "name": "罗摩奴阇",
+     "id": "in-india-ramanuja",
+     "usage": "个我实有，是梵的“样式”，以梵为内我而不即是梵之全部；故“我”非幻，亦非与梵数目同一。"
     }
    ],
    "related": [
@@ -2081,6 +2265,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "五支与三支的差异、以及“为自／为他比量”的分疏，本页据 SEP 转述；耆那教与文法家的推理说未及。"
+  },
+  {
+   "id": "in-india-brahman",
+   "term": "梵",
+   "term_latin": "brahman",
+   "definition": "《奥义书》所谓万物的终极实在。吠檀多各派的分歧在于：梵是有属性的人格神，还是无差别的纯粹意识。",
+   "usages": [
+    {
+     "name": "商羯罗",
+     "id": "in-india-shankara",
+     "usage": "梵是无差别、无属性的纯粹存在与意识；名色是“不可说”的显现，个体之我（ātman）与梵数目同一。"
+    },
+    {
+     "name": "罗摩奴阇",
+     "id": "in-india-ramanuja",
+     "usage": "梵是有属性、有德、有人格者；个体与众物是其实有的“样式”，以梵为内我而不即是梵之全部。"
+    },
+    {
+     "name": "鸠摩利罗（童中尊）",
+     "id": "in-india-kumarila",
+     "usage": "弥曼差原不以“梵”为议论中心；其学以“法”（dharma）与吠陀的仪轨为要，梵的问题属吠檀多一系。"
+    }
+   ],
+   "related": [
+    "in-india-atman",
+    "in-india-shunyata"
+   ],
+   "example": {
+    "text": "“汝即彼”当如何解？不二论谓二者数目同一；罗摩奴阇谓所指为一而所显有别，如“此人是那童子”；弥曼差则谓此非其中心问题。",
+    "figure": "“汝即彼”的三种读法"
+   },
+   "sources": [
+    "sep-shankara",
+    "iep-ramanuja",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“梵”在二元论（Dvaita，摩陀婆）与差别不二论（Bhedābheda）中的说法未及；本页只取商羯罗与罗摩奴阇两家对照，并注明弥曼差不以之为中心。"
   }
  ],
  "debates": [

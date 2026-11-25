@@ -9848,6 +9848,28 @@
     "keyword": "First published Tue Apr 19, 2011",
     "keyword_seen": true
    }
+  },
+  {
+   "id": "iep-ramanuja",
+   "title": "Ramanuja（IEP 词条）",
+   "author": "Ranganathan, Shyam",
+   "year": 2000,
+   "year_note": "IEP 词条（页面未标首版日；2026-11-25 实开核验）",
+   "publisher": "Internet Encyclopedia of Philosophy",
+   "type": "百科",
+   "url": "https://iep.utm.edu/ramanuja/",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "罗摩奴阇专条：论限制不二论（Viśiṣṭādvaita）的形而上学与对不二论的批评（意识的意向性、意识为属性、个体实有）、tat tvam asi 的“同位predication”解释、bhakti 作为认识状态、错误论、伦理与 prapatti 的真伪之争",
+   "unit_hint": "in-india",
+   "verify": {
+    "method": "http-page",
+    "http_status": 200,
+    "checked_at": "2026-11-25",
+    "keyword": "Rāmānuja (c. 1017 – c. 1137)",
+    "keyword_seen": true
+   }
   }
  ]
 }

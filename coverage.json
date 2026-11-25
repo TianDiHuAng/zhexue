@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1844,
+  "entries": 1847,
   "by_level": {
    "L2": 793,
-   "L1": 1051
+   "L1": 1054
   },
   "doctrine": {
-   "total": 319,
-   "detail": 319,
+   "total": 320,
+   "detail": 320,
    "auto": 0
   },
-  "needs_verification": 1051,
-  "sources": 429,
-  "sources_verified": 429
+  "needs_verification": 1054,
+  "sources": 430,
+  "sources_verified": 430
  },
  "units": [
   {
@@ -83,10 +83,10 @@
    "unit_id": "in-india",
    "title": "印度哲学（正统六派与佛教）",
    "region": "india",
-   "philosophers": 11,
-   "concepts": 8,
+   "philosophers": 12,
+   "concepts": 9,
    "debates": 2,
-   "philosophers_slot": "8 上限，余 -3"
+   "philosophers_slot": "8 上限，余 -4"
   },
   {
    "unit_id": "gr-19c",
@@ -4717,6 +4717,17 @@
    "updated": "2026-11-25"
   },
   {
+   "id": "in-india-ramanuja",
+   "type": "philosopher",
+   "title": "罗摩奴阇",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
    "id": "in-india-pramana",
    "type": "concept",
    "title": "量",
@@ -4801,6 +4812,17 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-brahman",
+   "type": "concept",
+   "title": "梵",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-25"
   },
@@ -20439,6 +20461,17 @@
    "id": "school-nyaya",
    "type": "school",
    "title": "正理派",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "school-vedanta",
+   "type": "school",
+   "title": "吠檀多派",
    "container": "in-india",
    "level": "L1",
    "sources": 2,

@@ -2356,6 +2356,39 @@
    ],
    "needs_verification": true,
    "pending_notes": "正理与胜论的合流年代、以及古正理（Pracya）与新正理（Navya）的分期，须核专门研究；本页只列两位代表，未及 Uddyotakara、Vācaspati、Gaṅgeśa 等注家与形式化者。"
+  },
+  {
+   "id": "school-vedanta",
+   "name": "吠檀多派",
+   "region": "india",
+   "era": "约8世纪至今（商羯罗至近世诸派）",
+   "unit": "in-india",
+   "core_claims": [
+    "《奥义书》与《梵经》为共同文本，梵为万物终极实在",
+    "个体之我（ātman）与梵的关系是各派分歧的核心",
+    "解脱即知梵；知与行为的关系亦为争点",
+    "注释传统即哲学工作：同经异注而立场相反"
+   ],
+   "representatives": [
+    {
+     "name": "商羯罗",
+     "id": "in-india-shankara",
+     "note": "不二论：梵无属性，我梵同一"
+    },
+    {
+     "name": "罗摩奴阇",
+     "id": "in-india-ramanuja",
+     "note": "限制不二论：梵有属性，个体为梵之样式而实有"
+    }
+   ],
+   "rise": "八世纪商羯罗注《梵经》而立不二论，使吠檀多成为正统六派中最有力的一支；十二世纪罗摩奴阇以限制不二论反之，此后又有二元论与差别不二论，吠檀多遂成诸派并立的局面。",
+   "decline": "其学未衰落：至今仍是印度哲学中最有影响的一系（其信众或为各派之最）。本页不设“衰落”之实，只记其形态由单一的不二论转为多派并立。",
+   "sources": [
+    "sep-shankara",
+    "iep-ramanuja"
+   ],
+   "needs_verification": true,
+   "pending_notes": "摩陀婆（二元论）与差别不二论的代表未收入站内，故本页只列两家；三派并立的完整图景须待加人。"
   }
  ]
 }
