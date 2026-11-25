@@ -2731,6 +2731,83 @@
    ],
    "needs_verification": true,
    "pending_notes": "三家说法据 SEP “Nāgārjuna”“Yogācāra”“Śaṅkara”转述；“有余涅槃／无余涅槃”的部派细目未及。"
+  },
+  {
+   "id": "in-india-trisvabhava",
+   "term": "三性（trisvabhāva）",
+   "term_latin": "trisvabhāva",
+   "definition": "瑜伽行派用以说明迷悟结构的三个层次：遍计所执性、依他起性、圆成实性。它不是三个世界，而是同一依他起上的去取。",
+   "usages": [
+    {
+     "name": "无著",
+     "id": "in-india-asanga",
+     "usage": "于依他起上增益“能取／所取”的二分，即遍计所执；于此离二分，即圆成实。故三性是同一依他起的三层。"
+    },
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "以三性说“空”：遍计所执无，依他起与圆成实有；故“空”是去增益，而非废除世间。"
+    },
+    {
+     "name": "龙树（作为批评者）",
+     "id": "in-india-nagarjuna",
+     "usage": "不许以“依他起”为自性有：若依他起有自性，则与“一切法无自性”相违；故三性须在缘起上说。"
+    }
+   ],
+   "related": [
+    "in-india-shunyata",
+    "in-india-svabhava",
+    "in-india-avidya"
+   ],
+   "example": {
+    "text": "绳上见蛇：蛇（遍计）非有，绳（依他起）非无，知其为绳（圆成实）——三层不是三个东西，而是同一处的三种看法。",
+    "figure": "绳与蛇（三性的通例）"
+   },
+   "sources": [
+    "sep-yogacara",
+    "sep-nagarjuna"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三性说据 SEP “Yogācāra”转述；龙树一栏系从“破自性”立场推出的批评，非其直接论三性的文字。"
+  },
+  {
+   "id": "in-india-two-truths",
+   "term": "胜义与世俗",
+   "term_latin": "paramārtha／saṃvṛti",
+   "definition": "中观用以安立言说与实相的两重真理。它常被误读为“两个世界”，其实是同一实在的两重说法。",
+   "usages": [
+    {
+     "name": "龙树",
+     "id": "in-india-nagarjuna",
+     "usage": "世俗是世间共许的言说与行为脉络，胜义是于此脉络上离戏论的实相；若二谛为两个世界，则世俗成可废之幻。"
+    },
+    {
+     "name": "月称",
+     "id": "in-india-candrakirti",
+     "usage": "于世俗中行六度，于胜义中不见自性；故世俗不可废，正因世俗的缘起才可说空。"
+    },
+    {
+     "name": "清辨",
+     "id": "in-india-bhaviveka",
+     "usage": "分“正世俗”（世间共许而不错乱）与“倒世俗”（如眩翳所见）：前者可依之立因喻，后者不可。"
+    }
+   ],
+   "related": [
+    "in-india-shunyata",
+    "in-india-nirvana",
+    "in-india-pramana"
+   ],
+   "example": {
+    "text": "水月非真而可见：世俗如水中月，胜义如知其为影——两层不是两处，而是同一处的两种看法。",
+    "figure": "水中月（二谛的通例）"
+   },
+   "sources": [
+    "sep-nagarjuna",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "二谛说与“正世俗／倒世俗”之分据 SEP “Nāgārjuna”转述；与《中论》第二十四品的原文对应须核。",
+   "broader": "in-india-shunyata"
   }
  ],
  "debates": [
