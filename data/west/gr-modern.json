@@ -5791,7 +5791,8 @@
     "iep-locke"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-modern-idea"
   },
   {
    "id": "gr-modern-blank-slate",
@@ -5830,7 +5831,8 @@
     "sep-leibniz"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-modern-idea"
   },
   {
    "id": "gr-modern-cogito",
@@ -5945,7 +5947,8 @@
     "sep-leibniz"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-modern-idea"
   },
   {
    "id": "gr-modern-causation",
@@ -6102,7 +6105,8 @@
     "sep-locke"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-modern-primary-secondary"
   },
   {
    "id": "gr-modern-evil-demon",
@@ -6213,7 +6217,8 @@
     "book-copleston-history"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-modern-contract"
   },
   {
    "id": "gr-modern-passions",
@@ -6327,7 +6332,8 @@
     "sep-rousseau"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-modern-contract"
   },
   {
    "id": "gr-modern-idea-way",
@@ -6366,7 +6372,8 @@
     "book-copleston-history"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-modern-idea"
   },
   {
    "id": "gr-modern-monad",
@@ -6405,7 +6412,8 @@
     "emt-leibniz"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-modern-substance"
   },
   {
    "id": "gr-modern-is-ought",
@@ -6515,7 +6523,8 @@
     "sep-hume"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-modern-moral-sense"
   },
   {
    "id": "gr-modern-soft-despotism",
@@ -6625,7 +6634,8 @@
     "sep-kant"
    ],
    "needs_verification": true,
-   "pending_notes": "“公正的旁观者”在《道德情操论》中的表述有演变（尤其第六版）；其与休谟“道德感”说之别亦须分辨。"
+   "pending_notes": "“公正的旁观者”在《道德情操论》中的表述有演变（尤其第六版）；其与休谟“道德感”说之别亦须分辨。",
+   "broader": "gr-modern-moral-sense"
   },
   {
    "id": "gr-modern-biyou-cunzai",

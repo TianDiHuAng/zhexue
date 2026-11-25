@@ -3484,7 +3484,8 @@
     "ws-mohezhiguan"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-suitang-yuanqi"
   },
   {
    "id": "cn-suitang-yiniansanqian",
@@ -3749,7 +3750,8 @@
     "sep-yogacara"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-suitang-weishi"
   },
   {
    "id": "cn-suitang-sanju",
@@ -3892,7 +3894,8 @@
     "sep-madhyamaka"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-suitang-yuanqi"
   },
   {
    "id": "cn-suitang-xingju",
@@ -3931,7 +3934,8 @@
     "sep-madhyamaka"
    ],
    "needs_verification": true,
-   "pending_notes": "“性具”一词的确切用法在智顗与湛然之间有所发展（智顗多用“一念三千”，湛然以“性具”立说）；本页并述其义，具体文本须核《摩诃止观》与《金刚錍》。"
+   "pending_notes": "“性具”一词的确切用法在智顗与湛然之间有所发展（智顗多用“一念三千”，湛然以“性具”立说）；本页并述其义，具体文本须核《摩诃止观》与《金刚錍》。",
+   "broader": "cn-suitang-yiniansanqian"
   },
   {
    "id": "cn-suitang-huayan-shishi",
@@ -3968,7 +3972,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "“六相”的表述在智俨、法藏、澄观之间有发展；本页依法藏《五教章》与华严宗研究概述，具体文本须核《大正藏》第45卷。"
+   "pending_notes": "“六相”的表述在智俨、法藏、澄观之间有发展；本页依法藏《五教章》与华严宗研究概述，具体文本须核《大正藏》第45卷。",
+   "broader": "cn-suitang-fajie-yuanqi"
   },
   {
    "id": "cn-suitang-dunwu-jianxiu",
@@ -4006,7 +4011,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": true,
-   "pending_notes": "《坛经》的版本（敦煌本、惠昕本、契嵩本、宗宝本）差异很大，敦煌本与通行本在“顿悟”的表述上有出入；本页依通行本所述，具体文句须核敦煌本。"
+   "pending_notes": "《坛经》的版本（敦煌本、惠昕本、契嵩本、宗宝本）差异很大，敦煌本与通行本在“顿悟”的表述上有出入；本页依通行本所述，具体文句须核敦煌本。",
+   "broader": "cn-suitang-dunwu"
   },
   {
    "id": "cn-suitang-shishi-wuai",
@@ -4044,7 +4050,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-suitang-fajie-yuanqi"
   },
   {
    "id": "cn-suitang-yixin-ermen",
@@ -4117,7 +4124,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-suitang-yuanqi"
   },
   {
    "id": "cn-suitang-wuxing-geju",
@@ -4154,7 +4162,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": true,
-   "pending_notes": "“五时八教”的体系化程度在智顗、灌顶与后世天台注家之间有发展；本页依《法华玄义》与天台宗研究概述，具体名目须核《大正藏》第33卷。"
+   "pending_notes": "“五时八教”的体系化程度在智顗、灌顶与后世天台注家之间有发展；本页依《法华玄义》与天台宗研究概述，具体名目须核《大正藏》第33卷。",
+   "broader": "cn-suitang-panjiao"
   },
   {
    "id": "cn-suitang-jiaoxiang",
@@ -4192,7 +4201,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": true,
-   "pending_notes": "“判教”与“教相判释”在用法上有广狭之别（前者通指分类，后者特指天台、华严的体系化判释）；本页取其狭义，具体名目须核各家原典。"
+   "pending_notes": "“判教”与“教相判释”在用法上有广狭之别（前者通指分类，后者特指天台、华严的体系化判释）；本页取其狭义，具体名目须核各家原典。",
+   "broader": "cn-suitang-panjiao"
   },
   {
    "id": "cn-suitang-yizi-buershi",
@@ -4346,7 +4356,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": true,
-   "pending_notes": "“五重唯识观”的体系化归于窥基（《大乘法苑义林章》《成唯识论述记》）；本页依唯识宗研究概述，具体名目与次第须核《大正藏》第43—45卷。"
+   "pending_notes": "“五重唯识观”的体系化归于窥基（《大乘法苑义林章》《成唯识论述记》）；本页依唯识宗研究概述，具体名目与次第须核《大正藏》第43—45卷。",
+   "broader": "cn-suitang-weishi"
   },
   {
    "id": "cn-suitang-sanxing",
@@ -4384,7 +4395,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": true,
-   "pending_notes": "三性（遍计、依他、圆成）与三无性（相无性、生无性、胜义无性）的配对关系在《成唯识论》与《摄大乘论》之间有表述差异；本页依《成唯识论》与唯识学研究概述。"
+   "pending_notes": "三性（遍计、依他、圆成）与三无性（相无性、生无性、胜义无性）的配对关系在《成唯识论》与《摄大乘论》之间有表述差异；本页依《成唯识论》与唯识学研究概述。",
+   "broader": "cn-suitang-weishi"
   },
   {
    "id": "cn-suitang-buzeng-bujian",
@@ -4459,7 +4471,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": true,
-   "pending_notes": "“十如是”的句读在学界有不同读法（尤其“本末究竟等”一句），直接影响其解释；本页依《法华玄义》与天台研究概述，句读问题须核原典。"
+   "pending_notes": "“十如是”的句读在学界有不同读法（尤其“本末究竟等”一句），直接影响其解释；本页依《法华玄义》与天台研究概述，句读问题须核原典。",
+   "broader": "cn-suitang-yiniansanqian"
   },
   {
    "id": "cn-suitang-fajie-yuanqi",

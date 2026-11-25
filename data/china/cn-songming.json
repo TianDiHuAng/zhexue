@@ -4245,7 +4245,8 @@
     "paper-s11712-024-09946-7"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-songming-ge-wu"
   },
   {
    "id": "cn-songming-wenjian-dexing",
@@ -4478,7 +4479,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": true,
-   "pending_notes": "《太极图说》首句各本有“无极而太极”与“无极而生太极”之异，版本差异直接影响解读；本页并列朱陆两读，不判定孰是。"
+   "pending_notes": "《太极图说》首句各本有“无极而太极”与“无极而生太极”之异，版本差异直接影响解读；本页并列朱陆两读，不判定孰是。",
+   "broader": "cn-songming-taiji"
   },
   {
    "id": "cn-songming-han-yang",
@@ -4552,7 +4554,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-songming-zhi-liangzhi"
   },
   {
    "id": "cn-songming-zhi-zhi",
@@ -4591,7 +4594,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-songming-ge-wu"
   },
   {
    "id": "cn-songming-dexing-lunli",
@@ -4743,7 +4747,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-songming-li-qi"
   },
   {
    "id": "cn-songming-ti-yong-yi-yuan",
@@ -4855,7 +4860,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": true,
-   "pending_notes": "“四句教”的原文与王阳明本人对它的解释（《传习录》下卷“天泉证道”一节）出自门人记录，其措辞与语境须核；王畿与钱德洪的两读亦见该书。"
+   "pending_notes": "“四句教”的原文与王阳明本人对它的解释（《传习录》下卷“天泉证道”一节）出自门人记录，其措辞与语境须核；王畿与钱德洪的两读亦见该书。",
+   "broader": "cn-songming-zhi-liangzhi"
   },
   {
    "id": "cn-songming-taixu-jiqi",
@@ -4892,7 +4898,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-songming-taixu"
   },
   {
    "id": "cn-songming-bianhua-qizhi",

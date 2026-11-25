@@ -5205,7 +5205,8 @@
     "book-heidegger-bt"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-20c-being-in-world"
   },
   {
    "id": "gr-20c-language-game",
@@ -5304,7 +5305,8 @@
     "iep-sartre"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-20c-existence-essence"
   },
   {
    "id": "gr-20c-existence-essence",
@@ -5370,7 +5372,8 @@
     "book-wittgenstein-pi"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-20c-language-game"
   },
   {
    "id": "gr-20c-being-toward-death",
@@ -5549,7 +5552,8 @@
     "iep-husserl"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-20c-lifeworld"
   },
   {
    "id": "gr-20c-epoche-revisited",
@@ -5587,7 +5591,8 @@
     "sep-heidegger"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-20c-reduction"
   },
   {
    "id": "gr-20c-das-man",
@@ -5623,7 +5628,8 @@
     "sep-sartre"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-20c-being-in-world"
   },
   {
    "id": "gr-20c-thrownness",
@@ -5660,7 +5666,8 @@
     "sep-sartre"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-20c-being-in-world"
   },
   {
    "id": "gr-20c-ready-to-hand",
@@ -5698,7 +5705,8 @@
     "book-wittgenstein-pi"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-20c-being-in-world"
   },
   {
    "id": "gr-20c-essence-intuition",
@@ -5737,7 +5745,8 @@
     "sep-wittgenstein"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-20c-reduction"
   },
   {
    "id": "gr-20c-forgetfulness-of-being",
@@ -5811,7 +5820,8 @@
     "sep-sartre"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-20c-being-toward-death"
   },
   {
    "id": "gr-20c-performativity",
@@ -5847,7 +5857,8 @@
     "paper-s40926-024-00251-0"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-20c-language-game"
   },
   {
    "id": "gr-20c-material-apriori",
