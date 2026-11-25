@@ -23739,6 +23739,62 @@
    "sort_year": 1620
   },
   {
+   "id": "work-lunyu-xuean",
+   "title": "《论语学案》",
+   "title_original": "Lun Yu Xue An（刘宗周）",
+   "tradition": "china",
+   "date_display": "明末（刘宗周，17世纪初）",
+   "structure": "逐章解《论语》，以“学案”为名而行“心性”之说：不重训诂名物，而以经文证其“诚意”“慎独”之旨。",
+   "core_arguments": [
+    "**以《论语》证慎独**：独者，意之微处，故须“慎”",
+    "**诚意为主**：不事训诂而以经文反身",
+    "**批朱学末流**：反对以格物为“求之于外”"
+   ],
+   "key_points": [
+    {
+     "locator": "学而",
+     "point": "学之实义"
+    },
+    {
+     "locator": "为政",
+     "point": "德与礼"
+    },
+    {
+     "locator": "里仁",
+     "point": "仁与慎独"
+    },
+    {
+     "locator": "全书",
+     "point": "以经证心"
+    }
+   ],
+   "editions": [
+    "《四库全书》本；亦收入《刘子全书》"
+   ],
+   "related_people": [
+    "cn-songming-liu-zongzhou",
+    "cn-songming-wang-yangming",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“《论语》的注疏”",
+     "why": "其书借经以立**诚意慎独**之旨，不重名物训诂；故为“学案”体（以经证心），非注疏体。"
+    },
+    {
+     "claim": "刘宗周属“王学末流”",
+     "why": "其学虽承阳明，而**以“意”为心之所存**（非所发），与王畿一系正相反；故不可归为末流。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据《明儒学案·蕺山学案》与 SEP 通行叙述，**未校《论语学案》原书**；其分卷与“意之所存”之说须核。",
+   "sort_year": 1620
+  },
+  {
    "id": "work-saggiatore",
    "title": "《试金者》",
    "title_original": "Il Saggiatore",
@@ -26862,6 +26918,61 @@
    "sort_year": 1700
   },
   {
+   "id": "work-liuzi-quanshu",
+   "title": "《刘子全书》",
+   "title_original": "Liu Zi Quan Shu（刘宗周，清人编刊）",
+   "tradition": "china",
+   "date_display": "明末清初（刘宗周著，清董玚等编刊）",
+   "structure": "刘宗周著述的汇编：语类、文编、经术、奏疏、诗词等，末附年谱与弟子记述。故**其书是“全集”而非“专著”**，为研究蕺山之学的第一手汇纂。",
+   "core_arguments": [
+    "**诚意慎独**为一生宗旨，散见语类与文编",
+    "**改过说**：《人谱》与语类互证，见其工夫之实",
+    "**经学与理学不分**：其解经即其言学"
+   ],
+   "key_points": [
+    {
+     "locator": "语类",
+     "point": "宗旨所在"
+    },
+    {
+     "locator": "文编",
+     "point": "改过与证人"
+    },
+    {
+     "locator": "经术",
+     "point": "解经即言学"
+    },
+    {
+     "locator": "年谱",
+     "point": "生平行事"
+    }
+   ],
+   "editions": [
+    "清乾隆刊本（董玚编）；今有整理本"
+   ],
+   "related_people": [
+    "cn-songming-liu-zongzhou",
+    "cn-songming-wang-yangming"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是刘宗周自订的著作",
+     "why": "其书为**清人所编的全集**（语类、文编等分类汇编）；故引用须分辨“自著”与“编刊”。"
+    },
+    {
+     "claim": "全集所收皆可信",
+     "why": "全集分类出于编者，其**编次与去取**有清人的取舍；故须与《明儒学案》及单行本对勘。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据《明儒学案·蕺山学案》与 SEP 通行叙述，**未校《刘子全书》原书**；董玚编刊的卷次与去取须核。",
+   "sort_year": 1700
+  },
+  {
    "id": "work-chibei-outan",
    "title": "《池北偶谈》",
    "title_original": "池北偶談",
@@ -28050,6 +28161,62 @@
    ],
    "needs_verification": true,
    "pending_notes": "本页据《宋元学案》维基文库本；其成书过程（黄宗羲原本、全祖望补修、王梓材等校刻）须核版本源流。",
+   "sort_year": 1750
+  },
+  {
+   "id": "work-zhouguan-ji",
+   "title": "《周官记》",
+   "title_original": "Zhou Guan Ji（庄存与）",
+   "tradition": "china",
+   "date_display": "清（庄存与，18世纪中叶）",
+   "structure": "以《周礼》为纲而立“**公羊**”式的经世之说：借周官之制言治法，与其《春秋正辞》互为表里——一经一制，同属今文家法。",
+   "core_arguments": [
+    "**《周礼》可致太平**：其制非空文，而是治法之典",
+    "**以经言制**：说经不止于训诂，须见诸制度",
+    "**今文家法**：与《春秋正辞》同倡“微言大义”"
+   ],
+   "key_points": [
+    {
+     "locator": "序",
+     "point": "治法的根据"
+    },
+    {
+     "locator": "六官",
+     "point": "分职与治法"
+    },
+    {
+     "locator": "附论",
+     "point": "与《春秋》之关系"
+    },
+    {
+     "locator": "全书",
+     "point": "经制合一"
+    }
+   ],
+   "editions": [
+    "《四库全书》本（味经斋遗书本系统亦可参）"
+   ],
+   "related_people": [
+    "cn-qingmod-zhuang-cunyu",
+    "cn-qingmod-kang-youwei",
+    "cn-qingmod-wei-yuan"
+   ],
+   "misreadings": [
+    {
+     "claim": "庄存与只治《春秋》",
+     "why": "其学以《春秋正辞》与《周官记》并举：**一经一制**，同为今文家法；故不可只见其《春秋》之学。"
+    },
+    {
+     "claim": "其“周官”之说＝复古",
+     "why": "其意在以周制**言治法**（经世），非以古制律今；故为借经立制，非复古。"
+    }
+   ],
+   "sources": [
+    "ws-songyuan-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据通行研究概述与 SEP 语境性叙述，**未校《周官记》原书**；其与《春秋正辞》的相成关系须核。",
    "sort_year": 1750
   },
   {
