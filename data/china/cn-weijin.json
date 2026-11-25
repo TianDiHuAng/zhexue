@@ -2261,7 +2261,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-weijin-youwu"
   },
   {
    "id": "cn-weijin-youwu",
@@ -2328,7 +2329,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-weijin-youwu"
   },
   {
    "id": "cn-weijin-xuan",
@@ -2426,7 +2428,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-weijin-chongyou"
   },
   {
    "id": "cn-weijin-mingjiao-ziran",
@@ -2606,7 +2609,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-weijin-yan-yi"
   },
   {
    "id": "cn-weijin-qingtan",
@@ -2970,7 +2974,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "《言尽意论》全文见《艺文类聚》卷十九所引（今本仅存残篇），故其论证的完整面貌有限；本页依残篇与玄学研究概述。"
+   "pending_notes": "《言尽意论》全文见《艺文类聚》卷十九所引（今本仅存残篇），故其论证的完整面貌有限；本页依残篇与玄学研究概述。",
+   "broader": "cn-weijin-yan-yi"
   },
   {
    "id": "cn-weijin-shengren-tiwu",
@@ -3046,7 +3051,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-weijin-mingjiao-ziran"
   },
   {
    "id": "cn-weijin-jise",
@@ -3083,7 +3089,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": true,
-   "pending_notes": "“即色宗”的文献多已散佚，今仅存《肇论·不真空论》所引与《世说新语》刘孝标注的片段；本页述其主张与大略，具体文本须核辑佚。"
+   "pending_notes": "“即色宗”的文献多已散佚，今仅存《肇论·不真空论》所引与《世说新语》刘孝标注的片段；本页述其主张与大略，具体文本须核辑佚。",
+   "broader": "cn-weijin-youwu"
   },
   {
    "id": "cn-weijin-xinwu",
@@ -3119,7 +3126,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": true,
-   "pending_notes": "“心无义”的文本已佚，今仅存《肇论·不真空论》的评述与《高僧传》的记载；本页依此二源概述，具体措辞须核辑佚。"
+   "pending_notes": "“心无义”的文本已佚，今仅存《肇论·不真空论》的评述与《高僧传》的记载；本页依此二源概述，具体措辞须核辑佚。",
+   "broader": "cn-weijin-youwu"
   },
   {
    "id": "cn-weijin-wu-buqian",
@@ -3233,7 +3241,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-weijin-xuanxue"
   },
   {
    "id": "cn-weijin-yinguo-baoying",

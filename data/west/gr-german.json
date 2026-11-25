@@ -1993,7 +1993,8 @@
     "emt-kant"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-german-transcendental"
   },
   {
    "id": "gr-german-ding-an-sich",
@@ -2032,7 +2033,8 @@
     "iep-kant"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-german-transcendental"
   },
   {
    "id": "gr-german-category",
@@ -2065,7 +2067,8 @@
     "iep-kant"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-german-transcendental"
   },
   {
    "id": "gr-german-antinomy",
@@ -2099,7 +2102,8 @@
     "emt-kant"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-german-transcendental-illusion"
   },
   {
    "id": "gr-german-absolute-spirit",
@@ -2200,7 +2204,8 @@
     "iep-hegel"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-german-dialectic"
   },
   {
    "id": "gr-german-an-sich-fuer-sich",
@@ -2233,7 +2238,8 @@
     "iep-hegel"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-german-absolute-spirit"
   },
   {
    "id": "gr-german-intellectual-intuition",
@@ -2457,7 +2463,8 @@
     "book-copleston-history"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-german-absolute-spirit"
   },
   {
    "id": "gr-german-reflective-judgment",
@@ -2531,7 +2538,8 @@
     "book-copleston-history"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-german-world-history"
   },
   {
    "id": "gr-german-unhappy-consciousness",
@@ -2643,7 +2651,8 @@
     "book-copleston-history"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-german-transcendental"
   },
   {
    "id": "gr-german-speculative",
@@ -2681,7 +2690,8 @@
     "book-copleston-history"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-german-dialectic"
   },
   {
    "id": "gr-german-weltgeist",
@@ -2718,7 +2728,8 @@
     "sep-marx"
    ],
    "needs_verification": true,
-   "pending_notes": "“世界精神”与“理性的狡计”的原文（《历史哲学讲演录》导论）须核；“世界精神”与“民族精神”（Volksgeist）之别亦须分辨。"
+   "pending_notes": "“世界精神”与“理性的狡计”的原文（《历史哲学讲演录》导论）须核；“世界精神”与“民族精神”（Volksgeist）之别亦须分辨。",
+   "broader": "gr-german-world-history"
   },
   {
    "id": "gr-german-erhabene",
@@ -2830,7 +2841,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "“民族精神”（Volksgeist）的出处与其后经黑格尔的转义须核 sep-herder 与相关研究；本页取其赫尔德义，兼标其被挪用的风险。"
+   "pending_notes": "“民族精神”（Volksgeist）的出处与其后经黑格尔的转义须核 sep-herder 与相关研究；本页取其赫尔德义，兼标其被挪用的风险。",
+   "broader": "gr-german-world-history"
   },
   {
    "id": "gr-german-zweckreich",
@@ -2867,7 +2879,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "“目的王国”的原文（《奠基》第二章）与“目的自身”的表述须核；其与“绝对命令”诸式的等价性问题亦须分辨。"
+   "pending_notes": "“目的王国”的原文（《奠基》第二章）与“目的自身”的表述须核；其与“绝对命令”诸式的等价性问题亦须分辨。",
+   "broader": "gr-german-kategorischer-imperativ"
   },
   {
    "id": "gr-german-kategorischer-imperativ",

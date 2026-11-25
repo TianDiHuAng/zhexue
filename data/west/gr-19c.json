@@ -2850,7 +2850,8 @@
     "iep-nietzsche"
    ],
    "needs_verification": true,
-   "pending_notes": "“权力意志”作为体系性概念的地位：它主要由《权力意志》（遗稿编纂本）呈现，而该书编纂受其妹影响；学界对其是否构成尼采的核心学说有争论。"
+   "pending_notes": "“权力意志”作为体系性概念的地位：它主要由《权力意志》（遗稿编纂本）呈现，而该书编纂受其妹影响；学界对其是否构成尼采的核心学说有争论。",
+   "broader": "gr-19c-will"
   },
   {
    "id": "gr-19c-eternal-recurrence",
@@ -3015,7 +3016,8 @@
     "iep-nietzsche"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-19c-power-will"
   },
   {
    "id": "gr-19c-absurd",
@@ -3051,7 +3053,8 @@
     "sep-hegel"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-19c-nihilism"
   },
   {
    "id": "gr-19c-dialectic-marx",
@@ -3240,7 +3243,8 @@
     "iep-nietzsche"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-19c-nihilism"
   },
   {
    "id": "gr-19c-resentment",
@@ -3348,7 +3352,8 @@
     "ws-en-mill-liberty"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-19c-liberty-principle"
   },
   {
    "id": "gr-19c-existential-irony",
@@ -3422,7 +3427,8 @@
     "sep-hegel"
    ],
    "needs_verification": true,
-   "pending_notes": "“类本质”（Gattungswesen）在费尔巴哈与马克思的用法不同：费尔巴哈侧重“我—你”的关系，马克思则以“社会关系的总和”替换之；本页并述二者，具体文本须核。"
+   "pending_notes": "“类本质”（Gattungswesen）在费尔巴哈与马克思的用法不同：费尔巴哈侧重“我—你”的关系，马克思则以“社会关系的总和”替换之；本页并述二者，具体文本须核。",
+   "broader": "gr-19c-alienation"
   },
   {
    "id": "gr-19c-einfuehlung",
@@ -3494,7 +3500,8 @@
     "ct-analects"
    ],
    "needs_verification": true,
-   "pending_notes": "“伤害原则”的原文（《论自由》第一章）须核 Toronto 版全集；“伤害”的界定与密尔自己的限定（如对未成年人与未开化民族的例外）亦须标出。"
+   "pending_notes": "“伤害原则”的原文（《论自由》第一章）须核 Toronto 版全集；“伤害”的界定与密尔自己的限定（如对未成年人与未开化民族的例外）亦须标出。",
+   "broader": "gr-19c-liberty-principle"
   },
   {
    "id": "gr-19c-apollo-dionysus",

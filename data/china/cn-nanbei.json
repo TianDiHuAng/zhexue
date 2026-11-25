@@ -2031,7 +2031,8 @@
     "ws-mohezhiguan"
    ],
    "needs_verification": true,
-   "pending_notes": "道生之说今仅存记载与辑佚；“一阐提”的梵语义与《涅槃经》的表述须核。"
+   "pending_notes": "道生之说今仅存记载与辑佚；“一阐提”的梵语义与《涅槃经》的表述须核。",
+   "broader": "cn-nanbei-foxing"
   },
   {
    "id": "cn-nanbei-dunwu",
@@ -2357,7 +2358,8 @@
     "ws-mohezhiguan"
    ],
    "needs_verification": true,
-   "pending_notes": "“难行／易行”二道的出处（龙树《十住毗婆沙论·易行品》）与昙鸾的转用须核；本页并述其源流。"
+   "pending_notes": "“难行／易行”二道的出处（龙树《十住毗婆沙论·易行品》）与昙鸾的转用须核；本页并述其源流。",
+   "broader": "cn-nanbei-tali"
   },
   {
    "id": "cn-nanbei-chan-guan",
@@ -2729,7 +2731,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": true,
-   "pending_notes": "佛教“经疏”的分层（疏／钞／科）须核天台与三论的著作体例；其与儒家“义疏”的同构亦须分辨。"
+   "pending_notes": "佛教“经疏”的分层（疏／钞／科）须核天台与三论的著作体例；其与儒家“义疏”的同构亦须分辨。",
+   "broader": "cn-nanbei-yishu"
   },
   {
    "id": "cn-nanbei-xixing-qiufa",
