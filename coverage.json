@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-26",
  "totals": {
-  "entries": 1984,
+  "entries": 1986,
   "by_level": {
    "L2": 793,
-   "L1": 1191
+   "L1": 1193
   },
   "doctrine": {
    "total": 326,
    "detail": 326,
    "auto": 0
   },
-  "needs_verification": 1191,
+  "needs_verification": 1193,
   "sources": 431,
   "sources_verified": 431
  },
@@ -129,7 +129,7 @@
    "title": "德国古典哲学",
    "region": "west",
    "philosophers": 12,
-   "concepts": 27,
+   "concepts": 28,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
@@ -138,7 +138,7 @@
    "title": "希腊化与罗马哲学",
    "region": "west",
    "philosophers": 15,
-   "concepts": 24,
+   "concepts": 25,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -8171,6 +8171,17 @@
    "updated": "2026-11-26"
   },
   {
+   "id": "gr-german-civil-society",
+   "type": "concept",
+   "title": "市民社会",
+   "container": "gr-german",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
    "id": "gr-german-thing-in-itself",
    "type": "debate",
    "title": "物自体是否可被取消",
@@ -8684,6 +8695,17 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "gr-hellenistic-therapy",
+   "type": "concept",
+   "title": "哲学作为治疗",
+   "container": "gr-hellenistic",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": true,
    "updated": "2026-11-26"
   },

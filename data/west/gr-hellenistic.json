@@ -3153,6 +3153,40 @@
    ],
    "needs_verification": true,
    "pending_notes": "“存在本身”（ipsum esse）与本质／存在的实在区分须核《神学大全》I, q.3—4 与《论存在与本质》；其与阿维森纳的异同亦须分辨。"
+  },
+  {
+   "id": "gr-hellenistic-therapy",
+   "term": "哲学作为治疗",
+   "term_latin": "philosophia medicans / therapeia",
+   "definition": "把哲学视为**医治灵魂的技艺**：其目标不是建立理论，而是**治愈**恐惧、欲望与烦恼。希腊化各派共用此喻，而所诊之病与所开之方各异。",
+   "usages": [
+    {
+     "name": "伊壁鸠鲁",
+     "id": "gr-hellenistic-epicurus",
+     "usage": "病在**空想之惧**（畏神、畏死）：故以自然哲学破之——神不干预、死与我无涉；其方是“四药”。"
+    },
+    {
+     "name": "爱比克泰德",
+     "id": "gr-hellenistic-epictetus",
+     "usage": "病在**误判归属**（以不在我者为我）：故以“**在我／不在我**”之分治之；其方是日省与操练。"
+    }
+   ],
+   "related": [
+    "gr-hellenistic-ataraxia",
+    "gr-hellenistic-askesis"
+   ],
+   "example": {
+    "text": "塞涅卡以“哲学即医术”设喻：不给药的哲学如同不治病的医方，其价值在施用而不在收藏。",
+    "figure": "塞涅卡",
+    "locator": "《致卢基里乌斯书信》"
+   },
+   "sources": [
+    "sep-epicurus",
+    "sep-stoicism"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP 伊壁鸠鲁与斯多亚条目转述，**未读原著**；塞涅卡“哲学即医术”语的出处（书信编号）须核。",
+   "broader": null
   }
  ],
  "debates": [

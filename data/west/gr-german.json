@@ -2940,6 +2940,39 @@
    ],
    "needs_verification": true,
    "pending_notes": "“绝对命令”的原文（《奠基》第一节与第二节诸式）须核；其与“假言命令”之别及诸式的等价性亦须分辨。"
+  },
+  {
+   "id": "gr-german-civil-society",
+   "term": "市民社会",
+   "term_latin": "bürgerliche Gesellschaft / civil society",
+   "definition": "介于家庭与国家之间的领域，以**需要的体系**、劳动与交换为内容。它既释放个体自由，又产生贫富与分裂——故成为近代政治哲学的核心问题。",
+   "usages": [
+    {
+     "name": "黑格尔",
+     "id": "gr-german-hegel",
+     "usage": "市民社会是**需要的体系**：人由劳动与交换相互依赖，然其自发运作必生贫困与“**暴民**”；故须以国家（伦理的更高环节）救之。"
+    },
+    {
+     "name": "康德",
+     "id": "gr-german-kant",
+     "usage": "以“**普遍法治的公民社会**”为理性所要求的目标：其要在**外在自由之并存**，而非经济内容。"
+    }
+   ],
+   "related": [
+    "gr-german-absolute-spirit"
+   ],
+   "example": {
+    "text": "黑格尔以“市民社会”为伦理的一个环节而非终点：它必须被国家所“扬弃”而不被取消——这一结构后来成为马克思批判的起点。",
+    "figure": "黑格尔",
+    "locator": "《法哲学原理》第三编第二篇"
+   },
+   "sources": [
+    "sep-hegel",
+    "sep-kant"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP 黑格尔与康德条目转述，**未读原著**；《法哲学原理》的节次与康德“普遍法治的公民社会”一语（《世界公民观点之下的普遍历史观念》）须核。",
+   "broader": null
   }
  ],
  "debates": [
