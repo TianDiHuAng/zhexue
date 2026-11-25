@@ -723,7 +723,8 @@
     {
      "name": "董仲舒",
      "id": "cn-lianghan-dong-zhongshu",
-     "note": "公羊学的先驱，三世与改制之义的源头"
+     "note": "公羊学的先驱，三世与改制之义的源头",
+     "relation": "承继"
     },
     {
      "name": "胡毋生、严彭祖一系",
@@ -2587,7 +2588,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-lianghan-yinyang-wuxing"
   },
   {
    "id": "cn-lianghan-qi",
@@ -2755,7 +2757,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-lianghan-sangang-liuji"
   },
   {
    "id": "cn-lianghan-ji-xuwang",
@@ -2855,7 +2858,8 @@
     "ct-shiji"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-lianghan-tianren"
   },
   {
    "id": "cn-lianghan-yuanqi",
@@ -2889,7 +2893,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-lianghan-qi"
   },
   {
    "id": "cn-lianghan-mingjia",
@@ -2963,7 +2968,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-lianghan-tianren-sance"
   },
   {
    "id": "cn-lianghan-dayitong",
@@ -3337,7 +3343,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-lianghan-santong"
   },
   {
    "id": "cn-lianghan-shijiao",

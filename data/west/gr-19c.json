@@ -654,7 +654,8 @@
     {
      "name": "叔本华",
      "id": "gr-19c-schopenhauer",
-     "note": "早期奉为 educator，后反其否定意志"
+     "note": "早期奉为 educator，后反其否定意志",
+     "relation": "批驳"
     },
     {
      "name": "爱默生与古典语文学",
@@ -991,7 +992,8 @@
     {
      "name": "马克思",
      "id": "gr-19c-marx",
-     "note": "终身合作者；恩格斯自认是“第二提琴手”，并在马克思逝世后整理《资本论》第二、三卷"
+     "note": "终身合作者；恩格斯自认是“第二提琴手”，并在马克思逝世后整理《资本论》第二、三卷",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1297,7 +1299,8 @@
     {
      "name": "孔德（实证主义）",
      "id": "gr-19c-comte",
-     "note": "社会科学的实证纲领"
+     "note": "社会科学的实证纲领",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1590,7 +1593,8 @@
     {
      "name": "达尔文与实验科学",
      "id": "gr-19c-darwin",
-     "note": "演化与经验的取向"
+     "note": "演化与经验的取向",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1724,12 +1728,14 @@
     {
      "name": "皮尔士",
      "id": "gr-19c-peirce",
-     "note": "实用主义格的启发"
+     "note": "实用主义格的启发",
+     "relation": "承继"
     },
     {
      "name": "达尔文与生理学",
      "id": "gr-19c-darwin",
-     "note": "演化与生理学取向"
+     "note": "演化与生理学取向",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2280,7 +2286,8 @@
     {
      "name": "爱默生",
      "id": "gr-19c-emerson",
-     "note": "超验主义与自立"
+     "note": "超验主义与自立",
+     "relation": "承继"
     },
     {
      "name": "印度与希腊经典",

@@ -2761,7 +2761,8 @@
     {
      "name": "康有为",
      "id": "cn-qingmod-kang-youwei",
-     "note": "以今文经学与“大同”说为其师承"
+     "note": "以今文经学与“大同”说为其师承",
+     "relation": "承继"
     },
     {
      "name": "严复（同代人）",
@@ -3216,7 +3217,8 @@
     {
      "name": "梁启超（其启蒙）",
      "id": "cn-qingmod-liang-qichao",
-     "note": "其“新民”之说影响了邹容一代"
+     "note": "其“新民”之说影响了邹容一代",
+     "relation": "承继"
     },
     {
      "name": "章太炎（其同调）",
@@ -3516,7 +3518,8 @@
     {
      "name": "顾炎武（其先）",
      "id": "cn-qingmod-gu-yanwu",
-     "note": "古音学的开端（十部）"
+     "note": "古音学的开端（十部）",
+     "relation": "承继"
     }
    ],
    "influenced": [
