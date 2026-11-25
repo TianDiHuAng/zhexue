@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1842,
+  "entries": 1844,
   "by_level": {
    "L2": 793,
-   "L1": 1049
+   "L1": 1051
   },
   "doctrine": {
-   "total": 318,
-   "detail": 318,
+   "total": 319,
+   "detail": 319,
    "auto": 0
   },
-  "needs_verification": 1049,
+  "needs_verification": 1051,
   "sources": 429,
   "sources_verified": 429
  },
@@ -83,10 +83,10 @@
    "unit_id": "in-india",
    "title": "印度哲学（正统六派与佛教）",
    "region": "india",
-   "philosophers": 10,
+   "philosophers": 11,
    "concepts": 8,
    "debates": 2,
-   "philosophers_slot": "8 上限，余 -2"
+   "philosophers_slot": "8 上限，余 -3"
   },
   {
    "unit_id": "gr-19c",
@@ -4698,6 +4698,17 @@
    "id": "in-india-asanga",
    "type": "philosopher",
    "title": "无著",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-vatsyayana",
+   "type": "philosopher",
+   "title": "筏差衍那（足目之注者）",
    "container": "in-india",
    "level": "L1",
    "sources": 2,
@@ -20417,6 +20428,17 @@
    "id": "school-yogacara",
    "type": "school",
    "title": "瑜伽行派（唯识）",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "school-nyaya",
+   "type": "school",
+   "title": "正理派",
    "container": "in-india",
    "level": "L1",
    "sources": 2,

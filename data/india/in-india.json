@@ -1633,6 +1633,167 @@
      "note": "真谛译与玄奘译的术语系统不同（如“阿陀那识”等），引用须注明译本"
     }
    ]
+  },
+  {
+   "id": "in-india-vatsyayana",
+   "name": "筏差衍那（足目之注者）",
+   "latin": "Vātsyāyana（Pakṣilasvāmin）",
+   "birth_year": 400,
+   "death_year": 480,
+   "birth_display": "约400年",
+   "death_display": "约480年",
+   "birth_note": "约 5 世纪人（SEP 作 fifth century CE），又号 Pakṣilasvāmin；生平无可靠记载，只知其作《正理注》。",
+   "death_note": "卒年无确载；约 480 年，属推定。",
+   "era": "五世纪的印度：《正理经》已成而义理过简，须有系统的注释方能施用。筏差衍那的《正理注》是现存最早、最完整的《正理经》注本，它把经体的纲要展开为论证，使正理之学从经的格言变成可教可学的体系；此后各家（佛教量论、弥曼差）所攻的“正理派”，多半就是这部注所塑造的样貌。",
+   "school": "正理派（Nyāya）",
+   "core_questions": [
+    "经体过简，如何展开为可施用的论证？",
+    "五支作法中的喻支，须同喻还是异喻？",
+    "知觉的“不可言说”一限定，应当如何理解？"
+   ],
+   "arguments": [
+    {
+     "claim": "喻支须兼举同法与异法，方能排除反例",
+     "premises": [
+      "同法喻（sādharmya）以与宗法相似者为例：如“有烟处有火”。",
+      "异法喻（vaidharmya）以与宗法相异者为例：如“无火处无烟”。"
+     ],
+     "inference": "若只举同喻，则反例（有烟而无火处）无从排除；举异喻则显“无火处必无烟”，与同喻互为两面。故筏差衍那明确把论式分为“依同法”与“依异法”两种。",
+     "conclusion": "喻支的双面表述即遍充的完整显示，故五支作法在形式上已是严密的。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "“不可言说”是知觉的第一级：为概念认知留出后一级",
+     "premises": [
+      "《正理经》1.1.4 以“不可言说”（avyapadeśya）限定知觉。",
+      "然日常所谓“见牛”显然已含共相之知。"
+     ],
+     "inference": "若知觉只有一级，则经的定义与日常不合；故其注把“不可言说”解为知觉的**纯粹一级**，而带概念的认知另立一级，二者同属知识。此即后世的二阶段说之端。",
+     "conclusion": "知觉分两级，经的定义说的是第一级；故正理可与“概念之知”相容。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "十六谛须被读作“程序”，而非名目的清单",
+     "premises": [
+      "经只列十六谛之名，未说其相互关系。",
+      "其中“疑—动机—实例—宗义—支分—思择—决了”显然有次第。"
+     ],
+     "inference": "故其注把十六谛展开为“由疑而起诤、由诤而立宗与因、由思择而决了”的程序；后九谛（论议、诡论、坏义、似因、曲解、倒难、堕负）则是程序的失败样式。",
+     "conclusion": "正理之学既是知识论，也是一套论辩的规程；经的纲要须注方能施用。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《正理注》（Nyāya-bhāṣya）",
+     "edition": "梵校本（Taranatha & Amarendramohan 1936）；英译 Jha 1913；法译 Angot 2009"
+    },
+    {
+     "title": "《正理经》的注释传统（由其注开端）",
+     "edition": "其注为现存最早完整注本；此后 Uddyotakara、Vācaspati 诸注继之"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "乔答摩（《正理经》）",
+     "id": "in-india-gautama",
+     "note": "以经为纲，逐句展开；其体系即经的展开"
+    },
+    {
+     "name": "古代论辩术（vāda 的传统）",
+     "id": null,
+     "note": "十六谛中论辩诸项与其前的辩论传统相接"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "佛教量论（陈那、法称）",
+     "id": "in-india-dignaga",
+     "note": "其所塑造的“正理派”成为佛教量论的主要论敌"
+    },
+    {
+     "name": "新正理（12世纪后）",
+     "id": null,
+     "note": "其注所立的议题经后世形式化而成为新正理"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "佛教量论（陈那）",
+     "view": "若如注所说，带概念的认知仍算知觉，则知觉与推断的界线消失；且“共相实有”之说不成立。",
+     "response": "正理一系的回应是：二级知觉的所缘是共相，但其生起仍依根境相触，故不失为知觉；共相之实有则由语言与学习之可能证之。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-logic-india",
+      "sep-perception-india"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "《正理注》只是“逐句解释字义”",
+     "why": "其注把经的纲要展开为论证与程序（如二阶段知觉、同异二喻），是**体系的建构**；故为创造性诠释，非字面训释。"
+    },
+    {
+     "claim": "五支作法的喻支只须举同喻",
+     "why": "其注明确分“依同法”与“依异法”两种论式，喻支须兼举方足以排除反例；只举同喻则漏。"
+    },
+    {
+     "claim": "正理派与胜论派从一开始就是一体",
+     "why": "二者原为两系（正理重论辩与量，胜论重范畴），其合流在后期；以其后期之合观其早期之说，会失其本来面目。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 320'><rect x='0' y='0' width='760' height='320' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>筏差衍那：同法喻与异法喻（示意）</text><rect x='40' y='70' width='300' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='190' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>同法喻（sādharmya）</text><text x='190' y='114' text-anchor='middle' font-size='10' fill='#1e2d3d'>如厨灶：有烟处有火</text><rect x='420' y='70' width='300' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='570' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>异法喻（vaidharmya）</text><text x='570' y='114' text-anchor='middle' font-size='10' fill='#1e2d3d'>如湖：无火处无烟</text><rect x='150' y='164' width='460' height='66' rx='6' fill='#e6eff7' stroke='#5b8db8'/><text x='380' y='188' text-anchor='middle' font-size='12' fill='#1e2d3d'>二喻同一遍充的两面表述</text><text x='380' y='210' text-anchor='middle' font-size='10' fill='#1e2d3d'>故五支作法的喻支须兼举同异，方能排除反例</text><text x='380' y='300' text-anchor='middle' font-size='11' fill='#5b7a96'>据 SEP “Logic in Classical Indian Philosophy”重构</text></svg>",
+   "svg_caption": "筏差衍那：同法喻与异法喻（重构示意图）",
+   "sources": [
+    "sep-logic-india",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Logic in Classical Indian Philosophy”（2011／2023）与“Perceptual Experience and Concepts in Classical Indian Philosophy”转述，**未读《正理注》梵本**；生卒为推定。“二阶段知觉说”是否已见于其注（抑或后出），学界有不同意见，本页作“之端”而不作定论。",
+   "doctrine": {
+    "summary": "筏差衍那以《正理注》把《正理经》的纲要展开为体系：他把论式分为依同法与依异法两种，说明喻支须兼举以排除反例；又把“不可言说”解为知觉的纯粹一级，为带概念的认知另立一级；并把十六谛读作由疑而决了的程序。其注所塑造的正理派，遂成为佛教量论与弥曼差共同的论敌。",
+    "system": [
+     {
+      "name": "同法喻与异法喻",
+      "content": "五支作法的喻支须兼举同异，方是遍充的完整显示。"
+     },
+     {
+      "name": "知觉二阶段之端",
+      "content": "“不可言说”为第一级，带概念的认知为第二级。"
+     },
+     {
+      "name": "十六谛作程序",
+      "content": "由疑而起诤、由思择而决了，后九谛为程序的失败样式。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "5世纪（其人）",
+      "change": "作《正理注》，为现存最早完整注本，正理之学由此可教。"
+     },
+     {
+      "period": "6—7世纪",
+      "change": "陈那、法称起而攻之，正理与佛教量论的长期争论展开。"
+     },
+     {
+      "period": "8—12世纪",
+      "change": "Uddyotakara、Vācaspati 诸注继起，新正理渐成形。"
+     }
+    ],
+    "reception": "其注成为正理派的基准文本：此后诸注皆在其架构上展开，佛教量论与弥曼差所攻的“正理”亦多由此注所定；新正理的形式化则以其议题为起点。"
+   },
+   "works_detail": [
+    {
+     "title": "《正理注》",
+     "year": "约5世纪",
+     "date": "依《正理经》五卷两日分卷",
+     "structure": "逐经注释：卷一论量与所量（含 1.1.4 知觉定义的展开），卷二论四量，卷三论所量与自我，卷四论知识之生与论辩，卷五论诡论与堕负。",
+     "core_thesis": "经的纲要须展开为论证程序；喻支兼举同异；知觉分二级。",
+     "editions": "Taranatha & Amarendramohan 1936 梵校本；Jha 1913 英译；Angot 2009 法译",
+     "note": "引用须注明是经还是注；注中的引申不可径归乔答摩"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -1656,6 +1817,11 @@
      "name": "世亲",
      "id": "in-india-vasubandhu",
      "usage": "以“离分别”的知觉为实在的接触点，故量的讨论须先分辨概念构造与当下呈现。"
+    },
+    {
+     "name": "筏差衍那",
+     "id": "in-india-vatsyayana",
+     "usage": "以注展开经义：四量各有其施用条件，而知觉的“不可言说”须解为纯粹的一级，方不与带概念的日常认知相冲突。"
     }
    ],
    "related": [

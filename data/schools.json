@@ -2323,6 +2323,39 @@
    ],
    "needs_verification": true,
    "pending_notes": "本页与既有「唯识宗」（school-weishi，汉传宗派）须分辨：一为印度源流，一为汉地宗派。印度后期唯识（如护法、安慧之说）的分歧未及。"
+  },
+  {
+   "id": "school-nyaya",
+   "name": "正理派",
+   "region": "india",
+   "era": "约2世纪至今（乔答摩至新正理）",
+   "unit": "in-india",
+   "core_claims": [
+    "知识有四种可靠手段：知觉、推断、类比、证言",
+    "知觉须以“不可言说、不错乱、确定”三重限定方成知识",
+    "共相实有，故语言可指向真实的共同项（与佛教遮诠说相对）",
+    "以十六谛规范论辩：由疑而思择而决了，以似因、堕负等辨其失败"
+   ],
+   "representatives": [
+    {
+     "name": "乔答摩（足目）",
+     "id": "in-india-gautama",
+     "note": "《正理经》：量与十六谛的纲要"
+    },
+    {
+     "name": "筏差衍那",
+     "id": "in-india-vatsyayana",
+     "note": "《正理注》：同异二喻、知觉二级之端、十六谛作程序"
+    }
+   ],
+   "rise": "二世纪前后《正理经》成书，立量与十六谛的纲要；五世纪筏差衍那作《正理注》，把经展开为可教可学的体系，正理遂成印度知识论的公共语言。",
+   "decline": "其学未“衰落”而在转型：十二世纪后经《正理花鬘》《思择焰》等而形式化为“新正理”，近代仍在印度教学传统中延续；本页所谓“衰落”仅指古正理（Pracya）的形态。",
+   "sources": [
+    "sep-logic-india",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "正理与胜论的合流年代、以及古正理（Pracya）与新正理（Navya）的分期，须核专门研究；本页只列两位代表，未及 Uddyotakara、Vācaspati、Gaṅgeśa 等注家与形式化者。"
   }
  ]
 }
