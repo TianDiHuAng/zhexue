@@ -2344,7 +2344,8 @@
     "sep-perception-india"
    ],
    "needs_verification": true,
-   "pending_notes": "apoha 有陈那“上提式”与法称“下放式”两种版本，本页只述其共同骨架。"
+   "pending_notes": "apoha 有陈那“上提式”与法称“下放式”两种版本，本页只述其共同骨架。",
+   "broader": "in-india-samanya"
   },
   {
    "id": "in-india-anatman",
@@ -2376,7 +2377,8 @@
     "sep-nagarjuna"
    ],
    "needs_verification": true,
-   "pending_notes": "“无我”与轮回主体的关系在部派间有细致争论（如犊子部的“不可说补特伽罗”），本页未及。"
+   "pending_notes": "“无我”与轮回主体的关系在部派间有细致争论（如犊子部的“不可说补特伽罗”），本页未及。",
+   "broader": "in-india-atman"
   },
   {
    "id": "in-india-atman",
@@ -2690,6 +2692,45 @@
    ],
    "needs_verification": true,
    "pending_notes": "三家说法据 SEP “Perceptual Experience and Concepts in Classical Indian Philosophy”与“Logic in Classical Indian Philosophy”转述；胜论的“同”（sāmānya）范畴说未及。"
+  },
+  {
+   "id": "in-india-nirvana",
+   "term": "涅槃",
+   "term_latin": "nirvāṇa",
+   "definition": "苦的止息。佛教各派共许其为最高目标，而所谓“止息”是“入灭”还是“即世间而证”，则是中观与瑜伽行、以及佛教与吠檀多之间的分歧点。",
+   "usages": [
+    {
+     "name": "龙树",
+     "id": "in-india-nagarjuna",
+     "usage": "涅槃与世间无二：以空义故，生死与涅槃不即不离；若离生死别求涅槃，则堕断常二见。"
+    },
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "以“转依”说涅槃：去遍计所执而显圆成实，即名涅槃；故涅槃是转依之果，非另一处所。"
+    },
+    {
+     "name": "商羯罗",
+     "id": "in-india-shankara",
+     "usage": "解脱不是“入灭”：ātman 本自常在，故解脱只是去无明而证其本然，非有所生、非有所至。"
+    }
+   ],
+   "related": [
+    "in-india-moksa",
+    "in-india-shunyata",
+    "in-india-avidya"
+   ],
+   "example": {
+    "text": "同一目标，三种说法：不二（龙树）、转依（世亲）、去无明而证本然（商羯罗）。其差别在于“止息”是关系的转变，还是本性的显明。",
+    "figure": "“止息”的三种说法"
+   },
+   "sources": [
+    "sep-nagarjuna",
+    "sep-yogacara",
+    "sep-shankara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三家说法据 SEP “Nāgārjuna”“Yogācāra”“Śaṅkara”转述；“有余涅槃／无余涅槃”的部派细目未及。"
   }
  ],
  "debates": [
