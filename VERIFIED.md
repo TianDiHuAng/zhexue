@@ -49,3 +49,11 @@
 - **in-india-dignaga**（据 `sep-logic-india`）：三支作法与因三相（trairūpya）之表述
 
 > 两项为**内容级核销**（核到论证形式的具体表述）；页面 `needs_verification` 仍为 true（梵本未读）。
+
+## 第 392 轮（目标第 66 轮）
+
+- **in-india-nagarjuna**（据 `sep-nagarjuna`）：《中论》约 450 颂、八不与四句、《回诤论》《广破论》的分工
+- **in-india-shankara**（据 `sep-shankara`）：三种方法 anvaya-vyatireka／lakṣaṇā／neti neti；“行为不能生知”与 jīvanmukti
+- **in-india-ramanuja**（据 `iep-ramanuja`）：限制不二论（意识为属性、个体实有）；bhakti 为认识状态；tat tvam asi 的同位解
+
+> 三项均为**内容级核销**；三页 `needs_verification` 仍为 true（原典未读）。
