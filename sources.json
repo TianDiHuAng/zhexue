@@ -9760,6 +9760,50 @@
     "keyword_seen": true
    },
    "n": 425
+  },
+  {
+   "id": "sep-nagarjuna",
+   "title": "Nāgārjuna（SEP 词条）",
+   "author": "Westerhoff, Jan",
+   "year": 2010,
+   "year_note": "首版 2010-02-10；实质修订 2026-05-31（见页面）",
+   "publisher": "Stanford Encyclopedia of Philosophy（斯坦福大学）",
+   "type": "百科",
+   "url": "https://plato.stanford.edu/entries/nagarjuna/",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "龙树专条：论《中论》450 颂的体系、空性与 svabhāva（自性）之破斥、四句因果的检讨、二谛与语言（《回诤论》），及其对正理派（Nyāya）范畴的破斥（《广破论》）",
+   "unit_hint": "in-india",
+   "verify": {
+    "method": "http-page+citation_meta",
+    "http_status": 200,
+    "checked_at": "2026-11-25",
+    "keyword": "First published Wed Feb 10, 2010",
+    "keyword_seen": true
+   }
+  },
+  {
+   "id": "sep-perception-india",
+   "title": "Perceptual Experience and Concepts in Classical Indian Philosophy（SEP 词条）",
+   "author": "（见页面署名）",
+   "year": 2010,
+   "year_note": "首版 2010-12-02；实质修订 2021-01-12（见页面）",
+   "publisher": "Stanford Encyclopedia of Philosophy（斯坦福大学）",
+   "type": "百科",
+   "url": "https://plato.stanford.edu/entries/perception-india/",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "印度古典知识论专条：论知觉（pratyakṣa）与概念的争论——正理派《正理经》1.1.4 的定义、佛教陈那“离分别”、世亲与法称、弥曼差鸠摩利罗的实在论、数论与不二吠檀多的立场，以及 apoha（遮诠）说",
+   "unit_hint": "in-india",
+   "verify": {
+    "method": "http-page+citation_meta",
+    "http_status": 200,
+    "checked_at": "2026-11-25",
+    "keyword": "First published Thu Dec 2, 2010",
+    "keyword_seen": true
+   }
   }
  ]
 }
