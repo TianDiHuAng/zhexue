@@ -3201,7 +3201,8 @@
     "sep-aristotle"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-ancient-arete"
   },
   {
    "id": "gr-ancient-apeiron",

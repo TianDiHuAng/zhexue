@@ -4069,7 +4069,8 @@
     "na-summa"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-medieval-faith-reason"
   },
   {
    "id": "gr-medieval-universals",
@@ -4194,7 +4195,8 @@
     "na-summa"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-medieval-faith-reason"
   },
   {
    "id": "gr-medieval-free-will",

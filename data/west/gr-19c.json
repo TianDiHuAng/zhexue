@@ -3205,7 +3205,8 @@
     "iep-nietzsche"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-19c-nihilism"
   },
   {
    "id": "gr-19c-last-man",

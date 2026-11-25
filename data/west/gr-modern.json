@@ -6147,7 +6147,8 @@
     "sep-descartes"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-modern-cogito"
   },
   {
    "id": "gr-modern-conatus",

@@ -2798,7 +2798,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "今本《列子》的成书年代（传统归列御寇，今多认为魏晋人辑录，甚至有伪作之说）是学界长期争论的问题；本页就文本内容述其说，不判定作者与年代。"
+   "pending_notes": "今本《列子》的成书年代（传统归列御寇，今多认为魏晋人辑录，甚至有伪作之说）是学界长期争论的问题；本页就文本内容述其说，不判定作者与年代。",
+   "broader": "cn-weijin-youwu"
   },
   {
    "id": "cn-weijin-shamen-bujing",

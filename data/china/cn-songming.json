@@ -4604,7 +4604,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-songming-li-qi"
   },
   {
    "id": "cn-songming-xin-ji-li",
@@ -4791,7 +4792,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-songming-li-qi"
   },
   {
    "id": "cn-songming-daotong",
@@ -4978,7 +4980,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "“六经注我”的出处与上下文（《语录》为门人所记）须核中华书局点校本；其与“我注六经”的对举是否为陆氏原话，学界有讨论。"
+   "pending_notes": "“六经注我”的出处与上下文（《语录》为门人所记）须核中华书局点校本；其与“我注六经”的对举是否为陆氏原话，学界有讨论。",
+   "broader": "cn-songming-xin-ji-li"
   },
   {
    "id": "cn-songming-xin-tong-xingqing",
@@ -5017,7 +5020,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-songming-xing-ji-li"
   },
   {
    "id": "cn-songming-wangba-yili",

@@ -2667,7 +2667,8 @@
     "iep-chinese-philosophy"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-lianghan-tianren"
   },
   {
    "id": "cn-lianghan-xingsanpin",
@@ -2941,7 +2942,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-lianghan-sangang-liuji"
   },
   {
    "id": "cn-lianghan-genghua",
@@ -3018,7 +3020,8 @@
     "book-chan-sourcebook"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-lianghan-tianren-sance"
   },
   {
    "id": "cn-lianghan-wuyi",
@@ -3132,7 +3135,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-lianghan-weiyandayi"
   },
   {
    "id": "cn-lianghan-fafen-zhi",

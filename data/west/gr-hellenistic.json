@@ -2560,7 +2560,8 @@
     "iep-stoicism"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-hellenistic-fate"
   },
   {
    "id": "gr-hellenistic-spermatikos",
@@ -2593,7 +2594,8 @@
     "book-copleston-history"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-hellenistic-pronoia"
   },
   {
    "id": "gr-hellenistic-oikeiosis",
@@ -2708,7 +2710,8 @@
     "iep-stoicism"
    ],
    "needs_verification": true,
-   "pending_notes": "火灭与轮回的具体细节（是否有“小轮回”、灵魂是否随之复归）在早期与中期斯多亚之间有变化；本页只述其核心结构。"
+   "pending_notes": "火灭与轮回的具体细节（是否有“小轮回”、灵魂是否随之复归）在早期与中期斯多亚之间有变化；本页只述其核心结构。",
+   "broader": "gr-hellenistic-pronoia"
   },
   {
    "id": "gr-hellenistic-lekton",
