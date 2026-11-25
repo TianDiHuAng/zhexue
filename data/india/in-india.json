@@ -2490,6 +2490,110 @@
    ],
    "needs_verification": true,
    "pending_notes": "四量与二量的往复文献（尤其陈那对 upamāna 的归约）据 SEP “Logic in Classical Indian Philosophy”转述；顺世派只承认一量的立场未收入站内。"
+  },
+  {
+   "id": "in-india-brahman-attributes",
+   "title": "梵有属性吗：无差别的意识，还是有德的人格神？",
+   "question": "“梵”可以被言说为“有德者”吗？",
+   "positions": [
+    {
+     "holder": "不二吠檀多（商羯罗）",
+     "id": "in-india-shankara",
+     "stance": "梵无差别、无属性；“真、知、无限”非其德而是其性",
+     "reasons": [
+      "若梵有属性，则有差别，与“无二”之教相违。",
+      "语言对梵的一切言说皆是“随俗”的方便，非其自体；故须以 neti neti 遮遣。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "限制不二论（罗摩奴阇）",
+     "id": "in-india-ramanuja",
+     "stance": "梵有属性、有德、有人格；“真、知、无限”即其德",
+     "reasons": [
+      "意识必有所对，故无“离一切差别的纯意识”。",
+      "若言说皆非其自体，则经典对梵的一切言说皆成虚设；而经典非虚设。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "弥曼差（鸠摩利罗）",
+     "id": "in-india-kumarila",
+     "stance": "不以“梵”为议论中心，重“法”与仪轨",
+     "reasons": [
+      "其学以吠陀所立的法与仪轨为要，梵的本性问题非其中心。",
+      "故对此争，其立场是“问题不在此”，而非“梵有／无属性”。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "“无二”是否排斥“有德”，以及经典对梵的言说是否可被视为如实。",
+   "status": "未决",
+   "status_note": "不二论与限制不二论的对峙构成吠檀多内部的主要分野；弥曼差则把问题移出中心。本页并述三说而不裁定。",
+   "sources": [
+    "sep-shankara",
+    "iep-ramanuja",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "商羯罗“真、知、无限非德而是性”与罗摩奴阇“意识必有所对”的往复据 SEP “Śaṅkara”与 IEP “Ramanuja”转述；净土论（Dvaita）与差别不二论未收入站内。"
+  },
+  {
+   "id": "in-india-moksa-knowledge-action",
+   "title": "解脱是知还是行：认识、仪轨与虔信之争",
+   "question": "解脱（mokṣa）由何而成？",
+   "positions": [
+    {
+     "holder": "不二吠檀多（商羯罗）",
+     "id": "in-india-shankara",
+     "stance": "解脱是知：去无明，非行为之果",
+     "reasons": [
+      "行为依行为者的意愿而起，其果有限；知则依对象之性而定。",
+      "故仪轨与冥想只能净心、创造条件，不能直接生起对梵之知。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "弥曼差（鸠摩利罗）",
+     "id": "in-india-kumarila",
+     "stance": "仪轨有其实效：法与仪轨不可废",
+     "reasons": [
+      "吠陀所立的法与仪轨即“法”的知识，其有效性自足。",
+      "若一切行为皆不能致解脱，则吠陀的仪轨部分将成无义；故行为不可废。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "限制不二论（罗摩奴阇）",
+     "id": "in-india-ramanuja",
+     "stance": "知与行不二：bhakti 是认识状态，亦是修行",
+     "reasons": [
+      "bhakti 是对梵之性的直接觉知（类同现量），故既是知，也是行。",
+      "dharma（义务）有内在价值，非仅预备；故行为不被取消，而被纳入虔信。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "佛教量论（陈那）",
+     "id": "in-india-dignaga",
+     "stance": "解脱非此三说所及：以“离分别”的知为要",
+     "reasons": [
+      "其学以量论与遮诠立说，解脱问题不属其量论的核心。",
+      "故对此争，其立场须从其对“知”的分析间接推出，非直接作答。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "知、行与虔信三者在解脱中的位置，以及“有效性”概念在其中的作用。",
+   "status": "未决",
+   "status_note": "三家（不二论、弥曼差、限制不二论）的争辩有直接的往复文献；佛教量论的立场须间接推。本页并述而不裁定。",
+   "sources": [
+    "sep-shankara",
+    "iep-ramanuja",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“知先行后”与“bhakti 作为认识状态”据 SEP “Śaṅkara”与 IEP “Ramanuja”转述；弥曼差的立场据 SEP 感知篇的解说推之，非其专论解脱的文本，须核《颂释补》相关部分。"
   }
  ]
 }

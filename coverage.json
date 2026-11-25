@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1852,
+  "entries": 1854,
   "by_level": {
    "L2": 793,
-   "L1": 1059
+   "L1": 1061
   },
   "doctrine": {
    "total": 320,
    "detail": 320,
    "auto": 0
   },
-  "needs_verification": 1059,
+  "needs_verification": 1061,
   "sources": 430,
   "sources_verified": 430
  },
@@ -85,7 +85,7 @@
    "region": "india",
    "philosophers": 12,
    "concepts": 9,
-   "debates": 4,
+   "debates": 6,
    "philosophers_slot": "8 上限，余 -4"
   },
   {
@@ -4867,6 +4867,28 @@
    "level": "L1",
    "sources": 2,
    "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-brahman-attributes",
+   "type": "debate",
+   "title": "梵有属性吗：无差别的意识，还是有德的人格神？",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-moksa-knowledge-action",
+   "type": "debate",
+   "title": "解脱是知还是行：认识、仪轨与虔信之争",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
    "needs_verification": true,
    "updated": "2026-11-25"
   },
