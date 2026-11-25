@@ -3112,7 +3112,8 @@
     "mit-aristotle-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-ancient-arche"
   },
   {
    "id": "gr-ancient-dynamis",
@@ -3936,7 +3937,8 @@
     "book-guthrie-greek"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-ancient-form"
   },
   {
    "id": "gr-ancient-phronesis-politike",

@@ -2596,7 +2596,8 @@
     "book-copleston-history"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-german-absolute-spirit"
   },
   {
    "id": "gr-german-world-history",

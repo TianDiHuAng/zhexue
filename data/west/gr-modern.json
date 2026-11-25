@@ -6138,7 +6138,8 @@
     "sep-leibniz"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-modern-substance"
   },
   {
    "id": "gr-modern-contract",
@@ -6849,7 +6850,8 @@
     "sep-descartes"
    ],
    "needs_verification": true,
-   "pending_notes": "“两种性质”的原文（《人类理智论》第二卷第八章）须核 Clarendon 版；洛克与贝克莱在此点上的往复亦须分辨。"
+   "pending_notes": "“两种性质”的原文（《人类理智论》第二卷第八章）须核 Clarendon 版；洛克与贝克莱在此点上的往复亦须分辨。",
+   "broader": "gr-modern-idea"
   },
   {
    "id": "gr-modern-esse-percipi",

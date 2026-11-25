@@ -5491,7 +5491,8 @@
     "sep-jaspers"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-20c-being-in-world"
   },
   {
    "id": "gr-20c-lifeworld",
@@ -6121,7 +6122,8 @@
     "sep-lacan"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-20c-isa"
   },
   {
    "id": "gr-20c-wuhua",
