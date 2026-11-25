@@ -3810,6 +3810,15 @@
     "新工具authcheck(D84)",
     "CANDIDATE 7→0（补2改1判4）"
    ]
+  },
+  {
+   "round": 408,
+   "date": "2026-11-26",
+   "gaps_found": 0,
+   "methods": [
+    "比较+2(正义战争/勇气)",
+    "README补relcheck与authcheck"
+   ]
   }
  ]
 }
