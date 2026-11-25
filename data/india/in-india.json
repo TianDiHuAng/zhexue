@@ -3361,6 +3361,45 @@
    "needs_verification": true,
    "pending_notes": "三家说法据 SEP 相应条目与通行研究概述转述；四姓的制度史与《摩奴法论》的条文**未核**；本站不涉种姓制度的现实评价，只作概念对照。",
    "broader": "in-india-dharma"
+  },
+  {
+   "id": "in-india-avyakata",
+   "term": "无记",
+   "term_latin": "avyākata",
+   "definition": "“不记说”——对某些问题不予回答。它在佛教中是**方法的自觉**（答则增执）；而在主张“决了”的学派看来，不答即是一种失败。",
+   "usages": [
+    {
+     "name": "龙树",
+     "id": "in-india-nagarjuna",
+     "usage": "十四无记所以不答，因所问皆依“自性”而立：若许其有，则堕常；若许其无，则堕断。故**不答即是最准确的答**。"
+    },
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "以“应说不应说”判之：无记事非“应说”之境，强答则令问者增长戏论；故不答属**教化上的抉择**，非知识上的欠缺。"
+    },
+    {
+     "name": "乔答摩（正理派，作为对照）",
+     "id": "in-india-gautama",
+     "usage": "正理以“**决了**”为论议之目的，且立“堕负”诸相：在论场上不能决答者即为负。故其学以“能答”为标准，与“无记”正相反。"
+    }
+   ],
+   "related": [
+    "in-india-prajna",
+    "in-india-two-truths",
+    "in-india-sodasa-padartha"
+   ],
+   "example": {
+    "text": "同一件“不回答”：中观说这是最准确的答（问题本身依自性而立），正理说这是论议的失败（不能决了）——两种“沉默”的意义正好相反。",
+    "figure": "沉默的两种意义（最准确的答／论议的失败）"
+   },
+   "sources": [
+    "sep-nagarjuna",
+    "sep-yogacara",
+    "sep-logic-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "十四无记与“不答因依自性而立”之说据 SEP “Nāgārjuna”转述；世亲一栏据“应说不应说”的通行分判概述，未引专论；正理“堕负”诸相与 SEP 逻辑篇所述相合，但《正理经》第五卷条文未核。"
   }
  ],
  "debates": [
