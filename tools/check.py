@@ -486,6 +486,23 @@ def check_works(src, global_ids):
                 err("%s / related_people" % where, "R11", "人物 id 不存在：%s" % r)
         for m in w.get("misreadings") or []:
             need("%s / misreading" % where, "R17", m, ["claim", "why"], mins={"why": 10})
+        # D77：著作页的原文引文（与人物页同一套规矩：须原典、≤60 字、须篇目定位）
+        for q in w.get("quotes") or []:
+            w8 = "%s / quote" % where
+            need(w8, "R20", q, ["text", "source_id", "locator", "kind"])
+            sid = q.get("source_id")
+            if sid not in src:
+                err(w8, "R3", "引文来源未定义：%s" % sid)
+            elif src[sid].get("type") != "原典":
+                err(w8, "R20", "引文来源必须是原典（type=原典），实际 %s" % src[sid].get("type"))
+            elif not src[sid].get("verified"):
+                err(w8, "R3", "引文来源未通过核验：%s" % sid)
+            t = q.get("text") or ""
+            if len(t) > 60:
+                err(w8, "R20", "引文过长（%d 字 > 60），不得大段搬用译本" % len(t))
+            if not nonempty(q.get("locator")):
+                err(w8, "R20", "引文缺篇目定位（locator）")
+            check_kind(w8, q, "R20")
         check_sources(where, w, src)
         check_pending(where, w)
 

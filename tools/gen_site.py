@@ -515,6 +515,13 @@ def render_work(w, sources, people):
     for m in w["misreadings"]:
         body.append('<div class="card"><p><b>常见说法：</b>%s</p><p><b>纠正：</b>%s</p></div>'
                     % (esc(m["claim"]), esc(m["why"])))
+    if w.get("quotes"):                      # D77：著作页亦可挂原文引文（须原典、≤60 字）
+        body.append("<h2>七、原文引文与出处</h2>")
+        for q in w["quotes"]:
+            body.append('<blockquote>%s<cite>—— %s，%s %s</cite></blockquote>'
+                        % (esc(q["text"]), esc(q["locator"]),
+                           esc(sources.get(q["source_id"], {}).get("title", "")),
+                           kind_tag(q.get("kind"))))
     body.append("<h2>待核实</h2>" + pending_box(w))
     body.append("<h2>参考来源</h2>" + src_block(w.get("sources"), sources))
     return page(w["title"], d, "著作", "\n".join(body))
