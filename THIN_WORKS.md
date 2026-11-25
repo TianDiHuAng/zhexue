@@ -4,22 +4,17 @@
 用途：`GAPS_WORKS` 归零后（第 287 轮）的**下一层缺口**——从「有无」转到「厚薄」。
 重生成：`python tools/thincheck.py`（每次改动作著关联后应重跑）。
 
-当前合计：**33 人**（0 部 0 ｜ 1 部 33）
+当前合计：**30 人**（0 部 0 ｜ 1 部 30）
 
 ## cn-lianghan
 - 刘安（`cn-lianghan-liu-an`）—— 1 部
-- 徐幹（`cn-lianghan-xu-gan`）—— 1 部
 
 ## cn-qingmod
 - 唐甄（`cn-qingmod-tang-zhen`）—— 1 部
 - 张之洞（`cn-qingmod-zhang-zhidong`）—— 1 部
-- 邹容（`cn-qingmod-zou-rong`）—— 1 部
 
 ## cn-songming
 - 王廷相（`cn-songming-wang-tingxiang`）—— 1 部
-
-## cn-suitang
-- 神秀（`cn-suitang-shenxiu`）—— 1 部
 
 ## cn-weijin
 - 刘劭（`cn-weijin-liu-shao`）—— 1 部

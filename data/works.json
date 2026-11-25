@@ -9216,6 +9216,62 @@
    "sort_year": 210
   },
   {
+   "id": "work-xugan-ji",
+   "title": "《徐幹集》（辑本）",
+   "title_original": "Xu Gan Ji（辑佚本）",
+   "tradition": "china",
+   "date_display": "汉魏之际（徐幹；今存辑本）",
+   "structure": "徐幹诗文的辑佚汇编：含赋、诗、书、论等。其《中论》自为一书，而集中所存短篇可见其文风与交游，故与《中论》互为旁证。",
+   "core_arguments": [
+    "**文集可补专书之阙**：《中论》为论著，集则见其文与人",
+    "**“建安七子”之一**：其文风与其论学相表里",
+    "**辑佚的限度**：今存者多由类书与选本辑出，故须辨真伪"
+   ],
+   "key_points": [
+    {
+     "locator": "赋",
+     "point": "文风"
+    },
+    {
+     "locator": "书",
+     "point": "交游与论学"
+    },
+    {
+     "locator": "诗",
+     "point": "建安之风"
+    },
+    {
+     "locator": "辑佚说明",
+     "point": "来源与真伪"
+    }
+   ],
+   "editions": [
+    "辑本（严可均《全后汉文》等）；**无单行原本存世**"
+   ],
+   "related_people": [
+    "cn-lianghan-xu-gan",
+    "cn-weijin-wangbi",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其集与《中论》是同一书",
+     "why": "《中论》为**论著专书**，集为**诗文辑佚**；二者体例不同，不可混为一。"
+    },
+    {
+     "claim": "辑本所收皆徐幹真作",
+     "why": "辑佚多由类书、选本录出，**有误题与混入**之可能；故引用须标“辑本”并核来源。"
+    }
+   ],
+   "sources": [
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据通行研究概述，**未见辑本原书**；各篇的辑出出处（类书卷次）须核。",
+   "sort_year": 210
+  },
+  {
    "id": "work-de-principiis",
    "title": "《论首要原理》（奥利金）",
    "title_original": "Περὶ ἀρχῶν（De principiis）",
@@ -15904,6 +15960,62 @@
    ],
    "needs_verification": true,
    "pending_notes": "《观心论》的敦煌写本编号（S.2595 等）与作者归属须核；其与《坛经》所记北宗说的异同亦须核。本页对作者**标而不裁**。",
+   "sort_year": 700
+  },
+  {
+   "id": "work-wusheng-fangbian",
+   "title": "《大乘无生方便门》",
+   "title_original": "Da Sheng Wu Sheng Fang Bian Men（传为神秀所述，敦煌本）",
+   "tradition": "china",
+   "date_display": "唐（传为神秀一系所述；敦煌写本）",
+   "structure": "敦煌写本：以问答与“五方便”为纲，说“**离念**”“**见性**”之旨。故其书是**北宗禅的教说记录**，非系统论著，且作者归属须辨。",
+   "core_arguments": [
+    "**离念为宗**：念起即觉，觉之即无",
+    "**五方便**：由定入慧的五个门径",
+    "**见性成佛**：与南宗同用“见性”而方法有别"
+   ],
+   "key_points": [
+    {
+     "locator": "五方便",
+     "point": "由定入慧"
+    },
+    {
+     "locator": "问答",
+     "point": "离念与见性"
+    },
+    {
+     "locator": "写本情况",
+     "point": "敦煌本与作者归属"
+    },
+    {
+     "locator": "全书",
+     "point": "北宗教说"
+    }
+   ],
+   "editions": [
+    "敦煌写本（S.2503 等）；校本与英译有；**通行中译无**"
+   ],
+   "related_people": [
+    "cn-suitang-shenxiu",
+    "cn-suitang-huineng",
+    "cn-nanbei-huisi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是神秀亲笔",
+     "why": "敦煌本题记与作者归属**有讨论**，一般视为**神秀一系的教说记录**；本页并记，不裁定。"
+    },
+    {
+     "claim": "北宗主张“渐修”故“不见性”",
+     "why": "其书亦说“**见性**”，与南宗同用此语而**方法不同**（离念 vs 顿见）；故不可简化为“北渐南顿”。"
+    }
+   ],
+   "sources": [
+    "book-chan-sourcebook",
+    "ws-gaoseng-zhuan"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据佛教研究通行概述与《高僧传》旁证，**未校敦煌写本**；S.2503 等编号与录文须核，“五方便”的分目亦待核。",
    "sort_year": 700
   },
   {
@@ -36946,6 +37058,62 @@
    ],
    "needs_verification": true,
    "pending_notes": "《革命军》1903 年初刊的文本与其后的翻印异文须核中华书局《邹容文集》；其排满表述的历史语境须如实标出，不作美化也不作苛责。",
+   "sort_year": 1903
+  },
+  {
+   "id": "work-zourong-wenji",
+   "title": "《邹容文集》",
+   "title_original": "Zou Rong Wen Ji（今人辑本）",
+   "tradition": "china",
+   "date_display": "清末（邹容；今人辑本）",
+   "structure": "邹容文字的汇辑：以《革命军》为主，附书札、诗文与友朋记述。故其主体仍是《革命军》，文集的价值在**旁证与背景**。",
+   "core_arguments": [
+    "**《革命军》为主干**：其余文字皆为其注脚",
+    "**少年之文**：其文激切，反映清末青年的心理",
+    "**史料的限度**：多由回忆与报刊辑出，须辨"
+   ],
+   "key_points": [
+    {
+     "locator": "革命军",
+     "point": "主干"
+    },
+    {
+     "locator": "书札",
+     "point": "交游与心迹"
+    },
+    {
+     "locator": "诗文",
+     "point": "少年之气"
+    },
+    {
+     "locator": "附录",
+     "point": "友朋记述"
+    }
+   ],
+   "editions": [
+    "今人辑本（多种）；《革命军》单行本易得"
+   ],
+   "related_people": [
+    "cn-qingmod-zou-rong",
+    "cn-qingmod-zhang-taiyan",
+    "cn-qingmod-liang-qichao"
+   ],
+   "misreadings": [
+    {
+     "claim": "文集与《革命军》并重",
+     "why": "其**思想主干仍是《革命军》**；文集其余多为旁证，不可等量。"
+    },
+    {
+     "claim": "集中所收皆可据为信史",
+     "why": "辑本多由**报刊与回忆**录出，有传闻与误记；故须与当时报刊对勘。"
+    }
+   ],
+   "sources": [
+    "sep-chinese-metaphysics",
+    "ct-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据通行研究概述，**未校辑本**；《革命军》1903 年刊行与各辑本的篇目须核。",
    "sort_year": 1903
   },
   {
