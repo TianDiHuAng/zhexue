@@ -9156,6 +9156,62 @@
    "sort_year": 200
   },
   {
+   "id": "work-vigrahavyavartani",
+   "title": "《回诤论》",
+   "title_original": "Vigrahavyāvartanī（龙树）",
+   "tradition": "india",
+   "date_display": "约2—3世纪（龙树）",
+   "structure": "七十颂左右：先由对手提出“若一切法空，则你所说亦空，故不能成立”之诤，龙树逐条答之。故其体例是**问答体的自我防卫**——为“空”之说辩护其自身的可成立。",
+   "core_arguments": [
+    "**空说自身亦空**：故不堕“自语相违”——空不是说“一切无所说”",
+    "**量不能自立**：若诸量须由量证，则成无穷；故量非自性有",
+    "**破而不立**：其所破者是他宗之“自性”，不另立一宗"
+   ],
+   "key_points": [
+    {
+     "locator": "初颂",
+     "point": "对手之诤"
+    },
+    {
+     "locator": "答诤",
+     "point": "空说自身亦空"
+    },
+    {
+     "locator": "破量",
+     "point": "量不能自立"
+    },
+    {
+     "locator": "末颂",
+     "point": "破而不立"
+    }
+   ],
+   "editions": [
+    "梵本存；汉译（真谛译）与藏译并存；英译有（Bhattacharya 等）；**中译可参汉译**"
+   ],
+   "related_people": [
+    "in-india-nagarjuna",
+    "in-india-gautama",
+    "in-india-dignaga"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“自立一宗”的论著",
+     "why": "其书是**答难**之作：所破者是他宗的“自性”，而**不另立一宗**；故为防卫性的论辩，非建立体系。"
+    },
+    {
+     "claim": "“一切法空”故“什么都不能说”",
+     "why": "其书恰要答此难：**空说自身亦空**，故说空并不自语相违；此点是全书枢要。"
+    }
+   ],
+   "sources": [
+    "sep-nagarjuna",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Nāgārjuna”（该篇明列《回诤论》论语言与量）转述，**未校梵本与汉译**；颂数与品次须核。",
+   "sort_year": 200
+  },
+  {
    "id": "work-zhonglun-xugan",
    "title": "《中论》（徐幹）",
    "title_original": "中論",
@@ -9323,6 +9379,62 @@
    ],
    "needs_verification": true,
    "pending_notes": "本页据通行研究概述，**未见辑本原书**；各篇的辑出出处（类书卷次）须核。",
+   "sort_year": 210
+  },
+  {
+   "id": "work-shiroshu-nyori",
+   "title": "《六十颂如理论》",
+   "title_original": "Yuktiṣaṣṭikā（龙树）",
+   "tradition": "india",
+   "date_display": "约2—3世纪（龙树）",
+   "structure": "六十颂：以“**如理**（yukti）”为纲，说缘起、无自性与二谛的相即。较《中论》简短，故常被视为其**纲要性的作品**。",
+   "core_arguments": [
+    "**以理证空**：依缘起而推，故空非信仰而是可论证的",
+    "**有无俱遣**：若执“有”则堕常，执“无”则堕断，故二俱不取",
+    "**二谛相即**：世俗与胜义非二处，而是同一缘起的两种说法"
+   ],
+   "key_points": [
+    {
+     "locator": "初颂",
+     "point": "如理之义"
+    },
+    {
+     "locator": "中段",
+     "point": "缘起与无自性"
+    },
+    {
+     "locator": "论二谛",
+     "point": "二谛相即"
+    },
+    {
+     "locator": "末颂",
+     "point": "有无俱遣"
+    }
+   ],
+   "editions": [
+    "梵本残、藏译存；汉译无独立译本；英译有；**中译无**"
+   ],
+   "related_people": [
+    "in-india-nagarjuna",
+    "in-india-candrakirti",
+    "in-india-bhaviveka"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是《中论》的摘要",
+     "why": "其书虽简短，而**以“如理”立纲**、论二谛相即，自有其结构；称其为“纲要”则可，说是“摘要”则抹去其独立论证。"
+    },
+    {
+     "claim": "“有无俱遣”＝虚无主义",
+     "why": "其遣“无”与遣“有”同时，故不落虚无；虚无所执的正是“无”这一边。"
+    }
+   ],
+   "sources": [
+    "sep-nagarjuna",
+    "sep-yogacara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Nāgārjuna”转述，**未读藏译**；六十颂的颂数与汉译缺失须核（Lindtner 校本）。",
    "sort_year": 210
   },
   {
