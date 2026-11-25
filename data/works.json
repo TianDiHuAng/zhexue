@@ -17357,6 +17357,62 @@
    "sort_year": 850
   },
   {
+   "id": "work-al-kindi-intellect",
+   "title": "《论理智》",
+   "title_original": "De Intellectu（al-Kindi）",
+   "tradition": "west",
+   "date_display": "约9世纪（金迪）",
+   "structure": "短论：以亚里士多德《论灵魂》卷三为据，辨“**四种理智**”——总是实际的理智、由潜能转为实际的理智、习得的理智、以及显现的理智。故其体例是**译释性的短论**，为阿拉伯哲学“理智论”之始。",
+   "core_arguments": [
+    "**理智的层级**：由潜能到实际，须有外力使之转",
+    "**与灵魂的关系**：理智非灵魂的一部分，而是自外而入者",
+    "**知识的获得**：人的理智须与“总是实际的理智”相接"
+   ],
+   "key_points": [
+    {
+     "locator": "四理智之分",
+     "point": "层级说"
+    },
+    {
+     "locator": "论潜能与实际",
+     "point": "转的条件"
+    },
+    {
+     "locator": "与亚氏文本的关系",
+     "point": "译释体例"
+    },
+    {
+     "locator": "末节",
+     "point": "人的知识如何成立"
+    }
+   ],
+   "editions": [
+    "阿拉伯文本残；拉丁译本存（De intellectu）；**中译无**"
+   ],
+   "related_people": [
+    "gr-medieval-al-kindi",
+    "gr-ancient-aristotle",
+    "gr-medieval-al-farabi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其说是“新柏拉图主义的溢流论”",
+     "why": "其短论以**亚里士多德《论灵魂》**为据辨理智层级；溢流论的成分在其宇宙论著作中较重，在本书则以**注释**为主。二者须分。"
+    },
+    {
+     "claim": "四种理智即四个实体",
+     "why": "其“四种”多为**同一理智的四重描述**（潜能／实际／习得／显现）；故不可当作四个东西。"
+    }
+   ],
+   "sources": [
+    "sep-al-kindi",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “al-Kindi”转述，**未读拉丁译本**；“四种理智”的具体名目须核。",
+   "sort_year": 850
+  },
+  {
    "id": "work-periphyseon",
    "title": "《论自然的区分》",
    "title_original": "Periphyseon (De divisione naturae)",
