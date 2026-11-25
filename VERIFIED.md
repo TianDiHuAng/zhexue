@@ -57,3 +57,10 @@
 - **in-india-ramanuja**（据 `iep-ramanuja`）：限制不二论（意识为属性、个体实有）；bhakti 为认识状态；tat tvam asi 的同位解
 
 > 三项均为**内容级核销**；三页 `needs_verification` 仍为 true（原典未读）。
+
+## 第 403 轮（目标第 77 轮）
+
+- **in-india-vatsyayana**（据 `sep-logic-india`）：《正理注》为《正理经》根本注（该篇书目以 Uddyotakara 之注疏为证）
+- **in-india-candrakirti**（据 `sep-nagarjuna`）：《明句论》为《中论》注释，属“应成”一路，并批评清辨的自立论证
+
+> 两项为内容级核销；两页 `needs_verification` 仍为 true（梵本未读）。
