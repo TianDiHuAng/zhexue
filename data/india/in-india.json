@@ -2594,6 +2594,111 @@
    ],
    "needs_verification": true,
    "pending_notes": "“知先行后”与“bhakti 作为认识状态”据 SEP “Śaṅkara”与 IEP “Ramanuja”转述；弥曼差的立场据 SEP 感知篇的解说推之，非其专论解脱的文本，须核《颂释补》相关部分。"
+  },
+  {
+   "id": "in-india-veda-authorless",
+   "title": "语言无作者吗：吠陀的有效性从何而来？",
+   "question": "一部没有人写的文本，可以是可靠的知识来源吗？",
+   "positions": [
+    {
+     "holder": "弥曼差（鸠摩利罗）",
+     "id": "in-india-kumarila",
+     "stance": "吠陀无作者，故其言说无过失之源，其有效性不待外证",
+     "reasons": [
+      "若经典有作者，则其可信赖须依作者的可信赖性。",
+      "吠陀无作者（apauruṣeya），故无欺诈与失误的可能，其知识有效。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "佛教量论（陈那）",
+     "id": "in-india-dignaga",
+     "stance": "不作“无作者”之设；以量论与遮诠论知",
+     "reasons": [
+      "语词的所指由“遮除他者”而定，故其有效不依“作者有无”。",
+      "文本的可信须以现量与比量检验，非以“无作者”担保。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "限制不二论（罗摩奴阇）",
+     "id": "in-india-ramanuja",
+     "stance": "经典自我证明，但其前提须以信仰入",
+     "reasons": [
+      "经典是 dharma 与解脱之知的唯一来源，其效力不能由知觉或推理证成。",
+      "故其有效性是自证的（self-justifying），入门时须凭信，践行后方得证验。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "“无作者”能否构成有效性的根据，以及经典的权威与经验、推理的关系。",
+   "status": "未决",
+   "status_note": "弥曼差与佛教的往复文献丰富；罗摩奴阇的“自证而须凭信”又与前二说皆不同。本页并述三说而不裁定。",
+   "sources": [
+    "sep-perception-india",
+    "sep-logic-india",
+    "iep-ramanuja"
+   ],
+   "needs_verification": true,
+   "pending_notes": "鸠摩利罗“无作者”之论证据 SEP 感知篇的解说转述；陈那对证言（śabda）的处理与其量论的关系须核《集量论》研究；罗摩奴阇的 fideism 据 IEP 转述。"
+  },
+  {
+   "id": "in-india-grace-self-effort",
+   "title": "恩典与自力：解脱靠谁？",
+   "question": "解脱是个人努力的果，还是神恩的赐与？",
+   "positions": [
+    {
+     "holder": "限制不二论（罗摩奴阇）",
+     "id": "in-india-ramanuja",
+     "stance": "恩典必要，但个人须以 bhakti 与 prapatti（归命）相应",
+     "reasons": [
+      "个体在存在上依赖神，故无神恩则无力自行解脱。",
+      "然神恩非无条件的机械赐与：须以虔信与归命为其条件（其内部南北两支即争此条件之宽严）。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "不二吠檀多（商羯罗）",
+     "id": "in-india-shankara",
+     "stance": "解脱是知，非恩典所赐",
+     "reasons": [
+      "无明是认识的问题，故其去除亦须以“知”为因。",
+      "若解脱由恩赐，则其成否不系于知，与“解脱即知梵”相违。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "弥曼差（鸠摩利罗）",
+     "id": "in-india-kumarila",
+     "stance": "由法与仪轨，不立“恩典”之说",
+     "reasons": [
+      "吠陀所立的法是行为的规范，其果由法与仪轨而成。",
+      "其学不以人格神为中心，故“恩典”非其所依。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "瑜伽行（世亲）",
+     "id": "in-india-vasubandhu",
+     "stance": "由道次第与转依，不立神恩",
+     "reasons": [
+      "解脱是转依（去遍计），由资粮、加行等道次第而成。",
+      "其体系不立造物之神，故无“恩典”一范畴。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "自力与他力（恩典）在解脱论中的位置，以及“条件”与“赐与”如何相容。",
+   "status": "未决",
+   "status_note": "此争在南亚至今仍具宗教现实意义（Śrī Vaiṣṇava 的南北两支即以之为分野）；本页只述其哲学结构，不评判其宗教主张。",
+   "sources": [
+    "iep-ramanuja",
+    "sep-shankara",
+    "sep-perception-india",
+    "sep-yogacara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "罗摩奴阇的恩典与 prapatti 之说据 IEP “Ramanuja”转述（其中 Gadyas 的真伪之争亦影响此说）；商羯罗与瑜伽行的立场由各自解脱论间接推之，非其专论恩典的文本。"
   }
  ]
 }

@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1854,
+  "entries": 1856,
   "by_level": {
    "L2": 793,
-   "L1": 1061
+   "L1": 1063
   },
   "doctrine": {
    "total": 320,
    "detail": 320,
    "auto": 0
   },
-  "needs_verification": 1061,
+  "needs_verification": 1063,
   "sources": 430,
   "sources_verified": 430
  },
@@ -85,7 +85,7 @@
    "region": "india",
    "philosophers": 12,
    "concepts": 9,
-   "debates": 6,
+   "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
   },
   {
@@ -4889,6 +4889,28 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-veda-authorless",
+   "type": "debate",
+   "title": "语言无作者吗：吠陀的有效性从何而来？",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-grace-self-effort",
+   "type": "debate",
+   "title": "恩典与自力：解脱靠谁？",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
    "needs_verification": true,
    "updated": "2026-11-25"
   },
