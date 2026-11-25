@@ -17951,6 +17951,62 @@
    "sort_year": 1100
   },
   {
+   "id": "work-gita-bhasya",
+   "title": "《薄伽梵歌注》",
+   "title_original": "Gītā Bhāṣya（罗摩奴阇）",
+   "tradition": "india",
+   "date_display": "约11—12世纪（罗摩奴阇）",
+   "structure": "对《薄伽梵歌》十八章的逐颂注：以限制不二论（Viśiṣṭādvaita）解“我”与“梵”的关系，并以 bhakti（信爱）为解脱之道。",
+   "core_arguments": [
+    "**我非梵而依于梵**：个体我是梵的“属性”与“肢体”，非独立实体",
+    "**bhakti 是认识状态**：信爱非情感，而是对神之尊严的持续认知",
+    "**业瑜伽与智瑜伽皆须归于 bhakti**：行为与知识不能自立"
+   ],
+   "key_points": [
+    {
+     "locator": "卷二",
+     "point": "数论与瑜伽的术语如何收归神"
+    },
+    {
+     "locator": "卷九",
+     "point": "信爱之道"
+    },
+    {
+     "locator": "卷十三",
+     "point": "我梵之别"
+    },
+    {
+     "locator": "卷十八",
+     "point": "三德的超越"
+    }
+   ],
+   "editions": [
+    "梵校本与英译多种（Thibaut 等）；**中译无全本**"
+   ],
+   "related_people": [
+    "in-india-ramanuja",
+    "in-india-shankara",
+    "in-india-vasubandhu"
+   ],
+   "misreadings": [
+    {
+     "claim": "其注与商羯罗的《歌注》同属不二论",
+     "why": "罗摩奴阇以**限制不二论**解之：我非梵，而是梵的属性；故与商羯罗的“我梵同一”相反。"
+    },
+    {
+     "claim": "bhakti 只是“信仰”或“感情”",
+     "why": "其说以 bhakti 为**认识状态**（对神之尊严的持续认知），非单纯情感。"
+    }
+   ],
+   "sources": [
+    "iep-ramanuja",
+    "sep-shankara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 IEP “Ramanuja”转述，**未读《薄伽梵歌注》梵本**；其分卷与 Thibaut 英译的对应须核。",
+   "sort_year": 1100
+  },
+  {
    "id": "work-erchend-yishu",
    "title": "《二程遗书》",
    "title_original": "二程遺書（河南程氏遺書）",
@@ -18968,6 +19024,62 @@
    ],
    "needs_verification": true,
    "pending_notes": "《诗集传》的卷数（今本八卷／二十卷之别）与成稿年代须核中华书局点校本；“淫诗说”的原文与其后学（王柏）的推衍亦须分辨。",
+   "sort_year": 1175
+  },
+  {
+   "id": "work-mishneh-torah",
+   "title": "《密西那托拉》（《律法复述》）",
+   "title_original": "Mishneh Torah（迈蒙尼德）",
+   "tradition": "west",
+   "date_display": "约1170—1180（迈蒙尼德）",
+   "structure": "以**十四卷**重述全部犹太律法：不引经文辩论，而以 Clean 的分类与明确的裁断写成；其末卷论“弥赛亚”与“来世”。",
+   "core_arguments": [
+    "**律法可被系统化**：以分类与定义使全部诫命成一整体",
+    "**哲学与律法不冲突**：律法之目的在使人得真知与正行",
+    "**信念有义**：其末卷以“认识神”为律法之终极目的"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一（知识）",
+     "point": "神之统一与先知论"
+    },
+    {
+     "locator": "卷二—五",
+     "point": "敬拜与节期"
+    },
+    {
+     "locator": "卷十四（君王）",
+     "point": "弥赛亚与来世"
+    },
+    {
+     "locator": "全书",
+     "point": "不引辩论的裁断体"
+    }
+   ],
+   "editions": [
+    "标准希伯来文本多种；英译有 Yale Judaica 系列；**中译无全本**"
+   ],
+   "related_people": [
+    "gr-medieval-maimonides",
+    "gr-medieval-aquinas",
+    "gr-medieval-averroes"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是《塔木德》的注释",
+     "why": "其书**不取注释体**，而以分类与裁断重述全部律法；故为法典，非注疏。"
+    },
+    {
+     "claim": "其哲学只在《迷途指津》",
+     "why": "《密西那托拉》首卷即以**神之知识**开端，其哲学立场贯穿法典；故两书须合观。"
+    }
+   ],
+   "sources": [
+    "sep-maimonides",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Maimonides”转述，**未读希伯来文本**；十四卷的分卷与“不引辩论”之体例须核校本。",
    "sort_year": 1175
   },
   {
@@ -20843,6 +20955,62 @@
    ],
    "needs_verification": true,
    "pending_notes": "《朱子语类》为门人记录，各条有记录者与年代的差异，且与《朱文公文集》的亲著文字有出入；本页依黎靖德编本与中华书局点校本，具体条目须核。",
+   "sort_year": 1270
+  },
+  {
+   "id": "work-de-unitate-intellectus",
+   "title": "《论理智的统一》（驳阿威罗伊）",
+   "title_original": "De Unitate Intellectus contra Averroistas（托马斯·阿奎那）",
+   "tradition": "west",
+   "date_display": "1270（阿奎那）",
+   "structure": "短论：逐条反驳“全人类共有一个可能的理智”（阿威罗伊式读法），主张**每个人各有其理智**，故人各为自己的思想负责。",
+   "core_arguments": [
+    "**理智是身体的形式**：人的理智与此身合一，故非共有的单一实体",
+    "**若理智唯一，则人无个别之思**：责任与奖惩皆无从安立",
+    "**哲学与信仰在此不冲突**：此驳是为护“个体不朽”"
+   ],
+   "key_points": [
+    {
+     "locator": "章一",
+     "point": "阿威罗伊说的陈述"
+    },
+    {
+     "locator": "章二—四",
+     "point": "逐条反驳"
+    },
+    {
+     "locator": "章五",
+     "point": "理智与身体的合一"
+    },
+    {
+     "locator": "末章",
+     "point": "个体责任与不朽"
+    }
+   ],
+   "editions": [
+    "拉丁文本见 Leonine 版；英译多种；**中译无**"
+   ],
+   "related_people": [
+    "gr-medieval-aquinas",
+    "gr-medieval-averroes",
+    "gr-ancient-aristotle"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“反哲学”的护教之作",
+     "why": "其反驳**用的是亚里士多德式的论证**；故为哲学内部之争，非以信仰压哲学。"
+    },
+    {
+     "claim": "阿威罗伊的“统一理智”＝否认个人思想",
+     "why": "阿威罗伊说的是**可能的理智**为共有，而**想象与个别之思**仍属个人；阿奎那的反驳正针对这一分辨。"
+    }
+   ],
+   "sources": [
+    "sep-aquinas",
+    "sep-ockham"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Thomas Aquinas”转述，**未读 Leonine 拉丁本**；1270 年之系年与阿威罗伊说的原貌须核。",
    "sort_year": 1270
   },
   {
