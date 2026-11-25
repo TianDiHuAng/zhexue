@@ -2496,6 +2496,123 @@
    ],
    "needs_verification": true,
    "pending_notes": "“梵”在二元论（Dvaita，摩陀婆）与差别不二论（Bhedābheda）中的说法未及；本页只取商羯罗与罗摩奴阇两家对照，并注明弥曼差不以之为中心。"
+  },
+  {
+   "id": "in-india-karma",
+   "term": "业",
+   "term_latin": "karma",
+   "definition": "行为及其留下的余势。印度诸派共许“业”有后效，而分歧在于：后效由谁承担、如何相续、可否被消除。",
+   "usages": [
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "以身、口、意三业熏成种子，藏于阿赖耶识；遇缘则生果，故业报在识的相续中成立，无须常我。"
+    },
+    {
+     "name": "龙树",
+     "id": "in-india-nagarjuna",
+     "usage": "业亦缘起而无自性：正因无自性，业才能酬果而不落于常；若业有自性，则造者与受者皆不可通。"
+    },
+    {
+     "name": "商羯罗",
+     "id": "in-india-shankara",
+     "usage": "业属“无明”所摄，其果有限；故业只能净心、创造条件，不能直接生起解脱之知。"
+    }
+   ],
+   "related": [
+    "in-india-atman",
+    "in-india-shunyata",
+    "in-india-moksa"
+   ],
+   "example": {
+    "text": "同一行为，在三家看来分别是：识中的熏习种子（世亲）、缘起的无自性相续（龙树）、无明所摄的有限之因（商羯罗）。",
+    "figure": "造业与受报之间（三种说明）"
+   },
+   "sources": [
+    "sep-yogacara",
+    "sep-nagarjuna",
+    "sep-shankara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三家说法据 SEP “Yogācāra”“Nāgārjuna”“Śaṅkara”转述；业与“无表业”等部派细目未及。"
+  },
+  {
+   "id": "in-india-moksa",
+   "term": "解脱",
+   "term_latin": "mokṣa／mukti",
+   "definition": "从轮回与苦中超出。诸派共许其为最高善，而分歧在于：解脱是“知”的事、“行”的事，还是“恩”的事。",
+   "usages": [
+    {
+     "name": "商羯罗",
+     "id": "in-india-shankara",
+     "usage": "解脱是“知”：去除无明而证我梵同一；行为只能净心，不能生起解脱之知。"
+    },
+    {
+     "name": "鸠摩利罗",
+     "id": "in-india-kumarila",
+     "usage": "以“法”与仪轨为要；解脱非其中心问题，仪轨的效力本身即为“法”的知识。"
+    },
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "解脱是“转依”：去除遍计所执而显圆成实，故是道次第所成的转变。"
+    }
+   ],
+   "related": [
+    "in-india-karma",
+    "in-india-brahman",
+    "in-india-atman"
+   ],
+   "example": {
+    "text": "同一目标，在“知”“行”“转依”三种说法下，其方法与判准皆不相同——这正是印度解脱论的三条主线。",
+    "figure": "同一位“解脱”的三种路径"
+   },
+   "sources": [
+    "sep-shankara",
+    "sep-perception-india",
+    "sep-yogacara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三家说法据各自 SEP 条目转述；耆那教与顺世派的解脱观未收入站内。"
+  },
+  {
+   "id": "in-india-avidya",
+   "term": "无明",
+   "term_latin": "avidyā",
+   "definition": "“不知”的力：它不只是知识的欠缺，而是一种能障真实、现虚假的作用。其地位在吠檀多与佛教中最为吃重。",
+   "usages": [
+    {
+     "name": "商羯罗",
+     "id": "in-india-shankara",
+     "usage": "无明是“叠加”（adhyāsa）的根源：把“我”叠加于身心之上。其去除以“明”为对治，故无明是认识的问题。"
+    },
+    {
+     "name": "罗摩奴阇",
+     "id": "in-india-ramanuja",
+     "usage": "批评“个体由无明而生”之说：无明须有一个能无明者，故个体必先于无明而在；否则成循环。"
+    },
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "以“遍计所执”说无明：于依他起上增益能取所取的二分，故无明是增益，而非实有之法。"
+    }
+   ],
+   "related": [
+    "in-india-brahman",
+    "in-india-shunyata",
+    "in-india-atman"
+   ],
+   "example": {
+    "text": "暗处见绳为蛇：商羯罗以此说叠加，佛教以之说遍计——同一譬喻，两种机制（一为认识之误，一为增益之执）。",
+    "figure": "绳与蛇（无明的通例）"
+   },
+   "sources": [
+    "sep-shankara",
+    "iep-ramanuja",
+    "sep-yogacara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三家说法据 SEP “Śaṅkara”、IEP “Ramanuja”、“SEP Yogācāra”转述；无明与“十二缘起”中的位置未及。"
   }
  ],
  "debates": [
