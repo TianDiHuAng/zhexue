@@ -2811,7 +2811,8 @@
     "sep-shankara"
    ],
    "needs_verification": true,
-   "pending_notes": "三家说法据 SEP “Nāgārjuna”“Yogācāra”“Śaṅkara”转述；“有余涅槃／无余涅槃”的部派细目未及。"
+   "pending_notes": "三家说法据 SEP “Nāgārjuna”“Yogācāra”“Śaṅkara”转述；“有余涅槃／无余涅槃”的部派细目未及。",
+   "broader": "in-india-moksa"
   },
   {
    "id": "in-india-trisvabhava",
@@ -2849,7 +2850,8 @@
     "sep-nagarjuna"
    ],
    "needs_verification": true,
-   "pending_notes": "三性说据 SEP “Yogācāra”转述；龙树一栏系从“破自性”立场推出的批评，非其直接论三性的文字。"
+   "pending_notes": "三性说据 SEP “Yogācāra”转述；龙树一栏系从“破自性”立场推出的批评，非其直接论三性的文字。",
+   "broader": "in-india-svabhava"
   },
   {
    "id": "in-india-two-truths",
@@ -3083,6 +3085,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "三家说法据 SEP “Nāgārjuna”“Yogācāra”“Śaṅkara”转述；四谛十六行相的细目未及。"
+  },
+  {
+   "id": "in-india-buddha-dhatu",
+   "term": "佛性（buddha-dhātu）",
+   "term_latin": "buddha-dhātu／tathāgatagarbha",
+   "definition": "成佛的可能性与其根据。在瑜伽行与如来藏系的文献中，它一面被说为“界”（dhātu，种性），一面被说为“藏”（garbha，隐覆），故其与阿赖耶识的关系成为难题。",
+   "usages": [
+    {
+     "name": "无著",
+     "id": "in-india-asanga",
+     "usage": "以“界”说佛性：一切有情本具成佛之种性，故修行是**显发**而非新得；其与阿赖耶识的关系须以“转依”说之。"
+    },
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "以“如来藏”与“藏识”并说：佛性非离识而别有，然亦非即虚妄的藏识；故须以三性分疏“本有”与“始有”之争。"
+    },
+    {
+     "name": "商羯罗（作为对照）",
+     "id": "in-india-shankara",
+     "usage": "不许“佛性”之说：若一切本具，则修行无义；以“我即梵”说本具，而以无明说其隐覆——**结构相近而根据不同**。"
+    }
+   ],
+   "related": [
+    "in-india-trisvabhava",
+    "in-india-atman",
+    "in-india-moksa"
+   ],
+   "example": {
+    "text": "同一“本具”：无著以“界”说种性，世亲以“藏识”说其与识的关系，商羯罗以“我即梵”说其隐覆——三家都说本具，但“本具者”各不相同。",
+    "figure": "“本具”的三种说法（界／藏识／我即梵）"
+   },
+   "sources": [
+    "sep-yogacara",
+    "sep-shankara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "无著与世亲的“界／藏”之分据 SEP “Yogācāra”转述；商羯罗一栏为**结构性对照**，非其对“佛性”一词的直接评论，引用时须分辨。"
   }
  ],
  "debates": [
