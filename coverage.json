@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1858,
+  "entries": 1861,
   "by_level": {
    "L2": 793,
-   "L1": 1065
+   "L1": 1068
   },
   "doctrine": {
-   "total": 321,
-   "detail": 321,
+   "total": 322,
+   "detail": 322,
    "auto": 0
   },
-  "needs_verification": 1065,
+  "needs_verification": 1068,
   "sources": 431,
   "sources_verified": 431
  },
@@ -83,10 +83,10 @@
    "unit_id": "in-india",
    "title": "印度哲学（正统六派与佛教）",
    "region": "india",
-   "philosophers": 12,
+   "philosophers": 13,
    "concepts": 9,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -4"
+   "philosophers_slot": "8 上限，余 -5"
   },
   {
    "unit_id": "gr-19c",
@@ -4720,6 +4720,17 @@
    "id": "in-india-ramanuja",
    "type": "philosopher",
    "title": "罗摩奴阇",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-jaimini",
+   "type": "philosopher",
+   "title": "阇弥尼",
    "container": "in-india",
    "level": "L1",
    "sources": 2,
@@ -11093,6 +11104,17 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "work-mimamsa-sutra",
+   "type": "work",
+   "title": "《弥曼差经》",
+   "container": "india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": true,
    "updated": "2026-11-25"
   },
@@ -20593,6 +20615,17 @@
    "id": "school-vedanta",
    "type": "school",
    "title": "吠檀多派",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "school-mimamsa",
+   "type": "school",
+   "title": "弥曼差派",
    "container": "in-india",
    "level": "L1",
    "sources": 2,

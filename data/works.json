@@ -6041,6 +6041,62 @@
    "sort_year": -200
   },
   {
+   "id": "work-mimamsa-sutra",
+   "title": "《弥曼差经》",
+   "title_original": "Mīmāṃsā Sūtra（Jaimini，传统）",
+   "tradition": "india",
+   "date_display": "约前2世纪（传统题为阇弥尼）",
+   "structure": "十二编（adhyāya）：以“法”的考察开篇，立“证言”为量；辨仪轨的类别与次第；论“无作者”之教；末及诸派之辩。",
+   "core_arguments": [
+    "**法由证言**：应当做什么非现在的事实，故非知觉与推理所能及",
+    "**吠陀无作者**，故其言无过失之源、有效性自足",
+    "**仪轨自效**：祭祀之果系于仪轨的正确施行，不系于神意"
+   ],
+   "key_points": [
+    {
+     "locator": "第一编",
+     "point": "法以证言为量"
+    },
+    {
+     "locator": "第二—四编",
+     "point": "仪轨的类别与次第"
+    },
+    {
+     "locator": "第六编",
+     "point": "无作者之教"
+    },
+    {
+     "locator": "末编",
+     "point": "诸派之辩"
+    }
+   ],
+   "editions": [
+    "梵校本多种；Jha 译系英译；**中译无**"
+   ],
+   "related_people": [
+    "in-india-jaimini",
+    "in-india-kumarila",
+    "in-india-shankara"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“祭祀手册”",
+     "why": "其书是**“法”的考察**（知识论与语义学的问题：法如何得知、吠陀为何可信），仪轨只是其问题所在；故为哲学著作，非仪式手册。"
+    },
+    {
+     "claim": "其书有可考的作者",
+     "why": "其书**传统题为阇弥尼**所作，其人生平无可考；引用须注明“传统所传”。"
+    }
+   ],
+   "sources": [
+    "sep-perception-india",
+    "sep-logic-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP 两条词条转述，**未读梵本**；十二编的分编与“法以证言为量”的原文位置须核校本与 Jha 译。",
+   "sort_year": -200
+  },
+  {
    "id": "work-xinyu",
    "title": "《新语》",
    "title_original": "新語",
