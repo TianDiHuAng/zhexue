@@ -1150,6 +1150,324 @@
      "note": "汉传因明未传此书，藏传则以之为根本，须分辨系统"
     }
    ]
+  },
+  {
+   "id": "in-india-candrakirti",
+   "name": "月称",
+   "latin": "Candrakīrti",
+   "birth_year": 600,
+   "death_year": 650,
+   "birth_display": "约600年",
+   "death_display": "约650年",
+   "birth_note": "约 7 世纪人（学界通说约 600—650）；生于南印度，曾任那烂陀寺住持之说见于藏传记载，属推定。",
+   "death_note": "卒年无确载；约 650 年，属推定。",
+   "era": "七世纪的印度：中观内部已因“如何回应论敌”而分化，瑜伽行与量论亦各自成系。月称以《明句论》注《中论》，确立“应成”（prasaṅga）一路：只就对方之说过其自相矛盾，不自立宗；又于《入中论》把中观推进到菩萨道的阶位论，使空义与修道合为一系。",
+   "school": "中观派（应成中观／Prāsaṅgika）",
+   "core_questions": [
+    "中观若一切皆空，自己可有“宗”（命题）吗？",
+    "世俗谛在修道中有什么地位？",
+    "空性与菩萨道的阶位如何相接？"
+   ],
+   "arguments": [
+    {
+     "claim": "应成之法：只破不立，故不自陷于“自性”的承诺",
+     "premises": [
+      "若中观者自立一宗（如“一切法空”为自宗），则此宗亦须有自性方能成立。",
+      "然中观不许任何法有自性，故立宗即自坏。"
+     ],
+     "inference": "故其法是“应成”：只从对方的 premises 推出其自相矛盾的结论，自己不提出须以自性成立的命题。如此则破他而不自坏。",
+     "conclusion": "中观的方法是归谬（prasaṅga），不是建立自宗。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "世俗谛不可废：修道正在世俗中进行",
+     "premises": [
+      "若世俗全无，则布施、持戒、忍辱等菩萨行皆无所依。",
+      "然世俗亦非实有（无自性）。"
+     ],
+     "inference": "故须于世俗中行六度，而于胜义中不见其自性；二者不即不离。若废世俗以求空，则堕断灭，反失中道。",
+     "conclusion": "空义与修道不相违：正因空故，行可成而无执。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "“空”不是“无”：以“缘起”的双重性定位空",
+     "premises": [
+      "凡缘起者待他而有，故无自性。",
+      "“无自性”不等于“不存在”：如车依支分而设施，车可用而不可得其实体。"
+     ],
+     "inference": "故空是“离自性”的表述，而非“存在”的否定；此义使空与因果、业报、修道皆相容。",
+     "conclusion": "空即缘起，故不坏世俗的因果与修行。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《明句论》（Prasannapadā）",
+     "edition": "梵本（de La Vallée Poussin 校订）；藏译完整；汉译无"
+    },
+    {
+     "title": "《入中论》（Madhyamakāvatāra）",
+     "edition": "梵本与藏译；英译见研究文献；汉译无"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "龙树",
+     "id": "in-india-nagarjuna",
+     "note": "承其《中论》而作注，并以“应成”定其方法"
+    },
+    {
+     "name": "佛护（Buddhapālita）",
+     "id": null,
+     "note": "其“应成”一路的先声；月称承之而反清辨"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "藏传中观（格鲁派等）",
+     "id": null,
+     "note": "宗喀巴一系以应成为中观的究竟义，奉月称为准"
+    },
+    {
+     "name": "清辨一系（作为论辩对手）",
+     "id": "in-india-bhaviveka",
+     "note": "应成与自续之分即由二人之诤而定型"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "清辨一系的“自续”立场",
+     "view": "若一切不自立宗，则中观者亦无由说服他人；且破他之时所用的推理，仍须依“自相成立”的因，故应成一路自相矛盾。",
+     "response": "月称的回应是：应成所用的推理只就对方所许而立，不须自许其因有自性；故破他而不自坏，正是中观的方法。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-nagarjuna",
+      "sep-perception-india"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "“应成”是无立场，故中观无主张",
+     "why": "“应成”是**方法上不立自宗**（只就对方 premises 推出矛盾），其立场仍在空义；故不能说中观无主张。"
+    },
+    {
+     "claim": "月称是中观唯一的正统",
+     "why": "其说是**一家**（应成系）；清辨一系（自续）另有其读法，藏传亦分应成／自续。故不可径以月称为中观之唯一标准。"
+    },
+    {
+     "claim": "其说主张“世俗全无，故不必修行”",
+     "why": "其说以世俗为修道之所依（六度皆在世俗中行），只是不许其有自性；故不废修行，反而以空义成立修行。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 320'><rect x='0' y='0' width='760' height='320' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>月称：应成之法与二谛（示意）</text><rect x='40' y='70' width='200' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='140' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>对方之宗</text><text x='140' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>许有自性</text><rect x='285' y='70' width='200' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='385' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>应成归谬</text><text x='385' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>推出自相矛盾</text><rect x='530' y='70' width='190' height='56' rx='6' fill='#d9e7f1' stroke='#1c3a5c'/><text x='625' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>不立自宗</text><text x='625' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>故不自坏</text><rect x='285' y='170' width='200' height='56' rx='6' fill='#e6eff7' stroke='#1c3a5c'/><text x='385' y='194' text-anchor='middle' font-size='12' fill='#1e2d3d'>世俗中修行</text><text x='385' y='212' text-anchor='middle' font-size='10' fill='#1e2d3d'>六度依世俗而立</text><text x='380' y='300' text-anchor='middle' font-size='11' fill='#5b7a96'>据 SEP “Nāgārjuna”与《明句论》的通行解说重构</text></svg>",
+   "svg_caption": "月称：应成之法与二谛（重构示意图）",
+   "sources": [
+    "sep-nagarjuna",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Nāgārjuna”转述，**未读《明句论》梵本**；生卒为通说约数。应成与自续之分在藏传判教中的定型（宗喀巴的判摄）须核专门研究。",
+   "doctrine": {
+    "summary": "月称以“应成”定中观的方法：只就对方之说过其自相矛盾，不自立宗，故破他而不自坏。他注《中论》成《明句论》，又在《入中论》中把空义与菩萨道的阶位相接，主张世俗不可废而修行正在世俗中进行。其说经藏传而成为应成中观的基准，与清辨一系的自续说构成中观内部的最大分野。",
+    "system": [
+     {
+      "name": "应成归谬",
+      "content": "只破不立：从对方的 premises 推出其自相矛盾，避免自宗亦须自性的困境。"
+     },
+     {
+      "name": "二谛不废世俗",
+      "content": "六度在世俗中行，于胜义中不见自性；废世俗则堕断灭，反失中道。"
+     },
+     {
+      "name": "空即缘起",
+      "content": "无自性不等于不存在；车依支分而设施，可用而不可得其实体。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "7世纪（其人）",
+      "change": "注《中论》，立应成之法；作《入中论》通空义与修道。"
+     },
+     {
+      "period": "8—11世纪",
+      "change": "其说在印度与清辨一系并行，注释传统延续。"
+     },
+     {
+      "period": "11世纪后",
+      "change": "传入藏地，经宗喀巴一系的判摄成为应成中观的基准。"
+     }
+    ],
+    "reception": "其注成为应成中观的基准文本；藏传以之为究竟义的判准，与自续说构成中观内部的核心争论；近世研究多以其“归谬”方法作为中观哲学的标志。"
+   },
+   "works_detail": [
+    {
+     "title": "《入中论》",
+     "year": "约7世纪",
+     "date": "十一地（菩萨十地＋佛地）",
+     "structure": "依《十地经》的架构，逐地论菩萨行与空义的交涉；末以“人无我”“法无我”作结。",
+     "core_thesis": "世俗中行六度而于胜义不见自性；空义与修道不相违。",
+     "editions": "梵本、藏译；汉译无",
+     "note": "其与《明句论》一为注、一为论，引用须分辨"
+    }
+   ]
+  },
+  {
+   "id": "in-india-bhaviveka",
+   "name": "清辨",
+   "latin": "Bhāviveka（Bhavya）",
+   "birth_year": 500,
+   "death_year": 570,
+   "birth_display": "约500年",
+   "death_display": "约570年",
+   "birth_note": "约 6 世纪人（学界通说约 500—570）；生于南印度，曾在那烂陀寺，属推定。",
+   "death_note": "卒年无确载；约 570 年，属推定。",
+   "era": "六世纪的印度：中观须同时回应瑜伽行的“唯识”与正理的“量论”。清辨以“自续”（svatantra）一路立说：中观者亦可自立因喻以破他，故须有一套自己的量论与论证；此立场与后来的月称（应成）正相对，成为中观内部最大的分野。",
+   "school": "中观派（自续中观／Svātantrika）",
+   "core_questions": [
+    "中观者破他时，能否自立因喻？",
+    "世俗谛应如何界定，才不至于与胜义相混？",
+    "中观与瑜伽行的关系是吸收还是破斥？"
+   ],
+   "arguments": [
+    {
+     "claim": "自续：中观者亦可自立因喻而破他",
+     "premises": [
+      "若要说服对方，须以对方也能承认的理由（因）为据。",
+      "若一切因皆无自性，则无从立因，破他也无从下手。"
+     ],
+     "inference": "故中观者须承认：在世俗的层面，因喻可以“自相成立”（svatantra）而有效；以此为据破他，则破他有据而不自坏。",
+     "conclusion": "中观须有世俗层面的量论与论证，不能只说“应成”。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "世俗谛须以“二重”方式界定，以避混淆",
+     "premises": [
+      "若世俗与胜义不分，则修行与言说皆失其位。",
+      "若世俗为实有，则与空义相违。"
+     ],
+     "inference": "故须分“正世俗”（世间共许而不错乱者）与“倒世俗”（如眩翳所见），前者可依之以立因喻，后者不可；如此则世俗有层级而不实有。",
+     "conclusion": "世俗有层次，故中观可于正世俗上建立论证。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "对瑜伽行：取其唯识的论证而破其“识有自性”",
+     "premises": [
+      "瑜伽行以“识的转变”破外境，此论证可资中观之用。",
+      "然瑜伽行以识为实有（依他起有自性），则为中观所不许。"
+     ],
+     "inference": "故须分两层：取其在“破外境”上的功效，破其在“识有自性”上的主张。此即所谓“中观与瑜伽行的综合”，非全然相斥。",
+     "conclusion": "中观可借瑜伽行之论证，而不承其本体论。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《般若灯论》（Prajñāpradīpa）",
+     "edition": "仅存藏译（汉译有波罗颇蜜多罗译本残）；为其《中论》注"
+    },
+    {
+     "title": "《中观心论颂》（Madhyamakahṛdaya）",
+     "edition": "梵本残卷与藏译；有自注《思择焰》"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "龙树",
+     "id": "in-india-nagarjuna",
+     "note": "为其《中论》作注，而于方法上自立一路"
+    },
+    {
+     "name": "陈那一系的量论",
+     "id": "in-india-dignaga",
+     "note": "借其因三相之说以立自续的论证"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "月称（作为其批评者）",
+     "id": "in-india-candrakirti",
+     "note": "应成与自续之分即由二人的诤论而定型"
+    },
+    {
+     "name": "藏传中观（自续一系）",
+     "id": null,
+     "note": "寂护、莲花戒一系承其路数"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "月称一系（应成中观）",
+     "view": "若中观者自立因喻，则此因喻须有自性方能成立；然中观正破自性，故自续一路自相矛盾。",
+     "response": "清辨的回应是：因喻的成立是**世俗层面**的事，不须许其有自性；若无世俗的论证，则破他无据。故此争实为“方法之争”，非“空义之争”。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-nagarjuna",
+      "sep-perception-india"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "清辨是“不彻底的中观”",
+     "why": "其说并非退让：他主张**世俗层面须有可共许的论证**，否则破他无据；此是与月称的方法之争，非对空义的让步。"
+    },
+    {
+     "claim": "其说把中观与瑜伽行混为一谈",
+     "why": "他**取瑜伽行破外境的论证**而**破其识有自性之说**，是分层的取舍，非混合；故其立场仍是中观。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 320'><rect x='0' y='0' width='760' height='320' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>清辨：自续的论证与世俗的二重（示意）</text><rect x='40' y='70' width='200' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='140' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>自立因喻</text><text x='140' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>世俗层面可共许</text><rect x='285' y='70' width='200' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='385' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>破他</text><text x='385' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>以对方所许为据</text><rect x='530' y='70' width='190' height='56' rx='6' fill='#d9e7f1' stroke='#1c3a5c'/><text x='625' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>正世俗／倒世俗</text><text x='625' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>分层的世俗</text><rect x='285' y='170' width='200' height='56' rx='6' fill='#e6eff7' stroke='#1c3a5c'/><text x='385' y='194' text-anchor='middle' font-size='12' fill='#1e2d3d'>取瑜伽行论证</text><text x='385' y='212' text-anchor='middle' font-size='10' fill='#1e2d3d'>破其识有自性</text><text x='380' y='300' text-anchor='middle' font-size='11' fill='#5b7a96'>据 SEP “Nāgārjuna”的解说与《般若灯论》的通行描述重构</text></svg>",
+   "svg_caption": "清辨：自续的论证与世俗的二重（重构示意图）",
+   "sources": [
+    "sep-nagarjuna",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Nāgārjuna”转述，**未读《般若灯论》藏译**；生卒为通说约数。“正世俗／倒世俗”的二分与《思择焰》的内容须核专门研究；应成与自续之分属后世判摄，未必是当时人的自称。",
+   "doctrine": {
+    "summary": "清辨以“自续”立说：中观者在世俗层面可自立因喻以破他，否则破他无据；他又把世俗分为正世俗与倒世俗，使论证有可依之处。对瑜伽行，他取其破外境之论而破其“识有自性”之说。其立场与月称的应成说相对，成为中观内部最大的分野，也经寂护一系传入藏地。",
+    "system": [
+     {
+      "name": "自续",
+      "content": "世俗层面可自立因喻以破他，故破他有据而不自坏。"
+     },
+     {
+      "name": "世俗二重",
+      "content": "正世俗（世间共许而不错乱）可依之立论，倒世俗（如眩翳所见）不可。"
+     },
+     {
+      "name": "对瑜伽行的取舍",
+      "content": "取瑜伽行破外境之论证，而破其“识有自性”之说；故为分层取舍，非混合。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "6世纪（其人）",
+      "change": "注《中论》而立自续一路；作《中观心论颂》。"
+     },
+     {
+      "period": "7世纪",
+      "change": "月称起而批评，应成与自续之分由此定型。"
+     },
+     {
+      "period": "8世纪后",
+      "change": "寂护、莲花戒一系承其路数，传入藏地。"
+     }
+    ],
+    "reception": "其说与月称相对，构成中观内部的核心争论；藏传判教把它列为“自续”，与“应成”并列；近世研究则多视此争为方法论之争而非空义之争。"
+   },
+   "works_detail": [
+    {
+     "title": "《般若灯论》",
+     "year": "约6世纪",
+     "date": "依《中论》二十七品分卷",
+     "structure": "逐品注释《中论》，于破斥处自立因喻，并回应瑜伽行与正理的说法。",
+     "core_thesis": "世俗层面可自立因喻；空义不废论证。",
+     "editions": "仅存藏译；汉译有残卷",
+     "note": "汉译与藏译的存缺不同，引用须注明所据"
+    }
+   ]
   }
  ],
  "concepts": [

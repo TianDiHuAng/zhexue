@@ -13294,6 +13294,62 @@
    "sort_year": 550
   },
   {
+   "id": "work-prajnapradipa",
+   "title": "《般若灯论》",
+   "title_original": "Prajñāpradīpa（Bhāviveka）",
+   "tradition": "india",
+   "date_display": "约6世纪（清辨）",
+   "structure": "依《中论》二十七品逐品注释；于破斥处自立因喻，并回应瑜伽行与正理的说法（今仅存藏译，汉译残）。",
+   "core_arguments": [
+    "**自续**：世俗层面可自立因喻，故破他有据",
+    "以**正世俗／倒世俗**的二分界定世俗的层级",
+    "对瑜伽行**取其破外境之论而破其识有自性**"
+   ],
+   "key_points": [
+    {
+     "locator": "品一注",
+     "point": "四句破与自续"
+    },
+    {
+     "locator": "品二十四注",
+     "point": "二谛的界定"
+    },
+    {
+     "locator": "品二十五注",
+     "point": "涅槃与空"
+    },
+    {
+     "locator": "全书",
+     "point": "自续的方法"
+    }
+   ],
+   "editions": [
+    "仅存藏译；汉译有波罗颇蜜多罗译本残卷"
+   ],
+   "related_people": [
+    "in-india-bhaviveka",
+    "in-india-nagarjuna",
+    "in-india-candrakirti"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书与《明句论》同属一系",
+     "why": "二书分别为**自续**（清辨）与**应成**（月称）的代表注，方法正相对；故不可混为一系。"
+    },
+    {
+     "claim": "汉译完整保存其书",
+     "why": "其书**汉译仅存残卷**，完整本在藏译；引用须注明所据系统。"
+    }
+   ],
+   "sources": [
+    "sep-nagarjuna",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Nāgārjuna”转述，**未读藏译**；汉译残卷的存缺与品次须核《大正藏》与藏译对勘。",
+   "sort_year": 550
+  },
+  {
    "id": "work-mahayana-samgraha",
    "title": "《摄大乘论》",
    "title_original": "Mahāyānasaṃgraha（攝大乘論）",
@@ -14145,6 +14201,62 @@
    "needs_verification": true,
    "pending_notes": "《行事钞》的卷数与篇数（通行三卷三十篇）须核《大正藏》第40卷；其与《四分律删补随机羯磨》的分工亦须分辨。",
    "sort_year": 626
+  },
+  {
+   "id": "work-madhyamakavatara",
+   "title": "《入中论》",
+   "title_original": "Madhyamakāvatāra（Candrakīrti）",
+   "tradition": "india",
+   "date_display": "约7世纪（月称）",
+   "structure": "十一地（菩萨十地＋佛地）：依《十地经》的架构，逐地论菩萨行与空义的交涉，末以人无我、法无我作结。",
+   "core_arguments": [
+    "**世俗中行六度**而于胜义不见自性，故空义与修道不相违",
+    "以“**人无我**”“**法无我**”二级递进说空",
+    "对**唯识**与**自续**两系皆有批评"
+   ],
+   "key_points": [
+    {
+     "locator": "初地",
+     "point": "菩提心与布施"
+    },
+    {
+     "locator": "六地",
+     "point": "般若与空"
+    },
+    {
+     "locator": "七地",
+     "point": "方便与般若"
+    },
+    {
+     "locator": "末篇",
+     "point": "二无我"
+    }
+   ],
+   "editions": [
+    "梵本与藏译；英译见研究文献；**汉译无**"
+   ],
+   "related_people": [
+    "in-india-candrakirti",
+    "in-india-nagarjuna",
+    "in-india-bhaviveka"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是《中论》的注释",
+     "why": "其书是**独立的论著**（依十地架构），非注释；月称的注释是《明句论》。二者体裁不同，须分辨。"
+    },
+    {
+     "claim": "其书主张“世俗可废”",
+     "why": "其书恰以世俗为修道之所依（六度皆在世俗中行），只是不许其有自性；故不废世俗。"
+    }
+   ],
+   "sources": [
+    "sep-nagarjuna",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Nāgārjuna”转述，**未读梵本与藏译**；十一地的分章与“二无我”的表述须核校订本与研究。",
+   "sort_year": 640
   },
   {
    "id": "work-xugaoseng-zhuan",

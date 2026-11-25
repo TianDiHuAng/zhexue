@@ -2252,6 +2252,44 @@
    ],
    "needs_verification": true,
    "pending_notes": "“约6—11世纪”的断代取陈那至法称后学（法上、智胜友等）的大致范围；其在印度的衰落与藏地传承的具体转折须核专门研究。"
+  },
+  {
+   "id": "school-madhyamaka",
+   "name": "中观派",
+   "region": "india",
+   "era": "约2世纪至今（龙树至藏传中观）",
+   "unit": "in-india",
+   "core_claims": [
+    "一切法无自性，故空；空即缘起，非虚无",
+    "以四句破因果与生灭，故因果唯在缘起上说",
+    "二谛是同一实在的两重言说，世俗不可废",
+    "解脱即于缘起上证空，不坏世间而行"
+   ],
+   "representatives": [
+    {
+     "name": "龙树",
+     "id": "in-india-nagarjuna",
+     "note": "奠基者：破自性、四句、二谛"
+    },
+    {
+     "name": "清辨",
+     "id": "in-india-bhaviveka",
+     "note": "自续一路：世俗层面可自立因喻"
+    },
+    {
+     "name": "月称",
+     "id": "in-india-candrakirti",
+     "note": "应成一路：只破不立；《入中论》通空义与修道"
+    }
+   ],
+   "rise": "二至三世纪龙树作《中论》，以破自性成立缘起；此后注释分化，六世纪清辨立自续、七世纪月称立应成，中观遂成印度大乘的两大方法之争。",
+   "decline": "十二世纪后印度佛教寺院衰微，中观的独立发展中断；其学传入藏地，成为藏传佛教的哲学主干，并延续至今。",
+   "sources": [
+    "sep-nagarjuna",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“应成／自续”之分属后世（尤其藏传）的判摄，未必是当时人的自称；本页以之标其方法之别，不视为两派之定名。"
   }
  ]
 }

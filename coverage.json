@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1835,
+  "entries": 1840,
   "by_level": {
    "L2": 793,
-   "L1": 1042
+   "L1": 1047
   },
   "doctrine": {
-   "total": 315,
-   "detail": 315,
+   "total": 317,
+   "detail": 317,
    "auto": 0
   },
-  "needs_verification": 1042,
+  "needs_verification": 1047,
   "sources": 429,
   "sources_verified": 429
  },
@@ -83,10 +83,10 @@
    "unit_id": "in-india",
    "title": "印度哲学（正统六派与佛教）",
    "region": "india",
-   "philosophers": 7,
+   "philosophers": 9,
    "concepts": 8,
    "debates": 2,
-   "philosophers_slot": "8 上限，余 1"
+   "philosophers_slot": "8 上限，余 -1"
   },
   {
    "unit_id": "gr-19c",
@@ -4665,6 +4665,28 @@
    "id": "in-india-dharmakirti",
    "type": "philosopher",
    "title": "法称",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-candrakirti",
+   "type": "philosopher",
+   "title": "月称",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-bhaviveka",
+   "type": "philosopher",
+   "title": "清辨",
    "container": "in-india",
    "level": "L1",
    "sources": 2,
@@ -12362,6 +12384,17 @@
    "updated": "2026-11-25"
   },
   {
+   "id": "work-prajnapradipa",
+   "type": "work",
+   "title": "《般若灯论》",
+   "container": "india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
    "id": "work-mahayana-samgraha",
    "type": "work",
    "title": "《摄大乘论》",
@@ -12523,6 +12556,17 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "work-madhyamakavatara",
+   "type": "work",
+   "title": "《入中论》",
+   "container": "india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": true,
    "updated": "2026-11-25"
   },
@@ -20340,6 +20384,17 @@
    "id": "school-buddhist-pramana",
    "type": "school",
    "title": "佛教量论（因明）",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "school-madhyamaka",
+   "type": "school",
+   "title": "中观派",
    "container": "in-india",
    "level": "L1",
    "sources": 2,
