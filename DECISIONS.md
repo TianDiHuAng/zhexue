@@ -375,3 +375,9 @@ D66 说"链接通 ≠ 来源对"。第254轮把它拆成两部分并做成工具
 `check.py` R10 规定「填了 `pending_notes` 则 `needs_verification` 须为 true」，故**撤标必须清空 `pending_notes`**。
 处置：核验记录移入仓库级账本 `VERIFIED.md`（按轮次分组，注明所据 source_id 与日期），条目本身只保留空 notes 与 false。
 好处：既满足校验规则，又保住"凭什么撤标"的证据链；坏处：证据与条目分居两处，查证时须同时看 `DEBT.md`（欠）与 `VERIFIED.md`（清）。
+
+## D74（第 299 轮）派生清单一律用工具生成，禁止手写
+现象：`BACKLOG_SOURCES.md` 与 `THIN_WORKS.md` 原为手写，导致 `sep-butler`／`sep-kuhn` 已结案却仍挂待办（第 285 轮已建页），
+`sep-boethius` 结案未入表 —— 手写清单会随数据漂移并"撒谎"。
+处置：`THIN_WORKS.md` 改由 `tools/thincheck.py` 生成（配 `debtcheck.py`／`GAPS_WORKS` 重生成）；
+`BACKLOG_SOURCES.md` 每若干轮整体复核，分"仍待补／已结案／技术性欠账"三节，已结案者移出待办。
