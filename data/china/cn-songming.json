@@ -3838,6 +3838,306 @@
      "note": "约1590 年"
     }
    ]
+  },
+  {
+   "id": "cn-songming-wu-cheng",
+   "name": "吴澄",
+   "latin": "Wu Cheng",
+   "birth_year": 1249,
+   "death_year": 1333,
+   "birth_display": "1249年",
+   "death_display": "1333年",
+   "birth_note": "生于南宋淳祐九年（1249），抚州崇仁人；宋亡不仕，入元后曾为国子监司业等职，事迹见《宋元学案·草庐学案》。",
+   "death_note": "卒于元统元年（1333），年八十五；《宋元学案》有传。",
+   "era": "宋元之际：理学已由朱、陆二家分立，而元廷以朱熹之学取士，朱学渐成官学。吴澄处此转折之间：其学以朱学为骨，而兼取陆九渊“尊德性”一路，主张“和会朱陆”。他既是元代最负盛名的儒者，也是“理学官学化”前夜最后一个能自由调和两家的大家；其身后，朱学定于一尊，调和之声渐微。",
+   "school": "元代朱陆调和（草庐学派）",
+   "core_questions": [
+    "朱熹与陆九渊的分歧可否调和？",
+    "“格物”与“尊德性”，何者为先？",
+    "经学与心学，如何在一人身上并存？"
+   ],
+   "arguments": [
+    {
+     "claim": "朱陆可和会：以“尊德性”为本，以“道问学”为用",
+     "premises": [
+      "朱熹重“道问学”（读书、格物），陆九渊重“尊德性”（先立其大）。",
+      "吴澄以为二者非对立：无尊德性则问学无本，无道问学则德性不实。"
+     ],
+     "inference": "故其学以“尊德性”发端，而以“道问学”充实之：先立其大，再以经籍印证。此即其“和会朱陆”的实际内容 —— 不是折中，而是分主次。",
+     "conclusion": "朱陆之学可并存于一系统，而不必相互取消。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "“理在气中”：理非别有一物，只在气上见",
+     "premises": [
+      "朱熹一系虽言“理气不离”，然易被视为二物。",
+      "吴澄强调：理不悬空，只在阴阳五行之气上见其条理。"
+     ],
+     "inference": "故其说较朱学更强调“即气言理”，与元明之际的气学倾向相接；其论“太极”亦不作悬空的实体解。",
+     "conclusion": "理气不相离：理是气之条理，非气外之一物。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "经学是“心学”的印证，而非替代",
+     "premises": [
+      "陆学末流易流于“束书不观”。",
+      "吴澄本人遍注群经（《易》《书》《诗》《春秋》《礼记》皆有纂言）。"
+     ],
+     "inference": "故其学以经学为“道问学”的实功，而以心学为“尊德性”的头脑：读书所以验其心，非以书代心。此即其对陆学末流之弊的矫正。",
+     "conclusion": "经学与心学互补：读书以实其心，非读书以易其心。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《吴文正集》（含《草庐学案》所录诸说）",
+     "edition": "《四库全书》本；《宋元学案》卷九十二〈草庐学案〉可参"
+    },
+    {
+     "title": "《书纂言》《易纂言》等经说",
+     "edition": "《四库全书》本；其经说以“纂言”为名，体例谨严"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "note": "其学以朱学为骨，尤承其经说与格物之教",
+     "relation": "承继"
+    },
+    {
+     "name": "陆九渊",
+     "id": "cn-songming-lu-jiuyuan",
+     "note": "取“尊德性”一路为本，故有“和会朱陆”之说",
+     "relation": "承继"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "明初朱学（薛瑄等）",
+     "id": "cn-songming-xue-xuan",
+     "note": "其调和之说与经学工夫为明初诸儒所承",
+     "relation": "承继"
+    },
+    {
+     "name": "元代科举与官学",
+     "id": null,
+     "note": "元廷以朱学取士，其学与官学化的朱学互为表里"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "清代考据学者与后世评家",
+     "view": "“和会朱陆”易流为两不着实：既不能守朱学之矩矱，亦不能得陆学之直截。",
+     "response": "其辩护者以为：分主次而非折中，正是其说之长；至于后学流弊，不能尽归其人。本页并述两说，不裁定。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-songyuan-xuean",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "吴澄是“元代的朱熹”",
+     "why": "其学虽以朱学为骨，然**兼取陆九渊“尊德性”一路**，与朱学之“道问学”为先不同；故为**调和者**，非朱学之复制。"
+    },
+    {
+     "claim": "“和会朱陆”是折中调和、无独立主张",
+     "why": "其说是**分主次**（尊德性为本、道问学为用），有明确的取舍；故为一种**主张**，非折中。"
+    },
+    {
+     "claim": "元代无哲学，只有朱学的官学化",
+     "why": "元代有吴澄一系的朱陆调和与经学工作；官学化是制度层面的事，与其人的哲学主张不必一致。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 320'><rect x='0' y='0' width='760' height='320' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>吴澄：朱陆和会的分主次（示意）</text><rect x='40' y='70' width='200' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='140' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>尊德性（本）</text><text x='140' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>先立其大</text><rect x='285' y='70' width='200' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='385' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>道问学（用）</text><text x='385' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>读书·格物·经说</text><rect x='530' y='70' width='190' height='56' rx='6' fill='#d9e7f1' stroke='#1c3a5c'/><text x='625' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>和会朱陆</text><text x='625' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>分主次而非折中</text><rect x='285' y='170' width='200' height='56' rx='6' fill='#e6eff7' stroke='#1c3a5c'/><text x='385' y='194' text-anchor='middle' font-size='12' fill='#1e2d3d'>理在气中</text><text x='385' y='212' text-anchor='middle' font-size='10' fill='#1e2d3d'>理是气之条理</text><text x='380' y='300' text-anchor='middle' font-size='11' fill='#5b7a96'>据《宋元学案·草庐学案》与 SEP 中国形而上学条目的通行叙述重构</text></svg>",
+   "svg_caption": "吴澄：尊德性为本、道问学为用（重构示意图）",
+   "sources": [
+    "ws-songyuan-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据《宋元学案》卷九十二〈草庐学案〉（维基文库本）与 SEP “Chinese Metaphysics” 的通行叙述，**未校《吴文正集》原书**；“和会朱陆”的具体主张与其经说的关系，须核《草庐学案》原文与今人研究。生卒依《学案》所载。",
+   "doctrine": {
+    "summary": "吴澄以朱学为骨而兼取陆九渊“尊德性”一路，主张“和会朱陆”：以尊德性为本、道问学为用，既不以读书代心，亦不废经说。其论理气强调“理在气中”，理是气之条理而非气外一物；其经说以“纂言”为名，体例谨严，为元代儒学最负盛名者。",
+    "system": [
+     {
+      "name": "和会朱陆",
+      "content": "尊德性为本、道问学为用；分主次而非折中，故不以读书代心，亦不废经说。"
+     },
+     {
+      "name": "理在气中",
+      "content": "理不悬空，只在阴阳五行之气上见其条理；太极亦不作悬空实体解。"
+     },
+     {
+      "name": "经说为实功",
+      "content": "经说为其实功：遍注群经（《易》《书》《诗》《春秋》《礼记》皆有纂言），以读书验其心，非以书代心。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "南宋末（1249—1279）",
+      "change": "承朱学与陆学之传，早有“和会”之志。"
+     },
+     {
+      "period": "元代前期（1280—1333）",
+      "change": "讲学、注经，成《书纂言》《易纂言》诸书，元廷礼之。"
+     },
+     {
+      "period": "身后",
+      "change": "朱学官学化，调和之声渐微；其学为《宋元学案·草庐学案》所存。"
+     }
+    ],
+    "reception": "其为元代最负盛名的儒者，其“和会朱陆”之说为后世调和论者所引；经说则入《四库全书》，为元明经学之一家。"
+   }
+  },
+  {
+   "id": "cn-songming-xue-xuan",
+   "name": "薛瑄",
+   "latin": "Xue Xuan",
+   "birth_year": 1389,
+   "death_year": 1464,
+   "birth_display": "1389年",
+   "death_display": "1464年",
+   "birth_note": "生于洪武二十二年（1389），山西河津人；永乐十九年进士，官至礼部左侍郎兼翰林学士，事迹见《明儒学案·河东学案》。",
+   "death_note": "卒于天顺八年（1464），年七十六；谥文清，《明儒学案》有传。",
+   "era": "明初：朱学定于一尊，而科举以《四书大全》《性理大全》为准，学者多以“述朱”为务。薛瑄是明初朱学的代表：他不主“和会”，而专以“复性”为宗，以“敬”为工夫，其《读书录》以札记体逐条自省，开明代“体认”一路；此后王阳明之学起，所反者正是这一路的“格物”之教。",
+   "school": "明初朱学（河东学派）",
+   "core_questions": [
+    "朱子之学在明初当如何“行”？",
+    "“敬”与“格物”，何者为工夫之要？",
+    "性如何“复”？"
+   ],
+   "arguments": [
+    {
+     "claim": "为学以“复性”为宗",
+     "premises": [
+      "性即理，本无不善；人之不善由气禀与物欲所蔽。",
+      "故学之道不在增益，而在去其蔽以复其初。"
+     ],
+     "inference": "故其教以“复性”为纲：读书、静坐、省察，皆为去蔽之方；其《读书录》即逐条记其去蔽之实功。此说与朱子“格物穷理”同源，而更重**向内体认**。",
+     "conclusion": "学的目的是复其性，而非博其闻。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "“敬”是通贯动静的工夫",
+     "premises": [
+      "朱子言工夫有“涵养须用敬，进学则在致知”两轮。",
+      "薛瑄以为：敬不只是静时的涵养，动时亦须敬。"
+     ],
+     "inference": "故以“敬”为一贯之工夫：静时敬以存之，动时敬以察之。此说把朱学的两轮收归一处，亦为后来“主敬”一路所本。",
+     "conclusion": "敬通动静，故工夫无间断。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "“格物”不是穷索外物，而是即物求其理以验吾性",
+     "premises": [
+      "若格物只是向外穷索，则与“复性”之旨相隔。",
+      "物之理即吾性之理，故即物穷理正是复性之方。"
+     ],
+     "inference": "故其“格物”说以“理不外于性”为前提：穷物之理，所以验吾性之理；此说明初朱学之所以能自守，也正是阳明后来所反的靶子。",
+     "conclusion": "格物与复性是一事：穷理即所以复性。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《读书录》",
+     "edition": "《四库全书》本；《明儒学案·河东学案》录其要语"
+    },
+    {
+     "title": "《薛文清集》",
+     "edition": "《四库全书》本；含其诗文与杂著"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "note": "其学以朱学为宗，尤承“性即理”与“主敬”之教",
+     "relation": "承继"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "明初朱学诸儒",
+     "id": null,
+     "note": "河东学派为明初朱学的重镇"
+    },
+    {
+     "name": "王守仁（作为其所反之教）",
+     "id": "cn-songming-wang-yangming",
+     "note": "阳明所反的“格物”之教，正以此一路为代表",
+     "relation": "批驳"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "王守仁一系（心学）",
+     "view": "若理不外于性，则何必即物而穷？其“格物”仍留在朱学的框架内，未能直指本心。",
+     "response": "薛瑄一系的回应是：正因理不外于性，即物穷理才不是外求；舍物而言性，则易流于空疏。此争即此后“朱陆之辨”在明代的延续。",
+     "kind": "后人解读",
+     "sources": [
+      "ws-mingru-xuean",
+      "sep-chinese-metaphysics"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "薛瑄只是“述朱”，无自己的主张",
+     "why": "其以**“复性”为宗、“敬”为一贯**，把朱学的两轮工夫收归一处，并有《读书录》的体认实功；故为**有取舍的承继**，非单纯复述。"
+    },
+    {
+     "claim": "明初朱学与阳明心学是两个无关的时代",
+     "why": "阳明所反的“格物”之教，正以薛瑄一路为代表；故二者是**同一问题上的对立**，非时代断裂。"
+    },
+    {
+     "claim": "《读书录》是“语录体的讲学记录”",
+     "why": "其书是**札记体**的自我省察（逐条记其所思所省），与讲学问答的语录不同；故读法亦不同。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 320'><rect x='0' y='0' width='760' height='320' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>薛瑄：复性—敬—格物（示意）</text><rect x='40' y='70' width='200' height='56' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='140' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>性即理</text><text x='140' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>本无不善</text><rect x='285' y='70' width='200' height='56' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='385' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>敬（通动静）</text><text x='385' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>存之·察之</text><rect x='530' y='70' width='190' height='56' rx='6' fill='#d9e7f1' stroke='#1c3a5c'/><text x='625' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>格物</text><text x='625' y='112' text-anchor='middle' font-size='10' fill='#1e2d3d'>即物以验吾性</text><rect x='285' y='170' width='200' height='56' rx='6' fill='#e6eff7' stroke='#1c3a5c'/><text x='385' y='194' text-anchor='middle' font-size='12' fill='#1e2d3d'>复性</text><text x='385' y='212' text-anchor='middle' font-size='10' fill='#1e2d3d'>去蔽以复其初</text><text x='380' y='300' text-anchor='middle' font-size='11' fill='#5b7a96'>据《明儒学案·河东学案》与 SEP 通行叙述重构</text></svg>",
+   "svg_caption": "薛瑄：复性为宗、敬为一贯（重构示意图）",
+   "sources": [
+    "ws-mingru-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据《明儒学案》卷七〈河东学案〉（维基文库本）与 SEP 通行叙述，**未校《读书录》原书**；“复性”“主敬”的具体条目与其与阳明之辨，须核《学案》原文与今人研究。生卒依《学案》。",
+   "doctrine": {
+    "summary": "薛瑄以“复性”为宗，以“敬”为通贯动静的工夫，以“格物”为即物验吾性之理。其《读书录》以札记体逐条自省，为明初朱学的代表；阳明后来所反的“格物”之教，正以此一路为靶。",
+    "system": [
+     {
+      "name": "复性",
+      "content": "学在去蔽以复其初，不在增益闻见；《读书录》即逐条记其去蔽之实功。"
+     },
+     {
+      "name": "敬通动静",
+      "content": "静时存之、动时察之，工夫无间断；此把朱学两轮收归一处。"
+     },
+     {
+      "name": "格物验性",
+      "content": "理不外于性，故即物穷理正是复性之方；舍物言性则易流于空疏。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "明初（1389—1464）",
+      "change": "以朱学为宗，讲学河东，成《读书录》。"
+     },
+     {
+      "period": "身后",
+      "change": "河东学派为明初朱学重镇；阳明学起而其教为所反。"
+     },
+     {
+      "period": "清代",
+      "change": "《明儒学案》列为河东学案，清儒以其为“践履”之代表。"
+     }
+    ],
+    "reception": "其为明初朱学的代表，河东学派由此而立；其“主敬”“复性”之说为后世践履一路所本，亦为阳明“格物”之辨的对手。"
+   }
   }
  ],
  "concepts": [

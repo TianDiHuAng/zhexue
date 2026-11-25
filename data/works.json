@@ -21305,6 +21305,62 @@
    "sort_year": 1440
   },
   {
+   "id": "work-du-shu-lu",
+   "title": "《读书录》",
+   "title_original": "Du Shu Lu（薛瑄）",
+   "tradition": "china",
+   "date_display": "明（薛瑄，15世纪）",
+   "structure": "札记体，逐条记其读书与省察所得；《明儒学案·河东学案》录其要语。非按经分卷，而以自省为纲。",
+   "core_arguments": [
+    "**复性**为宗：学在去蔽以复其初，不在增益闻见",
+    "**敬**通动静：静时存之，动时察之，工夫无间断",
+    "**格物**即所以验吾性之理：理不外于性"
+   ],
+   "key_points": [
+    {
+     "locator": "论为学",
+     "point": "复性为宗"
+    },
+    {
+     "locator": "论敬",
+     "point": "通动静"
+    },
+    {
+     "locator": "论格物",
+     "point": "即物验性"
+    },
+    {
+     "locator": "全书",
+     "point": "札记体的自省"
+    }
+   ],
+   "editions": [
+    "《四库全书》本；《明儒学案》卷七节录"
+   ],
+   "related_people": [
+    "cn-songming-xue-xuan",
+    "cn-songming-zhu-xi",
+    "cn-songming-wang-yangming"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是讲学问答的语录",
+     "why": "其书是**札记体**的自我省察（逐条记其所思所省），与讲学问答的语录不同；故读法亦不同。"
+    },
+    {
+     "claim": "其书只是“述朱”",
+     "why": "其书以“复性”为宗、“敬”为一贯，把朱学两轮工夫收归一处，有自己的取舍；故为承继而非复述。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据《明儒学案·河东学案》与 SEP 通行叙述，**未校《读书录》原书**；其条目与分卷须核《四库全书》本。",
+   "sort_year": 1450
+  },
+  {
    "id": "work-baishaji",
    "title": "《陈白沙集》",
    "title_original": "陳白沙集",
@@ -27324,6 +27380,62 @@
    ],
    "needs_verification": false,
    "pending_notes": "",
+   "sort_year": 1750
+  },
+  {
+   "id": "work-caolu-xuean",
+   "title": "《草庐学案》",
+   "title_original": "Cao Lu Xue An（《宋元学案》卷九十二）",
+   "tradition": "china",
+   "date_display": "清初（黄宗羲原本、全祖望补修）",
+   "structure": "《宋元学案》卷九十二：以学案体记吴澄一系的人物、传记与语录，附诸家评论。",
+   "core_arguments": [
+    "以**学案体**存元代儒学的师承与文献",
+    "所录以吴澄“**和会朱陆**”之说为主",
+    "编者（黄宗羲、全祖望）的案语自成一评"
+   ],
+   "key_points": [
+    {
+     "locator": "卷首",
+     "point": "吴澄传"
+    },
+    {
+     "locator": "语录",
+     "point": "和会朱陆"
+    },
+    {
+     "locator": "案语",
+     "point": "编者评"
+    },
+    {
+     "locator": "附",
+     "point": "门人与后学"
+    }
+   ],
+   "editions": [
+    "《宋元学案》通行本（道光刻本以下）；维基文库全文可参"
+   ],
+   "related_people": [
+    "cn-songming-wu-cheng",
+    "cn-qingmod-huang-zongxi",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是吴澄本人的著作",
+     "why": "其书是**清初黄宗羲、全祖望等所编的学案体史书**（《宋元学案》之一卷），非吴澄自作；引用须分辨“所录之文”与“编者案语”。"
+    },
+    {
+     "claim": "学案体只是传记汇编",
+     "why": "其体例兼收传记、语录与**编者案语**，案语本身即一种学术评判；故为“学史＋评论”的复合体。"
+    }
+   ],
+   "sources": [
+    "ws-songyuan-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据《宋元学案》维基文库本；其成书过程（黄宗羲原本、全祖望补修、王梓材等校刻）须核版本源流。",
    "sort_year": 1750
   },
   {

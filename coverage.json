@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1861,
+  "entries": 1865,
   "by_level": {
    "L2": 793,
-   "L1": 1068
+   "L1": 1072
   },
   "doctrine": {
-   "total": 322,
-   "detail": 322,
+   "total": 324,
+   "detail": 324,
    "auto": 0
   },
-  "needs_verification": 1068,
+  "needs_verification": 1072,
   "sources": 431,
   "sources_verified": 431
  },
@@ -47,10 +47,10 @@
    "unit_id": "cn-songming",
    "title": "宋明理学与心学",
    "region": "china",
-   "philosophers": 25,
+   "philosophers": 27,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -17"
+   "philosophers_slot": "8 上限，余 -19"
   },
   {
    "unit_id": "cn-suitang",
@@ -2381,6 +2381,28 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "cn-songming-wu-cheng",
+   "type": "philosopher",
+   "title": "吴澄",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "cn-songming-xue-xuan",
+   "type": "philosopher",
+   "title": "薛瑄",
+   "container": "cn-songming",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": true,
    "updated": "2026-11-25"
   },
@@ -14067,6 +14089,17 @@
    "updated": "2026-11-25"
   },
   {
+   "id": "work-du-shu-lu",
+   "type": "work",
+   "title": "《读书录》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
    "id": "work-baishaji",
    "type": "work",
    "title": "《陈白沙集》",
@@ -15230,6 +15263,17 @@
    "sources": 2,
    "verified_sources": 2,
    "needs_verification": false,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "work-caolu-xuean",
+   "type": "work",
+   "title": "《草庐学案》",
+   "container": "china",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-25"
   },
   {
