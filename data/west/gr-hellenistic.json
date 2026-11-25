@@ -2474,7 +2474,7 @@
    "id": "gr-hellenistic-cosmopolis",
    "term": "世界公民",
    "term_latin": "kosmopolitēs（citizen of the world）",
-   "definition": "斯多亚派的立场：一切理性存在者同属一个以宇宙为范围的政治共同体，地域与出身不构成人性的界限。",
+   "definition": "斯多亚派的立场：一切理性存在者同属一个以宇宙为范围的政治共同体，地域与出身不构成人性的界限。据 SEP：其根据是**人共有理性**，故人与宙斯同为一个宇宙城邦的公民；justice 的范围**及于全人类**。",
    "usages": [
     {
      "name": "芝诺（季蒂昂）",
@@ -2500,8 +2500,8 @@
     "sep-stoicism",
     "sep-cicero"
    ],
-   "needs_verification": false,
-   "pending_notes": "",
+   "needs_verification": true,
+   "pending_notes": " 已核（第424轮，据 sep-stoicism）：宇宙城邦之根据为共有理性、正义及于全人类。",
    "broader": "gr-hellenistic-natural-law"
   },
   {
