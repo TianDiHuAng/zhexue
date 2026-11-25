@@ -460,6 +460,11 @@
      "name": "儒家（批评性起点）",
      "id": null,
      "note": "墨子早年“学儒者之业”，因不满其礼而自立；《墨子》多篇直指儒者"
+    },
+    {
+     "name": "孔子",
+     "id": "cn-xianqin-kongzi",
+     "note": "反向补录：据「孔子」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -823,6 +828,16 @@
      "id": "cn-xianqin-laozi",
      "note": "《庄子》多引“老聃曰”，但思想重心由治术转向个体生存",
      "relation": "承继"
+    },
+    {
+     "name": "惠施",
+     "id": "cn-xianqin-hui-shi",
+     "note": "反向补录：据「惠施」页的“影响了谁”补入"
+    },
+    {
+     "name": "杨朱",
+     "id": "cn-xianqin-yang-zhu",
+     "note": "反向补录：据「杨朱」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1002,6 +1017,11 @@
      "name": "稷下学者（宋钘、慎到等）",
      "id": null,
      "note": "在齐稷下受各家影响，其“分”与“法”的观念有可辨的来源"
+    },
+    {
+     "name": "孟轲",
+     "id": "cn-xianqin-mengzi",
+     "note": "反向补录：据「孟轲」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1194,6 +1214,21 @@
      "id": "cn-xianqin-laozi",
      "note": "作《解老》《喻老》，以“理”改造“道”",
      "relation": "承继"
+    },
+    {
+     "name": "墨翟",
+     "id": "cn-xianqin-mozi",
+     "note": "反向补录：据「墨翟」页的“影响了谁”补入"
+    },
+    {
+     "name": "商鞅",
+     "id": "cn-xianqin-shang-yang",
+     "note": "反向补录：据「商鞅」页的“影响了谁”补入"
+    },
+    {
+     "name": "慎到",
+     "id": "cn-xianqin-shen-dao",
+     "note": "反向补录：据「慎到」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1369,6 +1404,11 @@
      "name": "惠施",
      "id": null,
      "note": "同属名家，“历物十事”以相对性立论；二人并称而直接授受关系不可考"
+    },
+    {
+     "name": "惠施",
+     "id": "cn-xianqin-hui-shi",
+     "note": "反向补录：据「惠施」页的“影响了谁”补入"
     }
    ],
    "influenced": [

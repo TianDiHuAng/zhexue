@@ -513,6 +513,11 @@
      "name": "学园派怀疑论",
      "id": null,
      "note": "其批评对象之一，同时共享“不可确定”的立场"
+    },
+    {
+     "name": "皮浪",
+     "id": "gr-hellenistic-pyrrho",
+     "note": "反向补录：据「皮浪」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -970,6 +975,11 @@
      "name": "帕奈提乌斯、波塞多尼乌斯（中期斯多亚）",
      "id": null,
      "note": "把斯多亚伦理调整为适合罗马贵族生活的“义务”学说"
+    },
+    {
+     "name": "克律西波",
+     "id": "gr-hellenistic-chrysippus",
+     "note": "反向补录：据「克律西波」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -2031,6 +2041,11 @@
      "name": "扬布利柯",
      "id": null,
      "note": "三神层级与神术（theurgy）"
+    },
+    {
+     "name": "扬布利柯",
+     "id": "gr-hellenistic-iamblichus",
+     "note": "反向补录：据「扬布利柯」页的“影响了谁”补入"
     }
    ],
    "influenced": [

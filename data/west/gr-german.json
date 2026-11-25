@@ -73,6 +73,11 @@
      "name": "莱布尼茨—沃尔夫体系",
      "id": null,
      "note": "其批判的直接对象"
+    },
+    {
+     "name": "门德尔松",
+     "id": "gr-german-mendelssohn",
+     "note": "反向补录：据「门德尔松」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -584,6 +589,11 @@
      "id": "gr-german-kant",
      "note": "承其批判问题而反对物自体与“应当”的二元",
      "relation": "批驳"
+    },
+    {
+     "name": "费希特",
+     "id": "gr-german-fichte",
+     "note": "反向补录：据「费希特」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1543,6 +1553,11 @@
      "id": "gr-german-kant",
      "note": "同处启蒙，而取径不同",
      "relation": "承继"
+    },
+    {
+     "name": "温克尔曼",
+     "id": "gr-german-winckelmann",
+     "note": "反向补录：据「温克尔曼」页的“影响了谁”补入"
     }
    ],
    "influenced": [

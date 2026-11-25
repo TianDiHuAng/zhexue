@@ -1791,6 +1791,11 @@
      "name": "西班牙经院学派（维多利亚等）",
      "id": "",
      "note": "万民法与战争正义的讨论"
+    },
+    {
+     "name": "苏阿雷斯",
+     "id": "gr-modern-suarez",
+     "note": "反向补录：据「苏阿雷斯」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1935,6 +1940,16 @@
      "name": "格劳秀斯与自然法传统",
      "id": null,
      "note": "自然法与契约观念"
+    },
+    {
+     "name": "马基雅维利",
+     "id": "gr-modern-machiavelli",
+     "note": "反向补录：据「马基雅维利」页的“影响了谁”补入"
+    },
+    {
+     "name": "格劳秀斯",
+     "id": "gr-modern-grotius",
+     "note": "反向补录：据「格劳秀斯」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -2126,6 +2141,16 @@
      "name": "晚期经院哲学与耶稣会教科书传统",
      "id": null,
      "note": "其术语（实体、样态、实在性等级）取自经院哲学，而用法被重新规定"
+    },
+    {
+     "name": "蒙田",
+     "id": "gr-modern-montaigne",
+     "note": "反向补录：据「蒙田」页的“影响了谁”补入"
+    },
+    {
+     "name": "苏阿雷斯",
+     "id": "gr-modern-suarez",
+     "note": "反向补录：据「苏阿雷斯」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -2538,6 +2563,11 @@
      "name": "中世纪犹太与经院哲学（迈蒙尼德、克雷斯卡斯等）",
      "id": null,
      "note": "神与自然、预言与律法的讨论构成其问题背景"
+    },
+    {
+     "name": "布鲁诺",
+     "id": "gr-modern-bruno",
+     "note": "反向补录：据「布鲁诺」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -2741,6 +2771,11 @@
      "id": "gr-modern-descartes",
      "note": "以天赋观念说为主要的批判对象，同时接受机械论的自然哲学",
      "relation": "批驳"
+    },
+    {
+     "name": "伽利略",
+     "id": "gr-modern-galileo",
+     "note": "反向补录：据「伽利略」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -3299,6 +3334,16 @@
      "name": "洛克（《人类理解新论》的对话对象）",
      "id": null,
      "note": "白板说与天赋观念之争的直接对手，见本单元洛克页"
+    },
+    {
+     "name": "马勒伯朗士",
+     "id": "gr-modern-malebranche",
+     "note": "反向补录：据「马勒伯朗士」页的“影响了谁”补入"
+    },
+    {
+     "name": "牛顿",
+     "id": "gr-modern-newton",
+     "note": "反向补录：据「牛顿」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -3775,6 +3820,11 @@
      "id": "gr-modern-descartes",
      "note": "「观念只能由精神产生」的论法与偶因论对神的作用的强调，为其所借重",
      "relation": "批驳"
+    },
+    {
+     "name": "马勒伯朗士",
+     "id": "gr-modern-malebranche",
+     "note": "反向补录：据「马勒伯朗士」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -4088,6 +4138,11 @@
      "name": "英国宗教宽容实践",
      "id": null,
      "note": "《哲学通信》的观察对象"
+    },
+    {
+     "name": "培尔",
+     "id": "gr-modern-bayle",
+     "note": "反向补录：据「培尔」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -4274,6 +4329,11 @@
      "name": "哈奇森与道德感学派",
      "id": null,
      "note": "道德赞许源于情感而非理性的思路，来自沙夫茨伯里与哈奇森"
+    },
+    {
+     "name": "培尔",
+     "id": "gr-modern-bayle",
+     "note": "反向补录：据「培尔」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -5197,6 +5257,11 @@
      "id": "gr-modern-montesquieu",
      "note": "分权与制度条件",
      "relation": "承继"
+    },
+    {
+     "name": "潘恩",
+     "id": "gr-modern-paine",
+     "note": "反向补录：据「潘恩」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -5488,6 +5553,11 @@
      "name": "康德（其师，亦其论敌）",
      "id": null,
      "note": "其历史观与康德的“普遍历史”争辩"
+    },
+    {
+     "name": "维柯",
+     "id": "gr-modern-vico",
+     "note": "反向补录：据「维柯」页的“影响了谁”补入"
     }
    ],
    "influenced": [

@@ -69,6 +69,11 @@
      "name": "功利主义（批评对象）",
      "id": null,
      "note": "以正义优先于善总额反驳功利主义"
+    },
+    {
+     "name": "以赛亚·伯林",
+     "id": "gr-contemp-berlin",
+     "note": "反向补录：据「以赛亚·伯林」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -683,6 +688,26 @@
      "name": "奥斯汀与塞尔（言语行为）／韦伯",
      "id": null,
      "note": "言语行为理论与合理化分析"
+    },
+    {
+     "name": "罗尔斯",
+     "id": "gr-contemp-rawls",
+     "note": "反向补录：据「罗尔斯」页的“影响了谁”补入"
+    },
+    {
+     "name": "福柯",
+     "id": "gr-contemp-foucault",
+     "note": "反向补录：据「福柯」页的“影响了谁”补入"
+    },
+    {
+     "name": "德里达",
+     "id": "gr-contemp-derrida",
+     "note": "反向补录：据「德里达」页的“影响了谁”补入"
+    },
+    {
+     "name": "罗蒂",
+     "id": "gr-contemp-rorty",
+     "note": "反向补录：据「罗蒂」页的“影响了谁”补入"
     }
    ],
    "influenced": [

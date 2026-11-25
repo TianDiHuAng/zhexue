@@ -642,6 +642,16 @@
      "name": "《孟子》与《礼记》礼学",
      "id": null,
      "note": "以礼言理，重视节文与度量分界"
+    },
+    {
+     "name": "顾炎武",
+     "id": "cn-qingmod-gu-yanwu",
+     "note": "反向补录：据「顾炎武」页的“影响了谁”补入"
+    },
+    {
+     "name": "颜元",
+     "id": "cn-qingmod-yan-yuan",
+     "note": "反向补录：据「颜元」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -832,6 +842,21 @@
      "name": "何休《春秋公羊解诂》",
      "id": null,
      "note": "三世、张三世之义所本"
+    },
+    {
+     "name": "黄宗羲",
+     "id": "cn-qingmod-huang-zongxi",
+     "note": "反向补录：据「黄宗羲」页的“影响了谁”补入"
+    },
+    {
+     "name": "魏源",
+     "id": "cn-qingmod-wei-yuan",
+     "note": "反向补录：据「魏源」页的“影响了谁”补入"
+    },
+    {
+     "name": "龚自珍",
+     "id": "cn-qingmod-gong-zizhen",
+     "note": "反向补录：据「龚自珍」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1005,6 +1030,11 @@
      "name": "华严与唯识学、墨学",
      "id": null,
      "note": "以佛家心力与墨家兼爱充实仁说"
+    },
+    {
+     "name": "黄宗羲",
+     "id": "cn-qingmod-huang-zongxi",
+     "note": "反向补录：据「黄宗羲」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1185,6 +1215,11 @@
      "name": "吴汝纶",
      "id": null,
      "note": "桐城派古文家，为《天演论》作序，助其文体之重塑"
+    },
+    {
+     "name": "张之洞",
+     "id": "cn-qingmod-zhang-zhidong",
+     "note": "反向补录：据「张之洞」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1353,6 +1388,21 @@
      "name": "唯识学（《成唯识论》《瑜伽师地论》）",
      "id": null,
      "note": "借“万法唯识”破外境之实有，为齐物说立据"
+    },
+    {
+     "name": "段玉裁",
+     "id": "cn-qingmod-duan-yucai",
+     "note": "反向补录：据「段玉裁」页的“影响了谁”补入"
+    },
+    {
+     "name": "俞樾",
+     "id": "cn-qingmod-yu-yue",
+     "note": "反向补录：据「俞樾」页的“影响了谁”补入"
+    },
+    {
+     "name": "孙诒让",
+     "id": "cn-qingmod-sun-yirang",
+     "note": "反向补录：据「孙诒让」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -2788,6 +2838,11 @@
      "id": "cn-qingmod-gu-yanwu",
      "note": "以顾炎武、黄宗羲、王夫之为近世学术的起点",
      "relation": "私淑"
+    },
+    {
+     "name": "张之洞",
+     "id": "cn-qingmod-zhang-zhidong",
+     "note": "反向补录：据「张之洞」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -4307,6 +4362,11 @@
      "name": "罗振玉（其合作者）",
      "id": null,
      "note": "甲骨与敦煌材料的提供者"
+    },
+    {
+     "name": "罗振玉",
+     "id": "cn-qingmod-luo-zhenyu",
+     "note": "反向补录：据「罗振玉」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -4911,6 +4971,11 @@
      "name": "孔子（其诗教之据）",
      "id": null,
      "note": "“兴观群怨”“温柔敦厚”之说所本"
+    },
+    {
+     "name": "袁枚",
+     "id": "cn-qingmod-yuan-mei",
+     "note": "反向补录：据「袁枚」页的“影响了谁”补入"
     }
    ],
    "influenced": [

@@ -318,6 +318,11 @@
      "name": "新柏拉图主义（普罗克洛斯一系）",
      "id": null,
      "note": "《哲学的慰藉》的至善、天意与流溢结构取自普罗克洛斯与普罗提诺"
+    },
+    {
+     "name": "奥古斯丁",
+     "id": "gr-medieval-augustine",
+     "note": "反向补录：据「奥古斯丁」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -532,6 +537,11 @@
      "name": "法拉比（al-Fārābī）",
      "id": null,
      "note": "「必然存在者／可能存在者」的区分与哲学家—先知论直接承自法拉比"
+    },
+    {
+     "name": "法拉比",
+     "id": "gr-medieval-al-farabi",
+     "note": "反向补录：据「法拉比」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1150,6 +1160,52 @@
      "name": "阿维森纳与阿威罗伊",
      "id": null,
      "note": "阿拉伯注释传统既是其资源，也是其《驳异大全》的论辩对象"
+    },
+    {
+     "name": "阿维森纳（伊本·西那）",
+     "id": "gr-medieval-avicenna",
+     "note": "反向补录：据「阿维森纳（伊本·西那）」页的“影响了谁”补入"
+    },
+    {
+     "name": "安瑟尔谟",
+     "id": "gr-medieval-anselm",
+     "note": "反向补录：据「安瑟尔谟」页的“影响了谁”补入"
+    },
+    {
+     "name": "阿伯拉尔",
+     "id": "gr-medieval-abelard",
+     "note": "反向补录：据「阿伯拉尔」页的“影响了谁”补入"
+    },
+    {
+     "name": "迈蒙尼德",
+     "id": "gr-medieval-maimonides",
+     "note": "反向补录：据「迈蒙尼德」页的“影响了谁”补入"
+    },
+    {
+     "name": "阿威罗伊（伊本·鲁世德）",
+     "id": "gr-medieval-averroes",
+     "note": "反向补录：据「阿威罗伊（伊本·鲁世德）」页的“影响了谁”补入"
+    },
+    {
+     "name": "大阿尔伯特",
+     "id": "gr-medieval-albert",
+     "note": "反向补录：据「大阿尔伯特」页的“影响了谁”补入"
+    },
+    {
+     "name": "安萨里",
+     "id": "gr-medieval-al-ghazali",
+     "note": "反向补录：据「安萨里」页的“影响了谁”补入"
+    },
+    {
+     "name": "爱留根纳",
+     "id": "gr-medieval-eriugena",
+     "note": "反向补录：据「爱留根纳」页的“影响了谁”补入"
+    },
+    {
+     "name": "伪狄奥尼修斯",
+     "id": "gr-medieval-pseudo-dionysius",
+     "note": "反向补录：据「伪狄奥尼修斯」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1352,6 +1408,21 @@
      "name": "阿维森纳",
      "id": null,
      "note": "存在与本质的区分及“存在者”概念的讨论是其出发点"
+    },
+    {
+     "name": "阿维森纳（伊本·西那）",
+     "id": "gr-medieval-avicenna",
+     "note": "反向补录：据「阿维森纳（伊本·西那）」页的“影响了谁”补入"
+    },
+    {
+     "name": "安瑟尔谟",
+     "id": "gr-medieval-anselm",
+     "note": "反向补录：据「安瑟尔谟」页的“影响了谁”补入"
+    },
+    {
+     "name": "托马斯·阿奎那",
+     "id": "gr-medieval-aquinas",
+     "note": "反向补录：据「托马斯·阿奎那」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1540,6 +1611,21 @@
      "id": "gr-medieval-abelard",
      "note": "共相讨论中“概念有客观依据”的思路可视为其前身",
      "relation": "承继"
+    },
+    {
+     "name": "波爱修",
+     "id": "gr-medieval-boethius",
+     "note": "反向补录：据「波爱修」页的“影响了谁”补入"
+    },
+    {
+     "name": "阿维森纳（伊本·西那）",
+     "id": "gr-medieval-avicenna",
+     "note": "反向补录：据「阿维森纳（伊本·西那）」页的“影响了谁”补入"
+    },
+    {
+     "name": "托马斯·阿奎那",
+     "id": "gr-medieval-aquinas",
+     "note": "反向补录：据「托马斯·阿奎那」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -2002,6 +2088,11 @@
      "name": "亚里士多德与柏拉图",
      "id": null,
      "note": "逻辑学、形而上学与政治哲学"
+    },
+    {
+     "name": "金迪",
+     "id": "gr-medieval-al-kindi",
+     "note": "反向补录：据「金迪」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -2145,6 +2236,12 @@
      "name": "伪狄奥尼修斯",
      "id": null,
      "note": "否定神学与层级上升"
+    },
+    {
+     "name": "伪狄奥尼修斯",
+     "id": "gr-medieval-pseudo-dionysius",
+     "note": "反向补录：据「伪狄奥尼修斯」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -3716,6 +3813,12 @@
      "name": "奥古斯丁",
      "id": "gr-medieval-augustine",
      "note": "以创造、意志与原罪为其问题背景",
+     "relation": "承继"
+    },
+    {
+     "name": "伪狄奥尼修斯",
+     "id": "gr-medieval-pseudo-dionysius",
+     "note": "反向补录：据「伪狄奥尼修斯」页的“影响了谁”补入",
      "relation": "承继"
     }
    ],

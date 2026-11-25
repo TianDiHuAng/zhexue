@@ -581,6 +581,16 @@
      "name": "《易》与《大学》《中庸》",
      "id": null,
      "note": "以《易》言理，以《大学》言格物致知"
+    },
+    {
+     "name": "张载",
+     "id": "cn-songming-zhang-zai",
+     "note": "反向补录：据「张载」页的“影响了谁”补入"
+    },
+    {
+     "name": "程颢",
+     "id": "cn-songming-cheng-hao",
+     "note": "反向补录：据「程颢」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -754,6 +764,46 @@
      "id": "cn-songming-cheng-yi",
      "note": "承其性即理、格物穷理与居敬之说",
      "relation": "承继"
+    },
+    {
+     "name": "周敦颐",
+     "id": "cn-songming-zhou-dunyi",
+     "note": "反向补录：据「周敦颐」页的“影响了谁”补入"
+    },
+    {
+     "name": "张载",
+     "id": "cn-songming-zhang-zai",
+     "note": "反向补录：据「张载」页的“影响了谁”补入"
+    },
+    {
+     "name": "程颢",
+     "id": "cn-songming-cheng-hao",
+     "note": "反向补录：据「程颢」页的“影响了谁”补入"
+    },
+    {
+     "name": "邵雍",
+     "id": "cn-songming-shao-yong",
+     "note": "反向补录：据「邵雍」页的“影响了谁”补入"
+    },
+    {
+     "name": "王安石",
+     "id": "cn-songming-wang-anshi",
+     "note": "反向补录：据「王安石」页的“影响了谁”补入"
+    },
+    {
+     "name": "胡宏",
+     "id": "cn-songming-hu-hong",
+     "note": "反向补录：据「胡宏」页的“影响了谁”补入"
+    },
+    {
+     "name": "张栻",
+     "id": "cn-songming-zhang-shi",
+     "note": "反向补录：据「张栻」页的“影响了谁”补入"
+    },
+    {
+     "name": "胡安国",
+     "id": "cn-songming-hu-anguo",
+     "note": "反向补录：据「胡安国」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1111,6 +1161,32 @@
      "name": "孟子",
      "id": null,
      "note": "以“良知”本于孟子“良知良能”，《传习录》中屡引之"
+    },
+    {
+     "name": "程颢",
+     "id": "cn-songming-cheng-hao",
+     "note": "反向补录：据「程颢」页的“影响了谁”补入"
+    },
+    {
+     "name": "朱熹",
+     "id": "cn-songming-zhu-xi",
+     "note": "反向补录：据「朱熹」页的“影响了谁”补入"
+    },
+    {
+     "name": "陈献章",
+     "id": "cn-songming-chen-xianzhang",
+     "note": "反向补录：据「陈献章」页的“影响了谁”补入"
+    },
+    {
+     "name": "湛若水",
+     "id": "cn-songming-zhan-ruoshui",
+     "note": "反向补录：据「湛若水」页的“影响了谁”补入"
+    },
+    {
+     "name": "薛瑄",
+     "id": "cn-songming-xue-xuan",
+     "note": "反向补录：据「薛瑄」页的“影响了谁”补入",
+     "relation": "批驳"
     }
    ],
    "influenced": [
@@ -2316,6 +2392,11 @@
      "id": "cn-songming-zhang-zai",
      "note": "以性为万物之源的思路",
      "relation": "承继"
+    },
+    {
+     "name": "胡安国",
+     "id": "cn-songming-hu-anguo",
+     "note": "反向补录：据「胡安国」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -4071,6 +4152,12 @@
      "id": "cn-songming-zhu-xi",
      "note": "其学以朱学为宗，尤承“性即理”与“主敬”之教",
      "relation": "承继"
+    },
+    {
+     "name": "吴澄",
+     "id": "cn-songming-wu-cheng",
+     "note": "反向补录：据「吴澄」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -4222,6 +4309,12 @@
      "name": "唐以来的《春秋》学",
      "id": null,
      "note": "啖助、赵匡、陆淳一系的“舍传求经”为其先声"
+    },
+    {
+     "name": "胡瑗",
+     "id": "cn-songming-hu-yuan",
+     "note": "反向补录：据「胡瑗」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -4373,6 +4466,12 @@
      "name": "汉唐《易》学与《中庸》之学",
      "id": null,
      "note": "其义理说《易》与德性之教皆有所承"
+    },
+    {
+     "name": "孙复",
+     "id": "cn-songming-sun-fu",
+     "note": "反向补录：据「孙复」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [

@@ -800,6 +800,11 @@
      "name": "《金刚经》与般若学",
      "id": null,
      "note": "“应无所住而生其心”为其开悟因缘"
+    },
+    {
+     "name": "神秀",
+     "id": "cn-suitang-shenxiu",
+     "note": "反向补录：据「神秀」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1280,6 +1285,26 @@
      "name": "荀子与扬雄（部分）",
      "id": null,
      "note": "其“性三品”说承荀、扬"
+    },
+    {
+     "name": "王通",
+     "id": "cn-suitang-wang-tong",
+     "note": "反向补录：据「王通」页的“影响了谁”补入"
+    },
+    {
+     "name": "法琳",
+     "id": "cn-suitang-falin",
+     "note": "反向补录：据「法琳」页的“影响了谁”补入"
+    },
+    {
+     "name": "柳宗元",
+     "id": "cn-suitang-liu-zongyuan",
+     "note": "反向补录：据「柳宗元」页的“影响了谁”补入"
+    },
+    {
+     "name": "刘禹锡",
+     "id": "cn-suitang-liu-yuxi",
+     "note": "反向补录：据「刘禹锡」页的“影响了谁”补入"
     }
    ],
    "influenced": [

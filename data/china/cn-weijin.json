@@ -461,6 +461,16 @@
      "name": "老子、庄子（传统谱系）",
      "id": null,
      "note": "以老庄自然之旨为宗，兼采养生家与乐论之说"
+    },
+    {
+     "name": "王弼",
+     "id": "cn-weijin-wangbi",
+     "note": "反向补录：据「王弼」页的“影响了谁”补入"
+    },
+    {
+     "name": "阮籍",
+     "id": "cn-weijin-ruanji",
+     "note": "反向补录：据「阮籍」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -639,6 +649,11 @@
      "name": "庄子（传统谱系）",
      "id": null,
      "note": "《大人先生传》取《庄子》至人无待、与造物者游之意"
+    },
+    {
+     "name": "嵇康",
+     "id": "cn-weijin-jikang",
+     "note": "反向补录：据「嵇康」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -812,6 +827,11 @@
      "id": "cn-weijin-jikang",
      "note": "竹林之友，养生问题上的辩难对手",
      "relation": "承继"
+    },
+    {
+     "name": "阮籍",
+     "id": "cn-weijin-ruanji",
+     "note": "反向补录：据「阮籍」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -977,6 +997,26 @@
      "name": "庄子（传统谱系）",
      "id": null,
      "note": "以《庄子》为注疏对象，序中自陈其读法"
+    },
+    {
+     "name": "王弼",
+     "id": "cn-weijin-wangbi",
+     "note": "反向补录：据「王弼」页的“影响了谁”补入"
+    },
+    {
+     "name": "何晏",
+     "id": "cn-weijin-heyan",
+     "note": "反向补录：据「何晏」页的“影响了谁”补入"
+    },
+    {
+     "name": "嵇康",
+     "id": "cn-weijin-jikang",
+     "note": "反向补录：据「嵇康」页的“影响了谁”补入"
+    },
+    {
+     "name": "裴頠",
+     "id": "cn-weijin-pei-wei",
+     "note": "反向补录：据「裴頠」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1290,6 +1330,11 @@
      "id": "cn-weijin-wangbi",
      "note": "得意忘言之说把言象降为筌蹄，为欧阳建所驳的靶子",
      "relation": "承继"
+    },
+    {
+     "name": "刘劭",
+     "id": "cn-weijin-liu-shao",
+     "note": "反向补录：据「刘劭」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1720,6 +1765,11 @@
      "name": "王弼与郭象的玄学",
      "id": null,
      "note": "有无、动静的问题框架"
+    },
+    {
+     "name": "慧远",
+     "id": "cn-weijin-huiyuan",
+     "note": "反向补录：据「慧远」页的“影响了谁”补入"
     }
    ],
    "influenced": [

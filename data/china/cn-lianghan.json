@@ -78,6 +78,11 @@
      "name": "公羊春秋学（胡毋生、公羊寿一系）",
      "id": null,
      "note": "董仲舒受《公羊传》家法，以之讲改制与大一统"
+    },
+    {
+     "name": "贾谊",
+     "id": "cn-lianghan-jia-yi",
+     "note": "反向补录：据「贾谊」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -395,6 +400,11 @@
      "name": "黄老道家与桓谭",
      "id": null,
      "note": "“天道自然”的框架与桓谭的形神论对其有影响"
+    },
+    {
+     "name": "桓谭",
+     "id": "cn-lianghan-huan-tan",
+     "note": "反向补录：据「桓谭」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -564,6 +574,11 @@
      "name": "今文经学的师法传统",
      "id": null,
      "note": "早年习今文，故能兼采"
+    },
+    {
+     "name": "刘歆",
+     "id": "cn-lianghan-liu-xin",
+     "note": "反向补录：据「刘歆」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -896,6 +911,11 @@
      "id": "cn-lianghan-dong-zhongshu",
      "note": "三统、更化之说与天人论的源头，刘歆将其历法化",
      "relation": "承继"
+    },
+    {
+     "name": "刘向",
+     "id": "cn-lianghan-liu-xiang",
+     "note": "反向补录：据「刘向」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1215,6 +1235,11 @@
      "id": "cn-lianghan-dong-zhongshu",
      "note": "天人灾异之说为其所本，亦为其所修正：天意须让位于人事",
      "relation": "承继"
+    },
+    {
+     "name": "王符",
+     "id": "cn-lianghan-wang-fu",
+     "note": "反向补录：据「王符」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1500,6 +1525,11 @@
      "name": "道家与《鵩鸟赋》",
      "id": null,
      "note": "以齐生死化解忧患"
+    },
+    {
+     "name": "陆贾",
+     "id": "cn-lianghan-lu-jia",
+     "note": "反向补录：据「陆贾」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -2200,6 +2230,16 @@
      "id": "cn-lianghan-liu-xin",
      "note": "《艺文志》的直接来源",
      "relation": "承继"
+    },
+    {
+     "name": "刘向",
+     "id": "cn-lianghan-liu-xiang",
+     "note": "反向补录：据「刘向」页的“影响了谁”补入"
+    },
+    {
+     "name": "司马迁",
+     "id": "cn-lianghan-sima-qian",
+     "note": "反向补录：据「司马迁」页的“影响了谁”补入"
     }
    ],
    "influenced": [

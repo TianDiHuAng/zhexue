@@ -370,6 +370,11 @@
      "name": "色诺芬尼（传统谱系）",
      "id": null,
      "note": "爱利亚学派的先驱，一神论与对荷马神观的批评；师承关系有讨论"
+    },
+    {
+     "name": "色诺芬尼",
+     "id": "gr-ancient-xenophanes",
+     "note": "反向补录：据「色诺芬尼」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -536,6 +541,21 @@
      "id": "gr-ancient-parmenides",
      "note": "以原子与虚空回应“一”与“不动”的挑战",
      "relation": "批驳"
+    },
+    {
+     "name": "恩培多克勒",
+     "id": "gr-ancient-empedocles",
+     "note": "反向补录：据「恩培多克勒」页的“影响了谁”补入"
+    },
+    {
+     "name": "阿那克萨戈拉",
+     "id": "gr-ancient-anaxagoras",
+     "note": "反向补录：据「阿那克萨戈拉」页的“影响了谁”补入"
+    },
+    {
+     "name": "留基伯",
+     "id": "gr-ancient-leucippus",
+     "note": "反向补录：据「留基伯」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -838,6 +858,11 @@
      "id": "gr-ancient-protagoras",
      "note": "与智者共享“德性是否可教”的问题，但反对其相对主义",
      "relation": "批驳"
+    },
+    {
+     "name": "阿那克萨戈拉",
+     "id": "gr-ancient-anaxagoras",
+     "note": "反向补录：据「阿那克萨戈拉」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1019,6 +1044,16 @@
      "id": "gr-ancient-pythagoras",
      "note": "灵魂不朽、数学与净化的观念",
      "relation": "承继"
+    },
+    {
+     "name": "赫拉克利特",
+     "id": "gr-ancient-heraclitus",
+     "note": "反向补录：据「赫拉克利特」页的“影响了谁”补入"
+    },
+    {
+     "name": "高尔吉亚",
+     "id": "gr-ancient-gorgias",
+     "note": "反向补录：据「高尔吉亚」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1227,6 +1262,26 @@
      "id": "gr-ancient-democritus",
      "note": "在《物理学》《论生成与消灭》中反复回应原子论",
      "relation": "承继"
+    },
+    {
+     "name": "巴门尼德",
+     "id": "gr-ancient-parmenides",
+     "note": "反向补录：据「巴门尼德」页的“影响了谁”补入"
+    },
+    {
+     "name": "苏格拉底",
+     "id": "gr-ancient-socrates",
+     "note": "反向补录：据「苏格拉底」页的“影响了谁”补入"
+    },
+    {
+     "name": "芝诺（爱利亚的）",
+     "id": "gr-ancient-zeno-elea",
+     "note": "反向补录：据「芝诺（爱利亚的）」页的“影响了谁”补入"
+    },
+    {
+     "name": "恩培多克勒",
+     "id": "gr-ancient-empedocles",
+     "note": "反向补录：据「恩培多克勒」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -1664,6 +1719,11 @@
      "name": "泰勒斯",
      "id": null,
      "note": "米利都学派的创始人，其师"
+    },
+    {
+     "name": "泰勒斯",
+     "id": "gr-ancient-thales",
+     "note": "反向补录：据「泰勒斯」页的“影响了谁”补入"
     }
    ],
    "influenced": [
@@ -2207,6 +2267,11 @@
      "id": "gr-ancient-anaximander",
      "note": "“无物能从无来”与机制化解释的传统",
      "relation": "承继"
+    },
+    {
+     "name": "阿那克西美尼",
+     "id": "gr-ancient-anaximenes",
+     "note": "反向补录：据「阿那克西美尼」页的“影响了谁”补入"
     }
    ],
    "influenced": [
