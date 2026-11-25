@@ -3361,6 +3361,120 @@
    "sort_year": -340
   },
   {
+   "id": "work-de-generatione-animalium",
+   "title": "《论动物的生成》",
+   "title_original": "Περὶ ζῴων γενέσεως（De generatione animalium）",
+   "tradition": "west",
+   "date_display": "约前4世纪后期（亚里士多德）",
+   "structure": "五卷：论生殖的两种本原、胚胎的形成、遗传与性别差异，兼评前人的“泛生论”。",
+   "core_arguments": [
+    "雄提供“**形式**”（运动的原理），雌提供“**质料**”（月经），胚胎的形成如工匠之于材料",
+    "故其说是**形式／质料**框架在生殖问题上的应用",
+    "对前人的“**泛生论**”（种子来自全身）有批评"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "生殖的两种本原"
+    },
+    {
+     "locator": "卷二",
+     "point": "胚胎的形成"
+    },
+    {
+     "locator": "卷三—四",
+     "point": "遗传与性别"
+    },
+    {
+     "locator": "卷五",
+     "point": "诸种动物的差异"
+    }
+   ],
+   "editions": [
+    "希腊文本（OCT）；Loeb 本 Generation of Animals；中译少见"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-plato",
+    "gr-ancient-democritus"
+   ],
+   "misreadings": [
+    {
+     "claim": "其说主张“雌性完全被动”",
+     "why": "其说以雌性提供**质料**（月经），而质料非“无”（其为潜在的形体之源）；故其为形式／质料的**分工**，非“完全被动”之论 —— 然其说确含性别等级的评价，本页如实标出。"
+    },
+    {
+     "claim": "其书是“纯生物学的观察”",
+     "why": "其书以**形式／质料的形而上学**为骨架（生殖即形式对质料的赋形），故其为哲学性的自然研究，非纯观察记录。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "sep-plato",
+    "sep-presocratics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《论动物的生成》五卷的编次与 OCT／Loeb 本须核；其与前苏格拉底“泛生论”的争论（sep-presocratics 有涉）亦须核；其性别评价须如实标出，不作辩解。",
+   "sort_year": -340
+  },
+  {
+   "id": "work-meteorologica",
+   "title": "《天象学》",
+   "title_original": "Μετεωρολογικά（Meteorologica）",
+   "tradition": "west",
+   "date_display": "约前4世纪后期（亚里士多德）",
+   "structure": "四卷：论月下世界的气象、四元素的相互转化、雷电光学诸现象，以及矿物与金属的生成。",
+   "core_arguments": [
+    "以“**四元素**”（火气水土）与其**相互转化**解释月下界的一切现象",
+    "以“**两种蒸发**”（干与湿）说风、云、雨、雷",
+    "把**矿物**的生成也纳入同一框架（故其书兼及地质）"
+   ],
+   "key_points": [
+    {
+     "locator": "卷一",
+     "point": "四元素与两种蒸发"
+    },
+    {
+     "locator": "卷二",
+     "point": "风与气候"
+    },
+    {
+     "locator": "卷三",
+     "point": "雷电与光学现象"
+    },
+    {
+     "locator": "卷四",
+     "point": "矿物与金属"
+    }
+   ],
+   "editions": [
+    "希腊文本（OCT）；Loeb 本 Meteorologica；中译少见"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-anaxagoras",
+    "gr-ancient-democritus"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“气象预报”",
+     "why": "其书是**自然哲学的解释**（以元素与转化的原理说明现象），非实用的天气预报；故其为理论之作。"
+    },
+    {
+     "claim": "其内容已被近代科学完全废弃",
+     "why": "其**结论**多被取代（如四元素说），但其**问题域**（气象、地质、光学现象的统一解释）与部分观察仍有科学史价值；故须分结论与问题两层看。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "sep-presocratics",
+    "sep-plato"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《天象学》四卷的编次与 OCT／Loeb 本须核；其与前苏格拉底诸家（阿那克萨戈拉、德谟克利特）解释的异同亦须核。",
+   "sort_year": -340
+  },
+  {
    "id": "work-politics",
    "title": "《政治学》",
    "title_original": "Πολιτικά（Politics）",
@@ -3527,6 +3641,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《大伦理学》的真伪与作者（亚里士多德本人／其学派／后学）是亚里士多德研究的经典难题；本页标其为“疑”，只述其内容与三书关系的问题。",
+   "sort_year": -330
+  },
+  {
+   "id": "work-athenaion-politeia",
+   "title": "《雅典政制》",
+   "title_original": "Ἀθηναίων πολιτεία（Athenaion Politeia）",
+   "tradition": "west",
+   "date_display": "约前4世纪后期（亚里士多德或其学派）",
+   "structure": "两部（残卷＋纸草残篇）：前部述雅典政制的历次变革，后部述当时的具体制度。",
+   "core_arguments": [
+    "政制（politeia）不是抽象的理念，而是**具体的官职、议事与诉讼安排**",
+    "以**历史的变迁**解释制度：由王政到民主的十一度变革",
+    "故其方法是**收集与比较政制**（传其曾集一百五十八种政制），非演绎"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部",
+     "point": "历次政制变革"
+    },
+    {
+     "locator": "论梭伦",
+     "point": "解负令与等级"
+    },
+    {
+     "locator": "论克里斯提尼",
+     "point": "部落改革"
+    },
+    {
+     "locator": "第二部",
+     "point": "当时的官职与议事"
+    }
+   ],
+   "editions": [
+    "纸草本（London Papyrus 131，1890 年发现）；Loeb 本 Aristotle XX；中译参《雅典政制》（日知、力野译，商务印书馆）"
+   ],
+   "related_people": [
+    "gr-ancient-aristotle",
+    "gr-ancient-plato",
+    "gr-ancient-socrates"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书即《政治学》的摘要",
+     "why": "其书是**具体的政制志**（制度与史事），《政治学》是**理论的考察**（政体的种类与原理）；故二者体裁与目的不同。"
+    },
+    {
+     "claim": "其作者必为亚里士多德本人",
+     "why": "其书出于**亚里士多德或其学派**（今多认为其材料由学派搜集、成书或经门人）；本页标“或其学派”，**不裁定**。"
+    }
+   ],
+   "sources": [
+    "sep-aristotle",
+    "sep-plato",
+    "ct-analects"
+   ],
+   "needs_verification": true,
+   "pending_notes": "《雅典政制》的纸草本（London Papyrus 131）与 Loeb 本编次须核；“一百五十八种政制”的记载来源亦须核；作者为本人或学派之说须并述而不裁定。",
    "sort_year": -330
   },
   {

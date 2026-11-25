@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1804,
+  "entries": 1808,
   "by_level": {
    "L2": 793,
-   "L1": 1011
+   "L1": 1015
   },
   "doctrine": {
    "total": 308,
    "detail": 308,
    "auto": 0
   },
-  "needs_verification": 1011,
+  "needs_verification": 1015,
   "sources": 425,
   "sources_verified": 425
  },
@@ -10241,6 +10241,28 @@
    "updated": "2026-11-25"
   },
   {
+   "id": "work-de-generatione-animalium",
+   "type": "work",
+   "title": "《论动物的生成》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "work-meteorologica",
+   "type": "work",
+   "title": "《天象学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
    "id": "work-politics",
    "type": "work",
    "title": "《政治学》",
@@ -10266,6 +10288,17 @@
    "id": "work-magna-moralia",
    "type": "work",
    "title": "《大伦理学》",
+   "container": "west",
+   "level": "L1",
+   "sources": 3,
+   "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "work-athenaion-politeia",
+   "type": "work",
+   "title": "《雅典政制》",
    "container": "west",
    "level": "L1",
    "sources": 3,
@@ -19517,6 +19550,17 @@
    "id": "cmp-shendao-shejiao",
    "type": "comparative",
    "title": "“宗教是人民的鸦片”与“神道设教”：宗教该被批还是被用？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "cmp-siyuan-wuxing",
+   "type": "comparative",
+   "title": "“四元素”与“五行”：万物由什么构成？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,
