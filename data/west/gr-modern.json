@@ -360,7 +360,8 @@
     {
      "name": "斯宾诺莎与霍布斯",
      "id": "gr-modern-hobbes",
-     "note": "政治与激情的现实主义分析"
+     "note": "政治与激情的现实主义分析",
+     "relation": "承继"
     },
     {
      "name": "近代共和主义与“国家理由”论",
@@ -920,7 +921,8 @@
     {
      "name": "笛卡尔与帕斯卡",
      "id": "gr-modern-descartes",
-     "note": "帕斯卡批评其怀疑论未能推进到确定性"
+     "note": "帕斯卡批评其怀疑论未能推进到确定性",
+     "relation": "承继"
     },
     {
      "name": "近代随笔与自传文体",
@@ -1060,7 +1062,8 @@
     {
      "name": "斯宾诺莎",
      "id": "gr-modern-spinoza",
-     "note": "实体一元论与“神即自然”"
+     "note": "实体一元论与“神即自然”",
+     "relation": "承继"
     },
     {
      "name": "近代宇宙论与科学革命",
@@ -1199,12 +1202,14 @@
     {
      "name": "格劳秀斯与近代国际法",
      "id": "gr-modern-grotius",
-     "note": "自然法与万民法"
+     "note": "自然法与万民法",
+     "relation": "承继"
     },
     {
      "name": "笛卡尔与莱布尼茨",
      "id": "gr-modern-descartes",
-     "note": "本质与存在的区分问题"
+     "note": "本质与存在的区分问题",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -1513,7 +1518,8 @@
     {
      "name": "洛克与近代认识论",
      "id": "gr-modern-locke",
-     "note": "第一性质／第二性质的区分"
+     "note": "第一性质／第二性质的区分",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -1795,14 +1801,16 @@
     {
      "name": "苏阿雷斯",
      "id": "gr-modern-suarez",
-     "note": "反向补录：据「苏阿雷斯」页的“影响了谁”补入"
+     "note": "反向补录：据「苏阿雷斯」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
     {
      "name": "霍布斯与普芬道夫",
      "id": "gr-modern-hobbes",
-     "note": "社会契约与自然法的世俗化"
+     "note": "社会契约与自然法的世俗化",
+     "relation": "承继"
     },
     {
      "name": "近代国际法与人权话语",
@@ -1944,12 +1952,14 @@
     {
      "name": "马基雅维利",
      "id": "gr-modern-machiavelli",
-     "note": "反向补录：据「马基雅维利」页的“影响了谁”补入"
+     "note": "反向补录：据「马基雅维利」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "格劳秀斯",
      "id": "gr-modern-grotius",
-     "note": "反向补录：据「格劳秀斯」页的“影响了谁”补入"
+     "note": "反向补录：据「格劳秀斯」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2145,12 +2155,14 @@
     {
      "name": "蒙田",
      "id": "gr-modern-montaigne",
-     "note": "反向补录：据「蒙田」页的“影响了谁”补入"
+     "note": "反向补录：据「蒙田」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "苏阿雷斯",
      "id": "gr-modern-suarez",
-     "note": "反向补录：据「苏阿雷斯」页的“影响了谁”补入"
+     "note": "反向补录：据「苏阿雷斯」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2567,7 +2579,8 @@
     {
      "name": "布鲁诺",
      "id": "gr-modern-bruno",
-     "note": "反向补录：据「布鲁诺」页的“影响了谁”补入"
+     "note": "反向补录：据「布鲁诺」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2775,7 +2788,8 @@
     {
      "name": "伽利略",
      "id": "gr-modern-galileo",
-     "note": "反向补录：据「伽利略」页的“影响了谁”补入"
+     "note": "反向补录：据「伽利略」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2950,12 +2964,14 @@
     {
      "name": "贝克莱与休谟",
      "id": "gr-modern-berkeley",
-     "note": "因果怀疑的进一步推进"
+     "note": "因果怀疑的进一步推进",
+     "relation": "承继"
     },
     {
      "name": "莱布尼茨的“预定和谐”",
      "id": "gr-modern-leibniz",
-     "note": "以另一种方式解决身心与因果问题"
+     "note": "以另一种方式解决身心与因果问题",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -3126,7 +3142,8 @@
     {
      "name": "莱布尼茨（论战对象）",
      "id": "gr-modern-leibniz",
-     "note": "关于引力与微积分优先权的长期争论，塑造了十八世纪的欧陆与英国之争"
+     "note": "关于引力与微积分优先权的长期争论，塑造了十八世纪的欧陆与英国之争",
+     "relation": "承继"
     },
     {
      "name": "康德（见德语单元另页）",
@@ -3338,12 +3355,14 @@
     {
      "name": "马勒伯朗士",
      "id": "gr-modern-malebranche",
-     "note": "反向补录：据「马勒伯朗士」页的“影响了谁”补入"
+     "note": "反向补录：据「马勒伯朗士」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "牛顿",
      "id": "gr-modern-newton",
-     "note": "反向补录：据「牛顿」页的“影响了谁”补入"
+     "note": "反向补录：据「牛顿」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -3525,12 +3544,14 @@
     {
      "name": "伏尔泰与启蒙",
      "id": "gr-modern-voltaire",
-     "note": "《辞典》为启蒙的批判工具书"
+     "note": "《辞典》为启蒙的批判工具书",
+     "relation": "承继"
     },
     {
      "name": "休谟与康德",
      "id": "gr-modern-hume",
-     "note": "理性界限与信仰问题"
+     "note": "理性界限与信仰问题",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -3665,7 +3686,8 @@
     {
      "name": "赫尔德与德国历史主义",
      "id": "gr-modern-herder",
-     "note": "民族精神与历史理解"
+     "note": "民族精神与历史理解",
+     "relation": "承继"
     },
     {
      "name": "马克思与狄尔泰",
@@ -3824,7 +3846,8 @@
     {
      "name": "马勒伯朗士",
      "id": "gr-modern-malebranche",
-     "note": "反向补录：据「马勒伯朗士」页的“影响了谁”补入"
+     "note": "反向补录：据「马勒伯朗士」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -4142,7 +4165,8 @@
     {
      "name": "培尔",
      "id": "gr-modern-bayle",
-     "note": "反向补录：据「培尔」页的“影响了谁”补入"
+     "note": "反向补录：据「培尔」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -4333,7 +4357,8 @@
     {
      "name": "培尔",
      "id": "gr-modern-bayle",
-     "note": "反向补录：据「培尔」页的“影响了谁”补入"
+     "note": "反向补录：据「培尔」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -5261,7 +5286,8 @@
     {
      "name": "潘恩",
      "id": "gr-modern-paine",
-     "note": "反向补录：据「潘恩」页的“影响了谁”补入"
+     "note": "反向补录：据「潘恩」页的“影响了谁”补入",
+     "relation": "批驳"
     }
    ],
    "influenced": [
@@ -5409,7 +5435,8 @@
     {
      "name": "伯克与保守主义（其论战对手）",
      "id": "gr-modern-burke",
-     "note": "以传统与世代合伙反对抽象权利"
+     "note": "以传统与世代合伙反对抽象权利",
+     "relation": "批驳"
     },
     {
      "name": "近代宪政与成文宪法",
@@ -5557,7 +5584,8 @@
     {
      "name": "维柯",
      "id": "gr-modern-vico",
-     "note": "反向补录：据「维柯」页的“影响了谁”补入"
+     "note": "反向补录：据「维柯」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [

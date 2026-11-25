@@ -232,7 +232,8 @@
     {
      "name": "柏拉图（经克拉底鲁一系）",
      "id": "gr-ancient-plato",
-     "note": "《克拉底鲁》与《泰阿泰德》中的流变说讨论"
+     "note": "《克拉底鲁》与《泰阿泰德》中的流变说讨论",
+     "relation": "承继"
     },
     {
      "name": "黑格尔",
@@ -374,7 +375,8 @@
     {
      "name": "色诺芬尼",
      "id": "gr-ancient-xenophanes",
-     "note": "反向补录：据「色诺芬尼」页的“影响了谁”补入"
+     "note": "反向补录：据「色诺芬尼」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -392,7 +394,8 @@
     {
      "name": "亚里士多德",
      "id": "gr-ancient-aristotle",
-     "note": "以“存在有多种意义”回应巴门尼德的一元论"
+     "note": "以“存在有多种意义”回应巴门尼德的一元论",
+     "relation": "批驳"
     }
    ],
    "criticisms": [
@@ -545,17 +548,20 @@
     {
      "name": "恩培多克勒",
      "id": "gr-ancient-empedocles",
-     "note": "反向补录：据「恩培多克勒」页的“影响了谁”补入"
+     "note": "反向补录：据「恩培多克勒」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "阿那克萨戈拉",
      "id": "gr-ancient-anaxagoras",
-     "note": "反向补录：据「阿那克萨戈拉」页的“影响了谁”补入"
+     "note": "反向补录：据「阿那克萨戈拉」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "留基伯",
      "id": "gr-ancient-leucippus",
-     "note": "反向补录：据「留基伯」页的“影响了谁”补入"
+     "note": "反向补录：据「留基伯」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -862,7 +868,8 @@
     {
      "name": "阿那克萨戈拉",
      "id": "gr-ancient-anaxagoras",
-     "note": "反向补录：据「阿那克萨戈拉」页的“影响了谁”补入"
+     "note": "反向补录：据「阿那克萨戈拉」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -875,7 +882,8 @@
     {
      "name": "亚里士多德",
      "id": "gr-ancient-aristotle",
-     "note": "经柏拉图学园间接承其问题"
+     "note": "经柏拉图学园间接承其问题",
+     "relation": "批驳"
     }
    ],
    "criticisms": [
@@ -1048,12 +1056,14 @@
     {
      "name": "赫拉克利特",
      "id": "gr-ancient-heraclitus",
-     "note": "反向补录：据「赫拉克利特」页的“影响了谁”补入"
+     "note": "反向补录：据「赫拉克利特」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "高尔吉亚",
      "id": "gr-ancient-gorgias",
-     "note": "反向补录：据「高尔吉亚」页的“影响了谁”补入"
+     "note": "反向补录：据「高尔吉亚」页的“影响了谁”补入",
+     "relation": "批驳"
     }
    ],
    "influenced": [
@@ -1266,22 +1276,26 @@
     {
      "name": "巴门尼德",
      "id": "gr-ancient-parmenides",
-     "note": "反向补录：据「巴门尼德」页的“影响了谁”补入"
+     "note": "反向补录：据「巴门尼德」页的“影响了谁”补入",
+     "relation": "批驳"
     },
     {
      "name": "苏格拉底",
      "id": "gr-ancient-socrates",
-     "note": "反向补录：据「苏格拉底」页的“影响了谁”补入"
+     "note": "反向补录：据「苏格拉底」页的“影响了谁”补入",
+     "relation": "批驳"
     },
     {
      "name": "芝诺（爱利亚的）",
      "id": "gr-ancient-zeno-elea",
-     "note": "反向补录：据「芝诺（爱利亚的）」页的“影响了谁”补入"
+     "note": "反向补录：据「芝诺（爱利亚的）」页的“影响了谁”补入",
+     "relation": "批驳"
     },
     {
      "name": "恩培多克勒",
      "id": "gr-ancient-empedocles",
-     "note": "反向补录：据「恩培多克勒」页的“影响了谁”补入"
+     "note": "反向补录：据「恩培多克勒」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1468,7 +1482,8 @@
     {
      "name": "巴门尼德",
      "id": "gr-ancient-parmenides",
-     "note": "爱利亚学派的“一”与“不变”可溯其神观"
+     "note": "爱利亚学派的“一”与“不变”可溯其神观",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -1594,7 +1609,8 @@
     {
      "name": "亚里士多德（以潜能现实回应）",
      "id": "gr-ancient-aristotle",
-     "note": "《物理学》卷六对运动的连续性作出回应"
+     "note": "《物理学》卷六对运动的连续性作出回应",
+     "relation": "批驳"
     },
     {
      "name": "数学基础与无穷问题",
@@ -1723,7 +1739,8 @@
     {
      "name": "泰勒斯",
      "id": "gr-ancient-thales",
-     "note": "反向补录：据「泰勒斯」页的“影响了谁”补入"
+     "note": "反向补录：据「泰勒斯」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1864,7 +1881,8 @@
     {
      "name": "阿那克西曼德",
      "id": "gr-ancient-anaximander",
-     "note": "其学生，以“无定”修正水本原说"
+     "note": "其学生，以“无定”修正水本原说",
+     "relation": "承继"
     },
     {
      "name": "整个希腊自然哲学",
@@ -2000,7 +2018,8 @@
     {
      "name": "阿那克萨戈拉与原子论",
      "id": "gr-ancient-anaxagoras",
-     "note": "把“稀散凝聚”的机制推进为“分离与组合”"
+     "note": "把“稀散凝聚”的机制推进为“分离与组合”",
+     "relation": "承继"
     },
     {
      "name": "斯多亚派的 pneuma",
@@ -2137,12 +2156,14 @@
     {
      "name": "亚里士多德",
      "id": "gr-ancient-aristotle",
-     "note": "承其四元素说并加以太与目的论"
+     "note": "承其四元素说并加以太与目的论",
+     "relation": "承继"
     },
     {
      "name": "原子论",
      "id": "gr-ancient-democritus",
-     "note": "以不可分的原子取代四根，取消爱与争"
+     "note": "以不可分的原子取代四根，取消爱与争",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -2271,19 +2292,22 @@
     {
      "name": "阿那克西美尼",
      "id": "gr-ancient-anaximenes",
-     "note": "反向补录：据「阿那克西美尼」页的“影响了谁”补入"
+     "note": "反向补录：据「阿那克西美尼」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
     {
      "name": "苏格拉底与柏拉图",
      "id": "gr-ancient-socrates",
-     "note": "努斯概念被苏格拉底期待为“善的安排”，后失望（《斐多》）"
+     "note": "努斯概念被苏格拉底期待为“善的安排”，后失望（《斐多》）",
+     "relation": "承继"
     },
     {
      "name": "原子论",
      "id": "gr-ancient-democritus",
-     "note": "以原子取代种子，以必然取代努斯"
+     "note": "以原子取代种子，以必然取代努斯",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -2419,7 +2443,8 @@
     {
      "name": "柏拉图与亚里士多德",
      "id": "gr-ancient-plato",
-     "note": "《高尔吉亚篇》以修辞术为奉承之术，非技艺"
+     "note": "《高尔吉亚篇》以修辞术为奉承之术，非技艺",
+     "relation": "批驳"
     },
     {
      "name": "伊索克拉底与修辞教育",
@@ -2556,7 +2581,8 @@
     {
      "name": "德谟克利特",
      "id": "gr-ancient-democritus",
-     "note": "系统化原子论，加入形状、次序、位置的区别"
+     "note": "系统化原子论，加入形状、次序、位置的区别",
+     "relation": "承继"
     },
     {
      "name": "伊壁鸠鲁与卢克莱修",

@@ -73,7 +73,8 @@
     {
      "name": "以赛亚·伯林",
      "id": "gr-contemp-berlin",
-     "note": "反向补录：据「以赛亚·伯林」页的“影响了谁”补入"
+     "note": "反向补录：据「以赛亚·伯林」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -86,7 +87,8 @@
     {
      "name": "哈贝马斯与公共理性讨论",
      "id": "gr-contemp-habermas",
-     "note": "商谈伦理与罗尔斯的公共理性形成对话"
+     "note": "商谈伦理与罗尔斯的公共理性形成对话",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -387,7 +389,8 @@
     {
      "name": "哈贝马斯（批评性对话者）",
      "id": "gr-contemp-habermas",
-     "note": "关于“理性”与“权力”的分歧"
+     "note": "关于“理性”与“权力”的分歧",
+     "relation": "批驳"
     }
    ],
    "criticisms": [
@@ -545,7 +548,8 @@
     {
      "name": "哈贝马斯（争论对手）",
      "id": "gr-contemp-habermas",
-     "note": "关于理性、规范与“表演性矛盾”的争论"
+     "note": "关于理性、规范与“表演性矛盾”的争论",
+     "relation": "批驳"
     }
    ],
    "criticisms": [
@@ -692,22 +696,26 @@
     {
      "name": "罗尔斯",
      "id": "gr-contemp-rawls",
-     "note": "反向补录：据「罗尔斯」页的“影响了谁”补入"
+     "note": "反向补录：据「罗尔斯」页的“影响了谁”补入",
+     "relation": "承继"
     },
     {
      "name": "福柯",
      "id": "gr-contemp-foucault",
-     "note": "反向补录：据「福柯」页的“影响了谁”补入"
+     "note": "反向补录：据「福柯」页的“影响了谁”补入",
+     "relation": "批驳"
     },
     {
      "name": "德里达",
      "id": "gr-contemp-derrida",
-     "note": "反向补录：据「德里达」页的“影响了谁”补入"
+     "note": "反向补录：据「德里达」页的“影响了谁”补入",
+     "relation": "批驳"
     },
     {
      "name": "罗蒂",
      "id": "gr-contemp-rorty",
-     "note": "反向补录：据「罗蒂」页的“影响了谁”补入"
+     "note": "反向补录：据「罗蒂」页的“影响了谁”补入",
+     "relation": "同门相诤"
     }
    ],
    "influenced": [
@@ -877,7 +885,8 @@
     {
      "name": "哈贝马斯（批评性对话）",
      "id": "gr-contemp-habermas",
-     "note": "关于是否需要规范基础的争论"
+     "note": "关于是否需要规范基础的争论",
+     "relation": "同门相诤"
     }
    ],
    "criticisms": [
@@ -1840,7 +1849,8 @@
     {
      "name": "当代自由主义（罗尔斯等）",
      "id": "gr-contemp-rawls",
-     "note": "其多元论与罗尔斯的“理性多元论”对话"
+     "note": "其多元论与罗尔斯的“理性多元论”对话",
+     "relation": "承继"
     },
     {
      "name": "社群主义（批评者）",

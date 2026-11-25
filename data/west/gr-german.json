@@ -77,7 +77,8 @@
     {
      "name": "门德尔松",
      "id": "gr-german-mendelssohn",
-     "note": "反向补录：据「门德尔松」页的“影响了谁”补入"
+     "note": "反向补录：据「门德尔松」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -283,7 +284,8 @@
     {
      "name": "黑格尔",
      "id": "gr-german-hegel",
-     "note": "承其辩证法要素而批评其主观性"
+     "note": "承其辩证法要素而批评其主观性",
+     "relation": "批驳"
     }
    ],
    "criticisms": [
@@ -593,7 +595,8 @@
     {
      "name": "费希特",
      "id": "gr-german-fichte",
-     "note": "反向补录：据「费希特」页的“影响了谁”补入"
+     "note": "反向补录：据「费希特」页的“影响了谁”补入",
+     "relation": "批驳"
     }
    ],
    "influenced": [
@@ -1414,7 +1417,8 @@
     {
      "name": "康德",
      "id": "gr-german-kant",
-     "note": "《纯粹理性批判》对其证明的批评促使其重审"
+     "note": "《纯粹理性批判》对其证明的批评促使其重审",
+     "relation": "承继"
     },
     {
      "name": "犹太启蒙与现代犹太哲学",
@@ -1557,7 +1561,8 @@
     {
      "name": "温克尔曼",
      "id": "gr-german-winckelmann",
-     "note": "反向补录：据「温克尔曼」页的“影响了谁”补入"
+     "note": "反向补录：据「温克尔曼」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1858,7 +1863,8 @@
     {
      "name": "莱辛（其论敌）",
      "id": "gr-german-lessing",
-     "note": "《拉奥孔》即针对其“静穆”说而发"
+     "note": "《拉奥孔》即针对其“静穆”说而发",
+     "relation": "承继"
     },
     {
      "name": "赫尔德与歌德",

@@ -380,7 +380,8 @@
     {
      "name": "塞克斯都·恩披里柯",
      "id": "gr-hellenistic-sextus",
-     "note": "保存并系统化皮浪主义"
+     "note": "保存并系统化皮浪主义",
+     "relation": "承继"
     }
    ],
    "criticisms": [
@@ -517,7 +518,8 @@
     {
      "name": "皮浪",
      "id": "gr-hellenistic-pyrrho",
-     "note": "反向补录：据「皮浪」页的“影响了谁”补入"
+     "note": "反向补录：据「皮浪」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -979,7 +981,8 @@
     {
      "name": "克律西波",
      "id": "gr-hellenistic-chrysippus",
-     "note": "反向补录：据「克律西波」页的“影响了谁”补入"
+     "note": "反向补录：据「克律西波」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -1907,7 +1910,8 @@
     {
      "name": "罗马斯多亚",
      "id": "gr-hellenistic-seneca",
-     "note": "承其情感理论（塞涅卡《论愤怒》即此路径）"
+     "note": "承其情感理论（塞涅卡《论愤怒》即此路径）",
+     "relation": "承继"
     },
     {
      "name": "命题逻辑的古代传统",
@@ -2045,7 +2049,8 @@
     {
      "name": "扬布利柯",
      "id": "gr-hellenistic-iamblichus",
-     "note": "反向补录：据「扬布利柯」页的“影响了谁”补入"
+     "note": "反向补录：据「扬布利柯」页的“影响了谁”补入",
+     "relation": "承继"
     }
    ],
    "influenced": [
@@ -2187,7 +2192,8 @@
     {
      "name": "普罗克洛",
      "id": "gr-hellenistic-proclus",
-     "note": "层级体系进一步系统化"
+     "note": "层级体系进一步系统化",
+     "relation": "承继"
     },
     {
      "name": "伪狄奥尼修斯与中世纪神秘主义",
