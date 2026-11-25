@@ -64,3 +64,8 @@
 - **in-india-candrakirti**（据 `sep-nagarjuna`）：《明句论》为《中论》注释，属“应成”一路，并批评清辨的自立论证
 
 > 两项为内容级核销；两页 `needs_verification` 仍为 true（梵本未读）。
+
+## 第 415 轮（目标第 89 轮）
+
+- **gr-medieval-al-kindi / work-al-kindi-intellect**（据 `sep-al-kindi`）：《论理智》为阿拉伯传统中**最早**给出理智类型分类之作；阿拉伯文本存于伊斯坦布尔抄本，另有拉丁译本 `De intellectu`；英译见 Adamson–Pormann 2012。
+  - **并据以修正**：原页写"阿拉伯文本残、四种理智"，与 SEP 所述"抄本存、类型分类"不合 → 已改为"文本存（伊斯坦布尔抄本）"，并把"四种"降为**待核**（须依 Jolivet 1971）。
