@@ -2360,7 +2360,8 @@
     "sep-stoicism"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-hellenistic-supreme-good"
   },
   {
    "id": "gr-hellenistic-fate",
@@ -2459,7 +2460,8 @@
     "sep-cicero"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-hellenistic-natural-law"
   },
   {
    "id": "gr-hellenistic-the-one",
@@ -2524,7 +2526,8 @@
     "book-copleston-history"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-hellenistic-ataraxia"
   },
   {
    "id": "gr-hellenistic-pronoia",

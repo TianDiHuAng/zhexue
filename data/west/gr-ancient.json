@@ -3613,7 +3613,8 @@
     "book-guthrie-greek"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-ancient-arete"
   },
   {
    "id": "gr-ancient-philia",
@@ -3874,7 +3875,8 @@
     "mit-plato-republic"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-ancient-phronesis"
   },
   {
    "id": "gr-ancient-false-pleasures",

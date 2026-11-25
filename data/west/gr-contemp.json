@@ -1925,7 +1925,8 @@
     "book-rawls-justice"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-contemp-justice-fairness"
   },
   {
    "id": "gr-contemp-justice-fairness",
@@ -1959,7 +1960,8 @@
     "paper-s11158-026-09803-9"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-contemp-sense-of-justice"
   },
   {
    "id": "gr-contemp-entitlement",
@@ -1993,7 +1995,8 @@
     "book-copleston-history"
    ],
    "needs_verification": true,
-   "pending_notes": "资格理论三原则依 IEP 诺齐克词条核对；“张伯伦论证”的票数与金额为例示性数字，非原文数据，引用时须核原书。"
+   "pending_notes": "资格理论三原则依 IEP 诺齐克词条核对；“张伯伦论证”的票数与金额为例示性数字，非原文数据，引用时须核原书。",
+   "broader": "gr-contemp-justice-fairness"
   },
   {
    "id": "gr-contemp-power-knowledge",
@@ -2027,7 +2030,8 @@
     "paper-s40961-020-00224-4"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-contemp-biopower"
   },
   {
    "id": "gr-contemp-deconstruction",
@@ -2263,7 +2267,8 @@
     "iep-nozick"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-contemp-sense-of-justice"
   },
   {
    "id": "gr-contemp-biopower",
@@ -2336,7 +2341,8 @@
     "iep-adorno"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-contemp-postmetaphysical"
   },
   {
    "id": "gr-contemp-overlapping-consensus",
@@ -2375,7 +2381,8 @@
     "sep-habermas"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-contemp-public-reason-idea"
   },
   {
    "id": "gr-contemp-difference-principle",
@@ -2413,7 +2420,8 @@
     "iep-rawls"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-contemp-justice-fairness"
   },
   {
    "id": "gr-contemp-public-reason-idea",
@@ -2488,7 +2496,8 @@
     "sep-habermas"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "gr-contemp-deconstruction"
   },
   {
    "id": "gr-contemp-sense-of-justice",
@@ -2776,7 +2785,8 @@
     "sep-rawls"
    ],
    "needs_verification": true,
-   "pending_notes": "“商谈伦理”的原则（D 原则与 U 原则）须核哈贝马斯《道德意识与交往行为》；其与阿佩尔的“先验语用学”之别亦须分辨。"
+   "pending_notes": "“商谈伦理”的原则（D 原则与 U 原则）须核哈贝马斯《道德意识与交往行为》；其与阿佩尔的“先验语用学”之别亦须分辨。",
+   "broader": "gr-contemp-discourse"
   },
   {
    "id": "gr-contemp-fuqiang-yishi",

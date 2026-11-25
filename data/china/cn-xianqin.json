@@ -2890,7 +2890,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-xianqin-jianai"
   },
   {
    "id": "cn-xianqin-zuowang",
@@ -2928,7 +2929,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": false,
-   "pending_notes": ""
+   "pending_notes": "",
+   "broader": "cn-xianqin-xiaoyao"
   },
   {
    "id": "cn-xianqin-li-lun",
@@ -3076,7 +3078,8 @@
     "sep-chinese-metaphysics"
    ],
    "needs_verification": true,
-   "pending_notes": "《周礼》的成书年代与真伪（周初实录／战国构想／汉人伪作）自汉代以来争论不断；本页述其制度构想与思想影响，不判定其成书年代。"
+   "pending_notes": "《周礼》的成书年代与真伪（周初实录／战国构想／汉人伪作）自汉代以来争论不断；本页述其制度构想与思想影响，不判定其成书年代。",
+   "broader": "cn-xianqin-li"
   },
   {
    "id": "cn-xianqin-yili-sanbai",
