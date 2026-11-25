@@ -4,11 +4,11 @@
 还账方式：核过一项，就在 `pending_notes` 里写「已核（第 N 轮，据 <source_id>）：<内容>」；
 　　　　　全部核清者把 `needs_verification` 置 `false`。
 
-当前合计：**888 条**（哲学家 143 ｜ 著作 560 ｜ 比较篇 185）
+当前合计：**890 条**（哲学家 143 ｜ 著作 560 ｜ 比较篇 187）
 
 ## 按单元分布
 - works：560
-- comparative：185
+- comparative：187
 - cn-qingmod：24
 - cn-suitang：16
 - in-india：13
