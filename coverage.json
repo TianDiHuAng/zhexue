@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1808,
+  "entries": 1822,
   "by_level": {
    "L2": 793,
-   "L1": 1015
+   "L1": 1029
   },
   "doctrine": {
-   "total": 308,
-   "detail": 308,
+   "total": 312,
+   "detail": 312,
    "auto": 0
   },
-  "needs_verification": 1015,
-  "sources": 425,
-  "sources_verified": 425
+  "needs_verification": 1029,
+  "sources": 427,
+  "sources_verified": 427
  },
  "units": [
   {
@@ -78,6 +78,15 @@
    "concepts": 30,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -4"
+  },
+  {
+   "unit_id": "in-india",
+   "title": "印度哲学（正统六派与佛教）",
+   "region": "india",
+   "philosophers": 4,
+   "concepts": 6,
+   "debates": 2,
+   "philosophers_slot": "8 上限，余 4"
   },
   {
    "unit_id": "gr-19c",
@@ -4584,6 +4593,138 @@
    "sources": 3,
    "verified_sources": 3,
    "needs_verification": false,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-gautama",
+   "type": "philosopher",
+   "title": "乔答摩（足目）",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-vasubandhu",
+   "type": "philosopher",
+   "title": "世亲",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-nagarjuna",
+   "type": "philosopher",
+   "title": "龙树",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-kumarila",
+   "type": "philosopher",
+   "title": "鸠摩利罗（童中尊）",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-pramana",
+   "type": "concept",
+   "title": "量",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-pratyaksa",
+   "type": "concept",
+   "title": "现量（知觉）",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 1,
+   "verified_sources": 1,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-shunyata",
+   "type": "concept",
+   "title": "空性",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-svabhava",
+   "type": "concept",
+   "title": "自性",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-apoha",
+   "type": "concept",
+   "title": "遮诠",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 1,
+   "verified_sources": 1,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-anatman",
+   "type": "concept",
+   "title": "无我",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-perception-concepts",
+   "type": "debate",
+   "title": "知觉是否带概念：无分别与有分别之争",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "in-india-language-reality",
+   "type": "debate",
+   "title": "语言能否触及实在：共相与遮诠之争",
+   "container": "in-india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
    "updated": "2026-11-25"
   },
   {
@@ -11209,6 +11350,17 @@
    "updated": "2026-11-25"
   },
   {
+   "id": "work-naya-sutra",
+   "type": "work",
+   "title": "《正理经》",
+   "container": "india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
    "id": "work-enchiridion",
    "type": "work",
    "title": "《手册》",
@@ -12338,6 +12490,17 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "work-slokavarttika",
+   "type": "work",
+   "title": "《颂释补》",
+   "container": "india",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": true,
    "updated": "2026-11-25"
   },

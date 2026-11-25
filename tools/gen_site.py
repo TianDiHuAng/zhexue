@@ -36,14 +36,26 @@ def rel(depth):
     return "../" * depth
 
 
-NAV = [
-    ("首页", ""), ("中国", "china/"), ("西方", "west/"),
-    ("中国时间线", "timeline/china.html"), ("西方时间线", "timeline/west.html"),
+REGIONS = [("china", "中国"), ("west", "西方"), ("india", "印度")]
+REG_LABEL = dict(REGIONS)
+REG_ORDER = {r: i for i, (r, _l) in enumerate(REGIONS)}
+REG_FILL = {"china": "#dbe8f3", "west": "#dce8f4", "india": "#d9e7f1"}
+
+
+def present_regions():
+    """只列出磁盘上确有数据的区域，避免空区域产生断链。"""
+    return [(r, l) for r, l in REGIONS if os.path.isdir(os.path.join(DATA, r))]
+
+
+NAV = ([("首页", "")]
+       + [(l, r + "/") for r, l in present_regions()]
+       + [(l + "时间线", "timeline/%s.html" % r) for r, l in present_regions()]
+       + [
     ("哲学家", "people/"), ("概念索引", "concepts/"), ("争论", "debates/"),
-    ("流派", "schools/"), ("著作", "works/"), ("比较视野", "comparative.html"), ("误读索引", "misreadings.html"),
-    ("谱系总图", "graph.html"), ("来源", "sources/"),
-    ("体例", "about.html"),
-]
+    ("流派", "schools/"), ("著作", "works/"), ("比较视野", "comparative.html"),
+    ("误读索引", "misreadings.html"), ("谱系总图", "graph.html"),
+    ("来源", "sources/"), ("体例", "about.html"),
+])
 
 
 def head(title, depth, extra=""):
@@ -142,13 +154,13 @@ def src_block(ids, sources, note=""):
 # ------------------------------------------------------------------ 载入
 def load_all():
     units = []
-    for region in ("china", "west"):
+    for region, _lb in REGIONS:
         for p in sorted(glob.glob(os.path.join(DATA, region, "*.json"))):
             with open(p, encoding="utf-8") as f:
                 u = json.load(f)
             u["_path"] = p
             units.append(u)
-    units.sort(key=lambda u: (0 if u["region"] == "china" else 1, u["start_year"]))
+    units.sort(key=lambda u: (REG_ORDER.get(u["region"], 9), u["start_year"]))
     with open(SRC, encoding="utf-8") as f:
         sources = {s["id"]: s for s in json.load(f)["sources"]}
     works = []
@@ -196,9 +208,9 @@ def render_person(p, sources, people, concepts, debates, schools):
     body.append("<h1>%s <span class=\"meta\">%s</span></h1>" % (esc(p["name"]), esc(p.get("latin", ""))))
     body.append('<p class="crumb"><a href="%s">首页</a> / <a href="%s%s/">%s</a> / '
                 '<a href="%s%s/%s/">%s</a> / 哲学家</p>'
-                % (pth, pth, "china" if p["_region"] == "china" else "west",
-                   "中国" if p["_region"] == "china" else "西方",
-                   pth, "china" if p["_region"] == "china" else "west", u, esc(p["_unit_title"])))
+                % (pth, pth, p["_region"],
+                   REG_LABEL.get(p["_region"], ""),
+                   pth, p["_region"], u, esc(p["_unit_title"])))
 
     # 一
     body.append("<h2>一、生卒年与时代背景</h2>")
@@ -211,7 +223,7 @@ def render_person(p, sources, people, concepts, debates, schools):
                 '<tr><th>所在时期</th><td><a href="%s%s/%s/">%s</a></td></tr></table>'
                 % (esc(p["birth_display"]), esc(p.get("birth_note", "")),
                    esc(p["death_display"]), esc(p.get("death_note", "")),
-                   schl, pth, "china" if p["_region"] == "china" else "west", u, esc(p["_unit_title"])))
+                   schl, pth, p["_region"], u, esc(p["_unit_title"])))
     body.append("<p>%s</p>" % esc(p.get("era", "")))
 
     # 二
@@ -347,9 +359,9 @@ def render_concept(c, sources, people, concepts):
     body = ["<h1>%s <span class=\"meta\">%s</span></h1>" % (esc(c["term"]), esc(c.get("term_latin", "")))]
     body.append('<p class="crumb"><a href="%s">首页</a> / <a href="%s%s/">%s</a> / '
                 '<a href="%s%s/%s/">%s</a> / 概念</p>'
-                % (pth, pth, "china" if c["_region"] == "china" else "west",
-                   "中国" if c["_region"] == "china" else "西方",
-                   pth, "china" if c["_region"] == "china" else "west",
+                % (pth, pth, c["_region"],
+                   REG_LABEL.get(c["_region"], ""),
+                   pth, c["_region"],
                    c["_unit"], esc(c["_unit_title"])))
     body.append("<h2>一、定义</h2><p>%s</p>" % esc(c["definition"]))
     body.append('<h2>二、在不同哲学家那里的用法差异</h2>')
@@ -388,9 +400,9 @@ def render_debate(x, sources, people):
     body = ["<h1>%s</h1>" % esc(x["title"])]
     body.append('<p class="crumb"><a href="%s">首页</a> / <a href="%s%s/">%s</a> / '
                 '<a href="%s%s/%s/">%s</a> / 争论</p>'
-                % (pth, pth, "china" if x["_region"] == "china" else "west",
-                   "中国" if x["_region"] == "china" else "西方",
-                   pth, "china" if x["_region"] == "china" else "west",
+                % (pth, pth, x["_region"],
+                   REG_LABEL.get(x["_region"], ""),
+                   pth, x["_region"],
                    x["_unit"], esc(x["_unit_title"])))
     body.append("<h2>一、问题是什么</h2><p>%s</p>" % esc(x["question"]))
     body.append("<h2>二、各方立场及理由</h2>")
@@ -415,8 +427,8 @@ def render_school(s, sources, people):
     pth = rel(d)
     body = ["<h1>%s</h1>" % esc(s["name"])]
     body.append('<p class="crumb"><a href="%s">首页</a> / <a href="%s%s/">%s</a> / 流派</p>'
-                % (pth, pth, "china" if s["region"] == "china" else "west",
-                   "中国" if s["region"] == "china" else "西方"))
+                % (pth, pth, s["region"],
+                   REG_LABEL.get(s["region"], "")))
     body.append('<p class="meta">%s · %s</p>' % (esc(s["era"]), esc(s.get("region_label", ""))))
     body.append("<h2>一、核心主张</h2><ul class=\"tight\">%s</ul>"
                 % "".join("<li>%s</li>" % esc(c) for c in s["core_claims"]))
@@ -445,12 +457,12 @@ def render_school(s, sources, people):
 def render_unit(u, sources, schools, prev, nxt):
     d = 2
     pth = rel(d)
-    reg = "china" if u["region"] == "china" else "west"
+    reg = u["region"]
     body = ["<h1>%s</h1>" % esc(u["title"]),
             '<p class="meta">%s · %s 位哲学家 · %s 个概念 · %s 场争论</p>'
             % (esc(u["period"]), len(u["philosophers"]), len(u["concepts"]), len(u["debates"]))]
     body.append('<p class="crumb"><a href="%s">首页</a> / <a href="%s%s/">%s</a> / %s</p>'
-                % (pth, pth, reg, "中国" if reg == "china" else "西方", esc(u["title"])))
+                % (pth, pth, reg, REG_LABEL.get(reg, ""), esc(u["title"])))
     body.append("<h2>一、线索</h2><p>%s</p>" % esc(u["summary"]))
     body.append("<ul class=\"tight\">%s</ul>" % "".join("<li>%s</li>" % esc(t) for t in u["threads"]))
 
@@ -489,7 +501,7 @@ def render_unit(u, sources, schools, prev, nxt):
         nav.append('<a href="%s%s/%s/">%s →</a>' % (pth, reg, nxt["unit_id"], esc(nxt["title"])))
     if nav:
         body.append('<p class="meta" style="margin-top:34px">%s</p>' % "　·　".join(nav))
-    return page(u["title"], d, "中国" if reg == "china" else "西方", "\n".join(body))
+    return page(u["title"], d, REG_LABEL.get(reg, ""), "\n".join(body))
 
 
 # ------------------------------------------------------------------ 著作页
@@ -533,7 +545,7 @@ def render_works_index(works):
     body = ["<h1>经典著作</h1>",
             '<p class="meta"><a href="timeline.html">→ 按年代浏览（著作年表）</a>　共 %d 部。每页给出文本结构、核心论证、关键段落、版本与常见误读；'
             '文本的分篇与作者问题在“待核实”中说明。</p>' % len(works)]
-    for trad, label in (("china", "中国"), ("west", "西方")):
+    for trad, label in REGIONS:
         body.append("<h2>%s</h2><div class=\"grid\">" % label)
         for w in [x for x in works if x["tradition"] == trad]:
             body.append('<div class="card"><h3><a href="%sworks/%s.html">%s</a></h3>'
@@ -552,7 +564,7 @@ def render_misreadings_index(people, works_list):
     pth = rel(d)
     rows = []
     n = 0
-    for region, label in (("china", "中国"), ("west", "西方")):
+    for region, label in present_regions():
         ps = [p for p in people.values() if p["_region"] == region]
         ws = [w for w in works_list if w["tradition"] == region]
         body_p = []
@@ -619,7 +631,7 @@ def render_works_timeline(works):
                     '<a href="%sworks/%s.html">%s</a>'
                     '<span class="meta">　%s · %s</span></p>'
                     % (era, yy, pth, w["id"], esc(w["title"]),
-                       "中国" if w["tradition"] == "china" else "西方", esc(w["date_display"])))
+                       REG_LABEL.get(w["tradition"], ""), esc(w["date_display"])))
     body.append("</div>")
     return page("著作年表", d, "著作", "\n".join(body))
 
@@ -628,7 +640,7 @@ def render_works_timeline(works):
 def render_people_index(people):
     d = 1
     pth = rel(d)
-    items = sorted(people.values(), key=lambda p: (p["_region"] != "china", p["birth_year"]))
+    items = sorted(people.values(), key=lambda p: (REG_ORDER.get(p["_region"], 9), p["birth_year"]))
     rows = []
     for p in items:
         rows.append('<tr><td class="year">%s—%s</td><td><a href="%speople/%s.html">%s</a>'
@@ -637,7 +649,7 @@ def render_people_index(people):
                        esc(p["name"]), esc(p.get("latin", "")), esc(p.get("school", "")),
                        esc(p["_unit_title"])))
     body = ["<h1>哲学家索引</h1>",
-            '<p class="meta">共 %d 位，按“中国→西方”与该时期内的出生年排序。</p>' % len(items),
+            '<p class="meta">共 %d 位，按“中国→西方→印度”与该时期内的出生年排序。</p>' % len(items),
             '<table><tr><th class="year">生卒</th><th>姓名</th>'
             '<th>流派</th><th>时期</th></tr>%s</table>' % "".join(rows)]
     return page("哲学家索引", d, "哲学家", "\n".join(body))
@@ -649,7 +661,7 @@ def render_concept_index(concepts, units):
     body = ["<h1>概念索引</h1>",
             '<p class="meta">共 %d 个概念，按时期归组。每个概念页给出定义、不同哲学家那里的用法差异与一个具体例子。</p>'
             % len(concepts)]
-    for region, label in (("china", "中国"), ("west", "西方")):
+    for region, label in present_regions():
         body.append("<h2>%s</h2>" % label)
         for u in [x for x in units if x["region"] == region]:
             cs = [c for c in u["concepts"]]
@@ -666,7 +678,7 @@ def render_concept_index(concepts, units):
 def render_debate_index(debates):
     d = 1
     pth = rel(d)
-    items = sorted(debates.values(), key=lambda x: (x["_region"] != "china", x["_unit_title"]))
+    items = sorted(debates.values(), key=lambda x: (REG_ORDER.get(x["_region"], 9), x["_unit_title"]))
     rows = "".join('<tr><td><a href="%sdebates/%s.html">%s</a></td><td>%s</td><td>%s</td><td>%s</td></tr>'
                    % (pth, x["id"], esc(x["title"]), esc(x["question"]), esc(x["_unit_title"]), esc(x["status"]))
                    for x in items)
@@ -680,7 +692,7 @@ def render_school_index(schools):
     d = 1
     pth = rel(d)
     body = ["<h1>流派索引</h1>", '<p class="meta">共 %d 个流派。</p>' % len(schools)]
-    for region, label in (("china", "中国"), ("west", "西方")):
+    for region, label in present_regions():
         body.append("<h2>%s</h2><div class=\"grid\">" % label)
         for s in [x for x in schools if x["region"] == region]:
             body.append('<div class="card"><h3><a href="%sschools/%s.html">%s</a></h3>'
@@ -803,7 +815,7 @@ def render_graph(units, people):
     lane_h = 62
     blocks = []
     y_cursor = 70
-    for region, label in (("china", "中国"), ("west", "西方")):
+    for region, label in present_regions():
         ps = sorted([p for p in people.values() if p["_region"] == region], key=lambda p: p["birth_year"])
         if not ps:
             continue
@@ -849,7 +861,7 @@ def render_graph(units, people):
         for p in ps:
             x, y = pos[p["id"]]
             w = max(46, min(96, 15 + len(p["name"]) * 13))
-            fill = "#dbe8f3" if region == "china" else "#dce8f4"
+            fill = REG_FILL.get(region, "#e2ecf5")
             parts.append("<rect x='%.0f' y='%.0f' width='%d' height='24' rx='4' fill='%s' "
                          "stroke='#1c3a5c' stroke-width='0.8'/>" % (x - w / 2, y - 12, w, fill))
             parts.append("<text x='%.0f' y='%.0f' text-anchor='middle' font-size='11' fill='#1e2d3d'>%s</text>"
@@ -887,7 +899,8 @@ def render_home(units, people, concepts, debates, schools, sources):
                            esc(u["summary"][:88] + ("…" if len(u["summary"]) > 88 else ""))))
         body.append("</div>")
     body.append('<h2>另见</h2><p><a href="works/">经典著作</a> · <a href="comparative.html">比较视野</a> · <a href="timeline/china.html">中国哲学时间线</a> · '
-                '<a href="timeline/west.html">西方哲学时间线</a> · <a href="graph.html">思想谱系总图</a> · '
+                '<a href="timeline/west.html">西方哲学时间线</a> · <a href="timeline/india.html">印度哲学时间线</a> · '
+                '<a href="graph.html">思想谱系总图</a> · '
                 '<a href="concepts/">概念索引</a> · <a href="debates/">争论索引</a> · '
                 '<a href="schools/">流派索引</a> · <a href="sources/">来源列表</a> · '
                 '<a href="about.html">方法与体例</a></p>')
@@ -909,7 +922,7 @@ def render_region(units, region, label):
                     % (u["unit_id"], esc(u["title"]), esc(u["period"]),
                        len(u["philosophers"]), len(u["concepts"]), len(u["debates"]),
                        esc(u["summary"])))
-    return page(label, d, "中国" if region == "china" else "西方", "\n".join(body))
+    return page(label, d, REG_LABEL.get(region, ""), "\n".join(body))
 
 
 # ------------------------------------------------------------------ main
@@ -944,7 +957,7 @@ def main():
     write("about.html", render_about(units, people, concepts, debates, sources, works))
     write("graph.html", render_graph(units, people))
 
-    for region, label in (("china", "中国"), ("west", "西方")):
+    for region, label in present_regions():
         write("%s/index.html" % region, render_region(units, region, label))
         us = [u for u in units if u["region"] == region]
         for i, u in enumerate(us):
@@ -971,8 +984,8 @@ def main():
     write("works/timeline.html", render_works_timeline(works))
     write("comparative.html", render_comparative(essays, sources))
     write("misreadings.html", render_misreadings_index(people, works))
-    write("timeline/china.html", render_timeline(units, people, "china", "中国"))
-    write("timeline/west.html", render_timeline(units, people, "west", "西方"))
+    for _r, _l in present_regions():
+        write("timeline/%s.html" % _r, render_timeline(units, people, _r, _l))
     write("sources/index.html", render_sources(sources))
 
     n = sum(1 for _ in glob.glob(os.path.join(SITE, "**", "*.html"), recursive=True))

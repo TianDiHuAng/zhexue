@@ -8364,6 +8364,62 @@
    "sort_year": 82
   },
   {
+   "id": "work-naya-sutra",
+   "title": "《正理经》",
+   "title_original": "Nyāya Sūtra（Gautama Akṣapāda）",
+   "tradition": "india",
+   "date_display": "约2世纪（乔答摩一系）",
+   "structure": "五卷（adhyāya），每卷两“日”（āhnika）：卷一论量与所量，卷二论疑与四量，卷三论所量与自我，卷四论知识之生与论辩，卷五论诡论与堕负，共十六谛。",
+   "core_arguments": [
+    "知觉须以“**不可言说、不错乱、确定**”三重限定方成知识（1.1.4）",
+    "以“**十六谛**”把知识论与论辩规范合成一个程序（由疑而决了）",
+    "**共相实有**，故语言可指向真实的共同项"
+   ],
+   "key_points": [
+    {
+     "locator": "1.1.4",
+     "point": "知觉的定义"
+    },
+    {
+     "locator": "1.1.1—1.1.2",
+     "point": "十六谛的名目"
+    },
+    {
+     "locator": "卷二",
+     "point": "四量的检讨"
+    },
+    {
+     "locator": "卷五",
+     "point": "似因与堕负"
+    }
+   ],
+   "editions": [
+    "梵校本（Jacobi 1911 等）；中译少见，可参《正理经》研究中的汉译选段"
+   ],
+   "related_people": [
+    "in-india-gautama",
+    "in-india-nagarjuna",
+    "in-india-kumarila"
+   ],
+   "misreadings": [
+    {
+     "claim": "《正理经》是一部“形式逻辑教科书”",
+     "why": "其主体是**知识论与论辩规范**（量、疑、决了、堕负），逻辑只是其中一支；故不可径以“逻辑书”概之。"
+    },
+    {
+     "claim": "经中的定义即为定论",
+     "why": "经体极简，义理多赖注疏展开（如二阶段知觉说）；引用须注明是**经**还是**注**。"
+    }
+   ],
+   "sources": [
+    "sep-perception-india",
+    "sep-nagarjuna"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Perceptual Experience and Concepts in Classical Indian Philosophy”转述，**未读梵本**；五卷两日的分卷与 1.1.4 的原文须核梵校本。",
+   "sort_year": 100
+  },
+  {
    "id": "work-enchiridion",
    "title": "《手册》",
    "title_original": "Ἐγχειρίδιον（Enchiridion）",
@@ -11062,6 +11118,7 @@
     "《大正藏》第30卷；鸠摩罗什译本；梵本校勘见 de Jong；英译（Garfield, The Fundamental Wisdom of the Middle Way）"
    ],
    "related_people": [
+    "in-india-nagarjuna",
     "cn-weijin-sengzhao",
     "cn-suitang-jizang",
     "cn-suitang-xuanzang"
@@ -13159,6 +13216,7 @@
     "《大正藏》第29卷（真谛译与玄奘译）；Pradhan 梵本校订；英译（Pruden, Abhidharmakośabhāṣyam）"
    ],
    "related_people": [
+    "in-india-vasubandhu",
     "cn-nanbei-zhendi",
     "cn-suitang-xuanzang",
     "cn-suitang-jizang"
@@ -14204,6 +14262,62 @@
    "needs_verification": true,
    "pending_notes": "《正理门论》的梵本残片与汉译的对应、以及“九句因”的图示在各家研究中有不同处理；本页依汉译本与因明研究概述。",
    "sort_year": 648
+  },
+  {
+   "id": "work-slokavarttika",
+   "title": "《颂释补》",
+   "title_original": "Ślokavārttika（Kumārila Bhaṭṭa）",
+   "tradition": "india",
+   "date_display": "约7世纪（鸠摩利罗）",
+   "structure": "以颂体（śloka）逐节注释《弥曼差经注》，分“语义”“知识手段”“仪轨”诸分；分部与品次各本不同，引用须注明所据校本。",
+   "core_arguments": [
+    "**共相实有**，语词直接指向共相（反佛教的遮诠说）",
+    "**知识的有效性自足**（svataḥ prāmāṇya）：无效须被证明，有效不须",
+    "由“吠陀无作者”说明其言说无过失之源"
+   ],
+   "key_points": [
+    {
+     "locator": "语义分",
+     "point": "词与共相"
+    },
+    {
+     "locator": "知识手段分",
+     "point": "有效性的自足"
+    },
+    {
+     "locator": "仪轨分",
+     "point": "法与无作者之教"
+    },
+    {
+     "locator": "全书",
+     "point": "以颂释立说"
+    }
+   ],
+   "editions": [
+    "梵校本多种；英译选本（如 Jha 译系）可参；中译少见"
+   ],
+   "related_people": [
+    "in-india-kumarila",
+    "in-india-gautama",
+    "in-india-vasubandhu"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书只是经注，无独立学说",
+     "why": "其书虽为注释，实为**弥曼差知识论与语义学的系统建构**（共相实有、有效性自足皆于此定型），故为创造性诠释。"
+    },
+    {
+     "claim": "“吠陀无作者”是纯信仰命题",
+     "why": "其论证取“有作者则须依作者的可信赖性”这一前提，故其形式是**知识论的推论**，非单纯信仰宣告。"
+    }
+   ],
+   "sources": [
+    "sep-perception-india",
+    "sep-nagarjuna"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP 对弥曼差立场的解说转述，**未读梵本**；分部与品次各本不同，须核校本（如 Jha 译系所据本）。",
+   "sort_year": 650
   },
   {
    "id": "work-chengweishi",

@@ -218,8 +218,8 @@ def check_unit(path, src, global_ids, unit_ids):
     if uid in unit_ids:
         err(where0, "R9", "unit_id 重复：%s" % uid)
     unit_ids.add(uid)
-    if u.get("region") not in ("china", "west"):
-        err(where0, "R1", "region 必须是 china / west")
+    if u.get("region") not in ("china", "west", "india"):
+        err(where0, "R1", "region 必须是 china / west / india")
     sy, ey = u.get("start_year"), u.get("end_year")
     if not (isinstance(sy, int) and isinstance(ey, int)):
         err(where0, "R2", "start_year / end_year 必须是整数")
@@ -470,8 +470,8 @@ def check_works(src, global_ids):
                                "structure", "core_arguments", "key_points", "editions",
                                "related_people", "misreadings", "sources"],
              mins={"structure": 30, "date_display": 4})
-        if w.get("tradition") not in ("china", "west"):
-            err(where, "R17", "tradition 必须是 china / west")
+        if w.get("tradition") not in ("china", "west", "india"):
+            err(where, "R17", "tradition 必须是 china / west / india")
         for k in ("core_arguments", "key_points", "editions", "related_people", "misreadings"):
             if not isinstance(w.get(k), list) or not w.get(k):
                 err(where, "R17", "%s 必须是非空数组" % k)
@@ -544,9 +544,9 @@ def main():
     if not os.path.exists(DATA):
         print("data/ 不存在")
         return 2
+    REGIONS = ("china", "west", "india")
     files = [args.file] if args.file else sorted(
-        glob.glob(os.path.join(DATA, "china", "*.json")) +
-        glob.glob(os.path.join(DATA, "west", "*.json")))
+        sum((glob.glob(os.path.join(DATA, r, "*.json")) for r in REGIONS), []))
     global_ids, unit_ids = set(), set()
     for p in files:
         check_unit(p, src, global_ids, unit_ids)

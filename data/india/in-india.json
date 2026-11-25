@@ -1,0 +1,954 @@
+{
+ "unit_id": "in-india",
+ "region": "india",
+ "title": "印度哲学（正统六派与佛教）",
+ "period": "约前600—公元800",
+ "start_year": -600,
+ "end_year": 800,
+ "summary": "印度哲学以“解脱”为共同关切，而分歧在于：什么算是可靠的知识（量）、什么是“我”、语言能否触及实在。正统六派（正理、胜论、数论、瑜伽、弥曼差、吠檀多）与佛教、耆那教、顺世派在同一批问题上长期互辩。本单元先收四家：正理派以量与十六谛立知识论的公共语言，佛教瑜伽行与中观从“识的转变”与“破自性”两面回应，弥曼差则以共相实在论与“有效性自足”反攻。四家之争塑造了此后千年的印度哲学议程。",
+ "threads": [
+  "量之争：知觉、推断、证言何者为先",
+  "我与无我：实体之我，还是刹那相续",
+  "语言与实在：共相实有，还是唯遮诠"
+ ],
+ "philosophers": [
+  {
+   "id": "in-india-gautama",
+   "name": "乔答摩（足目）",
+   "latin": "Akṣapāda Gautama（Gautama Akṣapāda）",
+   "birth_year": 100,
+   "death_year": 200,
+   "birth_display": "约100年",
+   "death_display": "约200年",
+   "birth_note": "生平无可靠记载；传统以其为《正理经》的编纂者，学界通说置于公元 2 世纪前后。",
+   "death_note": "卒年无载；其名与“足目”（Akṣapāda）之称均属传统称号，非同时代文献可证。",
+   "era": "印度“诸派竞立”的时代：佛教、耆那教与正统六派在同一批问题上互相辩难。正理派以“量”（知识的手段）与“十六谛”的体系立说，成为此后印度知识论的公共语言；其《正理经》也是后来各家（包括佛教量论）共同的辩论对象。",
+   "school": "正理派（Nyāya）",
+   "core_questions": [
+    "知识有哪些可靠的手段（量）？",
+    "知觉在什么条件下才算知识？",
+    "辩论中什么叫“似因”、什么叫失败？"
+   ],
+   "arguments": [
+    {
+     "claim": "知觉须同时满足四条件才算知识",
+     "premises": [
+      "《正理经》1.1.4 把知觉界定为：由感官与对象接触所生、不可言说（avyapadeśya）、不错乱（avyabhicāra）、确定（vyavasāya）的认知。",
+      "若只说“由根与境相触而生”，则婴儿与疑惑中的认知也会被算作知识。"
+     ],
+     "inference": "故须以“不可言说—不错乱—确定”三重限定把知识从单纯的感官刺激里区分出来：不可言说排除语言推断的掺入，不错乱排除错觉，确定排除疑。",
+     "conclusion": "知觉是“量”之首，但其成立须有条件的限定，非一切感官经验皆是知识。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "实在论：共相实有，故语言可触及实在",
+     "premises": [
+      "正理—胜论一系主张共相（jāti）与个别者同为实有。",
+      "若共相非实有，则“牛”一词所指者只能是排斥其余（apoha），而非一个真实的共同性质。"
+     ],
+     "inference": "语言之所以能共通地指向多物，须有一个真实可指的共同项；故共相须实有。此立场使其与佛教的“遮诠”说正相对。",
+     "conclusion": "语言与概念不是遮除，而是指向实有的共相。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "十六谛构成一套“从疑惑到决了”的程序",
+     "premises": [
+      "《正理经》开列十六谛：量、所量、疑、动机、实例、宗义、支分、思择、决了、论议、诡论、坏义、似因、曲解、倒难、堕负。",
+      "其中后九谛皆关于论辩的程序与过失。"
+     ],
+     "inference": "若知识之争最终以论辩决胜，则必须先把“什么算证据、什么算失败”程序化；故其体系不止于知识论，兼为辩论的规范学。",
+     "conclusion": "正理之学既是认识论，也是论辩术（后世的“因明”由此分途）。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《正理经》（Nyāya Sūtra）",
+     "edition": "通行梵校本（如 Jacobi 1911；中译少见，可参《正理经》梵汉对勘研究）"
+    },
+    {
+     "title": "《正理经》注疏传统（Vātsyāyana《正理注》以下）",
+     "edition": "以 Vātsyāyana《Nyāya-bhāṣya》为最早完整注本；非乔答摩自作"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "早期辩论传统（弥曼差与文法家的论辩格式）",
+     "id": null,
+     "note": "十六谛中“支分”“似因”“堕负”诸项与古代辩论术同源"
+    },
+    {
+     "name": "胜论派的范畴说（后期合流）",
+     "id": null,
+     "note": "正理—胜论后来合为一系，共相实在论为其共同立场"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "佛教量论（陈那、法称）",
+     "id": "in-india-vasubandhu",
+     "note": "佛教量论以反对正理的实在论为起点，其问题与术语多半由正理设定"
+    },
+    {
+     "name": "龙树（《广破论》破其范畴）",
+     "id": "in-india-nagarjuna",
+     "note": "中观以正理的范畴为破斥对象，说明正理已成为“公敌式的标准”"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "佛教量论（陈那、法称）",
+     "view": "知觉若须“不可言说”，则一切带概念的认知皆非知觉；但日常所谓“见牛”明明已含共相，故正理的定义或过窄，或须另立“概念知觉”一级。",
+     "response": "正理一系的回应是区分“无分别知觉”与“有分别知觉”两级：前者纯由根境相触，后者以共相为所缘而仍可算知识；此即后世所谓二阶段说。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-perception-india",
+      "sep-nagarjuna"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "正理派只是“古代逻辑教科书”，与解脱无关",
+     "why": "其十六谛以“决了”为知识之成，而全部体系以离苦得解脱为归；逻辑与论辩术是手段，不是目的。"
+    },
+    {
+     "claim": "《正理经》与后来的《正理花鬘》等注疏是同一层次",
+     "why": "经是纲要式的 sūtra，注疏（bhāṣya）才是论证的展开；混读会以注疏之说当经说。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 320'><rect x='0' y='0' width='760' height='320' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>乔答摩：量—所量—疑—决了（示意）</text><rect x='40' y='70' width='200' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='140' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>根境相触</text><text x='140' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>感官与对象接触</text><rect x='285' y='70' width='200' height='52' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='385' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>三重限定</text><text x='385' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>不可言说·不错乱·确定</text><rect x='530' y='70' width='190' height='52' rx='6' fill='#d9e7f1' stroke='#1c3a5c'/><text x='625' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>决了（知识）</text><text x='625' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>疑去而断定</text><rect x='285' y='170' width='200' height='52' rx='6' fill='#e6eff7' stroke='#1c3a5c'/><text x='385' y='192' text-anchor='middle' font-size='12' fill='#1e2d3d'>十六谛</text><text x='385' y='210' text-anchor='middle' font-size='10' fill='#1e2d3d'>量至堕负的程序</text><text x='380' y='300' text-anchor='middle' font-size='11' fill='#5b7a96'>据《正理经》1.1.4 与十六谛的通行解说重构</text></svg>",
+   "svg_caption": "乔答摩：知觉的四条件与十六谛（重构示意图）",
+   "sources": [
+    "sep-perception-india",
+    "sep-nagarjuna"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Perceptual Experience and Concepts in Classical Indian Philosophy”（2010-12-02／2021-01-12）与“Nāgārjuna”转述，**未读《正理经》梵本**；生卒为学界通说之约数，非可证事实。凡标“后人解读”者，皆指其说由后世注疏与当代研究重构。",
+   "doctrine": {
+    "summary": "乔答摩以《正理经》立“量”之学：知觉是首要的知识手段，但须以“不可言说、不错乱、确定”三重限定成立；由此展开十六谛的体系，把知识论与论辩规范合为一体。其共相实在论使语言得以指向真实共同项，成为佛教“遮诠”说的主要对手。",
+    "system": [
+     {
+      "name": "量论",
+      "content": "以知觉、推断、类比、证言四量为知识的手段，知觉居首而须限定。"
+     },
+     {
+      "name": "十六谛",
+      "content": "由疑而思择而决了，并以似因、曲解、倒难、堕负规范论辩的失败样式。"
+     },
+     {
+      "name": "共相实在论",
+      "content": "共相实有，故语言与概念指向真实共同项，非仅遮除他物。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "经的时代（约2世纪）",
+      "change": "《正理经》成书，立量与十六谛的纲要。"
+     },
+     {
+      "period": "注疏时代（5—10世纪）",
+      "change": "Vātsyāyana 以下诸注展开论证，二阶段知觉说成型。"
+     },
+     {
+      "period": "新正理（12世纪后）",
+      "change": "以《正理花鬘》《思择灯》等建立严密的形式化讨论。"
+     }
+    ],
+    "reception": "正理派为印度知识论设定了公共议题：此后佛教量论、弥曼差与吠檀多皆须回应其定义与范畴；新正理的形式化技术甚至被视为前现代的逻辑学成就。"
+   },
+   "works_detail": [
+    {
+     "title": "《正理经》",
+     "year": "约2世纪",
+     "date": "五卷（adhyāya）",
+     "structure": "五卷各含两“日”（āhnika）：卷一论量与所量，卷二论疑与四量，卷三论所量与自我，卷四论知识之生与论辩，卷五论诡论与堕负。",
+     "core_thesis": "知觉须四条件方成知识；共相实有，故语言可及实在。",
+     "editions": "梵校本多种（Jacobi 1911 等）；中译少见",
+     "note": "经体极简，义理多赖注疏；引用须注明是经或注"
+    }
+   ]
+  },
+  {
+   "id": "in-india-vasubandhu",
+   "name": "世亲",
+   "latin": "Vasubandhu",
+   "birth_year": 320,
+   "death_year": 400,
+   "birth_display": "约320年",
+   "death_display": "约400年",
+   "birth_note": "约 4 世纪生于犍陀罗（一说富娄沙富罗）；其生平见于《婆薮槃豆法师传》与玄奘一系的记载，年代多属推定。",
+   "death_note": "卒年无确载；传统作 80 岁，约公元 400 年前后，属推定。",
+   "era": "笈多王朝前后的印度：说一切有部的阿毗达磨学达到体系化顶点，瑜伽行派（唯识）随之兴起。世亲处在两系之间：先学有部，后转唯识，其著作同时成为两系的经典，也因此成为正理派与弥曼差派争论的靶子。",
+   "school": "瑜伽行派（唯识）／说一切有部（早期）",
+   "core_questions": [
+    "一切法若刹那生灭，前后如何相续？",
+    "外境若不可证实，识又如何成立？",
+    "知觉中“离分别”的一级是否存在？"
+   ],
+   "arguments": [
+    {
+     "claim": "“识的转变”取代外境：唯识不是“只有心”的本体论",
+     "premises": [
+      "有部主张极微实有以解释所缘；但极微不可现见，唯由推论成立。",
+      "梦与眩翳的经验中，无外境而境相宛然，说明境相可由识的转变而成。"
+     ],
+     "inference": "若境相的生起无须外境为因，则设定一个不可见的外境是多余的；故以“识的转变”（vijñāna-pariṇāma）说明所缘，成立唯识。",
+     "conclusion": "所缘是识的转变，而非独立的外境。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "三性说：从遍计到依他再到圆成",
+     "premises": [
+      "凡夫于依他起（缘起的相续）上增益“能取／所取”的二分，此为遍计所执。",
+      "于依他起上离此二分，即圆成实。"
+     ],
+     "inference": "若所执与所依是“无”与“有”的关系，则修行不是消灭世界，而是去除增益；故三性是一件事的三个层次，非三个世界。",
+     "conclusion": "唯识的解脱论是“转依”，即去除遍计而非废除依他。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "知觉的纯粹一级（离分别）是实在的接触点",
+     "premises": [
+      "陈那承世亲之说，把知觉界定为“离分别”（kalpanāpoḍha）。",
+      "分别即概念的构造，故离分别者才是当下的、可被指认的个别。"
+     ],
+     "inference": "若概念只是构造，则实在只在离分别的刹那呈现；此立场与正理的“共相实有”直接冲突，并导向 apoha（遮诠）的语义学。",
+     "conclusion": "知觉的纯粹一级与概念的构造须分层，语义由遮除而非由实有共相而来。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《阿毗达磨俱舍论》（Abhidharmakośa）",
+     "edition": "梵本（Pradhan 校订）＋玄奘译《阿毗达磨俱舍论》；称友《疏》可参"
+    },
+    {
+     "title": "《唯识三十颂》（Triṃśikā）与《唯识二十论》（Viṃśatikā）",
+     "edition": "梵本、藏译与玄奘译并行；《成唯识论》为护法等释的糅译"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "说一切有部的阿毗达磨传统",
+     "id": null,
+     "note": "《俱舍论》先述有部之义，后以经部义评破之"
+    },
+    {
+     "name": "无著（其兄）",
+     "id": null,
+     "note": "瑜伽行派的“弥勒五论”传承经无著传出，世亲承其学"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "陈那与法称（佛教量论）",
+     "id": null,
+     "note": "承其“离分别”之说而建立量论体系"
+    },
+    {
+     "name": "正理派（作为主要论敌）",
+     "id": "in-india-gautama",
+     "note": "正理派须回应其唯识与遮诠之说，二阶段说由此逼出"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "正理派与弥曼差派",
+     "view": "若外境非实，则因果、记忆与他心皆无从安立；且“识的转变”仍须一个转变的所依，否则唯识自坏。",
+     "response": "唯识一系的回应是：因果与记忆在识的相续中成立（种子与熏习），无须外境；所依即依他起，非另一实体。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-yogacara",
+      "sep-perception-india"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "唯识就是“一切皆心，随心变现”的主观唯心论",
+     "why": "其说以“识的转变”与三性说明所缘的成立，重点在破除“外境独立实有”的设定，而非主张世界可由个人意愿改变。"
+    },
+    {
+     "claim": "《俱舍论》是世亲的唯识著作",
+     "why": "《俱舍论》属阿毗达磨的体系整理（以有部为主而评以经部），其唯识立场见于《唯识三十颂》《唯识二十论》等晚期著作。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 320'><rect x='0' y='0' width='760' height='320' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>世亲：三性与转依（示意）</text><rect x='40' y='70' width='200' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='140' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>遍计所执</text><text x='140' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>能取所取的二分</text><rect x='285' y='70' width='200' height='52' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='385' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>依他起</text><text x='385' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>缘起的相续</text><rect x='530' y='70' width='190' height='52' rx='6' fill='#d9e7f1' stroke='#1c3a5c'/><text x='625' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>圆成实</text><text x='625' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>离二分之真如</text><rect x='285' y='170' width='200' height='52' rx='6' fill='#e6eff7' stroke='#1c3a5c'/><text x='385' y='192' text-anchor='middle' font-size='12' fill='#1e2d3d'>转依</text><text x='385' y='210' text-anchor='middle' font-size='10' fill='#1e2d3d'>去增益而非废世界</text><text x='380' y='300' text-anchor='middle' font-size='11' fill='#5b7a96'>据三性说的通行解说重构</text></svg>",
+   "svg_caption": "世亲：三性与转依（重构示意图）",
+   "sources": [
+    "sep-yogacara",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Yogācāra”与“Perceptual Experience and Concepts in Classical Indian Philosophy”转述，**未读梵本原典**；生卒为推定之约数（传统作 320—400）。三性与“离分别”的表述已尽量贴合 SEP，但细节（如陈那与世亲的先后）须核专门研究。",
+   "doctrine": {
+    "summary": "世亲先以《俱舍论》整理说一切有部的阿毗达磨，后转瑜伽行派，以“识的转变”取代外境、以三性说明迷悟的结构。其“离分别”的知觉观经陈那发展为佛教量论，与正理派的共相实在论形成长期对峙；《唯识三十颂》则成为此后唯识学的共同文本。",
+    "system": [
+     {
+      "name": "识的转变",
+      "content": "所缘由识的转变而成，破“外境独立实有”的设定。"
+     },
+     {
+      "name": "三性",
+      "content": "遍计所执、依他起、圆成实：迷悟是同一依他起上的去取。"
+     },
+     {
+      "name": "离分别的知觉",
+      "content": "知觉的纯粹一级无意言构造，为实在的接触点，导向 apoha 的语义学。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "有部时期（约4世纪前半）",
+      "change": "撰《俱舍论》，整理阿毗达磨而评以经部义。"
+     },
+     {
+      "period": "唯识时期（约4世纪后半）",
+      "change": "作《唯识二十论》《唯识三十颂》，确立唯识的论证。"
+     },
+     {
+      "period": "后传",
+      "change": "陈那、法称承其学而立量论；汉传以《成唯识论》为综合。"
+     }
+    ],
+    "reception": "其《俱舍论》成为东亚与藏传佛教的教科书，《唯识三十颂》为唯识学的共同文本；其对知觉与语言的分析，是印度知识论此后数百年的争论中心之一。"
+   },
+   "works_detail": [
+    {
+     "title": "《阿毗达磨俱舍论》",
+     "year": "约4世纪",
+     "date": "九品（梵本作八品＋附论）",
+     "structure": "界品、根品、世间品、业品、随眠品、贤圣品、智品、定品，末附“破我品”。",
+     "core_thesis": "以有部义为主而评以经部，成立“刹那相续而无我”的因果说明。",
+     "editions": "Pradhan 梵校本；玄奘译《俱舍论》；称友《疏》",
+     "note": "汉传与藏传的品次略有差异，引用须注明系统"
+    }
+   ]
+  },
+  {
+   "id": "in-india-nagarjuna",
+   "name": "龙树",
+   "latin": "Nāgārjuna",
+   "birth_year": 150,
+   "death_year": 250,
+   "birth_display": "约150年",
+   "death_display": "约250年",
+   "birth_note": "约 150—250 年间活跃，主要活动于南印度（SEP 语）；其生平多属传说，可据者少。",
+   "death_note": "卒年无确载；SEP 只给出“约 150—250 CE”的活动期，具体卒年不可考。",
+   "era": "贵霜帝国前后的印度：说一切有部与大众部诸派并立，般若经类文献兴起。龙树以“中观”回应“一切法实有”与“一切法断灭”两极端，其说经传播而成为汉传、藏传佛教共同的哲学基础。",
+   "school": "中观派（Madhyamaka）",
+   "core_questions": [
+    "若一切法无自性，缘起如何成立？",
+    "“空”是否等于“无”？",
+    "二谛是两个世界，还是同一实在的两重说？"
+   ],
+   "arguments": [
+    {
+     "claim": "破自性故空：空即缘起，非虚无",
+     "premises": [
+      "自性（svabhāva）指不待他而自有、不变的本性。",
+      "凡缘起者皆待他而有，故无自性；无自性即空。"
+     ],
+     "inference": "若空是“无”，则缘起坏；故空须被理解为“离自性的缘起”。此即中观所谓“以有空义故，一切法得成”。",
+     "conclusion": "空是缘起的另一说法，故不坏因果与修行。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "四句破因果：自生、他生、共生、无因生皆不成",
+     "premises": [
+      "自生则生而更生，无穷且无义；他生则因果无关，任何因可生任何果。",
+      "共生兼有二过；无因生则一切时处皆可生。"
+     ],
+     "inference": "四句穷尽了因果的可能表述，若四者皆不成，则因果只能在“无自性”的缘起上说，而不能在“实有自性”上说。",
+     "conclusion": "因果成立，但非由自性的因生自性的果。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "二谛是“说”的两重，不是两个世界",
+     "premises": [
+      "世俗谛是世间共许的言说与行为脉络；胜义谛是于此脉络上离戏论的实相。",
+      "若二谛为两个世界，则世俗成为可废弃的幻境。"
+     ],
+     "inference": "中观不许废弃世俗：正因世俗的缘起才可说空，故二谛是同一实在的两重言说，而非两层存有。",
+     "conclusion": "不坏世俗而说胜义，是“中道”的实际含义。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "答“若一切空，则你此言亦空”",
+     "premises": [
+      "对方以“一切空”反噬：此命题若空，则不能成立。",
+      "《回诤论》的回应是指出：空并不取消言说的效用，而言说的成立正依缘起。"
+     ],
+     "inference": "若以“空”为断灭，则反噬成立；但空既即缘起，则言说虽是缘起而仍有效用，故反噬不成立。",
+     "conclusion": "空义自救：它不是否定一切，而是否定“自性”的设定。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《中论》（Mūlamadhyamakakārikā）",
+     "edition": "梵本（de La Vallée Poussin 校订）＋鸠摩罗什译《中论》；月称《明句论》可参"
+    },
+    {
+     "title": "《回诤论》（Vigrahavyāvartanī）",
+     "edition": "梵本、藏译与汉译（菩提流支译）并行"
+    },
+    {
+     "title": "《广破论》（Vaidalyaprakaraṇa）",
+     "edition": "仅存藏译；破正理派十六谛的范畴"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "般若经类文献",
+     "id": null,
+     "note": "“一切法空”的经典依据，其论证方式则为龙树所立"
+    },
+    {
+     "name": "说一切有部的阿毗达磨语境",
+     "id": null,
+     "note": "其所破的“自性”说，正是有部式的法体实有"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "中观诸派（佛护、清辨、月称）",
+     "id": null,
+     "note": "其颂文成为此后注释与争论的共同文本"
+    },
+    {
+     "name": "汉传三论宗与藏传中观",
+     "id": null,
+     "note": "“八不中道”与二谛说经此二系传播"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "正理派（其范畴为《广破论》所破）",
+     "view": "若一切皆空，则认识的手段（量）与对象皆不成立，辩论无以为继；且“空”自身若被断为究竟，则成断见。",
+     "response": "中观的回应是：量亦缘起，故不须“自性”即可有用；而空非断见，正因空才成立缘起与解脱。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-nagarjuna",
+      "sep-perception-india"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "空就是什么都没有（虚无主义）",
+     "why": "其说过处在于：空指“离自性”，而缘起的因果、修行与苦乐皆成立；若以空为无，则坏缘起，恰是其所破的“断见”。"
+    },
+    {
+     "claim": "二谛是两个世界：世俗是假，胜义是真",
+     "why": "若为两个世界，则世俗可废；其说以二谛为同一实在的两重言说，世俗的缘起正是说空的根据。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 320'><rect x='0' y='0' width='760' height='320' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>龙树：破自性而成立缘起（示意）</text><rect x='40' y='70' width='200' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='140' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>自性（svabhāva）</text><text x='140' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>不待他而自有</text><rect x='285' y='70' width='200' height='52' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='385' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>四句破</text><text x='385' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>自生·他生·共生·无因</text><rect x='530' y='70' width='190' height='52' rx='6' fill='#d9e7f1' stroke='#1c3a5c'/><text x='625' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>空（śūnyatā）</text><text x='625' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>离自性的缘起</text><rect x='285' y='170' width='200' height='52' rx='6' fill='#e6eff7' stroke='#1c3a5c'/><text x='385' y='192' text-anchor='middle' font-size='12' fill='#1e2d3d'>二谛</text><text x='385' y='210' text-anchor='middle' font-size='10' fill='#1e2d3d'>世俗与胜义的两重说</text><text x='380' y='300' text-anchor='middle' font-size='11' fill='#5b7a96'>据《中论》与 SEP 词条的解说重构</text></svg>",
+   "svg_caption": "龙树：破自性、四句与二谛（重构示意图）",
+   "sources": [
+    "sep-nagarjuna",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Nāgārjuna”（2010-02-10／2026-05-31）转述，**未读《中论》梵本逐颂核对**；生卒取 SEP 之“约 150—250”。四句与二谛的表述已尽量贴合 SEP，但各家（佛护、清辨、月称）解释不同，本页不裁定。",
+   "doctrine": {
+    "summary": "龙树以“破自性”成立“空”：空不是无，而是离自性的缘起。他以四句穷尽因果的表述而一一破之，说明因果只能在缘起上说；又以二谛说明世俗言说与胜义实相并非两个世界。其《回诤论》回应“此说亦空”的反噬，《广破论》则正面破正理派的范畴。",
+    "system": [
+     {
+      "name": "破自性",
+      "content": "自性即不待他而自有；凡缘起者无此，故空。"
+     },
+     {
+      "name": "四句破",
+      "content": "自生、他生、共生、无因生皆不成，故因果非自性因果。"
+     },
+     {
+      "name": "二谛",
+      "content": "世俗与胜义是同一实在的两重言说，非两个世界。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "根本中观（2—3世纪）",
+      "change": "《中论》立颂，确立破自性而成立缘起的路线。"
+     },
+     {
+      "period": "注释与分化（5—7世纪）",
+      "change": "佛护、清辨、月称各家注释，应成与自续之分逐渐成形。"
+     },
+     {
+      "period": "传播（7世纪后）",
+      "change": "经汉传三论与藏传中观成为东亚、藏地的主流哲学之一。"
+     }
+    ],
+    "reception": "其中观说成为大乘佛教的共同哲学基础；在印度，它迫使正理派与弥曼差派重新界定“量”与“共相”；在汉传与藏传，它成为判教与修行论的核心框架。"
+   },
+   "works_detail": [
+    {
+     "title": "《中论》",
+     "year": "约2—3世纪",
+     "date": "二十七品、约450颂",
+     "structure": "以“八不”（不生不灭、不常不断、不一不异、不来不去）开端，逐品破自性：观因缘、观去来、观六情、观五阴、观如来等。",
+     "core_thesis": "破自性故空；空即缘起，故不坏因果与解脱。",
+     "editions": "de La Vallée Poussin 梵校本；鸠摩罗什译；月称《明句论》",
+     "note": "颂数与品次各本略有差异，引用须注明底本"
+    }
+   ]
+  },
+  {
+   "id": "in-india-kumarila",
+   "name": "鸠摩利罗（童中尊）",
+   "latin": "Kumārila Bhaṭṭa",
+   "birth_year": 600,
+   "death_year": 680,
+   "birth_display": "约600年",
+   "death_display": "约680年",
+   "birth_note": "约 7 世纪人（SEP 作 c. 7th century CE）；传统以其为弥曼差派最有力的理论家，生平细节多属传说。",
+   "death_note": "卒年无确载；约 7 世纪末，属推定。",
+   "era": "后笈多时期的印度：佛教量论（陈那、法称）达于精密，弥曼差派须同时回应佛教的遮诠说与正理的共相说。鸠摩利罗的著作即在此三角争论中建立弥曼差的实在论与语义学。",
+   "school": "弥曼差派（Mīmāṃsā）",
+   "core_questions": [
+    "吠陀无言者，其知识的有效性从何而来？",
+    "语词所指的是共相还是仅遮除他物？",
+    "知识的有效性须不须外部证实？"
+   ],
+   "arguments": [
+    {
+     "claim": "共相实有，语词直接指向共相",
+     "premises": [
+      "“牛”一词能共通地用于多物，须有一个共同的所指。",
+      "若如佛教所说，词只表示“遮除非牛”（apoha），则无法说明为何此词恰遮这些而非那些。"
+     ],
+     "inference": "故须承认共相为实有，且语词与共相之间有真实的指涉关系；此即其反对遮诠说的核心。",
+     "conclusion": "语言可触及实在，共相非心的构造。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "知识的有效性自足（svataḥ prāmāṇya）",
+     "premises": [
+      "若每一知识的有效性都须另一知识证实，则无穷后退。",
+      "知识在生起时即带其有效性的根据（如感官正常、对象现前）。"
+     ],
+     "inference": "故有效性是知识生起的“自足”属性；只有在出现疑因（如错觉的条件）时才须外部检证。",
+     "conclusion": "无效须被证明，有效不须被证明 —— 此说与正理的“有效性须外证”相反。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "吠陀无作者，故其言说无过失之源",
+     "premises": [
+      "若经典有作者，则其可信赖须依作者的可信赖性。",
+      "吠陀传统上被视为无作者（apauruṣeya）。"
+     ],
+     "inference": "无作者则无欺诈与失误的可能，故其言说的有效性不待证明；此为弥曼差“法”的知识论基础。",
+     "conclusion": "仪轨与语词的知识有其独立的有效性来源。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《颂释补》（Ślokavārttika）",
+     "edition": "梵本（多种校本）；汉译少见，可参英译选本"
+    },
+    {
+     "title": "《檀多释补》（Tantravārttika）",
+     "edition": "梵本；对《弥曼差经注》的注释"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "弥曼差派的注疏传统（śabara 等）",
+     "id": null,
+     "note": "承其经注而系统化语义学与知识论"
+    },
+    {
+     "name": "正理派的辩论术",
+     "id": "in-india-gautama",
+     "note": "借其量论与论辩格式，而反其共相说的部分结论"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "后期弥曼差与吠檀多",
+     "id": null,
+     "note": "其语义学与“自足有效性”说为不二吠檀多所承"
+    },
+    {
+     "name": "佛教量论（作为主要论敌）",
+     "id": "in-india-vasubandhu",
+     "note": "法称须回应其共相实在论与自足有效性说"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "佛教量论（法称一系）",
+     "view": "共相既非可现见，亦非与个别者同一，设定它只是多余的实体化；且“有效性自足”无法解释系统性的错觉。",
+     "response": "弥曼差的回应是：共相不必现见，其为语言与推断所必需的公设；而系统性的错觉恰有疑因可指，故不害自足之说。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-perception-india",
+      "sep-nagarjuna"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "弥曼差只管祭祀仪轨，没有哲学",
+     "why": "其学派的核心工作正是知识论与语义学：量论、有效性之争、词的指涉（共相与遮诠）皆由其系统处理，鸠摩利罗是其代表。"
+    },
+    {
+     "claim": "“吠陀无作者”只是信仰，不可论证",
+     "why": "其论证取“作者则须可信赖性”这一前提，故其形式是知识论的推论，而非单纯的信仰宣告。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 320'><rect x='0' y='0' width='760' height='320' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>鸠摩利罗：共相与自足有效性（示意）</text><rect x='40' y='70' width='200' height='52' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='140' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>词—共相</text><text x='140' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>语词直接指共相</text><rect x='285' y='70' width='200' height='52' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='385' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>反遮诠</text><text x='385' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>apoha 不足以定指</text><rect x='530' y='70' width='190' height='52' rx='6' fill='#d9e7f1' stroke='#1c3a5c'/><text x='625' y='92' text-anchor='middle' font-size='12' fill='#1e2d3d'>有效性自足</text><text x='625' y='110' text-anchor='middle' font-size='10' fill='#1e2d3d'>无效须被证明</text><rect x='285' y='170' width='200' height='52' rx='6' fill='#e6eff7' stroke='#1c3a5c'/><text x='385' y='192' text-anchor='middle' font-size='12' fill='#1e2d3d'>吠陀无作者</text><text x='385' y='210' text-anchor='middle' font-size='10' fill='#1e2d3d'>故其言无过失之源</text><text x='380' y='300' text-anchor='middle' font-size='11' fill='#5b7a96'>据 SEP 词条对弥曼差立场的解说重构</text></svg>",
+   "svg_caption": "鸠摩利罗：共相实在论与自足有效性（重构示意图）",
+   "sources": [
+    "sep-perception-india",
+    "sep-nagarjuna"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Perceptual Experience and Concepts in Classical Indian Philosophy”中对弥曼差立场的解说转述，**未读《颂释补》梵本**；生卒为约数（约 7 世纪）。其与佛教、正理的具体往复文献须核专门研究。",
+   "doctrine": {
+    "summary": "鸠摩利罗以共相实在论对抗佛教的遮诠说：语词直接指向真实的共相，故语言可触及实在。他又主张知识的有效性自足、无效才须证明，并以此说明“吠陀无作者”故其言说无过失之源。其说使弥曼差从仪轨之学转为系统的知识论与语义学。",
+    "system": [
+     {
+      "name": "共相实在论",
+      "content": "共相实有，语词与共相有真实指涉，故反对 apoha。"
+     },
+     {
+      "name": "有效性自足",
+      "content": "知识生起即带其有效性的根据；无效须被证明。"
+     },
+     {
+      "name": "无作者之教",
+      "content": "吠陀无作者，故无欺诈与失误之源，其知识不待外证。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "7世纪（其人）",
+      "change": "《颂释补》系统化弥曼差的语义学与知识论。"
+     },
+     {
+      "period": "8—10世纪",
+      "change": "弥曼差与吠檀多的争论加剧，其说成为被引用与被攻击的共同资源。"
+     },
+     {
+      "period": "近世研究",
+      "change": "其语义学被置于印度语言哲学的核心位置。"
+     }
+    ],
+    "reception": "其共相实在论与自足有效性说，成为佛教量论的主要论敌之一；不二吠檀多承其语义学而改造其本体论，近世研究则多以之为印度实在论语言哲学的代表。"
+   },
+   "works_detail": [
+    {
+     "title": "《颂释补》",
+     "year": "约7世纪",
+     "date": "分部（śloka 体颂释）",
+     "structure": "以颂体逐节注释《弥曼差经注》，含“语义”“知识手段”“仪轨”诸分。",
+     "core_thesis": "共相实有故语言及于实在；知识有效性自足。",
+     "editions": "梵校本多种；英译选本",
+     "note": "分部与品次各本不同，引用须注明版本"
+    }
+   ]
+  }
+ ],
+ "concepts": [
+  {
+   "id": "in-india-pramana",
+   "term": "量",
+   "term_latin": "pramāṇa",
+   "definition": "知识的可靠手段，字面为“知识（pramā）的工具”；印度各派的分歧首先在于承认几种量、以及知觉在其中的地位。",
+   "usages": [
+    {
+     "name": "乔答摩（足目）",
+     "id": "in-india-gautama",
+     "usage": "立四量：知觉、推断、类比、证言；知觉居首但须以“不可言说、不错乱、确定”限定。"
+    },
+    {
+     "name": "鸠摩利罗（童中尊）",
+     "id": "in-india-kumarila",
+     "usage": "量之有效不自外证：知识生起即带其有效性的根据，唯无效须被证明。"
+    },
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "以“离分别”的知觉为实在的接触点，故量的讨论须先分辨概念构造与当下呈现。"
+    }
+   ],
+   "related": [
+    "in-india-pratyaksa",
+    "in-india-svabhava"
+   ],
+   "example": {
+    "text": "看见远处的烟而推知有火：知觉给出烟，推断给出火；两量相接处正是各派争论“推断能否独立成立”的地方。",
+    "figure": "烟与火（推断的典型例）"
+   },
+   "sources": [
+    "sep-perception-india",
+    "sep-nagarjuna"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“量”的数目与分类各家不同（顺世派只承认知觉，弥曼差与正理承认更多），本页只取四家交叉处。"
+  },
+  {
+   "id": "in-india-pratyaksa",
+   "term": "现量（知觉）",
+   "term_latin": "pratyakṣa",
+   "definition": "由感官与对象接触而生的认知；其是否带概念（分别）是印度知识论最核心的争论之一。",
+   "usages": [
+    {
+     "name": "乔答摩（足目）",
+     "id": "in-india-gautama",
+     "usage": "《正理经》1.1.4：由根境相触所生、不可言说、不错乱、确定者；后世分为无分别与有分别两级。"
+    },
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "承“离分别”（kalpanāpoḍha）之说：纯粹知觉无意言构造，概念另有其生起条件。"
+    },
+    {
+     "name": "鸠摩利罗（童中尊）",
+     "id": "in-india-kumarila",
+     "usage": "反对以“离分别”独占知觉之名：带共相的认知亦是对实在的把握，非纯构造。"
+    }
+   ],
+   "related": [
+    "in-india-pramana",
+    "in-india-apoha"
+   ],
+   "example": {
+    "text": "初见一头牛：若知觉纯是当下的个别，则“这是牛”已是第二级的构造；若知觉本含共相，则第一眼已知其为牛。",
+    "figure": "初见与再认（知觉与概念的边界）"
+   },
+   "sources": [
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "二阶段说（nirvikalpaka／savikalpaka）在正理一系中的定型年代须核专门研究。"
+  },
+  {
+   "id": "in-india-shunyata",
+   "term": "空性",
+   "term_latin": "śūnyatā",
+   "definition": "“离自性”之义，非“无”；中观以之说明缘起：正因无自性，因果与修行才成立。",
+   "usages": [
+    {
+     "name": "龙树",
+     "id": "in-india-nagarjuna",
+     "usage": "破自性故空；空即缘起，故不坏因果。四句破因果后，因果唯在缘起上说。"
+    },
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "以三性说“空”：遍计所执无，依他起与圆成实有；故空是去增益，非废世界。"
+    }
+   ],
+   "related": [
+    "in-india-svabhava",
+    "in-india-pramana"
+   ],
+   "example": {
+    "text": "车依轮轴等支分而设施：离诸支分无别有一“车之自性”，然车可用、可载、可修——空与缘起是一件事的两面。",
+    "figure": "车与支分（缘起的通例）"
+   },
+   "sources": [
+    "sep-nagarjuna",
+    "sep-yogacara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“空性”与“真如”“佛性”的关系在如来藏系统中另有说法，本页只取中观与瑜伽行两支。"
+  },
+  {
+   "id": "in-india-svabhava",
+   "term": "自性",
+   "term_latin": "svabhāva",
+   "definition": "不待他而自有、不变的本性；中观以之为主要破斥对象，正理—胜论则以共相等实在项与之相关。",
+   "usages": [
+    {
+     "name": "龙树",
+     "id": "in-india-nagarjuna",
+     "usage": "凡缘起者皆待他而有，故无自性；若计有自性，则因果、变化与解脱皆不可通。"
+    },
+    {
+     "name": "乔答摩（足目）",
+     "id": "in-india-gautama",
+     "usage": "以共相（jāti）为实有之共同项，故语言与概念有其真实所指（与“唯遮诠”相对）。"
+    }
+   ],
+   "related": [
+    "in-india-shunyata",
+    "in-india-apoha"
+   ],
+   "example": {
+    "text": "火之“自性”若为热且不待他，则湿柴之火亦应自燃；实待薪而燃，故火无自性而有缘起。",
+    "figure": "火与薪（待他而有的例）"
+   },
+   "sources": [
+    "sep-nagarjuna",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“自性”一词在数论（prakṛti）与胜论（dravya 等）中用法不同，本页只取中观所破之义。"
+  },
+  {
+   "id": "in-india-apoha",
+   "term": "遮诠",
+   "term_latin": "apoha",
+   "definition": "佛教量论的语义说：语词不指向实有的共相，而表示“遮除他者”（非非牛），由双重否定确定所指。",
+   "usages": [
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "承“离分别”之说，为陈那的 apoha 理论铺路：概念由遮除而成，非由实有共相而成。"
+    },
+    {
+     "name": "鸠摩利罗（童中尊）",
+     "id": "in-india-kumarila",
+     "usage": "反对遮诠：若词只表遮除，则无法说明为何此词恰遮这些而非那些，故须承认共相实有。"
+    }
+   ],
+   "related": [
+    "in-india-svabhava",
+    "in-india-pratyaksa"
+   ],
+   "example": {
+    "text": "“牛”一词若只表示“非非牛”，则何以不遮马？佛教答以“由所遮之特定集合”；弥曼差即攻此答。",
+    "figure": "牛与非牛（遮诠的边界）"
+   },
+   "sources": [
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "apoha 有陈那“上提式”与法称“下放式”两种版本，本页只述其共同骨架。"
+  },
+  {
+   "id": "in-india-anatman",
+   "term": "无我",
+   "term_latin": "anātman / anattā",
+   "definition": "破除“常一自主之我”的主张：五蕴或识的相续中并无一个不变的实体我，责任与解脱仍可成立。",
+   "usages": [
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "以刹那相续与种子熏习说明记忆与业报，无须设定常我；《俱舍论》末品专破“我”执。"
+    },
+    {
+     "name": "龙树",
+     "id": "in-india-nagarjuna",
+     "usage": "于“我”与“我所”上破自性：若我无自性，则常断二见皆离，此即中道。"
+    }
+   ],
+   "related": [
+    "in-india-shunyata",
+    "in-india-pramana"
+   ],
+   "example": {
+    "text": "记忆不须一个不变的仓库：前刹那的识灭而引生后刹那，如灯焰相续；此即“无常而无我”的说明。",
+    "figure": "灯焰相续（无常而业报成立）"
+   },
+   "sources": [
+    "sep-yogacara",
+    "sep-nagarjuna"
+   ],
+   "needs_verification": true,
+   "pending_notes": "“无我”与轮回主体的关系在部派间有细致争论（如犊子部的“不可说补特伽罗”），本页未及。"
+  }
+ ],
+ "debates": [
+  {
+   "id": "in-india-perception-concepts",
+   "title": "知觉是否带概念：无分别与有分别之争",
+   "question": "纯粹的知觉里有没有概念？",
+   "positions": [
+    {
+     "holder": "佛教量论（世亲、陈那、法称）",
+     "id": "in-india-vasubandhu",
+     "stance": "纯粹知觉离分别，概念是后起的构造",
+     "reasons": [
+      "若知觉已含共相，则错觉与正知无从区别，因为两者同样“带概念”。",
+      "概念由遮除而成（apoha），故其来源不是实在中的共同项。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "正理派（乔答摩一系）",
+     "id": "in-india-gautama",
+     "stance": "知觉可分两级，但带概念的知觉仍是知识",
+     "reasons": [
+      "《正理经》1.1.4 以“不可言说”限定知觉，已预留“无分别”一级。",
+      "若带概念的知觉全非知识，则日常的“见牛”皆成虚构，与语言与行动的可靠不合。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "弥曼差（鸠摩利罗）",
+     "id": "in-india-kumarila",
+     "stance": "共相实在，故带共相的知觉直接触及实在",
+     "reasons": [
+      "词能共通地用于多物，须有真实共同项，否则无法定指。",
+      "“有效性自足”说明：正常条件下的知觉即有效，无须先剥去概念。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "知觉的“纯粹性”是否可能，以及知识论应否从“无概念”的一级出发。",
+   "status": "未决",
+   "status_note": "此后千年的印度知识论围绕此问题展开；佛教与正理—弥曼差的分野至今仍是研究焦点，本页不裁定。",
+   "sources": [
+    "sep-perception-india",
+    "sep-nagarjuna"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三家立场的细致表述（尤其陈那与法称之别）须核专门研究；本页据 SEP 词条的分节叙述重构。"
+  },
+  {
+   "id": "in-india-language-reality",
+   "title": "语言能否触及实在：共相与遮诠之争",
+   "question": "语词所指的是实在中的共同项，还是仅遮除他物？",
+   "positions": [
+    {
+     "holder": "弥曼差与正理—胜论（鸠摩利罗、乔答摩）",
+     "id": "in-india-kumarila",
+     "stance": "共相实有，语词有真实所指",
+     "reasons": [
+      "“牛”适用于多物，须有一个共同的所指，否则语言无法学习与传授。",
+      "若只是遮除，则何以此词恰遮这些而非那些，无法说明。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "佛教量论（世亲、陈那）",
+     "id": "in-india-vasubandhu",
+     "stance": "语词唯遮诠，实在是个别者",
+     "reasons": [
+      "实在中唯有刹那的个别者（svalakṣaṇa），共相非实有。",
+      "概念的功能是把个别者排除其余而聚合，故其作用是遮，不是指实。"
+     ],
+     "kind": "后人解读"
+    },
+    {
+     "holder": "中观（龙树）",
+     "id": "in-india-nagarjuna",
+     "stance": "语言依世俗而有效，然无自性可得",
+     "reasons": [
+      "一切法无自性，故语言所指亦无自性可得。",
+      "然世俗言说仍可成立，故不须废弃语言，只须不许其“实有化”。"
+     ],
+     "kind": "后人解读"
+    }
+   ],
+   "focus": "语义学的基础：共相实在论、唯遮诠与中观的“无自性而有用”三种方案。",
+   "status": "未决",
+   "status_note": "三说各有其内部一贯性，且都对此后的语言哲学有实质影响；本页并述而不裁定。",
+   "sources": [
+    "sep-perception-india",
+    "sep-nagarjuna"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页只取三家骨架；耆那教的多视角说（anekāntavāda）与文法家的立场未及。"
+  }
+ ]
+}
