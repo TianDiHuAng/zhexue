@@ -1,17 +1,17 @@
 {
  "generated": "2026-11-26",
  "totals": {
-  "entries": 1986,
+  "entries": 1987,
   "by_level": {
    "L2": 793,
-   "L1": 1193
+   "L1": 1194
   },
   "doctrine": {
    "total": 326,
    "detail": 326,
    "auto": 0
   },
-  "needs_verification": 1193,
+  "needs_verification": 1194,
   "sources": 431,
   "sources_verified": 431
  },
@@ -138,7 +138,7 @@
    "title": "希腊化与罗马哲学",
    "region": "west",
    "philosophers": 15,
-   "concepts": 25,
+   "concepts": 26,
    "debates": 8,
    "philosophers_slot": "8 上限，余 -7"
   },
@@ -8702,6 +8702,17 @@
    "id": "gr-hellenistic-therapy",
    "type": "concept",
    "title": "哲学作为治疗",
+   "container": "gr-hellenistic",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "gr-hellenistic-world-soul",
+   "type": "concept",
+   "title": "世界灵魂",
    "container": "gr-hellenistic",
    "level": "L1",
    "sources": 2,
