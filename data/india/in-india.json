@@ -2808,6 +2808,46 @@
    "needs_verification": true,
    "pending_notes": "二谛说与“正世俗／倒世俗”之分据 SEP “Nāgārjuna”转述；与《中论》第二十四品的原文对应须核。",
    "broader": "in-india-shunyata"
+  },
+  {
+   "id": "in-india-atma-graha",
+   "term": "我执",
+   "term_latin": "ātma-grāha／ahaṃkāra",
+   "definition": "把“我”执为常一之主体的心态与见解。它与“我”不同：说“有我”是立一个概念，说“我执”是指出这个立法的病。",
+   "usages": [
+    {
+     "name": "世亲",
+     "id": "in-india-vasubandhu",
+     "usage": "我执由“萨迦耶见”而起：于五蕴上执为我、我所；故对治在观五蕴非我，而非否定“我”字的使用。"
+    },
+    {
+     "name": "龙树",
+     "id": "in-india-nagarjuna",
+     "usage": "我执与我所执皆依自性见；若于“我”上破自性，则我执无所依，常断二见亦离。"
+    },
+    {
+     "name": "商羯罗",
+     "id": "in-india-shankara",
+     "usage": "把身体、感官、心智执为“我”，即“叠加”（adhyāsa）；去此叠加则见真我，故其所破者是“执”，不是“我”。"
+    }
+   ],
+   "related": [
+    "in-india-atman",
+    "in-india-anatman",
+    "in-india-avidya"
+   ],
+   "example": {
+    "text": "同一句“这是我”，世亲说它由萨迦耶见而起（应观五蕴非我），商羯罗说它是叠加（应离身心而见真我）——两人都反对“执”，却对“我”本身判断相反。",
+    "figure": "“这是我”的两种诊断"
+   },
+   "sources": [
+    "sep-yogacara",
+    "sep-nagarjuna",
+    "sep-shankara"
+   ],
+   "needs_verification": true,
+   "pending_notes": "三家说法据 SEP “Yogācāra”“Nāgārjuna”“Śaṅkara”转述；“萨迦耶见”的部派细目与其与“我慢”的区分未及。",
+   "broader": "in-india-atman"
   }
  ],
  "debates": [
