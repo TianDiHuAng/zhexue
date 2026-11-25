@@ -41685,6 +41685,118 @@
    "sort_year": 1975
   },
   {
+   "id": "work-against-method",
+   "title": "《反对方法》",
+   "title_original": "Against Method（费耶阿本德）",
+   "tradition": "west",
+   "date_display": "1975（费耶阿本德）",
+   "structure": "以对伽利略的个案研究为主干：论证伽利略之所以胜，靠的是**宣传、修辞与特设的权宜**，而非“符合方法”的推理。故其结论不是“无方法”，而是“**唯一的方法论规则是：怎么都行**”。",
+   "core_arguments": [
+    "**反归纳**：新理论往往与既有观察证据不一致，故须以反归纳推进",
+    "**伽利略个案**：其胜利有赖修辞与说服，非方法之必然",
+    "**理论多元论**：多套理论并存，才使反驳与发现可能"
+   ],
+   "key_points": [
+    {
+     "locator": "第一部分",
+     "point": "科学与方法的神话"
+    },
+    {
+     "locator": "伽利略个案",
+     "point": "修辞与说服"
+    },
+    {
+     "locator": "第二部分",
+     "point": "反归纳与多元论"
+    },
+    {
+     "locator": "结论",
+     "point": "怎么都行之义"
+    }
+   ],
+   "editions": [
+    "英文本（1975 初版、1988 修订）；中译有（上海译文等）"
+   ],
+   "related_people": [
+    "gr-contemp-feyerabend",
+    "gr-20c-kuhn",
+    "gr-20c-popper"
+   ],
+   "misreadings": [
+    {
+     "claim": "“怎么都行”＝什么都一样好",
+     "why": "其义是**没有一条普遍的方法规则**可裁定研究；故为对“方法论霸权”的否定，非价值上的相对主义。"
+    },
+    {
+     "claim": "其书是反科学的",
+     "why": "其所反者是**科学主义**（以科学为唯一合理之知）与**方法的神话**；其书亦以科学史为论证材料。"
+    }
+   ],
+   "sources": [
+    "sep-feyerabend",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Paul Feyerabend”转述，**未读原书**；1975／1988 两版差异与其与拉卡托斯的往复须核。",
+   "sort_year": 1975
+  },
+  {
+   "id": "work-lacan-seminaire",
+   "title": "《讲座》（研讨班）",
+   "title_original": "Le Séminaire（拉康）",
+   "tradition": "west",
+   "date_display": "1953—1980（逐年一题）",
+   "structure": "二十余年的年度研讨记录：每年一题（如《弗洛伊德的技术性著作》《精神分析的四个基本概念》《再来一次》），以**口头讲授**为主，故体例为讲稿，非成体系的论著。",
+   "core_arguments": [
+    "**回到弗洛伊德**：以语言学（能指／所指）重读弗洛伊德",
+    "**无意识如语言般结构**：能指链条决定主体之位",
+    "**三界（想象·象征·实在）**：以结构说主体之构成"
+   ],
+   "key_points": [
+    {
+     "locator": "1950年代",
+     "point": "回到弗洛伊德与技术性著作"
+    },
+    {
+     "locator": "1964",
+     "point": "四个基本概念"
+    },
+    {
+     "locator": "1970年代",
+     "point": "能指与主体"
+    },
+    {
+     "locator": "末数年",
+     "point": "波罗米结与“圣状”"
+    }
+   ],
+   "editions": [
+    "法文本（Seuil）逐年刊行；英译多卷；**中译不全**"
+   ],
+   "related_people": [
+    "gr-20c-lacan",
+    "gr-20c-husserl",
+    "gr-20c-ricoeur"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“弗洛伊德的注疏”",
+     "why": "其书以**结构语言学重写**弗洛伊德，非注疏；故其术语（能指、大他者）为弗氏所无。"
+    },
+    {
+     "claim": "研讨班＝成体系的著作",
+     "why": "其为**口头讲授的记录**，逐年变动、自我修正；引用须标年份与讲次。"
+    }
+   ],
+   "sources": [
+    "sep-lacan",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Jacques Lacan”转述，**未读法文本**；各卷的年份与讲次须核 Seuil 版；末数年的“圣状”之说尤须核。",
+   "sort_year": 1975
+  },
+  {
    "id": "work-history-sexuality",
    "title": "《性史》第一卷",
    "title_original": "Histoire de la sexualité I: La volonté de savoir",

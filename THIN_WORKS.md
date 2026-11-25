@@ -4,7 +4,7 @@
 用途：`GAPS_WORKS` 归零后（第 287 轮）的**下一层缺口**——从「有无」转到「厚薄」。
 重生成：`python tools/thincheck.py`（每次改动作著关联后应重跑）。
 
-当前合计：**49 人**（0 部 0 ｜ 1 部 49）
+当前合计：**46 人**（0 部 0 ｜ 1 部 46）
 
 ## cn-lianghan
 - 刘安（`cn-lianghan-liu-an`）—— 1 部
@@ -44,8 +44,6 @@
 
 ## gr-20c
 - 卢卡奇（`gr-20c-lukacs`）—— 1 部
-- 库恩（`gr-20c-kuhn`）—— 1 部
-- 拉康（`gr-20c-lacan`）—— 1 部
 - 朱迪斯·巴特勒（`gr-20c-butler`）—— 1 部
 - 马克斯·舍勒（`gr-20c-scheler`）—— 1 部
 
@@ -54,9 +52,6 @@
 - 留基伯（`gr-ancient-leucippus`）—— 1 部
 - 第欧根尼（西诺佩的）（`gr-ancient-diogenes-sinope`）—— 1 部
 - 色诺芬尼（`gr-ancient-xenophanes`）—— 1 部
-
-## gr-contemp
-- 费耶阿本德（`gr-contemp-feyerabend`）—— 1 部
 
 ## gr-hellenistic
 - 克律西波（`gr-hellenistic-chrysippus`）—— 1 部
