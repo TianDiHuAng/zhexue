@@ -9892,6 +9892,27 @@
     "keyword": "First published Mon Sep 6, 2004",
     "keyword_seen": true
    }
+  },
+  {
+   "id": "sep-dharmakirti",
+   "title": "Dharmakīrti（SEP）",
+   "author": "Tom Tillemans",
+   "year": 2026,
+   "year_note": "首次发布 2011-08-19；2026-04-07 实质修订",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "type": "百科",
+   "url": "https://plato.stanford.edu/entries/dharmakiirti/",
+   "link_ok": true,
+   "verified": true,
+   "note": "2026-11-26 实开核验（HTTP 200）：载《正理滴论》为法称七部之一、《因三相》三支为 pakṣadharmatva／anvayavyāpti／vyatirekavyāpti；为他比量为**二支**（结论不陈）；法称年代有 6 世纪与 7 世纪两说（Frauwallner 600—660；Balcerowicz 550—610）",
+   "verify": {
+    "method": "web_fetch",
+    "http_status": 200,
+    "checked_at": "2026-11-26",
+    "keyword": "Nyāyabindu",
+    "keyword_seen": true
+   },
+   "n": 1
   }
  ]
 }

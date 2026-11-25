@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-26",
  "totals": {
-  "entries": 1987,
+  "entries": 1989,
   "by_level": {
    "L2": 793,
-   "L1": 1194
+   "L1": 1196
   },
   "doctrine": {
    "total": 326,
    "detail": 326,
    "auto": 0
   },
-  "needs_verification": 1194,
-  "sources": 431,
-  "sources_verified": 431
+  "needs_verification": 1196,
+  "sources": 432,
+  "sources_verified": 432
  },
  "units": [
   {
@@ -21473,6 +21473,28 @@
    "id": "cmp-ritual-li",
    "type": "comparative",
    "title": "“礼节”与“礼”：礼貌是形式，还是实质？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-honor-ming",
+   "type": "comparative",
+   "title": "“荣誉”与“名”：好名声值得追求吗？",
+   "container": "comparative",
+   "level": "L1",
+   "sources": 4,
+   "verified_sources": 4,
+   "needs_verification": true,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "cmp-invention-zuo",
+   "type": "comparative",
+   "title": "“发明”与“作”：新东西从哪来？",
    "container": "comparative",
    "level": "L1",
    "sources": 4,

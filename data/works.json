@@ -15456,17 +15456,18 @@
    "title": "《正理滴论》",
    "title_original": "Nyāyabindu（法称）",
    "tradition": "india",
-   "date_display": "约7世纪（法称）",
+   "date_display": "约6—7世纪（法称；年代有异说）",
    "structure": "极短之论：以“**现量**”“**为自比量**”“**为他比量**”三分统摄量论，末及似因。其体例是**纲要式的量论**（故后世有法上《疏》），非详论。",
    "core_arguments": [
-    "**量唯二**：现量与比量；声量等归入比量或非量",
-    "**因三相**：宗法性·同品定有·异品遍无（承陈那而严之）",
-    "**自证与自相**：现量离分别，故不带概念"
+    "**量唯二**：现量与比量；声量等不列为独立的量",
+    "**因三相**：pakṣadharmatva（宗法性）·anvayavyāpti（同品遍有）·vyatirekavyāpti（异品遍无）",
+    "**为他比量是二支**：只陈“同品遍有＋宗法性”，**结论不陈**（陈论即成过）",
+    "**现量离分别**：现量不带概念构造，故其所对是自相"
    ],
    "key_points": [
     {
      "locator": "现量品",
-     "point": "离分别"
+     "point": "离分别与自相"
     },
     {
      "locator": "为自比量品",
@@ -15474,15 +15475,15 @@
     },
     {
      "locator": "为他比量品",
-     "point": "论式与似因"
+     "point": "二支论式；结论不陈"
     },
     {
      "locator": "全书",
-     "point": "纲要式量论"
+     "point": "纲要式量论（法上为之作疏）"
     }
    ],
    "editions": [
-    "梵本存（与法上《疏》合刊）；藏译存；**中译无**"
+    "梵本存（与法上《疏》合刊）；藏译存；英译见 Stcherbatsky《Buddhist Logic》(1930/32)；**中译无**"
    ],
    "related_people": [
     "in-india-dharmakirti",
@@ -15495,17 +15496,18 @@
      "why": "其书**极短**，为纲要；细节须依法上《正理滴论疏》读。故不可当详论。"
     },
     {
-     "claim": "法称的量论＝陈那的复述",
-     "why": "其在**因三相的严格化**与“自相／共相”的判分上有所推进；故为承继而**有改**。"
+     "claim": "其论式与亚里士多德三段论同构",
+     "why": "为他比量是**二支**且**结论不陈**（陈论反成“堕负”）；三段论必有结论。故二者形态与背后的逻辑哲学皆不同（SEP 明言）。"
     }
    ],
    "sources": [
-    "sep-logic-india",
-    "sep-yogacara"
+    "sep-dharmakirti",
+    "sep-logic-india"
    ],
    "needs_verification": true,
-   "pending_notes": "本页据 SEP “Logic in Classical Indian Philosophy”转述，**未读梵本**；三分品目与法上疏的对应须核。",
-   "sort_year": 650
+   "pending_notes": "已核（第419轮，据 sep-dharmakirti）：七部之一；因三相名目；为他比量为二支且不陈结论；年代异说（Frauwallner 600—660／Balcerowicz 550—610）。仍待核：梵本与法上疏的对读未做。",
+   "sort_year": 650,
+   "date_note": "法称年代学界有 6 世纪与 7 世纪两说：Frauwallner 主张 600—660，Balcerowicz 主张 550—610，Krasser 亦倾向 6 世纪中期（据 SEP “Dharmakīrti”）。"
   },
   {
    "id": "work-wujing-zhengyi",
