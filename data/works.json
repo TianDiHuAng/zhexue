@@ -12029,6 +12029,7 @@
     "中译参《伪狄奥尼修斯文集》（若有）；希腊原文见 Migne PG 3；英译见 CWS 版"
    ],
    "related_people": [
+    "gr-medieval-pseudo-dionysius",
     "gr-medieval-aquinas",
     "gr-modern-cusanus"
    ],
@@ -12049,6 +12050,62 @@
    ],
    "needs_verification": true,
    "pending_notes": "《神秘神学》作者的托名问题（今通认为5—6世纪叙利亚修士）与希腊原文的版本须核；中译本情况待查，本页依中世纪哲学史与英译概述。",
+   "sort_year": 500
+  },
+  {
+   "id": "work-divine-names",
+   "title": "《论神名》",
+   "title_original": "De Divinis Nominibus（托名狄奥尼修斯）",
+   "tradition": "west",
+   "date_display": "约5世纪末（托名狄奥尼修斯）",
+   "structure": "十三章：首三章为方法论（神名的知与不知、差别与统一、祈祷之必要）；第四章论“善”及其同盟之名；五六七章论“存在—生命—智性”三元；八至十三章论权能、同异、静动、时间、和平、治理、完美与一。",
+   "core_arguments": [
+    "以**超越前缀**（hyper-）称神：“超善”“超存在”“超生命”",
+    "神名取于受造界，故**一切肯定皆须继以否定**",
+    "以“善”为最先之名，其同盟为光、美、爱与“妒”"
+   ],
+   "key_points": [
+    {
+     "locator": "第四至七章",
+     "point": "善与三元"
+    },
+    {
+     "locator": "第八章",
+     "point": "权能与义"
+    },
+    {
+     "locator": "第九章",
+     "point": "同异·静动"
+    },
+    {
+     "locator": "第十三章",
+     "point": "完美与一"
+    }
+   ],
+   "editions": [
+    "Suchla 1990（Corpus Dionysiacum I）；Luibheid & Rorem 1987 英译"
+   ],
+   "related_people": [
+    "gr-medieval-pseudo-dionysius",
+    "gr-medieval-aquinas",
+    "gr-hellenistic-proclus"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是使徒门人的著作",
+     "why": "今考其写作在 485 年（普罗克洛卒）之后、518—528 年间已被征引；故为**托名**之作，非使徒时代文献。"
+    },
+    {
+     "claim": "“善”之名只是道德称赞",
+     "why": "其“善”是流溢的起点（bonum est diffusivum sui）：万有由善而出、向善而返；故其为**形而上学的第一原理**，非道德评价。"
+    }
+   ],
+   "sources": [
+    "sep-pseudo-dionysius",
+    "sep-aquinas"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Pseudo-Dionysius the Areopagite”转述，**未读希腊文本**；十三章的分章与 PG 3 的栏码须核 Suchla 校本。",
    "sort_year": 500
   },
   {

@@ -3798,6 +3798,190 @@
      "note": "约862—867 年"
     }
    ]
+  },
+  {
+   "id": "gr-medieval-pseudo-dionysius",
+   "name": "伪狄奥尼修斯",
+   "latin": "Pseudo-Dionysius Areopagita",
+   "birth_year": 485,
+   "death_year": 520,
+   "birth_display": "约485年",
+   "death_display": "约520年",
+   "birth_note": "其人不详：托名使徒保罗所化的雅典法官狄奥尼修斯；今考其写作在 485—518／528 之间，或为普罗克洛之门人。",
+   "death_note": "卒年无载；只能据其著作的引用关系推在 520 年前后，属推定。",
+   "era": "五、六世纪之交的地中海世界：雅典的普罗克洛刚逝（485），基督教神学须与新柏拉图主义作最后的综合；同时一性论之争与基督论的争辩正烈。托名狄奥尼修斯以“使徒门人”的身份，把普罗克洛的等级与流溢结构整体移入基督教，遂成为此后千年（尤其西方）神秘神学与天使学的共同话语。",
+   "school": "基督教新柏拉图主义（托名作者）",
+   "core_questions": [
+    "人可以用什么名字称说上帝？",
+    "否定与肯定，哪一条路更近于神？",
+    "宇宙与教会的等级（hierarchy）有何意义？"
+   ],
+   "arguments": [
+    {
+     "claim": "肯定之路须以否定收束：一切神名皆非其自体",
+     "premises": [
+      "神名（善、存在、生命、智慧）取于受造界，故其意义受限于受造界。",
+      "上帝超越其所与之名：“超善”“超存在”“超生命”方为其名。所以"
+     ],
+     "inference": "故一切肯定皆须继以否定：否定不是剥夺（privation），而是说上帝既超于“生”亦超于“无生”；层层否定之后，连“神”“善”亦须舍去，归于沉默。",
+     "conclusion": "神学最终是“神秘”的：在不知中知，在沉默中言。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "“不似的相似”优先于庄重的名",
+     "premises": [
+      "若以“金”“光”等尊贵之名称神，人易以为已把握其义。",
+      "若以“醉”“睡”等粗陋之名，人则不得不越过字面以求其理。"
+     ],
+     "inference": "故符号神学的妙处正在于“不似的相似”：字面越不称，越能逼人上升。此即其解经的方法，也是其为何偏爱《诗篇》中“主如醉醒的勇士”一类经文。",
+     "conclusion": "象征不是装饰，而是引人上升的必要阶梯。",
+     "kind": "后人解读"
+    },
+    {
+     "claim": "等级是“受造界向神上升的次序”，而非权力的层叠",
+     "premises": [
+      "天上九品天使、地上教会的圣职与礼仪，皆为同一秩序的不同层级。",
+      "每一层级皆从上层受光，再向下传递。"
+     ],
+     "inference": "故“hierarchy”的原义是“神圣的次序”：其功能是净化、光照、成全（purification—illumination—perfection），非统治。教会阶序之所以必要，是因为多数人须由可见者上升至不可见者。",
+     "conclusion": "礼仪与阶序有认识论的功能：它们是给人的阶梯。",
+     "kind": "后人解读"
+    }
+   ],
+   "works": [
+    {
+     "title": "《论神名》（De Divinis Nominibus）",
+     "edition": "校订本：Suchla 1990（Corpus Dionysiacum I）；英译 Luibheid & Rorem 1987"
+    },
+    {
+     "title": "《神秘神学》（De Mystica Theologia）",
+     "edition": "校订本：Heil & Ritter 1991；英译同上；中译有《神秘神学》（包利民译）"
+    },
+    {
+     "title": "《天阶体系》与《教会阶体系》",
+     "edition": "校订本同上；二者合为“象征神学”的主干"
+    }
+   ],
+   "influenced_by": [
+    {
+     "name": "普罗克洛",
+     "id": null,
+     "note": "其等级、流溢与否定神学之结构多取自普罗克洛；故其人当在普罗克洛之后（其人在另一单元，故不链 id）",
+     "relation": "承继"
+    },
+    {
+     "name": "尼撒的格列高利与卡帕多西亚诸教父",
+     "id": null,
+     "note": "基督教柏拉图主义的直接前身"
+    },
+    {
+     "name": "狄奥尼修斯（使徒行传所载）",
+     "id": null,
+     "note": "其托名所依；今已公认非其人"
+    }
+   ],
+   "influenced": [
+    {
+     "name": "爱留根纳",
+     "id": "gr-medieval-eriugena",
+     "note": "862 年重译其全集，并承其说入己著",
+     "relation": "承继"
+    },
+    {
+     "name": "阿奎那",
+     "id": "gr-medieval-aquinas",
+     "note": "注《论神名》；其“流溢—回归”结构见于《神学大全》",
+     "relation": "承继"
+    },
+    {
+     "name": "波拿文都拉",
+     "id": "gr-medieval-bonaventure",
+     "note": "方济各会传统以其神秘神学为宗",
+     "relation": "承继"
+    },
+    {
+     "name": "埃克哈特与莱茵兰神秘主义",
+     "id": null,
+     "note": "14 世纪德语神秘主义的共同源头"
+    }
+   ],
+   "criticisms": [
+    {
+     "critic": "后世考证（瓦拉 1457、格罗津 1501 以下）",
+     "view": "其书托名使徒门人，实出五、六世纪；托名一旦被揭破，其“使徒权威”即不成立。",
+     "response": "研究者的回应分两路：一说托名是当时修辞惯例（declamatio），不以之为欺；一说其价值本在其思想的综合，与作者为谁无涉。本页并述而不裁定。",
+     "kind": "后人解读",
+     "sources": [
+      "sep-pseudo-dionysius",
+      "sep-mysticism"
+     ]
+    }
+   ],
+   "misconceptions": [
+    {
+     "claim": "他真是使徒保罗所化的那位雅典法官",
+     "why": "1457 年瓦拉（Valla）已疑之，今学界公认其写作在 485 年之后（普罗克洛卒年）、518—528 年间已被征引；故“使徒门人”是**托名**，非史实。"
+    },
+    {
+     "claim": "“神秘神学”指私人的神秘体验",
+     "why": "其“mystical”本义是“隐藏的”，指否定神学所言的那条道路，非指个人的出神体验；故不可按现代意义的“神秘主义”去读。"
+    },
+    {
+     "claim": "“等级”（hierarchy）即教会的权力层叠",
+     "why": "其原义是“神圣的次序”，功能是净化—光照—成全，即**把受造者逐级引向神**；以权力层级去读，会失其认识论的意义。"
+    }
+   ],
+   "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 320'><rect x='0' y='0' width='760' height='320' fill='#f0f5fa'/><text x='380' y='30' text-anchor='middle' font-size='18' fill='#1c3a5c'>伪狄奥尼修斯：肯定—否定—神秘的三段（示意）</text><rect x='40' y='70' width='210' height='60' rx='6' fill='#dbe8f3' stroke='#1c3a5c'/><text x='145' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>肯定神学</text><text x='145' y='114' text-anchor='middle' font-size='10' fill='#1e2d3d'>神名：善·存在·生命</text><rect x='275' y='70' width='210' height='60' rx='6' fill='#dce8f4' stroke='#1c3a5c'/><text x='380' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>象征神学</text><text x='380' y='114' text-anchor='middle' font-size='10' fill='#1e2d3d'>不似的相似（醉·睡）</text><rect x='510' y='70' width='210' height='60' rx='6' fill='#d9e7f1' stroke='#1c3a5c'/><text x='615' y='94' text-anchor='middle' font-size='12' fill='#1e2d3d'>神秘神学</text><text x='615' y='114' text-anchor='middle' font-size='10' fill='#1e2d3d'>否定一切名，归于沉默</text><rect x='150' y='176' width='460' height='66' rx='6' fill='#e6eff7' stroke='#5b8db8'/><text x='380' y='200' text-anchor='middle' font-size='12' fill='#1e2d3d'>等级（hierarchy）：由天使到教会，逐级上升</text><text x='380' y='222' text-anchor='middle' font-size='10' fill='#1e2d3d'>净化—光照—成全的三段，贯穿天上与地上的阶序</text><text x='380' y='300' text-anchor='middle' font-size='11' fill='#5b7a96'>据 SEP “Pseudo-Dionysius the Areopagite”（2004／2023）重构</text></svg>",
+   "svg_caption": "伪狄奥尼修斯：肯定—象征—否定的三段（重构示意图）",
+   "sources": [
+    "sep-pseudo-dionysius",
+    "sep-plotinus"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Pseudo-Dionysius the Areopagite”（2004-09-06／2023-06-05）转述，**未读其希腊文本**；生卒为推定（写作期 485—518/528），非可考事实。《论神名》《神秘神学》的中译（包利民译）未及核对。",
+   "doctrine": {
+    "summary": "伪狄奥尼修斯把普罗克洛的流溢与等级结构整体移入基督教：以肯定神学称说神名，以象征神学借“不似的相似”引人上升，最终以否定神学舍去一切名而归于沉默。其“等级”（hierarchy）不是权力层叠，而是净化—光照—成全的次序，使天上与地上的阶序成为人上升的阶梯。",
+    "system": [
+     {
+      "name": "肯定与否定",
+      "content": "神名取于受造界，故须继以否定；否定非剥夺，而是“超于两者”。"
+     },
+     {
+      "name": "不似的相似",
+      "content": "字面越不称，越能逼人越过字面而上升；故偏爱粗陋之名。"
+     },
+     {
+      "name": "等级",
+      "content": "神圣的次序：净化—光照—成全，贯穿天使与教会两级。"
+     }
+    ],
+    "phases": [
+     {
+      "period": "485—520 前后（其人）",
+      "change": "以托名之身写出四部著作与十通书信，综合新柏拉图主义与基督教。"
+     },
+     {
+      "period": "6 世纪",
+      "change": "约翰·司奇托波利斯作《注疏》，马克西姆忏悔者为之辩护。"
+     },
+     {
+      "period": "9 世纪以后（西方）",
+      "change": "827 年希腊本入法兰克宫廷，862 年爱留根纳译；此后阿奎那、波拿文都拉、埃克哈特皆承其说。"
+     }
+    ],
+    "reception": "其说成为中世纪神秘神学与天使学的共同话语：阿奎那注《论神名》，但丁的《神曲》承其九品天使，埃克哈特与《不知之云》承其否定之路；近世德里达与马里翁亦以之为否定神学的关键文本。"
+   },
+   "works_detail": [
+    {
+     "title": "《论神名》",
+     "year": "约 5 世纪末",
+     "date": "十三章",
+     "structure": "首三章为方法论（神名如何知与不知神、差别与统一、祈祷之必要）；第四章论“善”及其同盟之名（光、美、爱、妒）；五六七章论“存在—生命—智性”的新柏拉图三元；八至十三章论权能、同异、静动、时间、和平、治理、完美与一。",
+     "core_thesis": "一切神名皆须以否定收束；上帝超于其所与之名。",
+     "editions": "Suchla 1990（Corpus Dionysiacum I）；Luibheid & Rorem 1987 英译",
+     "note": "引其章节须注明 PG 3 的栏码（如 1033C 之类）"
+    }
+   ]
   }
  ],
  "concepts": [
@@ -4445,6 +4629,11 @@
     {
      "name": "库萨的尼古拉（承之）",
      "usage": "以“有学问的无知”发展之：知自己的不知即是最高的知。"
+    },
+    {
+     "name": "伪狄奥尼修斯",
+     "id": "gr-medieval-pseudo-dionysius",
+     "usage": "否定神学的定型者：一切神名皆须否定，且否定非剥夺而谓神“超于生与无生”；层层否定之后归于沉默，故神学终为“神秘的”。"
     }
    ],
    "related": [

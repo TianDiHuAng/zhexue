@@ -9870,6 +9870,28 @@
     "keyword": "Rāmānuja (c. 1017 – c. 1137)",
     "keyword_seen": true
    }
+  },
+  {
+   "id": "sep-pseudo-dionysius",
+   "title": "Pseudo-Dionysius the Areopagite（SEP 词条）",
+   "author": "Corrigan, Kevin & Harrington, L. Michael",
+   "year": 2004,
+   "year_note": "首版 2004-09-06；实质修订 2023-06-05（见页面）",
+   "publisher": "Stanford Encyclopedia of Philosophy（斯坦福大学）",
+   "type": "百科",
+   "url": "https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/",
+   "url2": null,
+   "link_ok": true,
+   "verified": true,
+   "note": "托名狄奥尼修斯专条：其托名之性质与成书年代（485—518/528 之间）、四部著作与十通书信、肯定神学与否定神学的结构、“不似的相似”、等级（hierarchy）说，以及其对爱留根纳、阿奎那、埃克哈特以降的影响",
+   "unit_hint": "gr-medieval",
+   "verify": {
+    "method": "http-page+citation_meta",
+    "http_status": 200,
+    "checked_at": "2026-11-25",
+    "keyword": "First published Mon Sep 6, 2004",
+    "keyword_seen": true
+   }
   }
  ]
 }

@@ -1,19 +1,19 @@
 {
  "generated": "2026-11-25",
  "totals": {
-  "entries": 1856,
+  "entries": 1858,
   "by_level": {
    "L2": 793,
-   "L1": 1063
+   "L1": 1065
   },
   "doctrine": {
-   "total": 320,
-   "detail": 320,
+   "total": 321,
+   "detail": 321,
    "auto": 0
   },
-  "needs_verification": 1063,
-  "sources": 430,
-  "sources_verified": 430
+  "needs_verification": 1065,
+  "sources": 431,
+  "sources_verified": 431
  },
  "units": [
   {
@@ -146,10 +146,10 @@
    "unit_id": "gr-medieval",
    "title": "中世纪经院哲学",
    "region": "west",
-   "philosophers": 23,
+   "philosophers": 24,
    "concepts": 30,
    "debates": 8,
-   "philosophers_slot": "8 上限，余 -15"
+   "philosophers_slot": "8 上限，余 -16"
   },
   {
    "unit_id": "gr-modern",
@@ -8710,6 +8710,17 @@
    "updated": "2026-11-25"
   },
   {
+   "id": "gr-medieval-pseudo-dionysius",
+   "type": "philosopher",
+   "title": "伪狄奥尼修斯",
+   "container": "gr-medieval",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
    "id": "gr-medieval-faith-reason",
    "type": "concept",
    "title": "信仰与理性",
@@ -12248,6 +12259,17 @@
    "level": "L1",
    "sources": 3,
    "verified_sources": 3,
+   "needs_verification": true,
+   "updated": "2026-11-25"
+  },
+  {
+   "id": "work-divine-names",
+   "type": "work",
+   "title": "《论神名》",
+   "container": "west",
+   "level": "L1",
+   "sources": 2,
+   "verified_sources": 2,
    "needs_verification": true,
    "updated": "2026-11-25"
   },
