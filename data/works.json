@@ -10907,6 +10907,62 @@
    "sort_year": 350
   },
   {
+   "id": "work-abhidharmasamuccaya",
+   "title": "《显扬圣教论》",
+   "title_original": "Abhidharmasamuccaya（无著）",
+   "tradition": "india",
+   "date_display": "约4世纪（无著）",
+   "structure": "以“**摄事**”与“**摄义**”两分统摄大乘教义：先列诸法之事（蕴、处、界等），再以义门（真实、谛、乘等）条贯之。故其体例是**阿毗达磨式的纲要**。",
+   "core_arguments": [
+    "**以事摄法**：蕴处界等为事，义门为理",
+    "**大乘与小乘共法**：先列共许之法，再显大乘之不共",
+    "**三性为纲**：遍计、依他、圆成贯串全书"
+   ],
+   "key_points": [
+    {
+     "locator": "摄事分",
+     "point": "蕴处界诸法"
+    },
+    {
+     "locator": "摄义分",
+     "point": "真实与谛"
+    },
+    {
+     "locator": "论三性",
+     "point": "遍计与圆成"
+    },
+    {
+     "locator": "全书",
+     "point": "阿毗达磨式纲要"
+    }
+   ],
+   "editions": [
+    "梵本残、藏译存；汉译（玄奘译）存；**中译即汉译**"
+   ],
+   "related_people": [
+    "in-india-asanga",
+    "in-india-vasubandhu",
+    "in-india-nagarjuna"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书与《摄大乘论》同书异名",
+     "why": "二者是**两部不同的书**：《摄大乘论》立“十种殊胜”以显大乘为“阿赖耶识”之说；《显扬圣教论》则以事义两分条贯诸法。故不可混。"
+    },
+    {
+     "claim": "其书是纯唯识著作",
+     "why": "其书先列**大小乘共许**之法（蕴处界），再显大乘义；故其范围较唯识一系更宽。"
+    }
+   ],
+   "sources": [
+    "sep-yogacara",
+    "sep-perception-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Yogācāra”转述，**未读梵本与玄奘译**；摄事／摄义两分的细目须核。",
+   "sort_year": 350
+  },
+  {
    "id": "work-vimsatika",
    "title": "《唯识二十论》",
    "title_original": "Viṃśatikā（Vasubandhu）",
@@ -13450,6 +13506,62 @@
    ],
    "needs_verification": true,
    "pending_notes": "《略论安乐净土义》的作者归属有异说；本页只述其内容与教理位置，不裁定作者。文本须核《大正藏》第47卷。",
+   "sort_year": 520
+  },
+  {
+   "id": "work-alambanapariksa",
+   "title": "《观所缘缘论》",
+   "title_original": "Ālambanaparīkṣā（陈那）",
+   "tradition": "india",
+   "date_display": "约5—6世纪（陈那）",
+   "structure": "短论：以“**所缘缘**”（认识的对象条件）为所观，破“极微”与“和集”二说，而立“**内识所变之相**”为所缘。故其体例是**专门问题的破立之作**。",
+   "core_arguments": [
+    "**极微非所缘**：极微非可感知，故不能为所缘缘",
+    "**和集亦非**：和集若为实有，则其部分仍须可感",
+    "**内境为所缘**：所缘是识自身所变之相，故成“唯识”的知识论基础"
+   ],
+   "key_points": [
+    {
+     "locator": "破极微",
+     "point": "极微非可感"
+    },
+    {
+     "locator": "破和集",
+     "point": "和集亦非"
+    },
+    {
+     "locator": "立内境",
+     "point": "识变之相为所缘"
+    },
+    {
+     "locator": "全书",
+     "point": "专门问题的破立"
+    }
+   ],
+   "editions": [
+    "梵本残、藏译存；汉译（玄奘译）存；英译有；**中译即汉译**"
+   ],
+   "related_people": [
+    "in-india-dignaga",
+    "in-india-vasubandhu",
+    "in-india-dharmakirti"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“知觉的心理学”",
+     "why": "其书是**知识论（量论）的专门论证**：辨“所缘缘”成立与否；故不可读作心理描述。"
+    },
+    {
+     "claim": "“唯识”在此书即“无外境”",
+     "why": "其结论是**所缘非外而内**（识变之相），其论证限于“所缘缘”一义；推广为“无外境”是**进一步的推论**，须与《二十论》合看。"
+    }
+   ],
+   "sources": [
+    "sep-perception-india",
+    "sep-logic-india"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP “Perceptual Experience…”与“Logic in Classical Indian Philosophy”转述，**未读梵本与玄奘译**；颂数与论证次第须核。",
    "sort_year": 520
   },
   {
