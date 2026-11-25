@@ -14308,6 +14308,62 @@
    "sort_year": 610
   },
   {
+   "id": "work-yuanjing",
+   "title": "《元经》",
+   "title_original": "Yuan Jing（王通，一说后人所补）",
+   "tradition": "china",
+   "date_display": "隋（王通；今本或经后人补续）",
+   "structure": "拟《春秋》而作的编年之书：以“元”为名，寓“以经之法治史”之意。今本残缺，且其中有后人补续之迹，故**作者与成书须分辨**。",
+   "core_arguments": [
+    "**以经法治史**：仿《春秋》书法而褒贬",
+    "**正统之辨**：以“元”统纪，寓王道之续",
+    "**续经之志**：王通以“续六经”自任，此书其一"
+   ],
+   "key_points": [
+    {
+     "locator": "卷首",
+     "point": "以元统纪之义"
+    },
+    {
+     "locator": "编年",
+     "point": "书法与褒贬"
+    },
+    {
+     "locator": "末卷",
+     "point": "正统之辨"
+    },
+    {
+     "locator": "全书",
+     "point": "作者与补续之辨"
+    }
+   ],
+   "editions": [
+    "今本残缺（《四库》本与辑本）；**中译即原本**"
+   ],
+   "related_people": [
+    "cn-suitang-wang-tong",
+    "cn-xianqin-kongzi",
+    "cn-lianghan-dong-zhongshu"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是王通亲笔全本",
+     "why": "今本残缺且**有后人补续之迹**；故须标“作者与补续”之别，本页并记，不裁定。"
+    },
+    {
+     "claim": "其书是“史书”",
+     "why": "其书**拟《春秋》而作**，以书法寓褒贬；故为经学之作（以经法治史），非一般史书。"
+    }
+   ],
+   "sources": [
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据通行研究概述与 SEP 语境性叙述，**未校《元经》原书**；其残缺情况与补续部分的判定须核。",
+   "sort_year": 610
+  },
+  {
    "id": "work-bianzheng-lun",
    "title": "《辨正论》",
    "title_original": "辨正論",
@@ -14938,6 +14994,62 @@
    "needs_verification": true,
    "pending_notes": "本页据 SEP 转述，**未读梵本与藏译**；四品的品次与“遮诠品”的内容须核校订本与研究。",
    "sort_year": 650
+  },
+  {
+   "id": "work-wujing-zhengyi",
+   "title": "《五经正义》",
+   "title_original": "Wu Jing Zheng Yi（孔颖达等奉敕撰）",
+   "tradition": "china",
+   "date_display": "唐（孔颖达等，7世纪中叶）",
+   "structure": "五经各为“正义”：疏解经文与汉魏旧注（《易》王弼注、《书》孔传、《诗》毛郑、《礼》郑注、《春秋》杜注），为唐代官定的经义标准。故其体例是**疏不破注**的官方疏解。",
+   "core_arguments": [
+    "**疏不破注**：疏解以旧注为准，不轻改",
+    "**官定经义**：为科举与国子学的标准本",
+    "**集前代之成**：汇汉魏至隋的注疏而折衷之"
+   ],
+   "key_points": [
+    {
+     "locator": "周易正义",
+     "point": "王弼注的疏解"
+    },
+    {
+     "locator": "尚书正义",
+     "point": "孔传的疏解"
+    },
+    {
+     "locator": "毛诗正义",
+     "point": "毛郑之学的疏解"
+    },
+    {
+     "locator": "礼记·春秋正义",
+     "point": "郑注杜注的疏解"
+    }
+   ],
+   "editions": [
+    "《十三经注疏》本最通行；单行本多种"
+   ],
+   "related_people": [
+    "cn-suitang-kong-yingda",
+    "cn-lianghan-zheng-xuan",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“经文的注释”",
+     "why": "其书是**疏**：疏解的对象是**旧注**（注之注），故须与“注”分辨层级。"
+    },
+    {
+     "claim": "其书代表孔颖达个人的经说",
+     "why": "其书为**奉敕集体撰定**的官本，且以“疏不破注”为准；故不可当作个人著作。"
+    }
+   ],
+   "sources": [
+    "ct-analects",
+    "book-chan-sourcebook"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据通行研究概述，**未校《十三经注疏》本**；五经正义的撰定年代与参与者须核。",
+   "sort_year": 653
   },
   {
    "id": "work-chengweishi",
@@ -16188,6 +16300,62 @@
    "needs_verification": false,
    "pending_notes": "",
    "sort_year": 805
+  },
+  {
+   "id": "work-lidao-yaojue",
+   "title": "《理道要诀》",
+   "title_original": "Li Dao Yao Jue（杜佑）",
+   "tradition": "china",
+   "date_display": "唐（杜佑，9世纪初）",
+   "structure": "《通典》的**节要本**：删繁就简，撮其“理道”（治道）之要，以便观览。故其书是“自撮其要”，与《通典》互为详略。",
+   "core_arguments": [
+    "**治道在制度**：理国之要在于沿革与得失",
+    "**删繁就简**：以节要行世，故其体例为“撮要”",
+    "**经制一贯**：与其《通典》同一宗旨"
+   ],
+   "key_points": [
+    {
+     "locator": "序",
+     "point": "理道之意"
+    },
+    {
+     "locator": "节要",
+     "point": "制度之要"
+    },
+    {
+     "locator": "附论",
+     "point": "与《通典》的关系"
+    },
+    {
+     "locator": "全书",
+     "point": "撮要的体例"
+    }
+   ],
+   "editions": [
+    "原书罕见（有辑本与传抄）；《通典》可参"
+   ],
+   "related_people": [
+    "cn-suitang-du-you",
+    "cn-suitang-liu-zhiji",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是另一部独立的巨著",
+     "why": "其书是**《通典》的节要本**（作者自撮其要）；故不可与《通典》等量齐观。"
+    },
+    {
+     "claim": "其书只是《通典》的抄录",
+     "why": "其去取之间自有**“理道”的取舍**；故为“撮要”而非抄录。"
+    }
+   ],
+   "sources": [
+    "ct-analects",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据通行研究概述，**未见原书全本**；其卷数与今存辑本的来源须核。",
+   "sort_year": 810
   },
   {
    "id": "work-tianshuo",
