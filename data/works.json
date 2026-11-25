@@ -21074,6 +21074,62 @@
    "sort_year": 1300
   },
   {
+   "id": "work-yi-zuanyan",
+   "title": "《易纂言》",
+   "title_original": "Yi Zuan Yan（吴澄）",
+   "tradition": "china",
+   "date_display": "元（吴澄，14世纪初）",
+   "structure": "以“纂言”为体：先列经文，次纂诸家之说，末以己意断之。吴澄遍注群经，其《易》说以义理为主，兼采象数而不为象数所拘。",
+   "core_arguments": [
+    "**以义理为主**：即卦爻以言人事，不事推衍",
+    "**纂言体例**：先经、次诸家、末断以己意，故可辨源流",
+    "**和会朱陆的影子**：说《易》重“心”而不废“象”"
+   ],
+   "key_points": [
+    {
+     "locator": "卷首",
+     "point": "纂言之例"
+    },
+    {
+     "locator": "上经",
+     "point": "卦爻的人事义"
+    },
+    {
+     "locator": "下经",
+     "point": "进退存亡"
+    },
+    {
+     "locator": "系辞以下",
+     "point": "义理的总说"
+    }
+   ],
+   "editions": [
+    "《四库全书》本（通志堂经解系统亦可参）"
+   ],
+   "related_people": [
+    "cn-songming-wu-cheng",
+    "cn-songming-zhu-xi",
+    "cn-songming-lu-jiuyuan"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“象数之学的延续”",
+     "why": "其书以**义理**为主，兼采象数而不为所拘；故与邵雍一系的象数推衍不同。"
+    },
+    {
+     "claim": "“纂言”是抄辑诸家、无所断制",
+     "why": "其体例末以**己意断之**；故“纂”中有“断”，非单纯抄辑。"
+    }
+   ],
+   "sources": [
+    "ws-songyuan-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据《宋元学案·草庐学案》与 SEP 通行叙述，**未校《易纂言》原书**；其分卷与“纂言”例的细则须核《四库全书》本。",
+   "sort_year": 1310
+  },
+  {
    "id": "work-deutsche-predigten",
    "title": "《德语布道集》",
    "title_original": "Deutsche Predigten und Traktate",
@@ -21471,6 +21527,61 @@
    "needs_verification": true,
    "pending_notes": "本页据《明儒学案·河东学案》与 SEP 通行叙述，**未校《读书录》原书**；其条目与分卷须核《四库全书》本。",
    "sort_year": 1450
+  },
+  {
+   "id": "work-xue-wenqing-ji",
+   "title": "《薛文清集》",
+   "title_original": "Xue Wen Qing Ji（薛瑄）",
+   "tradition": "china",
+   "date_display": "明（薛瑄，15世纪中叶）",
+   "structure": "诗文集：含奏疏、书札、序记、诗赋与杂著。其学以《读书录》为主，而集中书札多可见其与人论学之实，故为研究其“复性”“主敬”之说的旁证。",
+   "core_arguments": [
+    "**复性为宗**：学在去蔽以复其初",
+    "**敬通动静**：静存动察，工夫无间断",
+    "**文以载道**：诗文不徒工，须有关于身心"
+   ],
+   "key_points": [
+    {
+     "locator": "书札",
+     "point": "论学之实"
+    },
+    {
+     "locator": "序记",
+     "point": "为学次第"
+    },
+    {
+     "locator": "诗",
+     "point": "理趣与自省"
+    },
+    {
+     "locator": "杂著",
+     "point": "工夫的旁证"
+    }
+   ],
+   "editions": [
+    "《四库全书》本（薛文清公集）"
+   ],
+   "related_people": [
+    "cn-songming-xue-xuan",
+    "cn-songming-zhu-xi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其集只是诗文，无关其学",
+     "why": "集中**书札与序记**多论为学次第与工夫，与《读书录》互为表里；故不可仅作诗文集看。"
+    },
+    {
+     "claim": "其学只在《读书录》一书",
+     "why": "《读书录》为札记体，《集》中书札则见其**与人论学**的一面；二者合观方全。"
+    }
+   ],
+   "sources": [
+    "ws-mingru-xuean",
+    "sep-chinese-metaphysics"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据《明儒学案·河东学案》与 SEP 通行叙述，**未校《薛文清集》原书**；其卷次与书札年代须核《四库全书》本。",
+   "sort_year": 1460
   },
   {
    "id": "work-baishaji",
@@ -23006,6 +23117,63 @@
    ],
    "needs_verification": true,
    "pending_notes": "《少室山房笔丛》的卷数（通行四十八卷）与所收子目须核中华书局影印本；《四部正讹》的辨伪八法亦须核。",
+   "sort_year": 1590
+  },
+  {
+   "id": "work-cangshu",
+   "title": "《藏书》",
+   "title_original": "Cang Shu（李贽）",
+   "tradition": "china",
+   "date_display": "明（李贽，16世纪末）",
+   "structure": "以纪传体评骘历代人物：分“世纪”“列传”，各系以论。其体例借史传之体而行“论世”之实，故名为“藏书”，意谓“非一时之公论，藏以待后”。",
+   "core_arguments": [
+    "**不以孔子之是非为是非**：评骘人物依其行事，不依名教",
+    "**“童心”标准**：真与假之分，在是否出于本心",
+    "**史论即政论**：借古人以议当世"
+   ],
+   "key_points": [
+    {
+     "locator": "世纪",
+     "point": "帝王之评"
+    },
+    {
+     "locator": "列传",
+     "point": "名臣与异端"
+    },
+    {
+     "locator": "论",
+     "point": "以童心断其真伪"
+    },
+    {
+     "locator": "全书",
+     "point": "藏以待后之意"
+    }
+   ],
+   "editions": [
+    "明刻本；今有校点本（中华书局等）"
+   ],
+   "related_people": [
+    "cn-songming-li-zhi",
+    "cn-songming-wang-yangming",
+    "cn-xianqin-kongzi"
+   ],
+   "misreadings": [
+    {
+     "claim": "其书是“史考”",
+     "why": "其书借史传之体行**论世**之实，所重在“论”而不在考；故为史论，非史考。"
+    },
+    {
+     "claim": "“不以孔子之是非为是非”＝否定孔子",
+     "why": "其语所反者是**以孔子之是非为唯一标准**的独断，而非孔子其人；此点最易误读。"
+    }
+   ],
+   "sources": [
+    "sep-chinese-metaphysics",
+    "ct-analects",
+    "ws-mingru-xuean"
+   ],
+   "needs_verification": true,
+   "pending_notes": "本页据 SEP 中国形而上学条目与通行研究概述；《藏书》的分卷与“世纪”“列传”之目**未校原书**；李贽不入《明儒学案》，故《学案》仅可作旁证。",
    "sort_year": 1590
   },
   {
