@@ -14,7 +14,7 @@ cd zhexue
 
 python tools/check.py          # 期望：错误 0（警告为信息性，可忽略）
 python tools/gen_state.py      # 生成 coverage.json（唯一真源）
-python tools/gen_site.py       # 生成 site/：约 1789 页
+python tools/gen_site.py       # 生成 site/：约 1790 页
 python tools/check_links.py    # 期望：断链 0
 python -m http.server -d site 8000   # 打开 http://localhost:8000
 ```
