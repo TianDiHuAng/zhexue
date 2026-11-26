@@ -9,6 +9,7 @@
 ![Pages](https://img.shields.io/badge/页面-1789-1e2d3d)
 
 > **在线站点：<https://tiandihuang.github.io/zhexue/>**
+> 想改内容/接手维护：先读 [HANDBOOK.md](HANDBOOK.md)（实现细节与交接手册）。
 > 也可 `git clone` 后直接双击 `site/index.html` —— 无外部依赖、无构建产物运行时、无 JavaScript。
 
 ---
@@ -137,6 +138,7 @@ python tools/check_links.py    # 断链须 0
 
 | 文件 | 内容 |
 |---|---|
+| [`HANDBOOK.md`](HANDBOOK.md) | **实现细节与交接手册**：数据字段字典／R1—R23 规则表／工具契约／SOP／发布运维／故障排查／交接清单 |
 | [`DELIVERY.md`](DELIVERY.md) | **交付状态总表**：七项目标逐条核对＋「这个库不做什么」五条＋最终验收 |
 | [`DECISIONS.md`](DECISIONS.md) | 关键决策 D1—D84（含每条规则的动因） |
 | [`VERIFIED.md`](VERIFIED.md) | 已核记录：据哪个来源、核到什么、还差什么 |

@@ -7,19 +7,19 @@
     python tools/check.py --file data/china/cn-xianqin.json
     python tools/check.py --quiet         # 只打印汇总
 
-规则（与 DECISIONS.md 对应）：
-  R1  必填字段非空                      R11 内部链接目标存在（图/概念/争论的 id）
-  R2  年份合法（含公元前、生卒顺序）      R12 双源规则（≥2 且 verified）
-  R3  来源 id 必须存在于 sources.json     R13 流派页结构
-  R4  引文必须有原典出处 + 长度上限       R14 概念用法差异（≥2 位，且说法不同）
-  R5  重复检测（单元内同名 / 全局 id）    R15 争论结构（≥2 方 + 焦点 + 定论说明）
-  R6  SVG 合法性（XML/白名单/越界）       R16 id 字符集 a-z0-9-
-  R21 概念层级 broader（同单元／不成环）  R22 影响链关系类型白名单
-  R23 著作年代异说 date_note（≥10 字）
-  R7  计数限制（哲学家 4-8 / 概念 6-10 / 争论 2-3）
-  R8  year_display 与 year 一致
-  R9  全局 id 唯一
-  R10 needs_verification 与 pending_notes 联动
+规则（与 DECISIONS.md 对应；此处以代码实现为准）：
+  R1  必填字段非空                      R11 内部引用目标存在（含概念 related 须同单元）
+  R2  年份合法（整数／生≤卒／单元范围）    R12 双源规则（≥2；不足须 needs_verification+pending）
+  R3  来源 id 必须存在且 verified=true     R13 流派页结构与 kind 取值
+  R4  引文须有出处，且来源类型须为「原典」  R14 概念用法差异（≥2 位，且说法不同）
+  R5  单元内同名检测                      R15 争论结构（≥2 方＋焦点＋定论说明）
+  R6  SVG 合法性（XML/白名单/越界）        R16 id 字符集 a-z0-9-
+  R7  单元计数（哲学 4-60／概念 6-30／争论 2-12）
+  R8  *_display 与 year 一致              R17 著作总量与必填字段
+  R9  全局 id 唯一                        R18 比较篇数量与必填字段
+  R10 needs_verification 与 pending 联动  R19 doctrine 四字段／works_detail 必填
+  R20 著作引文结构与「原典」限定           R21 概念层级 broader（同单元／不成环）
+  R22 影响链关系类型白名单                R23 著作年代异说 date_note（≥10 字）
 """
 import argparse
 import glob
