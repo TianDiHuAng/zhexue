@@ -1,6 +1,6 @@
 {
- "last_health_check_round": 449,
+ "last_health_check_round": 450,
  "health_check_every": 5,
  "next_health_check_round": 454,
- "note": "F步体检每5轮一次；第53—92次按点执行（…434、439、444、449轮）。含 relcheck SUSPECT 与 authcheck CANDIDATE。"
+ "note": "F步体检每5轮一次；第53—93次按点执行（…439、444、449 之后，第450轮为撤页复检）。"
 }

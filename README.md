@@ -33,8 +33,8 @@
 | 流派 | **49** |
 | 经典著作页 | **785** |
 | 比较视野 | **243** |
-| 页面总数 | **1790** |
-| 内部链接 / 断链 | **57950 / 0** |
+| 页面总数 | **1789** |
+| 内部链接 / 断链 | **56139 / 0** |
 | 来源 | **432（全部实开核验，`verified: true`）** |
 | 常见误读条目 | **2295**（哲学家页合计 709 条，**无一人少于 4 条**） |
 | 概念层级 `broader` | 199 / 467（43%） |
@@ -60,7 +60,7 @@
 
 ```
 data/                    tools/                      site/
-├─ china/*.json   ──►    check.py（22 条规则）   ──►  1789 个静态 HTML
+├─ china/*.json   ──►    check.py（23 条规则）   ──►  1789 个静态 HTML
 ├─ west/*.json           gen_state.py → coverage.json     纯 HTML + CSS
 ├─ india/*.json          gen_site.py                  零 JS、可离线
 ├─ schools.json          check_links.py（断链须 0）
@@ -86,11 +86,11 @@ python tools/check_links.py    # 断链须 0
 
 | 工具 | 作用 | 当前结果 |
 |---|---|---|
-| `tools/check.py` | 22 条内容规则（双源、引文出处、概念层级不成环、关系白名单…） | **错误 0**，警告 312 |
+| `tools/check.py` | 23 条内容规则（双源、引文出处、概念层级不成环、关系白名单…） | **错误 0**，警告 312 |
 | `tools/dupcheck.py` | id／拉丁名／标题／概念 查重 | 无重复 |
 | `tools/refcheck.py` | 所有 id 引用可解析 | 全部有效 |
 | `tools/srccheck.py` | 来源登记结构自洽 | 432 条自洽 |
-| `tools/check_links.py` | 内部链接 | 57950 条，**断链 0** |
+| `tools/check_links.py` | 内部链接 | 56139 条，**断链 0** |
 | `tools/relcheck.py` | 著作→人物的「无据挂靠」 | **SUSPECT 0** |
 | `tools/authcheck.py` | 著作页是否挂上作者本人 | **CANDIDATE 0** |
 | `tools/gapscan.py` | 年代空档扫描 | 中国无空档；其余见 `GAP_SCAN.md` |

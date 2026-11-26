@@ -55,7 +55,6 @@ NAV = ([("首页", "")]
     ("流派", "schools/"), ("著作", "works/"), ("比较视野", "comparative.html"),
     ("误读索引", "misreadings.html"), ("世纪视图", "timeline/century.html"),
     ("谱系总图", "graph.html"), ("来源", "sources/"), ("体例", "about.html"),
-    ("实现", "implement.html"),
 ])
 
 
@@ -863,11 +862,7 @@ def render_about(units, people, concepts, debates, sources, works):
             "<tr><td>来源</td><td>%d（已验证 %d）</td></tr></table>"
             % (len(units), len(people), len(concepts), len(debates), len(sources),
                sum(1 for s in sources.values() if s.get("verified"))),
-            "<h2>八、实现细节</h2>",
-            "<p>想改这个库、或想知道页面是怎么从 JSON 生成的，见 <a href=\"%simplement.html\">实现说明</a>："
-            "四层架构、生产流水线、字段约束、R1—R23 规则、工具分工与常见故障。"
-            "仓库里的 <code>HANDBOOK.md</code> 是它的完整版。</p>" % rel(d),
-            "<h2>九、免责</h2>",
+            "<h2>八、免责</h2>",
             "<p>本站用于学习与索引，不构成学术结论。任何引用请回到原典与所标注的专业研究，"
             "并核对紙本版本的页码。</p>"]
     return page("方法与体例", d, "体例", "\n".join(body))
@@ -994,170 +989,6 @@ def render_region(units, region, label):
 
 
 
-# ------------------------------------------------------------------ 实现说明
-def _svg_arch():
-    """四层架构图：data → tools → site → Pages（单向）"""
-    box = ('<rect x="%d" y="%d" width="%d" height="%d" rx="8" fill="#f8fbfe" '
-           'stroke="#c5d8e8" stroke-width="2"/>')
-    ttl = ('<text x="%d" y="%d" font-size="17" font-weight="700" fill="#1c3a5c" '
-           'text-anchor="middle" font-family="inherit">%s</text>')
-    sub = ('<text x="%d" y="%d" font-size="12.5" fill="#5b7a96" '
-           'text-anchor="middle" font-family="inherit">%s</text>')
-    arrow = ('<polygon points="%d,%d %d,%d %d,%d" fill="#4a7ba6"/>')
-    out = ['<svg viewBox="0 0 940 300" role="img" aria-label="四层架构：数据层到发布层">']
-    cols = [(20, "数据层", ["data/**", "sources.json", "唯一内容源"]),
-            (255, "校验层", ["tools/*.py", "23 条规则＋查重", "不通过则不出站"]),
-            (490, "生成层", ["gen_state / gen_site", "确定性渲染", "零 JS、纯 HTML+CSS"]),
-            (725, "发布层", ["site/** → artifact", "GitHub Pages", "tiandihuang.github.io"])]
-    for x, name, lines in cols:
-        out.append(box % (x, 60, 195, 150))
-        out.append(ttl % (x + 97, 96, name))
-        for i, line in enumerate(lines):
-            out.append(sub % (x + 97, 128 + i * 24, line))
-    for x in (215, 450, 685):
-        out.append(arrow % (x, 135, x + 34, 128, x + 34, 142))
-    out.append(sub % (470, 246, "单向依赖：只改 data／tools／sources，永不手改 site（产物每次重建）"))
-    out.append('</svg>')
-    return "".join(out)
-
-
-def _svg_pipeline():
-    """生产流水线：写数据 → 校验 → 生成 → 链检查 → 提交 → CI → 部署"""
-    steps = ["写数据", "check.py", "gen_state", "gen_site", "check_links",
-             "提交 push", "CI build", "deploy Pages"]
-    out = ['<svg viewBox="0 0 940 210" role="img" aria-label="生产流水线">']
-    w, gap = 104, 12
-    x = 12
-    for i, name in enumerate(steps):
-        fill = "#eaf3fb" if i < 6 else "#e6f0e8"
-        stroke = "#4a7ba6" if i < 6 else "#4a7d50"
-        out.append('<rect x="%d" y="70" width="%d" height="58" rx="7" fill="%s" stroke="%s" stroke-width="2"/>'
-                   % (x, w, fill, stroke))
-        out.append('<text x="%d" y="96" font-size="12.5" font-weight="600" fill="#1e2d3d" '
-                   'text-anchor="middle" font-family="inherit">%s</text>' % (x + w // 2, name))
-        if i < len(steps) - 1:
-            ax = x + w + 3
-            out.append('<polygon points="%d,99 %d,92 %d,106" fill="#8aa9c2"/>' % (ax, ax + 7, ax + 7))
-        x += w + gap
-    out.append('<text x="470" y="40" font-size="13" fill="#5b7a96" text-anchor="middle" '
-               'font-family="inherit">硬门槛：check 错误 0 → 断链 0 → 查重无重复 → 引用全有效</text>')
-    out.append('<text x="470" y="172" font-size="12.5" fill="#5b7a96" text-anchor="middle" '
-               'font-family="inherit">CI 与本地同序；部署遇 Pages 偶发 5xx 会自动等 15 秒重试一次</text>')
-    out.append('</svg>')
-    return "".join(out)
-
-
-def render_implement(units, people, concepts, debates, schools, sources, works, essays):
-    d = 0
-    n_people = len(people)
-    n_con = len(concepts)
-    n_deb = len(debates)
-    n_sch = len(schools)
-    n_src = len(sources)
-    n_work = len(works)
-    n_cmp = len(essays)
-    n_brd = sum(1 for c in concepts.values() if c.get("broader"))
-    n_ver = sum(1 for x in sources.values() if x.get("verified"))
-    body = [
-        "<h1>实现说明</h1>",
-        "<p>这一页写给<b>要改这个库的人</b>：架构、数据长什么样、规则怎么守、坏了怎么修。"
-        "仓库里的 <code>HANDBOOK.md</code> 是同一份说明的完整版（含字段字典与逐条 SOP），本页是站点版摘要。</p>",
-
-        "<h2>一、四层架构</h2>",
-        "<figure>" + _svg_arch() + "</figure>",
-        "<p>四层<b>单向依赖</b>：内容只写在 <code>data/</code> 与 <code>sources.json</code>；"
-        "<code>tools/</code> 负责校验与渲染；<code>site/</code> 是产物（也提交进仓库，那只是为了能离线双击打开，"
-        "CI 每次会用数据重新生成一遍）。<b>改内容永远只改 data，不改 site。</b></p>",
-
-        "<h2>二、生产流水线</h2>",
-        "<figure>" + _svg_pipeline() + "</figure>",
-        "<p>顺序固定（D53）：<b>写数据 → 校验 → 生成状态 → 生成站点 → 链检查 → 提交</b>。"
-        "改完数据跳过 <code>check.py</code> 直接生成，是这份工程最常见的错误来源。</p>",
-
-        "<h2>三、数据模型（字段速览）</h2>",
-        "<table><tr><th>对象</th><th>数量</th><th>关键字段与约束</th></tr>"
-        "<tr><td>时期单元</td><td>%d</td><td><code>start_year</code> 须早于 <code>end_year</code>；"
-        "每单元哲学家 4—60、概念 6—30、争论 2—12（R7）</td></tr>"
-        "<tr><td>哲学家</td><td>%d</td><td>九节俱全；<code>arguments[].kind</code> 只能取「原文／后人解读」；"
-        "影响链关系词走白名单（R22）；<code>sources</code> ≥2 且皆已核验（R12）</td></tr>"
-        "<tr><td>概念</td><td>%d（其中 %d 有上位）</td><td><code>usages</code> ≥2 位且说法必须不同（R14）；"
-        "<code>related</code> 只能指本单元（R11）；<code>broader</code> 同单元且不成环（R21）</td></tr>"
-        "<tr><td>争论</td><td>%d</td><td><code>positions</code> ≥2 方，另有 <code>focus</code> 与 <code>status</code>（R15）</td></tr>"
-        "<tr><td>流派</td><td>%d</td><td><code>rise</code>／<code>decline</code> 必填（R13）</td></tr>"
-        "<tr><td>著作</td><td>%d</td><td><code>related_people</code> 须含作者本人；<code>misreadings</code> ≥2；"
-        "年代有异说须 <code>date_note</code> ≥10 字（R23）</td></tr>"
-        "<tr><td>比较视野</td><td>%d</td><td>分节文字有最小长度（R18）；<code>pending_notes</code> 必填</td></tr>"
-        "<tr><td>来源</td><td>%d（已验证 %d）</td><td><code>type</code> 只能取 原典／百科／论文／学术著作；"
-        "<code>verified</code> 仅在实开核验后为真</td></tr></table>"
-        % (len(units), n_people, n_con, n_brd, n_deb, n_sch, n_work, n_cmp, n_src, n_ver),
-
-        "<h2>四、校验规则 R1—R23</h2>",
-        "<p><code>tools/check.py</code> 的 23 条规则，每条报错都带规则号。最常踩的八条：</p>",
-        "<table><tr><th>规则</th><th>内容</th><th>最容易怎么踩</th></tr>"
-        "<tr><td>R10</td><td><code>needs_verification</code> 与 <code>pending_notes</code> 联动</td>"
-        "<td>写了「待核」却把标记留成 false</td></tr>"
-        "<tr><td>R11</td><td>内部引用目标必须存在（概念 <code>related</code> 须同单元）</td>"
-        "<td>引用了别单元的概念 id</td></tr>"
-        "<tr><td>R12</td><td>双源 ≥2；不足须同时标待核并写明待核内容</td><td>单源条目直接提交</td></tr>"
-        "<tr><td>R14</td><td>概念用法 ≥2 位且说法不同</td><td>两个人写成同一句话</td></tr>"
-        "<tr><td>R19</td><td><code>doctrine</code> 四字段／<code>works_detail</code> 三个必填</td>"
-        "<td>只写书名与备注</td></tr>"
-        "<tr><td>R21</td><td><code>broader</code> 同单元、不成环</td><td>跨单元挂父、A→B→A</td></tr>"
-        "<tr><td>R22</td><td>影响链关系词白名单</td><td>写「影响深远」这类自由词</td></tr>"
-        "<tr><td>R23</td><td>年代异说须 <code>date_note</code> ≥10 字</td><td>有异说而不注明</td></tr></table>",
-
-        "<h2>五、工具分工</h2>",
-        "<table><tr><th>工具</th><th>职责</th><th>门槛</th></tr>"
-        "<tr><td><code>check.py</code></td><td>字段、年份、双源、引文、SVG、层级、关系词</td><td>错误 <b>0</b></td></tr>"
-        "<tr><td><code>dupcheck.py</code></td><td>id／拉丁名／标题／概念查重</td><td>无重复</td></tr>"
-        "<tr><td><code>refcheck.py</code></td><td>全库 id 引用可解析</td><td>全部有效</td></tr>"
-        "<tr><td><code>srccheck.py</code></td><td>来源登记结构自洽</td><td>通过</td></tr>"
-        "<tr><td><code>check_links.py</code></td><td>站点内部链接</td><td>断链 <b>0</b></td></tr>"
-        "<tr><td><code>relcheck.py</code></td><td>著作→人物的「无据挂靠」</td><td>SUSPECT 0</td></tr>"
-        "<tr><td><code>authcheck.py</code></td><td>著作页是否挂上作者本人</td><td>CANDIDATE 0</td></tr>"
-        "<tr><td><code>gapscan / thincheck</code></td><td>年代空档、代表作单薄者</td><td>信息性</td></tr>"
-        "<tr><td><code>debtcheck / debtclass</code></td><td>待核实清单与「为何待核」的分类</td><td>信息性</td></tr></table>",
-
-        "<h2>六、加一条内容的顺序</h2>",
-        "<ol class=\"tight\">"
-        "<li><b>先查重</b>：新建实体前断言 id 与标题全库不存在（D60／D61）——跨区域撞名是最高频返工。</li>"
-        "<li><b>写数据</b>：在对应单元 JSON 里加对象，字段按上表补齐。</li>"
-        "<li><b>补来源</b>：须实开核验后才置 <code>verified: true</code>；抓不到就不登记，"
-        "并把实测结果写进仓库的 <code>BACKLOG_SOURCES.md</code>。</li>"
-        "<li><b>跑校验</b>：<code>check.py</code> 逐条清零（警告不必清零，但别为清零而注水）。</li>"
-        "<li><b>重生成</b>：<code>gen_state.py</code> → <code>gen_site.py</code> → <code>check_links.py</code>。</li>"
-        "<li><b>更新派生清单</b>：<code>relcheck</code>／<code>authcheck</code>／<code>gapscan</code>／"
-        "<code>thincheck</code>／<code>debtcheck</code>。</li></ol>",
-
-        "<h2>七、数字口径</h2>",
-        "<p>一切统计以 <code>coverage.json</code>（<code>gen_state.py</code> 生成）与各工具输出为准，<b>不抄记忆</b>。"
-        "特别提醒：「待核实用量」有两个口径 —— <code>DEBT.md</code>（人物／著作／比较）与 "
-        "<code>DEBT_CLASSES.md</code>（另含概念与争论），<b>两者不可相减</b>。</p>",
-
-        "<h2>八、常见故障</h2>",
-        "<table><tr><th>现象</th><th>原因与处理</th></tr>"
-        "<tr><td><code>'str' object has no attribute 'get'</code></td>"
-        "<td>把 dict 列表误写成字符串列表（如 <code>works</code>）→ 改回 dict 列表</td></tr>"
-        "<tr><td><code>SyntaxError: invalid character</code></td>"
-        "<td>脚本里用英文引号套中文引号 → 改用「」，或写成 .py 文件再跑</td></tr>"
-        "<tr><td>部署报 <code>status: 500</code></td>"
-        "<td>GitHub Pages 接口瞬时故障，与内容无关 → 重跑；CI 已内置一次重试</td></tr>"
-        "<tr><td>断链突然大于 0</td><td>删页或改 id 后未重生成 → 重跑 <code>gen_site.py</code></td></tr>"
-        "<tr><td>ctext 抓不到页面</td><td>该站明确禁止抓取 → 不抓；换维基文库或纸本，或标待核</td></tr></table>",
-
-        "<h2>九、接手第一天做什么</h2>",
-        "<ol class=\"tight\">"
-        "<li>读仓库的 <code>README.md</code>（是什么）→ <code>DELIVERY.md</code>（到哪了）→ "
-        "<code>HANDBOOK.md</code>（怎么动）→ <code>DECISIONS.md</code>（为什么这样定规矩）。</li>"
-        "<li>本地跑通六条命令：<code>check</code>／<code>gen_state</code>／<code>gen_site</code>／"
-        "<code>check_links</code>／<code>dupcheck</code>／<code>refcheck</code>，确认全绿。</li>"
-        "<li>看一次 <a href=\"" + rel(d) + "sources/\">来源列表</a> 的核验状态，以及 "
-        "<a href=\"" + rel(d) + "misreadings.html\">误读索引</a> 的写法。</li>"
-        "<li>动手前记住三句：<b>宁可少一页，不破一条规矩；空着比填错好；宁可不挂，不乱挂。</b></li></ol>",
-    ]
-    return page("实现说明", d, "实现", "\n".join(body))
-
-
 # ------------------------------------------------------------------ main
 def write(relpath, content):
     path = os.path.join(SITE, relpath)
@@ -1177,7 +1008,7 @@ def main():
         p = os.path.join(SITE, name)
         if os.path.isdir(p):
             shutil.rmtree(p)
-    for f in ("index.html", "about.html", "graph.html", "implement.html", "comparative.html"):
+    for f in ("index.html", "about.html", "graph.html", "comparative.html"):
         p = os.path.join(SITE, f)
         if os.path.exists(p):
             os.remove(p)
@@ -1189,7 +1020,6 @@ def main():
     write("index.html", render_home(units, people, concepts, debates, schools, sources))
     write("about.html", render_about(units, people, concepts, debates, sources, works))
     write("graph.html", render_graph(units, people))
-    write("implement.html", render_implement(units, people, concepts, debates, schools, sources, works, essays))
 
     for region, label in present_regions():
         write("%s/index.html" % region, render_region(units, region, label))
