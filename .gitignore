@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+_tmp_*.py
+tools/_tmp_*.py
+.DS_Store

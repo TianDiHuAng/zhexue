@@ -1,7 +1,11 @@
 name: Deploy to GitHub Pages
 
 # 站点是纯静态 HTML+CSS（零 JS、离线可用），由 tools/gen_site.py 从 data/*.json 确定性生成。
-# 本工作流：跑校验 → 生成 site/ → 发布到 GitHub Pages。
+# 本工作流：跑校验 → 生成 site/ → 上传 artifact → 发布到 GitHub Pages。
+#
+# 说明：GitHub Pages 的「创建部署」接口偶发 500（annotation 原文即建议"稍后重跑"）。
+# 故 deploy 采用「失败 → 等 15 秒 → 重试一次」的写法，把瞬时故障兜住；
+# 两次都失败才判定为真失败（末步 exit 1）。
 
 on:
   push:
@@ -62,7 +66,30 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url }}
     steps:
-      - id: deployment
+      - name: 部署到 GitHub Pages（首次尝试）
+        id: deployment
         uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: 等待 15 秒（Pages 偶发 5xx 退避）
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 15
+
+      - name: 重试部署（一次）
+        id: deployment_retry
+        if: steps.deployment.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+
+      - name: 判定结果（两次都失败才算失败）
+        if: always()
+        run: |
+          first="${{ steps.deployment.outcome }}"
+          retry="${{ steps.deployment_retry.outcome }}"
+          echo "首次：$first；重试：$retry"
+          if [ "$first" = "failure" ] && [ "$retry" != "success" ]; then
+            echo "::error::GitHub Pages 部署两次均失败，请查看 annotation 与 githubstatus.com"
+            exit 1
+          fi
+          echo "部署成功（首次=$first，重试=$retry）"

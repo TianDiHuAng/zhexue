@@ -27,3 +27,11 @@
 ## v1.0（第 1—99 轮）
 - 8 个单元、90 位哲学家、121 概念；322 页、177 来源。
 - 纯静态零 JS 站点骨架（`gen_site.py`）、校验器首版（`check.py`）、链接核验（`check_links.py`）。
+
+## 第 447 轮（交付整理）
+
+- **重写 `README.md`**：作为项目门面（在线站点链接、徽章、规模表、页面类型、数据→站点流程图、本地运行命令、质量关口表、部署说明、体例、诚实边界、文档索引）
+- **新增 `.gitignore`**：忽略 `__pycache__/`、`*.pyc`、`_tmp_*.py`、`tools/_tmp_*.py`、`.DS_Store`
+- **清理**仓库内遗留的一次性脚本：`_tmp_add_pascal.py`、`tools/_tmp_add_{pascal,engels,kripke}.py`，以及被误提交的 `tools/__pycache__/*.pyc`
+- **`pages.yml` 增加部署重试**：`deploy-pages` 首次失败 → 等 15 秒 → 重试一次；两次都失败才判定失败（应对 GitHub Pages 接口偶发 500）
+- 复跑校验：`check.py` 错误 0／1789 页／56139 链接 0 断链／查重无重复
